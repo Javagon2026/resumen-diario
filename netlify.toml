@@ -1,0 +1,15 @@
+[build]
+  publish = "site"
+  # El sitio ya viene generado en el repo; el build solo sintetiza el audio (edge-tts).
+  # Nunca hace fallar el deploy: si el audio no sale, la página usa la voz del navegador.
+  command = "(pip install -r requirements.txt && python3 tools/make_audio.py) || true"
+
+[[headers]]
+  for = "/audio/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

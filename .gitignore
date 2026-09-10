@@ -1,0 +1,8 @@
+# material crudo de cada corrida (se regenera)
+data/raw/
+# audio: lo genera Netlify en el build, no va al repo
+site/audio/*.mp3
+site/audio/*.tmp.mp3
+__pycache__/
+*.pyc
+.DS_Store
