@@ -269,6 +269,14 @@ def main():
     for e in errores:
         print("AVISO", e, file=sys.stderr)
 
+    # Series de mercado (oro, dólar, riesgo país, inflación) para el panel de indicadores.
+    try:
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import fetch_markets
+        fetch_markets.main()
+    except Exception as e:
+        print(f"AVISO mercados: no se pudieron actualizar las series ({e})", file=sys.stderr)
+
 
 if __name__ == "__main__":
     main()

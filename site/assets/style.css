@@ -60,6 +60,30 @@ main { padding-top: 1.4rem; padding-bottom: 2rem; }
 .hero h1 { font-family: var(--serif); font-size: clamp(1.7rem, 4.5vw, 2.5rem); line-height: 1.15; margin: 0 0 .7rem; letter-spacing: -.015em; }
 .apertura { font-size: 1.12rem; color: var(--ink); margin: 0 0 1.5rem; }
 
+/* mercados e indicadores */
+.mercados { margin: .4rem 0 1.4rem; }
+.mercados h2 { font-family: var(--serif); font-size: 1.2rem; margin: 0 0 .6rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem .8rem; }
+.mercados h2 small { font-family: var(--sans); font-weight: 400; font-size: .75rem; color: var(--muted); }
+.mercados .grilla { display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: .6rem; }
+.mercado { background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: .65rem .8rem .6rem; display: flex; flex-direction: column; gap: .25rem; min-width: 0; }
+.mercado header { display: flex; flex-direction: column; line-height: 1.25; }
+.mercado .n { font-weight: 700; font-size: .9rem; }
+.mercado .d { font-size: .72rem; color: var(--muted); }
+.mercado .valor { font-size: 1.45rem; font-variant-numeric: tabular-nums; letter-spacing: -.01em; }
+.mercado .stale { color: #d9a400; font-size: .8rem; }
+.spark { width: 100%; height: 44px; display: block; }
+.spark .linea { stroke-width: 1.6; vector-effect: non-scaling-stroke; }
+.spark.pos .linea, .spark.pos .barra { stroke: #1b8a4c; fill: #1b8a4c; }
+.spark.neg .linea, .spark.neg .barra { stroke: var(--accent); fill: var(--accent); }
+.spark.pos .linea { fill: none; } .spark.neg .linea { fill: none; }
+.spark .area { opacity: .12; }
+.spark.pos .area { fill: #1b8a4c; } .spark.neg .area { fill: var(--accent); }
+.spark .barra { opacity: .45; } .spark .barra.ultima { opacity: 1; }
+.mercado .vars { display: grid; grid-template-columns: repeat(2, 1fr); gap: .15rem .6rem; font-size: .78rem; font-variant-numeric: tabular-nums; }
+.mercado .var { display: flex; justify-content: space-between; gap: .4rem; font-weight: 600; }
+.mercado .var em { font-style: normal; font-weight: 400; color: var(--muted); }
+.mercado .var.pos { color: #1b8a4c; } .mercado .var.neg { color: var(--accent); } .mercado .var.neutro { color: var(--muted); }
+
 /* cifras del día */
 .cifras { display: flex; flex-wrap: wrap; gap: .5rem; padding: .2rem 0 .6rem; margin: -.4rem 0 .6rem; }
 .cifra { flex: 1 1 10rem; background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: .45rem .75rem; display: flex; flex-direction: column; min-width: 7.5rem; }

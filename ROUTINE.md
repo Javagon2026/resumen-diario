@@ -73,10 +73,14 @@ Reglas del esquema:
 - `relacionadas`: ids de otras fuentes que cubren la misma noticia (se muestran como
   "También en: Clarín · Infobae"). Usalo para no repetir la misma noticia en dos tarjetas.
 - Preferí como `id` principal la nota con imagen y cuerpo más completo.
-- `cifras`: 4 a 8 indicadores **que aparezcan textualmente en el material crudo** (dólar oficial,
-  blue, MEP, riesgo país, Merval, inflación, tasa, reservas, precio del petróleo, etc.). Cada uno
-  con su `fuente` (id). `variacion` es opcional. Si el material no trae cifras, dejá la lista vacía.
-  Nunca inventes ni estimes un valor.
+- `cifras`: 3 a 6 indicadores **que aparezcan textualmente en el material crudo** y que NO estén ya
+  en el panel automático de mercados (ese panel ya trae oro, dólar oficial, blue, MEP, mayorista,
+  riesgo país e inflación con su evolución; lo genera `tools/fetch_markets.py` solo). Candidatos:
+  Merval, petróleo, tasas de interés, reservas del BCRA, recaudación, índice Construya, despachos de
+  cemento, ventas minoristas, etc. Cada uno con su `fuente` (id). `variacion` es opcional. Si el
+  material no trae cifras nuevas, dejá la lista vacía. Nunca inventes ni estimes un valor.
+- En el guion de audio podés citar los valores del panel de mercados leyendo `data/mercados.json`
+  (último punto de cada serie) para abrir con "el dólar oficial cerró en..., el oro cotiza a...".
 
 ## Secciones (en este orden; omití una sección si no hay material)
 

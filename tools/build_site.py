@@ -9,7 +9,7 @@ no depende del material crudo) y genera:
   site/ediciones/<slug>.html, site/index.html, site/archivo.html
 """
 import html, json, re, shutil, sys
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -165,6 +165,161 @@ def render_nota(n):
 </article>'''
 
 
+# ---------- panel de mercados (oro, dólar, riesgo país, inflación) ----------
+
+MERCADOS = ROOT / "data" / "mercados.json"
+ORDEN_MERCADOS = ["oro", "dolar_oficial", "dolar_blue", "dolar_mep", "dolar_mayorista",
+                  "riesgo_pais", "inflacion_mensual", "inflacion_interanual"]
+MESES_CORTOS = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
+
+
+def fmt_num(v, decimales=0):
+    """Formato argentino: miles con punto, decimales con coma."""
+    s = f"{abs(v):,.{decimales}f}".replace(",", "X").replace(".", ",").replace("X", ".")
+    return ("-" if v < 0 else "") + s
+
+
+def fmt_valor(v, unidad, decimales):
+    n = fmt_num(v, decimales)
+    if unidad == "%":
+        return n + "%"
+    if unidad == "pb":
+        return n + " pb"
+    return unidad + " " + n
+
+
+def valor_en(pts, fecha_obj):
+    """Último punto con fecha <= fecha_obj (o None)."""
+    objetivo = fecha_obj.strftime("%Y-%m-%d")
+    ultimo = None
+    for f, v in pts:
+        if f <= objetivo:
+            ultimo = v
+        else:
+            break
+    return ultimo
+
+
+def variacion(actual, base, unidad):
+    if base is None or base == 0:
+        return None
+    if unidad in ("%", "pb"):
+        # en puntos porcentuales / puntos básicos, no en porcentaje del porcentaje
+        d = actual - base
+        suf = " p.p." if unidad == "%" else " pb"
+        return ("+" if d > 0 else "") + fmt_num(d, 1 if unidad == "%" else 0) + suf, d
+    p = (actual / base - 1) * 100
+    return ("+" if p > 0 else "") + fmt_num(p, 1) + "%", p
+
+
+def sparkline(pts, bajo_es_bueno=False, mensual=False):
+    vals = [v for _, v in pts]
+    if len(vals) < 2:
+        return ""
+    w, h, pad = 160, 44, 3
+    mn, mx = min(vals), max(vals)
+    rango = (mx - mn) or 1
+    sube = vals[-1] >= vals[0]
+    bueno = (not sube) if bajo_es_bueno else sube
+    clase = "pos" if bueno else "neg"
+    if mensual:
+        n = len(vals)
+        bw = (w - pad * 2) / n
+        barras = []
+        base_y = h - pad
+        for i, v in enumerate(vals):
+            alto = (v - min(mn, 0)) / ((mx - min(mn, 0)) or 1) * (h - pad * 2)
+            x = pad + i * bw
+            ult = " ultima" if i == n - 1 else ""
+            barras.append(f'<rect class="barra{ult}" x="{x + bw * 0.15:.1f}" y="{base_y - alto:.1f}" width="{bw * 0.7:.1f}" height="{alto:.1f}" rx="1"/>')
+        return f'<svg class="spark {clase}" viewBox="0 0 {w} {h}" preserveAspectRatio="none" aria-hidden="true">{"".join(barras)}</svg>'
+    n = len(vals)
+    puntos = []
+    for i, v in enumerate(vals):
+        x = pad + (w - pad * 2) * i / (n - 1)
+        y = h - pad - (v - mn) / rango * (h - pad * 2)
+        puntos.append(f"{x:.1f},{y:.1f}")
+    linea = " ".join(puntos)
+    area = f"{pad},{h - pad} " + linea + f" {w - pad},{h - pad}"
+    return (f'<svg class="spark {clase}" viewBox="0 0 {w} {h}" preserveAspectRatio="none" aria-hidden="true">'
+            f'<polygon class="area" points="{area}"/><polyline class="linea" points="{linea}" fill="none"/></svg>')
+
+
+def render_mercados():
+    if not MERCADOS.exists():
+        return ""
+    try:
+        data = json.loads(MERCADOS.read_text(encoding="utf-8"))
+    except Exception:
+        return ""
+    series = data.get("series", {})
+    hoy = datetime.now()
+    tarjetas = []
+    for clave in ORDEN_MERCADOS:
+        s = series.get(clave)
+        if not s or not s.get("puntos"):
+            continue
+        pts = s["puntos"]
+        unidad, dec = s["unidad"], s.get("decimales", 0)
+        bajo_es_bueno = clave in ("riesgo_pais", "inflacion_mensual", "inflacion_interanual")
+        f_ult, v_ult = pts[-1]
+        mensual = s.get("frecuencia") == "mensual"
+        if mensual:
+            d = datetime.strptime(f_ult, "%Y-%m-%d")
+            fecha_txt = f"{MESES_CORTOS[d.month - 1]} {d.year}"
+            vars_ = []
+            if len(pts) >= 2:
+                r = variacion(v_ult, pts[-2][1], unidad)
+                if r:
+                    vars_.append(("vs. mes anterior", r))
+            if len(pts) >= 13:
+                r = variacion(v_ult, pts[-13][1], unidad)
+                if r:
+                    vars_.append(("vs. mismo mes 2025" if d.year == 2026 else "vs. hace 12 meses", r))
+            ult12 = pts[-12:]
+            if clave == "inflacion_mensual" and len(ult12) == 12:
+                acum = 1.0
+                for _, v in ult12:
+                    acum *= 1 + v / 100
+                vars_.append(("acumulada 12 meses", ("+" + fmt_num((acum - 1) * 100, 1) + "%", (acum - 1) * 100)))
+            spark = sparkline(pts[-13:], bajo_es_bueno, mensual=True)
+        else:
+            d = datetime.strptime(f_ult, "%Y-%m-%d")
+            fecha_txt = f"{d.day} {MESES_CORTOS[d.month - 1]}"
+            vars_ = []
+            for etiqueta, dias in (("día", 1), ("semana", 7), ("mes", 30), ("año", 365)):
+                if dias == 1:
+                    base = pts[-2][1] if len(pts) >= 2 else None
+                else:
+                    base = valor_en(pts, d - timedelta(days=dias))
+                r = variacion(v_ult, base, unidad)
+                if r:
+                    vars_.append((etiqueta, r))
+            spark = sparkline(pts, bajo_es_bueno)
+        vars_html = ""
+        for etiqueta, (txt, num) in vars_:
+            bueno = (num < 0) if bajo_es_bueno else (num > 0)
+            clase = "neutro" if abs(num) < 1e-9 else ("pos" if bueno else "neg")
+            vars_html += f'<span class="var {clase}"><em>{esc(etiqueta)}</em>{esc(txt)}</span>'
+        aviso = ' <span class="stale" title="No se pudo actualizar; se muestra el último dato guardado">⚠</span>' if s.get("error") else ""
+        tarjetas.append(f'''<article class="mercado" id="m-{esc(clave)}">
+  <header><span class="n">{esc(s["nombre"])}{aviso}</span><span class="d">{esc(s.get("detalle", ""))} · {esc(fecha_txt)}</span></header>
+  <strong class="valor">{esc(fmt_valor(v_ult, unidad, dec))}</strong>
+  {spark}
+  <div class="vars">{vars_html}</div>
+</article>''')
+    if not tarjetas:
+        return ""
+    act = data.get("actualizado", "")
+    try:
+        act_txt = datetime.fromisoformat(act).astimezone(timezone(timedelta(hours=-3))).strftime("%d/%m %H:%M")
+    except Exception:
+        act_txt = ""
+    return (f'<section class="mercados" id="mercados"><h2>Mercados e indicadores <small>actualizado {esc(act_txt)} · '
+            f'oro: COMEX vía Yahoo Finance · dólar, riesgo país e inflación: ArgentinaDatos e INDEC</small></h2>'
+            f'<div class="grilla">{"".join(tarjetas)}</div></section>')
+
+
 def render_cifras(cifras):
     if not cifras:
         return ""
@@ -188,7 +343,7 @@ def render_edicion(ed, anterior, siguiente, tiene_guion=True):
     slug = ed["slug"]
     titulo_pag = f'Resumen Diario · {fecha_corta(ed["fecha"])} · {EDICION_CORTA[ed["edicion"]]}'
     chips = "".join(f'<a href="#{esc(s["id"])}">{esc(s["nombre"])}</a>' for s in ed["secciones"])
-    chips = f'<a href="#claves">Lo esencial</a>{chips}'
+    chips = f'<a href="#mercados">Mercados</a><a href="#claves">Lo esencial</a>{chips}'
 
     # imagen de portada: primera nota con imagen
     hero_img = ""
@@ -217,7 +372,7 @@ def render_edicion(ed, anterior, siguiente, tiene_guion=True):
     else:
         nav.append('<a class="sig" href="/">Última edición →</a>')
 
-    cifras_html = render_cifras(ed.get("cifras"))
+    cifras_html = render_mercados() + render_cifras(ed.get("cifras"))
     guion = ed.get("audio_guion", "")
     guion_html = "".join(f"<p>{esc(p)}</p>" for p in re.split(r"\n\s*\n|\n", guion) if p.strip())
     mins = minutos_audio(guion)
