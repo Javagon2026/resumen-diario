@@ -209,6 +209,8 @@ def variacion(actual, base, unidad):
         suf = " p.p." if unidad == "%" else " pb"
         return ("+" if d > 0 else "") + fmt_num(d, 1 if unidad == "%" else 0) + suf, d
     p = (actual / base - 1) * 100
+    if abs(p) < 0.05:
+        return "0,0%", 0.0
     return ("+" if p > 0 else "") + fmt_num(p, 1) + "%", p
 
 

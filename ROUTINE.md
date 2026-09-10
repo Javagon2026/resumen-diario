@@ -27,12 +27,16 @@ y explicá el "por qué importa" cuando no sea obvio.
    (ids inexistentes, campos faltantes) corregí el JSON y volvé a correrlo hasta que diga `OK`.
 5. Publicá:
    ```
+   git checkout -B main HEAD      # el sandbox suele arrancar con HEAD separado; esto lo normaliza
    git add -A
    git commit -m "Edición <slug>"
    git pull --rebase origin main
    git push origin main
    ```
-   Netlify despliega solo a partir del push. No abras pull requests ni ramas.
+   Netlify despliega solo a partir del push. No abras pull requests ni ramas. No investigues la
+   historia de git ni el estado de las ramas: el checkout que recibís siempre es el último `origin/main`.
+   `data/mercados.json` SÍ se commitea (es el respaldo del panel de mercados si una API falla);
+   no lo agregues a `.gitignore`. Lo único que no se versiona es `data/raw/`.
 6. Si un script de `tools/` tiene un bug real, corregilo con el cambio mínimo, commiteá
    y explicá qué cambiaste en el resultado final.
 
