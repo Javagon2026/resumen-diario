@@ -23,25 +23,36 @@ SOURCES = {
         "politica": "https://www.clarin.com/rss/politica/",
         "economia": "https://www.clarin.com/rss/economia/",
         "mundo": "https://www.clarin.com/rss/mundo/",
-        "sociedad": "https://www.clarin.com/rss/sociedad/"}},
+        "sociedad": "https://www.clarin.com/rss/sociedad/",
+        "deportes": "https://www.clarin.com/rss/deportes/",
+        "viajes": "https://www.clarin.com/rss/viajes/"}},
     "LN": {"nombre": "La Nación", "web": "https://www.lanacion.com.ar", "feeds": {
         "portada": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
         "politica": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/politica/?outputType=xml",
         "economia": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/economia/?outputType=xml",
         "mundo": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/?outputType=xml",
-        "sociedad": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/sociedad/?outputType=xml"}},
+        "sociedad": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/sociedad/?outputType=xml",
+        "deportes": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/deportes/?outputType=xml",
+        "turismo": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/turismo/?outputType=xml"}},
     "IB": {"nombre": "Infobae", "web": "https://www.infobae.com", "feeds": {
         "portada": "https://www.infobae.com/arc/outboundfeeds/rss/",
         "politica": "https://www.infobae.com/arc/outboundfeeds/rss/category/politica/",
         "economia": "https://www.infobae.com/arc/outboundfeeds/rss/category/economia/",
         "mundo": "https://www.infobae.com/arc/outboundfeeds/rss/category/america/mundo/",
-        "sociedad": "https://www.infobae.com/arc/outboundfeeds/rss/category/sociedad/"}},
+        "sociedad": "https://www.infobae.com/arc/outboundfeeds/rss/category/sociedad/",
+        "deportes": "https://www.infobae.com/arc/outboundfeeds/rss/category/deportes/",
+        "turismo": "https://www.infobae.com/arc/outboundfeeds/rss/category/turismo/"}},
     "IP": {"nombre": "iProfesional", "web": "https://www.iprofesional.com", "feeds": {
         "portada": "https://www.iprofesional.com/rss/home",
         "economia": "https://www.iprofesional.com/rss/economia",
         "finanzas": "https://www.iprofesional.com/rss/finanzas",
         "negocios": "https://www.iprofesional.com/rss/negocios",
-        "impuestos": "https://www.iprofesional.com/rss/impuestos"}},
+        "impuestos": "https://www.iprofesional.com/rss/impuestos",
+        "legales": "https://www.iprofesional.com/rss/legales",
+        "management": "https://www.iprofesional.com/rss/management",
+        "realestate": "https://www.iprofesional.com/rss/realestate",
+        "comex": "https://www.iprofesional.com/rss/comex",
+        "turismo": "https://www.iprofesional.com/rss/turismo"}},
     "CR": {"nombre": "El Cronista", "web": "https://www.cronista.com", "feeds": {
         "portada": "https://www.cronista.com/files/rss/news.xml",
         "economia": "https://www.cronista.com/files/rss/economia-politica.xml",
@@ -51,7 +62,9 @@ SOURCES = {
         "portada": "https://www.ambito.com/rss/pages/home.xml",
         "economia": "https://www.ambito.com/rss/pages/economia.xml",
         "politica": "https://www.ambito.com/rss/pages/politica.xml",
-        "finanzas": "https://www.ambito.com/rss/pages/finanzas.xml"}},
+        "finanzas": "https://www.ambito.com/rss/pages/finanzas.xml",
+        "deportes": "https://www.ambito.com/rss/pages/deportes.xml",
+        "negocios": "https://www.ambito.com/rss/pages/negocios.xml"}},
     "GC": {"nombre": "Le Grand Continent", "web": "https://legrandcontinent.eu/es", "feeds": {
         "europa": "https://legrandcontinent.eu/es/feed/"}},
 }
@@ -169,7 +182,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--edicion", default="auto", choices=["auto", "manana", "tarde"])
     ap.add_argument("--horas", type=int, default=0, help="ventana de horas hacia atras (0 = automatico)")
-    ap.add_argument("--max", type=int, default=22, help="maximo de items por fuente")
+    ap.add_argument("--max", type=int, default=26, help="maximo de items por fuente")
     args = ap.parse_args()
 
     now = datetime.now(timezone.utc)
@@ -205,7 +218,20 @@ def main():
                 continue
             sel.append(it)
         sel.sort(key=lambda x: x["fecha"] or "", reverse=True)
-        sel = sel[: args.max]
+        # Cuota por sección del feed (deportes, mundo, etc.) para que ninguna quede
+        # afuera del recorte por fuente; el resto se completa por recencia.
+        cuota, elegidos, ids_elegidos = 3, [], set()
+        for sec in set(it["seccion_feed"] for it in sel):
+            for it in [x for x in sel if x["seccion_feed"] == sec][:cuota]:
+                elegidos.append(it)
+                ids_elegidos.add(id(it))
+        for it in sel:
+            if len(elegidos) >= args.max:
+                break
+            if id(it) not in ids_elegidos:
+                elegidos.append(it)
+                ids_elegidos.add(id(it))
+        sel = sorted(elegidos[: max(args.max, len(elegidos))], key=lambda x: x["fecha"] or "", reverse=True)
         for i, it in enumerate(sel, 1):
             it["id"] = f"{code}-{i:02d}"
             if it["fecha"]:

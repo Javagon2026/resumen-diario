@@ -165,6 +165,25 @@ def render_nota(n):
 </article>'''
 
 
+def render_cifras(cifras):
+    if not cifras:
+        return ""
+    partes = []
+    for c in cifras:
+        if not (c.get("nombre") and c.get("valor")):
+            continue
+        var = ""
+        if c.get("variacion"):
+            v = str(c["variacion"])
+            clase = "neg" if v.strip().startswith("-") else "pos"
+            var = '<span class="v ' + clase + '">' + esc(v) + "</span>"
+        partes.append('<div class="cifra"><span class="n">' + esc(c["nombre"]) + "</span><strong>"
+                      + esc(c["valor"]) + "</strong>" + var + "</div>")
+    if not partes:
+        return ""
+    return '<section class="cifras" aria-label="Cifras del día">' + "".join(partes) + "</section>"
+
+
 def render_edicion(ed, anterior, siguiente, tiene_guion=True):
     slug = ed["slug"]
     titulo_pag = f'Resumen Diario · {fecha_corta(ed["fecha"])} · {EDICION_CORTA[ed["edicion"]]}'
@@ -198,6 +217,7 @@ def render_edicion(ed, anterior, siguiente, tiene_guion=True):
     else:
         nav.append('<a class="sig" href="/">Última edición →</a>')
 
+    cifras_html = render_cifras(ed.get("cifras"))
     guion = ed.get("audio_guion", "")
     guion_html = "".join(f"<p>{esc(p)}</p>" for p in re.split(r"\n\s*\n|\n", guion) if p.strip())
     mins = minutos_audio(guion)
@@ -243,6 +263,8 @@ def render_edicion(ed, anterior, siguiente, tiene_guion=True):
     <h1>{esc(ed["titulo"])}</h1>
     <p class="apertura">{esc(ed["apertura"])}</p>
   </section>
+
+  {cifras_html}
 
   <section class="seccion claves" id="claves">
     <h2>Lo esencial</h2>

@@ -61,6 +61,15 @@ main { padding-top: 1.4rem; padding-bottom: 2rem; }
 .hero h1 { font-family: var(--serif); font-size: clamp(1.7rem, 4.5vw, 2.5rem); line-height: 1.15; margin: 0 0 .7rem; letter-spacing: -.015em; }
 .apertura { font-size: 1.12rem; color: var(--ink); margin: 0 0 1.5rem; }
 
+/* cifras del día */
+.cifras { display: flex; gap: .5rem; overflow-x: auto; padding: .2rem 0 .6rem; margin: -.4rem 0 .6rem; scrollbar-width: none; }
+.cifras::-webkit-scrollbar { display: none; }
+.cifra { flex: 0 0 auto; background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: .45rem .75rem; display: flex; flex-direction: column; min-width: 7.5rem; }
+.cifra .n { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.cifra strong { font-size: 1.05rem; font-variant-numeric: tabular-nums; }
+.cifra .v { font-size: .78rem; font-weight: 600; }
+.cifra .v.pos { color: #1b8a4c; } .cifra .v.neg { color: var(--accent); }
+
 /* secciones */
 .seccion { margin: 1.6rem 0 2rem; }
 .seccion h2 { font-family: var(--serif); font-size: 1.35rem; margin: 0 0 .8rem; padding-bottom: .35rem; border-bottom: 2px solid var(--ink); display: flex; align-items: baseline; gap: .6rem; }

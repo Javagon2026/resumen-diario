@@ -5,6 +5,16 @@ Clarín, La Nación, Infobae, iProfesional, El Cronista, Ámbito y Le Grand Cont
 Hay dos ediciones por día: **mañana** (corre 7:00, hora Argentina) y **tarde** (corre 18:00).
 Trabajás solo, sin hacer preguntas. Si algo falla, lo arreglás y seguís.
 
+## El lector
+
+Una sola persona: contador público y licenciado en Administración, jefe de Control de Gestión
+en una empresa argentina de retail de materiales de construcción y hogar (cerámicos, sanitarios,
+pisos, grifería; varias sucursales). Le interesan especialmente: indicadores macro que impactan en
+costos, precios y financiación; impuestos y normativa contable, laboral y comercial; consumo,
+construcción y retail; gestión, finanzas corporativas y liderazgo de equipos. Además quiere estar
+al día en política, mundo, deportes y algo de turismo. Priorizá lo que le sirve para decidir
+y explicá el "por qué importa" cuando no sea obvio.
+
 ## Pasos
 
 1. En la raíz del repo: `python3 tools/fetch_feeds.py`
@@ -35,6 +45,10 @@ Trabajás solo, sin hacer preguntas. Si algo falla, lo arreglás y seguís.
   "titulo": "Titular propio de la edición, 8 a 14 palabras",
   "apertura": "Dos o tres oraciones que cuentan el panorama del día y conectan los temas principales.",
   "claves": ["Seis a ocho puntos de una oración, lo esencial para alguien que solo lee esto."],
+  "cifras": [
+    {"nombre": "Dólar oficial", "valor": "$ 1.513", "variacion": "-0,8%", "fuente": "AM-04"},
+    {"nombre": "Riesgo país", "valor": "612 pb", "fuente": "CR-02"}
+  ],
   "secciones": [
     {
       "nombre": "Política",
@@ -59,19 +73,28 @@ Reglas del esquema:
 - `relacionadas`: ids de otras fuentes que cubren la misma noticia (se muestran como
   "También en: Clarín · Infobae"). Usalo para no repetir la misma noticia en dos tarjetas.
 - Preferí como `id` principal la nota con imagen y cuerpo más completo.
+- `cifras`: 4 a 8 indicadores **que aparezcan textualmente en el material crudo** (dólar oficial,
+  blue, MEP, riesgo país, Merval, inflación, tasa, reservas, precio del petróleo, etc.). Cada uno
+  con su `fuente` (id). `variacion` es opcional. Si el material no trae cifras, dejá la lista vacía.
+  Nunca inventes ni estimes un valor.
 
 ## Secciones (en este orden; omití una sección si no hay material)
 
-1. **Política** — gobierno, Congreso, provincias, Justicia, elecciones. Fuentes: Clarín, La Nación, Infobae, Ámbito.
-2. **Economía y mercados** — dólar, inflación, tasas, riesgo país, FMI, actividad, bonos y acciones. Fuentes: Ámbito, El Cronista, iProfesional, La Nación, Infobae.
-3. **Negocios, empresas e impuestos** — empresas, inversiones, sectores, comercio exterior, impuestos, energía, construcción y consumo. Fuentes: iProfesional, El Cronista, Ámbito.
-4. **Mundo** — internacional según Clarín, La Nación e Infobae.
-5. **Europa y geopolítica** — solo con notas de Le Grand Continent (GC). Explicá el ángulo analítico de la revista, no solo el hecho.
-6. **Sociedad** — solo si hay algo relevante (salud, educación, clima, seguridad, grandes eventos). Máximo 4 notas.
+1. **Política** — gobierno, Congreso, provincias, Justicia, elecciones. Fuentes: Clarín, La Nación, Infobae, Ámbito. 5 a 7 notas.
+2. **Economía y mercados** — dólar, inflación, tasas, riesgo país, FMI, actividad, bonos y acciones, crédito. Fuentes: Ámbito, El Cronista, iProfesional, La Nación, Infobae. 5 a 7 notas.
+3. **Negocios y empresas** — empresas, inversiones, sectores, comercio exterior, energía. Fuentes: iProfesional, El Cronista, Ámbito. 4 a 6 notas.
+4. **Impuestos, laboral y normativa** — ARCA, IVA, Ganancias, Ingresos Brutos, monotributo, facturación, regímenes de información, vencimientos, reforma laboral, paritarias, convenios, aguinaldo, normas contables, jurisprudencia y fallos que afectan a empresas. Fuentes: iProfesional (`impuestos`, `legales`), El Cronista, Ámbito. 3 a 6 notas. Marcá fechas y montos concretos.
+5. **Consumo, construcción y retail** — ventas minoristas, consumo masivo, shoppings y supermercados, construcción (Índice Construya, despachos de cemento, costo de la construcción, obra privada), créditos hipotecarios, real estate, precios de materiales, logística y comercio electrónico. Fuentes: iProfesional (`realestate`, `negocios`, `comex`), Clarín y La Nación economía, Ámbito (`negocios`), El Cronista. 3 a 6 notas. Es la sección más ligada a su empresa: si hay algo de materiales de construcción u hogar, va primero.
+6. **Management y finanzas corporativas** — liderazgo, gestión de equipos, control de gestión, tablero de indicadores, finanzas de empresas, salarios ejecutivos, tecnología aplicada a la gestión, IA en empresas. Fuente principal: iProfesional (`management`). 2 a 4 notas; omitir si no hay nada de valor.
+7. **Mundo** — internacional según Clarín, La Nación e Infobae. 4 a 6 notas.
+8. **Europa y geopolítica** — solo con notas de Le Grand Continent (GC). Explicá el ángulo analítico de la revista, no solo el hecho. 3 a 5 notas.
+9. **Deportes** — obligatoria, 5 a 7 notas: fútbol argentino (torneo local, Copa Argentina, Libertadores, Sudamericana), Selección, argentinos en Europa, tenis, Fórmula 1, básquet, rugby, hockey y lo destacado del deporte internacional. Fuentes: Clarín, La Nación, Infobae y Ámbito (feeds `deportes`). Con resultados, poné el marcador; con partidos por jugarse, el horario.
+10. **Turismo** — 1 o 2 notas breves sobre un destino puntual (argentino o del exterior): qué tiene, cuándo ir, alguna referencia de precio si el material la trae. Fuentes: Clarín (`viajes`), La Nación e Infobae (`turismo`), iProfesional (`turismo`). Evitá notas de promociones o de aerolíneas salvo que sean muy relevantes.
+11. **Sociedad** — solo si hay algo relevante (salud, educación, clima, seguridad, grandes eventos). Máximo 4 notas.
 
-Cantidad: 5 a 8 notas por sección (Europa y geopolítica: 3 a 5). Total de la edición: 30 a 40 notas.
-Edición de la tarde: priorizá lo que pasó desde la mañana; no repitas lo que ya salió en la
-edición de la mañana salvo que haya novedades (podés leer `data/ediciones/<fecha>-manana.json`).
+Total de la edición: 40 a 55 notas. Edición de la tarde: priorizá lo que pasó desde la mañana;
+no repitas lo que ya salió en la edición de la mañana salvo que haya novedades (podés leer
+`data/ediciones/<fecha>-manana.json`).
 
 ## Estilo
 
@@ -80,15 +103,19 @@ edición de la mañana salvo que haya novedades (podés leer `data/ediciones/<fe
 - Cuando dos fuentes den cifras distintas, decilo ("Clarín habla de X; Ámbito, de Y").
 - Los títulos propios no llevan punto final ni mayúsculas de titular.
 - Cifras con formato argentino en el texto: "US$ 1.200 millones", "3,5%", "$ 45.000".
+- En las secciones 2, 4 y 5 agregá, cuando corresponda, una frase final del tipo
+  "Para una empresa: ..." con la implicancia práctica (costos, caja, precios, plazos).
 
 ## Guion de audio (`audio_guion`)
 
 - 1.000 a 1.400 palabras (7 a 9 minutos). Texto corrido en párrafos; sin títulos, viñetas,
-  markdown ni URLs.
+  markdown ni URLs. No hace falta cubrir todas las notas: elegí lo más importante de cada sección.
 - Arranca: "Buen día. Este es el resumen de la mañana del jueves 10 de septiembre." (o
   "Buenas tardes. Este es el resumen de la tarde del...").
-- Después el panorama general (la apertura), y luego cada sección presentada por su nombre
-  ("En política...", "En economía...", "En el mundo...", "Le Grand Continent analiza...").
+- Después el panorama general (la apertura) y las cifras del día en una o dos oraciones, y luego
+  cada sección presentada por su nombre ("En política...", "En economía...", "En impuestos y
+  normativa...", "En consumo y construcción...", "En el mundo...", "Le Grand Continent
+  analiza...", "En deportes...", y un cierre breve con el destino de turismo).
 - Cada noticia en dos o tres oraciones, mencionando la fuente de manera natural
   ("según La Nación", "informa Ámbito").
 - Escribí pensando en que lo lee un sintetizador de voz: números y siglas de forma que se
