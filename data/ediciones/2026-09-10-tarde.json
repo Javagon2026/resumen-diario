@@ -1,56 +1,51 @@
 {
  "fecha": "2026-09-10",
  "edicion": "tarde",
- "titulo": "Milei suspende su viaje a Londres en medio de la tensión por Malvinas",
- "apertura": "El día estuvo marcado por la tensión entre Argentina y el Reino Unido por Malvinas, que llevó a Javier Milei a suspender su viaje a Londres, y por la espera del dato de inflación de agosto que difunde el Indec esta tarde. En los mercados, el dólar mayorista cedió por primera vez en cinco ruedas, el Merval subió y el riesgo país perforó los 490 puntos, aunque el salto del petróleo golpeó a Wall Street. En Ucrania, un ataque récord contra una planta de gas en el Ártico ruso y un bombardeo sobre un shopping en Pavlogrado marcaron una nueva escalada, mientras la Fórmula 1 se apresta a debutar en el nuevo circuito de Madrid.",
+ "titulo": "Inflación en baja, tensión por Malvinas y polémica por las reservas de oro",
+ "apertura": "La inflación de agosto fue de 1,7%, la más baja en 14 meses, pero la canasta básica se encareció más y reavivó la discusión sobre el poder adquisitivo. En paralelo, Javier Milei suspendió su viaje a Londres en medio de la tensión por Malvinas, mientras crecía la polémica por la ubicación de las reservas de oro del Banco Central. En los mercados, el dólar mayorista cedió, el Merval subió y el petróleo se disparó a nivel internacional.",
  "claves": [
-  "El Gobierno confirmó que Milei suspendió su viaje a Londres previsto para octubre, en medio del conflicto por Malvinas.",
-  "El dólar mayorista bajó por primera vez en cinco ruedas a $1.513 y la brecha con el techo de la banda superó el 25%.",
-  "El Merval sube 1,7% y el riesgo país perfora los 490 puntos, pese al mal clima en Wall Street por la suba del petróleo.",
-  "El Indec difunde hoy el dato de inflación de agosto; las consultoras privadas proyectan entre 1,5% y 1,8%, tras el 2,1% de julio.",
-  "Roberto Baratta amplió su indagatoria en el juicio de los Cuadernos y acusó a directivos de Techint de haber mentido.",
-  "El Banco Ciudad bajó al 6,5% la tasa de sus créditos hipotecarios, la más baja del mercado, para la compra de primera vivienda.",
-  "Ucrania atacó por primera vez una planta de gas en el Ártico ruso, la mayor distancia alcanzada en el conflicto.",
-  "La Fórmula 1 debuta este fin de semana en el nuevo circuito urbano de Madrid, el Madring, con Franco Colapinto en pista."
+  "La inflación de agosto fue 1,7%, la más baja en 14 meses, aunque la canasta básica subió 2,6% y una familia tipo necesitó $ 1.605.497 para no ser pobre.",
+  "Milei suspendió su viaje a Londres por la tensión con el Reino Unido por Malvinas, en medio de fragilidad parlamentaria de La Libertad Avanza en el Congreso.",
+  "Crece la polémica por las reservas de oro del Banco Central, con acusaciones cruzadas entre la senadora Di Tullio y el titular de la entidad, Santiago Bausili.",
+  "El dólar mayorista cayó a $ 1.513 y el Merval subió 1,7%, mientras el petróleo se disparó y roza los US$ 110 el barril.",
+  "El Banco Ciudad bajó su tasa hipotecaria al 6,5% y el Banco Provincia lanzó crédito para casas modulares, en un contexto de más oferta de financiación para vivienda.",
+  "Molinos, Honda, Nu y Renault anunciaron inversiones o relanzamientos productivos en el país, mientras Whirlpool vende su planta de Pilar y pasa a importar todo.",
+  "Ucrania atacó por primera vez una planta de gas en el Ártico ruso, en la escalada de mayor alcance del conflicto hasta la fecha.",
+  "Franco Colapinto y el resto de la Fórmula 1 debutan este fin de semana en el nuevo circuito de Madrid, mientras siguen las dudas sobre la renovación de Scaloni."
  ],
  "cifras": [
   {
-   "nombre": "Dólar oficial (venta, Banco Nación)",
-   "valor": "$ 1.535",
-   "fuente": "CR-15"
-  },
-  {
-   "nombre": "Dólar mayorista",
-   "valor": "$ 1.513",
-   "variacion": "primera baja en 5 ruedas",
-   "fuente": "AM-04"
-  },
-  {
-   "nombre": "Dólar blue (venta)",
-   "valor": "$ 1.540",
-   "fuente": "CR-16"
-  },
-  {
-   "nombre": "Riesgo país",
-   "valor": "por debajo de 490 pb",
-   "fuente": "AM-07"
+   "nombre": "Canasta básica total (familia tipo, agosto)",
+   "valor": "$ 1.605.497",
+   "variacion": "+2,6%",
+   "fuente": "LN-05"
   },
   {
    "nombre": "S&P Merval",
    "valor": "3.160.000 puntos",
    "variacion": "+1,7%",
-   "fuente": "IB-19"
+   "fuente": "IB-26"
   },
   {
-   "nombre": "Petróleo (Brent)",
-   "valor": "US$ 105,26 el barril",
-   "variacion": "+4%",
-   "fuente": "CR-25"
+   "nombre": "Petróleo (barril)",
+   "valor": "US$ 110",
+   "fuente": "AM-14"
   },
   {
-   "nombre": "Inflación (IPC julio)",
-   "valor": "2,1% mensual · 19,3% interanual",
-   "fuente": "LN-07"
+   "nombre": "Jubilación mínima (octubre, en mano)",
+   "valor": "$ 492.676",
+   "variacion": "+1,66%",
+   "fuente": "LN-10"
+  },
+  {
+   "nombre": "Vencimientos de deuda en pesos (hasta fin de año)",
+   "valor": "$ 110 billones",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Tasa hipotecaria preferencial Banco Ciudad",
+   "valor": "6,5%",
+   "fuente": "IB-24"
   }
  ],
  "secciones": [
@@ -58,19 +53,127 @@
    "nombre": "Política",
    "notas": [
     {
-     "id": "LN-22",
-     "titulo": "Baratta amplió su descargo en el juicio de los Cuadernos y apuntó contra directivos de Techint",
-     "resumen": "El ex funcionario kirchnerista Roberto Baratta retomó su indagatoria en el Tribunal Oral Federal 7 y acusó a Luis Betnaza y Héctor Zabaleta, de Techint, de haber mentido al declarar que le entregaron dinero. Sostuvo que es el único imputado elevado a juicio oral por la maniobra, ya que los empresarios están sobreseídos. La ampliación del descargo se produjo después de que su situación se complicara con la declaración de los directivos de la compañía.",
+     "id": "IB-20",
+     "titulo": "Milei suspendió su viaje a Londres en medio de la tensión por Malvinas",
+     "resumen": "La Casa Rosada confirmó la cancelación de la gira a Londres prevista para octubre, que incluía una conferencia en la Universidad de Oxford y reuniones con empresarios. La decisión se tomó horas después de que el Gobierno hubiera ratificado el viaje, en medio de la escalada por la soberanía de las islas Malvinas que Argentina llevó a la Asamblea General de la ONU. Fuentes oficiales no precisaron los motivos del cambio de último momento.",
      "relacionadas": [
       {
-       "id": "CL-23",
+       "id": "CL-13",
        "fuente_codigo": "CL",
        "fuente": "Clarín",
-       "titulo": "Caso Cuadernos: Roberto Baratta volvió a declarar y negó haber recibido coimas de Techint",
-       "url": "https://www.clarin.com/politica/caso-cuadernos-roberto-baratta-volvio-declarar-nego-recibido-coimas-techint_0_flwErAOKUr.html"
+       "titulo": "En medio de la tensión por Malvinas, Javier Milei suspendió su viaje a Londres previsto para octubre",
+       "url": "https://www.clarin.com/politica/medio-tension-malvinas-javier-milei-suspendio-viaje-londres-previsto-octubre_0_aCjCwxNoQC.html"
       },
       {
-       "id": "AM-06",
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei suspendió un viaje a Londres en medio de la tensión por Malvinas",
+       "url": "https://www.ambito.com/politica/javier-milei-suspendio-un-viaje-londres-medio-la-tension-malvinas-n6320843"
+      },
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "En medio del conflicto por Malvinas, Milei suspendió su viaje a Londres en octubre",
+       "url": "https://www.cronista.com/economia-politica/el-gobierno-mantiene-el-viaje-a-londres-pese-a-la-creciente-disputa-por-malvinas-que-fecha-baraja/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/10/en-plena-tension-por-las-malvinas-javier-milei-viajara-a-londres-en-octubre-y-no-planea-reunirse-con-el-primer-ministro/",
+     "imagen": "https://www.infobae.com/resizer/v2/OEA7YBMB4NDJZOLZLDTPF3LW3E.jpg?auth=600c9e34d7d50a0a17f85b92c1f444679dd4e37da9bb60e33242d094aa4a363b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:33",
+     "autor": "Julián Alvez",
+     "titulo_original": "Javier Milei suspendió su viaje a Londres en octubre en plena tensión por Malvinas"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Crece la polémica por las reservas de oro del Banco Central",
+     "resumen": "La senadora Juliana Di Tullio acusó al titular del Banco Central, Santiago Bausili, de haber mentido en el Senado sobre la ubicación de las reservas de oro, que según ella están en Londres y no en Suiza como él había afirmado. Un informe de la Auditoría General de la Nación contradijo además la versión de Bausili al señalar que todavía no se auditaron los movimientos de 2025. En paralelo, la Corte Suprema rechazó por inadmisible un pedido de Cristina Kirchner para investigar a Federico Sturzenegger por el caso del dólar futuro.",
+     "relacionadas": [
+      {
+       "id": "LN-06",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La Corte Suprema frenó la contradenuncia de Cristina Kirchner a Federico Sturzenegger por el caso del “dólar futuro”",
+       "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-freno-la-contradenuncia-de-cristina-kirchner-a-federico-sturzenegger-por-el-caso-nid10092026/"
+      },
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Un informe de la AGN dice que todavía no auditó las reservas de oro y contradice la versión que expuso Bausili en el Senado",
+       "url": "https://www.lanacion.com.ar/politica/un-informe-de-la-agn-dice-que-todavia-no-audito-las-reservas-de-oro-y-contradice-la-version-que-nid10092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/10/juliana-di-tullio-bausili-le-mintio-al-senado-el-oro-del-banco-central-esta-en-londres/",
+     "imagen": "https://www.infobae.com/resizer/v2/LBXH4OFDDVCRVJEKK3CTRNU6EY.jpg?auth=2a7ae6a4a3051e82dd7c4072dea454bfaca4340fc5944b486846e0eb376bfe80&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:14",
+     "autor": "Facundo Chaves",
+     "titulo_original": "Juliana Di Tullio: “Bausili le mintió al Senado, el oro del Banco Central está en Londres”"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "La Libertad Avanza mostró fragilidad parlamentaria en Diputados y en el Senado",
+     "resumen": "En menos de 24 horas, la oposición le quitó a La Libertad Avanza el control de la agenda en Diputados con dos proyectos que incomodan a la Casa Rosada, mientras que en el Senado Patricia Bullrich debió desactivar una sesión por falta de votos para un proyecto propio. Los gobernadores negocian ley por ley y se acumulan iniciativas pendientes de tratamiento.",
+     "url": "https://www.ambito.com/politica/en-menos-24-horas-se-expuso-la-debilidad-las-alianzas-la-libertad-avanza-el-congreso-n6320803",
+     "imagen": "https://media.ambito.com/p/b343fa54303693e067339d4d99a5d508/adjuntos/239/imagenes/043/336/0043336836/1200x675/smart/javier-milei-karina-milei-luis-caputo-sandra-pettovello-congreso-diputados.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:12",
+     "autor": "",
+     "titulo_original": "En menos de 24 horas, se expuso la debilidad de las alianzas de La Libertad Avanza en el Congreso",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Francos no descarta ser candidato y habla de la alianza con el PRO",
+     "resumen": "El exjefe de Gabinete Guillermo Francos dijo que nunca descarta una candidatura, aunque aclaró que falta mucho para definirlo. Remarcó la necesidad de sostener coincidencias estratégicas entre La Libertad Avanza y el PRO de cara a las elecciones de 2027.",
+     "url": "https://www.cronista.com/economia-politica/francos-recargado-posible-candidatura-la-alianza-lla-pro-y-el-resultado-que-anticipa-para-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/OP2L2HSI6RDXFP2Z4WEL2EAURM.png?auth=aa1f1e12b704f4be086ee174d9912bf3a3f5db4b20aacdd9a365dc2eb9b53450&smart=true&width=900&height=519",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:16",
+     "autor": "",
+     "titulo_original": "Francos recargado: posible candidatura, la alianza LLA-PRO y el resultado que anticipa para 2027",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-23",
+     "titulo": "Una encuesta ubica al PRO al frente en la carrera por la Ciudad y a LLA tercera",
+     "resumen": "Un relevamiento de DC Consultores, realizado entre el 23 y el 27 de agosto sobre 918 casos, ubicó al PRO con 38,4% de intención de voto para la Jefatura de Gobierno porteña, seguido por una alternativa de centro derecha con 33,6%. La Libertad Avanza quedó tercera con 14,2%, por debajo del peronismo con 13,8%. El margen de error del estudio es de 2,5 puntos.",
+     "url": "https://www.cronista.com/economia-politica/midieron-al-pro-y-a-lla-en-la-ciudad-los-libertarios-tienen-una-sola-esperanza-para-ganar-y-se-puede-terminar-el-reinado-del-pro-con-un-candidato-que-todavia-nadie-conoce/",
+     "imagen": "https://www.cronista.com/resizer/v2/WMHFVDWKXFDFPKJAJOKMQZW76Q.png?auth=32d399d4fbc66c8b2663e5c2f36c5de549533f65a3579ef35555a6e84b2f8c08&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:32",
+     "autor": "",
+     "titulo_original": "Midieron al PRO y a LLA en la Ciudad: los libertarios tienen una sola esperanza para ganar y se puede terminar el reinado del PRO con un candidato que todavía nadie conoce",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Se agrava el conflicto de los municipales bonaerenses con Kicillof",
+     "resumen": "El gobernador Axel Kicillof enfrenta un plan de lucha de los gremios municipales por aumentos salariales, que el miércoles derivó en un corte del acceso al puerto de Bahía Blanca. Se suman cuestionamientos por el funcionamiento del IOMA, la caída de recursos nacionales y un gasto provincial superior a lo recaudado.",
+     "url": "https://www.lanacion.com.ar/politica/se-agrava-el-conflicto-de-los-municipales-con-kicillof-y-suma-tension-a-los-frentes-abiertos-del-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SECNDOU4N5D2JINCREI32BWEX4.jpg?auth=e4e1bfe05acdb34116b5c4b247b96acd8e13c39e00994ea5ad81d0a8b9fd16e8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:19",
+     "autor": "Javier Fuego Simondet",
+     "titulo_original": "Se agrava el conflicto de los municipales con Kicillof y suma tensión a los frentes abiertos del gobernador",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Baratta amplió su descargo en el juicio por los Cuadernos de las coimas",
+     "resumen": "El exfuncionario kirchnerista Roberto Baratta, mano derecha de Julio De Vido, retomó su indagatoria y cuestionó a los directivos de Techint que declararon haberle entregado dinero, a quienes acusó de mentir. Baratta remarcó que es el único imputado elevado a juicio oral por la causa, mientras que otros testigos como Betnaza y Zabaleta están sobreseídos.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
        "fuente_codigo": "AM",
        "fuente": "Ámbito",
        "titulo": "Roberto Baratta volvió a declarar en el juicio Cuadernos y cuestionó los testimonios de Techint: \"Jamás recibí fondos ilegales\"",
@@ -84,79 +187,6 @@
      "hora": "12:14",
      "autor": "Federico González del Solar",
      "titulo_original": "Los cuadernos de las coimas: Baratta amplía su descargo con críticas a los empresarios que aseguraron haberle entregado dinero"
-    },
-    {
-     "id": "LN-21",
-     "titulo": "Se agrava el conflicto de los municipales bonaerenses con Kicillof",
-     "resumen": "El gobernador Axel Kicillof enfrenta un plan de lucha de los gremios municipales que el miércoles derivó en un corte de acceso al puerto de Bahía Blanca, la segunda marcha en dos semanas por reclamos salariales. El frente se suma a las críticas por el funcionamiento del IOMA y a la caída de recursos de origen nacional, que golpea las cuentas provinciales.",
-     "url": "https://www.lanacion.com.ar/politica/se-agrava-el-conflicto-de-los-municipales-con-kicillof-y-suma-tension-a-los-frentes-abiertos-del-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/SECNDOU4N5D2JINCREI32BWEX4.jpg?auth=e4e1bfe05acdb34116b5c4b247b96acd8e13c39e00994ea5ad81d0a8b9fd16e8&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "12:19",
-     "autor": "Javier Fuego Simondet",
-     "titulo_original": "Se agrava el conflicto de los municipales con Kicillof y suma tensión a los frentes abiertos del gobernador",
-     "relacionadas": []
-    },
-    {
-     "id": "CR-02",
-     "titulo": "Milei suspendió su viaje a Londres previsto para octubre en medio del reclamo por Malvinas",
-     "resumen": "Fuentes de la Casa Rosada confirmaron que el presidente Javier Milei dio de baja el viaje a Londres que tenía agendado para octubre, tras impulsar una serie de medidas en reclamo de la soberanía sobre las Islas Malvinas. El Gobierno no dio detalles oficiales sobre los motivos del cambio de agenda, que incluía una Argentina Week y una charla en la Universidad de Oxford.",
-     "url": "https://www.cronista.com/economia-politica/el-gobierno-mantiene-el-viaje-a-londres-pese-a-la-creciente-disputa-por-malvinas-que-fecha-baraja/",
-     "imagen": "https://www.cronista.com/resizer/v2/O43Q5LK2FJDYTMQJCYKSVENQSA.jpeg?auth=19e9b547f62f62c392df7d8319fa1234fff64893354265db8006d1d1ad9a7567&smart=true&width=900&height=675",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "15:35",
-     "autor": "Daniela Romero",
-     "titulo_original": "En medio del conflicto por Malvinas, Milei suspendió su viaje Londres en octubre",
-     "relacionadas": []
-    },
-    {
-     "id": "AM-12",
-     "titulo": "Se expuso la debilidad de las alianzas de La Libertad Avanza en el Congreso",
-     "resumen": "En Diputados, la oposición le arrebató al oficialismo el control parlamentario con dos temas sensibles, mientras que en el Senado Patricia Bullrich debió desactivar la sesión de este jueves por falta de votos para un proyecto propio. Los gobernadores votan cada iniciativa por separado y condicionan la agenda legislativa de cara a 2027. La diputada libertaria Lorena Petrovich explicó que el bloque acompañó los proyectos sobre morosidad y discapacidad porque ya los venía trabajando en comisiones.",
-     "relacionadas": [
-      {
-       "id": "IB-26",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "El oficialismo explicó su estrategia en Diputados: por qué acompañó las iniciativas de la oposición",
-       "url": "https://www.infobae.com/politica/2026/09/10/el-oficialismo-explico-su-estrategia-en-diputados-por-que-acompano-las-iniciativas-de-la-oposicion/"
-      }
-     ],
-     "url": "https://www.ambito.com/politica/en-menos-24-horas-se-expuso-la-debilidad-las-alianzas-la-libertad-avanza-el-congreso-n6320803",
-     "imagen": "https://media.ambito.com/p/b343fa54303693e067339d4d99a5d508/adjuntos/239/imagenes/043/336/0043336836/1200x675/smart/javier-milei-karina-milei-luis-caputo-sandra-pettovello-congreso-diputados.jpeg",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "14:12",
-     "autor": "",
-     "titulo_original": "En menos de 24 horas, se expuso la debilidad de las alianzas de La Libertad Avanza en el Congreso"
-    },
-    {
-     "id": "CR-08",
-     "titulo": "Guillermo Francos no descarta ser candidato y evalúa la alianza entre LLA y el PRO",
-     "resumen": "El ex jefe de Gabinete participó del ciclo Cuentas Claras de El Cronista Stream y dejó abierta la puerta a una candidatura en 2027, aunque aclaró que 'falta mucho todavía' para definirlo. Remarcó la necesidad de mantener coincidencias estratégicas entre La Libertad Avanza y el PRO de cara a las próximas elecciones.",
-     "url": "https://www.cronista.com/economia-politica/francos-recargado-posible-candidatura-la-alianza-lla-pro-y-el-resultado-que-anticipa-para-2027/",
-     "imagen": "https://www.cronista.com/resizer/v2/OP2L2HSI6RDXFP2Z4WEL2EAURM.png?auth=aa1f1e12b704f4be086ee174d9912bf3a3f5db4b20aacdd9a365dc2eb9b53450&smart=true&width=900&height=519",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "14:16",
-     "autor": "",
-     "titulo_original": "Francos recargado: posible candidatura, la alianza LLA-PRO y el resultado que anticipa para 2027",
-     "relacionadas": []
-    },
-    {
-     "id": "CR-14",
-     "titulo": "Una encuesta ubica al PRO al frente en la Ciudad y a LLA en tercer lugar",
-     "resumen": "El relevamiento de DC Consultores, realizado entre el 23 y el 27 de agosto sobre 918 casos, mide al PRO con el 38,4% de intención de voto para la Jefatura de Gobierno porteña, seguido por una alternativa de centro-derecha con 33,6%. La Libertad Avanza queda tercera con 14,2% y el peronismo obtiene 13,8%, en la carrera por la Ciudad de cara a 2027.",
-     "url": "https://www.cronista.com/economia-politica/midieron-al-pro-y-a-lla-en-la-ciudad-los-libertarios-tienen-una-sola-esperanza-para-ganar-y-se-puede-terminar-el-reinado-del-pro-con-un-candidato-que-todavia-nadie-conoce/",
-     "imagen": "https://www.cronista.com/resizer/v2/WMHFVDWKXFDFPKJAJOKMQZW76Q.png?auth=32d399d4fbc66c8b2663e5c2f36c5de549533f65a3579ef35555a6e84b2f8c08&smart=true&width=900&height=506",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "12:32",
-     "autor": "",
-     "titulo_original": "Midieron al PRO y a LLA en la Ciudad: los libertarios tienen una sola esperanza para ganar y se puede terminar el reinado del PRO con un candidato que todavía nadie conoce",
-     "relacionadas": []
     }
    ],
    "id": "politica"
@@ -165,135 +195,126 @@
    "nombre": "Economía y mercados",
    "notas": [
     {
-     "id": "AM-04",
-     "titulo": "El dólar mayorista cayó por primera vez en cinco ruedas y la brecha con la banda superó el 25%",
-     "resumen": "El tipo de cambio mayorista retrocedió hasta los $1.513 luego de tres ruedas consecutivas al alza, en la previa del dato de inflación de agosto que definirá el nuevo techo de la banda cambiaria en octubre. El dólar oficial en el Banco Nación cerró sin cambios, a $1.485 para la compra y $1.535 para la venta. Para una empresa: una brecha mayor al 25% con el techo de la banda deja margen antes de una eventual intervención cambiaria.",
+     "id": "LN-04",
+     "titulo": "La inflación de agosto fue de 1,7%, la más baja en catorce meses",
+     "resumen": "El Índice de Precios al Consumidor de agosto marcó una suba mensual de 1,7%, el registro más bajo desde 2017 para ese mes, según el INDEC. La inflación acumulada en el año llega a 21,3% y la interanual a 33,5%; la núcleo fue de 1,8%. El presidente Javier Milei y el ministro de Economía, Luis Caputo, celebraron el dato en redes sociales. Para una empresa: la desaceleración, si se sostiene, favorece la previsibilidad de costos y de listas de precios para lo que resta del año.",
      "relacionadas": [
       {
-       "id": "CR-15",
-       "fuente_codigo": "CR",
-       "fuente": "El Cronista",
-       "titulo": "El dólar oficial cerró sin cambios: a cuánto cotizó en los bancos este jueves",
-       "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-jueves-10-de-septiembre/"
+       "id": "CL-09",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La inflación de agosto fue 1,7%, la más baja en 14 meses según el INDEC",
+       "url": "https://www.clarin.com/economia/inflacion-agosto-17-indec_0_eoD6Roh4Qh.html"
       },
       {
-       "id": "CR-16",
-       "fuente_codigo": "CR",
-       "fuente": "El Cronista",
-       "titulo": "Dólar blue se mantiene estable: a cuánto cotiza el jueves 10 de septiembre con el MEP y el CCL",
-       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-jueves-10-de-septiembre-con-el-mep-y-el-ccl/"
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La inflación de agosto fue del 1,7%, el valor más bajo en 14 meses",
+       "url": "https://www.ambito.com/economia/la-inflacion-agosto-fue-17-el-valor-mas-14-meses-n6320907"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La inflación de agosto fue de 1,7%, la menor en 14 meses: qué IPC prevén para septiembre",
+       "url": "https://www.iprofesional.com/economia/464216-la-inflacion-de-agosto-fue-la-menor-en-14-meses-que-preven-para-septiembre"
       }
      ],
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-fenomeno-barrial-y-extraordinario-la-reaccion-del-presidente-ante-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YO4BWFLHWRCZ7BBXXUGT3VM35E.JPG?auth=2c19e70110173a10c9e55289f7551a3209508e2fd08a2dafff75b9f4611eb600&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:54",
+     "autor": "",
+     "titulo_original": "Javier Milei y sus medidas, en vivo: “Fenómeno barrial” y “extraordinario”, la reacción del Presidente ante mensajes de dos funcionarios de Trump"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "Una familia necesitó más de $ 1.600.000 para no ser pobre en agosto",
+     "resumen": "Según el INDEC, la canasta básica total, que mide la pobreza, y la canasta básica alimentaria, que mide la indigencia, subieron 2,6% en agosto, por encima del 1,7% de la inflación general. Una familia tipo de cuatro integrantes necesitó $ 1.605.497 para no ser pobre y $ 726.459 para no caer en la indigencia.",
+     "relacionadas": [
+      {
+       "id": "CL-06",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Canasta básica: una familia de cuatro personas necesitó 1.605.497 pesos en agosto para no ser pobre",
+       "url": "https://www.clarin.com/economia/canasta-basica-familia-necesito-1605497-pesos-agosto-pobre_0_qJ8aBwuCVj.html"
+      },
+      {
+       "id": "CR-09",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Canasta básica: una familia tipo necesitó $ 1.605.497 en agosto para no ser pobre",
+       "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1605497-en-agosto-para-no-ser-pobre/"
+      },
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La canasta básica se aceleró al 2,6% en agosto: una familia necesitó más de $1.600.000 para no ser pobre",
+       "url": "https://www.ambito.com/economia/la-canasta-basica-se-acelero-al-26-agosto-una-familia-necesito-mas-1600000-no-ser-pobre-n6320910"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/una-familia-tipo-necesito-en-agosto-1605497-para-no-ser-pobre-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KXCRU27KNVFZ7BB7YBNNBAH4OQ.JPG?auth=9d88afeede1e05a88ad150b5855fecf9d0f262c0408699fedda3dd01d10362c8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:53",
+     "autor": "",
+     "titulo_original": "Una familia tipo necesitó en agosto $1.605.497 para no ser pobre"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "El dólar mayorista cayó y la brecha con el techo de la banda superó el 25%",
+     "resumen": "El tipo de cambio mayorista bajó a $ 1.513, tras tres ruedas consecutivas al alza, en la previa de conocerse la inflación de agosto. La diferencia con el techo de la banda que fija el Banco Central volvió a superar el 25%.",
      "url": "https://www.ambito.com/finanzas/dolar-e-inflacion-el-mayorista-toco-maximos-dos-semanas-y-el-mercado-espera-hoy-el-dato-clave-del-ipc-n6320614",
      "imagen": "https://media.ambito.com/p/a0d6673acb62dc43bbf76d3220f3f054/adjuntos/239/imagenes/042/125/0042125649/pesos-dolar.jpg",
      "fuente_codigo": "AM",
      "fuente": "Ámbito",
      "hora": "15:33",
      "autor": "",
-     "titulo_original": "El dólar mayorista cayó por primera vez en cinco ruedas y la brecha con el techo de la banda volvió a superar el 25%"
+     "titulo_original": "El dólar mayorista cayó por primera vez en cinco ruedas y la brecha con el techo de la banda volvió a superar el 25%",
+     "relacionadas": []
     },
     {
-     "id": "LN-07",
-     "titulo": "Inflación de agosto: el dato se conoce esta tarde y las consultoras proyectan una desaceleración",
-     "resumen": "El Indec difunde hoy el índice de precios de agosto, que según estimaciones privadas se ubicaría entre 1,5% y 1,8%, por debajo del 2,1% mensual de julio (19,3% interanual). En EcoGo proyectan un 1,5%, explicado por el retroceso en esparcimiento tras las vacaciones de invierno y la desaceleración de alimentos, que pasaron de subas semanales del 0,5% a un ritmo del 0,3%.",
-     "relacionadas": [
-      {
-       "id": "AM-07",
-       "fuente_codigo": "AM",
-       "fuente": "Ámbito",
-       "titulo": "El S&P Merval en dólares vuelve a subir mientras que el riesgo país baja de los 490 puntos",
-       "url": "https://www.ambito.com/finanzas/los-bonos-dolares-abren-mixtos-y-el-riesgo-pais-se-acerca-los-500-puntos-basicos-n6320721"
-      }
-     ],
-     "url": "https://www.lanacion.com.ar/economia/inflacion-de-agosto-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/LCG2JPMRRVBTDCQZVVPLA5AVOQ.jpg?auth=a1b53fa45064a55505fbc28e3d00636eda08f72dc5f7a4da3b2deea802cbc20b&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "15:51",
-     "autor": "",
-     "titulo_original": "Inflación de agosto: cuál fue el IPC acumulado y qué proyectan las consultoras para este año"
-    },
-    {
-     "id": "AM-07",
-     "titulo": "El Merval sube en dólares y el riesgo país perfora los 490 puntos",
-     "resumen": "El índice S&P Merval extiende su suba en dólares y el riesgo país cede por debajo de los 490 puntos, en una rueda en la que el mercado espera que el Indec confirme una inflación de agosto cercana al 1,7% mensual, en línea con el dato adelantado por CABA.",
-     "relacionadas": [
-      {
-       "id": "IB-19",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "Mercados: las acciones argentinas revirtieron una apertura en baja y retoman las ganancias a pesar del mal tono de Wall Street",
-       "url": "https://www.infobae.com/economia/2026/09/10/mercados-caen-las-acciones-y-los-bonos-argentinos-arrastrados-por-una-nueva-baja-en-wall-street/"
-      }
-     ],
-     "url": "https://www.ambito.com/finanzas/los-bonos-dolares-abren-mixtos-y-el-riesgo-pais-se-acerca-los-500-puntos-basicos-n6320721",
-     "imagen": "https://media.ambito.com/p/4df01dfeeb8ab4827131cc2d13e22228/adjuntos/239/imagenes/042/896/0042896096/1200x675/smart/bolsa-acciones-adrs-bonos.jpg",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "15:25",
-     "autor": "",
-     "titulo_original": "El S&P Merval en dólares vuelve a subir mientras que el riesgo país baja de los 490 puntos"
-    },
-    {
-     "id": "AM-05",
-     "titulo": "El petróleo se dispara y sacude a Wall Street y a los bonos del Tesoro",
-     "resumen": "Los futuros del crudo suben con fuerza y arrastran pérdidas generalizadas a las acciones estadounidenses, mientras los rendimientos de los bonos del Tesoro extienden su suba. Los nuevos datos de inflación mayorista en Estados Unidos, más altos de lo esperado, sumaron presión a los mercados.",
-     "relacionadas": [
-      {
-       "id": "CR-25",
-       "fuente_codigo": "CR",
-       "fuente": "El Cronista",
-       "titulo": "Tensión en las acciones en Wall Street mientras el mercado local evalúa impactos en bonos y acciones",
-       "url": "https://www.cronista.com/finanzas-mercados/petroleo-al-alza-se-tensan-las-acciones-en-wall-street-y-el-mercado-evalua-el-impacto-local-en-bonos-y-acciones/"
-      },
-      {
-       "id": "AM-23",
-       "fuente_codigo": "AM",
-       "fuente": "Ámbito",
-       "titulo": "La inflación mayorista de EEUU fue más alta de lo esperado y mostró la mayor suba mensual desde mayo",
-       "url": "https://www.ambito.com/economia/la-inflacion-mayorista-eeuu-fue-mas-alta-lo-esperado-y-mostro-la-mayor-suba-mensual-mayo-n6320787"
-      }
-     ],
+     "id": "AM-14",
+     "titulo": "El petróleo se dispara y roza los US$ 110 el barril, con caídas en Wall Street",
+     "resumen": "Los precios del petróleo subieron 4% y arrastraron a las acciones estadounidenses a la baja, mientras los rendimientos de los bonos del Tesoro de Estados Unidos siguieron en alza. Los inversores además analizaban nuevos datos de inflación mayorista en ese país. Para una empresa: una suba sostenida del petróleo encarece la logística y el transporte de materiales.",
      "url": "https://www.ambito.com/finanzas/el-petroleo-y-la-inflacion-mayorista-eeuu-marcan-el-pulso-un-mercado-que-opera-volatilidad-n6320644",
      "imagen": "https://media.ambito.com/p/1d484ecb38dca629e53670d91dc04dc2/adjuntos/239/imagenes/043/503/0043503449/1200x675/smart/adobestock_823830274.jpeg",
      "fuente_codigo": "AM",
      "fuente": "Ámbito",
      "hora": "15:32",
      "autor": "",
-     "titulo_original": "El petróleo se dispara y roza los u$s110: sacude a Wall Street y al mercado de bonos del Tesoro"
+     "titulo_original": "El petróleo se dispara y roza los u$s110: sacude a Wall Street y al mercado de bonos del Tesoro",
+     "relacionadas": []
     },
     {
-     "id": "LN-24",
-     "titulo": "El FMI confirmó que la tercera revisión del acuerdo empieza la semana del 21 de septiembre",
-     "resumen": "El Fondo Monetario Internacional reconoció que monitorea el aumento de la morosidad de los hogares en la Argentina, aunque su vocera Julie Kozack aseguró que 'no representa un riesgo significativo para la estabilidad financiera' del país. La misión técnica para la tercera revisión del programa llegará la semana del 21 de septiembre; de aprobarse, habilitaría un desembolso de US$ 738 millones, según la Oficina de Presupuesto del Congreso.",
+     "id": "IB-26",
+     "titulo": "Las acciones argentinas revirtieron una apertura en baja pese al mal clima externo",
+     "resumen": "El índice S&P Merval subió 1,7% y llegó a los 3.160.000 puntos, tras revertir una apertura negativa, en la cuarta rueda consecutiva de ganancias. Los bonos soberanos en dólares cedieron 0,3% en promedio, mientras el riesgo país de JP Morgan bajó levemente y se ubicó por debajo de los 490 puntos.",
      "relacionadas": [
       {
-       "id": "CR-20",
-       "fuente_codigo": "CR",
-       "fuente": "El Cronista",
-       "titulo": "El FMI le baja el tono a una de las mayores preocupaciones de la economía y prepara la próxima revisión para fin de mes",
-       "url": "https://www.cronista.com/economia-politica/para-el-fmi-la-deuda-de-los-hogares-no-implica-un-riesgo-significativo-para-la-estabilidad-financiera-de-argentina/"
-      },
-      {
-       "id": "IP-10",
-       "fuente_codigo": "IP",
-       "fuente": "iProfesional",
-       "titulo": "El FMI monitorea la morosidad de los hogares y descartó por ahora un riesgo para los bancos",
-       "url": "https://www.iprofesional.com/finanzas/464207-morosidad-hogares-argentinos-alerta-fmi-bancos-salvo-septiembre-2026"
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El S&P Merval en dólares vuelve a subir mientras que el riesgo país baja de los 490 puntos",
+       "url": "https://www.ambito.com/finanzas/los-bonos-dolares-abren-mixtos-y-el-riesgo-pais-se-acerca-los-500-puntos-basicos-n6320721"
       }
      ],
-     "url": "https://www.lanacion.com.ar/economia/el-fmi-reconocio-que-monitorea-el-aumento-de-la-morosidad-crediticia-en-la-argentina-y-confirmo-que-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/2G6ZZ7WJQVG4LMYHCQC2GBJDFM.JPG?auth=824f1fdb828ceb84236efc22d07141f8d6fbfdce1779b4c8579daff94acbad49&smart=true&width=900&height=553",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "12:05",
-     "autor": "Guillermo Idiart",
-     "titulo_original": "El FMI reconoció que monitorea el aumento de la morosidad en la Argentina y confirmó que este mes empieza la tercera revisión del acuerdo"
+     "url": "https://www.infobae.com/economia/2026/09/10/mercados-caen-las-acciones-y-los-bonos-argentinos-arrastrados-por-una-nueva-baja-en-wall-street/",
+     "imagen": "https://www.infobae.com/resizer/v2/3UYQ4WMQ4FAORCUQII7SZVWNB4.JPG?auth=78cf52f1a69c0eef81a482641f4e1865a8f548cc40a32fc8de179b3486da7cf9&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:59",
+     "autor": "",
+     "titulo_original": "Mercados: las acciones argentinas revirtieron una apertura en baja y retoman las ganancias a pesar del mal tono de Wall Street"
     },
     {
-     "id": "CR-11",
-     "titulo": "El Tesoro licita deuda este viernes por $8,1 billones y no emite bonos posteriores a 2027",
-     "resumen": "El Tesoro afronta vencimientos por unos $8,1 billones en la licitación de este viernes, dentro de un total de $110 billones que vencen hasta fin de año. El menú de instrumentos tiene un plazo promedio de colocación de 160 días y evita concentrar vencimientos en el período preelectoral.",
+     "id": "CR-20",
+     "titulo": "El Tesoro licita deuda con vencimientos por $ 110 billones hasta fin de año",
+     "resumen": "El Tesoro no emitirá bonos con vencimiento posterior a 2027 y enfrenta vencimientos por $ 8,1 billones en la licitación de este viernes, dentro de un total de $ 110 billones hasta fin de año. El plazo promedio de colocación ronda los 160 días, evitando concentrar deuda en el período preelectoral.",
      "url": "https://www.cronista.com/finanzas-mercados/no-se-emitira-deuda-posterior-a-2027-y-vencen-110-billones-hasta-fin-de-ano-los-bonos-mas-recomendados/",
      "imagen": "https://www.cronista.com/resizer/v2/WK6N2R7DHZHGBEEIJKXNDAISCE.png?auth=3f7f33570df3f72013b6b1b63d0dcc038929faf505e9aa0e8d8efd327f5759a1&smart=true&width=900&height=507",
      "fuente_codigo": "CR",
@@ -304,16 +325,16 @@
      "relacionadas": []
     },
     {
-     "id": "CR-10",
-     "titulo": "Quedó solo un tercio de las casas de cambio que operaban hace cuatro años",
-     "resumen": "Los operadores de cambio registrados ante el Banco Central cayeron de 115 a 40 entre diciembre de 2022 y agosto de 2026: las agencias pasaron de 103 a 33 y las casas de cambio, de 12 a siete. La depuración refleja el fin de la sobreoferta de licencias acumulada durante la apertura cambiaria de 2015 y el posterior cepo.",
-     "url": "https://www.cronista.com/finanzas-mercados/quo-vadis-casas-de-cambio-por-que-quedan-solo-siete-y-el-negocio-ya-no-vuelve-a-ser-el-mismo/",
-     "imagen": "https://www.cronista.com/resizer/v2/IOLLPXGWZRF57JQBBOZDCOZSDY.jpg?auth=15f89f125ac4cb2254052a394c09da129bf798e440ca23aa3fabfd0dd9d10493&smart=true&width=900&height=506",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "12:50",
-     "autor": "Pilar Wolffelt",
-     "titulo_original": "¿Quo vadis casas de cambio? Queda solo un tercio y el negocio ya no volverá a ser el mismo",
+     "id": "IP-05",
+     "titulo": "Para el FMI la mora no es un riesgo y la tercera revisión empieza este mes",
+     "resumen": "El Fondo Monetario Internacional anticipó que delegados llegarán este mes para iniciar la tercera revisión del programa con la Argentina, mientras crece la dificultad de pago para muchas familias. El organismo consideró que la mora no representa un riesgo para el cumplimiento de las metas.",
+     "url": "https://www.iprofesional.com/finanzas/464207-morosidad-hogares-argentinos-alerta-fmi-bancos-salvo-septiembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618605.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:09",
+     "autor": "",
+     "titulo_original": "Para el FMI, la mora no es un riesgo y anticipó que la tercera revisión comenzará este mes",
      "relacionadas": []
     }
    ],
@@ -323,56 +344,48 @@
    "nombre": "Negocios y empresas",
    "notas": [
     {
-     "id": "AM-18",
-     "titulo": "Arrancó la gestión privada de la Hidrovía con una baja del peaje a 25 años",
-     "resumen": "Vía Navegable Argentina, el consorcio integrado por la belga Jan De Nul y la argentina Servimagnus, inició formalmente la concesión por 25 años de la Vía Navegable Troncal, por la que circula cerca del 80% de las exportaciones del país. La tarifa de peaje baja de US$ 4,30 a US$ 3,80 y el plan incluye obras de modernización, aunque el proceso licitatorio quedó bajo cuestionamientos por denuncias de direccionamiento.",
-     "relacionadas": [
-      {
-       "id": "CR-22",
-       "fuente_codigo": "CR",
-       "fuente": "El Cronista",
-       "titulo": "Hidrovía: con una baja del peaje, arranca la gestión de la empresa que ganó la licitación por 25 años",
-       "url": "https://www.cronista.com/economia-politica/hidrovia-con-una-baja-del-peaje-arranca-la-gestion-de-la-empresa-que-gano-la-licitacion-por-25-anos/"
-      }
-     ],
-     "url": "https://www.ambito.com/negocios/hidrovia-comenzo-la-gestion-privada-baja-del-peaje-nuevas-obras-y-cuestionamientos-al-proceso-n6320812",
-     "imagen": "https://media.ambito.com/p/2c80da4d545a3a3cc58846a0145f2638/adjuntos/239/imagenes/042/511/0042511440/1200x675/smart/hidrovia-3jpeg.jpeg",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "13:05",
+     "id": "CR-02",
+     "titulo": "Molinos compra una planta en Tucumán y entra al negocio de las galletitas",
+     "resumen": "La alimenticia controlada por la familia Pérez Companc adquirió el complejo industrial de Complejo Alimenticio San Salvador en Banda del Río Salí, Tucumán, que se entregará en noviembre. Desde esa planta, Molinos podrá producir por primera vez galletitas crackers, dulces, rellenas y bizcochos, además de absorber al personal actual.",
+     "url": "https://www.cronista.com/negocios/los-perez-companc-vuelven-a-salir-de-compras-y-se-animan-a-una-categoria-de-alimentos-crocante/",
+     "imagen": "https://www.cronista.com/resizer/v2/KMOISEBRGJBS7NIP4OBLHOL3MU.jpg?auth=7c18b7c3e5cd7cc3561631a6e3f4e6c3f446b6ec43a4e6fa33d2c84785cf9d7c&smart=true&width=822&height=548",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:48",
+     "autor": "Micaela Mura",
+     "titulo_original": "Molinos Río de la Plata vuelve a salir de compras y se anima a una categoría de alimentos “crocante”",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-07",
+     "titulo": "Honda vuelve a fabricar la Biz en Campana y la preventa arranca en octubre",
+     "resumen": "Honda Motor de Argentina anunció el regreso de la motocicleta Biz 110, que volverá a producirse en su planta de Campana, la misma que en 2006 inauguró la fabricación nacional de motos de la marca. La preventa comienza el 1 de octubre, en un mercado que patentó 73.566 motovehículos en agosto, según Acara.",
+     "url": "https://www.cronista.com/negocios/honda-anuncia-el-regreso-de-la-biz-y-suma-produccion-nacional-comenzara-a-fabricarla-en-campana/",
+     "imagen": "https://www.cronista.com/resizer/v2/ORHIHAMP3VBL5E6RQTWY2YBNN4.jpg?auth=50d619069cbb48a2ba1485b382a73fba318a5d115721645ea72ae676641f0db8&smart=true&width=900&height=579",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:14",
      "autor": "",
-     "titulo_original": "Hidrovía: comenzó la gestión privada con baja del peaje, nuevas obras y cuestionamientos al proceso"
+     "titulo_original": "Honda anuncia el regreso de la Biz y suma producción nacional: comenzará a fabricarla en Campana",
+     "relacionadas": []
     },
     {
      "id": "CR-06",
-     "titulo": "El unicornio brasileño Unico compra la argentina Valida y apuesta a la identidad digital",
-     "resumen": "Unico, la empresa de biometría e identidad digital valuada en más de US$ 2.600 millones, anunció la adquisición de Valida, firma con fuerte presencia en el sistema financiero local. La operación busca reforzar la validación de identidad frente al avance de los deepfakes y el fraude digital potenciado por la inteligencia artificial.",
-     "url": "https://www.cronista.com/economia-politica/un-unicornio-de-us-2600-millones-desembarca-en-argentina-y-apuesta-al-negocio-que-dispara-la-ia/",
-     "imagen": "https://www.cronista.com/resizer/v2/E26MIO7F45GZNA2QERQITR7XQQ.png?auth=00ac75f383f73f9122363679b9baa6e7793a0d5499817d28ab6032534af001ba&smart=true&width=900&height=506",
+     "titulo": "El banco digital Nu desembarca en Estados Unidos y pone a la Argentina en el radar",
+     "resumen": "Nu, con más de 140 millones de usuarios en Brasil, México y Colombia, lanzó operaciones en Estados Unidos y presentó Nu Global, una cuenta digital multidivisa que permite mover dinero entre más de 35 países, entre ellos la Argentina. Su CEO, David Vélez, elogió la desregulación y la apertura del sistema financiero impulsadas por el Gobierno.",
+     "url": "https://www.cronista.com/finanzas-mercados/nu-pone-a-la-argentina-en-el-radar-lanza-operacion-en-eeuu-y-su-ceo-elogia-desregulacion-de-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/Q6VN5ZFSCVGZDH34QFB77Z4O64.jpg?auth=e668e7cac172d3c5c4bdabd7cb07070b06c37056dd2f4abdf4741e50b89af494&smart=true&width=900&height=675",
      "fuente_codigo": "CR",
      "fuente": "El Cronista",
-     "hora": "14:30",
-     "autor": "Lucas González Monte",
-     "titulo_original": "Un unicornio de u$s 2.600 millones desembarca en Argentina y apuesta al negocio que dispara la IA",
+     "hora": "16:18",
+     "autor": "Leandro Dario, Enviado especial a Miami",
+     "titulo_original": "Nu pone a la Argentina en el radar: lanza operación en EE.UU. y su CEO elogia desregulación de Milei",
      "relacionadas": []
     },
     {
-     "id": "IB-24",
-     "titulo": "YPF ya suma 15.000 nuevos accionistas a dos semanas de habilitar la compra de acciones en su app",
-     "resumen": "El CEO Horacio Marín informó que en poco más de 15 días se vendieron 550.000 acciones de la petrolera a través de la aplicación YPF, con un promedio diario de más de 60.000 operaciones.",
-     "url": "https://www.infobae.com/economia/2026/09/10/a-dos-semanas-de-habilitar-la-compra-de-acciones-en-su-app-ypf-ya-tiene-15000-nuevos-duenos/",
-     "imagen": "https://www.infobae.com/resizer/v2/AOC77A7UQZDIJDZUE6K5O2XG5M.jpg?auth=bf9be1dc41ceff33e58dd5de010e33c3fc1b93faf17d427d19748aae387c914e&smart=true&width=900&height=506",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "13:25",
-     "autor": "",
-     "titulo_original": "A dos semanas de habilitar la compra de acciones en su app, YPF ya tiene 15.000 nuevos dueños",
-     "relacionadas": []
-    },
-    {
-     "id": "IP-15",
-     "titulo": "Whirlpool vende su planta de Pilar y pasa a importar todo lo que vende en el país",
-     "resumen": "La compañía puso en venta su planta de Pilar por hasta US$ 21 millones y discontinuará la fabricación local, en contraste con la estrategia de marcas nacionales que mantienen producción propia.",
+     "id": "IP-17",
+     "titulo": "Whirlpool vende su planta de Pilar y pasará a importar toda su producción",
+     "resumen": "La compañía puso en venta su planta de Pilar por hasta US$ 21 millones y dejará de fabricar localmente para abastecerse íntegramente con productos importados. La decisión contrasta con la estrategia de otras marcas que mantienen producción local. Para una empresa: el caso ilustra cómo la apertura importadora reconfigura las cadenas de abastecimiento de electrodomésticos y bienes del hogar.",
      "url": "https://www.iprofesional.com/negocios/463833-whirlpool-vende-su-planta-de-pilar-y-pasa-a-importar-todo",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625125.jpg",
      "fuente_codigo": "IP",
@@ -383,16 +396,29 @@
      "relacionadas": []
     },
     {
-     "id": "CR-09",
-     "titulo": "Grupo Peñaflor invertirá US$ 44 millones en una nueva bodega en Tunuyán",
-     "resumen": "La empresa ampliará su capacidad productiva en el Valle de Uco, Mendoza, con una planta que podrá elaborar hasta 15 millones de litros de vino por año y comenzará a operar en la vendimia 2027. La inversión forma parte de un plan de más de US$ 75 millones que la compañía prevé ejecutar antes de 2028.",
-     "url": "https://www.cronista.com/negocios/grupo-penaflor-invertira-us-44-millones-en-una-nueva-bodega-en-el-corredor-del-vino-premium/",
-     "imagen": "https://www.cronista.com/resizer/v2/PGTE5QEIAJDAXCZK7KVYWV47FE.jpeg?auth=c979a7a5806671fca55278ddf0f401fe229bf34ea2176790ca3c2bfc2726ded3&smart=true&width=900&height=599",
+     "id": "CR-05",
+     "titulo": "El CEO global de Renault pidió una política especial para la producción local",
+     "resumen": "Fabrice Cambolive, director ejecutivo mundial de Renault, visitó Buenos Aires por la presentación de la pick-up Niagara, que se fabrica en la Argentina con una inversión que, con su versión híbrida, escalará a más de 400 millones de euros. El directivo señaló que sería conveniente contar con una política especial para la producción local, dentro de un plan que prevé 14 nuevos modelos hasta 2030.",
+     "url": "https://www.cronista.com/negocios/mensaje-del-ceo-mundial-de-la-marca-renault-seria-bueno-que-haya-una-politica-especial-para-la-produccion-local/",
+     "imagen": "https://www.cronista.com/resizer/v2/TRCFKZAEZ5F7XJJ7XYMGCKSEHU.jpg?auth=284c4e8ba5d2b10045f5e1560fd725b75f5c58d97aaa883c31f384736914c7d6&smart=true&width=900&height=600",
      "fuente_codigo": "CR",
      "fuente": "El Cronista",
-     "hora": "13:04",
-     "autor": "Ricardo Quesada",
-     "titulo_original": "Grupo Peñaflor invertirá u$s 44 millones en una nueva bodega en el corredor del vino premium",
+     "hora": "16:23",
+     "autor": "",
+     "titulo_original": "Mensaje del CEO mundial de la marca Renault: “Sería bueno que haya una política especial para la producción local”",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Arrancó la gestión privada de la Hidrovía con baja del peaje y cuestionamientos",
+     "resumen": "El Gobierno formalizó el inicio de la nueva concesión de la Vía Navegable Troncal, con una reducción del peaje y anuncios de nuevas obras. El proceso licitatorio había quedado bajo sospecha por denuncias de direccionamiento y por la fijación de un precio mínimo para el peaje. Para una empresa: una baja en el costo de la hidrovía impacta en la logística de exportación de granos e insumos industriales.",
+     "url": "https://www.ambito.com/negocios/hidrovia-comenzo-la-gestion-privada-baja-del-peaje-nuevas-obras-y-cuestionamientos-al-proceso-n6320812",
+     "imagen": "https://media.ambito.com/p/2c80da4d545a3a3cc58846a0145f2638/adjuntos/239/imagenes/042/511/0042511440/1200x675/smart/hidrovia-3jpeg.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:05",
+     "autor": "",
+     "titulo_original": "Hidrovía: comenzó la gestión privada con baja del peaje, nuevas obras y cuestionamientos al proceso",
      "relacionadas": []
     }
    ],
@@ -402,35 +428,30 @@
    "nombre": "Impuestos, laboral y normativa",
    "notas": [
     {
-     "id": "CR-18",
-     "titulo": "ARCA puso en marcha el sistema para que las pymes accedan a los beneficios del RIMI",
-     "resumen": "El Sistema de Gestión de Inversiones, habilitado por la Resolución General 5889 de ARCA, centraliza el registro de proyectos y la carga de inversiones de las pymes que buscan los beneficios fiscales del Régimen de Incentivo para Medianas Inversiones. Para una empresa: quienes tengan proyectos productivos en marcha deberían evaluar la inscripción para acceder a los beneficios tributarios previstos por el régimen.",
-     "url": "https://www.cronista.com/economia-politica/rimi-para-pymes-quienes-pueden-inscribirse-que-beneficios-ofrece-y-como-hacer-el-tramite/",
-     "imagen": "https://www.cronista.com/resizer/v2/JNX7KVIGLBGFTGPHPFEL2GFU3Y.jpg?auth=995fefeec8c555708b6f62f1043631ef30e9a3e4a3b38ca0b59b97d7d5cfb996&smart=true&width=900&height=506",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "12:09",
-     "autor": "",
-     "titulo_original": "RIMI para PyMEs: quiénes pueden inscribirse, qué beneficios ofrece y cómo hacer el trámite",
-     "relacionadas": []
+     "id": "LN-10",
+     "titulo": "Las jubilaciones subirán 1,66% en octubre y el mínimo quedará en $ 505.748",
+     "resumen": "Con el ajuste que toma la inflación de agosto medida por el INDEC, el haber mínimo de octubre será de $ 505.748,51 brutos y, tras el descuento de PAMI, quedará en $ 492.676,05 en mano. El haber máximo llegará a $ 2.932.174,85 brutos y $ 2.769.316,82 netos. El aumento de 1,66% se aplica sobre todos los haberes del sistema general.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Jubilados, con aumento confirmado a partir de octubre",
+       "url": "https://www.iprofesional.com/legales/464225-jubilados-con-aumento-confirmado-a-partir-de-octubre"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/jubilaciones-de-la-anses-el-aumento-de-octubre-sera-de-166-y-el-ingreso-minimo-quedara-en-mano-en-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C4K32D3BCNADRMQYXI6F6VNZ5A.webp?auth=2f50ec513405e8e5bec828e6a79b160be6e0921c3a40f021f42969c6d2b6113e&smart=true&width=600&height=455",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:49",
+     "autor": "Silvia Stang",
+     "titulo_original": "Jubilaciones de la Anses: el aumento de octubre será de 1,66% y el ingreso mínimo quedará, en mano, en $492.676"
     },
     {
-     "id": "CR-19",
-     "titulo": "Una propuesta busca destrabar US$ 770 millones inmovilizados por el IVA en el agro",
-     "resumen": "De cara al Presupuesto 2027 se instaló una iniciativa para transformar en garantía financiera el crédito fiscal de IVA que hoy permanece inmovilizado en el sector agropecuario. La propuesta no busca bajar impuestos ni reducir la recaudación, sino habilitar ese saldo como respaldo para acceder a financiamiento.",
-     "url": "https://www.cronista.com/economia-politica/el-agro-sufre-por-un-impuesto-que-inmoviliza-us-770-millones-pero-una-propuesta-busca-destrabarlos/",
-     "imagen": "https://www.cronista.com/resizer/v2/Y525A6UKLRFKZHKGU3ZMSTJAL4.jpg?auth=2d20dfa8b0e45d574ce73be7deeba2c2c1c22013b58e7968a7a95a38a2b81689&smart=true&width=900&height=520",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "12:03",
-     "autor": "Lucas González Monte",
-     "titulo_original": "El agro sufre por un impuesto que inmoviliza u$s 770 millones, pero una propuesta busca destrabarlos",
-     "relacionadas": []
-    },
-    {
-     "id": "IP-17",
-     "titulo": "Empleadas domésticas: los aumentos de septiembre quedaron entre 1,6% y 1,8%",
-     "resumen": "La Comisión Nacional de Trabajo en Casas Particulares fijó las subas salariales mensuales y sumó la incorporación progresiva de un bono para el sector.",
+     "id": "IP-18",
+     "titulo": "Empleadas domésticas: subas de entre 1,6% y 1,8% para septiembre",
+     "resumen": "La Comisión Nacional de Trabajo en Casas Particulares estableció aumentos mensuales de entre 1,6% y 1,8% para septiembre, además de la incorporación progresiva de un bono adicional.",
      "url": "https://www.iprofesional.com/impuestos/463890-aumento-para-empleadas-domesticas-como-quedan-los-montos-en-septiembre",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/01/590823.jpg",
      "fuente_codigo": "IP",
@@ -441,9 +462,22 @@
      "relacionadas": []
     },
     {
-     "id": "IP-23",
-     "titulo": "La Corte Suprema define si los municipios pueden cobrar tasas en la factura de luz",
-     "resumen": "Un dictamen de la Procuración General pidió al máximo tribunal que respalde la prohibición de incluir tasas municipales en las boletas de electricidad, en una causa que puede afectar a comercios e industrias de distintas jurisdicciones.",
+     "id": "IP-19",
+     "titulo": "ANSES paga hasta $ 383.800 a trabajadores que perdieron su empleo",
+     "resumen": "La prestación por desempleo de ANSES alcanza hasta $ 383.800 para quienes perdieron su trabajo de manera involuntaria y cumplen con los requisitos establecidos por el organismo.",
+     "url": "https://www.iprofesional.com/legales/464125-anses-paga-hasta-383800-por-desempleo-en-septiembre-quienes-pueden-acceder",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/05/517416.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:14",
+     "autor": "",
+     "titulo_original": "ANSES paga hasta $383.800 a quienes perdieron su trabajo y cumplen estos requisitos",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-24",
+     "titulo": "La Corte Suprema debe definir si los municipios pueden cobrar tasas en la factura de luz",
+     "resumen": "Un dictamen de la Procuración General pidió a la Corte Suprema que respalde la prohibición de incluir tasas municipales en las facturas de electricidad, en una causa que puede afectar la forma de facturación de servicios en todo el país. Para una empresa: un fallo en ese sentido reduciría cargos adicionales en las facturas de luz de sucursales y depósitos.",
      "url": "https://www.iprofesional.com/impuestos/464188-corte-define-si-municipios-pueden-cobrar-tasas-factura-de-luz",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/04/595514.jpg",
      "fuente_codigo": "IP",
@@ -454,16 +488,16 @@
      "relacionadas": []
     },
     {
-     "id": "IP-25",
-     "titulo": "ARCA aclaró cómo usar los saldos a favor del Régimen Simplificado de Ganancias",
-     "resumen": "El organismo detalló los mecanismos para recuperar o utilizar pagos en exceso y saldos a favor de Ganancias, mientras el Congreso debate cambios al régimen simplificado. Para una empresa: conviene revisar los saldos acumulados antes de que se definan eventuales modificaciones normativas.",
-     "url": "https://www.iprofesional.com/impuestos/464180-arca-confirmo-que-pasa-si-un-contribuyente-paga-de-mas-en-ganancias",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617921.jpg",
+     "id": "IP-06",
+     "titulo": "Crear una LLC en Estados Unidos puede costarle a un argentino US$ 1.000 al año y pagar impuestos dos veces",
+     "resumen": "Constituir una LLC en Estados Unidos para acceder a soluciones de cobro y marketing digital implica costos impositivos altos y el riesgo de una doble imposición si no hay una planificación fiscal adecuada, según una nota de iProfesional.",
+     "url": "https://www.iprofesional.com/impuestos/464197-sociedad-llc-eeuu-puede-costar-1000-dolares-mes-a-argentinos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/02/511631.jpg",
      "fuente_codigo": "IP",
      "fuente": "iProfesional",
-     "hora": "08:12",
+     "hora": "16:06",
      "autor": "",
-     "titulo_original": "Régimen Simplificado de Ganancias: las nuevas aclaraciones de ARCA sobre pagos y saldos a favor",
+     "titulo_original": "La LLC en EE.UU. puede costar a un argentino u$s1.000 anuales y pagar impuestos dos veces",
      "relacionadas": []
     }
    ],
@@ -473,50 +507,37 @@
    "nombre": "Consumo, construcción y retail",
    "notas": [
     {
-     "id": "IP-04",
-     "titulo": "El Banco Ciudad bajó al 6,5% la tasa de sus créditos hipotecarios, la más baja del mercado",
-     "resumen": "El gobierno porteño redujo la tasa de interés fija preferencial de sus créditos hipotecarios UVA al 6,5% para la compra de primera vivienda. Para un préstamo de $100 millones a 25 años, la cuota inicial es de $658.000 y se exigen ingresos totales desde $2.632.000. Para una empresa: la baja de tasas hipotecarias puede reactivar la demanda de materiales de construcción vinculada a la vivienda unifamiliar.",
+     "id": "IB-24",
+     "titulo": "El Banco Ciudad bajó su tasa hipotecaria al 6,5% para impulsar la compra de primera vivienda",
+     "resumen": "El gobierno porteño redujo la tasa fija preferencial de sus créditos hipotecarios a 6,5%, apuntando a familias de ingresos medios. Para un préstamo en UVA de $ 100 millones a 25 años, la cuota inicial es de $ 658.000 y se exige un ingreso mínimo de $ 2.632.000; la cuota no puede superar el 25% de los ingresos. Para una empresa: tasas hipotecarias más bajas pueden sostener la demanda de materiales de construcción y terminaciones para vivienda.",
      "relacionadas": [
       {
-       "id": "AM-11",
+       "id": "AM-19",
        "fuente_codigo": "AM",
        "fuente": "Ámbito",
        "titulo": "Tras la licitación del FGS, el Banco Ciudad anunció que bajó la tasa para créditos hipotecarios",
        "url": "https://www.ambito.com/economia/tras-la-licitacion-del-fgs-el-banco-ciudad-anuncio-que-la-tasa-creditos-hipotecarios-n6320845"
       },
       {
-       "id": "IB-16",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "El Banco Ciudad bajó la tasa de sus créditos hipotecarios y ahora tiene la más baja del mercado: cómo acceder",
-       "url": "https://www.infobae.com/economia/2026/09/10/el-banco-ciudad-bajo-la-tasa-de-sus-creditos-hipotecarios-y-ahora-tiene-la-mas-baja-del-mercado-como-acceder/"
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Créditos hipotecarios: Banco Ciudad bajó la tasa al 6,5% y cuánto se paga por $100 millones",
+       "url": "https://www.iprofesional.com/economia/464213-creditos-hipotecarios-banco-ciudad-cuotas-igual-alquiler-prestamos-100-millones-septiembre-2026"
       }
      ],
-     "url": "https://www.iprofesional.com/economia/464213-creditos-hipotecarios-banco-ciudad-cuotas-igual-alquiler-prestamos-100-millones-septiembre-2026",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618732.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "14:55",
+     "url": "https://www.infobae.com/economia/2026/09/10/el-banco-ciudad-bajo-la-tasa-de-sus-creditos-hipotecarios-y-ahora-tiene-la-mas-baja-del-mercado-como-acceder/",
+     "imagen": "https://www.infobae.com/resizer/v2/KWBNW4VKHFE4HEDYL72GICXGGQ.png?auth=0767ceb5249b3a146a88d22d1ffc62550ff1404f757a2911fd352d08cd7d6c11&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:34",
      "autor": "",
-     "titulo_original": "Créditos hipotecarios: Banco Ciudad bajó la tasa al 6,5% y cuánto se paga por $100 millones"
+     "titulo_original": "El Banco Ciudad bajó la tasa de sus créditos hipotecarios y ahora tiene la más baja del mercado: cómo acceder"
     },
     {
-     "id": "IP-16",
-     "titulo": "Construyen en Nordelta un desarrollo frente al río con hasta 72 cuotas",
-     "resumen": "El proyecto de 86 unidades incluye amenities y amarras propias, y permite comprar en pozo con un anticipo del 30% y financiación en pesos ajustada por CAC en hasta 72 cuotas.",
-     "url": "https://www.iprofesional.com/realestate/464131-como-es-el-proyecto-inmobiliario-frente-al-rio-en-nordelta-que-ofrece-72-cuotas-en-pesos",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625376.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "11:14",
-     "autor": "",
-     "titulo_original": "Construyen en Nordelta un desarrollo frente al río con 72 cuotas para comprar en pozo",
-     "relacionadas": []
-    },
-    {
-     "id": "CR-17",
-     "titulo": "Banco Provincia lanzó un crédito 100% digital para financiar casas modulares",
-     "resumen": "La línea permite financiar hasta $100 millones para la compra de viviendas modulares comercializadas por empresas adheridas al programa, con gestión desde Cuenta DNI o Home Banking BIP sin trámites presenciales. Para una empresa: el crecimiento del sistema modular abre una demanda específica de materiales y provisión distinta a la obra tradicional.",
+     "id": "CR-26",
+     "titulo": "Banco Provincia lanzó un crédito 100% digital para casas modulares de hasta $ 100 millones",
+     "resumen": "La línea, gestionable desde Cuenta DNI o Home Banking BIP sin trámites presenciales, financia la compra de viviendas modulares comercializadas por empresas adheridas al programa, con montos de hasta $ 100 millones.",
      "url": "https://www.cronista.com/finanzas-mercados/casas-modulares-con-credito-de-banco-provincia-tasas-cuotas-y-condiciones-para-financiar-hasta-100-millones/",
      "imagen": "https://www.cronista.com/resizer/v2/Z2N4Z7QF5FFFZPMXWMT5G6P5TI.jpeg?auth=be4a05bb95083081a69b9145407cd54c1cc21ec47b4b29950bdd8c03244f1926&smart=true&width=900&height=500",
      "fuente_codigo": "CR",
@@ -527,12 +548,38 @@
      "relacionadas": []
     },
     {
-     "id": "CL-16",
-     "titulo": "Mercado Libre baja a $15.000 el piso de compra para envíos gratis desde el lunes",
-     "resumen": "La compañía reduce de $33.000 a $15.000 el monto mínimo para el envío sin cargo a través de Meli+, en el marco de un plan de inversiones de US$ 3.400 millones para este año. La medida busca dinamizar el consumo en el interior del país de cara a la temporada alta de ventas.",
+     "id": "IP-20",
+     "titulo": "Construyen en Nordelta un desarrollo frente al río con hasta 72 cuotas en pozo",
+     "resumen": "El proyecto contempla 86 unidades frente al agua, amenities y amarras propias, con la posibilidad de comprar en pozo con un anticipo del 30% y hasta 72 cuotas en pesos ajustadas por el índice de la construcción CAC.",
+     "url": "https://www.iprofesional.com/realestate/464131-como-es-el-proyecto-inmobiliario-frente-al-rio-en-nordelta-que-ofrece-72-cuotas-en-pesos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625376.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:14",
+     "autor": "",
+     "titulo_original": "Construyen en Nordelta un desarrollo frente al río con 72 cuotas para comprar en pozo",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-23",
+     "titulo": "El metro cuadrado en La Plata cuesta 41% menos que en la Ciudad de Buenos Aires",
+     "resumen": "El precio de publicación de propiedades en la capital bonaerense es 41% inferior al de CABA, según un relevamiento que identificó las zonas más buscadas y el tipo de viviendas que concentran la demanda.",
+     "url": "https://www.iprofesional.com/realestate/464191-cuanto-cuesta-el-metro-cuadrado-en-la-plata-y-que-diferencia-tiene-con-caba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625473.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "El metro cuadrado en La Plata ya cuesta un 41% menos que en la Ciudad de Buenos Aires",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Mercado Libre baja a $ 15.000 el piso para envíos gratis y acelera su expansión",
+     "resumen": "La compañía redujo desde $ 33.000 a $ 15.000 el monto mínimo de compra para acceder a envíos sin costo a través de Meli+, desde el lunes, sin costo adicional para los vendedores. La medida es parte de un plan de inversiones de US$ 3.400 millones para este año y apunta a dinamizar el consumo, especialmente en el interior del país. Para una empresa: el abaratamiento de los envíos presiona a bajar umbrales similares en la competencia de comercio electrónico y retail físico.",
      "relacionadas": [
       {
-       "id": "CR-12",
+       "id": "CR-21",
        "fuente_codigo": "CR",
        "fuente": "El Cronista",
        "titulo": "Fuerte apuesta de Mercado Libre en envíos gratis para ganar más usuarios ‘premium’",
@@ -546,32 +593,6 @@
      "hora": "14:31",
      "autor": "Clarin.com - Home",
      "titulo_original": "Mercado Libre acelera su expansión en el país y lanza envíos sin costo desde el lunes"
-    },
-    {
-     "id": "IP-11",
-     "titulo": "Golpeados por la caída de ventas, Adriana Costantini y Ricky Sarkany cierran locales clave",
-     "resumen": "Las marcas de indumentaria y calzado cerraron puntos de venta por la baja en las ventas y los altos costos operativos, y avanzan con liquidaciones de stock.",
-     "url": "https://www.iprofesional.com/negocios/464196-por-bajas-ventas-adriana-costantini-y-sarkany-cierran-locales-en-la-plata",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625482.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "13:10",
-     "autor": "",
-     "titulo_original": "Golpeados por las bajas ventas, Adriana Costantini y Ricky Sarkany cierran locales clave",
-     "relacionadas": []
-    },
-    {
-     "id": "IP-22",
-     "titulo": "El metro cuadrado en La Plata cuesta un 41% menos que en la Ciudad de Buenos Aires",
-     "resumen": "El precio de publicación de las propiedades en la capital bonaerense se ubica muy por debajo del valor porteño, lo que impulsa la demanda en determinadas zonas de la ciudad.",
-     "url": "https://www.iprofesional.com/realestate/464191-cuanto-cuesta-el-metro-cuadrado-en-la-plata-y-que-diferencia-tiene-con-caba",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625473.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "10:00",
-     "autor": "",
-     "titulo_original": "El metro cuadrado en La Plata ya cuesta un 41% menos que en la Ciudad de Buenos Aires",
-     "relacionadas": []
     }
    ],
    "id": "consumo-construccion-y-retail"
@@ -580,9 +601,9 @@
    "nombre": "Management y finanzas corporativas",
    "notas": [
     {
-     "id": "IP-20",
-     "titulo": "Cuál es el mejor momento para pedir un aumento de sueldo en la Argentina",
-     "resumen": "Pese a la retracción de varios sectores, especialistas señalan que sigue siendo posible negociar un aumento salarial, con diferencias marcadas entre corporaciones, pymes y empresas familiares a la hora de encarar el pedido.",
+     "id": "IP-21",
+     "titulo": "Cuándo conviene pedir un aumento de sueldo en la Argentina de hoy",
+     "resumen": "Pese a la retracción de varios sectores, especialistas señalan que hay ventanas para negociar un aumento salarial, con diferencias marcadas entre corporaciones, pymes y empresas familiares a la hora de argumentar el pedido.",
      "url": "https://www.iprofesional.com/management/464192-el-mejor-momento-para-pedir-un-aumento-de-sueldo-en-argentina",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/586561.jpg",
      "fuente_codigo": "IP",
@@ -593,22 +614,9 @@
      "relacionadas": []
     },
     {
-     "id": "CR-04",
-     "titulo": "Pato Jebsen, sobre el choque generacional en las oficinas y el impacto de la IA en el trabajo",
-     "resumen": "La ejecutiva, que ganó notoriedad al viralizar en redes su rutina corporativa, contó en el ciclo Cuentas Claras de El Cronista Stream cómo detectó una demanda de la Generación Z por entender el mundo laboral y se refirió a los desafíos que la inteligencia artificial genera en los equipos de trabajo.",
-     "url": "https://www.cronista.com/negocios/pato-jebsen-en-sin-manual-sus-aprendizajes-con-galperin-como-nacio-mami-corpo-y-el-problema-que-genero-la-ia-en-el-mundo-del-trabajo/",
-     "imagen": "https://www.cronista.com/resizer/v2/YVSBJJMML5A2VF6QE5RWPZYQZU.png?auth=ba7086d28470f7073bd82fb1a91426aa2dfd1c99f90e506798539d040cb063e3&smart=true&width=790&height=507",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "15:12",
-     "autor": "",
-     "titulo_original": "Pato Jebsen en Sin Manual: sus aprendizajes con Galperin, cómo nació “Mami Corpo” y el problema que generó la IA en el mundo del trabajo",
-     "relacionadas": []
-    },
-    {
      "id": "IP-26",
-     "titulo": "Día del Programador: en la era de la IA, el criterio importa más que la técnica",
-     "resumen": "En el marco del Día del Programador 2026, especialistas remarcan que el valor de quienes desarrollan tecnología pasa hoy por entender qué problema resolver y para quién, más que por el dominio de una herramienta puntual.",
+     "titulo": "En la era de la inteligencia artificial, el criterio profesional pesa más que el código",
+     "resumen": "Con motivo del Día del Programador, una nota de iProfesional sostiene que el valor de quienes desarrollan tecnología pasa cada vez más por definir qué problema resolver, para quién y con qué propósito, y menos por la escritura de código en sí.",
      "url": "https://www.iprofesional.com/management/464176-dia-del-programador-la-ia-cambia-el-codigo-pero-no-reemplaza-el-criterio",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/01/530304.jpg",
      "fuente_codigo": "IP",
@@ -625,22 +633,9 @@
    "nombre": "Mundo",
    "notas": [
     {
-     "id": "CL-18",
-     "titulo": "Un bombardeo ruso contra un shopping de Ucrania dejó cuatro muertos y 60 heridos",
-     "resumen": "El ataque se produjo en la ciudad de Pavlogrado, en el centro-este ucraniano, en pleno horario diurno y con las calles llenas de gente, según denunció el ministro del Interior de Ucrania, Ivan Vygivski.",
-     "url": "https://www.clarin.com/mundo/muertos-60-heridos-bombardeo-rusia-centro-comercial-ucrania_0_A3TdtBL8mN.html",
-     "imagen": "https://www.clarin.com/img/2026/09/10/xD7LwMKI7_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "14:30",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "Cuatro muertos y 60 heridos en un bombardeo de Rusia contra un centro comercial de Ucrania",
-     "relacionadas": []
-    },
-    {
-     "id": "IB-17",
+     "id": "IB-25",
      "titulo": "Por primera vez en la guerra, Ucrania atacó una planta de gas en el Ártico ruso",
-     "resumen": "Un dron ucraniano alcanzó una planta de gas natural en Novy Urengoy, a entre 2.800 y 3.300 kilómetros de la frontera, el ataque de mayor alcance del conflicto hasta la fecha. La instalación, con capacidad para procesar cerca de 19,5 millones de toneladas anuales de gas condensado, sufrió un incendio confirmado por las autoridades rusas.",
+     "resumen": "Un dron ucraniano alcanzó una planta de gas natural en Novy Urengoy, a una distancia estimada de entre 2.800 y 3.300 kilómetros de la frontera, el ataque de mayor alcance del conflicto hasta la fecha. La instalación, con capacidad para procesar cerca de 19,5 millones de toneladas anuales de gas condensado, sufrió un incendio confirmado por el gobernador de la región de Yamalo-Nenets.",
      "url": "https://www.infobae.com/america/mundo/2026/09/10/por-primera-vez-desde-que-comenzo-la-guerra-ucrania-lanzo-un-ataque-contra-una-planta-de-gas-en-el-artico-ruso/",
      "imagen": "https://www.infobae.com/resizer/v2/5NC3NVYJA46VWPFCSY45QHP7AA.jpg?auth=2bb6c79412f82bb337342970566b8cd7e92933bda352fb0c685c71b6bca41b7b&smart=true&width=900&height=606",
      "fuente_codigo": "IB",
@@ -651,71 +646,63 @@
      "relacionadas": []
     },
     {
-     "id": "CL-21",
-     "titulo": "Zelenski reveló un agujero fiscal de US$ 27.000 millones y Europa exige explicaciones",
-     "resumen": "El monto supera en casi US$ 20.000 millones lo que se esperaba, en momentos en que Ucrania depende financieramente de la ayuda de Bruselas. La Comisión Europea pidió revisar en detalle las cuentas de Kiev antes de definir cuánto costará cubrir el déficit.",
-     "relacionadas": [
-      {
-       "id": "IB-20",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "Volodimir Zelensky anticipó un nuevo paquete canadiense de ayuda para la defensa aérea de Ucrania",
-       "url": "https://www.infobae.com/america/mundo/2026/09/10/volodimir-zelensky-anticipo-un-nuevo-paquete-canadiense-de-ayuda-para-la-defensa-aerea-de-ucrania/"
-      }
-     ],
-     "url": "https://www.clarin.com/mundo/zelenski-destapa-agujero-fiscal-27000-millones-dolares-furiosa-europa-quiere-saber_0_dHIqHOAhPs.html",
-     "imagen": "https://www.clarin.com/img/2026/09/10/g72dt2QPq_1200x630__1.jpg",
+     "id": "CL-20",
+     "titulo": "Cuatro muertos y sesenta heridos en un bombardeo ruso contra un centro comercial",
+     "resumen": "El ataque ocurrió en la ciudad de Pavlogrado, en el centro-este de Ucrania, en pleno día y con las calles llenas de gente, según las autoridades. El ministro del Interior ucraniano calificó el hecho a través de sus redes sociales.",
+     "url": "https://www.clarin.com/mundo/muertos-60-heridos-bombardeo-rusia-centro-comercial-ucrania_0_A3TdtBL8mN.html",
+     "imagen": "https://www.clarin.com/img/2026/09/10/xD7LwMKI7_1200x630__1.jpg",
      "fuente_codigo": "CL",
      "fuente": "Clarín",
-     "hora": "13:23",
+     "hora": "14:30",
      "autor": "Clarin.com - Home",
-     "titulo_original": "Zelenski destapa un agujero fiscal de 27.000 millones de dólares: furiosa, Europa quiere saber por qué"
-    },
-    {
-     "id": "IB-25",
-     "titulo": "La OIEA remitió el caso de Irán al Consejo de Seguridad de la ONU por falta de cooperación",
-     "resumen": "Rafael Grossi, director del organismo, dijo que Teherán no coopera con las inspecciones nucleares y que eso deteriora la capacidad de verificación internacional. Es la primera vez en 20 años que la OIEA remite un caso de Irán al Consejo de Seguridad; la resolución fue impulsada por Estados Unidos y los países europeos del E3.",
-     "relacionadas": [
-      {
-       "id": "GC-02",
-       "fuente_codigo": "GC",
-       "fuente": "Le Grand Continent",
-       "titulo": "¿Volverá Trump a atacar las instalaciones nucleares iraníes?",
-       "url": "https://legrandcontinent.eu/es/2026/09/10/trump-volvera-a-atacar-instalaciones-nucleares-iranies/"
-      }
-     ],
-     "url": "https://www.infobae.com/america/mundo/2026/09/10/la-oiea-dijo-que-iran-se-niega-a-cooperar-con-las-inspecciones-nucleares-y-remitio-el-caso-al-consejo-de-seguridad-de-la-onu/",
-     "imagen": "https://www.infobae.com/resizer/v2/433N62PYAFH47DZYYK6HGQQM7M.jpg?auth=3383b1660d248d629e79987aeb464275ca91be9f6af8c2abe386cf645a930519&smart=true&width=900&height=600",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "13:12",
-     "autor": "",
-     "titulo_original": "La OIEA dijo que Irán se niega a cooperar con las inspecciones nucleares y remitió el caso al Consejo de Seguridad de la ONU"
-    },
-    {
-     "id": "AM-20",
-     "titulo": "Corea del Sur prevé invertir US$ 100.000 millones en Estados Unidos para un megaproyecto energético",
-     "resumen": "El plan busca impulsar el desarrollo de inteligencia artificial con hasta ocho centrales nucleares y una planta de gas, y se suma al acuerdo comercial por inversiones manufactureras alcanzado en octubre pasado entre ambos países.",
-     "url": "https://www.ambito.com/economia/corea-del-sur-preve-una-inversion-us100000-millones-eeuu-un-megaproyecto-energetico-n6320782",
-     "imagen": "https://media.ambito.com/p/768b81614509028bc00509b2fbb5d2d8/adjuntos/239/imagenes/043/634/0043634061/1200x675/986x255:1006x275/trump-corea.png",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "12:48",
-     "autor": "",
-     "titulo_original": "Corea del Sur prevé una inversión de u$s100.000 millones en EEUU para un megaproyecto energético",
+     "titulo_original": "Cuatro muertos y 60 heridos en un bombardeo de Rusia contra un centro comercial de Ucrania",
      "relacionadas": []
     },
     {
-     "id": "LN-04",
-     "titulo": "Una start-up respaldada por Peter Thiel promete fabricar misiles low cost a gran escala",
-     "resumen": "Covenant, fundada hace apenas dos años, anunció la apertura de una planta para producir miles de misiles de crucero de largo alcance a una fracción del costo de los sistemas tradicionales, en momentos en que Estados Unidos y Europa buscan reponer arsenales.",
-     "url": "https://www.lanacion.com.ar/el-mundo/de-silicon-valley-a-la-guerra-una-start-up-respaldada-por-peter-thiel-fabricara-misiles-low-cost-a-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/CK4MGAUUDRHIJD773STHY54PZQ.jpeg?auth=8b80566726f23a3d8a3b9f233f6810c632a010898a37cbca9cef9654ff2363e6&smart=true&width=900&height=534",
+     "id": "CL-10",
+     "titulo": "Irán dice que atacó un dron naval de Estados Unidos en el estrecho de Ormuz",
+     "resumen": "La fuerza iraní informó haber atacado un dron marítimo estadounidense que operaba en Ormuz como parte de la Quinta Flota con base en Bahréin. En paralelo, el Organismo Internacional de Energía Atómica, dirigido por el argentino Rafael Grossi, afirmó que Irán no coopera con las inspecciones y detectó actividad de construcción en un sitio sospechado de uso nuclear.",
+     "relacionadas": [
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El OIEA afirma que Irán no coopera con las inspecciones nucleares",
+       "url": "https://www.clarin.com/mundo/oiea-afirma-iran-coopera-inspecciones-nucleares_0_Us8TfYdfCC.html"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/iran-afirma-que-ataco-un-dron-maritimo-de-eeuu-en-ormuz_0_xr6EuYfYzJ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Irán afirma que atacó un dron marítimo de EEUU en Ormuz"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "El líder de AfD en Sajonia-Anhalt no descarta nuevas elecciones si no forma gobierno",
+     "resumen": "Tras ganar el 43,8% de los votos en la región alemana, muy por encima de la Unión Cristianodemócrata, el partido de extrema derecha no consiguió sumar apoyos de otras fuerzas para gobernar. Su líder, Ulrich Siegmund, dijo que no evitará una nueva convocatoria electoral si la situación no se destraba.",
+     "url": "https://www.infobae.com/america/mundo/2026/09/10/el-lider-de-afd-en-sajonia-anhalt-no-descarto-nuevas-elecciones-si-no-consigue-formar-gobierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/B4XSIPASZBDFHBLTAN6TSHVQ3Q.JPG?auth=ed8089c99c67d84cc4b9b3e28cf97d15776101e227cf65220d42437dcb2da13d&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:06",
+     "autor": "",
+     "titulo_original": "El líder de AfD en Sajonia-Anhalt no descartó nuevas elecciones si no consigue formar gobierno",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Agosto de 2026 fue el mes más caluroso jamás registrado en el planeta",
+     "resumen": "Según el monitor climático europeo Copernicus, la temperatura promedio global fue de 16,9 grados, 0,01 grados por encima del récord mensual previo, con temperaturas oceánicas también en niveles sin precedentes. Naciones Unidas advirtió que la tendencia continuará mientras no se abandonen los combustibles fósiles.",
+     "url": "https://www.lanacion.com.ar/el-mundo/agosto-fue-el-mes-mas-caluroso-jamas-registrado-en-todo-el-planeta-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CZMSAZD3RZF6XGCUKTWYZ6CB2M.png?auth=3f3816dba268aed653f81a546685dd3fafb312421d666f98f1729dea33624099&smart=true&width=900&height=600",
      "fuente_codigo": "LN",
      "fuente": "La Nación",
-     "hora": "15:54",
+     "hora": "12:26",
      "autor": "",
-     "titulo_original": "De Silicon Valley a la guerra: una start-up respaldada por Peter Thiel fabricará misiles low cost a gran escala",
+     "titulo_original": "Agosto de 2026 fue el mes más caluroso jamás registrado en todo el planeta",
      "relacionadas": []
     }
    ],
@@ -723,33 +710,25 @@
   },
   {
    "nombre": "Europa y geopolítica",
-   "intro": "La revista francesa analiza la escalada entre Occidente e Irán, el avance ruso en el Donbás y la interna política alemana tras el ascenso de la ultraderecha.",
+   "intro": "Le Grand Continent explica el ángulo analítico detrás de cinco temas clave de la semana en Europa y Medio Oriente.",
    "notas": [
     {
-     "id": "GC-02",
-     "titulo": "El envío del caso iraní al Consejo de Seguridad reabre la pregunta sobre un nuevo ataque de Trump",
-     "resumen": "Le Grand Continent señala que la resolución de la OIEA, votada por primera vez en 20 años contra Irán, combina la vieja cuestión de las partículas de uranio detectadas desde 2019 con la falta de cooperación de Teherán tras los ataques de Estados Unidos e Israel a su programa nuclear en junio de 2025. La revista advierte que la medida, impulsada por Washington y el E3, reabre la posibilidad de una nueva ofensiva militar sobre las instalaciones atómicas iraníes.",
-     "relacionadas": [
-      {
-       "id": "IB-25",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "La OIEA dijo que Irán se niega a cooperar con las inspecciones nucleares y remitió el caso al Consejo de Seguridad de la ONU",
-       "url": "https://www.infobae.com/america/mundo/2026/09/10/la-oiea-dijo-que-iran-se-niega-a-cooperar-con-las-inspecciones-nucleares-y-remitio-el-caso-al-consejo-de-seguridad-de-la-onu/"
-      }
-     ],
-     "url": "https://legrandcontinent.eu/es/2026/09/10/trump-volvera-a-atacar-instalaciones-nucleares-iranies/",
+     "id": "GC-01",
+     "titulo": "La promesa de Trump de pagar US$ 5.000 a cada estadounidense no tiene precedentes",
+     "resumen": "Donald Trump se comprometió, durante una convención republicana en Dallas, a pagar un dividendo de US$ 5.000 a cada adulto estadounidense si su partido gana la mayoría en ambas cámaras del Congreso en las elecciones de mitad de mandato del 3 de noviembre. Es la primera vez que un presidente intenta influir tan abiertamente en el voto con una promesa de dinero directo, aunque juristas consultados consideran que no sería ilegal porque alcanzaría a todos los adultos por igual. El costo estimado del programa rondaría US$ 1,225 billones.",
+     "url": "https://legrandcontinent.eu/es/2026/09/10/la-promesa-de-trump-de-pagar-5000-dolares-a-estadounidenses-en-caso-de-victoria-republicana-aux-elections-est-sans-precedent/",
      "imagen": null,
      "fuente_codigo": "GC",
      "fuente": "Le Grand Continent",
-     "hora": "12:39",
-     "autor": "Ramona Bloj",
-     "titulo_original": "¿Volverá Trump a atacar las instalaciones nucleares iraníes?"
+     "hora": "16:42",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La promesa de Trump de pagar 5.000 dólares a los estadounidenses en caso de victoria republicana en las elecciones no tiene precedentes",
+     "relacionadas": []
     },
     {
-     "id": "GC-01",
-     "titulo": "La propaganda antiestadounidense se intensifica en las calles de Teherán",
-     "resumen": "El análisis describe cómo el régimen iraní despliega desde 1979 carteles, murales y museos como el 'de la arrogancia occidental' para sostener la hostilidad hacia Estados Unidos como recurso de control del espacio urbano y de la narrativa interna, en un momento de máxima tensión con Washington.",
+     "id": "GC-02",
+     "titulo": "La guerra contra Trump en las paredes de Teherán",
+     "resumen": "Desde la revolución de 1979, el espacio urbano iraní despliega de forma sistemática carteles, murales y exposiciones con el tema de la hostilidad hacia Estados Unidos, que el régimen renueva periódicamente para sostener el control narrativo de la capital.",
      "url": "https://legrandcontinent.eu/es/2026/09/10/la-guerra-contra-trump-en-las-paredes-de-teheran/",
      "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/SIPA_ap23048205_000005-scaled.jpg",
      "fuente_codigo": "GC",
@@ -761,8 +740,21 @@
     },
     {
      "id": "GC-03",
-     "titulo": "Merz acusa a la AfD de buscar una 'limpieza étnica' tras su victoria en Sajonia-Anhalt",
-     "resumen": "Tres días después del triunfo de la ultraderecha en ese estado federado, el canciller alemán pronunció un discurso combativo en el Bundestag, en medio de interrupciones de la bancada de Alice Weidel. Le Grand Continent lee el episodio como una muestra de que el poder de Merz se debilita mientras la AfD gana terreno con un discurso que rechaza las coaliciones tradicionales.",
+     "titulo": "Por qué el OIEA remitió el caso de Irán al Consejo de Seguridad de la ONU",
+     "resumen": "Por primera vez en 20 años, el Organismo Internacional de Energía Atómica votó remitir a Irán ante el Consejo de Seguridad, por partículas de uranio detectadas desde 2019 en instalaciones no declaradas y por la falta de cooperación tras los ataques de Estados Unidos e Israel al programa nuclear iraní en junio de 2025. La resolución, impulsada por Estados Unidos y los países europeos del grupo E3, obtuvo el respaldo de 23 de los 35 miembros de la junta de gobernadores.",
+     "url": "https://legrandcontinent.eu/es/2026/09/10/trump-volvera-a-atacar-instalaciones-nucleares-iranies/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:39",
+     "autor": "Ramona Bloj",
+     "titulo_original": "¿Volverá Trump a atacar las instalaciones nucleares iraníes?",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-04",
+     "titulo": "El discurso de Merz contra la AfD tras su victoria en Sajonia-Anhalt",
+     "resumen": "Tres días después del triunfo electoral de la extrema derecha en Sajonia-Anhalt, el canciller alemán Friedrich Merz acusó a la AfD de buscar una limpieza étnica en Alemania, en un discurso combativo pronunciado ante interrupciones constantes de la bancada del partido. El análisis destaca que el poder de Merz se debilitó tras la elección.",
      "url": "https://legrandcontinent.eu/es/2026/09/10/el-discurso-de-merz-contra-afd/",
      "imagen": null,
      "fuente_codigo": "GC",
@@ -773,9 +765,9 @@
      "relacionadas": []
     },
     {
-     "id": "GC-04",
-     "titulo": "Los combates rusos se acercan a Kramatorsk y ponen en riesgo el cinturón de fortalezas del Donbás",
-     "resumen": "La revista reporta la infiltración de un grupo de reconocimiento y sabotaje ruso a menos de dos kilómetros de la ciudad, que junto a Sloviansk y Kostiantynivka contuvo hasta ahora el avance de Moscú. Pese al lento ritmo de progreso ruso, el análisis advierte que la caída del cinturón podría acelerar la ofensiva sobre la región.",
+     "id": "GC-05",
+     "titulo": "Los combates se acercan a la ciudad ucraniana de Kramatorsk",
+     "resumen": "Un grupo de reconocimiento y sabotaje ruso se infiltró a menos de dos kilómetros de las primeras viviendas de Kramatorsk, parte del cinturón de fortalezas del Donbás junto con Sloviansk y Kostiantynivka. Los combatientes se ubican a unos 14 kilómetros de la ciudad, frente a los 17 kilómetros de comienzos de año, y la caída de ese cinturón podría acelerar el avance ruso.",
      "url": "https://legrandcontinent.eu/es/2026/09/10/los-combates-se-acercan-a-kramatorsk/",
      "imagen": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f1fa-1f1e6.png",
      "fuente_codigo": "GC",
@@ -792,124 +784,92 @@
    "nombre": "Deportes",
    "notas": [
     {
-     "id": "CL-14",
-     "titulo": "La Fórmula 1 debuta este fin de semana en el nuevo circuito urbano de Madrid",
-     "resumen": "El Gran Premio de España se corre por primera vez en el trazado de Madring, con entrenamientos libres desde el viernes y la clasificación el sábado, que definirá la largada de la carrera del domingo a las 10, hora argentina.",
+     "id": "LN-12",
+     "titulo": "Antonelli lidera con comodidad la Fórmula 1 y Colapinto ya suma 21 puntos",
+     "resumen": "El italiano Andrea Kimi Antonelli, de 19 años, encabeza la tabla de posiciones de la Fórmula 1 2026 con 267 puntos, 66 más que su escolta George Russell, tras ganar siete carreras en la temporada. El argentino Franco Colapinto acumula 21 puntos con Alpine de cara al estreno del circuito de Madrid este fin de semana.",
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/asi-esta-la-tabla-de-posiciones-de-la-formula-1-2026-en-la-previa-del-gp-de-espana-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PX2YSKEOHVB7BNKSVPLZTY44TM.JPG?auth=547052de91e479bd88cc2b74b80fb11b00b397a3f85caffd7685378412da676e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:12",
+     "autor": "",
+     "titulo_original": "Así está la tabla de posiciones de la Fórmula 1 2026, en la previa del GP de España",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Pilotos advierten sobre las dificultades del nuevo circuito de Madrid",
+     "resumen": "Colapinto y Pierre Gasly, de Alpine, señalaron que el trazado de Madring tiene curvas traicioneras y muros cercanos que complicarán la carrera de este fin de semana. El tetracampeón Max Verstappen también expuso sus dudas tras probar el circuito en un videojuego y calificarlo de terrible, en el regreso de la Fórmula 1 a Madrid después de 45 años.",
      "relacionadas": [
       {
-       "id": "LN-13",
-       "fuente_codigo": "LN",
-       "fuente": "La Nación",
-       "titulo": "A qué hora es la qualy del GP de España 2026 de este sábado 5 de septiembre",
-       "url": "https://www.lanacion.com.ar/deportes/automovilismo/a-que-hora-es-la-qualy-del-gp-de-espana-2026-de-este-sabado-5-de-septiembre-nid10092026/"
-      },
-      {
-       "id": "AM-10",
-       "fuente_codigo": "AM",
-       "fuente": "Ámbito",
-       "titulo": "Colapinto y Gasly encendieron las alarmas por el GP de Madrid: \"Curvas traicioneras, es picante\"",
-       "url": "https://www.ambito.com/deportes/colapinto-y-gasly-encendieron-las-alarmas-el-gp-madrid-curvas-traicioneras-es-picante-n6320856"
-      }
-     ],
-     "url": "https://www.clarin.com/deportes/f1-gp-espana-horarios-entrenamiento-clasificacion-ver-formula-1_0_FNCiLPGwgm.html",
-     "imagen": "https://www.clarin.com/img/2026/09/03/VRSu9N_il_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "14:41",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "F1 GP de España: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1"
-    },
-    {
-     "id": "IB-23",
-     "titulo": "Franco Colapinto: 'Es de los circuitos más difíciles de la temporada, las curvas son traicioneras'",
-     "resumen": "El piloto argentino de Alpine describió al Madring como un trazado exigente en el que resultó casi imposible cerrar una vuelta perfecta en el simulador. En la previa, Colapinto también le respondió con humor a su compañero Pierre Gasly, comparando el estadio de Boca con el circuito madrileño, mientras Ferrari intentaba cerrar la crisis entre Charles Leclerc y Lewis Hamilton tras el toque de Monza.",
-     "relacionadas": [
-      {
-       "id": "IB-18",
+       "id": "IB-13",
        "fuente_codigo": "IB",
        "fuente": "Infobae",
-       "titulo": "“Bombonera”: la divertida “corrección” de Franco Colapinto a Pierre Gasly antes del Gran Premio de España de Fórmula 1",
-       "url": "https://www.infobae.com/deportes/2026/09/10/la-divertida-correccion-de-franco-colapinto-a-pierre-gasly-antes-del-gran-premio-de-espana-de-formula-1-bombonera/"
-      },
-      {
-       "id": "IB-01",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "Los detalles del cara a cara de Charles Leclerc y Lewis Hamilton tras la crisis que se desató en Ferrari por su toque en Monza",
-       "url": "https://www.infobae.com/deportes/2026/09/10/los-detalles-del-cara-a-cara-de-charles-leclerc-y-lewis-hamilton-tras-la-crisis-que-se-desato-en-ferrari-por-su-toque-en-monza/"
+       "titulo": "El desafío de Max Verstappen en un videojuego que despertó dudas sobre el circuito de Madrid en la Fórmula 1: “Es terrible”",
+       "url": "https://www.infobae.com/deportes/2026/09/10/el-desafio-de-max-verstappen-en-un-videojuego-que-desperto-dudas-sobre-el-circuito-de-madrid-en-la-formula-1-es-terrible/"
       }
      ],
-     "url": "https://www.infobae.com/deportes/2026/09/10/franco-colapinto-planteo-cual-es-su-mayor-preocupacion-de-cara-al-estreno-del-circuito-de-madrid-de-formula-1-son-traicioneras/",
-     "imagen": "https://www.infobae.com/resizer/v2/JJZ36NE7YFEFRN5JNRXM4OFM2A.JPG?auth=9931490e15e315603c74c740e2a62d370e399a7d9ef3935cc62e901a13b801fc&smart=true&width=900&height=506",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "13:31",
+     "url": "https://www.ambito.com/deportes/colapinto-y-gasly-encendieron-las-alarmas-el-gp-madrid-curvas-traicioneras-es-picante-n6320856",
+     "imagen": "https://media.ambito.com/p/cceba7059510bb2b8a95e88cc9348a9e/adjuntos/239/imagenes/043/138/0043138643/gasly-y-colapinto.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:39",
      "autor": "",
-     "titulo_original": "Franco Colapinto planteó cuál es su mayor preocupación de cara al estreno del circuito de Madrid de Fórmula 1: “Son traicioneras”"
-    },
-    {
-     "id": "LN-05",
-     "titulo": "Arrancó la primera fecha de la fase liga de la Champions League con argentinos en cancha",
-     "resumen": "Como, con Nico Paz de titular, recibió a RB Leipzig; Manchester United, con Lisandro Martínez desde el arranque, jugó ante Sabah; y Roma, con Paulo Dybala, abrió la jornada. Bayern Munich y Slavia Praga completaron la agenda del día.",
-     "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/YR6EJWTBVJG4RB6KSJ2SPLBLZE.JPG?auth=05fbc404f7effed3b6af26a7db8391ec26a5fd70acac06f76841d557574b03e8&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "15:54",
-     "autor": "",
-     "titulo_original": "Champions League, en vivo: el minuto a minuto de los partidos",
-     "relacionadas": []
-    },
-    {
-     "id": "LN-08",
-     "titulo": "La Argentina será anfitriona del Mundial de Powerchair Football 2026 en octubre",
-     "resumen": "Diez selecciones de cinco continentes, entre ellas la Argentina, Inglaterra y Japón, disputarán del 17 al 23 de octubre en el Parque Olímpico porteño la primera edición del Mundial de fútbol en silla de ruedas motorizada que se juega en el país y en América Latina.",
-     "url": "https://www.lanacion.com.ar/deportes/la-argentina-sera-anfitriona-del-mundial-de-powerchair-football-2026-en-octubre-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/BEEOHNUC7BG7ZM3EWWO5GV77UA.jpeg?auth=3aecda9c5fef7315d1c672200893a49ab94e4a0ece5bb7e5d84a6fd17c8ef5e7&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "15:50",
-     "autor": "",
-     "titulo_original": "La Argentina será anfitriona del Mundial de Powerchair Football 2026 en octubre",
-     "relacionadas": []
-    },
-    {
-     "id": "LN-17",
-     "titulo": "River visita a Atlético Tucumán el sábado por el Torneo Clausura",
-     "resumen": "El partido, correspondiente a la fecha 9 del Grupo B, se juega a las 17.30 en el estadio Monumental José Fierro con arbitraje de Andrés Gariano y televisación de TNT Sports. Ambos equipos llegan con cuatro partidos consecutivos sin perder.",
-     "url": "https://www.lanacion.com.ar/deportes/futbol/river-vs-atletico-tucuman-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/WNTSB6BV6BBHBC2AMUWL3BNIEA.jpg?auth=57694d2c5e3c5b606d12d5219383c90ae97c187fa073e5fd805870a83e1f6c4d&smart=true&width=900&height=601",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "13:37",
-     "autor": "",
-     "titulo_original": "River vs. Atlético Tucumán, por el Torneo Clausura 2026: día, horario, TV y cómo ver online",
-     "relacionadas": []
+     "titulo_original": "Colapinto y Gasly encendieron las alarmas por el GP de Madrid: \"Curvas traicioneras, es picante\""
     },
     {
      "id": "CL-22",
-     "titulo": "La AFA programó el cruce de Copa Argentina entre Boca y Racing",
-     "resumen": "El Tribunal de Disciplina todavía debe resolver el reclamo de Vélez por la inclusión de extranjeros, con fallo previsto para el 17 de septiembre, pero el cronograma oficial ya contempla a Boca frente a Racing en los cuartos de final.",
+     "titulo": "La AFA fijó fecha para Boca-Racing por Copa Argentina, con el reclamo de Vélez pendiente",
+     "resumen": "El cruce de cuartos de final está programado, aunque el fallo por la mala inclusión de extranjeros que reclamó Vélez todavía no se resolvió; el Tribunal de Disciplina se expedirá el 17 de septiembre. En paralelo, Boca acordó la venta de uno de sus futbolistas a México.",
+     "relacionadas": [
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Boca vendió a un jugador a México: ¿cuánto dinero recibirá?",
+       "url": "https://www.ambito.com/deportes/boca-vendio-un-jugador-mexico-cuanto-dinero-recibira-n6320811"
+      }
+     ],
      "url": "https://www.clarin.com/deportes/afa-programo-boca-vs-racing-copa-argentina-pasa-reclamo-velez_0_jPgzJ5M40S.html",
      "imagen": "https://www.clarin.com/img/2026/08/24/l3h-VXLsF_1200x630__1.jpg",
      "fuente_codigo": "CL",
      "fuente": "Clarín",
      "hora": "13:22",
      "autor": "Clarin.com - Home",
-     "titulo_original": "La AFA programó el Boca vs Racing de Copa Argentina: qué pasa con el reclamo de Vélez",
-     "relacionadas": []
+     "titulo_original": "La AFA programó el Boca vs Racing de Copa Argentina: qué pasa con el reclamo de Vélez"
     },
     {
-     "id": "CL-19",
-     "titulo": "Victoria Granatto explicó su frase sobre Messi tras la polémica",
-     "resumen": "La campeona del mundo con el seleccionado de hockey femenino aseguró que su comentario sobre si el capitán de la Selección sabría que las Leonas salieron campeonas fue 'absolutamente sacado de contexto' y que buscaba reivindicar a las referentes del deporte.",
+     "id": "IB-21",
+     "titulo": "Scaloni no tiene decidido si renovará como entrenador de la Selección",
+     "resumen": "Walter Samuel, histórico ayudante de campo, dejará el cuerpo técnico de la Selección, lo que alimenta las dudas sobre la continuidad de Lionel Scaloni. El presidente de la AFA, Claudio Tapia, buscará reunirse con el entrenador durante la próxima fecha FIFA para intentar convencerlo, ya que el organismo no tiene un plan alternativo.",
      "relacionadas": [
       {
-       "id": "AM-19",
+       "id": "AM-07",
        "fuente_codigo": "AM",
        "fuente": "Ámbito",
-       "titulo": "La figura de Las Leonas Vicky Granatto rompió el silencio tras la polémica por su frase sobre Messi",
-       "url": "https://www.ambito.com/deportes/la-figura-las-leonas-vicky-granatto-rompio-el-silencio-la-polemica-su-frase-messi-n6320802"
+       "titulo": "Walter Samuel se va de la Selección Argentina: ¿un indicio del futuro de Lionel Scaloni?",
+       "url": "https://www.ambito.com/deportes/walter-samuel-se-va-la-seleccion-argentina-un-indicio-del-futuro-lionel-scaloni-n6320889"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/10/las-tres-razones-por-las-que-scaloni-no-esta-seguro-de-renovar-su-contrato-como-entrenador-de-la-seleccion-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/EROXKRIHI5D7HEZYCJJ2YQV6ZA.JPG?auth=fbd0f06a35fb224c0064c13ec86abb3431785eb164b6833bf01aba4b702dffc6&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:22",
+     "autor": "Gustavo Yarroch",
+     "titulo_original": "Las tres razones por las que Scaloni no está seguro de renovar su contrato como entrenador de la selección argentina"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Victoria Granatto aclaró sus dichos sobre Messi tras la polémica",
+     "resumen": "La delantera del seleccionado campeón mundial de hockey femenino explicó que su comentario sobre si Messi sabría que el equipo salió campeón fue tomado fuera de contexto y buscaba reivindicar a las propias referentes del deporte. Su hermana Majo, capitana del equipo, se distanció públicamente de esas declaraciones.",
+     "relacionadas": [
+      {
+       "id": "LN-09",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Majo Granatto realizó otro fuerte descargo y su hermana Victoria tomó una decisión tras la polémica con Messi",
+       "url": "https://www.lanacion.com.ar/deportes/majo-granatto-realizo-otro-fuerte-descargo-y-su-hermana-victoria-tomo-una-decision-tras-la-polemica-nid10092026/"
       }
      ],
      "url": "https://www.clarin.com/deportes/hablo-leona-victoria-granatto-polemica-frase-messi-absolutamente-sacada-contexto_0_XD8YO5uoRI.html",
@@ -919,6 +879,32 @@
      "hora": "14:17",
      "autor": "Clarin.com - Home",
      "titulo_original": "Habló la Leona Victoria Granatto, tras la polémica por su frase sobre Messi: “Fue absolutamente sacada de contexto”"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Leclerc y Hamilton hablaron cara a cara para cerrar la crisis en Ferrari",
+     "resumen": "Los pilotos de Ferrari mantuvieron una charla directa después del cruce que tuvieron en el Gran Premio de Italia y remarcaron que la relación entre ambos sigue siendo buena, de cara al Gran Premio de España en Madrid.",
+     "url": "https://www.infobae.com/deportes/2026/09/10/los-detalles-del-cara-a-cara-de-charles-leclerc-y-lewis-hamilton-tras-la-crisis-que-se-desato-en-ferrari-por-su-toque-en-monza/",
+     "imagen": "https://www.infobae.com/resizer/v2/QWQYI2SU2BHMHDJJEVGGNMJ6SQ.JPG?auth=c4bcf762c91d8c05a9b39c5672aa99e2a509e52318cbcf07a1b0cc818b4cab5f&smart=true&width=900&height=592",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:56",
+     "autor": "",
+     "titulo_original": "Los detalles del cara a cara de Charles Leclerc y Lewis Hamilton tras la crisis que se desató en Ferrari por su toque en Monza",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Canelo Álvarez y Christian Mbilli protagonizaron un tenso cara a cara antes de pelear",
+     "resumen": "Ambos boxeadores se enfrentarán el 31 de octubre en Riad, Arabia Saudita, por el título supermediano del Consejo Mundial de Boxeo. En el careo televisado por DAZN, Canelo respondió con dureza a los dichos de Mbilli, que lo había calificado de veterano.",
+     "url": "https://www.infobae.com/mexico/deportes/2026/09/10/canelo-alvarez-y-christian-mbilli-protagonizan-intenso-careo-y-se-dicen-de-todo-este-nivel-es-muy-diferente/",
+     "imagen": "https://www.infobae.com/resizer/v2/E3T2UNDLXRBTFOHPYMGSOFRPUE.jpg?auth=66f3c77931dea9bf22ddee6e9054afb4bf9b7418e442d808a9dd283ac01a7ba2&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:53",
+     "autor": "César Márquez",
+     "titulo_original": "Canelo Álvarez y Christian Mbilli protagonizan intenso careo y se dicen de todo: “Este nivel es muy diferente”",
+     "relacionadas": []
     }
    ],
    "id": "deportes"
@@ -927,22 +913,9 @@
    "nombre": "Turismo",
    "notas": [
     {
-     "id": "LN-19",
-     "titulo": "Albi, la joya medieval del sur de Francia con castillo, jardines y la catedral de ladrillo más grande del mundo",
-     "resumen": "La ciudad, patrimonio de la UNESCO desde 2010, combina un castillo más antiguo que el de Avignon con calles de aire toscano y una fuerte tradición vitícola, aunque es menos conocida que otros destinos del sur francés.",
-     "url": "https://www.lanacion.com.ar/salud/la-joya-del-sur-de-francia-que-invita-a-recorrer-sus-callecitas-a-pie-un-castillo-y-jardines-nid09092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/KYMA3QTN4NAJNEI3UG6T4ADS3Y.JPG?auth=8879043ff3860c20dadfed3cb36138a98db6f477457a7f1b1cf31f39b1222a61&smart=true&width=900&height=449",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "12:48",
-     "autor": "Carolina Cerimedo",
-     "titulo_original": "La joya del sur de Francia que invita a recorrer sus callecitas a pie, un castillo y jardines imponentes",
-     "relacionadas": []
-    },
-    {
      "id": "CL-26",
-     "titulo": "Pardo cumple 150 años: el refugio rural donde Borges y Bioy Casares inventaban historias",
-     "resumen": "El paraje bonaerense, de menos de 200 habitantes, fue punto de encuentro de los dos escritores y organiza una celebración especial por su aniversario.",
+     "titulo": "Pardo cumple 150 años: el refugio de campo de Borges y Bioy Casares",
+     "resumen": "El paraje rural bonaerense, de menos de 200 habitantes, fue punto de encuentro de los dos escritores y celebra su aniversario con una gran conmemoración. El destino conserva el perfil de pueblo de campo que atrajo a figuras centrales de la literatura argentina.",
      "url": "https://www.clarin.com/viajes/pardo-cumple-150-anos-refugio-campo-borges-bioy-casares-inventaban-historias_0_puSH9pbSR8.html",
      "imagen": "https://www.clarin.com/img/2021/03/17/YAliRSv0N_1200x630__1.jpg",
      "fuente_codigo": "CL",
@@ -959,43 +932,9 @@
    "nombre": "Sociedad",
    "notas": [
     {
-     "id": "LN-03",
-     "titulo": "Una irrupción de aire polar traerá nevadas, tormentas y un brusco descenso térmico este fin de semana",
-     "resumen": "El frente frío avanzará sobre gran parte del país con lluvias, heladas y ráfagas intensas; en la Patagonia y Cuyo la nieve y el viento reducirán la visibilidad. El AMBA registrará mínimas de hasta 5 grados durante el fin de semana.",
-     "relacionadas": [
-      {
-       "id": "CL-25",
-       "fuente_codigo": "CL",
-       "fuente": "Clarín",
-       "titulo": "Se acerca la primavera, pero el frío no quiere irse del AMBA y amenaza el fin de semana: qué dice el pronóstico",
-       "url": "https://www.clarin.com/sociedad/acerca-primavera-frio-quiere-irse-amba-amenaza-fin-semana-dice-pronostico_0_vvCxJIOV6N.html"
-      }
-     ],
-     "url": "https://www.lanacion.com.ar/sociedad/se-viene-una-irrupcion-de-aire-polar-que-traera-un-brusco-descenso-termico-seguido-de-tormentas-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/PWEWNPEVBJCSNEWGDFVUN54OGE.png?auth=0e14f66f78cd88e11d404f37647bcab03f5de3da008924d7a38ab645db4a7415&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "15:55",
-     "autor": "",
-     "titulo_original": "Se viene una irrupción de aire polar que traerá un brusco descenso térmico seguido de tormentas fuertes, viento blanco y ráfagas intensas: las zonas afectadas"
-    },
-    {
-     "id": "LN-20",
-     "titulo": "Agosto de 2026 fue el mes más caluroso jamás registrado en el planeta",
-     "resumen": "Según el monitor climático europeo Copernicus, la temperatura promedio global fue de 16,9 grados, apenas 0,01 grado por encima del récord mensual previo, con temperaturas oceánicas también sin precedentes.",
-     "url": "https://www.lanacion.com.ar/el-mundo/agosto-fue-el-mes-mas-caluroso-jamas-registrado-en-todo-el-planeta-nid10092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/CZMSAZD3RZF6XGCUKTWYZ6CB2M.png?auth=3f3816dba268aed653f81a546685dd3fafb312421d666f98f1729dea33624099&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "12:26",
-     "autor": "",
-     "titulo_original": "Agosto de 2026 fue el mes más caluroso jamás registrado en todo el planeta",
-     "relacionadas": []
-    },
-    {
-     "id": "CL-24",
-     "titulo": "Catamarca busca limitar el acceso a redes sociales en las escuelas tras los resultados de PISA",
-     "resumen": "La Defensoría del Pueblo provincial señaló que las plataformas usan diseños adictivos para maximizar el tiempo de pantalla de los menores y advirtió sobre la recopilación de sus datos, por lo que impulsa herramientas legales locales sin esperar una regulación del Congreso.",
+     "id": "CL-23",
+     "titulo": "Tras los resultados de las pruebas PISA, una provincia busca limitar las redes sociales en las escuelas",
+     "resumen": "La Defensoría del Pueblo de Catamarca impulsa restringir el acceso a Facebook, Instagram y otras plataformas en los colegios, al advertir sobre diseños adictivos y la recopilación de datos de menores. El Defensor del Pueblo, Dalmacio Mera, sostuvo que ya existen herramientas legales para actuar sin esperar una regulación del Congreso.",
      "url": "https://www.clarin.com/sociedad/resultados-pruebas-pisa-provincia-busca-limitar-acceso-facebook-instagram-redes-sociales-escuelas_0_PH7E0YSQGO.html",
      "imagen": "https://www.clarin.com/img/2023/07/29/BiqGuj-j3_1200x630__1.jpg",
      "fuente_codigo": "CL",
@@ -1004,25 +943,12 @@
      "autor": "Clarin.com - Home",
      "titulo_original": "Tras los resultados de las pruebas PISA, una provincia busca limitar el acceso a Facebook, Instagram y otras redes sociales en las escuelas",
      "relacionadas": []
-    },
-    {
-     "id": "IB-15",
-     "titulo": "Lanzaron una campaña para prevenir el suicidio infantil y adolescente por ingesta de medicamentos",
-     "resumen": "El Ministerio Público Tutelar porteño impulsó la iniciativa 'Si están a mano, están a mano para todos' en el Día Mundial de la Prevención del Suicidio, luego de detectar que 6 de cada 10 intentos en menores de edad se producen por sobreingesta de fármacos guardados en el hogar.",
-     "url": "https://www.infobae.com/sociedad/2026/09/10/si-estan-a-mano-estan-a-mano-para-todos-lanzaron-una-campana-para-prevenir-el-suicidio-en-ninas-ninos-y-adolescentes/",
-     "imagen": "https://www.infobae.com/resizer/v2/JRICVDBXZRGP7MKAHAMTT25LIQ.jpg?auth=577d0e025a910ca0639db2f41cadb5f2e9ecf148d2a829fe7de0337e68efa85d&smart=true&width=900&height=506",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "14:40",
-     "autor": "",
-     "titulo_original": "\"Si están a mano, están a mano para todos\": lanzaron una campaña para prevenir el suicidio en niñas, niños y adolescentes",
-     "relacionadas": []
     }
    ],
    "id": "sociedad"
   }
  ],
- "audio_guion": "Buenas tardes. Este es el resumen de la tarde del jueves 10 de septiembre.\n\nLa jornada estuvo marcada por la tensión entre Argentina y el Reino Unido por Malvinas, que llevó a Javier Milei a suspender el viaje a Londres que tenía previsto para octubre, mientras el Gobierno también avanza con denuncias penales contra petroleras que operan sin autorización en el archipiélago. En paralelo, el Indec difundió esta tarde el dato de inflación de agosto, luego de un julio con una suba mensual del dos coma uno por ciento y una variación interanual del diecinueve coma tres por ciento; las consultoras privadas proyectaban para agosto un número de entre uno coma cinco y uno coma ocho por ciento. En los mercados, el dólar oficial cerró sin cambios en el Banco Nación, a mil cuatrocientos ochenta y cinco pesos para la compra y mil quinientos treinta y cinco para la venta, mientras que el dólar mayorista bajó por primera vez en cinco ruedas hasta los mil quinientos trece pesos y la brecha con el techo de la banda cambiaria volvió a superar el veinticinco por ciento. El dólar blue cotizó a mil quinientos veinte pesos para la compra y mil quinientos cuarenta para la venta. El índice Merval subió uno coma siete por ciento en pesos, hasta los tres millones ciento sesenta mil puntos, y el riesgo país perforó los cuatrocientos noventa puntos, pese a una rueda negativa en Wall Street por el salto del cuatro por ciento en el precio del petróleo, que llegó a ciento cinco dólares con veintiséis centavos el barril de crudo Brent.\n\nEn política, Roberto Baratta amplió su descargo en el juicio por los Cuadernos de las coimas y acusó a directivos de Techint de haber mentido al declarar que le entregaron dinero; según su defensa, es el único imputado elevado a juicio oral por la maniobra. En la provincia de Buenos Aires, el gobernador Axel Kicillof enfrenta un plan de lucha de los gremios municipales que esta semana derivó en un corte de acceso al puerto de Bahía Blanca. En el Congreso, la oposición le arrebató el control parlamentario a La Libertad Avanza en Diputados con dos temas sensibles, mientras que en el Senado Patricia Bullrich debió desactivar una sesión por falta de votos. El ex jefe de Gabinete Guillermo Francos no descartó ser candidato en 2027, y una encuesta ubicó al PRO al frente de la carrera por la Ciudad, con La Libertad Avanza en tercer lugar.\n\nEn economía y mercados, además de los datos cambiarios, el Fondo Monetario Internacional confirmó que la misión técnica para la tercera revisión del acuerdo con la Argentina llegará la semana del veintiuno de septiembre; su vocera, Julie Kozack, dijo que monitorea el aumento de la morosidad de los hogares pero que no representa un riesgo significativo para la estabilidad financiera. El Tesoro licita deuda este viernes por unos ocho billones de pesos, dentro de vencimientos totales por ciento diez billones hasta fin de año. Y la cantidad de casas de cambio registradas ante el Banco Central cayó de ciento quince a cuarenta en menos de cuatro años.\n\nEn negocios y empresas, arrancó la gestión privada de la Hidrovía a cargo del consorcio que integran la belga Jan De Nul y la argentina Servimagnus, con una baja del peaje y un plan de obras para los próximos veinticinco años. El unicornio brasileño Unico, especializado en identidad digital, compró la argentina Valida. YPF ya suma quince mil nuevos accionistas a través de su aplicación, Whirlpool vendió su planta de Pilar para pasar a importar todo lo que vende en el país, y el Grupo Peñaflor invertirá cuarenta y cuatro millones de dólares en una nueva bodega en Tunuyán, Mendoza.\n\nEn impuestos y normativa, ARCA puso en marcha el sistema para que las pequeñas y medianas empresas accedan a los beneficios del Régimen de Incentivo para Medianas Inversiones, y también aclaró cómo utilizar los saldos a favor del Régimen Simplificado de Ganancias. De cara al presupuesto del año que viene se instaló una propuesta para destrabar setecientos setenta millones de dólares que hoy quedan inmovilizados por el impuesto al valor agregado en el sector agropecuario. Y la Corte Suprema deberá definir si los municipios pueden seguir cobrando tasas en la factura de luz, mientras que en septiembre los aumentos para empleadas domésticas quedaron fijados entre uno coma seis y uno coma ocho por ciento.\n\nEn consumo y construcción, el Banco Ciudad bajó al seis coma cinco por ciento la tasa de sus créditos hipotecarios, la más baja del mercado, para la compra de la primera vivienda; y el Banco Provincia lanzó una línea cien por ciento digital para financiar viviendas modulares por hasta cien millones de pesos. En Nordelta avanza un desarrollo frente al río que se puede comprar en pozo en hasta setenta y dos cuotas. Mercado Libre bajará desde el lunes el piso de compra para el envío gratis de treinta y tres mil a quince mil pesos, en el marco de un plan de inversiones de tres mil cuatrocientos millones de dólares. Y, golpeadas por la caída de ventas, las marcas Adriana Costantini y Ricky Sarkany cerraron locales clave.\n\nEn management, especialistas señalan que, pese a la retracción de varios sectores, todavía es posible negociar un aumento de sueldo, con diferencias claras entre corporaciones, pymes y empresas familiares. Y en el Día del Programador se remarcó que, en la era de la inteligencia artificial, el criterio para entender qué problema resolver importa más que el dominio de una herramienta puntual.\n\nEn el mundo, un bombardeo ruso contra un centro comercial en la ciudad ucraniana de Pavlogrado dejó cuatro muertos y sesenta heridos, mientras que Ucrania atacó por primera vez una planta de gas en el Ártico ruso, a más de dos mil ochocientos kilómetros de su frontera, el ataque de mayor alcance del conflicto hasta ahora. El presidente Volodimir Zelenski reveló un agujero fiscal de veintisiete mil millones de dólares y la Comisión Europea exige explicaciones antes de definir la ayuda futura. La Agencia Internacional de Energía Atómica remitió el caso de Irán al Consejo de Seguridad de las Naciones Unidas por falta de cooperación con las inspecciones nucleares, algo que no ocurría desde hace veinte años. Corea del Sur, por su parte, prevé invertir cien mil millones de dólares en Estados Unidos para un megaproyecto energético vinculado a la inteligencia artificial.\n\nLe Grand Continent analiza esta decisión sobre Irán y advierte que reabre la posibilidad de un nuevo ataque militar sobre las instalaciones nucleares del país, además de describir cómo el régimen iraní despliega propaganda antiestadounidense en las calles de Teherán. La revista también repasa el discurso del canciller alemán Friedrich Merz, que acusó a la ultraderecha de la AfD de buscar una limpieza étnica tras su victoria electoral en Sajonia-Anhalt, y advierte que los combates rusos se acercan a la ciudad de Kramatorsk, en el corazón del cinturón de fortalezas que Ucrania defiende en el Donbás.\n\nEn deportes, la Fórmula uno debuta este fin de semana en el nuevo circuito urbano de Madrid, conocido como Madring, con entrenamientos desde mañana viernes y la clasificación el sábado. Franco Colapinto lo describió como uno de los trazados más difíciles de la temporada, con curvas traicioneras, mientras Ferrari busca cerrar la crisis entre Charles Leclerc y Lewis Hamilton después del toque en Monza. En la Champions League arrancó la primera fecha de la fase de liga con argentinos en cancha, como Nico Paz, Lisandro Martínez y Paulo Dybala. River visita el sábado a Atlético Tucumán por el Torneo Clausura, y la AFA confirmó el cruce de Copa Argentina entre Boca y Racing, aunque todavía resta el fallo por el reclamo de Vélez. La Argentina será además anfitriona en octubre del Mundial de Powerchair Football, con selecciones de cinco continentes. Y Victoria Granatto, campeona del mundo con las Leonas, aclaró que su comentario sobre Lionel Messi fue sacado de contexto.\n\nEn turismo, para cerrar, dos propuestas bien distintas: Albi, en el sur de Francia, una ciudad patrimonio de la humanidad con un castillo más antiguo que el de Avignon y una fuerte tradición vitícola; y Pardo, un paraje bonaerense de menos de doscientos habitantes que cumple ciento cincuenta años y que supo ser refugio de Jorge Luis Borges y Adolfo Bioy Casares.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del jueves diez de septiembre.\n\nEl panorama del día combina una buena noticia económica con nuevas tensiones políticas. El Instituto Nacional de Estadística y Censos difundió que la inflación de agosto fue del uno coma siete por ciento, la más baja en catorce meses, aunque la canasta básica se encareció por encima de ese ritmo y una familia tipo necesitó más de un millón seiscientos mil pesos para no caer en la pobreza. En paralelo, el presidente Javier Milei suspendió su viaje a Londres previsto para octubre en medio de la tensión por las islas Malvinas, mientras crecía la polémica por la ubicación de las reservas de oro del Banco Central. En los mercados, el dólar oficial cerró en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cuarenta y cinco pesos y el oro cotiza cerca de cuatro mil trescientos sesenta y tres dólares la onza, con el riesgo país por debajo de los cuatrocientos noventa puntos.\n\nEn política, la Casa Rosada confirmó que Milei no viajará a Londres, después de haber ratificado esa agenda solo horas antes; iba a incluir una conferencia en la Universidad de Oxford y reuniones con empresarios, en momentos en que el Gobierno llevó el reclamo por Malvinas a la Asamblea General de las Naciones Unidas. La senadora Juliana Di Tullio acusó al titular del Banco Central, Santiago Bausili, de haber mentido en el Senado sobre el paradero del oro argentino, que según ella está depositado en Londres y no en Suiza, mientras un informe de la Auditoría General de la Nación reconoció que todavía no se auditaron los movimientos del año pasado. La Corte Suprema, por su parte, rechazó un pedido de Cristina Kirchner para investigar al propio Sturzenegger por el caso del dólar futuro. En el Congreso, La Libertad Avanza mostró fragilidad: la oposición le quitó el control de la agenda en Diputados y Patricia Bullrich debió bajar una sesión en el Senado por falta de votos. El exjefe de Gabinete Guillermo Francos dijo que nunca descarta ser candidato, y una encuesta en la Ciudad de Buenos Aires ubicó al PRO primero, seguido por una alternativa de centro derecha, con La Libertad Avanza tercera. En la provincia de Buenos Aires, Axel Kicillof enfrenta un conflicto con los gremios municipales que ya provocó un corte en el acceso al puerto de Bahía Blanca.\n\nEn economía y mercados, además de la inflación de agosto, el dólar mayorista cayó a mil quinientos trece pesos y la brecha con el techo de la banda cambiaria volvió a superar el veinticinco por ciento. El índice Merval subió uno coma siete por ciento y llegó a los tres millones ciento sesenta mil puntos, en la cuarta rueda consecutiva de ganancias, mientras el petróleo se disparó y roza los ciento diez dólares el barril, golpeando a Wall Street. El Tesoro licita deuda este viernes, con vencimientos por ciento diez billones de pesos hasta fin de año, y el Fondo Monetario Internacional anticipó que la tercera revisión del programa con la Argentina comenzará este mes.\n\nEn negocios y empresas, Molinos Río de la Plata compró una planta en Tucumán y entrará por primera vez al negocio de las galletitas. Honda anunció que volverá a fabricar la motocicleta Biz en su planta de Campana, con preventa desde octubre. El banco digital Nu lanzó operaciones en Estados Unidos y puso a la Argentina en su radar, elogiando la desregulación del Gobierno. En sentido contrario, Whirlpool puso en venta su planta de Pilar y pasará a importar toda su producción. El jefe global de Renault, de visita en Buenos Aires por la pick up Niagara que se fabrica en el país, pidió una política especial para sostener la producción local. Y arrancó la gestión privada de la hidrovía, con una baja del peaje que también generó cuestionamientos.\n\nEn impuestos y normativa, las jubilaciones subirán uno coma sesenta y seis por ciento en octubre, con un haber mínimo que en mano quedará en poco menos de cuatrocientos noventa y tres mil pesos. Las empleadas domésticas tendrán aumentos de entre uno coma seis y uno coma ocho por ciento en septiembre, y la ANSES paga hasta trescientos ochenta y tres mil ochocientos pesos por desempleo a quienes cumplen los requisitos. La Corte Suprema deberá definir si los municipios pueden cobrar tasas en la factura de luz, después de un dictamen de la Procuración que pide prohibirlo.\n\nEn consumo y construcción, el Banco Ciudad bajó su tasa hipotecaria preferencial al seis coma cinco por ciento para impulsar la compra de primera vivienda, y el Banco Provincia lanzó un crédito cien por ciento digital para casas modulares de hasta cien millones de pesos. En Nordelta avanza un desarrollo frente al río que se puede comprar en pozo en hasta setenta y dos cuotas, y el metro cuadrado en La Plata cuesta cuarenta y uno por ciento menos que en la Ciudad de Buenos Aires. Mercado Libre, además, bajó a quince mil pesos el piso de compra para tener envío gratis desde el lunes. Para una empresa del sector, son señales de que el crédito y la demanda de vivienda empiezan a moverse de a poco.\n\nEn management, especialistas señalan que todavía hay ventanas para pedir un aumento de sueldo pese a la retracción de varios sectores, con diferencias claras entre corporaciones, pymes y empresas familiares. Y con motivo del Día del Programador, una nota sostiene que en la era de la inteligencia artificial el criterio para definir qué problema resolver pesa más que el código en sí.\n\nEn el mundo, Ucrania atacó por primera vez desde que empezó la guerra una planta de gas en el Ártico ruso, a más de dos mil ochocientos kilómetros de su frontera, el ataque de mayor alcance del conflicto hasta ahora. Un bombardeo ruso contra un centro comercial en la ciudad de Pavlogrado dejó cuatro muertos y sesenta heridos. Irán dijo que atacó un dron naval estadounidense en el estrecho de Ormuz, mientras el Organismo Internacional de Energía Atómica acusó a Teherán de no cooperar con las inspecciones nucleares. En Alemania, el líder de la ultraderecha en Sajonia Anhalt no descartó ir a nuevas elecciones si no logra formar gobierno pese a haber ganado los comicios. Y el monitor climático europeo Copernicus confirmó que agosto fue el mes más caluroso jamás registrado en el planeta.\n\nLe Grand Continent analiza esta semana la promesa de Donald Trump de pagar cinco mil dólares a cada estadounidense si el Partido Republicano gana el Congreso en noviembre, una medida sin precedentes que costaría más de un billón de dólares. La revista también repasa la escalada de la propaganda antiestadounidense en las calles de Teherán, explica por qué el organismo de energía atómica remitió el caso de Irán al Consejo de Seguridad de las Naciones Unidas, analiza el discurso del canciller alemán Friedrich Merz contra la ultraderecha tras su triunfo en Sajonia Anhalt, y advierte que los combates se acercan cada vez más a la ciudad ucraniana de Kramatorsk.\n\nEn deportes, la Fórmula uno llega a Madrid para el estreno de un nuevo circuito, con Andrea Kimi Antonelli como líder cómodo del campeonato y Franco Colapinto sumando veintiún puntos con Alpine. Pilotos como Colapinto, Pierre Gasly y hasta el tetracampeón Max Verstappen ya advirtieron sobre las curvas traicioneras del trazado. En el fútbol argentino, la AFA fijó fecha para el cruce entre Boca y Racing por los cuartos de final de la Copa Argentina, mientras sigue pendiente el reclamo de Vélez por la inclusión de extranjeros, y Boca acordó la venta de uno de sus jugadores a México. En la Selección, la salida de Walter Samuel del cuerpo técnico alimenta las dudas sobre la renovación de Lionel Scaloni. En el hockey, Victoria Granatto aclaró que sus dichos sobre Lionel Messi fueron tomados fuera de contexto tras la polémica que generaron. Y Canelo Álvarez y Christian Mbilli protagonizaron un tenso cara a cara antes de pelear por el título del Consejo Mundial de Boxeo el treinta y uno de octubre.\n\nPara cerrar, en turismo, el pueblo bonaerense de Pardo cumple ciento cincuenta años; fue el refugio de campo donde Jorge Luis Borges y Adolfo Bioy Casares inventaban historias, y hoy sigue siendo un paraje rural de menos de doscientos habitantes.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
  "slug": "2026-09-10-tarde",
- "generado_ba": "10/09/2026 19:07"
+ "generado_ba": "10/09/2026 20:08"
 }
