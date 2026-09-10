@@ -1,5 +1,7 @@
 # material crudo de cada corrida (se regenera)
 data/raw/
+# series de mercado: se regeneran en cada corrida de fetch_feeds.py
+data/mercados.json
 # audio: lo genera Netlify en el build, no va al repo
 site/audio/*.mp3
 site/audio/*.tmp.mp3
