@@ -28,16 +28,13 @@
 
   /* 1) MP3 generado en el servidor (edge-tts) */
   function usarMp3() {
+    // El control nativo ya trae play/pausa, barra de progreso y velocidad.
     audio.src = mp3;
     audio.controls = true;
     audio.classList.add('visible');
     player.classList.add('con-audio');
-    play.addEventListener('click', function () {
-      if (audio.paused) { audio.play(); } else { audio.pause(); }
-    });
-    audio.addEventListener('play', function () { play.textContent = '❚❚'; });
-    audio.addEventListener('pause', function () { play.textContent = '▶'; });
-    audio.addEventListener('ended', function () { play.textContent = '▶'; });
+    play.hidden = true;
+    stop.hidden = true;
   }
 
   /* 2) Voz del navegador (Web Speech API) como respaldo */
