@@ -1,0 +1,876 @@
+{
+ "fecha": "2026-09-11",
+ "edicion": "manana",
+ "titulo": "Inflación de agosto en 1,7%, escala Malvinas y sube el petróleo",
+ "apertura": "El Indec confirmó que la inflación de agosto fue de 1,7%, la más baja en catorce meses, mientras el Gobierno crea un nuevo sistema en la Cancillería para reforzar el reclamo de soberanía sobre Malvinas y evalúa sanciones a la pesca extranjera. En los mercados, el petróleo saltó a más de US$ 108 por la escalada entre los hutíes y el gobierno yemení en el Mar Rojo, y el crédito hipotecario muestra señales de enfriamiento pese a la baja de tasas. En el plano político, Cristina Kirchner explora una candidatura para 2027 y este sábado arrancan los Juegos Suramericanos en Santa Fe con más de 4.000 atletas.",
+ "claves": [
+  "La inflación de agosto fue de 1,7%, la más baja en catorce meses; acumula 21,3% en el año y 33,5% interanual.",
+  "El petróleo saltó a más de US$ 108 por barril por la escalada en el Mar Rojo y el Merval subió 1,5% en Buenos Aires.",
+  "El Gobierno creó un sistema en la Cancillería para centralizar el reclamo por Malvinas y evalúa sanciones a la pesca extranjera.",
+  "Cristina Kirchner, inhabilitada de por vida, prepara el terreno para forzar una candidatura en 2027.",
+  "El crédito hipotecario cayó 47% interanual pese a las bajas de tasas que impulsan bancos y Gobierno.",
+  "La Corte Suprema falló contra el cobro de tasas municipales sin una contraprestación de servicio concreta.",
+  "Los hutíes tomaron el puerto de Moca en Yemen y el gobierno yemení declaró una \"zona de eliminación\" en respuesta.",
+  "Arrancan los Juegos Suramericanos en Santa Fe mientras crece la incertidumbre sobre la continuidad de Scaloni en la Selección."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 108,96 por barril",
+   "variacion": "+7,66%",
+   "fuente": "CR-21"
+  },
+  {
+   "nombre": "Merval",
+   "valor": "+1,53%",
+   "fuente": "CR-21"
+  },
+  {
+   "nombre": "Créditos hipotecarios (ene-jul)",
+   "valor": "13.329 operaciones",
+   "variacion": "-47% interanual",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Crédito al sector privado en pesos",
+   "valor": "$ 104,6 billones",
+   "variacion": "-$ 1,4 billón en la semana",
+   "fuente": "CR-05"
+  },
+  {
+   "nombre": "Canasta básica total",
+   "valor": "$ 1.605.497",
+   "variacion": "+2,6%",
+   "fuente": "AM-26"
+  },
+  {
+   "nombre": "Empleo formal privado",
+   "valor": "en el mismo nivel que 2014",
+   "variacion": "13° mes consecutivo de caída",
+   "fuente": "AM-10"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-13",
+     "titulo": "El Gobierno creó un área en Cancillería para reforzar el reclamo por Malvinas",
+     "resumen": "Mediante el Decreto N° 983/2026, el Gobierno dispuso la creación de un Sistema de Articulación de la Política Exterior dentro de la Cancillería, que centralizará la información, coordinación y asesoramiento de las gestiones internacionales sobre soberanía en las Islas Malvinas. El Ministerio de Relaciones Exteriores, Comercio Internacional y Culto será el coordinador ante gobiernos extranjeros, la Santa Sede y organismos internacionales. La medida se dio en medio del paquete de sanciones que anunció Javier Milei contra empresas petroleras extranjeras que exploten recursos de las islas.",
+     "relacionadas": [
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Malvinas: el Gobierno crea un nuevo sistema para coordinar la política exterior y endurece el reclamo de soberanía",
+       "url": "https://www.cronista.com/economia-politica/malvinas-el-gobierno-crea-un-nuevo-sistema-para-coordinar-la-politica-exterior-y-endurece-el-reclamo-de-soberania/"
+      },
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno creará un sistema para coordinar la política exterior sobre las Islas Malvinas",
+       "url": "https://www.ambito.com/politica/el-gobierno-creara-un-sistema-coordinar-la-exterior-las-islas-malvinas-n6321002"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/11/el-gobierno-creo-un-area-clave-en-cancilleria-para-reforzar-el-reclamo-de-soberania-sobre-malvinas/",
+     "imagen": "https://www.infobae.com/resizer/v2/6JB5JMWNFVFZ5PZJJWBYDFNMFM.png?auth=0374c0296ca857dfd77f82af6e669fe70ea85c069ad0f5365ac3df7941ca18b6&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:41",
+     "autor": "",
+     "titulo_original": "El Gobierno creó un área clave en Cancillería para reforzar el reclamo de soberanía sobre Malvinas"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Malvinas: Milei busca sancionar también a la pesca, pero hay leyes desde 2008 que no se aplican",
+     "resumen": "El Gobierno avanza con sanciones sobre la pesca extranjera vinculada a las Islas Malvinas, aunque normas similares existen desde 2008 y nunca se aplicaron. En el sector pesquero argentino temen un efecto bumerán, ya que hay empresas locales con vínculos societarios con firmas extranjeras que podrían quedar alcanzadas por las mismas sanciones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/malvinas-milei-busca-imponer-sanciones-pesca-existen-leyes-2008-aplican_0_S5JrcqOtWq.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/mNLqQ73yS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Malvinas: Milei busca imponer también sanciones a la pesca, pero ya existen leyes desde 2008 y no se aplican"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Cristina Kirchner prepara el terreno para forzar una candidatura en 2027",
+     "resumen": "Pese a estar inhabilitada de por vida para ocupar cargos públicos, en el entorno de Cristina Kirchner sostienen que podría competir en unas PASO o en una interna del PJ. Dentro del propio peronismo, sin embargo, hay objeciones a esa eventual jugada de cara a 2027.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/cristina-prepara-terreno-forzar-candidatura-2027-condena-deja-competir_0_aDcDOD0zar.html",
+     "imagen": "https://www.clarin.com/img/2026/09/05/HsF7xv7Ca_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cristina prepara el terreno para forzar una candidatura en 2027: ¿la condena la deja competir?"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Una encuesta de DC Consultores es optimista sobre las chances de Milei en primera vuelta",
+     "resumen": "El último estudio nacional de DC Consultores, una consultora que suele darle buenos números al Gobierno, midió la intención de voto por espacio político de cara a 2027. El sondeo también indagó qué dirigente los encuestados no querrían ver de regreso en la escena política.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/nueva-encuesta-recontra-optimista-javier-milei-puede-ganar-primera-vuelta_0_SgaW2u5pCy.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/zVbLy0D06_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una nueva encuesta es recontra optimista con Javier Milei: ¿puede ganar en primera vuelta?"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Frigerio negocia con la Casa Rosada un acuerdo electoral para Entre Ríos al margen del PRO nacional",
+     "resumen": "El gobernador entrerriano Rogelio Frigerio mantiene conversaciones directas con el jefe de Gabinete, Diego Santilli, para acordar una estrategia electoral conjunta con La Libertad Avanza de cara a 2027, sin que intervenga la mesa nacional del PRO. La idea es reeditar el frente que le ganó al peronismo en 2025, y LLA estaría dispuesta a ceder posiciones para asegurar la reelección del gobernador.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/11/rogelio-frigerio-negocia-con-la-casa-rosada-un-acuerdo-electoral-para-entre-rios-sin-intervencion-del-pro-nacional/",
+     "imagen": "https://www.infobae.com/resizer/v2/56KLD27RNRA2HDR3EYZUSE7JAI.jpg?auth=f1c8e230f22f4716bcc6a4b2f704c1e69bb4b6cba9fdcc0b113de229cb89990a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:38",
+     "autor": "Juan A. Bracco",
+     "titulo_original": "Rogelio Frigerio negocia con la Casa Rosada un acuerdo electoral para Entre Ríos sin intervención del PRO nacional"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "Karina Milei se sumó por primera vez a la mesa de coordinación con el PRO",
+     "resumen": "La secretaria general de la Presidencia, Karina Milei, se acercó a saludar a la delegación de Mauricio Macri durante la tercera reunión de coordinación entre el PRO y La Libertad Avanza en la Casa Rosada. Según el jefe del bloque de diputados del PRO, Cristian Ritondo, Milei agradeció el trabajo conjunto. Ritondo confirmó que se analizan más distritos para ir juntos, aunque todavía no hay acuerdo sobre la continuidad de los gobernadores del PRO.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/karina-milei-se-sumo-de-sorpresa-a-la-mesa-con-el-pro-que-se-hablo-en-el-encuentro/",
+     "imagen": "https://www.cronista.com/resizer/v2/5DJVUGELO5BOLAVWQ4KHZBIBSM.jpeg?auth=9db95e8df953b3e6a02abb57eafbb1934cf66638185a5676d2a517fe7f0ced43&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:54",
+     "autor": "Daniela Romero",
+     "titulo_original": "Karina Milei se sumó de sorpresa a la mesa con el PRO: qué se habló en el encuentro"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "La SIGEN organiza en septiembre su segundo Congreso Internacional de Control Gubernamental",
+     "resumen": "La Sindicatura General de la Nación realizará del 21 al 23 de septiembre, en el Palacio Libertad, su segundo Congreso Internacional de Control Gubernamental, con participación de funcionarios, especialistas y representantes de organismos de control de la Argentina y de otros países. El encuentro incluirá además una muestra de arte argentino abierta al público.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/sigen-realizara-el-segundo-congreso-internacional-control-gubernamental-cuando-y-donde-sera-n6321016",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:20",
+     "autor": "",
+     "titulo_original": "SIGEN realizará el segundo Congreso Internacional de Control Gubernamental: cuándo y dónde será"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "La inflación de agosto fue de 1,7%, la más baja en catorce meses",
+     "resumen": "El IPC de agosto que difundió el Indec se desaceleró frente al 2,1% de julio y marcó el registro más bajo del año, con un acumulado de 21,3% en 2026 y 33,5% interanual. El IPC núcleo fue de 1,8%. Para encontrar un valor mensual más bajo en la gestión de Javier Milei hay que remontarse a junio de 2025, cuando fue de 1,6%.",
+     "relacionadas": [
+      {
+       "id": "IP-23",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La inflación de agosto fue de 1,7%, la menor en 14 meses: qué IPC prevén para septiembre",
+       "url": "https://www.iprofesional.com/economia/464216-la-inflacion-de-agosto-fue-la-menor-en-14-meses-que-preven-para-septiembre"
+      },
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La inflación tuvo una merma en agosto: cuáles fueron los productos que más subieron",
+       "url": "https://www.ambito.com/economia/la-inflacion-tuvo-una-merma-agosto-cuales-fueron-los-productos-que-mas-subieron-n6320981"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/inflacion-de-agosto-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LCG2JPMRRVBTDCQZVVPLA5AVOQ.jpg?auth=a1b53fa45064a55505fbc28e3d00636eda08f72dc5f7a4da3b2deea802cbc20b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:36",
+     "autor": "",
+     "titulo_original": "Inflación de agosto: cuál fue el IPC acumulado y qué proyectan las consultoras para este año"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Petróleo, alimentos y tarifas: los riesgos para sostener la inflación debajo de 2% hasta fin de año",
+     "resumen": "La desaceleración de agosto se apoyó en la estabilidad cambiaria y el control monetario, aunque el rubro alimentos subió 1,8% y la Canasta Básica Total, tomada como umbral de pobreza, aumentó 2,6%. El objetivo oficial ahora es mantener la inflación debajo del 2% mensual el resto del año, un escenario que podría complicarse por la suba del petróleo, los alimentos y los ajustes de tarifas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/11/petroleo-alimentos-tarifas-y-dolar-los-escollos-para-mantener-la-inflacion-debajo-de-2-hasta-fin-de-ano/",
+     "imagen": "https://www.infobae.com/resizer/v2/FNHZTFYITJFCLKP4YPYSRWYK54.jpg?auth=ee1729c93ed42a6778e4c0896ce06971190355f13db63e56525a1185b321fcff&smart=true&width=900&height=504",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:52",
+     "autor": "Pablo Wende",
+     "titulo_original": "Petróleo, alimentos, tarifas y dólar: los escollos para mantener la inflación debajo de 2% hasta fin de año"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "El petróleo se disparó a US$ 109 y las acciones locales subieron con fuerza",
+     "resumen": "Los mercados atravesaron una jornada de alta volatilidad por la tensión geopolítica internacional: el Brent avanzó 7,66% y llegó a US$ 108,96 por barril, ante la escalada en el estrecho de Ormuz. A nivel local, el S&P Merval avanzó 1,53%, con subas lideradas por Cresud (+5,91%), Transportadora de Gas del Sur (+3,15%), Pampa Energía (+2,73%) e YPF (+2,05%); en Wall Street, los ADR argentinos también operaron mayormente en alza.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-petroleo-se-disparo-a-us-109-y-las-acciones-locales-subieron-6/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:11",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El petróleo se disparó a u$s 109 y las acciones locales subieron 6%"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "El dólar oficial cerró la semana en $ 1.535 para la venta",
+     "resumen": "El dólar oficial cotizó este viernes a $ 1.485 para la compra y $ 1.535 para la venta en el Banco Nación, $ 5 por encima del valor con el que arrancó el mes. El mayorista quedó en $ 1.531,90 para la venta, lejos del techo de la banda cambiaria que el BCRA fija en $ 1.892,99. El dólar blue, por su parte, cotizó a $ 1.525 para la compra y $ 1.545 para la venta.",
+     "relacionadas": [
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar blue hoy: a cuánto cotiza este viernes 11 de septiembre con el MEP y el CCL",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-este-viernes-11-de-septiembre-con-el-mep-y-el-ccl/"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar hoy: a cuánto cotiza este viernes 11 de septiembre",
+       "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-viernes-11-septiembre-n6321072"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-viernes-11-de-septiembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/3WFX5TTBYRDOZMLV7SMX2AIRPE.jpg?auth=5d1b8e102ab1ca25b61f8083d5b9b1666e25c4d560a0ca143247baa2389782f1&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "00:01",
+     "autor": "",
+     "titulo_original": "Dólar hoy: a cuánto cotiza el oficial en los bancos de la City este viernes 11 de septiembre"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Caputo volvió a resignar bonos en dólares y prioriza deuda de corto plazo",
+     "resumen": "Por segunda vez consecutiva, el Tesoro se abstuvo de captar dólares en su licitación para no convalidar lo que en el equipo económico llaman \"riesgo kuka\". La estrategia oficial prioriza la emisión de deuda de corto plazo con el objetivo de forzar una baja de las tasas de interés.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464238-caputo-renuncia-a-su-bono-preferido-y-emite-deuda-de-corto-plazo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/620133.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:50",
+     "autor": "",
+     "titulo_original": "En modo defensivo, Caputo renuncia a su bono preferido y sólo emite deuda de corto plazo"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Los bancos cierran canillas a las empresas para esquivar la nueva morosidad",
+     "resumen": "Según el informe monetario del Banco Central, el stock de préstamos al sector privado en pesos cayó de $ 106 billones al 31 de agosto a $ 104,6 billones el 4 de septiembre, una merma de $ 1,4 billón. En dólares, los créditos bajaron de US$ 25.249 millones a US$ 25.208 millones en el mismo período. Los sectores más afectados por los recortes de líneas son consumo masivo, electrónica, construcción e industria. Para una empresa, la restricción del crédito bancario obliga a revisar el financiamiento de capital de trabajo en los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/economia-real-para-esquivar-la-nueva-morosidad-los-bancos-cierran-canillas-a-empresas/",
+     "imagen": "https://www.cronista.com/resizer/v2/QP237EVSTJBNJMFDCYRUXKT5SQ.jpg?auth=7e421fb404626bae591eb4976c83b2ecdc24697536db94324ec73e3e1e89d4eb&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:17",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Economía real: para esquivar la nueva morosidad, los bancos cierran canillas a empresas"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Para el FMI la mora no es un riesgo y la tercera revisión comenzará este mes",
+     "resumen": "El Fondo Monetario Internacional consideró que el aumento de la mora en los créditos no representa un riesgo relevante para el programa con la Argentina. Delegados del organismo arribarán este mes para iniciar la tercera revisión del acuerdo y analizar el cumplimiento de metas, mientras crece la dificultad de pago para muchas familias.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464207-morosidad-hogares-argentinos-alerta-fmi-bancos-salvo-septiembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618605.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:09",
+     "autor": "",
+     "titulo_original": "Para el FMI, la mora no es un riesgo y anticipó que la tercera revisión comenzará este mes"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-17",
+     "titulo": "Molinos compra una planta en Tucumán para entrar al negocio de las galletitas",
+     "resumen": "Molinos, del grupo Pérez Companc, adquirió las instalaciones del Complejo Alimenticio San Salvador, en Tucumán, con las que podrá elaborar crackers, galletitas dulces, rellenas y bizcochos. La operación se suma a las compras recientes de la compañía de NotCo y de la Bodega Etchart.",
+     "relacionadas": [
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Molinos entra al negocio de las galletas con la compra de una planta industrial en Tucumán",
+       "url": "https://www.ambito.com/negocios/molinos-entra-al-negocio-las-galletas-la-compra-una-planta-industrial-tucuman-n6320936"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/464224-molinos-compra-un-complejo-industrial-para-producir-galletitas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/08/540592.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:27",
+     "autor": "",
+     "titulo_original": "Molinos compra un complejo industrial para competir en el negocio de las galletitas"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Andreani y Plastiferro invierten US$ 10 millones en una planta en Vaca Muerta",
+     "resumen": "El Grupo Andreani y Plastiferro invertirán US$ 10 millones en una nueva planta en Plaza Huincul, Neuquén, para fabricar tuberías plásticas de alta presión para la industria petrolera y minera. La nueva sociedad, Plastiferro Oil & Gas, busca abastecer a Vaca Muerta y competir con productos importados, principalmente de China.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/los-otros-andreani-desembarcan-en-vaca-muerta-para-competir-con-los-fierros-chinos/",
+     "imagen": "https://www.cronista.com/resizer/v2/CW5VAM27U5HDNATQK23QNSELE4.jpg?auth=1a94ec8aa0860fa3eeaabea056d3e45d6cb7dfda709ef4fb811cd87fbda60a25&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Ricardo Quesada",
+     "titulo_original": "Los otros Andreani desembarcan en Vaca Muerta para competir con los “fierros” chinos"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "Comienzan los remates de bienes de Garbarino",
+     "resumen": "En dos procedimientos judiciales se rematarán bienes de la cadena Garbarino y de Garbarino Viajes, entre ellos autos, equipamiento comercial, computadoras, una camioneta y una caja fuerte, además de muebles de oficina.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464218-justicia-empieza-a-rematar-bienes-de-garbarino-y-su-agencia-de-viajes-tras-quiebra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612491.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "De una camioneta a una caja fuerte: comienzan los remates de bienes de Garbarino"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "El cobre proyecta ser el próximo boom exportador de la minería argentina",
+     "resumen": "Un informe de la Secretaría de Minería de la Nación estima que las exportaciones argentinas de cobre podrían alcanzar US$ 5.269 millones en 2030, subir a US$ 11.406 millones en 2032 y llegar a un máximo de US$ 17.757 millones en 2035 si los principales proyectos avanzan según lo previsto. El país prácticamente había dejado de producir el metal en la década pasada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-cobre-puede-ser-el-proximo-boom-exportador-que-acciones-y-cedear-permiten-invertir-en-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/GIZ5T3IGMRASVFJW4WUUD4TC7I.jpg?auth=e07f3af977ad8db2c1d652a09fa8a5eef516ea90374977c067244ac319cd93e7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "El cobre puede ser el próximo boom exportador: qué acciones y Cedear permiten invertir en Argentina"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "El CEO del banco digital Nu dice que la Argentina le parece un mercado atractivo",
+     "resumen": "David Vélez, fundador y CEO de Nu, el banco digital más grande de América Latina con más de 140 millones de usuarios en Brasil, México y Colombia, afirmó que no le cierra la puerta a la Argentina, donde estuvo a punto de desembarcar en 2019. Vélez habló en el marco del lanzamiento de las operaciones de Nu en Estados Unidos, presentado en el estadio de Inter Miami con la marca de Lionel Messi.",
+     "relacionadas": [
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Banco global pone a la Argentina en el radar: desembarca en EE.UU. y elogia desregulación de Milei",
+       "url": "https://www.cronista.com/finanzas-mercados/nu-pone-a-la-argentina-en-el-radar-lanza-operacion-en-eeuu-y-su-ceo-elogia-desregulacion-de-milei/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/david-velez-ceo-de-nu-argentina-nos-parece-un-mercado-atractivo-y-vemos-una-oportunidad/",
+     "imagen": "https://www.cronista.com/resizer/v2/RNGUWZZLYRBCVAICHY7VJQS2MM.jpg?auth=459539f679837bedcff28a9630ba1f7f5bb2f4ed734e0090460492e5d23a6b62&smart=true&width=900&height=1200",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "David Vélez, CEO de Nu: “Argentina nos parece un mercado atractivo y vemos una oportunidad”"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "John Deere, Bayer y CNH analizan el impacto de la apertura comercial en el agro",
+     "resumen": "En el foro AmCham Agribusiness, ejecutivos de Bayer, CNH y John Deere señalaron que la mayor apertura comercial del gobierno de Javier Milei generó un contexto más favorable para invertir, pero también mayor presión de las importaciones sobre la industria local. John Deere, que produce en el país desde 1958, remarcó la necesidad de una \"cancha nivelada\" para competir en igualdad de condiciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/de-la-apertura-a-la-competitividad-tecno-que-estan-viendo-john-deere-bayer-y-cnh-para-el-futuro-del-campo/",
+     "imagen": "https://www.cronista.com/resizer/v2/MEYWHTMGCBH5FDXJRQBWLONPOM.JPG?auth=3b464d1fbd5653caa2578c62840a34b63cc89babeae2e2ccd7a6dd680251a505&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:25",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "De la apertura a la competitividad tecno: qué están viendo John Deere, Bayer y CNH para el futuro del campo"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-13",
+     "titulo": "La Corte Suprema falló contra el cobro de tasas municipales sin servicio concreto",
+     "resumen": "La Corte Suprema resolvió que los municipios no pueden cobrar tasas cuando no es evidente la contraprestación de un servicio, en una causa que el Banco Galicia inició en 2008 contra la Municipalidad de Córdoba por la tasa que incide sobre la actividad comercial, industrial y de servicios. El fallo sienta jurisprudencia para la disputa entre el Gobierno nacional y los municipios por este tipo de tributos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-corte-suprema-fallo-en-contra-de-las-tasas-municipales-en-que-casos/",
+     "imagen": "https://www.cronista.com/resizer/v2/IPTL56CVRNB37C73HKVFVMHRTM.png?auth=cf1c42c98d7f5235cd1a08527ccc59eee2733f4aba3ede111cad2b5ea4599641&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "23:15",
+     "autor": "",
+     "titulo_original": "La Corte Suprema falló en contra de las tasas municipales: en qué casos"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Los impuestos representan más de un cuarto del costo financiero de un crédito",
+     "resumen": "Según una presentación del vicepresidente del Banco Central, Vladimir Werning, la incidencia de los tributos de Nación, provincias y municipios equivale al 27,1% del Costo Financiero Total de un crédito personal, y trepa al 28,2% en el caso de las tarjetas de crédito. El endeudamiento es uno de los principales factores que frenan la expansión del crédito en la Argentina.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/no-es-la-tasa-de-interes-que-factor-explica-hasta-casi-un-tercio-del-costo-de-un-prestamo/",
+     "imagen": "https://www.cronista.com/resizer/v2/TQ2S26RQ35ECNPQQIUYFQOYCJA.jpg?auth=9a98c8c23d272f066994ad7a61104b0ffd091c111db28fbb8fe2cd8638d8d643&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "23:13",
+     "autor": "Matías Rufino",
+     "titulo_original": "Hipotecarios, para empresas o personas: cuánto pesan los impuestos en cada tipo de crédito"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Argentina es el segundo país de América Latina con mayor presión tributaria",
+     "resumen": "Un relevamiento ubica a la Argentina con una presión tributaria cercana a la de los países desarrollados, apoyada principalmente en impuestos indirectos, lo que según el informe vuelve al sistema regresivo frente a otros países de la región.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464227-argentina-es-el-segundo-pais-de-la-region-con-mayor-presion-tributaria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588170.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:44",
+     "autor": "",
+     "titulo_original": "Argentina es el segundo país Latinoamericano con mayor presión tributaria"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "Crear una LLC en Estados Unidos puede costarle a un argentino US$ 1.000 anuales y pagar impuestos dos veces",
+     "resumen": "Constituir una LLC en Estados Unidos para acceder a soluciones de marketing y cobro tiene riesgos impositivos y costos elevados para un residente argentino, que puede terminar pagando impuestos en ambos países. El material remarca la importancia de una buena planificación fiscal antes de avanzar con este tipo de estructuras.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464197-sociedad-llc-eeuu-puede-costar-1000-dolares-mes-a-argentinos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/02/511631.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:06",
+     "autor": "",
+     "titulo_original": "La LLC en EE.UU. puede costar a un argentino u$s1.000 anuales y pagar impuestos dos veces"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "La Justicia ordenó suspender Netflix a un padre que no paga la cuota alimentaria",
+     "resumen": "Un fallo de la Justicia de Río Negro dispuso suspender los servicios digitales, entre ellos Netflix, a un padre moroso hasta que regularice una deuda por cuota alimentaria cercana a los $ 4 millones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464241-justicia-ordeno-suspender-netflix-a-padre-que-no-pagaba-cuota-alimentaria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/571277.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:51",
+     "autor": "",
+     "titulo_original": "La Justicia ordenó suspender Netflix a un padre que no pagaba la cuota alimentaria"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "El crédito hipotecario se enfría pese al impulso oficial",
+     "resumen": "Según el Monitor de Crédito Hipotecario de Tejido Urbano, entre enero y julio de 2026 se registraron 13.329 nuevas operaciones, un 47% menos que las 25.160 del mismo período de 2025. El Gobierno nacional, bancos y gobiernos provinciales despliegan medidas para sostener la oferta de préstamos, pero persisten problemas estructurales que limitan el acceso a la vivienda.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/credito-hipotecario-mas-de-13000-personas-accedieron-a-un-prestamo-pero-el-mercado-se-enfria-por-que/",
+     "imagen": "https://www.cronista.com/resizer/v2/K2KJ536IEVGM5GFCJKZOR763MI.jpg?auth=6ddae23f6578a3e3862e9f844cc1056a897f87d3f7e7fe33c135d2f476ebb080&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Crédito hipotecario: más de 13.000 personas accedieron a un préstamo, pero el mercado se enfría, ¿por qué?"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "Las cadenas de electrodomésticos extienden sus outlets con descuentos y cuotas sin interés",
+     "resumen": "Las cadenas de electrodomésticos prolongaron sus promociones de outlet, con descuentos y cuotas sin interés, en un intento por sostener el consumo. Las ofertas se extendieron incluso más allá del Electro Fans. Para una empresa de retail, la extensión de estas campañas es un indicador de que el consumo sigue necesitando estímulos de precio y financiación para reactivarse.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464249-cadenas-de-electrodomesticos-extienden-outlet-con-50-de-descuento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625516.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:13",
+     "autor": "",
+     "titulo_original": "Cadenas de electrodomésticos extienden \"outlet\" con descuentos y cuotas sin interés"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "El Banco Ciudad volvió a bajar la tasa de sus créditos hipotecarios",
+     "resumen": "El Banco Ciudad bajó un punto la tasa de sus créditos hipotecarios, hasta el 6,5% anual más UVA, después de licitar fondeo de recursos de la ANSES. La entidad porteña había fijado un mes antes una primera baja a UVA más 7,5%, gracias a un subsidio de la Ciudad de Buenos Aires, y ahora se acerca a la tasa que cobra el Banco Nación.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/con-fondos-de-anses-los-bancos-vuelven-a-bajar-tasas-de-los-creditos-hipotecarios-un-punto-y-hasta-cuanto/",
+     "imagen": "https://www.cronista.com/resizer/v2/5NGBMKLFFVDJBF6IGH6PTOVIKI.jpg?auth=69276a189d18733f3772753c4b1b00bd917dfad01630d6504b47fea38aa8fd78&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "05:59",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Con fondos de ANSES, los bancos vuelven a bajar tasas de los créditos hipotecarios: un punto y hasta cuánto"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "Créditos hipotecarios UVA: cuándo convenía endeudarse y qué riesgos hay ahora",
+     "resumen": "Una simulación compara las cuotas, los ingresos necesarios y el valor en dólares de un crédito hipotecario UVA desde 2017 hasta 2026, para evaluar si conviene tomar este tipo de financiamiento en el contexto actual de tasas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/463979-creditos-uva-cuando-convenia-endeudarse-antes-y-que-riesgos-hay-ahora",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614377.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:21",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios UVA: cuándo convenía endeudarse antes y qué riesgos hay ahora"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-16",
+     "titulo": "El gasto público acumula su mayor caída real desde 2023",
+     "resumen": "El gasto primario devengado de la Administración Pública Nacional, que representa cerca del 85% del gasto primario del Sector Público Nacional no Financiero, registra a agosto de 2026 una caída real acumulada del 32% respecto del mismo período de 2023. La reducción fue del 19,4% en enero, se amplió al 27,5% en febrero y alcanzó alrededor del 31% en marzo, para luego mantenerse relativamente estable.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-gasto-publico-tiene-su-mayor-caida-en-2026/",
+     "imagen": "https://www.cronista.com/resizer/v2/DWFYDVPKZNA6ZEPFPP4GWWB6C4.jpg?auth=d7b66d9a22c56f212fa8fb5d35a55a28badc90db1664f879223646d14310e8bb&smart=true&width=900&height=565",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:09",
+     "autor": "Nadin Argañaraz",
+     "titulo_original": "El gasto público tiene su mayor caída en 2026"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "El Observatorio Lugones busca anticipar decisiones empresariales",
+     "resumen": "A través de encuentros presenciales, el Observatorio Lugones reunirá a profesionales y especialistas con empresarios y responsables de gestión para profundizar en temas concretos que ayuden a anticipar decisiones de negocio.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464226-observatorio-lugones-una-mirada-integral-para-anticipar-decisiones-empresariales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625505.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:15",
+     "autor": "",
+     "titulo_original": "Observatorio Lugones: una mirada integral para anticipar decisiones empresariales"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "Los líderes del BRICS se reúnen en India mientras las guerras ponen a prueba al bloque",
+     "resumen": "Los líderes de los países del BRICS se reunirán este fin de semana en Nueva Delhi, en medio de las guerras en Ucrania y Medio Oriente y de las tensiones entre Estados Unidos y China. India, el país anfitrión, buscará equilibrar sus lazos con China y Rusia con sus crecientes alianzas occidentales. Está prevista la presencia de Vladimir Putin, Xi Jinping y el presidente iraní, Masoud Pezeshkian.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/11/los-lideres-del-brics-se-reunen-en-india-mientras-las-guerras-y-las-rivalidades-ponen-a-prueba-al-bloque/",
+     "imagen": "https://www.infobae.com/resizer/v2/73WPGKWJLREB3EFQZLWWQT4SUQ.JPG?auth=190a5c24f6881f14fdcb819dbda46bc4be2a85eaa63904bae03e2348567c185b&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:19",
+     "autor": "Aijaz Hussain, Sheikh Saaliq",
+     "titulo_original": "Los líderes del BRICS se reúnen en India mientras las guerras y las rivalidades ponen a prueba al bloque"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Yemen declaró una \"zona de eliminación\" contra los hutíes tras la toma de Moca",
+     "resumen": "El Ministerio de Defensa del gobierno yemení reconocido internacionalmente anunció que empleará \"todo tipo de armamento y fuego\" contra las milicias hutíes en una \"zona de eliminación\" que incluye un corredor de 36 kilómetros hacia Taiz y franjas de 15 y 20 kilómetros a los costados de la carretera. Las autoridades pidieron a los civiles no circular por la región por su seguridad.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Giro en la guerra: los hutíes pro iraníes se apoderan de un puerto clave y estratégicas islas en sur del Mar Rojo",
+       "url": "https://www.clarin.com/mundo/giro-guerra-huties-pro-iranies-apoderan-puerto-clave-estrategicas-islas-sur-mar-rojo_0_eR1JghnDCz.html"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/11/el-gobierno-yemeni-definio-una-zona-de-eliminacion-contra-los-huties-que-amenazan-el-estrecho-de-bab-el-mandeb/",
+     "imagen": "https://www.infobae.com/resizer/v2/YRCXXLKPMVB7XHUIDWN3OUK7GY.JPG?auth=ae53e042e86abbc285f966e7db8be82944857bbafc265ca995f22a68771519a7&smart=true&width=900&height=505",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:22",
+     "autor": "",
+     "titulo_original": "El Gobierno yemení definió una “zona de eliminación” contra los hutíes que amenazan el estrecho de Bab el Mandeb"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Hong Kong condenó a tres activistas prodemocracia por las vigilias de Tiananmen",
+     "resumen": "Un tribunal de Hong Kong condenó a Lee Cheuk-yan (69 años), Chow Hang-tung (41) y Albert Ho (74), integrantes de la ya disuelta Alianza de Hong Kong, a penas de entre cinco años y dos meses y siete años y tres meses de prisión por \"incitación a la subversión\". El cargo se vinculó con la organización de vigilias anuales en memoria de la represión de Tiananmen de 1989.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/11/el-regimen-chino-condeno-a-tres-lideres-activistas-de-las-vigilias-por-la-represion-de-tiananmen-por-incitacion-a-la-subversion/",
+     "imagen": "https://www.infobae.com/resizer/v2/JIHGQOG5Z5GVPPCNUTJVW5O7QQ.JPG?auth=0138f7982ed1dbade2965c97ea639e7d0a6dc0e164432b4591b45844a81fcaa6&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:12",
+     "autor": "",
+     "titulo_original": "El régimen chino condenó a tres líderes activistas de las vigilias por la represión de Tiananmen por “incitación a la subversión”"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "La esposa de Nicolás Maduro pidió prisión domiciliaria en Manhattan",
+     "resumen": "Cilia Flores, esposa de Nicolás Maduro, pidió prisión domiciliaria en un departamento de Manhattan por un problema cardíaco. Sus abogados ofrecieron una vivienda con vigilancia las 24 horas y visitas aprobadas por el tribunal. Flores está detenida en una cárcel de Brooklyn desde enero, junto a su marido.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/cilia-flores-esposa-nicolas-maduro-pide-prision-domiciliaria-departamento-manhattan-problema-cardiaco_0_WG5VlTPRcc.html",
+     "imagen": "https://www.clarin.com/img/2026/01/05/ikGhXz3jp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cilia Flores, esposa de Nicolás Maduro, pide la prisión domiciliaria en un departamento de Manhattan por un problema cardíaco"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Brasil vota para presidente el 4 de octubre",
+     "resumen": "Las elecciones presidenciales de Brasil están fijadas para el domingo 4 de octubre de 2026. Si la definición requiere una segunda vuelta, esa votación se realizará el domingo 25 de octubre, según el Tribunal Superior Electoral.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YAAYP7Q7UVH53P6LJHXRRQBZEI.JPG?auth=2b993d2bb6d313420aa9d9b8a83f12f92a68238aa703fd3dd565dd098fd34459&smart=true&width=900&height=604",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:45",
+     "autor": "",
+     "titulo_original": "Elecciones: cuándo se vota para presidente en Brasil 2026"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza esta semana la economía rusa, el costo de las guerras post 11-S y la promesa electoral de Donald Trump.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Cómo Putin está arruinando la economía rusa",
+     "resumen": "Un análisis de Le Grand Continent sostiene que la sanción más severa contra la economía rusa no viene del exterior sino del propio Kremlin. La revista señala el colosal gasto militar en un contexto de déficit presupuestario y una política financiera restrictiva que eleva los costos de financiación sin lograr frenar la inflación.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/11/como-putin-esta-arruinando-la-economia-rusa/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "04:24",
+     "autor": "Louis Puel",
+     "titulo_original": "Cómo Putin está arruinando la economía rusa"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Las guerras posteriores al 11 de septiembre le costaron a Estados Unidos 8 billones de dólares",
+     "resumen": "Según un estudio de la Watson School for International and Public Affairs de la Universidad de Brown, Estados Unidos destinó unos 5,8 billones de dólares entre 2001 y 2022 a las guerras en Medio Oriente derivadas de los atentados del 11 de septiembre. Sumando al menos 2,2 billones de dólares en obligaciones futuras para veteranos, el total asciende a unos 8 billones de dólares. Más de 940.000 personas murieron en Irak, Afganistán, Pakistán, Siria y Yemen como consecuencia directa de esos conflictos, más de 432.000 de ellas civiles.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/11/las-guerras-post-2001-han-costado-8000-billones-de-dolares-a-estados-unidos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Las guerras posteriores a 2001 le han costado a Estados Unidos 8 billones de dólares"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "La promesa de Trump de pagar 5.000 dólares a cada estadounidense no tiene precedentes",
+     "resumen": "Donald Trump prometió, durante una convención del Partido Republicano en Dallas, pagar un \"dividendo\" de 5.000 dólares a cada adulto estadounidense si su partido logra la mayoría en la Cámara de Representantes y el Senado en las elecciones de mitad de mandato del 3 de noviembre. Según Le Grand Continent, ese dividendo costaría unos 1,225 billones de dólares, y varios abogados estadounidenses consideran que la propuesta, tal como está planteada, no sería ilegal.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/10/la-promesa-de-trump-de-pagar-5000-dolares-a-estadounidenses-en-caso-de-victoria-republicana-aux-elections-est-sans-precedent/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:42",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La promesa de Trump de pagar 5.000 dólares a los estadounidenses en caso de victoria republicana en las elecciones no tiene precedentes"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-08",
+     "titulo": "Los amistosos de la Selección abrieron dudas sobre la continuidad de Scaloni",
+     "resumen": "Sin rivales ratificados a pocos días de la próxima ventana FIFA, la nómina de convocados de la Selección argentina se mantiene en suspenso. El escenario abre la posibilidad de que descansen algunas figuras principales y debuten nuevos futbolistas, en medio de la incertidumbre sobre si Lionel Scaloni seguirá al frente del equipo.",
+     "relacionadas": [
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Dejemos que Scaloni decida en paz: ¿seguir en su casa o abrirse al mundo?",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/dejemos-que-scaloni-decida-en-paz-seguir-en-su-casa-o-abrirse-al-mundo-nid10092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/amistosos-seleccion-abrieron-caja-pandora-continuidad-scaloni-mesa-incertidumbre-crece_0_G7ZuMllVVx.html",
+     "imagen": "https://www.clarin.com/img/2026/07/20/7-s90M0-G_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los amistosos de la Selección abrieron la Caja de Pandora: la continuidad de Scaloni sobre la mesa y una incertidumbre que crece"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "Sabalenka venció a Pegula y sigue en carrera por el tricampeonato del US Open",
+     "resumen": "Aryna Sabalenka derrotó a la local Jessica Pegula por 7-5 y 6-2 en la primera semifinal del US Open y quedó a un paso de un nuevo título en Nueva York, donde fue campeona en 2024 y 2025. La bielorrusa cederá, de todos modos, el primer puesto del ranking semanal de la WTA a la kazaja Elena Rybakina el próximo lunes.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/aryna-sabalenka-mantiene-el-sueno-del-tricampeonato-en-el-us-open-gran-victoria-sobre-pegula-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OOIIGRTVPJAP5FZ646LAPDF7LU.jpg?auth=d6b979030e3757218b64856211b97038bcfa57cc2153744a6468111b2fd9ebca&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "23:09",
+     "autor": "José Luis Domínguez",
+     "titulo_original": "Aryna Sabalenka mantiene el sueño del tricampeonato en el US Open: gran victoria sobre Pegula"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Franco Colapinto corre este fin de semana el GP de España en el nuevo circuito de Madring",
+     "resumen": "El piloto argentino de Alpine, que viene de terminar noveno en Monza tras un accidente que lo alejó del podio, disputa este fin de semana el Gran Premio de España de Fórmula Uno en el circuito de Madring. El presidente de la FIA, Mohammed ben Sulayem, recomendó por su parte a Fernando Alonso retirarse tras lograr un nuevo éxito y no por sentirse obligado a hacerlo.",
+     "relacionadas": [
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Presidente de la FIA, a Alonso: \"Que se retire tras un éxito, no porque se vea obligado\"",
+       "url": "https://www.infobae.com/espana/agencias/2026/09/11/presidente-de-la-fia-a-alonso-que-se-retire-tras-un-exito-no-porque-se-vea-obligado/"
+      },
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Un accidente de Tasanapol Inthraphuvasak (F2) provoca fuego y bandera roja en Madring",
+       "url": "https://www.infobae.com/espana/agencias/2026/09/11/un-accidente-de-tasanapol-inthraphuvasak-f2-provoca-fuego-y-bandera-roja-en-madring/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/f1-gp-espana-franco-colapinto-vivo-horarios-primeras-practicas-madring-ver-formula-1_0_Mp8Vsbjl8v.html",
+     "imagen": "https://www.clarin.com/img/2026/09/10/4txg7YDP4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de España con Franco Colapinto, EN VIVO: horarios de las primeras prácticas en el Madring y dónde ver la Fórmula 1"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Arrancan los Juegos Suramericanos Santa Fe 2026",
+     "resumen": "Este sábado comienzan los Juegos Suramericanos Santa Fe 2026, que se extenderán hasta el 26 de septiembre en Rosario, Santa Fe y Rafaela, con más de 4.000 atletas de 15 países en 43 deportes y 60 disciplinas. Es la primera parada del ciclo olímpico rumbo a Los Ángeles 2028; Paraná recibirá el sóftbol, Mar del Plata las pruebas de surf y Vicente López el bowling. La Provincia invirtió cerca de US$ 150 millones en 11 escenarios nuevos, sin aportes del Gobierno nacional.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Los Juegos Suramericanos 2026 transforman Santa Fe: 11 escenarios nuevos, una inversión millonaria y un legado enorme",
+       "url": "https://www.clarin.com/deportes/juegos-suramericanos-2026-transforman-santa-fe-11-escenarios-nuevos-inversion-millonaria-legado-enorme_0_LZrrwWoKna.html"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/11/arrancan-los-juegos-suramericanos-santa-fe-2026-sedes-deportes-los-abanderados-de-argentina-y-todo-lo-que-hay-que-saber/",
+     "imagen": "https://www.infobae.com/resizer/v2/KBOQXTODFVF3FPVJERQB5PM4SQ.jpg?auth=b71c2cc46235cbe5fec92e4de8f37672ad4bf82b16ffbb79fde15f5929328878&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:27",
+     "autor": "Juan José Ciceri",
+     "titulo_original": "Arrancan los Juegos Suramericanos Santa Fe 2026: sedes, deportes, los abanderados de Argentina y todo lo que hay que saber"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Cómo les fue a los argentinos en el arranque de la Champions League",
+     "resumen": "En la primera fecha de la Champions League, varios futbolistas argentinos se destacaron en sus clubes con goles y asistencias en la máxima competición europea a nivel clubes.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/jueves-champions-league-como-le-fue-los-argentinos-n6320992",
+     "imagen": "https://media.ambito.com/p/1565604cc08c89177eb34c31cd227604/adjuntos/239/imagenes/043/635/0043635680/1200x675/707x148:727x168/argentinos-champions.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:05",
+     "autor": "",
+     "titulo_original": "Jueves de Champions League: cómo le fue a los argentinos"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Jonatan Castellano busca en el TC el título que ganó su padre",
+     "resumen": "Jonatan \"Pinchito\" Castellano ganó la Etapa Regular del Turismo Carretera y arrancará como líder la Copa de Oro, aunque todavía necesita una victoria para consagrarse campeón. Su padre, Oscar Castellano, fue tricampeón entre 1987 y 1989; a los 41 años, Jonatan busca repetir esa historia y devolverle el título a Dodge después de 20 años.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/jonatan-castellano-va-titulo-turismo-carretera-logro-papa-cuenta-pendiente-campeon_0_dxGAKuO222.html",
+     "imagen": "https://www.clarin.com/img/2026/09/08/crFbzkbMl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Jonatan Castellano va por el título del Turismo Carretera que logró su papá, pero tiene una cuenta pendiente para ser campeón"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Ancelotti convocó a Brasil sin Neymar y sin otros 16 mundialistas",
+     "resumen": "El entrenador italiano Carlo Ancelotti llamó a una convocatoria renovada de la Selección de Brasil para la próxima fecha FIFA, sin Neymar y sin otros 16 jugadores que participaron del último Mundial, en medio de una reforma del plantel tras la eliminación temprana de la Canarinha en la Copa del Mundo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/sin-neymar-y-la-ausencia-16-jugadores-mundialistas-la-renovada-convocatoria-carlo-ancelotti-brasil-n6320953",
+     "imagen": "https://media.ambito.com/p/3d817aa14ab6ce2755141753c76dd10d/adjuntos/239/imagenes/043/384/0043384294/ancelotti-y-neymar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:51",
+     "autor": "",
+     "titulo_original": "Sin Neymar y con la ausencia de 16 jugadores mundialistas: la renovada convocatoria de Carlo Ancelotti en Brasil"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-26",
+     "titulo": "Albi, la joya medieval del sur de Francia con la catedral de ladrillo más grande del mundo",
+     "resumen": "Albi, en el valle de un río del sur de Francia, combina historia y naturaleza con un aire medieval y vitícola. Tiene la catedral de ladrillo más grande del mundo, es patrimonio mundial desde 2010 y cuenta con un castillo más antiguo que el de Avignon, aunque es menos conocida que otras localidades de la región.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/salud/la-joya-del-sur-de-francia-que-invita-a-recorrer-sus-callecitas-a-pie-un-castillo-y-jardines-nid09092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KYMA3QTN4NAJNEI3UG6T4ADS3Y.JPG?auth=8879043ff3860c20dadfed3cb36138a98db6f477457a7f1b1cf31f39b1222a61&smart=true&width=900&height=449",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:02",
+     "autor": "Carolina Cerimedo",
+     "titulo_original": "La joya del sur de Francia que invita a recorrer sus callecitas a pie, un castillo y jardines imponentes"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-23",
+     "titulo": "El Papa León XIV visitará la Argentina del 8 al 11 de noviembre",
+     "resumen": "Comenzaron a conocerse los principales puntos de la visita del papa León XIV a la Argentina, prevista entre el 8 y el 11 de noviembre. Entre los actos previstos figuran una misa central al pie del Monumento de los Españoles, un encuentro con jóvenes, una celebración en la Basílica de Luján, una ceremonia en Córdoba y visitas a la cárcel de Devoto y al Cottolengo de Claypole. El programa definitivo será anunciado por la Santa Sede a mediados de septiembre.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/visita-del-papa-leon-xiv-a-la-argentina-que-se-sabe-de-la-misa-central-y-toda-la-agenda-oficial-nid07092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PFHDODYDQZAL7EKL2275Q3UXFQ.jpg?auth=2ae6c0a72ee0c6c0530878e00daecd8a059a29cf8ebf6fa13897d8762b017c7f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:05",
+     "autor": "",
+     "titulo_original": "Visita del Papa León XIV a la Argentina: qué se sabe de la misa central y toda la agenda oficial"
+    },
+    {
+     "id": "IB-10",
+     "titulo": "Alerta por lluvias, granizo y viento en 13 provincias para el fin de semana",
+     "resumen": "El Servicio Meteorológico Nacional emitió alertas por tormentas, granizo y ráfagas intensas de viento para este viernes, que afectan a 13 provincias desde el norte del país hasta un sector de la Patagonia. En el AMBA se esperan chaparrones desde esta noche, y en las zonas alcanzadas por las alertas más severas se prevén acumulados de entre 30 y 60 milímetros, con riesgo de anegamientos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/11/alerta-meteorologica-para-20-provincias-que-zonas-esperan-tormentas-nieve-y-fuertes-vientos/",
+     "imagen": "https://www.infobae.com/resizer/v2/TPBQFO7PIZG6XMSVTZQ5JKG6OU.png?auth=3a06bcaf6058e505c8ead82564697c12feeb9a429f17d00445ee2cfd806ebc73&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:02",
+     "autor": "",
+     "titulo_original": "Lluvias desde esta noche en el AMBA y alerta para 13 provincias: cómo estará el clima durante el fin de semana"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Comienza Rosh Hashaná, el Año Nuevo judío",
+     "resumen": "Rosh Hashaná, el Año Nuevo judío, se celebra este año entre el viernes 11 y el domingo 13 de septiembre y marca el comienzo del año 5787 según la tradición judía. La fecha se vive como una instancia de examen personal y de pedido de ser inscripto para bien en el libro de la vida.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/11/del-polvo-de-la-tierra-al-libro-de-la-vida-comidas-y-tradiciones-en-la-celebracion-del-ano-nuevo-judio/",
+     "imagen": "https://www.infobae.com/resizer/v2/EPCSTMOSQ5D5NKZRQMIXLYSUTY.jpg?auth=d93bba2380b86131431503bb2277beb9b5fb23061da56780bc7d0b32b5307389&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:13",
+     "autor": "",
+     "titulo_original": "Del “polvo de la tierra” al “libro de la vida”: comidas y tradiciones en la celebración del Año Nuevo Judío"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del viernes 11 de septiembre. El dato central de la jornada es la inflación de agosto, que el Indec ubicó en uno coma siete por ciento, la más baja en catorce meses, con un acumulado de veintiuno coma tres por ciento en el año y treinta y tres coma cinco por ciento en los últimos doce meses. El Gobierno celebró el dato. En paralelo, el Gobierno creó un nuevo sistema en la Cancillería para coordinar el reclamo de soberanía sobre las islas Malvinas, el petróleo saltó a más de ciento ocho dólares el barril por la escalada entre los hutíes y el gobierno yemení, y el crédito hipotecario muestra señales de enfriamiento pese a las bajas de tasas. En los mercados, el dólar oficial cerró en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cuarenta y cinco pesos y el mayorista en mil quinientos doce pesos. El riesgo país se ubicó en cuatrocientos noventa y un puntos y el oro cotiza a cuatro mil trescientos ochenta y seis dólares la onza. En política, el Gobierno oficializó mediante un decreto la creación de un Sistema de Articulación de la Política Exterior dentro de la Cancillería, para centralizar las gestiones internacionales vinculadas con Malvinas. En paralelo, en el sector pesquero temen un efecto bumerán por las nuevas sanciones que impulsa Javier Milei contra empresas extranjeras, ya que existen leyes similares desde dos mil ocho que nunca se aplicaron. Cristina Kirchner, inhabilitada de por vida, prepara el terreno para forzar una candidatura en dos mil veintisiete, aunque dentro del propio peronismo hay objeciones. En Entre Ríos, el gobernador Rogelio Frigerio negocia en forma directa con el jefe de Gabinete, Diego Santilli, un acuerdo electoral con la Libertad Avanza sin que intervenga la conducción nacional del PRO. Y Karina Milei se sumó por primera vez a la mesa de coordinación entre su espacio y el PRO en la Casa Rosada. Además, del veintiuno al veintitrés de septiembre, la Sindicatura General de la Nación realizará en el Palacio Libertad su segundo Congreso Internacional de Control Gubernamental. En economía, además de la inflación, el petróleo Brent trepó más de siete por ciento y llegó a ciento ocho dólares con noventa y seis centavos, mientras las acciones argentinas subieron con fuerza y el índice Merval avanzó uno coma cinco por ciento. El ministro Luis Caputo volvió a resignar la emisión de bonos en dólares en la licitación del Tesoro y priorizó deuda de corto plazo para evitar convalidar mayores tasas. Según el informe monetario del Banco Central, el crédito al sector privado en pesos cayó más de un billón de pesos en la última semana de agosto, con bancos que restringen el financiamiento a sectores como consumo masivo, electrónica, construcción e industria. El Fondo Monetario Internacional, por su parte, señaló que la mora no es un riesgo relevante y anticipó que la tercera revisión del programa con la Argentina comenzará este mes. Y persisten dudas sobre si será posible sostener la inflación por debajo de dos por ciento hasta fin de año, en un contexto de petróleo, alimentos y tarifas que podría complicar la desaceleración. En negocios y empresas, Molinos, del grupo Pérez Companc, compró un complejo industrial en Tucumán para ingresar al negocio de las galletitas. El grupo Andreani y la empresa Plastiferro invertirán diez millones de dólares en una planta en Neuquén para fabricar tuberías plásticas para Vaca Muerta y competir con productos importados de China. Comenzaron los remates de bienes de Garbarino. La Secretaría de Minería proyecta que las exportaciones argentinas de cobre podrían superar los diecisiete mil millones de dólares hacia dos mil treinta y cinco si avanzan los principales proyectos. Y David Vélez, fundador del banco digital brasileño Nu, dijo que la Argentina le parece un mercado atractivo y elogió las desregulaciones del gobierno de Milei. En impuestos, laboral y normativa, la Corte Suprema falló en contra del cobro de tasas municipales cuando no hay un servicio concreto de por medio, en un caso que el Banco Galicia inició contra la municipalidad de Córdoba en dos mil ocho. Según el vicepresidente del Banco Central, los impuestos representan el veintisiete por ciento del costo financiero total de un crédito personal y casi el veintiocho por ciento en las tarjetas de crédito. Un relevamiento ubicó a la Argentina como el segundo país de América Latina con mayor presión tributaria. Y la Justicia de Río Negro ordenó suspender Netflix a un padre que no paga la cuota alimentaria, por una deuda cercana a los cuatro millones de pesos. En consumo, construcción y retail, el crédito hipotecario perdió impulso este año: entre enero y julio se otorgaron poco más de trece mil préstamos, un cuarenta y siete por ciento menos que en el mismo período de dos mil veinticinco, pese a que bancos y Gobierno buscan reactivar el financiamiento. El Banco Ciudad volvió a bajar su tasa hipotecaria, ahora al seis coma cinco por ciento más UVA. Y las cadenas de electrodomésticos extendieron sus promociones de outlet, con descuentos y cuotas sin interés, para sostener el consumo. Para una empresa del sector, tasas hipotecarias más bajas y promociones agresivas pueden traducirse en mayor demanda de materiales de construcción y artículos para el hogar. En management y finanzas corporativas, el gasto primario de la administración pública nacional acumula una caída real de treinta y dos por ciento entre dos mil veintitrés y dos mil veintiséis, un dato clave para cualquier tablero de control de gestión. Y el Observatorio Lugones anunció encuentros para ayudar a empresarios y responsables de gestión a anticipar decisiones de negocio. En el mundo, los líderes del BRICS se reúnen este fin de semana en Nueva Delhi, con Vladimir Putin, Xi Jinping y el presidente iraní entre los asistentes, mientras las guerras en Ucrania y Medio Oriente ponen a prueba al bloque. El gobierno yemení declaró una zona de eliminación contra los rebeldes hutíes, después de que estos tomaran el puerto de Moca y toda la provincia de Al Hudeida, cerca del estrecho de Bab el Mandeb. Un tribunal de Hong Kong condenó a tres referentes prodemocracia a penas de entre cinco y siete años de prisión por organizar vigilias en memoria de la represión de Tiananmen. Cilia Flores, esposa de Nicolás Maduro, pidió prisión domiciliaria en Manhattan por un problema cardíaco. Y en Brasil, las elecciones presidenciales serán el cuatro de octubre, con un eventual balotaje el veinticinco de ese mes. Le Grand Continent analiza que la sanción más severa contra la economía rusa no viene de afuera, sino del propio Kremlin, por el gasto militar y una política financiera restrictiva que no logra frenar la inflación. La revista también recuerda que las guerras posteriores a los atentados del once de septiembre le costaron a Estados Unidos unos ocho billones de dólares, con más de novecientas cuarenta mil personas muertas en Irak, Afganistán, Pakistán, Siria y Yemen. Y repasa la promesa de Donald Trump de pagar cinco mil dólares a cada adulto estadounidense si el Partido Republicano gana el Congreso en noviembre, una medida sin precedentes. En deportes, los amistosos de la Selección argentina abrieron una incertidumbre sobre la continuidad de Lionel Scaloni, sin rivales confirmados a días de la próxima ventana FIFA. Aryna Sabalenka venció a Jessica Pegula y sigue en carrera por el tricampeonato del Abierto de Estados Unidos. Franco Colapinto corre este fin de semana el Gran Premio de España de Fórmula Uno en el nuevo circuito de Madring, tras terminar noveno en Monza. Este sábado arrancan los Juegos Suramericanos en Santa Fe, con más de cuatro mil atletas de quince países. En la Champions League, varios futbolistas argentinos se destacaron con goles y asistencias. Y en el Turismo Carretera, Jonatan Castellano lidera la Copa de Oro y busca repetir el título que ganó su padre hace casi cuarenta años. Para cerrar, en turismo destacamos Albi, una pequeña ciudad del sur de Francia con una imponente catedral de ladrillo, un castillo más antiguo que el de Avignon y un encanto medieval que la convierten en un destino menos conocido pero lleno de historia. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": null,
+ "slug": "2026-09-11-manana",
+ "generado_ba": "11/09/2026 10:12"
+}
