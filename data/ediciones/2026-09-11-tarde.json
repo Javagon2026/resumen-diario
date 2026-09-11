@@ -1,47 +1,51 @@
 {
  "fecha": "2026-09-11",
  "edicion": "tarde",
- "titulo": "Milei cae al 58% de desaprobación, imputan a Tapia y sube el petróleo",
- "apertura": "La desaprobación de Javier Milei llegó al 58% en un sondeo de AtlasIntel y Bloomberg, mientras la fiscalía imputó a Claudio Tapia por enriquecimiento ilícito y Estados Unidos autorizó la venta de cuatro helicópteros Black Hawk a la Argentina por US$ 140 millones. En los mercados, el petróleo Brent tocó los US$ 110 por la escalada de los hutíes en el mar Rojo y el empleo registrado cayó a su mínimo en 50 meses. En lo local, Diarco y Pardo aceleran el cierre de sucursales por la caída del consumo, mientras Franco Colapinto largó 15° en la segunda práctica del Gran Premio de España en el nuevo circuito de Madrid.",
+ "titulo": "El riesgo país toca mínimo mensual y Mastantuono brilla con un triplete en Italia",
+ "apertura": "El Banco Central compró apenas cinco millones de dólares hoy, la cifra más baja del año, mientras el dólar oficial tuvo su mayor caída diaria en un mes y el blue extendió su suba. El riesgo país tocó un mínimo de un mes en 485 puntos pero el Merval cortó una racha alcista, en una jornada marcada además por la caída del salario real privado y la baja persistente del empleo formal. En Tierra del Fuego, Quirno y Presti avanzaron con la Base Naval Integrada junto al gobernador Melella, mientras en Italia Franco Mastantuono festejó su primer triplete como profesional.",
  "claves": [
-  "La desaprobación de Milei llegó al 58% según AtlasIntel y Bloomberg, con fuerte deterioro en las expectativas económicas personales.",
-  "La fiscalía imputó a Claudio Tapia por enriquecimiento ilícito y pidió levantar su secreto fiscal y bancario.",
-  "Estados Unidos autorizó la venta de cuatro helicópteros Black Hawk a la Argentina por US$ 140 millones.",
-  "El petróleo Brent tocó los US$ 110 y acumula 13% de suba semanal por el avance de los hutíes, que ya controlan toda la costa yemení del mar Rojo.",
-  "El empleo registrado cayó a su mínimo en 50 meses, con 246.312 puestos perdidos desde 2023.",
-  "ARCA fijó el 30 de noviembre como plazo límite para adaptar la facturación electrónica.",
-  "Diarco y Pardo aceleran el cierre de sucursales por la caída del consumo.",
-  "Franco Colapinto terminó 15° en la segunda práctica del GP de España en el nuevo circuito de Madrid."
+  "El Banco Central compró apenas cinco millones de dólares hoy, la compra diaria más baja del año, en una semana floja de acumulación de reservas.",
+  "El dólar oficial cayó a 1.510 pesos, su mayor baja diaria en un mes, mientras el blue subió por cuarta semana consecutiva y amplió la brecha.",
+  "El riesgo país tocó un mínimo de un mes en 485 puntos básicos, pero el Merval retrocedió 1,9% y cortó una racha de tres ruedas de alza.",
+  "El salario real del sector privado cayó 3% en un año y el empleo formal sigue en baja: 354.128 puestos asalariados menos desde noviembre de 2023.",
+  "Ferrum, fabricante de sanitarios, perdió 26.000 millones de pesos en su último balance y alertó por el avance de las importaciones.",
+  "Construir una vivienda de 100 metros cuadrados costó en agosto más de 238 millones de pesos, unos 155.000 dólares.",
+  "Quirno y Presti recorrieron el predio de la futura Base Naval Integrada en Ushuaia junto al gobernador Gustavo Melella.",
+  "Franco Mastantuono anotó su primer triplete como profesional y dio vuelta el resultado en la victoria por 4-2 de la Fiorentina ante Venezia."
  ],
  "cifras": [
   {
+   "nombre": "Merval",
+   "valor": "3.098.898 puntos",
+   "variacion": "-1,9%",
+   "fuente": "IB-05"
+  },
+  {
    "nombre": "Petróleo Brent",
-   "valor": "US$ 108,44 por barril",
-   "variacion": "+0,8%",
-   "fuente": "CR-26"
+   "valor": "US$ 104,61 el barril",
+   "variacion": "-2,81%",
+   "fuente": "CL-05"
   },
   {
-   "nombre": "Empleo privado formal",
-   "valor": "-246.312 puestos desde 2023",
-   "variacion": "-1,9% interanual",
-   "fuente": "IP-12"
+   "nombre": "Empleo asalariado registrado",
+   "valor": "-354.128 puestos desde noviembre de 2023",
+   "fuente": "IB-26"
   },
   {
-   "nombre": "Monotributistas",
-   "valor": "2,2 millones",
-   "variacion": "+70% en 15 años",
-   "fuente": "CL-15"
+   "nombre": "Costo de construir una vivienda de 100 m2 (Buenos Aires)",
+   "valor": "$ 238.386.297 (US$ 155.301)",
+   "fuente": "IB-21"
   },
   {
-   "nombre": "Crédito al consumo",
-   "valor": "cayó 1,3% real en agosto",
-   "fuente": "IB-15"
+   "nombre": "Salario real del sector privado",
+   "valor": "-3% interanual; mediana de $ 1.385.000",
+   "fuente": "AM-05"
   },
   {
-   "nombre": "Exportaciones PyME",
-   "valor": "US$ 7.630 millones hasta agosto",
-   "variacion": "+24%",
-   "fuente": "IP-17"
+   "nombre": "Compra de dólares del BCRA",
+   "valor": "US$ 42 millones en la semana; US$ 5 millones hoy",
+   "variacion": "mínimo anual",
+   "fuente": "LN-08"
   }
  ],
  "secciones": [
@@ -49,105 +53,147 @@
    "nombre": "Política",
    "notas": [
     {
-     "id": "IB-17",
-     "titulo": "la desaprobación de Milei llega al 58% y crece el malestar por empleo y corrupción",
-     "resumen": "El sondeo de AtlasIntel y Bloomberg, realizado entre el 30 de agosto y el 3 de septiembre sobre 2.193 adultos, ubicó la desaprobación de Javier Milei en 58%, casi 20 puntos por encima del 38,1% de aprobación. El estudio también registró una evaluación mayoritariamente negativa de la economía y el empleo.",
+     "id": "IB-14",
+     "titulo": "Quirno y Presti recorrieron el predio de la Base Naval Integrada en Ushuaia",
+     "resumen": "El canciller Pablo Quirno y el ministro de Defensa Carlos Presti se reunieron con el gobernador de Tierra del Fuego, Gustavo Melella, y la vicegobernadora Mónica Urquiza, en el marco de su visita a la futura Base Naval Integrada. Melella, un aliado del kirchnerismo, coincidió con los funcionarios en que la Argentina debe sostener un posicionamiento firme en el Atlántico Sur. El proyecto lleva más de cuatro décadas de impulso desde la provincia y persisten reclamos por el financiamiento de servicios como electricidad y gas.",
      "relacionadas": [
       {
-       "id": "IB-25",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "La economía, el principal problema para Milei: dos encuestas muestran un fuerte deterioro en las expectativas",
-       "url": "https://www.infobae.com/politica/2026/09/11/la-economia-el-principal-problema-para-milei-dos-encuestas-muestran-un-fuerte-deterioro-en-las-expectativas/"
-      }
-     ],
-     "url": "https://www.infobae.com/politica/2026/09/11/la-desaprobacion-de-milei-alcanza-el-58-y-crece-el-malestar-por-empleo-y-corrupcion/",
-     "imagen": "https://www.infobae.com/resizer/v2/K7265ONIHBCQ5KIR7CYZMKJRNI.JPG?auth=0d0041807ffa937f3870e7a12715759063e789dc9f13e59d01ed8a8bb023a71e&smart=true&width=900&height=506",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "13:52",
-     "autor": "",
-     "titulo_original": "La desaprobación de Milei alcanza el 58% y crece el malestar por empleo y corrupción"
-    },
-    {
-     "id": "LN-24",
-     "titulo": "la fiscalía imputó a Claudio Tapia por enriquecimiento ilícito",
-     "resumen": "El fiscal Gerardo Pollicita impulsó la investigación contra el presidente de la AFA y le pidió al juez Ariel Lijo levantar su secreto fiscal y bancario, con una veintena de medidas de prueba sobre su patrimonio. La causa se apoya en su cargo como funcionario de la Ceamse, no en la presidencia de la AFA.",
-     "relacionadas": [],
-     "url": "https://www.lanacion.com.ar/politica/avanza-una-causa-contra-claudio-tapia-por-enriquecimiento-ilicito-el-fiscal-pidio-levantar-el-nid11092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/OKD4JAKXHNGI3DOQO7RUGURPLM.JPG?auth=eee3278aede3684a10ac4d265fbe1df36cfececdefa8db7facc9725b7027b2db&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "12:04",
-     "autor": "Federico González del Solar",
-     "titulo_original": "La fiscalía imputó a Claudio Tapia por enriquecimiento ilícito y pidió que se levante el secreto fiscal y bancario"
-    },
-    {
-     "id": "CR-16",
-     "titulo": "Estados Unidos autorizó la venta de cuatro helicópteros Black Hawk a la Argentina",
-     "resumen": "El Departamento de Estado dio luz verde a la venta de cuatro helicópteros UH-60L Black Hawk reacondicionados por US$ 140 millones, según confirmó el embajador Peter Lamelas. Las entregas serán escalonadas y reemplazarán progresivamente a los viejos UH-1H Huey del Ejército.",
-     "relacionadas": [
-      {
-       "id": "AM-19",
-       "fuente_codigo": "AM",
-       "fuente": "Ámbito",
-       "titulo": "La compra de cuatro helicópteros Black Hawk a EEUU profundiza el giro estratégico en Defensa del gobierno de Javier Milei",
-       "url": "https://www.ambito.com/politica/la-compra-cuatro-helicopteros-black-hawk-eeuu-profundiza-el-giro-estrategico-defensa-del-gobierno-javier-milei-n6321268"
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Malvinas: Quirno y Presti viajaron a Tierra del Fuego para recorrer la zona donde se construirá la base naval",
+       "url": "https://www.clarin.com/politica/malvinas-quirno-presti-viajaron-tierra-fuego-recorrer-zona-construira-base-naval_0_ZW4qH6ZYJ8.html"
       },
       {
-       "id": "LN-16",
+       "id": "LN-22",
        "fuente_codigo": "LN",
        "fuente": "La Nación",
-       "titulo": "Así son los helicópteros UH-60L Blackhawk, que el Gobierno le compraría a EE.UU.",
-       "url": "https://www.lanacion.com.ar/politica/asi-son-helicopteros-uh-60l-blackhawk-que-el-gobierno-le-compraria-a-eeuu-nid11092026/"
+       "titulo": "Dos ministros de Milei se reunieron con el gobernador de Tierra del Fuego",
+       "url": "https://www.lanacion.com.ar/politica/dos-ministros-de-milei-se-reunieron-con-el-gobernador-de-tierra-del-fuego-nid11092026/"
+      },
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Presti y Quirno visitaron el terreno de la Base Naval y mantuvieron una reunión con el gobernador",
+       "url": "https://www.cronista.com/economia-politica/con-la-cupula-militar-y-comitiva-de-legisladores-el-gobierno-visita-el-terreno-de-la-base-naval/"
+      },
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Carlos Presti y Pablo Quirno se reunieron con Gustavo Melella en Tierra del Fuego para avanzar con el proyecto de Base Naval Integrada",
+       "url": "https://www.ambito.com/politica/base-naval-integrada-pablo-quirno-y-carlos-presti-viajan-tierra-del-fuego-acelerar-una-obra-estrategica-el-atlantico-sur-n6321128"
       }
      ],
-     "url": "https://www.cronista.com/economia-politica/argentina-suma-poder-aereo-eeuu-autorizo-la-venta-de-cuatro-helicopteros-black-hawk-por-us-140-millones/",
-     "imagen": "https://www.cronista.com/resizer/v2/TRXHKSOC2FBNVI5S4Z5ELNOLGU.jpeg?auth=c9f719e6b213542453ca72a0c17ac383f0dc5433ebaea86cc4d69842e5270b63&smart=true&width=900&height=506",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "11:59",
+     "url": "https://www.infobae.com/politica/2026/09/11/pablo-quirno-y-carlos-presti-se-reunieron-con-el-gobernador-de-tierra-del-fuego-durante-la-visita-a-la-base-naval-integrada/",
+     "imagen": "https://www.infobae.com/resizer/v2/CYDYJBMKWNAMHFDXHO2B323M54.jpg?auth=b5c8696f2c3367c282e81469ecf8f8447acbdb7451c4e2330eca72d1af6c5c23&smart=true&width=900&height=602",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:00",
      "autor": "",
-     "titulo_original": "Argentina suma poder aéreo: EE.UU. autorizó la venta de cuatro helicópteros Black Hawk por u$s 140 millones"
+     "titulo_original": "Pablo Quirno y Carlos Presti visitaron la Base Naval Integrada y se reunieron con el gobernador de Tierra del Fuego"
     },
     {
-     "id": "CL-13",
-     "titulo": "la exnovia de Cerimedo declarará el 23 de septiembre en la causa Andis",
-     "resumen": "Nadia Beller ratificó que colaborará con la investigación por presunta corrupción en la Agencia Nacional de Discapacidad. El fiscal Franco Picardi pidió que declare como testigo desde Bolivia.",
-     "relacionadas": [],
-     "url": "https://www.clarin.com/politica/caso-andis-exnovia-cerimedo-declarara-justicia-argentina-23-septiembre_0_xL0yfLpFsa.html",
-     "imagen": "https://www.clarin.com/img/2026/08/20/xNHp57Thl_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "13:12",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "Caso ANDIS: la exnovia de Cerimedo declarará ante la justicia argentina el 23 de septiembre"
+     "id": "IB-17",
+     "titulo": "Catamarca unificará sus elecciones provinciales con las presidenciales de 2027",
+     "resumen": "El gobernador Raúl Jalil confirmó que Catamarca votará junto con la elección nacional de 2027, en línea con el esquema que la provincia aplica desde 2013. El mandatario peronista, aliado de la Casa Rosada, argumentó razones de ahorro: \"Realizar dos elecciones implica destinar fondos que preferimos invertir en viviendas, rutas, escuelas y hospitales\".",
+     "relacionadas": [
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Catamarca no desdobla: hará las elecciones provinciales en simultáneo con las presidenciales",
+       "url": "https://www.clarin.com/politica/catamarca-confirmo-hara-elecciones-provinciales-simultaneo-presidenciales_0_qwG5BXU3LD.html"
+      },
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El gobernador de Catamarca confirmó que unificará las elecciones locales con las nacionales en 2027",
+       "url": "https://www.lanacion.com.ar/politica/el-gobernador-de-catamarca-confirmo-que-unificara-las-elecciones-locales-con-las-nacionales-en-2027-nid11092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/11/el-gobernador-de-catamarca-anuncio-que-unificara-las-elecciones-provinciales-con-las-presidenciales-en-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/NJ5K7O3ZNJDAVCCE72WRNVFH4E.png?auth=53ea067a6b1247df3c0e96575dbe74b0c721413211002abf8163e1545c409d83&smart=true&width=900&height=433",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:35",
+     "autor": "",
+     "titulo_original": "El gobernador de Catamarca anunció que unificará las elecciones provinciales con las presidenciales en 2027"
     },
     {
-     "id": "CL-16",
-     "titulo": "un tribunal clave de Comodoro Py vuelve a tener jueces titulares",
-     "resumen": "El tribunal oral, que juzga causas de corrupción y crimen organizado y tiene a su cargo el caso Vacunatorio Vip, se había quedado sin magistrados en 2020. Este jueves juraron dos integrantes, tras más de seis años de vacancia.",
+     "id": "IP-05",
+     "titulo": "El Gobierno acelera la reforma electoral con optimismo en la Rosada y cautela en el Senado",
+     "resumen": "El debate por la reforma electoral se retoma el martes próximo, con la suspensión de las PASO como uno de los puntos que gana consenso. La mesa política oficialista confía en el diálogo con los gobernadores para destrabar la iniciativa, aunque persisten dudas sobre los números en el Senado.",
      "relacionadas": [],
-     "url": "https://www.clarin.com/politica/despues-anos-tribunal-clave-comodoro-py-vuelve-tener-jueces-titulares_0_7duM856PAG.html",
-     "imagen": "https://www.clarin.com/img/2025/09/08/1UWk5RBU8_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "12:56",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "Después de más de seis años, un tribunal clave de Comodoro Py vuelve a tener jueces titulares"
+     "url": "https://www.iprofesional.com/politica/464304-gobierno-acelera-reforma-electoral-optimismo-en-la-rosada-y-cautela-en-senado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608832.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "El Gobierno acelera la reforma electoral con optimismo en la Rosada y cautela en el Senado"
     },
     {
-     "id": "AM-01",
-     "titulo": "Catamarca votará el mismo día que las elecciones nacionales",
-     "resumen": "El gobernador Raúl Jalil confirmó que no desdoblará los comicios provinciales, tal como había anticipado Ámbito. Dijo que la decisión busca \"darles previsión a todos los partidos\".",
+     "id": "IB-18",
+     "titulo": "La Libertad Avanza redacta un proyecto propio sobre morosidad y toma de créditos",
+     "resumen": "Tras resistirse a intervenir porque considera que el problema es \"entre privados\", el oficialismo debió ceder terreno en el Congreso y ahora prepara un dictamen propio sobre la morosidad, que afecta a más de seis millones de personas endeudadas. El texto no ofrece una solución a los deudores actuales, sino más información obligatoria para quienes tomen un nuevo préstamo.",
      "relacionadas": [],
-     "url": "https://www.ambito.com/ambito-nacional/raul-jalil-confirmo-que-las-elecciones-catamarca-seran-el-mismo-dia-que-las-nacionales-n6321350",
-     "imagen": "https://media.ambito.com/p/fc1cc819e5e402824fc2fd71488cc442/adjuntos/239/imagenes/042/101/0042101628/1200x675/smart/jaliljpg.jpg",
+     "url": "https://www.infobae.com/politica/2026/09/11/lla-trabaja-en-un-proyecto-propio-por-morosidad-que-apunta-a-la-toma-de-nuevos-creditos/",
+     "imagen": "https://www.infobae.com/resizer/v2/B2NRZE7ZHFEMRDDHGPGBCTQWFA.jpg?auth=37215f3e3436713f879b1af3ead69f9aae63a59765a39f1b0b0923394972bb05&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:31",
+     "autor": "David Cayón",
+     "titulo_original": "LLA trabaja en un proyecto propio por morosidad que apunta a la toma de nuevos créditos"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "El Consejo de la Magistratura digitalizó etapas de los concursos para jueces",
+     "resumen": "El organismo incorporó nuevas herramientas digitales para gestionar distintas instancias de los procesos de selección de magistrados. El objetivo declarado es mejorar el registro de información, agilizar los trámites y fortalecer la transparencia de los concursos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/el-consejo-la-magistratura-incorporo-nuevas-herramientas-digitales-los-concursos-jueces-n6321392",
+     "imagen": "https://media.ambito.com/p/361683bc66ceca7778952229ec883200/adjuntos/239/imagenes/043/566/0043566242/1200x675/smart/consejo-la-magistratura.jpg",
      "fuente_codigo": "AM",
      "fuente": "Ámbito",
-     "hora": "15:04",
+     "hora": "16:13",
      "autor": "",
-     "titulo_original": "Raúl Jalil confirmó que las elecciones en Catamarca serán el mismo día que las nacionales"
+     "titulo_original": "El Consejo de la Magistratura incorporó nuevas herramientas digitales para los concursos de jueces"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Rosatti reclamó en Rosario un \"condigno castigo\" para los jueces que no honran el cargo",
+     "resumen": "El presidente de la Corte Suprema recordó que en esa ciudad hay dos jueces con prisión preventiva: Marcelo Bailaque, procesado por lavado de dinero y ya renunciado, y Gastón Salmain, procesado por cobrar coimas a cambio de fallos, cuyo jury en el Consejo de la Magistratura comienza el 6 de octubre. Rosatti también destacó la mejora de las estadísticas contra el narcotráfico, aunque advirtió sobre redes de protección y lavado de dinero.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "En Rosario, Horacio Rosatti reclamó a la Justicia profundizar la lucha contra el crimen organizado",
+       "url": "https://www.ambito.com/politica/en-rosario-horacio-rosatti-reclamo-la-justicia-profundizar-la-lucha-contra-el-crimen-organizado-n6321380"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/presidente-corte-advirtio-rosario-jueces-honran-cargo-deben-merecer-condigno-castigo_0_n8GEyowGex.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/0pXizZQ7G_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:43",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El presidente de la Corte advirtió en Rosario que los jueces que \"no honran el cargo deben merecer el condigno castigo”"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Detienen a otro financista vinculado a criptomonedas por lavado de dinero del juego clandestino",
+     "resumen": "La fiscal de La Plata Betina Lacki ordenó la detención de Cristian Scigliano, mientras otros dos financistas continúan prófugos. Según la investigación, el grupo lavó unos 27.000 millones de pesos y la semana próxima se resolverá si los cuatro arrestados pasan a prisión preventiva.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/lavado-dinero-juego-clandestino-provincia-detienen-financista-vinculado-criptomonedas_0_YL0JeKbXRk.html",
+     "imagen": "https://www.clarin.com/img/2026/08/18/SwA8ltuo1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lavado de dinero del juego clandestino en la provincia: detienen a otro financista vinculado a las criptomonedas"
     }
    ],
    "id": "politica"
@@ -156,39 +202,99 @@
    "nombre": "Economía y mercados",
    "notas": [
     {
-     "id": "CR-22",
-     "titulo": "el dólar oficial cerró la semana estable en 1.535 pesos",
-     "resumen": "El dólar oficial cotizó a $ 1.485 para la compra y $ 1.535 para la venta en el Banco Nación, $ 5 por encima del valor de inicio de mes. El mayorista quedó en $ 1.482 y $ 1.531,90, lejos del techo de la banda cambiaria que el BCRA fija en $ 1.894,30.",
-     "relacionadas": [
-      {
-       "id": "CR-21",
-       "fuente_codigo": "CR",
-       "fuente": "El Cronista",
-       "titulo": "Dólar blue hoy: a cuánto cotiza este viernes 11 de septiembre con el MEP y el CCL",
-       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-este-viernes-11-de-septiembre-con-el-mep-y-el-ccl/"
-      }
-     ],
-     "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-viernes-11-de-septiembre/",
-     "imagen": "https://www.cronista.com/resizer/v2/3WFX5TTBYRDOZMLV7SMX2AIRPE.jpg?auth=5d1b8e102ab1ca25b61f8083d5b9b1666e25c4d560a0ca143247baa2389782f1&smart=true&width=900&height=506",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "11:37",
-     "autor": "",
-     "titulo_original": "El dólar oficial cotiza sin cambios en el cierre de la semana: a cuánto cotiza en los bancos de la City"
+     "id": "LN-08",
+     "titulo": "El Banco Central registró la compra semanal de dólares más baja del año",
+     "resumen": "Pese a una demanda tonificada durante las cinco ruedas, el BCRA sólo adquirió 42 millones de dólares en la semana; hoy compró apenas 5 millones, el mínimo anual y solo el 0,6% del volumen operado en la jornada. El promedio de compras del mes cayó a 14 millones de dólares por rueda. Para una empresa: la baja acumulación de reservas mantiene la incertidumbre sobre la capacidad del Banco Central de sostener el esquema cambiario sin sobresaltos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/el-banco-central-registro-la-menor-compra-semanal-de-dolares-del-ano-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BSELUGV7JJDRPHRVLJ3AZXOCLQ.png?auth=ba493f5420e540ab7031e41e78a1c3659d1edf040d458fde9356676321336faf&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:51",
+     "autor": "Javier Blanco",
+     "titulo_original": "El Banco Central registró la menor compra semanal de dólares del año"
     },
     {
-     "id": "CR-07",
-     "titulo": "crece la presión para que la Fed suba la tasa la próxima semana",
-     "resumen": "El presidente de la Reserva Federal, Kevin Warsh, enfrenta presión para subir la tasa de interés después de que la inflación anual de Estados Unidos se mantuviera en 3,4% en agosto. Los mercados ya asignan casi 85% de probabilidad a esa suba, mientras Wall Street rebotó ayudado por la caída del petróleo.",
+     "id": "AM-12",
+     "titulo": "El dólar oficial tuvo su mayor caída diaria en un mes y perforó los 1.510 pesos",
+     "resumen": "El tipo de cambio oficial retrocedió tras haber caído por primera vez en cinco jornadas, coincidiendo con la publicación de la inflación de agosto. En paralelo, el dólar blue registró su cuarta suba semanal en el último mes y amplió la brecha con el oficial, en una rueda sin grandes sobresaltos.",
      "relacionadas": [
       {
        "id": "AM-02",
        "fuente_codigo": "AM",
        "fuente": "Ámbito",
-       "titulo": "Wall Street rebota a pesar del mal dato del IPC de EEUU: los mercados celebran más la caída del petróleo",
-       "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-rebotan-y-los-bonos-del-tesoro-se-calman-un-respiro-el-precio-del-petroleo-n6321088"
+       "titulo": "El dólar blue registró su cuarta suba semanal en el último mes y amplió la brecha con el oficial",
+       "url": "https://www.ambito.com/finanzas/el-dolar-blue-registro-su-cuarta-suba-semanal-el-ultimo-mes-y-amplio-la-brecha-el-oficial-n6321414"
       }
      ],
+     "url": "https://www.ambito.com/finanzas/el-dolar-mayorista-se-estabiliza-y-se-encamina-cerrar-su-primera-semana-encima-los-1510-n6321103",
+     "imagen": "https://media.ambito.com/p/8b48c8fead4c8770c640118e83eb5f34/adjuntos/351/imagenes/041/492/0041492089/1200x675/smart/dolar-tipo-cambio-divisa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:51",
+     "autor": "",
+     "titulo_original": "El dólar oficial sufrió su mayor caída diaria en un mes y perforó los $1.510"
+    },
+    {
+     "id": "IB-05",
+     "titulo": "El riesgo país tocó un mínimo mensual, pero la Bolsa porteña cortó la racha alcista",
+     "resumen": "El índice de JP Morgan cedió a 485 puntos básicos, su nivel más bajo desde el 14 de agosto, tras la suba de tasas de la deuda de Estados Unidos. El Merval interrumpió una serie de tres alzas consecutivas y recortó 1,9%, hasta los 3.098.898 puntos, con los bancos entre los más castigados, mientras los bonos soberanos cerraron con leves variaciones.",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El S&P Merval cede un 2% con fuerte castigo a los bancos, pero el riesgo país toca mínimos en un mes",
+       "url": "https://www.ambito.com/finanzas/las-acciones-y-los-bonos-se-someten-la-ultima-rueda-semanal-la-mirada-puesta-wall-street-n6321149"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/11/mercados-suben-los-bonos-argentinos-y-el-riesgo-pais-cae-su-nivel-minimo-en-un-mes/",
+     "imagen": "https://www.infobae.com/resizer/v2/W7IN7RCEP5GMRKL57AV3DT2HWU.JPG?auth=b43d285151f0bc647dec2a1a4d6ce035fb2b36784a0cd0641a485a04a2ddc36b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:57",
+     "autor": "",
+     "titulo_original": "Mercados: el riesgo país cayó a su nivel mínimo en un mes y la Bolsa porteña cortó la racha alcista"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "El salario real del sector privado cayó 3% en un año",
+     "resumen": "Según los datos del SIPA, la mitad de los trabajadores formales cobra menos de 1.385.000 pesos por mes. Los salarios se estancaron en junio y anticipan una caída en julio; desde el pico de la gestión de Milei, el poder adquisitivo perdió 4,2%. Para una empresa: la caída del salario real modera la presión sobre los costos laborales pero también condiciona el consumo de los hogares.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-salario-real-del-sector-privado-cayo-3-un-ano-la-mitad-los-trabajadores-formales-cobra-menos-1385000-n6321387",
+     "imagen": "https://media.ambito.com/p/acb15ae676a1182d85a308de203e6e55/adjuntos/239/imagenes/043/585/0043585667/1200x675/866x433:886x453/salarios-ingresos-sueldo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:38",
+     "autor": "",
+     "titulo_original": "El salario real del sector privado cayó 3% en un año: la mitad de los trabajadores formales cobra menos de $1.385.000"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "En junio volvió a caer el número de empresas: ya son 31.342 menos desde que asumió Milei",
+     "resumen": "La cantidad de empleadores registrados pasó de 512.357 a 481.015 desde noviembre de 2023, según la consultora CEPA en base a datos de la Superintendencia de Riesgos del Trabajo. En junio se perdieron 709 firmas respecto de mayo, lo que profundiza la tendencia del semestre. En paralelo, el empleo asalariado registrado acumula una baja de 354.128 puestos desde el mismo mes, con el sector privado como el más golpeado.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Desde noviembre de 2023, se perdieron más de 354.000 empleos asalariados registrados",
+       "url": "https://www.infobae.com/economia/2026/09/11/desde-noviembre-de-2023-se-perdieron-mas-de-354000-empleos-asalariados-registrados/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/en-junio-volvio-a-caer-el-numero-de-empresas-y-ya-son-31342-menos-desde-que-asumio-javier-milei-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VZTMVTT4QVHMPGR2745CBKBRIA.jpeg?auth=55d17011534f544e28333bb20cfee18549247b03505fbeb27ea262d319c53398&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:37",
+     "autor": "María Julieta Rumi",
+     "titulo_original": "En junio volvió a caer el número de empresas y ya son 31.342 menos desde que asumió Javier Milei"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "Warsh está bajo presión para subir las tasas de la Fed pese a Trump",
+     "resumen": "El presidente de la Reserva Federal enfrenta una creciente presión para desafiar al presidente estadounidense y subir las tasas de interés la semana próxima, después de que la inflación se mantuviera elevada. Las expectativas de una suba treparon a casi el 85% tras conocerse que el índice de precios al consumidor de agosto se mantuvo sin cambios respecto del 3,4% de julio.",
+     "relacionadas": [],
      "url": "https://www.cronista.com/financial-times/warsh-bajo-una-creciente-presion-para-subir-las-tasas-de-la-fed-ante-la-persistente-inflacion-en-eeuu/",
      "imagen": "https://www.cronista.com/resizer/v2/HS6T4HFIDREHXFAUCOQLIZUG6Y.jpg?auth=3267cde656a1a5cecb01d4bf2cb16208ee90cb234f3a36afb0d358eda5e254af&smart=true&width=900&height=559",
      "fuente_codigo": "CR",
@@ -198,56 +304,17 @@
      "titulo_original": "Warsh, bajo una creciente presión para subir las tasas de la FED ante la persistente inflación en EE.UU."
     },
     {
-     "id": "CR-08",
-     "titulo": "Timerman advirtió que un triunfo de Kicillof llevaría el riesgo país a 2.500 puntos",
-     "resumen": "El titular de AdCap Grupo Financiero cuestionó la falta de una propuesta económica concreta del gobernador bonaerense, pese a sus reuniones con inversores en Nueva York y Europa. Planteó que la polarización entre el Gobierno y la oposición retrasa definiciones económicas.",
+     "id": "LN-18",
+     "titulo": "Pakistán colocó deuda récord y funciona como \"emisión testigo\" para los emergentes",
+     "resumen": "El país asiático colocó 3.000 millones de dólares en bonos a 2032 y 2036, la mayor emisión de su historia, con un libro de órdenes que rozó los 6.000 millones. Para analistas de Banco Galicia, la operación demuestra que la ventana de financiamiento para emergentes de alto rendimiento sigue abierta, un dato que la Argentina observa de cerca.",
      "relacionadas": [],
-     "url": "https://www.cronista.com/economia-politica/javier-timerman-lanzo-una-fuerte-advertencia-si-kicillof-ganara-hoy-el-riesgo-pais-subiria-a-2500-puntos/",
-     "imagen": "https://www.cronista.com/resizer/v2/T6NOQF7QGZF6VF44HU3RNXJVOY.jpg?auth=714eb08ead5154da5a796657c88f43ca045cfcce747294fca2c9f1907d0f225e&smart=true&width=900&height=512",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "13:21",
-     "autor": "",
-     "titulo_original": "Javier Timerman lanzó una fuerte advertencia: “Si Kicillof ganara hoy, el riesgo país subiría a 2500 puntos”"
-    },
-    {
-     "id": "CR-11",
-     "titulo": "las empresas adelantan emisiones de deuda ante un 2027 electoral más volátil",
-     "resumen": "Compañías, sobre todo energéticas, aprovechan las ventanas de mercado disponibles para asegurarse financiamiento antes de un año que anticipan con mayor presión cambiaria. Camilo Tiscornia (C&T) y Pedro Gaite (FIDE) explicaron que las firmas perciben un 2027 más complicado.",
-     "relacionadas": [],
-     "url": "https://www.cronista.com/finanzas-mercados/efecto-bumeran-por-las-elecciones-las-empresas-aprovechan-la-ventana-y-adelantan-emisiones-de-deuda/",
-     "imagen": "https://www.cronista.com/resizer/v2/QDP7JELSQNELXB5PSI5ZWPIEYY.png?auth=5b7b7a85407877fe617f39828c204e0792491418c8994497451c6df9a784a5f3&smart=true&width=900&height=507",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "13:07",
-     "autor": "Pilar Wolffelt",
-     "titulo_original": "¿Efecto búmeran? Por las elecciones, las empresas aprovechan la ventana y adelantan emisiones de deuda"
-    },
-    {
-     "id": "IP-12",
-     "titulo": "el empleo registrado cayó a su mínimo en 50 meses",
-     "resumen": "El empleo privado formal cayó 0,1% en junio, con una pérdida de 6.261 puestos, y acumula una baja interanual de 1,9%. Desde 2023 se perdieron 246.312 puestos de trabajo registrado, según datos oficiales.",
-     "relacionadas": [],
-     "url": "https://www.iprofesional.com/management/464287-el-empleo-registrado-volvio-a-caer-y-acumula-246312-puestos-menos-desde-2023",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/04/495229.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "12:38",
-     "autor": "",
-     "titulo_original": "El empleo registrado cayó a su mínimo en 50 meses y perdió 246.312 puestos desde 2023"
-    },
-    {
-     "id": "CL-15",
-     "titulo": "hay 70% más monotributistas que hace 15 años",
-     "resumen": "Según el último dato oficial, hay 6.095.800 empleados privados en relación de dependencia, prácticamente el mismo número que en enero de 2012. En el mismo período los monotributistas treparon a 2,2 millones, mientras cayeron los autónomos.",
-     "relacionadas": [],
-     "url": "https://www.clarin.com/economia/nuevo-mapa-laboral-70-monotributistas-hace-15-anos-cantidad-empleados-blanco-sigue-igual_0_XgAGOO3zWg.html",
-     "imagen": "https://www.clarin.com/img/2020/04/18/gRQfkdVQK_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "13:02",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "El nuevo mapa laboral: hay 70% más de monotributistas que hace 15 años, pero la cantidad de empleados en blanco sigue igual"
+     "url": "https://www.lanacion.com.ar/economia/emision-testigo-el-espejo-de-pakistan-en-el-que-la-argentina-podria-mirarse-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/D2JR2I7N6BDLRLBAAIUCZQNQ3Y.jpg?auth=a8218909eead9c9d1ad00237f9497599db01dc7ba4ab13d7d5b6ce1314b79456&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:42",
+     "autor": "Sofía Diamante",
+     "titulo_original": "“Emisión testigo”: el espejo de Pakistán en el que la Argentina podría mirarse"
     }
    ],
    "id": "economia-y-mercados"
@@ -256,36 +323,31 @@
    "nombre": "Negocios y empresas",
    "notas": [
     {
-     "id": "CR-18",
-     "titulo": "el CEO de Nu dice que la Argentina le parece un mercado atractivo",
-     "resumen": "David Vélez, fundador del banco digital más grande de América Latina, con más de 140 millones de usuarios en Brasil, México y Colombia, no le cerró la puerta a desembarcar en la Argentina. Ya había estado a punto de llegar en 2019.",
+     "id": "CL-21",
+     "titulo": "Granja Tres Arroyos pidió abrir un concurso de acreedores por una deuda de US$ 350 millones",
+     "resumen": "La empresa, dueña de las ex plantas de Cresta Roja, comunicó a los gremios que solicitó el concurso \"para salvaguardar la continuidad\" del negocio. La firma acumula 918 cheques rechazados por 9.880 millones de pesos y una deuda con bancos y proveedores de 3.368 millones de pesos. Otra sociedad del mismo grupo, Granja Tres Arroyos SA, podría seguir el mismo camino.",
      "relacionadas": [],
-     "url": "https://www.cronista.com/finanzas-mercados/david-velez-ceo-de-nu-argentina-nos-parece-un-mercado-atractivo-y-vemos-una-oportunidad/",
-     "imagen": "https://www.cronista.com/resizer/v2/XWTYL3VMHFAY5L2G5CLVAYFQME.jpg?auth=b856e3cd4684f1a7fc1ff3b5d382e8617e46f1bee57bfeab285386d8be928801&smart=true&width=900&height=477",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "11:46",
-     "autor": "Leandro Dario - Enviado especial",
-     "titulo_original": "David Vélez, CEO de Nu: “Argentina nos parece un mercado atractivo y vemos una oportunidad”"
+     "url": "https://www.clarin.com/rural/debe-us-350-millones-granja-arroyos-confirmo-gremios-pidio-abrir-concurso-acreedores-salvaguardar-continuidad-empresa_0_Mi7q5CbOu6.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/5fYpdAxdv_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Debe US$ 350 millones: Granja Tres Arroyos confirmó a los gremios que pidió abrir un concurso de acreedores “para salvaguardar la continuidad de la empresa”"
     },
     {
-     "id": "AM-13",
-     "titulo": "los grandes bancos globales lanzan sus propias stablecoins",
-     "resumen": "Las instituciones financieras más importantes del mundo buscan aprovechar su escala para disputarle terreno a Tether y Circle en el mercado de monedas digitales estables.",
-     "relacionadas": [],
-     "url": "https://www.ambito.com/finanzas/los-grandes-bancos-nivel-global-lanzan-sus-propias-stablecoins-disputarle-el-terreno-tether-y-circle-n6320876",
-     "imagen": "https://media.ambito.com/p/8c75035c053359431c78710c16dee7d3/adjuntos/239/imagenes/042/753/0042753519/stablecoins.png",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "13:23",
-     "autor": "",
-     "titulo_original": "Los grandes bancos a nivel global lanzan sus propias stablecoins para disputarle el terreno a Tether y Circle"
-    },
-    {
-     "id": "CR-12",
-     "titulo": "Vaca Muerta encontró otro negocio de exportación: el gas licuado de petróleo",
-     "resumen": "El GLP, una mezcla de propano y butano que se obtiene del procesamiento del gas natural, comienza a perfilarse como una nueva fuente de exportaciones a medida que crece la producción de shale en Neuquén.",
-     "relacionadas": [],
+     "id": "CR-26",
+     "titulo": "Vaca Muerta encontró otro negocio exportador: el gas licuado de petróleo",
+     "resumen": "El crecimiento de la producción de shale en Neuquén impulsa la disponibilidad de gas licuado de petróleo, una mezcla de propano y butano que hoy se perfila como una nueva fuente de exportaciones capaz de ubicar a la Argentina entre los primeros cinco productores mundiales, según especialistas del sector.",
+     "relacionadas": [
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Vaca Muerta busca dar el salto exportador: qué puede aprender de Texas y cuáles son sus principales trabas",
+       "url": "https://www.cronista.com/economia-politica/vaca-muerta-mira-a-texas-que-puede-copiar-para-bajar-costos-y-subirse-a-la-plataforma-global-exportadora/"
+      }
+     ],
      "url": "https://www.cronista.com/economia-politica/vaca-muerta-encontro-otro-negocio-el-nuevo-combustible-que-puede-llevar-a-la-argentina-al-top-5-mundial/",
      "imagen": "https://www.cronista.com/resizer/v2/DUN3KDI2FBFBNEFRZXOU2LZZMY.png?auth=d828595915394992098a16d179a6f4ef6381ed552524cc4ff29ca14f2c5b25bd&smart=true&width=900&height=601",
      "fuente_codigo": "CR",
@@ -295,22 +357,9 @@
      "titulo_original": "Vaca Muerta encontró otro negocio: el nuevo combustible que puede llevar a la Argentina al top 5 mundial"
     },
     {
-     "id": "AM-20",
-     "titulo": "YPF incorporó el primer set de fractura eléctrica de Argentina",
-     "resumen": "La compañía sumó el equipo para potenciar el desarrollo de Vaca Muerta, en lo que la empresa describió como un hito tecnológico para la industria energética argentina.",
-     "relacionadas": [],
-     "url": "https://www.ambito.com/negocios/ypf-incorporo-el-primer-set-fractura-electrica-argentina-potenciar-el-desarrollo-vaca-muerta-n6320932",
-     "imagen": "https://media.ambito.com/p/397f6d06b81d87265b0322e54d7c3b59/adjuntos/239/imagenes/043/635/0043635456/1200x675/smart/equipo-perforacion.jpg",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "12:16",
-     "autor": "",
-     "titulo_original": "YPF incorporó el primer set de fractura eléctrica de Argentina para potenciar el desarrollo de Vaca Muerta"
-    },
-    {
-     "id": "CR-10",
-     "titulo": "las petroleras de Vaca Muerta ofrecen sueldos de hasta US$ 6.000",
-     "resumen": "YPF, Pampa Energía y Tecpetrol mantienen búsquedas abiertas para perfiles técnicos, operativos y profesionales en Neuquén y otras localidades de la cuenca, con salarios entre los más altos del mercado.",
+     "id": "CR-24",
+     "titulo": "YPF, Pampa Energía y Tecpetrol buscan personal en Vaca Muerta con sueldos de hasta US$ 6.000",
+     "resumen": "Las principales operadoras de la cuenca neuquina mantienen búsquedas laborales abiertas de forma permanente para cubrir puestos técnicos, operativos y profesionales, atraídas por salarios entre los más altos del mercado argentino.",
      "relacionadas": [],
      "url": "https://www.cronista.com/negocios/trabajar-en-vaca-muerta-las-empresas-que-buscan-personal-y-pagan-sueldos-de-hasta-us-6000/",
      "imagen": "https://www.cronista.com/resizer/v2/VPUVA5UN6RGGPPVXW5CHAGAAVE.jpg?auth=a3de93c5c2a020598d65a4f2d5cfab95c4311cb337f7548bfc214046e03f7429&smart=true&width=900&height=507",
@@ -321,9 +370,22 @@
      "titulo_original": "Trabajar en Vaca Muerta: las empresas que buscan personal y pagan sueldos de hasta u$s 6000"
     },
     {
-     "id": "IP-19",
-     "titulo": "el imperio de Alfredo Coto, de una carnicería de barrio a 120 sucursales",
-     "resumen": "Alfredo Coto aprendió el oficio junto a su padre en una carnicería de Boedo y la convirtió en una de las mayores cadenas de supermercados del país.",
+     "id": "CR-01",
+     "titulo": "Más de 10.000 personas participaron de Mercado Libre Experience 2026",
+     "resumen": "La segunda edición del evento de comercio electrónico organizado por la compañía reunió en La Rural a emprendedores, pymes y referentes de distintas industrias, con más de 40 charlas y cinco escenarios temáticos sobre ventas online, logística, inteligencia artificial y medios de pago.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/mas-de-10000-personas-participaron-de-mercado-libre-experience-2026-el-encuentro-que-reunio-a-referentes-del-e-commerce-y-la-innovacion/",
+     "imagen": "https://www.cronista.com/resizer/v2/Q24KVQ4C5FDCVJ7AR34QWUCDRE.jpg?auth=9d8eb82709d2afa438ad9804fb4cd9a3e94faf8da59a8216574fbfb3a9ed6950&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:50",
+     "autor": "",
+     "titulo_original": "Más de 10.000 personas participaron de Mercado Libre Experience 2026, el encuentro que reunió a referentes del e-commerce y la innovación"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "El imperio de Alfredo Coto: de una carnicería de barrio a 120 sucursales",
+     "resumen": "Alfredo Coto aprendió el oficio junto a su padre en una carnicería de Boedo y con el tiempo construyó una de las mayores cadenas de supermercados del país, con 120 sucursales en la actualidad.",
      "relacionadas": [],
      "url": "https://www.iprofesional.com/negocios/463388-el-imperio-de-alfredo-coto-de-una-carniceria-de-barrio-a-120-sucursales-del-supermercado",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625544.jpg",
@@ -340,22 +402,43 @@
    "nombre": "Impuestos, laboral y normativa",
    "notas": [
     {
-     "id": "IP-02",
-     "titulo": "ARCA cambia las facturas electrónicas y da plazo hasta noviembre",
-     "resumen": "El organismo fijó el 30 de noviembre como fecha límite para que las empresas adapten sus sistemas de facturación electrónica y eviten rechazos. Desde diciembre deberán informar un dato adicional en cada comprobante.",
-     "relacionadas": [],
-     "url": "https://www.iprofesional.com/impuestos/464294-arca-cambia-las-facturas-electronicas-y-hay-plazo-hasta-noviembre-para-evitar-rechazos",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617920.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "15:00",
-     "autor": "",
-     "titulo_original": "ARCA cambia las facturas electrónicas y hay plazo hasta noviembre para evitar rechazos"
+     "id": "CR-10",
+     "titulo": "ARCA fijó el 30 de noviembre como plazo límite para evitar el bloqueo de facturas electrónicas",
+     "resumen": "Desde el 1° de diciembre, el organismo dejará de autorizar comprobantes electrónicos que no informen la condición frente al IVA del comprador. ARCA detectó que un grupo de contribuyentes emite facturas sin ese dato obligatorio, vigente desde principios de 2025, y ya empezó a notificar a los emisores alcanzados para que ajusten sus sistemas antes de la fecha límite. Para una empresa: conviene revisar cuanto antes la configuración de los sistemas de facturación para no quedar expuesto a rechazos desde diciembre.",
+     "relacionadas": [
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "ARCA cambia las facturas electrónicas y hay plazo hasta noviembre para evitar rechazos",
+       "url": "https://www.iprofesional.com/impuestos/464294-arca-cambia-las-facturas-electronicas-y-hay-plazo-hasta-noviembre-para-evitar-rechazos"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/factura-electronica-arca-rechazara-desde-diciembre-comprobantes-sin-la-condicion-de-iva-del-receptor/",
+     "imagen": "https://www.cronista.com/resizer/v2/TMZU6QG3OZDVZA5VKKHQPJQ7MY.jpg?auth=93b301e22f923c3c47811e35eecf323e5b78611fa90b80ec9c2dcfb4119642b2&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:45",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Facturas electrónicas: cómo evitar el bloqueo automático de ARCA y qué hay que hacer antes de diciembre"
     },
     {
-     "id": "IP-24",
-     "titulo": "el límite de ARCA para transferencias entre cuentas propias que activa controles",
-     "resumen": "El organismo fiscal monitorea los movimientos de dinero entre cuentas del mismo titular. Por encima de determinados montos se generan reportes y se exigen comprobantes.",
+     "id": "IP-01",
+     "titulo": "La Corte Suprema volvió a precisar qué es una tasa municipal",
+     "resumen": "En un mismo acuerdo, el máximo tribunal dictó dos sentencias relevantes sobre tasas municipales, en las causas \"Banco de Galicia\" y \"Mutual Ferroviaria\", que vuelven a exigir la existencia de un servicio concreto y efectivamente prestado para habilitar el cobro.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464313-una-vez-mas-la-corte-vuelve-a-explicar-que-es-una-tasa-municipal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/01/589910.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:36",
+     "autor": "",
+     "titulo_original": "Una vez más, la Corte vuelve a explicar qué es una tasa municipal"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "El límite de ARCA para transferencias entre cuentas propias que activa controles",
+     "resumen": "El organismo fiscal monitorea los movimientos de dinero entre cuentas de un mismo titular y define montos a partir de los cuales se generan reportes y se exigen comprobantes adicionales. Para una empresa: conviene documentar el origen de los fondos antes de mover sumas relevantes entre cuentas propias.",
      "relacionadas": [],
      "url": "https://www.iprofesional.com/legales/463814-el-limite-de-arca-para-transferencias-entre-cuentas-propias-que-activa-controles",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618839.jpg",
@@ -366,114 +449,102 @@
      "titulo_original": "El límite de ARCA para transferencias entre cuentas propias que activa controles"
     },
     {
-     "id": "IB-12",
-     "titulo": "cuánto cobran los cajeros de supermercado en septiembre",
-     "resumen": "La escala del Convenio Colectivo 130/75 fija haberes de entre $ 1.320.875 y $ 1.335.474 según categoría, con adicionales por manejo de caja que pueden elevar significativamente el ingreso final del trabajador.",
+     "id": "IP-23",
+     "titulo": "SMATA y Renault acordaron un banco de horas para evitar suspensiones",
+     "resumen": "El acuerdo busca compensar los meses de mayor producción, cuando la automotriz paga horas extra, con los de menor actividad, cuando históricamente suspendía personal. El esquema se suma a otros acuerdos sectoriales que avanzan en la industria automotriz en el marco de la reforma laboral.",
      "relacionadas": [],
-     "url": "https://www.infobae.com/economia/2026/09/11/cuanto-cobran-los-cajeros-de-supermercado-en-septiembre-2026/",
-     "imagen": "https://www.infobae.com/resizer/v2/HIIEZLPDY5B5PNP76736XS4EHA.png?auth=df3949257081a4f37c06c72ddad07d4921d09b4dc24627548c7eadb9e8779791&smart=true&width=900&height=502",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "14:04",
-     "autor": "",
-     "titulo_original": "Cuánto cobran los cajeros de supermercado en septiembre 2026"
-    },
-    {
-     "id": "IP-08",
-     "titulo": "la Justicia laboral otorga validez legal a WhatsApp en un despido discriminatorio",
-     "resumen": "Una trabajadora embarazada notificó su estado por WhatsApp y de todos modos fue despedida. La Justicia aceptó las pericias digitales del mensaje como prueba y aplicó multas por discriminación.",
-     "relacionadas": [],
-     "url": "https://www.iprofesional.com/impuestos/464282-fallo-otorga-validez-legal-whatsapp-en-despido-discriminatorio",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617187.jpg",
+     "url": "https://www.iprofesional.com/impuestos/464275-reforma-laboral-smata-y-renault-acuerdan-banco-de-horas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2019/09/484566.jpg",
      "fuente_codigo": "IP",
      "fuente": "iProfesional",
-     "hora": "13:32",
+     "hora": "10:00",
      "autor": "",
-     "titulo_original": "La Justicia laboral otorga validez legal a WhatsApp en un despido discriminatorio"
+     "titulo_original": "Reforma laboral: SMATA y Renault acuerdan un banco de horas para evitar suspensiones"
     },
     {
-     "id": "AM-25",
-     "titulo": "la Corte Suprema declaró inconstitucional un artículo de la ley de Misiones sobre industria insalubre",
-     "resumen": "El máximo tribunal cuestionó que la norma provincial calificara como insalubre a toda la actividad papelera sin distinguir tareas, sectores o trabajadores. Aclaró que siguen vigentes las declaraciones de insalubridad dictadas tras inspecciones concretas. Para una empresa: los fallos recientes de la Corte exigen que cualquier régimen especial de riesgo laboral o tributario se justifique con evidencia concreta y no con calificaciones genéricas.",
+     "id": "IP-20",
+     "titulo": "La Justicia definió cuándo una contratación eventual debe considerarse por tiempo indeterminado",
+     "resumen": "El tribunal estableció que la empresa debía justificar con documentación específica y pruebas desde el inicio del vínculo la razón de la contratación transitoria, caso contrario corresponde considerarla una relación laboral permanente.",
      "relacionadas": [],
-     "url": "https://www.ambito.com/politica/la-corte-declaro-inconstitucional-articulo-la-ley-misiones-que-consideraba-insalubre-toda-la-industria-papelera-n6321190",
-     "imagen": null,
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "10:47",
-     "autor": "Vanesa Petrillo",
-     "titulo_original": "La Corte Suprema declaró inconstitucional un artículo de la ley de Misiones que consideraba insalubre a toda la industria papelera"
+     "url": "https://www.iprofesional.com/legales/464278-contrato-eventual-que-debe-probar-una-empresa-para-justificarlo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/08/500826.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:40",
+     "autor": "",
+     "titulo_original": "La Justicia explicó cuándo una contratación eventual debe considerarse por tiempo indeterminado"
     }
    ],
    "id": "impuestos-laboral-y-normativa"
   },
   {
    "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la actividad de la empresa del lector: sanitarios, materiales y costo de la construcción.",
    "notas": [
     {
-     "id": "IP-11",
-     "titulo": "Diarco y Pardo aceleran el cierre de sucursales y exponen la caída del consumo",
-     "resumen": "Las cadenas de retail desactivaron puntos de venta en Buenos Aires, Córdoba y la Patagonia por la baja facturación y el aumento de costos. Para una empresa: la ola de cierres confirma que la contracción del consumo sigue golpeando a las cadenas con estructuras de costos más rígidas.",
+     "id": "AM-16",
+     "titulo": "Ferrum vendió más sanitarios pero perdió 26.000 millones de pesos y alertó por las importaciones",
+     "resumen": "La empresa cerró el ejercicio con una fuerte caída del margen bruto, que pasó de 37,2% a 11,7%, pese a haber vendido más unidades. La compañía destinó 4.386 millones de pesos a una reestructuración de personal y profundizó su estrategia de productividad y reducción de gastos ante el avance de las importaciones de productos sanitarios. Para una empresa: el caso ilustra la presión que la apertura comercial ejerce sobre los márgenes de los fabricantes locales de materiales para el hogar.",
      "relacionadas": [],
-     "url": "https://www.iprofesional.com/negocios/464285-diarco-y-pardo-aceleran-el-cierre-de-sucursales-en-el-pais",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/582483.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "13:20",
+     "url": "https://www.ambito.com/negocios/ferrum-vendio-mas-sanitarios-pero-perdio-26000-millones-y-alerto-el-avance-las-importaciones-n6321370",
+     "imagen": "https://media.ambito.com/p/9fafa0df81db1fe77b3cc0caa5690c4e/adjuntos/239/imagenes/042/178/0042178443/ferrum-1webp.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:26",
      "autor": "",
-     "titulo_original": "Diarco y Pardo aceleran el cierre de sucursales y exponen la caída dramática del consumo"
+     "titulo_original": "Ferrum vendió más sanitarios pero perdió $26.000 millones y alertó por el avance de las importaciones"
     },
     {
-     "id": "IB-15",
-     "titulo": "bancos y fintech contraen el crédito al consumo mientras se enfocan en resolver la mora",
-     "resumen": "Los préstamos de tarjetas y consumo cayeron 1,3% real en agosto frente al mes previo, según Quantum Finanzas, mientras las entidades priorizan refinanciar carteras en mora antes que expandir el financiamiento. El desempeño contrasta con el crecimiento de las líneas empresariales y los créditos hipotecarios.",
+     "id": "IB-21",
+     "titulo": "Construir una vivienda de 100 metros cuadrados costó más de 238 millones de pesos en agosto",
+     "resumen": "El valor del metro cuadrado de construcción en la provincia de Buenos Aires se ubicó en 2.383.862,97 pesos, según la Asociación Pymes de la Construcción de la Provincia de Buenos Aires. Multiplicado por 100 metros cuadrados de una vivienda tipo, el costo total llegó a 238.386.297 pesos, unos 155.301 dólares, sin contar el terreno, los costos legales del emprendimiento ni el IVA. La brecha frente al ingreso medio ronda los diez años de trabajo.",
      "relacionadas": [],
-     "url": "https://www.infobae.com/economia/2026/09/11/bancos-y-fintech-contraen-el-credito-al-consumo-mientras-se-enfocan-en-resolver-la-mora/",
-     "imagen": "https://www.infobae.com/resizer/v2/DW45VEXQSZGZDHWHD4I24Q246E.jpg?auth=104c04f6141aaa341407d0c42931427b2338f1b952f3925b567ddb83dbb986c9&smart=true&width=900&height=600",
+     "url": "https://www.infobae.com/economia/2026/09/11/cuanto-cuesta-construir-una-vivienda-de-100-m2-y-que-cantidad-de-salarios-se-necesitan-para-pagarla/",
+     "imagen": "https://www.infobae.com/resizer/v2/BDTQURNCHVFAJBVBOLXQ3O4MKA.png?auth=8161d710ad827b43c7832b30025cdb7d73b56ff1aa4903b750603038f95ef335&smart=true&width=900&height=600",
      "fuente_codigo": "IB",
      "fuente": "Infobae",
-     "hora": "13:58",
-     "autor": "Matías Barbería",
-     "titulo_original": "Bancos y fintech contraen el crédito al consumo mientras se enfocan en resolver la mora"
+     "hora": "15:59",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta construir una vivienda de 100 m2 y qué cantidad de salarios se necesitan para pagarla"
     },
     {
-     "id": "LN-22",
-     "titulo": "los planes para refinanciar deudas de créditos y tarjetas",
-     "resumen": "Ante el aumento de la morosidad, bancos públicos y privados ofrecen líneas de refinanciación con tasas de entre 29% y 41%. El Banco Nación bajó su tasa de 35% a 29% y lleva refinanciadas 109.507 operaciones por $ 503.300 millones en 2026.",
+     "id": "CL-19",
+     "titulo": "Efecto Shein y Temu: la ropa fue el rubro que menos aumentó en el año",
+     "resumen": "Entre enero y agosto la indumentaria subió 4,5% contra 21,3% del índice de precios al consumidor general, y la ropa quedó 37% más barata que antes de la apertura comercial. La cantidad de empresas importadoras del rubro se triplicó en el período, impulsada por la caída de ventas locales y el boom de compras a plataformas asiáticas.",
      "relacionadas": [],
-     "url": "https://www.lanacion.com.ar/economia/cuales-son-y-cuanto-cuestan-los-planes-que-permiten-refinanciar-deudas-de-creditos-y-tarjetas-nid11092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/EU5C2ZNLH5DVBBRLIITHKK6FJU.jpg?auth=530289b6d95d66f7c288fcba4a783af3bda4ce9d6f5bcfdbeb0b1e1f57888b80&smart=true&width=900&height=600",
+     "url": "https://www.clarin.com/economia/efecto-shein-temu-ropa-rubro-aumento-ano-caida-ventas-boom-importaciones_0_eQ0yDPm9W8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/SwXBvzvxc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Efecto Shein y Temu: la ropa es el rubro que menos aumentó en el año por la caída de las ventas y el boom de importaciones"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "La cebolla lideró los aumentos de precios de agosto con una suba de 42,7%",
+     "resumen": "Según el Indec, la cebolla pasó de 1.516,61 a 2.163,96 pesos el kilo en agosto, el mayor incremento entre los alimentos frescos. El zapallo anco, la banana y la papa también tuvieron fuertes subas por la menor oferta, las lluvias y heladas en zonas productoras, y problemas de ingreso de mercadería importada por la nieve en el paso Cristo Redentor.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/combo-explosivo-por-que-el-precio-de-la-cebolla-se-disparo-un-427-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UXZFBGNBNNGR5J2DUSPFYTJRCA.jpg?auth=49aa6a3e09113bd2fc4002ed23e5daec2e2d1b76f4ebb3ae49b15974a0e6c873&smart=true&width=900&height=600",
      "fuente_codigo": "LN",
      "fuente": "La Nación",
-     "hora": "12:17",
-     "autor": "Agustina Parise",
-     "titulo_original": "Cuáles son y cuánto cuestan los planes que permiten refinanciar deudas de créditos y tarjetas"
+     "hora": "15:45",
+     "autor": "Pilar Vazquez",
+     "titulo_original": "Combo explosivo: por qué el precio de la cebolla se disparó un 42,7%"
     },
     {
-     "id": "CR-13",
-     "titulo": "un desarrollador invierte US$ 35 millones en un barrio de casaquintas de lujo en zona norte",
-     "resumen": "Ayres Desarrollos avanza con un masterplan sobre 170 hectáreas en Los Cardales, Campana, cerca de Nordelta y del Sofitel La Reserva Cardales. La primera etapa se entregará a principios de 2027.",
+     "id": "IP-02",
+     "titulo": "La canasta de pobreza sube más rápido que la inflación general por cuarto mes consecutivo",
+     "resumen": "Pese a la desaceleración de la inflación general, las canastas que miden la pobreza y la indigencia acumulan un encarecimiento relativo por cuarto mes seguido, y las proyecciones no muestran una mejora en el corto plazo.",
      "relacionadas": [],
-     "url": "https://www.cronista.com/negocios/construyen-un-barrio-de-casaquintas-de-lujo-en-la-nueva-zona-norte-cerca-de-un-hotel-y-bodega-de-moda/",
-     "imagen": "https://www.cronista.com/resizer/v2/375IK4U4KVDPZEVPJCRTKY3TXI.jpg?auth=252d7ae861a092cca41c02f2666cc0630fef1e568da86d3d689c1815f7e2e22d&smart=true&width=900&height=450",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "12:55",
-     "autor": "Micaela Mura",
-     "titulo_original": "Construyen un barrio de casaquintas de lujo en la “nueva” zona norte, cerca de un hotel y bodega de moda"
-    },
-    {
-     "id": "CR-03",
-     "titulo": "tres constructoras argentinas se quedan con una obra clave para el mayor RIGI minero",
-     "resumen": "Una UTE integrada por Contreras, BBC y Construmin se adjudicó el primer tramo de 63,6 kilómetros del Corredor Norte, que dará acceso al yacimiento de cobre, oro y plata que BHP y Lundin Mining desarrollan en San Juan bajo el régimen RIGI.",
-     "relacionadas": [],
-     "url": "https://www.cronista.com/negocios/tres-constructoras-argentinas-se-quedan-con-una-obra-clave-para-el-mayor-rigi-minero/",
-     "imagen": "https://www.cronista.com/resizer/v2/VELYXT7KQVDCLEJDZ5S5NUV4CA.jpg?auth=cd591dda34a79957141d6e0c887c62c80e5e7625569a0f02b3d05521541c9613&smart=true&width=900&height=506",
-     "fuente_codigo": "CR",
-     "fuente": "El Cronista",
-     "hora": "14:54",
+     "url": "https://www.iprofesional.com/economia/464245-lado-b-de-la-euforia-oficial-canasta-de-pobreza-sube-mas-que-ipc",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584887.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:30",
      "autor": "",
-     "titulo_original": "Tres constructoras argentinas se quedan con una obra clave para el mayor RIGI minero"
+     "titulo_original": "Contracara del \"¡Vamos Toto!\": la canasta de pobreza está subiendo más rápido que el IPC"
     }
    ],
    "id": "consumo-construccion-y-retail"
@@ -482,22 +553,9 @@
    "nombre": "Management y finanzas corporativas",
    "notas": [
     {
-     "id": "IP-25",
-     "titulo": "el 90% de las empresas usa mal la inteligencia artificial en desarrollo de software",
-     "resumen": "Según el informe, la mayoría de las compañías quedó atrapada en un techo de productividad al aplicar inteligencia artificial y todavía no logró dar el salto hacia la ingeniería agéntica.",
-     "relacionadas": [],
-     "url": "https://www.iprofesional.com/tecnologia/464267-el-90-de-las-empresas-usa-mal-la-ia-en-desarrollo-de-software",
-     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/11/562867.jpg",
-     "fuente_codigo": "IP",
-     "fuente": "iProfesional",
-     "hora": "08:53",
-     "autor": "",
-     "titulo_original": "El 90% de las empresas usa mal la IA en desarrollo de software"
-    },
-    {
-     "id": "IP-14",
-     "titulo": "la inteligencia artificial cambia la forma en que las empresas crean sus aplicaciones",
-     "resumen": "Nuevas herramientas permiten transformar instrucciones escritas en lenguaje natural en aplicaciones para resolver procesos específicos, sin pasar por desarrollos de software tradicionales.",
+     "id": "IP-19",
+     "titulo": "La inteligencia artificial cambia la forma en que las empresas crean sus propias aplicaciones",
+     "resumen": "Nuevas herramientas permiten transformar instrucciones escritas en lenguaje natural en aplicaciones para resolver procesos específicos, sin necesidad de desarrollos de software tradicionales, lo que acelera y abarata la digitalización de procesos internos en las compañías.",
      "relacionadas": [],
      "url": "https://www.iprofesional.com/negocios/464151-la-ia-cambia-para-siempre-la-forma-en-que-las-empresas-crean-sus-propias-aplicaciones",
      "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625445.jpg",
@@ -508,17 +566,17 @@
      "titulo_original": "La IA cambia para siempre la forma en que las empresas crean sus propias aplicaciones"
     },
     {
-     "id": "CL-05",
-     "titulo": "el People Summit 2026 reunió a referentes para pensar el futuro del trabajo",
-     "resumen": "Con más de 800 inscriptos, la cuarta edición del encuentro organizado por Gestión Compartida abordó el impacto de la inteligencia artificial, el liderazgo, la diversidad y las nuevas formas de trabajar.",
+     "id": "IP-24",
+     "titulo": "Grupo San Cristóbal abrió la cuarta edición de su programa de pasantías RADAR",
+     "resumen": "La convocatoria busca perfiles jóvenes para su programa de formación interna, en un contexto en el que las empresas argentinas compiten por captar y retener talento con programas estructurados de desarrollo profesional.",
      "relacionadas": [],
-     "url": "https://www.clarin.com/brandstudio/people-summit-2026-reunio-referentes-pensar-futuro-trabajo_0_P1judv7nXZ.html",
-     "imagen": "https://www.clarin.com/img/2026/09/11/yme9l8ucG_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "13:53",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "People Summit 2026 reunió a referentes para pensar el futuro del trabajo"
+     "url": "https://www.iprofesional.com/management/464273-empleo-joven-como-entrar-a-las-pasantias-de-grupo-san-cristobal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625541.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:19",
+     "autor": "",
+     "titulo_original": "Cómo entrar al prestigioso programa de pasantías de Grupo San Cristóbal, que abrió convocatoria"
     }
    ],
    "id": "management-y-finanzas-corporativas"
@@ -527,83 +585,23 @@
    "nombre": "Mundo",
    "notas": [
     {
-     "id": "LN-12",
-     "titulo": "los hutíes avanzan sobre una ruta clave del petróleo y Arabia Saudita pide ayuda militar a Trump",
-     "resumen": "Los rebeldes hutíes, respaldados por Irán, tomaron la isla de Perim en el estrecho de Bab el-Mandeb y ya controlan toda la costa yemení del mar Rojo. Arabia Saudita pidió apoyo a Estados Unidos, pero Trump le dijo al príncipe saudita que por ahora no planea una acción en la zona.",
+     "id": "CL-22",
+     "titulo": "En el aniversario del 11 de septiembre, Trump volvió a apuntar contra Irán",
+     "resumen": "El presidente de Estados Unidos habló en el Pentágono en el 25° aniversario del atentado a las Torres Gemelas y afirmó que Irán es \"el mayor patrocinador del terrorismo mundial\" y que \"no tendrá su arma nuclear\". En Nueva York, los cuatro expresidentes vivos participaron de una ceremonia en la Zona Cero junto al vicepresidente JD Vance, en homenaje a las 2.977 víctimas de los atentados.",
      "relacionadas": [
       {
-       "id": "IB-03",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "El régimen iraní celebró el avance de los rebeldes hutíes en Yemen que condicionan el tránsito por el mar Rojo",
-       "url": "https://www.infobae.com/america/mundo/2026/09/11/el-regimen-irani-celebro-el-avance-de-los-rebeldes-huties-en-yemen-que-condicionan-el-transito-por-el-mar-rojo/"
-      }
-     ],
-     "url": "https://www.lanacion.com.ar/el-mundo/los-rebeldes-huties-avanzan-sobre-una-ruta-clave-del-petroleo-y-arabia-saudita-le-pide-ayuda-militar-nid11092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/TGIYWYP4WZD6FPFARMA624CR3A.JPG?auth=8b53aef96d52892e8d75526e8855dd9397f4e6190e0eab7737416f32a4eba664&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "13:12",
-     "autor": "",
-     "titulo_original": "Los rebeldes hutíes avanzan sobre una ruta clave del petróleo y Arabia Saudita le pide ayuda militar Trump"
-    },
-    {
-     "id": "CL-19",
-     "titulo": "Francia se complica con el alza de los combustibles y crece el temor a un nuevo estallido social",
-     "resumen": "Los precios récord de los combustibles, agravados por el conflicto en Medio Oriente, llevan a miles de franceses a reducir sus viajes y cambiar hábitos diarios. Crece el temor a un resurgimiento de protestas como la de los Chalecos Amarillos, con marchas ya previstas.",
-     "relacionadas": [],
-     "url": "https://www.clarin.com/mundo/francia-complica-alza-combustibles-riesgo-confinamiento-gradual-fantasma-chalecos-amarillos_0_6D12j4TGhc.html",
-     "imagen": "https://www.clarin.com/img/2019/04/30/_qbRDMMiN_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "12:03",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "Francia se complica con el alza de los combustibles: el riesgo de un confinamiento gradual y el fantasma de los Chalecos Amarillos"
-    },
-    {
-     "id": "IB-24",
-     "titulo": "Rusia atacó con drones una gasolinera en Kiev y dejó dos muertos",
-     "resumen": "El alcalde Vitali Klitschko confirmó dos muertos y cuatro heridos tras el ataque matutino. Crece el temor en la capital ucraniana a una nueva campaña rusa dirigida contra estaciones de servicio de la ciudad.",
-     "relacionadas": [],
-     "url": "https://www.infobae.com/america/mundo/2026/09/11/rusia-ataco-con-drones-una-gasolinera-en-kiev-al-menos-dos-personas-murieron-y-cuatro-resultaron-heridas/",
-     "imagen": "https://www.infobae.com/resizer/v2/QE52LW3ZGNAKFN2B67SL3SDCGM.JPG?auth=d66893e8cf62c617b964d7e81dabd6d5953384dd381597afe52af7d0ef7ee6c1&smart=true&width=900&height=600",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "12:25",
-     "autor": "",
-     "titulo_original": "Rusia atacó con drones una gasolinera en Kiev: al menos dos personas murieron y cuatro resultaron heridas"
-    },
-    {
-     "id": "CL-17",
-     "titulo": "Kast se convierte en el primer presidente chileno que no conmemora el golpe de 1973",
-     "resumen": "El mandatario decidió mantener su agenda institucional este viernes, lo que generó críticas dentro de la propia coalición de gobierno. La oposición lo instó a recordar que gobierna a todos los chilenos.",
-     "relacionadas": [],
-     "url": "https://www.clarin.com/mundo/polemica-chile-kast-convierte-primer-presidente-democracia-conmemora-golpe-1973_0_Hw66YFucSS.html",
-     "imagen": "https://www.clarin.com/img/2026/09/11/A20ZGxxYJ_1200x630__1.jpg",
-     "fuente_codigo": "CL",
-     "fuente": "Clarín",
-     "hora": "12:46",
-     "autor": "Clarin.com - Home",
-     "titulo_original": "Polémica en Chile: Kast se convierte en el primer presidente de la democracia que no conmemora el golpe de 1973"
-    },
-    {
-     "id": "CL-12",
-     "titulo": "en el 25° aniversario del 11-S, Trump apuntó a Irán",
-     "resumen": "El presidente estadounidense habló en el Pentágono y calificó a Irán como \"el mayor patrocinador del terrorismo mundial\", asegurando que \"no tendrán su arma nuclear\". El acto conmemoró el cuarto de siglo del atentado a las Torres Gemelas.",
-     "relacionadas": [
-      {
-       "id": "LN-15",
-       "fuente_codigo": "LN",
-       "fuente": "La Nación",
-       "titulo": "Atentado a las Torres Gemelas, en vivo: los actos y homenajes por el 11 de Septiembre en Estados Unidos",
-       "url": "https://www.lanacion.com.ar/estados-unidos/atentado-a-las-torres-gemelas-en-vivo-los-actos-y-homenajes-por-el-11-de-septiembre-en-estados-nid11092026/"
-      },
-      {
-       "id": "AM-26",
+       "id": "AM-06",
        "fuente_codigo": "AM",
        "fuente": "Ámbito",
-       "titulo": "Pablo Quirno recordó el ataque a las Torres Gemelas y reveló su credencial como voluntario de la Cruz Roja",
-       "url": "https://www.ambito.com/politica/pablo-quirno-recordo-el-ataque-las-torres-gemelas-y-revelo-su-credencial-como-voluntario-la-cruz-roja-n6321145"
+       "titulo": "A 25 años del 11-S, Donald Trump encabezó un homenaje en el Pentágono",
+       "url": "https://www.ambito.com/mundo/a-25-anos-del-11-s-donald-trump-encabezo-un-homenaje-el-pentagono-n6321415"
+      },
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Actos separados, reproches e Irán: EE.UU. conmemora los 25 años del 11-S marcado por nuevas tensiones",
+       "url": "https://www.lanacion.com.ar/estados-unidos/actos-separados-reproches-e-iran-eeuu-conmemora-los-25-anos-del-11-s-marcado-por-nuevas-tensiones-nid11092026/"
       }
      ],
      "url": "https://www.clarin.com/mundo/discurso-11-s-trump-apunto-iran-mayor-patrocinador-terrorismo-mundial-arma-nuclear_0_ABXMaL7ruy.html",
@@ -613,17 +611,85 @@
      "hora": "13:23",
      "autor": "Clarin.com - Home",
      "titulo_original": "En su discurso por el 11-S, Trump apuntó a Irán: \"Son el mayor patrocinador del terrorismo mundial, y no tendrán su arma nuclear\""
+    },
+    {
+     "id": "CL-05",
+     "titulo": "El petróleo bajó ante la perspectiva de una reunión entre el Golfo e Irán por el estrecho de Ormuz",
+     "resumen": "El barril Brent cayó 2,81% a 104,61 dólares y el WTI bajó 2,37% a 100,05 dólares, luego del anuncio de un posible diálogo entre Irán y países del Golfo para discutir la seguridad del estrecho de Ormuz, que se realizaría el lunes en Omán. Pese a la baja, el mercado acumuló en la semana una suba superior al 9% por los ataques a petroleros en la región.",
+     "relacionadas": [
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El petróleo cortó una racha de cinco sesiones al alza y cayó un 2%",
+       "url": "https://www.infobae.com/america/mundo/2026/09/11/el-petroleo-cerro-a-la-baja-una-semana-con-fuertes-alzas/"
+      },
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Estados del Golfo evalúan una inusual reunión con Irán en Ormuz",
+       "url": "https://www.clarin.com/mundo/estados-golfo-evaluan-inusual-reunion-iran-ormuz_0_738WKmjUcF.html"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/los-precios-del-petroleo-bajan-con-la-perspectiva-de-una-reunion-sobre-ormuz_0_r71UCz2PMj.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los precios del petróleo bajan con la perspectiva de una reunión sobre Ormuz"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "Arabia Saudita cerró un oleoducto estratégico tras una serie de ataques con heridos",
+     "resumen": "El oleoducto Petroline, una red de 1.200 kilómetros que une el golfo Pérsico con el mar Rojo para esquivar los bloqueos en Ormuz, fue cerrado tras nuevos ataques. El sistema despacha habitualmente siete millones de barriles por día y Arabia Saudita activó protocolos de emergencia para garantizar su estabilidad, en un contexto de ofensivas previas de los hutíes y bombardeos iraníes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/alerta-mercado-crudo-arabia-saudita-cerro-oleoducto-estrategico-serie-ataques-heridos_0_t102wUBu9g.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/c-6qLd537_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alerta en el mercado del crudo: Arabia Saudita cerró un oleoducto estratégico tras una serie de ataques que dejó varios heridos"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "La UNESCO pidió medidas urgentes para proteger el templo de Preah Vihear",
+     "resumen": "Una misión de expertos de la UNESCO y el ICOMOS relevó en marzo daños estructurales y marcas de metralla en el templo, patrimonio de la humanidad dañado durante la guerra fronteriza de 2025 entre Camboya y Tailandia. Pese al cese del fuego, observadores de la ASEAN detectaron además nuevas construcciones militares en la zona.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/11/tras-los-bombardeos-entre-camboya-y-tailandia-la-unesco-pide-medidas-urgentes-para-proteger-el-templo-de-preah-vihear/",
+     "imagen": "https://www.infobae.com/resizer/v2/L4J3PLBFNJGYDPR7KIVQ4WFZLQ.JPG?auth=6829e089d123bc41c1fc0f19a8a470255c19cd6026afc214f263792f4136ef5f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:24",
+     "autor": "Celeste Sawczuk",
+     "titulo_original": "Tras los bombardeos entre Camboya y Tailandia, la UNESCO pide medidas urgentes para proteger el templo de Preah Vihear"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "Kast se convirtió en el primer presidente chileno que no conmemora el golpe de 1973",
+     "resumen": "El mandatario decidió mantener su agenda institucional habitual este viernes, en lugar de participar de actos conmemorativos. La decisión generó críticas dentro de la coalición gobernante, mientras la oposición lo instó a recordar que gobierna a todos los chilenos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/polemica-chile-kast-convierte-primer-presidente-democracia-conmemora-golpe-1973_0_Hw66YFucSS.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/A20ZGxxYJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Polémica en Chile: Kast se convierte en el primer presidente de la democracia que no conmemora el golpe de 1973"
     }
    ],
    "id": "mundo"
   },
   {
    "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el otro frente que se abre en Medio Oriente, a la sombra de la crisis de Ormuz.",
    "notas": [
     {
      "id": "GC-01",
-     "titulo": "los hutíes toman el control del estrecho de Bab el-Mandeb",
-     "resumen": "Le Grand Continent describe cómo los combatientes hutíes se apoderaron de la ciudad portuaria de Moca y de varias islas, entre ellas Perim, que divide el estrecho en dos. La revista advierte que, de consolidar ese control, el grupo podría condicionar buena parte del comercio marítimo que usa Bab el-Mandeb como alternativa al estrecho de Ormuz.",
+     "titulo": "Los hutíes tomaron el control del estrecho de Bab el-Mandeb",
+     "resumen": "Le Grand Continent reconstruye la ofensiva que el grupo yemenita lanzó el miércoles en el sur de Yemen, con la que se habría apoderado de la ciudad portuaria de Moca y de islas clave como Perim, Zuqar y Hanish. La revista advierte que, de consolidar sus avances, los hutíes podrían ejercer un control mucho mayor sobre el comercio marítimo que atraviesa esa ruta, la principal alternativa al estrecho de Ormuz, luego de que ya en julio anunciaran un bloqueo a los puertos y buques sauditas.",
      "relacionadas": [],
      "url": "https://legrandcontinent.eu/es/2026/09/11/los-huties-tomaron-control-del-estrecho-de-bab-el-mandeb/",
      "imagen": null,
@@ -632,19 +698,6 @@
      "hora": "12:20",
      "autor": "Marin Saillofest",
      "titulo_original": "Los hutíes han tomado el control del estrecho de Bab el-Mandeb"
-    },
-    {
-     "id": "GC-02",
-     "titulo": "cómo Putin está arruinando la economía rusa",
-     "resumen": "El análisis sostiene que la sanción más severa contra la economía rusa no proviene del exterior sino del propio Kremlin, por el colosal gasto militar sostenido en un contexto de fuerte déficit presupuestario y una política financiera restrictiva que encarece el financiamiento.",
-     "relacionadas": [],
-     "url": "https://legrandcontinent.eu/es/2026/09/11/como-putin-esta-arruinando-la-economia-rusa/",
-     "imagen": null,
-     "fuente_codigo": "GC",
-     "fuente": "Le Grand Continent",
-     "hora": "04:24",
-     "autor": "Louis Puel",
-     "titulo_original": "Cómo Putin está arruinando la economía rusa"
     }
    ],
    "id": "europa-y-geopolitica"
@@ -653,183 +706,210 @@
    "nombre": "Deportes",
    "notas": [
     {
-     "id": "LN-11",
-     "titulo": "Franco Colapinto terminó 15° en la segunda práctica del GP de España en Madrid",
-     "resumen": "En el debut del circuito de Madring, el argentino fue casi un segundo más lento que su compañero de Alpine, Pierre Gasly, que terminó 11°. Colapinto reconoció estar \"a años luz\" de los Racing Bulls, su rival directo por el quinto puesto del Campeonato de Constructores.",
+     "id": "LN-01",
+     "titulo": "Mastantuono anotó su primer triplete y le dio vuelta el partido a la Fiorentina",
+     "resumen": "El ex River, prestado por Real Madrid, cortó su sequía goleadora con un doblete en menos de dos minutos y sumó un tercer tanto insólito, con un rebote que le pegó en la cara, para el triunfo 4-2 sobre Venezia. Fiorentina había empezado 1-0 abajo en un arranque de temporada marcado por la salida del entrenador Fabio Grosso tras apenas cuatro partidos.",
      "relacionadas": [
       {
-       "id": "IB-20",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "Franco Colapinto terminó el primer día de trabajo en el nuevo circuito de Madrid: fue 15° en la segunda práctica",
-       "url": "https://www.infobae.com/deportes/2026/09/11/franco-colapinto-afrontara-las-primeras-practicas-libres-del-gp-de-espana-hora-tv-y-todo-lo-que-hay-que-saber/"
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Franco Mastantuono se sacó la mufa en Fiorentina: doblete en menos de dos minutos para estrenar su cuenta como goleador en la Serie A",
+       "url": "https://www.clarin.com/deportes/franco-mastantuono-saco-mufa-fiorentina-doblete-minutos-estrenar-cuenta-goleador-serie_0_BnZ8Arav1Z.html"
       },
       {
-       "id": "AM-05",
-       "fuente_codigo": "AM",
-       "fuente": "Ámbito",
-       "titulo": "Franco Colapinto, de la bronca con Lawson al fastidio con su equipo: \"Estamos a años luz\"",
-       "url": "https://www.ambito.com/deportes/franco-colapinto-la-bronca-lawson-al-fastidio-su-equipo-estamos-anos-luz-n6321319"
-      },
-      {
-       "id": "IB-21",
+       "id": "IB-06",
        "fuente_codigo": "IB",
        "fuente": "Infobae",
-       "titulo": "“Estamos a años luz”: preocupación de Franco Colapinto por la gran diferencia entre Alpine y Racing Bulls en Madrid",
-       "url": "https://www.infobae.com/deportes/2026/09/11/estamos-a-anos-luz-preocupacion-de-franco-colapinto-por-la-gran-diferencia-entre-alpine-y-racing-bulls-en-madrid/"
+       "titulo": "El show de Franco Mastantuono en la victoria de la Fiorentina: tres goles y un doblete en un minuto para dar vuelta el partido",
+       "url": "https://www.infobae.com/deportes/2026/09/11/el-doblete-de-franco-mastantuono-en-un-minuto-para-dar-vuelta-el-resultado-de-fiorentina/"
       }
      ],
-     "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-espana-en-vivo-nid11092026-2/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/LDBXGFLR55GRDK5ABFC24GQ64Q.JPG?auth=dfaaf46e77935870e9158e7be0980a65b78688112cda6faef9725c1f3684c30e&smart=true&width=900&height=600",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/la-rafaga-de-franco-mastantuono-marco-sus-primeros-dos-goles-con-fiorentina-en-dos-minutos-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C7JU7G6QBRFG3LFJNWIXTRE3C4.JPG?auth=f432149db0c701ee4cbcef2dee9ecc11836fc4ecefc208b389be710f7a49a407&smart=true&width=900&height=600",
      "fuente_codigo": "LN",
      "fuente": "La Nación",
-     "hora": "13:15",
-     "autor": "Orlando Ríos",
-     "titulo_original": "Fórmula 1 en Madrid: Franco Colapinto terminó en el puesto 15 en la segunda práctica"
-    },
-    {
-     "id": "AM-17",
-     "titulo": "el argentino Nicolás Varrone chocó en la clasificación de Fórmula 2 en España",
-     "resumen": "El piloto provocó el uso de la bandera roja y largará desde el fondo tanto en la carrera sprint como en la principal, en la misma jornada en la que Colapinto tuvo un día difícil en Madring.",
-     "relacionadas": [],
-     "url": "https://www.ambito.com/deportes/el-piloto-argentino-que-choco-contra-el-muro-el-gp-espana-y-genero-una-bandera-roja-n6321258",
-     "imagen": "https://media.ambito.com/p/d90dda6463c7b91dccf646f7ebd00fb4/adjuntos/239/imagenes/043/636/0043636895/varrone-choque.png",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "12:59",
+     "hora": "18:02",
      "autor": "",
-     "titulo_original": "El piloto argentino que chocó contra el muro en el GP de España y generó una bandera roja"
+     "titulo_original": "El desahogo de Franco Mastantuono: primer hat-trick, con un doblete en dos minutos y un insólito gol con la cara"
     },
     {
-     "id": "LN-23",
-     "titulo": "Sabalenka y Rybakina definirán la final femenina del US Open",
-     "resumen": "La bielorrusa Aryna Sabalenka, bicampeona vigente, eliminó a la estadounidense Jessica Pegula por 7-5 y 6-2 para clasificar a la final. Se enfrentará a Elena Rybakina este sábado a las 17, hora argentina, en Flushing Meadows.",
-     "relacionadas": [],
-     "url": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-conformada-la-final-femenina-del-us-open-2026-nid11092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/RULNYKSVXJERXNNGLCKC6AIX6M.jpg?auth=431ba63f47b06b854bd04ae8a03182089f811a81f7b244efb7fa006f2a3dd1f6&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "12:05",
-     "autor": "",
-     "titulo_original": "Así quedó conformada la final femenina del US Open 2026"
-    },
-    {
-     "id": "LN-26",
-     "titulo": "Barcelona da por cerrada la novela del pase de Julián Álvarez",
-     "resumen": "Deco, director deportivo del club catalán, confirmó que el delantero seguirá en el Atlético de Madrid tras la negativa del club español a venderlo. No descartó que Barcelona vuelva a insistir cuando se reabra el mercado de pases en enero.",
-     "relacionadas": [],
-     "url": "https://www.lanacion.com.ar/deportes/futbol/deco-director-deportivo-de-barcelona-julian-alvarez-el-barca-no-le-dijo-que-expresara-publicamente-nid11092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/AS2O34U5ERGUBCQEPRB2LMRMXA.JPG?auth=3234efe0478bf3c0507f5546d311ac3d6b940297b09a1ce8226c0fa121bd5fd4&smart=true&width=900&height=600",
-     "fuente_codigo": "LN",
-     "fuente": "La Nación",
-     "hora": "11:37",
-     "autor": "",
-     "titulo_original": "Deco, director deportivo de Barcelona: “¿Julián Alvarez? El Barça no le dijo que expresara públicamente su deseo de salir”"
-    },
-    {
-     "id": "IB-14",
-     "titulo": "Boca Juniors recibe a Central Córdoba con la cabeza en la Copa Sudamericana",
-     "resumen": "El Xeneize buscará arrimarse a la cima de la Zona A desde las 21:30, por ESPN Premium, mientras también tiene la atención puesta en la Copa Sudamericana.",
-     "relacionadas": [],
-     "url": "https://www.infobae.com/deportes/2026/09/11/boca-juniors-buscara-arrimarse-a-la-cima-de-la-zona-a-ante-central-cordoba-hora-tv-y-formaciones/",
-     "imagen": "https://www.infobae.com/resizer/v2/NJLNWNSJ5FFUVBPQCL7NKN5LCM.jpg?auth=6e22e601d2ba0cf878e0c584f2c2eec09b361f13ab5a5d8bd71ade3d196d3c37&smart=true&width=900&height=506",
-     "fuente_codigo": "IB",
-     "fuente": "Infobae",
-     "hora": "14:00",
-     "autor": "",
-     "titulo_original": "Boca Juniors buscará arrimarse a la cima de la Zona A ante Central Córdoba: hora, TV y formaciones"
-    },
-    {
-     "id": "AM-11",
-     "titulo": "la brecha financiera del fútbol argentino: River invirtió US$ 67,7 millones y Boca apenas US$ 14 millones",
-     "resumen": "El cierre de la ventana de pases de mediados de 2026 mostró dos modelos de gestión opuestos: River encaró una erogación de capital sin precedentes a nivel sudamericano, mientras Boca apostó por austeridad y un leve déficit operativo.",
-     "relacionadas": [],
-     "url": "https://www.ambito.com/deportes/la-brecha-financiera-del-futbol-argentino-river-invirtio-us677-millones-y-boca-apenas-us14-millones-n6321265",
-     "imagen": "https://media.ambito.com/p/47252bd120b6c3f46068e1560f4421b0/adjuntos/239/imagenes/043/637/0043637124/1200x675/smart/gemini_generated_image_iw20aziw20aziw20.jpg",
-     "fuente_codigo": "AM",
-     "fuente": "Ámbito",
-     "hora": "13:41",
-     "autor": "",
-     "titulo_original": "La brecha financiera del fútbol argentino: River invirtió u$s67,7 millones y Boca, apenas u$s14 millones"
-    },
-    {
-     "id": "IB-02",
-     "titulo": "la Selección Sub 20 femenina clasificó a octavos del Mundial de Polonia",
-     "resumen": "Argentina revirtió un partido difícil y venció 3-2 a México en la última fecha de grupos, con un doblete de Deiry Ramírez del lado mexicano remontado por Alma Velasco Heim y Dolo Delgado. Es la segunda vez en la historia que el equipo de Christian Meloni avanza a esta instancia; el próximo partido será el 16 de septiembre a las 10, hora argentina.",
-     "relacionadas": [],
+     "id": "IB-23",
+     "titulo": "Argentina venció 3-2 a México y clasificó a octavos del Mundial Sub 20 femenino",
+     "resumen": "El equipo dirigido por Christian Meloni, que necesitaba un empate para avanzar, dio vuelta el resultado ante México con goles de Annika Paz, Alma Velasco Heim y Dolores Delgado, esta última en tiempo de descuento. Es la segunda vez en la historia que la selección argentina alcanza esa instancia del certamen que se disputa en Polonia; jugará el próximo miércoles ante un rival a confirmar.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Argentina le ganó a México con un golazo agónico de Dolores Delgado y se metió en octavos del Mundial Sub 20",
+       "url": "https://www.clarin.com/deportes/argentina-gano-mexico-golazo-agonico-dolores-delgado-metio-octavos-mundial-sub-20_0_6XEFUIgQV8.html"
+      },
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Selección argentina le ganó a México en el descuento y se metió a octavos de final del Mundial Sub-20 femenino",
+       "url": "https://www.ambito.com/deportes/la-seleccion-argentina-le-gano-mexico-el-descuento-y-se-metio-octavos-final-del-mundial-sub-20-femenino-n6321371"
+      }
+     ],
      "url": "https://www.infobae.com/deportes/2026/09/11/la-seleccion-argentina-femenina-jugara-un-partido-clave-ante-mexico-en-el-mundial-sub-20-que-necesita-para-clasificar-a-octavos/",
      "imagen": "https://www.infobae.com/resizer/v2/PM52DOBWHNCABATF4SCNPMYRUE.jfif?auth=a2f864054f7f7fdce418e2b98429cb18b46418d800f39caeb5272ea86858280e&smart=true&width=900&height=506",
      "fuente_codigo": "IB",
      "fuente": "Infobae",
-     "hora": "15:02",
+     "hora": "15:44",
      "autor": "",
      "titulo_original": "Argentina revirtió un partido difícil ante México y se clasificó a octavos del Mundial Sub 20 femenino por segunda vez en su historia"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Boca recibe a Central Córdoba con la mira en la cima de la Zona A",
+     "resumen": "El encuentro por la fecha 9 del Torneo Clausura se juega esta noche desde las 21.30 en la Bombonera, con arbitraje de Yael Falcón Pérez y televisación de TNT Sports. Boca llega en el octavo puesto de su zona con dos victorias, cinco empates y una derrota, mientras enfoca buena parte de su atención en los cuartos de final de la Copa Sudamericana ante San Pablo.",
+     "relacionadas": [
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Boca Juniors buscará arrimarse a la cima de la Zona A ante Central Córdoba: hora, TV y formaciones",
+       "url": "https://www.infobae.com/deportes/2026/09/11/boca-juniors-buscara-arrimarse-a-la-cima-de-la-zona-a-ante-central-cordoba-hora-tv-y-formaciones/"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Conmebol definió al árbitro de Boca vs San Pablo: los buenos antecedentes para el \"Xeneize\"",
+       "url": "https://www.ambito.com/deportes/la-conmebol-definio-al-arbitro-boca-vs-san-pablo-los-buenos-antecedentes-el-xeneize-n6321367"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-boca-vs-central-cordoba-y-que-canal-lo-transmite-en-vivo-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TXVYWTA54ZG3BGO42PBGYPITGY.jpg?auth=28929494ac4dbac2745ce4830f85b79be4b6c479c5fd5e69d68b3549cf7a4ea8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:51",
+     "autor": "",
+     "titulo_original": "Por dónde pasan Boca vs. Central Córdoba y qué canal lo transmite en vivo"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Colapinto reconoció estar \"a años luz\" de los Racing Bulls en el debut del circuito de Madrid",
+     "resumen": "El piloto de Alpine terminó 13° y 15° en las dos prácticas libres del Gran Premio de España, en el nuevo trazado semiurbano de más de 22 curvas. Colapinto admitió las dificultades de la jornada frente a la escudería que pelea con Alpine por el quinto puesto del campeonato de constructores.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/11/estamos-a-anos-luz-preocupacion-de-franco-colapinto-por-la-gran-diferencia-entre-alpine-y-racing-bulls-en-madrid/",
+     "imagen": "https://www.infobae.com/resizer/v2/23BGMVC3PZC2RA6XQ453DRNDMI.jpg?auth=e96c6ad4e676781cdac7e8abdc64783dfb00fb94ec1609ecbbb18f190d33c65a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:57",
+     "autor": "",
+     "titulo_original": "“Estamos a años luz”: preocupación de Franco Colapinto por la gran diferencia entre Alpine y Racing Bulls en Madrid"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "Copa Davis: Argentina se ilusiona con la serie ante Turquía en Neuquén",
+     "resumen": "El equipo nacional, capitaneado por Javier Frana, jugará el 19 y 20 de septiembre en superficie dura, tras la eliminación ante Corea del Sur en febrero que marcó una temporada negativa signada además por ausencias inéditas de los principales singlistas y doblistas del equipo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/copa-davis-con-el-capitulo-de-corea-del-sur-archivado-la-argentina-se-ilusiona-con-la-serie-en-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5JHSANRNNNHVREEVWOWKQMFOTQ.jpg?auth=694998cb4aef0e13ab7064d92604d40943d26dc61dacf1be51ffedc1a26f6b91&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:56",
+     "autor": "",
+     "titulo_original": "Copa Davis: con el capítulo de Corea del Sur archivado, la Argentina se ilusiona con la serie en Neuquén"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Enzo Maresca elogió a Enzo Fernández antes del clásico de Manchester",
+     "resumen": "El entrenador de Manchester City destacó la evolución del mediocampista argentino, que dejó de jugar retrasado para convertirse en un volante ofensivo determinante, con una asistencia reciente a Erling Haaland en la Champions League. Ambos equipos se enfrentan el domingo desde las 12.30, hora de la Argentina, por la Premier League.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/enzo-maresca-elogio-a-enzo-fernandez-antes-del-clasico-de-manchester-esta-creciendo-mucho-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/64IBEEV6DJCIHCSYJMAMGDAQJY.jpg?auth=8f2be48f2a6551a3af6be4127c04cb23d66fca733702b8a19ef67b5085728a76&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:52",
+     "autor": "",
+     "titulo_original": "Enzo Maresca elogió a Enzo Fernández antes del clásico de Manchester: “Está creciendo mucho”"
     }
    ],
    "id": "deportes"
   },
   {
-   "nombre": "Sociedad",
+   "nombre": "Turismo",
    "notas": [
     {
-     "id": "LN-20",
-     "titulo": "recuperan una carta de 1833 que relata la ocupación británica de las Malvinas",
-     "resumen": "El Archivo Histórico de Tucumán halló el documento, firmado por Juan Ramón Balcarce y Manuel Maza, que relata la llegada de la corbeta inglesa Clio a Puerto Soledad. El hallazgo se conoce en medio de la tensión diplomática entre la Argentina y el Reino Unido por la soberanía del archipiélago.",
+     "id": "LN-26",
+     "titulo": "Albi, la joya medieval del sur de Francia con la catedral de ladrillo más grande del mundo",
+     "resumen": "La ciudad, ubicada en el valle de un río, combina un centro histórico de aire toscano, un castillo más antiguo que el de Avignon y varios tesoros protegidos por la Unesco. Pese a su patrimonio cultural reconocido desde 2010, es menos conocida que otras localidades del sur de Francia.",
      "relacionadas": [],
-     "url": "https://www.lanacion.com.ar/sociedad/recuperan-una-carta-de-1833-que-relata-la-ocupacion-britanica-de-las-islas-malvinas-nid11092026/",
-     "imagen": "https://resizer.glanacion.com/resizer/v2/WC2F66THWRAJJONFOBS3LE4P3Y.png?auth=68a4a46f090a087f4947a82711f3aecd6213be52da04e11e2ddbcb0945735d98&smart=true&width=537&height=284",
+     "url": "https://www.lanacion.com.ar/salud/la-joya-del-sur-de-francia-que-invita-a-recorrer-sus-callecitas-a-pie-un-castillo-y-jardines-nid09092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KYMA3QTN4NAJNEI3UG6T4ADS3Y.JPG?auth=8879043ff3860c20dadfed3cb36138a98db6f477457a7f1b1cf31f39b1222a61&smart=true&width=900&height=449",
      "fuente_codigo": "LN",
      "fuente": "La Nación",
      "hora": "12:23",
-     "autor": "",
-     "titulo_original": "Recuperan una carta de 1833 que relata la ocupación británica de las Islas Malvinas"
+     "autor": "Carolina Cerimedo",
+     "titulo_original": "La joya del sur de Francia que invita a recorrer sus callecitas a pie, un castillo y jardines imponentes"
     },
     {
-     "id": "IB-23",
-     "titulo": "el juicio a Pity Álvarez se reanudará el lunes",
-     "resumen": "La Cámara de Casación rechazó la recusación que la defensa presentó contra los tres jueces del TOC N°29 que juzgan el homicidio de Cristian Maximiliano Díaz. El debate se reanudará el 14 de septiembre a las 11.",
+     "id": "CR-03",
+     "titulo": "Costa Rica: un viaje al origen del chocolate entre naturaleza y tradiciones ancestrales",
+     "resumen": "El destino ofrece experiencias de turismo rural y comunitario en fincas familiares donde se cultiva el cacao, con comunidades indígenas que mantienen vivo el proceso desde la cosecha y fermentación hasta la elaboración del chocolate.",
      "relacionadas": [],
-     "url": "https://www.infobae.com/sociedad/policiales/2026/09/11/juicio-a-pity-alvarez-casacion-rechazo-la-recusacion-de-los-jueces-y-se-reanudara-el-debate/",
-     "imagen": "https://www.infobae.com/resizer/v2/OXT2PVRG35GWJKET37V5Y5CZRA.jpg?auth=fb2e9ed601e98ced0eaa5760018b19645aa1a47e81bd4a77115ee98b811da1aa&smart=true&width=900&height=591",
+     "url": "https://www.cronista.com/clase/trendy/costa-rica-un-viaje-al-origen-del-chocolate-entre-naturaleza-y-tradiciones-ancestrales/",
+     "imagen": "https://www.cronista.com/resizer/v2/WBQF3FTAQZGHBAG2DBGVD4GEPA.jpg?auth=d6ec540d0e8e551cf848bc318a14ff9744c39814252d9b206a2ae9192d064fb6&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:17",
+     "autor": "",
+     "titulo_original": "Costa Rica: un viaje al origen del chocolate, entre naturaleza y tradiciones ancestrales"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-24",
+     "titulo": "Dispararon contra dos escuelas de Rosario y dejaron banderas con reclamos penitenciarios",
+     "resumen": "Los mensajes, hallados en dos instituciones de la zona sur y oeste de la ciudad, se vinculan al endurecimiento de las condiciones de detención de reclusos de alto perfil en la cárcel de Piñero. Una de las escuelas fue atacada a tiros; en ambos casos se dejaron amenazas dirigidas a las autoridades provinciales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/11/rosario-dispararon-contra-dos-escuelas-y-colgaron-banderas-para-hacer-reclamos-penitenciarios/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZNBPJBK3PNEFDAA7ARBAF636AM.jpg?auth=daec04c471510bc237f3c80c99c03a90910f8d6dcbf2ecd81f14c98f3829f1bd&smart=true&width=900&height=506",
      "fuente_codigo": "IB",
      "fuente": "Infobae",
-     "hora": "13:12",
-     "autor": "Florencia Illbele",
-     "titulo_original": "Juicio a “Pity” Álvarez: Casación rechazó la recusación de los jueces y se reanudará el debate"
+     "hora": "15:40",
+     "autor": "Agustín Lago",
+     "titulo_original": "Rosario: dispararon contra dos escuelas y colgaron banderas para hacer reclamos penitenciarios"
     },
     {
-     "id": "CL-18",
-     "titulo": "intercambiadas al nacer, vivieron 46 años con familias cruzadas",
-     "resumen": "Dos mujeres nacidas en 1977 en la misma maternidad provincial de Córdoba fueron intercambiadas al nacer. La Justicia cordobesa ordenó indemnizarlas.",
+     "id": "LN-12",
+     "titulo": "\"Súper Niño\": el fenómeno climático que impactará en la Argentina hasta 2027",
+     "resumen": "El fortalecimiento de las condiciones climáticas, que comenzó en agosto y continuará al menos hasta octubre, provoca un ingreso más frecuente de sistemas de baja presión desde el Pacífico sur, con más inestabilidad, lluvias y nevadas en la Patagonia. La ONU advirtió que las nuevas condiciones impactarán \"muy fuerte\" y modificarán los pronósticos hasta 2027.",
      "relacionadas": [],
-     "url": "https://www.clarin.com/sociedad/intercambiaron-nacer-vivieron-46-anos-familias-cruzadas-sospecha-inicio-camino-verdad_0_u00ZZRUNlK.html",
-     "imagen": "https://www.clarin.com/img/2026/09/11/gB5fSeORX_1200x630__1.jpg",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-que-se-sabe-del-evento-historico-y-como-afectara-a-la-argentina-y-el-mundo-nid08092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CZMSAZD3RZF6XGCUKTWYZ6CB2M.png?auth=3f3816dba268aed653f81a546685dd3fafb312421d666f98f1729dea33624099&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:16",
+     "autor": "",
+     "titulo_original": "“Súper Niño”: qué se sabe del evento histórico y cómo afectará a la Argentina y el mundo"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Vuelve el frío intenso al AMBA, con posibles lluvias para el fin de semana",
+     "resumen": "Este viernes amaneció fresco y parcialmente nublado sobre la Ciudad de Buenos Aires y alrededores. El Servicio Meteorológico Nacional anticipa un descenso de las temperaturas para las próximas horas, con probabilidad de precipitaciones durante el fin de semana.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/vuelve-frio-intenso-amba-pueden-lluvias-dice-pronostico-fin-semana_0_ez2czBPgaj.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/yPHk8IKfh_1200x630__1.jpg",
      "fuente_codigo": "CL",
      "fuente": "Clarín",
-     "hora": "12:12",
+     "hora": "11:13",
      "autor": "Clarin.com - Home",
-     "titulo_original": "Las intercambiaron al nacer y vivieron 46 años con familias cruzadas: la sospecha que inició el camino hacia la verdad"
+     "titulo_original": "Vuelve el frío intenso al AMBA y también puede haber lluvias: qué dice el pronóstico para este fin de semana"
     },
     {
-     "id": "CL-14",
-     "titulo": "murió un joven de 30 años atropellado por un colectivo en avenida Santa Fe",
-     "resumen": "El accidente ocurrió entre las calles Suipacha y Carlos Pellegrini, en el barrio de Retiro, cuando un colectivo de la línea 152 lo embistió. El chofer de la unidad fue atendido con heridas leves.",
-     "relacionadas": [
-      {
-       "id": "IB-16",
-       "fuente_codigo": "IB",
-       "fuente": "Infobae",
-       "titulo": "Murió un joven de 30 años tras ser atropellado por un colectivo en avenida Santa Fe",
-       "url": "https://www.infobae.com/sociedad/policiales/2026/09/11/murio-un-joven-de-30-anos-tras-ser-atropellado-por-un-colectivo-en-avenida-santa-fe/"
-      },
-      {
-       "id": "LN-17",
-       "fuente_codigo": "LN",
-       "fuente": "La Nación",
-       "titulo": "Murió un joven de 30 años tras ser atropellado por un colectivo en la avenida Santa Fe",
-       "url": "https://www.lanacion.com.ar/sociedad/murio-un-joven-de-30-anos-tras-ser-atropellado-por-un-colectivo-en-la-avenida-santa-fe-nid11092026/"
-      }
-     ],
+     "id": "CL-23",
+     "titulo": "Un joven de 30 años murió atropellado por un colectivo en la avenida Santa Fe",
+     "resumen": "El accidente ocurrió entre las calles Suipacha y Carlos Pellegrini, en el barrio de Retiro. El chofer de la línea 152 fue atendido con heridas leves.",
+     "relacionadas": [],
      "url": "https://www.clarin.com/sociedad/joven-30-anos-murio-atropellado-colectivo-avenida-santa-fe_0_KToqD9q9cc.html",
      "imagen": "https://www.clarin.com/img/2026/09/11/RSvaS1EEh_1200x630__1.jpg",
      "fuente_codigo": "CL",
@@ -842,8 +922,7 @@
    "id": "sociedad"
   }
  ],
- "audio_guion": "Buenas tardes. Este es el resumen de la tarde del viernes 11 de septiembre. Este viernes, la desaprobación del gobierno de Javier Milei llegó al cincuenta y ocho por ciento, la fiscalía imputó a Claudio Tapia, presidente de la AFA, por presunto enriquecimiento ilícito, y Estados Unidos autorizó la venta de cuatro helicópteros Black Hawk a la Argentina por ciento cuarenta millones de dólares. En los mercados, el petróleo llegó a tocar los ciento diez dólares por barril en medio de la escalada en el Mar Rojo, el dólar oficial cerró la semana en mil quinientos treinta y cinco pesos para la venta, el dólar blue en mil quinientos cuarenta y cinco pesos, el oro cotiza cerca de cuatro mil cuatrocientos dólares la onza y el riesgo país se mantiene en cuatrocientos noventa y un puntos básicos. La inflación de agosto, dato ya conocido esta mañana, fue de uno coma siete por ciento, la más baja en catorce meses. En política, según Atlas Intel y Bloomberg la desaprobación de Milei llega al cincuenta y ocho por ciento, casi veinte puntos por encima de la aprobación, mientras otro estudio de Analogías señala que más del sesenta por ciento de los consultados dice estar peor que hace un año. En la Justicia, el fiscal Gerardo Pollicita imputó formalmente a Claudio Tapia por enriquecimiento ilícito ligado a su cargo en la Ceamse, y pidió levantar su secreto fiscal y bancario; en la causa Andis, Nadia Beller declarará como testigo el veintitrés de septiembre. Después de más de seis años sin jueces titulares, un tribunal oral de Comodoro Py que investiga corrupción volvió a tener magistrados. En defensa, Estados Unidos aprobó la venta de cuatro helicópteros Black Hawk reacondicionados por ciento cuarenta millones de dólares, que reemplazarán a los viejos Huey. Y en Catamarca, el gobernador Raúl Jalil confirmó que las elecciones provinciales serán el mismo día que las nacionales. En economía, el dólar oficial cerró la semana estable en mil quinientos treinta y cinco pesos para la venta en el Banco Nación. En Estados Unidos, la Reserva Federal enfrenta presión para subir la tasa de interés la semana próxima, después de que la inflación anual se mantuviera en tres coma cuatro por ciento; los mercados ya asignan casi ochenta y cinco por ciento de probabilidad a esa suba, y Wall Street igual rebotó ayudado por la baja del petróleo. El analista financiero Javier Timerman advirtió que, si Axel Kicillof ganara las próximas elecciones presidenciales, el riesgo país podría subir a dos mil quinientos puntos, y las empresas ya empezaron a adelantar emisiones de deuda de cara a un dos mil veintisiete más volátil. El mercado laboral muestra señales mixtas: el empleo registrado cayó a su mínimo en cincuenta meses, con más de doscientos cuarenta y seis mil puestos perdidos desde dos mil veintitrés, mientras los monotributistas crecieron setenta por ciento en quince años, hasta dos coma dos millones de personas. En negocios y empresas, David Vélez, fundador del banco digital Nu, dijo que la Argentina le parece un mercado atractivo después de consolidarse en Brasil, México y Colombia con más de ciento cuarenta millones de usuarios, mientras los grandes bancos globales avanzan con sus propias monedas digitales para competirle a Tether y Circle. En Vaca Muerta, YPF incorporó el primer equipo de fractura eléctrica del país, crece un nuevo negocio de exportación ligado al gas licuado de petróleo, y las petroleras de la cuenca siguen buscando personal con sueldos de hasta seis mil dólares. Y una historia de negocios locales: Alfredo Coto convirtió una carnicería de barrio en Boedo en una cadena de ciento veinte sucursales de supermercados. En impuestos, laboral y normativa, ARCA fijó el treinta de noviembre como plazo límite para adaptar los sistemas de facturación electrónica, y también monitorea de cerca las transferencias entre cuentas del mismo titular, que por encima de ciertos montos activan controles. En el convenio de comercio, la escala de cajeros de supermercado va de un millón trescientos veinte mil a un millón trescientos treinta y cinco mil pesos según categoría. La Justicia laboral le dio validez legal a un aviso de embarazo hecho por WhatsApp y aplicó multas por discriminación tras un despido, y la Corte Suprema declaró inconstitucional un artículo de una ley de Misiones que calificaba como insalubre a toda la industria papelera sin distinguir tareas ni sectores. En consumo, construcción y retail, las cadenas Diarco y Pardo aceleraron el cierre de sucursales en Buenos Aires, Córdoba y la Patagonia por la caída de la facturación y el aumento de costos, en medio de una contracción más amplia del consumo. El crédito para tarjetas y préstamos personales cayó uno coma tres por ciento real en agosto, mientras bancos y fintech priorizan resolver la mora antes que expandir el financiamiento; para aliviar esa morosidad, el Banco Nación bajó su tasa de refinanciación del treinta y cinco al veintinueve por ciento. En real estate, un desarrollador invertirá treinta y cinco millones de dólares en un barrio de casas quinta de lujo en Los Cardales, cerca de Nordelta, y en San Juan tres constructoras argentinas se quedaron con el primer tramo del corredor que dará acceso al megaproyecto minero de cobre, oro y plata de Vicuña. En management, un informe advirtió que el noventa por ciento de las empresas usa mal la inteligencia artificial en el desarrollo de software y queda atrapado en un techo de productividad, mientras otras la usan para transformar instrucciones simples en herramientas propias. Y el People Summit reunió en Buenos Aires a más de ochocientos inscriptos para debatir el futuro del trabajo y el liderazgo. En el mundo, los rebeldes hutíes llegaron a la isla de Perim, en el estrecho de Bab el Mandeb, y ya controlan toda la costa yemení del Mar Rojo; Arabia Saudita pidió ayuda militar a Estados Unidos, aunque Trump le dijo al príncipe saudita que por ahora no planea una acción en la zona. En Francia, los precios récord de los combustibles llevan a miles de personas a reducir sus viajes, y crece el temor a un resurgimiento de protestas como la de los chalecos amarillos. En Kiev, un ataque con drones rusos contra una estación de servicio dejó dos muertos y cuatro heridos. En Chile, el presidente José Antonio Kast se convirtió en el primer mandatario de la democracia en no conmemorar el golpe de mil novecientos setenta y tres. Y en Washington, en el aniversario número veinticinco de los atentados del once de septiembre, Trump habló en el Pentágono y apuntó contra Irán, a quien calificó como el mayor patrocinador del terrorismo mundial. Le Grand Continent analiza cómo los hutíes podrían condicionar buena parte del comercio marítimo mundial si consolidan su control sobre Bab el Mandeb, la principal ruta alternativa al estrecho de Ormuz, y sostiene que la sanción más severa contra la economía rusa no viene del exterior sino del propio Kremlin, por el altísimo gasto militar en medio de un fuerte déficit presupuestario. En deportes, Franco Colapinto terminó quince en la segunda práctica del Gran Premio de España, en el debut del circuito de Madrid, casi un segundo más lento que su compañero Pierre Gasly; en la Fórmula Dos, el argentino Nicolás Varrone chocó en la clasificación y saldrá desde el fondo en ambas carreras. En tenis, Sabalenka y Rybakina definirán el sábado la final femenina del Abierto de Estados Unidos. En fútbol, Deco, de Barcelona, dio por cerrada la novela del pase de Julián Álvarez, que seguirá en el Atlético de Madrid; Boca recibe esta noche a Central Córdoba, y un informe mostró que River invirtió sesenta y siete millones de dólares en fichajes este año, frente a apenas catorce millones de Boca. Y la Sub 20 femenina venció a México y clasificó a octavos del Mundial de Polonia. En sociedad, el Archivo Histórico de Tucumán recuperó una carta de mil ochocientos treinta y tres que relata la ocupación británica de las islas Malvinas. La Justicia dispuso que el juicio contra Pity Álvarez se reanude el lunes catorce, tras rechazarse la recusación de los jueces. Y en Córdoba, la Justicia ordenó indemnizar a dos mujeres intercambiadas al nacer en mil novecientos setenta y siete, que vivieron cuarenta y seis años con familias cruzadas. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
- "notas_del_editor": "No hubo fallas en la descarga de las siete fuentes ni en el panel de mercados (8 de 8 series actualizadas). Se omitió la sección Turismo: la única nota de viajes del período (Albi, Francia) ya se había publicado en la edición de la mañana y no surgieron novedades de un destino nuevo.",
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del viernes once de septiembre. El Banco Central compró apenas cinco millones de dólares hoy, la cifra más baja del año, y el dólar oficial tuvo su mayor caída diaria en un mes, mientras el blue extendió su suba y amplió la brecha. El riesgo país tocó un mínimo de un mes en cuatrocientos ochenta y cinco puntos básicos, pero la bolsa porteña cortó una racha de tres ruedas de alza y el índice Merval retrocedió casi dos por ciento. En paralelo, el salario real del sector privado cayó tres por ciento en el último año y el empleo formal sigue en baja, con más de trescientos cincuenta mil puestos asalariados menos desde noviembre de dos mil veintitrés. El oro cotiza en torno a los cuatro mil trescientos ochenta y ocho dólares, y la inflación de agosto quedó confirmada en uno coma siete por ciento mensual.\n\nEn política, el canciller Pablo Quirno y el ministro de Defensa Carlos Presti recorrieron el predio de la futura Base Naval Integrada en Ushuaia, junto al gobernador de Tierra del Fuego, Gustavo Melella, que pese a sus diferencias con el Gobierno coincidió en la necesidad de sostener una posición firme en el Atlántico Sur. El gobernador de Catamarca, Raúl Jalil, confirmó que la provincia unificará sus elecciones locales con las presidenciales de dos mil veintisiete para ahorrar fondos. El Gobierno, por su parte, acelera en el Congreso la reforma electoral, con la suspensión de las PASO como uno de los puntos centrales, aunque persiste cautela sobre los números en el Senado. La Libertad Avanza redacta además un proyecto propio sobre morosidad, que hoy afecta a más de seis millones de personas, aunque el texto no ofrece alivio a los deudores actuales sino más información para quienes tomen nuevos préstamos. En Rosario, el presidente de la Corte Suprema, Horacio Rosatti, reclamó un castigo ejemplar para los jueces que no honran el cargo, en referencia a dos magistrados locales con prisión preventiva.\n\nEn economía, además del dato del Banco Central y el movimiento cambiario, un informe privado mostró que en junio volvió a caer el número de empresas registradas en el país, que ya son treinta y un mil trescientas cuarenta y dos menos desde que asumió Javier Milei. El presidente de la Reserva Federal de Estados Unidos, Kevin Warsh, enfrenta presión para subir las tasas de interés la semana próxima pese a la oposición de Donald Trump, después de que la inflación estadounidense se mantuviera elevada. Pakistán, mientras tanto, colocó tres mil millones de dólares en bonos, la mayor emisión de su historia, en una señal de que la ventana de financiamiento para los mercados emergentes sigue abierta.\n\nEn impuestos y normativa, ARCA fijó el treinta de noviembre como plazo límite para que las empresas ajusten sus sistemas de facturación electrónica y eviten el bloqueo de comprobantes desde diciembre. La Corte Suprema volvió a precisar en dos fallos qué se considera una tasa municipal válida, exigiendo que exista un servicio concreto detrás del cobro. El organismo fiscal también aclaró los límites que activan controles cuando se transfiere dinero entre cuentas propias. En el plano laboral, el sindicato de mecánicos y Renault acordaron un banco de horas para evitar suspensiones, y la Justicia estableció que una contratación eventual sin documentación específica debe considerarse por tiempo indeterminado.\n\nEn consumo y construcción, la sección más cercana a la actividad de la empresa, Ferrum, el fabricante de sanitarios, informó que vendió más unidades pero perdió veintiséis mil millones de pesos y advirtió por el avance de las importaciones, en momentos en que su margen bruto cayó de treinta y siete a menos de doce por ciento. Construir una vivienda de cien metros cuadrados costó en agosto más de doscientos treinta y ocho millones de pesos, unos ciento cincuenta y cinco mil dólares, según un relevamiento sectorial bonaerense. La ropa fue el rubro que menos aumentó en el año, con una suba de apenas cuatro coma cinco por ciento frente al veintiuno coma tres por ciento de la inflación general, por el impacto de las importaciones desde plataformas como Shein y Temu. La cebolla, en tanto, lideró los aumentos de agosto con una suba de cuarenta y dos coma siete por ciento, y la canasta de pobreza acumula ya cuatro meses de encarecimiento por encima de la inflación general.\n\nEn management, nuevas herramientas de inteligencia artificial permiten a las empresas transformar instrucciones en lenguaje natural en aplicaciones a medida, sin necesidad de desarrollos de software tradicionales. El Grupo San Cristóbal, por su parte, abrió la cuarta edición de su programa de pasantías para captar talento joven.\n\nEn el mundo, Donald Trump volvió a apuntar contra Irán durante los actos por el aniversario veinticinco de los atentados del once de septiembre, mientras el petróleo bajó ante la perspectiva de una reunión entre países del Golfo e Irán por la seguridad del estrecho de Ormuz. Arabia Saudita, de todos modos, cerró un oleoducto estratégico que despacha siete millones de barriles diarios tras una serie de ataques con heridos. La Unesco pidió medidas urgentes para proteger un templo patrimonio de la humanidad dañado durante la guerra entre Camboya y Tailandia, y en Chile, el presidente Kast se convirtió en el primer mandatario que no conmemora el aniversario del golpe de mil novecientos setenta y tres.\n\nLe Grand Continent analiza cómo los hutíes tomaron el control del estrecho de Bab el Mandeb, en el sur de Yemen, tras apoderarse de la ciudad portuaria de Moca y de islas clave que dividen esa ruta marítima, la principal alternativa a Ormuz para el comercio internacional.\n\nEn deportes, Franco Mastantuono fue la gran figura del día: anotó su primer triplete como profesional y le dio vuelta el partido a la Fiorentina ante Venezia, que ganó cuatro a dos. La selección argentina femenina Sub veinte venció tres a dos a México y clasificó a los octavos de final del Mundial de Polonia por segunda vez en su historia. Boca recibe esta noche a Central Córdoba en la Bombonera con la mira puesta en la cima de su zona del Torneo Clausura. Franco Colapinto reconoció estar a años luz de los Racing Bulls tras terminar las prácticas libres del Gran Premio de España en el nuevo circuito de Madrid. El equipo argentino de Copa Davis se prepara para enfrentar a Turquía en Neuquén, y en Manchester, Enzo Maresca elogió el crecimiento de Enzo Fernández antes del clásico de la Premier League.\n\nPara cerrar, una recomendación de turismo: Albi, en el sur de Francia, ofrece un centro histórico de aire medieval, un castillo más antiguo que el de Avignon y una catedral de ladrillo considerada la más grande del mundo, todo eso rodeado de viñedos y paisajes de colinas.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
  "slug": "2026-09-11-tarde",
- "generado_ba": "11/09/2026 18:15"
+ "generado_ba": "11/09/2026 21:10"
 }
