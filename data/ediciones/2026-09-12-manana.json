@@ -1,0 +1,931 @@
+{
+ "fecha": "2026-09-12",
+ "edicion": "manana",
+ "titulo": "Gobernadores se alejan de Milei, inflación en 1,7% y el petróleo presiona los precios",
+ "apertura": "Los gobernadores toman distancia de Javier Milei antes de los debates por el Presupuesto 2027 y la reforma electoral, mientras el Gobierno acelera la suspensión de las PASO y evalúa medidas para achicar la brecha con las provincias. El Indec confirmó que la inflación de agosto fue de 1,7%, la más baja en catorce meses, aunque un análisis marca que el 44% del empleo sigue en negro y que una familia necesita $ 1,6 millones para no ser pobre. En los mercados, el petróleo volvió a presionar sobre los precios locales, el Tesoro colocó $ 8,4 billones en su última licitación y el Banco Central sumó nuevas herramientas para intervenir en el mercado cambiario.",
+ "claves": [
+  "Los gobernadores se distancian de Milei antes de los debates por el Presupuesto 2027 y la reforma electoral, mientras el Gobierno reactivó los ATN para aliviar a las provincias.",
+  "La inflación de agosto fue de 1,7%, la más baja en catorce meses, pero el 44% del empleo está en negro y la canasta básica total llegó a $ 1,6 millones.",
+  "El petróleo subió a US$ 105 en el mundo y se vende a US$ 85 en el país, con riesgo de un aumento de hasta 20% en la nafta y el gasoil.",
+  "Economía le transfirió al Banco Central letras atadas al dólar por hasta US$ 2.000 millones para reforzar su capacidad de intervención cambiaria.",
+  "El Tesoro colocó $ 8,4 billones en su última licitación, con fuerte demanda de instrumentos dólar linked ante expectativas de mayor volatilidad.",
+  "La Corte Suprema falló en dos causas sobre tasas municipales y ARCA avisó que desde diciembre bloqueará facturas electrónicas sin la condición de IVA del comprador.",
+  "La UNLP y el Astillero Río Santiago desarrollan una impresora 3D de gran escala que permite levantar paredes de viviendas en menos de una semana.",
+  "Boca venció 3-1 a Central Córdoba y extendió su invicto a 13 partidos, mientras arrancan los Juegos Suramericanos en Rosario y Santa Fe."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo (Brent, mundo)",
+   "valor": "US$ 105 por barril",
+   "fuente": "CL-11"
+  },
+  {
+   "nombre": "S&P Merval",
+   "valor": "-1,87%",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Licitación del Tesoro",
+   "valor": "$ 8,41 billones adjudicados",
+   "variacion": "ofertas por $ 14,17 billones",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Letras dólar linked transferidas al BCRA",
+   "valor": "hasta US$ 2.000 millones",
+   "fuente": "IB-21"
+  },
+  {
+   "nombre": "Empleo registrado (SIPA, junio)",
+   "valor": "12,75 millones",
+   "variacion": "-0,9% interanual",
+   "fuente": "CR-09"
+  },
+  {
+   "nombre": "Salario básico bancario",
+   "valor": "$ 2,6 millones",
+   "variacion": "+1,7%",
+   "fuente": "CR-20"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "los gobernadores se distancian de Milei en la previa del debate por el Presupuesto 2027",
+     "resumen": "La Casa Rosada recibe señales de alerta desde el Congreso a medida que se acercan los debates por el Presupuesto 2027 y la reforma electoral. La coparticipación volvió a caer en lo que va de 2026 y el Gobierno reactivó los ATN para aliviar a los distritos. Los gobernadores prevén además que La Libertad Avanza competirá el año próximo en sus propias provincias.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/ambito-nacional/los-gobernadores-se-distancian-javier-milei-la-antesala-los-debates-el-presupuesto-2027-y-la-reforma-electoral-n6321395",
+     "imagen": "https://media.ambito.com/p/80ecae09a3fbb036d8a57fc61880bd20/adjuntos/239/imagenes/043/551/0043551697/1200x675/smart/javier-milei.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Los gobernadores se distancian de Javier Milei en la antesala de los debates por el Presupuesto 2027 y la reforma electoral"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "el Gobierno acelera la reforma electoral con optimismo en la Rosada y cautela en el Senado",
+     "resumen": "El debate por la reforma electoral se retoma el martes en el Senado, con el oficialismo afianzando la suspensión de las PASO. La mesa política confía en el diálogo con los gobernadores para destrabar el tratamiento, aunque persiste cautela sobre los números finales en la Cámara alta.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/464304-gobierno-acelera-reforma-electoral-optimismo-en-la-rosada-y-cautela-en-senado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608832.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "El Gobierno acelera la reforma electoral con optimismo en la Rosada y cautela en el Senado"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "sin margen para el rechazo, LLA impulsará proyectos propios sobre endeudamiento y discapacidad",
+     "resumen": "En la pulseada con la oposición, La Libertad Avanza buscará imponer en Diputados una iniciativa propia sobre endeudamiento y discapacidad, armada con sus aliados. El oficialismo apunta a seducir a las bancadas del medio para lograr los votos necesarios en el recinto.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/endeudamiento-discapacidad-pulseada-oposicion-lla-impulsara-proyectos-propios-diputados_0_hrUwgRUIfA.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/DttYnAWi5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Endeudamiento y Discapacidad: en la pulseada con la oposición, LLA impulsará proyectos propios en Diputados"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Bullrich pidió que la baja de impuestos \"llegue a todos\" y se mostró preocupada por la velocidad de la recuperación",
+     "resumen": "En una exposición en la Universidad de San Andrés, la senadora Patricia Bullrich, líder del bloque oficialista en la Cámara alta, volvió a plantear su inquietud por el ritmo de la recuperación económica. Pidió que la baja de impuestos de regímenes como el RIGI llegue a todos los sectores, en línea con observaciones que ya había hecho en público y en privado.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/bullrich-se-mostro-preocupada-por-la-velocidad-de-la-recuperacion-y-pidio-que-la-baja-de-impuestos-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HT2DHEDZ3JDWPPOXCTZ3Q3GAPI.JPG?auth=cadf3c61e626d8dc07b5b30eba45060b2f4be6b16817c53a618ba0a8201ec764&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:35",
+     "autor": "",
+     "titulo_original": "Bullrich se mostró preocupada por “la velocidad” de la recuperación y pidió que la baja de impuestos “llegue a todos”"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "un informe oficial detectó fallas graves en los controles de la ANMAT tras las 90 muertes por fentanilo contaminado",
+     "resumen": "Una auditoría del Gobierno, incorporada a la causa que investiga el juez federal Ernesto Kreplak, concluyó que el sistema de control de la ANMAT y el INAME presenta \"debilidades relevantes\" en su diseño e implementación. El 21,7% de los establecimientos farmacéuticos habilitados no había sido controlado desde hacía más de cinco años, y las dos máximas funcionarias responsables de las áreas de control fueron procesadas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/12/un-informe-oficial-detecto-fallas-graves-en-los-controles-de-la-anmat-tras-las-90-muertes-por-fentanilo-contaminado/",
+     "imagen": "https://www.infobae.com/resizer/v2/IAORTKPO7JF63CVD72CJFZB3SA.jpg?auth=0b4a5194336b903e9d1c0fbda6c17ff60835acc61a639ccfd6ccef86351576ae&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:15",
+     "autor": "Andrés Klipphan",
+     "titulo_original": "Un informe oficial detectó fallas graves en los controles de la ANMAT tras las 90 muertes por fentanilo contaminado"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Quirno y Presti viajaron a Ushuaia para avanzar con la Base Naval Integrada junto al gobernador Melella",
+     "resumen": "Los ministros de Defensa, Carlos Presti, y de Relaciones Exteriores, Pablo Quirno, visitaron el lugar donde se instalará la futura Base Naval Integrada en Ushuaia, y se reunieron con el gobernador Gustavo Melella, quien mostró predisposición a colaborar con el proyecto. La comitiva también avanzó con la modernización de la base antártica Petrel y el Polo Logístico Antártico, con una inversión oficial de más de $ 200.000 millones.",
+     "relacionadas": [
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Presti y Quirno visitaron el terreno de la Base Naval y mantuvieron una reunión con el gobernador",
+       "url": "https://www.cronista.com/economia-politica/con-la-cupula-militar-y-comitiva-de-legisladores-el-gobierno-visita-el-terreno-de-la-base-naval/"
+      },
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Pablo Quirno, Carlos Presti y Gustavo Melella aceleraron la modernización de la base antártica Petrel",
+       "url": "https://www.ambito.com/politica/pablo-quirno-carlos-presti-y-gustavo-melella-aceleraron-la-modernizacion-la-base-antartica-petrel-n6321453"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/dos-ministros-de-milei-se-reunieron-con-el-gobernador-de-tierra-del-fuego-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HBGAICP34RE5TDZUW3LFUJQK24.jpeg?auth=5b5de659d3153620234c0210966c6cf5cd4c69a32aeb8d3b518e886fd645fcf7&smart=true&width=900&height=1350",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:07",
+     "autor": "Sol Agusti",
+     "titulo_original": "Dos ministros de Milei se reunieron con el gobernador de Tierra del Fuego y visitaron la base naval"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "quedó definida la reunión entre el Papa León XIV y la CGT para el 9 de noviembre en la UCA",
+     "resumen": "El encuentro entre el Papa León XIV y la CGT argentina se realizará el lunes 9 de noviembre en el Campus Puerto Madero de la UCA, con participación de empresarios y movimientos sociales. Antes, este sábado, los dirigentes cegetistas Gerardo Martínez y Cristian Jerónimo verán al Papa en el Vaticano y le anticiparán un diagnóstico duro sobre el empleo y el endeudamiento familiar.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La CGT se reúne con el papa León XIV: qué le dirán y cómo puede influir en la visita a la Argentina",
+       "url": "https://www.ambito.com/politica/la-cgt-se-reune-el-papa-leon-xiv-que-le-diran-y-como-puede-influir-la-visita-la-argentina-n6321443"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/12/la-reunion-del-papa-y-la-cgt-en-la-argentina-ya-esta-definida-los-detalles-del-encuentro-y-la-previa-en-el-vaticano/",
+     "imagen": "https://www.infobae.com/resizer/v2/YWLKRB2GKFD4JLY3D243CEJHIY.jpg?auth=350da60cb96d01d3d6d7586ec75db47d2bd7ccf2ffcf9e7a8e56ef198cb440a8&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:14",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "La reunión del Papa y la CGT en la Argentina ya está definida: los detalles del encuentro y la previa en el Vaticano"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "pese a la baja de la inflación, el petróleo activa la presión sobre los precios",
+     "resumen": "El crudo escaló a US$ 105 en el mundo y a nivel local se vende a US$ 85 por barril. Las refinadoras pierden unos US$ 150 millones por mes, pero por ahora se mantendrán estables los precios de los combustibles. Un aumento de hasta 20% en la nafta y el gasoil podría complicar la desaceleración de la inflación frente al año pasado. Para una empresa: un salto en los combustibles impacta directamente en costos de logística y distribución.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/pese-baja-inflacion-petroleo-activa-presion-precios_0_C2n3doLivB.html",
+     "imagen": "https://www.clarin.com/img/2026/08/01/1_5cLUFB9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Pese a la baja de la inflación, el petróleo activa la presión sobre los precios"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "el Gobierno le dio más poder al Banco Central y crece la expectativa de mayores presiones cambiarias",
+     "resumen": "Economía le transfirió al Banco Central letras del Tesoro atadas al tipo de cambio por hasta US$ 2.000 millones, mediante un canje de deuda que amplió la capacidad del ente monetario para intervenir en los mercados de cobertura cambiaria sin vender reservas. Los analistas interpretaron la medida como una señal de que podrían acelerarse las presiones sobre el dólar.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/12/el-futuro-del-dolar-economia-le-dio-mas-poder-al-bcra-y-los-analistas-creen-que-el-movimiento-podria-adelantar-presiones-cambiarias/",
+     "imagen": "https://www.infobae.com/resizer/v2/VCA37UOZHVEHLNAFBLNDYCEEJI.JPG?auth=06f3902235ef872b9b0bf95270d39c1c5b71652217b0c5f37a7fe5ed04fa74f3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:06",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "El futuro del dólar: Economía le dio más poder al BCRA y los analistas creen que el movimiento podría adelantar presiones cambiarias"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "el Tesoro consiguió $ 8,4 billones en la licitación, con fuerte demanda de cobertura cambiaria",
+     "resumen": "El Gobierno recibió ofertas por $ 14,17 billones y adjudicó $ 8,41 billones en la licitación de este viernes, con 5.010 ofertas recibidas. La operación incluyó LECAP, bonos CER, títulos TAMAR y, como novedad, cuatro instrumentos dólar linked por el equivalente a US$ 665 millones, en un contexto de búsqueda de financiamiento y mayor demanda de cobertura cambiaria.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Caputo recibió ofertas por 70% más de lo que necesitaba, pero priorizó una baja de tasas",
+       "url": "https://www.iprofesional.com/finanzas/464321-cauteloso-caputo-rolleo-la-deuda-y-priorizo-una-baja-de-tasas"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-tesoro-consiguio-84-billones-en-la-licitacion-hubo-fuerte-demanda-de-cobertura-cambiaria/",
+     "imagen": "https://www.cronista.com/resizer/v2/OQPY2KHKZZDXVAASW7YGWEZ4A4.jpg?auth=83327ee18bcf18033b90c2dc90e36b3a62f934982ebd9453801a53100e6a5cae&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:52",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El Tesoro consiguió $ 8,4 billones en la licitación: hubo fuerte demanda de cobertura cambiaria"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "la inflación de EE.UU. reforzó la cautela de la Fed y las acciones argentinas cayeron",
+     "resumen": "El dato de inflación minorista subyacente de Estados Unidos, que avanzó 0,3% mensual en agosto por encima del 0,2% esperado, consolidó la perspectiva de una Reserva Federal restrictiva. En el mercado local, el riesgo país bajó 1,2% a 485 puntos, pero el S&P Merval perdió 1,87% y los ADR argentinos operaron en rojo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-inflacion-de-eeuu-reforzo-la-cautela-de-la-fed-y-las-acciones-argentinas-cayeron-cedio-el-riesgo-pais/",
+     "imagen": "https://www.cronista.com/resizer/v2/G75J4KEGWFE5DO5BD5GQFQCAVQ.jpg?auth=f42dfffec041550d0fb9d1570a44643bb3d178b96f3a42f19ed7a43ac2f7ae13&smart=true&width=612&height=408",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:40",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "La inflación de EE.UU. reforzó la cautela de la Fed y las acciones argentinas cayeron"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "la Ciudad de Buenos Aires tiene 14 veces más empleados privados en blanco que Formosa",
+     "resumen": "Detrás de esa disparidad aparece la dificultad de varios territorios para ver nacer nuevas empresas privadas, lo que podría traducirse en menos inversión y más empleo público. Neuquén, impulsada por Vaca Muerta, tiene seis veces más asalariados privados registrados que Formosa. \"La brecha de stock es tan importante como la dinámica\", estimó un informe de la Fundación Pensar.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/la-ciudad-de-buenos-aires-tiene-14-veces-mas-empleados-privados-en-blanco-que-formosa-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RXL6FLEOPVENRDJIH2S7UD3PGQ.jpg?auth=0a8f8812a6f435525a2c2d7534e38ec64c65567bf1e8b96a3c8bfbe79c25c8ea&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:46",
+     "autor": "Francisco Jueguen",
+     "titulo_original": "La Ciudad de Buenos Aires tiene 14 veces más empleados privados en blanco que Formosa"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "el problema no es el programa económico, es el programa social",
+     "resumen": "La inflación de agosto fue de 1,7%, la más baja en catorce meses, y el programa económico del Gobierno muestra resultados. Pero el 44% de los que trabajan lo hace en negro, el salario privado sigue por debajo de 2023 y una familia necesita $ 1,6 millones para no caer en la pobreza. La diferencia entre un programa económico que funciona y uno social que falta se termina pagando en el mercado de trabajo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/opiniones/el-problema-no-es-el-programa-economico-es-el-programa-social-n6321434",
+     "imagen": "https://media.ambito.com/p/0f66dfe076e4906030e578dc994aca24/adjuntos/239/imagenes/043/000/0043000262/1200x675/smart/empleo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "El problema no es el programa económico: es el programa social"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "crédito caro y ahorro barato: por qué la Argentina tiene una de las mayores brechas entre tasas de la región",
+     "resumen": "La diferencia entre lo que pagan los bancos por los depósitos y lo que cobran por prestar se mantiene cerca de máximos históricos. El spread de tasas argentino solo está detrás de Brasil entre los principales mercados de la región. Para una empresa: el costo del crédito bancario sigue siendo una limitante central para financiar capital de trabajo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/credito-caro-y-ahorro-barato-que-argentina-tiene-una-las-mayores-brechas-tasas-la-region-n6321421",
+     "imagen": "https://media.ambito.com/p/4211f9c25be2c4427273696edc205268/adjuntos/239/imagenes/043/638/0043638096/1200x675/smart/diferencial-tasas.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:27",
+     "autor": "",
+     "titulo_original": "Crédito caro y ahorro barato: por qué Argentina tiene una de las mayores brechas entre tasas de la región"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "LN-04",
+     "titulo": "La Suipachense volvió a producir y ya procesa 100.000 litros de leche por día",
+     "resumen": "Tras el cierre por la quiebra de su controlante venezolana, la planta láctea bonaerense retomó sus operaciones el 1 de junio. Hoy procesa alrededor de 100.000 litros de leche diarios, tiene 63 trabajadores y espera que el Senasa le restituya una habilitación para exportar leche ultrapasteurizada a Uruguay.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/reactivacion-exitosa-la-fabrica-que-era-un-caos-ya-procesa-100000-litros-de-leche-por-dia-y-se-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FPE7LXJVLRDBDBCHP3EDOEQVHY.jpeg?auth=69de01339156180a38e9cb66215779b373fb2481c27807c9a0ac576e2c7254c6&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:57",
+     "autor": "Mariana Reinke",
+     "titulo_original": "Reactivación exitosa: la fábrica que “era un caos” ya procesa 100.000 litros de leche por día y se prepara para exportar"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "la mayor fundición de la Argentina entró en concurso y debe más de $ 34.000 millones",
+     "resumen": "Fundición San Cayetano, una histórica empresa metalúrgica con 260 empleados que exporta alrededor del 80% de su producción, presentó un concurso de acreedores por una deuda superior a los $ 34.000 millones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464324-historica-metalurgica-entro-en-concurso-y-debe-mas-de-34000-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625582.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:32",
+     "autor": "",
+     "titulo_original": "La mayor fundición de Argentina entró en concurso y debe más de $34.000 millones"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "Vaca Muerta busca dar el salto exportador y mira lo que hizo Texas",
+     "resumen": "Ariel Masut, miembro del Comité Ejecutivo de la Cámara de Comercio Argentina-Texas, destacó el interés de empresas estadounidenses en Vaca Muerta, aunque advirtió sobre los límites de infraestructura, equipos y mano de obra especializada. \"Haría falta algún mecanismo de coordinación entre el sector privado y el Estado\", señaló.",
+     "relacionadas": [
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Vaca Muerta y GLP: Argentina busca ser top 5 exportador global",
+       "url": "https://www.iprofesional.com/energia/464301-vaca-muerta-y-glp-argentina-busca-ser-top-5-exportador-global"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/vaca-muerta-mira-a-texas-que-puede-copiar-para-bajar-costos-y-subirse-a-la-plataforma-global-exportadora/",
+     "imagen": "https://www.cronista.com/resizer/v2/XQUVUTA2VVBLBOZMWUVGDYLXCU.jpg?auth=2590ea83029338cf7c8ce91838d84cc11251bb0b189b4825ac6ddb0137e57f76&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:19",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "Vaca Muerta busca dar el salto exportador: qué puede aprender de Texas y cuáles son sus principales trabas"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "alerta en los astilleros: la industria naval se queda sin barcos para construir y anticipa un 2027 crítico",
+     "resumen": "Tras años de expansión que llegaron a acumular más de 30 clientes en lista de espera en un solo astillero, la caída de rentabilidad de la pesca interrumpió el proceso: hubo 37 botaduras de barcos pesqueros en los últimos siete años, pero hoy no aparecen nuevas órdenes detrás de las últimas embarcaciones en construcción.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/12/alerta-en-los-astilleros-la-industria-naval-se-queda-sin-barcos-para-construir-y-anticipa-un-2027-critico/",
+     "imagen": "https://www.infobae.com/resizer/v2/CSXT47N4RJCLPMDHMZFNYGJSCA.png?auth=5adb4455b0057faaf9a0c2e41ab4b3057e702c64b4b840e1e2a8e97536cd99a6&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:05",
+     "autor": "Natalia Donato",
+     "titulo_original": "Alerta en los astilleros: la industria naval se queda sin barcos para construir y anticipa un 2027 crítico"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "una startup financia motos 0 km para repartidores y ya factura US$ 5 millones",
+     "resumen": "Gurpi, creada por los hermanos Juan Manuel y Tomás Manfroni, financia hasta el 85% de motos 0 km para conductores de aplicaciones de delivery, con cuotas semanales adaptadas a sus ingresos. En apenas tres años superó los US$ 5 millones de facturación anual y entregó más de 3.000 vehículos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/una-startup-financia-a-los-repartidores-para-que-compren-su-moto-0-km-para-delivery-ya-factura-us-5-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/462KRBBOOZAVPDCGLZEN75JAZY.jpg?auth=c507f26035096bcf1a15446f8a88775edfef383c5e4a8f07d572127217867605&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:26",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Una startup financia a los repartidores para que compren su moto 0 km para delivery: ya factura u$s 5 millones"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "más de 10.000 personas participaron de Mercado Libre Experience 2026",
+     "resumen": "La segunda edición del evento de comercio electrónico de Mercado Libre reunió en La Rural a emprendedores, pymes, vendedores y referentes de distintas industrias, con más de 40 charlas y cinco escenarios temáticos. La propuesta abordó ventas online, logística, inteligencia artificial, medios de pago y crecimiento de negocios.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/mas-de-10000-personas-participaron-de-mercado-libre-experience-2026-el-encuentro-que-reunio-a-referentes-del-e-commerce-y-la-innovacion/",
+     "imagen": "https://www.cronista.com/resizer/v2/Q24KVQ4C5FDCVJ7AR34QWUCDRE.jpg?auth=9d8eb82709d2afa438ad9804fb4cd9a3e94faf8da59a8216574fbfb3a9ed6950&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:50",
+     "autor": "",
+     "titulo_original": "Más de 10.000 personas participaron de Mercado Libre Experience 2026, el encuentro que reunió a referentes del e-commerce y la innovación"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-19",
+     "titulo": "facturas electrónicas: cómo evitar el bloqueo automático de ARCA a partir de diciembre",
+     "resumen": "Desde el 1 de diciembre, la Agencia de Recaudación y Control Aduanero dejará de aceptar solicitudes de autorización de comprobantes electrónicos que no informen la condición frente al IVA del comprador. El organismo ya empezó a notificar a los emisores alcanzados y les dio plazo hasta fin de noviembre para ajustar sus sistemas. Para una empresa: revisar ahora la carga de ese dato evita el bloqueo de la facturación en diciembre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/factura-electronica-arca-rechazara-desde-diciembre-comprobantes-sin-la-condicion-de-iva-del-receptor/",
+     "imagen": "https://www.cronista.com/resizer/v2/TMZU6QG3OZDVZA5VKKHQPJQ7MY.jpg?auth=93b301e22f923c3c47811e35eecf323e5b78611fa90b80ec9c2dcfb4119642b2&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:45",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Facturas electrónicas: cómo evitar el bloqueo automático de ARCA y qué hay que hacer antes de diciembre"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "la Corte Suprema volvió a explicar qué es una tasa municipal",
+     "resumen": "En un mismo acuerdo, la Corte Suprema dictó dos sentencias relevantes sobre tasas municipales, en las causas \"Banco de Galicia\" y \"Mutual Ferroviaria\", que vuelven a marcar límites a los municipios para cobrar tributos sin una contraprestación de servicio concreta.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464313-una-vez-mas-la-corte-vuelve-a-explicar-que-es-una-tasa-municipal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/01/589910.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:36",
+     "autor": "",
+     "titulo_original": "Una vez más, la Corte vuelve a explicar qué es una tasa municipal"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "los costos fiscales ocultos y el fuerte impacto de los impuestos no coparticipables",
+     "resumen": "Para el agro, las retenciones representan los mayores montos, por encima de la mitad de la renta de los productores. Menos visibles son los saldos técnicos del IVA por libre disponibilidad y la gestión administrativa que insumen, una carga que se replica en distintos sectores productivos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/costos-fiscales-ocultos-fuerte-impacto-impuestos-coparticipables_0_bU8xLA4hsM.html",
+     "imagen": "https://www.clarin.com/img/2022/11/17/xtnlmXASG_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los costos fiscales ocultos y el fuerte impacto de los impuestos no coparticipables"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "el mercado laboral formal sigue bajo presión: cae el empleo privado y crece el refugio del monotributo",
+     "resumen": "Según el último informe del SIPA, la cantidad de personas con trabajo registrado alcanzó los 12,75 millones en junio de 2026, una caída del 0,1% respecto de mayo y del 0,9% interanual. El segmento de asalariados privados, el principal termómetro de la economía formal, se redujo 0,1% en el mes y se ubicó en 6,09 millones de personas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-mercado-laboral-formal-sigue-bajo-presion-cae-el-empleo-privado-y-crece-el-refugio-del-monotributo/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZIOACS3UCND5NHJE72ZKLUJQXE.jpg?auth=693f23191c5123bf2f2a1cb616318b66da665c4a40d8889990d5238b63dd30b2&smart=true&width=798&height=449",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:45",
+     "autor": "",
+     "titulo_original": "El mercado laboral formal sigue bajo presión: cae el empleo privado y crece el refugio del monotributo"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "paritaria bancaria: el gremio cerró un nuevo aumento y el salario básico rozará los $ 2,6 millones",
+     "resumen": "La Asociación Bancaria selló un nuevo acuerdo salarial con las cámaras empresarias del sector para agosto de 2026, con un incremento del 1,7% aplicado sobre todas las remuneraciones brutas, remunerativas y no remunerativas. Con esta actualización, el sueldo inicial de la actividad se ubicará holgadamente por encima de los dos millones y medio de pesos.",
+     "relacionadas": [
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Nuevo aumento de sueldo para empleados bancarios: cuánto cobrarán entre básico y bono",
+       "url": "https://www.iprofesional.com/economia/464303-aumento-sueldo-empleados-bancarios-cuanto-cobraran-entre-basico-y-bono-septiembre-2026"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/paritaria-bancaria-el-gremio-cerro-un-nuevo-aumento-y-el-salario-basico-rozara-los-26-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/PHAZV6BFKBGRFJSHAVRO4YBFFI.jpeg?auth=7dea91643dca905b4a4eabfadcc661af761b1b64d1c97ab83b7d0bbee461376d&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:41",
+     "autor": "",
+     "titulo_original": "Paritaria bancaria: el gremio cerró un nuevo aumento y el salario básico rozará los $ 2,6 millones"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "la Justicia investiga a Chiqui Tapia por presunto enriquecimiento ilícito",
+     "resumen": "El juez a cargo de la causa evalúa pedidos del fiscal para levantar los secretos bancarios y fiscales del titular de la Asociación del Fútbol Argentino, en el marco de una investigación que rastrea sus movimientos económicos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464300-la-justicia-investiga-a-chiqui-tapia-por-presunto-enriquecimiento-ilicito",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613304.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:10",
+     "autor": "",
+     "titulo_original": "La Justicia investiga a Chiqui Tapia por presunto enriquecimiento ilícito"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "una impresora 3D argentina levanta paredes de una vivienda en menos de una semana",
+     "resumen": "La Universidad Nacional de La Plata y el Astillero Río Santiago desarrollan una impresora 3D de gran escala para la construcción de viviendas sociales, con equipos técnicos de ambas instituciones y empresas locales de materiales de construcción. La tecnología deposita una mezcla cementicia de secado rápido según diseños digitales, con el objetivo de levantar viviendas de hasta 60 metros cuadrados en plazos más cortos que los de la construcción convencional.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/12/levanta-paredes-en-menos-de-una-semana-la-innovadora-tecnologia-argentina-de-impresion-3d-que-revoluciona-la-construccion/",
+     "imagen": "https://www.infobae.com/resizer/v2/HQH4G67BUJHGLM2IMLPVNFEKIQ.jpg?auth=f75df08f5d45023a0da7cf705622c634c9555f9628754ae5efec360176cb343b&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:00",
+     "autor": "",
+     "titulo_original": "“Levanta paredes en menos de una semana”: la innovadora tecnología argentina de impresión 3D que revoluciona la construcción"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "crisis habitacional: casi el 40% de los jóvenes de entre 25 y 35 años no puede independizarse",
+     "resumen": "Dentro de los jóvenes que no lograron emanciparse, el 46% reside en hogares con algún tipo de déficit habitacional. Un informe estima que hacen falta 2,5 millones de viviendas nuevas para revertir la crisis.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/crisis-habitacional-casi-el-40-los-jovenes-25-y-35-anos-no-puede-independizarse-n6321401",
+     "imagen": "https://media.ambito.com/p/342cdddab208816c9e2451aecfd40b4b/adjuntos/239/imagenes/043/572/0043572550/1200x675/693x587:713x607/villa-del-parque-buenos-aires-alquileres-propiedades.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Crisis habitacional: casi el 40% de los jóvenes de entre 25 y 35 años no puede independizarse"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "créditos hipotecarios UVA: el Banco Ciudad lanzó una tasa del 6,5% para comprar la primera vivienda en CABA",
+     "resumen": "El Banco Ciudad lanzó una tasa preferencial de 6,5% para comprar propiedades en la Ciudad de Buenos Aires. La línea ofrece financiamiento de hasta $ 150 millones, un plazo máximo de 25 años y cubre hasta el 75% del valor del inmueble.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/creditos-hipotecarios-uva-como-acceder-la-nueva-tasa-del-65-comprar-la-primera-vivienda-caba-n6321489",
+     "imagen": "https://media.ambito.com/p/2867ffdcc68988a443f46868f8ec345e/adjuntos/239/imagenes/043/620/0043620586/1200x675/397x512:417x532/credito-hipotecario.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:55",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios UVA: cómo acceder a la nueva tasa del 6,5% para comprar la primera vivienda en CABA"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "qué pasa si no podés pagar una cuota del crédito UVA: opciones antes de que la situación se salga de control",
+     "resumen": "En los créditos hipotecarios UVA, tanto el capital como la cuota están atados a la evolución de la Unidad de Valor Adquisitivo, por lo que un imprevisto puede afectar el presupuesto de los meses siguientes y acumular intereses y cargos. Una cuota impaga no significa, sin embargo, que la vivienda vaya a ser ejecutada de inmediato.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/que-pasa-si-no-podes-pagar-una-cuota-del-credito-uva-opciones-antes-de-que-la-situacion-se-salga-de-control/",
+     "imagen": "https://www.cronista.com/resizer/v2/Q5YUBZZ4BJBPDNNHUXSZ3QQK2I.jpg?auth=d8fb3745a4b80c118277afa52413bf18f2e8d82a31d7cbecc79a36df233087d3&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:59",
+     "autor": "",
+     "titulo_original": "Qué pasa si no podés pagar una cuota del crédito UVA: opciones antes de que la situación se salga de control"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Milei y Caputo, frente a las demandas de segunda generación: creció 30% la vacancia de locales en las avenidas porteñas",
+     "resumen": "La baja de la inflación es el principal y más extendido éxito del Gobierno, pero la actividad comercial no acompaña al mismo ritmo: la vacancia de locales en las avenidas de la Ciudad de Buenos Aires creció 30%. Para una empresa de retail, el dato marca que la recuperación del consumo todavía es despareja entre sectores y ubicaciones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/opinion/milei-caputo-parados-frente-demandas-segunda-generacion_0_zgVfFcI3LJ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/LASthQM7Z_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "22:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Milei y Caputo, parados frente a las demandas de segunda generación"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "el plan de la Unión Europea para regular los alquileres temporales tipo Airbnb",
+     "resumen": "La Comisión Europea propuso nuevas reglas para ayudar a las autoridades locales a enfrentar los problemas de acceso a la vivienda en los destinos turísticos con mayor demanda de alquileres de corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/464302-el-plan-de-la-union-europea-para-regular-alquileres-temporales-tipo-airbnb",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/06/577217.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:36",
+     "autor": "",
+     "titulo_original": "El plan de la Unión Europea para regular alquileres temporales tipo Airbnb"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "LN-09",
+     "titulo": "la clave no es esforzarse más, sino diseñar contextos que faciliten las buenas decisiones",
+     "resumen": "Angela Duckworth, profesora en Wharton y autora de \"Grit\", sostiene tras dos décadas de estudiar el cambio de comportamiento que nadie decide arruinar su propio día a propósito: el problema no es la falta de voluntad, sino que algunas formas de intentar funcionan mejor que otras. Su conclusión apunta a diseñar la \"agencia situacional\": contextos que hagan más fácil tomar buenas decisiones.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/negocios/como-disenar-tu-agencia-situacional-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CSSDOUFKRBEKXNX53EBMDOZP7U.jpg?auth=8b24e9ed329a7b5a8ab2ff0586afd4ac3096323df0dfcabd34a3eb4f5fa4d9cc&smart=true&width=900&height=772",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:25",
+     "autor": "Martina Rua",
+     "titulo_original": "Cómo diseñar tu agencia situacional"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "del phishing al temor por los datos críticos: alertan sobre los riesgos de los ataques con inteligencia artificial",
+     "resumen": "En un encuentro sobre ciberseguridad en Cancún, expresidentes, especialistas en IA, ejecutivos y funcionarios analizaron cómo la inteligencia artificial redujo los costos y los tiempos para ejecutar fraudes y ataques digitales, aunque también amplió las capacidades de prevención y respuesta de organizaciones y gobiernos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/12/del-phishing-al-temor-por-los-datos-criticos-expresidentes-expertos-y-funcionarios-alertaron-sobre-los-riesgos-de-los-ataques-con-ia/",
+     "imagen": "https://www.infobae.com/resizer/v2/2YVVKYN7UNF2JIC7QVTBVAPDII.png?auth=2d6fe19df294380973d1d28f048302b5b221ada3b3274de918baebcb50cac200&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:05",
+     "autor": "Martín Fernández Nadale",
+     "titulo_original": "Del phishing al temor por los datos críticos: expresidentes, expertos y funcionarios alertaron sobre los riesgos de los ataques con IA"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "cómo digitalizar los cobros de un pequeño negocio sin pagar mantenimiento",
+     "resumen": "Según el Informe de Pagos Minoristas 2025 del Banco Central, las operaciones del Sistema Nacional de Pagos crecieron 13,3% interanual y las transferencias electrónicas concentraron el 65,6% del total. Para pequeños negocios, aceptar medios de pago digitales amplía el universo de compradores y ordena la gestión diaria de cobros.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/como-digitalizar-los-cobros-de-un-pequeno-negocio-sin-pagar-mantenimiento/",
+     "imagen": "https://www.cronista.com/resizer/v2/X7MAMK7TDVGS3KB6VG7A37UZMI.png?auth=64356513fa09797214a5a6a4a444b96f37db84cadc456c23fc2a4f248138d67d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:16",
+     "autor": "",
+     "titulo_original": "Cómo digitalizar los cobros de un pequeño negocio sin pagar mantenimiento"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "IA en energía y minería: el 68% espera un impacto transformador, pero menos del 20% logró escalar sus proyectos",
+     "resumen": "Un estudio internacional sobre más de 800 ejecutivos de energía, petróleo y gas, utilities, minería, químicos y agronegocios revela la brecha entre las expectativas sobre inteligencia artificial y los resultados concretos. El desafío, remarca el informe, ya no es tecnológico sino de escala.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/energia/ia-y-mineria-el-68-espera-un-impacto-transformador-pero-menos-del-20-logro-escalar-sus-proyectos-n6321436",
+     "imagen": "https://media.ambito.com/p/15eac1ae7513c375975eee9d9b724ddf/adjuntos/239/imagenes/043/043/0043043468/1200x675/smart/mineria-industria-tecnologia-inteligencia-artificial.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "IA en energía y minería: el 68% espera un impacto transformador, pero menos del 20% logró escalar sus proyectos"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-05",
+     "titulo": "Zelensky dijo que está dispuesto a reunirse con Putin en la cumbre del G20 en Miami",
+     "resumen": "El presidente ucraniano valoró los recientes contactos diplomáticos entre Washington, Kiev y Moscú como \"una buena señal\", aunque advirtió que cualquier encuentro con su par ruso debe traducirse en decisiones concretas. Estados Unidos ejerce este año la presidencia del G20 y negociadores estadounidenses visitaron recientemente ambas capitales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/12/volodimir-zelensky-dijo-que-esta-dispuesto-a-reunirse-con-vladimir-putin-en-la-cumbre-del-g20-en-miami-prevista-para-diciembre/",
+     "imagen": "https://www.infobae.com/resizer/v2/EUBIGD4Y3BAVPDJM46S54FQ2Z4.jpg?auth=1e7cbe6a81a72b43ce0c9fff104ec136fcccf259498b5027f98312e23d71150c&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:52",
+     "autor": "",
+     "titulo_original": "Volodimir Zelensky dijo que está dispuesto a reunirse con Vladimir Putin en la cumbre del G20 en Miami prevista para diciembre"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "las tres elecciones que pueden cambiar al mundo en los próximos 50 días",
+     "resumen": "Brasil vota el 4 de octubre, Israel el 27 y Estados Unidos el 3 de noviembre, en tres comicios que impactarán en sus regiones y en el orden político global. En Brasil, Lula busca un cuarto mandato a los 80 años frente a Flávio Bolsonaro, heredero de su padre condenado a 27 años de prisión.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/las-tres-elecciones-que-pueden-cambiar-al-mundo-en-los-proximos-50-dias/",
+     "imagen": "https://www.cronista.com/resizer/v2/G5Y4VCDU2FE2BDKCPEHWPCNSXE.jpg?auth=db6b7f87a93d040ea453dbcf0a83e3d0f169528cfb838754ad6a44e98b2d1818&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:17",
+     "autor": "Dario Mizrahi",
+     "titulo_original": "Las tres elecciones que pueden cambiar al mundo en los próximos 50 días"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "el presidente de Irán reconoció que la situación económica es \"crítica y peligrosa\" tras las sanciones de EE.UU.",
+     "resumen": "Masoud Pezeshkian afirmó, en el Foro Económico de los BRICS en Nueva Delhi, que las sanciones de Estados Unidos y la guerra en Medio Oriente llevaron a Irán a una fase crítica en los últimos meses. El régimen iraní se reunirá además la semana próxima en Omán con países del golfo Pérsico para abordar la navegación en el estrecho de Ormuz, escenario de ataques iraníes contra petroleros.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El régimen de Irán y países del Golfo Pérsico se reunirán para discutir sobre la navegación en el estrecho de Ormuz",
+       "url": "https://www.infobae.com/america/mundo/2026/09/12/el-regimen-de-iran-y-paises-del-golfo-persico-se-reuniran-para-discutir-sobre-la-navegacion-en-el-estrecho-de-ormuz/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/12/el-presidente-de-iran-reconocio-que-la-situacion-economica-es-critica-y-peligrosa-tras-las-sanciones-de-eeuu/",
+     "imagen": "https://www.infobae.com/resizer/v2/BW5GNBOIEZDZ7NXPZOZ7EMT22Y.JPG?auth=28abb2cf6800fc3badaeafdb7b0dca20918c94a05cb88d9a404751d7332c6ceb&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:22",
+     "autor": "",
+     "titulo_original": "El presidente de Irán reconoció que la situación económica es “crítica y peligrosa” tras las sanciones de EEUU"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Trump llegó a Irlanda para reunirse con sus líderes y visitar su complejo de golf en Doonbeg",
+     "resumen": "El presidente de Estados Unidos inició una visita de dos días que combina reuniones oficiales con una estadía en su resort de golf, en medio de un despliegue de seguridad de al menos 4.000 policías cuyo costo se estima en US$ 23 millones. Trump se reunirá por separado con el primer ministro irlandés, Micheál Martin, y la presidenta Catherine Connolly.",
+     "relacionadas": [
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La presidenta de Irlanda recibe a Trump en Dublín en una fría visita con honores militares",
+       "url": "https://www.infobae.com/america/agencias/2026/09/12/la-presidenta-de-irlanda-recibe-a-trump-en-dublin-en-una-fria-visita-con-honores-militares/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/12/trump-llegara-irlanda-para-reunirse-con-sus-lideres-y-visitar-su-complejo-turistico-en-doonbeg/",
+     "imagen": "https://www.infobae.com/resizer/v2/S7GVGDZSPVEVPH4UMRPREFH2PM.JPG?auth=778207574a1a20fd28d41787952390f3b1ec10be51e6d244cc4c9bfaa41a4407&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:58",
+     "autor": "",
+     "titulo_original": "Trump llegó a Irlanda para reunirse con sus líderes y visitar su complejo turístico en Doonbeg"
+    },
+    {
+     "id": "IB-10",
+     "titulo": "la policía de Guatemala levantó los bloqueos en carreteras tras las protestas por el precio del combustible",
+     "resumen": "La policía guatemalteca anunció que logró restablecer la circulación en todo el país tras los bloqueos que manifestantes habían impuesto en las vías de entrada y salida de la capital, en el marco de protestas por el aumento del precio del combustible que derivaron en disturbios y choques con las autoridades.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/09/12/la-policia-de-guatemala-levanta-los-bloqueos-en-carreteras-en-las-protestas-por-el-precio-del-combustible/",
+     "imagen": "https://www.infobae.com/resizer/v2/BMG73HURKVH6VINJ56Y7F3FXXA.jpg?auth=9ffed268e19cbaec0a16ef93f53b1c5ba0a8f7cfa23f94ef12dbec212f6f962e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:45",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "La Policía de Guatemala levanta los bloqueos en carreteras en las protestas por el precio del combustible"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "el derecho de paso en el Canal de Panamá: ¿la ley del más fuerte?",
+     "resumen": "Una subasta récord de US$ 5 millones para atravesar el Canal de Panamá reavivó el debate sobre las condiciones de igualdad y el principio de neutralidad que rige la vía interoceánica, clave para el comercio internacional.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/opiniones/el-derecho-paso-el-canal-panama-la-ley-del-mas-fuerte-n6321399",
+     "imagen": "https://media.ambito.com/p/ee5a794a371595fbc2cfa08edee8ab5b/adjuntos/239/imagenes/042/601/0042601708/1200x675/912x492:932x512/canal-panama.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "El derecho de paso en el Canal de Panamá: ¿la ley del más fuerte?"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el aniversario de los atentados del 11 de septiembre y el uso malicioso de la inteligencia artificial.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "el siglo de la yihad",
+     "resumen": "Veinticinco años después de los atentados de Al Qaeda contra las Torres Gemelas, Estados Unidos, sus aliados occidentales y numerosos países musulmanes lograron victorias tácticas contra el terrorismo yihadista: Bin Laden fue eliminado en 2011 y el pseudocalifato territorial del Estado Islámico fue destruido en 2019. Pese a esas victorias, la revista sostiene que el yihadismo nunca tuvo tanta extensión como hoy.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/12/el-siglo-de-la-yihad/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/SIPA_sipahub60195310_000001-125x83.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:57",
+     "autor": "Louis Puel",
+     "titulo_original": "El siglo de la yihad"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Claude, la IA de Anthropic, fue utilizada en intentos de desarrollar misiles y armas biológicas",
+     "resumen": "Un informe de Anthropic publicado el jueves 10 de septiembre dio a conocer 39 casos de uso malicioso de su inteligencia artificial Claude, registrados entre diciembre de 2025 y agosto de 2026, que van del fraude y la suplantación de identidad hasta intentos de espionaje y desarrollo de armas militares o biológicas. La empresa asegura haber frustrado todos los intentos; entre los casos, un agente estatal ruso utilizó el chatbot para generar contenido de propaganda.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/12/claude-se-utiliza-para-tratar-de-desarrollar-misiles-y-armas-biologicas/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "21:42",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Claude, la IA de Anthropic, se utiliza para intentar desarrollar misiles y armas biológicas"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-25",
+     "titulo": "Boca venció 3-1 a Central Córdoba y extendió su invicto a 13 partidos antes del cruce decisivo con San Pablo",
+     "resumen": "Boca Juniors superó 3-1 a Central Córdoba en la Bombonera por la novena fecha del Torneo Clausura y amplió su invicto a 13 encuentros, acercándose a la cima de la Zona A. El equipo afrontó el partido con nueve cambios pensando en la revancha de cuartos de final de la Copa Sudamericana ante San Pablo, el martes desde las 21:30 en el Morumbí.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "11 frases de Arruabarrena tras la victoria de Boca: el gol de Valencia, la revancha ante San Pablo y el mensaje para el plantel",
+       "url": "https://www.infobae.com/deportes/2026/09/12/11-frases-de-arruabarrena-tras-la-victoria-de-boca-el-gol-de-valencia-la-revancha-ante-san-pablo-y-el-mensaje-para-el-plantel/"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Así están las posiciones del Torneo Clausura y la Tabla Anual para la clasificación a la Copa Libertadores y Sudamericana",
+       "url": "https://www.infobae.com/deportes/2026/09/11/asi-estan-las-posiciones-del-torneo-clausura-y-la-tabla-anual-para-la-clasificacion-a-la-copa-libertadores-y-sudamericana/"
+      },
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Boca golpeó de entrada y goleó a Central Córdoba en la Bombonera",
+       "url": "https://www.ambito.com/deportes/boca-recibe-central-cordoba-esta-noche-horario-tv-y-formaciones-n6321135"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/11/boca-juniors-buscara-arrimarse-a-la-cima-de-la-zona-a-ante-central-cordoba-hora-tv-y-formaciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/FIES2YJSFVA33EOFZSEORABHGM.JPG?auth=b3d8789dee27e10f53617c2303e87d913b03e339a180074d3d1f66f8bafb0bec&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "23:49",
+     "autor": "",
+     "titulo_original": "Boca Juniors venció 3-1 a Central Córdoba y prolongó su invicto a 13 partidos antes del decisivo cruce con San Pablo en la Sudamericana"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "se fueron los últimos dos jugadores apartados de River: una inversión de 45 millones que salió mal",
+     "resumen": "Fabricio Bustos y Matías Viña rescindieron sus contratos y pusieron fin a un proceso de 87 días que había apartado a 13 futbolistas del plantel profesional de River, en un episodio que generó fuerte autocrítica interna por el método utilizado.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/se-fueron-los-ultimos-dos-jugadores-apartados-de-river-una-inversion-de-45-millones-que-salio-mal-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NJB7DXBDXJEEDBACSF4RRCQMGU.jpg?auth=c32c5f3fbec15c1e28a6a024b121d867bcd2298dd356a71bfe33519f61cbe8cd&smart=true&width=900&height=679",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:13",
+     "autor": "Juan Patricio Balbi Vignolo",
+     "titulo_original": "Se fueron los últimos dos jugadores apartados de River: una inversión de 45 millones que... salió mal"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Zverev le ganó a Khachanov y jugará su tercera final consecutiva de Grand Slam en el US Open",
+     "resumen": "Alexander Zverev, número 2 del ranking, se impuso al ruso Karen Khachanov en tres sets y definirá el domingo el último Grand Slam de la temporada ante el estadounidense Ben Shelton, que en la otra semifinal eliminó a Frances Tiafoe.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/us-open-alexander-zverev-le-gano-a-karen-khachanov-y-jugara-su-tercera-final-de-grand-slam-nid11092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MPFZQRNV7BHRNOLZRGSVHN4D2Q.jpg?auth=d9536b9dab362159fe59361f0a10c5485e8226229f4d2448f49bafd5232944a3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:01",
+     "autor": "Carlos Delfino",
+     "titulo_original": "US Open: Alexander Zverev le ganó a Karen Khachanov y jugará su tercera final de Grand Slam consecutiva"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "Madring: la historia detrás del nuevo circuito en el que corre Colapinto este fin de semana",
+     "resumen": "El circuito urbano de Madring, construido en apenas 16 meses en el centro de Madrid, reabre la historia del Gran Premio de España de Fórmula 1, ausente desde 1981. Franco Colapinto correrá este fin de semana en el trazado, que combina curvas peraltadas y túneles.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/autos/madring-la-historia-detras-del-circuito-en-el-que-corre-colapinto-este-fin-de-semana-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/O2WJXVJJARGUFFPOSACIGVQY2E.jpg?auth=e81dccc6d2264d4c4319b677d28e46b4fc34d1eed72421afe723ce4b81a0e90a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:43",
+     "autor": "Flavia Tomaello",
+     "titulo_original": "Madring: la historia detrás del circuito en el que corre Colapinto este fin de semana"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Franco Mastantuono sorprendió en Italia con un hat-trick en la victoria de la Fiorentina",
+     "resumen": "El delantero argentino volvió al gol y le dio a la Fiorentina su primera victoria de la temporada con su nuevo entrenador, tras marcar los tres tantos del equipo violeta.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/franco-mastantuono-sorprendio-italia-hat-trick-la-victoria-la-fiorentina-n6321439",
+     "imagen": "https://media.ambito.com/p/46f9b70fa39c689786b901c8aec40e05/adjuntos/239/imagenes/043/638/0043638013/1200x675/1045x131:1065x151/mastantuono-fiorentina.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:38",
+     "autor": "",
+     "titulo_original": "Franco Mastantuono sorprendió en Italia: hat-trick en la victoria de la Fiorentina"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "Juegos Suramericanos Santa Fe 2026: a qué hora es la ceremonia de apertura en Rosario y quiénes participan",
+     "resumen": "La ceremonia inaugural de los Juegos Suramericanos se realiza este sábado al pie del Monumento a la Bandera en Rosario, con entrada libre y gratuita, más de cien artistas y las delegaciones de 15 países. Soledad Pastorutti, Abel Pintos y Luck Ra encabezan la grilla musical, mientras Luciana Aymar asoma como la elegida para encender el pebetero.",
+     "relacionadas": [
+      {
+       "id": "CL-10",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "De la campeona del mundo que hizo llorar a su mamá al olímpico que volvió después de dejar todo: los abanderados argentinos en los Juegos Suramericanos de Santa Fe 2026",
+       "url": "https://www.clarin.com/deportes/campeona-mundo-hizo-llorar-mama-olimpico-volvio-despues-dejar-abanderados-argentinos-juegos-suramericanos-santa-fe-2026_0_gQF04RhBR3.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/juegos-suramericanos-santa-fe-2026-hora-ceremonia-apertura-rosario-participaran_0_I9uUvGXCKT.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/qxccLjuCY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juegos Suramericanos Santa Fe 2026: a qué hora es la ceremonia de apertura en Rosario y quiénes participarán"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "la pelea entre la ACTC y el ACA vuelve a quedar al descubierto en el automovilismo argentino",
+     "resumen": "El dirigente Hugo Mazzacane aseguró que su entidad, la ACTC, maneja el 92% del automovilismo nacional y cuestionó a la FIA por no haberla invitado a su Congreso Americano en Buenos Aires. Pese al conflicto, sostuvo que todavía existe voluntad para alcanzar un acuerdo con el ACA.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/pelea-actc-aca-vuelve-quedar-descubierto-hugo-mazzacane-hablo-sacudio-automovilismo-argentino_0_aGjvIbYf7N.html",
+     "imagen": null,
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La pelea entre la ACTC y el ACA vuelve a quedar al descubierto: Hugo Mazzacane habló y sacudió al automovilismo argentino"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-13",
+     "titulo": "Costa Rica: un viaje al origen del chocolate, entre naturaleza y tradiciones ancestrales",
+     "resumen": "En Costa Rica, el cacao crece en pequeñas fincas familiares y en comunidades indígenas que mantienen vivos conocimientos ancestrales sobre su cultivo. Quienes visitan el destino pueden acercarse a ese universo a través de experiencias de turismo rural y comunitario, desde la cosecha y fermentación hasta la elaboración del chocolate.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/trendy/costa-rica-un-viaje-al-origen-del-chocolate-entre-naturaleza-y-tradiciones-ancestrales/",
+     "imagen": "https://www.cronista.com/resizer/v2/WBQF3FTAQZGHBAG2DBGVD4GEPA.jpg?auth=d6ec540d0e8e551cf848bc318a14ff9744c39814252d9b206a2ae9192d064fb6&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:17",
+     "autor": "",
+     "titulo_original": "Costa Rica: un viaje al origen del chocolate, entre naturaleza y tradiciones ancestrales"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "viaje de abuelos con nietos a los parques temáticos de Orlando: cómo organizar la aventura y cuánto cuesta",
+     "resumen": "Expertos en viajes dan consejos para organizar una visita a los parques temáticos de Orlando con nietos, desde la elección de vuelos y alojamiento hasta las comidas, los tickets y las filas rápidas para las atracciones más buscadas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/viaje-abuelos-nietos-parques-tematicos-orlando-organizar-aventura-cuesta_0_J4e1s9AarK.html",
+     "imagen": "https://www.clarin.com/img/2025/09/01/07n7KlkBp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:04",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Viaje de abuelos con nietos a los parques temáticos de Orlando: cómo organizar la aventura y cuánto cuesta"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-03",
+     "titulo": "ignorancia y crimen a las puertas de la escuela",
+     "resumen": "Un asalto armado a las puertas de un colegio de El Palomar se dio en paralelo a los resultados de las pruebas PISA, que muestran los magros resultados educativos del país. La nota vincula la escolarización atravesada por las pantallas con el deterioro de los aprendizajes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/opinion/ignorancia-crimen-puertas-escuela_0_H9Uj2NL4HD.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/GkAfwxAya_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:04",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ignorancia y crimen a las puertas de la escuela"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "asesinaron a un empresario y piloto de carreras en Puerto Iguazú: sospechan de su suegro de 82 años",
+     "resumen": "Alfredo Matías Wiebel Giampaoli, de 48 años, empresario gastronómico y reconocido piloto de Turismo Carretera en Misiones, fue encontrado muerto en un predio en construcción de Puerto Iguazú. El principal sospechoso es su suegro, de 82 años, que permanece hospitalizado.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/12/asesinaron-a-un-empresario-misionero-en-puerto-iguazu-y-sospecharian-de-su-suegro-de-82-anos/",
+     "imagen": "https://www.infobae.com/resizer/v2/MXOOJL6AIFFJTEY6Q6CGQ535OQ.jpg?auth=cd792b88e9aebbe71794a65e0150ceedb57da22457ec13f52466546e29e6e1ef&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:50",
+     "autor": "",
+     "titulo_original": "Asesinaron a un empresario y piloto de carreras misionero en Puerto Iguazú: sospechan de su suegro de 82 años"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del sábado 12 de septiembre. El panorama de la jornada combina una nueva señal de distancia entre los gobernadores y Javier Milei antes del debate por el Presupuesto 2027 y la reforma electoral, la confirmación de que la inflación de agosto fue de uno coma siete por ciento, la más baja en catorce meses, y una suba del petróleo que vuelve a presionar sobre los precios locales. En los mercados, el dólar oficial cerró en mil quinientos treinta pesos, el dólar blue en mil quinientos cuarenta y cinco pesos y el mayorista en mil quinientos ocho pesos. El riesgo país se ubicó en cuatrocientos ochenta y cinco puntos y el oro cotiza en cuatro mil cuatrocientos nueve dólares la onza. En política, los gobernadores le tomaron distancia a Javier Milei en la previa de los debates legislativos y anticipan que La Libertad Avanza competirá el año próximo en sus propios distritos, mientras el Gobierno acelera en el Senado la reforma electoral que busca afianzar la suspensión de las PASO. En Diputados, el oficialismo buscará imponer proyectos propios sobre endeudamiento y discapacidad seduciendo a las bancadas del medio. La senadora Patricia Bullrich se mostró preocupada por la velocidad de la recuperación económica y pidió que la baja de impuestos llegue a todos los sectores. Un informe oficial detectó fallas graves en los controles de la agencia de medicamentos tras las noventa muertes por fentanilo contaminado, con laboratorios sin controlar desde hacía años y dos funcionarias procesadas. En economía y mercados, el crudo llegó a ciento cinco dólares en el mundo y se vende a ochenta y cinco dólares en el mercado local, lo que podría derivar en un aumento de hasta veinte por ciento en la nafta y el gasoil pese a la baja de la inflación. El Ministerio de Economía le transfirió al Banco Central letras atadas al dólar por hasta dos mil millones de dólares, una señal de que podrían acelerarse las presiones cambiarias. El Tesoro recibió ofertas por catorce coma dos billones de pesos y adjudicó ocho coma cuatro billones, con fuerte demanda de instrumentos dólar linked. La inflación núcleo de Estados Unidos, más alta que la esperada, reforzó la cautela de la Reserva Federal y las acciones argentinas cayeron. Y un análisis remarca que, si el programa económico funciona, el que falta es el programa social: cuatro de cada diez trabajadores están en negro y una familia necesita un millón seiscientos mil pesos para no caer en la pobreza. En negocios y empresas, la fábrica láctea La Suipachense, que había cerrado tras la quiebra de su controlante venezolana, volvió a producir y hoy procesa cien mil litros de leche por día, mientras espera una habilitación para exportar a Uruguay. La fundición metalúrgica San Cayetano, que exporta el ochenta por ciento de su producción, entró en concurso con una deuda de treinta y cuatro mil millones de pesos. La industria naval, en cambio, se queda sin nuevos pedidos de barcos pesqueros y anticipa un dos mil veintisiete crítico. Y una financiera llamada Gurpi ya factura cinco millones de dólares al año financiando motos cero kilómetro para repartidores de aplicaciones. En impuestos, laboral y normativa, la Agencia de Recaudación y Control Aduanero avisó que desde diciembre dejará de aceptar facturas electrónicas que no informen la condición frente al impuesto al valor agregado del comprador. La Corte Suprema dictó dos sentencias sobre tasas municipales que vuelven a marcarles límites a los municipios. Para el campo, las retenciones siguen representando más de la mitad de la renta de los productores. El empleo registrado llegó a doce millones setecientas cincuenta mil personas en junio, con una caída interanual, mientras crece el refugio en el monotributo. La Asociación Bancaria cerró un aumento del uno coma siete por ciento y el sueldo básico rozará los dos millones seiscientos mil pesos. Y la Justicia investiga al titular de la Asociación del Fútbol Argentino, Claudio Tapia, por presunto enriquecimiento ilícito. En consumo, construcción y retail, la Universidad Nacional de La Plata y el Astillero Río Santiago desarrollan una impresora tridimensional capaz de levantar las paredes de una vivienda en menos de una semana, pensada para acelerar la construcción de viviendas sociales. Un estudio advierte que casi el cuarenta por ciento de los jóvenes de entre veinticinco y treinta y cinco años no logra independizarse, y calcula que hacen falta dos millones y medio de viviendas nuevas. El Banco Ciudad lanzó una tasa del seis coma cinco por ciento para créditos hipotecarios UVA en la Ciudad, con financiamiento de hasta ciento cincuenta millones de pesos a veinticinco años, aunque una cuota impaga puede complicar rápidamente el resto del crédito. En la Ciudad, además, la vacancia de locales comerciales en las avenidas creció treinta por ciento. Y la Unión Europea avanza en una regulación para los alquileres temporarios tipo Airbnb. En management, la psicóloga Angela Duckworth sostiene que la clave para tomar mejores decisiones no es esforzarse más, sino diseñar contextos que faciliten las buenas elecciones. En un encuentro sobre ciberseguridad en Cancún, expresidentes y especialistas advirtieron sobre el uso de inteligencia artificial para abaratar fraudes, aunque remarcaron que la misma tecnología amplía las capacidades de prevención. Y un estudio internacional sobre ejecutivos de energía y minería encontró que, aunque la mayoría espera un impacto transformador de la inteligencia artificial, menos de uno de cada cinco logró escalar sus proyectos. En el mundo, el presidente ucraniano Volodimir Zelensky se mostró dispuesto a reunirse con Vladimir Putin en la cumbre del Grupo de los Veinte que se realizará en diciembre en Miami. En los próximos cincuenta días, tres elecciones pueden cambiar el rumbo político global: Brasil el 4 de octubre, Israel el 27 y Estados Unidos el 3 de noviembre. El presidente de Irán reconoció que la situación económica del país es crítica tras el endurecimiento de las sanciones de Estados Unidos, mientras Irán y los países del golfo Pérsico se reunirán en Omán para discutir la navegación en el estrecho de Ormuz. Donald Trump llegó a Irlanda para una visita de dos días con una estadía en su complejo de golf de Doonbeg, con un operativo de seguridad estimado en veintitrés millones de dólares. En Guatemala, la policía logró levantar los bloqueos de rutas que habían impuesto manifestantes por la suba del combustible. Y una subasta récord de cinco millones de dólares para atravesar el Canal de Panamá reavivó el debate sobre la igualdad de condiciones en la vía interoceánica. Le Grand Continent analiza que, veinticinco años después de los atentados del once de septiembre, el yihadismo nunca tuvo tanta extensión territorial como hoy, pese a las victorias tácticas de Estados Unidos y sus aliados contra Al Qaeda y el Estado Islámico. La revista también difundió un informe de Anthropic sobre treinta y nueve casos en los que se intentó usar su inteligencia artificial Claude con fines maliciosos, entre ellos intentos de desarrollar misiles y armas biológicas, que la compañía asegura haber frustrado. En deportes, Boca Juniors venció tres a uno a Central Córdoba en la Bombonera y extendió su invicto a trece partidos, en la previa de la revancha ante San Pablo por la Copa Sudamericana. River terminó de resolver la salida de los últimos dos futbolistas apartados del plantel, Fabricio Bustos y Matías Viña. Alexander Zverev le ganó a Karen Khachanov y jugará su tercera final consecutiva de Grand Slam en el Abierto de Estados Unidos, ante el estadounidense Ben Shelton. En la Fórmula Uno, Franco Colapinto corre este fin de semana el Gran Premio de España en el nuevo circuito urbano de Madring, en pleno centro de Madrid. El delantero Franco Mastantuono convirtió un hat-trick en la victoria de la Fiorentina en Italia. Y este sábado arrancan los Juegos Suramericanos en Rosario y Santa Fe, con una ceremonia de apertura que contará con Soledad Pastorutti, Abel Pintos y Luck Ra, mientras en el automovilismo argentino sigue sin resolverse el conflicto entre la Asociación Corredores de Turismo Carretera y el Automóvil Club Argentino. Para cerrar, en turismo destacamos a Costa Rica, donde el cacao que crece en pequeñas fincas familiares y comunidades indígenas da origen a experiencias de turismo rural y comunitario que permiten conocer todo el proceso, desde la cosecha hasta la elaboración del chocolate. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "slug": "2026-09-12-manana",
+ "generado_ba": "12/09/2026 10:14"
+}
