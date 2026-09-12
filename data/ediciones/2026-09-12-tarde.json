@@ -1,0 +1,910 @@
+{
+ "fecha": "2026-09-12",
+ "edicion": "tarde",
+ "titulo": "Milei manda la ley de Malvinas al Congreso mientras Trump advierte sobre un conflicto",
+ "apertura": "El Gobierno envía esta semana al Congreso la ley de Defensa de la Soberanía sobre Malvinas, en la misma semana en que debe presentar el Presupuesto 2027, mientras Donald Trump advirtió desde Dublín que un conflicto entre Argentina y el Reino Unido por las islas sería un \"desastre potencial\". El Senado arranca el martes el debate por la reforma electoral sin acuerdo todavía para eliminar las PASO, y el petróleo Brent tocó los 107,63 dólares el barril, lo que aleja una baja en los combustibles locales. En la cancha, River jugó con un hombre de más ante Atlético Tucumán y Franco Colapinto largará noveno en el Gran Premio de España de Fórmula 1.",
+ "claves": [
+  "Milei envía al Congreso la ley de Defensa de la Soberanía sobre Malvinas, que sanciona a empresas que exploren petróleo en las islas; Trump advirtió que un conflicto por Malvinas sería un \"desastre potencial\" pero confía en poder mediar.",
+  "El Senado arranca el martes 15 el debate por la reforma electoral, aunque el oficialismo todavía no logra acuerdo con sus aliados para eliminar las PASO.",
+  "El petróleo Brent llegó a US$ 107,63 por barril, una suba de más del 30% desde agosto, lo que aleja la posibilidad de una baja en los combustibles locales.",
+  "La actividad industrial no encuentra piso: el índice de la UIA cayó a 40,4 puntos en julio, con todos los sectores relevados por debajo de la barrera de expansión.",
+  "Construir una casa de 100 metros cuadrados en Buenos Aires ya cuesta casi US$ 150.000, mientras los alquileres en la ciudad subieron 19,2% en el año.",
+  "La Superintendencia de Riesgos del Trabajo actualizó las indemnizaciones por accidentes laborales, que ahora llegan hasta $ 114 millones.",
+  "River empató en poder numérico ante Atlético Tucumán tras la expulsión de Nicola, y Franco Colapinto largará noveno en el GP de España de Fórmula 1.",
+  "Un incendio en un geriátrico clandestino de Chile dejó 16 muertos, y en Irlanda Trump habló de una posible reunificación de Irlanda del Norte con la República."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 107,63 por barril",
+   "variacion": "+30% desde agosto",
+   "fuente": "IB-26"
+  },
+  {
+   "nombre": "Índice de Desempeño Industrial (UIA)",
+   "valor": "40,4 puntos",
+   "variacion": "-4,7 pp interanual",
+   "fuente": "CR-11"
+  },
+  {
+   "nombre": "Alquileres CABA",
+   "valor": "suba de 19,2% en 2026",
+   "fuente": "IP-21"
+  },
+  {
+   "nombre": "Costo de construcción (casa de 100 m2, CABA)",
+   "valor": "casi US$ 150.000",
+   "fuente": "IP-20"
+  },
+  {
+   "nombre": "Tope de indemnización por accidente laboral",
+   "valor": "$ 114 millones",
+   "fuente": "CL-10"
+  },
+  {
+   "nombre": "Merval (recuperación de marketcap desde marzo)",
+   "valor": "US$ 8.900 millones",
+   "fuente": "CR-12"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "Milei envía al Congreso la ley de Defensa de la Soberanía sobre Malvinas",
+     "resumen": "El Gobierno remitirá esta semana un proyecto que agrava las sanciones para las empresas que exploren petróleo o pesquen en las Malvinas, y que también alcanzaría a los barcos que colaboren con ellas y crucen las 200 millas de mar argentino. La SIDE participará del nuevo Consejo de Seguridad Nacional creado para monitorear el conflicto.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Con el Presupuesto y Malvinas el Gobierno busca recuperar la iniciativa en el Congreso tras una semana de presión opositora",
+       "url": "https://www.clarin.com/politica/presupuesto-malvinas-gobierno-busca-recuperar-iniciativa-congreso-semana-presion-opositora_0_TWrIGblWyi.html"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/malvinas-milei-manda-semana-ley-defensa-soberania-congreso_0_A9cmfZ8Ram.html",
+     "imagen": "https://www.clarin.com/img/2026/09/12/OD6kKlN9s_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Malvinas: Milei manda esta semana la ley de Defensa de la Soberanía al Congreso"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Trump advirtió que un conflicto por Malvinas sería un \"desastre potencial\"",
+     "resumen": "El presidente de Estados Unidos dijo en Dublín, tras reunirse con el primer ministro irlandés Micheál Martin, que un conflicto entre Argentina y el Reino Unido por las Malvinas sería un \"desastre potencial\", aunque confía en poder resolverlo si le piden intervenir. Trump remarcó que ambos países están \"enfadados\" entre sí y recordó que los británicos \"entraron y se apoderaron\" de las islas. Clarín recordó además el antecedente de Alexander Haig, el mediador que en 1982 no logró evitar la guerra.",
+     "relacionadas": [
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Trump advirtió que un conflicto entre la Argentina y el Reino Unido por Malvinas sería un “desastre potencial”",
+       "url": "https://www.cronista.com/economia-politica/trump-advirtio-que-un-conflicto-entre-argentina-y-el-reino-unido-seria-un-desastre-potencial-y-se-ofrecio-como-mediador/"
+      },
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Donald Trump dijo que un conflicto entre Argentina y Reino Unido por Malvinas sería un \"desastre\" y advirtió que podría \"intervenir\"",
+       "url": "https://www.ambito.com/mundo/donald-trump-alerto-que-un-conflicto-argentina-y-el-reino-unido-malvinas-seria-un-desastre-potencial-n6321533"
+      },
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Trump dijo que podría resolver el conflicto por Malvinas y puso otra vez el foco en el rol del mediador: quién fue Alexander Haig, que lo intentó sin éxito en 1982",
+       "url": "https://www.clarin.com/politica/trump-dijo-podria-resolver-conflicto-malvinas-puso-vez-foco-rol-mediador-alexander-haig-intento-exito-1982_0_U2OM3J9fdn.html"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/12/donald-trump-advirtio-que-un-conflicto-entre-argentina-y-el-reino-unido-por-malvinas-seria-un-desastre-potencial/",
+     "imagen": "https://www.infobae.com/resizer/v2/J4TH7ZU5WRFYRBB47VVO4EQ22Y.jpg?auth=c7996b5bdb13821d5ab69cda2d75c75e8e7cb670f14381352eb61600241666f4&smart=true&width=900&height=585",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:15",
+     "autor": "",
+     "titulo_original": "Donald Trump advirtió que un conflicto entre Argentina y el Reino Unido por Malvinas sería un “desastre potencial”"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "el Senado arranca el debate por la reforma electoral sin acuerdo para eliminar las PASO",
+     "resumen": "El oficialismo pondrá en marcha el martes 15 de septiembre el debate por la reforma electoral en la Comisión de Asuntos Constitucionales del Senado, con una segunda reunión prevista para el miércoles 16. Voces del propio oficialismo reconocen que todavía no hay acuerdo con los aliados ni una hoja de ruta clara para eliminar las PASO.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/reforma-electoral-el-gobierno-activa-el-debate-en-el-senado-sin-acuerdo-para-eliminar-las-paso/",
+     "imagen": "https://www.cronista.com/resizer/v2/BX3B3FKCJNCWNN7PV3V3TLKWTU.JPG?auth=d39b4dc79dab6c546b80df332c1900651624d03a93ec9ace60e85bc1977a4d5f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:10",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Reforma electoral: el Gobierno activa el debate en el Senado sin acuerdo para eliminar las PASO"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Mahiques prepara la última tanda de pliegos judiciales clave para 2027",
+     "resumen": "El Ministerio de Justicia acumula 231 pliegos elevados, de los cuales 166 ya cuentan con designación firme, un número récord celebrado en Casa Rosada; otros 49 siguen en trámite en el Senado y 16 esperan la firma presidencial. El foco está puesto en los juzgados federales con competencia electoral, clave para la organización de los comicios de 2027.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/mahiques-prepara-los-pliegos-electorales-mientras-el-gobierno-busca-destrabar-la-reforma-politica/",
+     "imagen": "https://www.cronista.com/resizer/v2/447QLZTXDBHOXHD7ZTZ3GX7KIM.jpg?auth=a0135150254698605d1b1f33c4616913720fb8b6677b38d1c0901905da7fa61a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:19",
+     "autor": "Daniela Romero",
+     "titulo_original": "Mahiques prepara la última tanda de pliegos clave: por qué tienen un peso estratégico en 2027"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "advierten que el kirchnerismo podría extender la suspensión de la ley penal juvenil bonaerense",
+     "resumen": "El senador del PRO Guillermo Montenegro cuestionó el fallo de la jueza Marta Pascual, que suspendió por 60 días la aplicación de la nueva Ley Penal Juvenil en la provincia de Buenos Aires. El miércoles el gobierno de Kicillof debe informar a la jueza si cuenta con instalaciones para alojar a más jóvenes imputados por delitos de sangre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/advierten-kirchnerismo-podria-extender-60-dias-suspension-ley-penal-juvenil-provincia_0_U1Q4H3IquS.html",
+     "imagen": "https://www.clarin.com/img/2025/11/12/LePPgELAL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Advierten que el kirchnerismo podría extender por más de 60 días la suspensión de la ley penal juvenil en la provincia"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "crece la disputa entre La Pampa y Mendoza por las regalías de Los Nihuiles",
+     "resumen": "El gobierno de Milei le quitó a La Pampa el cobro de regalías por la represa mendocina de Los Nihuiles, una medida que radicales y macristas pampeanos rechazan y por la que reclaman diálogo con Nación. El exgobernador mendocino Rodolfo Suárez celebró la decisión y acusó al ministro Petri de querer subirse al triunfo de su provincia, en una disputa que involucra un reclamo de US$ 680 millones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/crece-guerra-pampa-mendoza-regalias-radicales-pampeanos-apoyan-gobernador-peronista-internas-petri-ucr-reclamo-us-680-millones_0_zX0CowCzsm.html",
+     "imagen": "https://www.clarin.com/img/2024/05/23/_m1JNwacA_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:16",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crece la guerra de La Pampa y Mendoza por las regalías: radicales pampeanos apoyan al gobernador peronista, internas con Petri en la UCR y reclamo de US$ 680 millones"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "trasladaron al exgobernador Sergio Urribarri a una granja penal de Gualeguaychú",
+     "resumen": "Urribarri fue trasladado durante la madrugada del viernes desde la UPP1 de Paraná a la Unidad Penal N° 9 \"El Potrero\", en Gualeguaychú, para cumplir su condena por administración fraudulenta. Lo acompañaron el exministro Pedro Báez y su cuñado Juan Pablo Aguilera, condenados por el mismo hecho de corrupción.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/12/el-exgobernador-sergio-urribarri-fue-trasladado-a-una-carcel-de-gualeguaychu-como-es-la-granja-penal-donde-quedo-alojado/",
+     "imagen": "https://www.infobae.com/resizer/v2/3SABH3RWSVHSXKJAF7AV3XVYBY.jpg?auth=22acf3e0752a0cdfd04a731a04cab2be4bab180ff80dbc2da678c7670efae5ed&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:32",
+     "autor": "",
+     "titulo_original": "El exgobernador Sergio Urribarri fue trasladado a una cárcel de Gualeguaychú: cómo es la granja penal donde quedó alojado"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "Caputo aprovecha el boom de dólares para asegurar la paz cambiaria hasta las elecciones",
+     "resumen": "El saldo comercial podría acercarse a US$ 30.000 millones este año, y con esa abundancia de divisas el Gobierno busca asegurarse la calma financiera hasta los comicios. Para una empresa: la mayor oferta de dólares comerciales reduce el riesgo de una devaluación brusca en el corto plazo, aunque no despeja las dudas de fondo sobre el esquema cambiario.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464073-caputo-aprovecha-boom-de-dolares-para-asegurar-paz-cambiaria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611245.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:30",
+     "autor": "",
+     "titulo_original": "Caputo aprovecha el boom de dólares para asegurar la paz cambiaria hasta las elecciones"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "la escalada del petróleo pone en duda el alivio previsto en los surtidores",
+     "resumen": "El barril Brent cerró en US$ 107,63, su nivel más alto desde mediados de mayo, tras una suba acumulada superior al 30% desde los mínimos de agosto por el conflicto en Medio Oriente. El mecanismo que usó YPF para contener los precios locales ya no tiene margen, según Infobae, lo que abre dudas sobre cuánto tiempo más seguirán quietos los precios en los surtidores. Para una empresa: un combustible más caro impacta directo en los costos logísticos y de distribución.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/12/que-va-a-pasar-con-la-nafta-la-escalada-del-precio-global-del-petroleo-pone-en-duda-el-alivio-previsto-para-los-surtidores-locales/",
+     "imagen": "https://www.infobae.com/resizer/v2/UWJ4XBTN5REAVBDHT3RNCBJ5ME.png?auth=5574301b92f33065e9c2133a5dba08de5621561f32316308d20493faa048870d&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:08",
+     "autor": "Lola Loustalot",
+     "titulo_original": "¿Qué va a pasar con la nafta?: la escalada del precio global del petróleo pone en duda el alivio previsto para los surtidores locales"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "la mora crediticia no es un riesgo sistémico, pero sí un problema macroeconómico",
+     "resumen": "Un informe de la consultora Eco Go, con datos de la Central de Deudores del BCRA a junio, señala que el número de personas morosas se quintuplicó desde fines de 2024. El crédito en mora sigue teniendo un peso acotado en los balances del sistema financiero, pero el efecto sobre el consumo y el nivel de actividad recién empieza a verse, según el informe.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/12/los-datos-que-muestran-por-que-la-mora-crediticia-no-es-un-riesgo-sistemico-pero-si-un-problema-macroeconomico/",
+     "imagen": "https://www.infobae.com/resizer/v2/NGUHL6QFMJFDLA5M6QXHY42DXI.png?auth=b39ff3f2a369ed4c4e7532b4102bbe5926a0616795f827384bc1672dc758dc5e&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:18",
+     "autor": "Sergio Serrichio",
+     "titulo_original": "Los datos que muestran por qué la mora crediticia no es un “riesgo sistémico”, pero sí un problema macroeconómico"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "más de 40 consultoras y bancos ajustan sus proyecciones de inflación para 2026",
+     "resumen": "Según el último informe de FocusEconomics de septiembre, al que accedió El Cronista, más de 40 consultoras y entidades financieras revisaron sus proyecciones de inflación para el año. El IPC de agosto fue de 1,7%, lo que reaviva la discusión sobre si la desinflación, bandera central del Gobierno desde 2023, logrará finalmente consolidarse.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/llega-al-numero-que-quiere-milei-que-esperan-para-la-inflacion-2026-mas-de-40-consultoras-y-bancos/",
+     "imagen": "https://www.cronista.com/resizer/v2/62CQCJPTZ5HUVASLEEBHGYAMV4.png?auth=a05b2f197e5a993cf0c6cfff178e3eb6fad70e1e461c4f710505d92c36b277a6&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:44",
+     "autor": "",
+     "titulo_original": "¿Llega al número que quiere Milei? Qué esperan para la inflación 2026 más de 40 consultoras y bancos"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "el Merval rebota, pero sigue atrapado en un rango lateral",
+     "resumen": "Las principales empresas de la Bolsa porteña recuperaron cerca de US$ 8.900 millones de capitalización de mercado desde marzo, aunque el rebote estuvo muy concentrado: una sola petrolera explicó por sí sola alrededor del 70% de la mejora. Emilio Botto, de Mills Capital, señaló que el índice sigue en niveles relativamente bajos pese a la recuperación.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-merval-rebota-pero-sigue-atrapado-que-condiciones-faltan-para-que-vuelva-a-maximos/",
+     "imagen": "https://www.cronista.com/resizer/v2/IM5RTUY77JERFJIVDBT4MA4O2Y.jpg?auth=d8160875a78788dd6df692fdc04a83b02e4df37bb8c9321e3c5c41ec6c635e3d&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:44",
+     "autor": "",
+     "titulo_original": "El Merval rebota, pero sigue atrapado: qué condiciones faltan para que vuelva a máximos"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "el mercado ya proyecta dólar, tasas e inflación de cara a 2027",
+     "resumen": "El enfriamiento de la actividad real y la incertidumbre sobre el empleo formal en el sector privado aceleraron el cobro de una prima de riesgo electoral hacia 2027, según Ámbito. Eso anticipa tensión cambiaria y suba de tasas en la antesala de los comicios presidenciales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/se-enciende-la-alarma-electoral-el-mercado-ya-proyecta-dolar-tasas-e-inflacion-2027-n6321368",
+     "imagen": "https://media.ambito.com/p/9b1d473b9c77d5230f0a0854cebc3bd1/adjuntos/239/imagenes/043/068/0043068286/1200x675/728x588:748x608/dolar-inflacion-tasas-2026.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Se enciende la alarma electoral: el mercado ya proyecta dólar, tasas e inflación para 2027"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "la actividad industrial no encuentra piso y ya golpea los balances de las empresas",
+     "resumen": "Según la III Encuesta de la Unión Industrial Argentina, el Monitor de Desempeño Industrial se ubicó en 40,4 puntos en julio, una caída interanual de 4,7 puntos porcentuales. Todos los rubros relevados operaron por debajo de los 50 puntos, la línea que divide crecimiento de contracción, con el mercado interno como principal origen del deterioro.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/radiografia-industrial-el-impacto-del-mercado-interno-la-traccion-de-las-exportaciones-y-el-esfuerzo-por-sostener-el-empleo/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZHEAEXYN6FAZNIYEWA3DZEGLFA.jpg?auth=5b61542a692f88c36638948436e51236b241386b0ae2e90a8db405ea16c13182&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:45",
+     "autor": "",
+     "titulo_original": "Radiografía industrial: el impacto del mercado interno, la tracción de las exportaciones y el esfuerzo por sostener el empleo"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "una startup argentina convierte WhatsApp en el centro de operaciones comerciales de las pymes",
+     "resumen": "Galo AI, creada por Tomás Iakub, ya opera en cuatro países, trabaja con más de 50 empresas y procesa más de US$ 5 millones mensuales en transacciones. La plataforma busca ordenar el comercio informal que hoy se gestiona por WhatsApp, donde se pierden pedidos y se escapa información valiosa para las empresas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/emprendedor-serial-desde-los-19-creo-una-de-las-startups-que-mas-crece-en-la-region-apenas-con-ia-y-whatsapp/",
+     "imagen": "https://www.cronista.com/resizer/v2/CLB3ZTG75FERNJP4RCF75ZFOZA.jpeg?auth=2082ac5fea5caa54f9cd911ad534105922c02468ed06f976d746d7737d21487c&smart=true&width=900&height=720",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:00",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Emprendedor serial desde los 19, creó una de las startups que más crece en la región “apenas” con IA y WhatsApp"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "el testamento de Giorgio Armani exige vender su imperio de US$ 8.000 millones",
+     "resumen": "La sucesión diseñada por el fundador de la marca abrió un plazo de 18 meses para su compañía y puso a tres gigantes del sector entre los compradores preferidos, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/por-que-el-testamento-giorgio-armani-exige-vender-su-imperio-us-8000-millones-n6320857",
+     "imagen": "https://media.ambito.com/p/9828807e58047acc2dd28e83e4dea3b5/adjuntos/239/imagenes/043/634/0043634855/1200x675/1059x335:1079x355/giorgio-armani.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:00",
+     "autor": "",
+     "titulo_original": "Por qué el testamento de Giorgio Armani exige vender su imperio de US$ 8.000 millones"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "la Economía del Conocimiento exporta más de US$ 10.000 millones, pero preocupa la base educativa",
+     "resumen": "El sector se consolidó en 2025 como el tercer complejo exportador del país al superar su marca histórica de facturación con US$ 10.000 millones en el año. Sin embargo, se encendió una alarma por los resultados de las pruebas PISA 2025, que ubicaron a la Argentina en el puesto 72 entre 91 países evaluados por la OCDE.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/este-sector-ya-exporta-mas-de-us-10000-millones-pero-su-insumo-basico-esta-en-jaque-por-un-factor-inesperado/",
+     "imagen": "https://www.cronista.com/resizer/v2/3IJJGFZRL5DDTKS2YM6GISZJ7Q.jfif?auth=98d80a71e139b56bcdc06a51548d39167b4ae07fb21deb7e5f21afeb051264a7&smart=true&width=900&height=505",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:51",
+     "autor": "Giannina Nigro",
+     "titulo_original": "Este sector ya exporta más de u$s 10.000 millones, pero su insumo básico está en jaque por un factor inesperado"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "de vender esponjas coreanas a tener locales en los principales shoppings",
+     "resumen": "Hace diez años, Mateo y Lina Paik empezaron a importar cosmética coreana a la Argentina; hoy tienen cinco locales, abrirán otros dos y trabajan con 72 marcas, de la mano del boom del skincare y los productos virales, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/vender-esponjas-coreanas-nadie-conocia-tener-locales-principales-shoppings-historia-skinko_0_qejoWqSHns.html",
+     "imagen": "https://www.clarin.com/img/2026/09/12/14cXFVDmz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Empezó vendiendo esponjas coreanas que nadie conocía y hoy tiene locales en los principales shoppings: la historia detrás de uno de los negocios del momento"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CL-10",
+     "titulo": "las indemnizaciones por accidentes laborales llegan ahora hasta $ 114 millones",
+     "resumen": "La Superintendencia de Riesgos del Trabajo actualizó los montos que rigen desde septiembre de 2026 para distintos casos de incapacidad laboral permanente y fallecimiento. Para una empresa: el ajuste eleva el costo de la cobertura de riesgos del trabajo y obliga a revisar las pólizas vigentes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/informacion-general/cambian-indemnizaciones-accidentes-laborales-nuevos-montos-llegan-114-millones_0_n1wyBt9Eu1.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/Zi0dWynwh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cambian las indemnizaciones por accidentes laborales: los nuevos montos llegan hasta $114 millones"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "jubilaciones y pensiones, con aumento confirmado a partir de octubre",
+     "resumen": "Con el Índice de Precios al Consumidor de agosto ya conocido, quedaron establecidos los montos que cobrarán las jubilaciones y pensiones en el décimo mes del año, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464225-jubilados-con-aumento-confirmado-a-partir-de-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606692.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:24",
+     "autor": "",
+     "titulo_original": "Jubilados, con aumento confirmado a partir de octubre"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "la AUH también tendrá un nuevo aumento desde octubre",
+     "resumen": "Los titulares de la Asignación Universal por Hijo recibirán un incremento en octubre, calculado a partir del Índice de Precios al Consumidor de agosto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464228-auh-con-aumento-confirmado-en-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612287.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:05",
+     "autor": "",
+     "titulo_original": "AUH, con nuevo aumento definido desde octubre"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "cuál es el límite de ARCA para transferencias entre cuentas propias que activa controles",
+     "resumen": "El organismo fiscal monitorea los movimientos de dinero entre cuentas del mismo titular y define montos que generan reportes automáticos, además de los comprobantes que exige para justificarlos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/463814-el-limite-de-arca-para-transferencias-entre-cuentas-propias-que-activa-controles",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618839.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:00",
+     "autor": "",
+     "titulo_original": "El límite de ARCA para transferencias entre cuentas propias que activa controles"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "reforma laboral: a seis meses de su vigencia, la Justicia todavía no define si es válida",
+     "resumen": "El debate judicial sobre las nuevas reglas laborales mantiene en alerta a sindicatos y empresarios, mientras persisten los cuestionamientos legales sobre su validez, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464138-reforma-laboral-la-justicia-sigue-sin-definir-si-es-valida",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/616539.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Reforma laboral: a 6 meses de entrar en vigencia, la Justicia aún no define si es válida"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Inocencia Fiscal: un nuevo capítulo mueve otra vez los límites entre control y alivio tributario",
+     "resumen": "El régimen, que arrancó en mayo de 2025 con el decreto 353/25 y la ley 27.799 aprobada a fines de ese año, tiene ahora un nuevo proyecto con media sanción de Diputados. Por la demora legislativa, ARCA debió postergar nuevamente hasta el 22 de septiembre el plazo del régimen opcional de liquidación simplificada de Ganancias.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/inocencia-fiscal-el-nuevo-capitulo-de-una-reforma-que-vuelve-a-mover-los-limites-entre-control-y-alivio-tributario/",
+     "imagen": "https://www.cronista.com/resizer/v2/IASGAUCZVJAZ7JVKVHGPGRTYWA.jpg?auth=39310bad5ab58d967aa508f860222c71b4b48d2148935bddc80d8c9e6dc3b128&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:15",
+     "autor": "José Luis Ceteri",
+     "titulo_original": "Inocencia Fiscal: el nuevo capítulo de una reforma que vuelve a mover los límites entre control y alivio tributario"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-20",
+     "titulo": "construir una casa de 100 metros cuadrados ya cuesta casi US$ 150.000 en Buenos Aires",
+     "resumen": "El costo de construcción sigue en aumento y varía según la superficie, los materiales y las terminaciones elegidas, según el relevamiento de iProfesional. Para una empresa de materiales de construcción: el dato confirma que el costo en dólares de edificar sigue siendo un freno para la demanda minorista de insumos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/463800-cuanto-cuesta-construir-una-casa-de-100-metros-cuadrados-en-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625089.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Construir una casa de 100 metros cuadrados ya cuesta casi u$s150.000 en Buenos Aires"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "un plan canje para comprar casas nuevas con jardín en Martínez",
+     "resumen": "La desarrolladora ID lanzó el sistema \"Llave por Llave\", que permite entregar una propiedad como parte de pago para comprar una vivienda nueva y financiar la diferencia. La modalidad se aplicará primero en Magma, un proyecto de seis casas de entre 119 y 142 metros cuadrados en Martínez, pensado para propietarios que quieren mudarse pero no vendieron su casa.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/como-los-autos-pero-en-real-estate-lanzan-un-plan-canje-para-comprar-una-casa-con-jardin-en-martinez/",
+     "imagen": "https://www.cronista.com/resizer/v2/7CIHWCSTDZBFJNIKNVN2PQHIFE.png?auth=ca53e4621af2d2f58a14a296e42fadf7b092c53fa91f21c6d37af16c38361561&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Micaela Mura",
+     "titulo_original": "Como los autos, pero en real estate: lanzan un “plan canje” para comprar 6 casas nuevas con jardín en Martínez"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "los alquileres en la Ciudad de Buenos Aires subieron 19,2% en el año",
+     "resumen": "Los valores de alquiler treparon 1,5% en agosto y acumulan una suba de 19,2% en 2026, según iProfesional. Puerto Madero ya supera los $ 1,2 millones para un departamento, entre los barrios porteños más caros para alquilar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/463968-alquileres-en-caba-cuanto-aumentaron-en-2026-y-cuales-son-los-barrios-mas-caros-y-baratos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625244.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Alquileres en CABA subieron 19,2% y ya superan $1,2 millones en Puerto Madero"
+    },
+    {
+     "id": "AM-01",
+     "titulo": "el Congreso de Créditos Hipotecarios remarca el potencial del financiamiento para la situación habitacional",
+     "resumen": "Tras el anuncio del Gobierno nacional, el II Congreso Argentino de Créditos Hipotecarios insistió en que el problema habitacional \"es financiero y no económico\" y detalló las condiciones necesarias para ampliar el acceso a la vivienda.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-problema-es-financiero-y-no-economico-remarcan-el-potencial-del-credito-hipotecario-la-situacion-habitacional-n6321642",
+     "imagen": "https://media.ambito.com/p/60347c2fb3debdcd6e7ba2474ab6ec46/adjuntos/239/imagenes/043/548/0043548994/1200x675/805x398:825x418/creditos-hipotecarios-propiedades.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:57",
+     "autor": "",
+     "titulo_original": "\"El problema es financiero y no económico\": remarcan el potencial del crédito hipotecario para la situación habitacional"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "se dispara la cantidad de locales vacíos en la Ciudad de Buenos Aires",
+     "resumen": "La Cámara Argentina de Comercio detectó 284 comercios sin actividad en julio y agosto, y lo que más preocupa es el salto de los locales que se ofrecen en alquiler, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/463834-locales-vacios-en-caba-la-cifra-que-se-disparo-y-las-avenidas-mas-afectadas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617580.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Locales vacíos en CABA: la cifra que se disparó y las avenidas más afectadas"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Indian llega a 16 tiendas con dos nuevas aperturas en la provincia de Buenos Aires",
+     "resumen": "La cadena de moda, hogar y accesorios refuerza su presencia en shoppings bonaerenses con dos nuevos locales, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/464335-indian-abre-dos-nuevas-tiendas-en-argentina-y-llegara-a-16-locales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610270.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:04",
+     "autor": "",
+     "titulo_original": "Indian llega a 16 tiendas con dos nuevas aperturas en la provincia de Buenos Aires"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "el Banco Central prepara la vuelta de las cuotas sin interés con tarjeta de crédito",
+     "resumen": "El BCRA trabaja en un sistema abierto de negociación de cupones de tarjetas, hoy concentrado en tres jugadores (Mercado Pago, Fiserv y Payway), para que compitan por la tasa. La tasa actual ronda el 50% anual y podría bajar a la mitad, según banqueros consultados por El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/preven-la-vuelta-de-las-cuotas-sin-interes-por-una-medida-del-bcra/",
+     "imagen": "https://www.cronista.com/resizer/v2/AIYIT43TDVH4LPXWOSWEAPXVTE.jpg?auth=a44402b932aa1ed0192ed5dc926858a54def9439acb67761465f498c060da93d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:21",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Prevén la vuelta de las cuotas sin interés con tarjeta de crédito por una nueva medida del BCRA"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "cómo la inteligencia artificial está creando nuevos puestos de trabajo",
+     "resumen": "Conocer qué perfiles concentrarán la nueva demanda del mercado laboral es clave para potenciar la propia empleabilidad y no quedar obsoleto, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464107-como-la-ia-esta-creando-nuevos-puestos-de-trabajo-y-que-perfiles-son-los-mas-buscados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/11/586740.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Cómo la IA está creando nuevos puestos de trabajo y qué perfiles son los más buscados"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "el nuevo salario de los encargados de edificios en septiembre, según la categoría",
+     "resumen": "Los trabajadores de edificios acceden a una mejora salarial tras la firma del nuevo acuerdo paritario que impacta desde septiembre de 2026.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464330-sueldos-encargados-de-edificios-cuanto-cobran-tras-el-ultimo-aumento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622574.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:13",
+     "autor": "",
+     "titulo_original": "El nuevo salario de los encargados de edificios en septiembre de 2026 según la categoría"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "cuánto cobran los bancarios tras el nuevo aumento y cómo quedó frente a la inflación",
+     "resumen": "El incremento salarial acordado para agosto permite que los empleados del sector mantengan el poder de compra respecto del avance de precios, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464329-bancarios-cobran-mas-de-2-millones-de-pesos-ras-la-actualizacion-salarial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614496.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:50",
+     "autor": "",
+     "titulo_original": "Cuánto cobran los bancarios tras el nuevo aumento y cómo quedó el salario frente a la inflación"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "Trump dice que sería \"fantástico\" ver una Irlanda unificada",
+     "resumen": "Durante una visita de fin de semana a su complejo de golf en Irlanda, el presidente estadounidense se mostró a favor de la reunificación de la República de Irlanda con Irlanda del Norte, en una reunión con el primer ministro irlandés Micheál Martin. \"No quiero causar ningún problema, pero me encantaría verla unificada\", dijo Trump.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/trump-se-mete-en-la-polemica-de-las-dos-irlandas-y-dice-que-seria-fantastico-verlas-como-un-solo-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7PHH4JXQ2RHGFMJHKSOL2F4OXA.JPG?auth=1062c7c2114c4577fbfdbe7a39396f645e49d5b7eab0291cedfd9cd9bfaeb3ff&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:01",
+     "autor": "",
+     "titulo_original": "Trump se mete en la polémica de las dos Irlandas y dice que sería “fantástico” verlas como un solo país"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Rusia descartó una reunión entre Putin y Zelensky en el G20 de Miami",
+     "resumen": "El portavoz del Kremlin, Dmitri Peskov, calificó de \"imposible\" la propuesta y reiteró que la única opción de un encuentro cara a cara sería que Zelensky viaje a Moscú. La declaración llegó horas después de que el presidente ucraniano se mostrara abierto a un cara a cara bilateral en territorio estadounidense.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/12/rusia-descarto-una-reunion-entre-putin-y-zelensky-en-el-g20-de-miami-es-imposible/",
+     "imagen": "https://www.infobae.com/resizer/v2/YAGHFXGNMFAQ7CKPRE4ZZY676E.JPG?auth=f74e6a7d90b5683cb9977bcc90b344cceebe9ce19fa4e68a633b3a8497309f43&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:30",
+     "autor": "",
+     "titulo_original": "Rusia descartó una reunión entre Putin y Zelensky en el G20 de Miami: \"Es imposible\""
+    },
+    {
+     "id": "CL-11",
+     "titulo": "un incendio en un geriátrico clandestino de Chile dejó 16 muertos",
+     "resumen": "El fuego comenzó durante la noche en la residencia \"El Edén\", en Pitrufquén, que funcionaba sin habilitación y alojaba a 24 adultos mayores al cuidado de una sola persona. Diez residentes sobrevivieron y fueron derivados de urgencia a un hospital; el presidente José Antonio Kast ordenó revisar las condiciones de las residencias en todo el país.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/incendio-tragico-chile-murieron-16-adultos-mayores-geriatrico-funcionaba-habilitacion_0_jxGuhbDcXo.html",
+     "imagen": "https://www.clarin.com/img/2026/09/12/iLrnjvuVG_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:48",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Incendio trágico en Chile: murieron 16 adultos mayores en un geriátrico que funcionaba sin habilitación"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "la inmigración sacude la estrategia electoral de Pedro Sánchez en España",
+     "resumen": "El ingreso masivo de migrantes y un revés judicial sobre la ley de nietos complican al gobierno socialista en la previa electoral, aunque algunos analistas advierten que el tema también podría movilizar al electorado progresista, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/ceuta-la-ley-de-nietos-y-un-efecto-inesperado-la-inmigracion-sacude-la-estrategia-electoral-de-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HRTMMHW7CZEXXK77E7HWCPENLA.JPG?auth=757813a056d0254f84ad4531f3fe5c561ceb90b498cae6bd4e764e28c6b6b5aa&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:48",
+     "autor": "Iván Ruiz",
+     "titulo_original": "Ceuta, la ley de nietos y un efecto inesperado: la inmigración sacude la estrategia electoral de Sánchez"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "el ejército libanés detuvo a un familiar de Bashar al Assad por armas y drogas",
+     "resumen": "Suleiman Assad, hijo de Hilal Assad y primo del derrocado dictador sirio, fue detenido junto con el hijo de un narcotraficante cerca de la ciudad de Baalbek, en el noreste de Líbano.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/12/el-ejercito-libanes-detuvo-a-un-familiar-del-ex-dictador-sirio-bashar-al-assad-por-portar-armas-y-drogas/",
+     "imagen": "https://www.infobae.com/resizer/v2/6JT4RZREJZDXRAW3BQEE2V2J2Y.JPG?auth=a77d3361e6f6d060fdde65efc706b9239bc95d22149f556aedc6b06a612fd257&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:47",
+     "autor": "",
+     "titulo_original": "El ejército libanés detuvo a un familiar del ex dictador sirio Bashar al Assad por portar armas y drogas"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "se derrumbó un edificio en construcción sobre una casa en San Pablo: al menos dos muertos",
+     "resumen": "El edificio, que tenía varias plantas y estaba embargado, era usado por dos obreros que solían dormir en su interior; el derrumbe se produjo en plena madrugada en una de las zonas más humildes de la ciudad brasileña.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/derrumbo-edificio-construccion-casa-san-pablo-muertos_0_5ErjtwI3sq.html",
+     "imagen": "https://www.clarin.com/img/2026/09/12/OuFFq2hVj_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:14",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Se derrumbó un edificio en construcción sobre una casa en San Pablo: al menos dos muertos"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza esta semana la brecha de crecimiento que abre la guerra en Irán y la presión de China y Rusia sobre Japón.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "la guerra en Irán acentúa la brecha de crecimiento entre los países del BRICS y el G7",
+     "resumen": "Le Grand Continent señala que los países del Golfo, europeos y varias economías asiáticas son los más afectados por la interrupción del suministro energético y la suba de precios del petróleo y el gas derivada del conflicto, mientras las empresas energéticas estadounidenses ven crecer sus beneficios. El FMI redujo entre enero y julio sus previsiones de crecimiento para Estados Unidos y para el resto del G7, y en 2026 se espera que el crecimiento de los BRICS sea dos puntos superior al del bloque occidental.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/12/guerra-en-iran-acentua-brecha-crecimiento-entre-brics-y-g7/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:25",
+     "autor": "Ramona Bloj",
+     "titulo_original": "La guerra en Irán acentúa la brecha de crecimiento entre los países del BRICS y el G7"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Pekín y Moscú invocan la cláusula del \"Estado enemigo\" de la ONU para presionar a Japón",
+     "resumen": "China y Rusia ven con malos ojos el rearme impulsado por la primera ministra japonesa Sanae Takaichi para contrarrestar la influencia china en Asia marítima. Para presionar a Tokio, ambos países recurren al artículo 53 de la Carta de las Naciones Unidas, que reserva al Consejo de Seguridad el derecho exclusivo de autorizar medidas militares coercitivas; el gasto militar chino es cinco veces superior al de Japón, señala Le Grand Continent.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/12/pekin-y-moscou-se-sirven-carta-onu-para-amenazar-japon/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "07:26",
+     "autor": "Ramona Bloj",
+     "titulo_original": "«Reafirmar la cláusula relativa al Estado enemigo»: cómo Pekín y Moscú utilizan la Carta de las Naciones Unidas para amenazar a Japón"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-02",
+     "titulo": "River gana con un hombre de más ante Atlético Tucumán tras la expulsión de Nicola",
+     "resumen": "Franco Nicola fue expulsado sin intervención del VAR tras un fuerte impacto en la cara de Lucas Martínez Quarta. Con la ventaja numérica, River se puso en ventaja con un gol de Tobías Andrada, su primer tanto con el club, en el partido por la novena fecha del Torneo Clausura en el estadio Monumental José Fierro.",
+     "relacionadas": [
+      {
+       "id": "LN-01",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "River, con uno más: Nicola se fue expulsado tras un puntinazo a la cara de Martínez Quarta",
+       "url": "https://www.lanacion.com.ar/deportes/river-con-uno-mas-nicola-se-fue-expulsado-tras-un-puntinazo-a-la-cara-de-martinez-quarta-nid12092026/"
+      },
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "River Plate se impone con el gol de Tobías Andrada en el Torneo Clausura: Atlético Tucumán se quedó con 10 jugadores",
+       "url": "https://www.infobae.com/deportes/2026/09/12/river-plate-buscara-meterse-en-zona-de-playoffs-en-su-visita-a-atletico-tucuman-por-el-torneo-clausura-hora-tv-y-formaciones/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/atletico-tucuman-vs-river-en-vivo-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NGIK7O6EZFDY7GW3UYXR46PO5E.jpg?auth=845ee2507472cf363cb289d1c4c630e124560eb64ca1302460931881f1c9e5da&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:54",
+     "autor": "Augusto Sanz",
+     "titulo_original": "Atlético Tucumán vs. River, en vivo por el torneo Clausura: el minuto a minuto del partido"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Estudiantes venció a Platense en el descuento con goles de sus dos \"9\"",
+     "resumen": "Adolfo Gaich y Guido Carrillo convirtieron para darle al Pincha la victoria por la novena fecha del Torneo Apertura, ambos con cambios pensados en la Copa Libertadores. Fue el partido del regreso de Martín Palermo a la cancha de Estudiantes, esta vez como técnico de Platense.",
+     "relacionadas": [
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Estudiantes le ganó a Platense con un gol agónico y ahora los dos piensan en la Copa Libertadores",
+       "url": "https://www.clarin.com/deportes/estudiantes-vs-platense-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_8MhGKuPIcQ.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-le-gano-al-platense-de-palermo-en-el-descuento-y-con-dos-goles-de-sus-n-9-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3NPBOXDIFBDQXD36DITF4OQSKY.JPG?auth=2a213125200b6591070f4c141bbc2fd9358d8c1e7934ce5991628a1d9c385dad&smart=true&width=900&height=575",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:10",
+     "autor": "",
+     "titulo_original": "Estudiantes le ganó al Platense de Palermo en el descuento y con dos goles de sus N° “9″"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Sabalenka y Rybakina definen la final del US Open y el número 1 del ranking",
+     "resumen": "La bielorrusa Aryna Sabalenka busca su tercer título consecutivo en Flushing Meadows, mientras que la kazaja Elena Rybakina, que la desplazó de la cima del ranking, va por su segundo Grand Slam de la temporada.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/sabalenka-vs-rybakina-final-us-open-duelo-titulo-cambio-numero-1-nueva-york_0_sQ4AuqTWll.html",
+     "imagen": "https://www.clarin.com/img/2026/09/12/WhwwiWWPv_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sabalenka vs Rybakina, por la final del US Open: duelo por el título y cambio de número 1 en Nueva York"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Colapinto superó a Gasly y largará noveno en el Gran Premio de España",
+     "resumen": "El piloto argentino de Alpine tuvo un gran sábado de clasificación, entró a la Q3 y se ubicó por delante de su compañero Pierre Gasly, que quedó 14°; Lando Norris se quedó con la pole position con McLaren. Steve Nielsen, director de Alpine, calificó de \"brillante\" el trabajo de Colapinto en la clasificación. La carrera, con 57 vueltas, se corre el domingo en el nuevo circuito semiurbano de Madring.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "F1 GP de España: horarios de la carrera, cómo y dónde ver la Fórmula 1",
+       "url": "https://www.clarin.com/deportes/f1-gp-espana-horarios-carrera-ver-formula-1_0_cWmwyuakfn.html"
+      },
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Franco Colapinto en la Fórmula 1: el argentino fue 11° en un entrenamiento marcado por los accidentes",
+       "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-formula-1-en-vivo-nid12092026/"
+      },
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El elogio del director de Alpine a Franco Colapinto por su trabajo “brillante” en la clasificación del Gran Premio de España de Fórmula 1",
+       "url": "https://www.infobae.com/deportes/2026/09/12/el-elogio-del-director-de-alpine-a-franco-colapinto-por-su-trabajo-brillante-en-la-clasificacion-del-gran-premio-de-espana-de-formula-1/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-gp-españa-formula-1-alpine-clasificacion-dia-horario-donde-ver",
+     "imagen": "https://media.ambito.com/p/ec71183de7f1eac2c17dddfe9b0a350f/adjuntos/239/imagenes/043/638/0043638507/1200x675/494x928:514x948/franco-colapinto-gp-madrid.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:46",
+     "autor": "",
+     "titulo_original": "Franco Colapinto superó a Pierra Gasly, llegó a la Q3 y largará 9° en la carrera del GP de España"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "un violento accidente múltiple detuvo media hora la Fórmula 3 en el GP de España",
+     "resumen": "Un choque entre los compañeros de equipo Bruno del Pino y Enzo Deligny, de Van Amersfoort Racing, derivó en un accidente que involucró a otros cinco monoplazas en la primera vuelta de la Feature Race. La carrera debió detenerse por más de media hora tras el siniestro.",
+     "relacionadas": [
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Un accidente múltiple en el GP de Madrid de la Fórmula 3 detuvo por media hora la carrera: “¡Están locos!“",
+       "url": "https://www.lanacion.com.ar/deportes/un-accidente-multiple-en-el-gp-de-madrid-de-la-formula-3-detuvo-por-media-hora-la-carrera-estan-nid12092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/12/un-auto-que-volo-contra-el-alambrado-y-siete-pilotos-fuera-el-violento-accidente-en-el-gp-de-espana-de-formula-3-que-detuvo-media-hora-la-carrera/",
+     "imagen": "https://www.infobae.com/resizer/v2/A5XGOGXXNJDIDII5SQNFVCAGBY.jpg?auth=83ca2c2c08a15c97588b44a5a9d2f898479c9526f89c8444568489a8c664af0e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:13",
+     "autor": "",
+     "titulo_original": "Un auto que voló contra el alambrado y siete pilotos fuera: el violento accidente en el GP de España de Fórmula 3 que detuvo media hora la carrera"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "Alexa Grasso, la primera mexicana campeona de la UFC",
+     "resumen": "La peleadora construyó su carrera desde un gimnasio familiar hasta llegar a la organización más importante de las MMA. Tras perder el cinturón en 2024, se mantiene entre las principales contendientes de la categoría de peso mosca.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/internacional/alexa-grasso-primera-mexicana-convertirse-campeona-ufc-comun-mujer-dedique-deporte-combate-importo-papa-tio-clave-decian-puedes-fuerte-normal-sentir-presion-mujer_0_bcbRnv5Wa4.html",
+     "imagen": "https://www.clarin.com/img/2026/09/08/ZWvcVHiMs_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:04",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alexa Grasso, la primera mexicana en convertirse en campeona de la UFC: \"No es común que una mujer se dedique a un deporte de combate, pero nunca me importó. Mi papá y mi tío fueron clave; me decían: ‘Tú puedes, eres fuerte’. Es normal sentir presión cuando eres mujer\""
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-23",
+     "titulo": "Río de Janeiro, más allá de sus postales",
+     "resumen": "Entre el Cristo Redentor, el Pan de Azúcar y la renovación de su zona portuaria, la ciudad brasileña combina playas icónicas como Copacabana, Ipanema y Leblon con una gastronomía que cruza distintas tradiciones, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/salud/rio-de-janeiro-mas-alla-de-sus-postales-una-ciudad-entre-el-mar-los-morros-y-una-nueva-escena-urbana-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ADAYZSJKURHJJC5F2O6DHE3LJM.JPG?auth=1a6fb5536ff4d1739185a8d9f650c507a63520a306c84832b88c1ebd26c8cf87&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:07",
+     "autor": "Brenda Escudero",
+     "titulo_original": "Río de Janeiro, más allá de sus postales: una ciudad entre el mar, los morros y una nueva escena urbana"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-08",
+     "titulo": "una pintada en un baño de un colegio de San Juan denuncia un abuso a una nena de 10 años",
+     "resumen": "El mensaje, hallado en la escuela Carlos María del Alvear de Rawson, decía \"Estoy embarazada, tengo 10 años, fue mi tío\"; la víctima ya fue identificada y será entrevistada en Cámara Gesell. La pintada fue borrada por orden de las autoridades tras notificarse a la Justicia.",
+     "relacionadas": [
+      {
+       "id": "LN-10",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Un fuerte mensaje apareció en un baño de San Juan y desató una investigación por un posible abuso",
+       "url": "https://www.lanacion.com.ar/sociedad/un-fuerte-mensaje-aparecio-en-un-bano-de-san-juan-y-desato-una-investigacion-por-un-posible-abuso-nid12092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/embarazada-tio-pintada-bano-colegio-san-juan-activo-alarmas-posible-abuso_0_Bw9rqrXDLG.html",
+     "imagen": "https://www.clarin.com/img/2026/09/12/BH-rsplT3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:09",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Estoy embarazada, tengo 10 años, fue mi tío\", la pintada en el baño de un colegio de San Juan que activó las alarmas por abuso"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "un temporal con tornado en Misiones dejó destrozos, cortes de luz y un muerto",
+     "resumen": "El fenómeno afectó una franja de unos 300 metros en la zona rural de San Pedro y provocó la muerte de un agricultor de 42 años que trabajaba en una plantación de yerba mate, cuya vivienda fue desprendida por los fuertes vientos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/un-temporal-en-misiones-provoco-destrozos-y-cortes-de-luz-murio-un-hombre-de-42-anos-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2KYP34PMZJAF5EZ5XT66KZM7UE.png?auth=3d84853456577f8459394a336173818463fac20f492d824e6bcdd9420a1dfeb9&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:22",
+     "autor": "",
+     "titulo_original": "Un temporal en Misiones provocó destrozos y cortes de luz: murió un hombre de 42 años"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "alerta amarilla por vientos, nevadas y lluvias en varias provincias este sábado",
+     "resumen": "El Servicio Meteorológico Nacional advirtió sobre nevadas de hasta 10 centímetros en Córdoba, Mendoza, San Juan y San Luis, además de vientos fuertes y lluvias en otras regiones. En la Ciudad de Buenos Aires la temperatura máxima prevista fue de 11 grados.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Súper Niño 2026 en Argentina, EN VIVO: provincias afectadas, dónde se esperan más lluvias, ola polar y cuándo cambia el clima este sábado 12 de septiembre",
+       "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-provincias-afectadas-esperan-lluvias-ola-polar-cambia-clima-sabado-12-septiembre_0_9Xaere71lz.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-vientos-nevadas-y-lluvias-para-este-sabado-12-de-septiembre-las-nid12092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WCIYRLJ3CZHJPGI6DDRKZBZA6Q.png?auth=cfb7f5b05bdd62f12cfd909f240404853820ffe1ab7512049c3c382bddb7ab3c&smart=true&width=616&height=442",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:28",
+     "autor": "",
+     "titulo_original": "Hay alerta amarilla por vientos, nevadas y lluvias para este sábado 12 de septiembre: las provincias afectadas"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "refuerzan la seguridad en El Palomar tras el robo en el que balearon a un padre frente a una escuela",
+     "resumen": "El Municipio de Morón y la Jefatura Departamental acordaron un operativo extraordinario de prevención en las calles cercanas al colegio, luego de que un padre fuera baleado la semana pasada durante un intento de robo de su camioneta mientras dejaba a su hija en el jardín de infantes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/12/tras-el-robo-en-el-que-balearon-a-un-padre-frente-a-una-escuela-de-el-palomar-reforzaran-la-seguridad-en-la-zona/",
+     "imagen": "https://www.infobae.com/resizer/v2/GIDGEJZWYJEMPOA5SKXXO4JJ5A.jpg?auth=f1ea6870b0e8ea3995fd6f01d3cf81a22f9589f9edcadbebc2d68ec84dee70e8&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:22",
+     "autor": "",
+     "titulo_original": "Tras el robo en el que balearon a un padre frente a una escuela de El Palomar, reforzarán la seguridad en la zona"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del sábado doce de septiembre. El Gobierno envía esta semana al Congreso la ley de Defensa de la Soberanía sobre Malvinas, mientras Donald Trump advirtió desde Dublín que un conflicto entre Argentina y el Reino Unido por las islas sería un desastre potencial. El dólar oficial cerró en mil quinientos treinta pesos, el dólar blue en mil quinientos cuarenta y cinco pesos, el oro cotiza en cuatro mil cuatrocientos nueve dólares y el riesgo país se ubica en cuatrocientos ochenta y cinco puntos, con una inflación de agosto de uno coma siete por ciento mensual.\n\nEn política, el gobierno de Javier Milei enviará al Congreso un proyecto que agrava las sanciones para las empresas que exploren petróleo o pesquen en las islas Malvinas, y que también alcanzaría a los barcos que crucen las doscientas millas de mar argentino colaborando con ellas. En paralelo, Donald Trump dijo en Dublín, tras reunirse con el primer ministro irlandés, que un conflicto entre Argentina y el Reino Unido por las Malvinas sería un desastre potencial, aunque confía en poder resolverlo si le piden intervenir. El Senado, por su parte, arranca el martes quince el debate por la reforma electoral, aunque el oficialismo todavía no tiene acuerdo con sus aliados para eliminar las PASO. También se supo que el Ministerio de Justicia acumula doscientos treinta y un pliegos judiciales elevados, con ciento sesenta y seis designaciones ya firmes, un número récord. En la provincia de Buenos Aires, un senador del PRO advirtió que el kirchnerismo podría extender la suspensión de la nueva ley penal juvenil, y crece además la disputa entre La Pampa y Mendoza por las regalías de una represa. Por otro lado, el exgobernador entrerriano Sergio Urribarri fue trasladado a una granja penal de Gualeguaychú para cumplir su condena por administración fraudulenta.\n\nEn economía, el ministro Luis Caputo aprovecha el boom de dólares del comercio exterior, que podría acercarse a treinta mil millones de dólares este año, para asegurar la calma cambiaria hasta las elecciones. El petróleo sigue siendo la principal preocupación: el barril Brent cerró en ciento siete dólares con sesenta y tres centavos, una suba superior al treinta por ciento desde agosto, lo que aleja la posibilidad de una baja en los combustibles locales y golpea directo en los costos logísticos de las empresas. Un informe privado señala además que la mora crediticia, aunque no representa un riesgo sistémico para los bancos, sí es un problema macroeconómico que recién empieza a mostrar su efecto sobre el consumo. Más de cuarenta consultoras y bancos ajustaron sus proyecciones de inflación para este año, mientras el Merval recuperó cerca de ocho mil novecientos millones de dólares de valor de mercado desde marzo, aunque sigue atrapado en un rango lateral. El mercado, de cara a dos mil veintisiete, ya empieza a proyectar mayor tensión cambiaria y suba de tasas por la incertidumbre electoral.\n\nEn negocios y empresas, la actividad industrial no encuentra piso: el índice que mide la Unión Industrial Argentina cayó a cuarenta coma cuatro puntos en julio, con una caída interanual de cuatro coma siete puntos porcentuales y todos los sectores por debajo de la barrera de expansión. Del lado de las buenas noticias, una startup argentina llamada Galo ya opera en cuatro países y procesa más de cinco millones de dólares mensuales convirtiendo WhatsApp en el centro de operaciones comerciales de las pequeñas empresas. El sector de la Economía del Conocimiento, por su parte, superó los diez mil millones de dólares de exportaciones en el último año, aunque preocupan los malos resultados educativos del país en las pruebas PISA. Y en Europa, el testamento del diseñador Giorgio Armani exige vender su imperio de ocho mil millones de dólares dentro de dieciocho meses.\n\nEn impuestos y normativa, la Superintendencia de Riesgos del Trabajo actualizó las indemnizaciones por accidentes laborales, que ahora llegan hasta ciento catorce millones de pesos, un ajuste que las empresas deberán trasladar a sus pólizas de cobertura. Además, jubilaciones, pensiones y la Asignación Universal por Hijo tendrán aumento en octubre. ARCA recordó además los límites que activan controles en transferencias entre cuentas propias, y a seis meses de su vigencia la Justicia todavía no define si la reforma laboral es válida. Por último, el régimen de Inocencia Fiscal suma un nuevo capítulo, con el organismo recaudador postergando otra vez, hasta el veintidós de septiembre, el plazo del esquema simplificado de liquidación de Ganancias.\n\nEn consumo y construcción, el dato más relevante para el sector es que construir una casa de cien metros cuadrados en Buenos Aires ya cuesta casi ciento cincuenta mil dólares, un costo que sigue siendo un freno para la demanda de materiales. Una desarrolladora lanzó además un plan canje inmobiliario en Martínez, que permite entregar una propiedad como parte de pago de una vivienda nueva. Los alquileres en la Ciudad de Buenos Aires, mientras tanto, subieron diecinueve coma dos por ciento en el año, y un congreso especializado insistió en que el problema habitacional es financiero y no económico. También se conoció que los locales vacíos en la Ciudad se dispararon a doscientos ochenta y cuatro comercios sin actividad en julio y agosto.\n\nEn management y finanzas corporativas, el Banco Central prepara la vuelta de las cuotas sin interés con tarjeta de crédito, con un sistema que buscaría bajar a la mitad la tasa que hoy cobran los adquirentes. También se conocieron los nuevos salarios de septiembre para encargados de edificios y empleados bancarios, ambos por encima de la inflación.\n\nEn el mundo, Donald Trump dijo que sería fantástico ver una Irlanda unificada, mientras Rusia descartó de plano una reunión entre Vladimir Putin y Volodimir Zelensky en la cumbre del G20 en Miami. En Chile, un incendio en un geriátrico clandestino de la localidad de Pitrufquén dejó dieciséis muertos, lo que llevó al presidente José Antonio Kast a ordenar una revisión de todas las residencias del país. En España, la inmigración sacude la estrategia electoral de Pedro Sánchez, y en Líbano el ejército detuvo a un familiar del derrocado dictador sirio Bashar al Assad por posesión de armas y drogas. En San Pablo, Brasil, se derrumbó un edificio en construcción sobre una casa y dejó al menos dos muertos.\n\nLe Grand Continent analiza cómo la guerra en Irán acentúa la brecha de crecimiento entre los países del BRICS y el G7, con el Fondo Monetario Internacional recortando sus previsiones para Estados Unidos y sus socios occidentales. La revista también describe cómo China y Rusia invocan una cláusula poco conocida de la Carta de las Naciones Unidas para presionar a Japón por su plan de rearme, en momentos en que el gasto militar chino quintuplica al japonés.\n\nEn deportes, River jugó con un hombre de más ante Atlético Tucumán tras la expulsión de Franco Nicola y se puso en ventaja con un gol de Tobías Andrada. Estudiantes, con menos figuras pensando en la Copa Libertadores, venció a Platense en el descuento con goles de sus dos delanteros centrales, en un partido marcado por el regreso de Martín Palermo a la cancha, ahora como técnico rival. En el tenis, Aryna Sabalenka y Elena Rybakina se preparan para la final del US Open con el número uno del ranking en juego. En la Fórmula 1, Franco Colapinto superó a su compañero Pierre Gasly y largará noveno en el Gran Premio de España, mientras que en la Fórmula 3 un violento accidente múltiple obligó a detener la carrera por media hora. Y en las artes marciales mixtas, la mexicana Alexa Grasso se convirtió en la primera campeona de su país en la historia de la UFC.\n\nEn sociedad, una pintada en el baño de un colegio de San Juan denunció un abuso contra una nena de diez años, y un temporal con tornado en Misiones dejó destrozos y un muerto en una zona rural. El Servicio Meteorológico Nacional emitió además una alerta amarilla por vientos, nevadas y lluvias para varias provincias este sábado. Para cerrar, si están pensando en un viaje, Río de Janeiro ofrece mucho más que sus postales más conocidas: además de Copacabana, Ipanema y el Cristo Redentor, la ciudad renovó su zona portuaria y suma una escena gastronómica que cruza distintas tradiciones.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "slug": "2026-09-12-tarde",
+ "generado_ba": "12/09/2026 21:09"
+}
