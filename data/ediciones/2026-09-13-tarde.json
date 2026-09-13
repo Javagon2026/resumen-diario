@@ -1,0 +1,866 @@
+{
+ "fecha": "2026-09-13",
+ "edicion": "tarde",
+ "titulo": "Reforma electoral sin votos, ataque ruso cerca de Polonia y séptimo puesto de Colapinto",
+ "apertura": "El Gobierno impulsará esta semana en el Senado la reforma electoral pese a admitir que no cuenta con los votos, mientras el PRO negocia un acuerdo con La Libertad Avanza sin despejar sus dudas sobre la Ciudad. En el plano internacional, un dron ruso impactó un tren de pasajeros cerca de la frontera con Polonia -con Boris Johnson entre los posibles objetivos- y la oposición de centroizquierda se impuso en las elecciones de Suecia. En la agenda económica, un informe privado proyecta el mayor ajuste del gasto público en tres años y las consultoras revisan sus proyecciones de dólar e inflación, mientras Franco Colapinto sumó puntos con un séptimo puesto en el Gran Premio de España.",
+ "claves": [
+  "El Gobierno activó el debate de la reforma electoral en el Senado pese a admitir que no tiene los votos para aprobarla.",
+  "El PRO ve señales de acercamiento con La Libertad Avanza, pero mantiene dudas sobre sus intenciones en la Ciudad.",
+  "Un dron ruso impactó un tren de pasajeros cerca de la frontera con Polonia; Boris Johnson habría sido uno de los objetivos.",
+  "En Suecia, la oposición de centroizquierda se impuso en las elecciones generales con el 51,3% de los votos.",
+  "El IARAF proyecta que el gasto primario nacional cerraría 2026 en el 12,4% del PBI, el mayor ajuste en tres años.",
+  "ARCA trabó más de 27.000 embargos sobre pymes en la región de Rosario desde 2021.",
+  "Los bancos volvieron a bajar las tasas de los créditos hipotecarios UVA, con opciones ya por debajo del 7,5%.",
+  "Franco Colapinto terminó séptimo en el Gran Premio de España de Fórmula 1 y sumó seis puntos para Alpine."
+ ],
+ "cifras": [
+  {
+   "nombre": "Gasto primario nacional 2026 (proyectado, IARAF)",
+   "valor": "12,4% del PBI",
+   "variacion": "-5,4 p.p. vs. 2023",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Embargos de ARCA a pymes (Rosario, 2021-jul. 2026)",
+   "valor": "27.045",
+   "fuente": "AM-04"
+  },
+  {
+   "nombre": "Precios de alimentos y bebidas, 2da semana de sept. (LCG)",
+   "valor": "+3%",
+   "fuente": "CR-12"
+  },
+  {
+   "nombre": "Depósitos en pesos (agosto)",
+   "valor": "-0,6% real",
+   "fuente": "AM-10"
+  },
+  {
+   "nombre": "Fondos money market (acumulado 2026)",
+   "valor": "+10% real",
+   "fuente": "AM-10"
+  },
+  {
+   "nombre": "Exportaciones de Vaca Muerta y minería (proyección BCRA, 2027)",
+   "valor": "US$ 24.000 millones",
+   "fuente": "IP-03"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-06",
+     "titulo": "el Gobierno activa el debate de la reforma electoral y admite que no tiene los votos",
+     "resumen": "El Senado habilitará este martes el tratamiento en comisión de la reforma electoral, que contempla la eliminación de las PASO, aunque el oficialismo reconoce que todavía no cuenta con los votos necesarios. El Gobierno detectó que sus aliados usan el tema como herramienta de negociación electoral y apuesta al diálogo con el PRO, la UCR y los gobernadores para destrabarlo, por orden de Karina Milei.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/13/reforma-electoral-el-gobierno-activa-el-debate-admite-que-no-tiene-los-votos-y-apuesta-a-conseguirlos/",
+     "imagen": "https://www.infobae.com/resizer/v2/XZVX7X57WFFXFPSKX4XSN5ITT4.jpg?auth=c9221cb15f97978076be8bb995a4f7aa74267cab6dd629e5a7d462cb933a3030&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:49",
+     "autor": "Sofia Rojas",
+     "titulo_original": "Reforma electoral: el Gobierno activa el debate, admite que no tiene los votos y apuesta a conseguirlos"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "el PRO desconfía de LLA y negocia un acuerdo nacional, pero la tensión persiste en la Ciudad",
+     "resumen": "Tras tres reuniones en la Casa Rosada, el macrismo ve señales de acercamiento con el Gobierno nacional, pero mantiene dudas sobre las verdaderas intenciones de La Libertad Avanza en los distritos que administra. El principal foco de tensión está en la Ciudad de Buenos Aires, donde la funcionaria libertaria Pilar Ramírez cuestionó al jefe de Gobierno, Jorge Macri.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/pro-desconfia-libertad-avanza-negocian-acuerdo-nacional-siguen-jugando-fuerte-ciudad_0_oKBKnFSLI3.html",
+     "imagen": "https://www.clarin.com/img/2026/08/28/pE9m8KjUu_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El PRO desconfía de La Libertad Avanza: negocian un acuerdo nacional, pero siguen jugando fuerte en la Ciudad"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "el papa León XIV pidió un progreso que \"no deje nuevas ruinas a su paso\"",
+     "resumen": "En el cierre del Encuentro Fratelli Tutti en Roma, el papa León XIV recibió a delegaciones gremiales, del sector privado y de organizaciones populares del continente y llamó a construir un progreso que no deje nuevas ruinas a su paso. El secretario general de la UTEP, Alejandro Gramajo, le entregó un informe de más de 60 páginas sobre el deterioro social y económico de la Argentina.",
+     "relacionadas": [
+      {
+       "id": "CL-21",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tras reunirse con el Papa, un líder de la CGT apuntó al Gobierno por las familias en mora: \"Hacen oídos sordos, pero el problema es su programa económico\"",
+       "url": "https://www.clarin.com/politica/reunirse-papa-lider-cgt-apunto-gobierno-familias-mora-hacen-oidos-sordos-problema-programa-economico_0_SpnVZjpuGS.html"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/13/el-papa-leon-xiv-llamo-a-construir-un-progreso-que-no-deje-nuevas-ruinas-a-su-paso-en-un-encuentro-con-empresarios-y-movimientos-sociales-del-continente/",
+     "imagen": "https://www.infobae.com/resizer/v2/OB42EHCOTZGGFPREEWRMM6PEL4.png?auth=b942b1ed1478300b6d4b3ed216d1004f2ce81fd3dd544cbf34b4bc925da52123&smart=true&width=900&height=593",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:37",
+     "autor": "Andrés Klipphan",
+     "titulo_original": "El Papa León XIV llamó a construir un progreso que “no deje nuevas ruinas a su paso” en un encuentro con empresarios y movimientos sociales del continente"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "renunció Santiago Muzio como director de la Casa Argentina en París",
+     "resumen": "Santiago Muzio presentó su renuncia tras meses de cuestionamientos por presuntas expulsiones de residentes, el retiro de una placa en homenaje a los desaparecidos durante la dictadura y reuniones con grupos de extrema derecha. El abogado había sido designado en 2024 por el gobierno de Javier Milei; su reemplazante será Alfredo Mario Soto.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/13/renuncio-santiago-muzio-director-de-la-casa-argentina-en-paris/",
+     "imagen": "https://www.infobae.com/resizer/v2/IMUXYL557JEZRL4TBD2TC3BKPU.jpg?auth=2a6fd80068b23291a6c758d2d075ee3180cdc9f660ab07e97c9ae2c6780afd2d&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:09",
+     "autor": "",
+     "titulo_original": "Renunció Santiago Muzio, director de la Casa Argentina en París"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "el ministro de Defensa dijo que los dichos de Trump sobre Malvinas buscan \"una solución pacífica\"",
+     "resumen": "Carlos Presti sostuvo que las declaraciones de Donald Trump sobre un eventual conflicto por las Islas Malvinas no son \"en contra de nadie, sino a favor de una solución pacífica\" y remarcó que la alianza de Argentina con Estados Unidos en materia de defensa \"permite equiparnos y posicionarnos\". Trump había advertido sobre un \"desastre potencial\" con Gran Bretaña y se ofreció como mediador.",
+     "relacionadas": [
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Para Carlos Presti, los dichos de Trump sobre un posible conflicto en Malvinas son “en busca de una solución pacífica”",
+       "url": "https://www.infobae.com/politica/2026/09/13/para-carlos-presti-los-dichos-de-trump-sobre-un-posible-conflicto-en-malvinas-son-en-busca-de-una-solucion-pacifica/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/nadie-favor-solucion-pacifica-dijo-ministro-defensa-dichos-trump-malvinas_0_MUBtnCum8C.html",
+     "imagen": "https://www.clarin.com/img/2026/08/14/io4Hxpmbz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:29",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"No es en contra de nadie, sino a favor de una solución pacífica\", dijo el ministro de Defensa tras los dichos de Trump sobre Malvinas"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "el Congreso tendrá una semana cargada con Malvinas y el Presupuesto",
+     "resumen": "La Casa Rosada enviará esta semana al Congreso las iniciativas sobre Malvinas y el Presupuesto 2027. En paralelo, el Senado apura el tratamiento de Inocencia Fiscal II y la nueva Carta Orgánica del Banco Central, mientras la oposición en Diputados busca avanzar con los temas que forzó dictaminar en la última sesión: endeudamiento y emergencia en discapacidad.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/con-malvinas-y-presupuesto-como-protagonistas-se-viene-una-semana-cargada-el-congreso-n6321272",
+     "imagen": "https://media.ambito.com/p/bf569c5378b2c44d27aabc69190b64e8/adjuntos/239/imagenes/043/336/0043336773/1200x675/3252x1062:3272x1082/javier-milei-karina-milei-congreso.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:17",
+     "autor": "",
+     "titulo_original": "Con Malvinas y Presupuesto como protagonistas, se viene una semana cargada en el Congreso"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "el Gobierno cerraría 2026 con el mayor ajuste del gasto en tres años",
+     "resumen": "La recaudación tributaria nacional acumula una caída del 5% real interanual entre enero y agosto, según el Instituto Argentino de Análisis Fiscal (IARAF). Si se mantiene el ritmo de reducción observado hasta agosto, el gasto primario de la Administración Pública Nacional podría cerrar el año en el equivalente al 12,4% del PBI, una caída de 5,4 puntos porcentuales respecto de 2023.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/preven-que-el-gobierno-cerraria-2026-con-el-mayor-ajuste-del-gasto-en-tres-anos/",
+     "imagen": "https://www.cronista.com/resizer/v2/BYYUEKGJFRDF7OIIHIKHCOCHIQ.jpg?auth=0f89525a00be01ec76315971d8fc49bbf2a2357f3092a095315a22e12dde7b18&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:22",
+     "autor": "Matías Rufino",
+     "titulo_original": "Prevén que el Gobierno cerraría 2026 con el mayor ajuste del gasto en tres años"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "el mercado recalcula el dólar: qué esperan más de 40 consultoras para fin de año",
+     "resumen": "Ante un escenario de dólar calmo y compra de reservas por parte del Banco Central, los analistas volvieron a modificar sus proyecciones de tipo de cambio para fin de año, según el reporte de septiembre de FocusEconomics. El documento muestra además un ajuste a la baja en las perspectivas de crecimiento y un repunte en las expectativas inflacionarias respecto de la medición anterior.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-mercado-recalcula-el-dolar-que-precio-esperan-mas-de-40-consultoras-y-bancos-para-fin-de-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/74TWY53QKJCSFFTJ5HT2JAVXCY.jpg?auth=2f42a38d0797b79a5557be67b488791602a19068a67c3368e5e8622fcd1fea17&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:42",
+     "autor": "",
+     "titulo_original": "El mercado recalcula el dólar: qué precio esperan más de 40 consultoras y bancos para fin de año"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "los depósitos en pesos caen pese a las tasas positivas y ganan terreno los money market",
+     "resumen": "Los depósitos bancarios en pesos retrocedieron 0,6% real en agosto, pese a que las tasas fueron levemente positivas frente a la inflación. En paralelo, los fondos money market acumulan un crecimiento real del 10% en lo que va de 2026 y los depósitos en dólares avanzan 11,5%.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/depositos-pesos-presion-caen-pese-las-tasas-positivas-y-los-money-market-ganan-terreno-n6321775",
+     "imagen": "https://media.ambito.com/p/254bb285de7e45e2c3d1273fbb583d08/adjuntos/239/imagenes/041/736/0041736878/pesos-billetes.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:49",
+     "autor": "",
+     "titulo_original": "Depósitos en pesos bajo presión: caen pese a las tasas positivas y los money market ganan terreno"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "la inteligencia artificial enciende alarmas en Wall Street y crece el debate por una rotación de carteras",
+     "resumen": "Sam Altman, Elon Musk y Dario Amodei coincidieron en la necesidad de desacelerar el desarrollo de los modelos de inteligencia artificial más avanzados. En paralelo, grandes fondos globales comenzaron a exigir mayor información para conocer cuánto de sus inversiones depende directa o indirectamente del boom de la inteligencia artificial.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/la-ia-enciende-las-alarmas-wall-street-las-tecnologicas-piden-pisar-el-freno-posible-rotacion-carteras-n6321761",
+     "imagen": "https://media.ambito.com/p/0ba583ff0e678c135136b56a095faf81/adjuntos/239/imagenes/043/605/0043605413/1200x675/smart/nvidia.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:32",
+     "autor": "",
+     "titulo_original": "La IA enciende las alarmas en Wall Street: las tecnológicas piden pisar el freno, ¿posible rotación de carteras?"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "un dato de precios de alimentos enciende una alerta para septiembre",
+     "resumen": "La inflación de agosto se ubicó en 1,7% y volvió a perforar el umbral del 2%, pero un relevamiento de alta frecuencia sobre precios de alimentos y bebidas de Labour Capital & Growth (LCG) registró una suba del 3% en la segunda semana de septiembre, tras varias semanas de variaciones marginales, negativas o nulas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-dato-que-pone-un-freno-al-optimismo-por-la-inflacion-y-anticipa-un-septiembre-mas-dificil/",
+     "imagen": "https://www.cronista.com/resizer/v2/URRDYMQ3CBEMVPJFVYLM4U4WJY.jpg?auth=fba0b1046c8bc76391368c385037eb24861c0d11042a768f551021920506b5a0&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:40",
+     "autor": "",
+     "titulo_original": "Un dato clave del IPC cambia de rumbo y enciende una alerta para septiembre"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "la peor foto del humor social en un año, con señales que empiezan a favorecer a Milei",
+     "resumen": "La última medición mensual del humor social en la Argentina es la más adversa desde que comenzó a tomarse el pulso a la opinión pública, según El Cronista. Sin embargo, en la serie de los últimos doce meses la aprobación del Gobierno dejó de caer, la desaprobación empezó a ceder y hasta la disposición a tolerar el ajuste volvió a crecer.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-peor-foto-del-humor-social-en-un-ano-y-las-senales-que-empiezan-a-favorecer-a-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/CIQ5ZEXFXVGQHODNCA2XU3CVQI.jpg?auth=d1ba448dc9b6f8bd0c7bf59c46b4ad3eab52f672af46823687228f1cc4b53872&smart=true&width=767&height=432",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:43",
+     "autor": "",
+     "titulo_original": "La peor foto del humor social en un año y las señales que empiezan a favorecer a Milei"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "de la Fed al petróleo: los cinco riesgos que preocupan a Citi de cara a fin de año",
+     "resumen": "Un informe de Citi identificó cinco focos de riesgo para los mercados hacia fin de año: la política monetaria de la Reserva Federal, la suba de los rendimientos de los bonos, la situación de Japón y los precios de la energía, entre otros factores.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/de-la-fed-al-petroleo-los-cinco-riesgos-que-preocupan-citi-y-pueden-golpear-los-mercados-n6321755",
+     "imagen": "https://media.ambito.com/p/d9400ec5bcca6d11f37970b163e063ff/adjuntos/239/imagenes/041/911/0041911352/mercados-eeuu-wall-street.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:47",
+     "autor": "",
+     "titulo_original": "De la Fed al petróleo: los cinco riesgos que preocupan a Citi y pueden golpear a los mercados"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "Caputo palpita una lluvia de dólares inédita: Vaca Muerta y minería dejarían US$ 24.000 millones",
+     "resumen": "Las previsiones del Banco Central anticipan un fuerte salto en las exportaciones de energía y minería, que aportarían 24.000 millones de dólares el año que viene, según iProfesional. El dato alimenta la apuesta oficial a sostener la calma cambiaria de cara a las próximas elecciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464231-la-inedita-cantidad-de-dolares-que-entraran-por-vaca-muerta-y-mineria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601650.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "Caputo palpita lluvia de dólares inédita: Vaca Muerta y minería dejarán u$s24.000 millones"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "de un garage a las mejores ópticas de Estados Unidos y Europa: la marca argentina que conquistó a Lali y Fito Páez",
+     "resumen": "Nicolás Schirmer fundó Hardem Eyewear con 39.000 dólares de inversión propia, a partir de la idea de que los anteojos dejaban de ser un objeto técnico para convertirse en un accesorio de moda. La marca está hoy en más de 600 ópticas del país, vende en Argentina, Europa y Canadá, y proyecta facturar más de 1,2 millones de dólares al cierre de 2026, según El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/de-un-garage-a-las-mejores-opticas-de-eeuu-y-europa-creo-una-marca-de-anteojos-que-conquisto-a-lali-y-fito-paez/",
+     "imagen": "https://www.cronista.com/resizer/v2/JGD24FIQ3NEHHCTJUF3CUI7R5E.jpg?auth=d0dc816abb921b920aaf4e3d7772678fe6efb5661317e1f28f5bf73d6a51b983&smart=true&width=900&height=1350",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:00",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "De un garage a las mejores ópticas de EE.UU. y Europa: creó una marca de anteojos que conquistó a Lali y Fito Páez"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "Superdry abre la búsqueda de franquiciados para crecer en las principales ciudades del país",
+     "resumen": "La marca británica ofrece franquicias con exclusividad territorial y márgenes para vender en shoppings, con diez aperturas previstas en Argentina, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464139-cuanto-cuesta-franquicia-de-marca-de-ropa-britanica-superdry",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625420.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:03",
+     "autor": "",
+     "titulo_original": "Superdry abre la búsqueda de franquiciados para crecer en las principales ciudades del país"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "cuánto hay que invertir para abrir una franquicia de hamburgueserías Leno",
+     "resumen": "La cadena de hamburguesas creada por uno de los influencers más populares del rubro abrió su sistema de franquicias e invita a invertir en todo el país, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464349-cuanto-hay-que-invertir-para-abrir-una-franquicia-de-hamburgueserias-leno",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625598.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:45",
+     "autor": "",
+     "titulo_original": "Cuánto hay que invertir para abrir una franquicia de hamburgueserías Leno"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "más allá de la música, el nuevo negocio de Pablito Lescano",
+     "resumen": "El líder de Damas Gratis no se quedó afuera del boom de los nuevos alfajores y lanzó ATR, el alfajor de la banda, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/recreo/463857-pablito-lescano-alfajor-damas-gratis-atr",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625181.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:44",
+     "autor": "",
+     "titulo_original": "Más allá de la música, el nuevo negocio de Pablito Lescano, el líder de Damas Gratis"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "AM-04",
+     "titulo": "embargar al que menos puede: la paradoja fiscal que golpea a las pymes",
+     "resumen": "Entre 2021 y julio de 2026, la Delegación Regional Rosario de ARCA trabó 27.045 embargos sobre 11.458 empresas; tres de cada cuatro fueron microempresas, según Ámbito. Desde la entidad FECOI reclamaron que el Estado cobre \"sin destruir al que mañana tiene que volver a pagarle\".",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/embargar-al-que-menos-puede-la-paradoja-fiscal-que-golpea-las-pymes-n6321803",
+     "imagen": "https://media.ambito.com/p/305edff8a9c4732a019ed8cbaca78bcc/adjuntos/239/imagenes/043/329/0043329607/1200x675/940x415:960x435/industria-pyme.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:27",
+     "autor": "",
+     "titulo_original": "Embargar al que menos puede: la paradoja fiscal que golpea a las PyMEs"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "ARCA hizo una aclaración clave sobre Ganancias que beneficia a miles de contribuyentes",
+     "resumen": "El organismo aclaró qué sucede con los pagos de más, los saldos a favor y las diferencias en el impuesto a las Ganancias, mientras el Congreso debate ampliar el régimen simplificado, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464209-arca-hizo-una-aclaracion-clave-sobre-ganancias-y-beneficia-a-miles-de-contribuyentes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617921.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "ARCA hizo una aclaración clave sobre Ganancias y beneficia a miles de contribuyentes"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "empleadas domésticas: ya se sabe cuánto cobrarán la hora en octubre",
+     "resumen": "El personal de casas particulares tendrá un nuevo aumento en octubre, con valores mínimos que cambian según la categoría y la modalidad de trabajo, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464217-empleada-domestica-a-cuanto-subira-la-hora-con-retiro-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/10/504800.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Empleadas domésticas: ya se sabe cuánto cobrarán la hora en octubre tras los aumentos"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "empleadas domésticas: cuánto se paga por trabajar menos de 48 horas en septiembre",
+     "resumen": "Quienes trabajan menos de 48 horas semanales en el servicio doméstico tienen un cálculo salarial diferente según la jornada, la categoría y la modalidad de trabajo, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464222-empleadas-domesticas-cuanto-se-paga-por-trabajar-menos-de-48-horas-en-septiembre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2018/08/465000.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Empleadas domésticas: cuánto se paga por trabajar menos de 48 horas en septiembre"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-18",
+     "titulo": "créditos hipotecarios: los bancos que más bajaron las tasas en 2026",
+     "resumen": "Los bancos recortaron las tasas de los créditos hipotecarios UVA y ya hay opciones por debajo del 7,5%, según iProfesional. Para una empresa de materiales de construcción, una demanda hipotecaria más activa puede sostener las ventas de insumos en los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464214-creditos-hipotecarios-los-bancos-que-mas-bajaron-las-tasas-en-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614010.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:10",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios: los bancos que más bajaron las tasas en 2026"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "la casa moderna hecha con contenedores que cuesta menos que un Cronos usado",
+     "resumen": "Una marca propone viviendas modulares basadas en contenedores marítimos, con entrega en 120 días y distintas opciones de financiación, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464136-casa-hecha-con-contenedores-que-vale-menos-que-auto-cronos-usado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625395.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:29",
+     "autor": "",
+     "titulo_original": "La casa moderna hecha con contenedores que cuesta menos que un Cronos usado"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "OH! Buenos Aires ya confirmó 110 locales y nuevas marcas internacionales en Recoleta",
+     "resumen": "El nuevo centro comercial avanza hacia su apertura con 110 locales, nuevas marcas internacionales y una propuesta gastronómica de 30 opciones, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464260-que-marcas-estaran-en-el-nuevo-shopping-bioclimatico-que-abre-a-fin-de-ano-en-caba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/602997.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "OH! Buenos Aires ya confirmó 110 locales y nuevas marcas internacionales en Recoleta"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "esta cadena de supermercados no detiene su crecimiento y abre la quinta sucursal",
+     "resumen": "Una firma tucumana inauguró el local más grande de los que abrió en los últimos seis años, desde que empezó en 2020, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/464013-nueva-cadena-de-supermercados-no-detiene-su-crecimiento-y-abre-la-quinta-sucursal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625277.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:25",
+     "autor": "",
+     "titulo_original": "Esta nueva cadena de supermercados no detiene su crecimiento y abre la quinta sucursal"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "flipping inmobiliario: qué tener en cuenta para ganar hasta 30% reciclando una vivienda",
+     "resumen": "El negocio gana atractivo, pero exige mirar mucho más que el precio de compra: hay costos, tiempos y decisiones que pueden definir el resultado final, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464156-flipping-inmobiliario-como-ganar-hasta-30-por-ciento-reciclando-vivienda",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625456.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:53",
+     "autor": "",
+     "titulo_original": "Flipping inmobiliario: qué tener en cuenta para ganar hasta 30% reciclando una vivienda"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-14",
+     "titulo": "cómo aprovechar el tiempo que se gana en las empresas con el uso de la IA",
+     "resumen": "La brecha entre la adopción y el impacto real de la inteligencia artificial en las empresas argentinas ya se mide, y tiene solución concreta, según expertos consultados por iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/464069-como-aprovechar-tiempo-que-se-gana-en-empresas-con-inteligencia-artificial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625322.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:25",
+     "autor": "",
+     "titulo_original": "Cómo aprovechar el tiempo que se gana en las empresas con el uso de la IA, según los expertos"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "las 10 habilidades \"humanas\" que la IA no puede replicar y que garantizan el éxito laboral",
+     "resumen": "Un relevamiento de iProfesional identificó las habilidades blandas que más busca el mercado laboral argentino en 2026, con diferencias entre los empleos fijos y las vacantes freelance.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464206-las-10-habilidades-humanas-que-la-ia-no-puede-replicar-y-que-garantizan-el-exito-laboral",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/03/550936.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:10",
+     "autor": "",
+     "titulo_original": "Las 10 habilidades \"humanas\" que la IA no puede replicar y que garantizan el éxito laboral"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-06",
+     "titulo": "un dron ruso impacta un tren en la frontera entre Ucrania y Polonia",
+     "resumen": "Un dron impactó un tren de pasajeros que circulaba entre Kiev y Varsovia, a dos kilómetros de la frontera con Polonia; no se registraron heridos. El Kremlin dijo que los vagones \"transportaban carga militar\", pero la empresa ferroviaria ucraniana Ukrzaliznytsia deslizó que el posible objetivo era un \"tren diplomático\".",
+     "relacionadas": [
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Rusia atacó a Ucrania cerca de la frontera con Polonia: afectó a varios políticos extranjeros que estaban en la zona",
+       "url": "https://www.clarin.com/mundo/rusia-ataco-ucrania-cerca-frontera-polonia-afecto-varios-politicos-extranjeros-zona_0_S9zGtzv00y.html"
+      },
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Polonia reforzará la seguridad en su frontera ante la escalada rusa y advirtió que los ataques podrían llegar a su territorio",
+       "url": "https://www.infobae.com/america/mundo/2026/09/13/polonia-reforzara-la-seguridad-en-su-frontera-ante-la-escalada-rusa-y-advirtio-que-los-ataques-podrian-llegar-a-su-territorio/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/ucrania-y-polonia-denunciaron-que-rusia-ataco-un-tren-que-iba-de-kiev-a-varsovia-con-206-pasajeros-a-nid13092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BMOXMYKHOVHEDLIRIHPN2FQ5FE.JPG?auth=a2dfbc5d8f66bcb0bfeaccad11cab84e6ec009ad9c2409ceae913d908e9cfee2&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:45",
+     "autor": "",
+     "titulo_original": "Un dron ruso impacta en un tren en la frontera entre Ucrania y Polonia: creen que Boris Johnson y un exdirector de la CIA eran el objetivo"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "en Suecia se impone la oposición de centroizquierda y la extrema derecha pierde terreno",
+     "resumen": "La oposición de centroizquierda ganó las elecciones generales suecas con el 51,3% frente al 46,8% del bloque gubernamental del primer ministro conservador Ulf Kristersson, según un sondeo de la televisión pública SVT. De confirmarse, el Partido Socialdemócrata podría recuperar el poder, aunque retrocedería casi dos puntos porcentuales respecto de los comicios de 2022.",
+     "relacionadas": [
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Elecciones en Suecia: la oposición de centroizquierda se impone ante el oficialismo",
+       "url": "https://www.ambito.com/mundo/elecciones-suecia-la-oposicion-centroizquierda-se-impone-el-oficialismo-n6321793"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/elecciones-suecia-impone-oposicion-centroizquierda-extrema-derecha-pierde-terreno_0_C9NDgIpQhq.html",
+     "imagen": "https://www.clarin.com/img/2026/09/13/CuWlZRt_5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones en Suecia: se impone la oposición de centroizquierda y la extrema derecha pierde terreno"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "en Brasil, el Tribunal Supremo revela otra investigación sobre la financiación de un film sobre Bolsonaro",
+     "resumen": "El magistrado Flávio Dino desclasificó material sobre la presunta trama que desvió partidas del presupuesto federal para la producción de \"Dark Horse\", la película sobre la vida de Jair Bolsonaro. La financiación irregular también es objeto de otra causa en el Supremo que investiga al senador Flávio Bolsonaro, candidato presidencial del PL en las elecciones de octubre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/elecciones-brasil-tribunal-supremo-revela-investigacion-financiacion-filme-jair-bolsonaro_0_NXY2aVr0Wm.html",
+     "imagen": "https://www.clarin.com/img/2022/10/02/OcPfFQUub_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones en Brasil: el Tribunal Supremo revela otra investigación sobre la financiación del filme de Jair Bolsonaro"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "Irán pospone conversaciones con sus vecinos tras el ataque a un mercante iraní",
+     "resumen": "Un mercante iraní fue atacado cerca del estrecho de Ormuz, con un muerto y cuatro heridos, según medios estatales. El ataque pospuso una reunión regional clave; Estados Unidos no comentó sobre una eventual implicación.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/iran-pospone-conversaciones-entre-teheran-y-sus-vecinos-tras-ataque-a-mercante-irani_0_ncsvIGNJzH.html",
+     "imagen": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a mercante iraní"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Irán y Emiratos Árabes Unidos buscan \"dar vuelta la página\" en medio de la guerra",
+     "resumen": "El presidente iraní, Masoud Pezeshkian, dijo que mantuvo un intercambio \"constructivo\" con el príncipe heredero de Abu Dabi al margen de la cumbre de los BRICS en India. Donald Trump, por su parte, aseguró que el conflicto con Teherán \"terminará después de las elecciones de medio término\".",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/13/iran-dijo-que-junto-a-emiratos-arabes-unidos-buscan-dar-vuelta-la-pagina-en-medio-de-las-crecientes-tensiones-por-la-guerra/",
+     "imagen": "https://www.infobae.com/resizer/v2/5X244FLOPFBLLDBN4DI3DFVC6M.JPG?auth=47d15b58bb726153dc358f4714bbf1f08be1ea5709f8f3bd97031f0479d1c141&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:24",
+     "autor": "",
+     "titulo_original": "Irán dijo que junto a Emiratos Árabes Unidos buscan “dar vuelta la página” en medio de las crecientes tensiones por la guerra"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Escocia, Gales e Irlanda del Norte se unen para reclamar la independencia del Reino Unido",
+     "resumen": "Los principales referentes de los movimientos nacionalistas de los tres territorios se reunirán este lunes en Cardiff para firmar un memorando de entendimiento y reclamar consultas populares sobre su futuro político. El episodio se suma a una serie de frentes incómodos para Londres, en medio de los cuestionamientos de Donald Trump sobre Malvinas y una Irlanda unificada.",
+     "relacionadas": [
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Líderes de Escocia, Gales e Irlanda del Norte firmarán un documento para impulsar la independencia del Reino Unido",
+       "url": "https://www.ambito.com/mundo/lideres-escocia-gales-e-irlanda-del-norte-firmaran-un-documento-impulsar-la-independencia-del-reino-unido-n6321753"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/mas-problemas-para-gran-bretana-escocia-gales-e-irlanda-del-norte-se-unen-para-reclamar-su-independencia/",
+     "imagen": "https://www.cronista.com/resizer/v2/K6WPJM3HR5FQ5OI3KCVJRYRUE4.jpg?auth=921c086984a2a6c253b354c8b06e06d0992959a651d8c707334dec6512b9b6b8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:07",
+     "autor": "",
+     "titulo_original": "Más problemas para Gran Bretaña: Escocia, Gales e Irlanda del Norte se unen para reclamar su independencia"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el trasfondo geopolítico de la semana.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Dario Amodei pide frenar el desarrollo de la IA",
+     "resumen": "Dario Amodei, cofundador y director general de Anthropic, publicó el 12 de septiembre un artículo titulado \"We Must Pace the Frontier\" que Le Grand Continent describe como un punto de inflexión en su postura. El texto llega tras una semana en la que empleados de la compañía advirtieron que la trayectoria actual de la inteligencia artificial podría conducir a la extinción de la humanidad; Amodei ya había calificado a la IA de riesgo existencial en enero de 2026.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/13/dario-amodei-pide-frenar-desarrollo-ia-texto-completo-x/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "11:34",
+     "autor": "Louis Puel",
+     "titulo_original": "Dario Amodei pide que se frene el desarrollo de la IA (texto completo)"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-19",
+     "titulo": "Colapinto celebró el séptimo puesto en el GP de España: \"una de mis mejores carreras\"",
+     "resumen": "Franco Colapinto terminó séptimo en el estreno del circuito Madring, sumó seis puntos para Alpine y avanzó dos posiciones desde la largada. \"Hoy no cometí errores\", destacó el piloto argentino, que además recorrió los últimos metros del circuito con una bandera argentina.",
+     "relacionadas": [
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Briatore respaldó a Franco Colapinto con una publicación especial tras su séptimo puesto en el Gran Premio de España",
+       "url": "https://www.infobae.com/deportes/2026/09/13/briatore-respaldo-a-franco-colapinto-con-una-publicacion-especial-tras-su-septimo-puesto-en-el-gran-premio-de-espana/"
+      },
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El exabrupto de Gasly con Alpine mientras Colapinto pedía el cambio de posición en el GP de España: “Ni siquiera me hables”",
+       "url": "https://www.infobae.com/deportes/2026/09/13/el-exabrupto-de-gasly-con-alpine-mientras-colapinto-pedia-el-cambio-de-posicion-en-el-gp-de-espana-ni-siquiera-me-hables/"
+      },
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Briatore se rindió ante Colapinto y Alpine le puso un nuevo apodo tras sus puntos en Madrid: “Colapoints”",
+       "url": "https://www.clarin.com/deportes/briatore-rindio-colapinto-alpine-puso-nuevo-apodo-puntos-madrid-colapoints_0_8ZenMC50jL.html"
+      },
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto sacó una bandera argentina en plena pista tras su gran actuación en el GP de España: el video del festejo",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-saco-una-bandera-argentina-plena-pista-su-gran-actuacion-el-gp-espana-el-video-del-festejo-n6321752"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-celebro-el-septimo-puesto-el-gp-espana-la-formula-1-una-mis-mejores-carreras-n6321757",
+     "imagen": "https://media.ambito.com/p/09bf390a4f91fca3115700babfe1a8fe/adjuntos/239/imagenes/043/639/0043639353/1200x675/smart/colapinto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:06",
+     "autor": "",
+     "titulo_original": "Franco Colapinto celebró el séptimo puesto en el GP de España de la Fórmula 1: \"Una de mis mejores carreras\""
+    },
+    {
+     "id": "AM-03",
+     "titulo": "con Enzo Fernández como figura y uno menos, el Manchester City venció al Manchester United",
+     "resumen": "El equipo de Enzo Maresca se impuso 1-0 en Old Trafford con gol de Erling Haaland, pese a jugar más de una hora con diez futbolistas tras la expulsión de Phil Foden a los 23 minutos. El argentino tuvo una destacada actuación y recibió gestos de cariño de Haaland tras el pitazo final, aunque la polémica por la posición adelantada de Enzo en la jugada del gol generó el enojo de Lisandro Martínez.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los gestos de Haaland con Enzo Fernández tras el clásico de Manchester que el City le ganó al United: el fraternal abrazo",
+       "url": "https://www.infobae.com/deportes/2026/09/13/los-gestos-de-haaland-con-enzo-fernandez-tras-el-clasico-de-manchester-que-el-city-le-gano-al-united-el-fraternal-abrazo/"
+      },
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"Es una injusticia”: Lisandro Martínez explotó por el polémico gol de Haaland que decidió el clásico de Manchester",
+       "url": "https://www.clarin.com/deportes/injusticia-lisandro-martinez-exploto-polemico-gol-haaland-decidio-clasico-manchester_0_aR8rHZtzUx.html"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/con-enzo-fernandez-como-figura-y-uno-menos-el-manchester-city-vencio-al-manchester-united-n6321805",
+     "imagen": "https://media.ambito.com/p/62c31007628cddd5fc6f8d664cc9d9f2/adjuntos/239/imagenes/043/640/0043640047/1200x675/smart/manchester-city-enzo-haaland.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:47",
+     "autor": "",
+     "titulo_original": "Con Enzo Fernández como figura y uno menos, el Manchester City venció al Manchester United"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "Zverev se quedó con el primer set ante Shelton en la final del US Open",
+     "resumen": "El alemán, número 2 del mundo, busca su segundo Grand Slam del año ante Ben Shelton, que intenta cortar una sequía de 23 años sin un campeón estadounidense en el tenis masculino. La definición se juega en el estadio Arthur Ashe, en el cierre del último Grand Slam de la temporada.",
+     "relacionadas": [
+      {
+       "id": "LN-03",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "US Open: la gran final entre Alexander Zverev y Ben Shelton",
+       "url": "https://www.lanacion.com.ar/deportes/tenis/us-open-la-final-entre-alexander-zverev-y-ben-shelton-nid13092026/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/alexander-zverev-vs-ben-shelton-el-titulo-del-us-open-hora-tv-y-todo-lo-que-hay-que-saber-n6321732",
+     "imagen": "https://media.ambito.com/p/7742a5cda5ad083f769144f5e4faf024/adjuntos/239/imagenes/043/639/0043639210/1200x675/smart/alexander-zverev-vs-ben-shelton.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:58",
+     "autor": "",
+     "titulo_original": "Zverev se quedó con el primer set ante Shelton en la final del US Open"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Lamine Yamal anotó otro doblete para el Barcelona, que sufrió ante Levante pero sigue con puntaje perfecto",
+     "resumen": "El equipo de Hansi Flick ganaba 3-0, se dejó empatar 3-2 y terminó festejando por 4-2. La joya de 19 años llegó a seis goles en LaLiga y encadenó su tercer doblete consecutivo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/lamine-yamal-doblete-barcelona-sufrio-levante-sigue-puntaje-perfecto_0_0FYBVA0c6t.html",
+     "imagen": "https://www.clarin.com/img/2026/09/13/wYyZ6AUXs_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lamine Yamal no para: otro doblete para el Barcelona, que sufrió ante Levante pero sigue con puntaje perfecto"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Argentina suma su primera medalla en los Juegos Suramericanos Santa Fe 2026",
+     "resumen": "Los XIII Juegos Suramericanos, que se disputan hasta el 26 de septiembre en Rosario, Santa Fe y Rafaela con más de 4.000 atletas de 15 países, entregaron la primera medalla para el equipo argentino: el bronce de Romina Imwinkelried en los 10 kilómetros de aguas abiertas, prueba que forma parte del camino hacia los Juegos Olímpicos de Los Ángeles 2028.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Argentina conquistó su primera medalla en los Juegos Suramericanos Santa Fe 2026: \"Una satisfacción enorme\"",
+       "url": "https://www.ambito.com/deportes/argentina-conquisto-su-primera-medalla-los-juegos-suramericanos-santa-fe-2026-una-satisfaccion-enorme-n6321765"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/medallero-juegos-suramericanos-santa-fe-2026-cuantas-medallas-argentina-tabla-posiciones-pais_0_WWMtx0mk4e.html",
+     "imagen": "https://www.clarin.com/img/2026/09/13/WVuLmJDYE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas tiene Argentina y tabla de posiciones por país"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Mariano Werner se consagró primer ganador de la Copa de Oro del Turismo Carretera",
+     "resumen": "El entrerriano se impuso en la serie más rápida en San Luis y luego se quedó con la primera fecha de los playoffs por el título, con Santero y Josito Di Palma completando el podio. Werner quedó como líder del campeonato de pilotos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/mariano-werner-primer-ganador-copa-oro-turismo-carretera-llego-triunfo-30-quedo-lider_0_0v9zaOOJFF.html",
+     "imagen": "https://www.clarin.com/img/2026/09/13/ZoGI5VTHn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Mariano Werner, el primer ganador de la Copa de Oro del Turismo Carretera: llegó a su triunfo 30° y quedó líder"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Julián Álvarez quedó afuera de la lista de convocados del Atlético de Madrid",
+     "resumen": "El delantero argentino no forma parte de la delegación que enfrenta este domingo a la Real Sociedad por la quinta fecha de La Liga.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/julian-alvarez-quedo-fuera-la-lista-convocados-del-atletico-madrid-el-motivo-n6321766",
+     "imagen": "https://media.ambito.com/p/b4c29907ae0efa9aa5dde0030d4301ff/adjuntos/239/imagenes/043/612/0043612705/1200x675/smart/julian-alvarez.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:25",
+     "autor": "",
+     "titulo_original": "Julián Álvarez quedó fuera de la lista de convocados del Atlético de Madrid: el motivo"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "Albi, la joya del sur de Francia con un castillo y jardines imponentes",
+     "resumen": "En el valle de un río, Albi combina un encanto casi toscano con arquitectura entre colinas y una cultura grandiosa. El destino tiene la catedral de ladrillo más grande del mundo, un castillo más antiguo que el de Avignon y varios tesoros protegidos por la Unesco, aunque es menos conocido que otras localidades del sur de Francia.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/salud/la-joya-del-sur-de-francia-que-invita-a-recorrer-sus-callecitas-a-pie-un-castillo-y-jardines-nid09092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KYMA3QTN4NAJNEI3UG6T4ADS3Y.JPG?auth=8879043ff3860c20dadfed3cb36138a98db6f477457a7f1b1cf31f39b1222a61&smart=true&width=900&height=449",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:17",
+     "autor": "Carolina Cerimedo",
+     "titulo_original": "La joya del sur de Francia que invita a recorrer sus callecitas a pie, un castillo y jardines imponentes"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "el valle de Islandia donde el agua hierve y el vapor emerge del suelo",
+     "resumen": "En el valle de Haukadalur, en el suroeste de Islandia, fumarolas, pozas termales y géiseres forman parte del Área Geotérmica de Geysir, una de las principales atracciones del circuito turístico conocido como el Círculo Dorado, que también incluye la cascada Gullfoss y Þingvellir.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/13/el-valle-de-islandia-donde-el-agua-hierve-el-vapor-emerge-del-suelo-y-casi-nada-puede-sobrevivir/",
+     "imagen": "https://www.infobae.com/resizer/v2/5KQC3MUCKNFUNM26XQLMCBCEUQ.png?auth=b0446cbda6ade7b5db64fb57852a142945b76ab89f4b77b4a72e5cbee4b5b5a7&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:56",
+     "autor": "Dante Martignoni",
+     "titulo_original": "El valle de Islandia donde el agua hierve, el vapor emerge del suelo y casi nada puede sobrevivir"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "AM-08",
+     "titulo": "volcó una lancha en Laguna del Monte y murieron cuatro pescadores",
+     "resumen": "El accidente ocurrió en Guaminí, donde tres de los ocupantes fueron encontrados sin vida el sábado. Este domingo los rescatistas localizaron al cuarto, un hombre que trabajaba como guía de pesca.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/informacion-general/volco-una-lancha-laguna-del-monte-y-murieron-cuatro-pescadores-n6321782",
+     "imagen": "https://media.ambito.com/p/3238f5fc5070e7c94c36a44ee86e776b/adjuntos/239/imagenes/043/639/0043639621/laguna-del-monte-accidente.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:55",
+     "autor": "",
+     "titulo_original": "Volcó una lancha en Laguna del Monte y murieron cuatro pescadores"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "crimen del empresario en Misiones: la autopsia reveló un dato que compromete a su exsuegro",
+     "resumen": "La autopsia al cuerpo de Alfredo Wiebel, el empresario hotelero y piloto de automovilismo asesinado el viernes en Puerto Iguazú, reveló que recibió cinco disparos efectuados con una pistola calibre 9 milímetros. El calibre coincide con el de la Glock secuestrada en la casa de Ángel Ramón Zalazar, de 82 años, exsuegro de la víctima y principal sospechoso, que permanece internado y aún no pudo ser indagado.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/13/crimen-del-empresario-en-misiones-el-dato-que-revelo-la-autopsia-y-compromete-a-su-exsuegro/",
+     "imagen": "https://www.infobae.com/resizer/v2/MXOOJL6AIFFJTEY6Q6CGQ535OQ.jpg?auth=cd792b88e9aebbe71794a65e0150ceedb57da22457ec13f52466546e29e6e1ef&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:55",
+     "autor": "",
+     "titulo_original": "Crimen del empresario en Misiones: el dato que reveló la autopsia y compromete a su exsuegro"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "un colectivo sin pasajeros chocó contra una casa en Temperley y el chofer murió",
+     "resumen": "Un hombre de 35 años murió cuando el colectivo de la línea 527 que conducía se incrustó a gran velocidad contra una vivienda en Temperley. El impacto causó destrozos en la casa y en una vivienda lindera, aunque sus ocupantes resultaron ilesos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/13/pense-que-era-una-bomba-un-colectivo-choco-contra-una-casa-y-el-chofer-murio/",
+     "imagen": "https://www.infobae.com/resizer/v2/BFK7ULARXJDM3A3Z5XLXSUEGQY.jpg?auth=f1c2f127dd5f930c094f4b369e2f7564a9ede088da40931ed0cdf6312b6af8b8&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:28",
+     "autor": "",
+     "titulo_original": "\"Pensé que era una bomba\": un colectivo chocó contra una casa y el chofer murió"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "un motociclista murió al chocar con el auto de un custodio de la vicegobernadora de Mendoza",
+     "resumen": "Un joven de 24 años murió tras chocar de frente contra un auto en la Ruta Nacional 40, en el departamento mendocino de Lavalle. El vehículo era conducido por un policía que presta servicios de custodia para la vicegobernadora Hebe Casado, quien expresó sus condolencias y aseguró que se pusieron a disposición de la Justicia todos los elementos para esclarecer el hecho.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/13/un-motociclista-murio-al-chocar-con-un-auto-que-era-conducido-por-un-custodio-de-la-vicegobernadora-de-mendoza/",
+     "imagen": "https://www.infobae.com/resizer/v2/MV2BWDOFEVAIBAZPLWFGA75RXY.jpg?auth=04828cb8b853766ebf6b1e89609c2a27c5fca20ca8fd08188249754994aa93ab&smart=true&width=707&height=355",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:42",
+     "autor": "",
+     "titulo_original": "Un motociclista murió al chocar con un auto conducido por un custodio de la vicegobernadora de Mendoza"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del domingo trece de septiembre.\n\nEl Gobierno impulsará esta semana en el Senado la reforma electoral, aunque admite que todavía no cuenta con los votos necesarios. En el plano internacional, un dron ruso impactó un tren de pasajeros cerca de la frontera con Polonia, con el expremier británico Boris Johnson entre los posibles objetivos, y en Suecia la oposición de centroizquierda se impuso en las elecciones generales. En la agenda económica, un informe privado proyecta el mayor ajuste del gasto público en tres años, mientras Franco Colapinto sumó seis puntos con un séptimo puesto en el Gran Premio de España.\n\nUn repaso de los números del día: el dólar oficial cerró en mil quinientos treinta pesos para la venta en el Banco Nación, el dólar blue operó en mil quinientos cuarenta y cinco pesos, y el riesgo país se ubicó en cuatrocientos ochenta y cinco puntos básicos. El oro cotiza en cuatro mil cuatrocientos nueve dólares la onza. Un informe del Instituto Argentino de Análisis Fiscal proyecta que el gasto primario nacional podría cerrar el año en el equivalente a doce coma cuatro por ciento del producto bruto, una caída de cinco coma cuatro puntos porcentuales respecto de dos mil veintitrés.\n\nEn política, el Senado habilitará este martes el tratamiento en comisión de la reforma electoral, que elimina las PASO; el oficialismo reconoce que no tiene los votos y apuesta al diálogo con el PRO, la Unión Cívica Radical y los gobernadores. El PRO, de hecho, desconfía de La Libertad Avanza: tras tres reuniones en la Casa Rosada ve señales de acercamiento, pero mantiene dudas sobre sus intenciones en la Ciudad de Buenos Aires. El papa León catorce llamó a construir un progreso que no deje nuevas ruinas a su paso, en el cierre del Encuentro Fratelli Tutti en Roma, donde un dirigente de la CGT le entregó un documento sobre la crítica situación socioeconómica argentina. Renunció además Santiago Muzio como director de la Casa Argentina en París, tras meses de cuestionamientos; lo reemplazará Alfredo Mario Soto. Y el ministro de Defensa, Carlos Presti, dijo que los dichos de Trump sobre Malvinas buscan una solución pacífica, mientras el Congreso tratará esta semana Malvinas y el Presupuesto.\n\nEn economía y mercados, la recaudación tributaria cae cinco por ciento real interanual entre enero y agosto, lo que llevaría al mayor ajuste del gasto en tres años, según el IARAF. El informe de FocusEconomics, que reúne a más de cuarenta consultoras y bancos, ajustó a la baja las perspectivas de crecimiento y modificó las proyecciones del tipo de cambio para fin de año. Los depósitos en pesos retrocedieron cero coma seis por ciento real en agosto, mientras los fondos de dinero acumulan un crecimiento real del diez por ciento en el año. Sam Altman, Elon Musk y Dario Amodei coincidieron en la necesidad de desacelerar el desarrollo de la inteligencia artificial, mientras grandes fondos de Wall Street exigen más información sobre su exposición al sector. Una medición de Labour Capital and Growth detectó una suba del tres por ciento en precios de alimentos en la segunda semana de septiembre. Y para Citi, la Reserva Federal, los bonos, Japón y la energía son los principales riesgos de cara a fin de año.\n\nEn negocios y empresas, el Gobierno palpita una lluvia de dólares inédita: Vaca Muerta y la minería podrían dejar veinticuatro mil millones de dólares de exportaciones el año que viene, según el Banco Central. Hardem Eyewear, una marca argentina de anteojos nacida con treinta y nueve mil dólares de inversión propia, hoy vende en Argentina, Europa y Canadá y proyecta facturar más de un millón doscientos mil dólares este año. Y la cadena británica Superdry abrió la búsqueda de franquiciados en el país, con diez aperturas previstas.\n\nEn impuestos, trabajo y normativa, entre dos mil veintiuno y julio de este año, la Delegación Regional Rosario de ARCA trabó veintisiete mil cuarenta y cinco embargos sobre once mil cuatrocientas cincuenta y ocho empresas, tres de cada cuatro microempresas; desde la entidad FECOI pidieron que el Estado cobre sin destruir al que mañana tiene que volver a pagarle. ARCA, además, aclaró un punto clave sobre el impuesto a las Ganancias que beneficia a miles de contribuyentes. Y ya se conocieron los nuevos valores que cobrarán en octubre las empleadas domésticas.\n\nEn consumo, construcción y retail, los bancos volvieron a bajar las tasas de los créditos hipotecarios UVA, con opciones por debajo del siete coma cinco por ciento; para una empresa de materiales de construcción, esa baja podría sostener la demanda de insumos. Una marca ofrece viviendas modulares con contenedores marítimos, con entrega en ciento veinte días. El shopping OH Buenos Aires, en Recoleta, ya confirmó ciento diez locales, mientras una cadena de supermercados tucumana abrió su quinta sucursal, la más grande desde que empezó en dos mil veinte.\n\nEn management y tecnología, especialistas señalaron que ya se puede medir la brecha entre la adopción y el impacto real de la inteligencia artificial en las empresas argentinas, con solución concreta, y remarcaron las diez habilidades humanas que la inteligencia artificial no puede replicar.\n\nEn el mundo, un dron ruso impactó un tren de pasajeros entre Kiev y Varsovia, a dos kilómetros de la frontera con Polonia; el Kremlin dijo que los vagones transportaban carga militar, pero la empresa ferroviaria ucraniana sostuvo que el posible objetivo era un tren diplomático que trasladaba, entre otros, a Boris Johnson y a un exdirector de la Agencia Central de Inteligencia. Polonia anunció que reforzará la seguridad en su frontera. En Suecia, la oposición de centroizquierda se impuso con el cincuenta y uno coma tres por ciento frente al cuarenta y seis coma ocho del oficialismo conservador. En Brasil, el Tribunal Supremo reveló una nueva investigación sobre la financiación de una película sobre Jair Bolsonaro, a menos de un mes de las elecciones. Irán pospuso conversaciones con sus vecinos tras un ataque a un mercante iraní cerca del estrecho de Ormuz, aunque buscó un acercamiento con Emiratos Árabes Unidos en la cumbre de los BRICS. Y los líderes de Escocia, Gales e Irlanda del Norte firmarán mañana en Cardiff un memorando para impulsar la independencia del Reino Unido.\n\nLe Grand Continent analiza el artículo que publicó ayer Dario Amodei, cofundador y director general de Anthropic, titulado Debemos Marcar el Ritmo de la Frontera, que la revista describe como un punto de inflexión luego de una semana en la que empleados de la empresa advirtieron que la trayectoria actual de la inteligencia artificial podría conducir a la extinción de la humanidad.\n\nEn deportes, Franco Colapinto terminó séptimo en el Gran Premio de España de Fórmula uno, sumó seis puntos para Alpine y avanzó dos posiciones desde la largada; el propio piloto lo definió como una de sus mejores carreras. En el fútbol europeo, Lamine Yamal anotó un doblete para el Barcelona, que sufrió pero terminó goleando cuatro a dos al Levante, y el Manchester City venció uno a cero al Manchester United con gol de Erling Haaland y a Enzo Fernández como figura, pese a jugar más de una hora con un futbolista menos. En el tenis, Alexander Zverev se quedó con el primer set ante Ben Shelton en la final del US Open. Julián Álvarez quedó afuera de la lista de convocados del Atlético de Madrid. En el automovilismo nacional, Mariano Werner se consagró primer ganador de la Copa de Oro del Turismo Carretera tras un triunfo en San Luis. Y en los Juegos Suramericanos de Santa Fe, Argentina sumó su primera medalla gracias al bronce de Romina Imwinkelried en los diez kilómetros de aguas abiertas.\n\nY para cerrar, dos datos de turismo: en el sur de Francia, Albi combina un castillo, jardines y la catedral de ladrillo más grande del mundo; y en Islandia, el valle de Haukadalur ofrece géiseres y fuentes termales dentro del circuito conocido como el Círculo Dorado.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Las siete fuentes respondieron sin errores en esta edición. No se repiten los temas ya publicados en la edición de la mañana salvo novedades (Malvinas, reforma electoral, Suecia, dólar/gasto público, entre otros).",
+ "slug": "2026-09-13-tarde",
+ "generado_ba": "13/09/2026 21:11"
+}
