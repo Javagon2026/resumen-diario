@@ -8,7 +8,7 @@ fuente y hora; reescribe el JSON de la edición ya resuelto (así el archivo his
 no depende del material crudo) y genera:
   site/ediciones/<slug>.html, site/index.html, site/archivo.html
 """
-import html, json, re, shutil, sys
+import html, json, os, re, shutil, sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -16,6 +16,13 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "ediciones"
 RAW = ROOT / "data" / "raw" / "latest.json"
 SITE = ROOT / "site"
+
+# El sitio se sirve en GitHub Pages bajo /resumen-diario/ (project page), no en la raíz
+# del dominio como con Netlify. Todos los links y assets internos son absolutos desde
+# la raíz del sitio (se reutiliza el mismo HTML para site/index.html y para
+# site/ediciones/<slug>.html), así que necesitan este prefijo. Si en el futuro se
+# publica en un dominio propio o en la raíz, alcanza con poner SITE_BASE="".
+SITE_BASE = os.environ.get("SITE_BASE", "/resumen-diario")
 
 FUENTES = {
     "CL": ("Clarín", "https://www.clarin.com"),
@@ -366,13 +373,13 @@ def render_edicion(ed, anterior, siguiente, tiene_guion=True):
 
     nav = []
     if anterior:
-        nav.append(f'<a class="ant" href="/ediciones/{esc(anterior["slug"])}.html">← {esc(fecha_corta(anterior["fecha"]))}, {EDICION_CORTA[anterior["edicion"]].lower()}</a>')
+        nav.append(f'<a class="ant" href="{SITE_BASE}/ediciones/{esc(anterior["slug"])}.html">← {esc(fecha_corta(anterior["fecha"]))}, {EDICION_CORTA[anterior["edicion"]].lower()}</a>')
     else:
         nav.append("<span></span>")
     if siguiente:
-        nav.append(f'<a class="sig" href="/ediciones/{esc(siguiente["slug"])}.html">{esc(fecha_corta(siguiente["fecha"]))}, {EDICION_CORTA[siguiente["edicion"]].lower()} →</a>')
+        nav.append(f'<a class="sig" href="{SITE_BASE}/ediciones/{esc(siguiente["slug"])}.html">{esc(fecha_corta(siguiente["fecha"]))}, {EDICION_CORTA[siguiente["edicion"]].lower()} →</a>')
     else:
-        nav.append('<a class="sig" href="/">Última edición →</a>')
+        nav.append(f'<a class="sig" href="{SITE_BASE}/">Última edición →</a>')
 
     cifras_html = render_mercados() + render_cifras(ed.get("cifras"))
     guion = ed.get("audio_guion", "")
@@ -390,19 +397,19 @@ def render_edicion(ed, anterior, siguiente, tiene_guion=True):
 <meta name="robots" content="noindex">
 <title>{esc(titulo_pag)}</title>
 <meta name="description" content="{esc(ed["apertura"][:160])}">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="{SITE_BASE}/assets/style.css">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%97%9E%3C/text%3E%3C/svg%3E">
 </head>
 <body data-slug="{esc(slug)}">
 <header class="top">
   <div class="wrap">
-    <a class="brand" href="/">Resumen Diario</a>
+    <a class="brand" href="{SITE_BASE}/">Resumen Diario</a>
     <div class="meta">{esc(fecha_larga(ed["fecha"]))} · {EDICION_NOMBRE[ed["edicion"]]}</div>
-    <nav class="tools"><a href="/archivo.html">Archivo</a><button id="modo" type="button" aria-pressed="false">Solo títulos</button></nav>
+    <nav class="tools"><a href="{SITE_BASE}/archivo.html">Archivo</a><button id="modo" type="button" aria-pressed="false">Solo títulos</button></nav>
   </div>
 </header>
 
-<div class="player-wrap"><div class="wrap player" id="player" data-audio="/audio/{esc(slug)}.mp3" data-min="{mins}">
+<div class="player-wrap"><div class="wrap player" id="player" data-audio="{SITE_BASE}/audio/{esc(slug)}.mp3" data-min="{mins}">
   <button id="play" type="button" aria-label="Escuchar">▶</button>
   <div class="player-info">
     <strong>Escuchar la edición</strong>
@@ -444,7 +451,7 @@ def render_edicion(ed, anterior, siguiente, tiene_guion=True):
   <p>Resumen automático de uso personal, generado {esc(generado)} (hora Argentina). Los títulos enlazan a la nota original.</p>
 </footer>
 <script id="guion-texto" type="text/plain">{esc(guion)}</script>
-<script src="/assets/app.js"></script>
+<script src="{SITE_BASE}/assets/app.js"></script>
 </body>
 </html>
 '''
@@ -457,7 +464,7 @@ def render_archivo(eds):
     bloques = []
     for fecha in sorted(por_fecha, reverse=True):
         items = "".join(
-            f'<li><a href="/ediciones/{esc(e["slug"])}.html"><span class="ed">{EDICION_CORTA[e["edicion"]]}</span> {esc(e["titulo"])}</a></li>'
+            f'<li><a href="{SITE_BASE}/ediciones/{esc(e["slug"])}.html"><span class="ed">{EDICION_CORTA[e["edicion"]]}</span> {esc(e["titulo"])}</a></li>'
             for e in sorted(por_fecha[fecha], key=lambda x: x["edicion"] != "manana"))
         bloques.append(f'<section class="dia"><h2>{esc(fecha_larga(fecha))}</h2><ul>{items}</ul></section>')
     return f'''<!doctype html>
@@ -465,10 +472,10 @@ def render_archivo(eds):
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex">
 <title>Resumen Diario · Archivo</title>
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="{SITE_BASE}/assets/style.css">
 </head>
 <body class="archivo">
-<header class="top"><div class="wrap"><a class="brand" href="/">Resumen Diario</a><div class="meta">Archivo de ediciones</div><nav class="tools"><a href="/">Última edición</a></nav></div></header>
+<header class="top"><div class="wrap"><a class="brand" href="{SITE_BASE}/">Resumen Diario</a><div class="meta">Archivo de ediciones</div><nav class="tools"><a href="{SITE_BASE}/">Última edición</a></nav></div></header>
 <main class="wrap">
 {chr(10).join(bloques) or "<p>Todavía no hay ediciones.</p>"}
 </main>
