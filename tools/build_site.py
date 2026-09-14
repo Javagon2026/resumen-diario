@@ -36,8 +36,9 @@ FUENTES = {
 DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto",
          "septiembre", "octubre", "noviembre", "diciembre"]
-EDICION_NOMBRE = {"manana": "Edición de la mañana", "tarde": "Edición de la tarde"}
-EDICION_CORTA = {"manana": "Mañana", "tarde": "Tarde"}
+EDICION_NOMBRE = {"manana": "Edición de la mañana", "mediodia": "Edición del mediodía", "tarde": "Edición de la tarde"}
+EDICION_CORTA = {"manana": "Mañana", "mediodia": "Mediodía", "tarde": "Tarde"}
+ORDEN_EDICION = {"manana": 0, "mediodia": 1, "tarde": 2}
 
 
 def esc(s):
@@ -119,8 +120,8 @@ def validar_y_resolver(ed, idx):
     for k in ("fecha", "edicion", "titulo", "apertura", "secciones", "audio_guion"):
         if not ed.get(k):
             errores.append(f"falta el campo '{k}'")
-    if ed.get("edicion") not in ("manana", "tarde"):
-        errores.append("'edicion' debe ser 'manana' o 'tarde'")
+    if ed.get("edicion") not in ("manana", "mediodia", "tarde"):
+        errores.append("'edicion' debe ser 'manana', 'mediodia' o 'tarde'")
     if not isinstance(ed.get("claves"), list) or len(ed.get("claves", [])) < 3:
         errores.append("'claves' debe ser una lista con al menos 3 puntos")
     if errores:
@@ -465,7 +466,7 @@ def render_archivo(eds):
     for fecha in sorted(por_fecha, reverse=True):
         items = "".join(
             f'<li><a href="{SITE_BASE}/ediciones/{esc(e["slug"])}.html"><span class="ed">{EDICION_CORTA[e["edicion"]]}</span> {esc(e["titulo"])}</a></li>'
-            for e in sorted(por_fecha[fecha], key=lambda x: x["edicion"] != "manana"))
+            for e in sorted(por_fecha[fecha], key=lambda x: ORDEN_EDICION[x["edicion"]]))
         bloques.append(f'<section class="dia"><h2>{esc(fecha_larga(fecha))}</h2><ul>{items}</ul></section>')
     return f'''<!doctype html>
 <html lang="es">
@@ -494,7 +495,7 @@ def listar_ediciones():
                 eds.append(e)
         except Exception as ex:
             print(f"AVISO: no pude leer {p.name}: {ex}", file=sys.stderr)
-    eds.sort(key=lambda e: (e["fecha"], 0 if e["edicion"] == "manana" else 1))
+    eds.sort(key=lambda e: (e["fecha"], ORDEN_EDICION[e["edicion"]]))
     return eds
 
 

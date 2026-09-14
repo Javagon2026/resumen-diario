@@ -2,7 +2,7 @@
 """Descarga los feeds RSS de las fuentes y genera:
   data/raw/latest.json  (items completos, indexados por id)
   data/raw/latest.md    (lista compacta para leer y elegir notas)
-Uso: python3 tools/fetch_feeds.py [--edicion manana|tarde|auto] [--horas N] [--max N]
+Uso: python3 tools/fetch_feeds.py [--edicion manana|mediodia|tarde|auto] [--horas N] [--max N]
 """
 import argparse, html, json, re, sys
 from concurrent.futures import ThreadPoolExecutor
@@ -180,7 +180,7 @@ def norm_link(u):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--edicion", default="auto", choices=["auto", "manana", "tarde"])
+    ap.add_argument("--edicion", default="auto", choices=["auto", "manana", "mediodia", "tarde"])
     ap.add_argument("--horas", type=int, default=0, help="ventana de horas hacia atras (0 = automatico)")
     ap.add_argument("--max", type=int, default=26, help="maximo de items por fuente")
     args = ap.parse_args()
@@ -189,8 +189,15 @@ def main():
     now_ba = now.astimezone(BA)
     edicion = args.edicion
     if edicion == "auto":
-        edicion = "manana" if now_ba.hour < 13 else "tarde"
-    horas = args.horas or (16 if edicion == "manana" else 12)
+        # tres corridas por dia: 7:00 (manana), 12:30 (mediodia) y 18:00 (tarde)
+        if now_ba.hour < 10:
+            edicion = "manana"
+        elif now_ba.hour < 16:
+            edicion = "mediodia"
+        else:
+            edicion = "tarde"
+    HORAS_POR_EDICION = {"manana": 16, "mediodia": 6, "tarde": 6}
+    horas = args.horas or HORAS_POR_EDICION[edicion]
     desde = now - timedelta(hours=horas)
     slug = f"{now_ba:%Y-%m-%d}-{edicion}"
 
