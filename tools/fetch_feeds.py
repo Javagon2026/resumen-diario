@@ -189,7 +189,7 @@ def main():
     now_ba = now.astimezone(BA)
     edicion = args.edicion
     if edicion == "auto":
-        # tres corridas por dia: 7:00 (manana), 12:30 (mediodia) y 18:00 (tarde)
+        # tres corridas por dia: 7:00 (manana), 12:00 (mediodia) y 18:00 (tarde)
         if now_ba.hour < 10:
             edicion = "manana"
         elif now_ba.hour < 16:
