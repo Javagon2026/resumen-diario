@@ -33,7 +33,8 @@ y explicá el "por qué importa" cuando no sea obvio.
    git pull --rebase origin main
    git push origin main
    ```
-   Netlify despliega solo a partir del push. No abras pull requests ni ramas. No investigues la
+   GitHub Pages despliega solo a partir del push (workflow `.github/workflows/deploy-pages.yml`).
+   No abras pull requests ni ramas. No investigues la
    historia de git ni el estado de las ramas: el checkout que recibís siempre es el último `origin/main`.
    `data/mercados.json` SÍ se commitea (es el respaldo del panel de mercados si una API falla);
    no lo agregues a `.gitignore`. Lo único que no se versiona es `data/raw/`.

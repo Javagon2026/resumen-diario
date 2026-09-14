@@ -1,7 +1,7 @@
 # material crudo de cada corrida (se regenera)
 data/raw/
 # OJO: data/mercados.json SÍ se versiona (sirve de respaldo si una API de cotizaciones falla)
-# audio: lo genera Netlify en el build, no va al repo
+# audio: lo genera GitHub Actions en el deploy, no va al repo
 site/audio/*.mp3
 site/audio/*.tmp.mp3
 __pycache__/
