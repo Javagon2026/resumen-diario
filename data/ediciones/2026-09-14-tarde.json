@@ -1,0 +1,784 @@
+{
+ "fecha": "2026-09-14",
+ "edicion": "tarde",
+ "titulo": "Bullrich confirma la reforma del Banco Central y sube la tasa de EE.UU.",
+ "apertura": "La tensión por Malvinas escaló con el anuncio británico de reforzar las islas con cuatro aviones de combate, mientras el Senado prepara para el jueves el tratamiento de la reforma de la Carta Orgánica del Banco Central. En los mercados, el rendimiento del bono del Tesoro de Estados Unidos a diez años superó el 5% por primera vez desde 2023 y el riesgo país argentino volvió a acercarse a los 500 puntos en medio de dudas globales sobre la inversión en inteligencia artificial. En el plano empresario, la textil santafesina de la familia Vicentin entró en un proceso de salvataje judicial y la cadena de hamburguesas Deniro quebró por segunda vez, mientras Boca visita este martes a San Pablo por la Copa Sudamericana.",
+ "claves": [
+  "El Reino Unido anunció el reemplazo de sus cuatro aviones Typhoon en Malvinas por unidades más modernas, mientras Argentina prepara su proyecto de ley de soberanía.",
+  "Patricia Bullrich confirmó que el Senado tratará el jueves la reforma de la Carta Orgánica del Banco Central y reconoció el \"dolor\" del proceso de estabilización.",
+  "El peronismo pidió citar con carácter urgente al presidente del Banco Central, Santiago Bausili, para que explique el traslado de 13 toneladas de oro al exterior en 2024.",
+  "El rendimiento del bono del Tesoro de Estados Unidos a diez años superó el 5% por primera vez desde 2023, en medio de dudas sobre la inversión en inteligencia artificial.",
+  "La Justicia santafesina habilitó un proceso de salvataje para la algodonera Avellaneda, de la familia Vicentin, que debe más de 1.500 millones de pesos y US$ 260,8 millones al Banco Nación.",
+  "La hamburguesería Deniro volvió a quebrar por segunda vez en siete meses, cerró su fábrica y ya no opera locales.",
+  "En el juicio por Sueños Compartidos, José López y los hermanos Schoklender fueron condenados a penas menores a tres años y Julio De Vido fue absuelto.",
+  "Boca visita este martes a San Pablo por los cuartos de final de la Copa Sudamericana, mientras Racing evalúa la continuidad de Juan Pablo Vojvoda."
+ ],
+ "cifras": [
+  {
+   "nombre": "Bono del Tesoro de EE.UU. a 10 años",
+   "valor": "5,01%",
+   "variacion": "primera vez arriba del 5% desde 2023",
+   "fuente": "AM-26"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "más de US$ 108",
+   "fuente": "IP-13"
+  },
+  {
+   "nombre": "Patentamiento de autos (agosto)",
+   "valor": "44.415 unidades",
+   "variacion": "-19,1% interanual",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Dividendos en dólares de empresas de BYMA (1er semestre)",
+   "valor": "US$ 868 millones",
+   "variacion": "-6,8%",
+   "fuente": "AM-07"
+  },
+  {
+   "nombre": "Canastas de crianza (agosto)",
+   "valor": "+2,1% a +2,4%",
+   "fuente": "AM-06"
+  },
+  {
+   "nombre": "Medidas antidumping que vencen este año",
+   "valor": "9 medidas",
+   "fuente": "CR-25"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "el Reino Unido refuerza la defensa militar de Malvinas con cuatro aviones caza",
+     "resumen": "El Reino Unido anunció que reemplazará los cuatro aviones Typhoon del Escuadrón 1435 destinados en las islas por unidades más modernas con radar de última generación, según La Nación. El anuncio lo hizo el ministro de Estado para la Preparación de la Defensa, Luke Pollard, mientras en Londres esperan conocer el proyecto argentino de ley de soberanía que prepara el Gobierno de Milei; en las islas confirmaron además el llamado Proyecto Sea Lion.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/malvinas-el-reino-unido-refuerza-la-defensa-militar-de-las-islas-con-cuatro-aviones-caza-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IV2DMZ32CBCARHNPA2CGJKYEEY.jpg?auth=5ac599fee6df0e6785ec5747d76a048f35173f8414fb1cd8c119379580ec351d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:55",
+     "autor": "Daniel Santa Cruz",
+     "titulo_original": "Malvinas: el Reino Unido refuerza la defensa militar de las islas con cuatro aviones caza"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "la Cámara de Casación dejó firme el embargo del departamento de Cristina Kirchner",
+     "resumen": "El tribunal confirmó el embargo preventivo sobre el departamento de San José 1111, donde la expresidenta cumple prisión domiciliaria, propiedad de la firma familiar Los Sauces, según Clarín. El fiscal incluyó el inmueble en una segunda lista de bienes para cubrir los 685.000 millones de pesos que estableció la condena en la causa Vialidad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/tribunal-rechazo-planteos-cristina-maximo-kirchner-allana-camino-decomisar-departamento-san-jose-1111_0_dvfXXbOn80.html",
+     "imagen": "https://www.clarin.com/img/2026/09/05/HsF7xv7Ca_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Cámara de Casación dejó firme el embargo preventivo del departamento de Cristina en San José 1111"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Bullrich confirmó que el Senado tratará el jueves la reforma de la Carta Orgánica del Banco Central",
+     "resumen": "La presidenta del bloque La Libertad Avanza en el Senado confirmó que la Cámara alta tratará el jueves la reforma que redefine los objetivos y la autonomía del Banco Central, uno de los proyectos económicos prioritarios del Gobierno, según El Cronista e Infobae. La iniciativa ya tiene dictamen y fue aprobada por Diputados el 26 de agosto; Bullrich reconoció el \"dolor\" del proceso de estabilización y planteó la continuidad electoral como condición para sostener las reformas.",
+     "relacionadas": [
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Bullrich confirmó que el Senado tratará el jueves la reforma de la Carta Orgánica del Banco Central",
+       "url": "https://www.infobae.com/politica/2026/09/14/bullrich-confirmo-que-el-senado-tratara-el-jueves-la-reforma-de-la-carta-organica-del-banco-central/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/bullrich-reconocio-el-dolor-del-ajuste-y-revelo-la-condicion-para-que-las-reformas-continuen/",
+     "imagen": "https://www.cronista.com/resizer/v2/T6SMRKTRQFFFHK2NXJIPRBFJ5U.JPG?auth=f8a998a63f4a371970483c18d7d7d5e54c8520bfb29517ae3bf426b2bb7466f3&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:04",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Bullrich reconoció el “dolor” de la estabilización y reveló la condición para que las reformas continúen"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "el peronismo pidió citar con carácter urgente a Bausili por el traslado de oro al exterior",
+     "resumen": "Los senadores Juliana Di Tullio y Martín Soria, con respaldo del bloque PJ, pidieron citar de urgencia al presidente del Banco Central, Santiago Bausili, para que explique el traslado de 13 toneladas de oro al exterior en 2024, según Infobae, Ámbito y El Cronista. El pedido surge después de que la Auditoría General de la Nación contradijera las explicaciones que Bausili había dado ante un plenario de comisiones sobre la localización de las reservas.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El PJ pide que Santiago Bausili vaya al Congreso a dar explicaciones por el oro del Banco Central",
+       "url": "https://www.ambito.com/politica/el-pj-pide-que-bausili-vaya-al-congreso-dar-explicaciones-el-oro-del-banco-central-n6322171"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El oro del Banco Central: piden que Bausili vuelva al Senado para explicar dónde están los lingotes de las reservas",
+       "url": "https://www.cronista.com/finanzas-mercados/el-oro-del-banco-central-piden-que-bausili-vuelva-al-senado-para-explicar-donde-estan-los-lingotes-de-las-reservas/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/14/el-peronismo-pidio-citar-en-forma-urgente-al-presidente-del-banco-central-por-el-traslado-de-oro-al-exterior/",
+     "imagen": "https://www.infobae.com/resizer/v2/LBXH4OFDDVCRVJEKK3CTRNU6EY.jpg?auth=2a7ae6a4a3051e82dd7c4072dea454bfaca4340fc5944b486846e0eb376bfe80&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:12",
+     "autor": "David Cayón",
+     "titulo_original": "El peronismo pidió citar en forma “urgente” al presidente del Banco Central por el traslado de oro al exterior"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "condenaron a los hermanos Schoklender y a López y absolvieron a De Vido en el juicio por Sueños Compartidos",
+     "resumen": "El tribunal oral impuso penas menores a los tres años de prisión a José López y a los hermanos Schoklender, por lo que no irán presos, y absolvió al exministro Julio De Vido, según Clarín e iProfesional. El tribunal ordenó además el decomiso de más de 200 millones de pesos por irregularidades en el manejo de los fondos destinados a la construcción de viviendas.",
+     "relacionadas": [
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Sueños Compartidos: condenaron a José López, a los Schoklender y absolvieron a De Vido",
+       "url": "https://www.iprofesional.com/legales/464423-suenos-compartidos-condenaron-a-jose-lopez-a-los-schoklender-y-absolvieron-a-de-vido"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/suenos-compartidos-condenaron-hermanos-schoklender-lopez-absolvieron-vido_0_fq3m33zdHt.html",
+     "imagen": "https://www.clarin.com/img/2026/09/14/XmmmjEOSE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sueños Compartidos: condenaron a los hermanos Schoklender y a López y absolvieron a De Vido"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "la visita de León XIV coincide con el vencimiento de un proyecto sobre apuestas online que reclama la Iglesia",
+     "resumen": "La media sanción que regula la publicidad de casas de apuestas, prohíbe los bonos de bienvenida y los patrocinios deportivos y restringe el acceso de menores perderá estado parlamentario si el Senado no la trata antes de la visita del Papa, según La Nación. El Episcopado reclama su aprobación; en paralelo, el Gobierno prepara una nueva reunión para definir la agenda de los tres días de la visita y un esquema de feriados, a la espera de que el Vaticano confirme el cronograma.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno prepara una nueva reunión para organizar la visita de León XIV y evalúa un esquema de feriados",
+       "url": "https://www.infobae.com/politica/2026/09/14/el-gobierno-prepara-una-nueva-reunion-para-organizar-la-visita-de-leon-xiv-y-evalua-un-esquema-de-feriados/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/la-visita-de-leon-xiv-coincidira-con-la-caducidad-de-un-proyecto-que-la-iglesia-reclama-al-congreso-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TJOJ3VLGB5ACPNI256QTUR377U.jpeg?auth=0f8d658c5043fa15b782219de49c6a7a005a93f139be8fbbe5f51139195c9ef3&smart=true&width=827&height=620",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:50",
+     "autor": "Delfina Celichini",
+     "titulo_original": "La visita de León XIV coincidirá con la caducidad de un proyecto que la Iglesia reclama al Congreso"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "un diputado de Fuerza Patria rechazó que la futura base militar de Ushuaia quede en \"manos compartidas\"",
+     "resumen": "El diputado nacional Carlos Castagneto cuestionó el proyecto para construir una base militar en Ushuaia y exigió que permanezca bajo control exclusivamente argentino, según Infobae. Reclamó precisiones sobre el financiamiento, la participación de mano de obra argentina y el funcionamiento previsto para las próximas dos décadas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/14/el-diputado-castagneto-hablo-sobre-la-base-militar-de-ushuaia-no-vamos-a-aprobar-que-este-en-manos-compartidas/",
+     "imagen": "https://www.infobae.com/resizer/v2/VIOMAZYA2VHUXMSJLJAFS5UKBY.png?auth=692aba303c26a7e02e2efa2726a9f57886b663db90fb8625ec1719ebde80be1e&smart=true&width=820&height=540",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:56",
+     "autor": "Nicolás Sturtz",
+     "titulo_original": "El diputado Castagneto habló sobre la base militar de Ushuaia: “No vamos a aprobar que esté en manos compartidas”"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-26",
+     "titulo": "el bono del Tesoro de EE.UU. a diez años superó el 5% por primera vez desde 2023",
+     "resumen": "El rendimiento alcanzó más temprano el 5,01%, su nivel más alto desde 2023, según Ámbito. Para una empresa: una suba sostenida de las tasas globales encarece el financiamiento externo y presiona a los países emergentes, Argentina incluida, de cara al año electoral.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/los-rendimientos-los-bonos-del-tesoro-eeuu-superaron-el-5-y-se-encienden-las-alarmas-n6322087",
+     "imagen": "https://media.ambito.com/p/b6d8dbda6f035bf7ee18d09c308ef3d5/adjuntos/239/imagenes/043/618/0043618678/1200x675/smart/bandera-eeuu-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:04",
+     "autor": "",
+     "titulo_original": "Los rendimientos de los bonos del Tesoro de EEUU superaron el 5% y se encienden las alarmas"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "los bonos caen y el riesgo país se acerca a los 500 puntos por dudas sobre la inversión en inteligencia artificial",
+     "resumen": "Las acciones argentinas también operaron a la baja en Wall Street, a excepción de Globant, que subió con fuerza, mientras los mercados globales siguen de cerca la tensión por la inteligencia artificial y esperan la decisión de la Reserva Federal, según iProfesional, Ámbito y Clarín. El dólar se mantuvo estable en 1.530 pesos en el Banco Nación.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los bonos cayeron y el riesgo país se acercó a los 500 puntos ante un adverso escenario global",
+       "url": "https://www.ambito.com/finanzas/los-bonos-dolares-caen-el-inicio-la-semana-y-el-riesgo-pais-se-mantiene-arriba-los-480-puntos-n6322007"
+      },
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Dudas sobre la IA golpean al mercado: el riesgo país vuelve a acercarse a los 500 puntos",
+       "url": "https://www.clarin.com/economia/dudas-ia-golpean-mercado-riesgo-pais-vuelve-acercarse-500-puntos_0_htNjK6yAhL.html"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/464400-acciones-argentinas-caen-en-wall-street-por-la-ia-y-la-incertidumbre-sobre-las-tasas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622863.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:33",
+     "autor": "",
+     "titulo_original": "Los bonos caen y el riesgo país se acerca a los 500 puntos, tras tenso escenario global"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "el dólar mayorista bajó sobre el cierre, pero el contado con liquidación quedó arriba de los 1.600 pesos",
+     "resumen": "El mayorista cerró en 1.507,50 pesos, casi 26% por debajo del techo de la banda cambiaria, según Ámbito. El REM proyecta que el dólar llegue a 1.630 pesos en diciembre, mientras FocusEconomics espera 1.645 pesos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/dolar-la-brecha-el-techo-la-banda-alcanza-el-25-y-el-gobierno-mantiene-el-equilibrio-las-tasas-n6321913",
+     "imagen": "https://media.ambito.com/p/31c39824e140ba6e330ef8678bc9e08b/adjuntos/239/imagenes/043/546/0043546429/1200x675/smart/dolar-blue-1.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:54",
+     "autor": "",
+     "titulo_original": "El dólar mayorista bajó sobre el cierre, pero el CCL se ubica arriba de los $1.600"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "el dólar blue subió 10 pesos en el arranque de la semana",
+     "resumen": "El paralelo cerró a 1.535 pesos para la compra y 1.555 pesos para la venta, según El Cronista. En agosto había ganado apenas 5 pesos, tras las fuertes subas de julio (45 pesos) y junio (85 pesos).",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-lunes-14-de-septiembre-con-el-mep-y-el-ccl/",
+     "imagen": "https://www.cronista.com/resizer/v2/2G4TZ3VRKFFVRJPR2OAEUYGKNQ.jpg?auth=38c673414aa536f855bf14cc136e93b1fa12ffdd402b62555dd2a27efada7026&smart=true&width=626&height=390",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:24",
+     "autor": "",
+     "titulo_original": "El dólar blue sube $ 10 en el inicio de la semana: a cuánto cerró este lunes con el MEP y el CCL"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "la brecha del dólar con el techo de la banda cambiaria es la más amplia en 16 meses",
+     "resumen": "La divisa mayorista cedió a 1.507,50 pesos, el precio más bajo desde el 21 de agosto, según Infobae. El monto operado en el segmento de contado se redujo a US$ 494,2 millones, unos US$ 340 millones menos que el viernes anterior.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/14/bajo-el-dolar-y-la-brecha-con-el-techo-de-la-banda-cambiaria-es-la-mas-amplia-en-16-meses/",
+     "imagen": "https://www.infobae.com/resizer/v2/ADGUI7ISQZCZ3ERA46TIJMUOCA.JPG?auth=94fb8bcddf5f0fa245e6b3eeb38f298655665b38ca27ae8c5cb2ce2563112796&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:51",
+     "autor": "Juan Gasalla",
+     "titulo_original": "Bajó el dólar y la brecha con el techo de la banda cambiaria es la más amplia en 16 meses"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "la Reserva Federal se prepara para subir las tasas por primera vez en tres años",
+     "resumen": "Donald Trump había nominado a Kevin Warsh para presidir la Fed por su discurso a favor de bajar las tasas de interés, pero la realidad económica parece haber obligado al banco central norteamericano a tomar el camino contrario, según Ámbito. Para una empresa: una suba de tasas en Estados Unidos endurece las condiciones financieras globales justo cuando el rendimiento de los bonos del Tesoro ya está en su nivel más alto desde 2023.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/malas-noticias-donald-trump-la-fed-se-prepara-subir-las-tasas-primera-vez-tres-anos-n6322151",
+     "imagen": "https://media.ambito.com/p/cb31084d3b24baa573ee3202bf9d51a7/adjuntos/239/imagenes/041/718/0041718911/fed-reserva-federaljpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:26",
+     "autor": "",
+     "titulo_original": "Malas noticias para Donald Trump: la Fed se prepara para subir las tasas por primera vez en tres años"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "la escalada en Medio Oriente acentúa el déficit global de crudo e impulsa a Vaca Muerta",
+     "resumen": "El cierre temporal de vías de evacuación en Arabia Saudita llevó el precio del petróleo Brent por encima de los 108 dólares, según iProfesional. La cuenca neuquina busca capturar la demanda atlántica que dejan las tensiones en la región.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464401-se-acentua-el-deficit-global-de-petroleo-e-impulsa-a-vaca-muerta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615630.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "La escalada en Medio Oriente acentúa el déficit global de crudo e impulsa a Vaca Muerta"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "a la algodonera de la familia Vicentin le queda una única salida para evitar la quiebra",
+     "resumen": "La Justicia santafesina habilitó el proceso de salvataje, conocido como cramdown, para Algodonera Avellaneda, que no logró reunir las mayorías necesarias para un acuerdo con sus acreedores, según El Cronista y Clarín. La empresa, en concurso preventivo desde 2024, tiene 360 empleados y debe a su principal acreedor, el Banco Nación, más de 1.500 millones de pesos y US$ 260,8 millones; acreedores y terceros tendrán cinco días hábiles desde el 29 de septiembre para ofertar por la compañía.",
+     "relacionadas": [
+      {
+       "id": "CL-21",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La Justicia habilitó un proceso de salvataje para una algodonera de la familia Vicentin",
+       "url": "https://www.clarin.com/rural/justicia-habilito-proceso-salvataje-algodonera-familia-vicentin_0_ltGYQcesMf.html"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/contra-las-cuerdas-a-la-algodonera-de-la-familia-vicentin-le-queda-una-unica-salida/",
+     "imagen": "https://www.cronista.com/resizer/v2/ON44ALIFENBANBMWE4VMOQ66LA.jpg?auth=fd9075fd8a2884ec77ad15383d519d18f6810d5598a023ce9c3a7e42d67a30c2&smart=true&width=900&height=483",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:01",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Contra las cuerdas: a la algodonera de la familia Vicentin le queda una única salida para evitar la quiebra"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "la cadena de hamburguesas Deniro volvió a quebrar por segunda vez en siete meses",
+     "resumen": "El Juzgado Comercial N° 27 decretó nuevamente la quiebra de la empresa, esta vez a partir de una deuda laboral iniciada por un exempleado, según El Cronista. La compañía, fundada por Nicolás Sánchez y Esteban Siderakis y que llegó a tener más de 30 locales, ya había sido declarada en quiebra en noviembre de 2025 y logró revertirlo en febrero depositando 21,4 millones de pesos; ahora cerró su fábrica y ya no opera ningún local, según Ámbito.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Volvió a quebrar la hamburguesería Deniro: cerró su fábrica y ya no opera locales",
+       "url": "https://www.ambito.com/negocios/volvio-quebrar-la-hamburgueseria-deniro-cerro-su-fabrica-y-ya-no-opera-locales-n6322183"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/la-cadena-de-hamburguesas-de-entrana-se-enfrenta-a-la-quiebra-por-segunda-vez-en-7-meses-por-juicio-laboral/",
+     "imagen": "https://www.cronista.com/resizer/v2/QRG4LPF75VELFOV44KOLZZR3SE.jpg?auth=5bf23dd2f30a75e4dd17f683d94b04f97d67db27d81ed8a208cd61ea535e0096&smart=true&width=800&height=634",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:34",
+     "autor": "",
+     "titulo_original": "Famosa cadena de hamburguesas enfrenta la quiebra por segunda vez en 7 meses, ahora por juicio laboral"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Argentina LNG suma compradores y encamina una definición clave para noviembre",
+     "resumen": "El consorcio que integran YPF, la italiana Eni y XRG, el brazo inversor de la emiratí ADNOC, firmará sus primeros contratos de venta de gas natural licuado por entre 0,5 y 1,5 millones de toneladas anuales, según el CEO de YPF, Horacio Marín, en la conferencia Gastech de Bangkok. Con esos contratos, el consorcio asegurará la venta de entre 12,5% y 38% de las 12 millones de toneladas que producirá el proyecto, informó El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/argentina-lng-suma-compradores-y-encamina-una-definicion-clave-para-noviembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/XX44NG4HY5BN7NX6WYFC6VUIFA.png?auth=06c5e10bda74c52476bfef31858980e271be4a0242d7724db9ae858763be9670&smart=true&width=900&height=575",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:20",
+     "autor": "Natalí Risso",
+     "titulo_original": "Argentina LNG suma compradores y encamina una definición clave para noviembre"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Chevron pone la mira en Vaca Muerta para impulsar su negocio global de GNL",
+     "resumen": "La petrolera estadounidense busca diversificar su oferta global de gas natural licuado y destaca las perspectivas productivas de la cuenca neuquina, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464418-chevron-tiene-la-mira-en-vaca-muerta-para-impulsar-su-negocio-global-de-gnl",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/585506.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:55",
+     "autor": "",
+     "titulo_original": "Chevron pone la mira en Vaca Muerta para impulsar su negocio global de GNL"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "YPF avanza con la nueva planta de GNL a 50 kilómetros de Añelo",
+     "resumen": "YPF expuso ante el Gobierno de Neuquén los detalles técnicos y ambientales del Complejo Industrial Neuquén, la planta que procesará el gas de Vaca Muerta para el proyecto Argentina LNG junto con Eni y XRG, según El Cronista. La obra, con ingeniería a cargo de la UTE SACDE-Tecnimont, forma parte de una inversión de US$ 51.000 millones a 20 años y fue presentada en una audiencia pública convocada por la Secretaría de Ambiente provincial.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/ypf-sigue-pisando-fuerte-en-vaca-muerta-como-es-al-detalle-la-nueva-planta-de-gnl-a-50-km-de-anelo/",
+     "imagen": "https://www.cronista.com/resizer/v2/RVOJODDXBZC7THWVHBN5WAMZRM.jpg?auth=5b78eee35656ff429cad82425e0c8864814577dbd860b6e5c7454d5cc64d912e&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:26",
+     "autor": "",
+     "titulo_original": "YPF sigue pisando fuerte en Vaca Muerta: cómo es, al detalle, la nueva planta de GNL a 50 km de Añelo"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-25",
+     "titulo": "piden al Gobierno definir qué hará con nueve medidas antidumping que vencen este año",
+     "resumen": "Un grupo de diputados presentó un proyecto para que el Poder Ejecutivo informe si renovará, modificará o dejará caer nueve medidas antidumping a productos de China, Tailandia y Turquía que vencen entre septiembre y diciembre, según El Cronista. Entre los productos alcanzados figuran bombas para motores, acondicionadores de aire, vajilla cerámica, accesorios de cañería, anteojos y armazones, motores eléctricos y calzado. Para una empresa: la definición sobre estas medidas puede alterar la competencia de importados en varios rubros, incluida la cerámica.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/antidumping-piden-al-gobierno-definir-que-hara-con-nueve-medidas-que-vencen-este-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/7GY7AVO6TBEY3AZYUGN77EY3D4.jpg?auth=f8f519a208d432eb3605bacf56e0478d40eec7181bbc2dc82e8cdccf470c134d&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:05",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "Antidumping: piden al Gobierno definir qué hará con nueve medidas que vencen este año"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "la Corte Suprema puso un freno a los municipios para cobrar tasas a las empresas sin probar el servicio prestado",
+     "resumen": "El máximo tribunal volvió a limitar el poder tributario municipal y estableció qué deben demostrar los municipios para poder cobrar una tasa a empresas y contribuyentes, según iProfesional. Para una empresa: el fallo da un argumento adicional para cuestionar tasas municipales que no acrediten una contraprestación concreta del servicio.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464235-corte-suprema-pone-otro-freno-a-tasas-municipales-que-cambia-para-empresas-y-comercios",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/12/547716.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:51",
+     "autor": "",
+     "titulo_original": "La Corte puso un freno a municipios y empresas festejan: ya no podrán cobrar tasas sin probar nada"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "ARCA todavía debe devoluciones millonarias del dólar tarjeta de 2024 y 2025",
+     "resumen": "Pese a que el Gobierno eliminó en abril de 2025 las percepciones impositivas para la compra de dólares, ARCA mantuvo el recargo del 30% a cuenta de Ganancias o Bienes Personales sobre consumos en moneda extranjera como streaming y turismo, y aún adeuda devoluciones de esos años, según un pedido de acceso a la información pública de El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/dolar-tarjeta-arca-todavia-debe-devoluciones-de-2024-y-2025-como-hacer-el-reclamo/",
+     "imagen": "https://www.cronista.com/resizer/v2/DWBHDUTQZJCSNDIVWJTVU2Z67Y.jpg?auth=2ade69f5043b9ddd808b2aa857d1af553de48d6aa684d005d9c16d86d4bb3035&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:18",
+     "autor": "Matías Rufino",
+     "titulo_original": "Dólar tarjeta: ARCA todavía debe devoluciones millonarias de 2024 y 2025, ¿cómo hacer el reclamo?"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "confirmaron un aumento para la seguridad privada del aeropuerto de Ezeiza en septiembre y octubre",
+     "resumen": "El gremio UPSRA acordó con la empresa Group of Private Security la creación de un \"Adicional No Remunerativo por funciones y objetivo\" para los vigiladores encuadrados en el convenio 507/07 que trabajan en la terminal aérea, según El Cronista e iProfesional. El beneficio se aplicará de forma exclusiva a quienes cumplen funciones en el aeropuerto y no reemplaza el adicional que ya cobran por esa tarea.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/aumento-confirmado-para-la-seguridad-privada-el-beneficio-extra-que-cobrara-este-sector-en-septiembre-y-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/LXLHFLTLRZGORAXAJWVFOHRTFI.jpg?auth=a441468c053ebc95cbf1be502937ad7ec1cb8331d27041a35e1391b01e267e77&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:10",
+     "autor": "",
+     "titulo_original": "Aumento confirmado para la seguridad privada: el beneficio extra que cobrará este sector en septiembre y octubre"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-19",
+     "titulo": "vivir en Vaca Muerta: salarios altos pero un fuerte aumento del costo de la vivienda",
+     "resumen": "Entre enero y junio se mudaron a Neuquén desde otras jurisdicciones unas 13.147 personas, una cifra equivalente al 62,3% de todos los movimientos registrados en 2025, según El Cronista. El auge de Vaca Muerta elevó los salarios de la zona, pero también disparó el costo de vida, en particular el de la vivienda.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/cedears-de-petroleo-que-diferencia-hay-entre-invertir-en-el-crudo-y-en-una-petrolera-como-exxon-o-ypf/",
+     "imagen": "https://www.cronista.com/resizer/v2/6LRVQHLB7RCEFLFU55JDIQRQVQ.png?auth=c696985c620529872b2f4ae294b455822a2d6e848855a46c9a3cedd82296428b&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:57",
+     "autor": "",
+     "titulo_original": "Cedears de petróleo: qué diferencia hay entre invertir en el crudo y en una petrolera como Exxon o YPF"
+    },
+    {
+     "id": "CL-04",
+     "titulo": "automotrices y sindicatos acuerdan bancos de horas para enfrentar la importación de autos chinos",
+     "resumen": "Renault negoció con el gremio Smata la figura del \"banco de horas\", que ya aplicaba Toyota en su planta de Zárate, según Clarín. \"El gremio entendió la importancia de radicar esta inversión en Córdoba\", dijo el titular de la automotriz, Pablo Sibilla.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/nuevos-acuerdos-automotrices-trabajadores-hacer-frente-importacion-autos-chinos_0_4adSGTTrGC.html",
+     "imagen": "https://www.clarin.com/img/2026/09/14/JBSZUVOJC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los nuevos acuerdos entre automotrices y trabajadores para hacer frente a la importación de autos chinos"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "un SUV híbrido chino crece en ventas y desafía a todos en un mercado automotor que sigue en baja",
+     "resumen": "En agosto se patentaron 44.415 vehículos en el país, un 19,1% menos que en el mismo mes de 2025, y en los primeros ocho meses del año el mercado acumula 385.091 unidades, un 13,3% por debajo del año pasado, según El Cronista. En ese contexto, el BAIC BJ30, un SUV híbrido de origen chino, volvió a crecer en agosto y se consolidó entre los modelos más vendidos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/suv-hibrido-como-es-el-tanque-chino-que-crece-en-ventas-y-desafia-a-todos-en-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/LRA6NZHK2VHB5M6GL36BUUWES4.jpg?auth=f72dd16a90bdad2ef6362055c5e3f112893a2a234eaa3474b943288e53bb5954&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:00",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "SUV híbrido: cómo es el \"tanque\" chino que crece en ventas y desafía a todos en Argentina"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "Banco Provincia desafía al Nación con créditos para autos desde UVA más 6%",
+     "resumen": "La entidad bonaerense salió a competir con una línea de préstamos UVA desde el 6% anual, una de las tasas más bajas del mercado, financiando hasta el 100% de la operación para quienes cobran haberes en el banco, según El Cronista y Ámbito. Mientras el Banco Nación permite pedir hasta 100 millones de pesos, el Provincia fija un tope de 50 millones; la nueva línea también permite financiar 0 kilómetro y usados en concesionarias adheridas.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Del capital industrial al dominio del algoritmo: doctrina social y políticas públicas",
+       "url": "https://www.ambito.com/opiniones/del-capital-industrial-al-dominio-del-algoritmo-doctrina-social-y-politicas-publicas-n6322225"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/banco-provincia-desafia-al-nacion-con-creditos-para-comprar-autos-desde-uva-6/",
+     "imagen": "https://www.cronista.com/resizer/v2/CEGBU4X35VH43KU7DEPDJUIDWU.png?auth=662d82317a47433fdb9373049588ae6474a6af0ca2cd72e5addabe319229c39a&smart=true&width=900&height=500",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:34",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Banco Provincia desafía al Nación con créditos para comprar autos desde UVA + 6%"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "las canastas de crianza subieron entre 2,1% y 2,4% en agosto",
+     "resumen": "El costo de criar a un hijo aumentó más que la inflación general, aunque menos que las canastas que miden la pobreza y la indigencia, según Ámbito. El mayor incremento se verificó en bienes y servicios. Para una empresa: la evolución de estas canastas es un indicador temprano de la presión sobre el consumo de los hogares con hijos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/las-canastas-crianza-subieron-21-y-24-agosto-cuanto-cuesta-mantener-un-hijo-n6322199",
+     "imagen": "https://media.ambito.com/p/f6842c71a02e766ec460b7862cb4a005/adjuntos/239/imagenes/042/942/0042942391/teletrabajo-hijos-justicia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:57",
+     "autor": "",
+     "titulo_original": "Las canastas de crianza subieron entre 2,1% y 2,4% en agosto: cuánto cuesta mantener a un hijo"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "la OTAN prometió mayor apoyo a Ucrania tras un ataque con drones cerca de la frontera con Polonia",
+     "resumen": "El secretario general Mark Rutte anunció más ayuda para Kiev y un refuerzo defensivo en el flanco oriental tras los ataques con drones rusos del domingo, uno de los cuales impactó un tren de pasajeros minutos después de que circulara por esa línea una delegación de funcionarios europeos, según Infobae. Rutte dijo que el ataque \"demuestra lo desesperado\" que se volvió el presidente ruso, Vladimir Putin.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/14/la-otan-anuncio-mayor-apoyo-a-ucrania-tras-el-ataque-contra-un-tren-cerca-de-polonia/",
+     "imagen": "https://www.infobae.com/resizer/v2/NMFLZ3AKDFAWBA7C4LWLRB6XYY.JPG?auth=e716990f91263f976731175ce1ea0e819eea9f948d3a21ec58a27726339fca7c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:41",
+     "autor": "",
+     "titulo_original": "La OTAN anunció mayor apoyo a Ucrania tras el ataque contra un tren cerca de Polonia"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Zelensky destituyó al fiscal general de Ucrania en plena purga por un escándalo de fraude",
+     "resumen": "El mandatario destituyó por decreto a Ruslán Kravchenko horas después de que este acusara al jefe de la agencia anticorrupción de falsificar documentos, en la crisis institucional más grave desde las protestas de 2025 contra el debilitamiento de los organismos de control, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/14/zelensky-destituyo-al-fiscal-general-de-ucrania-en-plena-purga-por-el-escandalo-de-los-centros-de-llamadas-fraudulentos/",
+     "imagen": "https://www.infobae.com/resizer/v2/XUVPPSJGVRAVRFW4TSU3NCDFBY.JPG?auth=91ffc73f504d35f847a047f450fd520f2a90a53ca52bb2eae6e7cb76d1d9a203&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:16",
+     "autor": "",
+     "titulo_original": "Zelensky destituyó al fiscal general de Ucrania en plena purga por el escándalo de los centros de llamadas fraudulentos"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "los rebeldes hutíes tomaron dos islas estratégicas en el mar Rojo y atacaron a Arabia Saudita",
+     "resumen": "Los hutíes, respaldados por Irán, capturaron las islas Gran Hanish y Hanish Menor, cerca del estrecho de Bab el-Mandeb, un paso clave para los envíos de crudo saudita, según La Nación. Irán, por su parte, postergó una cumbre en Omán sobre la gestión del tráfico en el estrecho de Ormuz, tras reportar un nuevo ataque en esa vía marítima.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/los-rebeldes-huties-continuan-su-avance-en-yemen-tomaron-dos-islas-estrategicas-en-el-mar-rojo-y-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4W5APUMCQJFXTMC7VPUPNQUMTM.JPG?auth=9fd8b775728869fdd7f6a87e6a7ec16dc20e71d876594909397217cb8dcfd517&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:11",
+     "autor": "",
+     "titulo_original": "Los rebeldes hutíes continúan su avance en Yemen: tomaron dos islas estratégicas en el mar Rojo y atacaron a Arabia Saudita"
+    },
+    {
+     "id": "IB-03",
+     "titulo": "el testaferro señalado de Nicolás Maduro se declararía culpable ante un tribunal de Miami",
+     "resumen": "El empresario colombiano Álex Saab prevé admitir este martes su responsabilidad penal por lavado de dinero y conspiración, según Infobae. Enfrenta acusaciones por la creación de empresas ficticias y el desvío de fondos de contratos con el régimen venezolano.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/mexico/2026/09/14/camila-fernandez-no-obtuvo-permiso-laboral-de-eeuu-y-no-podra-cantar-en-las-vegas-junto-a-alejandro-fernandez/",
+     "imagen": "https://www.infobae.com/resizer/v2/EHSE2ZK2WZEUPISJPSMKPJY3IM.jpg?auth=b5293270f012bcc7ecbbff1fe5836a87c4af822769e0ebf73c51f681e064b244&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:00",
+     "autor": "Gisell Yazmin Pinzon Roldan",
+     "titulo_original": "Camila Fernández no obtuvo permiso laboral de EEUU y no podrá cantar en Las Vegas junto a Alejandro Fernández"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "un escándalo bancario pone bajo presión a la Corte Suprema de Brasil",
+     "resumen": "Una disputa entre dos jueces sumió al tribunal en una crisis que podría impactar en las elecciones presidenciales del mes próximo, según El Cronista. La interna se desató tras revelarse presuntos vínculos entre el sospechado cerebro de un fraude bancario y el juez Alexandre de Moraes, en medio del escándalo por el colapso del prestamista Banco Master.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/nu-pone-a-la-argentina-en-el-radar-lanza-operacion-en-eeuu-y-su-ceo-elogia-desregulacion-de-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/Q6VN5ZFSCVGZDH34QFB77Z4O64.jpg?auth=e668e7cac172d3c5c4bdabd7cb07070b06c37056dd2f4abdf4741e50b89af494&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:06",
+     "autor": "Leandro Dario",
+     "titulo_original": "Banco global pone a la Argentina en el radar: desembarca en EE.UU. y elogia desregulación de Milei"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "doce países piden a la Unión Europea reforzar su presencia en el Ártico ante la amenaza de Rusia",
+     "resumen": "Los países reclaman a la Comisión Europea que la próxima estrategia ártica incluya vigilancia marítima y espacial, intercambio de inteligencia y protección de infraestructuras críticas, según Clarín. El pedido llega en medio del expansionismo ruso, centrado por ahora en Ucrania, y de la amenaza estadounidense sobre la isla danesa de Groenlandia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/doce-paises-piden-union-europea-reforzar-presencia-artico-amenaza-rusia_0_7dxHA8fTRr.html",
+     "imagen": "https://www.clarin.com/img/2026/09/14/4JQEV18F0_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Doce países piden a la Unión Europea reforzar su presencia en el Ártico ante la amenaza de Rusia"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-20",
+     "titulo": "la Selección Argentina jugará tres amistosos en el país entre fines de septiembre y comienzos de octubre",
+     "resumen": "El equipo dirigido por Lionel Scaloni enfrentará a Bolivia, Burkina Faso y Benín en la próxima fecha FIFA, con dos partidos en Córdoba y uno en el estadio Monumental, según Ámbito, Clarín y La Nación. La nómina de convocados está lista pero todavía no fue oficializada, con Lionel Messi en duda, mientras se espera la confirmación de la FIFA sobre si los encuentros computarán como partidos de clase A.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La AFA demora el anuncio de los amistosos de la Selección pero habrá un cambio clave para enfrentar a Bolivia, Burkina Faso y Benín",
+       "url": "https://www.clarin.com/deportes/afa-demora-anuncio-amistosos-seleccion-cambio-clave-enfrentar-bolivia-burkina-faso-benin_0_Q9BtGxvSAa.html"
+      },
+      {
+       "id": "LN-15",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Argentina tiene definidos tres amistosos para la fecha FIFA: Bolivia, Burkina Faso y Benín, con Messi todavía en duda",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-tiene-definidos-tres-amistosos-para-la-fecha-fifa-bolivia-burkina-faso-y-benin-con-messi-nid14092026/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/la-seleccion-argentina-jugara-tres-amistosos-el-pais-conoce-donde-y-cuando-n6322154",
+     "imagen": "https://media.ambito.com/p/54e418bded05987ea8a93124534d9dc5/adjuntos/239/imagenes/043/500/0043500558/1200x675/720x367:740x387/argentina-victoria-egipto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:00",
+     "autor": "",
+     "titulo_original": "La Selección Argentina jugará tres amistosos en el país: conocé dónde y cuándo"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Boca visita este martes a San Pablo por los cuartos de final de la Copa Sudamericana",
+     "resumen": "El entrenador Claudio Ubaldo Fernández Arruabarrena definió cambios en la formación para el partido en Brasil, en la búsqueda de la clasificación a semifinales, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/la-formacion-arruabarrena-viajar-brasil-los-cambios-que-tendra-boca-n6322095",
+     "imagen": "https://media.ambito.com/p/936d8fe85e001483f7ec8ec1697b2d0f/adjuntos/239/imagenes/043/569/0043569172/arruabarrena.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:12",
+     "autor": "",
+     "titulo_original": "La formación de Arruabarrena para viajar a Brasil: los cambios que tendrá Boca"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "en Racing definirán el futuro de Juan Pablo Vojvoda tras la derrota con Huracán",
+     "resumen": "La dirigencia se reunirá para resolver la continuidad del técnico después de la caída por 2 a 1 ante el Globo, según Ámbito. El propio Vojvoda reconoció que tiene fuerzas para seguir en el cargo, aunque la decisión final quedará en manos de la secretaría técnica que encabeza Diego Milito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/tension-racing-la-dirigencia-se-reunira-definir-el-futuro-juan-pablo-vojvoda-la-derrota-contra-huracan-n6322185",
+     "imagen": "https://media.ambito.com/p/2efcb273cc7968e36753f9255524c36c/adjuntos/239/imagenes/043/641/0043641884/1200x675/769x172:789x192/vojvoda-racing.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:57",
+     "autor": "",
+     "titulo_original": "Tensión en Racing: la dirigencia se reunirá para definir el futuro de Juan Pablo Vojvoda tras la derrota contra Huracán"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "un conflicto interno en la Lazio frenó el regreso de Mauro Icardi al club",
+     "resumen": "Las negociaciones entre la Lazio y el entorno del delantero argentino, de 33 años y libre de contrato tras su paso por el Galatasaray, habían resucitado en las últimas horas del mercado pero terminaron por la negativa del técnico Gennaro Gattuso, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/14/decision-final-los-detalles-del-llamativo-conflicto-que-se-desato-en-un-historico-club-de-italia-por-mauro-icardi/",
+     "imagen": "https://www.infobae.com/resizer/v2/KRHO25PSIFFTTCARWC67DHNTV4.jpg?auth=9051709601bce593a5567b79331f6f0484029d41a8ac9fce3e855f1f3be6ca2c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:04",
+     "autor": "",
+     "titulo_original": "“Decisión final”: los detalles del llamativo conflicto que se desató en un histórico club de Italia por Mauro Icardi"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Fernando Contreras ganó una medalla dorada histórica para la Argentina en los Juegos Suramericanos",
+     "resumen": "El ciclista mendocino, de 29 años, se impuso en el cross country de mountain bike y logró la primera medalla de oro argentina en esa disciplina en la historia de los Juegos Suramericanos, según Clarín. Tras cruzar la meta se quebró al recordar a su padre, fallecido este año, y reveló que meses atrás estuvo a punto de dejar el ciclismo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/fernando-contreras-gano-medalla-oro-mountain-bike-juegos-suramericanos-santa-fe-2026_0_vKaqgF3Iy2.html",
+     "imagen": "https://www.clarin.com/img/2026/09/14/OU72dJLrP_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juegos Suramericanos Santa Fe 2026: Fernando Contreras, del dolor por la muerte de su padre a un oro histórico"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "un tenista argentino de 19 años fue suspendido 20 meses por doping",
+     "resumen": "Romeo Arcuschin había dado positivo en diciembre de 2025 en un torneo de Lima por dos sustancias prohibidas, estanozolol y clomifeno, que según la Agencia Internacional de Integridad del Tenis ingirió de manera accidental durante un tratamiento médico, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/14/dura-sancion-para-un-tenista-argentino-por-doping-estara-20-meses-sin-competir/",
+     "imagen": "https://www.infobae.com/resizer/v2/6GK2MDIS5FCD3EMCDXIQB4QMCQ.JPG?auth=9a3f4d4cd025ce060a0ffe81e9461e7a0d5eb0dbe0f903a41a888b0ec4994415&smart=true&width=816&height=487",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Dura sanción para un tenista argentino por doping: estará 20 meses sin competir"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Nico Paz asistió el gol del Como en su victoria sobre el Parma en la Serie A",
+     "resumen": "El mediocampista argentino encaró por la derecha, enganchó hacia el centro del área y su remate lo empujó Jacobo Ramón para el 1 a 0 parcial, según Infobae. El exjugador de Tigre David Romero anotó luego el descuento para el equipo visitante.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/14/enganche-hacia-adentro-y-zurdazo-asi-fue-la-asistencia-de-nico-paz-en-la-victoria-del-como-frente-al-parma/",
+     "imagen": "https://www.infobae.com/resizer/v2/PUNQTOEPEFADFA6XOEJ7PBPD3A.JPG?auth=7d68a20db717518ca49afa7f2f34b197d94402e2ee821cfc224dd3f4eea27489&smart=true&width=900&height=607",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:15",
+     "autor": "",
+     "titulo_original": "Enganche hacia adentro y zurdazo: así fue la asistencia de Nico Paz en la victoria del Como frente al Parma"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-07",
+     "titulo": "llegó a Uruguay el ferry 100% eléctrico que unirá Buenos Aires con Colonia",
+     "resumen": "El barco de Buquebus arribó a Nueva Palmira tras una travesía de más de 15.000 kilómetros desde Australia, según iProfesional y Ámbito. Tiene capacidad para 2.100 pasajeros y 225 vehículos, y una vez en operación acortará el cruce entre Buenos Aires y Colonia del Sacramento, uno de los destinos de fin de semana más elegidos por los argentinos.",
+     "relacionadas": [
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El ferry 100% eléctrico de Buquebus ya está en el Río de la Plata: cuánto costó y cómo funcionará",
+       "url": "https://www.ambito.com/negocios/el-ferry-100-electrico-buquebus-ya-esta-el-rio-la-plata-cuanto-costo-y-como-funcionara-n6322088"
+      }
+     ],
+     "url": "https://www.iprofesional.com/turismo/464422-el-ferry-100-electrico-que-unira-buenos-aires-con-colonia-ya-llego-uruguay",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625671.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:41",
+     "autor": "",
+     "titulo_original": "El ferry 100% eléctrico que unirá Buenos Aires con Colonia ya llegó Uruguay"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-04",
+     "titulo": "un frente de aire antártico provocará heladas y ráfagas de más de 85 kilómetros por hora",
+     "resumen": "La masa de aire frío afectará principalmente al sur del país, con temperaturas de hasta 10 grados bajo cero y nuevas nevadas, según La Nación. El miércoles ingresará un nuevo sistema frontal que intensificará el viento en la Patagonia, antes de que una recuperación térmica lleve las marcas por encima de los 20 grados en el centro y el norte del país.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/avanza-un-frente-de-aire-antartico-provocara-en-48-horas-heladas-rafagas-de-mas-de-85-kmh-y-un-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/357LX6HXBBGX5GMMAHRKAOBP54.png?auth=f858e702818231803a71957a95fb6b53cfcf1aab782dae720c374a2c1f8a50da&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:55",
+     "autor": "",
+     "titulo_original": "Avanza un frente de aire antártico que provocará en 48 horas heladas, ráfagas de más de 85 km/h y un brusco cambio térmico: las zonas afectadas"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "a 50 años de La Noche de los Lápices, una sobreviviente habla del \"delito del silencio\"",
+     "resumen": "El 16 de septiembre se cumplen 50 años del operativo represivo de la última dictadura en el que fueron secuestrados diez estudiantes secundarios de La Plata, seis de los cuales continúan desaparecidos, según Infobae. Emilce Moler, detenida a los 17 años y liberada en 1978, habló sobre la responsabilidad del Estado y el desafío de llevar esa experiencia a las aulas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/14/el-delito-del-silencio-esta-presente-emilce-moler-y-las-preguntas-que-siguen-abiertas-a-50-anos-de-la-noche-de-los-lapices/",
+     "imagen": "https://www.infobae.com/resizer/v2/4UDAFS3YFZGITLCWIBVTFMLOLA.png?auth=8882d4e3fc6971c3213255a57d4fc542d60ea0b7c68a0e75f9826bd4278de332&smart=true&width=808&height=542",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:48",
+     "autor": "Nicolás Sturtz",
+     "titulo_original": "“El delito del silencio está presente”: Emilce Moler y las preguntas que siguen abiertas a 50 años de La Noche de los Lápices"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del lunes 14 de septiembre. El oro cotiza en cuatro mil trescientos treinta y ocho dólares la onza y el dólar oficial cerró en mil quinientos treinta pesos, mientras el riesgo país argentino volvió a acercarse a los quinientos puntos. La tensión por Malvinas escaló con el anuncio británico de reforzar las islas con cuatro aviones de combate más modernos, justo cuando en Londres esperan conocer el proyecto argentino de ley de soberanía. En paralelo, el rendimiento del bono del Tesoro de Estados Unidos a diez años superó el cinco por ciento por primera vez desde dos mil veintitrés, en medio de dudas globales sobre la inversión en inteligencia artificial que también golpearon a los mercados argentinos.\n\nEn política, la Cámara de Casación dejó firme el embargo del departamento donde la expresidenta Cristina Kirchner cumple prisión domiciliaria, para cubrir parte de la condena de la causa Vialidad. Patricia Bullrich confirmó que el Senado tratará el jueves la reforma de la Carta Orgánica del Banco Central y reconoció el dolor del proceso de estabilización económica. El peronismo, por su parte, pidió citar con carácter urgente al presidente del Banco Central, Santiago Bausili, para que explique el traslado de trece toneladas de oro al exterior en dos mil veinticuatro. En el juicio por Sueños Compartidos, José López y los hermanos Schoklender fueron condenados a penas menores a tres años, por lo que no irán presos, y el tribunal ordenó el decomiso de más de doscientos millones de pesos; el exministro Julio De Vido fue absuelto. Además, la visita del papa León catorce coincide con el vencimiento de un proyecto sobre apuestas online que reclama la Iglesia, y un diputado de Fuerza Patria rechazó que la futura base militar de Ushuaia quede en manos compartidas con otro país.\n\nEn economía, además de la suba del bono estadounidense, el dólar mayorista cerró en mil quinientos siete pesos con cincuenta centavos, con la brecha respecto del techo de la banda cambiaria más amplia en dieciséis meses, mientras el dólar blue subió diez pesos hasta los mil quinientos cincuenta y cinco pesos. La Reserva Federal de Estados Unidos se prepara para subir las tasas de interés por primera vez en tres años, y la escalada en Medio Oriente llevó el petróleo Brent por encima de los ciento ocho dólares, lo que impulsa a Vaca Muerta. Además, las empresas argentinas que cotizan en la Bolsa distribuyeron ochocientos sesenta y ocho millones de dólares en dividendos durante el primer semestre, un ocho coma seis por ciento menos que un año atrás.\n\nEn negocios y empresas, la Justicia santafesina habilitó un proceso de salvataje para la algodonera Avellaneda, de la familia Vicentin, que debe más de mil quinientos millones de pesos y doscientos sesenta millones de dólares al Banco Nación. La cadena de hamburguesas Deniro volvió a quebrar por segunda vez en siete meses y ya cerró su fábrica. En el sector energético, el consorcio Argentina LNG, que integran YPF, la italiana Eni y la emiratí XRG, firmará sus primeros contratos de venta de gas licuado, Chevron mostró interés en sumarse al negocio de Vaca Muerta, e YPF avanza con una nueva planta industrial cerca de Añelo, dentro de una inversión de cincuenta y un mil millones de dólares a veinte años.\n\nEn impuestos y normativa, un grupo de diputados pidió al Gobierno definir qué hará con nueve medidas antidumping que vencen este año, entre ellas las que protegen a la vajilla cerámica y otros productos importados de China, Tailandia y Turquía. La Corte Suprema puso un freno a los municipios, que ya no podrán cobrar tasas a las empresas sin probar el servicio prestado. Y la agencia recaudadora ARCA todavía debe devoluciones millonarias del dólar tarjeta correspondientes a dos mil veinticuatro y dos mil veinticinco. En la aeronáutica, los vigiladores privados del aeropuerto de Ezeiza tendrán un adicional no remunerativo en septiembre y octubre, según un acuerdo gremial con la empresa de seguridad que opera en la terminal.\n\nEn consumo, construcción y retail, la migración hacia Neuquén por el auge de Vaca Muerta sigue disparando el costo de la vivienda en la zona. Las automotrices negocian con los sindicatos esquemas de bancos de horas para hacer frente a la competencia de los autos chinos, en un mercado que en agosto patentó un diecinueve por ciento menos de vehículos que un año atrás. El Banco Provincia lanzó créditos para autos desde una tasa de UVA más seis por ciento, y las canastas de crianza subieron entre dos y dos coma cuatro por ciento en agosto, por encima de la inflación general, aunque todavía por debajo de las canastas que miden la pobreza y la indigencia.\n\nEn el mundo, la OTAN prometió mayor apoyo a Ucrania después de que un ataque con drones rusos cerca de la frontera con Polonia impactara contra un tren de pasajeros. El presidente Zelensky destituyó al fiscal general de Ucrania en medio de una purga por un escándalo de fraude, y los rebeldes hutíes tomaron dos islas estratégicas en el mar Rojo y atacaron a Arabia Saudita. En Miami, el empresario colombiano señalado como testaferro de Nicolás Maduro se declararía culpable este martes por lavado de dinero, y en Brasil un escándalo bancario pone bajo presión a la Corte Suprema a semanas de las elecciones presidenciales.\n\nEn deportes, la Selección Argentina jugará tres amistosos en el país a fines de septiembre y comienzos de octubre, ante Bolivia, Burkina Faso y Benín, con Lionel Messi todavía en duda. Boca visita este martes a San Pablo, en Brasil, por los cuartos de final de la Copa Sudamericana, mientras en Racing la dirigencia definirá el futuro del técnico Juan Pablo Vojvoda tras la derrota con Huracán. En los Juegos Suramericanos de Santa Fe, el ciclista mendocino Fernando Contreras ganó una medalla dorada histórica en mountain bike, y un tenista argentino de diecinueve años fue suspendido veinte meses por doping tras un caso de ingesta accidental. En Italia, el argentino Nico Paz dio la asistencia del gol en la victoria del Como sobre el Parma.\n\nAntes de cerrar, el ferry cien por ciento eléctrico que unirá Buenos Aires con Colonia del Sacramento ya llegó a Uruguay tras una travesía de más de quince mil kilómetros desde Australia, y promete acortar uno de los cruces de fin de semana más elegidos por los argentinos.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "No hubo material nuevo de Le Grand Continent en esta corrida (la única nota disponible, sobre la declaración de los BRICS, ya se había publicado en la edición del mediodía), así que se omitió la sección Europa y geopolítica. Tampoco hubo material de management y finanzas corporativas con suficiente entidad para una sección propia. En turismo no apareció ningún destino puntual, ni argentino ni del exterior, en el material crudo de esta corrida: se usó la nota disponible más cercana al tema (el ferry eléctrico Buenos Aires-Colonia). No se encontraron novedades sobre Franco Colapinto ni sobre Club Atlético Tigre en esta corrida.",
+ "slug": "2026-09-14-tarde",
+ "generado_ba": "14/09/2026 21:09"
+}
