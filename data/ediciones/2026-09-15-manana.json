@@ -1,0 +1,965 @@
+{
+ "fecha": "2026-09-15",
+ "edicion": "manana",
+ "titulo": "El Gobierno envía el Presupuesto 2027 al Congreso en medio de la escalada petrolera",
+ "apertura": "El Gobierno gira hoy al Congreso el proyecto de Presupuesto 2027, con una inflación proyectada a la baja y una suba de hasta 5% del PBI en el gasto, mientras el ministro Luis Caputo descartó ceder terreno fiscal en un año electoral. En paralelo, el petróleo volvió a subir por los ataques a la infraestructura energética de Arabia Saudita y la incertidumbre en el estrecho de Ormuz, lo que reaviva el interés por Vaca Muerta. En el plano político, Javier Milei reunió a los legisladores de La Libertad Avanza en la Casa Rosada para cerrar filas en defensa del programa económico, mientras la Justicia dejó firmes los embargos contra Cristina Kirchner y el Gobierno oficializó un nuevo estatuto para la SIDE.",
+ "claves": [
+  "El Gobierno envía hoy al Congreso el Presupuesto 2027, con inflación proyectada a la baja y hasta 5% de suba del PBI en el gasto; Caputo dijo que no negociará el ancla fiscal.",
+  "El petróleo Brent subió 1,3% a US$ 107,05 y el WTI 1,51% a US$ 102,92, tras ataques a la infraestructura energética de Arabia Saudita.",
+  "La Cámara Federal de Casación rechazó el recurso de Cristina Kirchner y dejó firmes los embargos sobre su departamento y bienes de Hotesur y Los Sauces por la causa Vialidad.",
+  "El Gobierno creará por decreto un nuevo estatuto para el personal de la SIDE, con ingreso abierto y ascensos por desempeño, vigente desde 2027.",
+  "La CNV y el Gobierno frenaron la operatoria que permitía eludir el impuesto a los débitos y créditos con cheques depositados en cuentas bursátiles.",
+  "La pobreza alcanzó a 1,7 millones de personas más que en 2025 y llegó a 13,4 millones en el segundo semestre del año pasado, según cifras oficiales.",
+  "Argentina suma nueve medallas de oro en los Juegos Suramericanos de Santa Fe y Boca visita hoy a San Pablo con ventaja 1-0 por la Copa Sudamericana.",
+  "Criar a un hijo cuesta ya más de $ 700.000 por mes en la Argentina, según la canasta de crianza de agosto del INDEC."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 107,05",
+   "variacion": "+1,3%",
+   "fuente": "IB-16"
+  },
+  {
+   "nombre": "Petróleo WTI",
+   "valor": "US$ 102,92",
+   "variacion": "+1,51%",
+   "fuente": "IB-16"
+  },
+  {
+   "nombre": "Canasta de crianza (total, agosto)",
+   "valor": "más de $ 700.000 por mes",
+   "fuente": "CR-26"
+  },
+  {
+   "nombre": "Pobreza (2do semestre 2025)",
+   "valor": "13,4 millones de personas",
+   "variacion": "+1,7 millones vs. 2025",
+   "fuente": "AM-15"
+  },
+  {
+   "nombre": "Colocación de deuda del Banco Provincia",
+   "valor": "US$ 73.859.195",
+   "fuente": "CR-19"
+  },
+  {
+   "nombre": "Megaproyecto de cobre MARA (Glencore)",
+   "valor": "US$ 4.500 millones",
+   "fuente": "IP-12"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-05",
+     "titulo": "el Senado retoma el debate por las PASO con Ficha Limpia en el temario",
+     "resumen": "La Comisión de Asuntos Constitucionales del Senado se reúne hoy con un temario ampliado que incluye Ficha Limpia y las primarias no obligatorias, según Clarín. El oficialismo suma esos proyectos en un gesto hacia sus aliados mientras presiona por avanzar con la eliminación de las PASO y evalúa un plan B.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/gobierno-retoma-debate-paso-senado-presiona-aliados-contempla-plan-b_0_Bn7RFZzDLz.html",
+     "imagen": "https://www.clarin.com/img/2026/04/29/vokkSmAolg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:03",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno retoma el debate por las PASO en el Senado, mientras presiona a los aliados y contempla un plan B"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "la Justicia dejó firmes los embargos contra Cristina Kirchner por la causa Vialidad",
+     "resumen": "La Cámara Federal de Casación Penal rechazó el recurso de la defensa de Cristina Kirchner contra los embargos preventivos sobre su departamento en Constitución y sobre inmuebles de las empresas Hotesur y Los Sauces, según La Nación. Los jueces de la Sala IV, Hornos, Borinsky y Barroetaveña, dispusieron ejecutar esos bienes para cumplir el decomiso de 650 millones de dólares fijado en la condena que le impuso seis años de prisión.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-se-volvio-a-diferenciar-e-hizo-referencia-a-los-limites-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:41",
+     "autor": "",
+     "titulo_original": "Javier Milei y sus medidas, en vivo: Bullrich se volvió a diferenciar e hizo referencia a “los límites del Ejecutivo”"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "el Gobierno crea por decreto un nuevo estatuto para el personal de la SIDE",
+     "resumen": "El Gobierno anunció que aprobará por decreto presidencial un nuevo estatuto para el personal de la Secretaría de Inteligencia del Estado, vigente desde 2027, según La Nación, Ámbito y El Cronista. La iniciativa promete un ingreso \"abierto y transparente\" y ascensos por desempeño, y sienta las bases de un Cuerpo de Inteligencia de la Nación tras el DNU 941/2025 que reformó la Ley de Inteligencia.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La SIDE anunció la creación del Cuerpo de Inteligencia de la Nación",
+       "url": "https://www.ambito.com/politica/la-side-anuncio-la-creacion-del-cuerpo-inteligencia-la-nacion-n6322292"
+      },
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Gobierno crea el Cuerpo de Inteligencia de la Nación: así será la nueva carrera de los espías argentinos",
+       "url": "https://www.cronista.com/economia-politica/el-gobierno-crea-el-cuerpo-de-inteligencia-de-la-nacion-asi-sera-la-nueva-carrera-de-los-espias-argentinos/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-crea-un-nuevo-estatuto-para-la-side-y-lanza-cambios-en-la-formacion-de-agentes-de-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VDTN7CBPGBEXHNU75KEXTMIZVE.jpg?auth=635f78dec2f9cc9db6d44a86bfbb4b5c9e0517522087db91fcf383d3f5f3c7c2&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:50",
+     "autor": "",
+     "titulo_original": "El Gobierno crea un nuevo estatuto para la SIDE y lanza cambios en la formación de agentes de inteligencia"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "Milei reunió a los legisladores de LLA en la Casa Rosada para defender el rumbo económico",
+     "resumen": "El presidente Javier Milei reunió el lunes durante más de tres horas a diputados y senadores de La Libertad Avanza en el Salón Héroes de Malvinas, en la previa al envío del Presupuesto 2027 y del proyecto de Malvinas al Congreso, según El Cronista e Infobae. \"Éramos un montón de promesas, ahora somos un montón de resultados\", les dijo, en un encuentro centrado en la defensa cerrada del plan económico.",
+     "relacionadas": [
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Realismo libertario: Milei reclama a su tropa una defensa cerrada del plan económico y busca reactivar sus proyectos",
+       "url": "https://www.infobae.com/politica/2026/09/15/realismo-libertario-milei-reclama-a-su-tropa-una-defensa-cerrada-del-plan-economico-y-busca-reactivar-sus-proyectos/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/milei-reune-a-legisladores-en-la-previa-del-presupuesto-y-malvinas-para-otra-masterclass-de-economia/",
+     "imagen": "https://www.cronista.com/resizer/v2/TGIT3WALNNA3LGXTU23S4EJFRE.jpeg?auth=2e1f7d206e305cf05128eba296192972df152e7fdac00358f281a051aae1cb50&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:56",
+     "autor": "Daniela Romero",
+     "titulo_original": "Milei reunió a legisladores en la Casa Rosada para defender el rumbo económico y Karina pidió cuidar a los aliados"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "el PJ amplió la denuncia contra Bausili y pide que explique en el Congreso el oro del Banco Central",
+     "resumen": "Los senadores Juliana Di Tullio y Martín Soria pidieron, a través de un proyecto de resolución, que el titular del Banco Central, Santiago Bausili, dé explicaciones ante el Congreso sobre los lingotes de oro depositados en el exterior, según Ámbito. El pedido llega después de que la Auditoría General de la Nación contradijera las explicaciones que Bausili había dado ante un plenario de comisiones.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/el-pj-pide-que-bausili-vaya-al-congreso-dar-explicaciones-el-oro-del-banco-central-n6322171",
+     "imagen": "https://media.ambito.com/p/e9bfded1ec1496cc66513bb9e21b9ed2/adjuntos/239/imagenes/043/633/0043633566/bausili-lingote-oro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:50",
+     "autor": "",
+     "titulo_original": "El PJ amplió denuncia contra Santiago Bausili y pide que vaya al Congreso a dar explicaciones por el oro del Banco Central"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Jalil no competirá por la reelección en Catamarca y respaldará a Saadi",
+     "resumen": "El gobernador Raúl Jalil confirmó que no buscará un tercer mandato en Catamarca, pese a que en la Casa Rosada esperaban ese guiño, y respaldará la candidatura del intendente capitalino Gustavo Saadi, según Infobae. La decisión, además, pone en suspenso su apoyo a la eliminación de las PASO.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/15/jalil-no-competira-por-su-reeleccion-en-catamarca-y-pone-en-suspenso-su-apoyo-a-la-eliminacion-de-las-paso/",
+     "imagen": "https://www.infobae.com/resizer/v2/LZ66IXDZSJHDLFF5QG24LA5VCA.jpeg?auth=48cebb69ba44f25d2b898504694a785aaf3f3ffe1d474f14532d66951cdfbdc3&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:19",
+     "autor": "Joaquín Múgica Díaz",
+     "titulo_original": "Jalil no competirá por su reelección en Catamarca y pone en suspenso su apoyo a la eliminación de las PASO"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "la UTEP le entregó al papa León XIV un informe crítico de la gestión de Milei",
+     "resumen": "Alejandro Gramajo, titular de la Unión de Trabajadores de la Economía Popular, participó de una audiencia privada en el Vaticano y le entregó al papa León XIV un documento que alerta sobre pobreza, endeudamiento familiar, salud mental y criminalización de la protesta, según La Nación. El encuentro se dio a menos de dos meses de la visita del Papa a la Argentina.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/un-dirigente-social-le-llevo-al-papa-un-crudo-diagnostico-del-gobierno-de-milei-antes-de-su-visita-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2AL7FVNKB5BRNGNIMQ6AHUGCPM.jpg?auth=5b4d0065a52a93343ede40c907d3822855694c9f6645c33cd43951988532f64c&smart=true&width=900&height=774",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:20",
+     "autor": "",
+     "titulo_original": "Un dirigente social le llevó al Papa un crudo diagnóstico del gobierno de Milei antes de su visita al país"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "el Gobierno presenta hoy el Presupuesto 2027 con inflación a la baja y más gasto",
+     "resumen": "El Poder Ejecutivo gira hoy al Congreso su pauta de ingresos y gastos para 2027, que contempla una inflación proyectada a la baja y una suba de hasta 5% del PBI en el gasto, según Ámbito, iProfesional, El Cronista e Infobae. El proyecto de 2026 había estimado un IPC del 10% y terminará cerca del 30%, uno de los tres números que más preocupan a los mercados junto al problema del gasto indexado; el ministro Luis Caputo dijo que \"tendrían que cambiar de ministro\" si le pidieran ceder medio punto del PBI en gasto electoral, y el FMI mantiene su proyección de 4% de crecimiento para 2027.",
+     "relacionadas": [
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno presenta el Presupuesto 2027, con menos inflación y suba de hasta 5% del PBI",
+       "url": "https://www.iprofesional.com/economia/464425-que-pasara-con-la-inflacion-y-el-pbi-segun-el-presupuesto-2027"
+      },
+      {
+       "id": "CR-04",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Se conoce el Presupuesto 2027: los números y el desafío que le dejó el de 2026",
+       "url": "https://www.cronista.com/economia-politica/se-presenta-el-presupuesto-2027-los-numeros-y-el-desafio-que-le-dejo-el-de-2026/"
+      },
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El desafío fiscal del Presupuesto 2027: cuál es la meta",
+       "url": "https://www.cronista.com/economia-politica/el-gobierno-presenta-el-presupuesto-2027-con-desafio-fiscal-cual-es-la-meta/"
+      },
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Presupuesto 2027: qué se espera en crecimiento, gasto e inflación",
+       "url": "https://www.cronista.com/economia-politica/caputo-alista-el-presupuesto-2027-que-se-espera-en-crecimiento-gasto-e-inflacion/"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Milei presenta hoy el proyecto de Presupuesto 2027: cuáles son las expectativas de los especialistas",
+       "url": "https://www.infobae.com/economia/2026/09/15/milei-presenta-hoy-el-proyecto-de-presupuesto-2027-cuales-son-las-expectativas-de-los-especialistas/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/presupuesto-2027-los-tres-numeros-clave-que-mas-preocupan-los-mercados-n6322261",
+     "imagen": "https://media.ambito.com/p/54bcb525b3049e4b5d1e92c0af1cb61f/adjuntos/239/imagenes/043/401/0043401158/1200x675/987x270:1007x290/luis-caputo-latam-forum-2026.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Presupuesto 2027: los tres números clave que más preocupan a los mercados"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "Milei sostiene un tercio del electorado, pero la angustia por los ingresos ya supera a la inflación",
+     "resumen": "Según un estudio de la consultora Analogías, el oficialismo conserva una base de apoyo cercana a los 34 puntos, compuesta por 21,5% de respaldo duro y 12,8% de oficialismo moderado, mientras la suma de opiniones opositoras llega a 50 puntos, según El Cronista. Milei logra sostener su tercio, pero la preocupación social por los ingresos y el empleo superó a la inflación en un escenario electoral dominado por los indecisos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/milei-no-pierde-su-tercio-pero-una-demanda-que-ya-pesa-mas-que-la-inflacion-y-los-indecisos-pueden-alterar-el-mapa-electoral/",
+     "imagen": "https://www.cronista.com/resizer/v2/BMN2D7EUQ5A4RJWSF3HHKSA4QM.JPG?auth=bc61424834fbf8bae1656fdfbd22fc9d0c345671c95de5a8f7981e32eeb5b5a3&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:31",
+     "autor": "",
+     "titulo_original": "Milei no pierde su tercio, pero una demanda que ya pesa más que la inflación y los indecisos pueden alterar el mapa electoral"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "los bonos caen y el riesgo país se acerca a los 500 puntos",
+     "resumen": "Los bonos argentinos operaron a la baja y el riesgo país volvió a acercarse a los 500 puntos en un escenario global tenso, mientras las acciones también cedieron en Wall Street, según iProfesional. Los mercados siguen la tensión por la inversión en inteligencia artificial y esperan la decisión de la Reserva Federal.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464400-acciones-argentinas-caen-en-wall-street-por-la-ia-y-la-incertidumbre-sobre-las-tasas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622863.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:33",
+     "autor": "",
+     "titulo_original": "Los bonos caen y el riesgo país se acerca a los 500 puntos, tras tenso escenario global"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Wall Street sufrió su quinta caída en seis ruedas por las tecnológicas y el petróleo",
+     "resumen": "La Bolsa de Nueva York cerró con bajas moderadas, presionada por la escalada del petróleo, el salto en el rendimiento de los bonos del Tesoro y la debilidad de las acciones tecnológicas, según Ámbito. El mercado también reaccionó al aplazamiento de las negociaciones con Irán y al debate abierto por Dario Amodei, CEO de Anthropic, sobre los riesgos de la inteligencia artificial.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-petroleo-pega-un-nuevo-salto-y-los-mercados-globales-se-tensan-la-incertidumbre-la-ia-n6321938",
+     "imagen": "https://media.ambito.com/p/9eab2393ea8d2b412305ad0091945389/adjuntos/239/imagenes/042/068/0042068811/wall-street.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:37",
+     "autor": "",
+     "titulo_original": "Wall Street sufrió su quinta caída en 6 ruedas, presionado por tecnológicas y un petróleo imparable"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "la pobreza afecta a 1,7 millones de personas más que en 2025",
+     "resumen": "La pobreza alcanzó a 13,4 millones de personas en el segundo semestre de 2025, mientras que las personas en condiciones precarias de vida se elevaron a 15,1 millones entre enero y junio de 2026, según Ámbito. El deterioro es similar al registrado al inicio de la crisis macrista.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/repunta-la-pobreza-afecta-17-millones-personas-mas-que-2025-y-el-deterioro-es-similar-al-inicio-la-crisis-macrista-n6322254",
+     "imagen": "https://media.ambito.com/p/44269415d00ce60c925c93f2baaa9502/adjuntos/239/imagenes/043/429/0043429753/pobreza-argentina.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:21",
+     "autor": "",
+     "titulo_original": "Repunta la pobreza: afecta a 1,7 millones de personas más que en 2025 y el deterioro es similar al inicio de la crisis macrista"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "la morosidad dejó de crecer, pero sigue en niveles elevados",
+     "resumen": "Un reporte del Banco Nación indicó que la morosidad dejó de aumentar, aunque la irregularidad se mantendrá elevada hasta que avancen los planes de refinanciación de deudas, según iProfesional. Otro trabajo de la entidad identificó tres factores que predicen su evolución y ve \"buenas señales\", aunque el problema está lejos de resolverse, según Clarín; el economista Jorge Vasconcelos, de la Fundación Mediterránea, planteó que el Banco Central podría ayudar a desenredarlo.",
+     "relacionadas": [
+      {
+       "id": "CL-09",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Cuáles son los tres factores que predicen el aumento de la morosidad, según el Banco Nación",
+       "url": "https://www.clarin.com/economia/factores-predicen-aumento-morosidad-banco-nacion_0_Z8W95lJfDw.html"
+      },
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Por qué el Banco Central no puede quedarse al margen del problema del aumento de la mora",
+       "url": "https://www.clarin.com/economia/banco-central-puede-quedarse-margen-problema-aumento-mora_0_2zakQPvd5n.html"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/464419-morosidad-bancaria-borde-colapso-financiero-argentinos-septiembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615675.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:12",
+     "autor": "",
+     "titulo_original": "El Banco Nación advirtió que la morosidad dejó de crecer, pero sigue en niveles elevados"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "hay diferencias de hasta 7 puntos entre los bancos que pagan por un plazo fijo a 30 días",
+     "resumen": "Los rendimientos de los plazos fijos se movieron a la baja en la última semana de septiembre y hay diferencias de hasta 7 puntos porcentuales entre bancos para colocaciones en pesos a 30 días, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464427-cual-es-el-banco-que-mas-paga-por-un-plazo-fijo-a-30-dias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618307.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:24",
+     "autor": "",
+     "titulo_original": "Cuál es el banco que más paga por un plazo fijo a 30 días en septiembre"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-25",
+     "titulo": "la escalada en Medio Oriente acentúa el déficit global de crudo e impulsa a Vaca Muerta",
+     "resumen": "El cierre temporal de vías de evacuación en Arabia Saudita llevó el petróleo Brent por encima de los US$ 108 durante la jornada, y la cuenca neuquina busca capturar la demanda atlántica que dejan las tensiones en la región, según iProfesional. Chevron evalúa diversificar su negocio global de gas natural licuado apoyado en las perspectivas productivas de Vaca Muerta, mientras la industria del gas licuado de petróleo apunta ahora a Asia-Pacífico, que concentra el 60% de la demanda mundial del combustible, y crecen las miradas sobre si conviene invertir en acciones o en obligaciones negociables del sector.",
+     "relacionadas": [
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Invertir en Vaca Muerta: cuándo convienen acciones para capturar el upside y cuándo elegir ONs",
+       "url": "https://www.cronista.com/finanzas-mercados/invertir-en-vaca-muerta-cuando-convienen-acciones-para-capturar-el-upside-y-cuando-elegir-ons/"
+      },
+      {
+       "id": "IP-19",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Chevron pone la mira en Vaca Muerta para impulsar su negocio global de GNL",
+       "url": "https://www.iprofesional.com/energia/464418-chevron-tiene-la-mira-en-vaca-muerta-para-impulsar-su-negocio-global-de-gnl"
+      },
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El “otro gas” de Vaca Muerta: qué se necesita para dejar de mirar a la región y apuntar al bloque Asia-Pacífico",
+       "url": "https://www.cronista.com/economia-politica/el-otro-gas-de-vaca-muerta-que-se-necesita-para-dejar-de-mirar-a-la-region-y-apuntar-al-bloque-asia-pacifico/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/energia/464401-se-acentua-el-deficit-global-de-petroleo-e-impulsa-a-vaca-muerta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615630.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "La escalada en Medio Oriente acentúa el déficit global de crudo e impulsa a Vaca Muerta"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Glencore acelera el megaproyecto de cobre MARA y proyecta más de 2.000 empleos",
+     "resumen": "La minera suiza presentó el Informe de Impacto Ambiental para la etapa productiva de MARA, un proyecto de US$ 4.500 millones que se beneficia del RIGI y que la empresa proyecta que generará más de 2.000 empleos, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464140-glencore-acelera-mara-invertira-us4500-millones-y-generara-empleo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/06/555864.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:20",
+     "autor": "",
+     "titulo_original": "Glencore acelera su megaproyecto MARA de u$s4.500 millones y proyecta más de 2.000 empleos"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Chery redefine su negocio en la Argentina con una operación directa",
+     "resumen": "El grupo chino realizó un aporte de capital a la sociedad que operará directamente sus marcas Omoda y Jaecoo en el mercado local, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464440-chery-reorganiza-su-negocio-argentino-y-refuerza-su-nueva-filial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610282.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:47",
+     "autor": "",
+     "titulo_original": "Chery redefine su negocio en la Argentina con una operación directa"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "el dueño de Rosenbusch activa un plan millonario para rescatar al laboratorio",
+     "resumen": "Agro 2000 condonó una deuda de casi 2.000 millones de pesos y la compañía revaluó sus inmuebles, máquinas e instalaciones para revertir su patrimonio negativo, en un intento por rescatar al histórico laboratorio, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464436-nuevo-dueno-del-laboratorio-rosenbusch-activa-saneamiento-millonario",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625696.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:45",
+     "autor": "",
+     "titulo_original": "El dueño de Rosenbusch activa millonario plan para rescatar al histórico laboratorio"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "conflicto en Santa Cruz con la principal operadora de oro del mundo",
+     "resumen": "La clausura de ocho sectores de la mina Cerro Negro, dispuesta tras una inspección provincial, llevó a la operadora Newmont a interrumpir sus tareas, según Clarín. El Gobierno de Santa Cruz admite que la decisión impacta en la producción, las exportaciones y sus propios ingresos por regalías.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/mina-oro-clausurada-conflicto-santa-cruz-principal-operadora-oro-mundo_0_s7hLaGTbYQ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/14/5HInRl-Kg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Mina clausurada: conflicto en Santa Cruz con la principal operadora de oro del mundo"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-09",
+     "titulo": "a seis meses de la reforma laboral, la Justicia aún no define si es válida",
+     "resumen": "A seis meses de la entrada en vigencia de las nuevas reglas laborales, el debate judicial sobre su validez sigue abierto y mantiene en alerta a sindicatos y empresarios, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464138-reforma-laboral-la-justicia-sigue-sin-definir-si-es-valida",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/616539.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:05",
+     "autor": "",
+     "titulo_original": "Reforma laboral: a 6 meses de entrar en vigencia, la Justicia aún no define si es válida"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "revés para el fisco por el impuesto país aplicado a una fábrica fueguina",
+     "resumen": "La Corte Suprema desestimó el recurso del organismo recaudador y benefició a la fabricante fueguina Tecnomyl en una disputa clave por aranceles en Río Grande, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464396-impuesto-pais-la-corte-suprema-fallo-a-favor-de-fabrica-fueguina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/591596.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:11",
+     "autor": "",
+     "titulo_original": "Revés para el organismo recaudador por el impuesto PAIS aplicado a una fábrica fueguina"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "las empresas ya no podrán pagar con cheques desde sus cuentas bursátiles",
+     "resumen": "Por una baja en la recaudación, el Gobierno frenó desde hoy la operatoria que permitía a las pymes depositar cheques en cuentas bursátiles para eludir el impuesto a los débitos y créditos, según Infobae, iProfesional y El Cronista. La resolución general 1.166 de la Comisión Nacional de Valores dispuso que la transferencia será la única modalidad habilitada; la CNV había autorizado esa operatoria en junio, pero cortó el \"rulo del cheque\" al advertir que las empresas la usaban por fuera del mercado de capitales, para el que estaba prevista la exención.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La CNV dio marcha atrás con una norma vinculada al eCheq que había autorizado en junio",
+       "url": "https://www.iprofesional.com/finanzas/464442-la-cnv-dio-marcha-atras-con-una-norma-vinculada-al-echeq-que-habia-autorizado-en-junio"
+      },
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La CNV dio marcha atrás con una operatoria que autorizó en junio por provocar una caída de recaudación fiscal",
+       "url": "https://www.cronista.com/finanzas-mercados/la-cnv-dio-marcha-atras-con-una-operatoria-que-autorizo-en-junio-por-provocar-una-caida-de-recaudacion-fiscal/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/15/por-una-baja-en-la-recaudacion-el-gobierno-dio-marcha-atras-con-una-medida-clave-que-beneficiaba-a-las-pymes/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZBNZT2X4OJFPTII5NQBNP6XGPI.png?auth=c65baac84fa1dcf989e39b457aeffae408c9af4bf0f473624d82af744fcb57d9&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:40",
+     "autor": "Pablo Wende",
+     "titulo_original": "Por una baja en la recaudación, el Gobierno dio marcha atrás con una medida clave que beneficiaba a las pymes"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "el BCRA equipara reglas y exige más requisitos a las fintech para competir con los bancos",
+     "resumen": "El Banco Central busca reacomodar a los distintos actores del sistema financiero para limitar el desfasaje regulatorio entre las entidades que tienen licencia bancaria y las que no, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464318-el-bcra-exige-mas-requisitos-a-fintech-para-competir-con-bancos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601045.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:55",
+     "autor": "",
+     "titulo_original": "El BCRA equipara reglas y exige más requisitos a fintech para competir con bancos"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "nuevo revés judicial para Milei: los farmacéuticos seguirán al frente de farmacias y droguerías",
+     "resumen": "La Procuración General consideró inadmisible el recurso extraordinario presentado por el Ejecutivo contra la medida que suspendió los artículos 319, 320 y 321 del DNU 70/2023, según Ámbito. La decisión frena, por ahora, el intento de desregulación de la propiedad de farmacias, droguerías y herboristerías.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/nuevo-reves-javier-milei-farmaceuticos-seguiran-al-frente-farmacias-droguerias-y-herboristerias-n6322295",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:37",
+     "autor": "",
+     "titulo_original": "Nuevo revés para Javier Milei: farmacéuticos seguirán al frente de farmacias, droguerías y herboristerías"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "una láctea comprada hace dos meses ya procesa 100.000 litros diarios y vende queso en el mercado interno",
+     "resumen": "Sudamericana de Lácteos, adquirida hace dos meses por un nuevo dueño, alcanzó su objetivo de procesar 100.000 litros de leche por día y ya vende 300 toneladas mensuales de queso en el mercado interno, según Clarín. La empresa, que estuvo paralizada seis meses, apunta ahora a exportar la mayor parte de su producción.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/lactea-paralizada-meses-llego-objetivo-procesar-100000-litros-diarios-comenzo-vender-queso-mercado-interno_0_bBsfA1L2vV.html",
+     "imagen": "https://www.clarin.com/img/2026/08/11/G2-wqgIyb_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una láctea que estuvo paralizada por seis meses llegó a su objetivo de procesar 100.000 litros diarios y comenzó a vender queso en el mercado interno"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "criar a un hijo ya cuesta más de $ 700.000 por mes en la Argentina",
+     "resumen": "El INDEC difundió la canasta de crianza de agosto: un bebé menor de un año costó $ 557.303, de los cuales $ 181.852 corresponden a bienes y servicios y el resto al valor de las horas de cuidado, según El Cronista. Las canastas de crianza subieron entre 2,1% y 2,4% en agosto, más que la inflación general aunque menos que las canastas que miden la pobreza y la indigencia, según Ámbito.",
+     "relacionadas": [
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las canastas de crianza subieron entre 2,1% y 2,4% en agosto: cuánto cuesta mantener a un hijo",
+       "url": "https://www.ambito.com/economia/las-canastas-crianza-subieron-21-y-24-agosto-cuanto-cuesta-mantener-un-hijo-n6322199"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/criar-a-un-hijo-ya-cuesta-mas-de-700000-por-mes-en-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/PUTLF4EEEFCLPLXNVUD3UJA3QY.png?auth=84d4299f181c312da6f28e47b07bf1f671d0b762904785b6f3c8f7613cda39e5&smart=true&width=800&height=533",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:50",
+     "autor": "",
+     "titulo_original": "Criar a un hijo ya cuesta más de $ 700.000 por mes en Argentina"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "el Banco Provincia lanzó créditos para comprar autos 0 km o usados en hasta 72 cuotas",
+     "resumen": "Los créditos, ajustados por UVA, tienen un tope de $ 50 millones y permiten financiar vehículos 0 km o usados, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/464435-nuevos-creditos-banco-provincia-financian-100-por-ciento-de-autos-0km-o-usados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625690.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:10",
+     "autor": "",
+     "titulo_original": "El Banco Provincia lanzó créditos para comprar autos 0km o usados en hasta 72 cuotas"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Peugeot vende el 208 con una rebaja de más de $ 12 millones y en 24 cuotas sin interés",
+     "resumen": "Bajo el nombre \"Peugeot Week\", la marca lanzó una acción especial vigente hasta el 20 de este mes, con financiamiento a tasa 0%, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/464420-peugeot-208-queda-12-millones-pesos-mas-barato-y-puede-comprarse-en-cuotas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625675.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:29",
+     "autor": "",
+     "titulo_original": "Peugeot vende el 208 con una rebaja de más de $12 millones y en 24 cuotas sin interés"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "la inteligencia artificial se usa en la Argentina, pero aún no aumenta la productividad",
+     "resumen": "El uso de herramientas de inteligencia artificial crece entre las empresas argentinas, pero la adopción productiva sigue siendo baja, según planteó el economista Eduardo Levy Yeyati, de la Universidad Torcuato Di Tella, en una entrevista con El Cronista. \"Muchas veces se confunde adopción con uso. El uso no es adopción productiva, no es adopción genuina, es un uso muy puntual\", afirmó.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-ia-se-usa-en-la-argentina-pero-aun-no-aumenta-la-productividad/",
+     "imagen": "https://www.cronista.com/resizer/v2/EBEZVKL4RRC3VIWGFE5VCRBTDU.JPG?auth=92e73eabc99c0e1e1d3bda16293d3a3ea9fec8cd4db5c11cdc62b5c1016543ad&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:55",
+     "autor": "",
+     "titulo_original": "La IA se usa en la Argentina, pero aún no aumenta la productividad"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "la inteligencia artificial en el trabajo exige más que acceso a una herramienta",
+     "resumen": "Dar acceso a una aplicación de inteligencia artificial no garantiza que tenga un efecto concreto sobre la rutina laboral; el desafío para las empresas es convertirla en una herramienta de uso cotidiano, según planteó Natalia García, de Further Corporate y KREW HUB, a El Cronista. \"Hay que distinguir lo que es el acceso de la usabilidad\", dijo; en la misma línea, Cristian Rivas y Viviana Saulo, de BeOn Consulting, señalaron que el desafío pasa por incorporar la IA a los procesos internos y conectarla con los datos del negocio.",
+     "relacionadas": [
+      {
+       "id": "CR-24",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dar acceso no alcanza: el desafío de incorporar la tecnología al trabajo diario",
+       "url": "https://www.cronista.com/negocios/dar-acceso-no-alcanza-el-desafio-de-incorporar-la-tecnologia-al-trabajo-diario/"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/la-inteligencia-artificial-en-el-trabajo-exige-mas-que-acceso-a-una-herramienta/",
+     "imagen": "https://www.cronista.com/resizer/v2/LDENUDB2AJCZZH3ULJPPW56PR4.JPG?auth=e35c746019de5546dfc3083e35931b0dc09a3eb6d0aa702a00ad22d2cf32d2e6&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:54",
+     "autor": "",
+     "titulo_original": "La inteligencia artificial en el trabajo exige más que acceso a una herramienta"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "crecen los riesgos de ciberseguridad más allá de las amenazas humanas",
+     "resumen": "La inteligencia artificial sumó una nueva fuente de riesgo para las empresas por su capacidad de encontrar vulnerabilidades y ejecutar acciones no previstas a partir de indicaciones imprecisas, explicó Sergio Pernice, de la Universidad del CEMA, a El Cronista. \"Hasta dos años atrás, y te diría hasta seis meses atrás, el riesgo principal era que un humano tratara de explotar vulnerabilidades que tu sistema tiene\", afirmó.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/crecen-los-riesgos-de-ciberseguridad-mas-alla-de-las-amenazas-humanas/",
+     "imagen": "https://www.cronista.com/resizer/v2/ERJ2UP2R2NHWBIRLZ76NGO347Y.JPG?auth=4559ee226d4f8750eb0cfaa64dc8aa36e9182b7da01299a8aca8a12acedbefbf&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "",
+     "titulo_original": "Crecen los riesgos de ciberseguridad más allá de las amenazas humanas"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "la Corte Suprema de EE.UU. rechazó la restricción de Trump al voto por correo",
+     "resumen": "La Corte Suprema de Estados Unidos rechazó la solicitud de Donald Trump de levantar una orden que bloqueó su intento de restringir el voto por correo antes de las elecciones legislativas de noviembre, según La Nación. El juez Brett Kavanaugh dijo que la medida podría ser legal a largo plazo, pero que no hay \"tiempo suficiente\" para aplicarla antes de los comicios.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-corte-suprema-de-eeuu-rechazo-la-solicitud-de-trump-para-restringir-el-voto-por-correo-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/QHRHWIN5HFHRZIW5NVT3H3H7DE.jpg?auth=e0512976863ae1585e11759208e28eaeff01e57146cd534cdf13c57275721eef&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:42",
+     "autor": "",
+     "titulo_original": "La Corte Suprema de EE.UU. rechazó la solicitud de Trump para restringir el voto por correo"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Lula y Flavio Bolsonaro siguen cabeza a cabeza a tres semanas de las elecciones en Brasil",
+     "resumen": "Dos encuestas publicadas el domingo muestran una paridad extrema entre el presidente Luiz Inácio Lula da Silva y el senador Flavio Bolsonaro de cara a un eventual balotaje, según La Nación. El sondeo de BTG Pactual/Nexus dio a Lula 47% contra 46% de Bolsonaro, revirtiendo el resultado de la semana anterior, que había puesto al senador adelante por primera vez desde marzo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/lula-y-flavio-bolsonaro-siguen-cabeza-a-cabeza-cuando-faltan-tres-semanas-para-las-elecciones-en-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CVB3WCGPCNC3FJMPSHXGUA3QEQ.jpg?auth=4c57f47fa1344174118e9103e2bbf1ab1ebd062c4e60f856b9b4b85808fc89c8&smart=true&width=900&height=537",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:54",
+     "autor": "",
+     "titulo_original": "Lula y Flavio Bolsonaro siguen cabeza a cabeza cuando faltan tres semanas para las elecciones en Brasil"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "¿el Reino Unido dejó de ser una gran potencia? la tormenta perfecta que enfrenta Londres",
+     "resumen": "Donald Trump le reclama a Londres más apoyo militar y cuestiona posiciones británicas sobre Malvinas, mientras los líderes nacionalistas de Escocia, Gales e Irlanda del Norte se reúnen para promover sus proyectos de separación, según La Nación. Especialistas consultados señalan que el Reino Unido perdió poder relativo frente a otras potencias, aunque conserva activos como una economía relevante, armas nucleares y un asiento en el Consejo de Seguridad; las tres naciones advirtieron que \"Westminster está llegando a su fin\" y firmaron un acuerdo para coordinar acciones, según iProfesional.",
+     "relacionadas": [
+      {
+       "id": "IP-23",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Escocia, Gales e Irlanda del Norte advirtieron que \"Westminster está llegando a su fin\"",
+       "url": "https://www.iprofesional.com/politica/464376-escocia-gales-e-irlanda-del-norte-coordinan-su-plan-para-independizarse-del-reino-unido"
+      },
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Un gesto independentista ante Londres con un fuerte significado simbólico",
+       "url": "https://www.clarin.com/mundo/gesto-independentista-londres-fuerte-significado-simbolico_0_HnkNZ2ayQR.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-reino-unido-dejo-de-ser-una-gran-potencia-la-tormenta-perfecta-que-enfrenta-londres-de-trump-a-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZQLBV5X6GBBIHEW6QP27R2ZJIY.JPG?auth=e6166b4298a02684e6eefc9c98e7efc968fefe1f558ae091bdee1b92631d2ec1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:03",
+     "autor": "Mariano Chaluleu, Lucía Sol Miguel",
+     "titulo_original": "¿El Reino Unido dejó de ser una gran potencia? La tormenta perfecta que enfrenta Londres, de Trump a los separatismos"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Arabia Saudita advirtió que responderá \"con firmeza\" a los hutíes",
+     "resumen": "La coalición liderada por Riad afirmó que adoptará \"todas las medidas operativas necesarias\" tras una serie de ataques con misiles y drones que dejaron 13 civiles heridos en el sur del país, según Infobae. Los hutíes, respaldados por Irán, afirmaron haber atacado la base aérea King Khalid con \"decenas\" de misiles balísticos y drones.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/15/arabia-saudita-advirtio-que-respondera-con-firmeza-a-los-huties-tras-una-serie-de-ataques-con-misiles-y-drones-en-el-sur-del-pais/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZMN2YQK27BC2ZF5XDYFTPSTUI4.jpg?auth=2e45ae1027eb4b442b08f620877075a8e3870db9f115fa2405e1a1dadfa21bac&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:58",
+     "autor": "",
+     "titulo_original": "Arabia Saudita advirtió que responderá “con firmeza” a los hutíes tras una serie de ataques con misiles y drones en el sur del país"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Kim Jong-un reafirmó su apoyo a Rusia y prometió ampliar la cooperación militar",
+     "resumen": "El líder norcoreano envió una carta a Vladimir Putin en la que se dijo \"firmemente convencido de la victoria de la Federación de Rusia\" en la guerra con Ucrania, según Infobae. El mensaje llega en medio de advertencias de Ucrania y Corea del Sur sobre un posible despliegue adicional de soldados norcoreanos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/15/el-dictador-kim-jong-un-reafirmo-su-apoyo-a-rusia-y-prometio-ampliar-la-cooperacion-militar-en-plena-guerra-de-ucrania/",
+     "imagen": "https://www.infobae.com/resizer/v2/YB224LFTYFAADCQB5NSP4IIAFA.JPG?auth=9b7a06199996098c6f48743910cedd450c65fff1d054df38aa8cfe59d0bc0184&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:29",
+     "autor": "",
+     "titulo_original": "El dictador Kim Jong-un reafirmó su apoyo a Rusia y prometió ampliar la cooperación militar en plena guerra con Ucrania"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "el petróleo sube tras los ataques a la infraestructura energética de Arabia Saudita",
+     "resumen": "Los futuros del Brent subieron 1,3%, hasta los US$ 107,05 por barril, y los del WTI estadounidense avanzaron 1,51%, hasta los US$ 102,92, según Infobae. Los ataques hutíes dejaron fuera de servicio el oleoducto Este-Oeste saudita y aumentaron la incertidumbre sobre el transporte marítimo en el estrecho de Ormuz.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/15/el-precio-del-petroleo-sube-tras-los-ataques-a-la-infraestructura-energetica-de-arabia-saudita-y-la-incertidumbre-en-el-estrecho-de-ormuz/",
+     "imagen": "https://www.infobae.com/resizer/v2/K7RAIETJJNCKNKPBEVKQBPG45Y.JPG?auth=838a62e30cedac2b72634516280158109206b49354a899b4fbd5a435c059742c&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:38",
+     "autor": "",
+     "titulo_original": "El precio del petróleo sube tras los ataques a la infraestructura energética de Arabia Saudita y la incertidumbre en el estrecho de Ormuz"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent sigue de cerca las tensiones internas de Rusia, la campaña demócrata en Estados Unidos y los vínculos del entorno de Trump con oligarcas rusos.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "la fuga de rusos dispara los precios de la vivienda en Ereván",
+     "resumen": "Las búsquedas en ruso sobre alquileres en Ereván, capital de Armenia, alcanzaron este verano niveles similares a los de septiembre de 2022, cuando Vladimir Putin decretó una movilización parcial de 300.000 hombres, según Le Grand Continent. El Kremlin intenta desmentir los rumores sobre una nueva movilización, en un país al que los rusos pueden viajar sin visado desde 2017.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/15/economia-rusa-las-personas-que-huyen-hacen-explotar-los-precios-de-vivienda-en-erevan/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Economía rusa: las personas que huyen del país hacen que se disparen los precios de la vivienda en Ereván"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "el progresismo por la inteligencia artificial encontró su discurso fundacional",
+     "resumen": "El senador demócrata por Georgia Jon Ossoff celebró un mitin junto a la exalcaldesa de Atlanta Keisha Lance Bottoms a un mes de la apertura del voto anticipado para las elecciones legislativas de mitad de mandato, según Le Grand Continent. La revista plantea que la inquietud que genera la inteligencia artificial le permite al Partido Demócrata construir un discurso que pasa la página del trumpismo.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/15/el-progresismo-ia-encontro-su-discurso-fundador/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/SIPA_sipahub60202967_000010-125x83.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "00:00",
+     "autor": "Louis Puel",
+     "titulo_original": "El progresismo IA ha encontrado su discurso fundacional"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "quién es el oligarca ruso que financió la boda de Donald Trump Jr.",
+     "resumen": "Una investigación de ProPublica, confirmada en gran parte por la pareja en redes sociales, reveló que Umar Kremlev, cercano a Putin, se hizo cargo de varios cientos de miles de dólares en gastos de la boda de Donald Trump Jr. y Bettina Anderson en las Bahamas, según Le Grand Continent. El oligarca pagó el alquiler de una isla privada, de unos 100.000 dólares por noche, y los fuegos artificiales, con pagos que habrían pasado por una entidad con sede en Dubái.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/15/quien-es-el-oligarca-ruso-que-financio-la-boda-de-donald-trump-jr/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/Grand-Continent-Umar-Kremlev-Marriage-125x84.png",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "23:23",
+     "autor": "Ramona Bloj",
+     "titulo_original": "¿Quién es el oligarca ruso que financió la boda de Donald Trump Jr.?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-07",
+     "titulo": "Argentina ya suma nueve medallas de oro en los Juegos Suramericanos de Santa Fe",
+     "resumen": "La delegación argentina tuvo una destacada actuación el lunes en Santa Fe, Rosario y Rafaela, con oros de Julieta Lucas, Isabel Di Tella, Fernando Contreras, Macarena Ceballos y Cecilia Dieleke, según Ámbito. Tras el segundo día de competencia, Brasil lidera el medallero con 21 oros, 19 platas y 12 bronces, Argentina es segunda con 12, 5 y 15, y Colombia tercera con 10, 9 y 10, según La Nación; en esgrima, Isabel Di Tella se coronó campeona de espada y Augusto Servello ganó el florete en una final 100% argentina ante Andrea Nigosanti, según Clarín.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Así está el medallero de los Juegos Suramericanos Santa Fe 2026, tras el día 2",
+       "url": "https://www.lanacion.com.ar/deportes/asi-esta-el-medallero-de-los-juegos-suramericanos-santa-fe-2026-tras-el-dia-2-nid14092026/"
+      },
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Juegos Suramericanos Santa Fe 2026: la esgrima sigue alimentando el medallero argentino",
+       "url": "https://www.clarin.com/deportes/juegos-suramericanos-santa-fe-2026-esgrima-sigue-alimentando-medallero-argentino_0_W4c3ou3f2F.html"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/gran-jornada-argentina-los-juegos-suramericanos-sumo-nuevas-victorias-y-ya-lleva-nueve-medallas-oro-n6322319",
+     "imagen": "https://media.ambito.com/p/3a1dbec8df5fde3cc72234a051aa1cbb/adjuntos/239/imagenes/043/642/0043642569/1200x675/757x456:777x476/medalla-oro-juegos-suramericanos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:02",
+     "autor": "",
+     "titulo_original": "Gran jornada de Argentina en los Juegos Suramericanos: sumó nuevas victorias y ya lleva nueve medallas de oro"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Boca visita hoy a San Pablo por la Copa Sudamericana con ventaja en la serie",
+     "resumen": "Boca visita hoy al equipo paulista con ventaja 1-0 por la ida, por el pase a semifinales de la Copa Sudamericana, según Clarín. Arruabarrena regresa a un Morumbí donde fue campeón de la Libertadores en 2000, aunque el Xeneize acumula 18 años sin títulos internacionales; San Pablo tampoco corona un torneo internacional desde 2005 ni el Brasileirao desde 2008.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/boca-vs-san-pablo-arruabarrena-vuelve-morumbi-trae-grandes-recuerdos-pase-semifinales-copa-sudamericana_0_N1IFG34OKB.html",
+     "imagen": "https://www.clarin.com/img/2026/09/14/BaSCFdx9Y_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca vs. San Pablo: Arruabarrena vuelve a un Morumbí que le trae grandes recuerdos por el pase a semifinales de la Copa Sudamericana"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Lanús goleó 3-0 a Deportivo Riestra y se metió en zona de playoffs",
+     "resumen": "El centrodelantero paraguayo Wlk marcó su primer doblete y el equipo de Pellegrino goleó en Villa Soldati, según La Nación. Con ese resultado, Lanús se afianza entre los ocho que clasificarían a los playoffs del Clausura.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/lanus-puso-en-marcha-el-3-0-a-deportivo-riestra-con-un-gol-de-area-a-area-en-tres-pases-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LMZ5IMXGIVCMBA5XQDNVUCJQ7Q.jpg?auth=5858a2fd0fbbaeac1ca6a64ebb81b03f0d98196cb652f762b2ade829635dc257&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:54",
+     "autor": "",
+     "titulo_original": "Lanús puso en marcha el 3-0 a Deportivo Riestra con un gol de área a área, en tres pases"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Banfield y Barracas Central empataron 1-1 con polémica de VAR",
+     "resumen": "Banfield y Barracas Central igualaron con gol de Lautaro Gómez para el local y el empate de Iván Tapia de penal, por la novena fecha del Clausura, según La Nación. El árbitro Sebastián Zunino fue una de las figuras del partido por sus decisiones en las jugadas revisadas por el VAR.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/banfield-vs-barracas-central-el-penal-de-sebastian-zunino-y-el-que-pretendio-cobrar-el-var-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CQMQYJ537BF2JAXKD4MMP3ABNY.jpg?auth=484523d71c09ef4c03425c632fa23eaa46c84eb845c77c5d98093011a9cae6bc&smart=true&width=900&height=535",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:29",
+     "autor": "",
+     "titulo_original": "Banfield vs. Barracas Central, el penal de Sebastián Zunino y el que pretendió cobrar el VAR"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "la capitana Agustina Maldonado lidera a la Argentina en los octavos del Mundial Sub 20 femenino",
+     "resumen": "Con 17 años, la mediocampista de River Plate llega a los octavos de final ante Corea del Sur como una de las referencias de la selección, en la búsqueda de alcanzar por primera vez los cuartos de final del certamen, según Infobae. Maldonado comenzó a jugar a los seis años en All Boys de La Pampa, formándose junto a futbolistas varones ante la falta de equipos femeninos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/15/de-brillar-con-varones-y-tener-una-cancha-con-su-nombre-a-ser-la-capitana-de-argentina-en-el-mundial-sub-20-femenino/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZTCFPROG4ZGMXDL7YDUNYBWQGU.jpg?auth=d958dd0dd736f274e036319cbb1fae828e8102bcc34de5598b7dcdcc44fc0a8c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:28",
+     "autor": "Sofia Caballero",
+     "titulo_original": "De brillar con varones y tener una cancha con su nombre a ser la capitana de Argentina en el Mundial Sub 20 femenino"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "de vencer a la diabetes a conquistar el US Open: la historia de Alexander Zverev",
+     "resumen": "El campeón del último Grand Slam de Estados Unidos volvió a hablar en público sobre una etapa difícil de su infancia y el papel que tuvo su familia para superarla, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/de-vencer-la-diabetes-conquistar-el-us-open-2026-la-emotiva-historia-alexander-zverev-n6322125",
+     "imagen": "https://media.ambito.com/p/6ca5ca839cec90e92c6770cb22b1eaa5/adjuntos/239/imagenes/043/641/0043641171/1200x675/943x1042:963x1062/instagram-alexander-zverev.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:00",
+     "autor": "",
+     "titulo_original": "De vencer a la diabetes a conquistar el US Open 2026: la emotiva historia de Alexander Zverev"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Coutinho es nuevo jugador del Santos y se puede cruzar con Boca en la Copa Sudamericana",
+     "resumen": "El extremo brasileño, con pasado en el Barcelona, concretó su llegada al Santos, donde jugará junto a su amigo de infancia Neymar en busca del título internacional, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/del-historico-pase-al-barcelona-la-copa-sudamericana-coutinho-es-nuevo-jugador-del-santos-y-se-puede-cruzar-boca-n6322273",
+     "imagen": "https://media.ambito.com/p/3deb331342dbcee6684518b6f3b89046/adjuntos/239/imagenes/043/642/0043642274/1200x675/630x137:650x157/coutinho-santos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:13",
+     "autor": "",
+     "titulo_original": "Del histórico pase al Barcelona a la Copa Sudamericana: Coutinho es nuevo jugador del Santos y se puede cruzar con Boca"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-06",
+     "titulo": "Bariloche busca voluntarios para el verano: alojamiento gratis a cambio de 25 horas de trabajo",
+     "resumen": "El destino patagónico ofrece, a través de la plataforma Worldpackers, alojamiento gratuito con desayuno y dos días libres a cambio de 25 horas semanales de trabajo en un hostel, según El Cronista e Infobae. La propuesta apunta a quienes quieren conocer circuitos como la Ruta de los 7 Lagos sin afrontar los costos habituales de alojamiento en uno de los destinos más elegidos de la Patagonia.",
+     "relacionadas": [
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Se buscan voluntarios para vivir gratis en Bariloche a cambio de trabajar 25 horas por semana: ofrecen hospedaje con desayuno y dos días libres",
+       "url": "https://www.cronista.com/clase/break/se-buscan-voluntarios-para-vivir-gratis-en-bariloche-a-cambio-de-trabajar-25-horas-por-semana-ofrecen-hospedaje-con-desayuno-y-dos-dias-libres/"
+      }
+     ],
+     "url": "https://www.cronista.com/clase/break/bariloche-busca-voluntarios-para-el-verano-ofrecen-semanas-de-alojamiento-por-25-horas-de-trabajos-a-la-semana/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZYMJHIXRQJEHDME4UUGA2IMAAU.jpg?auth=dd657bfeb9786ad25e02bbad28caa1c9a9324b605ed8f17f5318ca1b18ca7884&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "",
+     "titulo_original": "Bariloche busca voluntarios para el verano: ofrecen semanas de alojamiento por 25 horas de trabajos a la semana"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-08",
+     "titulo": "vuelven a postergar la encuesta nacional clave para medir enfermedades como el cáncer y la diabetes",
+     "resumen": "La última encuesta nacional de salud se realizó hace ocho años, y su nueva edición, clave para conocer el estado de salud de la población, volvió a postergarse, según Clarín. El presupuesto de 8 millones de dólares que insumiría que la lleve adelante el INDEC sería el motivo del retraso.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/vuelven-postergar-encuesta-nacional-clave-saber-crecen-enfermedades-cancer-diabetes_0_aVYl62TnAX.html",
+     "imagen": "https://www.clarin.com/img/2025/06/11/YjkW9YCR6_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Vuelven a postergar una encuesta nacional clave para saber si crecen enfermedades como el cáncer y la diabetes"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "baja la natalidad y cae la matrícula en los colegios privados",
+     "resumen": "La menor cantidad de alumnos ya se nota en el nivel inicial y los primeros años de primaria, y las fusiones entre instituciones se convirtieron en una alternativa para evitar cierres, según Clarín. En los últimos días se conocieron dos casos en la Ciudad de Buenos Aires: la unión del San Tarsicio con Misericordia y la del Colegio Los Robles con la Escuela Argentina Modelo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/baja-natalidad-cae-matricula-colegios-privados-nueva-tendencia-evitar-cierres_0_uKDFm30Hyl.html",
+     "imagen": "https://www.clarin.com/img/2026/09/13/EZMfLuJ1e_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Baja la natalidad y cae la matrícula en los colegios privados: la nueva tendencia para evitar cierres"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "comienzan a regir cambios de tránsito en Caballito y Almagro por la llegada del TramBus",
+     "resumen": "Desde hoy rigen restricciones para estacionar, nuevas manos únicas y ajustes en cruces de avenidas en esos barrios porteños, por la puesta en marcha del nuevo sistema de transporte eléctrico TramBus, según Infobae. La línea T1, que circulará en superficie como complemento de la red de subtes, tiene su inauguración prevista para fines de 2026.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/15/comienzan-a-regir-cambios-en-las-calles-de-caballito-y-almagro-por-la-llegada-del-trambus-cuales-son/",
+     "imagen": "https://www.infobae.com/resizer/v2/D5OXBGLGQZGOHKSSCIXUFOQQRU.jpg?auth=25054e387c06e94978dcb95b0bcdae47a0633cad54e6d262e5f5bcf09d7db82a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:33",
+     "autor": "",
+     "titulo_original": "Comienzan a regir cambios en las calles de Caballito y Almagro por la llegada del TramBus: cuáles son"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "le bloquearon las plataformas digitales y la licencia de conducir por deber 4 millones de cuota alimentaria",
+     "resumen": "Una jueza del Juzgado Multifueros de El Bolsón ordenó restringir el acceso a servicios de streaming y a la licencia de conducir de un hombre que adeuda 4 millones de pesos de cuota alimentaria, según Clarín. La magistrada consideró que las restricciones podrían generar las molestias necesarias para incentivar el cumplimiento de la obligación.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/debia-4-millones-cuota-alimentaria-podian-cobrarle-jueza-ordeno-bloquearle-plataformas-digitales-licencia-conducir_0_biKfIzJaqJ.html",
+     "imagen": "https://www.clarin.com/img/2026/08/06/0Ibed46B-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Debía 4 millones de cuota alimentaria y no podían cobrarle: una jueza ordenó bloquearle las plataformas digitales y la licencia de conducir"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del martes 15 de septiembre.\n\nEl dólar oficial cerró ayer en mil quinientos treinta pesos, el blue en mil quinientos cincuenta y cinco, y el riesgo país en cuatrocientos noventa puntos. La inflación de agosto fue del uno coma siete por ciento mensual y del treinta y tres coma cinco por ciento interanual. El día está marcado por el envío del Presupuesto 2027 al Congreso, la escalada del petróleo por los ataques a Arabia Saudita, y un nuevo estatuto para la SIDE. Milei reunió el lunes a los legisladores de La Libertad Avanza en la Casa Rosada para cerrar filas detrás del programa económico, mientras la Justicia confirmó los embargos contra Cristina Kirchner y avanzan los Juegos Suramericanos en Santa Fe.\n\nEn política, la Comisión de Asuntos Constitucionales del Senado retoma hoy el debate sobre las PASO, con un temario que suma Ficha Limpia y las primarias no obligatorias, en un gesto del oficialismo a sus aliados. La Cámara Federal de Casación rechazó el recurso de la defensa de Cristina Kirchner y dejó firmes los embargos sobre su departamento y sobre inmuebles de Hotesur y Los Sauces, que deben ejecutarse por la causa Vialidad. El Gobierno anunció que aprobará por decreto un nuevo estatuto para el personal de la SIDE, vigente desde 2027, con ingreso abierto y ascensos por desempeño. En la Casa Rosada, Milei reunió más de tres horas a diputados y senadores libertarios con la frase éramos un montón de promesas, ahora somos un montón de resultados. El PJ amplió su denuncia contra el titular del Banco Central, Santiago Bausili, y pidió que explique en el Congreso el traslado de oro al exterior. En Catamarca, el gobernador Raúl Jalil confirmó que no irá por la reelección y respaldará a Gustavo Saadi. Y la Unión de Trabajadores de la Economía Popular le entregó al papa León catorce un documento crítico de la gestión de Milei, sobre pobreza y endeudamiento familiar, antes de su visita a la Argentina.\n\nEn economía y mercados, el Gobierno gira hoy al Congreso el Presupuesto 2027, con inflación proyectada a la baja y una suba de hasta cinco por ciento del producto en el gasto, con fondos para el proyecto Malvinas. El ministro Luis Caputo dijo que tendrían que cambiar de ministro si le pedían ceder medio punto del producto en gasto electoral. Los bonos cayeron y el riesgo país volvió a acercarse a los quinientos puntos, en la misma jornada en que Wall Street sufrió su quinta baja en seis ruedas por las tecnológicas y el petróleo. Una encuesta de Analogías mostró que Milei sostiene un tercio del electorado, pero que la angustia por ingresos y empleo ya superó a la inflación como principal preocupación. El Banco Nación informó que la morosidad dejó de crecer aunque sigue elevada. Y la pobreza alcanzó a trece millones cuatrocientas mil personas en el segundo semestre del año pasado, un millón setecientas mil más que en 2025.\n\nEn impuestos, laboral y normativa, a seis meses de la reforma laboral, la Justicia todavía no definió si es válida. La Corte Suprema benefició a la fabricante fueguina Tecnomyl en una disputa por el impuesto país. Desde hoy las empresas ya no podrán depositar ni pagar con cheques desde cuentas bursátiles, después de que la Comisión Nacional de Valores diera marcha atrás con una operatoria que permitía eludir el impuesto a los débitos y créditos. El Banco Central endureció los requisitos para las fintech, para equipararlas con los bancos. Y la Procuración General avaló que los farmacéuticos sigan al frente de farmacias y droguerías, en un nuevo revés al intento de desregulación del Gobierno.\n\nEn consumo, construcción y retail, Sudamericana de Lácteos, comprada hace dos meses, ya procesa cien mil litros de leche por día y vende trescientas toneladas mensuales de queso en el mercado interno, con la mira en exportar. El INDEC difundió la canasta de crianza de agosto: criar a un hijo cuesta ya más de setecientos mil pesos por mes, y un bebé menor de un año insume más de quinientos cincuenta y siete mil pesos. El Banco Provincia lanzó créditos para autos cero kilómetro o usados en hasta setenta y dos cuotas en UVA, con tope de cincuenta millones de pesos. Y Peugeot ofrece el 208 con una rebaja de más de doce millones de pesos en veinticuatro cuotas sin interés.\n\nEn management y finanzas corporativas, especialistas coinciden en que la inteligencia artificial ya forma parte de la rutina de trabajo en la Argentina, pero todavía no se traduce en más productividad. El economista Eduardo Levy Yeyati advirtió que se confunde adopción con uso, y que el uso actual sigue siendo puntual. Otros especialistas señalaron que dar acceso a una herramienta de inteligencia artificial no garantiza que se use bien, y que el desafío pasa por incorporarla a los procesos de negocio. Y un experto de la Universidad del CEMA alertó que la inteligencia artificial sumó una nueva fuente de riesgo de ciberseguridad, porque puede encontrar vulnerabilidades y ejecutar acciones no previstas.\n\nEn negocios y empresas, la suba del petróleo por Medio Oriente vuelve a poner a Vaca Muerta en el centro de la escena: Chevron busca diversificar su negocio de gas natural licuado apoyado en la cuenca neuquina, y la industria del gas licuado apunta ahora a Asia y el Pacífico. Glencore avanza con su megaproyecto de cobre MARA, de cuatro mil quinientos millones de dólares, y proyecta más de dos mil empleos. El grupo chino Chery reforzó su operación directa en la Argentina con sus marcas Omoda y Jaecoo. El laboratorio Rosenbusch inicia un plan de rescate tras la condonación de una deuda cercana a los dos mil millones de pesos. Y en Santa Cruz, la clausura de ocho sectores de la mina Cerro Negro llevó a Newmont a interrumpir sus tareas.\n\nEn el mundo, la Corte Suprema de Estados Unidos rechazó el pedido de Donald Trump de restringir el voto por correo antes de las legislativas de noviembre. En Brasil, dos encuestas mostraron una paridad extrema entre Lula y el senador Flavio Bolsonaro a tres semanas de la primera vuelta. Arabia Saudita advirtió que responderá con firmeza tras ataques hutíes que dejaron trece civiles heridos, mientras el petróleo Brent subió a ciento siete dólares y el crudo estadounidense a ciento tres dólares por barril. Kim Jong un reafirmó su apoyo a Rusia y prometió ampliar la cooperación militar con Vladimir Putin. Y un análisis planteó que el Reino Unido perdió poder relativo frente a otras potencias, entre las presiones de Trump por Malvinas y los reclamos separatistas de Escocia, Gales e Irlanda del Norte.\n\nLe Grand Continent analiza que en Rusia se disparó la búsqueda de alquileres en Ereván, la capital de Armenia, con niveles similares a los de la movilización parcial de 2022, mientras el Kremlin desmiente un nuevo llamado a filas. La revista también describe cómo la inquietud por la inteligencia artificial se volvió el nuevo discurso de campaña de los demócratas de cara a las elecciones de mitad de mandato. Y una investigación reveló que el oligarca ruso Umar Kremlev pagó cientos de miles de dólares por la boda de Donald Trump hijo en las Bahamas.\n\nEn deportes, la Argentina ya suma nueve medallas de oro en los Juegos Suramericanos de Santa Fe, con triunfos de Isabel Di Tella y Augusto Servello en esgrima, y se ubica segunda en el medallero detrás de Brasil. Boca visita hoy a San Pablo en el Morumbí, con ventaja uno a cero de la ida, por los cuartos de final de la Copa Sudamericana. Lanús goleó tres a cero a Deportivo Riestra y se metió en zona de playoffs, mientras Banfield y Barracas Central empataron uno a uno con polémica de VAR incluida. La selección argentina sub veinte femenina, con la capitana Agustina Maldonado, juega hoy los octavos del Mundial ante Corea del Sur. Y el alemán Alexander Zverev, campeón del último US Open, habló sobre cómo superó la diabetes en su infancia.\n\nPara cerrar, un dato de turismo: Bariloche busca voluntarios para el verano que viene y ofrece alojamiento gratuito a cambio de veinticinco horas semanales de trabajo en un hostel, una alternativa para conocer la Patagonia sin afrontar los costos habituales de alojamiento.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "",
+ "slug": "2026-09-15-manana",
+ "generado_ba": "15/09/2026 10:13"
+}
