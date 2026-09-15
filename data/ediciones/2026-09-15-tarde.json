@@ -1,0 +1,957 @@
+{
+ "fecha": "2026-09-15",
+ "edicion": "tarde",
+ "titulo": "Presupuesto 2027 en el Congreso, riesgo país sobre 500 puntos y Malvinas en tensión",
+ "apertura": "El Gobierno formalizó el envío del Presupuesto 2027 al Congreso, con una inflación proyectada del 18% para diciembre, un dólar de $ 1.847,60 a fin de año y un crecimiento del 4% del PBI. El riesgo país volvió a superar los 500 puntos básicos en una rueda de bonos a la baja, mientras el Reino Unido publicó una guía oficial para proteger a las empresas que operan en Malvinas de las sanciones argentinas. En el plano judicial, la Justicia bonaerense reactivó la Ley de Responsabilidad Penal Juvenil y la Cámara de Exportadores proyectó un récord de US$ 103.000 millones en ventas al exterior para este año.",
+ "claves": [
+  "El Gobierno envió al Congreso el Presupuesto 2027: prevé un dólar de $ 1.847,60 a fin de año, inflación del 18% y crecimiento del 4% del PBI.",
+  "El riesgo país volvió a superar los 500 puntos básicos y los bonos argentinos cayeron hasta 0,88% en Wall Street.",
+  "El Reino Unido publicó una guía oficial para proteger a las empresas que operan en las islas Malvinas de las sanciones del Gobierno argentino.",
+  "La Cámara de Apelaciones de Lomas de Zamora revocó la cautelar que suspendía la Ley de Responsabilidad Penal Juvenil en la provincia de Buenos Aires.",
+  "La Cámara de Exportadores proyectó un récord de US$ 103.000 millones en ventas al exterior para 2026.",
+  "Granja Tres Arroyos se presentó en concurso preventivo con una deuda de más de US$ 350 millones.",
+  "Lionel Messi fue convocado para los amistosos de la Selección y se despedirá del público argentino el 6 de octubre en el Monumental.",
+  "Boca Juniors visita esta noche a San Pablo y Platense recibe a Fluminense, ambos por los cuartos de final de las copas sudamericanas."
+ ],
+ "cifras": [
+  {
+   "nombre": "Merval",
+   "valor": "u$s 1.929",
+   "variacion": "-0,3%",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Uso de la capacidad instalada industrial",
+   "valor": "58,2%",
+   "fuente": "CR-13"
+  },
+  {
+   "nombre": "Exportaciones proyectadas 2026",
+   "valor": "US$ 103.000 millones",
+   "fuente": "LN-19"
+  },
+  {
+   "nombre": "Superávit fiscal 2027 proyectado",
+   "valor": "0,2% del PBI financiero / 1,3% primario",
+   "fuente": "CR-05"
+  },
+  {
+   "nombre": "Consumo de carne vacuna",
+   "valor": "46 kg per cápita anuales",
+   "variacion": "-9,5%",
+   "fuente": "IP-19"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-24",
+     "titulo": "Milei llamó a Santilli \"el próximo gobernador\" y Karina Milei contuvo a Pareja",
+     "resumen": "Durante un encuentro con legisladores libertarios en la Casa Rosada, el Presidente se refirió a su jefe de Gabinete, Diego Santilli, como \"el próximo gobernador de la provincia de Buenos Aires\". La frase resonó especialmente frente a Sebastián Pareja, titular de La Libertad Avanza bonaerense y principal armador de Karina Milei en el territorio. Horas después, la secretaria general de la Presidencia agradeció públicamente a Pareja y pidió evitar peleas con gobernadores no kirchneristas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/milei-proyecto-a-santilli-para-la-gobernacion-y-karina-contuvo-a-pareja-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2ERBH5U5GRGDFMPINQMPVO3S3M.JPG?auth=93c264c942a5cad044ee59bddedd4e78190387d050bea9037f32264bddab387f&smart=true&width=681&height=454",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:26",
+     "autor": "Delfina Celichini",
+     "titulo_original": "Milei proyectó a Santilli para la gobernación y Karina contuvo a Pareja"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Reino Unido publicó una guía para proteger a las empresas que operan en Malvinas",
+     "resumen": "El gobierno británico difundió el documento \"Hacer negocios con las Islas Malvinas\", que respalda la actividad económica en el archipiélago y sostiene que la Argentina no tiene jurisdicción para aplicar sanciones a las compañías que operan allí. La medida es la primera respuesta oficial de Londres a las advertencias que impulsó Javier Milei contra empresas vinculadas a las islas en las últimas dos semanas. El canciller argentino Pablo Quirno respondió que el debate territorial dentro del Reino Unido, con los reclamos de autodeterminación de Escocia, Gales e Irlanda del Norte, aporta argumentos a favor del reclamo argentino.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Tensión por Malvinas: Londres publicó una guía para “proteger” a las empresas de las sanciones del gobierno argentino",
+       "url": "https://www.infobae.com/politica/2026/09/15/tension-por-malvinas-londres-publico-una-guia-para-proteger-a-las-empresas-de-las-sanciones-del-gobierno-argentino/"
+      },
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Reino Unido desafía a Milei y ofrece apoyo a las petroleras que operan en Malvinas",
+       "url": "https://www.iprofesional.com/politica/464495-el-reino-unido-desafia-a-milei-y-ofrece-apoyo-a-las-petroleras-en-malvinas"
+      },
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Malvinas: el Gobierno afirmó que el debate territorial dentro del Reino Unido favorece el reclamo argentino",
+       "url": "https://www.ambito.com/politica/malvinas-el-gobierno-afirmo-que-el-debate-territorial-dentro-del-reino-unido-favorece-el-reclamo-argentino-n6322555"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/malvinas-londres-publico-una-guia-para-proteger-a-las-empresas-de-sanciones-del-gobierno-argentino-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FOR7ZCUOABG57HSTAASCLS2XNI.jpg?auth=e0ef78d9c67e1138b6832a79f9b85c4020bae6aba2ba1236913a362a9e0be6fb&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:46",
+     "autor": "",
+     "titulo_original": "Reino Unido desafía a la Argentina y anuncia protección a las empresas que operan en Malvinas"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Denuncian a siete pesqueras por operar en el Mar Argentino con licencia británica de Malvinas",
+     "resumen": "La causa quedó radicada en el fuero penal económico y apunta a firmas como Lanzal, Pescapuerta y Grupo Pereira, acusadas de contrabando por faenar en aguas del sur con permisos otorgados por las autoridades de las islas Malvinas. La denuncia se suma a la ofensiva del Gobierno contra empresas que operan bajo licencia británica en el archipiélago.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464473-denuncian-a-siete-pesqueras-por-operar-con-licencias-de-malvinas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/08/501780.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:50",
+     "autor": "",
+     "titulo_original": "Denuncian a siete pesqueras por operar en Mar Argentino con licencia británica de Malvinas"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Mayra Mendoza acusó a Kicillof de dividir al peronismo bonaerense",
+     "resumen": "La exintendenta de Quilmes cuestionó al gobernador Axel Kicillof por lo que calificó de \"desagradecimiento\" hacia Cristina Kirchner y afirmó que maneja con \"discrecionalidad\" el reparto de recursos entre los municipios de la provincia. En una entrevista posterior, la diputada reclamó fondos para obras hídricas en Quilmes.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Mayra Mendoza acusó a Kicillof de dividir al peronismo: \"Esa mancha no se borra más\"",
+       "url": "https://www.iprofesional.com/politica/464496-mayra-mendoza-acuso-a-kicillof-de-dividir-al-peronismo-esa-mancha-no-se-borra-mas"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/peor-desleal-mayra-mendoza-apunto-kicillof-aseguro-gobernador-dividio-peronismo-provincia_0_m2MbSR68P1.html",
+     "imagen": "https://www.clarin.com/img/2026/03/03/7VCd23slJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:55",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"No hay nada peor que ser desleal\": Mayra Mendoza apuntó contra Kicillof y aseguró que el gobernador dividió al peronismo en Provincia"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Roberto Baratta pidió un careo con los exdirectivos de Techint en la causa Cuadernos",
+     "resumen": "El exfuncionario kirchnerista, acusado de haber recibido coimas por US$ 1 millón, solicitó confrontar a dos empresarios de Techint que declararon como testigos en su contra. Su defensa también pidió un careo entre Luis Betnaza y Héctor Zabaleta por contradicciones en sus testimonios sobre los pagos de la compañía.",
+     "relacionadas": [
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cuadernos: piden careo entre Luis Betnaza y Héctor Zabaleta por los pagos de Techint",
+       "url": "https://www.ambito.com/politica/cuadernos-piden-careo-luis-betnaza-y-hector-zabaleta-los-pagos-techint-n6322586"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/cuadernos-roberto-baratta-pidio-confrontar-exdirectivos-techint-acusan-recibido-coimas-us-1-millon_0_li48JbWBox.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/fLdy2Y2fk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cuadernos: Roberto Baratta pidió confrontar a los exdirectivos de Techint que lo acusan de haber recibido coimas por U$S 1 millón"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "A 50 años de la Noche de los Lápices, el peronismo llega dividido al acto",
+     "resumen": "El gobernador Axel Kicillof participará este miércoles de la marcha por el aniversario del secuestro de estudiantes secundarios durante la última dictadura, en 1976, mientras La Cámpora convocó a movilizar en la misma fecha bajo la consigna de la libertad de Cristina Kirchner. La Federación de Estudiantes Secundarios llamó por separado con su propio lema.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/a-50-anos-de-la-noche-de-los-lapices-el-peronismo-dirime-su-liderazgo-en-las-calles-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RN57X4U57NFEZM2WAMCCEO4KYY.jpeg?auth=6c6a412817428e411b0c5bea37697b75108320c43ad17eb10126e5030c2c9ad2&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:20",
+     "autor": "María José Lucesole",
+     "titulo_original": "A 50 años de la Noche de los Lápices, el peronismo dirime su liderazgo en las calles"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "Los abogados de Cristina Kirchner presentaron nuevas pruebas para revisar la condena por Vialidad",
+     "resumen": "La defensa, integrada por Carlos Beraldi, Rafael Valim y Javier Borrego, sostiene que el Grupo Austral de Lázaro Báez recibió apenas el 0,85% de los fondos destinados a obras públicas, lo que a su criterio desvirtúa la hipótesis de que la expresidenta lo benefició a través de un decreto de 2009. Buscan suspender, con un recurso de revisión, la inhabilitación para ejercer cargos públicos.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Abogados de Cristina aseguraron que tienen nuevas pruebas a su favor en la causa Vialidad",
+       "url": "https://www.iprofesional.com/legales/464505-cristina-kirchner-causa-vialidad-prueba-clave-futuro-electoral"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los abogados de Cristina Kirchner anunciaron que presentarán nuevas pruebas a su favor en la causa Vialidad",
+       "url": "https://www.ambito.com/politica/los-abogados-cristina-kirchner-preparan-un-anuncio-clave-la-resolucion-la-onu-y-su-futuro-electoral-n6322312"
+      }
+     ],
+     "url": "https://www.infobae.com/judiciales/2026/09/15/los-abogados-de-cristina-kirchner-presentaron-un-informe-con-nuevas-pruebas-para-discutir-la-condena-en-la-causa-vialidad/",
+     "imagen": "https://www.infobae.com/resizer/v2/JR5Y6FCG3VDNPKNKM4TNA5QGBQ.JPG?auth=de5405114caec64929d94b0e16adcf01f4811bbe916939a9eea54eb8979295cd&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:55",
+     "autor": "Iago Vieyra",
+     "titulo_original": "Los abogados de Cristina Kirchner presentaron un informe con nuevas pruebas para discutir la condena en la causa Vialidad"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-06",
+     "titulo": "El Gobierno presentó el Presupuesto 2027 y proyecta un dólar de $ 1.847 a fin de año",
+     "resumen": "El Ejecutivo dio a conocer los ejes del proyecto que envió este martes a Diputados: una inflación acumulada del 18% en el año (21,1% de promedio), un crecimiento del PBI del 4%, un dólar mayorista de $ 1.847,60 a diciembre y una suba del salario promedio del 25,4%. Las cifras se discutieron en una reunión de la mesa política de más de tres horas y media en Balcarce 50. Para una empresa: si se cumplen las proyecciones oficiales, los salarios le ganarían a la inflación y el tipo de cambio se movería por debajo de los precios, lo que impactaría en la competitividad de las exportaciones.",
+     "relacionadas": [
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Presupuesto 2027: el Gobierno proyecta una inflación del 18%, un crecimiento del 4% y un dólar de $1.847 para fin de año",
+       "url": "https://www.ambito.com/politica/el-gobierno-reune-la-mesa-antes-enviar-el-presupuesto-2027-al-congreso-n6322540"
+      },
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Caputo presentó el Presupuesto 2027 con crecimiento de 4%: qué pasará con dólar, inflación y el salto en salarios",
+       "url": "https://www.cronista.com/economia-politica/caputo-dejo-un-anticipo-clave-del-presupuesto-2027/"
+      },
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Presupuesto 2027: estiman un crecimiento del 4%, inflación del 21,1% y un dólar a $ 1.728 promedio para el año próximo",
+       "url": "https://www.clarin.com/economia/presupuesto-2027-estiman-crecimiento-4-inflacion-211-dolar-1728-2027_0_ClsxQRPEq5.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-reune-a-la-mesa-politica-en-la-previa-al-envio-del-presupuesto-2027-al-congreso-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4VQJTZ4RHRGLNFAJ6MWBIX2MMI.jpeg?auth=b4b1154f8991fba674f92067b1e6bf8c83aa58f87e1bb0a471ce1f4167df67f1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:57",
+     "autor": "Cecilia Devanna, Esteban Lafuente",
+     "titulo_original": "Se presentó el presupuesto: el Gobierno prevé una inflación del 18% para 2027 y un dólar que llegará a $1847,60 a fin de año"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "El riesgo país volvió a superar los 500 puntos y los bonos argentinos cayeron en Wall Street",
+     "resumen": "El indicador de JP Morgan trepó 3,3% hasta los 506 puntos básicos, impulsado por la suba de tasas de los bonos del Tesoro de Estados Unidos y el rally del petróleo. Los bonos soberanos cayeron hasta 0,88% en Wall Street y los ADR de empresas argentinas retrocedieron hasta 3,8%, encabezados por Mercado Libre, mientras Tenaris, Vista e YPF treparon entre 2,4% y 2,6%. El Merval bajó 0,3% en la plaza local, hasta los u$s 1.929. Para una empresa: un riesgo país más alto encarece el financiamiento en dólares y demora el regreso del crédito externo.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Mercados: subió el riesgo país argentino y volvió a superar los 500 puntos básicos",
+       "url": "https://www.infobae.com/economia/2026/09/15/mercados-sube-el-riesgo-pais-argentino-y-se-mantiene-cerca-de-los-500-puntos-basicos/"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los bonos en dólares extendieron su sangría y el riesgo país volvió a superar los 500 puntos",
+       "url": "https://www.ambito.com/finanzas/el-riesgo-pais-vuelve-acercarse-los-500-puntos-una-nueva-baja-los-bonos-dolares-n6322483"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-vuelve-a-superar-los-500-puntos-impulsado-por-el-ruido-global/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:49",
+     "autor": "Leandro Dario",
+     "titulo_original": "Riesgo país vuelve a superar los 500 puntos impulsado por el ruido global"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "La Cámara de Exportadores proyecta un récord de US$ 103.000 millones en ventas al exterior",
+     "resumen": "En el Día de la Exportación, la entidad que agrupa al sector anticipó la cifra histórica para 2026, con el complejo de la soja a la cabeza de las exportaciones. El ministro Luis Caputo estimó que el superávit comercial del año podría rondar entre US$ 26.000 y 27.000 millones. El presidente de la CERA, Fernando Landa, reclamó además una reducción de las restricciones cambiarias que, dijo, mantienen \"contenida\" a la actividad exportadora.",
+     "relacionadas": [
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar, retenciones y aranceles: Caputo detalló pasos para exportar más y un superávit récord",
+       "url": "https://www.cronista.com/economia-politica/dolar-y-bolsillo-el-mensaje-de-luis-caputo-en-la-previa-del-presupuesto/"
+      },
+      {
+       "id": "CR-25",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El reclamo de los exportadores detrás de la meta de los u$s 100.000 millones",
+       "url": "https://www.cronista.com/economia-politica/el-reclamo-de-los-exportadores-detras-de-la-meta-de-los-us-100000-millones/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/dia-de-la-exportacion-estiman-un-record-de-us103000-millones-en-ventas-al-exterior-para-2026-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YSEAL5WBWZGUJPNKUQPA6OTWDI.jpg?auth=4c5ca9f3482447e7395302a888fa927d420f135df188c21a3da44b9e0ef6990b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:27",
+     "autor": "Paula Urien",
+     "titulo_original": "Día de la exportación: estiman un récord de US$103.000 millones en ventas al exterior para 2026"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "El uso de la capacidad instalada de la industria cayó a 58,2% en julio",
+     "resumen": "El INDEC informó que el indicador se ubicó por debajo del 58,4% registrado en julio de 2025, arrastrado por el freno en el sector automotriz y la metalmecánica. Entre los bloques con mayor utilización se destacaron refinación de petróleo (89,9%) e industrias metálicas básicas (71,8%), mientras que productos textiles (45,3%) y del tabaco (45,2%) quedaron entre los más rezagados.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La industria redujo el uso de capacidad instalada en julio: por noveno mes seguido se ubicó debajo del 60%",
+       "url": "https://www.ambito.com/economia/la-industria-redujo-el-uso-capacidad-instalada-julio-noveno-mes-seguido-se-ubico-debajo-del-60-n6322673"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-uso-de-la-capacidad-instalada-cayo-al-582-arrastrado-por-el-freno-automotriz-y-la-metalmecanica/",
+     "imagen": "https://www.cronista.com/resizer/v2/VDUCTIWNNZENDOQLPA3SQBBC4A.jpg?auth=9f50957b816ca345e58952cd7a499d64288735c29ab8956bb636d3cb770d022c&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:22",
+     "autor": "",
+     "titulo_original": "El uso de la capacidad instalada cayó al 58,2% arrastrado por el freno automotriz y la metalmecánica"
+    },
+    {
+     "id": "AM-07",
+     "titulo": "Scott Bessent defendió ante el Congreso de Estados Unidos el salvataje financiero a la Argentina",
+     "resumen": "El secretario del Tesoro estadounidense explicó ante el Comité de Servicios Financieros de la Cámara de Representantes el alcance del mecanismo cambiario que asistió a la Argentina a fines de 2025, con un monto de hasta US$ 20.000 millones a través del Fondo de Estabilización Cambiaria. Bessent definió al país como \"un aliado\" y sostuvo que la operación le permitió a Estados Unidos obtener ganancias y resguardar sus recursos.",
+     "relacionadas": [
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Secretario del Tesoro de EEUU defendió el salvataje financiero a la Argentina ante el Congreso estadounidense: “Es un aliado”",
+       "url": "https://www.infobae.com/economia/2026/09/15/el-secreario-del-tesoro-de-eeuu-defendio-el-salvataje-financiero-a-la-argentina-ante-el-congreso-estadounidense-es-un-aliado/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/scott-bessent-aseguro-que-eeuu-gano-decenas-millones-dolares-gracias-al-salvataje-argentina-n6322664",
+     "imagen": "https://media.ambito.com/p/be4860bc4f93cfd2969c2dad7ee5a7cd/adjuntos/239/imagenes/042/880/0042880150/1200x675/smart/luis-caputo-scott-bessent.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:03",
+     "autor": "",
+     "titulo_original": "Scott Bessent aseguró que EEUU ganó decenas de millones de dólares gracias al salvataje de Argentina"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "La compra de dólares de particulares no cede y los bancos detectan un salto en las transferencias de empresas",
+     "resumen": "La demanda minorista de dólares se mantiene en niveles elevados, pero lo novedoso para las entidades financieras fue el fuerte incremento de las transferencias que hacen las empresas multinacionales hacia sus casas matrices en el exterior.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464314-compra-de-dolares-no-cede-y-bancos-detectaron-nueva-tendencia-entre-ahorristas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601650.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:12",
+     "autor": "",
+     "titulo_original": "La compra de dólares no cede y los bancos detectaron nueva tendencia entre empresas"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "Granja Tres Arroyos se presentó en concurso preventivo con una deuda de más de US$ 350 millones",
+     "resumen": "La avícola, una de las mayores del país, tramita la causa ante el Juzgado Comercial N° 21 tras meses de deterioro financiero y operativo. La empresa había buscado reunir US$ 80 millones de capital de trabajo mediante aportes de inversores, nuevas líneas de crédito y venta de activos, pero no llegó a un acuerdo con sus acreedores antes del plazo que vencía el 30 de junio.",
+     "relacionadas": [
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Granja Tres Arroyos se presentó en concurso, con plantas paralizadas y deudas millonarias",
+       "url": "https://www.iprofesional.com/negocios/464488-granja-tres-arroyos-se-presento-en-concurso-y-busca-evitar-la-quiebra"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/acorralada-por-el-efecto-domino-granja-tres-arroyos-se-presento-en-concurso-preventivo/",
+     "imagen": "https://www.cronista.com/resizer/v2/KSUH4PZWH5EKBJPQOUS3XRH5WU.jpg?auth=589892e36929103dfb6a8c5622c965b0bbd8ec7fb8059b10897ef74e804af905&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:22",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Acorralada por el efecto dominó, Granja Tres Arroyos se presentó en concurso preventivo"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "Rizobacter cerró el año con pérdidas millonarias tras refinanciar sus deudas",
+     "resumen": "La empresa de insumos agropecuarios se vio afectada por los costos financieros, que deterioraron sus resultados del último ejercicio. La compañía evalúa nuevas medidas, entre ellas la posible venta de activos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464466-rizobacter-perdio-36798-millones-pesos-y-admite-dudas-sobre-su-continuidad",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/03/512978.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:04",
+     "autor": "",
+     "titulo_original": "Tras refinanciar sus deudas, Rizobacter cerró el año con pérdidas millonarias"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "El Gobierno recibió dos ofertas por AySA y espera recaudar cerca de US$ 500 millones",
+     "resumen": "La compulsa por el traspaso de la empresa de agua potable ingresó en su etapa decisiva, tras la presentación formal de las propuestas de los dos consorcios finalistas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464490-privatizacion-aysa-etapa-decisiva-que-pasara-servicio-agua",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/585874.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:28",
+     "autor": "",
+     "titulo_original": "El Gobierno recibió dos ofertas por AySA y espera recaudar cerca de u$s500 millones"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "La empresa brasileña que fabrica Converse deja de producir en Argentina",
+     "resumen": "El parque industrial de Las Flores sigue perdiendo empresas: la planta, que llegó a fabricar 1,5 millones de pares de zapatillas al año, cerró su producción local por la caída de la demanda.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464484-la-empresa-brasilena-que-fabrica-las-zapatillas-converse-deja-de-producir-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/07/580430.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:33",
+     "autor": "",
+     "titulo_original": "La empresa brasileña que fabrica las zapatillas Converse deja de producir en Argentina"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Qué necesita la Argentina para captar inversiones en centros de datos para inteligencia artificial",
+     "resumen": "Con un gasto digital global estimado en US$ 1,8 billones anuales, el país busca consolidar el suministro de energía y reglas claras para atraer inversiones en centros de datos vinculados a la inteligencia artificial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464487-inversiones-en-ia-que-necesita-argentina-para-captar-data-centers",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/12/546678.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:55",
+     "autor": "",
+     "titulo_original": "Qué necesita la Argentina para captar las inversiones de centro de dato para la IA"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "La Justicia bonaerense reactivó la Ley de Responsabilidad Penal Juvenil en la provincia de Buenos Aires",
+     "resumen": "La Cámara de Apelación y Garantías en lo Penal de Lomas de Zamora revocó la cautelar que había suspendido por 60 días la aplicación de la Ley 27.801, que baja la edad de imputabilidad a los 14 años. La jueza que había frenado la norma alegaba riesgo de colapso edilicio en los institutos; la Cámara consideró que una medida provisoria no puede frenar con alcance general una ley del Congreso. La ministra Patricia Bullrich celebró el fallo en sus redes sociales.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Revocaron la suspensión del nuevo régimen penal juvenil en la provincia de Buenos Aires",
+       "url": "https://www.ambito.com/politica/revocaron-la-suspension-del-nuevo-regimen-penal-juvenil-la-provincia-buenos-aires-n6322595"
+      },
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Revocan el fallo que suspendía la aplicación del nuevo régimen penal juvenil en Provincia",
+       "url": "https://www.iprofesional.com/legales/464497-regimen-penal-juvenil-volvio-regir-buenos-aires-revocarse-polemica-medida"
+      },
+      {
+       "id": "CR-26",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Ley Penal Juvenil: revocaron el fallo que suspendió su aplicación en la Provincia de Buenos Aires",
+       "url": "https://www.cronista.com/economia-politica/ley-penal-juvenil-revocaron-el-fallo-que-suspendio-su-aplicacion-en-la-provincia-de-buenos-aires/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-jueza-carolina-garcia-pondero-la-ley-penal-juvenil-pero-aclaro-el-encierro-es-apenas-el-primer-eslabon-del-engranaje/",
+     "imagen": "https://www.cronista.com/resizer/v2/H25CGDD35ZCEHGC6UZVXFQMFFM.jpg?auth=68359d4e48f03418ff089ed7a7f4619e16f87f40d1439bd036ab40f20ac9d258&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:34",
+     "autor": "",
+     "titulo_original": "La jueza Carolina García ponderó la Ley Penal Juvenil, pero aclaró: “El encierro es apenas el primer eslabón del engranaje”"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "Vender una propiedad en la Ciudad de Buenos Aires: cuáles son los dos impuestos que ya no se pagan",
+     "resumen": "La eliminación del Impuesto a la Transferencia de Inmuebles y del impuesto cedular redujo la carga tributaria sobre las operaciones de compraventa. Según un relevamiento del sector inmobiliario, se concretan alrededor de 6.000 escrituras por mes, un nivel de actividad similar o superior al de 2017. Para una empresa: menos impuestos en las operaciones inmobiliarias pueden facilitar la compra o venta de locales, depósitos y sucursales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/vender-una-propiedad-en-caba-cuales-son-los-dos-impuestos-que-ya-no-se-pagan/",
+     "imagen": "https://www.cronista.com/resizer/v2/47XRN4BL2JED5HVA5DYAPEF22E.jpg?auth=d79d2b9b83e142e7186830e953ef008d184d92e561f5b0ea8e01f14b24ec27be&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Vender una propiedad en CABA: cuáles son los dos impuestos que ya no se pagan"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Feriado por el Día del Empleado de Comercio: qué pasa con quienes están fuera de convenio",
+     "resumen": "La fecha, que se celebra cada 26 de septiembre y equivale a un feriado nacional bajo la Ley 26.541, genera dudas todos los años. El descanso rige para los trabajadores bajo el Convenio Colectivo 130/75, mientras que los empleados fuera de convenio o en cargos jerárquicos quedan en una situación distinta según cada caso.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/feriado-por-el-dia-del-empleado-de-comercio-que-pasa-si-estoy-fuera-de-convenio/",
+     "imagen": "https://www.cronista.com/resizer/v2/6XW5LNAQONDUDCOVATNT7OLMKU.jpg?auth=103ee1b121efaa47e17b3d3183ef70b1a8de912bc3e2ee75e53b8f35ee910038&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:43",
+     "autor": "",
+     "titulo_original": "Feriado por el Día del Empleado de Comercio: qué pasa si estoy fuera de convenio"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Abel Furlán respondió a las acusaciones que motivaron su desplazamiento de la UOM",
+     "resumen": "El exlíder metalúrgico contestó ante la Justicia penal y laboral el informe de la intervención judicial de la UOM y de su obra social, OSUOMRA, que había señalado una estructura administrativa casi inexistente y documentos ausentes. Furlán apuntó además contra el interventor Alberto Biglieri y cuestionó el contrato de la UOM con la empresa USEM, vinculada a La Cámpora.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/15/contraofensiva-de-furlan-contra-el-interventor-de-la-uom-que-dijo-sobre-la-militante-que-compro-el-departamento-de-abajo-de-cfk/",
+     "imagen": "https://www.infobae.com/resizer/v2/L3GJV3KE5NFK7GNDBKSGJ5UBLU.jpg?auth=e5c4b550035ce891a831221247f79c9a208641f1ab2c8fa01d4040e5893a2ff8&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:27",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "Contraofensiva de Furlán contra el interventor de la UOM: qué dijo sobre la militante que compró el departamento de abajo de CFK"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-16",
+     "titulo": "Créditos hipotecarios UVA: bajaron las tasas y hay más de diez bancos con ofertas para la primera vivienda",
+     "resumen": "Después de que el Ministerio de Economía lanzara en agosto un programa para canalizar depósitos del Fondo de Garantía de Sustentabilidad hacia préstamos para primera vivienda, más de diez bancos ajustaron sus condiciones. Banco Hipotecario, Banco Ciudad, Supervielle, Macro, Galicia y Credicoop ofrecen una tasa de 7,5% más UVA para clientes que acreditan haberes, mientras que Banco Nación (6,7%) e ICBC (6,9%) quedaron por debajo. Para una empresa: tasas hipotecarias más bajas pueden traducirse en mayor demanda de materiales de construcción y de reformas en el corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/creditos-uva-los-prestamos-con-mejor-tasa-y-menos-requisitos-para-financiar-la-primera-vivienda/",
+     "imagen": "https://www.cronista.com/resizer/v2/GLC5DGZX3JCGZJWPAQLGWNRVN4.jpg?auth=1ae7f4f3b1196a42d812e5ac91df121eb375041c6d5191d8d3ce4c9f3c773866&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios UVA: los préstamos con mejor tasa y menos requisitos para financiar la primera vivienda"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Ventas de autos 0 kilómetro: la Toyota Hilux encabeza el ranking por promedio mensual",
+     "resumen": "El acumulado de los primeros ocho meses del año muestra un 13,3% menos de patentamientos que en 2025, aunque el criterio de promedio mensual evita distorsiones y revela que varios modelos con tecnología híbrida o eléctrica lanzados este año mejoraron su posición frente al año pasado.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/15/ventas-de-autos-0-km-el-ranking-que-revela-cuales-mejoraron-su-promedio-y-cuales-quedaron-debajo-de-2025/",
+     "imagen": "https://www.infobae.com/resizer/v2/YIOD7C6FWFAKDEZNNM2Z4UCNEQ.jpg?auth=616894511732a421804c58c95099c18fe43e19ee99b14b1be0e854b37289efd3&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:31",
+     "autor": "Diego Zorrero",
+     "titulo_original": "Ventas de autos 0 km: el ranking que revela cuáles mejoraron su promedio y cuáles quedaron debajo de 2025"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "El consumo de carne vacuna cayó 9,5% en el último año y se mantiene en mínimos históricos",
+     "resumen": "El consumo per cápita bajó a 46 kilos anuales en agosto, mientras el precio de la carne vacuna acumuló una suba de 51,2% en el mismo período y las exportaciones del producto siguieron en alza.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464486-el-consumo-de-carne-vacuna-se-mantiene-en-minimos-historicos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/03/492145.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:46",
+     "autor": "",
+     "titulo_original": "El consumo de carne vacuna cayó 9,5% en el último año y se mantiene en mínimos históricos"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "El comercio cambia, pero la cercanía del almacén de barrio sigue haciendo la diferencia",
+     "resumen": "Según un relevamiento de Kantar, en 2025 el 52% de los hogares latinoamericanos utilizó siete o más canales de compra distintos a lo largo del año, combinando supermercados, comercios de cercanía y canales digitales. El informe señala que el almacén de barrio conserva una cercanía que no es solo física sino también de vínculo con el cliente.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-comercio-cambia-la-cercania-del-almacen-sigue-haciendo-la-diferencia/",
+     "imagen": "https://www.cronista.com/resizer/v2/EVLLSPCYBNEZPHXZMAAKSFQD6E.png?auth=9c350a6732fafa8af0b8a08ab1fa30b9f6257a9dac7f8154a0d9f6afc5c5cd59&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:57",
+     "autor": "Alejandro Nieto",
+     "titulo_original": "El comercio cambia, la cercanía del almacén sigue haciendo la diferencia"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Somos Palta busca socios para abrir nuevos restaurantes con el sistema de franquicias",
+     "resumen": "La cadena, nacida en Nordelta, planea abrir hasta cinco locales por año y llevar sus franquicias a nuevas ciudades del interior del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464109-cuanto-cuesta-abrir-una-franquicia-de-restaurantes-somos-palta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625357.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Somos Palta busca socios para abrir nuevos restaurantes y esto cuesta tener una franquicia"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-24",
+     "titulo": "Natalio Grinman advirtió sobre la ansiedad empresaria por los tiempos de la recuperación",
+     "resumen": "El presidente de la Cámara Argentina de Comercio y Servicios reconoció que existen expectativas favorables sobre el rumbo económico, pero señaló que muchos empresarios enfrentan escenarios de reconversión o de quiebre en sus operaciones mientras esperan que la mejora se traslade a sus negocios.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-advertencia-de-grinman-sobre-el-optimismo-empresario-hay-ansiedad-de/",
+     "imagen": "https://www.cronista.com/resizer/v2/XZ3KJDXEEBDPPEF7HSNT23AWNA.png?auth=d583ba430a20f5bc96e228eaea1bb0b4290843534a87f84cadfc043537904e1d&smart=true&width=900&height=401",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:38",
+     "autor": "",
+     "titulo_original": "La advertencia de Grinman sobre el optimismo empresario: “Hay ansiedad de...”"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "El error de los emprendedores que solo aceptan efectivo o transferencias",
+     "resumen": "Según datos del BCRA, los pagos con transferencias interoperables crecieron 40,7% interanual en cantidad de transacciones durante 2025. El riesgo, advierte el análisis, es que limitarse a efectivo o transferencias manuales, sin ofrecer alternativas como tarjeta o QR, genera fricciones que se traducen en ventas perdidas cuando el cliente no dispone de ese medio de pago.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-error-de-los-emprendedores-que-solo-aceptan-efectivo-o-transferencias/",
+     "imagen": "https://www.cronista.com/resizer/v2/APVICJTSWBEG7GZMFSQI4SCICY.jpg?auth=4ad003452043040fff0f01a6e09588c122f12bba12657a07242f1264921b6c33&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:29",
+     "autor": "",
+     "titulo_original": "El error de los emprendedores que solo aceptan efectivo o transferencias"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IP-07",
+     "titulo": "El regreso del carbón: la crisis energética global empuja su consumo a un máximo histórico",
+     "resumen": "El freno al gas natural licuado por el conflicto en Medio Oriente elevó el uso de carbón a un récord a nivel mundial, lo que ralentiza la transición hacia energías más limpias.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464483-la-crisis-energetica-dispara-el-consumo-global-de-carbon-a-un-record",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/603548.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "El regreso del carbón: la crisis energética empuja el consumo a un máximo histórico global"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "El Ejército de Estados Unidos reconoció por primera vez que tiene armas en el espacio",
+     "resumen": "El secretario de la Fuerza Aérea, Troy Meink, afirmó que el país cuenta con \"armas de control espacial en órbita capaces de defender a las fuerzas conjuntas ante acciones hostiles\", en momentos en que China y Rusia amplían sus propios programas militares en órbita. El funcionario no precisó de qué armamento se trata.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/el-ejercito-de-estados-unidos-revela-que-tiene-armas-en-el-espacio/",
+     "imagen": "https://www.cronista.com/resizer/v2/PURKTPYYGVBV5AE3CMVUR4JXZY.jpg?auth=126bd3cfd66f24eef64cd03eddd9fb3388fcda06c17b9b443f9701965e299a2e&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:06",
+     "autor": "Steff Chávez",
+     "titulo_original": "El Ejército de Estados Unidos revela que tiene armas en el espacio"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Arabia Saudita emitió alertas generalizadas de seguridad tras una semana de ataques",
+     "resumen": "Las alertas se activaron el martes en varias zonas del reino, incluidas La Meca y Yeda, en medio de una escalada de ataques atribuidos a grupos alineados con Irán. Las autoridades saudíes las retiraron poco después y no reportaron impactos ni reivindicaciones.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/15/arabia-saudita-emite-de-alertas-generalizadas-tras-una-semana-de-ataques/",
+     "imagen": "https://www.infobae.com/resizer/v2/QIAWXDHVSVFQFP34CXFAGYDU5I.jpg?auth=64bbe851c730a1951f380ff89be5f955c55f05974976f62e1fa2fb498a730f7a&smart=true&width=900&height=546",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:08",
+     "autor": "Timour Azhari y Jana Choukeir",
+     "titulo_original": "Arabia Saudita emite alertas generalizadas tras una semana de ataques"
+    },
+    {
+     "id": "IB-08",
+     "titulo": "Estados Unidos redirige fondos de ayuda militar de Europa y Medio Oriente hacia cuatro países de América Latina",
+     "resumen": "El Departamento de Estado notificó al Congreso el traslado de US$ 52 millones en Financiamiento Militar Extranjero, originalmente asignados a Eslovaquia, Macedonia del Norte, Túnez e Irak, hacia Panamá, Perú, Ecuador y Colombia, en línea con la prioridad que la administración Trump asigna al combate al narcotráfico y la migración irregular en la región.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/america-latina/2026/09/15/estados-unidos-redirige-millones-en-ayuda-militar-de-europa-y-medio-oriente-a-cuatro-aliados-en-america-latina/",
+     "imagen": "https://www.infobae.com/resizer/v2/HMECGCYUIZBYBF5B3VBACCZWXQ.jpg?auth=b8c564174fb79edf83ea95ea84f378b4f32c0ba03dca1647f236b0f0c48c2e98&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:55",
+     "autor": "",
+     "titulo_original": "Estados Unidos redirige millones en ayuda militar de Europa y Medio Oriente a cuatro aliados en América Latina"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Escocia, Irlanda del Norte y Gales reclamaron el derecho a la autodeterminación frente al gobierno británico",
+     "resumen": "Los jefes de gobierno de las tres naciones firmaron un documento conjunto que invoca futuros referendos y un acercamiento a la Unión Europea, en un desafío directo al gobierno central. El texto fue una de las señales citadas por la Cancillería argentina como parte del debate territorial que atraviesa el Reino Unido.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/referendum-en-el-reino-unido-que-se-sabe-del-reclamo-de-independencia-de-escocia-irlanda-del-norte-y-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LPMKRFKDZBC4PPWAVWI34JA6HE.jpg?auth=dff3021ded8e568503d765d9b72fd8e68063cdb95bac13c38c0fd7ef3fa2b79f&smart=true&width=900&height=544",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:41",
+     "autor": "",
+     "titulo_original": "Referéndum en el Reino Unido: qué se sabe del reclamo de independencia de Escocia, Irlanda del Norte y Gales"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "El testaferro de Nicolás Maduro, Alex Saab, se declaró culpable de corrupción en Estados Unidos",
+     "resumen": "Saab cambió su declaración de no culpable, presentada en julio, por una de culpabilidad ante la jueza Kathleen Williams en la Corte del Distrito Sur de Florida, y acordó entregar información sobre altos funcionarios venezolanos. El acuerdo con la Fiscalía contempla una pena máxima de 20 años de prisión.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/testaferro-nicolas-maduro-venezolano-alex-saab-declaro-culpable-lavado-acuerdo-fiscalia_0_MVk8pyPJ2E.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/J2wnuYun9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El testaferro de Nicolás Maduro, Alex Saab, se declaró culpable por corrupción y acordó \"dar información\" sobre altos funcionarios venezolanos"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent solo publicó dos notas en esta ventana.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "La fragmentación del comercio mundial podría costarles a los países más pobres una cuarta parte de su PBI",
+     "resumen": "Según el último informe de la Organización Mundial del Comercio, la proporción del comercio global regida por el principio de nación más favorecida cayó del 80% en 2022 al 72% a comienzos de 2026. La directora general, Ngozi Okonjo-Iweala, calificó el momento como el período de perturbaciones \"más grave\" del sistema comercial en 80 años, mientras Estados Unidos figura entre los países menos afectados por su propia política arancelaria.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/15/la-fragmentacion-del-comercio-mundial-podria-costar-a-paises-pobres-un-cuarto-de-su-pib/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:27",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La fragmentación del comercio mundial podría suponer para los países más pobres una pérdida de casi una cuarta parte de su PIB"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent analiza si Francia todavía puede financiar su independencia en inteligencia artificial",
+     "resumen": "La revista retoma el plan \"Prometeo\", publicado en julio, que proponía una vía para que Francia se incorporara en tres años a la carrera por la inteligencia artificial de vanguardia y lograra así independencia estratégica. El artículo original había generado un debate político urgente en medio de la campaña electoral francesa.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/15/precio-de-independencia-era-ia/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/De-Gaulle-Pierrelatte-24-septembre-1963.png",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:41",
+     "autor": "Gilles Gressani",
+     "titulo_original": "El precio de la independencia en la era de la IA"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-02",
+     "titulo": "Lionel Messi fue convocado y se despedirá del público argentino el 6 de octubre en el Monumental",
+     "resumen": "Pese a haber anunciado su retiro de la Selección, Messi integra la nómina de Lionel Scaloni para la próxima fecha FIFA y jugará únicamente el último de los tres amistosos, ante Benín. La Argentina también enfrentará a Bolivia el 30 de septiembre en Córdoba y a Burkina Faso el 3 de octubre en el Monumental.",
+     "relacionadas": [
+      {
+       "id": "LN-05",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Con Messi convocado: la lista de Lionel Scaloni para los amistosos de la selección argentina",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/con-messi-convocado-la-lista-de-lionel-scaloni-para-los-amistosos-de-la-seleccion-argentina-nid15092026/"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Confirmado: Lionel Messi se despedirá del público argentino el 6 de octubre en el Monumental",
+       "url": "https://www.ambito.com/deportes/confirmado-lionel-messi-se-despedira-del-publico-el-6-octubre-el-monumental-n6322719"
+      },
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Messi fue convocado para un amistoso con la Selección y se despedirá en el Monumental",
+       "url": "https://www.iprofesional.com/actualidad/464511-cuando-sera-la-despedida-de-messi-con-la-seleccion-en-el-monumental"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/15/impacto-en-la-seleccion-argentina-lionel-messi-fue-citado-y-tendra-su-despedida-el-6-de-octubre-en-el-monumental/",
+     "imagen": "https://www.infobae.com/resizer/v2/NDJVC3RBUJE6THZQ5NBCIKIRYY?auth=cf6593b1ba51c4e20a5ec6871782479781394ebccc2a99dd863d0494e9622ddd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:58",
+     "autor": "",
+     "titulo_original": "Impacto en la selección argentina: Lionel Messi fue citado y tendrá su despedida el 6 de octubre en el Monumental"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Boca Juniors visita esta noche a San Pablo por un lugar en semifinales de la Copa Sudamericana",
+     "resumen": "El equipo de Claudio Ubaldo Arruabarrena ganó 1 a 0 en la ida en la Bombonera y debe sostener la ventaja en el Morumbí desde las 21.30, con transmisión de DSports. Milton Delgado, recuperado de una lesión muscular, volvería a ser titular.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/15/boca-juniors-y-san-pablo-definiran-en-brasil-el-pase-a-las-semifinales-de-la-copa-sudamericana-hora-tv-y-formaciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/67TO2PCDN5CBFFGKJWR4O2T274.JPG?auth=6222ec66f26ee1d88e67e2f52860a23a443a876ef20d9d03db39265e862e50e8&smart=true&width=900&height=617",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:38",
+     "autor": "",
+     "titulo_original": "Boca Juniors y San Pablo definirán en Brasil el pase a las semifinales de la Copa Sudamericana: hora, TV y formaciones"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Platense recibe a Fluminense con la obligación de revertir el 2 a 0 de la ida por la Copa Libertadores",
+     "resumen": "El partido de vuelta de los cuartos de final se juega este martes desde las 19 en el estadio Ciudad de Vicente López, con arbitraje del chileno Cristián Garay. El ganador de la llave enfrentará en semifinales al vencedor entre Palmeiras y Liga de Quito.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-platense-vs-fluminense-por-la-copa-libertadores-2026-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RGNV3MWZY5DUDKCNB2PXOAYOZA.jpg?auth=1ce0aceae12aac8dd63ec6023f25b372293acd0c2cf034d4d49768b8c22b5ec6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:39",
+     "autor": "",
+     "titulo_original": "En qué canal pasan Platense vs. Fluminense por la Copa Libertadores 2026"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "La Selección Sub 20 femenina enfrenta a Corea del Sur por los octavos de final del Mundial de Polonia",
+     "resumen": "El equipo dirigido por Christian Meloni busca alcanzar por primera vez los cuartos de final del torneo; en la edición anterior, disputada en Colombia, había caído en esta misma instancia ante Alemania. Annika Paz, goleadora del certamen, llega tras un triunfo clave ante México.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/argentina-vs-corea-sur-mundial-sub-20-femenino-polonia-2026-hora-juega-octavos-final-verlo-tv_0_1e5Fhts6U8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/oKVuHAY0i_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentina vs Corea de Sur, por el Mundial Sub-20 femenino Polonia 2026: a qué hora juega los octavos de final y cómo verlo por TV"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Mateo Kalejman le dio a la Argentina el oro en ciclismo en ruta después de 16 años en los Juegos Suramericanos",
+     "resumen": "El ciclista sanjuanino venció al colombiano Walter Vargas, siete veces campeón panamericano y defensor del título, en la prueba de Santa Fe 2026. Delfina Dibella sumó además un bronce en la rama femenina.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/juegos-suramericanos-2026-sanjuanino-mateo-kalejman-dio-batacazo-ciclismo-ruta-gano-oro-argentina-16-anos_0_mHL1DstPly.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/QTdzkcdoE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:34",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juegos Suramericanos 2026: el sanjuanino Mateo Kalejman dio el batacazo en ciclismo en ruta y ganó el oro para Argentina tras 16 años"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Fer Russo y Julián Gutiérrez ganaron el oro en tiro para la Argentina en los Juegos Suramericanos",
+     "resumen": "La dupla se impuso en la prueba mixta de rifle de aire a 10 metros y logró el título por tercera edición consecutiva de los Juegos Odesur.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/juegos-suramericanos-santa-fe-2026-fer-russo-julian-gutierrez-pasaron-sufrimiento-euforia-medalla-dorada-tiro_0_ZlJ3JA2Fwi.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/GnSaWapbm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:04",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juegos Suramericanos Santa Fe 2026: Fer Russo y Julián Gutiérrez pasaron del sufrimiento a la euforia por la medalla dorada en tiro"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "La intervención de los médicos de Vélez y Newell's fue clave para salvarle la vida a Mammana",
+     "resumen": "El defensor de Vélez sufrió la fractura de cinco costillas tras un choque involuntario con su compañero Tomás Marchiori durante un partido ante Newell's y permanece internado en la Clínica Zabala. Eduardo Ontivero, director del Sanatorio de la Mujer de Rosario, señaló que el nivel de alerta de los médicos de ambos clubes permitió el traslado en código rojo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/la-intervencion-clave-de-los-medicos-de-velez-y-newells-que-permitio-salvarle-la-vida-a-mammana-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GED3FIRENVF7TFX63SZMEYRVFM.jpg?auth=0703c6c24a082aef731e03a20743536bdccc39eadb4dc3d5a7e7ef49a530628b&smart=true&width=875&height=580",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:56",
+     "autor": "",
+     "titulo_original": "La intervención clave de los médicos de Vélez y Newell’s que permitió salvarle la vida a Mammana"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-16",
+     "titulo": "Jujuy fue elegido el mejor destino de montaña de Sudamérica entre más de 1.100 opciones",
+     "resumen": "El reconocimiento surgió de un análisis realizado con datos de redes sociales sobre más de 1.100 destinos de montaña de la región, que ubicó a la provincia en el primer puesto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/recreo/464493-que-lugar-de-argentina-fue-elegido-mejor-destino-de-montana-de-sudamerica",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625750.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:37",
+     "autor": "",
+     "titulo_original": "Jujuy fue elegido el mejor destino de montaña de Sudamérica entre 1.100 opciones"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "A 300 kilómetros de las Cataratas, la reserva Margay guarda el tesoro más salvaje de Misiones",
+     "resumen": "La reserva privada, de 65 hectáreas, está ubicada a los pies de la biosfera Yabotí, donde se protegen 253.000 hectáreas de selva paranaense. En el lugar trabajan para restaurar la flora nativa y reintroducir fauna amenazada.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/salud/cataratas-de-iguazu-a-300-km-esta-el-tesoro-natural-mas-salvaje-de-misiones-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MCXBZWDQCBEFXNQUKAGBCLG4HM.jpg?auth=4eea717701d36cd87d7febad05980107399ee3abf1c974cba0cecd1e40ff842d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:17",
+     "autor": "Gonzalo Gaviña",
+     "titulo_original": "Cataratas de Iguazú: A 300 km está el tesoro natural más salvaje de Misiones"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "Murió una adolescente de 15 años antes de ingresar a un recital de Stray Kids en San Isidro",
+     "resumen": "La joven se descompensó momentos antes del show de la banda surcoreana en el Hipódromo de San Isidro y fue trasladada al Hospital Central de San Isidro, donde se constató su fallecimiento por un paro cardiorrespiratorio. La Justicia investiga las circunstancias del hecho.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Murió una adolescente que se descompensó en el recital de Stray Kids en San Isidro",
+       "url": "https://www.clarin.com/sociedad/murio-adolescente-descompenso-recital-stray-kids-san-isidro_0_iDg9eRCc8y.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/seguridad/murio-una-adolescente-de-16-anos-en-un-recital-de-k-pop-en-san-isidro-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OPMC3VVYYFEE3PXRBCJQC74CUQ.png?auth=9e426ab87040d5c4a01649be0e46235d7a7783e8688b0b3e14b2d72b46b74813&smart=true&width=900&height=549",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:59",
+     "autor": "",
+     "titulo_original": "Murió una adolescente de 15 años antes de ingresar a un recital de K-Pop en San Isidro"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Condenaron a ocho años de prisión al dueño de los dogos que mataron a una adolescente en Córdoba",
+     "resumen": "José Nieto, de 58 años, fue declarado culpable de homicidio simple con dolo eventual por la Cámara Primera del Crimen y detenido en la sala al conocerse el veredicto. Sus dos perros habían atacado y matado en 2023 a Trinidad Ballesteros, de 15 años, mientras caminaba por el barrio Estación Flores.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Condenaron a ocho años de prisión al dueño de dos dogos que mataron a una chica de 15 años en Córdoba",
+       "url": "https://www.clarin.com/sociedad/condenaron-anos-prision-dueno-dogos-mataron-chica-15-anos-cordoba_0_tqesqTcv2H.html"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/09/15/condenaron-a-ocho-anos-de-prision-al-dueno-de-dos-dogos-que-mataron-a-una-adolescente-de-15-anos-en-cordoba/",
+     "imagen": "https://www.infobae.com/resizer/v2/SBLPWBXR4BGODGW2D3ET562B6A.jpg?auth=8a9c90f08071d7f7698fc4a404a0fbbd4f1aab3c2a876105ca3a32f28c4b1213&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:02",
+     "autor": "",
+     "titulo_original": "Condenaron a ocho años de prisión al dueño de dos dogos que mataron a una adolescente de 15 años en Córdoba"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Un adolescente de Tucumán prendió fuego a su pareja durante una discusión por celos",
+     "resumen": "El joven, de 17 años, fue imputado por el ataque contra una mujer de 24 que sufrió quemaduras en el rostro, el cuello y el tórax en la localidad de Lastenia. La víctima había recibido el alta pero debió ser internada nuevamente este martes en el Hospital Eva Perón.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/15/tucuman-un-adolescente-prendio-fuego-a-su-pareja-en-medio-de-una-discusion-por-celos/",
+     "imagen": "https://www.infobae.com/resizer/v2/L7ZHSXXHRVESVOZGP52M6CS2TI.jpg?auth=7e1520fc0ec824f3f4d3be2f36b370c30420bd8420252717a0ce8a81881cde96&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:32",
+     "autor": "",
+     "titulo_original": "Tucumán: un adolescente prendió fuego a su pareja en medio de una discusión por celos"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "La Ciudad de Buenos Aires iluminará sus monumentos de naranja por el Día Mundial del Linfoma",
+     "resumen": "La Floralis Genérica, el Puente de la Mujer, el Planetario y la Torre Espacial se iluminarán en el marco de la campaña \"Ningún paciente viaja solo\", impulsada por la Asociación Civil Linfomas Argentina. Según la entidad, el 73% de los pacientes diagnosticados no sabía de la existencia de la enfermedad.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/15/la-ciudad-de-buenos-aires-iluminara-sus-monumentos-de-naranja-por-el-dia-mundial-de-concientizacion-sobre-el-linfoma/",
+     "imagen": "https://www.infobae.com/resizer/v2/UVQILEOWXBCFVJQ2O7ONU5PFRQ.jpg?auth=d11ffe55c8446e35d78a6d0a76872ec486e08408078a75d963d35f7c58ef8d22&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:46",
+     "autor": "",
+     "titulo_original": "La Ciudad de Buenos Aires iluminará sus monumentos de naranja por el Día Mundial de Concientización sobre el Linfoma"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del martes quince de septiembre.\n\nEl Gobierno formalizó hoy el envío del Presupuesto dos mil veintisiete al Congreso, con una inflación proyectada del dieciocho por ciento para fin de año, un crecimiento del cuatro por ciento del producto bruto y un dólar mayorista que llegaría a mil ochocientos cuarenta y siete pesos con sesenta centavos en diciembre. En paralelo, el riesgo país volvió a superar los quinientos puntos básicos y los bonos cayeron en Wall Street, mientras el Reino Unido publicó una guía oficial para proteger a las empresas que operan en las islas Malvinas de las sanciones argentinas. El dólar oficial cerró la rueda en mil quinientos treinta pesos, el dólar blue en mil quinientos sesenta, y el oro cotiza en cuatro mil trescientos treinta y tres dólares la onza. Entre las cifras del día, el índice Merval retrocedió hasta los mil novecientos veintinueve dólares, el uso de la capacidad instalada de la industria cayó a cincuenta y ocho coma dos por ciento en julio, y la Cámara de Exportadores proyectó un récord de ciento tres mil millones de dólares en ventas al exterior para este año.\n\nEn política, el tema del día fue Malvinas. El Reino Unido difundió una guía que respalda toda actividad económica en el archipiélago y sostiene que la Argentina no tiene jurisdicción para sancionar a las empresas que trabajan allí; es la primera respuesta oficial de Londres a las advertencias de Javier Milei de las últimas semanas. El canciller Pablo Quirno respondió que el debate territorial dentro del Reino Unido, con los reclamos de autodeterminación de Escocia, Gales e Irlanda del Norte, refuerza la posición argentina. En la misma línea, la Justicia denunció a siete empresas pesqueras por operar en el Mar Argentino con licencia británica de Malvinas. Puertas adentro, el Presidente se refirió a su jefe de Gabinete, Diego Santilli, como el próximo gobernador de la provincia de Buenos Aires, delante de Sebastián Pareja, el armador bonaerense de Karina Milei; horas después, ella misma le agradeció públicamente y pidió evitar peleas con gobernadores no kirchneristas. En el peronismo, Mayra Mendoza acusó a Axel Kicillof de dividir el espacio y de manejar con discrecionalidad los fondos municipales. En la causa Cuadernos, Roberto Baratta pidió un careo con exdirectivos de Techint que declararon en su contra, y los abogados de Cristina Kirchner presentaron nuevas pruebas para intentar revisar la condena por Vialidad. Mañana se cumplen cincuenta años de la Noche de los Lápices, y el peronismo llega dividido a los actos: Kicillof y La Cámpora convocan por separado.\n\nEn economía y mercados, además del Presupuesto y el riesgo país, Scott Bessent, el secretario del Tesoro de Estados Unidos, defendió ante el Congreso de su país el salvataje financiero a la Argentina, de hasta veinte mil millones de dólares, y dijo que la operación le permitió a Estados Unidos obtener ganancias. Los bancos detectaron además un fuerte salto en las transferencias de dólares que hacen las empresas multinacionales hacia sus casas matrices en el exterior, mientras la demanda minorista de la divisa se mantiene alta.\n\nEn negocios y empresas, Granja Tres Arroyos, una de las mayores avícolas del país, se presentó en concurso preventivo con una deuda de más de trescientos cincuenta millones de dólares. Rizobacter cerró el año con pérdidas millonarias tras refinanciar sus pasivos. El Gobierno recibió dos ofertas por la privatización de la empresa de agua AySA y espera recaudar cerca de quinientos millones de dólares. La empresa brasileña que fabricaba las zapatillas Converse dejó de producir en Argentina, y el país busca captar inversiones en centros de datos para inteligencia artificial.\n\nEn impuestos, laboral y normativa, la Justicia bonaerense reactivó la Ley de Responsabilidad Penal Juvenil: la Cámara de Lomas de Zamora revocó la cautelar que la había suspendido por sesenta días en la provincia de Buenos Aires. En la Ciudad de Buenos Aires, se eliminaron dos impuestos que gravaban la venta de propiedades, lo que redujo la carga tributaria de esas operaciones. El veintiséis de septiembre es feriado para los empleados de comercio bajo convenio, aunque persisten dudas sobre quienes están fuera de convenio. Y en la Unión Obrera Metalúrgica, Abel Furlán respondió a las acusaciones que motivaron su desplazamiento del sindicato.\n\nEn consumo, construcción y retail, más de diez bancos bajaron las tasas de los créditos hipotecarios UVA para primera vivienda, con ofertas desde seis coma siete por ciento más UVA en el Banco Nación. El ranking de ventas de autos cero kilómetro por promedio mensual lo encabeza la Toyota Hilux. El consumo de carne vacuna cayó nueve coma cinco por ciento en el último año y se mantiene en mínimos históricos, mientras un relevamiento de Kantar muestra que el almacén de barrio sigue siendo clave pese a la multiplicación de canales de compra. La cadena Somos Palta busca socios para abrir nuevos restaurantes con el sistema de franquicias.\n\nEn management y finanzas corporativas, Natalio Grinman, presidente de la Cámara Argentina de Comercio y Servicios, advirtió que hay optimismo empresario pero también ansiedad por los tiempos de la recuperación. Y un análisis remarcó el riesgo de los emprendedores que solo aceptan efectivo o transferencias, en momentos en que los pagos digitales crecen con fuerza.\n\nEn el mundo, la crisis energética por el conflicto en Medio Oriente empujó el consumo global de carbón a un máximo histórico. El Ejército de Estados Unidos reconoció por primera vez que tiene armas en el espacio. Arabia Saudita emitió alertas de seguridad generalizadas tras una semana de ataques atribuidos a grupos alineados con Irán. Estados Unidos redirigió fondos de ayuda militar de Europa y Medio Oriente hacia Panamá, Perú, Ecuador y Colombia. Y el testaferro de Nicolás Maduro, Alex Saab, se declaró culpable de corrupción ante la Justicia de Estados Unidos y acordó entregar información sobre funcionarios venezolanos.\n\nLe Grand Continent analiza dos temas centrales de la semana: la Organización Mundial del Comercio advierte que la fragmentación del comercio global podría costarles a los países más pobres una cuarta parte de su producto bruto, y la revista retoma el plan Prometeo, que evalúa si Francia todavía puede financiar su independencia estratégica en inteligencia artificial.\n\nEn deportes, Lionel Messi fue convocado por Lionel Scaloni pese a su retiro y se despedirá del público argentino el seis de octubre en el estadio Monumental, en el último de los tres amistosos de la fecha FIFA. Esta noche, Boca Juniors visita a San Pablo con ventaja de uno a cero en los cuartos de final de la Copa Sudamericana, y Platense recibe a Fluminense con la obligación de revertir el dos a cero de la ida por la Copa Libertadores. La Selección Sub veinte femenina enfrenta a Corea del Sur por los octavos de final del Mundial de Polonia. En los Juegos Suramericanos de Santa Fe, Mateo Kalejman ganó el oro en ciclismo en ruta después de dieciséis años, y Fer Russo junto a Julián Gutiérrez se quedaron con el oro en tiro. Y en Rosario, los médicos de Vélez y Newell's fueron clave para salvarle la vida al defensor Emanuel Mammana, que sufrió la fractura de cinco costillas.\n\nPara cerrar, dos propuestas de turismo. Jujuy fue elegida el mejor destino de montaña de Sudamérica entre más de mil cien opciones analizadas. Y en Misiones, a trescientos kilómetros de las Cataratas del Iguazú, la reserva privada Margay protege uno de los últimos tramos continuos de selva paranaense del país.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Todas las fuentes respondieron correctamente en esta corrida. No hubo novedades de Franco Colapinto ni de Club Atlético Tigre en el material de esta edición.",
+ "slug": "2026-09-15-tarde",
+ "generado_ba": "15/09/2026 21:10"
+}
