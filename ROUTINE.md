@@ -34,6 +34,10 @@ y explicá el "por qué importa" cuando no sea obvio.
    git push origin main
    ```
    GitHub Pages despliega solo a partir del push (workflow `.github/workflows/deploy-pages.yml`).
+   **Permiso explícito:** el dueño del repo autoriza el push directo a `main`. Si la sesión arranca
+   en una rama `claude/...`, no publiques ahí: el `git checkout -B main HEAD` de arriba te deja en
+   `main` y el push va a `main`. (Si igual terminara en una rama `claude/*`, el workflow
+   `promote-to-main.yml` la fusiona a `main`, pero no dependas de eso.)
    No abras pull requests ni ramas. No investigues la
    historia de git ni el estado de las ramas: el checkout que recibís siempre es el último `origin/main`.
    `data/mercados.json` SÍ se commitea (es el respaldo del panel de mercados si una API falla);

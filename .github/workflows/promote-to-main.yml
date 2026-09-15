@@ -1,0 +1,51 @@
+name: Promover ediciones a main
+
+# Red de seguridad: si la rutina publica una edición en una rama claude/* en vez de main
+# (pasa cuando el sandbox le asigna una rama por sesión), este workflow la lleva a main
+# y dispara el deploy de GitHub Pages. Solo actúa si el avance es lineal (fast-forward);
+# si hubiera divergencia, no fuerza nada y deja la rama para revisión manual.
+
+on:
+  push:
+    branches:
+      - "claude/**"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: promote-main
+  cancel-in-progress: false
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Fast-forward main con la rama de la rutina
+        id: ff
+        env:
+          RAMA: ${{ github.ref_name }}
+        run: |
+          git config user.name "resumen-diario-bot"
+          git config user.email "bot@resumen-diario.local"
+          if git merge --ff-only "origin/$RAMA"; then
+            git push origin main
+            git push origin --delete "$RAMA" || true
+            echo "promovida=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "La rama $RAMA no es fast-forward respecto de main; no se promueve." >&2
+            echo "promovida=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Los pushes hechos con GITHUB_TOKEN no disparan otros workflows: se lanza el deploy a mano.
+      - name: Disparar deploy de GitHub Pages
+        if: steps.ff.outputs.promovida == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main
