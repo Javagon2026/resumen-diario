@@ -1,0 +1,834 @@
+{
+ "fecha": "2026-09-16",
+ "edicion": "tarde",
+ "titulo": "La Fed sube tasas, frenan Sea Lion en Malvinas y Messi confirma su despedida",
+ "apertura": "La Reserva Federal de Estados Unidos subió la tasa de interés por primera vez desde 2023 y la inflación mayorista de agosto se aceleró al 2,1%, en una jornada marcada además por el freno judicial a la explotación petrolera de Sea Lion en las Islas Malvinas. En el plano político, el Presupuesto 2027 sigue generando tensión con los aliados por los recortes en discapacidad y en las asignaciones familiares. En deportes, la AFA confirmó que Lionel Messi se despedirá de la Selección el 6 de octubre y Mara Kucharski sumó una nueva medalla dorada para la Argentina en los Juegos Suramericanos.",
+ "claves": [
+  "La Reserva Federal de Estados Unidos subió la tasa de interés de referencia por primera vez desde 2023, un cuarto de punto, en medio de la tensión de Donald Trump con la conducción del banco central.",
+  "La inflación mayorista de agosto se aceleró a 2,1%, el nivel más alto desde mayo, impulsada por la suba del petróleo tras el conflicto en Medio Oriente.",
+  "Una jueza federal de Río Grande frenó la explotación petrolera del proyecto Sea Lion en las Islas Malvinas, en medio de la tensión con el Reino Unido.",
+  "El Gobierno oficializó reformas en la SIDE y confirmó el reemplazo de \"Tata\" Yofre al frente de la escuela de espías.",
+  "Granja Tres Arroyos, la mayor avícola del país, se presentó en concurso preventivo con una deuda que supera los $ 126.000 millones.",
+  "Electrolux está en alerta por el ingreso de lavarropas importados desde China, lo que amenaza la fabricación local en Rosario.",
+  "Mara Kucharski ganó la medalla dorada en skeet en los Juegos Suramericanos, venciendo a la campeona olímpica de la disciplina.",
+  "Se confirmó que Lionel Messi se despedirá de la Selección argentina como capitán el 6 de octubre, en un amistoso ante Benín en el Monumental."
+ ],
+ "cifras": [
+  {
+   "nombre": "Inflación mayorista (IPIM), agosto",
+   "valor": "2,1%",
+   "variacion": "29,8% interanual",
+   "fuente": "CL-01"
+  },
+  {
+   "nombre": "Tasa de referencia de la Fed (EE.UU.)",
+   "valor": "3,75%",
+   "variacion": "+0,25 pp, primera suba desde 2023",
+   "fuente": "CL-21"
+  },
+  {
+   "nombre": "Exportaciones argentinas (proyección 2026)",
+   "valor": "US$ 103.000 millones",
+   "fuente": "CL-24"
+  },
+  {
+   "nombre": "Haber jubilatorio mínimo (ANSES, octubre)",
+   "valor": "$ 505.919,96",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Deuda declarada de Granja Tres Arroyos en concurso",
+   "valor": "$ 126.000 millones",
+   "fuente": "IB-18"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-21",
+     "titulo": "una jueza de Río Grande frenó la explotación petrolera del proyecto Sea Lion en Malvinas",
+     "resumen": "La jueza federal Mariel Borruto ordenó a Rockhopper Exploration y Navitas Petroleum abstenerse de la ejecución del proyecto petrolero Sea Lion en aguas cercanas a las Islas Malvinas y les dio 10 días para informar el grado de avance. Hizo lugar a una medida cautelar de asociaciones ambientalistas y del Centro de Ex Combatientes Islas Malvinas La Plata. El 65% del financiamiento del proyecto proviene de la empresa israelí Navitas.",
+     "relacionadas": [
+      {
+       "id": "CR-21",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La Justicia ordenó frenar Sea Lion en Malvinas y puso bajo la lupa a petroleras y financistas: los detalles",
+       "url": "https://www.cronista.com/economia-politica/la-justicia-ordeno-frenar-sea-lion-en-malvinas-y-puso-bajo-la-lupa-a-petroleras-y-financistas-los-detalles/"
+      },
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Una jueza de Río Grande ordenó frenar el proyecto petrolero Sea Lion en Malvinas",
+       "url": "https://www.iprofesional.com/energia/464585-una-jueza-de-rio-grande-ordeno-frenar-el-proyecto-petrolero-sea-lion-en-malvinas"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/una-jueza-federal-de-rio-grande-ordeno-frenar-la-explotacion-petrolera-de-sea-lion-en-malvinas-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NAPUZELYDNAF3CSTPGXJ6J6TRY.jpg?auth=2c2ca2f1bf1b7d2aecf1c332ef23454fddb39ec4e4614b88aa3391d7e359195a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:00",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "Una jueza federal de Río Grande ordenó frenar la explotación petrolera de Sea Lion en Malvinas"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "el Gobierno oficializó reformas en la SIDE y se va \"Tata\" Yofre de la escuela de espías",
+     "resumen": "El ex periodista dejará su cargo al frente de la escuela de espías y será reemplazado por el politólogo especializado en Defensa Fabián Calle, en el marco de una reforma oficializada por el Gobierno en el organismo de inteligencia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/gobierno-oficializo-reformas-side-va-tata-yofre-escuela-espias_0_1XSwKDepPe.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/FK9QGzeSi_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno oficializó reformas a la SIDE y se va \"Tata\" Yofre de la escuela de espías"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "el Gobierno amenaza con derogar artículos de la Emergencia en Discapacidad y tensó el diálogo con los aliados",
+     "resumen": "El Presupuesto 2027 eliminó artículos clave de la ley de Emergencia en Discapacidad, lo que generó malestar entre los diputados de La Libertad Avanza y sus aliados, que advierten un nuevo recorte de fondos en el área. Desde el bloque libertario aseguran que hubo un error en la redacción del proyecto y buscan recomponer el vínculo con el PRO y otros socios, mientras la oposición y las cámaras de prestadores rechazaron los cambios en una comisión informativa.",
+     "relacionadas": [
+      {
+       "id": "LN-04",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Cortocircuito y quiebre entre la Casa Rosada y sus diputados por la ley de discapacidad",
+       "url": "https://www.lanacion.com.ar/politica/cortocircuito-y-quiebre-entre-la-casa-rosada-y-sus-diputados-por-la-ley-de-discapacidad-nid16092026/"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cortocircuito entre la Casa Rosada y el Congreso por la Emergencia en Discapacidad",
+       "url": "https://www.ambito.com/politica/cortocircuito-la-casa-rosada-y-el-congreso-la-emergencia-discapacidad-n6323115"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/gobierno-amenaza-derogar-articulos-emergencia-discapacidad-tenso-dialogo-aliados_0_kuuf6TMTJo.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/C3LwPV1Ft_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno amenaza con derogar artículos de la Emergencia en Discapacidad y se tensó el diálogo con los aliados"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "el fondo que ganó el juicio por YPF escala su reclamo y demanda a la Argentina ante el CIADI",
+     "resumen": "El tribunal arbitral del Banco Mundial aceptó tratar el reclamo de Burford Capital por la expropiación de YPF, después de que la Cámara de Apelaciones de Nueva York rechazara la orden de la jueza Loretta Preska que exigía a la Argentina pagar US$ 12.000 millones más intereses. El CIADI deberá conformar el tribunal arbitral en los próximos 90 días.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-fondo-que-perdio-el-juicio-por-ypf-escala-la-disputa-y-demanda-a-la-argentina-ante-el-ciadi/",
+     "imagen": "https://www.cronista.com/resizer/v2/RBYS5OVSHZCTLJORJ2TUJ4V5UU.jpg?auth=edee9dd5377c29139432c0fcf3058cb1cd62d2ddf498e5c22424acb7b9ffb9c7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:11",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "El fondo que perdió el juicio por YPF escala la disputa y demanda a la Argentina ante el Ciadi"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "Chile enviará una nota de protesta por los dichos de Bullrich sobre el estrecho de Magallanes",
+     "resumen": "La Cámara de Diputados chilena acordó expresar formalmente su molestia por declaraciones de la senadora Patricia Bullrich, quien había planteado que la Argentina debía conseguir el \"control\" del estrecho de Magallanes.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/chile-enviara-una-nota-protesta-los-dichos-patricia-bullrich-el-estrecho-magallanes-n6323096",
+     "imagen": "https://media.ambito.com/p/ae77903134b5e14f337ea9b1e8c7acbf/adjuntos/239/imagenes/043/163/0043163894/1200x675/510x332:530x352/patricia-bullrich.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:26",
+     "autor": "",
+     "titulo_original": "Chile enviará una nota de protesta por los dichos de Patricia Bullrich sobre el estrecho de Magallanes"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "revés para Milei en el Senado: se posterga la reforma del BCRA",
+     "resumen": "Patricia Bullrich acordó una sesión para este jueves en la que quedó afuera el tratamiento de la reforma del Banco Central, el tema que más le importa al Presidente. En cambio, avanzan los proyectos de Inocencia Fiscal II y de biocombustibles.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/464589-reves-para-milei-en-el-senado-se-posterga-la-reforma-del-bcra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620809.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:20",
+     "autor": "",
+     "titulo_original": "En un revés para Milei en el Senado, se posterga reforma BCRA y se trata Inocencia Fiscal"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "suman al juicio en ausencia por la causa AMIA al hombre de mayor confianza de Jamenei",
+     "resumen": "El juez federal Daniel Rafecas incorporó al iraní Alí Asghar Hejazi al juicio en ausencia por el atentado de 1994, a pedido del fiscal Sebastián Basso, que lo señala como presidente del comité que decidió el ataque contra la mutual. Hejazi, de 79 años, era en 1994 el delegado personal del entonces líder supremo Alí Jamenei.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/causa-amia-suman-al-juicio-al-hombre-de-confianza-de-khamenei-como-cerebro-del-atentado-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PKKQG6GFEZH2PJSZEJDM66NGRU.png?auth=3ac524186d548d1e080468e98728aac1fe4fddad57d94fa58d24b4ae204e930c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:59",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "Causa AMIA: suman al juicio al hombre de confianza de Khamenei como cerebro del atentado"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "la inflación mayorista repuntó en agosto al 2,1%, el nivel más alto desde mayo",
+     "resumen": "El índice de precios mayoristas (IPIM) subió 2,1% en agosto, contra 0,8% en julio, y acumuló 29,8% interanual, según el INDEC. La aceleración estuvo empujada por el petróleo, que en julio había subido 8% por el conflicto en Medio Oriente, y quedó por encima de la inflación minorista de 1,7%. Para una empresa: un IPIM por encima del IPC minorista suele anticipar presión de costos que todavía no llegó a las góndolas.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "A contramano de la minorista: la inflación mayorista aceleró al 2,1% en agosto",
+       "url": "https://www.cronista.com/economia-politica/a-contramano-de-la-minorista-la-inflacion-mayorista-acelero-al-21-en-agosto/"
+      },
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La inflación mayorista se aceleró al 2,1% en agosto, impulsada por nuevas subas en petróleo",
+       "url": "https://www.ambito.com/economia/la-inflacion-mayorista-se-acelero-al-21-agosto-impulsada-nuevas-subas-petroleo-n6323153"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La inflación mayorista se aceleró y llegó al 2,1% en agosto por la suba del petróleo",
+       "url": "https://www.iprofesional.com/economia/464592-la-inflacion-mayorista-se-acelero-al-21-en-agosto-por-la-suba-del-petroleo"
+      },
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La inflación mayorista se aceleró a 2,1% en agosto y acumuló 29,8% en los últimos doce meses",
+       "url": "https://www.infobae.com/economia/2026/09/16/la-inflacion-mayorista-se-acelero-a-21-en-agosto-y-acumulo-298-en-los-ultimos-doce-meses/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/inflacion-mayorista-repunto-agosto-empujada-petroleo-marco-21-nivel-alto-mayo_0_iWgKcfLx3B.html",
+     "imagen": "https://www.clarin.com/img/2026/07/15/S6fKLOzDB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La inflación mayorista repuntó en agosto, empujada por el petróleo: marcó 2,1%, el nivel más alto desde mayo"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "la Reserva Federal de Estados Unidos subió la tasa de interés por primera vez desde 2023",
+     "resumen": "La Fed llevó su tasa de referencia a 3,75%, un cuarto de punto más, en el primer aumento desde junio de 2023. Su titular, Kevin Warsh, dijo que la inflación \"es demasiado alta durante demasiado tiempo\". El Cronista e iProfesional ubicaron la nueva tasa en niveles algo distintos (cerca de 3,9% y 4%, respectivamente), aunque todas las fuentes coinciden en el cuarto de punto de suba y en que la Fed prevé otro incremento antes de fin de año.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La Fed desafía a Trump y sube tasas por primera vez desde 2023 para contener la inflación",
+       "url": "https://www.iprofesional.com/economia/464582-la-fed-desafia-a-trump-y-sube-tasas-por-primera-vez-desde-2023-para-contener-la-inflacion"
+      },
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La Fed subió la tasa por primera vez en tres años para frenar la inflación",
+       "url": "https://www.cronista.com/finanzas-mercados/la-fed-subio-la-tasa-por-primera-vez-en-tres-anos-para-frenar-la-inflacion/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Fed subió las tasas por primera vez desde 2023 y proyecta otro incremento más antes de fin de año",
+       "url": "https://www.ambito.com/economia/la-fed-subio-las-tasas-primera-vez-2023-la-suba-los-precios-internacionales-del-petroleo-n6323117"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/estados-unidos-primera-vez-2023-fed-subio-tasa-interes_0_aTtfJTzVHG.html",
+     "imagen": "https://www.clarin.com/img/2026/08/28/eTK0bdJkX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Estados Unidos: para bajar la inflación, la FED subió la tasa de interés por primera vez desde 2023"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "la suba de tasas en Estados Unidos encarece el financiamiento de la deuda argentina",
+     "resumen": "La suba de las tasas de los bonos del Tesoro estadounidense, que vienen de un fuerte rally, encarece el costo de financiamiento externo de la Argentina y genera un escenario más desafiante para los bonos en pesos y en dólares. El mercado sigue de cerca el impacto sobre el programa financiero del Gobierno.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-suba-de-tasas-en-eeuu-genera-viento-de-frente-para-la-deuda-argentina-como-refugiarse/",
+     "imagen": "https://www.cronista.com/resizer/v2/XTIHPLJHDRELVONTDMZVZ3UE6A.png?auth=5f18bdc6b082254e112cd15af65d45e3ce2759cc62a1815f3b5fb751c56e8438&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:01",
+     "autor": "Julián Yosovitch",
+     "titulo_original": "La suba de tasas en EE.UU. genera viento de frente para la deuda argentina: cómo refugiarse"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "el riesgo país se consolida arriba de los 500 puntos mientras el mercado analiza los supuestos del Presupuesto 2027",
+     "resumen": "Los bonos argentinos operan con mayoría de bajas y las acciones que cotizan en Wall Street también retroceden, en una rueda marcada por la caída del petróleo. El proyecto de Presupuesto 2027 que analiza la City prevé un crecimiento de 4% del PBI, una inflación de 18% y un dólar de $ 1.847,6 para el año, cifras que conviven con la proyección de un dólar promedio de $ 1.728 que el propio Gobierno había difundido horas antes.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/los-bonos-dolares-operan-mixtos-wall-street-mientras-que-el-riesgo-pais-sigue-encima-los-500-puntos-n6322967",
+     "imagen": "https://media.ambito.com/p/2cd57991009ffecfc845a5bfc2dc518f/adjuntos/239/imagenes/043/284/0043284702/1200x675/smart/mercados-merval-bolsa-acciones-cedears-4.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:33",
+     "autor": "",
+     "titulo_original": "El riesgo país se consolida arriba de los 500 puntos y ADRs anotan mayoría de bajas ante caída del petróleo"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "la Argentina apunta a un récord de exportaciones mineras, pero todavía corre atrás de Chile y Perú",
+     "resumen": "La consultora Abeceb proyecta que las exportaciones mineras argentinas pasarán de US$ 10.000 millones este año a US$ 35.000 millones en 2035, de la mano del cobre. La minería representa apenas 0,6% del PBI local, contra 13,1% en Chile y 9,1% en Perú. Un reporte de la CAEM y la Bolsa de Comercio de Rosario confirmó además que el stock de inversión extranjera directa en el sector rozó los US$ 25.000 millones.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La minería bate récords de exportación e inversión extranjera directa en 2026",
+       "url": "https://www.iprofesional.com/energia/464548-la-mineria-bate-records-de-exportacion-e-inversion-extranjera-directa-en-2026"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/record-de-us10000-millones-en-exportaciones-mineras-las-lecciones-que-la-argentina-todavia-tiene-que-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SCACGVIEKBHRFPTKRPGBKXY4B4.jpg?auth=c45b67d148ef19c4c86d5ce95fba6ce8ffb64e167a0e2f0492adfd26d097db2b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:29",
+     "autor": "Sofía Diamante",
+     "titulo_original": "Récord de US$10.000 millones en exportaciones mineras: las lecciones que la Argentina todavía tiene que aprender de Chile y Perú"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "el Presupuesto 2027 prevé deuda por US$ 11.000 millones en Bonares, sin volver a los mercados internacionales",
+     "resumen": "El Gobierno proyecta en el Presupuesto 2027 un esquema de financiamiento en dólares apoyado en bonos del mercado local (Bonares) y en organismos internacionales, sin contemplar por ahora un regreso a la colocación de deuda en los mercados voluntarios externos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/presupuesto-2027-luis-caputo-preve-deuda-us11000-millones-bonares-pero-el-regreso-al-mercado-internacional-n6323062",
+     "imagen": "https://media.ambito.com/p/06db550874cfb04167414a86b90a1daa/adjuntos/239/imagenes/043/552/0043552738/1200x675/smart/ministerio-economia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:46",
+     "autor": "",
+     "titulo_original": "Presupuesto 2027: Luis Caputo prevé deuda por u$s11.000 millones en Bonares pero sin el regreso al mercado internacional"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "un profesor de Harvard advirtió sobre el regreso del proteccionismo en la Argentina",
+     "resumen": "Marc Melitz, economista de Harvard distinguido esta semana con el Doctorado Honoris Causa de la UBA, señaló que la memoria sobre los efectos negativos de la sustitución de importaciones sigue viva en el país y analizó el comercio con países amigos, las exportaciones de carne a Estados Unidos y el negocio del litio.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/un-profesor-de-harvard-advirtio-sobre-el-regreso-del-proteccionismo-a-la-argentina-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CLUGXJCBJBFS3EWJ5TXWTTH6HA.jpg?auth=14f8a0ea4738b91de69489c1b9da3a5899d524f05122755ebd98a5dc9b5424dd&smart=true&width=780&height=439",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:23",
+     "autor": "Lautaro Castillo",
+     "titulo_original": "Un profesor de Harvard advirtió sobre el regreso del proteccionismo a la Argentina"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-18",
+     "titulo": "Granja Tres Arroyos, la mayor avícola del país, se presentó en concurso preventivo",
+     "resumen": "La empresa formalizó su concurso preventivo junto a las demás sociedades del grupo y reconoció una deuda que supera los $ 126.000 millones. En el expediente, la familia fundadora atribuyó la crisis al \"estrangulamiento del mercado\", la suba de costos, el ingreso de pollo importado y el cierre de mercados externos.",
+     "relacionadas": [
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Granja Tres Arroyos se presentó en concurso, con plantas paralizadas y deudas millonarias",
+       "url": "https://www.iprofesional.com/negocios/464488-granja-tres-arroyos-se-presento-en-concurso-y-busca-evitar-la-quiebra"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/16/estrangulamiento-del-mercado-y-suba-desmedida-de-costos-los-duenos-de-granja-tres-arroyos-detallaron-su-debacle-ante-la-justicia/",
+     "imagen": "https://www.infobae.com/resizer/v2/DA4QBZQX4VGPBDUDL25LBN5L3I.png?auth=b52fa2863c4a78860190a5cb4ba7540e327141782ef31abd3b45352c9a717801&smart=true&width=900&height=500",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:51",
+     "autor": "Lola Loustalot",
+     "titulo_original": "“Estrangulamiento del mercado” y “suba desmedida de costos”: los dueños de Granja Tres Arroyos detallaron su debacle ante la Justicia"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "YPF lidera un pool petrolero que sale a buscar hasta US$ 300 millones",
+     "resumen": "La petrolera encabeza la colocación de VMOS, que busca fondos para continuar la obra que conectará la formación neuquina de Vaca Muerta con el puerto de Punta Colorada.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464570-ypf-busca-hasta-300-millones-de-dolares-para-financiar-nuevo-oleoducto-vaca-muerta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/624876.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:53",
+     "autor": "",
+     "titulo_original": "YPF lidera un pool petrolero que sale a buscar hasta u$s300 millones"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Neuquén exige contar con transporte antes de otorgar nuevas áreas en Vaca Muerta",
+     "resumen": "La provincia condiciona el otorgamiento de concesiones a que las petroleras aseguren la evacuación del crudo producido: sin capacidad de oleoductos disponible, no habrá nuevos bloques.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464532-neuquen-exige-transporte-para-otorgar-areas-en-vaca-muerta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/11/587903.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:45",
+     "autor": "",
+     "titulo_original": "Neuquén exige tener transporte antes de otorgar áreas en Vaca Muerta"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "el Presupuesto 2027 abre beneficios fiscales para atraer inversión privada en rutas",
+     "resumen": "El proyecto incorpora, en su artículo 67, un régimen de beneficios impositivos para empresas que participen en concesiones de rutas nacionales, además de obras hídricas, ferroviarias y de infraestructura militar. Buenos Aires, Salta, Santa Cruz, Tucumán y Jujuy concentran casi 64% de los $ 1.008.638 millones previstos en obra pública para las provincias.",
+     "relacionadas": [
+      {
+       "id": "CR-16",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Los gobernadores más favorecidos en el Presupuesto 2027: cómo se distribuye la obra pública en las provincias",
+       "url": "https://www.cronista.com/economia-politica/los-gobernadores-mas-favorecidos-en-el-presupuesto-2027-como-se-distribuye-la-obra-publica-en-las-provincias/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-busca-reactivar-la-obra-publica-con-inversion-privada-en-rutas-el-detalle-en-el-presupuesto-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/ULFLQYBLGNEZJJJNYJBHWFBRVE.jpeg?auth=3fe666c6baf40b53476220bde5926a73155b42ca91a45cca7687ea7b00c3d209&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:59",
+     "autor": "",
+     "titulo_original": "El Gobierno busca reactivar la obra pública con inversión privada en rutas: el detalle en el Presupuesto 2027"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "el tráfico aéreo se recupera en América Latina, pero la Argentina cede lugar en el ranking regional",
+     "resumen": "Brasil, Panamá y Colombia impulsaron la mejora del tráfico aéreo regional, con crecimiento en sus mercados domésticos e internacionales, mientras la Argentina pierde posiciones. El sector sigue en alerta por el impacto de la suba del combustible.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/el-trafico-aereo-muestra-una-leve-recuperacion-america-latina-pero-argentina-cede-lugar-el-ranking-regional-n6323121",
+     "imagen": "https://media.ambito.com/p/8dd1bc46564362e0fd5e57b737155890/adjuntos/239/imagenes/037/501/0037501553/1200x675/smart/copa-airlines-creative-commonsjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:14",
+     "autor": "",
+     "titulo_original": "El tráfico aéreo muestra una leve recuperación en América latina, pero Argentina cede lugar en el ranking regional"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "la transformación del mercado automotor argentino acelera la competencia",
+     "resumen": "La llegada de nuevas marcas, la mayor oferta de vehículos electrificados y un consumidor más informado modifican las estrategias de terminales tradicionales y nuevos jugadores. Renault apunta a una renovación integral de su gama con mayor fabricación local, mientras el negocio de la movilidad empieza a organizarse alrededor de datos y servicios de mantenimiento predictivo.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Datos, servicios y experiencia: cómo cambia el negocio de la movilidad",
+       "url": "https://www.cronista.com/negocios/datos-servicios-y-experiencia-como-cambia-el-negocio-de-la-movilidad/"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/la-transformacion-del-mercado-automotor-acelera-la-competencia/",
+     "imagen": "https://www.cronista.com/resizer/v2/KTUZX5MGKVD45JRJJDC55TTG5E.JPG?auth=b902ff7b33467e73015bbbba998dd9d8dbc545970bc5b35b0be7eb93644c5c60&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:38",
+     "autor": "",
+     "titulo_original": "La transformación del mercado automotor acelera la competencia"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-14",
+     "titulo": "el Gobierno habilitó nuevas inversiones para los Fondos de Asistencia Laboral",
+     "resumen": "La Comisión Nacional de Valores aprobó la reglamentación de los Productos de Inversión Colectiva para los FAL, que empezarán a operar desde el 1° de noviembre. Los fondos podrán invertir en Obligaciones Negociables de bancos públicos como Nación, Ciudad y Provincia, y en plazos fijos UVA. Para una empresa: el arranque de los FAL es un dato a seguir para el costeo de la reforma laboral en materia de indemnizaciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-fondos-para-pagar-indemnizaciones-ya-estan-listos-para-salir-a-la-cancha-como-seran/",
+     "imagen": "https://www.cronista.com/resizer/v2/BKXBB6RG6VEBLBLSX5VVNARIPI.jpg?auth=b99edf2e5876d24b525b1e5586fa29bed45c014e5507bad459eb4cbf6554bf36&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:32",
+     "autor": "Leandro Dario",
+     "titulo_original": "El Gobierno habilitó nuevas inversiones para los fondos de indemnizaciones: qué cambia"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "las retenciones seguirán golpeando a la inversión en el campo, según un especialista en agronegocios",
+     "resumen": "El Presupuesto 2027 prevé recaudar un 17% más en términos reales por derechos de exportación agropecuarios. El economista Iván Ordoñez advirtió que las retenciones, al tener como base imponible la facturación, generan efectos distorsivos en toda la cadena porque deben pagarse haya o no haya ganancia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-trampa-de-las-retenciones-en-la-economia-como-impactan-en-ganancias-y-la-inversion-segun-este-especialista-del-agro/",
+     "imagen": "https://www.cronista.com/resizer/v2/4LSG4C3KAZG47L2FFHEAJH3ZQU.jpg?auth=59e8ed5790a449c9b863a44d332322f665633d05bef212828d5b6192f2fe3dc0&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:13",
+     "autor": "",
+     "titulo_original": "La trampa de las retenciones: cómo impactan en Ganancias y la inversión, según este especialista del agro"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "el Presupuesto elimina la actualización automática por inflación de la AUH y las asignaciones familiares",
+     "resumen": "El proyecto incluye un artículo que deroga la movilidad de esos beneficios, que hoy alcanza a más de 9 millones de personas. Desde Capital Humano aseguraron que la medida no afectará el pago de las prestaciones. Para una empresa: el freno a la movilidad de las asignaciones familiares puede impactar en el poder de compra de una franja amplia de consumidores.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/presupuesto-elimina-actualizacion-automatica-inflacion-auh-asignaciones-familiares_0_1D910lxLlV.html",
+     "imagen": "https://www.clarin.com/img/2025/08/01/v8yaecKAW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Presupuesto elimina la actualización automática por inflación de la AUH y las asignaciones familiares"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-20",
+     "titulo": "Electrolux está en alerta por el ingreso de lavarropas importados desde China",
+     "resumen": "El Gobierno cerró una investigación impulsada por la empresa Drean ante el aumento de importaciones de lavarropas chinos, una decisión que pone en duda el futuro de la fabricación local en Rosario. Para una empresa: la definición sobre electrodomésticos importados es una señal directa sobre la competencia que puede llegar a otros artículos para el hogar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464556-electrolux-contra-las-cuerdas-por-boom-de-lavarropas-importados-desde-china",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2019/05/477183.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:26",
+     "autor": "",
+     "titulo_original": "Electrolux está en alerta por las importacione de lavarropas desde China"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "las tiny houses ganan terreno en la Argentina: cuánto cuestan las mini casas que se arman en un mes",
+     "resumen": "La propuesta de viviendas reducidas, con opciones fijas y móviles, gana terreno entre quienes buscan reducir gastos y metros cuadrados, con valores que varían según el tamaño y el equipamiento. Para una empresa: el crecimiento de este formato es una señal de demanda de materiales de construcción en escala menor y de rápida ejecución.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/tiny-houses-argentina-cuanto-cuestan-las-mini-casas-que-se-construyen-un-mes-y-se-pueden-trasladar-n6322410",
+     "imagen": "https://media.ambito.com/p/6b3b3b7d21549ccbf7abd9decdeaccad/adjuntos/239/imagenes/043/642/0043642575/1200x675/669x346:689x366/tiny-houses.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:00",
+     "autor": "",
+     "titulo_original": "Tiny houses en Argentina: cuánto cuestan las mini casas que se construyen en un mes y se pueden trasladar"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "el precio del metro cuadrado en la Ciudad subió apenas 1,1% en lo que va del año",
+     "resumen": "El valor promedio del metro cuadrado en CABA llegó a US$ 2.476, todavía 11,5% por debajo del máximo histórico. En paralelo, una de cada cuatro propiedades tuvo que bajar su precio de venta y las escrituras cayeron 9% interanual en julio.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/departamentos-caba-el-precio-del-m2-subio-apenas-11-lo-que-va-del-ano-n6323050",
+     "imagen": "https://media.ambito.com/p/825fc7ac7f65a68a4519515f31aa226c/adjuntos/239/imagenes/043/367/0043367119/1200x675/779x655:799x675/departamento-belgrano-propiedades.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:40",
+     "autor": "",
+     "titulo_original": "Departamentos en CABA: el precio del m2 subió apenas 1,1% en lo que va del año"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "los jubilados con la mínima cobrarán $ 505.919,96 en octubre con el aumento de ANSES",
+     "resumen": "La ANSES confirmó un aumento de 1,7% para octubre, en línea con la inflación de agosto, que se suma al bono extraordinario de $ 70.000 para quienes cobran la mínima. Para una empresa: la evolución del poder adquisitivo de los jubilados es un termómetro directo del consumo masivo en artículos para el hogar.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/jubilados-con-la-minima-cuanto-cobraran-en-octubre-con-el-aumento-de-anses/",
+     "imagen": "https://www.cronista.com/resizer/v2/2YVD2NENGBBDPCHFGO7FWKX24A.png?auth=21cea0a0f493eff134b5b3906d218f4a6e3837191c6a67be13fc0c3a82c8b3f5&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:15",
+     "autor": "",
+     "titulo_original": "Jubilados con la mínima: cuánto cobrarán en octubre con el aumento de ANSES"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "los servicios dieron un giro y ahora suben por encima de la inflación general",
+     "resumen": "El ajuste de los últimos meses disparó el valor de servicios esenciales, con diferencias marcadas entre sectores, en un fenómeno que agrava la tensión social por la pérdida de poder adquisitivo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/464489-servicios-dejaron-de-estar-retrasados-respecto-a-la-inflacion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611715.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:14",
+     "autor": "",
+     "titulo_original": "Servicios dieron un vuelco impensado y ahora azotan con subas que superan a la inflación"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-06",
+     "titulo": "el CEO de Nvidia explicó por qué la inteligencia artificial llevará a plomeros y electricistas a sueldos altos",
+     "resumen": "Jensen Huang, uno de los máximos referentes tecnológicos del mundo, planteó que los oficios manuales ganarán valor relativo a medida que la inteligencia artificial automatice tareas de escritorio, un dato a considerar para la planificación de recursos humanos en los próximos años.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464591-el-ceo-de-nvidia-explico-por-que-la-ia-llevara-a-plomeros-o-electricistas-a-sueldos-altos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/02/490935.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:38",
+     "autor": "",
+     "titulo_original": "El CEO de Nvidia explicó por qué la IA llevará a plomeros o electricistas a sueldos altos"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "Apple, Microsoft y Amazon gastan como nunca en centros de datos, y Wall Street empieza a pedir resultados",
+     "resumen": "El gasto de capital de los seis grandes de la tecnología (Apple, Amazon, Alphabet, Meta, Microsoft y Oracle) ya representa la mitad de toda la inversión de capital del S&P 500, según un informe de Balanz. La discusión en Wall Street ya no pasa por cuánto invierten sino por si ese desembolso generará ganancias suficientes para justificarlo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/apple-microsoft-y-amazon-gastan-como-nunca-como-entender-cuando-van-a-dar-ganancias-que-valgan-la-pena/",
+     "imagen": "https://www.cronista.com/resizer/v2/P5DT74YJPNFQXHQNYOMAINEN2U.jpg?auth=b623849e692a25632e83622903342a960181fcbee479f7f71fdd23252c2b0b18&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:00",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Apple, Microsoft y Amazon gastan como nunca: cómo entender cuándo van a dar ganancias que valgan la pena"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "Estados Unidos reconoció por primera vez que tiene armas de control espacial en órbita",
+     "resumen": "El secretario de la Fuerza Aérea, Troy Meink, confirmó que la Space Force cuenta con sistemas desplegados en órbita capaces de defender a las fuerzas estadounidenses frente a acciones hostiles, aunque no detalló su número, ubicación ni si se trata de armas cinéticas o no cinéticas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/16/estados-unidos-reconoce-por-primera-vez-que-tiene-armas-de-control-espacial-en-orbita-que-se-sabe-sobre-sus-capacidades/",
+     "imagen": "https://www.infobae.com/resizer/v2/AULHPEJXMVHVJNWFB4DWKVUCQE.jpg?auth=081a7a29dc6c4d8215259319900da59386f5994e250e7c86751c05a02eed7267&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:57",
+     "autor": "Nicolás Sturtz",
+     "titulo_original": "Estados Unidos reconoce por primera vez que tiene armas de control espacial en órbita: qué se sabe sobre sus capacidades"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "un informe de la ONU concluye que el aparato represivo de Venezuela sigue intacto",
+     "resumen": "Una investigación de la ONU determinó que el aparato represivo venezolano permanece prácticamente intacto tras la destitución de Nicolás Maduro, capturado por Estados Unidos para ser juzgado por narcotráfico. La oposición liderada por María Corina Machado enfrenta un dilema sobre cuándo regresar al país, mientras pierde popularidad.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-aparato-represivo-de-venezuela-continua-intacto-segun-un-informe-de-la-onu-mientras-corina-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DU6CQEGBYRAXNFIXPADYWVNMVA.png?auth=0622745c124b7ebbe85eda5e1334223b2bec1e143cb66dbc354d0727fc881f22&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:54",
+     "autor": "",
+     "titulo_original": "El aparato represivo de Venezuela continúa “intacto”, según un informe de la ONU, mientras Corina Machado evalúa su regreso"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "el petrolero más cercano a Trump anuncia una inversión en Venezuela",
+     "resumen": "Harold Hamm, dueño de Continental Resources, dijo que su empresa firmó un memorando de entendimiento con la estatal PDVSA para desarrollar un yacimiento en la Faja del Orinoco, en momentos en que Estados Unidos aumenta su control sobre los recursos naturales venezolanos. La vicepresidenta Delcy Rodríguez calificó el acuerdo como un paso para el desarrollo del país.",
+     "relacionadas": [
+      {
+       "id": "CL-06",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Delcy Rodríguez afirma que acuerdo con Continental es un paso para desarrollo de Venezuela",
+       "url": "https://www.clarin.com/estados-unidos/delcy-rodriguez-afirma-que-acuerdo-con-continental-es-un-paso-para-desarrollo-de-venezuela_0_Gts5Mjf1Jw.html"
+      }
+     ],
+     "url": "https://www.cronista.com/financial-times/ni-chevron-ni-exxon-el-aliado-petrolero-mas-poderoso-de-trump-invertira-en-venezuela/",
+     "imagen": "https://www.cronista.com/resizer/v2/4WC5S2S7LZF4HGTBOXEGZWBB4M.jpg?auth=3ce0d3f43bd715eae7dbc7669db08b7de7ac3ec426be2ac0daf85497a251df68&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:50",
+     "autor": "Stephanie Findlay, Jamie Smyth",
+     "titulo_original": "Ni Chevron ni Exxon: el aliado petrolero más poderoso de Trump invertirá en Venezuela"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Francia registró casi 8.000 muertes adicionales durante el verano más caluroso desde 1900",
+     "resumen": "Las autoridades sanitarias francesas informaron 53 días de ola de calor entre junio y agosto, una cifra sin precedentes, en el verano boreal más caluroso desde que existen registros.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/francia-registro-8000-muertes-adicionales-verano-abrasador-2026_0_ITmHKwi0KH.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/fKpCFCP0P_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Francia registró casi 8.000 muertes adicionales durante el verano abrasador de 2026"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "Meloni eliminó uno de los impuestos más odiados de Italia en plena debilidad de su coalición",
+     "resumen": "La primera ministra italiana anunció que eliminará el \"bollo auto\", el impuesto de circulación para 14,5 millones de autos y motos, a un costo de más de 2.000 millones de euros para las arcas públicas. La oposición la acusó de \"demagogia electoral\".",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/meloni-suprime-el-impuesto-de-circulacion-para-la-mayoria-de-los-autos-a-medida-que-se-acercan-las-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5Q6FDNPHNFHIZDNYIPABMJIVMI.JPG?auth=1af38b6578075dbf8acc5174fc195f43d0f28935f1147277acd2111ff5e1b948&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:56",
+     "autor": "Elisabetta Piqué",
+     "titulo_original": "Meloni canceló uno de los “impuestos más odiados” y la acusaron de de “demagogia electoral”"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent publicó dos artículos nuevos en esta corrida, ambos centrados en la Unión Europea y su relación con Estados Unidos y Rusia.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza el discurso de Von der Leyen sobre la soberanía europea",
+     "resumen": "En su séptimo discurso sobre el estado de la Unión, pronunciado en Estrasburgo, Ursula von der Leyen sostuvo que \"la Unión nunca ha sido tan fuerte\" pero que también \"puede parecer más precaria que nunca\", una frase que la revista describe como el eje narrativo de su segundo mandato.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/16/solo-europa-puede-garantizar-la-soberania-de-los-europeos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:18",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Solo Europa puede garantizar realmente la soberanía de los europeos"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "el Congreso de Estados Unidos vota si darle a Trump más poder para sancionar a Rusia con aranceles",
+     "resumen": "La Cámara de Representantes debía votar este miércoles un proyecto que dotaría al presidente de nuevas herramientas para imponer aranceles de hasta 100% a los principales importadores de energía rusa, ya aprobado en el Senado con amplio respaldo bipartidista pero resistido por buena parte de los demócratas.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/16/apuntar-rusia-congreso-estadounidense-nuevos-poderes-trump-aranceles/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:13",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Al apuntar a Rusia, ¿va a otorgar el Congreso estadounidense nuevos poderes a Trump en materia de aranceles?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-10",
+     "titulo": "Mara Kucharski dio el batacazo en skeet y le ganó el oro a la campeona olímpica",
+     "resumen": "La tiradora argentina, de 20 años y nacida en Olivos, se consagró campeona en skeet femenino en los Juegos Suramericanos con 26 aciertos, dos puntos por encima de la chilena Francisca Crovetto, campeona olímpica vigente en París 2024.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La increíble vuelta al sol de Mara Kucharski: compite hace un año y le ganó la medalla dorada a la campeona olímpica de tiro en los Juegos Suramericanos",
+       "url": "https://www.clarin.com/deportes/increible-vuelta-sol-mara-kucharski-compite-hace-ano-gano-medalla-dorada-campeona-olimpica-tiro-juegos-suramericanos_0_l04h7Ep5XP.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/mara-kucharski-dio-el-gran-golpe-en-skeet-vencio-a-la-campeona-olimpica-y-conquisto-otro-oro-para-la-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NG7AH6MJ7RE6NM6DMGE7I72K54.jpg?auth=82054db7ab48bcc4092f6cbfb06caef7eac918670c9c8eab2189ba3d9ee72c7b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:52",
+     "autor": "",
+     "titulo_original": "Mara Kucharski dio el gran golpe en skeet: venció a la campeona olímpica y conquistó otro oro para la Argentina"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Lionel Messi se despedirá de la Selección argentina el 6 de octubre ante Benín",
+     "resumen": "La AFA confirmó que Messi se quitará oficialmente la cinta de capitán en un amistoso frente a Benín en el estadio Monumental y compartió un video llamado \"El último tango\" para palpitar el cierre de su ciclo con la Selección.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La emocionante carta que subió un ayudante de Lionel Scaloni ante la despedida de Lionel Messi de la Selección argentina",
+       "url": "https://www.ambito.com/deportes/la-emocionante-carta-que-subio-un-ayudante-lionel-scaloni-la-despedida-lionel-messi-la-seleccion-argentina-n6323141"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/el-ultimo-tango-el-emotivo-video-que-compartio-la-afa-por-el-partido-de-despedida-de-messi-en-el-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XU4QBNNN6JDZ5GGHET4F2RBXWY.png?auth=3d34f7568b9dc8e5de88ce8a7dadd7a23851a83ba705f82dfe3d0e1fd8d552a7&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:34",
+     "autor": "",
+     "titulo_original": "“El Último Tango”: el emotivo video que compartió la AFA por el partido de despedida de Messi en el Monumental"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Estudiantes visita a Corinthians por el pase a semifinales de la Copa Libertadores",
+     "resumen": "El encuentro de vuelta de cuartos de final se juega este miércoles a las 21.30 en el Neo Química Arena de San Pablo, con arbitraje del venezolano Jesús Valenzuela, y se puede ver por Fox Sports y por streaming en Disney+ Premium.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-corinthians-vs-estudiantes-por-la-copa-libertadores-2026-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5WWAMDR4HBDOLE53BEHBOIHEV4.JPG?auth=53563f7e9aab3070a848db3e5ff76527259e782f16e2508d6d54ee30c378e9f7&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:18",
+     "autor": "",
+     "titulo_original": "En qué canal pasan Corinthians vs. Estudiantes, por la Copa Libertadores 2026"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "la Selección argentina de tenis recibe a Turquía por la Copa Davis el fin de semana",
+     "resumen": "El equipo capitaneado por Javier Frana jugará el sábado 19 y el domingo 20 de septiembre en el estadio Ruca Che de Neuquén, en cancha de cemento y bajo techo, con el objetivo de volver a los Qualifiers de 2027.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/copa-davis-2026-cuando-es-y-donde-juega-la-argentina-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5JHSANRNNNHVREEVWOWKQMFOTQ.jpg?auth=694998cb4aef0e13ab7064d92604d40943d26dc61dacf1be51ffedc1a26f6b91&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:42",
+     "autor": "",
+     "titulo_original": "Copa Davis 2026: cuándo es y dónde juega la Argentina"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "River presentó ante la Justicia el proyecto para techar el Monumental y llevarlo a 101.000 espectadores",
+     "resumen": "Dirigentes del club expusieron ante jueces y fiscales los detalles de la megaobra, que contempla la edificación de una quinta bandeja perimetral y una cubierta integral para el estadio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/megaobra-monumental-river-presento-justicia-proyecto-techar-estadio-llevarlo-101-mil-espectadores_0_GlZdXFc5lD.html",
+     "imagen": "https://www.clarin.com/img/2025/09/10/Fe-YVwPQ7_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Megaobra en el Monumental: River presentó ante la Justicia el proyecto para techar el estadio y llevarlo a 101 mil espectadores"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "Atlético de Madrid goleó a Osasuna y Simeone sigue elogiando a Cuti Romero",
+     "resumen": "El equipo de Diego Simeone venció 4-0 a Osasuna con dos refuerzos ofensivos como goleadores, tras el 3-0 de la fecha anterior ante Real Sociedad. El domingo podría reaparecer Julián Álvarez en el derbi frente al Real Madrid.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/atletico-de-madrid-goleo-espera-a-alvarez-para-el-derbi-con-real-madrid-y-simeone-no-deja-de-elogiar-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PPUJX55TKJHXXHNOG7UNQ7INAA.jpg?auth=34fa4e535201c9260edaf22b19356471e65407aeebb27da37070f6a66f593859&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:55",
+     "autor": "",
+     "titulo_original": "Atlético de Madrid goleó, espera a Alvarez para el derbi con Real Madrid y Simeone no deja de elogiar a Cuti Romero"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "la Justicia investigará el patrimonio de Chiqui Tapia, presidente de la AFA",
+     "resumen": "El juez federal Ariel Lijo autorizó 20 medidas pedidas por el fiscal Gerardo Pollicita para reconstruir la evolución patrimonial del titular de la AFA.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/464572-chiqui-tapia-complicado-justicia-argentina-investigara-su-mega-patromonio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/02/490483.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:35",
+     "autor": "",
+     "titulo_original": "Chiqui Tapia, complicado: la Justicia investigará su patromonio"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "un hostel de Puerto Iguazú ofrece alojamiento gratis a cambio de cinco horas diarias de trabajo",
+     "resumen": "El establecimiento, cercano a las Cataratas del Iguazú, busca voluntarios dispuestos a colaborar cinco horas por día durante al menos tres semanas, con el requisito de manejar inglés.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/464597-viajar-a-cataratas-y-dormir-gratis-buscan-voluntarios-para-hostel-de-puerto-iguazu",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/12/563569.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:25",
+     "autor": "",
+     "titulo_original": "Buscan voluntarios para un hostel cerca de las Cataratas y ofrecen alojamiento gratis"
+    }
+   ],
+   "id": "turismo"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del miércoles 16 de septiembre. El panorama del día estuvo marcado por la suba de tasas de la Reserva Federal de Estados Unidos, la aceleración de la inflación mayorista en la Argentina y el freno judicial a un proyecto petrolero británico en las Islas Malvinas, mientras el Presupuesto dos mil veintisiete sigue generando tensiones dentro del oficialismo y con sus aliados. El dólar oficial cerró en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos sesenta pesos, el oro cotiza en cuatro mil trescientos un dólares la onza y el riesgo país se mantiene por encima de los quinientos puntos, mientras la inflación de agosto quedó en uno coma siete por ciento mensual y treinta y tres coma cinco por ciento interanual. En política, una jueza federal de Río Grande, en Tierra del Fuego, ordenó frenar la explotación petrolera del proyecto Sea Lion en aguas cercanas a las Islas Malvinas, al hacer lugar a una medida cautelar presentada por organizaciones ambientalistas y de excombatientes, en un fallo que alcanza a las empresas Rockhopper Exploration y Navitas Petroleum. El Gobierno, además, oficializó una reforma en la Side y confirmó la salida de Tata Yofre al frente de la escuela de espías, que será reemplazado por el politólogo Fabián Calle. La tensión por el Presupuesto siguió escalando: el oficialismo amenaza con derogar artículos centrales de la ley de Emergencia en Discapacidad, lo que generó malestar entre los propios diputados libertarios y sus aliados. En el Senado, en tanto, se postergó el tratamiento de la reforma del Banco Central, el tema que más le importa al Presidente, aunque sí avanzan los proyectos de Inocencia Fiscal y de biocombustibles. El fondo Burford Capital, que ya había ganado un juicio por la estatización de YPF, escaló su reclamo y demandó a la Argentina ante el Ciadi, el tribunal arbitral del Banco Mundial. Y Chile anunció que enviará una nota de protesta por unas declaraciones de la ministra Patricia Bullrich sobre el estrecho de Magallanes. En economía y mercados, la inflación mayorista de agosto se aceleró a dos coma uno por ciento, el nivel más alto desde mayo, impulsada por la suba del petróleo tras el conflicto en Medio Oriente, y quedó por encima de la inflación minorista. La Reserva Federal de Estados Unidos subió su tasa de interés de referencia por primera vez desde dos mil veintitrés, un cuarto de punto, en una decisión que el propio banco central definió como necesaria porque la inflación estadounidense es, según sus palabras, demasiado alta durante demasiado tiempo. La suba encarece además el financiamiento de la deuda argentina, en un contexto de fuerte suba de los rendimientos de los bonos del Tesoro estadounidense. El riesgo país se mantiene por encima de los quinientos puntos mientras el mercado analiza los supuestos del Presupuesto, que prevé un dólar promedio de mil ochocientos cuarenta y siete pesos para el año que viene, una cifra distinta a la de mil setecientos veintiocho pesos que había difundido el propio Gobierno horas antes. La consultora Abeceb proyecta que las exportaciones mineras argentinas pasarán de diez mil millones de dólares este año a treinta y cinco mil millones en dos mil treinta y cinco, aunque el país todavía corre muy atrás de Chile y Perú en participación del sector sobre el producto bruto. Y un profesor de Harvard, distinguido esta semana por la Universidad de Buenos Aires, advirtió sobre el riesgo de que la Argentina vuelva a caer en el proteccionismo. En negocios y empresas, Granja Tres Arroyos, la mayor avícola del país, se presentó formalmente en concurso preventivo con una deuda que supera los ciento veintiséis mil millones de pesos, y atribuyó su crisis al ingreso de pollo importado y al cierre de mercados externos. YPF lidera un pool petrolero que sale a buscar hasta trescientos millones de dólares para la obra que conectará Vaca Muerta con el puerto de Punta Colorada, mientras Neuquén exige a las petroleras asegurar el transporte del crudo antes de otorgar nuevas áreas. El Presupuesto, además, abre beneficios fiscales para atraer inversión privada en rutas nacionales. Y mientras el tráfico aéreo se recupera en América Latina, la Argentina pierde posiciones en el ranking regional. En impuestos, laboral y normativa, el Gobierno habilitó nuevas inversiones para los Fondos de Asistencia Laboral, que empezarán a operar desde noviembre y podrán invertir en obligaciones de bancos públicos y plazos fijos. Un especialista en agronegocios advirtió que las retenciones seguirán golpeando a la inversión en el campo el año que viene. Y el Presupuesto elimina la actualización automática por inflación de la Asignación Universal por Hijo y de las asignaciones familiares, un beneficio que hoy alcanza a más de nueve millones de personas. En consumo, construcción y retail, Electrolux está en alerta por el ingreso de lavarropas importados desde China, una definición que pone en duda el futuro de su fabricación en Rosario. Las tiny houses ganan terreno en el país como alternativa de vivienda más chica y más rápida de construir. El precio del metro cuadrado en la Ciudad de Buenos Aires subió apenas uno coma uno por ciento en lo que va del año, y los jubilados con la mínima cobrarán quinientos cinco mil novecientos diecinueve pesos en octubre, con el aumento de la Anses. Además, los servicios dieron un giro y ahora suben por encima de la inflación general. En management y finanzas corporativas, el CEO de Nvidia explicó por qué la inteligencia artificial llevará a oficios como la plomería y la electricidad a pagar sueldos altos, mientras un informe de Balanz mostró que Apple, Microsoft y Amazon gastan como nunca en centros de datos, al punto de que Wall Street empieza a exigir resultados que justifiquen esa inversión. En el mundo, Estados Unidos reconoció por primera vez que tiene armas de control espacial desplegadas en órbita. Un informe de la ONU concluyó que el aparato represivo de Venezuela sigue intacto tras la destitución de Nicolás Maduro, mientras la oposición que lidera María Corina Machado evalúa su regreso al país. El empresario petrolero Harold Hamm, aliado de Donald Trump, anunció una inversión de su compañía Continental Resources en Venezuela. Francia registró casi ocho mil muertes adicionales durante el verano más caluroso desde mil novecientos. Y la primera ministra italiana Giorgia Meloni eliminó uno de los impuestos más odiados del país, el llamado bollo auto, en medio de acusaciones de demagogia electoral. Le Grand Continent analiza el séptimo discurso sobre el estado de la Unión de Ursula von der Leyen, en el que sostuvo que la Unión Europea nunca fue tan fuerte pero también puede parecer más precaria que nunca. Y la Cámara de Representantes de Estados Unidos debía votar hoy si darle a Donald Trump nuevas herramientas para imponer aranceles de hasta cien por ciento a los principales importadores de energía rusa. En deportes, la AFA confirmó que Lionel Messi se despedirá de la Selección argentina el seis de octubre, en un amistoso frente a Benín en el estadio Monumental. Mara Kucharski ganó una nueva medalla dorada para la Argentina al imponerse en skeet en los Juegos Suramericanos, superando a la campeona olímpica vigente. Estudiantes de La Plata visita hoy a Corinthians por los cuartos de final de la Copa Libertadores, y la Selección de tenis recibirá a Turquía el fin de semana por la Copa Davis. River presentó ante la Justicia el proyecto para techar el Monumental y llevarlo a ciento un mil espectadores. El Atlético de Madrid de Diego Simeone goleó a Osasuna y sigue elogiando a Cuti Romero. Y la Justicia investigará el patrimonio de Chiqui Tapia, presidente de la AFA. En turismo, un hostel de Puerto Iguazú, cerca de las Cataratas, ofrece alojamiento gratuito a quienes quieran colaborar cinco horas por día durante al menos tres semanas. Eso fue todo por ahora. Mañana a las siete, la próxima edición.",
+ "notas_del_editor": "Sin novedades de Franco Colapinto ni de Club Atlético Tigre en el material de esta corrida; no se los menciona. La sección Europa y geopolítica quedó con solo 2 notas porque el material crudo de Le Grand Continent en esta ventana de 6 horas solo trajo dos artículos, ambos nuevos respecto de la edición del mediodía. La sección Sociedad se omitió: el material disponible en esta corrida era de bajo interés para el lector (incidentes locales, notas de espectáculo) y no aportaba novedades relevantes.",
+ "slug": "2026-09-16-tarde",
+ "generado_ba": "16/09/2026 21:11"
+}
