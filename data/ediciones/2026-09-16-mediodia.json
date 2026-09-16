@@ -1,0 +1,819 @@
+{
+ "fecha": "2026-09-16",
+ "edicion": "mediodia",
+ "titulo": "Consumo en baja, la Fed decide tasas y crece la tensión por Malvinas",
+ "apertura": "El consumo masivo cayó 4,9% interanual en agosto y acumula nueve meses de baja, mientras la Reserva Federal de Estados Unidos definirá hoy si sube las tasas de interés por primera vez desde 2023. La tensión diplomática por las Islas Malvinas escaló con un posible encuentro entre Trump y Burnham en la ONU y el respaldo explícito de China a la Argentina, en paralelo a un nuevo escándalo de corrupción en la Armada. En el plano deportivo, la clasificación de Boca a semifinales de la Copa Sudamericana dejó incidentes con San Pablo en el Morumbí.",
+ "claves": [
+  "El consumo masivo cayó 4,9% interanual en agosto y encadenó nueve meses consecutivos de baja, según un relevamiento difundido por Ámbito.",
+  "La Reserva Federal de Estados Unidos definirá hoy una suba de tasas de interés por primera vez desde 2023, con una probabilidad cercana al 92,5% según el mercado.",
+  "El Gobierno precisó que el Presupuesto 2027 proyecta un dólar promedio de $ 1.728 para el año, mientras el mercado privado espera $ 1.847,60 para diciembre.",
+  "China ratificó su respaldo a la Argentina por el reclamo de soberanía sobre las Islas Malvinas, en medio de la escalada diplomática con Reino Unido.",
+  "La Justicia investiga maniobras fraudulentas por $ 1.600 millones en el pago de haberes del personal naval de la Armada.",
+  "ARCA amplió desde octubre la obligatoriedad del débito directo para pagar cuotas de planes de facilidades de $ 100 millones o más.",
+  "La UOM firmó con la automotriz Foton el segundo convenio de banco de horas del sector, tras la reforma laboral.",
+  "Boca clasificó a semifinales de la Copa Sudamericana en medio de incidentes con San Pablo; Colidio no podrá jugar la revancha para Vasco da Gama."
+ ],
+ "cifras": [
+  {
+   "nombre": "Consumo masivo (agosto, interanual)",
+   "valor": "-4,9%",
+   "variacion": "9° mes consecutivo de baja",
+   "fuente": "AM-12"
+  },
+  {
+   "nombre": "Alquiler promedio 2 ambientes en CABA",
+   "valor": "$ 886.527",
+   "variacion": "+1,5% mensual",
+   "fuente": "CR-04"
+  },
+  {
+   "nombre": "Crédito al sector privado a familias (real, i.a.)",
+   "valor": "+10,1%",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Probabilidad de suba de tasas de la Fed hoy",
+   "valor": "92,5%",
+   "fuente": "CR-23"
+  },
+  {
+   "nombre": "Bono para empleadas domésticas",
+   "valor": "hasta $ 20.000",
+   "fuente": "IP-09"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-23",
+     "titulo": "escándalo en la Armada por maniobras fraudulentas de $ 1.600 millones en el pago de haberes",
+     "resumen": "La Justicia federal investiga una denuncia sobre maniobras fraudulentas en la liquidación de haberes del personal naval, que comprendería manejos irregulares por unos $ 1.600 millones. El fraude fue advertido por una teniente de navío, contadora pública, que se desempeña en el área de liquidación de sueldos, y la denuncia fue presentada finalmente por el jefe del servicio contable de la Armada, capitán de navío Carlos Alberto Castro Maggio.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/escandalo-en-la-armada-la-justicia-investiga-maniobras-fraudulentas-por-1600-millones-en-el-pago-de-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/W56PR4QVSFBU7IYMXUVRJWNQGM.jpeg?auth=c1885030cf7695411b153c69c73ee5567db45e7cc6b32e8193120a806936105d&smart=true&width=900&height=534",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:54",
+     "autor": "Mariano De Vedia",
+     "titulo_original": "Escándalo en la Armada: la Justicia investiga maniobras fraudulentas por $1600 millones en el pago de haberes del personal naval"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "China ratificó su apoyo a la Argentina por el reclamo de soberanía sobre las Islas Malvinas",
+     "resumen": "El embajador chino en la Argentina reafirmó el respaldo de Beijing al reclamo argentino frente a Reino Unido, durante los festejos por el 77° aniversario de la República Popular China. El gigante asiático, que mantiene su propia disputa territorial con Taiwán, se manifestó en contra del principio de autodeterminación como salida al conflicto.",
+     "relacionadas": [
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "En medio de la tensión por las Malvinas, Trump y Burnham podrían reunirse por primera vez en la cumbre de la ONU",
+       "url": "https://www.infobae.com/politica/2026/09/16/en-medio-de-la-tension-por-las-malvinas-trump-y-burnham-podrian-reunirse-por-primera-vez-en-la-cumbre-de-la-onu/"
+      }
+     ],
+     "url": "https://www.ambito.com/mundo/china-ratifico-su-apoyo-argentina-el-reclamo-soberania-las-islas-malvinas-reino-unido-n6322957",
+     "imagen": "https://media.ambito.com/p/55cc4bdeb46446e88baee3e8793bcd2f/adjuntos/239/imagenes/043/551/0043551795/1200x675/705x238:725x258/milei-xi-jinping.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:57",
+     "autor": "",
+     "titulo_original": "China ratificó su apoyo a Argentina por el reclamo de soberanía sobre las Islas Malvinas con Reino Unido"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Trump y Burnham podrían reunirse por primera vez en la ONU en medio de la tensión por Malvinas",
+     "resumen": "El primer ministro británico, Andy Burnham, y el presidente de Estados Unidos, Donald Trump, podrían tener su primer encuentro la semana próxima en Nueva York, al margen de la Asamblea General de la ONU, según medios británicos. La reunión, aún sin confirmación oficial, se da en un momento de escalada entre Londres y Washington sobre la soberanía de las Islas Malvinas, además de los conflictos por Irán, Ucrania e inteligencia artificial.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "China ratificó su apoyo a Argentina por el reclamo de soberanía sobre las Islas Malvinas con Reino Unido",
+       "url": "https://www.ambito.com/mundo/china-ratifico-su-apoyo-argentina-el-reclamo-soberania-las-islas-malvinas-reino-unido-n6322957"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/16/en-medio-de-la-tension-por-las-malvinas-trump-y-burnham-podrian-reunirse-por-primera-vez-en-la-cumbre-de-la-onu/",
+     "imagen": "https://www.infobae.com/resizer/v2/OVU3MGWWHZEELHMR6754DET7JI.JPG?auth=52bf88917998c5addeb337cbe7347a9b4e66c762b80ef6893f498adee073711e&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:05",
+     "autor": "",
+     "titulo_original": "En medio de la tensión por las Malvinas, Trump y Burnham podrían reunirse por primera vez en la cumbre de la ONU"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "el oficialismo sigue sin los votos para llevar a dictamen la reforma política que elimina las PASO",
+     "resumen": "En la comisión de Asuntos Constitucionales del Senado, el bloque libertario sostuvo la posición del Ejecutivo de mantener unificado el proyecto de reforma política, mientras los aliados reclaman discutir por separado el proyecto de Ficha Limpia y el peronismo insiste en debatir primero los puntos con consenso.",
+     "relacionadas": [
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El jefe de LLA en Diputados adelantó cómo será la negociación por el Presupuesto",
+       "url": "https://www.infobae.com/politica/2026/09/16/el-jefe-de-lla-en-diputados-adelanto-como-sera-la-negociacion-por-el-presupuesto/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/reforma-politica-el-oficialismo-deja-en-manos-de-santilli-conseguir-los-votos-para-eliminar-las-paso/",
+     "imagen": "https://www.cronista.com/resizer/v2/UC727LVOEFGRFFW7J4WHQF2AUM.jpg?auth=0b6bd9fb5ba04e1e57b27c9de35c903b759421bfcfe651d5c0441f4f77458c5f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:20",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Reforma política: el oficialismo deja en manos de Santilli conseguir los votos para eliminar las PASO"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Bornoroni adelantó cómo negociará el Gobierno el Presupuesto en Diputados",
+     "resumen": "El jefe del bloque de La Libertad Avanza en Diputados, Gabriel Bornoroni, anticipó que el oficialismo buscará abrir el debate del Presupuesto 2027 con las distintas bancadas y negociar las partidas para provincias, salud, educación y obras viales. También ratificó que la suspensión de las PASO sigue entre las prioridades del bloque libertario.",
+     "relacionadas": [
+      {
+       "id": "CR-16",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Reforma política: el oficialismo deja en manos de Santilli conseguir los votos para eliminar las PASO",
+       "url": "https://www.cronista.com/economia-politica/reforma-politica-el-oficialismo-deja-en-manos-de-santilli-conseguir-los-votos-para-eliminar-las-paso/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/16/el-jefe-de-lla-en-diputados-adelanto-como-sera-la-negociacion-por-el-presupuesto/",
+     "imagen": "https://www.infobae.com/resizer/v2/RNHEIE4QCNCKRHS4BPVBRBZC3M.png?auth=6d235d79b4fac3358bbfdf5aa6912ef94a1fa519494f4b6e09a0560dae8dc431&smart=true&width=900&height=524",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:27",
+     "autor": "Brisa Bujakiewicz",
+     "titulo_original": "El jefe de LLA en Diputados adelantó cómo será la negociación por el Presupuesto"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "se cumplen 50 años de la Noche de los Lápices en medio de una polémica entre Kicillof y organizaciones estudiantiles",
+     "resumen": "Estudiantes secundarios, sobrevivientes y organismos de derechos humanos conmemoran este miércoles en La Plata los 50 años de la Noche de los Lápices, el operativo represivo de la dictadura que secuestró y desapareció a estudiantes secundarios en septiembre de 1976. En paralelo, una organización ligada a La Cámpora acusó al gobierno de Axel Kicillof de no cubrir, como en años anteriores, el costo de movilización para el acto central, en medio de la interna con el sector de Cristina Kirchner.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Se cumplen 50 años de La Noche de los Lápices este miércoles 16 de septiembre",
+       "url": "https://www.lanacion.com.ar/cultura/se-cumplen-50-anos-de-la-noche-de-los-lapices-este-miercoles-16-de-septiembre-nid16092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/envio-presupuesto-reactivar-reforma-electoral-gobierno-acelera-operativo-seducir-gobernadores_0_QqZ9xuzp6l.html",
+     "imagen": "https://www.clarin.com/img/2026/08/12/txFDocdnv_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:42",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras el envío del Presupuesto y reactivar la reforma electoral, el Gobierno acelera un operativo para seducir gobernadores"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "el Gobierno detalló que el Presupuesto 2027 proyecta un dólar promedio de $ 1.728 para el año",
+     "resumen": "Según la síntesis oficial del Presupuesto 2027, el Gobierno estima un tipo de cambio promedio anual de $ 1.728, cifra que el equipo económico define como un cálculo entre el dólar actual y la inflación proyectada, y no como una predicción. El número difiere de lo que espera el mercado privado, que según El Cronista proyecta un dólar de $ 1.847,60 para diciembre de 2027.",
+     "relacionadas": [
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Benín, el último rival de Messi con la selección: dónde queda, sus años como reino y el rol de “Los Guepardos”",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/benin-el-ultimo-rival-de-messi-con-la-seleccion-donde-queda-sus-anos-como-reino-y-el-rol-de-los-nid16092026/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-gobierno-apuesta-a-mantener-un-dolar-planchado-para-el-ano-electoral-que-espera-el-mercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/3VEO3M7IBFFO5NL6UIU4XQWIAY.jpg?auth=3e0b258e6d2bb7983c289bc54f2ed0e240af224204ea048cb5473503b9738825&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:53",
+     "autor": "",
+     "titulo_original": "El Gobierno apuesta a mantener un dólar “planchado” para el año electoral: qué espera el mercado"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "qué impacto tendría en la Argentina la suba de tasas que hoy definiría la Reserva Federal",
+     "resumen": "Se espera que la Reserva Federal de Estados Unidos suba hoy las tasas de interés por primera vez desde 2023, motivada por una inflación que se mantiene alta, en una decisión que iría en contra de lo que esperaba Donald Trump cuando designó a Kevin Warsh al frente del banco central. Analistas siguen de cerca cómo describirá Warsh el primer giro de política monetaria bajo su mandato, por el impacto que puede tener sobre el financiamiento de mercados emergentes como la Argentina.",
+     "relacionadas": [
+      {
+       "id": "CR-26",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Llega una noticia clave de EE.UU: en un mercado global tensionado, la Fed volvería a subir hoy las tasas",
+       "url": "https://www.cronista.com/finanzas-mercados/en-un-mercado-global-tensionado-la-fed-volvera-a-subir-hoy-las-tasas/"
+      },
+      {
+       "id": "CR-23",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Clave para los Cedear: Wall Street descuenta una suba de tasas, ¿cómo impactará en las inversiones?",
+       "url": "https://www.cronista.com/finanzas-mercados/clave-para-los-ceder-wall-street-descuenta-una-suba-de-tasas-como-impactara-en-las-inversiones/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/16/cual-podria-ser-el-impacto-en-la-argentina-de-la-decision-de-tasas-que-hoy-tomara-la-reserva-federal-de-eeuu/",
+     "imagen": "https://www.infobae.com/resizer/v2/Z5CDBNQPTNFQXCSNTFHEA6GVDE.JPG?auth=12cdeaaeb8bf428f94ac32529604e00f6f510c900dce0bf4c992532e2a52de1f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:57",
+     "autor": "",
+     "titulo_original": "Cuál podría ser el impacto en la Argentina de la decisión de tasas que hoy tomará la Reserva Federal de EEUU"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "suben las acciones y rebotan los bonos argentinos a la espera de la decisión de la Fed",
+     "resumen": "Los mercados globales operan mayormente en terreno positivo este miércoles, aunque con cautela: el Nasdaq 100 avanza cerca de 0,5% y el S&P 500 gana 0,3% mientras los inversores esperan la decisión de tasas de la Reserva Federal, que podría aumentar la volatilidad en renta fija y acciones en las próximas jornadas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/suben-las-acciones-en-wall-street-y-rebotan-los-bonos-argentinos-a-la-espera-de-la-decision-de-la-fed/",
+     "imagen": "https://www.cronista.com/resizer/v2/FH4JW3RJ2NHVTK7HMMKL6JBRZ4.png?auth=4af7a2d6fc13e434861a6e3194d9bcf061774c07b028fa07de7f635620fdce60&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:34",
+     "autor": "Julián Yosovitch",
+     "titulo_original": "Suben las acciones y rebotan los bonos argentinos a la espera de la decisión de la Fed sobre las tasas"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Bank of America midió el ánimo inversor sobre la Argentina: expectativas entre neutrales y positivas",
+     "resumen": "Un relevamiento de Bank of America entre 30 administradores de fondos con unos US$ 90.000 millones bajo gestión mostró que las expectativas sobre los activos argentinos para los próximos seis meses se mantienen entre neutrales y positivas, con una caída en las respuestas negativas. El sondeo, conocido como LatAm Fund Manager Survey, es seguido de cerca por el mercado para anticipar el posicionamiento de los grandes fondos regionales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/bank-of-america-midio-el-animo-inversor-sobre-la-argentina-que-esperan-los-grandes-fondos-para-los-proximos-seis-meses/",
+     "imagen": "https://www.cronista.com/resizer/v2/36VBSLDVGRCJJFBJXYDDWT5WCA.png?auth=59047a91e72519e9195191b660a31cf0f5929527c9921b948aa0847f7b11671c&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:34",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Bank of America midió el ánimo inversor sobre la Argentina: qué esperan los grandes fondos para los próximos seis meses"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "el Tesoro cambió su estrategia financiera ante la inflación en baja y la actividad débil",
+     "resumen": "Según un informe de Santander Global Research del 15 de septiembre, el equipo económico dejó de concentrarse en patear vencimientos más allá de las elecciones de 2027 y ahora buscaría preservar la liquidez del sistema y evitar nuevos saltos en las tasas de interés. El banco considera que el giro podría favorecer una compresión de rendimientos en los bonos en pesos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/inflacion-en-baja-y-actividad-debil-el-giro-del-tesoro-que-puede-impulsar-a-los-bonos-en-pesos-segun-wall-street/",
+     "imagen": "https://www.cronista.com/resizer/v2/VKPKRUCXHFGQVMDZS477C26NJI.jpg?auth=282eca7579bee9befa36a35f6449bf412f98f63759ba1bf38a84fe1db546d6b8&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:17",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Inflación en baja y actividad débil: el giro del Tesoro que puede impulsar a los bonos en pesos, según Wall Street"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "pese al boom de inversión, energía y minería tienen menos empleo formal que al inicio del gobierno de Milei",
+     "resumen": "Los sectores vinculados a los recursos naturales aparecen entre los más dinámicos de la economía por inversión y producción, pero ese salto todavía no se tradujo en una creación masiva de puestos de trabajo registrados, que siguen por debajo del nivel de diciembre de 2023.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/energia/pese-al-boom-y-mineria-todavia-tienen-menos-empleo-formal-que-al-inicio-del-gobierno-javier-milei-n6322588",
+     "imagen": "https://media.ambito.com/p/f38e135ccd22b55f1e6301736162defb/adjuntos/239/imagenes/041/455/0041455793/1200x675/674x347:694x367/trabajadores-petroleros.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:06",
+     "autor": "",
+     "titulo_original": "Pese al boom, energía y minería todavía tienen menos empleo formal que al inicio del gobierno de Javier Milei"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-19",
+     "titulo": "crisis de Flybondi: la low cost reuniría los requisitos para presentar su concurso preventivo",
+     "resumen": "Flybondi se prepara para atravesar una de las semanas más delicadas de su historia: según El Cronista, la compañía habría cumplido con los requisitos necesarios para ultimar la presentación formal de su concurso preventivo, tras meses de cancelaciones, reducción de flota y reestructuración interna. La Justicia ya había habilitado una ejecución fiscal de ARCA por deudas tributarias y la ANAC logró embargar sus cuentas por falta de pago de tasas de seguridad aeroportuaria, que reclama $ 1.464 millones. Sus pasajeros migran principalmente hacia Aerolíneas Argentinas y JetSMART.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/crisis-de-flybondi-en-la-previa-del-concurso-el-ranking-de-las-aerolineas-que-ganan-con-la-baja-de-la-low-cost/",
+     "imagen": "https://www.cronista.com/resizer/v2/3MVMMGATYJAM5GWR2CCLV2HDAI.jpg?auth=eb368000c6193adc825a82e2c7644e8d88c62c6fd9d3d6f0c8112b354f2c6d01&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:02",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Crisis de Flybondi: en la previa del concurso, el ranking de las aerolíneas que ganan con la baja de la low cost"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "Buquebus y Colonia Express, otra vez enfrentados por una ruta de US$ 100 millones",
+     "resumen": "Las dos mayores navieras del cruce entre Montevideo y Buenos Aires quedaron enfrentadas por la habilitación de un nuevo servicio de Colonia Express, que obtuvo la autorización a fines de julio pero todavía no puede operar por un conflicto de acceso a infraestructura portuaria en Montevideo. El mercado en disputa mueve entre 800.000 y un millón de pasajeros por año y genera unos US$ 100 millones anuales, según fuentes del sector.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/buquebus-y-colonia-express-otra-vez-enfrentados-la-pelea-por-una-ruta-tapada-de-us-100-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/UGR72XCYYBCAVJMI3ODAMPX4DQ.png?auth=371b19e0fd390314a8d7a9fc74fb433f31811be92ffca1efb1a5782521f6a531&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:03",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Buquebus y Colonia Express, otra vez enfrentados: la pelea por una ruta “tapada” de u$s 100 millones"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "automotrices argentinas en alerta por la posibilidad de libre comercio bilateral entre Brasil y terceros países",
+     "resumen": "Renault pidió preservar la producción local ante la eventual apertura comercial bilateral que impulsa Brasil, que pondría en duda la vigencia del acuerdo automotor entre ambos países. La industria automotriz argentina, que depende en gran medida del mercado brasileño, sigue de cerca el desenlace de la negociación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/464509-argentina-prepara-libre-comercio-de-autos-con-brasil-y-empresas-piden-proteccion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608828.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:20",
+     "autor": "",
+     "titulo_original": "Automotrices argentinas están en alerta porque Brasil quiere libre comercio bilateral"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "fletes internacionales: la traba cambiaria que deja en desventaja a los operadores locales",
+     "resumen": "La Asociación Argentina de Agentes de Carga Internacional reclamó ante la Comisión de Comercio de Diputados que la normativa cambiaria del Banco Central, que habilitó el pago a la vista de la mercadería importada, no alcanzó a los fletes internacionales, lo que deja a los agentes de carga locales en desventaja frente a multinacionales. Para una empresa: la traba cambiaria sobre fletes es un costo adicional a considerar al planificar importaciones de insumos y mercadería.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/fletes-internacionales-la-traba-cambiaria-que-deja-en-desventaja-a-los-operadores-locales/",
+     "imagen": "https://www.cronista.com/resizer/v2/JMCGKS7UO5ADVICD2AP4FZGVBE.jpg?auth=ff70d135d402736d81ce4785186db5b4a235761932e25fa043ca29527d7f8210&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:51",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "Fletes internacionales: la traba cambiaria que deja en desventaja a los operadores locales"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "el Presupuesto 2027 abre la puerta a renovar los trenes con un régimen de beneficios impositivos",
+     "resumen": "El proyecto de Presupuesto 2027 incorpora un capítulo específico para el sistema ferroviario, con un amplio régimen de beneficios impositivos para importar trenes, repuestos, sistemas de señalamiento y equipamiento, tanto para el transporte de pasajeros como de cargas, con el objetivo de facilitar la renovación de la infraestructura sin encarecer los proyectos por la carga tributaria.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-abre-la-puerta-a-renovar-los-trenes-como-es-el-plan-ferroviario-del-presupuesto-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/FGIBLBX3DFGPBNJRGTHK42Y45Q.jpg?auth=0740fb217a14a02ee7bcc18bc46c857c2646ce0eb1eb20b8b90c75e26ac2074d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:16",
+     "autor": "Lucas González Monte",
+     "titulo_original": "El Gobierno abre la puerta a renovar los trenes: cómo es el “plan ferroviario” del Presupuesto 2027"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "AM-23",
+     "titulo": "ARCA modificó el pago de planes de facilidades y suma un nuevo requisito desde octubre",
+     "resumen": "La Agencia de Recaudación y Control Aduanero amplió el uso obligatorio del débito directo para cancelar cuotas de planes de facilidades de pago. El cambio alcanza también a las cuotas de $ 100 millones o más, que hasta ahora debían abonarse mediante transferencia electrónica, y rige desde octubre.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/arca-modifico-el-pago-planes-facilidades-y-establece-un-nuevo-requisito-octubre-n6322852",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:46",
+     "autor": "",
+     "titulo_original": "ARCA modificó el pago de planes de facilidades y establece un nuevo requisito desde octubre"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "arranca el primer banco de horas aprobado por la UOM en una segunda automotriz",
+     "resumen": "La conducción de la UOM, a cargo de una intervención judicial que desplazó al titular del gremio, firmó con FTN Motors, razón social de la automotriz china Foton en la Argentina, un nuevo convenio de banco de horas, el mecanismo que la reforma laboral habilitó para dar flexibilidad a la organización de las jornadas de trabajo. Es el segundo acuerdo de este tipo en el sector automotriz y autopartista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/arranca-el-primer-banco-de-horas-aprobado-por-la-uom-a-que-trabajadores-alcanzara-y-como-funcionara/",
+     "imagen": "https://www.cronista.com/resizer/v2/M7EB4NGXBBEXJGX4HFJWCLASYM.jpg?auth=a1d9313cb1a5bcf93343ddd79625ad5552e7b5e812c93f352e49d0d396df51f0&smart=true&width=900&height=505",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:20",
+     "autor": "",
+     "titulo_original": "Arranca el primer banco de horas aprobado por la UOM: a qué trabajadores alcanzará y cómo funcionará"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "cuánto gana hoy un camionero, un chofer de colectivo y un maquinista de tren",
+     "resumen": "Un relevamiento de iProfesional detalla cómo resultaron las principales paritarias del sector transporte y qué aumento de sueldo tendrán camioneros, choferes de colectivo y maquinistas ferroviarios en septiembre de 2026, mientras otros gremios del sector todavía negocian. Para una empresa: los acuerdos paritarios de transporte son un insumo directo para estimar costos logísticos y de distribución.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464499-cuanto-gana-hoy-un-camionero-un-chofer-de-colectivo-y-un-maquinista-de-tren",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613391.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:25",
+     "autor": "",
+     "titulo_original": "Cuánto gana hoy un camionero, un chofer de colectivo y un maquinista de tren"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "empleadas domésticas tendrán nuevos sueldos y un bono de hasta $ 20.000",
+     "resumen": "Las trabajadoras de casas particulares recibirán cinco aumentos salariales consecutivos hasta diciembre y un bono de hasta $ 20.000 según las horas trabajadas, en el marco de la actualización de la escala salarial del sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464552-empleadas-domesticas-cuanto-cobraran-en-septiembre-octubre-noviembre-y-diciembre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2018/08/464994.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:20",
+     "autor": "",
+     "titulo_original": "Empleadas domésticas tienen nuevos sueldos y un bono de hasta $20.000"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "AM-12",
+     "titulo": "el consumo masivo cayó 4,9% interanual en agosto y acumula nueve meses de baja",
+     "resumen": "El consumo masivo retrocedió 4,9% interanual en agosto y encadenó nueve meses consecutivos en baja, golpeado por el menor poder adquisitivo. El impacto se sintió fuerte en bienes de consumo masivo y en servicios, mientras que solo el financiamiento y algunos rubros puntuales mostraron señales de reactivación. Para una empresa: la caída sostenida del consumo masivo es una señal de alerta sobre la demanda de productos para el hogar y la construcción en los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-consumo-masivo-cayo-49-interanual-agosto-y-encadeno-una-racha-negativa-nueve-meses-n6322975",
+     "imagen": "https://media.ambito.com/p/3b495a9623c396698e01a42c34e8ec65/adjuntos/239/imagenes/041/960/0041960344/inflacion-inflacion-precios-consumo-supermercado.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:18",
+     "autor": "",
+     "titulo_original": "El consumo masivo cayó 4,9% interanual en agosto y encadenó una racha negativa de nueve meses"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "los barrios BBB de la Ciudad, entre los más baratos para alquilar",
+     "resumen": "En agosto el precio medio de los alquileres en la Ciudad de Buenos Aires subió 1,5% y acumuló un 19,2% en lo que va de 2026, por debajo de la inflación acumulada del 21,5%, según Zonaprop. El alquiler promedio de un departamento de dos ambientes llegó a $ 886.527 mensuales, aunque todavía existen barrios conocidos como BBB (buenos, bonitos y baratos) con precios por debajo de los $ 750.000.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/los-barrios-bbb-de-caba-cuales-son-hoy-los-mas-baratos-para-alquilar-un-departamento/",
+     "imagen": "https://www.cronista.com/resizer/v2/EP735KPQOBEMZB6LNNCRHOI5OY.jpg?auth=dfc58b74ea60694f9b8c6bf0852c71434f74219b7c3fbdba825385d7d99d6682&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:43",
+     "autor": "",
+     "titulo_original": "Los barrios BBB de CABA: cuáles son hoy los más baratos para alquilar y qué precios se manejan"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "cuánto hay que ganar por mes para acceder a un crédito hipotecario de US$ 100.000",
+     "resumen": "El ingreso mensual necesario para acceder a un crédito hipotecario de US$ 100.000 varía según la cuota, el plazo, las condiciones de cada banco y el dinero disponible para completar la compra, según un relevamiento de Ámbito entre las principales entidades. Para una empresa: la evolución del crédito hipotecario es un indicador relevante de la demanda potencial de materiales de construcción y artículos para el hogar.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/cuanto-hay-que-ganar-mes-acceder-un-credito-hipotecario-us100000-n6322661",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:30",
+     "autor": "",
+     "titulo_original": "¿Cuánto hay que ganar por mes para acceder a un crédito hipotecario de u$s100.000?"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "autos importados: 3 de cada 10 vehículos que ingresan al país son híbridos o eléctricos",
+     "resumen": "La importación de vehículos electrificados sigue en alza, pero su participación en los patentamientos cae al 12%, lo que refleja el desfasaje entre lo que ingresa al país y lo que efectivamente se vende en el mercado local.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/autos/importados-3-cada-10-vehiculos-que-ingresan-al-pais-son-hibridos-o-electricos-n6323004",
+     "imagen": "https://media.ambito.com/p/b53e353c9b0d1ddee4cdb9d86cf7ba12/adjuntos/239/imagenes/043/487/0043487299/autos-2016.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:46",
+     "autor": "",
+     "titulo_original": "Autos importados: 3 de cada 10 vehículos que ingresan al país son híbridos o eléctricos"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-16",
+     "titulo": "Matías Stanislavsky asume como Country Head Argentina de Ingenia",
+     "resumen": "El ejecutivo, con más de 20 años de trayectoria en el desarrollo de estrategias data-driven y liderazgo de equipos en los sectores de Retail, Telecomunicaciones, Banca, Fintech y TravelTech, asumió como nuevo Country Head Argentina de la consultora Ingenia.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464539-matias-stanislavsky-asume-como-country-head-argentina-de-ingenia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625788.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:12",
+     "autor": "",
+     "titulo_original": "Matías Stanislavsky asume como Country Head Argentina de Ingenia"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Arthur Brooks, catedrático de Harvard: \"hay una inteligencia que nace a partir de los 40 años\"",
+     "resumen": "El académico sostuvo que, si bien la inteligencia fluida (memoria de trabajo, foco y resolución de problemas) predomina antes de los 40 años, después de esa edad surge una capacidad analítica superior vinculada a la experiencia acumulada. Brooks vinculó además el agotamiento profesional, o burnout, a una explicación biológica y cognitiva concreta, un dato relevante para pensar la gestión de equipos con distintas generaciones.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-hay-una-inteligencia-que-nace-a-partir-de-los-40-anos-nid10092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3X3EXR3M6NBBTF56NO2IYNTKXY.jpeg?auth=ee883e8a274d73424bfa336e49130ef88eabedb39e6c78cde01c1163cd36646b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:52",
+     "autor": "",
+     "titulo_original": "Arthur Brooks, catedrático de Harvard: “Hay una inteligencia que nace a partir de los 40 años”"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "los 4 MBA argentinos mejor posicionados en el ranking QS 2026",
+     "resumen": "Un MBA Global dictado en la Argentina se posicionó por primera vez en el ranking QS de las mejores maestrías de negocios del mundo, en su edición que mide el año 2027. La nota detalla los cuatro programas de posgrado en negocios argentinos mejor rankeados a nivel internacional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464491-ranking-qs-2026-los-4-mba-argentinos-de-negocios-mejor-posicionados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/png/2021/07/519818.png",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Los 4 MBA argentinos de negocios mejor posicionados en el ranking de QS 2026"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "el derrumbe de un edificio en Gaza dejó al menos 20 muertos",
+     "resumen": "Un edificio de seis plantas se derrumbó durante la noche sobre viviendas y carpas cercanas en la zona de Tal al Hawa, en la ciudad de Gaza, tras los daños sufridos en ataques israelíes previos. Las autoridades locales informaron al menos 20 muertos, entre ellos cinco niños, y decenas de personas permanecen desaparecidas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/16/el-derrumbe-de-un-edificio-de-apartamentos-en-gaza-dejo-al-menos-20-muertos-y-decenas-de-desaparecidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/WCBYRWI73BHINFQ467NV56N3VM.JPG?auth=8076e1ff2741e324772ec4b7d14b6e1e3d1090afd4a3c9ac5ec64d7ace6de37d&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:13",
+     "autor": "",
+     "titulo_original": "El derrumbe de un edificio de apartamentos en Gaza dejó al menos 20 muertos y decenas de desaparecidos"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "la Unión Europea propone convertir a Canadá en su primer \"miembro asociado\"",
+     "resumen": "La presidenta de la Comisión Europea, Ursula von der Leyen, propuso ante el Parlamento Europeo convertir a Canadá en el primer miembro asociado de la Unión Europea, con una cooperación más estrecha en tecnología, defensa y energía. La iniciativa, que no existe en los tratados europeos actuales, surge mientras Ottawa busca alejarse de la relación tensa con Estados Unidos por los aranceles de Donald Trump.",
+     "relacionadas": [
+      {
+       "id": "CL-09",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "¿La Unión Europea rompe el molde? Úrsula von der Leyen ofrece a Canadá un inédito estatus de \"Estado asociado\"",
+       "url": "https://www.clarin.com/mundo/union-europea-rompe-molde-ursula-von-der-leyen-ofrece-canada-inedito-estatus-estado-asociado_0_HDGYh0QyUB.html"
+      },
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Ursula von der Leyen ofreció a Canadá ser el primer “miembro asociado” de la Unión Europea",
+       "url": "https://www.infobae.com/america/mundo/2026/09/16/ursula-von-der-leyen-ofrecio-a-canada-ser-el-primer-miembro-asociado-de-la-union-europea/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-ue-propone-convertir-a-canada-en-su-primer-miembro-asociado-en-plena-tension-con-trump-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FD2UC6IXUJDLZC3VRH4P7JLLUY.JPG?auth=25fc4d128b7f060824272bd93cf280554642379b002e5c58ac30875d776aaecd&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:38",
+     "autor": "",
+     "titulo_original": "La UE propone convertir a Canadá en su primer “miembro asociado” en plena tensión con Trump"
+    },
+    {
+     "id": "IB-05",
+     "titulo": "Trump mantuvo la descertificación a Colombia por su lucha contra las drogas",
+     "resumen": "El Gobierno de Estados Unidos mantuvo a Colombia entre los países que \"han fallado demostrablemente\" en cumplir compromisos de lucha antinarcóticos durante los últimos 12 meses, según la determinación presidencial para el año fiscal 2027. Trump dejó abierta la posibilidad de revisar la medida si el gobierno de Abelardo de la Espriella acelera la erradicación de cultivos de coca y el desmantelamiento de redes de narcotráfico.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/colombia/2026/09/16/estados-unidos-mantuvo-descertificacion-a-colombia-por-su-lucha-contra-las-drogas-estos-son-los-motivos-de-la-decision/",
+     "imagen": "https://www.infobae.com/resizer/v2/BK7M32V7GNHNBP2GYZEVENGMPI.jpg?auth=21c8db994561a3d8aef3aa0a9b3d4455dac98ed112137713f7c2d24614436a69&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:57",
+     "autor": "Mario Alejandro Rodríguez",
+     "titulo_original": "Donald Trump confirmó que Estados Unidos mantuvo descertificación a Colombia por su lucha contra las drogas: estos son los motivos de la decisión"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "el presidente de Líbano busca un pacto de seguridad con Israel",
+     "resumen": "Joseph Aoun dijo que buscará un acuerdo de seguridad con Israel cuando sus fuerzas se retiren del sur del Líbano y que apuesta a desarmar a Hezbollah sin una confrontación armada, aunque calificó ese desarme como \"no negociable\". El mandatario viaja el miércoles a Francia en busca de apoyo internacional, mientras Irán expresó su respaldo al grupo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/16/el-presidente-de-libano-busca-un-pacto-de-seguridad-con-israel-no-tenemos-mas-opcion-que-las-negociaciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/2NHBI4HGQFDKHD44N7MAUW47S4.JPG?auth=20365584eb44c88ed603990a6980de14714b0176863aa8c0a811fc7ec67a7fd6&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:59",
+     "autor": "",
+     "titulo_original": "El presidente de Líbano busca un pacto de seguridad con Israel: “No tenemos más opción que las negociaciones”"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Arabia Saudita acusa a los hutíes de Yemen de atacar La Meca",
+     "resumen": "La coalición militar liderada por Arabia Saudita aseguró haber destruido un dron lanzado hacia la ciudad santa de La Meca. Los hutíes negaron el ataque, mientras Ryad advirtió que la seguridad de las dos mezquitas sagradas y de sus visitantes \"constituye una línea roja\".",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/arabia-saudita-acusa-huties-yemen-atacar-meca-capital-sagrada-islam_0_mIH873QcCn.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/7pgzznac5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Arabia Saudita acusa a los hutíes de Yemen de atacar La Meca, la capital sagrada del islam"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "el ejército ucraniano lanza en Lyman su segunda gran contraofensiva del año",
+     "resumen": "Le Grand Continent detalla que el comandante del 3.º Cuerpo de Ejército ucraniano, Andriy Biletsky, confirmó una contraofensiva en curso en el norte de la región de Donetsk, con la liberación de unos 85 kilómetros cuadrados en los alrededores de Lyman y la retirada de suministros de combustible rusos hacia la región de Vorónezh. La revista destaca que es la primera vez en casi cuatro años que Kiev logra hacer retroceder de forma significativa al ejército ruso en ese sector del frente, una señal que interpreta como parte del desgaste de la capacidad ofensiva rusa.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/16/ejercito-ucraniano-segunda-contraofensiva-lyman/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "08:30",
+     "autor": "Marin Saillofest",
+     "titulo_original": "El ejército ucraniano lleva a cabo en Lyman su segunda gran contraofensiva del año"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "en el Morumbí, San Pablo se descontroló tras la clasificación de Boca con Leandro Paredes en el centro de la tensión",
+     "resumen": "Tras el pase de Boca a semifinales de la Copa Sudamericana, los jugadores de San Pablo rodearon y empujaron al capitán xeneize Leandro Paredes luego de que le gritara la clasificación al defensor Domingos Duarte. El árbitro uruguayo Gustavo Tejera debió intervenir para descomprimir la situación al término del partido.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las reacciones en las redes sociales al polémico offside del VAR que favoreció a Boca",
+       "url": "https://www.ambito.com/deportes/las-reacciones-las-redes-sociales-al-polemico-offside-del-var-que-favorecio-boca-n6322943"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/que-paso-en-el-morumbi-gritos-empujones-golpes-y-la-locura-de-san-pablo-contra-leandro-paredes-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/USJ7BRJWD5GWJN4SLE7GY6JCOE.jpg?auth=c771846e27b79cdc9aaf28c79a94261328a7c70f8272ec9a79e51623ef8c5f3a&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:59",
+     "autor": "",
+     "titulo_original": "Qué pasó en el Morumbí: gritos, empujones, golpes y la locura de San Pablo contra Leandro Paredes"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "Colidio no podrá jugar para Vasco da Gama ante Boca por las semifinales",
+     "resumen": "El delantero argentino Facundo Colidio, incorporado a Vasco da Gama proveniente de River, quedó inhabilitado para disputar la serie de semifinales de la Copa Sudamericana ante Boca: el club brasileño envió la documentación de su pase tres horas después del cierre del plazo de inscripción para las instancias finales del torneo.",
+     "relacionadas": [
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Facundo Colidio se pierde el partido contra Boca: qué dice el reglamento de la Conmebol",
+       "url": "https://www.ambito.com/deportes/facundo-colidio-se-pierde-el-partido-contra-boca-que-dice-el-reglamento-la-conmebol-n6323013"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/colidio-no-podra-jugar-para-vasco-da-gama-ante-boca-por-las-semifinales-de-la-copa-sudamericana-las-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VRN6XTJVLVEARPN26ZSE4SSZUU.jpg?auth=c59f47e1f66fee821bf7f30c9639cba98e8d40b8180fcdc0d94e312bb17332fe&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:55",
+     "autor": "",
+     "titulo_original": "Colidio no podrá jugar para Vasco da Gama ante Boca por las semifinales de la Copa Sudamericana: las razones"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "medallero de los Juegos Suramericanos Santa Fe 2026: cómo está la Argentina",
+     "resumen": "Los XIII Juegos Suramericanos se disputan hasta el 26 de septiembre con Rosario, Santa Fe y Rafaela como sedes principales, con más de 4.000 atletas de 15 países compitiendo en 43 deportes y 60 disciplinas. Clarín actualiza día a día el medallero completo y la posición de la Argentina en la competencia.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Luciana Aymar en los Juegos Suramericanos 2026: “Esto me hace acordar a mis inicios con las Leonas”",
+       "url": "https://www.lanacion.com.ar/deportes/luciana-aymar-en-los-juegos-suramericanos-2026-esto-me-hace-acordar-a-mis-inicios-con-las-leonas-nid16092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/medallero-juegos-suramericanos-santa-fe-2026-cuantas-medallas-argentina-tabla-posiciones-pais_0_WWMtx0mk4e.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/p_tzPoaJr_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas tiene Argentina y tabla de posiciones por país"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "la Selección femenina Sub 20 cae ante Corea del Sur en el Mundial de Polonia",
+     "resumen": "El equipo dirigido por Christian Meloni pierde 1 a 0 ante Corea del Sur por los octavos de final del Mundial Sub 20 femenino, en un partido en el que la Albiceleste busca meterse por primera vez en cuartos de final de una Copa del Mundo. Annika Paz, goleadora del torneo, es una de las principales figuras del equipo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/seleccion-argentina-vs-corea-sur-vivo-mundial-sub-20-femenino-va-resultado-minuto-minuto_0_n38z8WdWMl.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/Ht5gllelR_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Selección Argentina vs Corea del Sur, EN VIVO, por el Mundial Sub-20 femenino: cómo va, resultado y minuto a minuto"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "prohíben el ingreso a eventos deportivos a nueve personas por entradas falsas",
+     "resumen": "El Ministerio de Seguridad Nacional dispuso una prohibición de 18 meses para ingresar a eventos deportivos en todo el país a nueve personas que fueron detectadas con entradas apócrifas durante un partido de Copa Argentina disputado en el estadio de Newell's.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/prohiben-el-ingreso-eventos-deportivos-nueve-personas-intentar-ingresar-entradas-falsas-n6322851",
+     "imagen": "https://media.ambito.com/p/785af4fec27b5a5ba5454eafcfa0f027/adjuntos/239/imagenes/040/154/0040154207/1200x675/smart/pelota-futboljpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:27",
+     "autor": "",
+     "titulo_original": "Prohíben el ingreso a eventos deportivos a nueve personas por intentar ingresar con entradas falsas"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Lázaro Bainotti, el piloto argentino de 15 años que ya piensa en la Fórmula 1",
+     "resumen": "El cordobés compite en la Fórmula 4 de Estados Unidos, donde corre a más de 230 kilómetros por hora, y se instaló en ese país a los 13 años junto a su padre porque allí puede correr en autos de fórmula antes de cumplir 15 años, algo que no permiten otras categorías. Se prepara para la próxima fecha en Virginia y proyecta pruebas en Europa mientras suma experiencia con la mira puesta en la Fórmula 1.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/16/lazaro-bainotti-el-piloto-argentino-de-15-anos-que-corre-a-230-kmh-y-ya-piensa-en-europa-mi-sueno-de-todo-es-llegar-a-la-formula-1/",
+     "imagen": "https://www.infobae.com/resizer/v2/CTB7RSKUGJBELIIPYIVTVKT3TY.jpeg?auth=aa91fd46539fc6d1798848b53c248f80ff1c71a4936056a60716e959a66bba93&smart=true&width=900&height=786",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Brisa Bujakiewicz",
+     "titulo_original": "Lázaro Bainotti, el piloto argentino de 15 años que corre a 230 km/h y ya piensa en Europa: “Mi sueño de todo es llegar a la Fórmula 1”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-25",
+     "titulo": "buscan voluntarios para vivir en una finca de Malargüe, al sur de Mendoza",
+     "resumen": "En el departamento de Malargüe, un emprendimiento de ecoalojamiento mantiene abierta una convocatoria para viajeros dispuestos a colaborar en el mantenimiento diario de un predio rural, a cambio de hospedaje y alimentación básica, a través de la plataforma de intercambio cultural Worldpackers. Las tareas no requieren experiencia previa en trabajo de campo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-una-finca-de-mendoza-ofrecen-hospedaje-y-comida-a-cambio-de-pocas-horas-de-trabajo/",
+     "imagen": "https://www.cronista.com/resizer/v2/B6WB2CJ4EZBPJJHM7X7QDRLFHU.jpg?auth=498b0dd3818d7503170a7b465ecc1b4b01f7287e2859483e69a95dce4941c438&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:26",
+     "autor": "",
+     "titulo_original": "Buscan voluntarios para vivir en una finca de Mendoza: ofrecen hospedaje y comida a cambio de pocas horas de trabajo"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-24",
+     "titulo": "\"queríamos cambiar el mundo\": el testimonio de una sobreviviente de la Noche de los Lápices",
+     "resumen": "A 50 años del operativo represivo en el que la dictadura secuestró a diez estudiantes secundarios de La Plata, seis de los cuales permanecen desaparecidos, Emilce Moler, sobreviviente hoy de 67 años, recordó en diálogo con Infobae que las marchas estudiantiles de esos años reclamaban mucho más que el boleto estudiantil.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tras el envío del Presupuesto y reactivar la reforma electoral, el Gobierno acelera un operativo para seducir gobernadores",
+       "url": "https://www.clarin.com/politica/envio-presupuesto-reactivar-reforma-electoral-gobierno-acelera-operativo-seducir-gobernadores_0_QqZ9xuzp6l.html"
+      },
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Se cumplen 50 años de La Noche de los Lápices este miércoles 16 de septiembre",
+       "url": "https://www.lanacion.com.ar/cultura/se-cumplen-50-anos-de-la-noche-de-los-lapices-este-miercoles-16-de-septiembre-nid16092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/09/16/queriamos-mucho-mas-que-el-boleto-estudiantil-queriamos-cambiar-el-mundo-la-verdad-de-una-sobreviviente-de-la-noche-de-los-lapices/",
+     "imagen": "https://www.infobae.com/resizer/v2/KG6AFMFE4JFCJIGS2TJQ5RNAYM.jpg?auth=6405f3da9b153922e02deca43b47ec14a7eef2ccbdf9c84e2a89e55ea9ce875d&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:02",
+     "autor": "Julieta Roffo",
+     "titulo_original": "“Queríamos mucho más que el boleto estudiantil, queríamos cambiar el mundo”: la verdad de una sobreviviente de la Noche de los Lápices"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "cae en la Villa 31 \"El Groso\" Ortigoza, histórico capo narco paraguayo de la zona",
+     "resumen": "La Policía Bonaerense arrestó en la Villa 31 a Juan Ramón Ortigoza, alias \"El Groso\", en un operativo con siete allanamientos que sumó otros tres detenidos. Le secuestraron marihuana, cocaína y ocho armas de fuego, entre ellas una pistola Glock calibre punto 40 y una Bersa 9 milímetros, en el marco de una investigación por una red de venta de tusi que se extendía hasta el Conurbano.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/16/el-regreso-de-el-groso-ortigoza-el-poderoso-capo-paraguayo-de-la-villa-31/",
+     "imagen": "https://www.infobae.com/resizer/v2/JT6YPWXUDVHFXK5ZFKNKL2764E.jpg?auth=7e311039becff655ae2d191754927f6931a25dc474538461617745c0348b48c1&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:13",
+     "autor": "Federico Fahsbender",
+     "titulo_original": "El regreso de “El Groso” Ortigoza, el poderoso capo paraguayo de la Villa 31"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "un argentino recibió en Londres uno de los máximos reconocimientos de la oftalmología",
+     "resumen": "El oftalmólogo mendocino Roger Zaldivar recibió el Lans Distinguished Lecturer Award en el Congreso de la European Society of Cataract and Refractive Surgeons, en Londres, por sus aportes a la cirugía refractiva. Su padre, Roberto Zaldivar, había recibido el mismo galardón 28 años antes y fue el primer argentino en lograrlo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/un-argentino-recibio-en-londres-uno-de-los-maximos-reconocimientos-mundiales-de-la-oftalmologia-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EVBK2MLYMFF5JENDOB3V7OM3EA.jpg?auth=b38d4c86e01985fc2b1a97dd46627c26fee29b9ec0064270a9abc7c08febf0f8&smart=true&width=900&height=597",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:51",
+     "autor": "",
+     "titulo_original": "Un argentino recibió en Londres uno de los máximos reconocimientos mundiales de la oftalmología"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "el creador de las pruebas PISA advierte sobre el impacto de la inteligencia artificial y las pantallas en la lectura",
+     "resumen": "Andreas Schleicher, director de Educación y Competencias de la OCDE y creador de las pruebas PISA, sostuvo en una columna publicada en The Economist que los sistemas educativos muestran señales preocupantes en la capacidad de los jóvenes para leer, comprender información compleja y pensar críticamente, justo las habilidades más relevantes para la era de la inteligencia artificial.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/estamos-hablando-menos-la-advertencia-del-creador-de-las-pruebas-pisa-sobre-la-ia-las-pantallas-y-la-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PPCBDMHFTVAZPKJJLP4ROGJMBE.jpg?auth=857a2ac92855de03b83f591a19f9302c5c7dc09c6f3bc4ac71e3533577fef94f&smart=true&width=624&height=351",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:49",
+     "autor": "",
+     "titulo_original": "“Estamos hablando menos”: la advertencia del creador de las pruebas PISA sobre la IA, las pantallas y la lectura"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del miércoles 16 de septiembre. El panorama del día combina la discusión por el Presupuesto 2027, una decisión clave de la Reserva Federal de Estados Unidos y el impacto de una nueva caída del consumo masivo en la Argentina. El dólar oficial cerró la mañana en mil quinientos treinta pesos, el dólar blue se pagó a mil quinientos sesenta pesos, el oro cotiza a cuatro mil trescientos noventa y cuatro dólares la onza y el riesgo país sigue por encima de los quinientos puntos, mientras la inflación de agosto quedó en uno coma siete por ciento mensual. En política, la Justicia investiga un escándalo en la Armada por maniobras fraudulentas que rondarían los mil seiscientos millones de pesos en el pago de haberes del personal naval, tras la denuncia de una teniente de navío que también es contadora pública. En medio de la tensión por Malvinas, trascendió que Donald Trump y el primer ministro británico Andy Burnham podrían reunirse por primera vez la semana próxima en Nueva York, al margen de la Asamblea General de la ONU. China, por su parte, ratificó su respaldo a la Argentina en el reclamo de soberanía sobre las islas. En el Congreso, el oficialismo sigue sin los votos para eliminar las primarias abiertas, simultáneas y obligatorias, mientras el jefe del bloque de La Libertad Avanza en Diputados, Gabriel Bornoroni, adelantó que la negociación del Presupuesto pasará por las partidas de provincias, salud, educación y obras viales. Además, se cumplieron cincuenta años de la Noche de los Lápices, el operativo represivo de la dictadura que secuestró y desapareció a estudiantes secundarios en La Plata, en medio de una polémica entre organizaciones estudiantiles y el gobierno de Axel Kicillof por el financiamiento del acto conmemorativo. En economía y mercados, el Gobierno precisó que el Presupuesto 2027 proyecta un dólar promedio de mil setecientos veintiocho pesos para el año, cifra que el equipo económico define como un cálculo y no como una predicción, aunque el mercado privado, según El Cronista, espera un dólar de mil ochocientos cuarenta y siete pesos para diciembre. Hoy es un día clave para los mercados globales porque la Reserva Federal definirá esta tarde si sube las tasas de interés por primera vez desde dos mil veintitrés, con una probabilidad cercana al noventa y dos por ciento, algo que iría en contra de lo que esperaba el propio Trump cuando designó a Kevin Warsh al frente de la Fed. Wall Street opera con sesgo alcista a la espera del anuncio, y un relevamiento de Bank of America entre administradores de fondos con unos noventa mil millones de dólares bajo gestión mostró que las expectativas sobre los activos argentinos se mantienen entre neutrales y positivas. Según Santander Global Research, el Tesoro además cambió su estrategia financiera para priorizar la liquidez del sistema antes que patear vencimientos hacia después de las elecciones de dos mil veintisiete. Pese al fuerte crecimiento de la inversión en energía y minería, esos sectores todavía tienen menos empleo formal que al inicio del gobierno de Javier Milei. En negocios y empresas, Flybondi atraviesa una de las semanas más delicadas de su historia: la aerolínea de bajo costo habría reunido los requisitos para presentar formalmente su concurso preventivo, tras meses de cancelaciones y embargos de la ANAC y de ARCA por deudas fiscales; sus pasajeros migran hacia Aerolíneas Argentinas y JetSMART. Buquebus y Colonia Express quedaron enfrentados por una nueva ruta entre Montevideo y Buenos Aires que mueve cerca de cien millones de dólares al año. Renault pidió preservar la producción local ante la posibilidad de que Brasil avance hacia un libre comercio bilateral que pondría en duda el acuerdo automotor vigente entre ambos países. Los agentes de carga internacional reclamaron que la normativa cambiaria que permite pagar a la vista las importaciones de mercadería todavía no alcanza a los fletes, lo que los deja en desventaja frente a las multinacionales. Y el Presupuesto 2027 incluye un capítulo con beneficios impositivos para renovar el sistema ferroviario. En impuestos, laboral y normativa, ARCA amplió desde octubre la obligatoriedad del débito directo para pagar cuotas de planes de facilidades de cien millones de pesos o más. La conducción intervenida de la Unión Obrera Metalúrgica firmó con la automotriz Foton el segundo convenio de banco de horas del sector, habilitado por la reforma laboral. También se conocieron los nuevos valores de las paritarias de camioneros, choferes de colectivo y maquinistas ferroviarios, y las empleadas domésticas tendrán cinco aumentos consecutivos hasta diciembre además de un bono de hasta veinte mil pesos. En consumo y construcción, el dato más relevante del día es que el consumo masivo cayó cuatro coma nueve por ciento interanual en agosto y encadenó nueve meses consecutivos de baja, golpeado por el menor poder adquisitivo de las familias. El alquiler promedio de un departamento de dos ambientes en la Ciudad de Buenos Aires llegó a los ochocientos ochenta y seis mil quinientos pesos, aunque todavía existen barrios más económicos conocidos como BBB. Además, tres de cada diez vehículos que ingresan al país ya son híbridos o eléctricos, aunque su participación en los patentamientos apenas llega al doce por ciento. En management y finanzas corporativas, Matías Stanislavsky asumió como Country Head Argentina de la consultora Ingenia, tras más de veinte años de trayectoria en estrategias basadas en datos para retail, telecomunicaciones, banca, fintech y viajes. El catedrático de Harvard Arthur Brooks planteó que, si bien la inteligencia fluida predomina antes de los cuarenta años, después de esa edad surge una capacidad analítica superior vinculada a la experiencia, un dato útil para pensar la gestión de equipos con distintas generaciones. Y un MBA dictado en la Argentina se posicionó por primera vez entre los mejores del mundo en el ranking QS. En el mundo, un edificio de seis plantas se derrumbó durante la noche en la ciudad de Gaza y dejó al menos veinte muertos, entre ellos cinco niños, tras los daños sufridos en ataques israelíes previos. Ursula von der Leyen propuso convertir a Canadá en el primer miembro asociado de la Unión Europea, en un gesto hacia Ottawa mientras crece la tensión con Trump por los aranceles. Estados Unidos mantuvo la descertificación a Colombia por su lucha contra las drogas, aunque dejó abierta la puerta a revisarla. El presidente de Líbano, Joseph Aoun, dijo que buscará un pacto de seguridad con Israel y que el desarme de Hezbollah no es negociable, aunque apuesta a una salida pacífica. Y Arabia Saudita acusó a los hutíes de Yemen de haber lanzado un dron contra la ciudad santa de La Meca, algo que el grupo yemenita negó. Le Grand Continent analiza la contraofensiva que el ejército ucraniano lanzó en la localidad de Lyman, en el norte de Donetsk, donde recuperó unos ochenta y cinco kilómetros cuadrados y obligó a las fuerzas rusas a retirar sus depósitos de combustible; es la primera vez en casi cuatro años que Kiev logra un retroceso significativo del ejército ruso en ese sector del frente. En deportes, Boca Juniors avanzó a semifinales de la Copa Sudamericana tras eliminar a San Pablo, aunque el final del partido terminó con incidentes en el estadio Morumbí, donde los jugadores brasileños rodearon al capitán Leandro Paredes. El delantero Facundo Colidio no podrá jugar para Vasco da Gama en la revancha ante Boca porque el club brasileño presentó tarde la documentación de su pase. En Rosario, Santa Fe y Rafaela continúan los Juegos Suramericanos, con la Argentina siguiendo de cerca el medallero, mientras la Selección femenina Sub veinte cayó ante Corea del Sur en el Mundial de Polonia. El Ministerio de Seguridad prohibió por dieciocho meses el ingreso a eventos deportivos a nueve personas detectadas con entradas falsas en un partido de Copa Argentina disputado en Newell's. Y el piloto cordobés Lázaro Bainotti, de apenas quince años, sueña con llegar a la Fórmula uno mientras compite en la Fórmula cuatro de Estados Unidos. En turismo, en el departamento de Malargüe, al sur de Mendoza, un emprendimiento de ecoalojamiento busca voluntarios dispuestos a colaborar en el mantenimiento de un predio rural a cambio de hospedaje y alimentación. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Sin novedades de Franco Colapinto ni de Club Atlético Tigre en el material de esta corrida; no se los menciona. La sección Europa y geopolítica quedó con una sola nota porque el material crudo de Le Grand Continent en esta ventana de seis horas solo trajo un artículo nuevo.",
+ "slug": "2026-09-16-mediodia",
+ "generado_ba": "16/09/2026 15:10"
+}
