@@ -1,0 +1,965 @@
+{
+ "fecha": "2026-09-16",
+ "edicion": "manana",
+ "titulo": "Presupuesto 2027, tensión cambiaria y Boca en semifinales de la Sudamericana",
+ "apertura": "El Gobierno envió al Congreso el Presupuesto 2027, con una inflación proyectada del 18% y un dólar oficial que llegaría a $ 1.847,60 a fin de 2027, mientras el debate en comisión recién arrancará en octubre. El riesgo país volvió a superar los 500 puntos en medio de mayor cautela financiera global, y el oficialismo profundiza la campaña electoral bonaerense de cara a 2027. En el plano deportivo, Boca Juniors se metió en semifinales de la Copa Sudamericana tras eliminar a San Pablo.",
+ "claves": [
+  "El Gobierno envió a Diputados el Presupuesto 2027, con una inflación proyectada del 18%, dólar a $ 1.847,60 y crecimiento del PBI del 4%, cifras que analistas privados consideran optimistas.",
+  "El riesgo país volvió a superar los 500 puntos y el Merval cedió 0,3%, en un clima de mayor cautela financiera global.",
+  "La utilización de la capacidad instalada industrial cayó a 58,2% en julio, el nivel más bajo desde marzo.",
+  "Los abogados de Cristina Kirchner sumaron un nuevo peritaje ante la ONU para intentar revertir la condena en la causa Vialidad.",
+  "El Gobierno aprobó un nuevo estatuto para los agentes de la SIDE mediante el Decreto 1021/2026.",
+  "Granja Tres Arroyos, la mayor avícola del país, se presentó en concurso de acreedores en medio de una crisis con 1.730 despidos denunciados.",
+  "Boca Juniors avanzó a semifinales de la Copa Sudamericana tras empatar con San Pablo y enfrentará a Vasco da Gama.",
+  "Estados Unidos reconoció por primera vez que tiene armas desplegadas en el espacio, lo que generó reacciones de Rusia y China."
+ ],
+ "cifras": [
+  {
+   "nombre": "Merval",
+   "valor": "US$ 1.929",
+   "variacion": "-0,3%",
+   "fuente": "CR-25"
+  },
+  {
+   "nombre": "Uso de capacidad instalada industrial",
+   "valor": "58,2%",
+   "fuente": "CL-14"
+  },
+  {
+   "nombre": "Dólar proyectado por el Presupuesto 2027 (fin de año)",
+   "valor": "$ 1.847,60",
+   "fuente": "LN-13"
+  },
+  {
+   "nombre": "Inflación proyectada por el Presupuesto 2027",
+   "valor": "18%",
+   "fuente": "LN-13"
+  },
+  {
+   "nombre": "Demandas laborales por accidentes de trabajo (agosto)",
+   "valor": "14.966",
+   "variacion": "+11,3% i.a.",
+   "fuente": "IB-24"
+  },
+  {
+   "nombre": "Salario mínimo reclamado por gremios (FreSU)",
+   "valor": "$ 3.116.298",
+   "fuente": "CR-18"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "los abogados de Cristina Kirchner suman un peritaje a su estrategia ante la ONU",
+     "resumen": "Los abogados de la expresidenta anunciaron que incorporarán un nuevo elemento al planteo que ya tramitan ante un comité de la ONU para revertir la condena firme a seis años de prisión en la causa Vialidad. Se trata de un estudio pericial encargado a contadores y economistas, elaborado a partir de información surgida en el juicio de los Cuadernos de las Coimas, que relativiza el peso de Lázaro Báez en la obra pública durante su gestión. El objetivo inmediato es derribar la inhabilitación para ocupar cargos públicos y mantener abierta una eventual candidatura, en medio de la disputa interna del peronismo.",
+     "relacionadas": [
+      {
+       "id": "IP-19",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Abogados de Cristina aseguraron que tienen nuevas pruebas a su favor en la causa Vialidad",
+       "url": "https://www.iprofesional.com/legales/464505-cristina-kirchner-causa-vialidad-prueba-clave-futuro-electoral"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/cual-es-la-prueba-nueva-y-que-cambia-en-el-frente-internacional-claves-del-anuncio-de-los-abogados-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WBP5Q53N3BCPLG2LS72LLTH7P4.jpeg?auth=b02f3490509c8c0cf8ea1478ff7a5467440eb88d1f6ef451adbdba364939c345&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:32",
+     "autor": "Federico González del Solar",
+     "titulo_original": "¿Cuál es la “prueba nueva” y qué cambia en el frente internacional? Claves del anuncio de los abogados de Cristina Kirchner"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "la corriente kirchnerista impulsa la candidatura de Cristina y presiona a Kicillof",
+     "resumen": "El sector liderado por Cristina Kirchner busca sostener su centralidad en las definiciones del peronismo de cara a 2027 y reclama al gobernador bonaerense Axel Kicillof que la visite y no la ignore en la construcción política. La movida se da en paralelo a la ofensiva legal ante la ONU para destrabar su situación judicial.",
+     "url": "https://www.clarin.com/politica/cristina-candidata-detras-nueva-movida-apunta-kicillof-aspirantes_0_M39YOLmcbv.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/RbBSGf9oN_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Cristina candidata\": qué hay detrás de la nueva movida que apunta a Kicillof y otros aspirantes",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-18",
+     "titulo": "el Gobierno aprobó un nuevo estatuto para los agentes de la SIDE",
+     "resumen": "El Ejecutivo oficializó mediante el Decreto 1021/2026, publicado en el Boletín Oficial, un nuevo régimen para el personal de la Secretaría de Inteligencia de Estado que modifica ingresos, ascensos, remuneraciones y viajes al exterior. La norma reemplaza al esquema vigente desde 2003 y regirá a partir del 1° de enero de 2027.",
+     "relacionadas": [
+      {
+       "id": "IB-11",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno aprobó las nuevas reglas para los agentes de la SIDE: qué cambiará en las contrataciones y ascensos",
+       "url": "https://www.infobae.com/politica/2026/09/16/el-gobierno-aprobo-las-nuevas-reglas-para-los-agentes-de-la-side-que-cambiara-en-las-contrataciones-y-ascensos/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/side-gobierno-aprobo-nuevas-reglas-agentes-inteligencia-ascensos-viajes-exterior_0_InVyhobxUw.html",
+     "imagen": "https://www.clarin.com/img/2026/09/06/MJatYzBtB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "04:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "SIDE: el Gobierno aprobó las nuevas reglas para los agentes de inteligencia, desde los ascensos hasta los viajes al exterior"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "se acorta el plazo para la reforma electoral y crecen las tensiones con la Justicia",
+     "resumen": "Con apenas dos meses para que cierre el período legislativo, el Gobierno insiste en eliminar o suspender las PASO, pero la Cámara Nacional Electoral advirtió mediante una acordada que las reglas del juego no deben modificarse cuando se acerca una elección. El PRO y otros aliados presionan además para tratar por separado el proyecto de Ficha Limpia, lo que complica el avance de la iniciativa oficial en el Senado.",
+     "relacionadas": [
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno insiste en la reforma electoral sin PASO pero los aliados lo condicionan",
+       "url": "https://www.iprofesional.com/politica/464519-gobierno-insiste-en-reforma-electoral-sin-paso-pero-aliados-lo-condicionan"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/se-agota-el-tiempo-de-las-reformas-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PTNPCHPSQZF65AC6MMVQVVNOLE.jpg?auth=cef0c346d56e002e6b6bd8ec70e3f744007fbc218f28c6d6556377faf164ff2e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:00",
+     "autor": "Joaquín Morales Solá",
+     "titulo_original": "Se agota el tiempo de las reformas"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Milei acelera la campaña bonaerense con un acto partidario en Bahía Blanca",
+     "resumen": "El Presidente viaja el viernes a Bahía Blanca para un anuncio de inversiones bajo el régimen RIGI y sumó a la visita un acto de La Libertad Avanza, el primer desembarco electoral en la provincia de Buenos Aires. Lo acompañarán Diego Santilli, candidato a gobernador bonaerense, Karina Milei y Sebastián Pareja, con la eventual presencia de Luis Caputo.",
+     "url": "https://www.infobae.com/politica/2026/09/16/milei-adelanta-la-campana-en-pba-desembarcara-con-santilli-en-bahia-blanca-y-les-preparan-un-acto-partidario/",
+     "imagen": "https://www.infobae.com/resizer/v2/3TPSIU4VR5H2FDR63XOUT434AQ.jpeg?auth=2f2b71b0dd42bd86e4f5ff2e6bea3b9c2ffb8656c326e88048bae890d116a40e&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:16",
+     "autor": "Brenda Struminger",
+     "titulo_original": "Milei adelanta la campaña en PBA: desembarcará con Santilli en Bahía Blanca y les preparan un acto partidario",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Jorge Macri se reúne con funcionarios de Trump y elogia la gestión de Milei",
+     "resumen": "El jefe de Gobierno porteño se reunió en Estados Unidos con un alto funcionario de la administración Trump, ante quien destacó las transformaciones impulsadas por Javier Milei. Del encuentro participó también el diputado del PRO Cristian Ritondo, que integra la mesa de diálogo entre su partido y La Libertad Avanza para explorar un acuerdo electoral.",
+     "url": "https://www.ambito.com/politica/jorge-macri-tiende-puentes-la-libertad-avanza-destaco-eeuu-la-gestion-javier-milei-n6322796",
+     "imagen": "https://media.ambito.com/p/033621a8065843646b688af3a7cf3cd1/adjuntos/239/imagenes/043/645/0043645207/1200x675/748x298:768x318/jorge-macri-ritondo-sanchez-zinny-y-pompeo-richard-walters.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:21",
+     "autor": "",
+     "titulo_original": "Jorge Macri tiende puentes con La Libertad Avanza: destacó en EEUU la gestión de Javier Milei",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Milei mejoró en una encuesta regional de imagen pero sigue entre los peor rankeados",
+     "resumen": "Según un estudio mensual de la consultora CB Global Data que compara la imagen de 18 mandatarios de América Latina, Javier Milei mejoró su posición pero de todos modos quedó entre los seis peores de la región.",
+     "url": "https://www.clarin.com/politica/nueva-encuesta-javier-milei-mejoro-igual-quedo-relegado-rankings-presidentes_0_nKCyJDYFiR.html",
+     "imagen": "https://www.clarin.com/img/2026/09/04/zRVSCRd7h_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Nueva encuesta: Javier Milei mejoró, pero igual quedó relegado en un rankings de presidentes",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "el Gobierno envió el Presupuesto 2027 con una inflación proyectada del 18% y dólar a $ 1.847,60",
+     "resumen": "El Ejecutivo presentó ante Diputados el proyecto de Presupuesto 2027, que estima un crecimiento del PBI del 4%, una inflación acumulada del 18% y un dólar oficial de $ 1.847,60 a fin de año, además de una suba del salario promedio del 25,4%. El Gobierno también proyecta un superávit financiero de 0,2% del PBI y un resultado primario de 1,3%, con un consumo privado que crecería 3,4%. El debate en comisión recién arrancará en octubre, una vez que el oficialismo despeje otros temas de agenda con la oposición. Para una empresa: las proyecciones oficiales de tipo de cambio e inflación son un insumo para presupuestar 2027, aunque conviene contrastarlas con estimaciones privadas antes de usarlas en planillas de costos.",
+     "relacionadas": [
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno presentó el Presupuesto 2027, con proyecciones para dólar, inflación y PBI",
+       "url": "https://www.iprofesional.com/economia/464507-el-gobierno-presento-el-presupuesto-2027-que-espera-para-dolar-e-inflacion"
+      },
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El veredicto del mercado sobre el Presupuesto y un dólar a $1.848 para 2027",
+       "url": "https://www.iprofesional.com/finanzas/464517-que-tan-viable-es-un-dolar-a-1848-pesos-en-2027-como-preve-el-presupuesto"
+      },
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno envía el Presupuesto 2027 a Diputados pero el debate arranca en octubre",
+       "url": "https://www.iprofesional.com/politica/464526-presupuesto-2027-cuando-arranca-el-debate-en-diputados"
+      },
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El texto del Presupuesto 2027 que entró en Diputados: principales variables y proyecciones",
+       "url": "https://www.ambito.com/politica/el-texto-del-presupuesto-2027-que-el-gobierno-ya-envio-diputados-n6322829"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Presupuesto 2027 propone cambios en discapacidad y las universidades recibirán menos de lo que piden",
+       "url": "https://www.ambito.com/politica/presupuesto-2027-propone-cambios-discapacidad-y-las-universidades-recibiran-menos-lo-que-piden-n6322840"
+      },
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Presupuesto 2027: cuáles son las principales obras que el Gobierno proyecta en las provincias",
+       "url": "https://www.ambito.com/politica/presupuesto-2027-cuales-son-las-principales-obras-que-el-gobierno-proyecta-las-provincias-n6322846"
+      },
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Caputo presentó el Presupuesto 2027 con crecimiento de 4%: qué pasará con dólar, inflación y el salto en salarios",
+       "url": "https://www.cronista.com/economia-politica/caputo-dejo-un-anticipo-clave-del-presupuesto-2027/"
+      },
+      {
+       "id": "CR-03",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Deuda: la estrategia del Gobierno para 2027, ¿hay salida al mercado?",
+       "url": "https://www.cronista.com/economia-politica/deuda-la-estrategia-del-gobierno-para-2027-hay-salida-al-mercado/"
+      },
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Las prioridades del Presupuesto 2027: superávit, consumo, recaudación y ¿baja de impuestos?",
+       "url": "https://www.cronista.com/economia-politica/las-prioridades-del-presupuesto-2027-superavit-consumo-recaudacion-y-baja-de-impuestos/"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Las 10 claves del Presupuesto 2027: qué proyecta el Gobierno para el dólar, la inflación y la actividad económica",
+       "url": "https://www.infobae.com/economia/2026/09/16/las-10-claves-del-presupuesto-2027-que-proyecta-el-gobierno-para-el-dolar-la-inflacion-y-la-actividad-economica/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-reune-a-la-mesa-politica-en-la-previa-al-envio-del-presupuesto-2027-al-congreso-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4VQJTZ4RHRGLNFAJ6MWBIX2MMI.jpeg?auth=b4b1154f8991fba674f92067b1e6bf8c83aa58f87e1bb0a471ce1f4167df67f1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:59",
+     "autor": "Cecilia Devanna, Esteban Lafuente",
+     "titulo_original": "Se presentó el presupuesto: el Gobierno prevé una inflación del 18% para 2027 y un dólar que llegará a $1847,60 a fin de año"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "analistas privados creen que el Gobierno volvió a ser optimista con el Presupuesto 2027",
+     "resumen": "Economistas consultados por Infobae consideran que la proyección de crecimiento del 4% y la inflación por debajo del 20% luce demasiado optimista, en línea con desvíos similares que tuvo el equipo económico este año. El economista Miguel Kiguel, cercano al Gobierno, advirtió que aunque la inflación llega sólida, los próximos once meses estarán atravesados por una tensión creciente sobre las reservas del Banco Central y la actividad.",
+     "relacionadas": [
+      {
+       "id": "IP-16",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Kiguel, economista cercano al Gobierno, lanzó advertencia por reservas y actividad",
+       "url": "https://www.iprofesional.com/finanzas/464432-economista-cercano-al-gobierno-lanzo-advertencia-por-reservas"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/16/presupuesto-2027-el-gobierno-vuelve-a-exagerar-la-proyeccion-de-crecimiento-y-confia-en-mantener-al-dolar-sin-sobresaltos/",
+     "imagen": "https://www.infobae.com/resizer/v2/QMR3W7MAK5CXBGU4YHVJK2UKXM.jpg?auth=7913c645f77b6729fdc927b150ac97698f828770368546632ad1f427685c00ef&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:42",
+     "autor": "Pablo Wende",
+     "titulo_original": "Presupuesto 2027: el Gobierno vuelve a exagerar la proyección de crecimiento y confía en mantener al dólar sin sobresaltos"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "el riesgo país volvió a superar los 500 puntos por el ruido financiero global",
+     "resumen": "El riesgo país argentino trepó 3,3% hasta los 506 puntos, impulsado por la suba de tasas de los bonos del Tesoro de Estados Unidos y el rally del petróleo. Los bonos soberanos cayeron hasta 0,88% y los ADR de empresas argentinas retrocedieron hasta 3,8%, encabezados por Mercado Libre, mientras el Merval cedió 0,3% hasta los US$ 1.929. Tenaris, Vista e YPF fueron de las pocas acciones que subieron, entre 2,4% y 2,6%.",
+     "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-vuelve-a-superar-los-500-puntos-impulsado-por-el-ruido-global/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:21",
+     "autor": "Leandro Dario",
+     "titulo_original": "Riesgo país volvió a superar los 500 puntos impulsado por el ruido global",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-20",
+     "titulo": "crece la demanda de cobertura cambiaria de cara a un 2027 electoral",
+     "resumen": "Según El Cronista, más agentes reducen su exposición al peso ante la incertidumbre electoral de 2027, lo que impulsa la demanda de instrumentos ligados al tipo de cambio. En el último mes el dólar oficial pasó de $ 1.515 a $ 1.532,27, una suba de aproximadamente 1,1%, en un escenario que el BCRA todavía mantiene bajo control.",
+     "url": "https://www.cronista.com/finanzas-mercados/crece-demanda-por-cobertura-pero-el-flujo-de-dolares-y-la-estrategia-del-bcra-mantiene-la-presion-bajo-control/",
+     "imagen": "https://www.cronista.com/resizer/v2/YIJ5BD3I3NH7RL4OTIHRRIU7KQ.jpg?auth=e8f0481cc9086e7785a0a398475af809fa82b581caa1268468af0944ddb98360&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:13",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Crece demanda por cobertura, pero el flujo de dólares y la estrategia del BCRA mantiene la presión bajo control",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-14",
+     "titulo": "la industria usa cada vez menos su capacidad instalada y toca el piso desde marzo",
+     "resumen": "La utilización de la capacidad instalada industrial fue del 58,2% en julio, por debajo del 58,4% de julio de 2025 y del 59,1% de junio de este año, y lejos del pico de 61,4% de septiembre pasado. Para una empresa: una industria que no despega presiona sobre la demanda de insumos y materiales, un dato a monitorear para planificar ventas al sector productivo.",
+     "url": "https://www.clarin.com/economia/industria-despega-uso-capacidad-instalada-cayo-nivel-marzo_0_YqBOZtZzAc.html",
+     "imagen": "https://www.clarin.com/img/2026/02/27/QuuNme5zh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La industria no despega y el uso de la capacidad instalada cayó al nivel más bajo desde marzo",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-20",
+     "titulo": "el Gobierno admite que no cumplirá la meta fiscal de 2026 pero confía en la revisión del FMI",
+     "resumen": "El Ejecutivo reconoció que incumplirá el objetivo fiscal fijado para este año, aunque espera superar sin sobresaltos la tercera revisión del programa con el Fondo Monetario Internacional. Funcionarios del organismo, con sede en Washington, visitarán Buenos Aires desde el 21 de septiembre para iniciar esa revisión.",
+     "url": "https://www.ambito.com/economia/fmi-el-gobierno-admite-que-incumplira-la-meta-fiscal-2026-pero-confia-superar-la-revision-n6322786",
+     "imagen": "https://media.ambito.com/p/9072caa927e06c48602ad70718770ef1/adjuntos/239/imagenes/043/645/0043645245/1200x675/smart/fmi-caputo.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:14",
+     "autor": "",
+     "titulo_original": "FMI: el Gobierno admite que incumplirá la meta fiscal de 2026, pero confía en superar la revisión",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-22",
+     "titulo": "la inflación de alimentos se acelera en septiembre de la mano de la carne avícola",
+     "resumen": "Los precios de los alimentos mostraron una nueva aceleración en septiembre, con la carne avícola disparándose 3,3% en la segunda semana del mes y la vacuna subiendo 0,7%, junto con un fuerte salto en los panificados. El dato reabre la pregunta sobre si el IPC general podrá volver a ubicarse en torno al 2% mensual. Para una empresa: los aumentos en insumos alimenticios presionan sobre los costos logísticos y de personal, aun en sectores no directamente vinculados al consumo masivo.",
+     "url": "https://www.ambito.com/economia/se-acelero-la-inflacion-alimentos-septiembre-el-ipc-volvera-al-2-n6322640",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:31",
+     "autor": "",
+     "titulo_original": "Se aceleró la inflación de alimentos en septiembre: ¿el IPC volverá al 2%?",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "un socio de Manzano en Edenor y Metrogas busca ahora quedarse con AySA",
+     "resumen": "Mauricio Filiberti, socio de José Luis Manzano y Daniel Vila en Edenor, que además se hará cargo de Metrogas y tiene compromisos con estaciones de servicio de Shell, avanza como accionista minoritario para quedarse con el control de AySA. La concesión de agua y saneamiento del área metropolitana define además actualizaciones tarifarias automáticas y revisiones extraordinarias para quien resulte adjudicatario, en una puja que también compite el Grupo Roggio.",
+     "relacionadas": [
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Las dos empresas que pelean con quedarse con el control de AySA",
+       "url": "https://www.iprofesional.com/negocios/464514-las-dos-empresas-que-pelean-con-quedarse-con-el-control-de-aysa"
+      },
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Qué recibirán Roggio o Rowing si ganan la pelea por AySA",
+       "url": "https://www.iprofesional.com/negocios/464510-la-letra-chica-de-aysa-permite-revisar-tarifas-y-reprogramar-obras"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/socio-manzano-luz-gas-nafta-quiere-agua-buenos-aires_0_0qRhukM73f.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/jGQUJW2_n_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un socio de Manzano que tiene la luz, el gas y la nafta también quiere el agua en Buenos Aires"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Edesur cerró un préstamo sindicado con cinco bancos para reforzar la red eléctrica",
+     "resumen": "La distribuidora eléctrica obtuvo un financiamiento sindicado a tres años por $ 320.000 millones con cinco bancos privados, y puso como garantía el 30% de su facturación presente y futura. Los fondos se destinarán a un plan de inversiones para reforzar la red y mejorar el servicio en su área de concesión.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Edesur recurrió a cinco bancos y puso parte de sus facturas como garantía",
+       "url": "https://www.iprofesional.com/negocios/464521-edesur-obtiene-320-000-millones-y-cede-parte-de-su-facturacion-como-garantia"
+      }
+     ],
+     "url": "https://www.iprofesional.com/energia/464515-edesur-cierra-prestamo-millonario-para-obras-y-mejora-del-servicio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/03/551329.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:41",
+     "autor": "",
+     "titulo_original": "Edesur cierra un préstamo millonario en pesos para obras y mejora del servicio"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Granja Tres Arroyos, la mayor avícola del país, se presentó en concurso de acreedores",
+     "resumen": "La empresa avícola Granja Tres Arroyos se presentó en concurso preventivo ante la Justicia Nacional en lo Comercial, en medio de una crisis financiera, judicial y laboral que ya incluye ejecuciones, pedidos de quiebra, plantas paralizadas y unos 1.730 despidos denunciados por los sindicatos. Es la segunda firma del grupo GTA que recurre a este mecanismo, después de Wade SA.",
+     "url": "https://www.lanacion.com.ar/economia/campo/crisis-en-la-mayor-avicola-granja-tres-arroyos-se-presento-en-concurso-de-acreedores-ante-la-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/62YW4N4RWVD7NPGNNDC3EAVICU.png?auth=7d1b0dffc5ab919afaa01fe12beadbe5078b762210b88ff60406f67bc2d73478&smart=true&width=900&height=587",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:57",
+     "autor": "Belkis Martínez",
+     "titulo_original": "Crisis en la mayor avícola: Granja Tres Arroyos se presentó en concurso de acreedores ante la Justicia",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Bioceres perdió US$ 54,4 millones pero apuesta a la semilla de trigo HB4 para recuperarse",
+     "resumen": "Bioceres Crop Solutions, la firma que cotiza en Nueva York y desarrolló la semilla de trigo resistente a la sequía HB4, cerró su ejercicio fiscal con una pérdida neta de US$ 54,4 millones, 11% más que el año anterior, sobre ingresos de US$ 238,3 millones, un 18% menos. La compañía atribuyó buena parte de la caída a la reconfiguración de su negocio de semillas, hoy en manos de Horus Agro y Natal Seeds.",
+     "url": "https://www.cronista.com/negocios/bioceres-perdio-54-millones-en-un-ano-pero-un-dato-la-pone-en-carrera-para-volver-a-ser-la-agtech-estrella/",
+     "imagen": "https://www.cronista.com/resizer/v2/FQEHSOLUTFFKNMD2OQLUKNMXGM.jpg?auth=0b0bd88ac154c6ee2129e142a2d5ad526ea2b7a93a8d6b0932928e4d2cce0184&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "",
+     "titulo_original": "Bioceres perdió $ 54 millones en un año pero un dato la pone en carrera para volver a ser la agtech “estrella”",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-23",
+     "titulo": "Rizobacter cerró el año con pérdidas millonarias tras refinanciar su deuda",
+     "resumen": "La empresa de biotecnología agrícola Rizobacter terminó el ejercicio con pérdidas millonarias, afectada por los costos financieros derivados de la refinanciación de sus pasivos. La compañía evalúa nuevas medidas, entre ellas una posible venta de activos.",
+     "url": "https://www.iprofesional.com/negocios/464466-rizobacter-perdio-36798-millones-pesos-y-admite-dudas-sobre-su-continuidad",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/03/512978.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:04",
+     "autor": "",
+     "titulo_original": "Tras refinanciar sus deudas, Rizobacter cerró el año con pérdidas millonarias",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-22",
+     "titulo": "las empresas multinacionales aumentaron las transferencias de dólares a sus casas matrices",
+     "resumen": "La compra de dólares minorista se mantiene elevada, pero los bancos detectaron como novedad un fuerte salto en las transferencias de divisas que las filiales locales de multinacionales envían a sus casas matrices en el exterior. Para una empresa: un mayor giro de utilidades al exterior por parte de las multinacionales puede ser una señal a monitorear sobre las expectativas del mercado respecto de la brecha cambiaria futura.",
+     "url": "https://www.iprofesional.com/finanzas/464314-compra-de-dolares-no-cede-y-bancos-detectaron-nueva-tendencia-entre-ahorristas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601650.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:12",
+     "autor": "",
+     "titulo_original": "La compra de dólares no cede y los bancos detectaron nueva tendencia entre empresas",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "el dólar tarjeta sigue vivo aunque ARCA eliminó las percepciones para comprar divisas",
+     "resumen": "Pese a que la Agencia de Recaudación y Control Aduanero eliminó las percepciones impositivas para la compra de moneda extranjera para atesoramiento desde mediados de abril de 2025, mantuvo el recargo del 30% de Ganancias o Bienes Personales sobre los consumos en dólares con tarjeta, lo que sostiene vigente el llamado dólar tarjeta.",
+     "url": "https://www.cronista.com/economia-politica/por-que-no-se-elimino-el-dolar-tarjeta-cuanto-recaudo-arca-en-lo-que-va-de-2026/",
+     "imagen": "https://www.cronista.com/resizer/v2/LUB6SI53UNAZHF7QUWJBWCIBRU.jpg?auth=7ec80c0dd699e62969bb3f751c066ff5a2f79ae3e0ae508a421959690b57c873&smart=true&width=900&height=566",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "Por qué no se eliminó el dólar tarjeta: cuánto recaudó ARCA en lo que va de 2026",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-24",
+     "titulo": "las demandas laborales por accidentes de trabajo marcan un nuevo récord anual",
+     "resumen": "La Unión de Aseguradoras de Riesgos del Trabajo informó que en agosto se iniciaron 14.966 demandas laborales, un 11,3% más que un año antes y el segundo registro mensual más alto desde 1996, lo que proyecta un total de 138.243 juicios para todo 2026. En los primeros ocho meses del año ya se acumularon 87.553 nuevas causas. Para una empresa: la litigiosidad laboral sigue en niveles récord y es un costo de cobertura de riesgos del trabajo a seguir de cerca en la planificación presupuestaria.",
+     "relacionadas": [
+      {
+       "id": "LN-09",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Javier Milei y sus medidas, en vivo: Caputo defendió el rumbo económico y dijo que el Presidente tiene “coraje”",
+       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caputo-defendio-el-rumbo-economico-y-dijo-que-el-presidente-tiene-nid16092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/16/industria-del-juicio-las-demandas-laborales-por-accidentes-llegaron-al-record-de-15000-por-mes-y-se-esperan-138000-para-el-ano/",
+     "imagen": "https://www.infobae.com/resizer/v2/XNVAJPAE2BEB5ARA3U4NBLSOWY.png?auth=a45a88ef90c35281012de66ea6c998eba74df92f226e3a42a7c31a0f3a43f269&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:41",
+     "autor": "Sebastián Catalano",
+     "titulo_original": "Industria del juicio: las demandas laborales por accidentes llegaron al récord de 15.000 por mes y se esperan 138.000 para el año"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "los gremios reclaman un salario mínimo de $ 3.116.298 frente al piso oficial",
+     "resumen": "El Frente de Sindicatos Unidos calculó que en julio un trabajador necesitó $ 3.116.298 para cubrir necesidades básicas, ocho veces el Salario Mínimo, Vital y Móvil vigente, que consideran el más bajo de la historia. El cálculo no toma como referencia la canasta del INDEC sino nueve necesidades vitales que enumera la Constitución Nacional, como alimentación, vivienda, salud y transporte.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Sindicatos reclaman que el salario mínimo supere los $3,1 millones para cubrir necesidades básicas",
+       "url": "https://www.ambito.com/politica/sindicatos-reclaman-que-el-salario-minimo-supere-los-31-millones-cubrir-necesidades-basicas-n6322799"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/cuanto-deberia-ganar-un-trabajador-para-vivir-dignamente-la-canasta-gremial-que-desafia-el-piso-oficial/",
+     "imagen": "https://www.cronista.com/resizer/v2/LO25YS7CRJHBLHZCPAC3DLMMIE.jpg?auth=e5dda7233322fca1032f897aa972d0c4c21d0ef40919054a4c9e98f71e30ffac&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:35",
+     "autor": "",
+     "titulo_original": "Cuánto debería ganar un trabajador para vivir dignamente: la canasta gremial que desafía el piso oficial"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "la UIA le pidió al Gobierno suspender embargos y diferir impuestos para las pymes",
+     "resumen": "La Unión Industrial Argentina presentó un paquete de medidas que incluye suspender embargos, diferir impuestos y reducir costos financieros para las pequeñas y medianas empresas. La entidad advirtió además por el impacto de las tarifas energéticas y la caída de la producción en el sector. Para una empresa: el diagnóstico de la UIA sobre costos financieros y energéticos es un antecedente útil para negociar plazos con proveedores y bancos.",
+     "url": "https://www.ambito.com/politica/la-uia-alerto-la-situacion-las-pymes-y-presento-al-gobierno-un-paquete-medidas-n6322811",
+     "imagen": "https://media.ambito.com/p/c56b488fe67b4fdd154328ee1423d928/adjuntos/239/imagenes/042/298/0042298876/1200x675/smart/uiapng.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:39",
+     "autor": "",
+     "titulo_original": "La UIA alertó por la situación de las pymes y presentó al Gobierno un paquete de medidas",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "AM-23",
+     "titulo": "los créditos hipotecarios UVA achican tasas y la cuenta sueldo empieza a pesar más",
+     "resumen": "Los bancos redujeron las tasas de los créditos hipotecarios UVA en septiembre, aunque la exigencia de radicar la cuenta sueldo en la entidad abrió una brecha mayor entre las ofertas disponibles. Para una empresa: una mejora en el acceso al crédito hipotecario puede sostener la demanda de materiales de construcción y artículos para el hogar en los próximos meses.",
+     "url": "https://www.ambito.com/economia/creditos-hipotecarios-uva-2026-que-bancos-bajaron-mas-sus-tasas-y-cuales-son-los-mas-baratos-n6322581",
+     "imagen": "https://media.ambito.com/p/665cd1998416907c5a78859dff97fad0/adjuntos/239/imagenes/043/626/0043626554/1200x675/926x496:946x516/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios UVA 2026: qué bancos bajaron más sus tasas y cuáles son los más baratos",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-18",
+     "titulo": "la cadena Somos Palta busca socios para abrir franquicias en el interior del país",
+     "resumen": "La cadena gastronómica nacida en Nordelta planea abrir hasta cinco locales por año mediante el sistema de franquicias y llevar la marca a nuevas ciudades del interior. La nota detalla los costos que implica sumarse como franquiciado.",
+     "url": "https://www.iprofesional.com/negocios/464109-cuanto-cuesta-abrir-una-franquicia-de-restaurantes-somos-palta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625357.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Somos Palta busca socios para abrir nuevos restaurantes y esto cuesta tener una franquicia",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-14",
+     "titulo": "solo tres automotrices accedieron al cupo para importar autos electrificados sin arancel",
+     "resumen": "De 9.617 solicitudes presentadas, apenas tres terminales pudieron acceder a un remanente de 865 unidades de autos electrificados de los cupos de 2025 y 2026 libres de arancel, por lo que la mayoría de los pedidos fue rechazada.",
+     "url": "https://www.iprofesional.com/autos/464508-tres-automotrices-accedieron-al-cupo-para-importar-autos-sin-arancel",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610015.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:25",
+     "autor": "",
+     "titulo_original": "Solo tres automotrices accedieron al cupo para importar autos electrificados sin arancel",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-22",
+     "titulo": "Estados Unidos prepara un paquete de armas por US$ 2.800 millones para Israel",
+     "resumen": "En medio de una escasez de municiones derivada de su enfrentamiento con Irán, Estados Unidos prepara un envío millonario de armamento a Israel para que continúe con los bombardeos sobre la Franja de Gaza. El acuerdo rondaría los US$ 2.800 millones.",
+     "url": "https://www.clarin.com/mundo/medio-escasez-municiones-guerra-iran-eeuu-prepara-millonario-paquete-armas-israel_0_aICEoFikbG.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/Cu0QlImKS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:16",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "En medio de la escasez de municiones por la guerra con Irán, EE.UU. prepara un millonario paquete de armas para Israel",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-24",
+     "titulo": "una sesión inédita y televisada paraliza a la Corte Suprema de Brasil",
+     "resumen": "El Supremo Tribunal Federal brasileño vivió una jornada de casi seis horas de gritos y acusaciones cruzadas entre sus jueces, que terminó sin que el tribunal pudiera avanzar sobre el pedido de investigación contra el magistrado Alexandre de Moraes por su presunta relación con el banquero preso Daniel Vorcaro, acusado de liderar el mayor fraude financiero de la historia del país.",
+     "url": "https://www.lanacion.com.ar/el-mundo/escandalo-en-la-corte-de-brasil-gritos-acusaciones-y-una-decision-clave-aplazada-en-plena-campana-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AT7VAPSHP5HDFPAWE6DEKYROT4.JPG?auth=b20a6f4d1e43d743034af2517aca795aac0b55341e746edbcfdadeeb4ad1487f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:38",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "Escándalo en la Corte de Brasil: gritos, acusaciones y una decisión clave aplazada en plena campaña",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Estados Unidos admite por primera vez que tiene armas desplegadas en el espacio",
+     "resumen": "El secretario de la Fuerza Aérea estadounidense confirmó que el país cuenta con armas de control espacial en órbita para defenderse de acciones hostiles de adversarios, una revelación que generó protestas de Rusia y de China, que advirtió sobre el riesgo de convertir el espacio en un campo de batalla.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/estados-unidos-reconoce-por-primera-vez-que-desplego-armas-en-el-espacio-y-provoca-la-reaccion-de-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LJGAMQU6BJDUXG3JSY7WLP5BYE.jpg?auth=35040be283a3f6fe011751a0795d1674f2fa0a5b22540c051f374c4feb71400f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:51",
+     "autor": "",
+     "titulo_original": "Estados Unidos reconoce por primera vez que desplegó armas en el espacio y provoca la reacción de Rusia y China",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-12",
+     "titulo": "un ataque con drones rusos contra una camioneta dejó cinco muertos en el sur de Ucrania",
+     "resumen": "Un dron ruso atacó un minibús cerca de la línea del frente en el distrito de Nikopol, en la región de Dnipropetrovsk, y provocó al menos cinco muertos y siete heridos, según confirmó el gobernador regional.",
+     "url": "https://www.infobae.com/america/mundo/2026/09/16/rusia-ataco-con-drones-una-camioneta-en-el-sur-de-ucrania-al-menos-cinco-muertos-y-siete-heridos/",
+     "imagen": "https://www.infobae.com/resizer/v2/ADHGVUPWANAPVKBDZFYPUKYSGE.jpg?auth=f1025612b0ccd4b9eb19fe004632902a2f576ca1ba3cbc96526b9470c38dfe92&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:23",
+     "autor": "",
+     "titulo_original": "Rusia atacó con drones una camioneta en el sur de Ucrania: al menos cinco muertos y siete heridos",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Von der Leyen propuso suspender estándares migratorios ante emergencias como la de Ceuta",
+     "resumen": "En su discurso anual sobre el Estado de la Unión ante el Parlamento Europeo, la presidenta de la Comisión Europea planteó habilitar una suspensión temporal, limitada y automática de los procedimientos ordinarios de expulsión de migrantes en situaciones de emergencia similares a la vivida en Ceuta. Von der Leyen también fijó prioridades para el nuevo curso político en inteligencia artificial, cambio climático, defensa y la relación con China.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Von der Leyen propone suspender temporalmente los estándares de expulsión de migrantes en “emergencias” como la de Ceuta: “No renunciaremos a proteger nuestras fronteras”",
+       "url": "https://www.infobae.com/espana/2026/09/16/von-der-leyen-propone-suspender-temporalmente-los-estandares-de-expulsion-de-migrantes-en-emergencias-como-la-de-ceuta-no-renunciaremos-a-proteger-nuestras-fronteras/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/16/von-der-leyen-pronunciara-el-discurso-sobre-el-estado-de-la-ue-y-presentara-la-hoja-de-ruta-del-bloque-para-el-proximo-ano/",
+     "imagen": "https://www.infobae.com/resizer/v2/LHNKY7DJSFEBDNMK6GNEX5XETQ.JPG?auth=a4bc46d6a6cb4744ee7ea816c025780082024b8914089ea175ab7236c451558a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:03",
+     "autor": "",
+     "titulo_original": "Von der Leyen pronunciará el discurso sobre el Estado de la UE y presentará la hoja de ruta del bloque para el próximo año"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Bolivia y Paraguay cerrarán después de 88 años la definición de su frontera común",
+     "resumen": "Ambos países discuten en La Paz la aprobación de un último tramo de 40 kilómetros de límite, que completará la delimitación de los 742 kilómetros de frontera común originada en la guerra del Chaco, librada entre 1932 y 1935.",
+     "url": "https://www.clarin.com/mundo/despues-88-anos-bolivia-paraguay-terminaran-definir-742-kilometros-frontera-comun_0_ZhY8XcYrsi.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/7WnwKqS93_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:34",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Después de 88 años, Bolivia y Paraguay terminarán de definir los 742 kilómetros de su frontera común",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent, la revista francesa de análisis geopolítico.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza la erosión del poder militar de Estados Unidos",
+     "resumen": "La revista francesa examina cómo la estrategia de conmoción y pavor que Estados Unidos aplicó en casi todas sus guerras del último medio siglo, y que reapareció en el reciente conflicto con Irán, convive hoy con signos de desgaste de la primera potencia militar mundial. El análisis pone el foco en la brecha entre la demostración de fuerza inicial y la capacidad real de sostener una guerra prolongada.",
+     "url": "https://legrandcontinent.eu/es/2026/09/16/ejercito-estadounidense-ya-sabe-como-hacer-la-guerra/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/SIPA_ap23057913_000005-scaled.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "05:32",
+     "autor": "Louis Puel",
+     "titulo_original": "El ejército estadounidense ya no sabe cómo hacer la guerra",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent detecta un salto en las prohibiciones de salida del territorio en China",
+     "resumen": "Según datos de la Corte Popular Suprema china recopilados por Safeguard Defenders, las menciones a la prohibición de salir del país en registros judiciales se multiplicaron más de 4.300 veces desde 2014, el año posterior a la llegada de Xi Jinping al poder. China cuenta hoy con 18 leyes e instrumentos legales que pueden usarse para impedir la salida del territorio a ciudadanos chinos o extranjeros.",
+     "url": "https://legrandcontinent.eu/es/2026/09/16/las-prohibiciones-de-salida-del-territorio-aumentan-con-xi-jinping/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Las prohibiciones de salida del territorio se han disparado desde que Xi Jinping llegó al poder",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-03",
+     "titulo": "la fragmentación del comercio mundial golpearía con más fuerza a los países más pobres",
+     "resumen": "Un informe de la Organización Mundial del Comercio advierte que la proporción del comercio mundial que se realiza bajo el principio de nación más favorecida cayó del 80% en 2022 al 72% a comienzos de 2026, en el marco de una guerra arancelaria que, según su directora general Ngozi Okonjo-Iweala, generó las perturbaciones más graves al sistema comercial en 80 años. La revista señala que, a pesar de los aranceles impuestos por Donald Trump, Estados Unidos es uno de los países menos afectados por esta fragmentación, mientras que las economías más pobres podrían perder hasta una cuarta parte de su PBI.",
+     "url": "https://legrandcontinent.eu/es/2026/09/15/la-fragmentacion-del-comercio-mundial-podria-costar-a-paises-pobres-un-cuarto-de-su-pib/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:27",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La fragmentación del comercio mundial podría suponer para los países más pobres una pérdida de casi una cuarta parte de su PIB",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-17",
+     "titulo": "Marcelo Gallardo empieza su operativo en Ecuador con la mira puesta en la gira asiática",
+     "resumen": "Siete meses después de dejar River, Gallardo asumió el desafío de dirigir a la Selección de Ecuador, que llegó a los 16avos de final del Mundial. Este fin de semana viajará para firmar contrato y luego se sumará al plantel en su primer objetivo, una gira por Asia, en medio de la expectativa generada en el país, que incluye un posible recibimiento del presidente Daniel Noboa.",
+     "url": "https://www.clarin.com/deportes/operativo-marcelo-gallardo-ecuador-plan-darle-salto-calidad-seleccion-quiere-protagonista_0_8BT7ZkWwOO.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/ZDDiCpFkW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Operativo Marcelo Gallardo en Ecuador: cómo es el plan para darle un salto de calidad a la Selección que quiere ser protagonista",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Boca empató con San Pablo y es semifinalista de la Copa Sudamericana",
+     "resumen": "Boca Juniors igualó 1 a 1 en el Morumbí y selló su clasificación a semifinales con un global de 2 a 1 sobre San Pablo, gracias al triunfo previo en la Bombonera. Leandro Lozano marcó el gol y lo dedicó a su excompañero Juan Izquierdo, el defensor de Nacional fallecido tras desplomarse en esa misma cancha hace dos años. El próximo rival será Vasco da Gama.",
+     "relacionadas": [
+      {
+       "id": "CL-21",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Leandro Lozano, del triste recuerdo de Juan Izquierdo a la gloria de su primer gol en Boca en el Morumbí: \"Perdí un compañero en esta cancha\"",
+       "url": "https://www.clarin.com/deportes/leandro-lozano-triste-recuerdo-juan-izquierdo-gloria-primer-gol-boca-morumbi-perdi-companero-cancha_0_MTqsqLiNS7.html"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La emotiva dedicatoria de Leandro Lozano tras el pase de Boca a la semifinal de la Sudamericana: “Acá perdí un compañero”",
+       "url": "https://www.infobae.com/deportes/2026/09/16/la-emotiva-dedicatoria-de-leandro-lozano-tras-el-pase-de-boca-a-la-semifinal-de-la-sudamericana-aca-perdi-un-companero/"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Boca aguantó en Brasil, igualó con San Pablo y es semifinalista de la Copa Sudamericana",
+       "url": "https://www.ambito.com/deportes/boca-visita-san-pablo-busca-la-semifinal-la-copa-sudamericana-horario-tv-y-formaciones-n6322416"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/boca-sufrio-final-paso-justicia-san-pablo-brasil-semifinalista-copa-sudamericana-2026_0_8x1BDu1To9.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/BNK-ck0M-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:11",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca sufrió hasta el final pero pasó con justicia a San Pablo en Brasil y es semifinalista de la Copa Sudamericana 2026"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Lopetegui y Longo lograron un podio histórico para el patín artístico argentino",
+     "resumen": "Micaela Lopetegui y Valentina Longo se colgaron las medallas de plata y bronce en el programa libre de los Juegos Suramericanos 2026, disputados en Rosario. Lopetegui sumó 147,66 puntos y quedó segunda detrás de la chilena Josefa Ramos, tras resignar su viaje de egresados para poder competir.",
+     "relacionadas": [
+      {
+       "id": "CL-08",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Micaela Lopetegui, la patinadora que resignó el viaje de egresados por la medalla plateada de los Juegos Suramericanos 2026: \"Vale por 1000\"",
+       "url": "https://www.clarin.com/deportes/micaela-lopetegui-patinadora-resigno-viaje-egresados-medalla-plateada-juegos-suramericanos-2026-vale-1000_0_DkcaOyk6aL.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/micaela-lopetegui-y-valentina-longo-un-podio-historico-para-el-patin-artistico-en-los-juegos-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7KOCNYWAXBHWRJSVSU2PUJ75G4.jpg?auth=20a47893f6f10dc8b21b0cb231893ac7c76a230e77a2acfd9a73f0ad2bbec38c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:23",
+     "autor": "Vanesa Valenti",
+     "titulo_original": "Micaela Lopetegui y Valentina Longo: un podio histórico para el patín artístico en los Juegos Suramericanos 2026"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "Platense ganó pero quedó eliminado de la Copa Libertadores por Fluminense",
+     "resumen": "El equipo de Martín Palermo venció 2 a 1 a Fluminense en Vicente López y llegó a igualar la serie tras el 0-2 sufrido en el Maracaná, pero el gol de Agustín Canobbio en el complemento le dio al equipo brasileño la clasificación a semifinales por un global de 3 a 2.",
+     "relacionadas": [
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Platense le ganó a Fluminense pero no le alcanzó y quedó eliminado de la Copa Libertadores",
+       "url": "https://www.ambito.com/deportes/platense-le-gano-fluminense-pero-no-le-alcanzo-y-quedo-eliminado-la-copa-libertadores-n6322823"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/platense-vs-fluminense-en-vivo-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C4GW4WFJFRFY3HUW4BNFRZVC7I.jpg?auth=996f7737d9581a8fbd31cdea70eff4f8444665972a1c47d60d28d7ad751cefc4&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:05",
+     "autor": "Augusto Sanz",
+     "titulo_original": "Platense venció a Fluminense en Vicente López, pero el 2-3 global lo eliminó de la Copa Libertadores"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Messi fue convocado para el amistoso ante Benín y se despedirá en el Monumental",
+     "resumen": "Se confirmó la lista de convocados de la Selección para los primeros amistosos posteriores al Mundial, con Lionel Messi incluido para el partido ante Benín en el estadio Monumental. Las entradas se pondrían en venta a fines de septiembre, aunque todavía no se confirmaron oficialmente la fecha ni los precios.",
+     "relacionadas": [
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cuándo salen y dónde sacar las entradas para el último partido de Messi en la Selección argentina",
+       "url": "https://www.ambito.com/deportes/cuando-salen-y-donde-sacar-las-entradas-el-ultimo-partido-messi-la-seleccion-argentina-n6322834"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/464511-cuando-sera-la-despedida-de-messi-con-la-seleccion-en-el-monumental",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620869.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:26",
+     "autor": "",
+     "titulo_original": "Messi fue convocado para un amistoso con la Selección y se despedirá en el Monumental"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Baltazar Leguizamón busca hacer historia como el primer argentino en la NASCAR",
+     "resumen": "El piloto de Capitán Sarmiento, único argentino en la historia de la NASCAR, ya disputó tres carreras con un Chevrolet Camaro y negocia con el equipo Young Motorsports el presupuesto para competir el resto de 2026 y toda la temporada 2027. Leguizamón también trabaja en la posibilidad de traer un auto de la categoría para correr en la Argentina.",
+     "url": "https://www.infobae.com/deportes/2026/09/16/el-argentino-que-busca-hacer-historia-en-la-nascar-y-la-chance-de-una-carrera-en-nuestro-pais-quieren-venir/",
+     "imagen": "https://www.infobae.com/resizer/v2/4J62PN5GLNHLPCKLJQOXFO6KNQ.JPG?auth=1f5977934852e4e91e6228eb9cf2c96b5e615aa5d9d4da58be507ea7c0318c4c&smart=true&width=900&height=498",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:04",
+     "autor": "Darío Coronel",
+     "titulo_original": "El argentino que busca hacer historia en la NASCAR y la chance de una carrera en nuestro país: “Quieren venir”",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Molteni y González volvieron a unirse en dobles para disputar el US Open",
+     "resumen": "La dupla argentina, que había cortado su sociedad meses atrás, se reencontró para jugar el Abierto de Estados Unidos en dobles. Machi González y Andrés Molteni llegaron a disputar el Masters de la especialidad y formaron parte de la Copa Davis y de los Juegos Olímpicos de París 2024.",
+     "url": "https://www.infobae.com/deportes/2026/09/16/no-sos-vos-soy-yo-el-reencuentro-de-molteni-y-gonzalez-una-pareja-que-se-separo-sin-pelearse/",
+     "imagen": "https://www.infobae.com/resizer/v2/4Z6IA5ZTU5HJVIZ5RW6FZPSNRA?auth=f59efc202efd74f1bd0024b06f35138c7f2b2014a0c16a7ba1deac287a578876&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:02",
+     "autor": "Quique Cano",
+     "titulo_original": "“No sos vos, soy yo”: el reencuentro de Molteni y González, una pareja que se separó sin pelearse",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "viñedos y termas: la experiencia eno-termal de un destino entrerriano junto al río Uruguay",
+     "resumen": "Varias bodegas de Entre Ríos combinan catas de vino, platos típicos y tratamientos termales en un circuito que también incluye visitas al Molino Forclaz, paseos guiados y artesanías, todo junto a las playas del río Uruguay.",
+     "url": "https://www.clarin.com/viajes/vinedos-termas-original-experiencia-eno-termal-destino-entrerriano-historia-playas-rio_0_cUgh2FqWjq.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/D7xjV0NG3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Viñedos y termas: la original \"experiencia eno-termal\" de un destino entrerriano con historia y playas de río",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-13",
+     "titulo": "buscan voluntarios para vivir en la Patagonia chilena a cambio de alojamiento y comidas",
+     "resumen": "Un proyecto de conservación en Lonquimay, dentro del Geoparque Kütralkura reconocido por la Unesco, ofrece alojamiento, comidas y excursiones a cambio de colaborar unas 30 horas semanales en tareas del predio, cercano a la frontera con la Argentina. Una propuesta similar, en un complejo de glamping próximo al Parque Nacional Torres del Paine, pide cuatro horas diarias de trabajo a cambio de estadía completa.",
+     "relacionadas": [
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Buscan voluntarios para trabajar en la Patagonia: ofrecen hospedaje, comidas y transporte por menos de 20 horas semanales",
+       "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-trabajar-en-la-patagonia-ofrecen-hospedaje-comidas-y-transporte-por-menos-de-20-horas-semanales/"
+      }
+     ],
+     "url": "https://www.cronista.com/clase/break/se-buscan-voluntarios-para-vivir-gratis-en-la-patagonia-ofrecen-alojamiento-comidas-y-excursiones-a-cambio-de-30-horas-de-trabajo/",
+     "imagen": "https://www.cronista.com/resizer/v2/ONFNRUY4DZCEVIRHPOAMTM73OE.jpg?auth=6cad7a86574e9b79cbbd8de6d61b400b08ea009ea353a5b6e050e016bc30d264&smart=true&width=900&height=502",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:28",
+     "autor": "",
+     "titulo_original": "Se buscan voluntarios para vivir gratis en la Patagonia: ofrecen alojamiento, comidas y excursiones a cambio de 30 horas de trabajo"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-19",
+     "titulo": "cierran otra vez la Garganta del Diablo en Iguazú ante el riesgo de una crecida por El Niño",
+     "resumen": "Por primera vez en la historia del Parque Nacional Iguazú, se desarmarán las pasarelas de la Garganta del Diablo y se las trasladará a tierra firme ante el pronóstico de lluvias intensas asociadas a El Niño. Las pasarelas estarán inhabilitadas al menos 40 días. En el Senado, la legisladora bonaerense Emilia Subiza reclamó acelerar obras hídricas pendientes en seis provincias para prevenir inundaciones.",
+     "relacionadas": [
+      {
+       "id": "LN-23",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Súper Niño: una senadora reclamó obras urgentes y alertó por el riesgo de inundaciones",
+       "url": "https://www.lanacion.com.ar/economia/campo/super-nino-una-senadora-reclamo-obras-urgentes-y-alerto-por-el-riesgo-de-inundaciones-nid15092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/efectos-nino-repercuten-misiones-cierran-vez-garganta-diablo-riesgo-crecida-rio-iguazu_0_re45T96DJv.html",
+     "imagen": "https://www.clarin.com/img/2024/07/05/3HyS3WreY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "02:09",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Medida inédita por los efectos de El Niño en Misiones: cierran otra vez la Garganta del Diablo ante el riesgo de una crecida del río Iguazú"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "así quedó el edificio de Recoleta tras el incendio que afectó a cinco personas",
+     "resumen": "Imágenes del edificio de 13 pisos incendiado en la avenida Callao muestran los pasillos cubiertos de hollín y el departamento de origen del foco completamente destruido. Cuatro personas fueron atendidas en el lugar y una quinta fue trasladada al Hospital Rivadavia por inhalación de humo.",
+     "url": "https://www.lanacion.com.ar/sociedad/todo-destruido-asi-quedo-el-edificio-de-13-pisos-que-se-incendio-en-pleno-recoleta-nid14092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZID27IIYJ5ALXDCERF7ZX7NTTQ.jpg?auth=22ec2172cf88f8822f853e37584d80cbeaaa9c6ea7bd7e6b80d762b3bd02e9ef&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:59",
+     "autor": "",
+     "titulo_original": "“Todo destruido”: así quedó el edificio de 13 pisos que se incendió en pleno Recoleta",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-16",
+     "titulo": "la ANMAT prohibió la actividad de dos laboratorios por fallas en el control de calidad",
+     "resumen": "El organismo sanitario dispuso la inhibición preventiva de Trifarma y Ugal Farmacéutica y ordenó retirar de circulación sus productos en todo el país, tras detectar irregularidades en la producción, el control de calidad y la distribución.",
+     "url": "https://www.infobae.com/sociedad/2026/09/16/la-anmat-prohibio-la-actividad-de-dos-laboratorios-por-irregularidades-en-controles-de-calidad/",
+     "imagen": "https://www.infobae.com/resizer/v2/5KTPUZVCEVABXPIEAVXOAJHSH4.png?auth=3895de9c58299ae81c2a29b8a85b945956dfb15a943a8f09317927df19f373c0&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:46",
+     "autor": "",
+     "titulo_original": "La ANMAT prohibió la actividad de dos laboratorios por irregularidades en controles de calidad",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-15",
+     "titulo": "murió una adolescente de 15 años antes de ingresar a un recital de K-pop en San Isidro",
+     "resumen": "La joven se descompensó momentos antes del show de la banda surcoreana Stray Kids en el Hipódromo de San Isidro y fue trasladada al Hospital Central del partido, donde se confirmó su fallecimiento por un paro cardiorrespiratorio. La Justicia investiga las circunstancias del hecho.",
+     "url": "https://www.lanacion.com.ar/seguridad/murio-una-adolescente-de-16-anos-en-un-recital-de-k-pop-en-san-isidro-nid15092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OPMC3VVYYFEE3PXRBCJQC74CUQ.png?auth=9e426ab87040d5c4a01649be0e46235d7a7783e8688b0b3e14b2d72b46b74813&smart=true&width=900&height=549",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:45",
+     "autor": "",
+     "titulo_original": "Murió una adolescente de 15 años antes de ingresar a un recital de K-Pop en San Isidro",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del miércoles dieciséis de septiembre. El Gobierno envió al Congreso el Presupuesto 2027, con una inflación proyectada del dieciocho por ciento y una expectativa de dólar oficial que llegaría a mil ochocientos cuarenta y siete pesos con sesenta centavos a fin del año próximo, mientras el debate en comisión recién empezará en octubre. En paralelo, el riesgo país volvió a superar los quinientos puntos y el índice Merval cedió levemente, en un clima de mayor cautela financiera a nivel global. Boca Juniors, mientras tanto, se metió en semifinales de la Copa Sudamericana tras un empate en Brasil. Antes de entrar en los temas, un repaso de los indicadores del día. El dólar oficial cerró en mil quinientos treinta pesos para la venta, sin cambios respecto de la rueda anterior. El dólar blue subió a mil quinientos sesenta pesos, cinco pesos más que el día previo. El dólar em e pe se ubicó en mil quinientos treinta y tres pesos con veinte centavos. El riesgo país saltó a quinientos seis puntos, con una suba de más de tres por ciento. Y el oro, que sigue en niveles históricamente altos, cotiza cerca de cuatro mil trescientos setenta y seis dólares la onza. La inflación de agosto, según el último dato oficial, fue del uno con siete por ciento mensual y del treinta y tres coma cinco por ciento interanual. En política, el peronismo kirchnerista redobla la apuesta por sostener la centralidad de Cristina Kirchner de cara a dos mil veintisiete y reclama al gobernador Axel Kicillof mayor protagonismo para ella en las definiciones del espacio. En paralelo, los abogados de la expresidenta anunciaron ante la Organización de las Naciones Unidas un nuevo estudio pericial, elaborado por contadores y economistas, que busca relativizar el peso de Lázaro Báez en la obra pública durante su gestión, con el objetivo de revertir la inhabilitación para ocupar cargos públicos. El Gobierno, por su parte, aprobó mediante decreto un nuevo estatuto para los agentes de la Secretaría de Inteligencia de Estado, que modifica ingresos, ascensos y viajes al exterior a partir de enero de dos mil veintisiete. También se acorta el tiempo para la reforma electoral: la Cámara Nacional Electoral advirtió que las reglas del juego no deben cambiarse cuando se acerca una elección, justo cuando el oficialismo insiste con eliminar las primarias abiertas. Javier Milei, además, acelera la campaña bonaerense: viaja el viernes a Bahía Blanca para un anuncio de inversiones y un acto partidario junto a Diego Santilli, Karina Milei y Sebastián Pareja. En economía, el centro de la escena fue el Presupuesto dos mil veintisiete, que además de las proyecciones de dólar e inflación prevé un crecimiento del producto bruto del cuatro por ciento, un superávit financiero del cero coma dos por ciento del producto y una suba del salario promedio del veinticinco coma cuatro por ciento. Varios economistas privados, entre ellos Miguel Kiguel, advirtieron que esas proyecciones vuelven a ser optimistas y que los próximos meses estarán marcados por tensión sobre las reservas del Banco Central. El Gobierno también admitió que no cumplirá la meta fiscal de este año, aunque confía en superar sin sobresaltos la revisión que el Fondo Monetario Internacional hará a partir del veintiuno de septiembre. La industria, en tanto, sigue sin despegar: la utilización de la capacidad instalada cayó a cincuenta y ocho coma dos por ciento en julio, el nivel más bajo desde marzo. Y los precios de los alimentos volvieron a acelerarse este mes, con la carne de pollo subiendo más de tres por ciento en la segunda semana de septiembre. En impuestos y normativa, sigue vigente el llamado dólar tarjeta, con un recargo del treinta por ciento sobre Ganancias o Bienes Personales, aunque la Agencia de Recaudación y Control Aduanero eliminó las percepciones para la compra de dólares para ahorro. Las demandas laborales por accidentes de trabajo marcan un nuevo récord: en agosto se iniciaron casi quince mil juicios, un once coma tres por ciento más que un año atrás, lo que proyecta un total de ciento treinta y ocho mil para todo el año. Los gremios, por su parte, reclaman un salario mínimo de más de tres millones cien mil pesos, ocho veces el piso oficial vigente. Y la Unión Industrial Argentina le pidió al Gobierno suspender embargos y diferir impuestos para las pequeñas y medianas empresas, que sufren el impacto de las tarifas energéticas y la caída de la producción. En consumo y construcción, los bancos bajaron las tasas de los créditos hipotecarios en unidades de valor adquisitivo, aunque exigen cada vez más que el cliente traslade su cuenta sueldo. La cadena Somos Palta busca franquiciados para abrir hasta cinco locales por año en el interior del país. Y apenas tres automotrices pudieron acceder a un cupo reducido para importar autos electrificados sin arancel, de casi diez mil solicitudes presentadas. En negocios y empresas, se profundiza la pelea por el control de la empresa de agua Aysa, con Mauricio Filiberti, socio de José Luis Manzano en Edenor y próximo dueño de Metrogas, como uno de los candidatos frente al Grupo Roggio. Edesur cerró un préstamo sindicado con cinco bancos por trescientos veinte mil millones de pesos para reforzar su red. La avícola Granja Tres Arroyos se presentó en concurso de acreedores, con mil setecientos treinta despidos denunciados por los sindicatos. Y Bioceres y Rizobacter, dos empresas del sector agtech, cerraron sus balances con pérdidas millonarias. En el mundo, Estados Unidos prepara un paquete de armas por dos mil ochocientos millones de dólares para Israel, en medio de una escasez de municiones derivada de su conflicto con Irán. En Brasil, una sesión inédita y televisada de la Corte Suprema terminó sin que los jueces pudieran avanzar sobre una investigación contra el magistrado Alexandre de Moraes. Estados Unidos, además, reconoció por primera vez que tiene armas desplegadas en el espacio, lo que generó protestas de Rusia y de China. Un ataque con drones rusos contra un minibús dejó cinco muertos en el sur de Ucrania. Y en Estrasburgo, Ursula von der Leyen propuso suspender temporalmente los estándares de expulsión de migrantes en situaciones de emergencia como la vivida en Ceuta. Le Grand Continent analiza esta semana la erosión del poder militar de Estados Unidos, después de la demostración de fuerza contra Irán; también describe el fuerte aumento de las prohibiciones de salida del territorio en China desde que Xi Jinping llegó al poder, y advierte que la fragmentación del comercio mundial podría costarles a los países más pobres hasta una cuarta parte de su producto bruto. En deportes, Boca Juniors empató uno a uno con San Pablo en el Morumbí y se metió en semifinales de la Copa Sudamericana con un global de dos a uno, con gol de Leandro Lozano, que dedicó su tanto a su excompañero Juan Izquierdo. El próximo rival será Vasco da Gama. Marcelo Gallardo empieza su ciclo al frente de la Selección de Ecuador con la mira puesta en una gira por Asia. Platense quedó eliminado de la Copa Libertadores pese a ganarle a Fluminense en Vicente López. Lionel Messi fue convocado para el amistoso ante Benín, que será su despedida en el estadio Monumental. Micaela Lopetegui y Valentina Longo lograron un podio histórico para el patín artístico argentino en los Juegos Suramericanos. Y el piloto Baltazar Leguizamón sigue en carrera para convertirse en el primer argentino con una temporada completa en la NASCAR. En turismo, una recomendación para quedarse cerca de casa: en Entre Ríos, junto al río Uruguay, varias bodegas combinan catas de vino con tratamientos termales, en una experiencia eno termal que también incluye paseos y artesanías locales. Y en sociedad, por primera vez en la historia del Parque Nacional Iguazú se van a desarmar las pasarelas de la Garganta del Diablo ante el riesgo de una crecida por El Niño, que estarán inhabilitadas durante al menos cuarenta días. También se conocieron nuevas imágenes del incendio que destruyó un departamento en un edificio de Recoleta, y la ANMAT prohibió la actividad de dos laboratorios por irregularidades en sus controles de calidad. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-09-16-manana",
+ "generado_ba": "16/09/2026 10:11"
+}
