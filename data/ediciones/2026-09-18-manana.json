@@ -1,0 +1,922 @@
+{
+ "fecha": "2026-09-18",
+ "edicion": "manana",
+ "titulo": "El PBI cae, el Senado avanza con Inocencia Fiscal y biocombustibles",
+ "apertura": "El Indec confirmó que la economía argentina cayó 0,6% en el segundo trimestre y que el desempleo subió a 7,9%, mientras crecen las señales de una recesión técnica hacia el tercer trimestre. En el Congreso, el Senado dio media sanción a la nueva ley de biocombustibles y aprobó en forma definitiva la Inocencia Fiscal II para atraer los dólares que están fuera del sistema bancario. En paralelo, la Armada apartó a nueve militares por la denuncia de fraude y la Justicia fijó fecha a los juicios contra Cristina y Máximo Kirchner por Hotesur y Los Sauces.",
+ "claves": [
+  "El PBI cayó 0,6% en el segundo trimestre y el desempleo subió a 7,9%, con el consumo también en baja según el Indec.",
+  "El Senado dio media sanción a la ley de biocombustibles y aprobó en forma definitiva la Inocencia Fiscal II para blanquear los dólares del colchón.",
+  "La Armada apartó a nueve militares por la denuncia de fraude que investiga a 23 personas.",
+  "La Justicia separó las causas Hotesur y Los Sauces y fijó los juicios contra Cristina y Máximo Kirchner para octubre y marzo.",
+  "La Fed subió su tasa al rango de 3,75%-4%, lo que obliga a provincias y empresas a recalcular sus planes de deuda en dólares.",
+  "Más de 57.000 empresas ya están en mora con los bancos, principalmente en sectores productivos.",
+  "YPF anunció un plan de inversión de 25.000 millones de dólares para exportar más petróleo desde Vaca Muerta a partir de 2032.",
+  "River blinda a Beltrán, Ponzio sigue como DT hasta 2027 y la Selección juega ante Turquía por Copa Davis este fin de semana."
+ ],
+ "cifras": [
+  {
+   "nombre": "PBI segundo trimestre",
+   "valor": "-0,6%",
+   "fuente": "IP-24"
+  },
+  {
+   "nombre": "Desempleo segundo trimestre",
+   "valor": "7,9%",
+   "fuente": "IP-22"
+  },
+  {
+   "nombre": "Tasa de la Reserva Federal",
+   "valor": "3,75%-4%",
+   "fuente": "CR-04"
+  },
+  {
+   "nombre": "Merval en dólares",
+   "valor": "US$ 1.921",
+   "variacion": "+1,2%",
+   "fuente": "CR-12"
+  },
+  {
+   "nombre": "Empresas en mora con bancos",
+   "valor": "+57.000",
+   "fuente": "IP-23"
+  },
+  {
+   "nombre": "Dólares fuera del sistema bancario",
+   "valor": "US$ 170.000 millones",
+   "fuente": "IP-20"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-15",
+     "titulo": "la Armada apartó a nueve militares por la denuncia de fraude",
+     "resumen": "La fuerza naval dispuso el pase a disponibilidad de ocho capitanes de corbeta y un suboficial señalados en la denuncia por maniobras de fraude, que investiga a 23 personas entre militares y civiles. El jefe de la Armada, almirante Juan Carlos Romay, tomó la medida mientras la causa sigue su curso en la Justicia; en la fuerza estiman que el manejo irregular de fondos podría ascender a 1.600 millones de pesos. Al personal apartado se le aplicará el Código de Disciplina de las Fuerzas Armadas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-armada-aparto-a-nueve-militares-involucrados-en-la-denuncia-por-maniobras-de-fraude-nid17092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BQXYJXWJ6BHDFJ672L35XUZGQI.JPG?auth=b96eded3511cc460bb094bbefe5032092fde6deb5257c5a8996eb4af5addc00d&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:28",
+     "autor": "Mariano De Vedia",
+     "titulo_original": "La Armada apartó a nueve militares involucrados en la denuncia por maniobras de fraude"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "la ley de Defensa de la Soberanía Nacional va mucho más allá de Malvinas",
+     "resumen": "El proyecto de Ley de Defensa de la Soberanía Nacional, con ocho títulos y 133 capítulos, ingresó a Diputados y excede la disputa por Malvinas para redefinir la arquitectura de Defensa, Inteligencia y Seguridad Nacional. Endurece las sanciones contra quienes exploten recursos naturales en el área en disputa y crea el Consejo de Seguridad Nacional, inspirado en el modelo estadounidense, con atribuciones para seis colaboradores directos del Presidente.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El Gobierno avanza en la creación de un organismo para concentrar las políticas de seguridad en todo el país",
+       "url": "https://www.lanacion.com.ar/politica/el-gobierno-avanza-en-la-creacion-de-un-organismo-para-concentrar-las-politicas-de-seguridad-en-todo-nid17092026/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/detras-de-malvinas-el-lado-b-del-proyecto-que-redefine-la-defensa-inteligencia-y-seguridad-nacional/",
+     "imagen": "https://www.cronista.com/resizer/v2/V2CXDQILDRATDMC22CPIZ6TUZM.jpg?auth=e133a4d85824e9e0b0c035f24f9d973cb5573672e0b029529bd64971d80e02ef&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Mariano Beldyk",
+     "titulo_original": "Detrás de Malvinas: el lado B del proyecto que redefine la Defensa, Inteligencia y Seguridad Nacional"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "la fiscalía sumó a Rockhopper y Navitas en la causa por petróleo cerca de Malvinas",
+     "resumen": "El fiscal Carlos Stornelli amplió la acusación por explotación petrolera clandestina en torno a las islas Malvinas e imputó a Rockhopper Exploration y sus subsidiarias, además de Navitas Petroleum. Pidió enviar exhortos al Reino Unido, para que informe la composición societaria de Rockhopper, y a Israel, para relevar la estructura de Navitas. Días antes, una jueza federal de Río Grande ya había ordenado a Navitas frenar los trabajos en el proyecto Sea Lion.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-fiscalia-amplio-la-acusacion-contra-las-empresas-petroleras-que-exploran-cerca-de-malvinas-nid17092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BYIPIK5OVRAPZNRAVSBAXDXMDQ.png?auth=c428a107b7acd5c2b6b12959b9bb9d134bfdece731b99e29622c928de4c4a260&smart=true&width=586&height=298",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:59",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "La fiscalía amplió la acusación contra las empresas petroleras que exploran cerca de Malvinas"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Bullrich cruzó al Gobierno por los recortes en discapacidad del Presupuesto",
+     "resumen": "La jefa del bloque de La Libertad Avanza en el Senado, Patricia Bullrich, admitió que desconocía los cambios en discapacidad incluidos en el Presupuesto 2027 y advirtió que ese tipo de situaciones resiente el vínculo con los aliados en el Congreso. Según Ámbito, reconoció que las modificaciones no fueron discutidas en la mesa política; iProfesional agrega que la funcionaria le respondió al Gobierno con la frase \"a mí no me tomen por tonta\".",
+     "relacionadas": [
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Bullrich cruzó al Gobierno por los recortes en Discapacidad: \"A mí no me tomen por tonta\"",
+       "url": "https://www.iprofesional.com/politica/464691-patricia-bullrich-cambios-discapacidad-presupuesto"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/patricia-bullrich-admitio-que-desconocia-los-cambios-discapacidad-incluidos-el-presupuesto-2027-n6323496",
+     "imagen": "https://media.ambito.com/p/85655d7d3b730509621c9e075cacf605/adjuntos/239/imagenes/043/196/0043196681/1200x675/smart/patricia-bullrich-senado.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:20",
+     "autor": "",
+     "titulo_original": "Patricia Bullrich admitió que desconocía los cambios en Discapacidad incluidos en el Presupuesto 2027"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "el Gobierno negocia con los gobernadores la eliminación de las PASO",
+     "resumen": "La Casa Rosada busca que sus aliados acepten sacar las PASO del calendario electoral antes de discutir el reparto de distritos, candidaturas y lugares en las boletas, mientras los gobernadores prefieren negociar todo junto. La discusión sobre la reforma electoral se mezcló con la pelea por las alianzas nacionales a poco más de un año de las presidenciales del 24 de octubre de 2027.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/18/que-haya-pas-para-que-reine-la-paz-la-maniobra-del-gobierno-para-las-elecciones-y-el-juego-de-desconfianza-con-las-provincias/",
+     "imagen": "https://www.infobae.com/resizer/v2/X4HXLAB4VZAOBBOOD2MHSEVTJI.jpg?auth=55c2656f334e6612ab89456a5f7a5607bf7201e2a4d1dbc2272f43724908954d&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:56",
+     "autor": "Nacho Girón",
+     "titulo_original": "\"Que haya PAS\" para “que reine la paz”: la maniobra del Gobierno para las elecciones y el juego de desconfianza con las provincias"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "la Justicia separó las causas Hotesur y Los Sauces y fijó fecha a los juicios contra los Kirchner",
+     "resumen": "El Tribunal Oral Federal N°5 decidió desdoblar las causas Hotesur y Los Sauces, que investigan a la familia Kirchner por presunto lavado de activos vinculado a la adjudicación de hoteles. El juicio de Los Sauces comenzará el 23 de octubre a las 10, y el de Hotesur, el 19 de marzo de 2027. El tribunal sostuvo que ambas causas conservan objetos procesales distintos pese a compartir un marco histórico común.",
+     "relacionadas": [
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los Sauces y Hotesur: la Justicia separó los juicios y fijó las fechas de inicio",
+       "url": "https://www.ambito.com/politica/los-sauces-y-hotesur-la-justicia-separo-los-juicios-y-fijo-las-fechas-inicio-n6323638"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/hotesur-los-sauces-la-justicia-ordeno-dividir-las-causas-y-le-puso-fecha-a-los-juicios-contra-cristina-y-maximo-kirchner/",
+     "imagen": "https://www.cronista.com/resizer/v2/6VWW3C6NT5G4LP7KESNI7O7A5U.jpg?auth=8fc7c96d4659d7f675c1f6b3bc306848845c18469c73a8c3d4f94f25d41a6c4a&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:31",
+     "autor": "",
+     "titulo_original": "Hotesur-Los Sauces: la Justicia ordenó dividir las causas y le puso fecha a los juicios contra Cristina y Máximo Kirchner"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "una nueva encuesta le da a Milei datos clave de cara a su reelección",
+     "resumen": "Un estudio nacional de la consultora Opinaia, que trabaja para el Gobierno, midió la evaluación de la gestión, la imagen del Presidente y las expectativas económicas de la población. El relevamiento también incluye la intención de voto por espacio político y un escenario de balotaje frente al gobernador Axel Kicillof.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/nueva-encuesta-llego-javier-milei-datos-clave-reeleccion_0_omBKtjbbmv.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/zVbLy0D06_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La nueva encuesta que le llegó a Javier Milei con datos clave para su reelección"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "la actividad económica coquetea con una recesión técnica",
+     "resumen": "En la semana se acumularon señales de enfriamiento: suba del desempleo, caída del nivel de actividad, más capacidad ociosa en la industria y aceleración de la inflación mayorista. El PBI cayó 0,6% en el segundo trimestre respecto del primero, y si retrocede también en el tercero la economía entraría en una recesión técnica, aunque el Presupuesto 2027 presentado en el Congreso proyecta una economía más dinámica para los próximos meses. Para una empresa: la persistencia de un consumo débil obliga a monitorear de cerca ventas y capacidad ociosa antes de comprometer nuevas inversiones.",
+     "relacionadas": [
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El PBI cayó 0,6% en el segundo trimestre por el retroceso del consumo y la inversión",
+       "url": "https://www.iprofesional.com/economia/464661-el-pbi-cayo-0-6-por-ciento-en-el-segundo-trimestre-por-el-retroceso-del-consumo-y-la-inversion"
+      },
+      {
+       "id": "CR-26",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El desempleo subió a 7,9%: los que buscan trabajo y cuántos requieren un segundo ingreso",
+       "url": "https://www.cronista.com/economia-politica/el-desempleo-subio-a-79-los-que-buscan-trabajo-y-cuantos-requieren-un-segundo-ingreso/"
+      },
+      {
+       "id": "IP-22",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El desempleo subió al 7,9% y afectó a 1,7 millones de argentinos en el segundo trimestre",
+       "url": "https://www.iprofesional.com/economia/464668-el-desempleo-subio-al-79-y-afecto-a-17-millones-de-argentinos-en-el-segundo-trimestre"
+      }
+     ],
+     "url": "https://www.cronista.com/columnistas/a-las-puertas-de-la-recesion/",
+     "imagen": "https://www.cronista.com/resizer/v2/UJ7IFLPPT5BXFCARZTQ2CM74SY.jpg?auth=8a6849b58e32f1f6219546da0015946c761cf1e0f7db3b56c2f8f5a26e49ce4d&smart=true&width=900&height=566",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:37",
+     "autor": "Claudio Caprarulo",
+     "titulo_original": "A las puertas de la recesión"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "el Indec confirmó que el consumo se contrajo en el segundo trimestre",
+     "resumen": "El informe de avance del nivel de actividad del Indec correspondiente al segundo trimestre mostró una contracción del consumo, en contraste con el discurso oficial que destaca señales de recuperación. Consultoras privadas, cámaras empresarias y universidades vienen marcando un freno en el consumo que no logra revertirse, algo que los hogares perciben en la góndola del supermercado y en el comercio de cercanía.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/18/cayo-uno-de-los-indicadores-que-mas-sigue-el-gobierno-en-el-segundo-trimestre-que-muestra-el-dato-oficial-del-indec/",
+     "imagen": "https://www.infobae.com/resizer/v2/5ROGEQ7WSRHEFH2LTXKAI5VO64.jpg?auth=f96f7f0a2b82ac0a66372a0d43a1c03dcd87ef582f7a4c0bb5c5da68fdd837cd&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:34",
+     "autor": "Mariano Zalazar",
+     "titulo_original": "Cayó uno de los indicadores que más sigue el Gobierno en el segundo trimestre: qué muestra el dato oficial del Indec"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "el Banco Central redujo al mínimo la compra de reservas en septiembre",
+     "resumen": "Con la liquidación de la cosecha gruesa ya finalizada, el BCRA mantiene un ritmo de compra de dólares casi testimonial: el promedio de compras en lo que va de septiembre es inferior a 10 millones de dólares diarios, equivalente a apenas el 3% del volumen operado, según la consultora LCG. En paralelo, la autoridad monetaria vende futuros y bonos ajustados al tipo de cambio oficial para mantener estable el dólar, mientras las reservas caen levemente en el mes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/18/el-banco-central-redujo-a-minimos-la-compra-de-reservas-en-septiembre-para-mantener-estable-el-dolar/",
+     "imagen": "https://www.infobae.com/resizer/v2/RD7XGIRC2VGBVM5WOQEICAP7TA.JPG?auth=c27833e0c960f85bcd6dea14e054404ae83c4179977b7d153039edf236400b27&smart=true&width=900&height=593",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:34",
+     "autor": "",
+     "titulo_original": "El Banco Central redujo a mínimos la compra de reservas en septiembre para mantener estable el dólar"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "la suba de tasas de la Fed obliga a recalcular la salida de deuda de provincias y empresas",
+     "resumen": "Tras la decisión de la Reserva Federal de subir la tasa al rango de entre 3,75% y 4%, con otra suba anticipada antes de fin de año, empresas y provincias argentinas que evaluaban colocar deuda en los mercados internacionales empezaron a recalcular sus estrategias. La medida, resistida por el presidente Donald Trump, derrumbó los bonos argentinos y disparó el riesgo país, un dato que funcionarios provinciales y CFO de empresas monitorean de cerca antes de salir a colocar nueva deuda. Para una empresa: un financiamiento externo más caro presiona los planes de inversión que dependen de deuda en dólares.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/provincias-y-empresas-recalculan-sus-emisiones-de-deuda-tras-suba-de-tasas-de-la-fed/",
+     "imagen": "https://www.cronista.com/resizer/v2/K24KY4OBN5BWBLZGJCZGNBYCSI.jpg?auth=aae2caf6caa409358fb68a91efbc9ab8506e494aab246cae6971fb3e85d4b5ad&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "Provincias y empresas recalculan sus emisiones de deuda tras suba de tasas de la FED"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "los ADR argentinos subieron hasta 6% en Wall Street pese al riesgo país en alza",
+     "resumen": "Los mercados globales rebotaron tras las caídas del miércoles y los activos argentinos acompañaron: los ADR subieron hasta 6% en Wall Street, liderados por Cresud y Central Puerto, mientras los bonos en dólares avanzaron hasta 0,25%. El Merval medido en dólares subió 1,2% hasta los 1.921 dólares, aunque el riesgo país trepó 1% hasta los 515 puntos básicos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-adr-subieron-hasta-6-pero-el-riesgo-pais-trepo-a-515-puntos/",
+     "imagen": "https://www.cronista.com/resizer/v2/DKG4C5SFKNDSLGPQOG3SINDJ3I.png?auth=6f0d58dde5453253885cc285e859a87124685827c14d1503a158d52850c4fddd&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:14",
+     "autor": "Leandro Dario",
+     "titulo_original": "Los ADR subieron hasta 6% en Wall Street, pero el riesgo país trepó a 515 puntos"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "más de 57.000 empresas ya están en mora con los bancos",
+     "resumen": "Bancos alertan por un riesgo elevado de mora empresarial: más de 57.000 compañías, principalmente de sectores productivos, ya están en mora con las entidades financieras. La caída en las ventas y el costo del financiamiento son, según iProfesional, los principales factores que golpean a estas empresas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464646-mas-de-57000-companias-ya-estan-en-mora-con-los-bancos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619158.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:40",
+     "autor": "",
+     "titulo_original": "Más de 57.000 empresas ya están en mora con bancos alertan por \"riesgo elevado\""
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-07",
+     "titulo": "Granja Tres Arroyos, en crisis: las cuatro sociedades del grupo deben más de 540 millones de dólares",
+     "resumen": "La avícola Granja Tres Arroyos atraviesa una crisis financiera: sus cuatro sociedades acumulan deudas por más de 540 millones de dólares. La caída del consumo, el ingreso de pollo brasileño y la dificultad para trasladar las subas de costos a precios fueron, según iProfesional, los factores que desencadenaron la situación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464687-granja-tres-arroyos-cuatro-sociedades-del-grupo-deben-mas-de-540-millones-dolares",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612014.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:54",
+     "autor": "",
+     "titulo_original": "Crisis de Granja Tres Arroyos: las cuatro sociedades del grupo deben más de u$s540 millones"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "YPF proyecta invertir 25.000 millones de dólares para exportar más petróleo desde 2032",
+     "resumen": "YPF presentó un plan para invertir 25.000 millones de dólares en los próximos 15 años y acelerar el desarrollo de Vaca Muerta, con el objetivo de orientar al mercado externo la producción de petróleo del yacimiento LLL Oil. La iniciativa, que combina perforación, instalaciones de superficie, logística y transporte, fue presentada para ingresar al régimen RIGI y es, según la empresa, el proyecto de mayor escala presentado hasta el momento bajo ese esquema.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-gran-plan-de-ypf-como-es-la-apuesta-de-us-25000-millones-para-exportar-mas-petroleo-desde-2032/",
+     "imagen": "https://www.cronista.com/resizer/v2/27PYLUEV7ZEFJMS4KABCYDBLBA.jpg?auth=244ffccbd9ad49dee8fa77f5849d6b5ceaf4ee3d1c562e10e93c29e9b3461687&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "",
+     "titulo_original": "El gran plan de YPF: cómo es la apuesta de u$s 25.000 millones para exportar más petróleo desde 2032"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "la Justicia reactivó la venta de SanCor y diez empresas miran sus activos",
+     "resumen": "La Cámara de Apelaciones de Rafaela rechazó los planteos de nulidad contra el pliego de venta de SanCor y ordenó continuar con la licitación de sus seis plantas industriales y su paquete marcario, aunque el proceso deberá incorporar indicaciones del tribunal y fijar un nuevo cronograma. La venta estaba suspendida desde julio por apelaciones de cinco partes; según El Cronista, seguirá vigente el pliego aprobado en junio, con modificaciones.",
+     "relacionadas": [
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Se reactiva la venta de lo que queda de SanCor tras una orden “con límites” de la Justicia",
+       "url": "https://www.cronista.com/negocios/tras-un-fallo-sorpresivo-de-la-justicia-se-reactiva-la-venta-de-sancor/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/464667-la-justicia-reactiva-venta-de-sancor-y-diez-empresas-miran-sus-activos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619283.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:36",
+     "autor": "",
+     "titulo_original": "La Justicia reactiva la venta de SanCor y diez empresas miran sus activos"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "el Senado dio media sanción al nuevo marco regulatorio de biocombustibles",
+     "resumen": "Con 41 votos a favor y 25 en contra, el Senado aprobó un proyecto que eleva el corte de biodiésel en el gasoil del 7,5% al 10% y el de bioetanol en las naftas del 12% al 15%, además de crear un mercado electrónico para la formación de precios. El texto, que ahora pasa a Diputados, generó reacciones opuestas: cámaras agroindustriales celebraron la media sanción y proyectan inversiones por 1.000 millones de dólares, mientras que pymes regionales del sector advirtieron al Gobierno que el proyecto amenaza con extinguir a las plantas del interior.",
+     "relacionadas": [
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Agroindustriales celebraron la media sanción a la ley de Biocombustibles y proyectan inversiones por u$s1.000 millones",
+       "url": "https://www.ambito.com/economia/agroindustriales-celebraron-la-media-sancion-la-ley-biocombustibles-y-proyectan-inversiones-us1000-millones-n6323803"
+      },
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Pymes de biocombustibles envían a Milei una carta de alerta por su futuro",
+       "url": "https://www.iprofesional.com/energia/464675-pymes-de-biocombustibles-envian-a-milei-una-carta-de-alerta-por-su-futuro"
+      }
+     ],
+     "url": "https://www.clarin.com/rural/senado-aprobo-nuevo-marco-regulatorio-biocombustibles-amplia-mayoria_0_Qj2NSnYOnZ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/17/zR2EPDYao_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "22:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Con cambios en el biodiésel, el Senado aprobó el nuevo marco regulatorio para los biocombustibles"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Vicentin obtuvo un crédito de Bunge por 50 millones de dólares",
+     "resumen": "La cerealera Vicentin recibirá una línea de crédito de Bunge Argentina por 50 millones de dólares para financiar capital de trabajo, principalmente compra de insumos y gastos logísticos, con vigencia hasta el 31 de diciembre de 2031. La Justicia autorizó la operación al considerarla indispensable para sostener la originación de granos de la compañía, que pondrá en garantía el 8,33% de uno de sus activos más valiosos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/vicentin-consigue-un-credito-millonario-de-bunge-y-ofrece-en-garantia-una-de-sus-joyas-mas-valiosas/",
+     "imagen": "https://www.cronista.com/resizer/v2/D77W33VVMZANLNZL7HYRIJVQNA.jpg?auth=fef315080c541477f49cad31dd1cd77d56e7e2f8eb4a6d71308814dcb42357ce&smart=true&width=900&height=513",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Vicentin consigue un crédito millonario de Bunge y ofrece en garantía una de sus “joyas” más valiosas"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "la empresa que controla Vicentin ahora busca quedarse con el frigorífico Friar",
+     "resumen": "El grupo rosarino que se impuso a multinacionales del agro para quedarse con Vicentin avanza ahora sobre el negocio frigorífico y busca hacerse con Friar, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464658-duenos-de-vicentin-ahora-quieren-quedarse-con-el-frigorifico-friar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625875.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:54",
+     "autor": "",
+     "titulo_original": "La empresa que controla Vicentin ahora busca quedarse con el frigorífico Friar"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-20",
+     "titulo": "el Senado aprobó la ley de Inocencia Fiscal II para atraer los dólares del colchón",
+     "resumen": "El Congreso dio sanción definitiva a la Ley de Inocencia Fiscal II, que amplía el universo de contribuyentes alcanzados por el régimen para exteriorizar los dólares fuera del sistema bancario, calculados en unos 170.000 millones de dólares. Entre los cambios que impulsaron los tributaristas ante el ministro Luis Caputo se incluyó ampliar quiénes pueden acceder al régimen y blindar la seguridad jurídica; por ahora queda la duda de si ARCA prorrogará el plazo para adherirse al Régimen Simplificado de Ganancias. Para una empresa: un mayor ingreso de dólares del colchón al sistema formal podría aliviar la demanda de financiamiento en el corto plazo.",
+     "relacionadas": [
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los principales puntos de la nueva ley de Inocencia Fiscal que aprobó el Senado",
+       "url": "https://www.iprofesional.com/economia/464674-los-principales-puntos-de-la-nueva-ley-de-inocencia-fiscal-que-aprobo-el-senado"
+      },
+      {
+       "id": "IP-16",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Nueva ley de Inocencia Fiscal: el paso a paso para ingresar dólares del colchón",
+       "url": "https://www.iprofesional.com/economia/464671-senado-argentino-aprobo-nueva-ley-inocencia-fiscal-paso-a-paso-para-ingresar-dolares-guardados"
+      },
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Se aprobó Inocencia Fiscal II: ¿habrá prórroga en el Régimen Simplificado de Ganancias?",
+       "url": "https://www.cronista.com/economia-politica/ganancias-crece-la-expectativa-por-una-nueva-prorroga-mientras-avanza-inocencia-fiscal-ii/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/politica/464669-el-gobierno-logro-aprobar-la-ley-inocencia-fiscal-ii-para-atraer-los-dolares-del-colchon",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612394.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:21",
+     "autor": "",
+     "titulo_original": "El Gobierno logró aprobar la ley Inocencia Fiscal II para atraer los dólares del colchón"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "ARCA confirmó la nueva fecha límite de septiembre para el monotributo",
+     "resumen": "ARCA reprogramó el vencimiento de septiembre para el pago de la cuota del monotributo. iProfesional detalla cómo quedan los plazos y cuáles son las alternativas disponibles para abonar en término.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464666-monotributista-arca-confirmo-cuando-es-nueva-fecha-limite-para-pagar-septiembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617921.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:31",
+     "autor": "",
+     "titulo_original": "Monotributista: ARCA confirmó cuándo es la nueva fecha límite para pagar en septiembre"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "el Presupuesto 2027 ofrece amortización acelerada en Ganancias para obras de rutas",
+     "resumen": "El proyecto de Presupuesto 2027 incorpora un menú de beneficios fiscales para las empresas privadas que inviertan en la construcción o ampliación de concesiones de rutas nacionales, con una amortización acelerada en el impuesto a las Ganancias prevista en el artículo 67. El ministro Luis Caputo había anticipado que el Ejecutivo avanzaría hacia un régimen de \"cero impuestos\" para estas obras, y el secretario de Hacienda, Carlos Guberman, dijo que esperan el acompañamiento de gobernadores e intendentes. Para una empresa: el esquema podría bajar el costo fiscal de proyectos de infraestructura vial que demanden inversión privada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/incentivos-fiscales-para-obras-en-rutas-el-plan-del-gobierno-y-la-invitacion-a-las-provincias/",
+     "imagen": "https://www.cronista.com/resizer/v2/ULFLQYBLGNEZJJJNYJBHWFBRVE.jpeg?auth=3fe666c6baf40b53476220bde5926a73155b42ca91a45cca7687ea7b00c3d209&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "Incentivos fiscales para obras en rutas: el plan del Gobierno y la invitación a las provincias"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "el Presupuesto 2027 proyecta más presión tributaria y menos recaudación de ANSES",
+     "resumen": "Según iProfesional, el proyecto de Presupuesto 2027 contempla una suba de la presión tributaria y, al mismo tiempo, una baja en la recaudación destinada a la seguridad social por el impacto del Fondo de Asistencia a Lesionados sobre los recursos de ANSES.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464587-presupuesto-2027-sube-presion-tributaria-y-baja-recaudacion-anses",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608609.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:15",
+     "autor": "",
+     "titulo_original": "Presupuesto 2027 proyecta más presión tributaria y menor recaudación de ANSES"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "la UIF simplificó los controles antilavado para los fondos FAL",
+     "resumen": "La Unidad de Información Financiera redujo las cargas de cumplimiento para los aportes destinados a los fondos FAL, utilizados para indemnizaciones, al considerar que presentan un riesgo menor de lavado de activos. La excepción no alcanza al resto de las operaciones que realizan las entidades del mercado de capitales, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/fondos-fal-indemnizaciones-la-uif-simplifico-los-controles-antilavado-acelerar-su-puesta-marcha-n6323773",
+     "imagen": "https://media.ambito.com/p/61307d0f136d24ccf19578e343116575/adjuntos/239/imagenes/043/650/0043650501/1200x675/smart/uil-fal.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:27",
+     "autor": "",
+     "titulo_original": "Fondos FAL para indemnizaciones: la UIF simplificó los controles antilavado para acelerar su puesta en marcha"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "una casa de madera de 150 metros cuadrados, lista para montar en diez días",
+     "resumen": "iProfesional relevó un modelo de vivienda de madera de 150 metros cuadrados, con dos dormitorios y una amplia galería, que se fabrica en planta y llega al terreno con sus componentes listos para el montaje. El sistema permite reducir a diez días el tiempo de obra en el terreno respecto de la construcción tradicional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464588-cuanto-cuesta-la-casa-de-madera-de-150-m2-que-esta-lista-en-10-dias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625822.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Cómo es y cuánto cuesta la casa moderna de madera de 150 m2 que está lista en 10 días"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "en la Argentina se venden menos autos y crecen las motos y las apps de movilidad",
+     "resumen": "El menor costo de las motos de baja cilindrada y el auge de los servicios de transporte por aplicación están transformando el mercado y reduciendo la compra de autos 0 kilómetro, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/464448-en-argentina-se-venden-menos-autos-y-culpan-a-motos-y-apps-de-movilidad",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625708.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:05",
+     "autor": "",
+     "titulo_original": "En Argentina se venden menos autos y culpan a las motos y al boom de apps de movilidad"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "crece la demanda de propiedades más chicas frente al modelo inmobiliario tradicional",
+     "resumen": "El interés de los compradores se desplaza desde las propiedades amplias hacia opciones más pequeñas, funcionales y accesibles, tanto en departamentos con amenities como en tiny houses modulares. El Cronista señala que esta vivienda compacta, pensada también para casas de fin de semana o alquiler temporario, gana lugar en el mercado inmobiliario.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-nueva-tendencia-inmobiliaria-que-desafia-el-modelo-tradicional-por-que-crecen-las-propiedades-mas-chicas/",
+     "imagen": "https://www.cronista.com/resizer/v2/E2UBIZWG45H3HL2SEHTIEMRDLU.jpg?auth=355a7c399d9e75fb205b3bc3b3696542f1bbe2e855a2f3c86d0f8b2f9511d14e&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "La nueva tendencia inmobiliaria que desafía el modelo tradicional: por qué crecen las propiedades más chicas"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "los bancos le ponen fecha a la baja de la mora y evalúan reactivar el crédito",
+     "resumen": "Bancos, fintech y el Gobierno siguen de cerca un indicador para anticipar cuándo empezará a bajar el nivel de mora, que llegó a 5,8 millones de morosos. El BCRA busca crear herramientas para devolver al sistema financiero la capacidad prestable que perdió con ese aumento de la morosidad, con el objetivo de volver a impulsar el crédito hacia fin de año.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/bancos-ponen-fecha-baja-mora-analizan-planes-volver-impulsar-credito_0_EbbNY3J0Ld.html",
+     "imagen": "https://www.clarin.com/img/2019/09/02/ITHt2XXb3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los bancos ya le ponen fecha a la baja de la mora y analizan los planes para volver a impulsar el crédito"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "el envejecimiento poblacional obliga a replantear producción, empleo e inversión",
+     "resumen": "El economista Gustavo Rodolfo Reija advierte que la Argentina ya registra 1,33 hijos por mujer, lejos de los 2,1 necesarios para el reemplazo poblacional, y que la tasa bruta de natalidad cayó de 18,2 a 9,9 por mil entre 2014 y 2023. Este envejecimiento reduce de forma persistente los mercados vinculados a la infancia mientras crece la demanda de salud, cuidados y servicios para adultos mayores. Para una empresa: el cambio demográfico redefine a mediano plazo qué categorías de productos y locales conviene priorizar.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/generacion-silver/2026/09/18/envejecimiento-en-argentina-y-caida-de-nacimientos-las-senales-que-ya-obligan-a-replantear-produccion-empleo-e-inversion/",
+     "imagen": "https://www.infobae.com/resizer/v2/EF23OU6AJFHTFAN2QXTJ66MNZM.png?auth=69111e1ff49d9005114f7ddb62376f438217164e303937f4e0e4469eaec46f37&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:13",
+     "autor": "Juan Mascardi",
+     "titulo_original": "Envejecimiento en Argentina y caída de nacimientos, las señales que ya obligan a replantear producción, empleo e inversión"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "llegar a los 50 no es el final del recorrido profesional, según un especialista en management",
+     "resumen": "Andrés Hatum, profesor de la Universidad Torcuato Di Tella, sostiene que la experiencia, la resiliencia y la red de contactos son activos valiosos para iniciar una nueva etapa profesional después de los 50 o 60 años, en lugar de asociar esa edad con el retiro. El especialista propuso, en una publicación de LinkedIn recogida por La Nación, tres pasos para transformar una trayectoria laboral.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/andres-hatum-profesor-en-management-de-di-tella-llegar-a-los-50-anos-no-representa-necesariamente-el-nid17092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PCFHCUA4SVFDRKKCS47F7TX23I.jpg?auth=274370b0ecc0b24baece05a2a0bbc10d57cd04dc78652a7ce35e179e16de3532&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:53",
+     "autor": "",
+     "titulo_original": "Andrés Hatum, profesor en management de Di Tella: “Llegar a los 50 años no representa necesariamente el final del recorrido profesional”"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "la inversión en IA de las grandes tecnológicas empieza a exigir resultados concretos",
+     "resumen": "Apple, Amazon, Alphabet, Meta, Microsoft y Oracle destinan cifras récord a centros de datos e infraestructura de inteligencia artificial, y el gasto de capital de ese grupo de seis compañías ya representa cerca de la mitad de toda la inversión del sector, según un informe de Balanz citado por El Cronista. Wall Street empezó a mirar no solo cuánto pueden crecer esos negocios, sino cuánto de ese gasto se traducirá en ganancias y caja.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-cuenta-pendiente-de-la-ia-cuanto-tienen-que-ganar-las-tecnologicas-para-justificar-el-billon-de-dolares-que-gastan/",
+     "imagen": "https://www.cronista.com/resizer/v2/S3MRYMWU2ZFSZNQKYNL6V2AFLU.png?auth=90457f002f39fa77eb799adb5061093fe07f71fee610fd9de5adb283c89f7c43&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:18",
+     "autor": "",
+     "titulo_original": "La cuenta pendiente de la IA: cuánto tienen que ganar las tecnológicas para justificar el billón de dólares que gastan"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "qué carteras de CEDEARs arman ChatGPT, Gemini y Claude",
+     "resumen": "iProfesional le pidió a ChatGPT, Gemini y Claude que armaran una cartera ideal de CEDEARs para invertir un millón de pesos desde la Argentina, y los tres asistentes de inteligencia artificial propusieron combinaciones distintas de inversión.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464316-en-que-cedears-recomiendan-invertir-chatgpt-gemini-y-claude",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617473.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:15",
+     "autor": "",
+     "titulo_original": "Qué CEDEARs recomiendan ChatGPT, Gemini y Claude cuando se les pide una cartera ideal"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-24",
+     "titulo": "Irán atacó un petrolero de Togo en el estrecho de Ormuz",
+     "resumen": "El Cuerpo de la Guardia Revolucionaria Islámica confirmó el ataque contra un petrolero con bandera de Togo en el estrecho de Ormuz y acusó a Estados Unidos de provocación, al sostener que la embarcación intentaba cruzar de manera ilegal, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/tension-estrecho-ormuz-iran-ataca-petrolero-togo-acusa-estados-unidos-provocacion_0_xTK7BVy4JA.html",
+     "imagen": "https://www.clarin.com/img/2026/07/09/LlBYs4hvb_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Irán ataca un petrolero de Togo en el estrecho de Ormuz y acusa a Estados Unidos de provocación"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Trump y Delcy Rodríguez podrían reunirse la semana próxima en la ONU",
+     "resumen": "Trump y la vicepresidenta venezolana Delcy Rodríguez podrían encontrarse durante la Asamblea General de Naciones Unidas en Nueva York, en lo que sería el primer contacto bilateral entre ambos desde que Estados Unidos depuso y encarceló a Nicolás Maduro, informó Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/trump-delcy-rodriguez-podrian-reunirse-asamblea-general-naciones-unidas-proxima-semana_0_uoRBirqZeT.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/QoopvzTIA_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Trump y Delcy Rodríguez podrían reunirse durante la Asamblea General de Naciones Unidas la próxima semana"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Rusia renueva la Duma en medio de la guerra, sin competencia real",
+     "resumen": "Rusia celebra entre este viernes y el domingo la primera elección legislativa desde la invasión a gran escala a Ucrania en 2022, con la renovación de los 450 escaños de la Duma y otros 20.700 cargos en disputa. Nadie duda de que el partido de Vladimir Putin retendrá la supermayoría que le permite reformar la Constitución sin necesidad de acuerdos, en comicios donde el único partido antibélico quedó fuera de la boleta. Por primera vez, además, se habilitaron colegios electorales en zonas ocupadas de las provincias ucranianas de Donetsk, Lugansk, Zaporiyia y Jersón, donde, según Infobae, la ONU y el derecho internacional coinciden en que esa votación no tendrá ningún valor legal.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Urnas bajo ocupación: por qué lo que se vote en el este y el sur de Ucrania no tendrá valor legal",
+       "url": "https://www.infobae.com/america/opinion/2026/09/18/urnas-bajo-ocupacion-por-que-lo-que-se-vote-en-el-este-y-el-sur-de-ucrania-no-tendra-valor-legal/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/18/rusia-renueva-la-duma-en-medio-de-la-guerra-manipulacion-estatal-oposicion-proscripta-y-un-mecanismo-para-medir-la-lealtad-a-putin/",
+     "imagen": "https://www.infobae.com/resizer/v2/BAWCLTLHS5GYFA5HZNDF4OV4NI.jpg?auth=af31b1c020bbbea95e47dffd3725d0a3fdeb75a67ec7f18e65a26dcdc78e05c3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:00",
+     "autor": "Andrea Bonzo",
+     "titulo_original": "Rusia renueva la Duma en medio de la guerra: manipulación estatal, oposición proscripta y un mecanismo para medir la lealtad a Putin"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "cuándo se vota para presidente en Brasil en 2026",
+     "resumen": "Las elecciones presidenciales de Brasil están fijadas para el domingo 4 de octubre; si hay balotaje, la segunda vuelta se realizará el 25 de octubre, según el Tribunal Superior Electoral citado por La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid05082026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YAAYP7Q7UVH53P6LJHXRRQBZEI.JPG?auth=2b993d2bb6d313420aa9d9b8a83f12f92a68238aa703fd3dd565dd098fd34459&smart=true&width=900&height=604",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:22",
+     "autor": "",
+     "titulo_original": "Elecciones: cuándo se vota para presidente en Brasil 2026"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "la Eurocámara pidió suspender el diálogo con Cuba por la represión a opositores",
+     "resumen": "El Parlamento Europeo aprobó con 374 votos a favor, 198 en contra y 19 abstenciones una moción que condena los arrestos y las torturas a opositores en Cuba y reclama sanciones contra la dirigencia del régimen, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/eurocamara-pide-suspender-dialogo-cuba-represion-opositores-regimen_0_9r40endRu9.html",
+     "imagen": "https://www.clarin.com/img/2026/05/22/Cq0WEhfyY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Eurocámara pide suspender el diálogo con Cuba por la represión contra los opositores al régimen"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Anthropic reveló cuán cerca está Claude de poder construir a su propio sucesor",
+     "resumen": "Un informe de Anthropic mostró que su chatbot Claude ya se encarga de casi un tercio de las tareas de investigación y desarrollo de la compañía, contra cero por ciento en enero de este año. El documento advierte que esa aceleración hacia modelos capaces de construir a su sucesor de forma autónoma puede volverse difícil de controlar para los humanos, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/anthropic-revelo-lo-cerca-que-esta-su-chatbot-de-crear-su-nueva-version-por-si-mismo-nid17092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/X62NWTI3QBATVODSLJZS26Q6TY.jpg?auth=74c4f1e54fe3e70ecc8e8240e8dc09387af12ad34d0beaec94fd15cb50ff17ce&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:07",
+     "autor": "",
+     "titulo_original": "Anthropic reveló lo cerca que está su chatbot de crear su nueva versión por sí mismo"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza esta semana la integración europea, la apuesta china por la inteligencia artificial abierta y el impacto climático de la guerra en Irán.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent reclama acelerar la construcción de unos Estados Unidos de Europa",
+     "resumen": "En un artículo de opinión, un candidato a las elecciones presidenciales francesas sostiene que Europa tiene la responsabilidad histórica de dejar de postergar los grandes proyectos colectivos y avanzar hacia unos Estados Unidos de Europa. El texto plantea que la claridad de un objetivo así es la que le da fuerza a los grandes proyectos políticos, frente a la acumulación de trabas administrativas y normativas.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/18/el-momento-de-estados-unidos-europa-llego/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "06:19",
+     "autor": "Louis Puel",
+     "titulo_original": "Ha llegado el momento de los Estados Unidos de Europa"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "China apuesta al código abierto en la carrera por la inteligencia artificial",
+     "resumen": "Le Grand Continent analiza la creación, impulsada por China, de una comunidad de código abierto de inteligencia artificial dentro de los BRICS, la primera de cinco iniciativas que presentó Xi Jinping en la cumbre del bloque en la India, el 13 de septiembre. La revista sostiene que ese ecosistema podría tener fuertes repercusiones estratégicas sobre el papel de los países occidentales en el panorama tecnológico mundial de la próxima década, y que Pekín busca así ampliar su influencia en el Sur Global.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/18/pourquoi-la-chine-mise-sur-lopen-source-dans-la-course-a-lia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "¿Por qué China apuesta por el código abierto en la carrera por la IA?"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "la guerra en Irán frenaría por primera vez desde la pandemia las emisiones globales de dióxido de carbono",
+     "resumen": "Según un análisis de Carbon Brief basado en previsiones de la Agencia Internacional de la Energía, citado por Le Grand Continent, las emisiones mundiales de dióxido de carbono caerían este año alrededor de 0,5% respecto de 2025, arrastradas por la suba de los precios del petróleo y el gas tras el cierre del estrecho de Ormuz. Sería el primer retroceso de las emisiones desde la pandemia de covid-19, con la mayor baja proyectada en el consumo de petróleo.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/17/la-guerra-en-iran-puede-reducir-emisiones-de-co%e2%82%82/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:26",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Se prevé que la guerra en Irán reduzca las emisiones de CO₂ relacionadas con la energía"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "River blinda a Santiago Beltrán con una cláusula millonaria y un aumento salarial",
+     "resumen": "River negocia la renovación de Santiago Beltrán, el arquero que acompañó a la Selección en el Mundial 2026 sin ser convocado, con vínculo vigente hasta diciembre de 2027. El club busca blindarlo con una cláusula millonaria y un aumento salarial mientras crece el interés de clubes europeos por el arquero, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/renovacion-santiago-beltran-gran-objetivo-river-clausula-millonaria-blindarlo-aumento-salarial_0_liZ3lHYYVd.html",
+     "imagen": "https://www.clarin.com/img/2026/09/17/PDsi_1nkc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La renovación de Santiago Beltrán, el otro gran objetivo de River: cláusula millonaria para blindarlo y un aumento salarial"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Leonardo Ponzio dejó de ser interino y seguirá como DT de River hasta 2027",
+     "resumen": "Ponzio firmó contrato hasta agosto de 2027 tras arrancar su ciclo con tres triunfos consecutivos al frente de River. Según Ámbito, el objetivo central del cuerpo técnico será clasificar al equipo a la Copa Libertadores.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/leonardo-ponzio-dejo-ser-interino-y-seguira-como-dt-river-2027-n6323798",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "22:58",
+     "autor": "",
+     "titulo_original": "Leonardo Ponzio dejó de ser interino y seguirá como DT de River hasta 2027"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "Nico González marcó en la Europa League y Gerónimo Rulli debutó en el arco del Manchester City",
+     "resumen": "Nicolás González abrió el marcador en la goleada 5-0 de la Juventus sobre el NEC de Países Bajos, en el debut europeo del equipo italiano esta temporada. El mismo día, el arquero Gerónimo Rulli debutó en el arco del Manchester City y mantuvo la valla invicta en la Copa de la Liga inglesa, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/nico-gonzalez-marco-para-juventus-en-la-europa-league-y-geronimo-rulli-debuto-en-el-arco-de-nid17092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5EJX5V5PD5HWBDXUJ3ABZMVVKY.jpg?auth=7f33cce29a5bc37bb0cc8fa2ee81bc8dd648c38b623ea996d4c5134b458b30af&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:08",
+     "autor": "",
+     "titulo_original": "Nico González marcó para Juventus en la Europa League y Gerónimo Rulli debutó en el arco de Manchester City"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Elena Rybakina llegó al número uno del ranking WTA",
+     "resumen": "La kazaja de 1,84 metros se convirtió en la trigésima jugadora en llegar a la cima del ranking WTA. Clarín destaca la efectividad de su saque y la mejora de su drive, antes su punto débil, como claves de su ascenso.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/elena-rybakina-30-jugadora-llega-numero-1-historia-wta-lejos-figura-carismatica-hablan_0_uVJuLohoG5.html",
+     "imagen": "https://www.clarin.com/img/2026/09/17/tyLDDDwB2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elena Rybakina, la 30° jugadora que llega al número 1 en la historia del WTA: lejos de una figura carismática pero todos hablan de ella"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "el equipo argentino de Copa Davis busca pasar a Turquía y mantenerse en los Qualifiers",
+     "resumen": "La Argentina enfrenta entre sábado y domingo a Turquía por los play-offs de Copa Davis, en el estadio Ruca Che y sobre superficie dura bajo techo. Fran Cerúndolo y Tirante se perfilan como singlistas del equipo capitaneado por Javier Frana, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/jugadores-coperos-fortaleza-equipo-argentino-copa-davis-pasar-turquia-mantenerse-qualifiers_0_FmknUfmIkA.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/yzSrdiObZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Jugadores coperos\": la fortaleza del equipo argentino de Copa Davis para pasar a Turquía y mantenerse en los Qualifiers"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "Marcelo Gallardo fue presentado como técnico de la selección de Ecuador",
+     "resumen": "Gallardo fue presentado oficialmente al frente de la Tri y explicó qué lo motivó a aceptar el desafío. El entrenador argentino confirmó además que Matías Biscay no formará parte de su cuerpo técnico, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/por-que-no-estar-motivado-la-contundente-respuesta-marcelo-gallardo-su-presentacion-como-tecnico-ecuador-n6323737",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:12",
+     "autor": "",
+     "titulo_original": "\"¿Por qué no estar motivado?\": la contundente respuesta de Marcelo Gallardo en su presentación como técnico de Ecuador"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "el Gran Premio de Brasil de Fórmula 1 dispara el turismo hacia Interlagos",
+     "resumen": "Las búsquedas de viajes de argentinos a San Pablo se multiplicaron por siete de cara al Gran Premio de Brasil de Fórmula 1, donde correrá Franco Colapinto. Según Ámbito, acompañarlo en Interlagos puede demandar entre 4 y 7 millones de pesos en una experiencia premium, y en 2025 el evento ya había movilizado el equivalente a unos 685.500 millones de pesos en la economía local.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-mueve-millones-cuanto-cuesta-viajar-brasil-ver-la-formula-1-y-como-el-gp-activa-el-negocio-turistico-n6323545",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:23",
+     "autor": "Eduardo Perimbelli",
+     "titulo_original": "Franco Colapinto mueve millones: cuánto cuesta viajar a Brasil para ver la Fórmula 1 y cómo el GP activa el negocio turístico"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-06",
+     "titulo": "un destino de la Costa quedó entre los candidatos a mejor pueblo turístico del mundo",
+     "resumen": "Un destino de la Costa Atlántica argentina recibió el certificado de candidato a mejor pueblo turístico en el certamen internacional que organiza ONU Turismo, uno de los ocho postulantes argentinos. Los ganadores se conocerán a fin de año, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/464686-destino-predilecto-de-la-costa-recibio-certificado-de-candidato-a-mejor-pueblo-turistico",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/11/506372.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:02",
+     "autor": "",
+     "titulo_original": "Destino predilecto de la Costa recibió certificado de candidato a mejor pueblo turístico"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "buscan voluntarios para vivir gratis en Puerto Madryn durante la temporada de ballenas",
+     "resumen": "Una propuesta de voluntariado publicada en Worldpackers ofrece alojamiento y desayuno en el hostel Chepatagonia, en Puerto Madryn, a cambio de 24 horas semanales de colaboración distribuidas en jornadas de cuatro horas, durante la temporada de avistaje de ballenas. Según El Cronista, la convocatoria busca personas interesadas en fotografía, redes sociales y creación de contenido.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-gratis-en-puerto-madryn-ofrecen-alojamiento-a-cambio-de-4-horas-diarias-y-un-dia-libre-a-la-semana/",
+     "imagen": "https://www.cronista.com/resizer/v2/L6VUY6N6MNEU5E3K2P2GHYNK54.jpg?auth=93f0e9edbc15cb13ae685c644d36bf7a05a4f7ec09dc313b16d5f57336c5fbdc&smart=true&width=900&height=505",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:11",
+     "autor": "",
+     "titulo_original": "Buscan voluntarios para vivir gratis en Puerto Madryn: ofrecen alojamiento a cambio de 4 horas diarias y un día libre a la semana"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "un nuevo frente frío traerá tormentas y el regreso del frío en pleno inicio de la primavera",
+     "resumen": "Tras varias tardes con temperaturas cercanas a los 25 grados, un sistema frontal avanzará sobre el Área Metropolitana de Buenos Aires durante el fin de semana, con más inestabilidad, lluvias, tormentas aisladas y ráfagas de hasta 50 kilómetros por hora. El cambio se producirá días antes del comienzo astronómico de la primavera, previsto para el martes 22 de septiembre, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-nuevo-frente-que-provocara-inestabilidad-tormentas-rafagas-de-hasta-50-kmh-y-el-regreso-nid17092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DT3IKOGE5RARJI7ODSCUT3LLCM.png?auth=2587e1f3573210935b257dede206bdeb2c9cc9bd5adb5abc279f6c3e46ab058f&smart=true&width=900&height=507",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:00",
+     "autor": "",
+     "titulo_original": "Se viene un nuevo frente que provocará inestabilidad, tormentas, ráfagas de hasta 50 km/h y el regreso del frío en plena primavera: las zonas afectadas"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "el Gobierno aumentó 1,7% las prestaciones por discapacidad de septiembre",
+     "resumen": "La Secretaría Nacional de Discapacidad dispuso una suba del 1,7% en los aranceles del Sistema de Prestaciones Básicas de Atención Integral para septiembre, según la Resolución 3487/2026 publicada en el Boletín Oficial. Se mantiene, además, el adicional del 20% sobre el arancel básico para los beneficiarios de la región patagónica.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/18/el-gobierno-aumento-las-prestaciones-por-discapacidad-de-cuanto-sera-la-suba-este-mes/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZQPJLASLRRHDJCCIL467TEHPDY.jpg?auth=683615b220e2655628a769c981c32eb77ef715eddadc78531d5733128504231c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:04",
+     "autor": "",
+     "titulo_original": "El Gobierno aumentó las prestaciones por discapacidad: de cuánto será la suba este mes"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "la abogada de la madre de Aramburú describe el crimen del ex Puma en Francia como una ejecución",
+     "resumen": "Sophie Thonon, abogada de Cecilia Aramburú, madre del ex rugbier argentino asesinado en París en 2022, sostiene en el juicio que se lleva adelante en Francia que el crimen fue una ejecución. Según Clarín, los dos acusados, un ex comando de la marina francesa y un activista de ultraderecha, sabían muy bien lo que hacían.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/sophie-thonon-abogada-madre-ex-puma-aramburu-federico-shaun-iban-hotel-descansar-criminales_0_t8A87kXTXD.html",
+     "imagen": "https://www.clarin.com/img/2026/09/17/o28c_iT1u_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sophie Thonon, abogada de la madre del ex puma Aramburú: \"Federico y Shaun se iban al hotel a descansar, los criminales no\""
+    },
+    {
+     "id": "CL-10",
+     "titulo": "una argentina detenida por el ICE contó las condiciones que vivió en un centro de detención",
+     "resumen": "Agustina Gallo, de 32 años, fue detenida por agentes migratorios en Atlanta cuando estaba por viajar a ver un partido de la Selección contra Inglaterra, y relató a Clarín que estuvo alojada en una celda helada del desierto de California, con el aire acondicionado y la luz encendidos las 24 horas. Según su testimonio, la comida escaseaba, el agua no era potable y los fines de semana les vendían productos en una tienda online, con gastos de hasta 1.000 dólares semanales para algunas detenidas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/argentina-detenida-ice-cuenta-infierno-vivio-negocio-gastas-tiempo-detenido_0_ToVKYMfLzP.html",
+     "imagen": "https://www.clarin.com/img/2026/09/11/GxR5zTJYF_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una argentina detenida por el ICE cuenta el infierno que vivió: \"Es un negocio. Cuanto más gastás, más tiempo te tienen detenido\""
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del viernes dieciocho de septiembre.\n\nHoy el foco está en la economía: el Indec confirmó que el producto bruto interno cayó cero coma seis por ciento en el segundo trimestre y que el desempleo subió a siete coma nueve por ciento, con el consumo también en baja, lo que enciende las alarmas sobre una recesión técnica hacia fin de año. En el Congreso, el Senado avanzó con dos leyes clave: dio media sanción al nuevo marco de biocombustibles y aprobó en forma definitiva la Inocencia Fiscal dos, pensada para atraer los dólares que están fuera del sistema bancario. Y en el plano institucional, la Armada apartó a nueve militares por la denuncia de fraude y la Justicia fijó fecha a los juicios contra Cristina y Máximo Kirchner por las causas Hotesur y Los Sauces.\n\nAntes de entrar en el detalle, un repaso de los números del día: el dólar oficial cerró ayer en mil quinientos treinta y cinco pesos, el blue en mil quinientos cincuenta y cinco pesos, el riesgo país en quinientos quince puntos básicos y la inflación de agosto fue de uno coma siete por ciento, con una variación interanual de treinta y tres coma cinco por ciento.\n\nEn política, la Armada apartó a nueve militares, entre ellos ocho capitanes de corbeta y un suboficial, señalados en la denuncia por maniobras de fraude que investiga a veintitrés personas; en la fuerza estiman que el manejo irregular de fondos podría llegar a los mil seiscientos millones de pesos. El proyecto de Ley de Defensa de la Soberanía Nacional, que según El Cronista va mucho más allá de la disputa por Malvinas, crea el Consejo de Seguridad Nacional y endurece las sanciones contra quienes exploten recursos naturales en la zona en litigio; en esa misma causa, el fiscal Carlos Stornelli sumó como imputadas a las petroleras Rockhopper y Navitas. La senadora Patricia Bullrich admitió que desconocía los cambios en discapacidad que trae el Presupuesto y cruzó al Gobierno, mientras la Casa Rosada negocia con los gobernadores sacar las PASO del calendario electoral antes de discutir el reparto de candidaturas. Y la Justicia separó los juicios de Hotesur y Los Sauces contra Cristina y Máximo Kirchner, que empezarán el veintitrés de octubre y el diecinueve de marzo del año que viene.\n\nEn economía y mercados, además de la caída del producto y la suba del desempleo, el Banco Central redujo al mínimo su compra de reservas en septiembre, con un promedio inferior a los diez millones de dólares diarios. La suba de tasas de la Reserva Federal, que llevó su tasa de referencia a un rango de entre tres coma setenta y cinco y cuatro por ciento, obligó a provincias y empresas argentinas a recalcular sus planes de salida a los mercados internacionales de deuda. Pese a eso, los activos argentinos rebotaron: los certificados de depósito americanos subieron hasta seis por ciento en Wall Street y el Merval medido en dólares avanzó uno coma dos por ciento, hasta los mil novecientos veintiún dólares. Y un dato para tener en cuenta: más de cincuenta y siete mil empresas, sobre todo de sectores productivos, ya están en mora con los bancos.\n\nEn negocios y empresas, Granja Tres Arroyos atraviesa una crisis financiera con una deuda de más de quinientos cuarenta millones de dólares entre sus cuatro sociedades, golpeada por la caída del consumo y el ingreso de pollo brasileño. YPF presentó un plan para invertir veinticinco mil millones de dólares en los próximos quince años y exportar más petróleo desde Vaca Muerta a partir de dos mil treinta y dos. La Justicia reactivó la venta de SanCor y diez empresas miran sus activos, mientras Vicentin obtuvo un crédito de cincuenta millones de dólares de Bunge y, a través del mismo grupo controlante, avanza también sobre el frigorífico Friar.\n\nEn impuestos y normativa, el Congreso aprobó la Inocencia Fiscal dos para blanquear unos ciento setenta mil millones de dólares que están fuera del sistema bancario, aunque todavía no está claro si la agencia de recaudación prorrogará el plazo para adherirse al régimen simplificado de Ganancias. También se confirmó la nueva fecha límite de septiembre para el pago del monotributo. Y el Presupuesto 2027 incluye una amortización acelerada en Ganancias para las empresas que inviertan en obras de rutas concesionadas, en momentos en que el propio proyecto proyecta más presión tributaria y menos recaudación para la ANSES.\n\nEn consumo y construcción, apareció una casa de madera de ciento cincuenta metros cuadrados que se fabrica en planta y se monta en apenas diez días, y crece la demanda de propiedades más chicas y de tiny houses frente al modelo inmobiliario tradicional. En la Argentina se venden menos autos cero kilómetro por el avance de las motos económicas y las aplicaciones de movilidad. Los bancos ya le ponen fecha a la baja de la mora de las familias y evalúan reactivar el crédito hacia fin de año. Y un economista advirtió que el envejecimiento poblacional, con apenas uno coma treinta y tres hijos por mujer, ya obliga a las empresas a replantear qué rubros de consumo van a crecer y cuáles van a perder participación. Para una empresa: son señales que conviene mirar de cerca antes de definir qué categorías priorizar en los próximos años.\n\nEn management, un especialista en liderazgo de la Universidad Di Tella sostuvo que llegar a los cincuenta años no significa el final de la carrera profesional, sino la oportunidad de aprovechar la experiencia y los contactos acumulados. Las seis grandes tecnológicas de Estados Unidos siguen destinando cifras récord a centros de datos e inteligencia artificial, y Wall Street empieza a exigir que ese gasto se traduzca en ganancias concretas. Y de yapa, iProfesional le pidió a tres asistentes de inteligencia artificial que armaran una cartera de inversión, y cada uno propuso una combinación distinta.\n\nEn el mundo, Irán atacó un petrolero de Togo en el estrecho de Ormuz y acusó a Estados Unidos de provocación. Donald Trump y la vicepresidenta venezolana Delcy Rodríguez podrían reunirse la semana próxima en la Asamblea General de Naciones Unidas. Rusia empezó a votar para renovar la Duma en medio de la guerra con Ucrania, sin competencia real y con colegios electorales, por primera vez, en zonas ucranianas ocupadas que no tienen ningún valor legal para la comunidad internacional. Brasil vota para presidente el cuatro de octubre, con un eventual balotaje el veinticinco. Y la empresa Anthropic reveló que su inteligencia artificial Claude ya realiza casi un tercio de las tareas de investigación y desarrollo de la compañía, contra cero por ciento a comienzos de año.\n\nLe Grand Continent analiza esta semana tres temas centrales: la propuesta de avanzar hacia unos Estados Unidos de Europa, la apuesta de China por el código abierto en inteligencia artificial dentro de los BRICS para ganar influencia en el Sur Global, y cómo la guerra en Irán podría producir la primera caída de las emisiones globales de dióxido de carbono desde la pandemia.\n\nEn deportes, River negocia blindar al arquero Santiago Beltrán con una cláusula millonaria, mientras Leonardo Ponzio dejó de ser interino y firmó como director técnico hasta 2027. Nicolás González marcó en la goleada de la Juventus por la Europa League y Gerónimo Rulli debutó en el arco del Manchester City. La tenista Elena Rybakina llegó al número uno del ranking mundial, y la Selección argentina de Copa Davis enfrenta este fin de semana a Turquía en el estadio Ruca Che. Marcelo Gallardo fue presentado como nuevo técnico de la selección de Ecuador. Y en Fórmula uno, las búsquedas de viajes de argentinos a San Pablo se multiplicaron por siete de cara al Gran Premio de Brasil, donde correrá Franco Colapinto.\n\nY para cerrar, en turismo: un destino de la Costa Atlántica quedó entre los candidatos a mejor pueblo turístico del mundo en un certamen de la Organización Mundial del Turismo, y en Puerto Madryn buscan voluntarios para vivir gratis durante la temporada de avistaje de ballenas.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-09-18-manana",
+ "generado_ba": "18/09/2026 10:11"
+}
