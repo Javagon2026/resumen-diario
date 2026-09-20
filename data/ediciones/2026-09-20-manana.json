@@ -1,0 +1,884 @@
+{
+ "fecha": "2026-09-20",
+ "edicion": "manana",
+ "titulo": "Kicillof se afirma en Avellaneda, la Argentina busca la Davis y llega el FMI",
+ "apertura": "Domingo previo a una semana clave: el Gobierno recibe mañana a la misión del FMI que revisará la meta fiscal, mientras el Senado buscará avanzar con Zona Fría y la reforma del Banco Central. En el plano político, Axel Kicillof profundizó su candidatura 2027 en un acto en Avellaneda, en medio de encuestas que muestran desgaste de Milei. En Neuquén, la Selección de Copa Davis quedó a un partido de clasificar a los Qualifiers 2027, y un apagón masivo dejó sin luz a un millón y medio de personas en la Ciudad y el GBA.",
+ "claves": [
+  "El FMI llega el lunes para la tercera revisión del acuerdo, con foco en el déficit fiscal del primer semestre y un vencimiento de deuda de US$ 800 millones esa semana.",
+  "El Senado buscará esta semana aprobar la ley de Zona Fría y la reforma de la Carta Orgánica del Banco Central.",
+  "Axel Kicillof cerró un acto en Avellaneda con 30.000 personas y ratificó su candidatura para 2027 con críticas a Milei.",
+  "El PBI cayó 0,6% en el segundo trimestre y el desempleo subió a 7,9%, aunque en Wall Street ven intactas las chances de reelección de Milei.",
+  "Un apagón afectó a 1,5 millones de personas en la Ciudad y el GBA; también hubo alertas meteorológicas para 17 provincias.",
+  "La Argentina quedó a un partido de clasificar a la Copa Davis 2027 tras ganar los dos singles ante Turquía.",
+  "En Alemania, la ultraderechista AfD lidera las encuestas en las elecciones regionales de Berlín y Mecklemburgo-Pomerania, un test para el canciller Merz.",
+  "ARCA actualizó el monotributo con una suba del 16,8% para octubre, y el Gobierno dejó de cobrar unos US$ 6.000 millones del impuesto a los combustibles desde fines de 2023."
+ ],
+ "cifras": [
+  {
+   "nombre": "PBI (segundo trimestre)",
+   "valor": "-0,6%",
+   "fuente": "IB-20"
+  },
+  {
+   "nombre": "Desempleo",
+   "valor": "7,9%",
+   "fuente": "IB-20"
+  },
+  {
+   "nombre": "Balanza comercial (julio)",
+   "valor": "superávit de US$ 2.187 millones",
+   "fuente": "IB-20"
+  },
+  {
+   "nombre": "Impuesto a los combustibles no cobrado desde 2023",
+   "valor": "US$ 6.000 millones",
+   "fuente": "CL-12"
+  },
+  {
+   "nombre": "Actualización del monotributo (octubre)",
+   "valor": "+16,8%",
+   "fuente": "IP-09"
+  },
+  {
+   "nombre": "Vencimiento de deuda (semana de la misión del FMI)",
+   "valor": "US$ 800 millones",
+   "fuente": "IB-22"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-25",
+     "titulo": "Kicillof ratifica su candidatura 2027 en un acto en Avellaneda",
+     "resumen": "El gobernador bonaerense cerró un plenario de su espacio, el Movimiento Derecho al Futuro, en Villa Domínico, Avellaneda, con más de 30.000 personas y presencia de referentes de varias provincias, aunque sin respaldo explícito de gobernadores. Pidió que \"cuenten conmigo\" para el año que viene, calificó de \"ignorante e insensible\" al gobierno de Milei y dijo que Cristina Kirchner está \"injustamente detenida\".",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "En Avellaneda, Kicillof mostró su construcción federal y fortalece su candidatura con miras a la negociación del peronismo",
+       "url": "https://www.infobae.com/politica/2026/09/20/en-avellaneda-kicillof-mostro-su-construccion-federal-y-fortalece-su-candidatura-con-miras-a-la-negociacion-del-peronismo/"
+      },
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "¿Kicillof candidato? Mensaje a la interna peronista y “cuenten conmigo” para terminar con el modelo Milei",
+       "url": "https://www.cronista.com/economia-politica/kicillof-candidato-mensaje-a-la-interna-peronista-y-cuenten-conmigo-para-terminar-con-el-modelo-milei/"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Kicillof en un nuevo acto de su espacio, MDF: \"Vengo a empezar una historia nueva y mejor\"",
+       "url": "https://www.iprofesional.com/politica/464778-kicillof-en-un-nuevo-acto-de-su-espacio-mdf-vengo-a-empezar-una-historia-nueva-y-mejor"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/cuenten-conmigo-ano-viene-axel-kicillof-anoto-elecciones-2027-convoco-distintos-sectores-derrotar-milei_0_zadGSrXR04.html",
+     "imagen": "https://www.clarin.com/img/2026/09/19/TCvrP5AMi_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Cuenten conmigo para el año que viene\": Axel Kicillof se anotó para las elecciones 2027 y convocó a distintos sectores para derrotar a Milei"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "Semana clave en el Congreso: Zona Fría, reforma del Banco Central y Malvinas",
+     "resumen": "En Diputados, Martín Menem buscará frenar el desmantelamiento de la Emergencia que impulsan los Caputo dentro del Presupuesto 2027, mientras sigue el debate por endeudamiento. El Senado podría sesionar para tratar la ley de Zona Fría, que elimina subsidios al gas, y la nueva Carta Orgánica del Banco Central, que podría volver a Diputados por cambios que pide la oposición.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Patricia Bullrich activa otra semana explosiva en el Senado con proyectos clave para el Gobierno",
+       "url": "https://www.clarin.com/politica/patricia-bullrich-activa-semana-explosiva-senado-proyectos-clave-gobierno_0_otCCGskL1h.html"
+      },
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El oficialismo quiere aprovechar el impulso en el Senado y aprobar la reforma del Banco Central",
+       "url": "https://www.infobae.com/politica/2026/09/20/el-oficialismo-quiere-aprovechar-el-impulso-en-el-senado-y-aprobar-la-reforma-del-banco-central/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/congreso-semana-clave-el-gobierno-la-interna-libertaria-como-telon-fondo-n6324034",
+     "imagen": "https://media.ambito.com/p/ad786179b8ae50f073060d78fb68c72b/adjuntos/239/imagenes/043/385/0043385558/1200x675/smart/diputados-sesion-martin-menem.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Congreso: semana clave para el Gobierno con la interna libertaria como telón de fondo"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "El lanzamiento de Ernesto Sanz reabre la pregunta por un JxC 2027",
+     "resumen": "El anuncio de Ernesto Sanz como precandidato presidencial, en una entrevista con Luis Novaresio en A24, reavivó la idea de reconstruir Juntos por el Cambio con nuevos aliados para 2027. El proyecto choca con los intereses de dirigentes del PRO y la UCR que hoy negocian con el Gobierno para retener sus territorios, mientras sigue abierta la discusión sobre la suspensión de las PASO.",
+     "url": "https://www.infobae.com/politica/2026/09/20/puede-revivir-jxc-en-2027-la-aparicion-de-nuevos-candidatos-los-posibles-aliados-y-el-futuro-de-las-paso/",
+     "imagen": "https://www.infobae.com/resizer/v2/DONHH24TDRDBZJQIX3VJJMELMY.png?auth=cafd0d6503ecb263ded5c523cdc4381603e27b8991553574bb776b2d5272a1ac&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:30",
+     "autor": "Diamela Rodriguez",
+     "titulo_original": "¿Puede revivir JxC en 2027? La aparición de nuevos candidatos, los posibles aliados y el futuro de las PASO",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-24",
+     "titulo": "Milei suma gobernadores a su viaje a París en medio del debate por las PASO",
+     "resumen": "Con el Congreso convulsionado y el fantasma de un balotaje en 2027, el Gobierno invitó a Jorge Macri y a mandatarios radicales a viajar a París, aunque no todos aceptaron. Varios gobernadores dudan de la conveniencia de apurar la suspensión de las PASO.",
+     "url": "https://www.clarin.com/politica/mostrar-apoyos-consensos-milei-lleva-docena-gobernadores-viaje-paris_0_vHePcLsci7.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/d1j6dwWAW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Con el Congreso convulsionado y el fantasma del balotaje, Milei suma a más gobernadores a su viaje a París",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-04",
+     "titulo": "Milei, entre la caída del PBI y la suba del desempleo",
+     "resumen": "El Gobierno logró destrabar votos en el Senado, pero la caída de la actividad económica y el aumento del desempleo golpean el relato oficial. Crecen las tensiones internas en La Libertad Avanza mientras la oposición se reorganiza de cara a 2027; cuatro encuestas relevadas por El Cronista coinciden en que la aceptación del Gobierno está a la baja.",
+     "relacionadas": [
+      {
+       "id": "CR-09",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Entre el ajuste y la paciencia: qué dicen cuatro encuestas sobre el futuro del Gobierno y sus chances hacia 2027",
+       "url": "https://www.cronista.com/economia-politica/entre-el-ajuste-y-la-paciencia-que-dicen-cuatro-encuestas-sobre-el-futuro-del-gobierno-y-sus-chances-hacia-2027/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/milei-atrapado-los-datos-y-la-cuando-la-planilla-no-alcanza-n6324396",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Milei, atrapado entre los datos y la política: cuando la planilla no alcanza"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "La Libertad Avanza acelera su armado bonaerense de cara a 2027",
+     "resumen": "Karina Milei no asistió a una actividad en San Pedro, pero el armador Sebastián Pareja buscó apuntalar la estructura libertaria en la provincia de Buenos Aires. El oficialismo intensifica recorridas en el distrito más poblado del país con el objetivo de disputar la gobernación.",
+     "url": "https://www.ambito.com/politica/karina-milei-pego-el-faltazo-san-pedro-pero-sebastian-pareja-intento-apuntalar-el-armado-la-libertad-avanza-pba-fuerza-n6324361",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:46",
+     "autor": "",
+     "titulo_original": "Karina Milei pegó el faltazo en San Pedro, pero Sebastián Pareja intentó apuntalar el armado de La Libertad Avanza en PBA: \"Fuerza\"",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-15",
+     "titulo": "La CGT se ilusiona con un encuentro con el papa León XIV en su visita a la Argentina",
+     "resumen": "La central obrera difundió una foto de dirigentes con el Sumo Pontífice en el Vaticano, de cara a su visita a la Argentina entre el 8 y el 11 de noviembre. Por ahora no hay citas confirmadas con espacios políticos ni sindicales, pero desde la CGT buscan conseguir una audiencia y remarcan coincidencias en la mirada social.",
+     "url": "https://www.ambito.com/politica/la-cgt-muestra-foto-leon-xiv-el-vaticano-y-se-ilusiona-un-encuentro-argentina-n6324406",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:00",
+     "autor": "",
+     "titulo_original": "La CGT muestra foto con León XIV en el Vaticano y se ilusiona con un encuentro en Argentina",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-22",
+     "titulo": "El FMI llega el lunes para la tercera revisión del acuerdo",
+     "resumen": "Una misión del FMI aterriza en Buenos Aires el lunes 21 de septiembre para evaluar el cumplimiento de la meta fiscal 2026, luego de que el resultado del primer semestre quedara por debajo de lo pactado. El Gobierno deberá explicar las medidas adicionales incluidas en el Presupuesto 2027 para sostener el superávit primario, en una semana que además incluye un vencimiento de deuda de US$ 800 millones.",
+     "url": "https://www.infobae.com/economia/2026/09/20/el-fmi-vuelve-a-la-argentina-una-nueva-mision-revisara-la-meta-fiscal-y-las-medidas-que-el-gobierno-se-comprometio-a-aplicar/",
+     "imagen": "https://www.infobae.com/resizer/v2/4EY5LMSGJNFYBF6KAQKGIZVN7Q.JPG?auth=7a3dd3c841bde1ae257269d562c81dd511554a03f49dbefb2c57915f5c1d7349&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:56",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "El FMI vuelve a la Argentina: una nueva misión revisará la meta fiscal y las medidas que el Gobierno se comprometió a aplicar",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Pese a los datos flojos de actividad, en Wall Street ven intactas las chances de reelección de Milei",
+     "resumen": "El PBI cayó 0,6% en el segundo trimestre y el desempleo subió a 7,9%, con una pérdida de más de 130.000 puestos de trabajo, aunque se consolidó el superávit fiscal y la balanza comercial de julio arrojó un saldo positivo de US$ 2.187 millones. Un informe de Citibank sostiene que la caída de actividad no está ligada, a diferencia de otras crisis, a saltos devaluatorios ni picos inflacionarios, y prevé crecimiento en 2026 y 2027.",
+     "url": "https://www.infobae.com/economia/2026/09/20/mientras-la-economia-alterna-buenas-y-malas-en-wall-street-creen-que-las-chances-de-reeleccion-de-milei-siguen-intactas/",
+     "imagen": "https://www.infobae.com/resizer/v2/5IF533JMPFCABNKCM2V3KGHTYE.jpg?auth=0b5313e697c34a06644602fdbab492d836ae64b6f397dfadee319bbe1340ee86&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:57",
+     "autor": "Pablo Wende",
+     "titulo_original": "Mientras la economía alterna buenas y malas, en Wall Street creen que las chances de reelección de Milei siguen intactas",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-01",
+     "titulo": "Morgan Stanley detecta un bono argentino entre los más caros de los emergentes",
+     "resumen": "Pese a que la deuda argentina cotiza con fuerte descuento frente a otros emergentes, un informe de Morgan Stanley ubicó al Global 2046 como una anomalía: quedó entre los títulos más caros del mercado en relación con su propia curva de rendimientos.",
+     "url": "https://www.cronista.com/finanzas-mercados/alerta-de-morgan-stanley-el-bono-argentino-que-quedo-entre-los-mas-caros-de-los-emergentes/",
+     "imagen": "https://www.cronista.com/resizer/v2/UZHFWPUX3REVHOBSQ73O6S4WAI.jpg?auth=4a6045f77dd01f058059c32322b95fb36eee3eb0cc7712a2252b664e84521de2&smart=true&width=900&height=584",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Alerta de Morgan Stanley: el bono argentino que quedó entre los más caros de los emergentes",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-02",
+     "titulo": "La Bolsa de Brasil sube 12% pese a que la elección sigue abierta",
+     "resumen": "El Bovespa acumuló un alza del 12% en el último mes en medio de la recta final de la campaña presidencial brasileña, descripta por los sondeos como la más polarizada de los últimos años. El Cronista señala que el movimiento bursátil refleja un optimismo creciente entre inversores sobre el rumbo económico tras las elecciones de octubre.",
+     "url": "https://www.cronista.com/finanzas-mercados/brasil-entra-en-la-recta-final-electoral-por-que-la-bolsa-sube-aunque-la-eleccion-siga-abierta/",
+     "imagen": "https://www.cronista.com/resizer/v2/Z7AHAWLGK5DBVFUR5PBSRU4ITI.jpg?auth=da10f4ea73b24cc7186acc7ee3979558351ddda19811703c0a243010e040b5bb&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Brasil entra en la recta final electoral: por qué la Bolsa sube aunque la elección siga abierta",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Artana advierte que las proyecciones del Presupuesto 2027 son \"un poco optimistas\"",
+     "resumen": "El economista jefe de FIEL, Daniel Artana, consideró que el Presupuesto 2027 es \"más razonable\" que el anterior, pero cuestionó las estimaciones oficiales de 4% de crecimiento del PBI y 18% de inflación anual. El presupuesto vigente había proyectado 5% de expansión y 10% de inflación.",
+     "relacionadas": [
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dónde pesa más llenar el changuito: la radiografía provincial del costo de vida de la clase media",
+       "url": "https://www.cronista.com/economia-politica/el-mapa-desigual-del-changuito-cuanto-cuesta-llenar-el-super-y-que-provincias-exigen-mas-ingresos/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/son-un-poco-optimistas-la-advertencia-de-artana-sobre-la-inflacion-y-el-crecimiento-en-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/ROCKBZ4G5FG43DWHIGL5LFAPBE.jpg?auth=a89037d73ad4be852685828be86ea9846334977ee5485f6ce58629792f425301&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:06",
+     "autor": "",
+     "titulo_original": "“Son un poco optimistas”: la advertencia de Artana sobre la inflación y el crecimiento en 2027"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Riesgo país: dos factores que encarecen el financiamiento argentino",
+     "resumen": "La suba de las tasas internacionales volvió a encarecer el crédito para la Argentina, pero el principal obstáculo para bajar el riesgo país es la incertidumbre sobre la continuidad del programa económico después de las elecciones de 2027. Para una empresa: mientras esa incertidumbre no se despeje, el financiamiento externo seguirá caro y volátil.",
+     "url": "https://www.ambito.com/opiniones/riesgo-pais-argentino-las-dos-fuerzas-que-encarecen-el-financiamiento-soberano-n6324194",
+     "imagen": "https://media.ambito.com/p/2b42ee3a9a393032e20ca8a3421c26e5/adjuntos/239/imagenes/043/585/0043585619/1200x675/881x446:901x466/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Riesgo país argentino: las dos fuerzas que encarecen el financiamiento soberano",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-04",
+     "titulo": "Kicillof cuestionó al CIADI en medio del juicio de YPF",
+     "resumen": "El gobernador bonaerense criticó ante Clarín al tribunal del Banco Mundial y a la cesión de jurisdicción ante jueces internacionales que habilita el régimen RIGI, que según dijo deja a la Argentina en \"debilidad\". El caso YPF, que el país ganó en Estados Unidos, llegó esta semana al CIADI en medio de una polémica con un abogado argentino.",
+     "url": "https://www.clarin.com/economia/juicio-ypf-kicillof-critico-ciadi-dijo-rigi-deja-argentina-debilidad_0_l9821U2pcJ.html",
+     "imagen": "https://www.clarin.com/img/2025/09/18/RnE-no1oA_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juicio por YPF: Kicillof criticó al CIADI y dijo que el RIGI deja a la Argentina en \"debilidad\"",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "LN-04",
+     "titulo": "Cae la venta de maquinaria agrícola por falta de crédito",
+     "resumen": "En agosto se patentaron 606 tractores, cosechadoras y pulverizadoras, un 12,9% menos que en julio. Fabricantes advierten que la falta de crédito adecuado frena las operaciones y que algunas plantas trabajan al 50% de su capacidad instalada.",
+     "url": "https://www.lanacion.com.ar/economia/campo/un-ano-dificil-preocupa-el-nivel-de-actividad-en-un-importante-termometro-de-la-salud-del-campo-nid20092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/A37PXOESEZBS5PV6IVCZ7ZY7RY.jpg?auth=d9e5e400b76174e65aaa00f9d9352495dc0214d5ed93699102ffc7b2b41053cc&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "Belkis Martínez",
+     "titulo_original": "“Un año difícil”: preocupa el nivel de actividad de un importante indicador de la salud del campo",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Una app argentina de plomeros y electricistas prepara su desembarco en Estados Unidos",
+     "resumen": "Clickie, que conecta hogares con profesionales de oficios, cerró una ronda de US$ 175.000, sumó Mar del Plata a su cobertura y proyecta una ronda semilla para expandirse a Estados Unidos.",
+     "url": "https://www.iprofesional.com/negocios/464543-clickie-app-de-plomeros-y-electricistas-que-se-expande-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/609806.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:29",
+     "autor": "",
+     "titulo_original": "La app que conecta hogares con plomeros y electricistas suma ciudades y prepara su salto a EE.UU.",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-10",
+     "titulo": "El fondo de Costantini revela en qué bonos corporativos invierte en dólares",
+     "resumen": "One618, el grupo financiero de Eduardo Costantini, detalló que Tecpetrol, Vista, Pampa, Telecom e YPF figuran entre sus principales posiciones en bonos corporativos en dólares.",
+     "url": "https://www.iprofesional.com/finanzas/464542-el-grupo-financiero-de-costantini-revela-que-bonos-corporativos-elige",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614193.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "El grupo financiero de Costantini, One618, revela en qué bonos corporativos pone dólares",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-26",
+     "titulo": "Un cofundador de OpenAI superó a Sam Altman en la lista Forbes 400",
+     "resumen": "El ingeniero, que comenzó su carrera en Stripe, convirtió una participación en la compañía en un patrimonio estimado en US$ 25.500 millones, superando al propio Altman en el ranking.",
+     "url": "https://www.ambito.com/negocios/quien-es-el-cofundador-openai-que-debuto-la-lista-forbes-400-y-supero-sam-altman-n6323647",
+     "imagen": "https://media.ambito.com/p/2a434d62468a90451944bca5f5500f85/adjuntos/239/imagenes/043/649/0043649828/1200x675/1067x472:1087x492/greg-brockman.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "¿Quién es el cofundador de OpenAI que debutó en la lista Forbes 400 y superó a Sam Altman?",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CL-03",
+     "titulo": "El Gobierno exime de impuestos a las privatizaciones de rutas y presiona a las provincias por Ingresos Brutos",
+     "resumen": "El Presupuesto 2027 elimina impuestos sobre las privatizaciones de rutas, pero exige a los gobernadores bajar Ingresos Brutos y Sellos como condición para acceder a los beneficios. Esos beneficios tampoco fueron incluidos en el cálculo del \"gasto tributario\" que mide lo que el Estado deja de recaudar. Para una empresa: la baja de Ingresos Brutos y Sellos en las provincias que adhieran podría reducir la carga tributaria sobre ventas y operaciones comerciales.",
+     "url": "https://www.clarin.com/economia/gobierno-saca-impuestos-privatizaciones-rutas-obliga-provincias-bajar-ingresos-brutos-sellos_0_bYOcPCEQiw.html",
+     "imagen": "https://www.clarin.com/img/2026/04/17/a48uhQQiL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno les saca impuestos a las privatizaciones de rutas, pero obliga a las provincias a bajar Ingresos Brutos y Sellos",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Cambios en la prescripción impositiva: de 5 a 3 años",
+     "resumen": "El nuevo esquema reduce de cinco a tres años el plazo de prescripción impositiva, pero exige que el contribuyente no tenga impugnaciones por discrepancias significativas para poder acceder a él. Para una empresa: conviene revisar el estado de discrepancias con el fisco antes de dar por descontado el plazo reducido.",
+     "url": "https://www.clarin.com/economia/modificaciones-prescripcion-impositiva_0_Qubo25iPVf.html",
+     "imagen": "https://www.clarin.com/img/2025/09/04/2W738Uf_U_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cómo son las modificaciones de la prescripción impositiva",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-09",
+     "titulo": "ARCA actualizó el monotributo: cuánto se paga en octubre",
+     "resumen": "Durante agosto, ARCA actualizó los valores mensuales del monotributo con un incremento del 16,8% sobre los montos vigentes, que regirán para octubre de 2026.",
+     "url": "https://www.iprofesional.com/impuestos/464455-arca-definio-el-monotributo-cuanto-se-paga-en-octubre-2026-y-cuales-son-nuevos-topes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/02/491295.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:15",
+     "autor": "",
+     "titulo_original": "ARCA definió el monotributo: cuánto se paga en octubre 2026 y cuáles son nuevos topes",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-13",
+     "titulo": "ARCA define desde qué monto investigará las transferencias en octubre",
+     "resumen": "Bancos y plataformas digitales están obligados a informar a ARCA determinados movimientos de dinero a partir de ciertos montos, que la agencia actualizó para octubre de 2026.",
+     "url": "https://www.iprofesional.com/impuestos/464454-arca-a-partir-de-que-monto-investigara-las-transferencias-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/11/587670.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "ARCA: a partir de qué monto investigará las transferencias en octubre 2026",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Dos fallos de la Corte Suprema pueden limitar el \"impuesto al viento\" y otros gravámenes municipales",
+     "resumen": "Olavarría logró imponer una Tasa de Inspección de Seguridad e Higiene del 1,38% sobre la facturación de parques eólicos, a diferencia de Puerto Madryn, donde la Justicia frenó en 2020 un intento similar. Las decisiones de la Corte Suprema en este tipo de casos podrían limitar también los gravámenes municipales sobre bancos, supermercados y otros rubros. Para una empresa: un fallo desfavorable a los municipios podría sentar precedente para cuestionar tasas municipales sobre otras actividades.",
+     "url": "https://www.infobae.com/economia/2026/09/20/impuesto-al-viento-el-caso-de-olavarria-y-que-puede-cambiar-con-dos-fallos-de-la-corte-suprema/",
+     "imagen": "https://www.infobae.com/resizer/v2/L25SZB36LNBQ3EYHLTWM7EPHTI.JPG?auth=505cc3ecc13b98e6d56d1889268ed0789418fcb61f48bbeb7a1292f3dc67d0b0&smart=true&width=900&height=574",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:57",
+     "autor": "Sergio Serrichio",
+     "titulo_original": "¿Impuesto al viento?: el caso de Olavarría y qué puede cambiar con dos fallos de la Corte Suprema",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Las CTA reclaman convocar al Consejo del Salario por el nuevo mínimo",
+     "resumen": "Las centrales de trabajadores enviaron una carta documento a la ministra Sandra Pettovello para exigir la convocatoria al Consejo del Salario, tras impugnar el nuevo valor del salario mínimo, vital y móvil.",
+     "url": "https://www.iprofesional.com/actualidad/464779-las-cta-intimaron-a-petovello-a-convocar-a-consejo-del-salario-por-el-nuevo-salario-minimo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/04/552819.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:22",
+     "autor": "",
+     "titulo_original": "Las CTA intimaron a Petovello a convocar a Consejo del Salario por el nuevo salario mínimo",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "Créditos UVA: cuánto bajaron las cuotas tras la baja de tasas bancarias",
+     "resumen": "Los bancos compiten con tasas desde 6,5% y plazos de hasta 30 años en los créditos hipotecarios UVA. Por un crédito de US$ 75.000, iProfesional detalla cuánto se pagaría de cuota inicial y qué conviene mirar antes de firmar. Para una empresa: tasas hipotecarias más bajas pueden reactivar la demanda de materiales de construcción y reformas.",
+     "url": "https://www.iprofesional.com/realestate/464664-creditos-uva-de-cuanto-son-las-cuotas-tras-baja-de-tasas-de-bancos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613761.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:23",
+     "autor": "",
+     "titulo_original": "Créditos UVA: cuánto serán las primeras cuotas tras la baja de tasas de los bancos",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Las librerías piden la emergencia del sector por una caída del 41,5% en la facturación",
+     "resumen": "Un estudio de la Federación Argentina de Librerías, Papelerías y Afines registró una baja del 25% en las ventas de libros y una caída de facturación del 41,5%, lo que llevó al sector a pedir que se declare la emergencia.",
+     "url": "https://www.ambito.com/economia/librerias-piden-declarar-la-emergencia-el-sector-una-caida-del-415-la-facturacion-n6324376",
+     "imagen": "https://media.ambito.com/p/c0e838d355732aa2798955688b1bd888/adjuntos/239/imagenes/043/382/0043382834/libreria-hijos-santiago-rodriguez.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:01",
+     "autor": "",
+     "titulo_original": "Librerías piden declarar la emergencia para el sector por una caída del 41,5% de la facturación",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-11",
+     "titulo": "El \"changuito federal\": dónde cuesta más la canasta de la clase media",
+     "resumen": "En agosto, el costo de la canasta mensual de una familia de clase media volvió a superar el millón de pesos en varias provincias, con la Patagonia otra vez a la cabeza del ranking. El informe de Analytica también compara ese costo con los ingresos locales, y muestra que el esfuerzo para cubrir la canasta varía fuertemente según la provincia.",
+     "url": "https://www.cronista.com/economia-politica/el-mapa-desigual-del-changuito-cuanto-cuesta-llenar-el-super-y-que-provincias-exigen-mas-ingresos/",
+     "imagen": "https://www.cronista.com/resizer/v2/4MAH5DP6Q5DZLEFTAO53VE3H74.jpg?auth=3acfb03b67e0c72ca853baccda398b9368eb3a5f0cbb3bf25bdda8d08587d786&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:05",
+     "autor": "",
+     "titulo_original": "Dónde pesa más llenar el changuito: la radiografía provincial del costo de vida de la clase media",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-11",
+     "titulo": "Divorcio y empresa: cuándo puede obligar a vender acciones",
+     "resumen": "Cuando el patrimonio familiar está concentrado en una empresa, un divorcio puede derivar en la necesidad de valuar la compañía, generar liquidez y diseñar una estrategia para evitar la venta forzosa de acciones.",
+     "url": "https://www.iprofesional.com/legales/464716-jorge-grispo-abogado-puede-divorcio-obligar-a-vender-parte-de-su-empresa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625925.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:50",
+     "autor": "",
+     "titulo_original": "Divorcio y empresa: cuándo puede verse obligado a vender acciones",
+     "relacionadas": []
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "Moscú, bajo un ataque masivo de drones ucranianos",
+     "resumen": "El gobernador de la región capital rusa informó que se interceptaron cerca de 250 vehículos no tripulados desde la medianoche, cifra que la agencia TASS luego elevó a 338. Hubo dos muertos, una refinería petrolera en llamas en Kapotnya y más de 400 personas evacuadas de urgencia.",
+     "url": "https://www.clarin.com/mundo/moscu-ataque-muertos-refineria-petrolera-llamas-250-drones-derribados_0_NJfP20vsgz.html",
+     "imagen": "https://www.clarin.com/img/2026/09/20/fFNkEP71C_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "02:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Moscú bajo ataque: dos muertos, una refinería petrolera en llamas y 338 drones derribados",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-12",
+     "titulo": "Dos elecciones regionales ponen a prueba al canciller Merz en Alemania",
+     "resumen": "Los electores de Berlín y Mecklemburgo-Pomerania Occidental votan este domingo en un clima marcado por la posibilidad de una victoria de la ultraderechista AfD tanto en un estado del oeste como en uno del este. Merz llega debilitado, apenas un año y medio después de asumir, tras el triunfo de AfD en Sajonia-Anhalt el 6 de septiembre.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Elecciones en Alemania: el empuje de AfD pone a prueba a la izquierda en Berlín y Mecklemburgo-Pomerania",
+       "url": "https://www.infobae.com/america/mundo/2026/09/20/elecciones-en-alemania-el-empuje-de-afd-pone-a-prueba-a-la-izquierda-en-berlin-y-mecklemburgo-pomerania/"
+      },
+      {
+       "id": "GC-01",
+       "fuente_codigo": "GC",
+       "fuente": "Le Grand Continent",
+       "titulo": "En Alemania, un nuevo éxito de la AfD en las elecciones regionales podría provocar la caída de Merz",
+       "url": "https://legrandcontinent.eu/es/2026/09/20/en-alemania-nuevo-exito-afd-podria-provocar-caida-merz/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/se-complica-el-escenario-para-fiedrich-merz-que-se-enfrenta-a-un-nuevo-desafio-de-la-ultraderecha-nid20092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/F4IWBBY4FJF73DRWOMMPBIIQAY.jpg?auth=4eec086f9334af8ab7311a80c760b0246e1de5703d0c3442e9a149d40adde546&smart=true&width=900&height=583",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:00",
+     "autor": "Luisa Corradini",
+     "titulo_original": "Dos elecciones clave ponen a prueba el futuro de Merz en Alemania"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "Escala la tensión en Medio Oriente: Estados Unidos alertó a sus ciudadanos",
+     "resumen": "Washington emitió una alerta para sus ciudadanos en la región y Arabia Saudita reportó agresiones sufridas en su capital, Riad. De continuar los hechos, crece el temor a una escalada regional, con acusaciones contra Irán.",
+     "url": "https://www.ambito.com/mundo/tension-medio-oriente-alerta-eeuu-sus-ciudadanos-la-zona-y-hay-temor-la-vuelta-la-guerra-n6324419",
+     "imagen": "https://media.ambito.com/p/3c7da50c36240e6f34376f8f3877e7b2/adjuntos/239/imagenes/043/653/0043653129/1200x675/smart/riad.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:09",
+     "autor": "",
+     "titulo_original": "Tensión en Medio Oriente: alerta de EEUU a sus ciudadanos en la zona y hay temor por la vuelta de la guerra",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Asesinaron a tiros a una candidata a gobernadora en Perú",
+     "resumen": "Susy Aponte Polo, que competía por la gobernación regional de Áncash, fue asesinada durante un acto de campaña. La candidata había denunciado amenazas horas antes del ataque.",
+     "url": "https://www.clarin.com/mundo/conmocion-peru-asesinaron-tiros-candidata-acto-campana_0_2BooqUXExP.html",
+     "imagen": "https://www.clarin.com/img/2026/09/19/IWdpYFjUM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:48",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Conmoción en Perú: asesinaron a tiros a una candidata durante un acto de campaña",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-04",
+     "titulo": "Al menos 20 muertos en un ataque yihadista en Chad",
+     "resumen": "Un grupo atribuido a Boko Haram atacó con canoas a pescadores en una isla del lago Chad, matando a once civiles; nueve atacantes también murieron en el enfrentamiento con el Ejército chadiano, que lanzó una operación de persecución.",
+     "url": "https://www.infobae.com/america/agencias/2026/09/20/al-menos-20-muertos-incluidos-11-civiles-en-chad-en-un-ataque-atribuido-a-yihadistas/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:46",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Al menos 20 muertos, incluidos 11 civiles, en Chad en un ataque atribuido a yihadistas",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-10",
+     "titulo": "Lula llevará a la ONU su defensa de la democracia a dos semanas de las elecciones",
+     "resumen": "El presidente brasileño viaja a Nueva York para su última gran aparición internacional antes de la primera vuelta electoral del 4 de octubre. Su discurso hará foco en la defensa de la soberanía, la democracia y el combate al crimen organizado.",
+     "relacionadas": [
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Lula empieza a mostrar signos de desesperación en una campaña cada vez más ajustada",
+       "url": "https://www.lanacion.com.ar/el-mundo/lula-empieza-a-mostrar-signos-de-desesperacion-en-una-campana-cada-vez-mas-ajustada-nid19092026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/lula-planteara-en-la-asamblea-general-de-la-onu-el-brasil-y-el-mundo-que-defendera-si-sigue-en-el-nid20092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/W67CCEYOLBHERDQ3FHWD7ZYW2E.JPG?auth=83fff32fd322d3248ac360b6b156f87c0051cca3d1a2848d1d31596c490b2431&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:00",
+     "autor": "Janaína Figueiredo",
+     "titulo_original": "Lula planteará en la Asamblea General de la ONU el Brasil y el mundo que defenderá si sigue en el poder"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el mismo proceso electoral alemán con una mirada puesta en la sostenibilidad de la coalición de gobierno.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Un nuevo avance de la AfD podría precipitar la caída de Merz",
+     "resumen": "Dos semanas después del resultado récord de la AfD en Sajonia-Anhalt, las elecciones de este domingo en Mecklemburgo-Pomerania Occidental y Berlín muestran a la ultraderecha liderando las encuestas con 36,5% en el primer estado, 19,8 puntos más que en la elección anterior, frente a una CDU que cae al 7%. Para la revista, el resultado no solo mide el humor regional sino la capacidad de Merz de sostener su coalición.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Dos elecciones clave ponen a prueba el futuro de Merz en Alemania",
+       "url": "https://www.lanacion.com.ar/el-mundo/se-complica-el-escenario-para-fiedrich-merz-que-se-enfrenta-a-un-nuevo-desafio-de-la-ultraderecha-nid20092026/"
+      },
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Elecciones en Alemania: el empuje de AfD pone a prueba a la izquierda en Berlín y Mecklemburgo-Pomerania",
+       "url": "https://www.infobae.com/america/mundo/2026/09/20/elecciones-en-alemania-el-empuje-de-afd-pone-a-prueba-a-la-izquierda-en-berlin-y-mecklemburgo-pomerania/"
+      }
+     ],
+     "url": "https://legrandcontinent.eu/es/2026/09/20/en-alemania-nuevo-exito-afd-podria-provocar-caida-merz/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "En Alemania, un nuevo éxito de la AfD en las elecciones regionales podría provocar la caída de Merz"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "Copa Davis: Argentina busca hoy el punto que le falta para clasificar",
+     "resumen": "Tras los triunfos de Francisco Cerúndolo y Thiago Tirante en los singles, el equipo de Javier Frana ganaba 2-0 a Turquía y buscaba cerrar la serie con el dobles de Guido Andreozzi y Andrés Molteni, desde las 11 en el estadio Ruca Che de Neuquén. Un triunfo asegura la clasificación a los Qualifiers 2027.",
+     "relacionadas": [
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Copa Davis: Argentina ganó los dos singles y quedó a un paso de los Qualifiers",
+       "url": "https://www.ambito.com/deportes/argentina-vuelve-jugar-la-copa-davis-este-fin-semana-y-recibe-turquia-nuequen-los-detalles-n6323969"
+      },
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Copa Davis: Argentina confirma el favoritismo y mira adelante obligada a no cometer errores del pasado",
+       "url": "https://www.lanacion.com.ar/deportes/tenis/copa-davis-argentina-confirma-el-favoritismo-y-mira-adelante-obligada-a-no-cometer-errores-del-nid19092026/"
+      },
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Calleri y Zabaleta, hacia la federalización de la Copa Davis: \"Se puede lograr en el interior, no solo en Buenos Aires\"",
+       "url": "https://www.clarin.com/deportes/calleri-zabaleta-federalizacion-copa-davis-puede-lograr-interior-solo-buenos-aires_0_vO5dRZUNTO.html"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/20/copa-davis-el-dobles-ira-por-el-punto-que-le-falta-a-argentina-contra-turquia-para-la-clasificacion-a-los-qualifiers-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/RCQ5NMSMN5H4HCIRMDHT4WO3O4.jpg?auth=9a28aba7d36822ba6d746ae9ff1d83bc953dfb4ae4ae1f67e63050e4f8b374d5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:46",
+     "autor": "",
+     "titulo_original": "Copa Davis: el dobles irá por el punto que le falta a Argentina contra Turquía para la clasificación a los Qualifiers 2027"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Scaloni convocó a la Selección con sorpresas del fútbol local para los amistosos",
+     "resumen": "El entrenador citó a nueve futbolistas para los partidos ante Bolivia, Burkina Faso y Benín, entre ellos seis jugadores del torneo argentino y tres del exterior. Serán los últimos amistosos de Lionel Messi con la camiseta argentina.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cuánto cuestan las entradas para la despedida de Lionel Messi de la Selección argentina",
+       "url": "https://www.ambito.com/deportes/cuanto-cuestan-las-entradas-la-despedida-lionel-messi-la-seleccion-argentina-n6324366"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/lionel-scaloni-renovo-la-lista-la-seleccion-varias-sorpresas-del-futbol-local-n6324358",
+     "imagen": "https://media.ambito.com/p/bb5ac7095f02fc131430a578e9ca644e/adjuntos/239/imagenes/043/652/0043652982/1200x675/smart/convocados.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:01",
+     "autor": "",
+     "titulo_original": "Lionel Scaloni renovó la lista de la Selección con varias sorpresas del fútbol local"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Torneo Clausura: Instituto es líder sorpresa y Huracán superó a River en la tabla anual",
+     "resumen": "Instituto le ganó el clásico a Talleres en Alta Córdoba y quedó como único puntero de la Zona A. Independiente le dio vuelta el resultado a Unión, mientras Huracán cortó la racha de River en la tabla anual, en el repaso de la Fecha 10.",
+     "url": "https://www.clarin.com/deportes/tablas-torneo-clausura-huracan-paso-river-rojo-sube-anual-escapa-sorpresivo-lider_0_mJeASFFxkT.html",
+     "imagen": "https://www.clarin.com/img/2026/09/19/inOWWfZV3U_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Así están las tablas del Torneo Clausura: Huracán pasó a River, el Rojo sube en la anual, y se escapa un sorpresivo líder",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Instituto hizo de Alta Córdoba una fortaleza con cinco triunfos al hilo",
+     "resumen": "La Gloria venció a Talleres en el clásico cordobés y acumuló su quinto triunfo consecutivo como local, ganando siete de los últimos ocho partidos en su estadio, una racha similar a la de la temporada de su regreso a Primera División en 2022.",
+     "url": "https://www.clarin.com/deportes/instituto-hizo-alta-cordoba-fortaleza-gano-clasico-talleres-lleva-triunfos-hilo-local_0_EKoDBOSCcm.html",
+     "imagen": "https://www.clarin.com/img/2026/09/19/qqMmeSUhG_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Instituto hizo de Alta Córdoba una fortaleza: ganó el clásico ante Talleres y lleva cinco triunfos al hilo como local",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Los Pumas 7s estrenan una nueva camada en los Juegos Suramericanos",
+     "resumen": "En Rosario, Sebastián Dubuc se destacó con diez tries en cinco partidos, liderando a una camada joven con la que la Argentina apuesta a consolidarse rumbo al objetivo olímpico. El equipo había terminado cuarto en el Circuito Mundial de Seven tras un arranque de temporada complicado.",
+     "url": "https://www.lanacion.com.ar/deportes/rugby/juegos-suramericanos-la-nueva-camada-de-los-pumas-7s-esta-lista-para-el-objetivo-olimpico-nid19092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FSIJ7FLOUVFD3AOHHYOSRBCY4I.jpeg?auth=0cac91fe46e9ef3a693d07fae019d985a1170f52e797c3a74b3bf7ca1afbb47a&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:48",
+     "autor": "Alejo Miranda",
+     "titulo_original": "Juegos Suramericanos: la nueva camada de los Pumas 7s está lista para el objetivo olímpico",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Emilia Acosta, medalla de oro en los Juegos Suramericanos a los 17 años",
+     "resumen": "La gimnasta rafaelina ganó el oro por equipos, la primera medalla dorada argentina en esa prueba en 23 años, además de oro en salto y bronce en all around individual. Fue la primera vez que sus padres pudieron verla competir en un torneo internacional con la selección.",
+     "url": "https://www.lanacion.com.ar/deportes/gimnasia/emilia-acosta-una-gimnasta-de-oro-que-suena-en-grande-y-le-dio-a-su-mama-el-regalo-mas-preciado-nid19092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CFNEFZGJJVDEHDBSXHYSCNFLAA.JPG?auth=e3c0e71c5aa20bbf60d1dc8fb0666b285acb94dc5f138a4d499e9dd27a6467d1&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:13",
+     "autor": "Vanesa Valenti",
+     "titulo_original": "Emilia Acosta, una gimnasta de oro que sueña en grande y le dio a su mamá el regalo más preciado",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-10",
+     "titulo": "Máximo Quiles logró su tercera victoria consecutiva en Moto3",
+     "resumen": "El español se impuso en el Gran Premio de Austria disputado en el circuito Red Bull de Spielberg, por delante de sus compatriotas Brian Uriarte y Álvaro Carpe, ambos también con KTM.",
+     "url": "https://www.infobae.com/espana/agencias/2026/09/20/maximo-quiles-se-impone-en-austria-y-logra-la-tercera-victoria-consecutiva/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:45",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Máximo Quiles se impone en Austria y logra la tercera victoria consecutiva",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-14",
+     "titulo": "Arequipa, la ciudad blanca de Perú entre volcanes y conventos coloniales",
+     "resumen": "Cuna del escritor Mario Vargas Llosa, la ciudad se destaca por sus construcciones de sillar volcánico, sus conventos y su gastronomía. El destino invita a recorrer su historia y sus paisajes entre picanterías tradicionales.",
+     "url": "https://www.clarin.com/viajes/arequipa-ciudad-blanca-peru-volcanes-calles-coloniales-gastronomia-unica_0_XfHQUqwLbo.html",
+     "imagen": "https://www.clarin.com/img/2026/09/18/noQcJVkQZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Arequipa, la \"ciudad blanca\" de Perú con volcanes, calles coloniales y una gastronomía única",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-21",
+     "titulo": "Apagón masivo dejó sin luz a 1,5 millones de personas en la Ciudad y el GBA",
+     "resumen": "El corte, ocurrido poco después de las 20, afectó a Palermo, Belgrano, Villa Urquiza, Núñez, Saavedra y sectores de Vicente López, San Isidro y San Martín. Edenor reconoció más de 500.000 casas sin servicio y Edesur llegó a un pico de casi 90.000; el apagón generó una ola de críticas en las redes sociales.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Masivo apagón dejó a miles de usuarios sin luz en la zona norte de CABA y el AMBA",
+       "url": "https://www.iprofesional.com/actualidad/464777-masivo-apagon-dejo-a-miles-de-usuarios-sin-luz-en-la-zona-norte-de-caba-y-el-amba"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Un apagón afectó a más de 6.000 usuarios en CABA y el norte del conurbano",
+       "url": "https://www.ambito.com/informacion-general/un-apagon-afecto-mas-6000-usuarios-caba-y-el-norte-del-conurbano-n6324392"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/mil-usuarios-luz-apagon-afecto-varios-barrios-portenos_0_Av1xfky9uP.html",
+     "imagen": "https://www.clarin.com/img/2026/09/19/Vdqr6udte_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:58",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Falla masiva en la red eléctrica: un enorme apagón afectó a casi un millón y medio de personas en la Ciudad, norte y oeste del Gran Buenos Aires"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Alerta meteorológica para 17 provincias por tormentas, nevadas y viento Zonda",
+     "resumen": "El SMN emitió alertas amarillas y naranjas para este domingo por tormentas, vientos y lluvias que afectan desde Misiones hasta Buenos Aires, con acumulados de hasta 90 centímetros de nieve en zonas cordilleranas y viento Zonda en el norte argentino. En el sur de Santa Fe y el norte bonaerense rige alerta naranja por tormentas localmente severas.",
+     "relacionadas": [
+      {
+       "id": "LN-11",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Doble alerta meteorológica: prevén tormentas fuertes para hoy en el AMBA y el impacto de otro fenómeno para mañana",
+       "url": "https://www.lanacion.com.ar/sociedad/doble-alerta-meteorologica-preven-tormentas-para-hoy-en-el-amba-y-el-impacto-de-otro-fenomeno-para-nid20092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/09/20/alertas-meteorologicas-para-17-provincias-preven-tormentas-vientos-nevadas-y-fuertes-lluvias/",
+     "imagen": "https://www.infobae.com/resizer/v2/TPBQFO7PIZG6XMSVTZQ5JKG6OU.png?auth=3a06bcaf6058e505c8ead82564697c12feeb9a429f17d00445ee2cfd806ebc73&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:24",
+     "autor": "",
+     "titulo_original": "Alerta meteorológica para 17 provincias: prevén tormentas, vientos, nevadas y fuertes lluvias"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Una granizada dejó daños e inundaciones en Córdoba capital",
+     "resumen": "La tormenta del sábado dejó vehículos dañados y roturas en viviendas de barrios del noroeste, especialmente en Villa Belgrano, Argüello, Valle Escondido y Granja de Funes. Tras el fenómeno se activó una alerta meteorológica para el domingo por la continuidad de la inestabilidad.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Despedida del invierno en Córdoba: cayó abundante granizo y estallaron los comentarios en las redes",
+       "url": "https://www.clarin.com/sociedad/despedida-invierno-cordoba-cayo-abundante-granizo-estallaron-comentarios-redes_0_yYqIyMR61l.html"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/09/20/tras-la-fuerte-granizada-que-provoco-danos-e-inundaciones-en-cordoba-activaron-alertas-meteorologicas-para-el-domingo/",
+     "imagen": "https://www.infobae.com/resizer/v2/OQRPER5PJFEXDMFIDGAJ6PSRPI.jpg?auth=4e0439fd8737b779d1dfa1966d29e3ac82ceba1575caa39810a408bd2c5eab10&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:25",
+     "autor": "",
+     "titulo_original": "Tras la fuerte granizada que provocó daños e inundaciones en Córdoba, activaron un alerta meteorológica para el domingo"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "El fenómeno Súper Niño enciende una alerta por dengue en Mendoza",
+     "resumen": "Pese a su clima árido, en Mendoza crece la preocupación de que un período de lluvias extraordinarias favorezca la formación de criaderos del mosquito Aedes aegypti. El fenómeno meteorológico se espera para la primavera y el verano, con mayor humedad y temperaturas más altas.",
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-y-dengue-alerta-en-una-provincia-de-clima-arido-por-el-impacto-del-fenomeno-extremo-de-nid19092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NWLTU2H7ANGXHBP2R3GVIHMATQ.jpeg?auth=8b58baed5e9840f4e6e272331c6dc86869607878a69ea7efd088bdedbe457956&smart=true&width=777&height=437",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:44",
+     "autor": "Pablo Mannino",
+     "titulo_original": "Súper Niño y dengue: alerta en una provincia de clima árido por el impacto del fenómeno extremo de lluvias",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del domingo veinte de septiembre.\n\nArranca una semana clave en la Argentina. Mañana llega una misión del Fondo Monetario para la tercera revisión del acuerdo, el Senado buscará avanzar con la ley de Zona Fría y la reforma del Banco Central, y en el plano político Axel Kicillof profundizó su candidatura para dos mil veintisiete en un acto en Avellaneda. También hubo un apagón masivo en la Ciudad y el conurbano, alertas meteorológicas para buena parte del país, y la Argentina quedó a un partido de clasificar a la Copa Davis.\n\nAntes de entrar en tema, un vistazo a los mercados. El dólar oficial cerró el fin de semana en mil quinientos treinta y cinco pesos para la venta, el dólar blue en mil quinientos cincuenta pesos, y el oro cotiza cerca de cuatro mil cuatrocientos veinticinco dólares la onza. El riesgo país se ubica en quinientos veinticuatro puntos básicos, y la inflación de agosto fue de uno con siete por ciento mensual, con una interanual de treinta y tres con cinco por ciento.\n\nEn política, el foco estuvo en Avellaneda, donde Axel Kicillof cerró un plenario de su espacio, el Movimiento Derecho al Futuro, con más de treinta mil personas y presencia de referentes de varias provincias, aunque sin respaldo explícito de gobernadores. El gobernador bonaerense pidió que cuenten con él para el año que viene, calificó de ignorante e insensible al gobierno de Milei y dijo que Cristina Kirchner está injustamente detenida. Esta semana, además, el Senado buscará sesionar para tratar la ley de Zona Fría, que elimina subsidios al gas, y la reforma de la Carta Orgánica del Banco Central, que podría volver a Diputados por los cambios que pide la oposición. Por otro lado, el lanzamiento del precandidato Ernesto Sanz reavivó la idea de reconstruir Juntos por el Cambio de cara a dos mil veintisiete, aunque el proyecto choca con los intereses de dirigentes del Pro y la Unión Cívica Radical que hoy negocian con el Gobierno. Milei, mientras tanto, suma gobernadores a un viaje a París en medio del debate por la suspensión de las primarias, y cuatro encuestas relevadas por El Cronista coinciden en que la imagen del Gobierno está a la baja.\n\nEn economía, la noticia central es la llegada mañana de una misión del Fondo Monetario Internacional para la tercera revisión del acuerdo. El eje será el resultado fiscal del primer semestre, que quedó por debajo de lo pactado, y las medidas adicionales que el equipo económico incluyó en el Presupuesto dos mil veintisiete para sostener el superávit primario; esa misma semana vence un pago de deuda por ochocientos millones de dólares. Los datos de actividad no ayudan: el producto bruto cayó cero con seis por ciento en el segundo trimestre y el desempleo subió a siete con nueve por ciento, con una pérdida de más de ciento treinta mil puestos de trabajo. Aun así, un informe de Citibank sostiene que las chances de reelección de Milei siguen intactas, porque la caída de actividad no está ligada, como en crisis anteriores, a saltos devaluatorios ni picos inflacionarios. Un informe de Morgan Stanley, por su parte, detectó que el bono Global dos mil cuarenta y seis quedó entre los más caros del universo emergente en relación con su propia curva, pese al fuerte descuento con el que cotiza la deuda argentina. En Brasil, la bolsa de San Pablo subió doce por ciento en el último mes pese a que la elección presidencial sigue abierta, y el economista jefe de FIEL, Daniel Artana, calificó de optimistas las proyecciones del Presupuesto dos mil veintisiete, que prevén cuatro por ciento de crecimiento y dieciocho por ciento de inflación anual. Para una empresa, la suba de tasas internacionales y la incertidumbre sobre el programa económico después de las elecciones siguen siendo los principales factores que encarecen el financiamiento.\n\nEn impuestos y normativa, el Presupuesto dos mil veintisiete elimina impuestos sobre las privatizaciones de rutas, pero exige a los gobernadores bajar Ingresos Brutos y Sellos como condición para acceder a los beneficios. También cambia el plazo de prescripción impositiva, que baja de cinco a tres años, aunque solo para los contribuyentes sin discrepancias significativas con el fisco. La agencia de recaudación ARCA actualizó el monotributo con una suba de dieciséis con ocho por ciento para octubre, y definió desde qué monto va a investigar las transferencias bancarias y de plataformas digitales ese mismo mes. Además, el Gobierno dejó de cobrar casi seis mil millones de dólares del impuesto a los combustibles desde fines de dos mil veintitrés, por debajo de lo habilitado por ley. Y dos fallos recientes de la Corte Suprema, a partir de un caso en Olavarría sobre una tasa a parques eólicos, podrían limitar también otros gravámenes municipales sobre bancos, supermercados y otros rubros.\n\nEn consumo y construcción, los bancos compiten con tasas desde seis con cinco por ciento y plazos de hasta treinta años en los créditos hipotecarios UVA, lo que empieza a bajar el valor de las cuotas iniciales. El sector de las librerías, en cambio, pidió que se declare la emergencia después de una caída de cuarenta y uno con cinco por ciento en su facturación. Y el relevamiento del changuito federal mostró que la canasta mensual de una familia de clase media volvió a superar el millón de pesos en varias provincias, con la Patagonia otra vez a la cabeza.\n\nEn management, vale la pena una nota sobre qué pasa cuando el patrimonio familiar está concentrado en una empresa y llega un divorcio: puede derivar en la necesidad de valuar la compañía, generar liquidez y diseñar una estrategia para evitar la venta forzosa de acciones.\n\nEn el mundo, Moscú sufrió un ataque masivo de drones ucranianos que dejó dos muertos, una refinería petrolera en llamas y más de trescientos treinta vehículos no tripulados interceptados según la agencia rusa Tass. En Alemania, los electores de Berlín y Mecklemburgo-Pomerania Occidental votan hoy en elecciones regionales que ponen a prueba al canciller Friedrich Merz, debilitado tras el triunfo de la ultraderechista Alternativa para Alemania en Sajonia-Anhalt hace dos semanas. En Medio Oriente crece la tensión: Estados Unidos alertó a sus ciudadanos en la región y Arabia Saudita denunció agresiones en Riad, con acusaciones contra Irán. En Perú, asesinaron a tiros a una candidata a gobernadora, Susy Aponte Polo, durante un acto de campaña en Áncash. Y en Chad, un ataque atribuido a Boko Haram dejó al menos veinte muertos, entre ellos once civiles, en una isla del lago homónimo.\n\nLe Grand Continent analiza que ese mismo resultado electoral alemán no solo mide el humor regional, sino la capacidad de Merz de sostener su coalición de gobierno: en Mecklemburgo-Pomerania la ultraderecha lidera las encuestas con treinta y seis con cinco por ciento, casi veinte puntos más que en la elección anterior, mientras la democracia cristiana cae al siete por ciento.\n\nEn deportes, la Argentina buscaba hoy el punto que le falta para clasificar a la Copa Davis, luego de ganar los dos singles ante Turquía con Francisco Cerúndolo y Thiago Tirante; el dobles se jugaba desde las once de la mañana en Neuquén. Lionel Scaloni convocó a la Selección con sorpresas del fútbol local para los amistosos ante Bolivia, Burkina Faso y Benín, que serán los últimos de Lionel Messi con la camiseta argentina. En el torneo local, Instituto venció a Talleres en el clásico cordobés y quedó como único puntero de su zona, mientras Huracán superó a River en la tabla anual. En los Juegos Suramericanos de Rosario, los Pumas siete presentaron una nueva camada con Sebastián Dubuc como figura, y la gimnasta rafaelina Emilia Acosta, de diecisiete años, ganó tres medallas, incluido el oro por equipos que la Argentina no lograba hacía veintitrés años. Y en el motociclismo, el español Máximo Quiles logró su tercera victoria consecutiva en Moto tres, en el Gran Premio de Austria.\n\nPara cerrar, en turismo, una recomendación de Clarín: Arequipa, la ciudad blanca de Perú, cuna del escritor Mario Vargas Llosa, se destaca por sus construcciones de sillar volcánico, sus conventos coloniales y su gastronomía. Esta corrida no trajo ningún destino puntual dentro de la Argentina, así que lo buscaremos en la próxima edición.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Ninguna fuente falló en esta corrida (131 notas obtenidas, 8 de 8 series de mercado actualizadas). En la sección Turismo no apareció ningún destino puntual dentro de la Argentina en todo el material crudo de esta edición; se usó el mejor destino disponible (Arequipa, Perú, CL-14). La sección Management y finanzas corporativas quedó con una sola nota por falta de material adicional de valor en esta corrida.",
+ "slug": "2026-09-20-manana",
+ "generado_ba": "20/09/2026 10:09"
+}
