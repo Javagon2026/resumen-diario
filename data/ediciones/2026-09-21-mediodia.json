@@ -1,0 +1,698 @@
+{
+ "fecha": "2026-09-21",
+ "edicion": "mediodia",
+ "titulo": "Milei rumbo a la ONU, Adorni detalla su patrimonio y crisis política en Alemania",
+ "apertura": "La segunda mitad de la mañana estuvo marcada por el viaje de Javier Milei a la Asamblea General de la ONU y por la difusión del extenso escrito con el que Manuel Adorni justificó su patrimonio ante la Justicia. En los mercados, el bitcoin superó los 85.000 dólares y la industria metalúrgica profundizó su caída, mientras crecen las deudas de las familias que terminan en agencias de cobranza. En el plano internacional, Alemania sigue sacudida por el avance de los extremos políticos y Trump y Xi Jinping se preparan para su cumbre del jueves en la Casa Blanca.",
+ "claves": [
+  "Javier Milei viajó a Nueva York para la Asamblea General de la ONU, donde ratificará la soberanía sobre Malvinas y se reunirá con Marco Rubio.",
+  "Manuel Adorni presentó ante la Justicia un escrito de 78 páginas y dijo que ganó 591.544,61 dólares por venta de criptomonedas entre 2017 y 2018.",
+  "Axel Kicillof formalizó su candidatura presidencial para 2027 con la consigna \"estamos trabajando para ganarle a Milei\".",
+  "Diputados de Unión por la Patria enviaron una carta al FMI cuestionando la razonabilidad y transparencia del Presupuesto 2027.",
+  "En Alemania, el canciller Friedrich Merz se aferra al poder tras la peor derrota histórica de la CDU, mientras la izquierda radical podría ganar la alcaldía de Berlín.",
+  "El bitcoin superó los 85.000 dólares, su valor más alto desde enero, tras una nueva normativa cripto en Estados Unidos.",
+  "La industria metalúrgica cayó 6,1% interanual en agosto y opera con apenas 39,6% de su capacidad instalada.",
+  "Trump y Xi Jinping se reunirán el jueves en la Casa Blanca; Estados Unidos propuso a China un sistema de alerta para incidentes de inteligencia artificial."
+ ],
+ "cifras": [
+  {
+   "nombre": "Bitcoin",
+   "valor": "US$ 85.000",
+   "variacion": "máximo desde enero",
+   "fuente": "IP-07"
+  },
+  {
+   "nombre": "Capacidad instalada, industria metalúrgica",
+   "valor": "39,6%",
+   "variacion": "-6,1% interanual",
+   "fuente": "IP-05"
+  },
+  {
+   "nombre": "Monotributo, tope máximo (servicios)",
+   "valor": "$ 1.614.446,04",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Personas con deudas en agencias de cobranza",
+   "valor": "casi 900.000",
+   "variacion": "+60% interanual",
+   "fuente": "AM-06"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "Milei viaja a Nueva York para la Asamblea General de la ONU",
+     "resumen": "Javier Milei inicia hoy un viaje de sesenta horas a Nueva York para participar de la Asamblea General de la ONU, donde ratificará la soberanía argentina sobre las islas Malvinas, se reunirá con el secretario de Estado norteamericano Marco Rubio y disertará ante el Club Económico de esa ciudad. Lo acompañan el canciller Pablo Quirno y el ministro de Economía Luis Caputo, mientras Karina Milei queda en Buenos Aires a cargo de la agenda doméstica.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/21/milei-viaja-a-new-york-para-ratificar-su-compromiso-con-malvinas-profundizar-la-relacion-con-eeuu-y-defender-el-programa-de-ajuste/",
+     "imagen": "https://www.infobae.com/resizer/v2/XN3522W6GFCKDIDZH4GJ4266IY.jpg?auth=ad8cc33765122259727ab93f7e00cb933971a0977e3c37866a486ec03eb7e762&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:13",
+     "autor": "Román Lejtman",
+     "titulo_original": "Milei viaja a New York para ratificar su compromiso con Malvinas, profundizar la relación con EEUU y defender el programa de ajuste"
+    },
+    {
+     "id": "AM-02",
+     "titulo": "Confirmada la fecha de la Marcha del Orgullo, previa a la visita del Papa",
+     "resumen": "El canciller Pablo Quirno confirmó que la Marcha del Orgullo 2026 se realizará el 7 de noviembre, un día antes de la llegada del papa León XIV a la Argentina, y aseguró que la movilización está contemplada dentro del operativo de seguridad que se prepara para la visita papal.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/pablo-quirno-aclaro-que-pasara-la-marcha-del-orgullo-2026-previa-la-visita-del-papa-leon-xiv-la-argentina-n6324756",
+     "imagen": "https://media.ambito.com/p/93e8654214850aef2a4acea4290fe4be/adjuntos/239/imagenes/043/654/0043654870/1200x675/1804x619:1824x639/pablo-quirno.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:48",
+     "autor": "",
+     "titulo_original": "Pablo Quirno aclaró qué pasará con la Marcha del Orgullo 2026 previa a la visita del papa León XIV a la Argentina"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Kicillof formalizó su candidatura presidencial para 2027",
+     "resumen": "El gobernador bonaerense Axel Kicillof confirmó en una entrevista con radio El Destape que competirá por la presidencia en 2027 con la consigna \"estamos trabajando para ganarle a Milei\", dos días después del acto del Movimiento Derecho al Futuro en Avellaneda. Kicillof planteó una propuesta \"para todos los sectores, mucho más amplia\" que el peronismo tradicional y cuestionó el rumbo económico del Gobierno.",
+     "relacionadas": [
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Kicillof ya se prueba el traje de candidato para 2027: “Estamos trabajando para ganarle a Milei”",
+       "url": "https://www.cronista.com/economia-politica/axel-kicillof-lanzo-su-candidatura-electoral-para-ganarle-a-milei-en-2027/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/21/axel-kicillof-estamos-trabajando-para-ganarle-a-milei/",
+     "imagen": "https://www.infobae.com/resizer/v2/TZ476YJITREYFNK4ID4DZUWFY4.jpg?auth=ea39829b5c244c12a8ea97014765ab355dea656caa6f3bae2a9de0bbf124d389&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:45",
+     "autor": "",
+     "titulo_original": "Se lanzó Axel Kicillof para el 2027: “Estamos trabajando para ganarle a Milei”"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Adorni justificó su patrimonio y dijo que ganó casi 592.000 dólares con criptomonedas",
+     "resumen": "El ex jefe de Gabinete Manuel Adorni presentó ante el juez Ariel Lijo un escrito de 78 páginas para justificar su patrimonio, en el que sostiene que obtuvo 591.544,61 dólares por la venta de criptomonedas adquiridas entre 2014 y 2018, antes de asumir en la función pública. Adorni afirmó además que la remodelación de su casa en Indio Cuá costó 175.000 dólares, una cifra menor a la que se le había atribuido, y negó enriquecimiento ilícito. La Justicia investiga la evolución de su patrimonio entre el 10 de diciembre de 2023 y el 27 de junio de 2026.",
+     "relacionadas": [
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Manuel Adorni justificó su patrimonio ante la Justicia y explicó sus dólares declarados",
+       "url": "https://www.iprofesional.com/legales/464817-manuel-adorni-presento-su-descargo-por-la-evolucion-patrimonial"
+      },
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Manuel Adorni justificó su patrimonio ante las “inconsistencias” detectadas por la Justicia: negó enriquecimiento ilícito",
+       "url": "https://www.cronista.com/economia-politica/manuel-adorni-justifico-su-patrimonio-en-la-causa-por-enriquecimiento-ilicito/"
+      },
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Manuel Adorni dio detalles de su patrimonio y atribuyó los dólares a la venta de Bitcoin",
+       "url": "https://www.ambito.com/politica/manuel-adorni-presento-su-declaracion-jurada-n6324635"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/manuel-adorni-presento-justificacion-crecimiento-patrimonial-dice-enriquecimiento-sustento-razonable-verificable_0_tTsGUUzliW.html",
+     "imagen": "https://www.clarin.com/img/2026/06/29/5rZPaW8_N_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Manuel Adorni presentó la justificación de su enriquecimiento: dice que ganó 591.544,61 dólares por la venta de criptomonedas en 2017 y 2018"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Diputados de Unión por la Patria le reclamaron al FMI por el Presupuesto 2027",
+     "resumen": "Diputados del bloque Unión por la Patria enviaron una carta a la directora gerente del FMI, Kristalina Georgieva, en la que califican al Presupuesto 2027 de inconsistente y sin \"criterios mínimos de razonabilidad y transparencia\", y piden un análisis urgente antes de la revisión del programa. El texto pone el foco en el RIGI, la denominada Jurisdicción 91 y los márgenes de discrecionalidad que, según los legisladores, tendría el Poder Ejecutivo en un año electoral.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "En el marco de una nueva misión del FMI, diputados advirtieron al organismo por el Presupuesto 2027",
+       "url": "https://www.ambito.com/politica/en-el-marco-una-nueva-mision-del-fmi-diputados-advirtieron-al-organismo-el-presupuesto-2027-n6324681"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/21/no-cumple-con-los-criterios-minimos-de-razonabilidad-y-transparencia-diputados-de-up-se-quejaron-ante-el-fmi-por-presupuesto-2007/",
+     "imagen": "https://www.infobae.com/resizer/v2/XW5F3OIXKZFVJAC5LRNA5LIKAM.jpg?auth=3ba6ee8eaad39c331172d647c94c5da21e395a43483da1b2f9913ca993bd4719&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:17",
+     "autor": "",
+     "titulo_original": "“No cumple con los criterios mínimos de razonabilidad y transparencia”: diputados de UP se quejaron ante el FMI por Presupuesto 2007"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Renunció otra funcionaria clave de Karina Milei",
+     "resumen": "Renunció María Belén Agudiez, subsecretaria de Planificación General de la Secretaría General de la Presidencia y mano derecha de Karina Milei, en medio de una reestructuración del área que administra la Quinta de Olivos. Agudiez tenía a su cargo tareas vinculadas con el funcionamiento de las dependencias presidenciales, incluida la residencia presidencial.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Renunció una funcionaria clave de Karina Milei tras el desmantelamiento de la estructura de Olivos",
+       "url": "https://www.iprofesional.com/politica/464815-karina-milei-sufrio-la-perdida-de-una-funcionaria-clave-tras-los-cambios-en-olivos"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/cambios-quinta-olivos-renuncio-maria-belen-agudiez-mano-derecha-karina-milei_0_R3PtX2grph.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/0-cDzJ3k2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras los cambios en la Quinta de Olivos, renunció María Belén Agudiez, la mano derecha de Karina Milei"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IP-07",
+     "titulo": "El bitcoin superó los 85.000 dólares tras una nueva normativa cripto en EEUU",
+     "resumen": "El bitcoin superó los 85.000 dólares y alcanzó su nivel más alto desde enero, impulsado por la aprobación de una nueva normativa sobre criptomonedas por parte de la Comisión de Bolsa y Valores de Estados Unidos. El mercado cripto arrancó la semana con fuertes subas, en un contexto de caída del precio del petróleo que alienta el apetito por activos de riesgo.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Bitcoin sube a su máximo nivel desde enero luego de la aprobación de una normativa cripto en EEUU",
+       "url": "https://www.ambito.com/finanzas/bitcoin-sube-su-maximo-nivel-enero-luego-la-aprobacion-una-normativa-cripto-eeuu-n6324682"
+      }
+     ],
+     "url": "https://www.iprofesional.com/criptomonedas/464819-bitcoin-supera-los-85000-dolares-y-vuelve-a-niveles-de-enero",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619869.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:48",
+     "autor": "",
+     "titulo_original": "Bitcoin supera los 85.000 dólares y vuelve a niveles de enero"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "La economía concentra el 71% de las preocupaciones de los argentinos",
+     "resumen": "Un relevamiento nacional de julio de la consultora Management & Fit mostró que las cuestiones económicas concentran el 71,4% de las principales preocupaciones personales de los argentinos. La dificultad para llegar a fin de mes lidera las respuestas con el 24% de las menciones, seguida por los bajos ingresos con el 20,4%.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/21/deudas-bajos-ingresos-y-empleo-el-71-de-las-principales-preocupaciones-de-los-argentinos-se-vincula-a-la-economia/",
+     "imagen": "https://www.infobae.com/resizer/v2/YC3M2ZN6QNC3LEMAJDL6WCKRWQ.JPG?auth=436ef0eda315bd3c3d9e4bd2f0036138b4a1149672162eeb16907b62ec7cdbbc&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:34",
+     "autor": "",
+     "titulo_original": "Deudas, bajos ingresos y empleo: el 71% de las principales preocupaciones de los argentinos se vincula a la economía"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "Las deudas de casi 900.000 personas ya pasaron a agencias de cobranza",
+     "resumen": "Las deudas de casi 900.000 personas ya pasaron a manos de agencias de cobranza, con un incumplimiento de pagos de más de un año que creció 60% interanual. Una encuesta complementaria mostró que el 71,9% de los consultados tiene algún tipo de deuda, principalmente por tarjeta de crédito, y que uno de cada cuatro endeudados toma nuevo crédito para pagar deudas previas. Para una empresa: el deterioro del crédito de las familias es una señal de alerta adicional para las ventas financiadas.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Morosidad: crece el estrés financiero y 1 de cada 4 endeudados toma crédito para pagar otras deudas",
+       "url": "https://www.ambito.com/economia/morosidad-crece-el-estres-financiero-y-uno-cada-cuatro-endeudados-toma-credito-pagar-otras-deudas-n6324642"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/morosidad-record-las-deudas-casi-900000-personas-ya-pasaron-manos-las-agencias-cobranza-n6324716",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:14",
+     "autor": "",
+     "titulo_original": "Morosidad récord: las deudas de casi 900.000 personas ya pasaron a manos de las agencias de cobranza"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Boom de deuda corporativa: las ON tocaron un máximo en 12 meses",
+     "resumen": "Las empresas concretaron en agosto 41 colocaciones de Obligaciones Negociables, la mayor cantidad de los últimos doce meses, por casi 1.000 millones de dólares bajo el Régimen General, aunque el monto total cayó 25% frente a julio. El costo de financiamiento en dólares para las compañías más sólidas cayó a un mínimo de 5,1% anual. Para una empresa: las tasas más bajas en dólares abren una ventana para refinanciar deuda o financiar inversiones.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/boom-deuda-corporativa-las-emisiones-on-tocaron-un-maximo-12-meses-y-las-tasas-dolares-cayeron-al-51-n6324704",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:50",
+     "autor": "",
+     "titulo_original": "Boom de deuda corporativa: las emisiones de ON tocaron un máximo en 12 meses y las tasas en dólares cayeron al 5,1%"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "El mercado brasileño empieza a descontar las elecciones de octubre",
+     "resumen": "La Bolsa de San Pablo acumula una suba de 24% en el año y el riesgo país brasileño opera cerca de sus mínimos, en 180 puntos, mientras el mercado empieza a descontar las elecciones presidenciales de octubre. Los motores del optimismo son la baja de la tasa Selic, los precios firmes de los commodities y encuestas más parejas que las esperadas, aunque los analistas advierten que la volatilidad electoral podría reaparecer.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/se-viene-la-eleccion-en-brasil-el-mercado-se-prepara-para-eventual-ajuste-y-despegue/",
+     "imagen": "https://www.cronista.com/resizer/v2/NQRPTZHHKFG6TFKPTZZMP63MJQ.jpg?auth=cd4393bac8a06700be06f9a54f97c56693f7b1d218ee2a43b4b6951f8050464c&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:24",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Se viene la elección en Brasil: el mercado se prepara para eventual ajuste y despegue"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "Un grupo uruguayo se quedó con el 60% del laboratorio argentino Finadiet",
+     "resumen": "El grupo farmacéutico uruguayo Megalabs desembolsó cerca de 125 millones de dólares para quedarse con el 60% de Finadiet, el laboratorio argentino que hasta ahora estaba en manos de la familia Breitman, con el objetivo de avanzar hacia la compra del 100% en el mediano plazo. Megalabs, que tiene 17 plantas en América Latina y seis centros de investigación y desarrollo, aclaró que ambas firmas seguirán operando de forma independiente.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-grupo-de-uruguay-se-quedo-con-el-60-del-laboratorio-argentino-que-creo-el-reliveran/",
+     "imagen": "https://www.cronista.com/resizer/v2/CKVWTDCXDRCADAHI7Y2GFPIFRU.jpg?auth=ef8b5b70d2aac941eb9661cbaf5fe162bbd433156b22be664ae8cc04526f23b6&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:50",
+     "autor": "",
+     "titulo_original": "Un grupo de Uruguay se quedó con el 60% del laboratorio argentino que creó el Reliverán"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "El Gobierno recibió dos ofertas por AySA",
+     "resumen": "El Gobierno recibió dos ofertas formales por la privatización de Agua y Saneamientos Argentinos y espera recaudar cerca de 500 millones de dólares por la operación, que ingresó en su etapa decisiva tras la presentación de las propuestas de los dos finalistas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464490-privatizacion-aysa-etapa-decisiva-que-pasara-servicio-agua",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/585874.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:28",
+     "autor": "",
+     "titulo_original": "El Gobierno recibió dos ofertas por AySA y espera recaudar cerca de u$s500 millones"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Más allá de Vaca Muerta: buscan multiplicar la producción en otros yacimientos",
+     "resumen": "Mientras las inversiones en Vaca Muerta siguen acelerando, la mirada de las petroleras se amplía hacia otras formaciones no convencionales: el conocimiento acumulado en más de una década de desarrollo shale permite explorar otros yacimientos de petróleo y gas que buscan multiplicar la producción del país.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/no-todo-es-vaca-muerta-los-3-yacimientos-de-petroleo-y-gas-que-buscan-multiplicar-la-produccion/",
+     "imagen": "https://www.cronista.com/resizer/v2/LGDFJTBY5RFLRIATEADJANHRWY.jpg?auth=b6ef827e6d8dd096816f9ee12f973818ea90b6e692494db4c67a3374d009295e&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:59",
+     "autor": "",
+     "titulo_original": "No todo es Vaca Muerta: los 3 yacimientos de petróleo y gas que buscan multiplicar la producción"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Buenos Aires exportó en un mes lo que otras 18 provincias en todo un año",
+     "resumen": "Un informe del Indec mostró que la provincia de Buenos Aires exportó en agosto de 2026 un total de 2.805 millones de dólares, más de lo que otras 18 jurisdicciones vendieron al exterior en todo un año. La provincia combina una matriz industrial y agroindustrial diversificada, que va de la producción automotriz a los cereales, y concentra cerca de un tercio del producto bruto interno del país.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/21/el-mapa-exportador-mas-desigual-una-provincia-supero-en-un-mes-lo-que-otras-18-vendieron-en-todo-un-ano/",
+     "imagen": "https://www.infobae.com/resizer/v2/6Q26SDDTWVBSZBLW7MLLQKHZN4.png?auth=ed270877b40ffc895df181f92511b74ee0ef2b5bf230eab21821452cc4ed4ca9&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:42",
+     "autor": "Mariano Zalazar",
+     "titulo_original": "El mapa exportador más desigual: una provincia superó en un mes lo que otras 18 vendieron en todo un año"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-19",
+     "titulo": "Cobró una indemnización laboral a los herederos de su ex empleador 28 años después",
+     "resumen": "Un fallo judicial confirmó que un trabajador puede cobrarles la indemnización laboral que le debía su empleador a los herederos de este, incluso después de su muerte, mediante una acción civil. En el caso analizado, el trabajador ganó el juicio laboral pero recién pudo cobrar 28 años más tarde, a través de los herederos del empleador fallecido.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/464811-fallo-clave-cobra-indemnizacion-laboral-a-herederos-del-jefe",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/624398.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:55",
+     "autor": "",
+     "titulo_original": "Fallo clave: cobra su indemnización laboral a los herederos del jefe después de 28 años"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "Monotributo: los valores que rigen en octubre",
+     "resumen": "ARCA mantiene en octubre de 2026 los mismos valores del monotributo vigentes desde agosto: el monto mensual mínimo, con componente impositivo, obra social y aporte previsional, es de 49.527,18 pesos, mientras que el tope más alto llega a 1.614.446,04 pesos para prestación de servicios y a 702.103,24 pesos para venta de bienes.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/monotributo-cuanto-se-paga-en-octubre-2026-y-como-quedan-las-categorias-segun-arca/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZTZ6JHGCGFC45AFCMTRJYJ3VPM.jpeg?auth=22970d86b34f2af17a459c845e121ab4c436ffd06fb1a006767291807c3e8d4b&smart=true&width=739&height=415",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:47",
+     "autor": "",
+     "titulo_original": "Monotributo: cuánto se paga en octubre 2026 y cómo quedan las categorías según ARCA"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "ANSES cambió cómo se libera el retenido mensual de la AUH",
+     "resumen": "El Ministerio de Capital Humano implementó un cambio en la forma en que ANSES libera el porcentaje retenido mensualmente de la Asignación Universal por Hijo, que ahora rige para los titulares del beneficio con hijos de entre 5 y 17 años.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/464790-atencion-auh-el-cambio-clave-de-anses-para-cobrar-un-retenido-mensual",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621608.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:15",
+     "autor": "",
+     "titulo_original": "Atención AUH: el cambio clave de ANSES para cobrar el retenido mensual"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La actividad metalúrgica, insumo clave para la construcción, profundizó su caída en agosto.",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "La industria metalúrgica cayó 6,1% y opera con 39,6% de su capacidad",
+     "resumen": "La actividad metalúrgica cayó 6,1% interanual en agosto y 3,9% frente a julio, acumulando una baja de 5,6% en lo que va de 2026, con las plantas operando a apenas 39,6% de su capacidad instalada. Todos los sectores estratégicos del rubro registraron retrocesos y el 10,3% de las empresas ya presenta atrasos en sus obligaciones financieras. Para una empresa: la caída de la actividad metalúrgica anticipa menor demanda de insumos metálicos usados en grifería, herrajes y otros componentes de la construcción.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La industria metalúrgica se desplomó 6,1% anual en agosto y opera con apenas el 39,6% de su capacidad instalada",
+       "url": "https://www.ambito.com/economia/la-industria-metalurgica-se-desplomo-61-anual-agosto-y-opera-apenas-el-396-su-capacidad-instalada-n6324668"
+      }
+     ],
+     "url": "https://www.iprofesional.com/economia/464824-industria-metalurgica-las-plantas-operaron-al-396-y-la-produccion-cayo-61",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2019/08/482640.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:24",
+     "autor": "",
+     "titulo_original": "La industria metalúrgica acumuló una baja de 5,6% y opera con 39,6% de capacidad"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "Sancor Seguros construye su nueva sede frente al estadio de River",
+     "resumen": "Sancor Seguros construye junto a la desarrolladora HIT su nueva sede corporativa, denominada PI Buenos Aires, en el Parque de la Innovación frente al estadio de River, un complejo de 22.000 metros cuadrados que demandará una inversión total de 200 millones de dólares. Las obras comenzaron en marzo y se prevé que terminen a fines de 2028, en un predio que Sancor había comprado en 2020 por 11,9 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-nuevo-nunez-crece-frente-a-river-con-una-torre-corporativa-y-de-coworking-en-un-terreno-iconico-subastado/",
+     "imagen": "https://www.cronista.com/resizer/v2/754ZDDO6UFAJNNVYTF3HV4UIAM.png?auth=c685f507dfec83ba131690466951bd5d8d09bafee8f2200f9f23c18fa78ee606&smart=true&width=900&height=1045",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:04",
+     "autor": "Micaela Mura",
+     "titulo_original": "El nuevo Núñez crece frente a River: así es la mega torre con rooftop y skybar en un predio icónico"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "La factura tecnológica se dispara en las empresas",
+     "resumen": "El gasto en tecnología dejó de ser una compra anual y se convirtió en un desembolso permanente, variable y distribuido entre distintas áreas de las empresas, a partir del avance del software por suscripción, la nube y la inteligencia artificial. Si bien el modelo permite a una pyme acceder a herramientas avanzadas sin inversión inicial en servidores, el riesgo aparece cuando las licencias se acumulan y los servicios se renuevan automáticamente sin un control centralizado del gasto.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/finanzas-digitales/la-factura-tecnologica-se-dispara-5-claves-para-controlar-el-gasto-en-software-cloud-e-ia/",
+     "imagen": "https://www.cronista.com/resizer/v2/6BD2LEZCPNGRLAR4ZTHS4AQNPQ.jpg?auth=4ed6155aecf023cbfdcfd31b3f77d6fd44b5b246562ddaec96125ceee8cbdbbe&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:08",
+     "autor": "",
+     "titulo_original": "La factura tecnológica se dispara: 5 claves para controlar el gasto en software, cloud e IA"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "El comercio agéntico moverá 500.000 millones de dólares en 2030",
+     "resumen": "El comercio impulsado por agentes de inteligencia artificial movería 500.000 millones de dólares en 2030, según estimaciones del sector. El desafío para las empresas pasa a ser diseñar sus estrategias comerciales para seducir a los algoritmos que compran en representación de los consumidores, y no solo a las personas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464810-comercio-agentico-claves-para-vender-con-ia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606459.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:50",
+     "autor": "",
+     "titulo_original": "El comercio agéntico moverá u$s500 mil millones en 2030, pero cómo pueden vender las marcas por IA"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Los fondos de \"secondaries\" cambian las reglas del capital para startups",
+     "resumen": "Una nueva modalidad de financiamiento gana terreno entre las startups: los fondos de \"secondaries\", que compran participaciones a fundadores, empleados e inversores que necesitan liquidez antes de una venta o una salida a la bolsa. El modelo, ya consolidado en Silicon Valley, empieza a crecer en América Latina y encuentra en la Argentina una nueva generación de compañías tecnológicas con ambición global.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-nueva-tendencia-que-llega-de-silicon-valley-y-cambia-las-reglas-del-capital-para-startups-e-inversores/",
+     "imagen": "https://www.cronista.com/resizer/v2/WZCUTYCCBRECBGWBF56E6AXP3Q.png?auth=c384e5333aa5ba333d7a109aa029eb5e4bb5474d830cd1fe6d6dc51a3f99f414&smart=true&width=782&height=513",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:01",
+     "autor": "Santiago Escobar",
+     "titulo_original": "La nueva tendencia que llega de Silicon Valley y cambia las reglas del capital para startups e inversores"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "Merz se aferra al cargo tras la peor derrota histórica de la CDU",
+     "resumen": "El canciller alemán Friedrich Merz se aferraba este lunes al poder después de que su partido, la Unión Demócrata Cristiana, sufriera su peor derrota electoral desde su fundación en 1945 al no superar el umbral del 5% en Mecklemburgo-Pomerania Occidental. El partido de extrema derecha Alternativa para Alemania, fortalecido en las elecciones regionales del fin de semana, se proclamó \"el partido del pueblo\" y anticipó que el canciller deberá dejar el poder antes de que termine el año.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/merz-se-aferra-al-cargo-en-medio-de-un-terremoto-politico-y-la-extrema-derecha-dice-que-ya-es-el-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IB2LNOD5ONEDVIL3DS5QRKQL5E.JPG?auth=221cd32070ee1e407fb358f900d983781b4f54dff537561af8b89017c2a6c29a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:56",
+     "autor": "",
+     "titulo_original": "Merz se aferra al cargo en medio de un terremoto político y la extrema derecha dice que ya es “el partido del pueblo”"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "La izquierda radical podría quedarse con la alcaldía de Berlín",
+     "resumen": "La jurista de origen turco Elif Eralp, líder del partido de izquierda radical Die Linke, podría convertirse en la primera alcaldesa de esa corriente en Berlín tras una campaña centrada en la crisis de la vivienda que incluye una propuesta de expropiaciones. Die Linke se impuso el domingo en las elecciones locales de la capital alemana con el 25% de los votos, por delante de la Unión Demócrata Cristiana del canciller Friedrich Merz, que obtuvo el 20%.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Merz se aferra al cargo en medio de un terremoto político y la extrema derecha dice que ya es “el partido del pueblo”",
+       "url": "https://www.lanacion.com.ar/el-mundo/merz-se-aferra-al-cargo-en-medio-de-un-terremoto-politico-y-la-extrema-derecha-dice-que-ya-es-el-nid21092026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/quien-es-elif-eralp-la-lider-de-la-izquierda-radical-que-podria-convertirse-en-la-alcaldesa-de-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/V4AK3Y7ZIRBOJHLXTR6YLJ7AXM.JPG?auth=00922a036c7139d82c4f402dc71ac8ba6cf778719e9f1cc3da83da4abc6a21ec&smart=true&width=900&height=579",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:49",
+     "autor": "",
+     "titulo_original": "Quién es Elif Eralp, la líder de la izquierda radical que podría convertirse en la alcaldesa de Berlín"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "Estados Unidos propuso a China un sistema de alerta para incidentes de IA",
+     "resumen": "Estados Unidos propuso a China un sistema de alerta temprana para incidentes vinculados a la inteligencia artificial, de cara a la cumbre que Donald Trump y Xi Jinping mantendrán el jueves en la Casa Blanca. El secretario del Tesoro, Scott Bessent, dijo tras reunirse con el primer ministro chino que buscan \"una visión compartida de objetivos y amenazas comunes\" en la materia.",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Scott Bessent celebra los avances en las conversaciones sobre IA con China, ¿qué sigue?",
+       "url": "https://www.ambito.com/finanzas/scott-bessent-celebra-los-avances-las-conversaciones-ia-china-que-sigue-n6324679"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/cumbre-xi-trump-estados-unidos-propone-china-sistema-alerta-incidentes_0_6eTSBjbT5D.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/etcg-MBmx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cumbre Xi-Trump: Estados Unidos propone a China un sistema de alerta para incidentes de lA"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Trump se reúne con el alcalde Mamdani en Nueva York",
+     "resumen": "Donald Trump se reunirá este lunes en Nueva York con el alcalde socialista Zohran Mamdani, en el marco de la Asamblea General de la ONU. El encuentro será a puertas cerradas, pero los equipos de ambos adelantaron que los temas centrales serán la vivienda y el costo de vida en la ciudad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/confirmado-donald-trump-zohran-mamdani-cara-cara-nueva-york-espera-hablen-vivienda-costo-vida_0_cBNBWtYSHR.html",
+     "imagen": "https://www.clarin.com/img/2026/02/26/_m6fCu7WL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Confirmado | Donald Trump y Zohran Mamdani estarán cara a cara en Nueva York: por qué se espera que hablen de vivienda y costo de vida"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "La esposa de Pedro Sánchez irá a juicio por jurado en España",
+     "resumen": "Begoña Gómez, esposa del presidente español Pedro Sánchez, irá a juicio por jurado acusada de tráfico de influencias y malversación, después de que el juez Juan Carlos Peinado cerrara formalmente la instrucción tras dos años de investigación. El magistrado ratificó que encontró \"indicios razonables de conducta delictiva\".",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/espana-begona-gomez-esposa-pedro-sanchez-va-juicio-jurado-trafico-influencias-malversacion-anos-lucha-judicial_0_Hut9yj4jJi.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/bozd7HCzU_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "España: Begoña Gómez, la esposa de Pedro Sánchez, va a juicio por jurado por tráfico de influencias y malversación tras dos años de lucha judicial"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Tres medios estadounidenses demandarán al gobierno de Trump",
+     "resumen": "Los medios estadounidenses CNN, MS Now y Politico anunciaron que demandarán al gobierno de Donald Trump por haberles negado el acceso a la Casa Blanca, luego de que el mandatario los vetara por una cobertura que calificó de \"noticias falsas\". Trump defendió la medida como una cuestión de \"seguridad nacional\", mientras los medios sostienen que buscan proteger el principio de que el gobierno no decide lo que la prensa informa.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/los-medios-vetados-por-la-casa-blanca-van-a-la-justicia-y-vuelven-a-desatar-la-furia-de-trump-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CEQ323GVPJAOVA7XVP7IQ6AELY.jpg?auth=987626a7d7062efc5d15f60fa6ba4ffcf68a2f209255107575679085934d2de0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:01",
+     "autor": "",
+     "titulo_original": "Los medios vetados por la Casa Blanca van a la Justicia y vuelven a desatar la furia de Trump"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-20",
+     "titulo": "Tagliafico se sumó a la Selección pero insiste en que es su etapa final",
+     "resumen": "El lateral izquierdo Nicolás Tagliafico se sumó a la Selección argentina para la fecha FIFA que marcará la despedida de Lionel Messi, pero insistió en que se trata de \"mi etapa final\" en el equipo nacional. El defensor ya había señalado que el Mundial 2026 fue su última Copa del Mundo y quedó en duda si llegará a la Copa América de 2028.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/nico-tagliafico-sumo-seleccion-insistio-cerrar-ciclo-despedida-lionel-messi-etapa-final_0_zfbfnrrXRb.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/RlyyL7qX5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Nico Tagliafico se sumó a la Selección pero insistió en cerrar su ciclo tras la despedida de Lionel Messi: \"Es mi etapa final\""
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Apartaron al capitán de Suiza, rival de Argentina, por falsificar un certificado",
+     "resumen": "El capitán de la selección de Suiza, rival de la Argentina en el Mundial 2026, Granit Xhaka, quedó apartado del equipo tras reconocer que obtuvo un certificado falso de vacunación contra el coronavirus durante la pandemia. El mediocampista del Sunderland, de 33 años, no jugará los cuatro partidos de la Liga de Naciones entre septiembre y octubre, mientras la Fiscalía de Lucerna investiga el caso y no descarta una condena penal.",
+     "relacionadas": [
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Es una estrella de su selección, enfrentó a Argentina en el Mundial y podría ir a la cárcel por falsificar un documento médico",
+       "url": "https://www.infobae.com/deportes/2026/09/21/es-una-estrella-de-su-seleccion-enfrento-a-argentina-en-el-mundial-y-podria-ir-a-la-carcel-por-falsificar-un-documento-medico/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/escandalo-seleccion-suiza-rival-argentina-mundial-2026-apartaron-capitan-truchar-certificado-vacunacion-podria-ir-preso_0_E2ZWJg7JmM.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/KwsimpuMV_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Escándalo en la Selección de Suiza, rival de Argentina en el Mundial 2026: apartaron al capitán por truchar un certificado de vacunación y podría ir preso"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Belgrano, por ahora el único equipo con boleto asegurado a la Libertadores 2027",
+     "resumen": "Belgrano de Córdoba es, por ahora, el único equipo argentino con el boleto asegurado a la Copa Libertadores 2027 gracias a su título en el Torneo Apertura, mientras la Tabla Anual sigue definiendo los otros cupos a esa competencia y a la Copa Sudamericana en base a la suma de puntos del Apertura y el actual Torneo Clausura, que se encuentra en su décima fecha.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/tabla-anual-2026-asi-estan-las-clasificaciones-a-las-copas-libertadores-y-sudamericana-nid20092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CKYQVBHSJNDGRB256BLQERYVQQ.png?auth=c11e5ee0aaf60fd7d9a469fae4b057c10616615787455f1c46156e714b2944af&smart=true&width=688&height=524",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:08",
+     "autor": "",
+     "titulo_original": "Tabla Anual 2026: así están las clasificaciones a las copas Libertadores y Sudamericana"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Giuliano Simeone, figura en el triunfo del Atlético sobre el Real Madrid",
+     "resumen": "Atlético de Madrid venció 2 a 1 a Real Madrid y quedó a 5 puntos del líder Barcelona en la Liga de España, en un partido en el que Giuliano Simeone, hijo del entrenador Diego Simeone, fue distinguido como la figura tras protagonizar un cruce verbal con Jude Bellingham. \"Dedico mi vida para estar en la mejor forma posible para ayudar al equipo\", declaró el futbolista argentino.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/giuliano-simeone-el-duro-cruce-verbal-con-belingham-en-atletico-de-madrid-real-madrid-y-la-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7L7DOUVCPVCKXEA4ZX3EJ27PJE.png?auth=01eff26be3c531bdf18dad61d07189679de459d507b67c8e428a68b34279a4ef&smart=true&width=900&height=585",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Giuliano Simeone: el duro cruce verbal con Belingham en Atlético de Madrid-Real Madrid y la distinción de MVP"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Albornoz falló un penal decisivo en la caída de Toulon",
+     "resumen": "El apertura Tomás Albornoz falló un penal que hubiera dado el triunfo a Toulon, que cayó 29 a 27 como visitante ante Castres en el Top 14 francés, en el partido que marcó su regreso tras cumplir una sanción de cuatro encuentros por el altercado registrado en el cierre de Pumas-Inglaterra en Santiago del Estero.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/pumas-en-europa-una-vuelta-clave-para-contepomi-una-expulsion-y-el-fallo-de-albornoz-sobre-la-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/STRNWYSSMRBDTEOIXZTOS25VPQ.JPG?auth=1d5de3158eb7091a74a84026b0d9cbae891d7e72b58540534fe8e61cc645a1dc&smart=true&width=900&height=581",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:09",
+     "autor": "Nicolás Casanova",
+     "titulo_original": "Pumas en Europa: una vuelta clave para Contepomi, una expulsión y el fallo de Albornoz sobre la chicharra"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "\"Argentina va a tener nuevamente la Fórmula 1\", aseguró el presidente del ACA",
+     "resumen": "El presidente del Automóvil Club Argentino, César Carman, aseguró en una entrevista con Infobae que \"Argentina va a tener nuevamente la Fórmula 1\" y afirmó que están dadas las condiciones para el regreso de la categoría, aunque todavía resta definir el año. Carman también anticipó el retorno del Campeonato Mundial de Rally al país y destacó el fuerte respaldo del presidente de la FIA a ambos proyectos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/21/el-presidente-del-aca-con-infobae-argentina-va-a-tener-nuevamente-la-formula-1/",
+     "imagen": "https://www.infobae.com/resizer/v2/PEGOQN637NA5FEQSEFMV3ME5NQ.png?auth=1e75e93585f0b97e6f98f4ae7ba8608a2aa723a74c9b85aee60954fde0b69e2a&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:39",
+     "autor": "Darío Coronel",
+     "titulo_original": "El presidente del ACA, con Infobae: “Argentina va a tener nuevamente la Fórmula 1”"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "La Fórmula 1 evalúa a Imola como alternativa si se cancelan Qatar y Abu Dabi",
+     "resumen": "La Fórmula 1 evalúa a Imola como sede alternativa para cerrar el campeonato el 6 de diciembre si la tensión en Medio Oriente impide disputar los Grandes Premios de Qatar y Abu Dabi, las últimas dos fechas del calendario. Los equipos ya reservaron hoteles en Italia y el Autódromo Enzo e Dino Ferrari activó su estructura organizativa para una carrera que tendría restricciones de aforo por realizarse en pleno invierno.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/21/el-circuito-que-piensa-la-f1-para-la-definicion-de-la-temporada-si-se-cancelan-los-grandes-premios-de-qatar-y-abu-dhabi/",
+     "imagen": "https://www.infobae.com/resizer/v2/E4HGLSSIONHIDIXEOE5EUM4WVU.jpg?auth=f0cf133b3221c9b5c9634b415742c63b5ba7b16d3695e25c1193d4a35d570476&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:33",
+     "autor": "",
+     "titulo_original": "El circuito que piensa la F1 para la definición de la temporada si se cancelan los Grandes Premios de Qatar y Abu Dhabi"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "Dos accidentes de tránsito fatales conmocionaron el fin de semana",
+     "resumen": "En Merlo, un conductor alcoholizado cruzó de carril con su auto y provocó la muerte de Mariela Pollio, una mujer de 44 años y madre de tres hijos, mientras que en San Vicente, Misiones, un adolescente de 14 años que manejaba una camioneta Amarok chocó contra otro vehículo estacionado frente a una estación de servicio y murieron él y un joven de 18 años que viajaba como acompañante en el otro rodado.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Un chico de 14 años que manejaba una Amarok causó una tragedia en la ruta 14: murieron él y otro adolescente",
+       "url": "https://www.clarin.com/sociedad/chico-14-anos-manejaba-amarok-causo-tragedia-ruta-14-murieron-adolescente_0_9cl0qKuOxR.html"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/tragedia-merlo-borracho-cruzo-carril-renault-19-mato-madre-hijos_0_1eUjDfbUGB.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/2n-93YwNo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tragedia en Merlo: borracho, se cruzó de carril con su Renault 19 y mató a una madre de tres hijos"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "El fenómeno \"Súper Niño\" ya provoca inundaciones e incendios en la región",
+     "resumen": "El fenómeno climático conocido como \"Súper Niño\" avanza en 2026 y ya provoca inundaciones en África y graves incendios en Sudamérica, con impacto en la cantidad de lluvias y los niveles de temperatura en distintas provincias argentinas, en momentos en que también se espera el ingreso de una ola de aire polar.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-provincias-afectadas-esperan-lluvias-ola-polar-cambia-clima_0_psFNpTqdN3.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/-mZ9zGWL9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: provincias afectadas, dónde se esperan más lluvias, ola polar y cuándo cambia el clima"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del lunes veintiuno de septiembre. El dólar oficial cotiza en mil quinientos treinta y cinco pesos y el oro se mantiene en cuatro mil trescientos ochenta dólares la onza. La segunda mitad de la mañana estuvo marcada por el viaje de Javier Milei a la Asamblea General de las Naciones Unidas, la difusión del extenso escrito con el que Manuel Adorni justificó su patrimonio ante la Justicia, y un nuevo capítulo de la crisis política en Alemania. En los mercados, el bitcoin superó los ochenta y cinco mil dólares y la industria metalúrgica profundizó su caída, mientras crecen las deudas de las familias que terminan en manos de agencias de cobranza. En política, Javier Milei inició hoy un viaje de sesenta horas a Nueva York para participar de la Asamblea General de la Organización de las Naciones Unidas, donde ratificará la soberanía argentina sobre las islas Malvinas, se reunirá con el secretario de Estado norteamericano Marco Rubio y disertará ante el Club Económico de esa ciudad. Lo acompañan el canciller Pablo Quirno y el ministro de Economía Luis Caputo, mientras Karina Milei permanece en Buenos Aires a cargo de la agenda doméstica. El canciller Quirno, además, confirmó que la Marcha del Orgullo se realizará el siete de noviembre, un día antes de la llegada del papa León catorce a la Argentina, y que está contemplada dentro del operativo de seguridad de la visita papal. El gobernador bonaerense Axel Kicillof formalizó su candidatura presidencial para dos mil veintisiete con la consigna estamos trabajando para ganarle a Milei, y planteó una propuesta que busca exceder al peronismo tradicional. El ex jefe de Gabinete Manuel Adorni presentó ante el juez Ariel Lijo un escrito de setenta y ocho páginas para justificar su patrimonio, en el que sostiene que obtuvo más de quinientos noventa mil dólares por la venta de criptomonedas adquiridas antes de asumir en la función pública, y que la remodelación de su casa costó ciento setenta y cinco mil dólares. Diputados de Unión por la Patria, por su parte, enviaron una carta a la directora gerente del Fondo Monetario, Kristalina Georgieva, en la que califican al Presupuesto dos mil veintisiete de inconsistente y piden un análisis urgente antes de la revisión del programa. Y renunció María Belén Agudiez, mano derecha de Karina Milei, en medio de una reestructuración del área que administra la Quinta de Olivos. En economía y mercados, el bitcoin superó los ochenta y cinco mil dólares, su nivel más alto desde enero, después de que Estados Unidos aprobara una nueva normativa sobre criptomonedas. Una encuesta de la consultora Management y Fit mostró que las cuestiones económicas concentran el setenta y uno coma cuatro por ciento de las principales preocupaciones de los argentinos, con la dificultad para llegar a fin de mes como principal problema. Las deudas de casi novecientas mil personas ya pasaron a manos de agencias de cobranza, con un incumplimiento que creció sesenta por ciento en el último año, y una encuesta complementaria mostró que uno de cada cuatro endeudados toma crédito nuevo para pagar deudas previas. Para una empresa, el deterioro del crédito de las familias es una señal de alerta adicional para las ventas financiadas. En agosto se concretaron cuarenta y una colocaciones de Obligaciones Negociables, la mayor cantidad del último año, y el costo de financiamiento en dólares para las empresas más sólidas cayó a un mínimo de cinco coma uno por ciento anual. En Brasil, la Bolsa de San Pablo acumula una suba de veinticuatro por ciento en el año y el mercado empieza a descontar las elecciones presidenciales de octubre. En negocios y empresas, el grupo farmacéutico uruguayo Megalabs desembolsó cerca de ciento veinticinco millones de dólares para quedarse con el sesenta por ciento del laboratorio argentino Finadiet, con el objetivo de avanzar hacia la compra total en el mediano plazo. El Gobierno recibió dos ofertas formales por la privatización de Agua y Saneamientos Argentinos y espera recaudar cerca de quinientos millones de dólares. Un informe del Indec mostró que la provincia de Buenos Aires exportó en agosto dos mil ochocientos cinco millones de dólares, más de lo que otras dieciocho provincias vendieron al exterior en todo un año. Y mientras las inversiones en Vaca Muerta siguen acelerando, las petroleras ya exploran otras formaciones no convencionales para multiplicar la producción de petróleo y gas del país. En impuestos y normativa, un fallo judicial confirmó que un trabajador puede cobrarle la indemnización laboral a los herederos de su empleador fallecido, en un caso que la Justicia tardó veintiocho años en resolver. La agencia de recaudación mantiene en octubre los valores del monotributo vigentes desde agosto, con un tope mensual de un millón seiscientos catorce mil pesos para quienes prestan servicios. Y el Ministerio de Capital Humano cambió la forma en que se libera el porcentaje retenido de la Asignación Universal por Hijo para los titulares con hijos de entre cinco y diecisiete años. En consumo y construcción, la actividad metalúrgica cayó seis coma uno por ciento interanual en agosto y las plantas operan con apenas treinta y nueve coma seis por ciento de su capacidad instalada, una señal de alerta para la demanda de insumos metálicos que se usan en grifería y otros componentes de la construcción. Y Sancor Seguros avanza junto a la desarrolladora HIT en la construcción de su nueva sede corporativa frente al estadio de River, un complejo de veintidós mil metros cuadrados que demandará una inversión de doscientos millones de dólares. En management y finanzas corporativas, el gasto en tecnología dejó de ser una compra anual y se convirtió en un desembolso permanente para las empresas, a partir del avance del software por suscripción, la nube y la inteligencia artificial, con el riesgo de que las licencias se acumulen sin un control centralizado del gasto. El comercio impulsado por agentes de inteligencia artificial movería quinientos mil millones de dólares en dos mil treinta, lo que obliga a las empresas a diseñar sus estrategias comerciales también para los algoritmos. Y una nueva modalidad de financiamiento, los fondos de secondaries, que compran participaciones a fundadores e inversores que necesitan liquidez, empieza a crecer entre las startups argentinas. En el mundo, Alemania vive una nueva sacudida política: el canciller Friedrich Merz se aferra al poder después de que su partido sufriera su peor derrota electoral desde mil novecientos cuarenta y cinco, mientras la izquierda radical, con la candidata Elif Eralp, podría quedarse con la alcaldía de Berlín. Estados Unidos le propuso a China un sistema de alerta temprana para incidentes de inteligencia artificial, de cara a la cumbre que Donald Trump y Xi Jinping mantendrán el jueves en la Casa Blanca. El propio Trump se reunirá hoy en Nueva York con el alcalde socialista Zohran Mamdani para hablar de vivienda y costo de vida. En España, Begoña Gómez, la esposa del presidente Pedro Sánchez, irá a juicio por jurado acusada de tráfico de influencias y malversación. Y los medios estadounidenses Cable News Network, MS Now y Politico anunciaron que demandarán al gobierno de Trump por haberles negado el acceso a la Casa Blanca. En deportes, Nicolás Tagliafico se sumó a la Selección para la fecha que marcará la despedida de Lionel Messi, pero insistió en que se trata de su etapa final en el equipo nacional. El capitán de Suiza, rival de la Argentina en el Mundial dos mil veintiséis, Granit Xhaka, quedó apartado de su selección tras reconocer que falsificó un certificado de vacunación durante la pandemia. Belgrano de Córdoba es, por ahora, el único equipo argentino con el boleto asegurado a la Copa Libertadores del año próximo. En España, Atlético de Madrid venció a Real Madrid con una gran actuación de Giuliano Simeone, hijo del entrenador albiceleste. En rugby, Tomás Albornoz falló un penal decisivo en la caída de Toulon ante Castres, en su regreso tras una sanción. Y el presidente del Automóvil Club Argentino aseguró que el país va a tener nuevamente la Fórmula uno, aunque todavía falta definir el año. En sociedad, dos accidentes de tránsito fatales conmocionaron el fin de semana: en Merlo, un conductor alcoholizado provocó la muerte de una madre de tres hijos, y en Misiones, un adolescente de catorce años que manejaba una camioneta murió junto a otro joven en un choque. Además, el fenómeno climático conocido como Súper Niño avanza este año y ya provoca inundaciones en África e incendios en Sudamérica, con impacto en las lluvias y las temperaturas en distintas provincias argentinas. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Se omitieron las secciones Europa y geopolítica (una sola nota de Le Grand Continent, sobre las elecciones legislativas en Rusia) y Turismo (no hubo novedades de destinos respecto de la nota ya publicada en la edición de la mañana). Se revisó el material en busca de novedades sobre Franco Colapinto y Club Atlético Tigre: no apareció información nueva más allá de lo ya publicado en la mañana, por lo que no se incluyeron. Todas las fuentes respondieron sin errores en el fetch de feeds.",
+ "slug": "2026-09-21-mediodia",
+ "generado_ba": "21/09/2026 15:13"
+}
