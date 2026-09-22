@@ -1,0 +1,895 @@
+{
+ "fecha": "2026-09-22",
+ "edicion": "manana",
+ "titulo": "Milei rumbo a la ONU, fallo penal juvenil y riesgo país en alza",
+ "apertura": "El presidente Javier Milei viajó a Nueva York para participar de la Asamblea General de la ONU, con Malvinas y las críticas a Europa como ejes de una entrevista previa al debate general. En el plano judicial, una jueza porteña declaró inconstitucional el régimen penal juvenil y generó un fuerte cruce político, mientras el riesgo país acumula una suba del 20% desde julio en medio de la revisión del FMI. En el plano empresarial se destacan nuevas inversiones en Bahía Blanca, un cambio en el cálculo de los índices bursátiles y la llegada de marcas internacionales al país.",
+ "claves": [
+  "Milei viajó a Nueva York para la Asamblea General de la ONU; en una entrevista con TF1 dijo que \"Europa se está hundiendo\" y reclamó la devolución de Malvinas.",
+  "Una jueza porteña declaró inconstitucional el régimen penal juvenil y sobreseyó a un adolescente; Bullrich cuestionó el fallo y Jorge Macri pedirá el juicio político de la magistrada.",
+  "El riesgo país acumula una suba del 20% desde julio y cerró en el nivel más alto desde mayo, mientras una misión del FMI se reunió con el equipo económico sin Caputo.",
+  "Caputo se reunió con inversores de JPMorgan en Nueva York para dar certidumbre sobre el plan económico de cara a 2027.",
+  "Tres nuevos proyectos por US$3.400 millones en Bahía Blanca buscan ampliar el perfil productivo portuario, en el marco del RIGI.",
+  "BYMA anunció una alianza con MSCI que reemplazará a Standard & Poor's en el cálculo de los índices bursátiles argentinos desde el 19 de octubre.",
+  "La confianza empresarial cayó a su menor nivel desde diciembre de 2025 y los industriales prevén menos producción y empleo para el tercer trimestre.",
+  "Independiente Rivadavia le ganó a Barracas Central y confirmó su liderazgo en la Tabla Anual, mientras River presentó un documento crítico ante la AFA."
+ ],
+ "cifras": [
+  {
+   "nombre": "Indicador de confianza empresarial (agosto)",
+   "valor": "-20,2%",
+   "variacion": "mínimo desde diciembre de 2025",
+   "fuente": "IB-17"
+  },
+  {
+   "nombre": "Compra diaria de dólares del BCRA",
+   "valor": "US$36 millones",
+   "variacion": "máximo desde agosto",
+   "fuente": "IB-19"
+  },
+  {
+   "nombre": "PIB (2° trimestre)",
+   "valor": "-0,6%",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$101,48 por barril",
+   "variacion": "+1,1%",
+   "fuente": "IB-24"
+  },
+  {
+   "nombre": "Exportaciones de carne vacuna (ene-jul)",
+   "valor": "US$2.768,6 millones",
+   "variacion": "+41,8%",
+   "fuente": "AM-22"
+  },
+  {
+   "nombre": "Dólar esperado por empresas para 2027",
+   "valor": "$1.900 a $1.950",
+   "fuente": "CR-19"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "Milei dijo que Europa \"se está hundiendo\" y reclamó la devolución de Malvinas",
+     "resumen": "El presidente Javier Milei defendió a Donald Trump de las críticas europeas y afirmó que el viejo continente \"se está hundiendo\", en una entrevista con el canal francés TF1 previa a la Argentina Week en París. También ratificó el reclamo de soberanía sobre las islas Malvinas y pidió a Reino Unido que las \"devuelva\". La entrevista se dio en la previa de su viaje a Nueva York para la Asamblea General de la ONU.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Antes de viajar a París, Javier Milei cuestionó la economía europea: \"Se está hundiendo\"",
+       "url": "https://www.ambito.com/politica/previo-su-viaje-paris-javier-milei-cuestiono-la-economia-europea-y-la-sobrerregulacion-se-esta-hundiendo-n6325037"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Milei antes de la ONU: Malvinas, el futuro de Europa, el socialismo y su alianza con Trump",
+       "url": "https://www.cronista.com/economia-politica/milei-antes-de-la-onu-malvinas-el-futuro-de-europa-el-socialismo-y-su-alianza-con-trump/"
+      },
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Milei prepara un discurso con eje en Malvinas y la IA mientras suma reuniones de alto voltaje",
+       "url": "https://www.cronista.com/economia-politica/nueva-york-se-blinda-para-la-onu-y-milei-prepara-un-discurso-con-malvinas-ia-y-criticas-al-organismo/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/milei-dijo-a-un-medio-frances-que-europa-se-esta-hundiendo-y-que-reino-unido-deberia-devolvernos-las-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IL6L4I2ZQJH4FEFGWMSDCAJEOU.jpg?auth=de20c9b10d925567e48204a34ce2cc7d3b3f7ed2353f6df1cbc7cde28257427b&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:18",
+     "autor": "",
+     "titulo_original": "Milei dijo a un medio francés que “Europa se está hundiendo” y que Reino Unido debería “devolvernos” las Malvinas"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Milei se reuniría con Trump en una sesión del Escudo de las Américas en la ONU",
+     "resumen": "Los presidentes de Argentina y Estados Unidos tienen previsto coincidir en una sesión extraordinaria de la iniciativa Escudo de las Américas, creada por la Casa Blanca para enfrentar a los carteles de droga asociados a China e Irán. La reunión está prevista para las 14.30 de Nueva York, una hora más en Argentina. Hasta el día anterior se esperaba que asistieran el canciller Pablo Quirno y el secretario de Estado Marco Rubio en su lugar.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/22/gira-presidencial-milei-se-encontraria-con-trump-durante-una-sesion-del-escudo-de-las-americas-en-la-onu/",
+     "imagen": "https://www.infobae.com/resizer/v2/XZSOWHMVEZA65MQXJAKEFIAONI.jpg?auth=d76361c24d233f19196d7d352c2376718d48dd2065e2ec1a3accaff059767f43&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:06",
+     "autor": "Román Lejtman",
+     "titulo_original": "Gira presidencial: Milei se encontraría con Trump durante una sesión del Escudo de las Américas en la ONU"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Una jueza porteña declaró inconstitucional el régimen penal juvenil",
+     "resumen": "La jueza Laura De Marinis, del fuero Penal Juvenil, Contravencional y de Faltas de la Ciudad, declaró inconstitucional el artículo que fija la punibilidad desde los 14 años y sobreseyó a un adolescente acusado de participar en un intento de robo. La resolución se dictó en una causa iniciada este mes con al menos cuatro adolescentes involucrados. Es el segundo fallo de la magistrada que cuestiona la nueva normativa penal juvenil.",
+     "relacionadas": [
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Una jueza porteña declaró inconstitucional la baja de la edad de punibilidad y sobreseyó a un menor de 14 años",
+       "url": "https://www.ambito.com/politica/una-jueza-portena-declaro-inconstitucional-la-baja-la-edad-punibilidad-y-sobreseyo-un-menor-14-anos-n6325024"
+      },
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Una jueza porteña declaró inconstitucional el régimen penal juvenil y sobreseyó a un menor",
+       "url": "https://www.iprofesional.com/actualidad/464884-jueza-portena-declaro-inconstitucional-el-regimen-penal-juvenil-y-sobreseyo-a-un-menor"
+      },
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Quién es Laura Beatriz de Marinis, la jueza que declaró inconstitucional la ley penal juvenil: el antecedente de otro fallo polémico en el caso del playero atacado en un garaje",
+       "url": "https://www.clarin.com/politica/laura-beatriz-marinis-jueza-declaro-inconstitucional-ley-penal-juvenil-antecedente-fallo-polemico-caso-playero-atacado-garaje_0_WrH9yM3V2w.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/otro-fallo-contra-el-nuevo-regimen-penal-juvenil-una-jueza-portena-lo-declaro-inconstitucional-y-sobreseyo-a-un-menor-de-14-anos/",
+     "imagen": "https://www.cronista.com/resizer/v2/H5UTLBIHC5D23E3THQQC23UXJE.jpg?auth=11be1d5ce60faea8f6a2eb31e6aec609938dc95587a91a76b88eba1fb59b8a9c&smart=true&width=612&height=427",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:24",
+     "autor": "",
+     "titulo_original": "Otro fallo contra el nuevo régimen penal juvenil: una jueza lo declaró inconstitucional y el Gobierno salió al cruce"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Bullrich cuestionó el fallo y Jorge Macri pedirá el juicio político de la jueza",
+     "resumen": "La senadora Patricia Bullrich dijo que \"es muy difícil construir un país normal\" con jueces que, a su criterio, protegen a los delincuentes antes que a las víctimas. El jefe de Gobierno porteño, Jorge Macri, instruyó al ministro de Justicia, Gabino Tapia, para pedir el juicio político de la jueza Laura De Marinis y anticipó que apelarán el fallo.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Jorge Macri pedirá el juicio político para la jueza porteña que falló contra la baja de la edad de imputabilidad",
+       "url": "https://www.ambito.com/politica/caba-pedira-el-juicio-politico-la-jueza-portena-que-fallo-contra-la-baja-la-edad-imputabilidad-n6325055"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/dificil-construir-pais-normal-queja-bullrich-nuevo-fallo-declara-inconstitucional-regimen-penal-juvenil_0_YRhoRRFie6.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/IMlz4QpcB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "“Es muy difícil construir un país normal así”: la queja de Bullrich por un nuevo fallo que declara inconstitucional el régimen penal juvenil"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "Kicillof viajó a Nueva York con un mensaje hacia 2027",
+     "resumen": "El gobernador bonaerense tendrá una agenda paralela a la de Milei en la Asamblea General de la ONU, con reuniones con tenedores de bonos, ejecutivos y académicos. Buscó mostrar al peronismo como un espacio \"buen pagador\" y favorable a los empresarios, en un año previo a las elecciones. También se reunirá con Pedro Sánchez y con Zhoran Mamdani.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/kicillof-viajo-nueva-york-mensaje-2027-quiere-mostrar-peronismo-buen-pagador-favorable-empresarios_0_kIKHjpWRh2.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/h_i5mggb9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Kicillof viajó a Nueva York con un mensaje hacia 2027: quiere mostrar al peronismo como buen pagador y favorable a los empresarios"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Tucumán es la provincia que más gasta por cada legislador",
+     "resumen": "Un informe de la Fundación Libertad reveló que Tucumán destina $3.725 millones anuales por cada banca legislativa, la cifra más alta del país, mientras que San Luis es la que menos gasta con $176 millones por legislador. Las 24 jurisdicciones destinan en conjunto $1,835 billones a sus 1.199 legisladores.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/tucuman-la-provincia-que-mas-gasta-por-sus-legisladores-3725-millones-por-cada-banca-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/F4BSUIQWB5FDZAEIES4B5LV4KA.JPG?auth=2755884b674127cc8bb2c17210fefa1743806684020b116cb9e51bae58d4cdb4&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:06",
+     "autor": "Gabriela Origlia",
+     "titulo_original": "Tucumán, la provincia que más gasta por sus legisladores: $3.725 millones por cada banca"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "La defensa de Adorni muestra inconsistencias, según especialistas",
+     "resumen": "El exjefe de Gabinete Manuel Adorni justificó ante la Justicia haber ganado cerca de 390.000 dólares entre 2014 y 2018 con compra y venta de criptoactivos en efectivo, sin dejar rastros contables, y haber guardado más de 590.000 dólares fuera del circuito bancario. Especialistas en criptoactivos consultados por La Nación señalaron al menos dos inconsistencias posibles y una situación que calificaron de inverosímil en esa versión.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-defensa-de-adorni-dos-posibles-inconsistencias-una-situacion-inverosimil-y-la-busqueda-del-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZVQIHQWBJ5HQBIDVAFCYORWWQY.JPG?auth=9181669acefdc8d96bd46048e19ddf4b67cd2b60c3231cd5b79cdbb1cacb51d2&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:14",
+     "autor": "Hugo Alconada Mon",
+     "titulo_original": "La defensa de Adorni: dos posibles inconsistencias, una situación inverosímil y la búsqueda del comprador misterioso"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-13",
+     "titulo": "Caputo expuso ante inversores de JPMorgan el plan económico para 2026 y 2027",
+     "resumen": "El ministro de Economía llegó a Nueva York antes que Milei y se reunió con representantes de fondos de inversión en la sede de JPMorgan, donde explicó la hoja de ruta del programa económico y respondió preguntas sobre el año electoral. Buscó dar certidumbre sobre el financiamiento y ratificar el rumbo económico.",
+     "relacionadas": [
+      {
+       "id": "CL-21",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Caputo destacó en EE.UU. el apoyo de Donald Trump y la acumulación de reservas",
+       "url": "https://www.clarin.com/economia/caputo-destaco-eeuu-apoyo-donald-trump-acumulacion-reservas_0_URMgyxavle.html"
+      },
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Milei le hablará al mundo en Nueva York: ¿dirá lo que el mundo le espera escuchar?",
+       "url": "https://www.cronista.com/columnistas/milei-le-hablara-al-mundo-en-nueva-york-dira-lo-que-el-mundo-le-espera-escuchar/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/en-una-reunion-privada-en-nueva-york-caputo-busco-llevar-tranquilidad-al-jp-morgan-y-explico-su-plan-economico/",
+     "imagen": "https://www.cronista.com/resizer/v2/2IAHZNHD55EQ5OJEKHPMVZ63DI.png?auth=ef8873fa451101d7450cd166dc6890595b7a31454770c13513c20e0a28e5a5d1&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:19",
+     "autor": "Daniela Romero",
+     "titulo_original": "En una reunión a puertas cerradas en el JP Morgan, Caputo explicó a inversores el plan 2026-2027"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Sin Caputo, el equipo económico se reunió con la misión del FMI en el Banco Central",
+     "resumen": "El riesgo país acumula una suba del 20% desde inicios de julio y cerró el lunes en el nivel más alto desde mayo. En paralelo, subió la cotización de la soja, lo que trae cierto alivio a las cuentas públicas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/caputo-riesgo-pais-alza-equipo-economico-reunio-mision-fondo_0_SLngdAwQns.html",
+     "imagen": "https://www.clarin.com/img/2026/07/29/b5jvyT2iW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sin Caputo y con el riesgo país en alza, el equipo económico se reunió con la misión del Fondo"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Las empresas arman sus presupuestos 2027 con un dólar de hasta $1.950",
+     "resumen": "Según el escenario de la consultora ABECEB, las compañías trabajan para 2027 con una inflación cercana al 19%, un dólar de entre $1.900 y $1.950 hacia fin de año y un crecimiento de la actividad del 2,6%. El consumo privado crecería 2,9%, en un cálculo algo menos optimista que el del Presupuesto que el Gobierno envió al Congreso. Para una empresa: son los parámetros de referencia para planificar precios, financiación y cobertura cambiaria del año electoral.",
+     "relacionadas": [
+      {
+       "id": "CR-02",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Las empresas barajan proyecciones más altas que las del Presupuesto para 2027",
+       "url": "https://www.cronista.com/economia-politica/las-empresas-barajan-proyecciones-mas-altas-que-las-del-presupuesto-para-2027/"
+      },
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Empresas prevén un dólar de entre $1.900 y $1.950 para el año electoral",
+       "url": "https://www.iprofesional.com/negocios/464876-que-dolar-e-inflacion-esperan-las-empresas-para-el-2027-ano-electoral"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/elecciones-2027-los-7-numeros-que-miran-las-empresas-para-armar-sus-presupuestos-en-el-ano-electoral/",
+     "imagen": "https://www.cronista.com/resizer/v2/AFHFCMR37VAEXA3VCYP2LFWLPM.jpeg?auth=f2417eb17132e1ad5a9d47d2a73ab8567b90f33937fe62aa1956a135168fca34&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:21",
+     "autor": "",
+     "titulo_original": "Elecciones 2027: los 7 números que miran las empresas para armar sus presupuestos en el año electoral"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Se profundiza el pesimismo industrial de cara al tercer trimestre",
+     "resumen": "El Indicador de Confianza Empresarial del INDEC se ubicó en -20,2% en agosto, el menor nivel desde diciembre de 2025. El 19,7% de los empresarios industriales espera una baja del volumen producido entre septiembre y noviembre, frente a un 15,4% que anticipa un aumento, con la debilidad de la demanda interna y la competencia importada como principales frenos.",
+     "relacionadas": [
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Empeoraron las expectativas de los industriales sobre la demanda: solo el 13,8% prevé una mejora para fin de año",
+       "url": "https://www.ambito.com/economia/empeoraron-las-expectativas-los-industriales-la-demanda-solo-el-138-preve-una-mejora-fin-ano-n6324961"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/22/se-profundiza-el-pesimismo-industrial-empresarios-proyectan-menos-produccion-y-empleo-en-el-tercer-trimestre/",
+     "imagen": "https://www.infobae.com/resizer/v2/TDYSFKEVTFB53BMYKY2IIB6D7Q.png?auth=ccad09b6cd89db67457bfeb931bf54513353f715f981ec8c2790a3e822ff646e&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:31",
+     "autor": "",
+     "titulo_original": "Se profundiza el pesimismo industrial: empresarios proyectan menos producción y empleo en el tercer trimestre"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "La liquidación del agro ya no va a parar a las reservas del Banco Central",
+     "resumen": "Pese a que la liquidación de exportaciones sigue fuerte, este mes el BCRA cerró la tercera semana de septiembre con una compra diaria de US$36 millones, la más alta desde agosto, mientras una demanda privada elevada -ahorristas, empresas e importadores- absorbe buena parte de la oferta de dólares.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/22/por-que-la-fuerte-liquidacion-del-agro-ya-no-va-a-reservas-quien-compra-los-dolares-que-no-acumula-el-banco-central/",
+     "imagen": "https://www.infobae.com/resizer/v2/VWDWEZFQZFBOVCO2IQWTBILNXE.JPG?auth=918230f44fcd52c6307f08af9941beb6085b9ccfd2b66ab271b6f3382820a5a8&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:26",
+     "autor": "Matías Barbería",
+     "titulo_original": "Por qué la fuerte liquidación del agro ya no va a reservas: quién compra los dólares que no acumula el Banco Central"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "El PIB cayó 0,6% en el segundo trimestre y la inversión se ubica en 16,5% del producto",
+     "resumen": "Según los datos de cuentas nacionales publicados por el Gobierno, el PIB cayó 0,6% en el segundo trimestre, el consumo privado un 2,4% y la inversión un 0,8% en la medición desestacionalizada. La inversión bruta se ubica en 16,5% del PBI, por debajo del 21% al 23% que mostraban otras administraciones. La única señal positiva fue el aumento de las exportaciones, de 2,5% trimestral y 13,7% interanual.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/datos-positivos-y-negativos-del-contexto-internacional/",
+     "imagen": "https://www.cronista.com/resizer/v2/4YYRYKQ6FJCMJOK7MAKYP2UMBM.jpg?auth=0560aff512a2fc515838765bc75e902a013fac5387d133f97db77478b4d82b58&smart=true&width=900&height=566",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:20",
+     "autor": "Daniel Artana",
+     "titulo_original": "Datos positivos y negativos del contexto internacional"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Casi 900.000 personas ya tienen sus deudas en poder de agencias de cobranza",
+     "resumen": "El crecimiento sostenido del atraso en los pagos preocupa a los especialistas, mientras más hogares argentinos tienen dificultades para ponerse al día con sus obligaciones financieras. Para una empresa: el deterioro del crédito de las familias es una señal de alerta sobre la capacidad de consumo financiado.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464877-casi-900000-personas-ya-tienen-sus-deudas-en-poder-de-agencias-de-cobranza",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614231.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:33",
+     "autor": "",
+     "titulo_original": "Casi 900.000 personas ya tienen sus deudas en poder de agencias de cobranza"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "Tres megaproyectos por US$3.400 millones apuntan a cambiar el perfil productivo de Bahía Blanca",
+     "resumen": "Javier Milei recorrió tres proyectos privados en Bahía Blanca: la ampliación de Compañía Mega para procesar gas, una planta de fertilizantes de Pampa Energía y el futuro complejo industrial de Louis Dreyfus para industrializar girasol y soja. Las puestas en marcha están previstas entre 2028 y 2029, en una ciudad que ya concentra un polo petroquímico, infraestructura portuaria y conexión con Vaca Muerta.",
+     "relacionadas": [
+      {
+       "id": "CR-21",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Techint avanza con una obra clave que se conectará con el mayor oleoducto de Vaca Muerta",
+       "url": "https://www.cronista.com/negocios/techint-avanza-con-una-obra-clave-que-se-conectara-con-el-mayor-oleoducto-de-vaca-muerta/"
+      },
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Con “tour electoral” y rondas de negocios, Milei ata su campaña a la suerte del RIGI",
+       "url": "https://www.cronista.com/economia-politica/con-tour-electoral-y-rondas-de-negocios-milei-ata-su-campana-a-la-suerte-del-rigi/"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/tres-nuevos-megaproyectos-por-us-3400-millones-buscan-cambiar-el-perfil-productivo-de-una-joya-portuaria/",
+     "imagen": "https://www.cronista.com/resizer/v2/HOS4PSA2YFDWFKMDNNTBW64YLY.jpeg?auth=28842350e6b5b1b57f1ec92b9007580d88f5790fd975b837302c5f91f9e7de55&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "",
+     "titulo_original": "Tres nuevos megaproyectos por u$s 3400 millones buscan cambiar el perfil productivo de una “joya” portuaria"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Louis Dreyfus reportó ventas por US$26.800 millones y invierte en una planta en Bahía Blanca",
+     "resumen": "La compañía agroindustrial refuerza su presencia local con una nueva planta de procesamiento en Bahía Blanca, apostando a mayor valor agregado y exportación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464881-louis-dreyfus-reporto-ventas-por-26800-millones-dolares-y-avanzo-con-inversiones-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618733.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:54",
+     "autor": "",
+     "titulo_original": "Louis Dreyfus reportó ventas por u$s26.800 millones y avanzó con inversiones en Argentina"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "MSCI reemplazará a Standard & Poor's en el cálculo de los índices de la Bolsa porteña",
+     "resumen": "BYMA anunció una alianza estratégica con MSCI, la firma que diseña indicadores de inversión globales, que administrará y calculará los principales índices accionarios del mercado argentino, entre ellos el S&P Merval y el S&P ByMA Argentina General. El cambio de metodología entrará en vigencia el 19 de octubre y busca acercar al mercado local a las prácticas de las plazas financieras más desarrolladas.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "BYMA selló una alianza con MSCI: qué pasará con el índice S&P Merval",
+       "url": "https://www.ambito.com/finanzas/byma-sello-una-alianza-msci-que-pasara-el-indice-sp-merval-n6325041"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cambios en la Bolsa porteña: MSCI comenzará a calcular los principales índices",
+       "url": "https://www.iprofesional.com/finanzas/464882-msci-calculara-los-principales-indices-de-la-bolsa-y-el-merval-cambia-de-nombre"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/msci-la-firma-que-pone-la-nota-al-mercado-argentino-manejara-los-indices-de-la-bolsa/",
+     "imagen": "https://www.cronista.com/resizer/v2/EVMTI7QD7FC4NI7VZKAOELHIBE.jpg?auth=04c1011765b93c34979d48db7067fe51ff10d0c87eece83f2f135fcba80cb960&smart=true&width=841&height=474",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:22",
+     "autor": "Ariel Cohen",
+     "titulo_original": "MSCI, la firma que pone la nota al mercado argentino, manejará los índices de la Bolsa"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "Vicentin consiguió un crédito de US$50 millones del grupo Bunge",
+     "resumen": "El juez del concurso habilitó el financiamiento, que la cerealera dejará en garantía con una prenda del 8,33% de una de sus plantas. Vicentin deberá rendir cuentas del uso de esos fondos cada tres meses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464861-vicentin-consiguio-un-credito-por-us50-millones-del-gigante-agroindustrial-bunge",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/11/588052.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:25",
+     "autor": "",
+     "titulo_original": "Vicentin consiguió un crédito por u$s50 millones del gigante agroindustrial Bunge"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Los aceiteros rechazan el cierre de la ex Dánica y reclaman por 200 empleos",
+     "resumen": "La empresa anunció que cerrará el 30 de septiembre. El gremio advirtió que irá \"hasta las últimas consecuencias\" por la pérdida de puestos de trabajo y reclama la intervención provincial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464860-aceiteros-rechazan-el-cierre-de-ex-danica-y-reclaman-perdida-de-200-empleos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626059.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:39",
+     "autor": "",
+     "titulo_original": "Aceiteros rechazan el cierre de la ex Dánica y reclaman por la pérdida de 200 empleos"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "Las exportaciones de carne vacuna crecen 42% en dólares pese a la menor oferta local",
+     "resumen": "En los primeros siete meses del año, la Argentina exportó 403.100 toneladas de carne vacuna por US$2.768,6 millones. El volumen creció 6,7%, pero la facturación saltó 41,8% por los mejores precios internacionales, mientras la menor oferta local impulsa las importaciones. Para una empresa: los precios internacionales en alza pueden trasladarse gradualmente al costo de la carne en el mercado interno.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/carne-vacuna-las-exportaciones-crecen-42-dolares-cae-la-oferta-local-y-avanzan-las-importaciones-n6324772",
+     "imagen": "https://media.ambito.com/p/daea94cc5f724a3b1b0f72dfb71e20b5/adjuntos/239/imagenes/042/319/0042319779/1200x675/smart/carnejpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:54",
+     "autor": "",
+     "titulo_original": "Carne vacuna: las exportaciones crecen 42% en dólares, cae la oferta local y avanzan las importaciones"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-24",
+     "titulo": "ARCA prorrogó otra vez la presentación de Ganancias, ahora hasta el 13 de octubre",
+     "resumen": "Los contribuyentes que deben presentar la declaración jurada del Impuesto a las Ganancias del período fiscal 2025 tienen un nuevo plazo, tras la cuarta prórroga consecutiva dispuesta por la Resolución General 5898/2026. La medida alcanza tanto al régimen general como al Régimen de Declaración Jurada Simplificada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/inocencia-fiscal-ii-como-adherir-al-regimen-simplificado-de-ganancias-tras-la-prorroga-de-la-ddjj/",
+     "imagen": "https://www.cronista.com/resizer/v2/CVWN6RBQ6VAGPKWVJN3ISMK6JQ.jpg?auth=8db17730adb8cbc4d75992c4148038c95893d3c8c249378a6b5ce1aba2d33d0f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:31",
+     "autor": "",
+     "titulo_original": "Inocencia Fiscal II: cómo adherir al Régimen Simplificado de Ganancias tras la prórroga de la DDJJ"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "Avanzan los \"bancos de horas\" de la reforma laboral con un acuerdo en la industria automotriz",
+     "resumen": "La ministra de Capital Humano, Sandra Pettovello, anunció un acuerdo de banco de horas entre Renault y el sindicato SMATA que alcanza a 1.200 trabajadores de la planta Santa Isabel, en Córdoba. La medida busca sostener los puestos de trabajo en un sector que el mes pasado usó menos del 40% de su capacidad instalada. Para una empresa: el mecanismo permite adaptar la jornada laboral a los ciclos de demanda sin recurrir a suspensiones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/avanzan-los-bancos-de-horas-de-la-reforma-laboral-nuevo-acuerdo-en-una-industria-insignia/",
+     "imagen": "https://www.cronista.com/resizer/v2/WI7B2TSJTFCVNGZHPWL5M3JE7I.jpg?auth=ebfd71f9d0fdab3494fbbc758cb5aa9e07177d4367462e1ff3d27c2afafc3f72&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:09",
+     "autor": "Patricia Valli",
+     "titulo_original": "Avanzan los “bancos de horas” de la reforma laboral: nuevo acuerdo en una industria insignia"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Un artículo de la reforma laboral amenaza con disparar el costo de los juicios laborales",
+     "resumen": "Empresarios ven con preocupación un fallo que eleva los costos judiciales y anticipan un efecto dominó por la aplicación retroactiva de la reforma laboral. Para una empresa: el fallo podría encarecer la litigiosidad laboral en curso, más allá de los casos nuevos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464845-fallo-por-indemnizaciones-fijo-cifra-millonaria-y-puso-en-alerta-a-empresas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618489.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Un artículo de la reforma laboral amenaza con disparar el costo de los juicios laborales"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Llamó a un falso soporte de Netflix y le vaciaron la cuenta: la Justicia obligó al banco a responder",
+     "resumen": "La Justicia responsabilizó a una entidad financiera tras una estafa telefónica que vació la cuenta de un cliente, y la obligó a reintegrar la mayor parte del dinero sustraído. El fallo marca un antecedente sobre la responsabilidad de los bancos ante fraudes con ingeniería social.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/464875-llamo-a-falso-soporte-de-netflix-le-vaciaron-la-cuenta-banco-debera-pagar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623502.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:33",
+     "autor": "",
+     "titulo_original": "Llamó a un falso soporte de Netflix y le vaciaron la cuenta: qué debe hacer el banco"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la actividad del lector arranca con un dato de costos de construcción.",
+   "notas": [
+    {
+     "id": "IP-19",
+     "titulo": "Cuándo conviene más el steel framing frente al sistema tradicional de construcción",
+     "resumen": "Un informe tomó como base tres prototipos de vivienda unifamiliar y seis fuentes de precios para comparar el costo total de construir con steel framing versus el sistema tradicional. El estudio determina a partir de qué punto la construcción en seco resulta más económica. Para una empresa: el dato es clave para comparar costos de provisión de materiales según el sistema constructivo que elija cada cliente.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464740-cuando-conviene-construir-con-steel-framing-versus-sistema-tradicional",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/07/499437.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Cuándo pasa a ser más barato construir con steel framing versus el sistema tradicional"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "Decathlon abre su tercer local en Argentina, en el Abasto",
+     "resumen": "La cadena francesa de ropa y equipamiento deportivo inaugurará una sucursal el 17 de octubre en el shopping Abasto, y en noviembre llegará al Portal Rosario. La empresa apunta a un total de 20 tiendas en cinco años, con una inversión de US$100 millones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/decathlon-llega-ciudad-buenos-aires-abre-tercer-local-argentina-proxima-inauguracion_0_Odc9Veuo3C.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/dO9Npr2VL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Decathlon llega a la Ciudad de Buenos Aires y abre su tercer local en la Argentina: cuál será su próxima inauguración"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "La marca de lujo de Stella McCartney abrirá su primer local en Argentina",
+     "resumen": "La firma creada en 2001 por la diseñadora británica, hija de Paul McCartney, desembarca en el país con una propuesta de lujo sustentable. En el shopping Unicenter también se espera para las próximas semanas la llegada de Armani y Bestseller, otras marcas internacionales.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "De Armani a Bestseller, las nuevas marcas internacionales que llegan al shopping Unicenter",
+       "url": "https://www.iprofesional.com/actualidad/464890-nuevas-marcas-internacionales-llegan-al-shopping-mas-grande-de-argentina"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/marca-lujo-hija-beatle-llega-argentina-historia-detras-stella-mccartney_0_HYMtXQg8mo.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/EcSuFn7Mp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La marca de lujo de la hija de un Beatle llega a la Argentina: la historia detrás de Stella McCartney"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Garbarino y su dueño, en quiebra: la Justicia avanza con el remate de los bienes",
+     "resumen": "La primera subasta de los activos de la cadena de electrodomésticos y de su agencia de viajes comenzará esta semana, con una base conjunta que supera los $22 millones. En paralelo avanza un proceso judicial sobre el patrimonio personal de su propietario, Carlos Rosales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/garbarino-dueno-quiebra-justicia-avanza-remate-bienes-cadena-agencia-viajes_0_ltLeY1xu06.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/NwITEU6tm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Garbarino y su dueño, en quiebra: la Justicia avanza con el remate de los bienes de la cadena y su agencia de viajes"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "Comprar con crédito hipotecario o alquilar: cómo funciona el simulador que compara ambas opciones",
+     "resumen": "Una herramienta gratuita permite comparar el costo de comprar una vivienda con crédito hipotecario frente a alquilar, considerando los ahorros propios, los gastos de la operación y la posibilidad de invertir ese dinero mientras se alquila. Para una empresa: el resultado del simulador puede influir en la demanda de materiales para reformas frente a la de vivienda nueva.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/comprar-credito-hipotecario-o-alquilar-argentina-como-funciona-el-simulador-gratuito-que-define-que-conviene-hacer-n6324769",
+     "imagen": "https://media.ambito.com/p/b61e9a81dfb746af7f480d58df533c3e/adjuntos/239/imagenes/043/626/0043626555/1200x675/971x388:991x408/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "¿Comprar con crédito hipotecario o alquilar en Argentina? Cómo funciona el simulador gratuito que define qué conviene hacer"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "Comenzó la Asamblea General de la ONU con la participación de 130 jefes de Estado",
+     "resumen": "El encuentro anual de Naciones Unidas se realiza bajo la presión de las guerras en Irán, Gaza, Ucrania, Sudán, Congo y Myanmar, además del avance de la inteligencia artificial y el cambio climático. El secretario general, António Guterres, pronunciará el discurso inaugural, mientras que Donald Trump, Emmanuel Macron y Lula da Silva son algunos de los mandatarios que hablarán este martes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/22/comienza-la-asamblea-general-de-la-onu-los-lideres-mundiales-se-reunen-para-tratar-las-guerras-la-crisis-climatica-y-el-avance-de-la-ia/",
+     "imagen": "https://www.infobae.com/resizer/v2/MNK7NADSAFAHFCKFZ2AGLOZBZE.jpg?auth=489ee5da4819048697f209833484f6a11e58299d2973c5ecd47158a770158fac&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:41",
+     "autor": "",
+     "titulo_original": "Comienza la Asamblea General de la ONU: los líderes mundiales se reúnen para tratar las guerras, la crisis climática y el avance de la IA"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "La Casa Blanca lanzó su propio canal, Trump TV, tras el boicot de las grandes cadenas",
+     "resumen": "El gobierno estadounidense estrenó una señal por YouTube con discursos, anuncios y contenidos de la administración, el mismo día en que las principales cadenas televisivas suspendieron la cobertura compartida de las actividades de Donald Trump en protesta por el veto a tres medios acreditados. CNN, MS NOW y Politico demandaron al gobierno por la medida.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/escalada-con-los-medios-la-casa-blanca-desafia-el-boicot-de-las-grandes-cadenas-y-lanza-trump-tv-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2Z52DEE2EVG63GPLL555Z2OTVQ.jpg?auth=1865560736b2e443072772ab049d5bc0de1228676ee98cef7897f3e4678ba138&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:19",
+     "autor": "",
+     "titulo_original": "Escalada con los medios: la Casa Blanca desafía el boicot de las grandes cadenas y lanza Trump TV"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "China expulsó al máximo jefe de su ejército por coimas y deslealtad al Partido Comunista",
+     "resumen": "Zhang Youxia, antiguo aliado de Xi Jinping, fue destituido junto a su número dos, que ya había sido apartado en enero.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/china-expulso-maximo-jefe-ejercito-coimas-deslealtad-partido-comunista_0_gKf2PTQpBh.html",
+     "imagen": "https://www.clarin.com/img/2022/10/22/A9r7Mxe1u_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "China expulsó al máximo jefe del ejército por coimas y deslealtad al Partido Comunista"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "Reino Unido aceptó apoyar a Arabia Saudita contra los hutíes de Yemen",
+     "resumen": "El primer ministro británico, Andy Burnham, accedió a dar apoyo militar al gobierno saudí para enfrentar los ataques del grupo armado proiraní. Los aviones británicos se encargarán de reabastecer de combustible en pleno vuelo a los cazas sauditas, en una misión limitada a la defensa frente a ataques con drones y misiles.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/conflicto-en-medio-oriente-reino-unido-acepto-apoyar-a-arabia-saudita-contra-los-huties-de-yemen-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SQFGD7763VFNNPS3MBN5DBQBHM.jpg?auth=ad217f884bdc6c9e57d3db6a3b3dbeace1e9e64a128fcb6cdd1f056b4a997bb4&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:40",
+     "autor": "",
+     "titulo_original": "Conflicto en Medio Oriente: Reino Unido aceptó apoyar a Arabia Saudita contra los hutíes de Yemen"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Rusia atacó el sur de Ucrania con drones y misiles: al menos tres muertos",
+     "resumen": "Las fuerzas rusas atacaron cuatro distritos de la región de Dnipropetrovsk con misiles, drones y artillería, según el gobernador Oleksandr Ganzha. Además de las tres muertes, otras seis personas resultaron heridas y hubo daños graves en almacenes y una empresa en la ciudad de Dnipro.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/22/rusia-lanzo-un-nuevo-ataque-con-drones-y-misiles-contra-el-sur-de-ucrania-al-menos-tres-muertos-y-6-heridos/",
+     "imagen": "https://www.infobae.com/resizer/v2/QTOKHB73KJAY3L4RGJMJHOIX6A.jpg?auth=64fdd68494be7abad4e5828cd6510b513187fc5562c9141253a466705cf9997a&smart=true&width=630&height=360",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:10",
+     "autor": "",
+     "titulo_original": "Rusia lanzó un nuevo ataque con drones y misiles contra el sur de Ucrania: al menos tres muertos y 6 heridos"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "El papa León XIV visitará Argentina, Uruguay y Perú en noviembre",
+     "resumen": "El pontífice realizará una gira de 11 días entre el 6 y el 16 de noviembre, con 14 ciudades, 35 discursos y 9 misas. El viaje incluye a Perú, país donde vivió 20 años y del que tiene la nacionalidad, y significa el regreso de un papa a Argentina y Uruguay, dos países que no visitó Francisco en sus doce años de pontificado.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/robert-prevost-vuelve-latinoamerica-papa-leon-xiv-11-dias-14-ciudades-35-discursos-9-misas_0_HVo4MluBGj.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/yXp_ff8EY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Robert Prevost vuelve a Latinoamérica como papa León XIV: 11 días, 14 ciudades, 35 discursos y 9 misas"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Europa debe aprender a decir \"no\" a China, según Le Grand Continent",
+     "resumen": "La revista sostiene que el poderío industrial de Pekín representa una amenaza sistémica para la industria europea, con un déficit comercial de la Unión Europea con China que asciende a 1.000 millones de euros al día. El análisis plantea que Europa puede convertir su propio mercado en un instrumento de poder para hacer frente a lo que definen como un \"segundo choque chino\" inminente.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/22/europa-debe-aprender-a-decir-no-a-china/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/SIPA_sipausa30397444_000014-125x83.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "05:01",
+     "autor": "Louis Puel",
+     "titulo_original": "Europa debe aprender a decir «no» a China"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "El S&P 500 rinde menos con Trump que con Obama, según Le Grand Continent",
+     "resumen": "En los primeros 600 días de su segundo mandato, el índice bursátil estadounidense subió 27,6%, cinco puntos menos que en el mismo período del primer mandato de Obama y un punto menos que en el primer mandato del propio Trump. La revista señala que el optimismo empresarial inicial por las políticas de Trump no se tradujo en un rendimiento bursátil superior al de gestiones previas.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/22/el-sp-500-tiene-menor-rendimiento-con-trump-que-con-obama/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "El S&P 500 tiene un rendimiento inferior con Trump que con Obama"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Independiente Rivadavia le ganó a Barracas Central y confirmó su liderazgo en la Tabla Anual",
+     "resumen": "El equipo mendocino venció 1-0 con un gol de cabeza de Florentín, sin su goleador Ignacio Arce, convocado por la selección de Paraguay. El resultado lo confirma como líder de la Tabla Anual con 51 puntos a falta de seis partidos, seguido por Vélez con 48 y Boca y Argentinos Juniors con 47.",
+     "relacionadas": [
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La Tabla Anual más caliente que nunca: Independiente Rivadavia imparable en la lucha por ser el mejor de 2026 y obtener el boleto a la Libertadores 2027",
+       "url": "https://www.clarin.com/deportes/lucha-tabla-anual-caliente-boca-ganar-acecha-velez-independiente-rivadavia-lucha-mejor-2026_0_fiYsInevqI.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/independiente-rivadavia-le-gano-a-barracas-central-con-un-gol-de-florentin-y-confirmo-su-liderazgo-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DF67KY7QMNAJXDK4HIFCBSYOD4.jpg?auth=8866b7c3bc653be717b9bda41c1032d735e67dcefaabe75d2f416eb5fe79af1b&smart=true&width=900&height=651",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:28",
+     "autor": "",
+     "titulo_original": "Independiente Rivadavia le ganó a Barracas Central con un gol de Florentín y confirmó su liderazgo en la Tabla Anual"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Racing se juega el año ante Boca en la Copa Argentina",
+     "resumen": "Luego de cortar una racha de siete partidos sin victorias, la Academia enfrenta al Xeneize con la Copa Argentina como única chance de clasificar a una competencia internacional en 2027. El entrenador Juan Pablo Vojvoda debe resolver si cambia el esquema o repite el equipo que jugó ante Sarmiento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/racing-juega-ano-boca-copa-argentina-ultima-chance-internacional-futuro-juan-pablo-vojvoda_0_8k9YX5ds6p.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/hOetgDGZ8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Racing se juega el año ante Boca en la Copa Argentina: la última chance internacional y el futuro de Juan Pablo Vojvoda"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "Messi presentó la camiseta que usará en su despedida de la Selección",
+     "resumen": "El astro rosarino mostró en redes sociales un adelanto de los detalles del uniforme que utilizará en su último partido con la Albiceleste, en un evento que ya genera expectativa entre hinchas y coleccionistas.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Messi mostró en un video la camiseta especial que usará en su despedida de la Selección",
+       "url": "https://www.iprofesional.com/recreo/464889-camiseta-messi-despedida-diseno-fanaticos-furor"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/el-ultimo-baile-lionel-messi-presento-la-nueva-camiseta-la-seleccion-argentina-que-usara-su-despedida-n6324988",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:05",
+     "autor": "",
+     "titulo_original": "El último baile: Lionel Messi presentó la nueva camiseta de la Selección argentina que usará en su despedida"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "River volvió a la AFA con un \"documento crítico\" que propone seis cambios de fondo",
+     "resumen": "El club presentará este martes ante el Comité Ejecutivo de la AFA un documento con modificaciones al formato de la competencia, el arbitraje y los recursos económicos. River había abandonado la entidad y ahora busca reformularla desde adentro, representado por el vicepresidente Ignacio Villarroel.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/river-vuelve-a-la-afa-con-un-documento-critico-y-propone-seis-cambios-de-fondo-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ALQ4JI3RKVEPPCA5XVISAFRT2U.jpeg?auth=949aef7ff041bef200f5528db41ef791c4ba0af035b838634d3bf4fe5af1a491&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:53",
+     "autor": "",
+     "titulo_original": "River vuelve a la AFA con un “documento crítico” y propone seis cambios de fondo"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Brasil, Argentina y Colombia lideran el medallero de los Juegos Suramericanos",
+     "resumen": "A falta de una semana para el cierre del evento en Santa Fe, Brasil supera los 75 títulos y se acerca a las 200 medallas, mientras Argentina y Colombia superaron los 40 oros. La selección argentina, dirigida por Diego Placente, empató agónicamente con Venezuela y avanzó a semifinales.",
+     "relacionadas": [
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Agónica clasificación: la Selección argentina empató contra Venezuela y está en las semifinales de los Juegos Suramericanos",
+       "url": "https://www.ambito.com/deportes/agonica-clasificacion-la-seleccion-argentina-empato-contra-venezuela-y-esta-las-semifinales-los-juegos-suramericanos-n6324965"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/asi-esta-el-medallero-de-los-juegos-suramericanos-santa-fe-2026-tras-el-dia-9-nid21092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ILLKTSX44NAM3ECIJPQM4OB2HY.jpg?auth=a67cc8864e5e90f1865248761e5926a2002094430602e667e5752af1014ebf3c&smart=true&width=900&height=645",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:00",
+     "autor": "",
+     "titulo_original": "Así está el medallero de los Juegos Suramericanos Santa Fe 2026, tras el día 9"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Gareca: \"el periodismo que sigue hablando de los cinco grandes es arcaico\"",
+     "resumen": "En una entrevista con Clarín, el entrenador habló del último Mundial, de la Selección y de la distancia competitiva entre Europa y los clubes sudamericanos, algo que -dijo- antes no ocurría. El Tigre, de 68 años, sigue vigente en el fútbol argentino.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/ricardo-gareca-periodismo-sigue-hablando-grandes-arcaico-quedo-decada-30_0_SIDPIhJWR4.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/9sJ0IBCM__1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ricardo Gareca: \"El periodismo que sigue hablando de los cinco grandes es arcaico, se quedó en la década del 30\""
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Franco Colapinto encara la previa del Gran Premio de Azerbaiyán",
+     "resumen": "El piloto argentino está en la recta final de su preparación para lo que será un nuevo fin de semana de carrera, dentro de una gira de tres semanas por el continente asiático. Dijo que espera \"otro fin de semana competitivo\".",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-la-previa-del-gran-premio-azerbaiyan-esperamos-que-sea-otro-fin-semana-competitivo-n6324897",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:08",
+     "autor": "",
+     "titulo_original": "Franco Colapinto en la previa del Gran Premio de Azerbaiyán: \"Esperamos que sea otro fin de semana competitivo\""
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-26",
+     "titulo": "Azcuénaga, el pueblo a 100 kilómetros de CABA que se afianza como polo gastronómico",
+     "resumen": "A 100 kilómetros al noroeste de Buenos Aires, el pueblo ya suma 10 restaurantes que en su mayoría abren los fines de semana, además de nuevas propuestas de alojamiento. Antigua estación ferroviaria mediante, la localidad combina arquitectura antigua con confort moderno y viene consolidándose como destino gastronómico rural desde hace más de veinte años.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/salud/a-100-km-de-caba-el-pueblo-pintoresco-que-se-afianza-como-polo-gastronomico-nid19092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/24BIYCIJVJF4LEZWHMFNHXGBRQ.JPG?auth=b3d8dd34f8c7b1d655ee3526a367c2a636b685a17ac87452ceec68ffa44eb68f&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:58",
+     "autor": "Silvina Beccar Varela",
+     "titulo_original": "A 100 km de CABA: el pueblo pintoresco que se afianza como polo gastronómico"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "Un estudio de The Lancet identificó cinco hábitos para reducir el riesgo de demencia",
+     "resumen": "El trabajo, liderado por una investigadora argentina, demostró el beneficio de sostener cinco hábitos cotidianos para mejorar la salud cerebral. El estudio señala quiénes deberían empezar a aplicarlos cuanto antes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/formula-reducir-riesgo-demencia-empezar-aplicarla_0_2zCY47XMiT.html",
+     "imagen": "https://www.clarin.com/img/2026/05/03/HEiBcn8YY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La \"fórmula\" para reducir el riesgo de demencia: quiénes tienen que empezar ya a aplicarla"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Juicio por Loan: declaran testigos con versiones distintas sobre la noche de la desaparición",
+     "resumen": "El juicio por la sustracción de Loan Danilo Peña se reanudó en Corrientes con la declaración de testigos vinculados a distintos momentos de la investigación, entre ellos la enfermera que atendió a María Victoria Caillava y una vecina que estuvo esa noche en la guardia. También declararán una integrante de la división K9 que participó del rastreo y una periodista.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/22/juicio-por-loan-declaran-dos-testigos-con-versiones-distintas-sobre-la-visita-de-caillava-al-hospital-la-noche-de-la-desaparicion/",
+     "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:30",
+     "autor": "",
+     "titulo_original": "Juicio por Loan: declaran dos testigos con versiones distintas sobre la visita de Caillava al hospital la noche de la desaparición"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "La inteligencia artificial confundió a una mujer con la protagonista de un video viral y sufrió amenazas",
+     "resumen": "En medio de la crisis migratoria en Ceuta, una búsqueda en Google identificó erróneamente a una activista y politóloga argentina como la persona que aparecía en una filmación viral. Aunque se encontraba en Chubut y nunca estuvo en España, la mujer recibió mensajes violentos en sus redes sociales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/inteligencia-artificial-confundio-video-viral-ceuta-sufrio-amenazas-muerte-arengaban-violen-tiren-mar_0_wDj6uUvDmU.html",
+     "imagen": "https://www.clarin.com/img/2026/09/06/zftriqQsZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La inteligencia artificial la confundió en un video viral en Ceuta y sufrió amenazas de muerte: \"Arengaban a que me violen y tiren al mar\""
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del martes veintidós de septiembre. El dólar oficial cerró en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cincuenta pesos, el riesgo país en quinientos treinta y tres puntos básicos y el oro cotiza en cuatro mil trescientos setenta y cuatro dólares la onza. La jornada está marcada por el viaje de Javier Milei a Nueva York para la Asamblea General de las Naciones Unidas, un fallo judicial que declaró inconstitucional el régimen penal juvenil y generó una fuerte reacción política, la suba del riesgo país en medio de la revisión del Fondo Monetario, y varios anuncios de inversión y cambios en el mercado bursátil argentino.\n\nEn política, Javier Milei llegó a Nueva York con Malvinas, la inteligencia artificial y su relación con Estados Unidos entre los ejes de su agenda. En una entrevista con el canal francés TF1, dijo que Europa se está hundiendo y volvió a reclamarle a Reino Unido la devolución de las islas Malvinas. Además, podría encontrarse hoy con Donald Trump en una sesión extraordinaria de la iniciativa Escudo de las Américas, creada por la Casa Blanca contra los carteles de droga asociados a China e Irán. En el plano judicial, la jueza porteña Laura De Marinis declaró inconstitucional el artículo que fija la punibilidad desde los catorce años en el nuevo régimen penal juvenil y sobreseyó a un adolescente. La senadora Patricia Bullrich cuestionó el fallo, y el jefe de Gobierno porteño, Jorge Macri, pedirá el juicio político de la magistrada y apelará la decisión. El gobernador bonaerense Axel Kicillof viajó también a Nueva York, con una agenda paralela a la de Milei, para reunirse con tenedores de bonos y ejecutivos, mostrando al peronismo como un espacio confiable para los negocios de cara a dos mil veintisiete. Un informe reveló además que Tucumán es la provincia que más gasta por cada legislador, con tres mil setecientos veinticinco millones de pesos anuales por banca. Y especialistas en criptoactivos señalaron inconsistencias en la defensa que presentó el exfuncionario Manuel Adorni sobre el origen de su patrimonio.\n\nEn economía y mercados, el ministro Luis Caputo se reunió en Nueva York con inversores de JPMorgan para explicar el plan económico de cara a dos mil veintisiete, mientras el resto del equipo económico se reunió sin él con la misión del Fondo Monetario en el Banco Central. El riesgo país acumula una suba del veinte por ciento desde julio y cerró en su nivel más alto desde mayo, aunque la suba de la soja trae algo de alivio a las cuentas públicas. Según la consultora ABECEB, las empresas ya arman sus presupuestos para dos mil veintisiete con una inflación cercana al diecinueve por ciento y un dólar de entre mil novecientos y mil novecientos cincuenta pesos hacia fin de año. El Indicador de Confianza Empresarial del INDEC cayó a menos veinte coma dos por ciento en agosto, el nivel más bajo desde diciembre, y casi uno de cada cinco industriales espera producir menos hasta noviembre. El Banco Central, mientras tanto, compró treinta y seis millones de dólares por día en la tercera semana de septiembre, aunque buena parte de la liquidación del agro ya no llega a las reservas sino a una demanda privada creciente. Y el Gobierno difundió los datos del segundo trimestre: el producto bruto cayó cero coma seis por ciento y la inversión se ubica en dieciséis coma cinco por ciento del producto, muy por debajo de otras gestiones.\n\nEn negocios y empresas, Javier Milei recorrió en Bahía Blanca tres proyectos privados por cerca de tres mil cuatrocientos millones de dólares: una ampliación de Compañía Mega para procesar gas, una planta de fertilizantes de Pampa Energía y un complejo industrial de Louis Dreyfus para industrializar girasol y soja. Louis Dreyfus, además, reportó ventas globales por veintiséis mil ochocientos millones de dólares y construye una nueva planta en esa misma ciudad. BYMA anunció que la firma MSCI reemplazará a Standard and Poor's en el cálculo de los índices accionarios argentinos, entre ellos el Merval, desde el diecinueve de octubre. Vicentin consiguió un crédito de cincuenta millones de dólares del grupo Bunge, y los aceiteros rechazan el cierre de la ex Dánica, previsto para fin de mes, por la pérdida de doscientos empleos. Las exportaciones de carne vacuna, en tanto, crecieron cuarenta y dos por ciento en dólares pese a la menor oferta local.\n\nEn impuestos, laboral y normativa, ARCA prorrogó por cuarta vez consecutiva el plazo para presentar la declaración jurada de Ganancias del período fiscal dos mil veinticinco, ahora hasta el trece de octubre. El Gobierno avanza además con los llamados bancos de horas de la reforma laboral: la ministra Sandra Pettovello anunció un acuerdo entre Renault y el sindicato SMATA para mil doscientos trabajadores de la planta Santa Isabel, en Córdoba. Empresarios advierten, en cambio, que un artículo de la reforma laboral podría disparar el costo de los juicios laborales en curso por su aplicación retroactiva. Y la Justicia responsabilizó a un banco por una estafa telefónica que simulaba ser soporte técnico de Netflix, y lo obligó a reintegrar la mayor parte del dinero sustraído.\n\nEn consumo, construcción y retail, un informe compara el costo de construir con steel framing frente al sistema tradicional, a partir de tres prototipos de vivienda, un dato útil para definir qué sistema constructivo conviene según el proyecto. La cadena francesa Decathlon abrirá su tercer local en el país el diecisiete de octubre, en el shopping Abasto, con un plan de veinte tiendas en cinco años y una inversión de cien millones de dólares. También llega la marca de lujo sustentable de la diseñadora Stella McCartney, mientras en el shopping Unicenter se esperan los desembarcos de Armani y Bestseller. Garbarino y su dueño, en cambio, avanzan hacia el remate judicial de sus bienes. Y un simulador gratuito permite comparar el costo de comprar una vivienda con crédito hipotecario frente a alquilar.\n\nEn el mundo, comenzó la Asamblea General de las Naciones Unidas con la participación de ciento treinta jefes de Estado, bajo la presión de las guerras en Irán, Gaza, Ucrania, Sudán, Congo y Myanmar. La Casa Blanca lanzó su propio canal, Trump TV, por YouTube, el mismo día en que las principales cadenas de Estados Unidos suspendieron la cobertura compartida del gobierno y varios medios lo demandaron. China expulsó a su máximo jefe militar por coimas y deslealtad al Partido Comunista, Reino Unido aceptó apoyar con reabastecimiento en vuelo a los aviones de Arabia Saudita frente a los hutíes de Yemen, y Rusia atacó con drones y misiles el sur de Ucrania, con al menos tres muertos. Además, el papa León catorce visitará Argentina, Uruguay y Perú en noviembre, en una gira de once días.\n\nLe Grand Continent analiza dos temas para Europa: sostiene que el continente debe aprender a decir que no a China, frente a un déficit comercial que ya asciende a mil millones de euros por día, y señala que la bolsa estadounidense rinde menos con Donald Trump que con Barack Obama, con una suba de alrededor del veintiocho por ciento en los primeros seiscientos días de su segundo mandato.\n\nEn deportes, Independiente Rivadavia venció uno a cero a Barracas Central, con gol de Florentín, y confirmó su liderazgo en la Tabla Anual con cincuenta y un puntos, seguido por Vélez, Boca y Argentinos Juniors. Racing se juega buena parte del año ante Boca por la Copa Argentina, su última chance de clasificar a un torneo internacional en dos mil veintisiete. River volvió a la AFA con un documento crítico que propone seis cambios en el formato de la competencia, el arbitraje y los recursos económicos. En los Juegos Suramericanos de Santa Fe, Brasil lidera el medallero seguido por Argentina y Colombia, que empató agónicamente con Venezuela y avanzó a semifinales. Lionel Messi presentó en redes la camiseta que usará en su despedida de la Selección, y el entrenador Ricardo Gareca habló sobre la distancia competitiva entre el fútbol europeo y el sudamericano. Franco Colapinto encara la previa del Gran Premio de Azerbaiyán, buscando otro fin de semana competitivo.\n\nPara cerrar, en turismo, Azcuénaga, un pueblo a cien kilómetros de la Ciudad de Buenos Aires, se afianza como un polo gastronómico rural con diez restaurantes y nuevas propuestas de alojamiento.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent publicó solo 2 notas en esta corrida (menos de las 3 a 5 habituales); se incluyeron ambas por no haber más material disponible. La sección Management y finanzas corporativas se omitió porque el feed de iProfesional no trajo notas en esa etiqueta en esta corrida. No se detectaron menciones a Club Atlético Tigre en el material crudo.",
+ "slug": "2026-09-22-manana",
+ "generado_ba": "22/09/2026 10:18"
+}
