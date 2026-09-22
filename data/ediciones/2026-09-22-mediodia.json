@@ -1,0 +1,815 @@
+{
+ "fecha": "2026-09-22",
+ "edicion": "mediodia",
+ "titulo": "Milei en Nueva York, Trump advierte a Irán y el riesgo país toca máximos de cuatro meses",
+ "apertura": "La jornada en Nueva York se intensifica: Javier Milei llegó a la ciudad y podría reunirse con Donald Trump en una sesión del Escudo de las Américas, mientras el mandatario estadounidense abrió su discurso ante la Asamblea General de la ONU con una advertencia a Irán y Lula da Silva cuestionó las guerras en curso. En el plano económico, el riesgo país tocó su nivel más alto en cuatro meses por la caída de los bonos y se traba la renegociación del acuerdo comercial con Estados Unidos, mientras el petróleo cede terreno y el Bitcoin alcanza máximos de nueve meses. En el plano local, la Ciudad negocia postergar la Marcha del Orgullo por la visita del papa León XIV y avanza la puja por suspender las PASO.",
+ "claves": [
+  "Javier Milei llegó a Nueva York y podría reunirse hoy con Donald Trump en una sesión del Escudo de las Américas, antes de su discurso ante la Asamblea General de la ONU.",
+  "Trump abrió su intervención en la ONU con un discurso optimista sobre Estados Unidos y advirtió a Irán: \"Hacemos un trato o los aniquilo definitivamente\".",
+  "El riesgo país llegó a su nivel más alto en cuatro meses por la caída de los bonos soberanos, mientras se traba la renegociación del acuerdo comercial con Estados Unidos.",
+  "La Ciudad negocia con las organizaciones postergar la Marcha del Orgullo por la visita del papa León XIV, prevista para el 8 de noviembre.",
+  "Diego Santilli negocia con tres gobernadores para sumar votos y avanzar con la suspensión de las PASO y la aprobación del Presupuesto 2027.",
+  "El Bitcoin tocó los 87.000 dólares, su nivel más alto en nueve meses, y el petróleo Brent cayó por debajo de los 98 dólares por el guiño de Arabia Saudita para reabrir un oleoducto clave.",
+  "Ya se pueden comprar las entradas para el partido de despedida de Lionel Messi con la Selección, desde las 18 de hoy en DeporTick.",
+  "Jefes de inteligencia europeos advirtieron que Rusia podría intensificar en los próximos meses sus operaciones contra países de la OTAN."
+ ],
+ "cifras": [
+  {
+   "nombre": "Impuestos sobre la renta agrícola (Índice FADA)",
+   "valor": "58,2%",
+   "variacion": "vs. 61,9% en junio",
+   "fuente": "CL-20"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 98,40 por barril",
+   "variacion": "-2%",
+   "fuente": "CR-12"
+  },
+  {
+   "nombre": "Cosecha 2026/27 proyectada",
+   "valor": "157,8 millones de toneladas",
+   "fuente": "CL-15"
+  },
+  {
+   "nombre": "Bitcoin",
+   "valor": "US$ 87.000",
+   "variacion": "+12% semanal",
+   "fuente": "IB-17"
+  },
+  {
+   "nombre": "Boleto de colectivo AMBA (octubre)",
+   "valor": "+3,6%",
+   "fuente": "CR-10"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "Milei llegó a Nueva York y podría reunirse con Trump en el Escudo de las Américas",
+     "resumen": "Javier Milei aterrizó esta mañana en Nueva York, donde reforzará el reclamo argentino por las Islas Malvinas ante la Asamblea General de la ONU. La Casa Blanca confirmó que Donald Trump participará esta tarde de la sesión del Escudo de las Américas, la coalición regional que el propio Trump lanzó en marzo, y ambos mandatarios podrían coincidir allí a las 14 hora de Nueva York, las 15 en la Argentina.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente llega a Estados Unidos y participa del \"Escudo de las Américas\"",
+       "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-llega-estados-unidos-participa-escudo-americas_0_6AVO58Vxlf.html"
+      },
+      {
+       "id": "CR-23",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Milei llegó a Estados Unidos: Trump, Marco Rubio y Escudo de las Américas en agenda",
+       "url": "https://www.cronista.com/economia-politica/milei-en-eeuu-cruce-con-trump-reunion-con-marco-rubio-y-convocatoria-al-consejo-de-la-paz/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/milei-llega-a-nueva-york-y-podria-tener-un-encuentro-con-trump-coincidiran-en-la-sesion-del-escudo-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MGIUJZKBRNCPNFLCUXUW5VDQJY.jpg?auth=284d7b60e013ac04d26fd65ec8e64ade6b8f955f68976abbc5b20577ef7a1239&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:03",
+     "autor": "Guillermo Idiart",
+     "titulo_original": "Milei llegó a Nueva York y podría tener un encuentro con Trump: coincidirán en la sesión del Escudo de las Américas"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "Trump abrió su discurso en la ONU: \"Estados Unidos es más fuerte que nunca\"",
+     "resumen": "El presidente estadounidense comenzó su intervención en la 81° Asamblea General pintando un panorama optimista de su país, en un contexto complicado para su gestión marcado por la guerra en Irán y la caída de su aprobación en política exterior, que según un sondeo de CNN cayó al 29 por ciento.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La aprobación de Trump en política exterior cae a su mínimo, el 29 %, según sondeo de CNN",
+       "url": "https://www.clarin.com/estados-unidos/la-aprobacion-de-trump-en-politica-exterior-cae-a-su-minimo-el-29-segun-sondeo-de-cnn_0_VW7aP5KeSs.html"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/discurso-trump-asamblea-general-estados-unidos-fuerte_0_EX3Eqjayj8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/5NzbDozp4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El discurso de Trump en la Asamblea General: \"Estados Unidos es más fuerte que nunca\""
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Lula abrió el debate general de la ONU con críticas a la falta de acción contra la guerra",
+     "resumen": "El presidente de Brasil, que por tradición encabeza los discursos del foro, afirmó que la ONU \"está fallando en librar a la humanidad del flagelo de la guerra\" y dijo sentir \"indignación\" ante el momento que atraviesa el organismo. En su intervención también apuntó contra Donald Trump y Benjamín Netanyahu por las guerras en curso y las políticas económicas de Estados Unidos.",
+     "relacionadas": [
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Lula da Silva Lula apuntó contra Donald Trump y Benjamín Netanyahu en la ONU y cuestionó la guerra y la economía",
+       "url": "https://www.ambito.com/mundo/lula-da-silva-lula-apunto-contra-donald-trump-y-benjamin-netanyahu-la-onu-y-cuestiono-la-guerra-y-la-economia-n6325223"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/lula-inicia-debate-asamblea-general-onu-fallando-librar-humanidad-flagelo-guerra_0_OMLFQ7u82T.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/SzM_ZdCx9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:14",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lula inicia el debate en la Asamblea General: \"La ONU está fallando en librar a la humanidad del flagelo de la guerra\""
+    },
+    {
+     "id": "CR-02",
+     "titulo": "Santilli negocia con tres gobernadores para avanzar con la suspensión de las PASO",
+     "resumen": "En plena interna con Patricia Bullrich, el jefe de Gabinete continúa las reuniones con mandatarios provinciales para conseguir los votos que el oficialismo necesita en el Congreso, tanto para derogar las primarias abiertas, simultáneas y obligatorias como para aprobar el Presupuesto 2027. Desde el Senado señalan que los acuerdos deben cerrarse directamente con Santilli.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/paso-santilli-negocia-con-tres-gobernadores-clave-y-crece-la-opcion-de-suspenderlas/",
+     "imagen": "https://www.cronista.com/resizer/v2/M6JJW7XEVVAFJHH6RF7MMA37UU.jpg?auth=0da117c79ea9908629c455c4a77f19d4c85a1cbc84b098f0637b3f657d36a61c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:42",
+     "autor": "Amparo Beraza",
+     "titulo_original": "PASO: Santilli negocia con tres gobernadores clave y crece la opción de suspenderlas"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "La Ciudad negocia postergar la Marcha del Orgullo por la visita del papa León XIV",
+     "resumen": "Jorge Macri, jefe de Gobierno porteño, dijo que ya existe un acuerdo con \"la mayoría\" de las organizaciones para cambiar la fecha de la movilización, prevista para el 7 de noviembre, un día antes de la llegada del Papa a la Argentina. Se diferenció así del canciller Pablo Quirno, que un día antes había dicho que la marcha \"está contemplada\" y \"no afecta\" el operativo de seguridad papal.",
+     "relacionadas": [
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Jorge Macri anticipó un acuerdo con los organizadores para posponer la Marcha del Orgullo 2026",
+       "url": "https://www.ambito.com/politica/jorge-macri-anticipo-un-acuerdo-los-organizadores-posponer-la-marcha-del-orgullo-2026-n6325172"
+      },
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Jorge Macri anticipó que hubo un acuerdo para posponer la Marcha del Orgullo por la visita del Papa",
+       "url": "https://www.infobae.com/politica/2026/09/22/jorge-macri-anticipo-que-hubo-un-acuerdo-para-posponer-la-marcha-del-orgullo-por-la-visita-del-papa/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/jorge-macri-revelo-ciudad-negocia-postergar-marcha-orgullo-visita-papa-leon-xiv_0_ecSJVnTq9Z.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/YrfKg4RBk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Jorge Macri reveló que la Ciudad negocia para postergar la Marcha del Orgullo por la visita del papa León XIV"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Monteoliva comparó el operativo por la visita del Papa con el del Mundial 2022",
+     "resumen": "La ministra de Seguridad, Alejandra Monteoliva, adelantó que habrá \"un dispositivo sin precedentes\" para la visita de León XIV a la Argentina, entre el 8 y el 11 de noviembre, dentro de una gira sudamericana de 12 días que también incluye Uruguay y Perú. Anticipó \"alguna incomodidad\" en la circulación y dijo que el operativo involucrará a la Nación, la Ciudad, la provincia de Buenos Aires y Córdoba.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/22/monteoliva-comparo-la-convocatoria-esperada-por-leon-xiv-con-el-mundial-2022-es-un-operativo-nunca-antes-visto/",
+     "imagen": "https://www.infobae.com/resizer/v2/DRBFWKAEFJG5JGC342EVUYPCDE.jpg?auth=d9362908bc033aa750dba9166251440875b5498975538db25373db11122a26c5&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:49",
+     "autor": "",
+     "titulo_original": "Monteoliva comparó la convocatoria esperada por León XIV con el Mundial 2022: “Es un operativo nunca antes visto”"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Paro universitario: en la UBA rige un cronograma escalonado hasta el 22 de octubre",
+     "resumen": "Universidades públicas de todo el país realizaron este martes una nueva jornada de protesta convocada por el Frente Sindical de Universidades Nacionales y la FEDUN, en reclamo de mayor financiamiento, recomposición salarial y cumplimiento de la Ley de Financiamiento Universitario. En la UBA el cese de actividades se extiende de forma escalonada hasta el 22 de octubre, con medidas en facultades, institutos, escuelas y hospitales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/paro-universitario-hoy-universidades-adhieren-clases-dura_0_defYTsMrHa.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/KpYTow_3j_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:14",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Paro universitario hoy: qué universidades adhieren, dónde no hay clases y cuánto dura"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-09",
+     "titulo": "El riesgo país llegó a su nivel más alto en cuatro meses por la caída de los bonos",
+     "resumen": "Los títulos soberanos Globales cotizan con rojos generalizados y llevaron al riesgo país a su nivel máximo en cuatro meses. El ministro de Economía, Luis Caputo, viajó a Nueva York antes de la cumbre de la ONU para intentar calmar la preocupación de los inversores.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-riesgo-pais-salta-su-maximo-nivel-cuatro-meses-una-nueva-caida-los-bonos-dolares-n6325219",
+     "imagen": "https://media.ambito.com/p/ed3ea134414fced99cdd011091c2e9cf/adjuntos/239/imagenes/043/128/0043128775/1200x675/3520x1346:3540x1366/riesgo-pais-mercados.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:28",
+     "autor": "",
+     "titulo_original": "El riesgo país salta a su máximo nivel en cuatro meses ante una nueva caída de los bonos dólares"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Se traba el acuerdo comercial con Estados Unidos: el Gobierno busca renegociar términos",
+     "resumen": "Delegados de la Casa Rosada intentan rediscutir las condiciones del tratado comercial con Washington porque el oficialismo no cuenta con los votos necesarios en el Congreso para ratificarlo, pero el gobierno estadounidense rechaza reabrir la negociación. Para una empresa: una demora en el acuerdo mantiene la incertidumbre sobre aranceles y condiciones de acceso al mercado estadounidense.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/se-traba-el-acuerdo-comercial-eeuu-el-gobierno-busca-renegociar-los-terminos-pero-washington-lo-rechaza-n6325195",
+     "imagen": "https://media.ambito.com/p/1a320630bc4435754f0a7e309ff4ac37/adjuntos/239/imagenes/041/597/0041597249/1200x675/smart/eeuu-argentinajpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:26",
+     "autor": "",
+     "titulo_original": "Se traba el acuerdo comercial con EEUU: el Gobierno busca renegociar los términos, pero Washington lo rechaza"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Caputo enfrenta en Nueva York las dudas de los inversores sobre reservas y el año electoral",
+     "resumen": "El ministro de Economía respondió en Nueva York las inquietudes de Wall Street sobre el nivel de reservas del Banco Central y el escenario político de cara a la campaña electoral de 2027.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464897-caputo-en-nueva-york-inversores-inquietos-por-el-escenario-politico-y-economico",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615396.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:30",
+     "autor": "",
+     "titulo_original": "Caputo en Nueva York: inversores inquietos por el escenario político y económico de Argentina"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "El Gurú del Blue advirtió sobre el dólar y recomendó no comprarlo",
+     "resumen": "El dólar oficial se mantiene en 1.535 pesos para la venta, apenas 5 pesos por arriba del valor con el que inició el mes. El analista Salvador Di Stefano, conocido como el Gurú del Blue, dijo que comprar dólares \"dejó de ser un negocio\" y recomendó alternativas en pesos. Citó al tributarista César Litvin, que estima que la adhesión a Inocencia Fiscal II podría exteriorizar activos por unos US$ 50.000 millones hasta diciembre de 2027. Para una empresa: esa eventual exteriorización podría ampliar la oferta de pesos y dólares disponibles para financiamiento privado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-advertencia-sobre-el-dolar-del-guru-del-blue-cuidado-con/",
+     "imagen": "https://www.cronista.com/resizer/v2/EUXO3YG5GVGW5HTB3AFLTGSFBA.png?auth=0d6d8e71887e7e909f366c33204563ea51459a8e07ec3399be1f92e995fbd5af&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:30",
+     "autor": "",
+     "titulo_original": "La advertencia sobre el dólar del Gurú del Blue: “Cuidado con...”"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "El Bitcoin tocó máximos en nueve meses y la capitalización cripto volvió a los US$ 3 billones",
+     "resumen": "La principal criptomoneda escaló 12% en la última semana y llegó a los US$ 87.000 por primera vez desde enero, impulsada por el anuncio del Tesoro estadounidense de aumentar la recompra de bonos de largo plazo. El interés abierto en futuros perpetuos rozó los US$ 160.000 millones, su mayor nivel desde octubre pasado, lo que eleva el riesgo de movimientos bruscos por apalancamiento.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/22/el-bitcoin-se-disparo-a-maximos-en-nueve-meses-cuales-son-las-causas-y-factores-de-riesgo/",
+     "imagen": "https://www.infobae.com/resizer/v2/72OIHVMAPRDZLHZGCFLE34PJ2Y.JPG?auth=9f2c9bb16b962a59c64c15bc4d5441f9f9f67892a2d8e8ecaaef5a3c53beab54&smart=true&width=900&height=586",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:15",
+     "autor": "",
+     "titulo_original": "El Bitcoin se disparó a máximos en nueve meses: cuáles son las causas y factores de riesgo"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "El petróleo cayó a US$ 98 por el guiño de Arabia Saudita para reabrir un oleoducto clave",
+     "resumen": "El Brent bajó más de 2% y se ubicó por debajo de los US$ 98 el barril, su nivel más bajo en dos semanas, después de que Arabia Saudita señalara que se prepara para reactivar el oleoducto Este-Oeste y reanudar exportaciones desde el mar Rojo. El WTI retrocedió 2,7%, hasta US$ 93,16.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/cae-el-precio-del-petroleo-a-us-98-tras-el-guino-de-arabia-saudita-para-reabrir-el-oleoducto-este-oeste/",
+     "imagen": "https://www.cronista.com/resizer/v2/RBCLCPUDBBF6NOACHBPQ2TINNQ.jpg?auth=6b9a06d5880fc9b1360007f7f80bb5b5df6400d2275332f70f9238b63769161c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:29",
+     "autor": "Malcom Moore",
+     "titulo_original": "Cae el precio del petróleo a u$s 98 tras el guiño de Arabia Saudita para reabrir el oleoducto Este-Oeste"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Argentina proyecta una cosecha récord de 157,8 millones de toneladas para 2026/27",
+     "resumen": "La campaña agrícola generaría exportaciones por US$ 41.500 millones, un volumen 0,5% mayor al del ciclo anterior, con un área sembrada que crecería 0,2%. El producto bruto agrícola aumentaría 6,9% y la recaudación por retenciones, 3,9%. Para una empresa: una mayor liquidación del agro sostiene la oferta de dólares en el mercado cambiario.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/argentina-va-nueva-cosecha-record-estiman-campana-202627-alcanzara-1578-millones-toneladas-generara-exportaciones-us-41500-millones_0_J2zSMKBKCJ.html",
+     "imagen": "https://www.clarin.com/img/2018/01/12/HyNP1cL4G_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentina va por una nueva cosecha récord: estiman que la campaña 2026/27 alcanzará 157,8 millones de toneladas y generará exportaciones por US$ 41.500 millones"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "Grupo L pasó de empresa familiar a 7.200 empleados y prepara su expansión regional",
+     "resumen": "Hace dos décadas Sebastián Lusardi relanzó junto a su padre y su hermano una compañía familiar que atravesaba un momento complejo. Hoy Grupo L emplea a 7.200 personas, opera en 1.700 locaciones y se prepara para dar un nuevo paso con su expansión hacia otros países de la región.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/brandstudio/empresa-familiar-grupo-7200-personas-20-anos-transformaron-grupo-l_0_BbSkFXrDIZ.html",
+     "imagen": "https://www.clarin.com/img/2026/08/20/ILv00OFMe_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "De una empresa familiar a un grupo de 7.200 personas: los 20 años que transformaron a Grupo L"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Los Grobo dejó su negocio de siembras compartidas y busca resurgir con más clientes",
+     "resumen": "La compañía, ahora bajo Victoria Capital, desactivó las siembras compartidas por baja rentabilidad y se concentra en la originación de granos, asociada a la brasileña Amaggi. En concurso de acreedores, redujo su plantel a la mitad, achicó pérdidas y apunta a homologar un plan de pagos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/grobo-dejo-negocio-emblema-busca-resurgir-promesas-duplicar-clientes_0_Tb5HHDnA0N.html",
+     "imagen": "https://www.clarin.com/img/2025/06/01/WQqBnvmhH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:14",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los Grobo dejó su negocio emblema y busca resurgir con promesas de “duplicar clientes”"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "El Inter Miami alcanzó una valuación récord tras el nuevo título de Messi",
+     "resumen": "La franquicia de Florida llegó a una cotización histórica después de consagrarse campeón de la Campeones Cup, en un crecimiento que una plataforma especializada describe como inédito para un club de la MLS.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464764-cuanto-vale-hoy-el-inter-miami-tras-el-nuevo-titulo-de-messi",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625972.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Cuánto vale hoy el Inter Miami tras el nuevo título de Messi"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Una petrolera pampeana entró en concurso preventivo con una deuda de $80.000 millones",
+     "resumen": "La refinadora multiplicó casi 15 veces su pasivo en nueve meses. La caída operativa afecta a acreedores privados, entes estatales y a la red de estaciones de servicio Vöy.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464913-petrolera-pampeana-enfrenta-concurso-preventivo-con-deuda-de-80000-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2018/06/458467.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:38",
+     "autor": "",
+     "titulo_original": "Petrolera pampeana enfrenta concurso preventivo con deuda de $80.000 millones"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Wall Street ve potencial de suba de hasta 53% en apuestas ligadas a la inteligencia artificial",
+     "resumen": "Un informe de Safra proyecta que la fabricante de memorias Micron Technology todavía podría subir 53,5%, pese a haber acumulado un avance de 243% en 2026, mientras Goldman Sachs calcula un potencial de 29,6% para Microsoft. Ambos bancos destacan la creciente inversión en infraestructura de datos que impulsa a los proveedores de memoria para centros de datos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/dos-apuestas-para-invertir-en-ia-una-ofrece-53-y-la-otra-casi-30-de-suba-en-dolares-segun-wall-street/",
+     "imagen": "https://www.cronista.com/resizer/v2/YQKAA5YLTFEVNLKKJDXICIZQRQ.png?auth=10592f57a86c761de04c2e27e5d26abc365af772963228b6c9d42f642b3b97de&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:56",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Dos apuestas para invertir en IA: una ofrece 53% y la otra casi 30% de suba en dólares, según Wall Street"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "Empresas uruguayas alertan por el impacto logístico de las interrupciones en el puerto de Montevideo",
+     "resumen": "Cámaras empresariales de Uruguay reclamaron una respuesta ante los faltantes de insumos, los mayores costos y los problemas de envíos que generan las reiteradas interrupciones en el Puerto de Montevideo. En lo que va de 2026 se contabilizaron 44 días con interrupciones y, en promedio, el 70% de los movimientos de contenedores resultó afectado, en medio de la negociación por un nuevo convenio colectivo. Para una empresa: los conflictos portuarios en Uruguay pueden derivar en mayores costos y demoras para el comercio exterior regional.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/movant/2026/09/22/camaras-empresariales-alertan-por-el-impacto-logistico-de-las-interrupciones-portuarias-en-uruguay/",
+     "imagen": "https://www.infobae.com/resizer/v2/UOSZ3FZ6CFBNXISLQ6FXFTO5DE.jpg?auth=f428c96943e8b914cc2913991afa51c7ee921bffccdcfe47ab8d3fa9d119b4ea&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:05",
+     "autor": "",
+     "titulo_original": "Cámaras empresariales alertan por el impacto logístico de las interrupciones portuarias en Uruguay"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CL-20",
+     "titulo": "De cada $100 que genera una hectárea agrícola, $58,2 se destinan a impuestos",
+     "resumen": "Según el Índice FADA de septiembre, la participación del Estado en la renta agrícola bajó frente al 61,9% de junio, por la suba de los precios de los granos y la fuerte baja de la urea. El relevamiento incluye impuestos nacionales, provinciales y municipales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/informe-100-genera-hectarea-agricola-582-destinan-pago-impuestos-nacionales-provinciales-municipales_0_2SApi8BiqI.html",
+     "imagen": "https://www.clarin.com/img/2025/04/19/ULPUrQmxD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Revelan que de cada $100 que genera una hectárea agrícola, $58,2 se destinan al pago de impuestos nacionales, provinciales y municipales"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Niñeras y cuidadores de adultos tienen un aumento del 1,8% en septiembre",
+     "resumen": "La cuarta categoría del personal de servicio doméstico recibe este mes una suba salarial de 1,8%, a la que se suma la incorporación al básico del 25% de la suma no remunerativa abonada en agosto como bono extraordinario.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-las-nineras-y-cuidadores-de-adultos-en-septiembre-de-2026-nid16092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NJOGJWEM65GPLKOT77FHYVTHPE.jpg?auth=a9d15475f3673edb4481e39c1fda7c63addf9b0d90af679803f8141f502b1be6&smart=true&width=900&height=637",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:17",
+     "autor": "",
+     "titulo_original": "Paritaria con aumento: cuánto cobran las niñeras y cuidadores de adultos en septiembre de 2026"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Los empleados de turismo tienen un aumento del 5,7% hasta octubre",
+     "resumen": "El acuerdo paritario entre Faecys y Faevyt para el trimestre agosto-octubre fija una suba de 5,7% para los trabajadores del sector turismo, a la que se agrega una suma fija de $25.000 pautada para agosto y septiembre y la incorporación paulatina de otra suma no remunerativa.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/paritaria-con-aumento-cuanto-cobran-los-empleados-de-turismo-en-septiembre-de-2026-nid09092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KOCSDT2AQZCXVNHRZGNM4FNBZI.jpg?auth=81a6b7254e2744ea5be006f71301b90b7e108cdee52806e00190945aec39a71f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:17",
+     "autor": "",
+     "titulo_original": "Paritaria con aumento: cuánto cobran los empleados de turismo en septiembre de 2026"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "Las fuerzas de seguridad tendrán un nuevo aumento de octubre a diciembre",
+     "resumen": "El Gobierno actualizó los salarios de las fuerzas federales para el último trimestre del año, con montos diferenciados según jerarquía y adicionales específicos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464894-cuanto-cobran-las-fuerzas-de-seguridad-de-octubre-a-diciembre-tras-el-nuevo-aumento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621228.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:15",
+     "autor": "",
+     "titulo_original": "El monto que cobran las fuerzas de seguridad de octubre a diciembre tras el nuevo aumento"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Los albañiles de la UOCRA cobrarán en octubre la escala vigente desde agosto",
+     "resumen": "Los trabajadores de la construcción percibirán en octubre los salarios correspondientes a septiembre, calculados con la escala salarial vigente desde agosto, con valores que varían según categoría y zona. Para una empresa: el valor por hora del gremio de la construcción es un insumo directo para presupuestar mano de obra en obra y en locales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464851-cuanto-gana-un-albanil-en-octubre-2026-tras-los-acuerdos-de-la-uocra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626050.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:15",
+     "autor": "",
+     "titulo_original": "Cuánto cobra un albañil de la UOCRA en octubre 2026 tras la última escala salarial"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la actividad del lector arranca con un desarrollo inmobiliario y el costo del transporte urbano.",
+   "notas": [
+    {
+     "id": "CR-08",
+     "titulo": "La desarrolladora del edificio de Zaha Hadid en Palermo construye su primer barrio abierto",
+     "resumen": "Grupo Portland, responsable de L'Avenue Libertador, el único edificio de Zaha Hadid Architects en Latinoamérica, avanza con un proyecto de US$ 4 millones en General Rodríguez, provincia de Buenos Aires. La Fraternidad, de 140.000 metros cuadrados, será el primer desarrollo de Portland Terra, la sociedad que conformó con Lotes para Todos, con lotes de 300 a 450 metros cuadrados financiados en hasta 240 cuotas en pesos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-desarrolladora-detras-del-exclusivo-edificio-de-zaha-hadid-en-palermo-construye-su-primer-barrio-abierto/",
+     "imagen": "https://www.cronista.com/resizer/v2/GQIBJH57IBBTZKDJ5PUEZB5T5I.png?auth=e51808c3cb4a1b802bdd6637676bee906623bc7c8bd08f9b9b547a6725687a94&smart=true&width=900&height=720",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:59",
+     "autor": "Micaela Mura",
+     "titulo_original": "La desarrolladora detrás del exclusivo edificio de Zaha Hadid en Palermo construye su primer barrio"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "El boleto de colectivo en el AMBA subirá 3,6% a partir de octubre",
+     "resumen": "Desde el 1 de octubre, las líneas que circulan en la Ciudad y la provincia de Buenos Aires tendrán un aumento automático que toma como referencia el último IPC más dos puntos porcentuales. El valor final varía según si la tarjeta SUBE está registrada y si el usuario tiene Tarifa Social. Para una empresa: el ajuste del transporte público impacta en los costos de logística de última milla y en el gasto de traslado del personal.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/aumenta-el-boleto-de-colectivo-cuanto-costara-en-octubre-para-los-usuarios-del-amba/",
+     "imagen": "https://www.cronista.com/resizer/v2/274XJPJZ3BBG5LPXVQ6GXTAOGA.jpg?auth=5dfe9517278bd7560afe1387adbbc04b526c6df4044319b4de37d775c3ce0eef&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:36",
+     "autor": "",
+     "titulo_original": "Aumenta el boleto de colectivo: cuánto costará en octubre para los usuarios del AMBA"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Una plataforma de comercio electrónico identificó los 35 negocios más rentables para emprender",
+     "resumen": "Shopify relevó alternativas de negocio que van desde tiendas online y software hasta oficios, inteligencia artificial, impresión 3D y servicios con drones, como guía para quienes buscan iniciar un emprendimiento.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464853-cuales-son-los-35-negocios-mas-rentables-segun-una-plataforma-experta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/602070.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:15",
+     "autor": "",
+     "titulo_original": "Los 35 negocios más rentables, según una plataforma experta en comercio electrónico"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "La primavera impulsa el gasto en salidas y reduce el consumo de pantallas",
+     "resumen": "El cambio de estación aumenta el gasto en actividades al aire libre, gastronomía y deporte, con una caída del tiempo frente a las pantallas, según un relevamiento sobre hábitos de consumo estacionales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/menos-pantallas-y-mas-salidas-al-aire-libre-cuanto-impactan-los-gastos-tipicos-y-ocasionales-la-primavera-n6325141",
+     "imagen": "https://media.ambito.com/p/f0b479aa91420e5db779ac72b913bce3/adjuntos/239/imagenes/042/415/0042415487/1200x675/smart/cerveza-artesanal-consumo-cervecerias-1png.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:18",
+     "autor": "",
+     "titulo_original": "Menos pantallas y más salidas al aire libre: cuánto impactan los gastos típicos y ocasionales de la primavera"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "AM-23",
+     "titulo": "Seis imperativos de la inteligencia artificial para CEO y consejos de administración",
+     "resumen": "La rotación récord entre los CEO, la fragmentación geopolítica y una transición hacia la inteligencia artificial de la que la mayoría de las empresas todavía no logra extraer valor exigen un cambio profundo en la forma de liderar y gobernar las organizaciones, según un relevamiento sobre las claves para afrontar esa transformación.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/seis-nuevos-imperativos-la-ia-ceo-y-consejos-administracion-n6325105",
+     "imagen": "https://media.ambito.com/p/5b14382d815bf2e0c5834e748922b230/adjuntos/239/imagenes/043/656/0043656816/1200x675/1057x313:1077x333/inteligencia-artificial-empresas.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:57",
+     "autor": "",
+     "titulo_original": "Seis nuevos imperativos de la IA para CEO y consejos de administración"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "El nuevo desafío del compliance es demostrar que funciona sin frenar el negocio",
+     "resumen": "Las empresas que operan en el país y en América Latina enfrentan una presión regulatoria creciente: la aplicación provisional del acuerdo entre el Mercosur y la Unión Europea vuelve más concreta la incidencia de las exigencias ambientales, de trazabilidad y de cumplimiento sobre el acceso a determinados mercados, mientras Chile se prepara para un nuevo régimen de protección de datos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-nuevo-desafio-del-compliance-demostrar-que-funciona-sin-frenar-el-negocio/",
+     "imagen": "https://www.cronista.com/resizer/v2/RB7DR5BNONGRDOXWO6S7MEFHEM.png?auth=fd84cb87c4cdd4e796fa9181f265d0751e66127b94d9bbf82da26c8dc4bd4ac3&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:10",
+     "autor": "Lucía Acosta",
+     "titulo_original": "El nuevo desafío del compliance: demostrar que funciona sin frenar el negocio"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Las empresas repartieron dividendos por US$ 868 millones en el primer semestre",
+     "resumen": "Los pagos cayeron 6,8% interanual en el semestre, aunque se aceleraron con fuerza entre abril y junio.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/las-empresas-repartieron-dividendos-us868-millones-el-primer-semestre-cuales-concentraron-los-pagos-n6325194",
+     "imagen": "https://media.ambito.com/p/263d87164cb63d13ba27900d9963c73c/adjuntos/239/imagenes/042/241/0042241650/inversiones-dividendos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:45",
+     "autor": "",
+     "titulo_original": "Las empresas repartieron dividendos por u$s868 millones en el primer semestre: ¿cuáles concentraron los pagos?"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-21",
+     "titulo": "Guterres abrió la Asamblea de la ONU con una alerta sobre la inteligencia artificial",
+     "resumen": "El secretario general de la ONU, António Guterres, advirtió sobre la acelerada cesión de poder de los gobiernos hacia las grandes empresas tecnológicas y las máquinas, y dijo que \"la inteligencia artificial ha tomado por sorpresa incluso a quienes la alumbraron\". También alertó que las armas letales autónomas \"ya son una realidad militar\" y sugirió cambios en el Consejo de Seguridad.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/22/antonio-guterres-abrio-la-asamblea-de-la-onu-con-una-alerta-sobre-la-ia-y-un-pedido-de-paz-en-medio-oriente-ya-basta/",
+     "imagen": "https://www.infobae.com/resizer/v2/EQIREP7AHBAPLETTPUFB3S3YRM.JPG?auth=d9dc917bba51322e68b5342e3691055d8bcfc5cbc14e30e2785c15d176bd7671&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:34",
+     "autor": "",
+     "titulo_original": "António Guterres abrió la Asamblea de la ONU con una alerta sobre la IA y un pedido de paz en Medio Oriente: “Ya basta”"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "Jefes de inteligencia europeos alertan que Rusia podría intensificar sus hostilidades contra la OTAN",
+     "resumen": "Altos responsables de inteligencia de Europa advirtieron que Moscú podría intensificar en los próximos meses sus operaciones contra países de la OTAN, con sabotajes, ataques con drones y provocaciones para poner a prueba la respuesta de la alianza. El jefe de inteligencia checo, Michal Koudelka, no descartó una incursión limitada en territorio fronterizo con Rusia, aunque los servicios descartan por ahora una ofensiva convencional inminente.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/jefes-de-inteligencia-europeos-alertan-que-rusia-podria-intensificar-en-cuestion-de-meses-sus-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DGXNBBN5NRBJLCEAWESRTDEQPA.JPG?auth=d40165bc118ff1697889adf31ae125e465fea160dc81cddae3fc6d4c04bf316c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "Jefes de inteligencia europeos alertan que Rusia podría intensificar “en cuestión de meses” sus hostilidades contra la OTAN"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "Trump advirtió a Irán en la ONU: \"Hacemos un trato o los aniquilo definitivamente\"",
+     "resumen": "El presidente de Estados Unidos amenazó al país de Medio Oriente durante su discurso en la Asamblea General y aseguró que su propuesta es \"reconstruir\" la república islámica.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/donald-trump-la-asamblea-general-la-onu-hacemos-un-trato-iran-o-los-aniquilo-definitivamente-n6325239",
+     "imagen": "https://media.ambito.com/p/610323dd2f1306515d57d211e6274aa2/adjuntos/239/imagenes/043/657/0043657352/1200x675/757x265:777x285/captura-trump-onu-2026.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:52",
+     "autor": "",
+     "titulo_original": "Donald Trump en la Asamblea General de la ONU: \"Hacemos un trato con Irán o los aniquilo definitivamente\""
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Rubio no descartó un diálogo de Estados Unidos con Irán en Nueva York",
+     "resumen": "El secretario de Estado dijo que Washington está dispuesto a reunirse con Irán en el marco de la Asamblea General, aunque aclaró que no hay un encuentro programado y condicionó cualquier contacto a que ayude a impedir que Teherán obtenga armas nucleares. Según Rubio, la preocupación por el programa nuclear iraní también la comparten los países del golfo Pérsico. La delegación iraní, por su parte, dijo estar autorizada a reanudar el diálogo con Estados Unidos.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El régimen de Irán dijo que su delegación en la Asamblea de la ONU está autorizada a reiniciar el diálogo con Estados Unidos",
+       "url": "https://www.infobae.com/america/mundo/2026/09/22/el-regimen-de-iran-dijo-que-su-delegacion-en-la-asamblea-de-la-onu-esta-autorizada-a-reiniciar-el-dialogo-con-estados-unidos/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/22/rubio-no-descarto-un-dialogo-de-eeuu-con-iran-en-nueva-york-el-presidente-dijo-que-esta-abierto-a-reunirse-con-todos/",
+     "imagen": "https://www.infobae.com/resizer/v2/NNZV3XHLSNCZZDLS32SSFG2KII.JPG?auth=31a1ee3cf30304fcaa102e5b70c14a272e2f80b5de8c69ed7ea7d7643d03be36&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:28",
+     "autor": "",
+     "titulo_original": "Rubio no descartó un diálogo de EEUU con Irán en Nueva York: “El presidente dijo que está abierto a reunirse con todos”"
+    },
+    {
+     "id": "LN-04",
+     "titulo": "Un joven marroquí de 17 años viajó aferrado al chasis de un micro desde Ceuta",
+     "resumen": "El polizón recorrió un largo trayecto sujeto a la parte inferior del autobús del club de fútbol Valladolid tras un partido en Ceuta, y llegó en estado físico deplorable tras pedir ayuda. El episodio volvió a exponer la crisis migratoria que afecta las costas españolas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/la-increible-y-triste-historia-del-joven-marroqui-que-viajo-debajo-del-micro-de-valladolid-a-su-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VFDGTRHM2NC4HAKHKLSDGMMJLY.jpg?auth=127c771f1bcfde9e656ad27a1b160d8bbff94b25236c4ce8f38b8ce6f97886d3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "La increíble y triste historia del joven marroquí que viajó debajo del micro de Valladolid a su regreso desde Ceuta"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-21",
+     "titulo": "Ya se pueden comprar las entradas para el retiro de Messi de la Selección",
+     "resumen": "La AFA confirmó que la venta se habilita este martes a las 18 a través de la plataforma DeporTick, con un límite de cuatro entradas generales por usuario y registro previo obligatorio en el sitio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/conseguir-entradas-retiro-messi-arranca-venta-precios-comprar-saber_0_mitFRPqKOU.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/_AOhiaa4c_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:29",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cómo conseguir entradas para el retiro de Messi: cuándo arranca la venta, precios, cómo comprar y todo lo que hay que saber"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Crisis en la FIFA: Infantino abre la puerta a una revisión independiente de la gobernanza",
+     "resumen": "El presidente de la FIFA propuso una evaluación externa e independiente del sistema de gobernanza del organismo, después del fracaso del proyecto FIFA Forward Enterprise y de las críticas de varias asociaciones miembro al intento de privatizar el Mundial. Infantino también defendió la búsqueda de nuevas fuentes de ingresos mientras prepara su candidatura a un cuarto mandato.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/crisis-fifa-infantino-abre-puerta-revision-independiente-rebelion-genero-proyecto-privatizar-mundial_0_474rGZENdX.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/cnOFcoTOg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crisis en la FIFA: Infantino abre la puerta a una \"revisión independiente\" tras la rebelión que generó el proyecto para privatizar el Mundial"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Brasil limitará el cupo de extranjeros y podría achicar el mercado para los argentinos",
+     "resumen": "La CBF dispuso reducir paulatinamente el cupo de futbolistas extranjeros en el Brasileirão a partir de 2027 hasta fijar un tope de cinco por partido en 2030. Argentina es el país que más futbolistas exporta al torneo brasileño: solo dos de los 20 equipos no cuentan con ningún jugador albiceleste.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Brasil realiza una histórica medida para limitar a los extranjeros y fortalecer su selección",
+       "url": "https://www.ambito.com/deportes/brasil-realiza-una-historica-medida-limitar-los-extranjeros-y-fortalecer-su-seleccion-n6325205"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/achica-mercado-argentinos-brasil-limitara-cupo-futbolistas-extranjeros_0_BpzvMZoCdY.html",
+     "imagen": "https://www.clarin.com/img/2026/05/28/_37TjPpw0_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:09",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "¿Se achica un mercado para los argentinos?: Brasil limitará el cupo de futbolistas extranjeros"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Mbappé reveló a quién le gustaría dedicarle el Balón de Oro antes de ganarlo",
+     "resumen": "El delantero francés, uno de los grandes candidatos al premio, se mostró confiado en sus chances y reconoció públicamente sus raíces africanas al hablar de una eventual dedicatoria.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/antes-ganarlo-mbappe-revelo-quien-le-gustaria-dedicarle-el-balon-oro-n6325197",
+     "imagen": "https://media.ambito.com/p/bd1e1c015d3bcabc1bb9f43d74c9699f/adjuntos/239/imagenes/043/526/0043526922/mbappe-gol.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:53",
+     "autor": "",
+     "titulo_original": "Antes de ganarlo, Mbappé reveló a quién le gustaría dedicarle el Balón de Oro"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Detuvieron a un entrenador de hockey acusado de abuso sexual a jugadoras adolescentes",
+     "resumen": "La Justicia de Bahía Blanca ordenó la captura del entrenador tras la denuncia de una jugadora de Las Leonas por abuso a jugadoras menores de edad en Monte Hermoso.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/detuvieron-un-entrenador-hockey-presunto-abuso-sexual-jugadoras-adolescentes-una-leona-lo-denuncio-n6325175",
+     "imagen": "https://media.ambito.com/p/8872e71de54b9ac9fd02e80456861e0a/adjuntos/239/imagenes/043/657/0043657120/asensio-abusador.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:51",
+     "autor": "",
+     "titulo_original": "Detuvieron a un entrenador de hockey por presunto abuso sexual a jugadoras adolescentes: una Leona lo denunció"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "Franco Colapinto habló tras el cruce con Pierre Gasly en Alpine",
+     "resumen": "El piloto argentino se refirió por primera vez al episodio en pista con su compañero francés y buscó bajarle el tono a la polémica, en la previa del Gran Premio de Azerbaiyán. Además, contó detalles del sueldo que cobró en su primer año en la Fórmula 1 y por qué perdió dinero durante su paso por Williams.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Franco Colapinto contó cuál fue su sueldo el primer año en la Fórmula 1 y reveló por qué perdió plata en Williams",
+       "url": "https://www.infobae.com/deportes/2026/09/22/franco-colapinto-conto-cual-fue-su-sueldo-el-primer-ano-en-la-formula-1-y-revelo-por-que-perdio-plata-en-williams/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-rompio-el-silencio-el-cruce-su-companero-alpine-que-dijo-n6325185",
+     "imagen": "https://media.ambito.com/p/fa5d5a7a2e3564ef137a593da1fd8497/adjuntos/239/imagenes/043/321/0043321312/colapinto-gasly-alpine-joe-portlockgetty-images.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:54",
+     "autor": "",
+     "titulo_original": "Franco Colapinto rompió el silencio tras el cruce con su compañero de Alpine: qué dijo"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-24",
+     "titulo": "Vuelve el tren a Santa Cruz con un proyecto productivo, turístico y social",
+     "resumen": "La provincia sumó una locomotora para reactivar el servicio ferroviario de la zona norte, con el objetivo de abaratar fletes, sumar pasajeros y potenciar el turismo regional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464879-vuelve-tren-a-santa-cruz-con-logistica-como-su-mayor-desafio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626061.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:10",
+     "autor": "",
+     "titulo_original": "Vuelve el tren a Santa Cruz con un proyecto productivo, turístico y social"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-13",
+     "titulo": "La desocupación juvenil duplica el promedio general y crece el trabajo por cuenta propia",
+     "resumen": "El mercado laboral argentino combina una desocupación general de 7,9%, según el INDEC, con obstáculos más pronunciados para los jóvenes y un aumento del trabajo independiente que en muchos casos no incluye aportes ni cobertura de salud. El relevamiento del segundo trimestre, sobre más de 30 aglomerados urbanos, mostró además más chicos sin apto médico u obra social en clubes deportivos, según una analista consultada.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/22/la-desocupacion-juvenil-duplica-el-promedio-general-y-crece-el-trabajo-por-cuenta-propia/",
+     "imagen": "https://www.infobae.com/resizer/v2/6DR6RVSNWJEP3ADEY6TYMCSGWY.jpg?auth=e3bff111bd2ee76afb6053c87f8e4404c41c384c6246d20902ef2ce52c0d5ed0&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:27",
+     "autor": "Brisa Bujakiewicz",
+     "titulo_original": "La desocupación juvenil duplica el promedio general y crece el trabajo por cuenta propia"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Un choque de camionetas en Misiones dejó dos muertos y cinco heridos",
+     "resumen": "Un adolescente de 14 años que manejaba una Volkswagen Amarok embistió a otra camioneta que esperaba para incorporarse a la Ruta Nacional 14, a la altura de San Vicente. En el impacto murieron el joven conductor y un acompañante del otro vehículo, y otras cinco personas resultaron heridas, dos de ellas en terapia intensiva.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/21/brutal-choque-en-misiones-un-adolescente-manejaba-una-camioneta-y-provoco-un-accidente-fatal-que-dejo-dos-muertos/",
+     "imagen": "https://www.infobae.com/resizer/v2/6MRR2GTKRJB5RMIUAJI2KXMIXM.webp?auth=3f968d579d90820667e01e8b82a594f93e65fd862ca833e484cf1cac8597b406&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:16",
+     "autor": "",
+     "titulo_original": "Choque fatal de camionetas en Misiones: un adolescente de 14 años mató a un joven de 18 y luego murió por las heridas del impacto"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Buscan a dos kayakistas desaparecidos en Santa Teresita",
+     "resumen": "Antes de perder comunicación con tierra, uno de los navegantes alertó a las autoridades sobre las dificultades climáticas que atravesaban. Prefectura despliega un operativo de búsqueda para dar con las dos embarcaciones, una modelo Karku de color verde y otra modelo Escualo de color turquesa.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Buscan a dos kayakistas desaparecidos en Santa Teresita: ingresaron al mar y no pudieron volver",
+       "url": "https://www.lanacion.com.ar/sociedad/buscan-a-dos-kayakistas-desaparecidos-en-santa-teresita-ingresaron-al-mar-y-no-pudieron-volver-nid22092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/santa-teresita-desesperada-busqueda-personas-desaparecieron-andaban-kayak_0_K5yS3sF3GI.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/s6cBczg6B_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Santa Teresita: desesperada búsqueda de dos personas que desaparecieron mientras andaban en kayak"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Los Testigos de Jehová permitirán transfusiones de sangre con restricciones",
+     "resumen": "La organización religiosa autorizará a sus miembros a donar y recibir glóbulos rojos, glóbulos blancos, plasma y plaquetas, en un cambio histórico respecto de su doctrina tradicional. La decisión responde a que, según la propia organización, los avances médicos plantean \"muchas preguntas\".",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/cambio-historico-testigos-jehova-podran-aceptar-transfusiones-ciertas-restricciones_0_b5NuS32dCR.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/sOVYjGL8V_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cambio histórico en los Testigos de Jehová: podrán aceptar transfusiones, pero con ciertas restricciones"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen del mediodía del martes veintidós de septiembre. El dólar oficial cotiza en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cincuenta y cinco pesos, el riesgo país se mantiene en quinientos treinta y tres puntos básicos y el oro cotiza en cuatro mil trescientos sesenta y cinco dólares la onza. La jornada está marcada por la llegada de Javier Milei a Nueva York, donde podría reunirse con Donald Trump, el discurso del presidente estadounidense ante la Asamblea General de las Naciones Unidas con una advertencia a Irán, y una nueva suba del riesgo país que llegó a su nivel más alto en cuatro meses en medio de la caída de los bonos soberanos.\n\nEn política, Javier Milei aterrizó esta mañana en Nueva York, donde reforzará el reclamo argentino por las Islas Malvinas ante la Asamblea General de la ONU. La Casa Blanca confirmó que Donald Trump participará esta tarde de una sesión del Escudo de las Américas, y ambos mandatarios podrían coincidir allí a las tres de la tarde hora argentina. En su discurso ante el plenario, Trump pintó un panorama optimista de Estados Unidos, en un contexto complicado por la guerra en Irán y la caída de su aprobación en política exterior. El presidente de Brasil, Lula da Silva, que por tradición abre el debate general, dijo sentir indignación por el momento que atraviesa la ONU y apuntó contra Trump y contra Netanyahu por las guerras en curso. En el plano local, el jefe de Gabinete, Diego Santilli, negocia con tres gobernadores clave para sumar los votos que el oficialismo necesita para derogar las PASO y aprobar el Presupuesto dos mil veintisiete. El jefe de Gobierno porteño, Jorge Macri, dijo que ya existe un acuerdo con la mayoría de las organizaciones para postergar la Marcha del Orgullo, prevista para el siete de noviembre, un día antes de la llegada del papa León catorce. La ministra de Seguridad, Alejandra Monteoliva, adelantó que el operativo será comparable al del Mundial dos mil veintidós. Y las universidades públicas realizaron una nueva jornada de paro, con un cronograma escalonado en la UBA que se extiende hasta el veintidós de octubre, en reclamo de mayor financiamiento.\n\nEn economía y mercados, el riesgo país llegó a su nivel más alto en cuatro meses por una nueva caída de los bonos soberanos, mientras el ministro Luis Caputo viajó a Nueva York para calmar a los inversores. Delegados de la Casa Rosada buscan renegociar los términos del acuerdo comercial con Estados Unidos porque el oficialismo no cuenta con los votos para ratificarlo en el Congreso, aunque Washington rechaza reabrir la discusión. El analista Salvador Di Stefano, el Gurú del Blue, dijo que comprar dólares dejó de ser un negocio y advirtió que la adhesión a Inocencia Fiscal podría exteriorizar activos por unos cincuenta mil millones de dólares hasta fines de dos mil veintisiete. El Bitcoin escaló doce por ciento en la semana y tocó los ochenta y siete mil dólares, su nivel más alto desde enero, mientras el petróleo Brent cayó por debajo de los noventa y ocho dólares por barril luego de que Arabia Saudita señalara que prepara la reactivación de un oleoducto clave. Y la Argentina proyecta una cosecha récord de ciento cincuenta y siete coma ocho millones de toneladas, que generaría exportaciones por cuarenta y un mil quinientos millones de dólares.\n\nEn negocios y empresas, Grupo L, que hace veinte años era una compañía familiar, hoy emplea a siete mil doscientas personas en mil setecientas locaciones y prepara su expansión regional. Los Grobo dejó atrás su negocio de siembras compartidas por la baja rentabilidad y busca resurgir con más clientes, en el marco de su concurso de acreedores. El Inter Miami alcanzó una valuación récord tras el título de Messi en la Campeones Cup, y una petrolera pampeana entró en concurso preventivo con una deuda de ochenta mil millones de pesos, tras multiplicar casi quince veces su pasivo en nueve meses. Wall Street ve potencial de suba de hasta cincuenta y tres por ciento en fabricantes de memorias ligados a la inteligencia artificial. Y cámaras empresariales de Uruguay alertaron por el impacto logístico de las interrupciones en el puerto de Montevideo, que ya sumaron cuarenta y cuatro días de conflicto este año.\n\nEn impuestos, laboral y normativa, un relevamiento del Índice FADA mostró que de cada cien pesos que genera una hectárea agrícola, cincuenta y ocho coma dos se destinan al pago de impuestos nacionales, provinciales y municipales. Hay paritarias con aumento para septiembre: las niñeras y cuidadores de adultos tendrán una suba del uno coma ocho por ciento, y los empleados de turismo, del cinco coma siete por ciento más una suma fija de veinticinco mil pesos. El Gobierno también actualizó los salarios de las fuerzas de seguridad, y los albañiles de la UOCRA cobrarán en octubre la escala vigente desde agosto.\n\nEn consumo, construcción y retail, Grupo Portland, la desarrolladora del edificio de Zaha Hadid en Palermo, avanza con su primer barrio abierto en General Rodríguez, un proyecto de cuatro millones de dólares con lotes financiados en hasta doscientas cuarenta cuotas en pesos. El boleto de colectivo en el AMBA subirá tres coma seis por ciento desde octubre, un ajuste que impacta en los costos de logística y de traslado del personal. Una plataforma de comercio electrónico identificó los treinta y cinco negocios más rentables para emprender, desde tiendas online hasta impresión tridimensional y servicios con drones. Y la primavera impulsa el gasto en salidas al aire libre, gastronomía y deporte, con una caída del tiempo frente a las pantallas.\n\nEn management y finanzas corporativas, un relevamiento identificó seis imperativos de la inteligencia artificial para los directorios, en un contexto de rotación récord entre ejecutivos y fragmentación geopolítica. El nuevo desafío del compliance es demostrar que funciona sin frenar el negocio, en medio de la creciente presión regulatoria ambiental y de trazabilidad del acuerdo entre el Mercosur y la Unión Europea. Y las empresas argentinas repartieron dividendos por ochocientos sesenta y ocho millones de dólares en el primer semestre, con una caída del seis coma ocho por ciento interanual.\n\nEn el mundo, António Guterres abrió la Asamblea General con una alerta sobre la inteligencia artificial y dijo que la tecnología tomó por sorpresa incluso a quienes la crearon. Jefes de inteligencia europeos advirtieron que Rusia podría intensificar sus operaciones contra países de la OTAN, con sabotajes y ataques con drones. Trump amenazó a Irán en su discurso y dijo que Estados Unidos hace un trato con el país o lo aniquila definitivamente, mientras el secretario de Estado, Marco Rubio, no descartó un diálogo directo en Nueva York y la propia delegación iraní dijo estar autorizada a reanudarlo. Y un joven marroquí de diecisiete años viajó aferrado al chasis de un micro del club Valladolid desde Ceuta, en un episodio que volvió a exponer la crisis migratoria en las costas españolas.\n\nEn deportes, ya se pueden comprar las entradas para el partido de despedida de Lionel Messi con la Selección, con la venta habilitada desde las seis de la tarde de hoy en la plataforma DeporTick. La FIFA atraviesa una crisis interna y su presidente, Gianni Infantino, abrió la puerta a una revisión independiente de la gobernanza del organismo. Brasil limitará de forma paulatina el cupo de futbolistas extranjeros en su liga, una medida que podría achicar el mercado para los jugadores argentinos. Kylian Mbappé, candidato al Balón de Oro, reveló a quién le gustaría dedicarle el premio antes de ganarlo, y la Justicia de Bahía Blanca detuvo a un entrenador de hockey acusado de abuso sexual a jugadoras adolescentes. Franco Colapinto habló por primera vez del cruce con su compañero Pierre Gasly en Alpine y buscó bajarle el tono a la polémica, en la previa del Gran Premio de Azerbaiyán, además de contar detalles del sueldo que cobró en su primer año en la Fórmula 1.\n\nPara cerrar, en turismo, la provincia de Santa Cruz suma una locomotora para reactivar el tren de su zona norte, con un proyecto que busca abaratar fletes, sumar pasajeros y potenciar el turismo regional.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Le Grand Continent no publicó notas nuevas en esta corrida (0 de las 3 a 5 habituales), por lo que se omitió la sección Europa y geopolítica. En turismo el material fue escaso: solo apareció una nota con destino argentino (Santa Cruz), sin otras opciones para completar la sección. No se detectaron menciones a Club Atlético Tigre en el material crudo. Se evitó repetir los temas ya cubiertos en la edición de la mañana (Malvinas, fallo penal juvenil, Bahía Blanca, MSCI-BYMA, ARCA Ganancias, Decathlon/Stella McCartney, Trump TV, Asamblea de la ONU en general, Independiente Rivadavia, medallero de los Juegos Suramericanos, Azcuénaga) salvo cuando hubo novedades concretas.",
+ "slug": "2026-09-22-mediodia",
+ "generado_ba": "22/09/2026 15:18"
+}
