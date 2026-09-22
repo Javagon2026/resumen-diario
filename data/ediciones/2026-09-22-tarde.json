@@ -1,0 +1,904 @@
+{
+ "fecha": "2026-09-22",
+ "edicion": "tarde",
+ "titulo": "Milei junto a Trump en la ONU y el riesgo país en 555 puntos",
+ "apertura": "La jornada en Nueva York estuvo marcada por el encuentro de Javier Milei con Donald Trump en la sesión del Escudo de las Américas, mientras el Gobierno protestó ante el Reino Unido por la extensión de licencias petroleras en Malvinas y avanza con un proyecto de ley que busca reemplazar la normativa vigente sobre las islas. En el plano económico, el riesgo país superó los 550 puntos por primera vez desde mayo, el dólar blue cortó una racha de calma y las reservas del Banco Central bajaron a 49.695 millones de dólares. En el plano judicial y político local, la Cámara confirmó los procesamientos en la causa Andis y el Gobierno designó a Pablo Di Liscia al frente de la Secretaría de Discapacidad.",
+ "claves": [
+  "Javier Milei participó del encuentro del Escudo de las Américas en la ONU y recibió otro respaldo de Donald Trump: \"Tuvimos una gran victoria en Argentina\".",
+  "El riesgo país subió por sexta rueda consecutiva y superó los 550 puntos por primera vez desde mayo, hasta los 555 puntos según JP Morgan.",
+  "El dólar blue cortó una racha sin cambios y superó los 1.550 pesos, mientras el mayorista cerró en 1.514 pesos y las reservas del Banco Central cayeron a 49.695 millones de dólares.",
+  "La Cancillería presentó una protesta formal ante el Reino Unido por la extensión de licencias petroleras en Malvinas, en paralelo al proyecto de ley que el Gobierno prepara sobre la soberanía de las islas.",
+  "La Cámara Federal confirmó los procesamientos de Diego Spagnuolo y otras 18 personas en la causa Andis, aunque redujo los montos de los embargos.",
+  "El Gobierno designó a Pablo Di Liscia como nuevo secretario de Discapacidad, un día después de la renuncia de Alejandro Vilches.",
+  "El huracán Polo alcanzó la categoría 5 frente a las costas de México, con vientos de 285 kilómetros por hora, y obligó a suspender clases en zonas costeras.",
+  "Los Leones se consagraron campeones de hockey en los Juegos Suramericanos al vencer 3 a 1 a Chile, con la mira puesta en los Juegos Olímpicos de Los Ángeles 2028."
+ ],
+ "cifras": [
+  {
+   "nombre": "Superávit energético (ocho meses)",
+   "valor": "US$ 7.800 millones",
+   "fuente": "IP-05"
+  },
+  {
+   "nombre": "Índice de salarios INDEC (julio)",
+   "valor": "+2,8% mensual",
+   "variacion": "+21,8% acumulado en 2026",
+   "fuente": "CR-18"
+  },
+  {
+   "nombre": "Exportaciones del agro (ocho meses)",
+   "valor": "US$ 37.525 millones",
+   "variacion": "+13% i.a.",
+   "fuente": "CL-12"
+  },
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "US$ 49.695 millones",
+   "fuente": "AM-20"
+  },
+  {
+   "nombre": "Morosidad del crédito a familias (julio)",
+   "valor": "12,9%",
+   "fuente": "CR-12"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-05",
+     "titulo": "El Gobierno define la letra fina del proyecto de ley sobre Malvinas",
+     "resumen": "En la Casa Rosada evalúan las diferencias entre el proyecto que reemplazaría a la ley 26.659, sancionada en 2011, y la normativa vigente, además de definir la autoridad de aplicación, que sería la Cancillería. El debate en la Cámara de Diputados comenzaría el 30 de septiembre. El Gobierno adelantó que buscará actuar con firmeza contra las empresas que operen \"ilegalmente\" en las islas si la nueva ley se aprueba.",
+     "relacionadas": [
+      {
+       "id": "CL-08",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "En medio de las críticas al proyecto oficial, el Senado debate la creación de una comisión por Malvinas",
+       "url": "https://www.clarin.com/politica/medio-criticas-proyecto-oficial-senado-debate-creacion-comision-malvinas_0_D30PiWeweC.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/la-letra-fina-del-proyecto-malvinas-el-gobierno-pondera-las-diferencias-con-la-ley-actual-la-forma-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MRLRRQ62OFE7VHFPISAUPTMG3Q.JPG?auth=f67639b591484e829aea37c609182819c08b4f2733823e6f03691c15bcd8eedb&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "Paula Rossi",
+     "titulo_original": "La letra fina del proyecto Malvinas: el Gobierno pondera las diferencias con la ley actual, la forma de aplicación y los “derribos”"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "Cancillería protestó ante el Reino Unido por la extensión de licencias petroleras en Malvinas",
+     "resumen": "El Gobierno presentó una nota formal ante la embajada británica por la decisión de Londres de extender cinco años las licencias de las petroleras que operan en las islas y por la aprobación de una participación de Navitas Petroleum en el bloque PL001. La Cancillería calificó la medida como \"violatoria de la soberanía\" argentina.",
+     "relacionadas": [
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Gobierno protestó contra el Reino Unido por la extensión de licencias petroleras por 5 años en Malvinas",
+       "url": "https://www.cronista.com/economia-politica/el-gobierno-cuestiono-al-reino-unido-por-la-extension-de-licencias-petroleras-por-5-anos-en-malvinas/"
+      },
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Malvinas: el Gobierno presentó una protesta formal ante el Reino Unido por la extensión de licencias petroleras",
+       "url": "https://www.ambito.com/politica/el-gobierno-presento-una-protesta-formal-el-reino-unido-la-extension-licencias-petroleras-malvinas-n6325436"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/cancilleria-presento-protesta-formal-reino-unido-extension-licencias-petroleras-malvinas_0_hmOcDVWMoN.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/NJoCcqXnz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cancillería presentó una protesta formal contra el Reino Unido por la extensión de las licencias a las petroleras en Malvinas"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "La Cámara confirmó los procesamientos en la causa Andis",
+     "resumen": "La Cámara Federal confirmó los procesamientos de Diego Spagnuolo, extitular de la Agencia Nacional de Discapacidad, y de otras 18 personas investigadas por simulaciones de competencia entre droguerías, sobreprecios y eventuales retornos. Entre los confirmados figuran Daniel Garbellini, Miguel Ángel Calvete y Pablo Atchabahian, procesados como jefes de una asociación ilícita, aunque el tribunal redujo los embargos a cifras de hasta más de 35.000 millones de pesos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/causa-andis-la-camara-confirmo-los-procesamientos-de-spagnuolo-y-otras-18-personas-y-avanza-la-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MRDTM6BSX5FODOROSAO5HA6CLQ.jpeg?auth=3818c0d360a51311b2f1249dac38cf45c1a951062e3e1f64320695280714032f&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:27",
+     "autor": "Federico González del Solar",
+     "titulo_original": "Causa Andis: la Cámara confirmó los procesamientos de Spagnuolo y otras 18 personas, y avanza la investigación"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "El Gobierno designó a Pablo Di Liscia como nuevo secretario de Discapacidad",
+     "resumen": "Di Liscia reemplaza a Alejandro Vilches, que renunció un día antes en medio de la polémica por fondos en el sector. Fue presidente del IOMA bonaerense entre 2017 y 2019 y es un hombre de confianza del ministro de Economía, Luis Caputo.",
+     "relacionadas": [
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Gobierno designó a Pablo Di Liscia como nuevo secretario nacional de Discapacidad",
+       "url": "https://www.cronista.com/economia-politica/el-gobierno-designo-a-pablo-di-liscia-como-nuevo-secretario-nacional-de-discapacidad/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno designó a Pablo Di Liscia como nuevo secretario de Discapacidad",
+       "url": "https://www.ambito.com/politica/el-gobierno-designo-pablo-di-liscia-como-nuevo-secretario-discapacidad-n6325395"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno designó a un exfuncionario del PRO al frente de la secretaría de Discapacidad",
+       "url": "https://www.iprofesional.com/politica/464961-el-gobierno-designo-a-un-exfuncionario-del-pro-al-frente-de-la-secretaria-de-discapacidad"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/gobierno-anuncio-pablo-di-liscia-nuevo-secretario-discapacidad-salida-alejandro-vilches_0_akQahVJZBG.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/tG5F8SErL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:14",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno de Milei anunció que Pablo Di Liscia es el nuevo secretario de Discapacidad tras la salida de Alejandro Vilches"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Jorge Macri activó el proceso para destituir a la jueza que declaró inconstitucional el régimen penal juvenil",
+     "resumen": "Con el respaldo de La Libertad Avanza, el ministro de Justicia porteño, Gabino Tapia, presentó ante el Consejo de la Magistratura un pedido para iniciar el jurado de enjuiciamiento contra la jueza Laura De Marinis. El Partido Justicialista cuestionó la denuncia y descartó que el proceso de remoción prospere.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/con-el-apoyo-de-la-libertad-avanza-jorge-macri-activa-un-proceso-para-destituir-a-la-jueza-que-evito-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VJ3P6MDKGRFODHWKGUNAXF56IM.png?auth=6f1e9f74b28541113d1dcb56cda0f24cfc584ad8fa18ffdc22252f3a3cb26b57&smart=true&width=880&height=586",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:33",
+     "autor": "Denise Chmois",
+     "titulo_original": "Con el apoyo de La Libertad Avanza, Jorge Macri activa un proceso para destituir a la jueza que evitó aplicar el régimen penal juvenil"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "El oficialismo busca sesionar el jueves en el Senado para tratar la reforma del BCRA y Zonas Frías",
+     "resumen": "La bancada de La Libertad Avanza confía en reunir el número de presentes y votos necesarios para aprobar la modificación de la Carta Orgánica del Banco Central y los cambios en la ley de zona fría, en base a compromisos de gobernadores gestionados por Diego Santilli. Este miércoles habrá una reunión de Labor Parlamentaria previa a la sesión.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/22/el-oficialismo-busca-sesionar-el-jueves-en-el-senado-para-tratar-la-reforma-del-bcra-y-zonas-frias/",
+     "imagen": "https://www.infobae.com/resizer/v2/LBXH4OFDDVCRVJEKK3CTRNU6EY.jpg?auth=2a7ae6a4a3051e82dd7c4072dea454bfaca4340fc5944b486846e0eb376bfe80&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:47",
+     "autor": "David Cayón",
+     "titulo_original": "El oficialismo busca sesionar el jueves en el Senado para tratar la reforma del BCRA y Zonas Frías"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "La Mesa Política alcanzó una tregua tras el cruce entre Bullrich y Santilli",
+     "resumen": "La Mesa Política del Gobierno se reunió en Casa Rosada para bajar la tensión después del cruce público entre Patricia Bullrich y Diego Santilli por los cambios en Discapacidad incluidos en el Presupuesto 2027. Según fuentes consultadas, hubo acuerdo en continuar trabajando en conjunto y trasladar las diferencias a ese ámbito.",
+     "relacionadas": [
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Bullrich expuso su malestar ante la mesa política y le pidieron canalizar las críticas puertas adentro",
+       "url": "https://www.infobae.com/politica/2026/09/22/la-mesa-politica-se-reune-para-ordenar-las-diferencias-internas-por-el-presupuesto-y-el-ajuste-en-discapacidad/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/despues-del-duelo-publico-y-algun-reproche-puertas-adentro-la-mesa-politica-alcanzo-una-tregua/",
+     "imagen": "https://www.cronista.com/resizer/v2/VZB5W4XIZ5HPFNXCGKXIRBDLGY.jpeg?auth=3aecbfe05c0a6bba4f5be54926733509943e3da484f8d8b1a1274560b0945293&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:49",
+     "autor": "Mariano Beldyk",
+     "titulo_original": "Después del duelo público y algún reproche puertas adentro, la Mesa Política alcanzó una tregua"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-14",
+     "titulo": "El riesgo país superó los 550 puntos por primera vez desde mayo",
+     "resumen": "El riesgo país subió por sexta rueda consecutiva y sumó 22 unidades hasta los 555 puntos, un avance de 4,1%, según el índice de JP Morgan. En lo que va de septiembre acumula una suba de 43 unidades, en un movimiento que se aceleró después de la suba de tasas de la Reserva Federal de Estados Unidos y el endurecimiento financiero en otros mercados.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país llegó a su nivel más en más de cinco meses",
+       "url": "https://www.iprofesional.com/finanzas/464949-bonos-argentinos-caen-en-wall-street-y-riesgo-pais-sube-a-543-puntos"
+      },
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país toca un máximo en más de cinco meses mientras el S&P Merval extiende la baja",
+       "url": "https://www.ambito.com/finanzas/el-riesgo-pais-salta-su-maximo-nivel-cuatro-meses-una-nueva-caida-los-bonos-dolares-n6325219"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-vuelve-a-subir-y-supera-los-540-puntos-por-primera-vez-desde-mayo-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ELRAMU2XDZEPNHJN2XVOGDUFCU.JPG?auth=bdfd2c518e01998cd68d3aaecc3cf40bdd0de90696196e4533a1bfa0fcb89c0b&smart=true&width=900&height=551",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:17",
+     "autor": "Agustina Parise",
+     "titulo_original": "El riesgo país volvió a subir y superó los 550 puntos por primera vez desde mayo"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "El dólar blue cortó su racha de calma y superó los 1.550 pesos",
+     "resumen": "El dólar informal subió 5 pesos este martes, su primera suba en cinco ruedas, y superó los 1.550 pesos para la venta. Con ese movimiento, la brecha frente al tipo de cambio oficial se amplió al 2,5%.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/se-desperto-el-dolar-blue-anoto-su-primera-suba-cinco-ruedas-y-cruzo-un-nivel-simbolico-n6325440",
+     "imagen": "https://media.ambito.com/p/3fe5f05e05aeec46f4dc9ee9d5f2b4d1/adjuntos/239/imagenes/042/744/0042744038/dolar-blue-vivo-inversiones-mercados.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "Se despertó el dólar blue: anotó su primera suba en cinco ruedas y cruzó un nivel simbólico"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "El dólar mayorista cerró por debajo de los 1.515 pesos y las reservas cayeron a 49.695 millones de dólares",
+     "resumen": "El mayorista cerró en 1.514 pesos, más de 25% por debajo del techo de la banda cambiaria. El agro sostiene una elevada oferta de divisas, pero el Banco Central redujo sus compras y las reservas bajaron a 49.695 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-dolar-sigue-planchado-y-crece-la-atencion-reservas-que-mira-el-mercado-las-proximas-ruedas-n6325091",
+     "imagen": "https://media.ambito.com/p/b5d665513c405a09e1db478a240b8866/adjuntos/239/imagenes/043/656/0043656789/1200x675/smart/depositphotos_46196843_xljpg.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:36",
+     "autor": "",
+     "titulo_original": "El dólar mayorista cerró por debajo de los $1.515 mientras el mercado mira de cerca la compra de reservas"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "El índice de salarios de julio subió 2,8% y acumula 21,8% en el año",
+     "resumen": "El INDEC informó que el Índice de Salarios de julio de 2026 avanzó 2,8% respecto de junio y acumula un 21,8% desde diciembre de 2025. El sector privado no registrado lideró la suba con 3,9%, seguido por el sector público con 3,0% y el privado registrado con un incremento algo menor.",
+     "relacionadas": [
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los salarios registrados aumentaron 2,5% en julio y le ganaron a la inflación por segundo mes consecutivo",
+       "url": "https://www.infobae.com/economia/2026/09/22/los-salarios-registrados-aumentaron-25-en-julio-y-le-ganaron-a-la-inflacion-por-segundo-mes-consecutivo/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/salarios-el-indice-de-julio-marco-una-suba-del-28-mensual-y-acumula-un-218-en-el-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZDD43YRVY5A3PAXFCUTKITNJSM.jpg?auth=f27359547e6d5a218cdbb372d63130cb85f5d36d24fa2826264164c6303df9c5&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:05",
+     "autor": "Nacho Barrios",
+     "titulo_original": "Salarios: el índice de julio marcó una suba del 2,8% mensual y acumula un 21,8% en el año"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "El superávit energético roza los 7.800 millones de dólares en ocho meses",
+     "resumen": "La balanza de combustibles, impulsada por el crudo neuquino, acumula un superávit de casi 7.800 millones de dólares entre enero y agosto. En agosto el saldo neto fue de 977 millones de dólares y la cifra se encamina a marcar un récord para el Banco Central.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/464951-superavit-energetico-record-roza-7800-millones-dolares-en-ocho-meses",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/605953.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "Superávit energético récord roza los u$s7.800 millones en ocho meses"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Las exportaciones del agro alcanzaron 37.525 millones de dólares en ocho meses",
+     "resumen": "Las ventas externas del sector crecieron 13% entre enero y agosto frente al mismo período de 2025, según destacó el ministro de Economía, Luis Caputo. Girasol, miel, aceite de girasol, limón y carne bovina estuvieron entre los productos con mayores incrementos. Para una empresa: la mayor liquidación del agro sostiene la oferta de dólares en el mercado cambiario.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/gobierno-destaco-nuevo-nuevo-record-exportaciones-agro-ingresaron-us-37525-millones-meses_0_mJ4gAwU3JX.html",
+     "imagen": "https://www.clarin.com/img/2026/09/16/gVe5T3gY3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:48",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno destacó el nuevo nuevo récord de las exportaciones del agro: ingresaron US$ 37.525 millones en ocho meses"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "El 12,9% del crédito a las familias estaba en situación irregular en julio",
+     "resumen": "Según el Informe sobre Bancos del BCRA publicado el 18 de septiembre, el 12,9% del crédito destinado a las familias se encontraba en situación irregular en julio. El endeudamiento se vuelve difícil de manejar cuando una obligación empieza a ocupar una porción cada vez mayor del ingreso mensual, con la tarjeta de crédito como principal puerta de entrada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/deudas-las-herramientas-legales-con-las-que-contas-para-renegociar/",
+     "imagen": "https://www.cronista.com/resizer/v2/H3N3TBG5FNG7BJWBG2YGNPLYZU.png?auth=8abbe4b19b9d5a38ec3a1839546f3f011456309f8ed3e43a69f9111d5a030a52&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:53",
+     "autor": "Florencia García Alegre",
+     "titulo_original": "Deudas: las herramientas legales con las que contás para renegociar"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "La marca de ropa Zhoue está al borde de la quiebra con una deuda de 2.300 millones de pesos",
+     "resumen": "La textil, acuciada por deudas millonarias y cinco pedidos de quiebra, desarma su estructura y liquida stock para afrontar sus compromisos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464958-zhoue-liquida-franquicias-remata-ropa-deudas-millonarias-septiembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626132.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:35",
+     "autor": "",
+     "titulo_original": "La marca de ropa Zhoue está al borde de la quiebra, debe $2.300 millones y liquida todo"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "La Justicia fijó las fechas de remate de bienes de la cadena de farmacias Dr. Ahorro",
+     "resumen": "El tribunal estableció las fechas para las subastas de distintos vehículos de la sociedad, que quebró en mayo de este año tras meses de crisis financiera.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464945-rematan-bienes-de-las-farmacias-dr-ahorro-tras-la-quiebra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626117.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:05",
+     "autor": "",
+     "titulo_original": "La Justicia remata bienes de la cadena de farmacias Dr. Ahorro tras la quiebra"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "La experiencia chilena que anticipa el futuro del cobre argentino bajo el RIGI",
+     "resumen": "La transición energética global demandará entre 10 y 15 millones de toneladas adicionales de cobre en la próxima década, y la Argentina podría pasar de una producción casi nula a generar entre 1,5 y 2 millones de toneladas anuales. El artículo analiza, a partir de la experiencia de Chile, si el RIGI alcanza para dar la previsibilidad que buscan los capitales internacionales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-experiencia-chilena-que-anticipa-el-futuro-del-rigi/",
+     "imagen": "https://www.cronista.com/resizer/v2/PFGHDR4I7JCP7CIQUW6ELUMPKY.jpg?auth=cf06ded6d7466172efdc1e7b57f78920fe3e3ee09963e7faf2c5ef4684220ea8&smart=true&width=900&height=505",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:35",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "La experiencia chilena que anticipa el futuro del RIGI"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "El Gobierno amplió plazos y garantías para financiar AMBA I, la megaobra eléctrica de 800 millones de dólares",
+     "resumen": "La Resolución 250/2026 de la Secretaría de Energía amplió los plazos y las garantías para las empresas que participen de la red de transporte AMBA I, un proyecto clave para el abastecimiento eléctrico del área metropolitana.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464931-el-gobierno-cambia-reglas-para-financiar-amba-i-megaobra-electrica-de-us800-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/01/590103.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:16",
+     "autor": "",
+     "titulo_original": "El Gobierno cambia reglas para financiar AMBA I, megaobra eléctrica de u$s800 millones"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Una falla en el control aéreo de Escocia obligó a suspender 227 vuelos en el Reino Unido",
+     "resumen": "La falla afectó a miles de pasajeros y llevó a Ryanair y British Airways a volver a cuestionar a NATS, el proveedor de servicios de navegación aérea británico.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464944-reino-unido-suspendio-mas-de-200-vuelos-tras-falla-clave-2-aerolineas-bajo-la-lupa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/12/508446.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:54",
+     "autor": "",
+     "titulo_original": "Reino Unido suspende 227 vuelos y aumenta la presión de Ryanair y British Airways"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-22",
+     "titulo": "Monotributo: cuándo es la próxima recategorización de ARCA",
+     "resumen": "La recategorización del Monotributo se realiza dos veces al año, en febrero y agosto, y define el monto que cada contribuyente paga a partir del mes siguiente según cómo evolucionaron sus ingresos y el resto de los parámetros de actividad. ARCA advierte que no cumplir en término, o declarar datos por debajo de la realidad, puede derivar en sanciones o en un ajuste de oficio.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/monotributo-arca-cuando-es-la-proxima-recategorizacion-y-quienes-tienen-que-hacer-el-tramite/",
+     "imagen": "https://www.cronista.com/resizer/v2/VDD4W65HYBBBJD6CLXXWHXIQ7M.jpg?auth=30009d0974d25c94a26c1d75b137bd783736837d938a505f039ed8053bc9df66&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:49",
+     "autor": "",
+     "titulo_original": "Monotributo ARCA: cuándo es la próxima recategorización y quiénes tienen que hacer el trámite"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "Las fuerzas de seguridad tendrán un nuevo aumento salarial de octubre a diciembre",
+     "resumen": "El Gobierno actualizó los salarios de las fuerzas federales para el último trimestre del año, con montos diferenciados según jerarquía y adicionales específicos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464956-el-76-de-las-personas-se-endeuda-para-cubrir-gastos-basicos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/616112.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:33",
+     "autor": "",
+     "titulo_original": "Encuesta revela que el 76% de las personas se endeuda para cubrir gastos básicos"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "La Provincia de Buenos Aires convocó a paritarias estatales para el jueves",
+     "resumen": "El Gobierno bonaerense llamó a los gremios de trabajadores estatales a reanudar las negociaciones salariales, en el marco de la Ley 10.430 que rige el empleo público provincial. El llamado llega tras varias semanas de reclamos de ATE y los gremios docentes.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-provincia-de-buenos-aires-llamo-a-paritarias-estatales-que-reclaman-los-gremios-y-que-puede-pasar/",
+     "imagen": "https://www.cronista.com/resizer/v2/VICV3CZ3LBGUZG7ZWCUYS5LGRY.jpg?auth=c308f984073da8343cb6583b5ceafacef98143f77dd55f8a106f4ec92c644d00&smart=true&width=800&height=533",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:01",
+     "autor": "",
+     "titulo_original": "La Provincia de Buenos Aires llamó a paritarias estatales: ¿qué reclaman los gremios y qué puede pasar?"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "La CNV aprobó un nuevo régimen para las colocaciones primarias de deuda y acciones",
+     "resumen": "La Comisión Nacional de Valores aprobó, mediante la Resolución General 1169, un nuevo régimen para las colocaciones primarias de obligaciones negociables, acciones, fideicomisos financieros y fondos comunes de inversión cerrados, con el objetivo de elevar los estándares de transparencia y reducir conflictos de interés. La norma alcanza también a los tramos locales de emisiones internacionales. Para una empresa: el nuevo régimen puede modificar los plazos y requisitos para financiarse en el mercado de capitales local.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/cnv-endurece-requisitos-para-emisiones-aprobo-nuevo-regimen-para-colocaciones-primarias/",
+     "imagen": "https://www.cronista.com/resizer/v2/OE6UK6VYD5FIVIUVXJS4NHOGRI.jpg?auth=26547773435dc1622b1c66808115ba6467d22c975b56c50fd72b98c3c7e3eb00&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:02",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "CNV endurece reglas para emisiones: aprobó nuevo régimen para colocaciones primarias"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la actividad del lector arranca con un desarrollo inmobiliario en el conurbano y el costo del transporte urbano.",
+   "notas": [
+    {
+     "id": "CR-08",
+     "titulo": "La desarrolladora del edificio de Zaha Hadid en Palermo construye su primer barrio abierto",
+     "resumen": "Grupo Portland, responsable de L'Avenue Libertador, el único edificio de Zaha Hadid Architects en Latinoamérica, avanza con La Fraternidad, un desarrollo de 4 millones de dólares en General Rodríguez de 140.000 metros cuadrados. Es el primer proyecto de Portland Terra, la sociedad que conformó con Lotes para Todos, con lotes de 300 a 450 metros cuadrados financiados en hasta 240 cuotas en pesos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/lla-presento-ante-bloques-dialoguistas-el-dictamen-superador-sobre-discapacidad-que-beneficios-mantiene-vigentes/",
+     "imagen": "https://www.cronista.com/resizer/v2/UQ5YOQCIAZC3HF3RJTQRWARM4E.JPG?auth=f4a1e03af9f36147bf4822a38ba2f45d3f8ab9789ab377988b128559713fecbc&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:18",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "LLA presentó ante aliados el dictamen “superador” sobre discapacidad: qué beneficios mantiene vigentes"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "El boleto de colectivo en el AMBA subirá 3,6% a partir de octubre",
+     "resumen": "Desde el 1 de octubre, las líneas que circulan en la Ciudad y la provincia de Buenos Aires tendrán un aumento automático que toma como referencia el último IPC más dos puntos porcentuales. El valor final varía según si la SUBE está registrada y si el usuario tiene Tarifa Social. Para una empresa: el ajuste del transporte público impacta en los costos de logística de última milla y en el gasto de traslado del personal.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-intimidad-del-escudo-de-las-americas-el-abrazo-de-milei-y-una-mencion-especial-de-trump/",
+     "imagen": "https://www.cronista.com/resizer/v2/4LCLWSOHZFBPXH7WVIO5LC2U5M.jpeg?auth=f1af0f17f373a5ba931cd1574d3f4dcbff0a72a8dbcca11c3405e0a04938ae93&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:13",
+     "autor": "Daniela Romero",
+     "titulo_original": "La intimidad del Escudo de las Américas: los abrazos de Milei y una mención especial de Trump"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Unicenter confirmó la llegada de nuevas marcas internacionales para lo que resta del año",
+     "resumen": "El anuncio llega después de las recientes aperturas de Victoria's Secret, Boss, Calvin Klein, Skechers y Miniso en el shopping. Cencosud había anunciado a mediados de año una inversión de más de 60 millones de dólares para ampliarlo, en un contexto de menor disponibilidad de superficie en los centros comerciales más buscados.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-nuevo-unicenter-anticipo-todas-las-marcas-internacionales-que-llegan-este-ano-hay-grandes-regresos-y-desembarcos/",
+     "imagen": "https://www.cronista.com/resizer/v2/2BWKVYWUGJC47BCXFZRJP2KHVI.png?auth=7bb4637421c207fddb16b681420d4df7916401a515e1d7165a00a7ee8287effb&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:01",
+     "autor": "El Cronista",
+     "titulo_original": "El nuevo Unicenter anticipó todas las marcas internacionales que llegan este año: hay grandes regresos y desembarcos"
+    },
+    {
+     "id": "AM-07",
+     "titulo": "ReMax: \"el crédito hipotecario debe estar siempre, no sirve que aparezca por una primavera de cinco o seis meses\"",
+     "resumen": "El presidente de ReMax para Argentina y Uruguay, Sebastián Sosa, anticipó que este año habrá menos operaciones inmobiliarias que en 2025. Respaldó la desregulación del sector, aunque planteó límites, y remarcó que el financiamiento hipotecario necesita continuidad para consolidarse.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/real-estate/sebastian-sosa-remax-el-credito-hipotecario-debe-estar-siempre-no-sirve-que-aparezca-una-primavera-5-o-6-meses-n6325368",
+     "imagen": "https://media.ambito.com/p/39f2e7ea2973b43e670e8dd4926025e8/adjuntos/239/imagenes/041/965/0041965180/1200x675/smart/sebastian-sosajpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:22",
+     "autor": "",
+     "titulo_original": "Sebastián Sosa, de ReMax: \"El crédito hipotecario debe estar siempre, no sirve que aparezca por una primavera de 5 ó 6 meses\""
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Créditos hipotecarios UVA: cuánto prestan los bancos para comprar un departamento de 100.000 dólares",
+     "resumen": "Distintas entidades ofrecen en septiembre líneas de crédito hipotecario UVA, con simulaciones que dependen de los ingresos familiares requeridos por cada banco.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/464918-creditos-uva-cuanto-prestan-bancos-para-departamento-de-100000-dolares",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/616406.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:38",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios UVA: cuánto me prestan para comprar un departamento de u$s100.000"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Cuánto cuesta contratar un electricista, de un cortocircuito a renovar toda la instalación",
+     "resumen": "Una guía de precios detalla cuánto cuesta reparar una falla en el tablero, colocar llaves térmicas o cambiar todo el cableado de una vivienda.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/464939-cuanto-cobra-un-electricista-hoy-precios-de-arreglos-y-obras",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/02/490935.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Electricista: cuánto cuesta desde arreglar un cortocircuito a renovar toda la instalación"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "El huracán Polo alcanzó la categoría 5 frente a las costas de México",
+     "resumen": "El ciclón permanece estacionario a 335 kilómetros al sur de Zihuatanejo, Guerrero, con vientos sostenidos de 285 kilómetros por hora y rachas de 330. Las autoridades mexicanas suspendieron clases en varias zonas de la costa suroeste ante el riesgo de lluvias intensas y oleaje elevado.",
+     "relacionadas": [
+      {
+       "id": "CL-01",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "México: el huracán Polo ya alcanzó la categoría 5 y se convirtió en una tormenta \"extremadamente peligrosa\"",
+       "url": "https://www.clarin.com/mundo/mexico-huracan-polo-alcanzo-categoria-5-convirtio-tormenta-extremadamente-peligrosa_0_7rW8V2NDmb.html"
+      }
+     ],
+     "url": "https://www.infobae.com/mexico/2026/09/22/huracan-polo-llega-a-categoria-5-y-se-estanca-frente-a-las-costas-del-occidente-con-vientos-de-285-kmh/",
+     "imagen": "https://www.infobae.com/resizer/v2/QE4UBKWPWVG7LHAKDVCV7DGZHE.jpg?auth=d66bf59e081973ea940cca77087c4b806cfaf164fc6d7dd225e27304511d37e6&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:07",
+     "autor": "Joshua Espinosa",
+     "titulo_original": "Huracán Polo llega a categoría 5 y se estanca frente a las costas del Occidente con vientos de 285 km/h"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Estados Unidos e Irán reanudaron el diálogo directo tras un encuentro de tres horas en Nueva York",
+     "resumen": "Trump confirmó el acercamiento diplomático horas después de advertir a Irán en su discurso ante la ONU: \"Hacemos un trato o los aniquilo definitivamente\". En el encuentro participaron el enviado Steve Witkoff y Jared Kushner, y Teherán planteó como condición el fin del bloqueo naval y el desbloqueo de activos.",
+     "relacionadas": [
+      {
+       "id": "CL-06",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Representantes de EEUU e Irán se reúnen para tratar en conflicto en Oriente Medio",
+       "url": "https://www.clarin.com/estados-unidos/representantes-de-eeuu-e-iran-se-reunen-para-tratar-en-conflicto-en-oriente-medio_0_dgK6cw0TXe.html"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/22/donald-trump-confirmo-la-reanudacion-del-dialogo-directo-con-iran-tras-un-encuentro-durante-la-asamblea-de-la-onu-en-nueva-york/",
+     "imagen": "https://www.infobae.com/resizer/v2/DJPQN7PKTFBEPF254C2QJ4ONJY.JPG?auth=72976a8a700a37517df0fac72b420c326e708bd8afc89b92c2f36cd4e95a5439&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:12",
+     "autor": "",
+     "titulo_original": "Donald Trump confirmó la reanudación del diálogo directo con Irán tras un encuentro durante la Asamblea de la ONU en Nueva York"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Trump firmó con Dinamarca y Groenlandia un acuerdo para reforzar la seguridad en el Ártico",
+     "resumen": "El pacto habilita a Washington a instalar el escudo antimisiles Golden Dome, construir nuevas bases y restringir la presencia militar de países ajenos a la OTAN en la isla. El acuerdo seguiría vigente aunque Groenlandia decida independizarse en el futuro.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Donald Trump firmó el acuerdo entre Estados Unidos, Dinamarca y Groenlandia para reforzar la seguridad en el Ártico",
+       "url": "https://www.clarin.com/mundo/donald-trump-firmo-acuerdo-estados-unidos-dinamarca-groenlandia-reforzar-seguridad-artico_0_dxPJwrnVIR.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/trump-firmo-el-acuerdo-con-groenlandia-y-dinamarca-para-reforzar-la-presencia-de-eeuu-en-el-artico-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/6GNS4K3CGJBI5JGLKCVHKRGJPM.JPG?auth=2b4e2675f781a45d9f3ed0b95b2cc2de78255df13cf8d3ff293ce913f03313e3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:50",
+     "autor": "",
+     "titulo_original": "Trump firmó el acuerdo con Groenlandia y Dinamarca para reforzar la presencia de EE.UU. en el Ártico"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Trump se reunió con el primer ministro británico y hablaron sobre Malvinas",
+     "resumen": "El presidente de Estados Unidos mantuvo su primer encuentro presencial con Andy Burnham al margen de la Asamblea General de la ONU. El tema Malvinas estuvo entre los abordados, según confirmó el primer ministro laborista, que dijo haber establecido una \"buena conexión\" con Trump.",
+     "relacionadas": [
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Trump se reunió con el primer ministro británico y conversaron sobre las Malvinas",
+       "url": "https://www.iprofesional.com/politica/464967-donald-trump-se-reunio-con-primer-ministro-britanico-y-conversaron-sobre-malvinas"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/estados-unidos/trump-se-reunio-con-el-primer-ministro-britanico-y-hablaron-sobre-malvinas-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Q45GSLN7B5EOFG5JHYW22MSVZU.JPG?auth=c4e36654ecec272e4d7389db0a64e5e205457b4ac42a3fd6ee695d34d17f8214&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:02",
+     "autor": "",
+     "titulo_original": "Donald Trump se reunió con el primer ministro británico y hablaron sobre Malvinas"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "Trump y Xi Jinping se reúnen el jueves y Argentina mira de cerca la agenda de la soja",
+     "resumen": "El encuentro en Washington será la primera visita del líder chino a Estados Unidos en 11 años. El objetivo central de Xi es extender la tregua comercial sellada con Trump en octubre pasado en Busán, que vence en noviembre, después de que funcionarios de ambos países cerraran dos días de negociaciones previas en Nueva York.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Lo que Xi Jinping quiere de la cumbre con Donald Trump",
+       "url": "https://www.cronista.com/financial-times/lo-que-xi-jinping-quiere-de-la-cumbre-con-donald-trump/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/trump-y-xi-jinping-se-reunen-que-puede-pasar-con-la-soja-y-por-que-argentina-esta-atenta/",
+     "imagen": "https://www.cronista.com/resizer/v2/5MJ4JBL7URC7NJ4DU5P2URJX3U.jpg?auth=e91d9b4ab28c7de8b788d567825a624a56a487b3f1ec15b5fcf47c9045ad0305&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:19",
+     "autor": "Catalina Jordán",
+     "titulo_original": "Trump y Xi Jinping se reúnen: qué puede pasar con la soja y por qué Argentina está atenta"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Arabia Saudita, Egipto, Pakistán y Turquía reclamaron diálogo frente al repunte de hostilidades en Medio Oriente",
+     "resumen": "Los cancilleres de los cuatro países se reunieron en Nueva York para reforzar su coordinación diplomática y reafirmaron que \"el diálogo y la diplomacia siguen siendo la única vía\" para una solución sostenible, en un momento marcado por ataques hutíes contra Riad.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/22/arabia-saudita-egipto-pakistan-y-turquia-reclamaron-dialogo-frente-al-repunte-de-hostilidades-en-medio-oriente/",
+     "imagen": "https://www.infobae.com/resizer/v2/BYMUK4T7X5FH7LTRIQXZNVZPQA.JPG?auth=6eae0a389d1a4fd5ed139c92efe62b150daca61fe89057e3d07d5c9cc87bc088&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:08",
+     "autor": "",
+     "titulo_original": "Arabia Saudita, Egipto, Pakistán y Turquía reclamaron diálogo frente al repunte de hostilidades en Medio Oriente"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el discurso de Trump ante la ONU y la presión interna en Estados Unidos por la suba de los combustibles.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent: los cinco puntos clave del discurso neoconservador de Trump ante la ONU",
+     "resumen": "La revista destaca que Trump mencionó a Irán 17 veces en su discurso, tantas como la palabra \"estadounidenses\", y que defendió la guerra asegurando que le dio \"todas las oportunidades para llegar a un acuerdo\" y que nunca permitirá que el país se dote de armas nucleares. El análisis vincula el discurso con los atentados del 11 de septiembre y del 7 de octubre de 2023, y anticipa que un eventual acuerdo con Irán podría anunciarse recién después de las elecciones de mitad de mandato.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/22/5-puntos-del-discurso-neoconservador-de-trump-en-la-onu/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "14:40",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Los 5 puntos clave del discurso neoconservador de Trump ante las Naciones Unidas"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent: la presión republicana para que Trump frene las exportaciones de combustible",
+     "resumen": "Un número creciente de políticos republicanos, entre ellos el gobernador Jeff Landry, pide a la Casa Blanca suspender las exportaciones de combustible, en particular de gasóleo, para frenar la suba de precios internos, después de que el galón superara los 6,5 dólares, casi el doble que a comienzos de año. La revista advierte que una medida de ese tipo tendría efectos contraproducentes a largo plazo.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/22/ante-subida-precios-suspendera-trump-exportaciones-combustible/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:54",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Ante la subida de los precios, ¿va a suspender Trump las exportaciones de combustible?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-23",
+     "titulo": "Los Leones se consagraron campeones de hockey en los Juegos Suramericanos",
+     "resumen": "La selección masculina venció 3 a 1 a Chile con un plantel alternativo al que obtuvo el bronce en el último Mundial de Países Bajos y Bélgica. El equipo, conducido por Juan Manuel Vivaldi, ya proyecta su preparación hacia los Juegos Olímpicos de Los Ángeles 2028.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/hockey/los-leones-derrotaron-3-a-1-a-chile-y-se-llevaron-la-medalla-dorada-en-los-juegos-suramericanos-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/K2G24VZ7HVBOTK7NOMLBDFNV4Q.jpg?auth=6a072bcb175743ffcb244cd32c090a62477801b45ff330556cc32add5fbfa2a1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:43",
+     "autor": "",
+     "titulo_original": "Los Leones derrotaron 3 a 1 a Chile y se llevaron la medalla dorada en los Juegos Suramericanos"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Cómo fue el regreso de River al Comité Ejecutivo de la AFA",
+     "resumen": "River volvió al organismo con una serie de planteos, entre ellos cuestionamientos al formato de los torneos y al arbitraje, en una reunión con cruces con el presidente Claudio Tapia. Se resolvió la creación de un nuevo torneo y quedan por resolver cuestiones de calendario.",
+     "relacionadas": [
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las reformas que propone River a la AFA en su vuelta al Comité Ejecutivo",
+       "url": "https://www.ambito.com/deportes/las-reformas-que-propone-river-la-afa-su-vuelta-al-comite-ejecutivo-n6325336"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/regreso-river-comite-ejecutivo-afa-detras-escena-reunion-caliente-dardos-tapia-temas-abiertos_0_7riG6L2Mdq.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/vkm18t95N_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:43",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cómo fue el regreso de River al Comité Ejecutivo de la AFA: el detrás de escena de una reunión caliente, con dardos de Tapia y temas abiertos"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "La Recopa de Campeones dio otro paso y la AFA podría tener ocho títulos en 2027",
+     "resumen": "La Liga Profesional avanza con la creación de la Recopa de Campeones, un triangular entre los ganadores de los principales torneos que se sumaría a la lista que encabezan el Apertura y el Clausura. La idea, todavía no oficializada, dio un nuevo paso este martes en la reunión del Comité Ejecutivo.",
+     "relacionadas": [
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La AFA anunció la creación de la Recopa de Campeones: el jeroglífico del fútbol argentino, con ocho títulos en 2027",
+       "url": "https://www.clarin.com/deportes/afa-anuncio-creacion-recopa-campeones-jeroglifico-futbol-argentino-titulos-2027_0_9vMdLnXkuQ.html"
+      },
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "\"Recopa de Campeones\": el nuevo nombre del torneo de fútbol argentino en 2027 y los cambios en la reglamentación",
+       "url": "https://www.ambito.com/deportes/recopa-campeones-el-nuevo-nombre-del-torneo-futbol-argentino-2027-y-los-cambios-la-reglamentacion-n6325382"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/la-recopa-de-campeones-dio-otro-paso-y-la-afa-podria-tener-ocho-titulos-en-2027-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FCGRBTBGDRG5HMBCPIQMFHRVDA.jpg?auth=74dd80ecdc86850540d3916b3c97569f4158bcb9f318751df5a3171349c0ac96&smart=true&width=900&height=826",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:52",
+     "autor": "",
+     "titulo_original": "La Recopa de Campeones dio otro paso y la AFA podría tener ocho títulos en 2027"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "La selección argentina retomó los entrenamientos en Ezeiza de cara a la triple fecha de amistosos",
+     "resumen": "El plantel comenzó la preparación bajo las órdenes de Lionel Scaloni con una sesión de gimnasio y trabajos tácticos. En la práctica, Lisandro Martínez le hizo una broma a Cristian Romero, a quien le gritó \"está re ancho, Cuti\", en medio de las risas del grupo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/22/esta-re-ancho-la-broma-de-lisandro-martinez-al-cuti-romero-en-el-primer-entrenamiento-de-la-seleccion-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/NQ6Q55L4QZDPROYJBTGKE6NRL4.png?auth=0f9dcde952d81af894658b43b4fd26e0b10b88696efcae2af1542fe26099f2dc&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:24",
+     "autor": "",
+     "titulo_original": "“Está re ancho”: la broma de Lisandro Martínez al Cuti Romero en el primer entrenamiento de la selección argentina"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "El Tottenham descartó la contratación de Mauro Icardi",
+     "resumen": "El club inglés confirmó que no avanzará en la incorporación del delantero libre pese al mal arranque de temporada, con apenas dos goles en cinco fechas de la Premier League y el último puesto de la tabla. Los dirigentes consideran que ya cuentan con suficientes opciones ofensivas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/22/revelaron-los-motivos-por-los-que-el-tottenham-descarto-la-contratacion-de-mauro-icardi/",
+     "imagen": "https://www.infobae.com/resizer/v2/5KH2SUJG3JEY3BUGWW6JEXGTIU.JPG?auth=ce8b954434d7ecad930c884b49ee3310a50bb2d4be4d83bcf0da1b34bd7cd31c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:14",
+     "autor": "",
+     "titulo_original": "Revelaron los motivos por los que el Tottenham “descartó” la contratación de Mauro Icardi"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Argentina llegó a los 100 triunfos en la historia de la Copa Davis",
+     "resumen": "La marca se alcanzó tras el triunfo ante Turquía en Neuquén y atraviesa más de un siglo de participación del equipo nacional en la competencia por equipos, con nombres como Vilas, Nalbandian, Del Potro y Delbonis entre los protagonistas de sus series más recordadas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/22/los-100-triunfos-de-argentina-en-la-copa-davis-las-series-que-marcaron-la-historia-y-sus-protagonistas/",
+     "imagen": "https://www.infobae.com/resizer/v2/G25JR7SSOZA5VHYPROJ6QW7JDM.jpg?auth=f2df8ecbdfab824932c2230f0ebb09c5639922c7ed38b9a5cae64d52d44e9aa1&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:10",
+     "autor": "",
+     "titulo_original": "Los 100 triunfos de Argentina en la Copa Davis: las series que marcaron la historia y sus protagonistas"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Murió Tulio Crespi, una leyenda del automovilismo argentino, a los 88 años",
+     "resumen": "Crespi se desempeñó como piloto, diseñador y constructor durante más de 60 años y estuvo activo hasta sus últimos días, junto a sus hijos Luciano, Matías y Sandro, en su fábrica de Balcarce.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/a-los-88-anos-murio-tulio-crespi-una-leyenda-del-automovilismo-en-la-argentina-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SZZ2OOYQQFCYHH5CX6ZLYWK5AA.jpg?auth=1f1b29c3c6d32c5186b300da1a9cf0133cf130a1c03ff9ea4561ac3f7ea0f91c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:01",
+     "autor": "",
+     "titulo_original": "A los 88 años murió Tulio Crespi, una leyenda del automovilismo en la Argentina"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Una locomotora llegó al norte de Santa Cruz para reactivar un ramal clave para el turismo regional",
+     "resumen": "La máquina arribó a Jaramillo para sumarse al proyecto de recuperación del ramal ferroviario Puerto Deseado-Las Heras, cerrado hace casi 50 años. El gobierno provincial busca reactivar casi 300 kilómetros de vías que fueron decisivas para la ganadería ovina de la zona, con el objetivo de impulsar el turismo y la producción en esa región patagónica.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/tras-casi-50-anos-vuelve-una-locomotora-a-una-via-que-cristina-prometio-reactivar-y-no-cumplio-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7YE4O7RU7VCCHIVPKGN74ZXS6U.jpeg?auth=d12d8a3d94e81fd80d0376934083a7b5796ca1552cdc8b2fdbc1f64ccfa17e60&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:26",
+     "autor": "Mariela Arias",
+     "titulo_original": "Tras casi 50 años: vuelve una locomotora a una vía que Cristina prometió reactivar y no cumplió"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-24",
+     "titulo": "La Justicia intimó al Gobierno a actualizar en cinco días los salarios y las becas universitarias",
+     "resumen": "El juez Martín Cormick concluyó que el Estado no acreditó el cumplimiento pleno de la cautelar vigente, que exige un aumento salarial del 33% para docentes y no docentes y una recomposición de las becas estudiantiles. Fijó un plazo de cinco días para regularizar la situación, bajo apercibimiento de aplicar multas diarias.",
+     "relacionadas": [
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Justicia intimó al Gobierno a cumplir con la ley de Financiamiento Universitario",
+       "url": "https://www.ambito.com/politica/la-justicia-intimo-al-gobierno-cumplir-la-ley-financiamiento-universitario-n6325341"
+      },
+      {
+       "id": "CR-24",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La Justicia intimó al Gobierno a cumplir o comenzará a aplicarle multas diarias",
+       "url": "https://www.cronista.com/economia-politica/ley-de-financiamiento-universitario-la-justicia-intimo-al-gobierno-a-cumplir-o-comenzara-a-aplicarle-multas-diarias/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/la-justicia-intimo-al-gobierno-nacional-a-actualizar-salarios-y-becas-universitarias-nid22092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UOFZNZR3JJCBXNGKOEZ42BBPKI.jpg?auth=6ab5fcd588247be9a585d2abd07deb70ae73151bb4af981215ef5400c4513e87&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:37",
+     "autor": "Lucila Marin",
+     "titulo_original": "La Justicia intimó al Gobierno Nacional a actualizar salarios y becas universitarias"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "San Juan: un menor asesinó a puñaladas a un joven de 17 años durante una fiesta por el Día del Estudiante",
+     "resumen": "El hermano mellizo de la víctima también resultó herido en el ataque, ocurrido en una finca de Pocito. Un adolescente de 16 años, señalado como autor, se presentó voluntariamente ante la Justicia y quedó detenido.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/22/san-juan-un-menor-asesino-a-punaladas-a-un-joven-de-17-anos-e-hirio-a-su-mellizo-durante-una-fiesta-por-el-dia-del-estudiante/",
+     "imagen": "https://www.infobae.com/resizer/v2/P2NHAKGFLFEK3DGRKGOFSH2CWE.jpg?auth=52cdc8a90e0d17ae6434544b8388482b4d908f5a6f4f3b0cbb8d22e7403a2cdd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:10",
+     "autor": "",
+     "titulo_original": "San Juan: un menor asesinó a puñaladas a un joven de 17 años e hirió a su mellizo durante una fiesta por el Día del Estudiante"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Santa Fe decretó la emergencia hídrica por el riesgo de fuertes lluvias e inundaciones",
+     "resumen": "La medida, vinculada al fenómeno de El Niño, rige hasta fines de abril de 2027. El fenómeno climático también genera preocupación en el mundo por su impacto en la sequía de distintas regiones de Asia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-provincias-afectadas-esperan-lluvias-ola-polar-cambia-clima_0_psFNpTqdN3.html",
+     "imagen": "https://www.clarin.com/img/2019/04/13/MrrsgK7tw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: Santa Fe decretó la emergencia hídrica por el riesgo de fuertes lluvias e inundaciones"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Los boomers superan a los millennials en bienestar en la Argentina",
+     "resumen": "Según el primer Índice de Bienestar de la Universidad de San Andrés y OSDE, los boomers alcanzan un puntaje de 3,66 sobre 5, por encima de la Generación X con 3,48 y de la Generación Z con 3,34, mientras que los millennials registran el valor más bajo, con 3,15. El estudio sugiere que la brecha no responde únicamente a factores económicos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/los-boomers-superan-a-los-millennials-en-bienestar-y-no-tiene-que-ver-solo-con-el-dinero/",
+     "imagen": "https://www.cronista.com/resizer/v2/TR5EK7UENNGRFFA6DLSGLTIBLM.png?auth=018e79559fd30e7d2b01737d25edee7479e2382b59be90828ca094c87b0f6633&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:24",
+     "autor": "Ricardo Quesada",
+     "titulo_original": "Los boomers superan a los millennials en bienestar y no tiene que ver solo con el dinero"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del martes veintidós de septiembre. El dólar oficial cerró en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cincuenta y cinco pesos y el oro cotiza en cuatro mil trescientos noventa y seis dólares la onza. La jornada estuvo marcada por el encuentro de Javier Milei con Donald Trump en la sesión del Escudo de las Américas en Nueva York, la protesta formal de la Cancillería ante el Reino Unido por la extensión de licencias petroleras en Malvinas, y una nueva suba del riesgo país, que según el índice de JP Morgan superó los quinientos cincuenta puntos por primera vez desde mayo.\n\nEn política, Javier Milei participó del encuentro del Escudo de las Américas junto a Donald Trump, que volvió a respaldarlo públicamente: dijo que tuvieron una gran victoria en Argentina. En paralelo, el Gobierno avanza con la letra fina del proyecto de ley sobre Malvinas, que reemplazaría a la norma sancionada por Cristina Kirchner en dos mil once, mientras la Cancillería presentó una protesta formal ante la embajada británica por la extensión de licencias a las petroleras que operan en las islas. En la Justicia, la Cámara Federal confirmó los procesamientos de Diego Spagnuolo y otras dieciocho personas en la causa Andis, aunque redujo los montos de los embargos. El Gobierno designó además a Pablo Di Liscia como nuevo secretario de Discapacidad, en reemplazo de Alejandro Vilches, que había renunciado un día antes. En la Ciudad, el ministro de Justicia porteño activó el proceso para destituir a la jueza que declaró inconstitucional el régimen penal juvenil, y el oficialismo en el Senado busca sesionar el jueves para aprobar la reforma del Banco Central y los cambios en la ley de zonas frías. Por último, la Mesa Política del Gobierno alcanzó una tregua tras el cruce público entre Patricia Bullrich y Diego Santilli por los recortes en discapacidad del Presupuesto dos mil veintisiete.\n\nEn economía y mercados, el riesgo país subió por sexta rueda consecutiva y llegó a los quinientos cincuenta y cinco puntos, con una suba acumulada de cuarenta y tres unidades en lo que va de septiembre, en un movimiento ligado al aumento de tasas de la Reserva Federal de Estados Unidos. El dólar blue cortó una racha de calma y superó los mil quinientos cincuenta pesos, mientras el mayorista cerró en mil quinientos catorce pesos y las reservas del Banco Central bajaron a cuarenta y nueve mil seiscientos noventa y cinco millones de dólares. El INDEC informó que el índice de salarios de julio subió dos coma ocho por ciento y acumula veintiún coma ocho por ciento en el año, con el sector privado no registrado como el más dinámico. El superávit energético ronda los siete mil ochocientos millones de dólares en ocho meses, impulsado por el crudo neuquino, y las exportaciones del agro alcanzaron treinta y siete mil quinientos veinticinco millones de dólares entre enero y agosto, un trece por ciento más que el año pasado. En el plano del crédito, el Banco Central informó que el doce coma nueve por ciento de los préstamos a las familias estaba en situación irregular en julio, con la tarjeta de crédito como principal puerta de entrada al endeudamiento.\n\nEn negocios y empresas, la marca de ropa Zhoue está al borde de la quiebra con una deuda de dos mil trescientos millones de pesos, mientras la Justicia fijó las fechas de remate de bienes de la cadena de farmacias Dr Ahorro. Un análisis sobre la experiencia chilena repasa qué necesita la Argentina para aprovechar el boom del cobre bajo el régimen del RIGI, y el Gobierno amplió plazos y garantías para financiar AMBA uno, la megaobra eléctrica de ochocientos millones de dólares. En el Reino Unido, una falla en el control aéreo de Escocia obligó a suspender doscientos veintisiete vuelos y afectó a miles de pasajeros.\n\nEn impuestos y normativa, ARCA recordó que la recategorización del monotributo se hace dos veces al año, en febrero y agosto, y que no cumplir en término puede derivar en sanciones. El Gobierno actualizó los salarios de las fuerzas de seguridad para el último trimestre del año, la Provincia de Buenos Aires convocó a paritarias estatales para el jueves, y la Comisión Nacional de Valores aprobó un nuevo régimen para las colocaciones primarias de deuda y acciones, con el objetivo de elevar los estándares de transparencia en el mercado de capitales.\n\nEn consumo y construcción, Grupo Portland, la desarrolladora detrás del edificio de Zaha Hadid en Palermo, avanza con su primer barrio abierto en General Rodríguez, un proyecto de cuatro millones de dólares. El boleto de colectivo en el AMBA subirá tres coma seis por ciento desde octubre, lo que impacta en los costos de logística y traslado del personal para las empresas. Unicenter confirmó la llegada de nuevas marcas internacionales, y el titular de ReMax para Argentina y Uruguay sostuvo que el crédito hipotecario necesita continuidad, no aparecer solo por una primavera de pocos meses.\n\nEn el mundo, el huracán Polo alcanzó la categoría cinco frente a las costas de México, con vientos de doscientos ochenta y cinco kilómetros por hora, y obligó a suspender clases en la zona costera. Estados Unidos e Irán reanudaron el diálogo directo tras un encuentro de tres horas en Nueva York, horas después de que Trump advirtiera en la ONU que haría un trato con Irán o lo aniquilaría definitivamente. Trump también firmó un acuerdo con Dinamarca y Groenlandia para reforzar la seguridad en el Ártico, se reunió con el primer ministro británico y habló sobre Malvinas, y confirmó que se verá con Xi Jinping el jueves en Washington, un encuentro que Argentina sigue de cerca por su impacto en la agenda de la soja. Arabia Saudita, Egipto, Pakistán y Turquía reclamaron diálogo ante el repunte de las hostilidades en Medio Oriente.\n\nLe Grand Continent analiza el discurso de Trump ante la ONU y destaca que mencionó a Irán diecisiete veces, tantas como la palabra estadounidenses, en un discurso que describe como neoconservador. La revista también repasa la presión de políticos republicanos para que la Casa Blanca suspenda las exportaciones de combustible ante la suba de precios internos, una medida que advierte tendría efectos contraproducentes a largo plazo.\n\nEn deportes, Los Leones se consagraron campeones de hockey en los Juegos Suramericanos al vencer tres a uno a Chile, con la mira puesta en los Juegos Olímpicos de Los Ángeles dos mil veintiocho. River volvió al Comité Ejecutivo de la AFA con una serie de planteos sobre el formato de los torneos, y avanza la creación de la Recopa de Campeones, que sería el octavo título que entregue la entidad en una misma temporada. La selección argentina retomó los entrenamientos en Ezeiza de cara a la triple fecha de amistosos, el Tottenham descartó la contratación de Mauro Icardi, y Argentina llegó a los cien triunfos en la historia de la Copa Davis tras vencer a Turquía en Neuquén. También murió, a los ochenta y ocho años, Tulio Crespi, una leyenda del automovilismo argentino.\n\nPara cerrar, una locomotora llegó al norte de Santa Cruz para sumarse a la reactivación del ramal ferroviario entre Puerto Deseado y Las Heras, cerrado hace casi cincuenta años, con el objetivo de impulsar el turismo y la producción en esa región patagónica.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Todas las fuentes respondieron correctamente en esta corrida. La sección Management y finanzas corporativas se omitió por falta de material específico sobre liderazgo o gestión de equipos. En Turismo no hubo notas del feed dedicado ni de otro destino puntual además del caso de Santa Cruz, así que se usó esa nota por su vínculo directo con la reactivación turística de la región, tal como indica la instrucción para estos casos. Europa y geopolítica se cubrió con las dos únicas notas de Le Grand Continent disponibles en la ventana de esta corrida.",
+ "slug": "2026-09-22-tarde",
+ "generado_ba": "22/09/2026 21:14"
+}
