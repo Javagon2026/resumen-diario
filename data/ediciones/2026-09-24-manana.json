@@ -1,0 +1,963 @@
+{
+ "fecha": "2026-09-24",
+ "edicion": "manana",
+ "titulo": "Milei cierra su gira en la ONU mientras sube el riesgo país",
+ "apertura": "Javier Milei cierra hoy su gira por Nueva York con un encuentro con Netanyahu y una disertación en el Club Económico, en el mismo día en que Argentina y Estados Unidos lanzaron el Corredor Andes-Atlántico con financiamiento de hasta US$ 7.000 millones. En el plano local, el riesgo país acumula ocho jornadas de suba, el Indec publica a las 16 los datos de pobreza y actividad, y el Senado retoma la sesión por la reforma del BCRA y Zonas Frías. Afuera, Trump recibe a Xi Jinping en Washington y el petróleo vuelve a superar los cien dólares por la tensión con Irán.",
+ "claves": [
+  "Milei cierra su gira en Nueva York: se reúne con Netanyahu y disertará en el Club Económico antes de volver a Buenos Aires.",
+  "Argentina y EE.UU. lanzaron el Corredor Andes-Atlántico, con financiamiento de hasta US$ 7.000 millones para energía, minería y transporte hasta 2027.",
+  "El riesgo país acumula ocho jornadas consecutivas de suba y cerró en 566 puntos; los bonos y ADR argentinos caen.",
+  "El Indec difunde hoy a las 16 el EMAE de julio y los datos de pobreza e indigencia del primer semestre; trascendió que la pobreza subiría a 31%.",
+  "El Senado retoma la sesión para convertir en ley la reforma de la Carta Orgánica del BCRA y el nuevo régimen de Zonas Frías.",
+  "Trump recibió a Xi Jinping en Washington para una cumbre de tres días marcada por comercio, Taiwán e inteligencia artificial.",
+  "El petróleo Brent superó los cien dólares y Wall Street no descarta que llegue a 150 dólares si escala el conflicto con Irán.",
+  "En deportes, Colapinto terminó 18° en la primera práctica del GP de Azerbaiyán y Gallardo debuta como técnico de Ecuador ante Corea del Sur."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 100 por barril",
+   "variacion": "+4%",
+   "fuente": "CR-06"
+  },
+  {
+   "nombre": "Bono del Tesoro de EE.UU. a 10 años",
+   "valor": "5,11%",
+   "variacion": "+16 pb",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "caída de US$ 481 millones en la rueda",
+   "fuente": "IP-11"
+  },
+  {
+   "nombre": "Bitcoin",
+   "valor": "por debajo de US$ 85.000",
+   "fuente": "AM-22"
+  },
+  {
+   "nombre": "Pobreza (dato previo al informe oficial del INDEC)",
+   "valor": "31%",
+   "variacion": "+3 pp vs. semestre anterior",
+   "fuente": "AM-05"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-18",
+     "titulo": "Milei reclamó ante la ONU por Malvinas y cuestionó a la organización",
+     "resumen": "Ante la Asamblea General de la ONU, Javier Milei calificó a Malvinas como \"una causa nacional\" y pidió que la organización haga cumplir sus propias resoluciones, entre ellas la 3149 de hace 50 años que insta a Argentina y el Reino Unido a negociar. El Presidente cuestionó la efectividad de Naciones Unidas y convocó al Reino Unido a retomar las negociaciones, en momentos en que crece el interés del sector energético por invertir en Vaca Muerta.",
+     "relacionadas": [
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei, Malvinas y las contradicciones: cuestiona a la ONU, pero la necesita",
+       "url": "https://www.ambito.com/politica/javier-milei-malvinas-y-las-contradicciones-cuestiona-la-onu-pero-la-necesita-n6325947"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "¿Éxito o decepción?: el saldo político que deja la gira de Milei por Nueva York",
+       "url": "https://www.iprofesional.com/politica/465097-exito-o-decepcion-el-saldo-que-deja-la-gira-de-milei-por-nueva-york"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/23/milei-aseguro-que-malvinas-es-una-causa-nacional-y-critico-a-la-onu-frente-a-la-asamblea-general/",
+     "imagen": "https://www.infobae.com/resizer/v2/HI626ETJ6BEB3NYGKKSOPUUR3A.JPG?auth=f5e2988ecf9b2acf0f927d4dc53f504a7238eb996ef4a99d0a52035ee28bcb78&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:33",
+     "autor": "Román Lejtman",
+     "titulo_original": "Milei aseguró ante la Asamblea General que Malvinas es “una causa nacional” y criticó a la ONU porque “decidió mirar para otro lado”"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "El último día de Milei en Nueva York: Netanyahu, el Club Económico y el regreso a Buenos Aires",
+     "resumen": "El día del Presidente en Nueva York comenzó con una visita a la tumba del Rebe de Lubavitch y sigue con un encuentro con Benjamín Netanyahu para hablar de la crisis en Medio Oriente y un almuerzo en el Club Económico, donde ratificará la soberanía sobre Malvinas y fijará posición sobre inteligencia artificial. Por la noche, Milei emprenderá el regreso a Buenos Aires tras participar de la 81 Asamblea General de la ONU.",
+     "relacionadas": [
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Gira por New York: Milei se reunirá con Netanyahu y disertará en el Club Económico antes de regresar a Buenos Aires",
+       "url": "https://www.infobae.com/politica/2026/09/24/gira-por-new-york-milei-se-reunira-con-netanyahu-y-disertara-en-el-club-economico-antes-de-regresar-a-buenos-aires/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/javier-milei-diserta-inversionistas-reune-netanyahu-nueva-york-volver-argentina_0_SOJWngzDoF.html",
+     "imagen": "https://www.clarin.com/img/2026/09/24/0yuv0NzuJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei diserta ante inversionistas y se reúne con Netanyahu en Nueva York antes de volver a Argentina"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "La Justicia frenó, a horas de votarse, la elección de un académico para el Consejo de la Magistratura",
+     "resumen": "El juez federal Ariel Lijo, como juez electoral subrogante, suspendió el cronograma que preveía elegir este jueves al representante de los profesores de Derecho en el Consejo de la Magistratura, luego de un amparo de la UBA que cuestionó el sistema de elección indirecta aplicado por el Consejo Interuniversitario Nacional. La medida cautelar frena la integración de ese cuerpo antes de fin de año.",
+     "relacionadas": [
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Justicia hizo lugar a un amparo de la UBA y suspendió la elección de un académico para el Consejo de la Magistratura",
+       "url": "https://www.ambito.com/politica/la-justicia-hizo-lugar-un-amparo-la-uba-y-suspendio-la-eleccion-un-academico-el-consejo-la-magistratura-n6325989"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/ariel-lijo-como-juez-electoral-suspendio-la-eleccion-de-un-academico-para-el-consejo-de-la-nid23092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VKRTAT57SNAANFKPIFNXV63T6U.JPG?auth=8eb089db0d501846813961837bc3c0a08effc457b5f90e011f3e334c8975c344&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:34",
+     "autor": "",
+     "titulo_original": "Ariel Lijo, como juez electoral, suspendió la elección de un académico para el Consejo de la Magistratura"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "91 jueces porteños respaldaron a De Marinis y rechazaron el pedido de juicio político de Jorge Macri",
+     "resumen": "Un grupo de 91 magistrados de la Ciudad de Buenos Aires respaldó al juez De Marinis y cuestionó el pedido de juicio político impulsado por el jefe de Gobierno porteño, luego de un fallo que declaró inconstitucional para un caso concreto la aplicación del nuevo Régimen Penal Juvenil a un adolescente de 14 años. Los jueces sostuvieron que recurrir a un juicio político por el contenido de una sentencia afecta la independencia judicial.",
+     "url": "https://www.ambito.com/politica/caba-91-jueces-portenos-respaldaron-marinis-y-rechazaron-el-pedido-juicio-politico-impulsado-jorge-macri-n6325997",
+     "imagen": "https://media.ambito.com/p/e8954e6af8eedc561f4b71bbc4521276/adjuntos/239/imagenes/043/660/0043660115/laura-beatriz-marinis.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:24",
+     "autor": "",
+     "titulo_original": "CABA: 91 jueces porteños respaldaron a De Marinis y rechazaron el pedido de juicio político impulsado por Jorge Macri",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-24",
+     "titulo": "La Justicia investiga si los 591.000 dólares en bitcoins de Manuel Adorni eran realmente suyos",
+     "resumen": "La Justicia puso bajo investigación las billeteras de criptomonedas del exjefe de Gabinete Manuel Adorni y busca reconstruir el origen de los 591.000 dólares en bitcoins antes de definir si corresponde citarlo a indagatoria.",
+     "url": "https://www.ambito.com/politica/las-billeteras-adorni-quedaron-investigacion-buscan-comprobar-si-los-us591000-fueron-realmente-suyos-n6325916",
+     "imagen": "https://media.ambito.com/p/8d6d196ce7ba4d3efdda66b615aba18b/adjuntos/239/imagenes/043/337/0043337603/1200x675/smart/manuel-adorni-informe-gestion-diputados-congreso.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:26",
+     "autor": "",
+     "titulo_original": "Las billeteras de Manuel Adorni quedaron bajo investigación: buscan comprobar si los u$s591.000 fueron realmente suyos",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Ajuste en la obra social de las Fuerzas Armadas: denuncian el despido de 600 empleados y el cierre de 13 hoteles",
+     "resumen": "Trabajadores denunciaron que el 30 de septiembre vencen 400 contratos y otros 200 empleados de planta pasarán a disponibilidad en la obra social de las Fuerzas Armadas, en el marco de un ajuste que incluye el cierre de 13 hoteles. Los estatales anunciaron una marcha por el cierre de hoteles, recreos y farmacias del organismo.",
+     "url": "https://www.clarin.com/politica/ajuste-obra-social-militares-denuncian-despido-600-empleados-cierre-13-hoteles_0_mOjNS7185T.html",
+     "imagen": "https://www.clarin.com/img/2026/04/02/PfHIGWVsw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ajuste en la obra social de los militares: denuncian el despido de 600 empleados y el cierre de 13 hoteles",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Tras el escándalo por los despidos en Olivos, el Gobierno reincorporará a los empleados pero reubicados",
+     "resumen": "El Gobierno decidió reincorporar a los doce trabajadores desplazados de la residencia presidencial de Olivos, aunque serán reubicados fuera de la quinta. Todavía no se confirmó si la marcha atrás alcanzará a la totalidad de los cesanteados.",
+     "url": "https://www.ambito.com/politica/tras-el-escandalo-los-despidos-olivos-el-gobierno-reincorporara-empleados-pero-seran-reubicados-n6325999",
+     "imagen": "https://media.ambito.com/p/48d7d639feeda0e44d23e15acdd3aa03/adjuntos/239/imagenes/043/031/0043031271/quinta-olivos-2.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:38",
+     "autor": "",
+     "titulo_original": "Tras el escándalo por los despidos en Olivos, el Gobierno reincorporará empleados pero serán reubicados",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-12",
+     "titulo": "Superjueves económico: el Indec difunde pobreza y actividad mientras el Senado define BCRA y Zonas Frías",
+     "resumen": "Con Javier Milei en Nueva York, el Indec publicará a las 16 el Estimador Mensual de Actividad Económica de julio y los datos de pobreza e indigencia del primer semestre. En paralelo, el Senado sesiona para convertir en ley la reforma de la Carta Orgánica del BCRA y el nuevo régimen de Zonas Frías, ambos con media sanción de Diputados; según iProfesional, los aliados del oficialismo impondrían un cambio clave que obligaría a devolver la reforma del BCRA a Diputados. Para una empresa: la resolución de Zonas Frías y del esquema del Central definirá reglas de juego para costos de energía y financiamiento en los próximos meses.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Prevén aumento de la pobreza, pero en el Gobierno esperan mejora hacia fin de año",
+       "url": "https://www.ambito.com/preven-aumento-la-pobreza-pero-el-gobierno-esperan-mejora-fin-ano-n6326000"
+      },
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Senado vuelve a sesionar y devolverá la reforma del BCRA a Diputados con cambio clave",
+       "url": "https://www.iprofesional.com/politica/465079-senado-devolvera-la-reforma-del-bcra-a-diputados-con-cambio-clave"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/24/superjueves-la-pobreza-y-la-actividad-marcaran-la-agenda-mientras-el-senado-define-las-reformas-del-bcra-y-zonas-frias/",
+     "imagen": "https://www.infobae.com/resizer/v2/QMR3W7MAK5CXBGU4YHVJK2UKXM.jpg?auth=7913c645f77b6729fdc927b150ac97698f828770368546632ad1f427685c00ef&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:06",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "“Superjueves”: la pobreza y la actividad marcarán la agenda, mientras el Senado define las reformas del BCRA y Zonas Frías"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Cinco razones detrás de la escalada del riesgo país a 566 puntos",
+     "resumen": "El riesgo país, que llegó a tocar 400 puntos a fines de julio, cerró en 566 unidades y lleva ocho jornadas consecutivas de suba, con todos los bonos en dólares rindiendo por encima del 10% anual. Entre los motivos que citan los analistas figura el menor ritmo de compras del Banco Central, mientras hoy se prueba el apetito por deuda argentina con la colocación de un bono a nueve años de la provincia de San Juan.",
+     "relacionadas": [
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Por qué cayeron los bonos y subió el riesgo país luego del paso de Caputo por Wall Street",
+       "url": "https://www.iprofesional.com/finanzas/465090-por-que-caen-bonos-y-sube-riesgo-pais-tras-paso-de-caputo-por-wall-street"
+      },
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país subió por octava jornada consecutiva y se acercó a los 570 puntos",
+       "url": "https://www.iprofesional.com/finanzas/465054-el-riesgo-pais-subio-por-octava-jornada-consecutiva-y-se-acerco-a-los-570-puntos"
+      },
+      {
+       "id": "CR-02",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Los bonos recomendados por cinco analistas top para aprovechar la suba de tasas",
+       "url": "https://www.cronista.com/finanzas-mercados/los-bonos-recomendados-por-cinco-analistas-top-para-aprovechar-la-suba-de-tasas/"
+      },
+      {
+       "id": "CR-09",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Acciones y bonos: cómo armar una cartera conservadora tras la suba de tasas de la Fed",
+       "url": "https://www.cronista.com/finanzas-mercados/acciones-y-bonos-como-armar-una-cartera-conservadora-tras-la-suba-de-tasas-de-la-fed/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/24/las-5-razones-que-identificaron-los-analistas-para-explicar-el-fuerte-repunte-del-riesgo-pais/",
+     "imagen": "https://www.infobae.com/resizer/v2/WTUG7PRR5NES3FLWANBU2RHG6U.JPG?auth=837ba56d3bfd6b62b4973142dec794a148411cd5072fc83ad7db510df5f71fbb&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:04",
+     "autor": "Pablo Wende",
+     "titulo_original": "Las 5 razones que identificaron los analistas para explicar el fuerte repunte del riesgo país"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Wall Street no descarta que el petróleo llegue a 150 dólares por la guerra con Irán",
+     "resumen": "Tras las críticas del presidente iraní Masud Pezeshkián a Estados Unidos en la ONU, el Brent volvió a superar los 100 dólares por barril al saltar 4%, con un pico de 104 dólares, mientras el WTI operó en 92 dólares. Bank of America elevó su proyección para el Brent en el segundo semestre a 95 dólares y advirtió riesgos al alza si se prolonga el conflicto.",
+     "url": "https://www.cronista.com/finanzas-mercados/wall-street-alerta-que-el-petroleo-podria-trepar-hasta-los-us-150/",
+     "imagen": "https://www.cronista.com/resizer/v2/5OHJBIPIZFHK5CP5HVCG7QU2R4.jpg?auth=89226f04f401c1c8d35e4f4f4f863bac1a6521e07c445060f0079b8e7c40c27b&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "Wall Street alerta que el petróleo podría trepar hasta los u$s 150",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-22",
+     "titulo": "Bitcoin cayó por debajo de los 85.000 dólares tras el retroceso de Wall Street",
+     "resumen": "La principal criptomoneda perdió el nivel de los 85.000 dólares en sintonía con la caída de Wall Street y acumula una suba de menos del 10% en lo que va de septiembre, luego de subir 4,8% en julio y 25,2% en agosto.",
+     "url": "https://www.ambito.com/finanzas/bitcoin-se-afirma-los-us85000-y-apunta-algo-que-solo-ocurrio-una-vez-subir-julio-agosto-y-septiembre-n6325596",
+     "imagen": "https://media.ambito.com/p/98a4ebf8c202e5191362668a4dcd6a02/adjuntos/239/imagenes/042/953/0042953725/bitcoin-moneda-cripto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:20",
+     "autor": "",
+     "titulo_original": "Bitcoin cae y opera debajo de los u$s85.000 tras el fuerte retroceso de Wall Street",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-11",
+     "titulo": "El BCRA redujo sus compras y las reservas tuvieron su mayor caída del mes",
+     "resumen": "El Banco Central sumó apenas 6 millones de dólares el miércoles, pero las reservas brutas cayeron 481 millones de dólares, la mayor baja diaria del mes.",
+     "url": "https://www.iprofesional.com/finanzas/465088-el-bcra-redujo-el-nivel-de-compras-y-las-reservas-anotaron-su-mayor-caida-en-el-mes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618301.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:47",
+     "autor": "",
+     "titulo_original": "El BCRA redujo el nivel de compras y las reservas anotaron su mayor caída en el mes",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-15",
+     "titulo": "El empleo creció 2,4% en la Ciudad de Buenos Aires pero la desocupación no bajó",
+     "resumen": "Un informe del Instituto de Estadística y Censos porteño contabilizó 1.613.000 personas ocupadas y 125.000 desocupadas en la Ciudad durante el segundo trimestre, con un aumento del cuentapropismo y más personas buscando trabajo, lo que explica que la tasa de desocupación se mantuviera sin cambios pese a la suba del empleo.",
+     "url": "https://www.ambito.com/economia/crecio-24-el-empleo-caba-pero-se-mantuvo-cambios-la-tasa-desocupacion-los-motivos-n6325981",
+     "imagen": "https://media.ambito.com/p/ad3d60d282c53ef73ea1f918d171c75a/adjuntos/239/imagenes/042/777/0042777321/jovenes-empleo-educacion-trabajo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:44",
+     "autor": "",
+     "titulo_original": "Creció 2,4% el empleo en CABA, pero se mantuvo sin cambios la tasa de desocupación: los motivos",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "Estados Unidos y la Argentina lanzaron el Corredor Andes-Atlántico con hasta 7.000 millones de dólares",
+     "resumen": "El canciller Pablo Quirno y el subsecretario de Estado estadounidense Christopher Landau presentaron en Nueva York el Corredor Andes-Atlántico, que busca modernizar la infraestructura para conectar la producción minera, petrolera y gasífera argentina con los puertos del Atlántico. La iniciativa incluye una línea indicativa de hasta 6.000 millones de dólares del EXIM para el proyecto de GNL de YPF y un marco de financiamiento de hasta 7.000 millones de dólares hasta 2027.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Estados Unidos y la Argentina lanzan un ambicioso “corredor de infraestructura” con financiamiento por hasta US$7000 millones",
+       "url": "https://www.lanacion.com.ar/economia/estados-unidos-y-la-argentina-lanzan-un-ambicioso-corredor-de-infraestructura-con-financiamiento-por-nid23092026/"
+      },
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Argentina y EEUU firmaron acuerdo con inversiones de hasta u$s7.000 millones en infraestructura, minerales críticos, energía y sector digital",
+       "url": "https://www.ambito.com/economia/argentina-y-eeuu-lanzaron-el-corredor-andes-atlantico-inversiones-us7000-millones-n6325971"
+      },
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Corredor Andes-Atlántico: qué hay detrás de los 7.000 millones que acordaron con EE.UU., según Quirno y un funcionario de Trump",
+       "url": "https://www.cronista.com/economia-politica/corredor-andes-atlantico-que-hay-detras-de-los-7000-millones-que-acordaron-con-eeuu-segun-quirno-y-un-funcionario-de-trump/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/eeuu-y-la-argentina-lanzan-el-corredor-andes-atlantico-para-financiar-obras-de-energia-mineria-y-transporte/",
+     "imagen": "https://www.cronista.com/resizer/v2/XO7QHT56JBEKLAVBIKSJGAIUYA.jpg?auth=7224524df11a2932947a08db2df17029b8ab6632a3d80db4e39ae04ecfa05fbe&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:19",
+     "autor": "Daniela Romero",
+     "titulo_original": "Hasta u$s7.000 millones: EE.UU. y la Argentina lanzan el Corredor Andes-Atlántico para financiar energía, minería y transporte"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Vaca Muerta necesita 20.000 millones de dólares anuales y Milei busca inversores en Wall Street",
+     "resumen": "La Cuenca Neuquina requiere unos 20.000 millones de dólares al año en obras e infraestructura, según el reclamo del sector, y el Gobierno intensificó la búsqueda de esos fondos entre inversores de Wall Street durante la gira presidencial por Nueva York.",
+     "url": "https://www.iprofesional.com/energia/465073-vaca-muerta-necesita-20000-millones-dolares-anuales-javier-milei-pasa-la-gorra-en-wall-street",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626220.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:22",
+     "autor": "",
+     "titulo_original": "Vaca Muerta necesita u$s20.000 millones anuales y Milei pasa la gorra en Wall Street",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Central Puerto vendió una minera con ganancia de 138 millones de dólares y ahora busca en petróleo y minería",
+     "resumen": "La generadora eléctrica Central Puerto ingresó a una empresa minera con una inversión de 25 millones de dólares y la vendió luego en 163 millones, una diferencia de 138 millones que destinará a explorar nuevas oportunidades en minería y petróleo. La compañía también evalúa participar en la privatización de las centrales Belgrano y San Martín, en las que ya tiene participación.",
+     "url": "https://www.cronista.com/negocios/central-puerto-sale-de-compras-busca-en-petroleo-mineria-y-centrales-electricas/",
+     "imagen": "https://www.cronista.com/resizer/v2/UCGS5J64IZFCTG6NHOTJM64WVQ.JPG?auth=f194e5ca7960470dfed685de4aa1aacc9c698e69a1fa290f9eb97fbaccd05565&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Martín Bidegaray",
+     "titulo_original": "Central Puerto sale de compras: busca en petróleo, minería y centrales eléctricas",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Pampa Energía busca exportar urea a Brasil de la mano de Marcelo Mindlin",
+     "resumen": "Marcelo Mindlin inició conversaciones con el gobierno brasileño para que Pampa Energía abastezca de urea a Brasil, un país que importa la mayor parte de los fertilizantes que consume.",
+     "url": "https://www.iprofesional.com/negocios/465089-mindlin-gana-peso-en-brasil-y-abre-otro-mercado-para-pampa-energia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626224.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:39",
+     "autor": "",
+     "titulo_original": "Mindlin gana peso en Brasil y abre otro mercado para Pampa Energía",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-18",
+     "titulo": "Vista colocó 400 millones de dólares de deuda internacional a tasa baja",
+     "resumen": "La petrolera Vista amplió su bono internacional con vencimiento en 2038 y colocó 400 millones de dólares para financiar sus planes de inversión y expandir la producción no convencional en la Cuenca Neuquina.",
+     "url": "https://www.iprofesional.com/energia/465022-vista-coloco-us400-millones-en-el-mercado-externo-y-mantuvo-tasa-baja",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606491.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:51",
+     "autor": "",
+     "titulo_original": "Vista colocó u$s400 millones en el mercado externo y mantuvo una tasa baja",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-17",
+     "titulo": "La mayor productora de papel del país adeuda la mitad de los sueldos y negocia en concurso preventivo",
+     "resumen": "La empresa, que atraviesa un concurso preventivo, acumula pérdidas por más de 127.000 millones de pesos y negocia con sus trabajadores el pago de los haberes adeudados.",
+     "url": "https://www.iprofesional.com/negocios/465078-productora-de-papel-celulosa-argentina-debe-la-mitad-de-los-sueldos-agosto-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/06/517825.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "La productora de papel más grande de argentina debe la mitad de los sueldos",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "ARCA precisó las pautas para blanquear empleados bajo la Ley de Modernización Laboral",
+     "resumen": "ARCA actualizó su ABC de consultas frecuentes para dar precisiones sobre el Régimen de Promoción del Empleo Registrado creado por la Ley de Modernización Laboral, con pautas específicas para las empresas que regularicen trabajadores. Para una empresa: conviene revisar el nuevo ABC antes de iniciar un proceso de blanqueo laboral para aprovechar los beneficios del régimen.",
+     "url": "https://www.iprofesional.com/impuestos/465106-arca-ajusto-las-pautas-a-seguir-por-las-empresas-a-la-hora-de-blanquear-empleados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588170.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:53",
+     "autor": "",
+     "titulo_original": "ARCA ajustó las pautas a seguir por las empresas a la hora de blanquear empleados",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-16",
+     "titulo": "La UOCRA y las empresas de la construcción acordaron aumentos salariales para el tercer trimestre",
+     "resumen": "El gremio de la construcción y las cámaras empresarias pactaron aumentos mensuales de sueldo para los obreros durante el tercer trimestre de 2026. Para una empresa: el nuevo esquema paritario impacta directamente en los costos de mano de obra de las compañías vinculadas a la construcción.",
+     "url": "https://www.iprofesional.com/impuestos/465083-paritaria-de-la-construccion-con-aumentos-salariales-para-el-trimestre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626145.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:06",
+     "autor": "",
+     "titulo_original": "Paritaria: los obreros de la construcción acordaron aumentos de sueldo para el trimestre",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-22",
+     "titulo": "ARCA detalló cómo confeccionar el recibo digital para empleadas de casas particulares",
+     "resumen": "Los empleadores del régimen de Casas Particulares ya pueden encontrar en la web de ARCA las pautas para confeccionar correctamente los recibos de sueldo digitales de sus empleadas.",
+     "url": "https://www.iprofesional.com/impuestos/465069-arca-como-confeccionar-recibo-digital-empleadas-domesticas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625008.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:20",
+     "autor": "",
+     "titulo_original": "ARCA detalló cómo confeccionar el recibo digital para empleadas domésticas",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-06",
+     "titulo": "La Corte Suprema confirmó los cuatro años de prisión a Alberto Samid por evasión impositiva",
+     "resumen": "Tras años de recursos en los tribunales, quedó firme la condena a cuatro años de prisión para el empresario cárnico Alberto Samid, acusado de liderar una organización dedicada al fraude fiscal.",
+     "url": "https://www.iprofesional.com/legales/465096-corte-suprema-justicia-ratifico-4-anos-prision-a-alberto-samid-por-evasion-impositiva",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611880.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:10",
+     "autor": "",
+     "titulo_original": "La Corte Suprema ratificó los 4 años de prisión a Alberto Samid por evasión impositiva",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-05",
+     "titulo": "El Gobierno redujo trámites en la IGJ para agilizar la creación de empresas",
+     "resumen": "La Inspección General de Justicia derogó 33 artículos reglamentarios y dos resoluciones generales que exigían requisitos no previstos en el Código Civil y Comercial para constituir sociedades. El ministro de Justicia, Juan Bautista Mahiques, dijo que el objetivo es reducir la burocracia, bajar costos y acelerar los tiempos para abrir una empresa. Para una empresa: el trámite de constitución societaria debería resultar más rápido y económico a partir de estos cambios.",
+     "url": "https://www.cronista.com/economia-politica/menos-burocracia-los-cambios-en-los-tramites-para-facilitar-la-creacion-de-empresas/",
+     "imagen": "https://www.cronista.com/resizer/v2/SKQISFW3ZRH47LVQYEB6PA7VAU.jpg?auth=b3b70740e2968396da0903bbacb4ec76b1ab8f1a44f4fedbfeabe0d5c62aa47a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "Menos burocracia: los cambios en los trámites para facilitar la creación de empresas",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Retiro voluntario: las tres preguntas antes de aceptar la propuesta de una empresa",
+     "resumen": "Ante procesos de reestructuración, las compañías suelen ofrecer un retiro voluntario con un incentivo económico a cambio de que el trabajador acepte finalizar el vínculo laboral de forma consensuada. Especialistas advierten que la aparente simplicidad del acuerdo esconde variables legales, económicas y previsionales que conviene analizar antes de aceptar la oferta.",
+     "url": "https://www.cronista.com/economia-politica/retiro-voluntario-las-3-preguntas-que-tenes-que-responder-para-saber-si-te-conviene-aceptarlo/",
+     "imagen": "https://www.cronista.com/resizer/v2/WQVN6GBTUZDJZMFL3THKR4UV5E.jpg?auth=652338b71873dc79c6a20bb20a6fb48a43a3cc47433ffe881ad8e879289f1826&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "",
+     "titulo_original": "Retiro voluntario: las 3 preguntas que tenés que responder para saber si te conviene aceptarlo",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-23",
+     "titulo": "El costo de construir una casa de 100 metros cuadrados alcanzó un máximo histórico en pesos",
+     "resumen": "El costo de construcción volvió a subir y llegó a un nuevo máximo en pesos, presionado tanto por los materiales como por la mano de obra. Para una empresa: el encarecimiento de la obra impacta de lleno en el negocio de materiales de construcción y en la demanda de las familias que planean construir o remodelar.",
+     "url": "https://www.iprofesional.com/realestate/464312-cuanto-cuesta-construir-una-casa-de-100m2-por-record-de-costos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/612891.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:15",
+     "autor": "",
+     "titulo_original": "Cuánto sale construir una casa de 100m2, con los costos en pesos en máximos históricos",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-25",
+     "titulo": "Las ventas en los supermercados volvieron a caer, pero repuntaron en mayoristas y shoppings",
+     "resumen": "Los datos oficiales de julio mostraron una nueva caída en las ventas de supermercados, mientras que los mayoristas y los shoppings mostraron un repunte. Más allá de esos rebotes puntuales, todos los canales acumulan caídas en la comparación anual. Para una empresa: la recuperación del consumo sigue siendo despareja entre canales de venta.",
+     "url": "https://www.iprofesional.com/economia/465072-ventas-en-supermercados-volvieron-a-caer-pero-repuntaron-en-mayoristas-y-shoppings",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618741.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:57",
+     "autor": "",
+     "titulo_original": "Las ventas en supermercados volvieron a caer, pero repuntaron en mayoristas y shoppings",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-02",
+     "titulo": "El mercado inmobiliario porteño se estabilizó en 6.000 escrituras mensuales pese al crédito hipotecario más bajo",
+     "resumen": "En agosto se firmaron 6.055 escrituras de compraventa en la Ciudad de Buenos Aires, apenas cuatro más que las 6.051 de julio y 65 por encima de las 5.990 de junio, según el Colegio de Escribanos porteño. La escribana Magdalena Tato señaló que el mercado tiene margen de crecimiento y que cada mejora en el financiamiento se traducirá en más escrituras, pese a que el crédito hipotecario todavía está por debajo del año pasado.",
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/magdalena-tato-escribana-el-mercado-tiene-margen-de-crecimiento-y-cada-mejora-en-el-financiamiento-nid23092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KMSHU2V22VE2XP4WUSFY27JOUI.JPG?auth=fc1e65310ebe38be6e0524af86342588955ebad312c27937199d0f1cece85da3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:07",
+     "autor": "Candela Contreras",
+     "titulo_original": "Magdalena Tato, escribana: “El mercado tiene margen de crecimiento y cada mejora en el financiamiento se va a traducir en más escrituras”",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Los cinco barrios de la Ciudad donde conviene alquilar por precio y menor suba",
+     "resumen": "Según un informe de Zonaprop, en agosto los alquileres publicados en la Ciudad de Buenos Aires aumentaron 1,5% y acumulan una suba de 19,2% en lo que va de 2026, con un incremento interanual del 29,9%. El valor promedio de un monoambiente se ubicó en 771.871 pesos mensuales y un departamento de dos ambientes en 886.527 pesos.",
+     "url": "https://www.cronista.com/economia-politica/alquilar-en-2026-los-cinco-barrios-de-caba-donde-conviene-buscar-por-sus-precios-y-menores-subas/",
+     "imagen": "https://www.cronista.com/resizer/v2/UXJBJUSEGBCCNLEU6CVUVV6PCY.jpg?auth=4d05514e6688c22c17199e15e1452de2673176719f4ea83d9a6f7e20f4daacf5&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "22:30",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Alquilar en 2026: los cinco barrios de CABA donde conviene buscar por sus precios y menores subas",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-26",
+     "titulo": "Cuánto hay que ganar para acceder a un crédito hipotecario UVA en septiembre",
+     "resumen": "Los ingresos requeridos para calificar a un crédito hipotecario UVA varían según la entidad bancaria y el plazo elegido, pero existe un piso de ingresos que se debe cumplir para poder solicitar el préstamo.",
+     "url": "https://www.ambito.com/economia/creditos-hipotecarios-uva-cuanto-hay-que-ganar-comprar-un-departamento-septiembre-2026-n6325477",
+     "imagen": "https://media.ambito.com/p/b9d97be3cbf7e2f8c4caddb337a7686c/adjuntos/239/imagenes/043/619/0043619267/1200x675/988x488:1008x508/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios UVA: ¿cuánto hay que ganar para comprar un departamento en septiembre de 2026?",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-25",
+     "titulo": "Datos, telemetría e inteligencia artificial transforman la gestión de flotas corporativas",
+     "resumen": "Pablo Comba, director comercial de Edenred Argentina, explicó que la gestión de flotas de empresas y organismos públicos pasa de sistemas cerrados a ecosistemas conectados entre sí. En electromovilidad, la compañía ya opera en Europa, México y Brasil con sistemas que controlan la carga energética, un modelo que empezará a replicarse en la región.",
+     "url": "https://www.cronista.com/negocios/datos-telemetria-e-inteligencia-artificial-como-se-transformo-la-gestion-de-las-flotas-corporativas/",
+     "imagen": "https://www.cronista.com/resizer/v2/JKKW7EPEKRAENAMDMG6IAJENEU.JPG?auth=3972128029b4ae831bf9c7a60ce031c1353b4e75b8dd7ebb563d17bf78f06ec8&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "Datos, telemetría e inteligencia artificial: cómo se transformó la gestión de las flotas corporativas",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Warren Buffett: \"el precio es lo que pagas, el valor es lo que recibes\"",
+     "resumen": "La célebre frase del inversor Warren Buffett explica por qué el precio de una acción no siempre refleja su verdadero valor, y sirve como guía para analizar esa diferencia al momento de invertir.",
+     "url": "https://www.ambito.com/negocios/warren-buffett-el-precio-es-lo-que-pagas-el-valor-es-lo-que-recibes-n6325748",
+     "imagen": "https://media.ambito.com/p/3d747a01c42f24fff352ad6a974ef9eb/adjuntos/239/imagenes/043/275/0043275386/warren-buffett-carlo-allegrireuters.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "Warren Buffett: \"El precio es lo que pagas. El valor es lo que recibes\"",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-08",
+     "titulo": "Winco, la pyme familiar de electrodomésticos que se adapta entre fabricar e importar",
+     "resumen": "Hernán Zaleski, gerente general de Winco, dijo que la clave de la empresa familiar de pequeños electrodomésticos es la flexibilidad: fabrican cuando conviene fabricar e importan cuando conviene importar, para sostener el objetivo de estar en todos los hogares argentinos pese a los vaivenes económicos.",
+     "url": "https://www.ambito.com/negocios/hernan-zaleski-winco-nuestra-clave-es-ser-flexibles-si-hay-que-fabricar-fabricamos-y-cuando-hay-que-importar-importamos-n6323135",
+     "imagen": "https://media.ambito.com/p/4aa5f46148ee512b113a4b454bc67f8e/adjuntos/239/imagenes/043/647/0043647229/1200x675/smart/ceo-winco-hernan-zaleski-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Hernán Zaleski, de Winco: \"Nuestra clave es ser flexibles, si hay que fabricar fabricamos y cuando hay que importar importamos\"",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-01",
+     "titulo": "Marmicoc y TASA Logística, dos empresas familiares argentinas que se acercan al centenario",
+     "resumen": "Las dos compañías, una dedicada a artículos de cocina y la otra a soluciones logísticas, nacieron de iniciativas personales y atravesaron varias transformaciones a lo largo de su historia. Ambas combinan el legado de sus fundadores con inversiones y planes de expansión.",
+     "url": "https://www.ambito.com/negocios/resiliencia-e-innovacion-los-puntos-comunes-la-historia-dos-empresas-familiares-que-se-acercan-al-centenario-n6325931",
+     "imagen": "https://media.ambito.com/p/e1510a9ea7a81d80c1afc9435aa60799/adjuntos/239/imagenes/043/661/0043661353/1200x675/smart/tasa-logistica-interior.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Resiliencia e innovación, los puntos comunes en la historia de dos empresas familiares que se acercan al centenario",
+     "relacionadas": []
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-16",
+     "titulo": "Trump recibió a Xi Jinping en Washington para una cumbre de tres días marcada por comercio y Taiwán",
+     "resumen": "El presidente estadounidense recibió al líder chino y a su esposa, Peng Liyuan, en una visita de Estado que incluye ceremonia oficial y cena con empresarios y referentes tecnológicos. La agenda bilateral abarca comercio, Taiwán, Irán e inteligencia artificial, y es la primera visita de Xi a Washington en más de una década.",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Donald Trump recibió a Xi Jinping en EEUU con una enorme puesta en escena: alfombra roja y bienvenida en la pista de aterrizaje",
+       "url": "https://www.ambito.com/mundo/donald-trump-recibe-xi-jinping-eeuu-una-enorme-puesta-escena-que-desafia-los-protocolos-n6325654"
+      },
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Reunión clave en Estados Unidos: Donald Trump recibe a Xi Jinping en la pista del aeropuerto de la Base Andrews",
+       "url": "https://www.clarin.com/mundo/reunion-clave-estados-unidos-donald-trump-recibe-xi-jinping-pista-aeropuerto-base-andrews_0_mdVywbf7hp.html"
+      },
+      {
+       "id": "LN-15",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Trump recibió a Xi en Washington al pie del avión presidencial chino y da inicio a una cumbre de alto riesgo",
+       "url": "https://www.lanacion.com.ar/el-mundo/trump-prepara-un-gran-despliegue-para-recibir-a-xi-en-washington-nid23092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/09/24/trump-recibe-a-xi-jinping-en-la-casa-blanca-para-una-cumbre-marcada-por-el-comercio-taiwan-iran-y-la-inteligencia-artificial/",
+     "imagen": "https://www.infobae.com/resizer/v2/XZKKUQHDE5GFDB7TII5J33Z2JI.jpg?auth=1e3c563089460e2f3387bca759487126c572bb4205654593eb4f88c811e981db&smart=true&width=900&height=661",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:01",
+     "autor": "",
+     "titulo_original": "Trump recibe a Xi Jinping en la Casa Blanca para una cumbre marcada por el comercio, Taiwán, Irán y la inteligencia artificial"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Rusia atacó con misiles balísticos Kiev y Kharkiv y dejó al menos nueve muertos",
+     "resumen": "Un ataque ruso con misiles balísticos contra Kiev generó más de 20 explosiones durante la madrugada y obligó a los residentes a permanecer en refugios; además, el bombardeo sobre Kharkiv mató a nueve personas e hirió a otras diez, según el primer ministro ucraniano Serguí Koretski. El presidente Volodimir Zelensky afirmó que los principales blancos fueron zonas civiles e infraestructura energética.",
+     "url": "https://www.infobae.com/america/mundo/2026/09/24/rusia-lanzo-un-nuevo-ataque-con-misiles-balisticos-contra-kiev-al-menos-dos-muertos-y-seis-heridos/",
+     "imagen": "https://www.infobae.com/resizer/v2/LYZAWF2CB5BZFCAEFES753DZHI.JPG?auth=ef66b85d86553d55cfcbf182e794d31e030d2f9e5751cfbcbbc5bd7853aecf9c&smart=true&width=900&height=641",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:21",
+     "autor": "",
+     "titulo_original": "Rusia lanzó un nuevo ataque con misiles balísticos contra Kiev y Kharkiv: al menos nueve muertos y 16 heridos",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-20",
+     "titulo": "La OMS advirtió que el ébola sigue fuera de control en el Congo por la falta de personal sanitario",
+     "resumen": "El brote de ébola en la República Democrática del Congo se extendió a siete provincias y suma 7.773 casos confirmados y 3.759 muertes, con un aumento del 73% en tres semanas en la provincia de Kivu del Norte. La Organización Mundial de la Salud advirtió que la crisis actual podría superar al brote de África Occidental de 2014-2016, el más mortífero registrado hasta ahora.",
+     "url": "https://www.infobae.com/america/mundo/2026/09/24/la-oms-advirtio-que-el-congo-tiene-escasez-de-personal-sanitario-mientras-el-ebola-sigue-fuera-de-control/",
+     "imagen": "https://www.infobae.com/resizer/v2/OHQAEDVC5BHABFG4HQKF55YPMU.JPG?auth=ab53a986f321d229d41a450194523c048c9f3b8beda5b1cd3e48846e4bba5809&smart=true&width=900&height=586",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:51",
+     "autor": "",
+     "titulo_original": "La OMS advirtió que el Congo tiene escasez de personal sanitario mientras el ébola sigue fuera de control",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Delcy Rodríguez prometió en la ONU que habrá elecciones en Venezuela, sin fecha definida",
+     "resumen": "La presidenta interina de Venezuela aseguró en su discurso ante la Asamblea General que habrá elecciones con participación de todos los partidos, aunque no precisó un calendario. Además agradeció a Donald Trump por la disposición a retomar relaciones diplomáticas y saludó el acuerdo energético firmado entre ambos países, sin mencionar a Nicolás Maduro.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"Habrá elecciones en Venezuela\": Delcy Rodríguez confirmó los comicios en su país, \"garantizó\" la libre participación, pero no puso fecha",
+       "url": "https://www.clarin.com/mundo/elecciones-venezuela-delcy-rodriguez-confirmo-comicios-pais-garantizo-libre-participacion-puso-fecha_0_6vkZExIIqk.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/delcy-rodriguez-prometio-en-la-onu-que-habra-elecciones-en-venezuela-y-elogio-el-acuerdo-petrolero-nid23092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/A5QZUWVOZZCZ3HOFWBSP36EAXE.jpg?auth=9b05f12c678f8a9be514fa308b2f7d002b2e152dd962ff4c30304b6946ce1a4b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:44",
+     "autor": "",
+     "titulo_original": "Delcy Rodríguez prometió en la ONU que habrá elecciones en Venezuela y elogió el acuerdo petrolero con EE.UU."
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Un grupo de piratas informáticos dice haber accedido a datos privados de empleados del FBI",
+     "resumen": "El grupo ShinyHunters se atribuyó el robo de información confidencial de miles de agentes y aspirantes a través del portal de empleo de la agencia, y exigió eliminar una alerta previa sobre sus tácticas bajo amenaza de mayores consecuencias.",
+     "url": "https://www.clarin.com/mundo/alerta-estados-unidos-piratas-informaticos-afirman-accedieron-informacion-privada-miles-empleados-fbi_0_MopJmp2Woy.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/h2eQPMMM0_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alerta en Estados Unidos: piratas informáticos afirman que accedieron a información privada de miles de empleados del FBI",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Por qué no hay mujeres en la tripulación de Artemis III, según un astronauta europeo",
+     "resumen": "El astronauta italiano Luca Parmitano, uno de los cuatro integrantes de la misión Artemis III de la NASA prevista para 2027, explicó que la ausencia de mujeres respondió a que se priorizaron las necesidades específicas de la misión, en coincidencia con lo explicado semanas atrás por la propia agencia espacial ante las críticas recibidas.",
+     "url": "https://www.lanacion.com.ar/el-mundo/por-que-no-hay-mujeres-en-artemis-iii-la-explicacion-del-astronauta-luca-parmitano-nid23092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7L2WA3B6YJCK3BRISUCDQYMXEU.jpg?auth=869080f89a8b4cc2f72c9b06530fc6e3c20e8f153090cc4b35bcc2c0feb85239&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:30",
+     "autor": "",
+     "titulo_original": "Por qué no hay mujeres en Artemis III: la explicación del astronauta Luca Parmitano",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-02",
+     "titulo": "Candidatos republicanos empiezan a distanciarse de Trump de cara a las elecciones de medio término",
+     "resumen": "Le Grand Continent señala que varios candidatos republicanos alineados con la agenda de la Casa Blanca se opusieron públicamente a Trump por la guerra en Irán, el protocolo reservado a Xi Jinping, la política migratoria y la financiación de un oligarca ruso a la boda de Don Trump Jr. La revista destaca que, según un informe del American Research Group, la aprobación de Trump cayó al 29%, la primera vez en sus dos mandatos que el índice perfora el 30%, y lee ese dato como el principal factor que empuja a esos candidatos a tomar distancia.",
+     "url": "https://legrandcontinent.eu/es/2026/09/24/ante-las-midterms-candidatos-republicanos-se-distancian-de-trump/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "De cara a las elecciones de mitad de mandato, los candidatos republicanos se distancian de Trump",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent plantea que Europa debe reconstruir su vínculo con África",
+     "resumen": "La revista sostiene que la Unión Europea repite inercias del pasado en su relación con África y que resulta necesario romper esa rutina para restablecer vínculos con un continente que jugará un papel esencial en el siglo XXI. El análisis se apoya en la lectura de una ola de democratización en la región para argumentar por qué el acercamiento europeo no puede seguir postergándose.",
+     "url": "https://legrandcontinent.eu/es/2026/09/24/europa-debe-acercarse-africa/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/09/Carte-langue-peul-et-conflits-V3-125x40.png",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "05:19",
+     "autor": "Louis Puel",
+     "titulo_original": "Europa debe volver a acercarse a África",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "Marcelo Gallardo debuta como técnico de Ecuador ante Corea del Sur tras dirigir una sola práctica",
+     "resumen": "A 209 días de su último partido en River, Marcelo Gallardo dirigirá por primera vez a una selección: Ecuador enfrenta a Corea del Sur este jueves a las 8 de la Argentina en Suwon, en un amistoso para el que el Muñeco solo tuvo una práctica de campo con el plantel.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Corea del Sur vs Ecuador de Marcelo Gallardo, EN VIVO, amistoso internacional: a qué hora juegan, formaciones y cómo ver el partido",
+       "url": "https://www.clarin.com/deportes/corea-sur-vs-ecuador-marcelo-gallardo-vivo-amistoso-internacional-hora-juegan-formaciones-ver-partido_0_hQWcSYsRa4.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/marcelo-gallardo-dirige-solo-una-practica-y-ya-debuta-con-ecuador-ante-corea-del-sur-nid23092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VTEICEMMFFHHLELQ75PTX4JVT4.JPG?auth=6f8d91e825eb95809df30cd2ebfe7ccfc22509e46119d87700f6d5b5ad46043c&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:39",
+     "autor": "",
+     "titulo_original": "Marcelo Gallardo dirige solo una práctica y ya debuta con Ecuador ante Corea del Sur"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Micaela Levaggi le dio a la Argentina la primera medalla dorada del atletismo en los Juegos Suramericanos",
+     "resumen": "La atleta se impuso en los 1.500 metros con un sprint final que le permitió clasificar a los Juegos Panamericanos de Lima 2027. Levaggi había vendido rifas para financiar una beca que le habían rechazado y agradeció a las miles de personas que la ayudaron a llegar hasta esta marca.",
+     "url": "https://www.clarin.com/deportes/micaela-levaggi-vender-rifas-beca-rechazada-darle-primera-medalla-dorada-atletismo-juegos-suramericanos-sonaba_0_ojVcjvyDRH.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/T9MQM0B2K_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Micaela Levaggi, de vender rifas por su beca rechazada a darle la primera medalla dorada al atletismo en los Juegos Suramericanos: \"Es todo lo que soñaba\"",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Felipe Contepomi ya superó los 24 debuts de Los Pumas del ciclo de Ledesma",
+     "resumen": "Con la temporada actual todavía en curso, Contepomi amplió la base de jugadores convocados a Los Pumas y superó los 24 debuts que había dado Ledesma en todo su ciclo como entrenador; Cheika, en un período más corto, había sumado ocho jugadores nuevos.",
+     "url": "https://www.clarin.com/deportes/felipe-contepomi-amplia-base-pumas-ultimos-entrenadores-jugadores-aporto-seleccionado_0_M82FfpERiH.html",
+     "imagen": "https://www.clarin.com/img/2025/12/03/sDSDjlDdZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Felipe Contepomi amplía la base de Los Pumas: de los últimos tres entrenadores fue el que más jugadores aportó al seleccionado",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Cristiano Ronaldo apunta a llegar a los 1.000 goles antes de retirarse",
+     "resumen": "El delantero portugués se prepara para una nueva fecha FIFA con su selección y expresó su ansiedad por seguir sumando goles, aunque reconoció que le queda poco tiempo de carrera para alcanzar la marca de los 1.000 tantos.",
+     "url": "https://www.ambito.com/deportes/cristiano-ronaldo-vuelve-portugal-y-se-fija-un-nuevo-desafio-llegar-los-1000-goles-antes-retirarse-n6325930",
+     "imagen": "https://media.ambito.com/p/d1d6a6f9071968e3a32c3730ddc3d8cf/adjuntos/239/imagenes/043/581/0043581782/1200x675/605x199:625x219/cristiano-colorado-3.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:45",
+     "autor": "",
+     "titulo_original": "Cristiano Ronaldo vuelve a Portugal con una obsesión: llegar a los 1.000 goles antes de retirarse",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-06",
+     "titulo": "Arranca hoy la venta de entradas para la despedida de Messi con la Selección",
+     "resumen": "Desde este jueves se pueden comprar los tickets para los próximos amistosos de la Selección; el retiro de Lionel Messi será el 6 de octubre ante Benín en el estadio Monumental, dentro de la triple fecha FIFA que también incluye un partido ante Bolivia.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-empieza-hoy-la-venta-de-entradas-para-la-despedida-de-messi-de-la-seleccion-argentina-nid24092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AAWDOI2HH5ATTMFVQ5GMARRKX4.JPG?auth=72450ef2e8410367777a2f525a192e45ac815b9845609b2a06331e16e788bac0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "A qué hora empieza hoy la venta de entradas para la despedida de Messi de la selección argentina",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Chiqui Tapia le hizo un pedido especial a los dirigentes de River por la despedida de Messi",
+     "resumen": "Tras su regreso al Comité Ejecutivo de la AFA, Claudio Tapia le realizó una propuesta particular al Millonario relacionada con el retiro de Lionel Messi de la Selección.",
+     "url": "https://www.ambito.com/deportes/chiqui-tapia-y-el-sorpresivo-pedido-los-dirigentes-river-su-vuelta-al-comite-ejecutivo-la-afa-n6325914",
+     "imagen": "https://media.ambito.com/p/8d72121cfc6367205966c41e24c7026b/adjuntos/239/imagenes/043/658/0043658542/1200x675/1339x566:1359x586/comite-22-09-40.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:01",
+     "autor": "",
+     "titulo_original": "Claudio \"Chiqui\" Tapia y el sorpresivo pedido para los dirigentes de River, tras su vuelta al Comité Ejecutivo de la AFA",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Colapinto terminó 18° en la primera práctica del GP de Azerbaiyán, que dominó Russell",
+     "resumen": "En la primera práctica libre de la 15ª fecha del campeonato, Franco Colapinto finalizó 18° con su Alpine en el circuito callejero de Bakú, con un mejor tiempo de 1:47.523; llegó a ubicarse transitoriamente en el Top 10 con gomas blandas, pero a 17 minutos del final perdió el control de la parte trasera del auto y rozó el muro. El más rápido de la sesión fue el británico George Russell, de Mercedes. Además, Flavio Briatore, jefe de Alpine, lanzó un fuerte aviso a los hinchas de Colapinto luego de las críticas que recibió su compañero Pierre Gasly por no dejarlo pasar en la carrera anterior.",
+     "relacionadas": [
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Flavio Briatore lanzó un fuerte aviso para los hinchas de Franco Colapinto",
+       "url": "https://www.ambito.com/deportes/flavio-briatore-lanzo-un-fuerte-aviso-los-hinchas-franco-colapinto-n6325892"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-termino-18-en-la-primera-practica-del-gp-de-azerbaiyan-y-el-mas-rapido-fue-russell-nid24092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4SO32ZEOOFHPTCUBMC623CGABU.JPG?auth=b4c501275cc5c4b25aec343d9069ae090f8c4663a8d6dc25dd4a6e2604365ee1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:07",
+     "autor": "",
+     "titulo_original": "Colapinto terminó 18 en la primera práctica del GP de Azerbaiyán y el más rápido fue Russell"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "Zaragoza, la ciudad española de tapas inolvidables y dos catedrales",
+     "resumen": "A poco más de una hora de Madrid en tren, la capital de Aragón se recorre a pie desde su centro histórico junto al río Ebro, con un tranvía que conecta los distintos sectores de la ciudad. El 12 de agosto fue centro de atracción mundial durante el eclipse solar total, que se vio desde el Puente de Piedra y colmó la ocupación hotelera.",
+     "url": "https://www.lanacion.com.ar/salud/la-ciudad-espanola-donde-las-tapas-son-inolvidables-y-la-arquitectura-sorprende-a-cada-paso-nid23092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LOPJM53MHJGFBIC3LVQUWDDUHA.jpg?auth=e9374cd86caf1b692f8ee2c8f4026b5869f95d178f8abeb605a74d4bb8ff276f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:39",
+     "autor": "Ezequiel Díaz",
+     "titulo_original": "La ciudad española donde las tapas son inolvidables y la arquitectura sorprende a cada paso",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-15",
+     "titulo": "San Pedro exhibirá el colmillo de mastodonte más grande hallado en Sudamérica",
+     "resumen": "La pieza, de 2,34 metros de largo, será exhibida en el Museo Paleontológico de San Pedro, en el norte de la provincia de Buenos Aires. En yacimientos cercanos a Río Tala ya se habían encontrado restos fósiles de más de 35 especies de fauna prehistórica extinguida.",
+     "url": "https://www.clarin.com/sociedad/hallaron-san-pedro-colmillo-mastodonte-grande-sudamerica_0_CW5Ycc0uEA.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/qR2r3CPxB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Hallaron en San Pedro el colmillo de mastodonte más grande de Sudamérica",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "El director del Servicio Meteorológico Nacional advirtió que este El Niño es uno de los más intensos registrados",
+     "resumen": "Pedro Di Nezio explicó que el fenómeno alcanzará su pico en diciembre, pero que el mayor riesgo de tormentas e inundaciones podría extenderse hasta abril de 2027. El científico comparó la intensidad del episodio actual con la de 1997 y advirtió que aumentan las probabilidades de precipitaciones extraordinarias en el Litoral, el centro del país y el norte de la provincia de Buenos Aires.",
+     "url": "https://www.infobae.com/politica/2026/09/24/el-director-del-smn-advirtio-sobre-el-el-nino-es-muy-intenso-incluso-en-comparacion-con-los-mas-fuertes/",
+     "imagen": "https://www.infobae.com/resizer/v2/MLUOJGWJMVBD7MG7GF4DKGUHRU.jpeg?auth=feb7d8182c811c803e2417d2ac1aa92a872f4f0cab7f1394e449567bf0ddea77&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:05",
+     "autor": "Facundo Chaves",
+     "titulo_original": "El director del SMN advirtió sobre el “El Niño”: “Es muy intenso, incluso en comparación con los más fuertes”",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-21",
+     "titulo": "La ANMAT prohibió todos los productos para bajar de peso con retatrutida",
+     "resumen": "El organismo prohibió el uso, la comercialización, la publicidad y la distribución de todos los productos para uso humano que declaren contener retatrutide o retatrutida en la Argentina, incluidos los que se ofrecen por plataformas de venta electrónica. La medida, formalizada mediante la Disposición 6140/2026, alcanza a todos los lotes y presentaciones hasta que obtengan autorización sanitaria, por las complicaciones que podría generar en personas con diabetes tipo II.",
+     "url": "https://www.infobae.com/sociedad/2026/09/24/la-anmat-prohibio-todos-los-productos-para-bajar-de-peso-que-incluyan-un-compuesto-peligroso-en-su-formula-cual-es/",
+     "imagen": "https://www.infobae.com/resizer/v2/UZYPT56UZ5E4VF3FKKGQZKTNXQ.png?auth=c5a35ec1dae72cce3e95f46a262449bd8530366dad3d7d9470ac8a06b20bc061&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:47",
+     "autor": "",
+     "titulo_original": "La ANMAT prohibió todos los productos para bajar de peso que incluyan un compuesto peligroso en su fórmula: cuál es",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Activan un control extra sobre el agua utilizada en los centros de diálisis por riesgo de brotes",
+     "resumen": "La medida abarca a miles de pacientes con insuficiencia renal crónica que asisten periódicamente a centros de diálisis. El Instituto Malbrán sumó una herramienta para vigilar que el agua utilizada durante el procedimiento no esté contaminada.",
+     "url": "https://www.clarin.com/sociedad/riesgo-brotes-internaciones-activan-sistema-control-extra-practica-medica-habitual_0_sRWQ441RSc.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/7qu3iDOP2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Por el riesgo de brotes e internaciones activan un sistema de control extra en una práctica médica habitual",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del jueves 24 de septiembre. Javier Milei cierra hoy su gira por Nueva York con una agenda cargada: se reúne con Benjamín Netanyahu para hablar de la crisis en Medio Oriente, almuerza en el Club Económico donde ratificará la soberanía argentina sobre Malvinas, y por la noche regresa a Buenos Aires tras participar de la Asamblea General de las Naciones Unidas. Ante ese organismo, el Presidente calificó a Malvinas como una causa nacional y cuestionó la efectividad de la ONU por no hacer cumplir sus propias resoluciones. En paralelo, Argentina y Estados Unidos lanzaron el Corredor Andes Atlántico, una iniciativa que prevé financiamiento de hasta siete mil millones de dólares hasta dos mil veintisiete para conectar la producción minera, petrolera y gasífera del país con los puertos del Atlántico, con una línea de hasta seis mil millones de dólares para el proyecto de gas natural licuado de YPF. En el plano económico, el riesgo país acumula ocho jornadas consecutivas de suba y cerró en quinientos sesenta y seis puntos, con los bonos argentinos rindiendo por encima del diez por ciento anual; hoy se pondrá a prueba el apetito de los inversores con la colocación de un bono a nueve años de la provincia de San Juan. El petróleo también preocupa: el barril de Brent volvió a superar los cien dólares y Wall Street no descarta que llegue a ciento cincuenta dólares si se profundiza el conflicto con Irán, mientras la tasa del bono del Tesoro estadounidense a diez años escaló a cinco coma once por ciento, el nivel más alto en diecinueve años. El Banco Central, por su parte, redujo sus compras y las reservas cayeron cuatrocientos ochenta y un millones de dólares en una sola jornada, la mayor baja del mes. Y el bitcoin perdió el nivel de los ochenta y cinco mil dólares en sintonía con la caída de Wall Street. Hoy es lo que en el Gobierno llaman el superjueves: a las cuatro de la tarde el Indec difundirá el nivel de actividad económica de julio y los datos de pobreza e indigencia del primer semestre, que según trascendidos subirían al treinta y uno por ciento de la población, tres puntos por encima del semestre anterior. En simultáneo, el Senado retoma la sesión para convertir en ley la reforma de la Carta Orgánica del Banco Central y el nuevo régimen de Zonas Frías, con la expectativa de que los aliados del oficialismo introduzcan un cambio que obligue a devolver la reforma del Central a Diputados. En negocios y empresas, además del Corredor Andes Atlántico, Vaca Muerta reclama veinte mil millones de dólares anuales en inversión y el Gobierno busca esos fondos entre los inversores de Wall Street. Central Puerto vendió una participación minera con una ganancia de ciento treinta y ocho millones de dólares que destinará a nuevas oportunidades en minería y petróleo, mientras Pampa Energía negocia exportar urea a Brasil y la petrolera Vista colocó cuatrocientos millones de dólares de deuda internacional a tasa baja. Del otro lado, la mayor productora de papel del país atraviesa un concurso preventivo, acumula pérdidas por más de ciento veintisiete mil millones de pesos y debe la mitad de los sueldos a sus trabajadores. En impuestos, laboral y normativa, ARCA actualizó las pautas para que las empresas blanqueen empleados bajo la nueva Ley de Modernización Laboral y también detalló cómo confeccionar el recibo digital para las empleadas de casas particulares. La UOCRA y las empresas de la construcción acordaron aumentos salariales para el tercer trimestre, con impacto directo en los costos de mano de obra del sector. La Corte Suprema, por su parte, confirmó la condena a cuatro años de prisión para el empresario cárnico Alberto Samid por evasión impositiva, y el Gobierno simplificó los trámites en la Inspección General de Justicia para agilizar la creación de empresas. En consumo, construcción y retail, el costo de construir una casa de cien metros cuadrados alcanzó un máximo histórico en pesos, presionado por materiales y mano de obra. Las ventas en los supermercados volvieron a caer en julio, aunque repuntaron en mayoristas y en los shoppings, sin que eso alcance para revertir la caída anual acumulada en todos los canales. El mercado inmobiliario porteño, mientras tanto, se estabilizó en unas seis mil escrituras mensuales pese a que el crédito hipotecario sigue por debajo del año pasado, y un informe de Zonaprop identificó los cinco barrios de la Ciudad donde conviene alquilar por precio y menor suba. En management y finanzas corporativas, en Edenred remarcaron que la gestión de flotas corporativas avanza hacia ecosistemas conectados con datos, telemetría e inteligencia artificial, un modelo que ya funciona en Europa, México y Brasil y que empezará a replicarse en la región. Y en Winco, la pyme familiar de electrodomésticos, su gerente general resumió la estrategia para sobrevivir a los vaivenes económicos en una frase: si hay que fabricar, fabrican, y cuando hay que importar, importan. En el mundo, Donald Trump recibió a Xi Jinping en Washington para una cumbre de Estado de tres días marcada por el comercio, Taiwán, Irán y la inteligencia artificial, en la primera visita del líder chino a la capital estadounidense en más de una década. En Venezuela, la presidenta interina Delcy Rodríguez prometió ante la ONU que habrá elecciones con participación de todos los partidos, aunque no dio una fecha. Rusia lanzó un nuevo ataque con misiles balísticos contra Kiev y Kharkiv que dejó al menos nueve muertos, y la Organización Mundial de la Salud advirtió que el brote de ébola en el Congo, con más de siete mil setecientos casos confirmados, podría superar al más mortífero de la historia. Le Grand Continent analiza dos frentes. Por un lado, sostiene que la Unión Europea repite inercias del pasado en su vínculo con África y que resulta urgente reconstruir esa relación con un continente que será clave en el siglo veintiuno. Por otro, señala que varios candidatos republicanos empiezan a distanciarse de Donald Trump de cara a las elecciones de medio término, en momentos en que la aprobación del presidente cayó al veintinueve por ciento, la primera vez que perfora ese piso en sus dos mandatos. En deportes, Marcelo Gallardo debuta hoy como entrenador de la selección de Ecuador frente a Corea del Sur, después de haber dirigido una sola práctica con el plantel. Micaela Levaggi le dio a la Argentina la primera medalla dorada del atletismo en los Juegos Suramericanos, con una victoria en los mil quinientos metros que la clasificó a los Panamericanos de Lima. Felipe Contepomi ya superó los veinticuatro debuts que había dado Ledesma en Los Pumas, y Cristiano Ronaldo apunta a llegar a los mil goles antes de retirarse. Ya se abrió la venta de entradas para la despedida de Lionel Messi con la Selección, que será el seis de octubre ante Benín en el estadio Monumental, y el presidente de la AFA, Claudio Tapia, le hizo un pedido especial a los dirigentes de River por ese partido. Sobre Franco Colapinto, el piloto terminó dieciocho en la primera práctica del Gran Premio de Azerbaiyán, que dominó el británico George Russell, luego de haber estado transitoriamente en el top diez y perder el control del auto a minutos del final; el jefe de Alpine, Flavio Briatore, además lanzó un fuerte aviso a los hinchas del argentino tras las críticas que recibió su compañero Pierre Gasly. Para cerrar, un paseo por Zaragoza, la ciudad española de las tapas inolvidables, a poco más de una hora de Madrid en tren, con un centro histórico que se recorre a pie junto al río Ebro. Y en la Argentina, San Pedro, en el norte bonaerense, exhibirá el colmillo de mastodonte más grande hallado en Sudamérica, una pieza de dos coma treinta y cuatro metros que se suma a los numerosos fósiles encontrados en la zona. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Ninguna fuente falló en esta corrida (158 notas descargadas, 8 de 8 series de mercados actualizadas). En Turismo no apareció ninguna nota del feed específico de viajes sobre un destino argentino; se usó como destino local la noticia del colmillo de mastodonte hallado en San Pedro (provincia de Buenos Aires), que describe un lugar puntual para visitar (el Museo Paleontológico de la ciudad). No hubo novedades de Club Atlético Tigre en el material de esta corrida.",
+ "slug": "2026-09-24-manana",
+ "generado_ba": "24/09/2026 10:14"
+}
