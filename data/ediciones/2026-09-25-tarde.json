@@ -1,0 +1,835 @@
+{
+ "fecha": "2026-09-25",
+ "edicion": "tarde",
+ "titulo": "Récord del dólar mayorista, suba de combustibles de YPF y Colapinto noveno en Bakú",
+ "apertura": "El dólar mayorista marcó un récord nominal y el Banco Central no compró reservas por cuarta vez en el año, tras el pago de casi 800 millones de dólares al FMI, mientras el petróleo cedió posiciones por las negociaciones entre Estados Unidos e Irán y YPF confirmó una suba de combustibles. En el plano político, un escándalo en Formosa por la sanción a periodistas y una interna en el PJ bonaerense marcaron la tarde, mientras en deportes Franco Colapinto aseguró la novena posición para el Gran Premio de Azerbaiyán tras una sanción a Carlos Sainz.",
+ "claves": [
+  "El dólar mayorista marcó un récord nominal de 1.525 pesos y el BCRA no compró reservas por cuarta vez en el año, tras pagar casi 800 millones de dólares al FMI.",
+  "El petróleo cedió posiciones (Brent en US$ 104,32, WTI en US$ 92,41) por las negociaciones entre Estados Unidos e Irán para reabrir el estrecho de Ormuz; YPF y el resto de las petroleras ya habían subido los combustibles un 1%.",
+  "Manchester City fue declarado culpable de más de 114 infracciones financieras en la Premier League y podría recibir una sanción histórica.",
+  "Franco Colapinto largará noveno en el GP de Azerbaiyán tras una sanción a Carlos Sainz, y Cristian Romero será el nuevo capitán de la Selección argentina.",
+  "Un escándalo en Formosa por la sanción a periodistas y una interna en el PJ bonaerense por un proyecto de Tignanelli marcaron la agenda política.",
+  "Los cierres de plantas de Electrolux, Whirlpool y Mabe exponen la crisis del modelo industrial de electrodomésticos en la Argentina.",
+  "Biogénesis Bagó realizó su primera exportación de vacunas a Europa y Tesla se prepara para abrir su primera tienda en Buenos Aires.",
+  "Boca enfrentará a Racing el domingo por la Copa Argentina, tras el rechazo de la AFA al reclamo de Vélez."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 104,32",
+   "fuente": "CL-02"
+  },
+  {
+   "nombre": "Petróleo WTI",
+   "valor": "US$ 92,41",
+   "fuente": "CL-02"
+  },
+  {
+   "nombre": "Reservas brutas BCRA",
+   "valor": "US$ 48.245 millones",
+   "variacion": "-US$ 600 millones en el día",
+   "fuente": "AM-05"
+  },
+  {
+   "nombre": "Pagos con transferencia (agosto)",
+   "valor": "118,3 millones de operaciones",
+   "variacion": "+65,6% interanual",
+   "fuente": "CR-04"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "escándalo en Formosa por la sanción a un equipo periodístico",
+     "resumen": "El juez de Paz Omar Padilla, afín al gobernador Gildo Insfrán y exdirigente justicialista, ordenó cinco días de arresto o el pago de multas a un equipo periodístico que grababa en la vía pública en Las Lomitas. La organización ADEPA condenó la medida y advirtió que la sanción de naturaleza penal es preocupante porque no se requiere autorización estatal para ejercer el periodismo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/escandalo-formosa-juez-afin-gildo-insfran-sanciono-periodistas-grabar-via-publica_0_xujrXeRngQ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/mskx-F3_B_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:43",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Escándalo en Formosa: un juez afín a Gildo Insfrán sancionó a periodistas por grabar en la vía pública"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Jorge Macri celebró el fallo que frenó a la jueza De Marinis",
+     "resumen": "El jefe de Gobierno porteño calificó de necesario freno al garantismo judicial la decisión de la Cámara de Casación que revocó el fallo de la jueza Laura De Marinis, quien había declarado inconstitucional un artículo de la reforma penal juvenil. Macri había impulsado un jury de enjuiciamiento contra la magistrada; también se pronunció sobre el caso Patricia Bullrich.",
+     "relacionadas": [
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Régimen penal juvenil: revocaron el fallo que declaró inconstitucional la baja de la edad de imputabilidad",
+       "url": "https://www.cronista.com/economia-politica/regimen-penal-juvenil-revocaron-el-fallo-que-declaro-inconstitucional-la-baja-de-la-edad-de-imputabilidad/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/necesario-freno-garantismo-judicial-jorge-macri-celebro-fallo-revoco-decision-jueza-marinis_0_efFcZZBYR8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/xyimaGKz5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Un necesario freno al garantismo judicial\": Jorge Macri celebró el fallo que revocó la decisión de la jueza De Marinis"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "los gobernadores del norte impulsan cambios al cabotaje fluvial",
+     "resumen": "La Liga de Gobernadores del Norte, tras lograr en el Senado una \"zona caliente\" con tarifas eléctricas diferenciales para el verano, presiona ahora por una reforma a la ley de cabotaje fluvial. El sistema vigente restringe el uso de barcazas del país vecino y encarece la salida de la producción norteña hacia las terminales del litoral.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/25/la-liga-de-gobernadores-del-norte-impulsa-cambios-al-cabotaje-fluvial/",
+     "imagen": "https://www.infobae.com/resizer/v2/EDICTGUKMJFTDEEAVMMFM5ZO2I.jpg?auth=2d4f4bd4e3e8735b6fb5d0c832b3d5667a680bd546c7e48aa65f9763ad9f0193&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:03",
+     "autor": "David Cayón",
+     "titulo_original": "La Liga de Gobernadores del Norte impulsa cambios al cabotaje fluvial"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "interna en el PJ bonaerense por un proyecto de Tignanelli",
+     "resumen": "En un plenario de comisiones de la Legislatura bonaerense, diputados del Movimiento Derecho al Futuro que responden a Axel Kicillof se abstuvieron ante un proyecto del jefe de bloque de Fuerza Patria, Facundo Tignanelli, para habilitar la intervención de la Defensoría del Pueblo en casos de sobreendeudamiento familiar. La iniciativa, coautoría de Mayra Mendoza, obtuvo igual mayoría y otros tres proyectos avanzaron rumbo al recinto del martes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/25/arde-la-interna-del-pj-bonaerense-diputados-de-kicillof-no-apoyaron-un-proyecto-de-tignanelli-y-mayra-mendoza/",
+     "imagen": "https://www.infobae.com/resizer/v2/KF3AQFYYZNBFDN5ZYA3ME5Z44I.jpg?auth=b0af35bf8f452c8399c78ed0932dffe8929f8414d109208d6cc7b146821306f5&smart=true&width=900&height=621",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:00",
+     "autor": "Facundo Cottet",
+     "titulo_original": "Arde la interna del PJ bonaerense: diputados de Kicillof no apoyaron un proyecto de Tignanelli y Mayra Mendoza"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Camioneros mantiene bloqueada una empresa en Arrecifes",
+     "resumen": "Unos 20 activistas del Sindicato de Camioneros bloquean desde hace 48 horas la planta de Southern Seeds Production, que exporta legumbres a 40 países, en reclamo del pase a relación de dependencia de cuatro choferes. La empresa denunció amenazas contra sus trabajadores y advirtió que el conflicto pone en riesgo su actividad exportadora.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/25/el-sindicato-de-camioneros-mantiene-bloqueada-desde-hace-48-horas-una-empresa-en-arrecifes-y-denunciaron-que-hay-amenazas/",
+     "imagen": "https://www.infobae.com/resizer/v2/4X3JI3ARFRFHFA5X3FD373GQ6Y.jpg?auth=954c73ece82d25c05beaec33790d70f3c73535eeb717a2e362e4bd5e752d895d&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:30",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "Camioneros mantiene bloqueada desde hace 48 horas una empresa en Arrecifes y denunciaron que hay amenazas"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "el Frente Renovador reunirá a más de 300 dirigentes del NEA",
+     "resumen": "El espacio liderado por Sergio Massa convocó para este sábado a referentes de Chaco, Corrientes y Misiones, con la participación de legisladores, intendentes y más de 50 concejales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/el-frente-renovador-reunira-mas-300-dirigentes-del-nea-n6326845",
+     "imagen": "https://media.ambito.com/p/97083dfff54c6f121fbfadc722de4d7c/adjuntos/239/imagenes/043/653/0043653015/1200x675/smart/sergio-massa.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:31",
+     "autor": "",
+     "titulo_original": "El Frente Renovador reunirá a más de 300 dirigentes del NEA"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-05",
+     "titulo": "el Gobierno pagó casi US$ 800 millones al FMI y el BCRA no compró reservas",
+     "resumen": "El Gobierno giró casi 800 millones de dólares al FMI y las reservas brutas del Banco Central cayeron 600 millones de dólares en la jornada, hasta 48.245 millones de dólares; en la semana la baja acumulada fue de 1.553 millones de dólares. Es la cuarta vez en el año que el BCRA cierra una jornada sin comprar divisas, mientras el tipo de cambio mayorista marcó un récord nominal de 1.525 pesos.",
+     "relacionadas": [
+      {
+       "id": "CL-04",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El Gobierno pagó US$ 800 millones al FMI y el BCRA terminó la jornada sin comprar reservas",
+       "url": "https://www.clarin.com/economia/gobierno-pago-us-800-millones-fmi-bcra-termino-jornada-comprar-reservas_0_J4InIdmhsi.html"
+      },
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Ante la suba del dólar, el Banco Central evitó comprar divisas por cuarta vez en el año",
+       "url": "https://www.infobae.com/economia/2026/09/25/ante-la-suba-del-dolar-el-banco-central-evito-comprar-divisas-por-tercera-vez-en-el-ano/"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/el-gobierno-pago-casi-us800-millones-al-fmi-las-reservas-cayeron-us1553-millones-la-semana-y-el-bcra-no-compro-dolares-n6326858",
+     "imagen": "https://media.ambito.com/p/93e8897f4063acb148d6db8faf38f1c2/adjuntos/239/imagenes/041/962/0041962853/banco-central-republica-argentina-bcra.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:48",
+     "autor": "",
+     "titulo_original": "El Gobierno pagó casi u$s800 millones al FMI: las reservas cayeron u$s1.553 millones en la semana y el BCRA no compró dólares"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "el dólar oficial rozó los $ 1.550 y encadenó tres subas seguidas",
+     "resumen": "El dólar oficial rozó los 1.550 pesos al público y encadenó su tercera suba consecutiva, impulsado por el vencimiento de bonos dólar linked y la suba de los rendimientos de los bonos de Estados Unidos. El dólar blue también subió por tercera semana seguida y se acercó a su máximo nominal, mientras el mayorista quedó 25,4% debajo del techo de la banda cambiaria. Para una empresa: la city sigue de cerca esa brecha, porque una nueva aceleración cambiaria repercutiría directo en los costos de reposición y en los productos importados.",
+     "relacionadas": [
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar blue subió por tercera semana consecutiva y se acercó a su máximo nominal",
+       "url": "https://www.ambito.com/finanzas/el-dolar-blue-subio-tercera-semana-consecutiva-y-se-acerco-su-maximo-nominal-n6326860"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El dólar subió por tercer día consecutivo, pero todavía está 25% debajo del techo de la banda cambiaria",
+       "url": "https://www.infobae.com/economia/2026/09/25/el-dolar-subio-por-tercer-dia-consecutivo-pero-todavia-esta-25-debajo-del-techo-de-la-banda-cambiaria/"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/el-dolar-mayorista-roza-los-1520-y-acumula-su-tercera-semana-al-alza-n6326550",
+     "imagen": "https://media.ambito.com/p/43ca1d37a632f6dec20f5081f89e0ff0/adjuntos/239/imagenes/043/657/0043657207/1200x675/2975x1126:2995x1146/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:55",
+     "autor": "",
+     "titulo_original": "El dólar oficial rozó los $1.550 por clima global adverso y una mayor demanda ante vencimiento de bonos indexados"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "el petróleo bajó por las negociaciones entre Estados Unidos e Irán",
+     "resumen": "El petróleo cedió posiciones en medio de las negociaciones entre Estados Unidos e Irán para reabrir el estrecho de Ormuz: el Brent cerró en US$ 104,32 y el WTI en US$ 92,41. Teherán propuso reabrir la vía marítima en siete días si se cumplen ciertas condiciones, en el marco de conversaciones impulsadas por la ONU.",
+     "relacionadas": [
+      {
+       "id": "CL-09",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Irán presenta propuesta para reabrir el estrecho de Ormuz y otras noticias de Oriente Medio",
+       "url": "https://www.clarin.com/estados-unidos/iran-presenta-propuesta-para-reabrir-el-estrecho-de-ormuz-y-otras-noticias-de-oriente-medio_0_XRRbaLXN3J.html"
+      }
+     ],
+     "url": "https://www.clarin.com/energia-y-mineria/petroleo-negociaciones-estados-unidos-iran-reabrir-estrecho-ormuz_0_lMXCB9e8Rc.html",
+     "imagen": "https://www.clarin.com/img/2026/05/07/MaWES68fZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:42",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El petróleo bajó por las negociaciones entre Estados Unidos e Irán para reabrir el estrecho de Ormuz"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "el S&P 500 concentra 15% de su ponderación en Nvidia y Apple",
+     "resumen": "El índice S&P 500 concentra por primera vez en su historia el 15% de su ponderación en solo dos empresas, Nvidia y Apple, lo que genera dudas sobre la diversificación de las carteras en Wall Street. El antecedente más cercano databa del año 2000, cuando Microsoft y General Electric sumaban un 9,1% del índice.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/el-sp-500-esta-concentrado-un-15-en-dos-empresas-por-primera-vez-en-su-historia-cuales-son-y-que-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/34NRFIYV7FAGJN7VLDIE653SVM.jpg?auth=bf34d06ab9a07ee0d093cc686e9e89142d7e0d68f4b9f0f8af971e0ace51c0ae&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:11",
+     "autor": "Agustina Parise",
+     "titulo_original": "El S&P 500 está concentrado un 15% en dos empresas por primera vez en su historia: cuáles son y qué significa para Wall Street"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "el mercado de bonos enciende una nueva alarma para Wall Street",
+     "resumen": "Un análisis de mercado señaló que acciones, monedas y bonos corporativos resistieron sin sobresaltos una serie de shocks recientes, desde la crisis energética en Medio Oriente hasta episodios de inestabilidad tecnológica, lo que llamó la atención de los analistas sobre el origen de esa resiliencia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/el-mercado-de-bonos-enciende-una-nueva-alarma-para-wall-street/",
+     "imagen": "https://www.cronista.com/resizer/v2/VE7QPJNQUBCDRIU37IX6ZPM3SQ.jpg?auth=b5fc20cbb44943a75d5c08ed866653c3ec7772dd664bfd99b4a7ecd6a5c20777&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:12",
+     "autor": "Katie Martin",
+     "titulo_original": "El mercado de bonos enciende una nueva alarma para Wall Street"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "un laboratorio argentino abre por primera vez un mercado inédito en Europa",
+     "resumen": "Biogénesis Bagó, controlada por las familias Bagó y Sigman, hizo su primer envío de 100.000 dosis de vacuna contra la aftosa a Chipre, dentro de un permiso por 600.000 dosis, y se convirtió en la primera exportadora de este tipo de vacuna desde la Argentina hacia un mercado europeo. La operación representó unos US$ 150.000 y abre una vía adicional para una compañía que ya exporta a 70 países.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-laboratorio-argentino-abre-por-primera-vez-un-mercado-inedito-en-europa/",
+     "imagen": "https://www.cronista.com/resizer/v2/Y4SLSABYHJEWLE6QDP2BJJU3U4.png?auth=a50532178d38d0e54be4876407c14db00356cd3dac8d36278a5640155729d310&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:50",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Un laboratorio argentino abre por primera vez un mercado inédito en Europa"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Tesla abriría el próximo mes su primera tienda en Buenos Aires",
+     "resumen": "Tesla aceleraría su desembarco en la Argentina con la apertura, el mes próximo, de su primera tienda en Buenos Aires, sobre la avenida del Libertador, en Núñez. La noticia circuló luego de que Javier Milei repostease publicaciones que celebraban la llegada de la marca, aunque la empresa no hizo un anuncio oficial.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/tesla-acelera-su-llegada-a-la-argentina-el-proximo-mes-abriria-su-primera-tienda-en-buenos-aires/",
+     "imagen": "https://www.cronista.com/resizer/v2/XGQYFN6PGVCCXDWJ73YQUBOQ6U.jpg?auth=c91a9b83cdc781d3a696252703ca9ce0f43aa6551ef88a107894e703f7b18a3c&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:59",
+     "autor": "Juan Manuel Compte",
+     "titulo_original": "¿Tesla acelera su llegada a la Argentina? El próximo mes abriría su primera tienda en Buenos Aires"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Alsea invirtió más de US$ 10 millones en Burger King Argentina",
+     "resumen": "Alsea inyectó más de 10 millones de dólares en la sociedad que opera Burger King en la Argentina, después de descartar un proceso de venta del negocio en la región.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465241-alsea-inyecta-millones-en-burger-king-argentina-para-reactivar-la-marca",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/12/547656.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:31",
+     "autor": "",
+     "titulo_original": "Tras buscar comprador, Burger King recibe un respaldo de más de u$s10 millones"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "un grupo inversor chino negocia un nuevo parque de diversiones en el interior",
+     "resumen": "Un grupo inversor chino negocia la instalación de un nuevo parque de diversiones en una localidad del interior argentino, según reveló el intendente de ese municipio, que describió el proyecto como de gran escala.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465285-nuevo-parque-de-diversiones-en-argentina-de-la-mano-de-un-grupo-inversor-chino",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626418.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:18",
+     "autor": "",
+     "titulo_original": "Nuevo parque de diversiones en Argentina de la mano de un grupo inversor chino"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "Citroën volverá a fabricar el 2 CV, ahora eléctrico",
+     "resumen": "Citroën anunció que volverá a fabricar el 2 CV, el clásico modelo que había dejado de producir en 1990, ahora en una versión 100% eléctrica.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/465260-citroen-vuelve-a-fabricar-un-auto-que-dejo-de-producir-en-1990",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626377.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:37",
+     "autor": "",
+     "titulo_original": "Citroën vuelve a fabricar el 2 CV que dejó de producir en 1990 y será eléctrico"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "McCain y Arcos Dorados apuestan a la agricultura regenerativa para la papa",
+     "resumen": "McCain y Arcos Dorados avanzan en agricultura regenerativa para la producción de papa, con el objetivo de que toda la papa que abastece a McCain en el mundo provenga de sistemas regenerativos para 2030, una meta que en la Argentina ya se cumplió.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465280-el-plan-de-mccain-y-arcos-dorados-para-producir-papa-regenerativa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626401.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:35",
+     "autor": "",
+     "titulo_original": "McCain y Arcos Dorados apuestan a la agricultura regenerativa para la producción de papa"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CL-23",
+     "titulo": "empleadas domésticas: la escala salarial de octubre",
+     "resumen": "La Comisión Nacional de Trabajo en Casas Particulares difundió la escala salarial de octubre para empleadas domésticas, con valores mínimos que varían según la categoría y la modalidad, con retiro o sin retiro. Se mantiene además un adicional del 31% por zona desfavorable.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/empleadas-domesticas-debera-pagar-hora-mes-octubre-2026-ultimo-acuerdo-salarial_0_AvVtTaLakw.html",
+     "imagen": "https://www.clarin.com/img/2023/09/30/InvO5Do3o_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Empleadas domésticas: cuánto se deberá pagar por hora y por mes en octubre de 2026 según el último acuerdo salarial"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "el recibo de sueldo de empleadas domésticas ya es digital",
+     "resumen": "Por la Ley de Modernización Laboral 27.802, los empleadores de personal de casas particulares deben emitir el recibo de sueldo de forma electrónica a través de ARCA. El organismo actualizó su ABC de consultas frecuentes y precisó cuándo corresponde imprimir el comprobante y qué ocurre con el formulario F. 102/RT.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/empleadas-domesticas-como-emitir-el-recibo-de-sueldo-digital-y-cuando-se-debe-imprimir/",
+     "imagen": "https://www.cronista.com/resizer/v2/MCV47RJYVZG5VPLGRDLQQER2AU.jpeg?auth=70087288b4f623f9f9976f15a8e97007a530c1d9f11a9cfcd995714f3b2daddc&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:05",
+     "autor": "Audiencias Member",
+     "titulo_original": "Empleadas domésticas: cómo emitir el recibo de sueldo digital y cuándo se debe imprimir"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "el Día del Empleado de Comercio se traslada al lunes",
+     "resumen": "El Día del Empleado de Comercio, que por ley corresponde al 26 de septiembre y este año cae sábado, se trasladó al lunes 28 por un acuerdo firmado el 7 de septiembre entre la Federación Argentina de Empleados de Comercio y Servicios y las cámaras CAC, CAME y UDECA. El acuerdo rige solo para 2026 y da a esa jornada el mismo tratamiento que un feriado nacional.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/dia-del-empleado-de-comercio-2026-que-pasa-si-el-feriado-coincide-con-mi-franco/",
+     "imagen": "https://www.cronista.com/resizer/v2/4V5VJDDTKVFPLHECX2CS5XA7OI.png?auth=0e4a3b40ddb0997ae1c06852f69fe52df4a049ef8d4017e9545660ff67ea2aa2&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:27",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Día del Empleado de Comercio 2026: qué pasa si el feriado coincide con mi franco"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "nuevo acuerdo salarial para la construcción hasta noviembre",
+     "resumen": "UECARA, CAMARCO y FAEC firmaron un nuevo acuerdo salarial para la construcción, encuadrado en el CCT 660/13, con subas acumulativas de 1,9% en septiembre, 1,8% en octubre y 1,7% en noviembre, calculadas sobre los básicos del mes anterior. El convenio rige hasta marzo de 2027. Para una empresa: los incrementos ya pactados hasta noviembre permiten proyectar con precisión la carga salarial del sector en los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/nuevo-aumento-para-trabajadores-de-la-construccion-como-quedan-los-salarios-en-octubre-2026-tras-el-acuerdo/",
+     "imagen": "https://www.cronista.com/resizer/v2/AWLKESSOI5AW7CJYD3KBFCY6KA.jpg?auth=a990265803721ec4ffe3f058a6d7b47985f1ea131946d807098f3b36c8c333a7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:06",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Nuevo aumento para trabajadores de la construcción: cómo quedan los salarios en octubre 2026 tras el acuerdo"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "el BCRA endurece la gestión del riesgo de fraude en entidades financieras",
+     "resumen": "El Banco Central estableció, mediante la Comunicación A 8471/2026, nuevas disposiciones sobre gestión del riesgo de fraude para entidades financieras y proveedores de servicios de pago, en un contexto de mayor digitalización de los canales de cobro y pago.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/gestion-del-riesgo-de-fraude-el-nuevo-desafio-para-las-organizaciones-financieras/",
+     "imagen": "https://www.cronista.com/resizer/v2/HKIG7KHESZG6BKHEGEXNVEVWLU.png?auth=ef00631e43d05c3ce13f9626513e5ec8db77d670b147b83267c9b0d1c267189e&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:38",
+     "autor": "Alberto Padin, CEO y Fundador de Platinum Ciberseguridad",
+     "titulo_original": "Gestión del riesgo de fraude: el nuevo desafío para las organizaciones financieras"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la empresa del lector: precios y sistemas de construcción, y el estado de la industria de electrodomésticos.",
+   "notas": [
+    {
+     "id": "LN-08",
+     "titulo": "container, steel frame o prefabricada: cuánto cuesta cada sistema",
+     "resumen": "Para una vivienda de 60 metros cuadrados, las casas prefabricadas ofrecen presupuesto cerrado desde el inicio, con valores base de entre US$ 22.000 y US$ 30.000 según la empresa y el nivel de terminación. La comparación entre sistemas no tradicionales de construcción exige mirar además los costos adicionales, los tiempos de obra y el mantenimiento de cada opción.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/container-steel-frame-o-prefabricada-cual-conviene-para-una-casa-de-60-m-y-cuanto-cuesta-cada-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OX4FHQOC4VD2ZKPNF5SSSHV7PI.jpg?auth=9b5caf4101d842dbd381218229f615a9ac78fd28d8db84b885f7219a3405ab96&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Container, steel frame o prefabricada: cuál conviene para una casa de 60 m² y cuánto cuesta cada sistema"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "una vivienda de madera de 150 m² que cuesta 65% menos que un monoambiente",
+     "resumen": "Un sistema constructivo en madera permite entregar una vivienda de 150 metros cuadrados en 10 días, con un costo un 65% menor al de un monoambiente tradicional, según sus desarrolladores, que ofrecen distintos niveles de terminación.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/casa-propia-10-dias-la-vivienda-madera-150-m-que-cuesta-un-65-menos-que-un-monoambiente-n6326075",
+     "imagen": "https://media.ambito.com/p/002e2cadc99f3a253dae09d71ccaa56e/adjuntos/239/imagenes/043/661/0043661838/1200x675/722x415:742x435/casa-propia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:00",
+     "autor": "",
+     "titulo_original": "¿Casa propia en 10 días? La vivienda de madera de 150 m² que cuesta un 65% menos que un monoambiente"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "los cierres de Electrolux, Whirlpool y Mabe exponen un modelo industrial en crisis",
+     "resumen": "Los cierres de plantas de Electrolux, Whirlpool y Mabe exponen un modelo industrial de electrodomésticos en crisis en la Argentina, con menos fábricas, producción más concentrada y un peso creciente de los productos importados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465272-los-cierres-de-electrolux-y-whirlpool-exponen-un-modelo-industrial-en-crisis",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626420.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:40",
+     "autor": "",
+     "titulo_original": "Los cierres de Electrolux, Whirlpool y Mabe exponen un modelo industrial en crisis"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "los patentamientos de autos caen 13% en septiembre",
+     "resumen": "Los patentamientos de autos cayeron 13% en septiembre frente al mismo mes de 2025, pese a los descuentos y a las mayores facilidades de financiamiento, y confirman la tendencia contractiva de los últimos meses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/465276-las-ventas-de-autos-caen-en-septiembre-2026-pese-a-rebajas-y-cuotas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625690.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:23",
+     "autor": "",
+     "titulo_original": "Los patentamientos de autos caen 13% en septiembre, pese a descuentos y más financiamiento"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "la crisis de consumo dispara la compra de ropa usada",
+     "resumen": "La crisis de consumo impulsa la compra de ropa usada: las cadenas de reventa de indumentaria mueven 40.000 prendas por mes y una de ellas abrió su primer local dentro de un shopping, en un contexto de caída en la compra de ropa nueva.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465255-la-crisis-dispara-la-compra-de-ropa-usada-y-una-cadena-abre-su-primer-local-en-un-shopping",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626375.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:33",
+     "autor": "",
+     "titulo_original": "La crisis dispara la compra de ropa usada y una cadena abre su primer local en un shopping"
+    },
+    {
+     "id": "AM-02",
+     "titulo": "cuánto más vale una propiedad luminosa en Buenos Aires",
+     "resumen": "Un relevamiento sobre más de 150.000 avisos inmobiliarios en Buenos Aires midió cuánto más puede valer una propiedad luminosa frente a una comparable sin luz natural, con diferencias que varían según el tipo de unidad, la antigüedad y el barrio.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/real-estate/la-luz-natural-tambien-cotiza-cuanto-mas-puede-valer-una-propiedad-luminosa-buenos-aires-n6326682",
+     "imagen": "https://media.ambito.com/p/cfecc8b7583458d43a6d01989af65a1c/adjuntos/239/imagenes/043/664/0043664807/1200x675/881x615:901x635/departamento-3-ambientes-propiedades.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "La luz natural también cotiza: cuánto más puede valer una propiedad luminosa en Buenos Aires"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "AM-26",
+     "titulo": "libro de pases: los movimientos ejecutivos de la semana",
+     "resumen": "El Libro de Pases de Ámbito repasó los principales movimientos de talento ejecutivo de la semana, con cambios de roles, nuevas incorporaciones y salidas de directivos en distintas empresas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/libro-pases-n6234364",
+     "imagen": "https://media.ambito.com/p/ec9590cf32cfc818239a8a1b065930a4/adjuntos/239/imagenes/042/551/0042551553/ceos-empresasjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:54",
+     "autor": "",
+     "titulo_original": "Libro de pases"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "la IA suma un costo difícil de prever para bancos y fintechs",
+     "resumen": "La inteligencia artificial introduce un nuevo desafío de costos para bancos y fintechs, ya que el gasto tecnológico depende de cada consulta, documento u operación procesada, lo que dificulta anticipar el gasto total a medida que crece el uso.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/465254-bancos-y-fintechs-enfrentan-nuevo-gasto-por-ia-que-crece-con-cada-token-usado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626373.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:17",
+     "autor": "",
+     "titulo_original": "La IA suma un costo difícil de prever para bancos y fintechs cuando crece el uso"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Martín Litwak: por qué se producen las grandes pérdidas patrimoniales",
+     "resumen": "El abogado Martín Litwak, especialista en planificación patrimonial y tributación internacional, sostuvo que las grandes pérdidas de patrimonio no suelen originarse en una mala inversión, sino en el desconocimiento de riesgos como un divorcio, una sucesión mal estructurada o un juicio, escenarios en los que muchas personas terminan perdiendo la mitad de sus bienes.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/martin-litwak-abogado-las-grandes-perdidas-patrimoniales-no-se-dan-por-una-mala-inversion/",
+     "imagen": "https://www.cronista.com/resizer/v2/C35SD4EPMZH33OQF5UG7OLW6IM.png?auth=e71e86bb8c869bfcfe706cb36f70faa4aa399b3d81eafbf4cc0aad9f4865d2b9&smart=true&width=900&height=399",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:20",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Martín Litwak, abogado: “Las grandes pérdidas patrimoniales no se dan por una mala inversión”"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "la Corte Suprema de EE.UU. habilita un sistema que podría bloquear el voto de inmigrantes",
+     "resumen": "La Corte Suprema de Estados Unidos levantó las restricciones para que los estados usen el sistema SAVE, que identifica a no ciudadanos incluidos en los padrones, en un fallo que favorece al gobierno de Donald Trump. La decisión revierte un fallo anterior y generó críticas por el riesgo de privar del voto a electores extranjeros que podrían favorecer a la oposición demócrata.",
+     "relacionadas": [
+      {
+       "id": "CL-06",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Corte Suprema de EEUU concede a Trump el uso de base de datos para verificar padrones electorales",
+       "url": "https://www.clarin.com/estados-unidos/corte-suprema-de-eeuu-concede-a-trump-el-uso-de-base-de-datos-para-verificar-padrones-electorales_0_Q5n2Yjsc0r.html"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/victoria-donald-trump-corte-suprema-eeuu-da-luz-verde-polemico-registro-podria-bloquear-voto-inmigrantes_0_gvFWY07rZk.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/P2uQb2Zhz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Victoria para Donald Trump: la Corte Suprema de EE.UU. da luz verde a un polémico registro que podría bloquear el voto de inmigrantes"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "los republicanos, cerca de perder la Cámara Baja en EE.UU., según un sondeo",
+     "resumen": "Un sondeo de Cook Political Report anticipa que los demócratas podrían sumar entre cinco y quince bancas adicionales en la Cámara de Representantes de Estados Unidos, lo que dejaría a los republicanos cerca de perder la mayoría en las elecciones legislativas de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/republicanos-estan-cerca-de-perder-la-camara-baja-en-legislativas-de-eeuu-segun-sondeo_0_MBjoLmBVvy.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Republicanos están cerca de perder la Cámara Baja en legislativas de EEUU, según sondeo"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "el Ejército de EE.UU. se prepara para una posible acción militar en torno a Cuba",
+     "resumen": "El Ejército de Estados Unidos evalúa reforzar al Comando Sur con personal médico y policial ante una posible acción militar vinculada a Cuba, según un mensaje interno al que accedió la cadena CBS News. El texto no menciona a Cuba de forma explícita, pero consultó la disponibilidad de seis tipos de formaciones militares para un plazo de entre 90 y 120 días.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-ejercito-de-estados-unidos-se-prepara-para-una-posible-accion-militar-en-torno-a-cuba-segun-cbs-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7FIQIK55ANGMFI4WYZGDGDOPYA.jpg?auth=5a2f1268eba1418015788b8b3540d3ee1cca25f4a5888342a40c7cb764df7a02&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:51",
+     "autor": "",
+     "titulo_original": "El Ejército de Estados Unidos se prepara para una posible acción militar en torno a Cuba, según CBS"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Putin eleva impuestos para financiar la guerra en Ucrania",
+     "resumen": "El Gobierno de Rusia presentó un paquete presupuestario para el período 2027-2029 que eleva impuestos a inversiones, empresas mineras, compras en el exterior y dividendos de inversores de países considerados no amistosos, con el objetivo de financiar el esfuerzo bélico en Ucrania. La medida llegó cinco días después de las elecciones legislativas, en las que el partido de Vladimir Putin obtuvo el 58% de los votos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/25/apremiado-por-el-deficit-putin-decidio-elevar-los-impuestos-para-financiar-la-guerra-en-ucrania/",
+     "imagen": "https://www.infobae.com/resizer/v2/32S7ZH4K5NECZAWSL66WWNWH4Q.JPG?auth=83870128664ed0e30edfe607d451f8a5bbb70c73b9175d49a524b78d8921206e&smart=true&width=900&height=543",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:46",
+     "autor": "",
+     "titulo_original": "Apremiado por el déficit, Putin decidió elevar los impuestos para financiar la guerra en Ucrania"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "investigan a la exfiscal general de Guatemala por presuntas adopciones ilegales",
+     "resumen": "La exfiscal general de Guatemala Consuelo Porras es investigada por presuntas adopciones ilegales ocurridas en la década de 1980, luego de que Naciones Unidas pidiera una indagación independiente. Porras, sancionada por más de 40 países por corrupción, fue denunciada por el gobierno de Bernardo Arévalo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/investigan-a-exfiscal-general-de-guatemala-por-presuntas-adopciones-ilegales_0_t7WrSobdfH.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Investigan a exfiscal general de Guatemala por presuntas adopciones ilegales"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-13",
+     "titulo": "Cristian Romero será el nuevo capitán de la Selección argentina",
+     "resumen": "Cristian Romero, campeón del mundo en Qatar 2022, será el nuevo capitán de la Selección argentina y utilizará por primera vez el brazalete en la próxima fecha FIFA, en el traspaso de la conducción que dejará Lionel Messi tras su retiro.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/confirmado-el-cuti-romero-sera-el-nuevo-capitan-la-seleccion-argentina-n6326835",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:37",
+     "autor": "",
+     "titulo_original": "Confirmado: Cristian Romero será el nuevo capitán de la Selección argentina"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "Manchester City, declarado culpable de más de 100 infracciones financieras",
+     "resumen": "Manchester City fue declarado culpable de más de 114 infracciones a las normas financieras de la Premier League, tras una investigación de cuatro años sobre las temporadas 2009-10 a 2022-23, y podría recibir una sanción histórica. El club apelaría el fallo; el mediocampista español Rodri dijo confiar en la inocencia de la institución.",
+     "relacionadas": [
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Rodri: \"Confío en la inocencia del City y ojalá se haga justicia\"",
+       "url": "https://www.infobae.com/america/agencias/2026/09/25/rodri-confio-en-la-inocencia-del-city-y-ojala-se-haga-justicia/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/manchester-city-fue-declarado-culpable-de-mas-de-100-infracciones-financieras-y-podria-recibir-una-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MWUFTON45RAOLBN4DTVLBTEXVM.JPG?auth=b4d4896ccd2982bdec0f34320ee3d0c0e967bab7781f5413939e5289a534d2ba&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:34",
+     "autor": "",
+     "titulo_original": "Manchester City fue declarado culpable de más de 100 infracciones financieras y podría recibir una sanción histórica"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "la AFA rechazó la apelación de Vélez: Boca jugará ante Racing",
+     "resumen": "El Tribunal de Apelaciones de la AFA declaró inadmisible el reclamo de Vélez contra el resultado de la serie de penales que perdió frente a Boca Juniors en los octavos de la Copa Argentina, por la supuesta inclusión indebida de jugadores extranjeros. Con la vía libre confirmada, Boca enfrentará a Racing este domingo a las 17, en el Gigante de Arroyito, con televisación de TyC Sports.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Boca vs. Racing, por la Copa Argentina 2026: día, horario, TV y cómo ver online",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-racing-por-la-copa-argentina-2026-dia-horario-tv-y-como-ver-online-nid25092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/25/la-afa-rechazo-la-apelacion-de-velez-y-confirmo-que-boca-juniors-jugara-ante-racing-por-copa-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/QVEKMNS3VJAXHJN64UNJBJ4KLE.JPG?auth=12120585abaa51ef60fb8357a389c9305f1e0c0654f867040bfa03741e259d3c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "La AFA rechazó la apelación de Vélez y confirmó que Boca Juniors jugará ante Racing por Copa Argentina"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Turquía recibe a Francia en el debut de Zidane como entrenador",
+     "resumen": "Turquía recibe a Francia por la Nations League en Izmit, en el debut de Zinedine Zidane como entrenador del seleccionado francés, que forma su ataque con Kylian Mbappé y Ousmane Dembélé.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/turquia-vs-francia-vivo-nations-league-minuto-minuto-directo_0_TLRSIfMVRj.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/VIxqYb2rH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Turquía vs Francia, EN VIVO, por la Nations League: minuto a minuto, en directo"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "el medallero de los Juegos Suramericanos Santa Fe 2026",
+     "resumen": "Los XIII Juegos Suramericanos Santa Fe 2026 se disputan hasta el 26 de septiembre en Rosario, Santa Fe y Rafaela, con más de 4.000 atletas de 15 países que compiten en 43 deportes. El medallero se actualiza día a día y ubica a la Argentina entre los primeros puestos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/medallero-juegos-suramericanos-santa-fe-2026-cuantas-medallas-argentina-tabla-posiciones-pais_0_WWMtx0mk4e.html",
+     "imagen": "https://www.clarin.com/img/2026/09/24/NAbJ9DkDD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas tiene Argentina y tabla de posiciones por país"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "la Selección sub-19 perdió la final y logró la plata en los Suramericanos",
+     "resumen": "La Selección argentina sub-19 de fútbol perdió la final de los Juegos Suramericanos ante Paraguay por penales, tras igualar 0 a 0 en los 90 minutos, y se quedó con la medalla de plata.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/la-seleccion-argentina-sub-19-gano-la-medalla-plata-los-juegos-suramericanos-n6326853",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "La Selección argentina sub-19 no pudo en la final y se quedó con la medalla de plata en los Juegos Suramericanos"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Colapinto largará noveno en el GP de Azerbaiyán tras una sanción a Sainz",
+     "resumen": "Franco Colapinto largará noveno en el Gran Premio de Azerbaiyán de Fórmula 1, que se corre este sábado en el circuito callejero de Bakú, después de que una sanción a Carlos Sainz lo hiciera avanzar una posición. El argentino de Alpine había avanzado a la Q3 con una vuelta destacada al cierre de la Q2, pero reconoció que sin el rebufo le resultó muy difícil mejorar su marca en la definición; la pole position quedó en manos de George Russell.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Colapinto se refirió a qué le faltó para obtener una mejor posición en la clasificación: “Es muy difícil sin la succión”",
+       "url": "https://www.lanacion.com.ar/deportes/automovilismo/colapinto-hablo-de-la-ayuda-que-le-dio-a-gasly-para-avanzar-a-la-q3-y-que-no-fue-reciproca-es-muy-nid25092026/"
+      },
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "¿Qué dijo Colapinto tras enterarse que largará noveno en el Gran Premio de Azerbaiyán?",
+       "url": "https://www.ambito.com/deportes/que-dijo-colapinto-enterarse-que-largara-noveno-el-gran-premio-azerbaiyan-n6326761"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El video de las dos vueltas clave de Franco Colapinto desde la cámara a bordo y el mensaje del jefe de Alpine sobre su clasificación",
+       "url": "https://www.infobae.com/deportes/2026/09/25/el-video-de-las-dos-vueltas-clave-de-franco-colapinto-desde-la-camara-a-bordo-y-el-mensaje-del-jefe-de-alpine-sobre-su-clasificacion/"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/25/franco-colapinto-afronta-la-ultima-practica-libre-en-el-gran-premio-de-baku/",
+     "imagen": "https://www.infobae.com/resizer/v2/MLKZIINQQNAKFKDIYNZA5MPZ5E.jpg?auth=702bff17a540cf186c52db2d1fb7dbbcb41e3d017b620e91304c05c944d78bf5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:13",
+     "autor": "",
+     "titulo_original": "Tras una sanción a Sainz, Franco Colapinto largará 9° el Gran Premio de Azerbaiyán en el circuito callejero de Bakú"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-13",
+     "titulo": "la escapada a las termas con 13 piletas y 60% de descuento para jubilados",
+     "resumen": "A menos de tres horas de la Ciudad de Buenos Aires, el complejo Termas Colón, en Entre Ríos, ofrece 13 piletas termales, sectores de hidromasaje y spa frente al río Uruguay. El lugar aplica un descuento del 60% para jubilados, con una entrada de $ 8.000 frente a los $ 20.000 de la tarifa general.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/la-escapada-ideal-a-3-horas-de-buenos-aires-las-termas-con-13-piletas-y-60-de-descuento-para-jubilados/",
+     "imagen": "https://www.cronista.com/resizer/v2/4HNSQEF76VASZCB3F27CTQHMJQ.jpg?auth=5a8f6091fba3682832cc2b6c9f1d7b8f89b865d2bd6fc8d2077a89969f49c9d9&smart=true&width=900&height=544",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:45",
+     "autor": "Florencia Ojeda",
+     "titulo_original": "La escapada ideal a 3 horas de Buenos Aires: las termas con 13 piletas y 60% de descuento para jubilados"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "el otro rostro de Surf City, en las playas de El Salvador",
+     "resumen": "Las playas de La Libertad, en El Salvador, conocidas como Surf City, combinan el circuito de surf con escenas cotidianas de pescadores, vendedores y comercios tradicionales que conviven con el desarrollo turístico de la zona.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/el-salvador/2026/09/25/el-otro-rostro-de-surf-city-las-escenas-curiosas-que-dan-identidad-a-las-playas-de-el-salvador/",
+     "imagen": "https://www.infobae.com/resizer/v2/3UV4KNGTWREIDAFRRQ7SJN52M4.jpg?auth=8397c0e6e585a94f3b4b509cc33e5612130131fc5b498d698c4e80aed8d48223&smart=true&width=900&height=602",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:02",
+     "autor": "Emerson Del Cid",
+     "titulo_original": "El otro rostro de Surf City: las escenas curiosas que dan identidad a las playas de El Salvador"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-01",
+     "titulo": "internet satelital cambia la vida de escuelas rurales",
+     "resumen": "Un programa de conectividad satelital del Gobierno llevó internet de alta velocidad a escuelas rurales de Chaco, Entre Ríos, Santa Fe, Tucumán y Santa Cruz, que participaron de su primera videoconferencia conjunta con la ministra de Capital Humano, Sandra Pettovello. Para muchos alumnos e instituciones aisladas fue la primera vez que contaron con conexión de alta velocidad.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/de-la-desconexion-a-la-videollamada-como-cambia-la-vida-de-escuelas-rurales-con-internet-satelital-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JIDHCFNJJRGL7LLWBHRL4DMPHA.jpg?auth=15734a9775720c805175cfc73b1bf5b2c281d26ecdb2cbf280a65fc911146ee5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:07",
+     "autor": "Mariela Arias",
+     "titulo_original": "De la desconexión a la videollamada: cómo cambia la vida de escuelas rurales con internet satelital"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "murió apuñalado un estudiante durante los festejos en San Juan",
+     "resumen": "Uriel Ríos, de 17 años, murió apuñalado durante los festejos del Día del Estudiante en San Juan; su hermano mellizo también resultó herido. Un joven de 16 años se presentó ante la Justicia, aunque videos muestran que su hermano mayor, ya identificado, sería uno de los agresores.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/dolor-papa-estudiante-asesinado-fiesta-san-juan-murio-dandome-mano_0_qrVcbkWWzJ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/d7W9V6_ur_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:43",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El dolor del papá del estudiante asesinado una fiesta en San Juan: \"Se me murió dándome la mano\""
+    },
+    {
+     "id": "IB-22",
+     "titulo": "ya son cuatro los imputados por el crimen de Leonel, en Mendoza",
+     "resumen": "La causa por el crimen de Leonel Santino Ortiz, el nene de siete años asesinado a tiros en Las Heras, Mendoza, sumó dos nuevos imputados por homicidio agravado, calificación que prevé prisión perpetua: Ticiana Yamil Cabrera Campaña, de 21 años, y Marcos Ernesto Castillo Ferreyra, de 23, además de un adolescente de 17 años. Ya son cuatro los acusados por el ataque.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/25/ya-son-cuatro-los-imputados-por-el-crimen-de-leonel-el-nene-de-7-anos-asesinado-a-tiros-en-mendoza/",
+     "imagen": "https://www.infobae.com/resizer/v2/UZQ3WCRPHNBGRO2YBCWAVZV7HU.jpg?auth=f38c3f30bb528b5d67b214eeb67655f7387293266d7fa000ca72e84dc6a27d6d&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:58",
+     "autor": "",
+     "titulo_original": "Ya son cuatro los imputados por el crimen de Leonel, el nene de 7 años asesinado a tiros en Mendoza"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "qué es el compressor stall que hizo volver un vuelo de Aerolíneas a Ezeiza",
+     "resumen": "El vuelo AR1132 de Aerolíneas Argentinas, con 225 pasajeros rumbo a Madrid, regresó a Ezeiza tras una falla en uno de sus motores que generó fuertes detonaciones conocidas como compressor stall. La aeronave, un Airbus A330-200, aterrizó sin inconvenientes y llegó hasta su posición por sus propios medios.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/que-es-el-compressor-stall-el-fenomeno-detras-de-las-fuertes-detonaciones-en-el-vuelo-de-aerolineas-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EU5CIQT5NZF5TG2E7WC6XTYFEU.jpg?auth=f120f528865d17f6d79a02c88ae0c3f2846158e714d87f8e649690d2f0be041b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:10",
+     "autor": "Camila Súnico Ainchil",
+     "titulo_original": "Qué es el compressor stall, el fenómeno detrás de las fuertes detonaciones en el vuelo de Aerolíneas que regresó a Ezeiza"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del viernes 25 de septiembre. La jornada económica estuvo marcada por la suba del dólar y las tensiones en el mercado de deuda. El dólar mayorista cerró en un récord nominal de mil quinientos veinticinco pesos, con una suba de seis pesos en el día, y el dólar oficial rozó los mil quinientos cincuenta pesos al público. El Banco Central no compró reservas por cuarta vez en el año: el stock bruto bajó seiscientos millones de dólares en la jornada y cerró en cuarenta y ocho mil doscientos cuarenta y cinco millones de dólares, después de que el Gobierno girara casi ochocientos millones de dólares al Fondo Monetario Internacional. En la semana, la caída de reservas acumulada fue de mil quinientos cincuenta y tres millones de dólares. El dólar blue también subió por tercera semana consecutiva, el oro cotiza en torno a los cuatro mil trescientos veinte dólares la onza y el riesgo país se mantiene por encima de los seiscientos puntos. En el plano internacional, el petróleo cedió posiciones en medio de negociaciones entre Estados Unidos e Irán para reabrir el estrecho de Ormuz: el barril de Brent cerró en ciento cuatro dólares con treinta y dos centavos y el West Texas Intermediate en noventa y dos dólares con cuarenta y un centavos. Teherán propuso reabrir la vía marítima en siete días si se cumplen ciertas condiciones. En ese contexto, YPF confirmó una suba promedio del uno por ciento en sus combustibles, la primera desde mayo sin contar ajustes por impuestos, después de que Axion, Puma y Shell ya hubieran remarcado sus precios esta semana. También en Wall Street, el índice Standard and Poor's quinientos concentra por primera vez en su historia el quince por ciento de su ponderación en solo dos empresas, Nvidia y Apple, lo que despierta dudas sobre la diversificación de las carteras. En impuestos y normativa laboral, la Comisión Nacional de Trabajo en Casas Particulares difundió la escala salarial de octubre para empleadas domésticas, con un adicional del treinta y uno por ciento por zona desfavorable, y el recibo de sueldo de ese sector deberá emitirse de manera electrónica a través de ARCA según la Ley de Modernización Laboral. El Día del Empleado de Comercio, que por ley cae el veintiséis de septiembre pero este año coincide con un sábado, se trasladó al lunes veintiocho por un acuerdo entre el gremio y las cámaras empresarias. En la construcción, la Unión Empleados de la Construcción firmó subas acumulativas de uno con nueve por ciento en septiembre, uno con ocho por ciento en octubre y uno con siete por ciento en noviembre, un esquema que permite proyectar con precisión la carga salarial del sector hasta marzo del año que viene. El Banco Central, por su parte, estableció nuevas exigencias de gestión del riesgo de fraude para entidades financieras y proveedores de pago. En consumo y construcción, para una vivienda de sesenta metros cuadrados, las casas prefabricadas ofrecen presupuestos cerrados de entre veintidós mil y treinta mil dólares según la empresa y el nivel de terminación, mientras que un sistema constructivo en madera promete entregar una casa de ciento cincuenta metros cuadrados en diez días, con un costo un sesenta y cinco por ciento menor al de un monoambiente. Los cierres de plantas de Electrolux, Whirlpool y Mabe muestran un modelo industrial de electrodomésticos en crisis, con menos fábricas y más peso de los productos importados. Los patentamientos de autos cayeron trece por ciento en septiembre pese a los descuentos, y la crisis de consumo impulsa la compra de ropa usada, con cadenas que ya mueven cuarenta mil prendas por mes. En negocios y empresas, el laboratorio argentino Biogénesis Bagó hizo su primer envío de cien mil dosis de vacuna contra la aftosa a Chipre, la primera exportación de este tipo hacia un mercado europeo, sobre un permiso que llega a seiscientas mil dosis. Tesla aceleraría su llegada a la Argentina con una primera tienda en Buenos Aires el mes próximo, y Alsea invirtió más de diez millones de dólares en Burger King Argentina tras descartar la venta del negocio. McCain y Arcos Dorados avanzan en agricultura regenerativa para la producción de papa, una meta que en el país ya se cumplió. En gestión y finanzas corporativas, la inteligencia artificial introduce un desafío de costos para bancos y financieras, porque el gasto tecnológico depende de cada consulta u operación procesada, y el abogado Martín Litwak advirtió que las grandes pérdidas patrimoniales no suelen originarse en una mala inversión, sino en el desconocimiento de riesgos como un divorcio, una sucesión mal estructurada o un juicio. En política, un juez de Formosa afín al gobernador Gildo Insfrán sancionó con arresto o multa a un equipo periodístico que grababa en la vía pública, en una medida que la asociación de entidades periodísticas calificó de preocupante. En la Ciudad, Jorge Macri celebró el fallo que revocó la decisión de la jueza Laura De Marinis sobre la reforma penal juvenil. En la provincia de Buenos Aires, diputados de Axel Kicillof se abstuvieron ante un proyecto del bloque de Fuerza Patria sobre sobreendeudamiento familiar, aunque la iniciativa igual avanzó. Y en Arrecifes, el sindicato de Camioneros mantiene bloqueada hace cuarenta y ocho horas una empresa exportadora de legumbres, en un conflicto por el pase a planta de cuatro choferes. En el mundo, la Corte Suprema de Estados Unidos habilitó el uso de un sistema para depurar los padrones electorales e identificar a no ciudadanos, en un fallo que favorece al gobierno de Donald Trump, mientras un sondeo anticipa que los republicanos podrían perder la mayoría en la Cámara de Representantes. El Ejército estadounidense evalúa reforzar al Comando Sur ante una posible acción vinculada a Cuba, y el Gobierno de Rusia presentó un paquete que eleva impuestos para financiar el esfuerzo bélico en Ucrania. En deportes, Franco Colapinto largará noveno en el Gran Premio de Azerbaiyán de Fórmula uno, que se corre este sábado en el circuito callejero de Bakú, después de una sanción a Carlos Sainz. El argentino de Alpine había avanzado a la Q3 con una vuelta destacada, aunque reconoció que sin el rebufo le resultó muy difícil mejorar su marca; la pole position quedó para George Russell. Cristian Romero será el nuevo capitán de la Selección argentina tras el retiro de Lionel Messi, y Manchester City fue declarado culpable de más de ciento catorce infracciones financieras en la Premier League, con una posible sanción histórica. Boca Juniors enfrentará a Racing el domingo por los cuartos de final de la Copa Argentina, después de que la AFA rechazara el reclamo de Vélez. Para cerrar, una recomendación de turismo: a menos de tres horas de Buenos Aires, el complejo Termas Colón, en Entre Ríos, ofrece trece piletas termales frente al río Uruguay, con un descuento del sesenta por ciento para jubilados. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "slug": "2026-09-25-tarde",
+ "generado_ba": "25/09/2026 21:16"
+}
