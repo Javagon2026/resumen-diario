@@ -1,0 +1,757 @@
+{
+ "fecha": "2026-09-26",
+ "edicion": "mediodia",
+ "titulo": "Trump rechaza el plan de Irán y el riesgo país argentino supera los 600 puntos",
+ "apertura": "Donald Trump rechazó el plan iraní para reabrir el estrecho de Ormuz mientras en la Argentina el riesgo país volvió a superar los 600 puntos básicos, su nivel más alto desde mayo, en medio de advertencias sobre un 2026 de estanflación. En el plano impositivo, la ley de Inocencia Fiscal II ya tiene número y ARCA extendió el vencimiento de Ganancias, mientras Catamarca eliminó Ingresos Brutos a la industria. En deportes, Franco Colapinto abandonó por primera vez en el año el Gran Premio de Azerbaiyán tras chocar con su compañero de Alpine, en una carrera que ganó George Russell.",
+ "claves": [
+  "Donald Trump rechazó el plan iraní de siete días para reabrir el estrecho de Ormuz, que exigía levantar el bloqueo naval y las sanciones petroleras.",
+  "El riesgo país argentino superó los 600 puntos básicos, su nivel más alto desde principios de mayo, por tasas internacionales más altas y menor oferta de dólares.",
+  "Las ventas en supermercados cayeron 2,1% interanual en julio y acumulan una baja de 2,7% en 2026, según el INDEC.",
+  "La ley de Inocencia Fiscal II ya tiene número, 27.826, y ARCA extendió al 13 de octubre el vencimiento de la declaración simplificada de Ganancias.",
+  "Argentina se comprometió ante la OCDE a intercambiar información fiscal sobre criptoactivos a partir de septiembre de 2029.",
+  "Franco Colapinto abandonó por primera vez en el año el Gran Premio de Azerbaiyán tras chocar contra Pierre Gasly y Lando Norris; George Russell ganó la carrera.",
+  "Catamarca eliminó Ingresos Brutos a la industria y reabrió el debate fiscal entre provincias.",
+  "Glencore reabrirá la mina Alumbrera en 2027, primer paso de un plan minero por 13.500 millones de dólares en Catamarca y San Juan."
+ ],
+ "cifras": [
+  {
+   "nombre": "Alimentos y bebidas (cuarta semana de septiembre, LCG)",
+   "valor": "+1,7%",
+   "fuente": "CR-08"
+  },
+  {
+   "nombre": "Ventas en supermercados (INDEC, julio)",
+   "valor": "-2,1% interanual",
+   "variacion": "acumulado -2,7% en 2026",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Gasto primario de las provincias (2025)",
+   "valor": "+8,9% real",
+   "fuente": "CR-06"
+  },
+  {
+   "nombre": "Corredor Andes-Atlántico (financiamiento de EE.UU.)",
+   "valor": "hasta US$ 7.000 millones",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Plan minero post-Alumbrera (Glencore)",
+   "valor": "US$ 13.500 millones",
+   "fuente": "CL-16"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "El decomiso a Cristina Kirchner, el proyecto de Malvinas y una nueva resolución sobre el atentado a la AMIA marcaron la agenda del mediodía.",
+   "notas": [
+    {
+     "id": "LN-11",
+     "titulo": "El decomiso de 645 millones de dólares a Cristina Kirchner sigue a la espera de un fallo de la Corte Suprema",
+     "resumen": "El decomiso de bienes de Cristina Kirchner y sus hijos para cubrir los 645 millones de dólares de la condena por la causa Vialidad lleva cuatro meses a la espera de una decisión de la Corte Suprema. La Cámara Federal de Casación había rechazado en mayo el recurso extraordinario de los condenados, quienes acudieron al máximo tribunal mediante un recurso de queja. Si la Corte lo rechaza, podría avanzar la ejecución patrimonial y el remate de 111 inmuebles de la causa.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-decomiso-de-us-645-millones-de-cristina-kirchner-y-sus-hijos-esta-a-la-espera-de-un-fallo-de-la-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GL24N6WLFJHB3C53EYAAXC5AWQ.JPG?auth=6d4da8cd20c84af0bd90a3afc50502552fb529bc223476760fb623a566205bcd&smart=true&width=690&height=518",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:15",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "El decomiso de US$ 645 millones de Cristina Kirchner y sus hijos está a la espera de un fallo de la Corte Suprema"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "El oficialismo apura el proyecto sobre Malvinas y Diputados lo debate el miércoles",
+     "resumen": "El Gobierno acelera los tiempos del proyecto vinculado a Malvinas y prevé una reunión informativa con funcionarios del Ejecutivo antes de que la Cámara de Diputados comience a discutirlo el miércoles próximo. La intención oficial es lograr un dictamen para el 6 de octubre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/oficialismo-apura-proyecto-malvinas-diputados-empieza-debatirlo-miercoles-viene_0_uJ7khCW5Q7.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/DxX6vBcWL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El oficialismo apura el proyecto por Malvinas y Diputados empieza a debatirlo el miércoles que viene"
+    },
+    {
+     "id": "AM-01",
+     "titulo": "Una resolución judicial reconstruye la trama internacional del atentado a la AMIA con Irán, Hezbolá y Panamá",
+     "resumen": "El juez Daniel Rafecas responsabilizó a altas autoridades de Irán por el atentado contra la AMIA de 1994 y reconstruyó una cadena de hechos que arrancó con el ataque a la embajada de Israel en Buenos Aires. La resolución vinculó además el atentado con otro ataque de Hezbolá ocurrido en Panamá al día siguiente, el 19 de julio de 1994.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/la-trama-internacional-detras-del-atentado-la-amia-iran-hezbola-y-el-vinculo-panama-n6326983",
+     "imagen": "https://media.ambito.com/p/8eb9f8d9936e94d94840cac87a396387/adjuntos/239/imagenes/042/600/0042600467/jorge-macri-amia.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "La trama internacional detrás del atentado a la AMIA: Irán, Hezbolá y el vínculo con Panamá"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Una encuesta de la Universidad de San Andrés mostró que Milei sostiene su imagen mientras Kicillof retrocede",
+     "resumen": "Según la Encuesta de Satisfacción Política y Opinión Pública de septiembre de la Universidad de San Andrés, la imagen positiva de Javier Milei se mantuvo en 33% y la aprobación de su gobierno en 35%, igual que en agosto. En el mismo mes, Axel Kicillof perdió 7 puntos de imagen positiva y quedó en 29%, y Myriam Bregman también retrocedió.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/midieron-la-imagen-de-milei-kicillof-y-cristina-el-dato-que-ilusiona-al-oficialismo-tras-un-fuerte-cambio/",
+     "imagen": "https://www.cronista.com/resizer/v2/NCAYBHTYMNGPLADTWJEQS7PTMY.jpg?auth=e5aef4eaa6a1a2375b7b277a0b3dd773f91b2e4df591763d357400822288e8d4&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:31",
+     "autor": "Catalina Jordán",
+     "titulo_original": "Midieron la imagen de Milei, Kicillof y Cristina: el dato que ilusiona al oficialismo tras un fuerte cambio"
+    },
+    {
+     "id": "IB-04",
+     "titulo": "La Justicia de Formosa condenó a cuatro periodistas de La Nación por una cobertura en una comunidad originaria",
+     "resumen": "El Juzgado de Paz de Menor Cuantía de Las Lomitas condenó a cinco días de arresto, sustituibles por una multa de 282.550 pesos cada uno, a cuatro integrantes de un equipo periodístico de La Nación que había cubierto la situación en la comunidad nivaclé San José. La resolución, firmada por el juez Omar Padilla, consideró que hubo una infracción al artículo 73 del Código de Faltas provincial.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/26/la-justicia-de-formosa-condeno-a-cuatro-periodistas-por-una-cobertura-en-una-comunidad-originaria/",
+     "imagen": "https://www.infobae.com/resizer/v2/BSQJAUFP6VF6ZCP5HVZKKCRNME.png?auth=ad98ce3c006659878f497ee1e83a95ac27fe43163a254434b4c59e8403254bcc&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "La Justicia de Formosa condenó a cuatro periodistas por una cobertura en una comunidad originaria"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "intro": "El riesgo país volvió a superar los 600 puntos y crecen las advertencias sobre estanflación e inflación de alimentos.",
+   "notas": [
+    {
+     "id": "IB-20",
+     "titulo": "Un economista de Equilibra advirtió sobre un 2026 de estanflación con crecimiento aislado en el agro, la energía y la minería",
+     "resumen": "Lorenzo Sigaut Gravina, de la consultora Equilibra, sostuvo que la economía argentina transita un 2026 de estanflación, con expansión concentrada en el agro, el petróleo y gas y la minería. El economista estimó una inflación del 1,9% para septiembre, contra el 1,7% de agosto, y señaló que la caída de la recaudación obliga al Gobierno a seguir ajustando el gasto.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/26/lorenzo-sigaut-gravina-se-esta-generando-un-2026-de-estanflacion-con-crecimiento-muy-aislado-en-el-tridente-de-oro/",
+     "imagen": "https://www.infobae.com/resizer/v2/A4OGZFKQM5AVVH7AFUNQ3QYCZM.jpg?auth=7242e9cf7445d3ff34ff41881533cfaa9bae96bb32d5804a8d5db4841c51fdeb&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:37",
+     "autor": "",
+     "titulo_original": "Lorenzo Sigaut Gravina: “Se está generando un 2026 de estanflación, con crecimiento muy aislado en el tridente de oro”"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "El riesgo país superó los 600 puntos, su nivel más alto desde mayo, por el contexto externo y la menor oferta de dólares",
+     "resumen": "El riesgo país argentino volvió a superar los 600 puntos básicos, el nivel más alto desde principios de mayo, según un informe de la consultora PxQ. El análisis atribuyó la suba a tasas más altas en Estados Unidos, mayor volatilidad en los mercados emergentes y factores locales como las menores compras de reservas del Banco Central y las dificultades del Tesoro para refinanciar vencimientos de 2027.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/26/contexto-externo-senales-internas-y-menor-disponibilidad-de-dolares-por-que-el-riesgo-pais-volvio-a-superar-los-600-puntos/",
+     "imagen": "https://www.infobae.com/resizer/v2/4STEFNLM2VDTJL7RHBMHDXALRE.png?auth=77d601091d4176cd4fcba667fea7aeb16c70874607958b6d6820550e6ba07502&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:36",
+     "autor": "",
+     "titulo_original": "Contexto externo, señales internas y menor disponibilidad de dólares: por qué el riesgo país volvió a superar los 600 puntos"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Las provincias aumentaron el gasto un 8,9% real en 2025 y volvieron a mostrar déficit fiscal",
+     "resumen": "Un relevamiento de la Fundación Libertad y Progreso sobre 23 jurisdicciones mostró que el gasto primario provincial creció 8,9% real en 2025 respecto de 2024, después del fuerte ajuste del primer año de gestión de Javier Milei. El aumento se dio en todas las provincias analizadas, aunque con diferencias marcadas entre distritos, y erosionó el resultado fiscal que habían logrado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/las-provincias-aumentaron-el-gasto-y-volvieron-al-deficit-que-paso-con-las-cuentas-fiscales/",
+     "imagen": "https://www.cronista.com/resizer/v2/JIY7ND3RKBBCBFQ7JEG6UVETHE.jpg?auth=f24bfbed46aca5f3da2c7db40a2870ee849382fae83b858ce16ee9ad5a82ddef&smart=true&width=900&height=569",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:46",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "Las provincias aumentaron el gasto y volvieron al déficit: qué pasó con las cuentas fiscales"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Los alimentos subieron 1,7% en la cuarta semana de septiembre y encienden una alerta sobre el cierre del mes",
+     "resumen": "Un relevamiento de alta frecuencia de la consultora LCG registró una suba de 1,7% en los precios de alimentos y bebidas durante la cuarta semana de septiembre, la tercera semana consecutiva en alza. El dato pone en duda la posibilidad de sostener la desinflación que el Gobierno había celebrado en agosto. Para una empresa: un nuevo impulso alcista en alimentos presiona la actualización de listas de precios de cara a octubre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/un-dato-clave-del-ipc-termina-septiembre-con-una-senal-preocupante-y-un-rubro-que-se-despego-del-resto/",
+     "imagen": "https://www.cronista.com/resizer/v2/VQHV7QOID5FXTDNWR627RSJAPU.jpg?auth=7478fd82e5a4f3e8e42be74e5b36aaa01e165debb5aa96a2301d172a0d56756f&smart=true&width=900&height=678",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:31",
+     "autor": "Fernando Garcia",
+     "titulo_original": "Un dato clave del IPC termina septiembre con una señal preocupante y un rubro que se despegó del resto"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "En medio de la tensión financiera global, los bonos argentinos ofrecen una rentabilidad considerada imperdible",
+     "resumen": "Pese al escenario de mayor volatilidad internacional, un análisis de mercado sostuvo que los bonos argentinos ofrecen una rentabilidad atractiva y que la estrategia recomendada es esperar, mantener las carteras sin desarmarlas y, con liquidez disponible, reforzar posiciones en renta fija.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/465293-tasas-interes-record-como-armar-cartera-segura-aprovechar-renta-fija-septiembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620705.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "En plena tensión financiera global, bonos argentinos ofrecen una rentabilidad imperdible"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "Deuda récord, guerras e inteligencia artificial: por qué los mercados temen una tormenta perfecta",
+     "resumen": "Especialistas advirtieron que el fuerte aumento del costo de financiamiento global, el shock energético por los conflictos en curso y la creciente emisión corporativa vinculada a la inteligencia artificial vuelven más frágil el escenario para los mercados. El análisis señaló en qué activos se concentran los principales riesgos y qué consecuencias podría tener ese escenario para la economía argentina.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/deuda-record-guerras-e-ia-que-los-mercados-temen-una-tormenta-perfecta-y-como-podria-afectar-la-argentina-n6326906",
+     "imagen": "https://media.ambito.com/p/f6434525d7223d36f0d7f199976881e6/adjuntos/239/imagenes/043/665/0043665743/1200x675/smart/tormenta-perfecta.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:01",
+     "autor": "",
+     "titulo_original": "Deuda récord, guerras e IA: por qué los mercados temen una \"tormenta perfecta\" y cómo podría afectar a la Argentina"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "Glencore reabrirá la mina Alumbrera en 2027 y encabeza un plan minero por 13.500 millones de dólares",
+     "resumen": "La reapertura de Alumbrera, prevista para 2027, es el primer paso de un plan que también incluye los proyectos Agua Rica y El Pachón, por un total de 13.500 millones de dólares. Mientras esperan la adhesión al RIGI, las iniciativas ya generan más de 2.000 puestos de trabajo en Catamarca y San Juan.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/mina-cobre-hito-hoy-abre-paso-proyectos-us13500-millones_0_eC7xf3Lbl2.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/ZINaP7ret_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La mina de cobre que fue un hito hoy abre paso a proyectos por U$S13.500 millones"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Avex, controlante de Granja Tres Arroyos, entró en concurso preventivo y dejó a 350 trabajadores sin cobrar",
+     "resumen": "La planta de Río Cuarto, controlada por el grupo Avex, se presentó en concurso preventivo de acreedores después de que fracasaran las negociaciones privadas para resolver su situación financiera. La medida afecta directamente a 350 trabajadores que no percibieron sus salarios.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465312-crisis-granja-tres-arroyos-avex-en-concurso-preventivo-y-350-trabajadores-sin-cobrar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626434.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:25",
+     "autor": "",
+     "titulo_original": "Crisis en Granja Tres Arroyos: Avex en concurso preventivo y 350 trabajadores sin cobrar"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "Estados Unidos ofrece hasta 7.000 millones de dólares para el Corredor Andes-Atlántico",
+     "resumen": "El embajador de Estados Unidos en la Argentina, Peter Lamelas, confirmó un marco de financiamiento de hasta 7.000 millones de dólares hasta 2027 para el Corredor Andes-Atlántico, un proyecto de infraestructura en energía, minería y transporte anunciado por el canciller Pablo Quirno y el subsecretario de Estado Chris Landau en Nueva York. El mecanismo, canalizado a través del EXIM Bank, busca facilitar la participación de empresas y proveedores estadounidenses. Para una empresa: es una señal de financiamiento externo disponible para proyectos de infraestructura vinculados a energía y minería.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/china-el-plan-de-inversion-millonaria-de-eeuu-y-el-apoyo-a-milei-en-2027-va-a-ganar/",
+     "imagen": "https://www.cronista.com/resizer/v2/7OIYQCPOLBHXVEHERSM7XRVKEQ.jpg?auth=c13c7872d36ee6083665ba48d37131527b0bc269d256e7860a88ffd7122917a0&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:45",
+     "autor": "Daniela Romero",
+     "titulo_original": "China, el plan de inversión millonaria de EEUU y el apoyo a Milei en 2027: “Va a ganar″"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Loora, la aplicación de inglés con profesores de inteligencia artificial, capta 22 millones de dólares y crece en la Argentina",
+     "resumen": "La startup Loora, que enseña inglés exclusivamente con inteligencia artificial, sumó 22 millones de dólares en una ronda serie B liderada por Union Tech Ventures, con lo que acumula 43,25 millones de dólares de financiamiento. La plataforma ya tiene 15 millones de usuarios en el mundo y ofrece una experiencia personalizada por unos 10 dólares mensuales, frente a los 50 dólares por hora de un tutor humano online.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/loora-la-app-viral-que-ensena-ingles-con-teachers-creados-con-ia-capto-us-22-millones-y-ya-es-un-fenomeno-en-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/3U5ZGBPWPVA4TOGSCQPMDA2JPQ.jpeg?auth=53b7335112434cb7d3b901d3bc0a1aa1941e57250ad2cb5edd1ea97b131a59f8&smart=true&width=768&height=512",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Loora, la app viral que enseña inglés con teachers creados con IA: captó u$s 22 millones y ya es un fenómeno en Argentina"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Una startup cordobesa que invirtió 500 dólares hoy aplica inteligencia artificial al negocio inmobiliario",
+     "resumen": "La empresa, nacida en Córdoba con una inversión inicial de apenas 500 dólares, desarrolló una solución digital basada en inteligencia artificial que agiliza procesos y amplía el acceso al mercado inmobiliario.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464529-como-funciona-agonprop-la-plataforma-que-automatiza-operaciones-inmobiliarias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625774.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:56",
+     "autor": "",
+     "titulo_original": "Invirtieron u$s500 y hoy revolucionan el negocio inmobiliario con Inteligencia Artificial"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "Argentina se comprometió a intercambiar información fiscal sobre criptoactivos a partir de 2029",
+     "resumen": "El país adoptará el Marco de Reporte sobre Criptoactivos de la OCDE y comenzará a intercambiar automáticamente información sobre operaciones con criptomonedas a más tardar en septiembre de 2029, según el compromiso asumido ante el organismo el 14 de septiembre. Para una empresa: conviene empezar a ordenar la trazabilidad de las operaciones con criptoactivos antes de que el régimen de información entre en vigencia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/argentina-se-compromete-a-intercambiar-informacion-fiscal-sobre-criptoactivos-a-partir-de-2029-que-implica-para-los-contribuyentes/",
+     "imagen": "https://www.cronista.com/resizer/v2/YS32USEJNNE3DLKP5VZSZOA5EQ.744?auth=f6dee8e3689d259accf0eaee3c19b4162e58b50a1022fcb97b6a18ae5efe199f&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:22",
+     "autor": "Alejandro Azzola",
+     "titulo_original": "Argentina se compromete a intercambiar información fiscal sobre criptoactivos a partir de 2029: ¿qué implica para los contribuyentes?"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "La ley de Inocencia Fiscal II ya tiene número y ARCA extendió el vencimiento de Ganancias al 13 de octubre",
+     "resumen": "La reforma de la ley de Inocencia Fiscal, que regula el blanqueo de dólares guardados fuera del sistema, quedará formalizada como ley 27.826 y se publicará en los próximos días en el Boletín Oficial. En paralelo, ARCA extendió hasta el 13 de octubre el vencimiento para presentar la declaración simplificada del impuesto a las Ganancias.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/inocencia-fiscal-ii-el-paso-a-paso-de-las-modificaciones-que-impactan-en-los-contribuyentes/",
+     "imagen": "https://www.cronista.com/resizer/v2/5MIW2WYUDFHMZKCHOD5OYV22CY.jpg?auth=fe6342c819859cb4d2f078995235af5fe0491d25033695ee28cb99dd8391a816&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:19",
+     "autor": "José Luis Ceteri",
+     "titulo_original": "Inocencia Fiscal II: guía completa de las modificaciones que impactan en los contribuyentes"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Catamarca eliminó Ingresos Brutos a la industria y reabrió el debate fiscal con las provincias",
+     "resumen": "El gobernador Raúl Jalil anunció la eliminación del impuesto a los Ingresos Brutos para la actividad industrial en Catamarca, con el objetivo de aliviar la carga sobre las fábricas. En paralelo, en la provincia de Buenos Aires los industriales pidieron excluir del tributo a las pymes que facturen hasta 3.200 millones de pesos al año. Para una empresa: la competencia fiscal entre provincias en Ingresos Brutos puede abrir margen de negociación en las jurisdicciones donde opera.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/ingresos-brutos-catamarca-elimina-el-impuesto-la-industria-y-reaviva-el-debate-fiscal-las-provincias-n6326748",
+     "imagen": "https://media.ambito.com/p/77d801d591d29539d32a92d9807f9d95/adjuntos/239/imagenes/043/665/0043665015/1200x675/smart/catamarca-uia.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Ingresos Brutos: Catamarca elimina el impuesto a la industria y reaviva el debate fiscal con las provincias"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "El Senado eliminó el subsidio automático de Zona Fría para millones de hogares y hubo rechazo de intendentes",
+     "resumen": "El Senado convirtió en ley la reforma que termina con el subsidio automático de Zona Fría, que beneficiaba a hogares en regiones de bajas temperaturas por el consumo de gas natural. La Patagonia, la Puna y Malargüe mantienen el beneficio, mientras que otras zonas deberán cumplir nuevos requisitos para acceder a él. Más de 500 intendentes, agrupados en la Federación Argentina de Municipios, cuestionaron la medida y advirtieron que afectará a millones de usuarios.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Más de 500 intendentes cuestionaron la derogación del Régimen de Zona Fría",
+       "url": "https://www.ambito.com/politica/mas-500-intendentes-cuestionaron-la-derogacion-del-regimen-zona-fria-n6326980"
+      }
+     ],
+     "url": "https://www.iprofesional.com/economia/465257-zona-fria-que-cambia-y-quienes-pueden-perder-el-subsidio-al-gas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617314.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:35",
+     "autor": "",
+     "titulo_original": "Cambió Zona Fría y millones de hogares dejarán de tener el subsidio automático"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "ARCA fijó el próximo vencimiento de recategorización del monotributo",
+     "resumen": "Los contribuyentes del monotributo deben actualizar su perfil con los datos más recientes de facturación y actividad antes del próximo vencimiento de recategorización, para evitar inconsistencias que podrían derivar en sanciones administrativas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465313-monotributo-arca-cuando-vence-la-recategorizacion-y-como-se-hace",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618839.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "Monotributo ARCA: cuándo vence la próxima recategorización y cómo se hace"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Con el aumento de septiembre, así queda el sueldo de un empleado de comercio en octubre",
+     "resumen": "Los sueldos de septiembre, que se cobran en octubre, incluyen un aumento del 1,9% para los trabajadores mercantiles, según la categoría del convenio. Además, por acuerdo sectorial, el Día del Empleado de Comercio será no laborable para quienes se rigen por ese convenio, aunque no se trata de un feriado nacional.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Día del Empleado de comercio: cuándo cae y cuánto cobran quienes trabajen",
+       "url": "https://www.iprofesional.com/economia/465296-empleados-de-comercio-cuando-cae-este-ano-2026-cuanto-cobran-quienes-trabajen"
+      }
+     ],
+     "url": "https://www.iprofesional.com/management/465137-tras-los-aumentos-cuanto-cobrara-un-empleado-de-comercio-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588397.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:17",
+     "autor": "",
+     "titulo_original": "Tras los aumentos, cuánto cobrará un empleado de comercio en octubre 2026"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "El consumo masivo sigue débil, mientras el real estate porteño muestra señales dispares.",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "El consumo masivo sigue en rojo: las ventas en supermercados cayeron 2,1% en julio",
+     "resumen": "Según datos del INDEC, las ventas en supermercados retrocedieron 2,1% interanual en julio y acumulan una baja de 2,7% en lo que va de 2026. Un informe de tendencias de consumo masivo de la consultora Scentia señaló que, a la espera de los datos oficiales de agosto, los relevamientos privados tampoco muestran señales más alentadoras, aunque un canal puntual mostró un cambio de hábito de compra a contramano del resto.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/consumo-en-rojo-el-unico-rubro-que-subio-y-el-contundente-cambio-de-habito-que-impacto-en-agosto/",
+     "imagen": "https://www.cronista.com/resizer/v2/KAU2HRTZ2VDW7MF52PK5KU76F4.jpg?auth=acfc258c486f4363b948c333e3b9b619177cc2842565b29eeb58a9e95ad00380&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:30",
+     "autor": "Giannina Nigro",
+     "titulo_original": "Consumo en rojo: el único rubro que subió y el contundente cambio de hábito que impactó en agosto"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "Cuánto cuesta hoy entrar a un proyecto en pozo y qué barrios ofrecen los tickets más bajos",
+     "resumen": "El financiamiento directo de desarrollos inmobiliarios permite ingresar con un anticipo y pagar el resto en cuotas, aunque el barrio, la tipología del proyecto y los amenities inciden fuertemente en el valor final. El esquema amplía el acceso a la compra de una unidad en pozo frente a la financiación bancaria tradicional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464954-cuanto-cuesta-entrar-hoy-proyecto-en-pozo-en-caba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/571081.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:18",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta entrar hoy a un proyecto en pozo y qué barrios tienen los tickets más bajos"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Chacarita y Colegiales, entre las zonas más elegidas del mundo según Time Out, avanzan con nuevos proyectos",
+     "resumen": "La revista Time Out posicionó a Chacarita y Colegiales entre las zonas más destacadas a nivel global, lo que impulsa nuevos desarrollos inmobiliarios, más áreas verdes y mayor oferta residencial en la zona porteña.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464744-cuanto-cuesta-vivir-en-chacagiales-una-de-las-zonas-mas-cool-del-mundo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625947.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta vivir en \"Chacagiales\", elegida como una de las zonas más cool del mundo"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Sampa, la parrilla sin carne de Buenos Aires, sobrevive en un mercado gastronómico en baja",
+     "resumen": "El local, que nació con una inversión de 300.000 dólares, apuesta a un formato de parrilla basado en productos sin carne animal en un contexto de consumo gastronómico debilitado en la Ciudad de Buenos Aires.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465134-sampa-la-curiosa-historia-de-la-parrilla-vegetariana-de-villa-crespo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626270.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:19",
+     "autor": "",
+     "titulo_original": "Una parrilla sin carne en Buenos Aires: la apuesta de dos amigos que comen asado"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "intro": "",
+   "notas": [
+    {
+     "id": "IP-09",
+     "titulo": "Further Corporate lanzó KREW HUB, una academia de inteligencia artificial para profesionales",
+     "resumen": "La academia ofrece cursos de inteligencia artificial aplicados a marketing, finanzas y administración, con modalidades online y presenciales, orientados a profesionales que buscan incorporar estas herramientas a la gestión de sus áreas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464746-cuanto-cuesta-estudiar-inteligencia-artificial-en-krew-hub",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625949.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:15",
+     "autor": "",
+     "titulo_original": "Further Corporate lanzó KREW HUB, una academia de IA para profesionales"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Del SEO al GEO: la nueva pelea de las empresas es aparecer en las respuestas de la inteligencia artificial",
+     "resumen": "La masificación de los modelos de inteligencia artificial cambia los hábitos de búsqueda de los usuarios y obliga a las empresas a repensar sus estrategias de comunicación, ya que la disputa comercial deja de concentrarse en el clic para pasar a discutir a quién cita la inteligencia artificial en sus respuestas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/tecnologia/del-seo-al-geo-cuando-la-pelea-ya-no-es-el-clic-sino-entrar-las-respuestas-la-inteligencia-artificial-n6326674",
+     "imagen": "https://media.ambito.com/p/9a4445a4fe74c655da16cd7e373e0548/adjuntos/239/imagenes/043/664/0043664653/1200x675/smart/ia-citas-geo.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Del SEO al GEO: cuando la pelea ya no es por el clic, sino por entrar en las respuestas de la inteligencia artificial"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "Menos del 5% de la Generación Silver fue contratada en el último año pese a su experiencia",
+     "resumen": "Especialistas señalaron que persisten sesgos sobre la edad en la contratación de mayores de 50 años, pese a que su trayectoria puede convertirlos en agentes de cambio dentro de las organizaciones. También remarcaron que la adaptación tecnológica es un desafío transversal a toda la fuerza laboral, no solo a los trabajadores de mayor edad.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/menos-un-5-la-generacion-silver-fue-contratada-el-ultimo-ano-sus-desafios-y-la-necesidad-valorar-la-trayectoria-los-50-n6322599",
+     "imagen": "https://media.ambito.com/p/b1f813f67941a8423e68ebb5f8aa68e2/adjuntos/239/imagenes/040/999/0040999130/1200x675/smart/generacion-silverjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Menos de un 5% de la Generación Silver fue contratada en el último año: sus desafíos y la necesidad de valorar la trayectoria de los +50"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "intro": "",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "Trump rechazó el plan de Irán para reabrir el estrecho de Ormuz en siete días",
+     "resumen": "Donald Trump descartó este sábado la propuesta iraní, transmitida a través de Qatar, que condicionaba la reapertura del estrecho de Ormuz al levantamiento del bloqueo naval estadounidense, la flexibilización de las sanciones petroleras y la liberación de fondos congelados. Las negociaciones entre ambos países están estancadas desde julio, cuando Washington dio por terminado un memorando de entendimiento alcanzado un mes antes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/26/donald-trump-rechazo-el-plan-presentado-por-iran-para-reabrir-el-estrecho-de-ormuz-ese-acuerdo-no-es-aceptable/",
+     "imagen": "https://www.infobae.com/resizer/v2/GBNERVZBOVCEVN47LJIYC5O2GU.JPG?auth=706f7ec0ce162790189288fd0a2f15fd15022faea471c5e3695fd4951f87efbf&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:04",
+     "autor": "",
+     "titulo_original": "Donald Trump rechazó el plan presentado por Irán para reabrir el estrecho de Ormuz: “Ese acuerdo no es aceptable”"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Trump dijo que habló con Delcy Rodríguez sobre las elecciones en Venezuela",
+     "resumen": "El presidente de Estados Unidos conversó en Nueva York con la vicepresidenta venezolana sobre la realización de comicios en el país. Trump describió el encuentro como cordial y positivo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/trump-dice-que-hablo-con-delcy-rodriguez-sobre-elecciones-en-venezuela-durante-su-reunion_0_MPPuiB6lUP.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Trump dice que habló con Delcy Rodríguez sobre elecciones en Venezuela durante su reunión"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "Lula lanzó un plan para comprarles a los bancos las deudas de las familias morosas con descuentos de hasta 90%",
+     "resumen": "El ministro de Planificación de Brasil anunció que el Estado buscará cancelar hasta 28.000 millones de dólares en deudas de consumidores con importantes descuentos y luego refinanciará directamente a los deudores.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/plan-lula-morosos-brasil-comprara-bancos-deudas-familias-descuentos-90_0_NcQg8SEEHJ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/TbE5wDN6b3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El plan de Lula para los morosos: Brasil les comprará a los bancos deudas de las familias con descuentos de hasta 90%"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Un millón de personas desafiaron la lluvia en París para ver al papa León XIV",
+     "resumen": "El Sumo Pontífice ofició este sábado una multitudinaria misa en la Plaza de la Concorde durante su visita a Francia, a la que asistieron fieles cristianos y personas de otras religiones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/historica-visita-papa-leon-xiv-francia-millon-personas-desafiaron-lluvia-paris-redescubrir-catolicismo_0_pyhNL6krJ6.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/F5oADyC59_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:11",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Histórica visita del papa León XIV a Francia: un millón de personas desafiaron a la lluvia en París para redescubrir al catolicismo"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Una multitud marchó en Madrid contra Pedro Sánchez y exigió su renuncia",
+     "resumen": "Se trató de la segunda Marcha por la Dignidad, que además puso el foco en la crisis migratoria en Ceuta y reclamó elecciones inmediatas en España.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/multitud-marcho-madrid-pedro-sanchez-exigieron-renuncia-elecciones-inmediatas_0_N8Ovj3Yp1I.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/BfkFXQDpU_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una multitud marchó en Madrid contra Pedro Sánchez: exigieron su renuncia y elecciones inmediatas"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "La Justicia de Brasil impuso una nueva condena a Eduardo Bolsonaro tras su salida del país",
+     "resumen": "El Supremo Tribunal Federal condenó al exdiputado, hijo de Jair Bolsonaro, a un año de prisión por difamar a la diputada Tabata Amaral. Se trata de la segunda condena que recibe desde que se estableció en Estados Unidos alegando persecución política.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/09/26/imponen-una-nueva-condena-a-eduardo-bolsonaro-tras-haber-abandonado-brasil/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Imponen una nueva condena a Eduardo Bolsonaro tras haber abandonado Brasil"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "intro": "",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Franco Colapinto abandonó por primera vez en el año tras chocar con Gasly y Norris; George Russell ganó en Azerbaiyán",
+     "resumen": "En el relanzamiento tras el accidente de Alex Albon, Colapinto llegó pasado de frenada a la primera curva, bloqueó los neumáticos y chocó contra su compañero de Alpine, Pierre Gasly, en una maniobra que también sacó de carrera a Lando Norris. \"Perdón de verdad a todos, perdón a Pierre, bloqueé por completo\", reconoció el argentino por radio. George Russell ganó la carrera con Mercedes, escoltado por los Red Bull de Max Verstappen e Isack Hadjar, mientras Norris fue especialmente crítico con Colapinto y pidió que la FIA sea más estricta.",
+     "relacionadas": [
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto protagonizó un choque con Pierre Gasly y Lando Norris y abandonó el GP de Azerbaiyán",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-protagonizo-un-choque-pierre-gasly-y-lando-norris-y-abandono-el-gp-azerbaiyan-n6326962"
+      },
+      {
+       "id": "LN-04",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Lando Norris pidió la suspensión de una carrera para Franco Colapinto tras el accidente en Bakú",
+       "url": "https://www.lanacion.com.ar/deportes/automovilismo/lando-norris-pidio-la-suspension-de-una-carrera-para-franco-colapinto-tras-el-accidente-en-baku-nid26092026/"
+      },
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Lando Norris, muy duro contra Franco Colapinto: \"Si provocas un choque como este, deberías tener una carrera de sanción\"",
+       "url": "https://www.clarin.com/deportes/lando-norris-duro-franco-colapinto-provocas-choque-deberias-tener-carrera-sancion_0_z8UylwmnRy.html"
+      },
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Las reacciones de Russell, Verstappen y Hadjar al ver el choque de Colapinto a Gasly: “¡Los compañeros de equipo!\"",
+       "url": "https://www.infobae.com/deportes/2026/09/26/las-reacciones-de-russell-verstappen-y-hadjar-al-ver-el-choque-de-colapinto-a-gasly-los-companeros-de-equipo/"
+      },
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La autocrítica de Franco Colapinto tras el choque en el GP de Azerbaiyán: \"Fue un error grande y grave\"",
+       "url": "https://www.ambito.com/deportes/la-autocritica-franco-colapinto-el-choque-el-gp-azerbaiyan-fue-un-error-grande-y-grave-n6326975"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-azerbaiyan-en-vivo-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/W47AGYHCQFHNBFNQ7JWFEUJS3U.JPG?auth=55e3ff0d75bd4ee9b494ceb123ad77a9efffee03d49aca1ac9d0b3daa3a5dbc7&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:07",
+     "autor": "Orlando Ríos",
+     "titulo_original": "George Russell ganó el Gran Premio de Azerbaiyán y Franco Colapinto abandonó por un accidente"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "Así quedó la tabla de la Fórmula 1 tras el triunfo de Russell en Azerbaiyán",
+     "resumen": "Con su tercera victoria de la temporada, George Russell recortó distancia en el campeonato: Andrea Kimi Antonelli, quinto tras una remontada desde el puesto 16, ahora le saca 66 puntos en lo más alto de la tabla, a falta de nueve carreras para el final.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/asi-quedo-la-tabla-de-posiciones-de-la-formula-1-2026-tras-el-triunfo-de-george-russell-en-el-gp-de-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CPMWL4POYVF3HFVZJ776NCV4XQ.JPG?auth=0715ac36c114546a1855559f89801f800ebe4127ad887196dd4810a2809e24f5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:21",
+     "autor": "",
+     "titulo_original": "Así quedó la tabla de posiciones de la Fórmula 1 2026, tras el triunfo de George Russell en el GP de Azerbaiyán"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "Boca se quedó en la puerta de la final de la Copa Intercontinental de básquet",
+     "resumen": "El equipo de Nicolás Casalánguida llegó al último cuarto con ocho puntos de ventaja ante Rytas Vilnius, en Pekín, pero no pudo sostenerla y quedó eliminado. Mike Warren fue el goleador del partido con 16 puntos. Boca jugará el domingo por el tercer puesto ante RSSB Tigers.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/boca-quedo-puerta-hazana-copa-intercontinental-perdio-rytas-vilnius-pekin-logro-acceder-final_0_dUCNQnsAab.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/SRrxmJ2Mw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca se quedó en la puerta de la hazaña en la Copa Intercontinental: perdió ante Rytas Vilnius en Pekín y no logró acceder a la final"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "El canotaje aportará los abanderados argentinos en el cierre de los Juegos Suramericanos",
+     "resumen": "Brenda Rojas, ganadora de cuatro medallas de oro, y Aramís Sánchez Ayala, con una de oro y otra de plata, fueron elegidos por el Comité Olímpico Argentino para encabezar la delegación en la ceremonia de clausura, este sábado desde las 18 en el Parque del Sur de Santa Fe.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/canotaje-aportara-abanderados-argentinos-cierre-juegos-suramericanos_0_XZiBABXjET.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/utXWjCzpe_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El canotaje aportará a los abanderados argentinos en el cierre de los Juegos Suramericanos"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "Lionel Messi está cerca de comprar un club de fútbol en España",
+     "resumen": "El astro rosarino avanza en la compra de un club de la segunda división española. Todavía restan definiciones para que la operación se cierre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/464115-messi-cerca-de-comprar-un-nuevo-club-de-futbol",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615325.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Messi, cerca de comprar un nuevo club de fútbol"
+    },
+    {
+     "id": "IB-10",
+     "titulo": "España busca este domingo su segunda estrella en el Mundial Sub-20 femenino ante Corea del Norte",
+     "resumen": "La selección española, invicta con seis victorias y 21 goles a favor, enfrenta en Polonia a la vigente campeona Corea del Norte, que la había vencido en la final de la Copa del Mundo Sub-17 de 2024. Pau Comendador lidera la tabla de goleadoras del torneo con seis tantos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/09/26/previa-la-sub-20-busca-su-segunda-estrella-y-revancha-ante-corea-del-norte/",
+     "imagen": "https://www.infobae.com/resizer/v2/SCKCEHMN6VBDRKHKODJIUDZWIA.jpg?auth=3a2a5930f6f91572fe4dcbe114bf4fd628bb9210f42f7cdfe40e0c9c489edf99&smart=true&width=900&height=900",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "(Previa) La Sub-20 busca su segunda estrella y revancha ante Corea del Norte"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "Un recorrido gratuito permite conocer más de 150 edificios históricos e inéditos de Buenos Aires",
+     "resumen": "Open House Buenos Aires ofrece, durante un fin de semana y de acceso gratuito, la posibilidad de descubrir más de 150 espacios habitualmente cerrados al público, entre ellos palacios del siglo XIX y edificios donde vivieron figuras populares como Carlitos Balá.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/desde-un-palacio-del-1800-hasta-el-pasaje-donde-vivio-carlitos-bala-llega-el-evento-que-permite-conocer-edificios-ineditos-de-la-ciudad/",
+     "imagen": "https://www.cronista.com/resizer/v2/OA3RSDQRXFEKVPO5YEJDO77EN4.JPG?auth=7b53f083d2f177bca1755e79e32d48c65bae2f69fb3834b8eba4f8d8589cb19e&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:49",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Desde un palacio del 1800 hasta el pasaje donde vivió Carlitos Balá: llega el evento que permite conocer edificios inéditos de la Ciudad"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CL-22",
+     "titulo": "El fenómeno de Súper Niño 2026 llegará a su punto máximo con riesgo de lluvias intensas",
+     "resumen": "El Servicio Meteorológico Nacional anticipó que el fenómeno alcanzará en el país una intensidad fuerte o muy fuerte, con riesgo alto de inundaciones en distintas regiones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegara-punto-maximo-puede-pasar-lluvias_0_xcAOC61XaD.html",
+     "imagen": "https://www.clarin.com/img/2026/09/18/G4JvHSGxR_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "07:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: cuándo llegará a su punto máximo y qué puede pasar con las lluvias"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Murió un andinista en Mendoza cuyo cuerpo fue hallado a 4.000 metros de altura",
+     "resumen": "Esteban Sotelo, de 48 años, fue encontrado sin vida en la Quebrada La Angostura, en Vallecitos, tras tres días de búsqueda desde su desaparición el domingo anterior. El viento, la nieve y la baja visibilidad complicaron el operativo de rescate, a cargo de la Patrulla de Rescate y Auxilio de Montaña.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/26/murio-un-andinista-en-mendoza-su-cuerpo-fue-encontrado-a-4000-metros-de-altura-tras-varios-dias-de-busqueda/",
+     "imagen": "https://www.infobae.com/resizer/v2/EOAZCRZI4FHYBBIULMGSL2DN6A.jpg?auth=995a2083b866db1c39baf681948a91ca496ff31a780f6f2b00e12094a36561a2&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:58",
+     "autor": "",
+     "titulo_original": "Murió un andinista en Mendoza: su cuerpo fue encontrado a 4.000 metros de altura tras varios días de búsqueda"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Detuvieron al sospechoso de atropellar y abandonar a una jubilada que murió en La Matanza",
+     "resumen": "Raquel Ferreira, de 67 años, fue embestida por un motociclista en Villa Luzuriaga y arrastrada varios metros; el conductor no se detuvo a asistirla. La mujer murió al día siguiente en el Hospital Ballestrini tras ser operada por un hematoma craneano. El sospechoso fue identificado y arrestado por la DDI local.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/09/26/detuvieron-al-sospechoso-de-atropellar-y-matar-a-una-jubilada-en-la-matanza-abandono-a-la-victima-y-escapo/",
+     "imagen": "https://www.infobae.com/resizer/v2/NHVOJWWXTRB7LE6LJLIKC3D3P4.jpeg?auth=5deb99c56eaf71dcf1649613c94017453f2a6a701e4ce38141d3ce0c645680f3&smart=true&width=900&height=846",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:42",
+     "autor": "Federico Fahsbender",
+     "titulo_original": "Detuvieron al sospechoso de atropellar y matar a una jubilada en La Matanza: abandonó a la víctima y escapó"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del sábado veintiséis de septiembre. La escena internacional se movió rápido esta mañana: Donald Trump rechazó el plan que había propuesto Irán para reabrir el estrecho de Ormuz, mientras en la Argentina el riesgo país volvió a superar los seiscientos puntos básicos, su nivel más alto desde mayo, en medio de advertencias sobre un año de estanflación con el crecimiento aislado en el agro, la energía y la minería. En Fórmula uno, Franco Colapinto abandonó por primera vez en el año tras chocar con su compañero de Alpine en el circuito de Bakú, carrera que ganó George Russell. El dólar oficial cerró la semana en mil quinientos cuarenta y cinco pesos y el blue en mil quinientos sesenta; el oro cotiza cerca de cuatro mil trescientos veinte dólares la onza.\n\nEn política, el decomiso de seiscientos cuarenta y cinco millones de dólares a Cristina Kirchner y sus hijos sigue a la espera de un fallo de la Corte Suprema, que debe resolver un recurso de queja presentado hace cuatro meses; si lo rechaza, podría avanzar el remate de ciento once inmuebles de la causa Vialidad. El oficialismo apura además el proyecto vinculado a Malvinas, que Diputados empezará a debatir el miércoles próximo. Una resolución del juez Daniel Rafecas reconstruyó la trama internacional del atentado a la AMIA y vinculó responsabilidades de Irán y Hezbolá con un ataque ocurrido en Panamá al día siguiente del atentado de mil novecientos noventa y cuatro. Una encuesta de la Universidad de San Andrés mostró que la imagen de Javier Milei se mantiene estable en treinta y tres por ciento, mientras Axel Kicillof perdió siete puntos en un mes. Y la Justicia de Formosa condenó a cinco días de arresto, sustituibles por una multa, a cuatro periodistas de La Nación por una cobertura realizada en una comunidad originaria.\n\nEn economía, el riesgo país argentino volvió a superar los seiscientos puntos, en un contexto de tasas más altas en Estados Unidos y menor disponibilidad de dólares. Un economista de la consultora Equilibra estimó la inflación de septiembre en uno coma nueve por ciento, apenas por encima del uno coma siete de agosto. Un relevamiento privado detectó que los precios de alimentos y bebidas subieron uno coma siete por ciento en la cuarta semana del mes, la tercera suba consecutiva, lo que pone en duda la desinflación que el Gobierno había celebrado en agosto. Un informe de la Fundación Libertad y Progreso mostró que el gasto primario de las provincias creció casi nueve por ciento real en dos mil veinticinco y que las cuentas fiscales provinciales volvieron a mostrar déficit. Pese a la tensión financiera global, un análisis de mercado sostuvo que los bonos argentinos ofrecen una rentabilidad atractiva y recomendó no desarmar posiciones. Y especialistas advirtieron sobre una posible tormenta perfecta en los mercados globales, por la combinación de deuda récord, conflictos bélicos y la creciente emisión corporativa ligada a la inteligencia artificial.\n\nEn negocios, Glencore anunció que reabrirá la mina Alumbrera en dos mil veintisiete, el primer paso de un plan minero de trece mil quinientos millones de dólares que también incluye los proyectos Agua Rica y El Pachón, con más de dos mil puestos de trabajo entre Catamarca y San Juan. Avex, controlante de Granja Tres Arroyos, se presentó en concurso preventivo de acreedores y dejó a trescientos cincuenta trabajadores sin cobrar sus sueldos. El embajador de Estados Unidos confirmó un financiamiento de hasta siete mil millones de dólares para el Corredor Andes Atlántico, un proyecto de infraestructura en energía, minería y transporte. Y la aplicación de inglés con inteligencia artificial Loora sumó veintidós millones de dólares en una nueva ronda de inversión.\n\nEn impuestos y normativa, Argentina se comprometió ante la OCDE a intercambiar información fiscal sobre criptoactivos a partir de septiembre de dos mil veintinueve. La ley de Inocencia Fiscal dos ya tiene número, la veintisiete mil ochocientos veintiséis, y ARCA extendió hasta el trece de octubre el vencimiento de la declaración simplificada de Ganancias. Catamarca eliminó el impuesto a los Ingresos Brutos para la industria y reabrió el debate fiscal entre provincias, mientras en territorio bonaerense los industriales piden excluir del tributo a las pymes de menor facturación. El Senado convirtió en ley el fin del subsidio automático de Zona Fría, lo que generó el rechazo de más de quinientos intendentes agrupados en la Federación Argentina de Municipios. Y los empleados de comercio cobrarán en octubre un aumento del uno coma nueve por ciento sobre los sueldos de septiembre.\n\nEn consumo y construcción, las ventas en supermercados cayeron dos coma uno por ciento interanual en julio y acumulan una baja de dos coma siete por ciento en el año, según el INDEC. El financiamiento directo de proyectos inmobiliarios en pozo permite ingresar con un anticipo y pagar en cuotas, aunque el barrio y los amenities inciden fuerte en el precio final. Para una empresa del sector, la combinación de consumo débil y financiamiento más accesible marca dónde puede sostenerse la demanda. Chacarita y Colegiales fueron destacadas por la revista Time Out entre las zonas más elegidas del mundo, lo que impulsa nuevos desarrollos inmobiliarios en la zona.\n\nEn management y finanzas corporativas, la consultora Further Corporate lanzó una academia de inteligencia artificial para profesionales de marketing, finanzas y administración. Especialistas señalaron que la disputa comercial ya no es solo por el clic sino por aparecer citado en las respuestas de la inteligencia artificial. Y un relevamiento mostró que menos del cinco por ciento de los mayores de cincuenta años fue contratado en el último año, pese a que su experiencia puede convertirlos en agentes de cambio dentro de las organizaciones.\n\nEn el mundo, Donald Trump rechazó el plan de siete días que había presentado Irán para reabrir el estrecho de Ormuz a cambio de levantar el bloqueo naval y las sanciones petroleras. Trump además dijo que habló en Nueva York con la vicepresidenta venezolana Delcy Rodríguez sobre la realización de elecciones en Venezuela. En Brasil, el Gobierno de Lula anunció que comprará a los bancos deudas de familias morosas con descuentos de hasta noventa por ciento, por un total de veintiocho mil millones de dólares. El papa León Catorce ofició una multitudinaria misa en París, donde un millón de personas desafiaron la lluvia. En Madrid, una multitud volvió a marchar contra Pedro Sánchez y exigió su renuncia. Y la Justicia de Brasil impuso una nueva condena, de un año de prisión, a Eduardo Bolsonaro, ya radicado en Estados Unidos.\n\nEn deportes, Franco Colapinto abandonó por primera vez en el año el Gran Premio de Azerbaiyán después de chocar contra su compañero de Alpine, Pierre Gasly, y afectar también al McLaren de Lando Norris, en el relanzamiento posterior al accidente de Alex Albon. Perdón de verdad a todos, perdón a Pierre, bloqueé por completo, reconoció el argentino por radio. Norris fue especialmente crítico y pidió a la FIA mayor severidad. George Russell ganó la carrera con Mercedes y ahora Andrea Kimi Antonelli, quinto tras una remontada, le saca sesenta y seis puntos en el campeonato. Boca Juniors quedó eliminado de la Copa Intercontinental de básquetbol tras perder ante Rytas Vilnius en Pekín y jugará el domingo por el tercer puesto. La delegación argentina en los Juegos Suramericanos de Santa Fe tendrá como abanderados en la ceremonia de cierre a los canotistas Brenda Rojas y Aramís Sánchez Ayala. Y trascendió que Lionel Messi está cerca de comprar un club de la segunda división española.\n\nPara cerrar, una recomendación de paseo: este fin de semana se puede recorrer gratis, en Buenos Aires, más de ciento cincuenta edificios históricos normalmente cerrados al público, entre ellos palacios del siglo diecinueve, dentro del evento Open House Buenos Aires.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Todas las fuentes respondieron sin errores en esta corrida. Le Grand Continent no tuvo notas nuevas en esta ventana horaria, por lo que se omitió la sección Europa y geopolítica. El material crudo no trajo novedades de Club Atlético Tigre en esta corrida.",
+ "slug": "2026-09-26-mediodia",
+ "generado_ba": "26/09/2026 15:17"
+}
