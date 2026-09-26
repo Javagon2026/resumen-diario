@@ -1,0 +1,926 @@
+{
+ "fecha": "2026-09-26",
+ "edicion": "manana",
+ "titulo": "Milei y Kicillof chocan en Nueva York mientras sube el riesgo país y la mora frena el crédito",
+ "apertura": "La semana cierra con el Gobierno y la oposición peronista disputando en Nueva York la interpretación del rumbo económico, mientras el riesgo país trepa a su nivel más alto desde abril y el Banco Central dejó de comprar dólares tras un pago al FMI. En el plano local, la morosidad de los créditos sigue alta y ya restringe el financiamiento a las familias, en el mismo momento en que el INDEC difundió una suba de la pobreza al 32,3% en el primer semestre. Además de la agenda económica, hay definiciones en la Supercopa Internacional entre Rosario Central y Estudiantes, Franco Colapinto corre en Azerbaiyán y siguen los Juegos Suramericanos de Santa Fe.",
+ "claves": [
+  "El riesgo país subió al nivel más alto desde abril tras la doble exposición de Milei y Kicillof ante inversores en Nueva York.",
+  "El BCRA no compró dólares y las reservas cayeron US$ 1.553 millones en la semana, hasta US$ 48.245 millones, tras un pago de casi US$ 800 millones al FMI.",
+  "La pobreza trepó al 32,3% en el primer semestre, 4,1 puntos más que el semestre anterior, según el INDEC.",
+  "Una de cada tres entidades que dan créditos tiene más del 50% de su cartera con atraso de pago, y bancos y fintech restringen nuevos préstamos.",
+  "YPF subió 1% sus combustibles desde este sábado tras el salto del petróleo por encima de los 100 dólares el barril.",
+  "El Tesoro afronta el lunes una licitación con vencimientos por 8,6 billones de pesos, en un contexto de tasas en pesos a la baja.",
+  "Franco Colapinto largará noveno en el Gran Premio de Azerbaiyán de Fórmula 1, que se corre este sábado a las 8 de la mañana argentina.",
+  "Rosario Central y Estudiantes de La Plata definen hoy la Supercopa Internacional en Santiago del Estero, con clima tenso entre ambas dirigencias."
+ ],
+ "cifras": [
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "US$ 48.245 millones",
+   "variacion": "-US$ 1.553 M en la semana",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "más de US$ 100 por barril",
+   "fuente": "AM-14"
+  },
+  {
+   "nombre": "Pobreza (INDEC, 1er semestre)",
+   "valor": "32,3%",
+   "variacion": "+4,1 puntos",
+   "fuente": "AM-07"
+  },
+  {
+   "nombre": "Actividad económica (EMAE, julio)",
+   "valor": "-2,9% mensual sin estacionalidad",
+   "fuente": "IB-21"
+  },
+  {
+   "nombre": "Open interest de granos (futuros y opciones)",
+   "valor": "9.132.785 toneladas",
+   "variacion": "récord histórico",
+   "fuente": "LN-26"
+  },
+  {
+   "nombre": "Vencimientos del Tesoro (licitación del lunes)",
+   "valor": "$ 8,6 billones",
+   "fuente": "CR-01"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "La semana termina con la gira de Milei y Kicillof en Nueva York como telón de fondo de la interna política y el debate presupuestario.",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Milei y Kicillof, dos discursos opuestos sobre la Argentina en Nueva York",
+     "resumen": "Javier Milei y Axel Kicillof coincidieron dos días en Nueva York sin encontrarse, con visiones opuestas sobre el rumbo económico: el presidente habla de un boom de crecimiento y el gobernador de una catástrofe con empresas quebradas. El cruce coincidió con una suba del riesgo país hasta el nivel más alto desde abril.",
+     "relacionadas": [
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Milei, Caputo y Kicillof en Nueva York: la mirada del financista argentino del “Grupo Varenike” que estuvo en todas las reuniones",
+       "url": "https://www.infobae.com/economia/2026/09/26/milei-caputo-y-kicillof-en-nueva-york-la-mirada-del-financista-argentino-del-grupo-varenike-que-estuvo-en-todas-las-reuniones/"
+      },
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Brasil, Estados Unidos e Israel: las tres elecciones que pondrán a prueba la estrategia geopolítica de Milei",
+       "url": "https://www.infobae.com/politica/2026/09/26/brasil-estados-unidos-e-israel-las-tres-elecciones-que-pondran-a-prueba-la-estrategia-geopolitica-de-milei/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/ideas/la-delgada-linea-entre-el-milagro-y-la-catastrofe-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ASTPCXG7OBDPDL6PZCSA2W4YTM.JPG?auth=358b7bc6c82bf75416ce8a0332491c5637fe45810dbc4e7752974908836f4610&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "23:48",
+     "autor": "Martín Rodríguez Yebra",
+     "titulo_original": "La delgada línea entre el milagro y la catástrofe"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "El INDEC acumula cuatro informes negativos en 72 horas y el Gobierno no logra revertir el clima",
+     "resumen": "En tres días el INDEC difundió datos negativos de salarios, ventas, actividad económica y pobreza. El oficialismo intentó atenuar el impacto con comparaciones estadísticas, sin lograr modificar el cuadro general, en medio de tensiones internas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/opinion/2026/09/26/la-economia-suma-malas-noticias-y-el-juego-politico-del-gobierno-no-alcanza-para-contrarrestar-el-impacto/",
+     "imagen": "https://www.infobae.com/resizer/v2/PL5XDP5UYVGJVK67C74LU2QTJI.jpg?auth=989dfd035d84b5cabdbe615e9c4bf7c107e22e8f55e24c4d789b1501409687b9&smart=true&width=900&height=675",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:05",
+     "autor": "Eduardo Aulicino",
+     "titulo_original": "La economía suma malas noticias y el juego político del Gobierno no alcanza para contrarrestar el impacto"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Macri visitó Jujuy y respaldó a Milei, aunque reclamó mayor diálogo político",
+     "resumen": "El presidente del PRO se reunió con el gobernador Carlos Sadir y afirmó que su espacio \"apoya a este Gobierno como nunca nadie lo hizo\". En paralelo, reveló que le pidió a Milei \"armar equipo\" y que ese pedido no tuvo respuesta.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Macri reapareció en Jujuy y volvió a marcar distancia de Milei: “Le dije que tenemos que armar equipo y...”",
+       "url": "https://www.cronista.com/economia-politica/macri-reaparecio-en-jujuy-y-volvio-a-marcar-distancia-de-milei-le-dije-que-tenemos-que-armar-equipo-y/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/mauricio-macri-viajo-jujuy-mando-mensaje-milei-apoyamos-gobierno-nadie-hizo_0_WZ2CPJZEQm.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/mgqIE9ekC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:25",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Mauricio Macri viajó a Jujuy y le mandó un mensaje a Milei: \"Apoyamos a este Gobierno como nunca nadie lo hizo\""
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Santilli sumó una quinta ronda de gobernadores antes del debate del Presupuesto 2027",
+     "resumen": "El jefe de Gabinete continuó en Casa Rosada la serie de reuniones con mandatarios provinciales de cara a la discusión del Presupuesto 2027 en el Congreso.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/nueva-ronda-reuniones-gobernadores-diego-santilli-antes-del-debate-del-presupuesto-2027-n6326923",
+     "imagen": "https://media.ambito.com/p/1a5b1d6651a1d8053b00904931375174/adjuntos/239/imagenes/043/665/0043665797/1200x675/smart/diego-santilli-alfredo-cornejo-menem.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "22:04",
+     "autor": "",
+     "titulo_original": "Nueva ronda de reuniones de gobernadores de Diego Santilli, antes del debate del Presupuesto 2027"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "La Corte Suprema confirmó que la causa contra el exsenador Kueider siga en dos juzgados",
+     "resumen": "El máximo tribunal ratificó que la investigación por cohecho, negociaciones incompatibles, lavado de dinero y enriquecimiento ilícito contra Edgardo Kueider continúe tramitando en simultáneo en dos juzgados.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/caso-edgardo-kueider-la-corte-suprema-ratifico-que-la-investigacion-siga-dos-juzgados-simultaneo-n6326862",
+     "imagen": "https://media.ambito.com/p/783898f664c5344015b41bbf521527c9/adjuntos/239/imagenes/042/627/0042627685/1200x675/smart/kueider-y-secretaria.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:28",
+     "autor": "",
+     "titulo_original": "Caso Edgardo Kueider: la Corte Suprema ratificó que la investigación siga en dos juzgados en simultáneo"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "El juez de Formosa que condenó a un equipo periodístico de La Nación es un dirigente del gildismo",
+     "resumen": "Omar Padilla, juez de Las Lomitas que impuso cinco días de arresto a periodistas de LN+, fue concejal y dirigente justicialista alineado con el gobernador Gildo Insfrán antes de ser designado juez de Paz.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-juez-de-formosa-que-condeno-al-equipo-periodistico-de-la-nacion-es-un-militante-de-gildo-insfran-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7AIBKEIQHBAFPAKAR2COSONJCM.jpg?auth=c4cc945a1993f626bb9224d387461f0d559b57c3f7bbd630c6415ba7ec1ceb9b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:58",
+     "autor": "",
+     "titulo_original": "El juez de Formosa que condenó al equipo periodístico de LA NACION es un militante de Gildo Insfrán"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "El peronismo riojano cerró listas y consolidó la unidad detrás de Quintela",
+     "resumen": "El cierre de listas del PJ de La Rioja mostró un acuerdo entre los principales sectores del peronismo provincial en torno al gobernador Ricardo Quintela, con miras a una construcción política hacia 2027.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-pj-riojano-cierra-filas-quintela-consolida-la-unidad-y-proyecta-desde-el-norte-una-construccion-hacia-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/DTFCC7BQZRB25DDH3XIDVCAT7Q.jpg?auth=ded7bd059cac223bce8330425e3824e55c9bfe20f7a8c991ea1bec74e1b7e0f2&smart=true&width=614&height=511",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:26",
+     "autor": "Redacción cronista.com",
+     "titulo_original": "El PJ riojano cierra filas: Quintela consolida la unidad y proyecta desde el Norte una construcción hacia 2027"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "intro": "El dólar, el riesgo país y las reservas marcaron el cierre de la semana en medio de la demanda sostenida de divisas.",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "Las reservas del BCRA cayeron 1.553 millones de dólares en la semana y el Central no compró divisas",
+     "resumen": "El stock bruto de reservas cerró en 48.245 millones de dólares, su nivel más bajo de septiembre, tras el pago de casi 800 millones al FMI. El viernes el BCRA no realizó compras en el mercado de cambios y el dólar mayorista cerró en 1.525,50 pesos.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El BCRA no compró dólares y las reservas cayeron u$s600 millones tras un pago al FMI",
+       "url": "https://www.iprofesional.com/finanzas/465299-el-bcra-no-compro-dolares-y-las-reservas-cayeron-600-millones-tras-un-pago-al-fmi"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/las-reservas-sufrieron-la-mayor-caida-semanal-desde-julio-tras-un-pago-al-fmi-bcra-freno-las-compras-de-dolares/",
+     "imagen": "https://www.cronista.com/resizer/v2/YX4A7555TJBIPLEXC633SELXBA.png?auth=c08b40566956736aa6bacb4aaf02aac2f330ad43e5302b86abdcf4296c993857&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:28",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Las reservas sufrieron fuerte caída semanal y el BCRA frenó las compras de dólares: por qué bajaron"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "El dólar oficial cerró la semana en 1.545 pesos y el blue en 1.560",
+     "resumen": "Sin actividad cambiaria este sábado, se toman los valores de cierre del viernes: el dólar oficial cotizó a 1.495 pesos para la compra y 1.545 para la venta en el Banco Nación, y el blue operó a 1.513,20 y 1.560 pesos. Para una empresa: son los valores de referencia para importaciones y cobertura hasta el próximo día hábil.",
+     "relacionadas": [
+      {
+       "id": "CR-03",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar hoy: a cuánto cotiza el oficial en los bancos de la City este sábado 26 de septiembre",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-sabado-26-de-septiembre/"
+      },
+      {
+       "id": "CR-04",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar blue hoy: a cuánto cotiza el sábado 26 de septiembre con el MEP y el CCL",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-sabado-26-de-septiembre-con-el-mep-y-el-ccl/"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar blue hoy: a cuánto opera este sábado 26 de septiembre",
+       "url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-sabado-26-septiembre-n6326944"
+      },
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar hoy: a cuánto cotiza este sábado 26 de septiembre",
+       "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-26-septiembre-n6326943"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-26-de-septiembre-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YNUF7YO3RRHAHN6K474UWY3S7M.jpg?auth=48f250872e9a2dc1b3c2f32ddbc279a8c240808639451d946519ec2357912a04&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:01",
+     "autor": "",
+     "titulo_original": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 26 de septiembre"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "El Merval cayó, el BCRA no compró dólares y subió el riesgo país en la misma jornada",
+     "resumen": "El precio del dólar avanzó mientras las acciones y bonos argentinos descendieron, en una rueda en que el Banco Central se mantuvo al margen del mercado de cambios.",
+     "relacionadas": [
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La turbulencia de los bonos de EEUU también golpea a la deuda local y empuja al alza el riesgo país",
+       "url": "https://www.ambito.com/finanzas/la-turbulencia-los-bonos-eeuu-tambien-golpea-la-deuda-local-y-empuja-al-alza-el-riesgo-pais-n6326763"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/465295-por-que-cae-el-merval-avanza-el-dolar-y-sube-el-riesgo-pais",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/607053.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:05",
+     "autor": "",
+     "titulo_original": "Cayó el Merval, el BCRA no compró dólares y subió el riesgo país: qué hay tras este cóctel"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "La actividad económica se derrumbó 2,9% en julio y crece la duda sobre una recesión técnica",
+     "resumen": "El Estimador Mensual de Actividad Económica de julio marcó la caída mensual más profunda desde la pandemia, tras un segundo trimestre ya negativo. Analistas y consultoras evalúan si la economía entrará en recesión técnica al encadenar dos trimestres de baja.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/26/la-economia-corre-riesgo-de-caer-en-recesion-tecnica-que-dicen-los-analistas-y-las-medidas-del-gobierno-para-evitarlo/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZCEXTK4RNBCIJP6QOKEMMJXZEI.png?auth=aca8dc953d14816dcd1aaec6fd016292a4d565adaadae43de3741a4bb443cb68&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:06",
+     "autor": "Martín Fernández Nadale",
+     "titulo_original": "¿La economía corre riesgo de caer en “recesión técnica”?: qué dicen los analistas y las medidas del Gobierno para evitarlo"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "1,7 millones de argentinos volvieron a comprar dólares en agosto, aunque los montos bajaron",
+     "resumen": "La demanda de divisas se mantuvo en un nivel elevado en agosto, aunque cayó 14,8% en términos netos respecto del máximo de julio. La cifra de compradores es apenas inferior a la registrada en la previa electoral de septiembre de 2025.",
+     "relacionadas": [
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Se mantuvo la dolarización y los ahorristas compraron más de u$s2.850 millones en un mes",
+       "url": "https://www.iprofesional.com/economia/465298-dolarizacion-ahorristas-compraron-mas-de-us2850-millones-en-un-mes"
+      },
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La compra de dólar ahorro cedió en agosto, pero se mantuvo cerca de los u$s3.000 millones",
+       "url": "https://www.ambito.com/economia/la-compra-dolar-ahorro-cedio-agosto-pero-se-mantuvo-cerca-los-us3000-millones-n6326888"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/la-demanda-de-dolares-se-mantuvo-alta-aunque-cayo-en-montos-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/L7PPHIKKXZEJXIHFG3DU446BZQ.JPG?auth=b0e1b3ccb0aa2c76443024a0a162d15d1f7ec3165a732d5b22930d6c482ee27e&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:52",
+     "autor": "Javier Blanco",
+     "titulo_original": "La demanda de dólares se mantuvo alta, aunque cayó en montos"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "El Tesoro afronta el lunes vencimientos por 8,6 billones de pesos en una licitación clave",
+     "resumen": "Con tasas en pesos de corto plazo a la baja, el menú de la próxima licitación se concentra en instrumentos de corto plazo y títulos indexados. El Tesoro enfrenta vencimientos totales por unos 103 billones de pesos hasta fin de año. Para una empresa: la definición de tasas de esta licitación es una referencia directa para el costo del financiamiento de corto plazo.",
+     "relacionadas": [
+      {
+       "id": "IP-19",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Con más riesgo país, Caputo cede ante los bancos y archiva plan de patear deuda para 2028",
+       "url": "https://www.iprofesional.com/economia/465283-con-mas-riesgo-pais-caputo-cede-ante-los-bancos-y-archiva-plan-clave"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-tesoro-enfrenta-vencimientos-por-86-billones-cuales-son-los-bonos-que-recomienda-el-mercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/7ROSQSKNXZFL3BZWIJSUISGGGU.jpg?auth=8aa59ab014159756cd170279c6948720255ae58f23a7428a47211d455ca6c5d2&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Julián Yosovitch",
+     "titulo_original": "El Tesoro enfrenta vencimientos por $ 8,6 billones: cuáles son los bonos que recomienda el mercado"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Los pagos con QR crecieron 67% en un año y cae el uso de tarjetas",
+     "resumen": "Un informe del Banco Central muestra que el débito y el crédito registraron menos operaciones y por menores montos, mientras se acelera el uso de billeteras virtuales para pagos con QR.",
+     "relacionadas": [
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Por qué cae en picada el uso de las tarjetas de crédito y cómo son reemplazadas",
+       "url": "https://www.cronista.com/finanzas-mercados/caen-los-pagos-con-tarjeta-de-credito-por-la-suba-de-la-morosidad/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/boom-pagos-qr-crecieron-67-ano-desploma-uso-tarjetas_0_autliCGuvB.html",
+     "imagen": "https://www.clarin.com/img/2024/09/22/qmAxv_0TS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boom de los pagos con QR: crecieron 67% en un año y se desploma el uso de las tarjetas"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "intro": "",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "Tesla definió la ubicación de su primera tienda en la Argentina",
+     "resumen": "La automotriz de Elon Musk avanza en su desembarco local y prepara la apertura de un local sobre la avenida del Libertador, en Núñez, según trascendió tras un repost de Javier Milei celebrando la llegada de la marca.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "¿Tesla acelera su llegada a la Argentina? El próximo mes abriría su primera tienda en Buenos Aires",
+       "url": "https://www.cronista.com/negocios/tesla-acelera-su-llegada-a-la-argentina-el-proximo-mes-abriria-su-primera-tienda-en-buenos-aires/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/465306-tesla-llega-a-argentina-y-definio-donde-estara-ubicada-su-primera-tienda",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622673.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:31",
+     "autor": "",
+     "titulo_original": "Tesla llega a la Argentina y ya define dónde estará ubicada su primera tienda"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "Una automotriz china negocia fabricar vehículos en plantas argentinas",
+     "resumen": "Las conversaciones avanzadas abrirían la puerta a que una nueva marca asiática instale producción local y genere nuevos puestos de trabajo, según adelantó iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/465303-que-marca-china-puede-empezar-a-fabricar-autos-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/603669.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:16",
+     "autor": "",
+     "titulo_original": "La marca china de autos que \"está en conversaciones\" para fabricar en Argentina"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Biogénesis Bagó abrió un mercado inédito en Europa con un envío de vacunas a Chipre",
+     "resumen": "El laboratorio controlado por las familias Bagó y Sigman realizó un primer envío de 100.000 dosis de vacunas contra la aftosa a Chipre, sobre un permiso de 600.000, y se convirtió en la primera exportación argentina de este tipo a un mercado europeo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-laboratorio-argentino-abre-por-primera-vez-un-mercado-inedito-en-europa/",
+     "imagen": "https://www.cronista.com/resizer/v2/Y4SLSABYHJEWLE6QDP2BJJU3U4.png?auth=a50532178d38d0e54be4876407c14db00356cd3dac8d36278a5640155729d310&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:50",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Un laboratorio argentino abre por primera vez un mercado inédito en Europa"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "El banco digital Revolut ya suma 150.000 personas en lista de espera en la Argentina",
+     "resumen": "La entidad europea obtuvo autorización para adquirir el banco local Cetelem y comenzar a operar en el país, mientras acumula una lista de espera de clientes interesados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/465179-revolut-el-mayor-banco-digital-de-europa-desembarca-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598698.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:05",
+     "autor": "",
+     "titulo_original": "El banco digital europeo Revolut ya tiene 150.000 personas en lista de espera en Argentina"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "Burger King recibió un respaldo de más de 10 millones de dólares tras descartar su venta",
+     "resumen": "Alsea inyectó capital en la sociedad que opera Burger King en el país después de abandonar un proceso de búsqueda de comprador para la región.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465241-alsea-inyecta-millones-en-burger-king-argentina-para-reactivar-la-marca",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/12/547656.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:31",
+     "autor": "",
+     "titulo_original": "Tras buscar comprador, Burger King recibe un respaldo de más de u$s10 millones"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Milei encabezará en París un evento con empresarios argentinos para atraer inversiones",
+     "resumen": "El Presidente llevará al círculo rojo empresario a un encuentro en Francia para mostrar proyectos que abarcan Vaca Muerta, litio, agro y tecnología.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465286-milei-se-lleva-a-paris-al-circulo-rojo-empresario-para-buscar-inversiones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/12/564458.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:30",
+     "autor": "",
+     "titulo_original": "Milei se lleva a París al círculo rojo empresario para buscar inversiones"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "intro": "",
+   "notas": [
+    {
+     "id": "IP-18",
+     "titulo": "La Justicia avaló a ARCA una restricción para deducir pagos a monotributistas",
+     "resumen": "Un fallo confirmó que la deducción de pagos a monotributistas solo es válida para gastos recurrentes. Una empresa había cuestionado el criterio del organismo recaudador, pero la Justicia falló en su contra. Para una empresa: conviene revisar la recurrencia de los pagos a monotributistas antes de deducirlos en el balance impositivo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465277-justicia-avalo-arca-restriccion-deducir-gastos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/585218.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:25",
+     "autor": "",
+     "titulo_original": "La Justicia falló a favor de ARCA y avaló una restricción para deducir gastos"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Revocaron el fallo que declaraba inconstitucional la baja de la edad de imputabilidad",
+     "resumen": "La Sala III de la Cámara de Casación Penal Juvenil porteña revirtió la decisión de la jueza Laura De Marinis, que había declarado inconstitucional el artículo 1 del nuevo Régimen Penal Juvenil y sobreseído a un menor de 14 años.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/regimen-penal-juvenil-revocaron-el-fallo-que-declaro-inconstitucional-la-baja-de-la-edad-de-imputabilidad/",
+     "imagen": "https://www.cronista.com/resizer/v2/KL7VXIEKDBDULLVFRTVUU4ZOVM.jpg?auth=be3a179990129c3fd2132ac6274009c0cf9a18ff6205524ec590a1c2dd24e6a6&smart=true&width=900&height=540",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:37",
+     "autor": "Roxana Toral Reyes",
+     "titulo_original": "Régimen penal juvenil: revocaron el fallo que declaró inconstitucional la baja de la edad de imputabilidad"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "La SIGEN actualizó las normas de auditoría interna del Estado tras casi 25 años",
+     "resumen": "La Resolución SIGEN 292/2026 dejó sin efecto las normas vigentes desde 2002 e incorporó análisis de riesgos, nuevas herramientas tecnológicas y estándares de calidad para la auditoría del sector público nacional y las universidades.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/26/el-estado-cambia-la-forma-de-auditarse-la-sigen-actualizo-sus-reglas-tras-casi-25-anos/",
+     "imagen": "https://www.infobae.com/resizer/v2/2YBQVOUZ65EBJK424TYQ66L5FY.jpg?auth=839a30dc6bb92764151015525e06426c8336f39113ceef8703bab5185a45c67f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:53",
+     "autor": "Andrés Klipphan",
+     "titulo_original": "El Estado cambia la forma de auditarse: la SIGEN actualizó sus reglas tras casi 25 años"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "El BCRA estableció nuevas reglas de gestión del riesgo de fraude para bancos y billeteras",
+     "resumen": "Mediante la Comunicación A 8471/2026, el Banco Central fijó disposiciones sobre gestión del riesgo de fraude para entidades financieras y proveedores de servicios de pago, en un contexto de mayor digitalización de las operaciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/gestion-del-riesgo-de-fraude-el-nuevo-desafio-para-las-organizaciones-financieras/",
+     "imagen": "https://www.cronista.com/resizer/v2/HKIG7KHESZG6BKHEGEXNVEVWLU.png?auth=ef00631e43d05c3ce13f9626513e5ec8db77d670b147b83267c9b0d1c267189e&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:38",
+     "autor": "Alberto Padin, CEO y Fundador de Platinum Ciberseguridad",
+     "titulo_original": "Gestión del riesgo de fraude: el nuevo desafío para las organizaciones financieras"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "El Senado publicó el texto oficial de la Ley de Inocencia Fiscal II sobre dólares del colchón",
+     "resumen": "La norma, que ya tiene texto y número tras su publicación en la página institucional del Senado, regula el régimen para blanquear dólares no declarados guardados fuera del sistema.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465288-dolares-colchon-senado-difundio-ley-inocencia-fiscal-dos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618962.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:40",
+     "autor": "",
+     "titulo_original": "Dólares del colchón: el Senado publicó la letra chica de la ley de Inocencia Fiscal II"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Los trabajadores de la construcción tendrán subas salariales del 1,9%, 1,8% y 1,7% entre septiembre y noviembre",
+     "resumen": "UECARA, CAMARCO y FAEC acordaron incrementos acumulativos para tres meses dentro del CCT 660/13, vigente hasta marzo de 2027: 1,9% en septiembre, 1,8% en octubre y 1,7% en noviembre sobre los básicos de cada mes previo. Para una empresa: el ajuste impacta directamente en el costo de mano de obra de la construcción de cara al verano.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/nuevo-aumento-para-trabajadores-de-la-construccion-como-quedan-los-salarios-en-octubre-2026-tras-el-acuerdo/",
+     "imagen": "https://www.cronista.com/resizer/v2/AWLKESSOI5AW7CJYD3KBFCY6KA.jpg?auth=a990265803721ec4ffe3f058a6d7b47985f1ea131946d807098f3b36c8c333a7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:06",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Nuevo aumento para trabajadores de la construcción: cómo quedan los salarios en octubre 2026 tras el acuerdo"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "Los datos de morosidad y combustibles vuelven a golpear el poder de compra y los costos logísticos.",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "Una de cada tres entidades de crédito tiene más de la mitad de su cartera en mora",
+     "resumen": "Un muestreo de más de 400 bancos, billeteras y casas de crédito muestra que casi 40 empresas tienen una mora superior al 90%. En un año y medio se dieron de baja casi 70 entidades habilitadas por el BCRA para financiar a los hogares. Para una empresa: la restricción del crédito a las familias puede frenar la demanda de materiales para reformas financiadas a cuotas.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La mora lleva a los bancos a restringir los préstamos",
+       "url": "https://www.lanacion.com.ar/economia/negocios/la-mora-lleva-a-los-bancos-a-restringir-los-prestamos-nid26092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/morosidad-entidades-dan-creditos-50-prestamos-atraso-pago_0_956Fc26TTs.html",
+     "imagen": "https://www.clarin.com/img/2021/04/30/UiRF5ALE9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Morosidad: una de cada tres entidades que dan créditos tienen más del 50% de sus préstamos con atraso de pago"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "YPF subió 1% sus combustibles tras el salto del petróleo por encima de los 100 dólares",
+     "resumen": "La petrolera ajustó precios desde las cero horas del sábado luego de que el Brent superara los 100 dólares por barril por la extensión del conflicto en Medio Oriente. Las privadas Axion, Puma y Raízen ya habían aumentado entre 2,5% y 5% en los días previos. Para una empresa: el combustible más caro presiona los costos de logística y distribución de materiales.",
+     "relacionadas": [
+      {
+       "id": "IP-22",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "YPF aumenta 1% el precio de sus combustibles desde este sábado, tras el salto del crudo",
+       "url": "https://www.iprofesional.com/actualidad/465289-ypf-aumenta-el-precio-de-la-nafta-y-el-gasoil-desde-este-sabado"
+      },
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "YPF anunció una suba promedio del 1% y mantendrá su sistema de “micropricing”",
+       "url": "https://www.cronista.com/economia-politica/ypf-anuncio-una-suba-promedio-del-1-y-mantendra-su-sistema-de-micropricing/"
+      }
+     ],
+     "url": "https://www.ambito.com/energia/combustibles-ypf-ajusta-sus-precios-el-salto-del-petroleo-encima-los-us100-n6326910",
+     "imagen": "https://media.ambito.com/p/9e575ae577a877adb52e8cf24542da74/adjuntos/239/imagenes/041/195/0041195025/ypf-naftas-combustiblesjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:58",
+     "autor": "",
+     "titulo_original": "Combustibles: YPF ajusta sus precios tras el salto del petróleo por encima de los u$s100"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "La mora lleva a los bancos y fintech a restringir los préstamos personales",
+     "resumen": "Las entidades endurecieron condiciones y concentran la oferta en los clientes de mejor perfil, que son los menos dispuestos a endeudarse. El stock de préstamos personales cayó durante diez meses consecutivos, mientras el consumo privado retrocedió 2,4% según el INDEC.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Morosidad: una de cada tres entidades que dan créditos tienen más del 50% de sus préstamos con atraso de pago",
+       "url": "https://www.clarin.com/economia/morosidad-entidades-dan-creditos-50-prestamos-atraso-pago_0_956Fc26TTs.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/negocios/la-mora-lleva-a-los-bancos-a-restringir-los-prestamos-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/R2SPSRDKR5DD3AJQ67YUREEILU.jpeg?auth=54851ab7f4c60fc848591e536779be771fc364d43aa14017ef48b909305d7751&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "Mónica Fernández",
+     "titulo_original": "La mora lleva a los bancos a restringir los préstamos"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "Donar alimentos puede resultar más caro que descartarlos en la Argentina",
+     "resumen": "Durante 2025 quedaron fuera del circuito de consumo unos 73 millones de kilos de alimentos, con pérdidas estimadas en 370.520 millones de pesos. El Banco de Alimentos de Buenos Aires advirtió que el tratamiento impositivo y los costos logísticos desincentivan la donación frente al descarte.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/donar-alimentos-puede-resultar-mas-caro-que-descartarlos-argentina-n6326675",
+     "imagen": "https://media.ambito.com/p/94c5c83700667beb67c83f2aacbf3674/adjuntos/239/imagenes/043/664/0043664481/banco-alimentos-donaciones.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:15",
+     "autor": "",
+     "titulo_original": "Donar alimentos puede resultar más caro que descartarlos en Argentina"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Las coberturas de granos con futuros y opciones alcanzaron un récord histórico",
+     "resumen": "El open interest de futuros y opciones agrícolas llegó a 9.132.785 toneladas, por encima del récord anterior de marzo de 2022. Especialistas explicaron que los buenos precios y márgenes adelantaron las coberturas para la campaña 2026/27.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/record-historico-mas-de-9-millones-de-toneladas-de-granos-estan-cubiertas-con-futuros-y-opciones-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KGNOMFTRP5GFVOTS5ARIGDAX6M.JPG?auth=76cf5edc73a0fa94fc7bb8f22e0b71d37e4872fc98e5e4de5e2f088dfd2944e2&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:17",
+     "autor": "",
+     "titulo_original": "Récord histórico: más de 9 millones de toneladas de granos están cubiertas con futuros y opciones"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "intro": "",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "Irán propuso reabrir el estrecho de Ormuz en siete días para destrabar la guerra con Estados Unidos",
+     "resumen": "Teherán ofreció reabrir el paso estratégico y retomar negociaciones sobre su programa nuclear si Washington levanta el bloqueo naval, flexibiliza sanciones a sus exportaciones de petróleo y acepta un alto el fuego que incluya al Líbano. El canciller iraní dijo que el plazo empezaría a correr cuando Estados Unidos acepte la propuesta.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El presidente de Irán dice \"desconfiar\" de EEUU pero pide una respuesta al plan para reabrir Ormuz",
+       "url": "https://www.infobae.com/america/agencias/2026/09/26/el-presidente-de-iran-dice-desconfiar-de-eeuu-pero-pide-una-respuesta-al-plan-para-reabrir-ormuz/"
+      },
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Pezeshkian dijo que Irán está dispuesto a pactar límites a su programa nuclear en medio de las negociaciones con EEUU",
+       "url": "https://www.infobae.com/america/mundo/2026/09/26/pezeshkian-dijo-que-iran-esta-dispuesto-a-pactar-limites-a-su-programa-nuclear-en-medio-de-las-negociaciones-con-eeuu/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/iran-presento-un-inesperado-plan-para-destrabar-la-guerra-y-espera-la-respuesta-de-trump-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/APSQN5ODWFDCTLW36QH7R2OO3E.JPG?auth=3f8f550c73cff16ab47a5d0996abf02c228df8997b431a752a3bb48d11f82425&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:17",
+     "autor": "",
+     "titulo_original": "Irán presentó un inesperado plan para destrabar la guerra y espera la respuesta de Trump"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "La Unión Europea advirtió sobre una crisis de precios de la energía por la guerra en Irán",
+     "resumen": "El comisario europeo de Energía, Dan Jorgensen, pidió a los países miembros evaluar recortes en el consumo de gas natural y electricidad ante el impacto del conflicto en los mercados de petróleo y gas. El bloque depende de proveedores externos para el 80% de su demanda de gas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/26/la-union-europea-advirtio-sobre-una-crisis-de-precios-de-la-energia-por-la-guerra-en-iran-y-pidio-disminuir-la-demanda/",
+     "imagen": "https://www.infobae.com/resizer/v2/BDHHKBQE4FE7TF6O7DECDYPPYI.jpg?auth=820f7897557f4814e5cf5227c7651bb416a3fa9632bdc9d86afedc6032831061&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:29",
+     "autor": "",
+     "titulo_original": "La Unión Europea advirtió sobre una crisis de precios de la energía por la guerra en Irán y pidió disminuir la demanda"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Putin dijo que Rusia no se prepara para una guerra con Europa en medio de alarmas por ataques híbridos",
+     "resumen": "El líder ruso afirmó que \"no existen motivos ni razones reales para una escalada\" con Europa, mientras la inteligencia danesa advirtió que no se puede descartar un ataque contra un país de la OTAN.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/putin-dice-preparando-guerra-europa-medio-alarmas-intensificacion-ataques-hibridos_0_MPnYs1XMdR.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/VVsEZssel_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Putin dice que no se está preparando para \"una guerra con Europa\", en medio de las alarmas por una intensificación de los ataques híbridos"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Lula prohibió las apuestas deportivas online y los casinos virtuales a nueve días de las elecciones en Brasil",
+     "resumen": "El presidente brasileño anunció la medida provisoria, que ya está vigente pero debe pasar por el Congreso para ser definitiva, en medio de críticas de sectores del bolsonarismo y de los clubes de fútbol.",
+     "relacionadas": [
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Elecciones en Brasil 2026: ¿cómo votan los brasileños residentes en la Argentina?",
+       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-2026-como-votan-los-brasilenos-residentes-en-la-argentina-nid25092026/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/lula-prohibe-apuestas-deportivas-online-9-dias-elecciones-brasil_0_syiYCGgLh8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/xmlUm5w1S_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lula prohíbe las apuestas deportivas online y los casinos en línea a 9 días de las elecciones en Brasil"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Bahréin denunció ante la ONU una crisis de seguridad regional sin precedentes por ataques hutíes",
+     "resumen": "El canciller bahreiní dijo que los países del Golfo y Jordania enfrentan una situación de gravedad inédita en décadas por los ataques con misiles y drones atribuidos a los hutíes, en el marco de la guerra iniciada en febrero entre Estados Unidos, Israel e Irán.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/26/bahrein-denuncio-ante-la-onu-una-crisis-de-seguridad-nunca-vista-en-decadas-por-los-ataques-huties/",
+     "imagen": "https://www.infobae.com/resizer/v2/3JGZEI4GW5FDBOUY2K4Z32HBOE.jpg?auth=e116846645b938561c348f62f9725c682dd52778c01f27a6c4054a966853f03c&smart=true&width=900&height=565",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:29",
+     "autor": "",
+     "titulo_original": "Bahréin denunció ante la ONU una crisis de seguridad “nunca vista en décadas” por los ataques hutíes"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el sostén ideológico ruso dentro de la izquierda occidental y los riesgos energéticos que abre el avance hutí sobre otro estrecho clave.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Por qué a la izquierda le gusta Putin",
+     "resumen": "Los investigadores rusos Ilya Budraitskis e Ilya Matveev, en un libro publicado por Stanford, analizan cómo el antiimperialismo occidental termina invisibilizando el imperialismo ruso. La revista destaca el ángulo de dos referentes de la izquierda rusa exiliada que combinan activismo antibélico con un análisis de la economía política del régimen de Putin.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/26/por-que-a-la-izquierda-le-gusta-putin/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/08/38355-125x188.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "04:33",
+     "autor": "Louis Puel",
+     "titulo_original": "¿Por qué a la izquierda le gusta Putin?"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "El control hutí sobre Bab el-Mandeb amenaza el suministro europeo de diésel y queroseno",
+     "resumen": "Tras tomar el puerto de Moka y avanzar sobre la isla de Perim, los hutíes controlan de facto el estrecho de Bab el-Mandeb, una de las pocas vías que aún permitían eludir parcialmente el bloqueo de Ormuz. La revista señala que, aunque el crudo del Golfo es solo el 7% de las importaciones europeas, el continente es especialmente vulnerable en refinados como el diésel, del cual casi un tercio de lo importado por la Unión Europea procedía del Golfo en 2025.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La Unión Europea advirtió sobre una crisis de precios de la energía por la guerra en Irán y pidió disminuir la demanda",
+       "url": "https://www.infobae.com/america/mundo/2026/09/26/la-union-europea-advirtio-sobre-una-crisis-de-precios-de-la-energia-por-la-guerra-en-iran-y-pidio-disminuir-la-demanda/"
+      }
+     ],
+     "url": "https://legrandcontinent.eu/es/2026/09/26/bab-el-mandeb-el-control-huti-es-un-riesgo-para-suministro-europeo-de-diesel-y-queroseno/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "04:23",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Bab el-Mandeb: el control hutí supone un riesgo para el suministro europeo de diésel y queroseno"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "intro": "",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "Rosario Central y Estudiantes definen hoy la Supercopa Internacional en Santiago del Estero",
+     "resumen": "Los clubes juegan la final desde las 17 en el Estadio Único Madre de Ciudades, con clima tenso entre las dirigencias por un episodio previo en el pasillo de campeón. Central llega como primero de la Tabla Anual 2025 y Estudiantes como último campeón de la Copa Argentina.",
+     "relacionadas": [
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "De Abu Dhabi a Santiago del Estero: la insólita historia de la Supercopa Internacional que juegan Rosario Central y Estudiantes, y revive un duelo picante",
+       "url": "https://www.clarin.com/deportes/abu-dhabi-santiago-estero-insolita-historia-supercopa-internacional-juegan-rosario-central-estudiantes-revive-duelo-picante_0_LanTOnbyxO.html"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El historial de clubes que obtuvieron un título nacional disputando un solo partido",
+       "url": "https://www.infobae.com/deportes/2026/09/26/el-historial-de-clubes-que-obtuvieron-un-titulo-nacional-disputando-un-solo-partido/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/para-nosotros-fue-una-falta-de-respeto-dijo-ovando-con-gonzalez-pirez-sentado-al-lado-toma-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OPJBM2T54FAMBJJJJNMODREDAQ.JPG?auth=e8d09733156b37b99f430bcd1522b9be207888b9dc7d2039f333e00c49900a85&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:13",
+     "autor": "",
+     "titulo_original": "“Para nosotros fue una falta de respeto”, dijo Ovando con González Pirez sentado al lado: toma temperatura el Central vs. Estudiantes"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "La AFA confirmó que comenzaron las charlas para renovar el contrato de Scaloni",
+     "resumen": "El vínculo del entrenador de la Selección vence en diciembre. La entidad difundió una foto del encuentro entre Claudio Tapia y Lionel Scaloni un día después de que el DT anticipara que debían conversar sobre su continuidad.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/tapia-se-reunio-con-scaloni-y-la-afa-anuncio-que-comenzaron-las-charlas-para-renovar-su-contrato-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZK36DHYLDBGKNFO3OCSFVZRBCE.jpg?auth=1af8e933ad0a51a3d34bdffe239a4158f00d6357b9913df05fc5b62009881b57&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:38",
+     "autor": "",
+     "titulo_original": "Tapia se reunió con Scaloni y la AFA anunció que comenzaron “las charlas” para renovar su contrato"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "La Argentina suma 280 medallas en los Juegos Suramericanos de Santa Fe y sigue segunda en el ranking",
+     "resumen": "La delegación albiceleste sumó 13 oros, 14 platas y 13 bronces en la jornada del viernes, entre canotaje, surf, pádel, tenis y karate, y llegó a un total de 280 medallas. Se mantiene segunda detrás de Brasil, con diez oros de ventaja sobre Colombia, tercera.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Juegos Suramericanos: Argentina pelea arriba y así está el medallero",
+       "url": "https://www.ambito.com/deportes/juegos-suramericanos-argentina-pelea-arriba-y-asi-esta-el-medallero-n6326881"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/26/argentina-acumula-280-medallas-en-los-juegos-suramericanos-santa-fe-2026-como-esta-en-el-ranking-a-un-dia-del-cierre-de-la-competencia/",
+     "imagen": "https://www.infobae.com/resizer/v2/6WCYXLEQVFC7LCLUJSDQLNE2IQ.jpg?auth=21f0f1b5eef8368f0e587f4a1ceccb77bdfe145e04843fddba5a89299839793e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "23:00",
+     "autor": "",
+     "titulo_original": "Argentina acumula 280 medallas en los Juegos Suramericanos Santa Fe 2026: cómo está en el ranking a un día del cierre de la competencia"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "La Selección Sub 19 perdió por penales la final ante Paraguay y quedó con la plata en los Juegos Suramericanos",
+     "resumen": "Tras el empate 0 a 0 en los 90 minutos, la Argentina cayó en la tanda de penales frente a Paraguay y se quedó a un paso de una nueva medalla dorada en la competencia.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/la-seleccion-argentina-sub-19-gano-la-medalla-plata-los-juegos-suramericanos-n6326853",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "La Selección argentina sub-19 no pudo en la final y se quedó con la medalla de plata en los Juegos Suramericanos"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "Ailín Pérez busca este sábado una chance por el título mundial gallo de la UFC",
+     "resumen": "La peleadora argentina enfrenta desde las 22 a la brasileña Norma Dumont con la mira puesta en una oportunidad titular. El evento se transmite por Paramount+.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/ailin-perez-luchadora-trabajo-seguridad-cabaret-brasil-durmio-gimnasio-miami-alejo-hijo-lograr-sueno-maradona-ufc_0_waGPNGR6us.html",
+     "imagen": "https://www.clarin.com/img/2026/09/24/lXu6eQc5S_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ailín Pérez, la luchadora que trabajó de seguridad en un cabaret de Brasil, durmió en un gimnasio en Miami y se alejó de su hijo para lograr un sueño: \"Soy la Maradona de la UFC\""
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Fuerte repercusión en Francia tras las condenas por el crimen del ex rugbier Aramburú",
+     "resumen": "Un jurado en París dictó penas de 26 y 19 años de prisión para Loïk Le Priol y Romain Bouvier por el homicidio de Federico Martín Aramburú, tras más de once horas de deliberación. Medios franceses como L'Equipe, Le Parisien y Le Monde dieron amplia cobertura al fallo.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Condenaron a 26 y 19 años de cárcel a los dos asesinos del ex Puma Federico Aramburú",
+       "url": "https://www.iprofesional.com/actualidad/465305-condenaron-a-26-y-19-anos-de-carcel-a-los-dos-asesinos-del-ex-puma-federico-aramburu"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/federico-martin-aramburu-las-reacciones-de-la-madre-el-abogado-y-los-medios-de-francia-tras-el-nid25092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FJPOLAJR4ZFLDIXEYLXTBK25MU.JPG?auth=4f02e4f08c35b7f19ebbc329c29378b8cf0470cfd3507bd3d67be145eda7d6a2&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "23:15",
+     "autor": "",
+     "titulo_original": "Federico Martín Aramburú: las reacciones de la madre, el abogado y los medios de Francia tras el juicio"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Franco Colapinto largará noveno en el Gran Premio de Azerbaiyán de Fórmula 1",
+     "resumen": "La carrera de Bakú, a 51 vueltas, se corre este sábado a las 8 de la mañana en la Argentina y se puede ver por Fox Sports, Disney+ y F1 TV. George Russell saldrá desde la pole position y Pierre Gasly, séptimo.",
+     "relacionadas": [
+      {
+       "id": "LN-08",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Franco Colapinto en el Gran Premio de Azerbaiyán, en vivo",
+       "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-azerbaiyan-en-vivo-nid26092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/09/26/franco-colapinto-largara-9-en-el-circuito-callejero-de-baku-del-gran-premio-de-azerbaiyan-de-formula-1-hora-tv-y-la-grilla-de-largada/",
+     "imagen": "https://www.infobae.com/resizer/v2/STLXWAJQMZDDLBYXGR6565J4JA.JPG?auth=ca574010973d8df866a507293ad1ac940e13ac64ac6acb62e3c497066a80e6f9&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Franco Colapinto largará 9° en el circuito callejero de Bakú del Gran Premio de Azerbaiyán de Fórmula 1: hora, TV y la grilla de largada"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CR-22",
+     "titulo": "Una escapada a tres horas de Buenos Aires con 13 piletas termales y descuento para jubilados",
+     "resumen": "Las Termas Colón, en Entre Ríos, frente al río Uruguay, ofrecen 13 piletas termales, hidromasajes y spa, con funcionamiento durante todo el año. La entrada cuesta 8.000 pesos para jubilados frente a los 20.000 pesos de la tarifa general.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/la-escapada-ideal-a-3-horas-de-buenos-aires-las-termas-con-13-piletas-y-60-de-descuento-para-jubilados/",
+     "imagen": "https://www.cronista.com/resizer/v2/4HNSQEF76VASZCB3F27CTQHMJQ.jpg?auth=5a8f6091fba3682832cc2b6c9f1d7b8f89b865d2bd6fc8d2077a89969f49c9d9&smart=true&width=900&height=544",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:45",
+     "autor": "Florencia Ojeda",
+     "titulo_original": "La escapada ideal a 3 horas de Buenos Aires: las termas con 13 piletas y 60% de descuento para jubilados"
+    }
+   ],
+   "id": "turismo"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del sábado veintiséis de septiembre. La semana cierra con el Gobierno y la oposición peronista disputando en Nueva York la interpretación del rumbo económico, mientras el riesgo país sube a su nivel más alto desde abril y el Banco Central dejó de comprar dólares tras un pago al Fondo Monetario Internacional. En el plano local, la morosidad de los créditos sigue alta y ya restringe el financiamiento a las familias, en el mismo momento en que el instituto de estadísticas difundió una suba de la pobreza al treinta y dos coma tres por ciento en el primer semestre. El dólar oficial cerró la semana en mil quinientos cuarenta y cinco pesos y el blue en mil quinientos sesenta. El oro cotiza cerca de cuatro mil trescientos veinte dólares la onza.\n\nEn política, Javier Milei y Axel Kicillof coincidieron dos días en Nueva York sin encontrarse, con visiones opuestas sobre la Argentina: el presidente habla de un boom de crecimiento y el gobernador de una catástrofe con empresas quebradas. El instituto de estadísticas acumuló en apenas setenta y dos horas cuatro informes negativos, de salarios, ventas, actividad económica y pobreza, y el oficialismo no logró revertir el clima. Mauricio Macri visitó Jujuy, respaldó al Gobierno y reveló que le pidió a Milei armar equipo, sin obtener respuesta. La Corte Suprema confirmó que la causa contra el exsenador Kueider siga en dos juzgados al mismo tiempo. Y en Formosa, se conoció que el juez que condenó a un equipo periodístico de La Nación es un dirigente alineado con el gobernador Gildo Insfrán.\n\nEn economía, las reservas del Banco Central cayeron mil quinientos cincuenta y tres millones de dólares en la semana, hasta cuarenta y ocho mil doscientos cuarenta y cinco millones, tras el pago de casi ochocientos millones al Fondo Monetario. El viernes la entidad no compró divisas en el mercado de cambios. La actividad económica se derrumbó dos coma nueve por ciento en julio, la caída más profunda desde la pandemia, y ya se habla de una posible recesión técnica. Mil setecientos mil argentinos volvieron a comprar dólares en agosto, aunque los montos bajaron. El Tesoro afronta el lunes una licitación con vencimientos por ocho billones seiscientos mil millones de pesos. Y las coberturas de granos con futuros y opciones alcanzaron un récord histórico, con más de nueve millones cien mil toneladas.\n\nEn impuestos y normativa, la Justicia avaló a la agencia de recaudación una restricción para deducir pagos a monotributistas, que solo son deducibles cuando son gastos recurrentes. Se revocó el fallo que había declarado inconstitucional la baja de la edad de imputabilidad. La Sindicatura General de la Nación actualizó, después de casi veinticinco años, las normas de auditoría interna del Estado. El Banco Central fijó nuevas reglas de gestión del riesgo de fraude para entidades financieras y billeteras virtuales. Y los trabajadores de la construcción tendrán aumentos del uno coma nueve, uno coma ocho y uno coma siete por ciento entre septiembre y noviembre.\n\nEn consumo y construcción, un muestreo de más de cuatrocientas entidades de crédito muestra que una de cada tres tiene más de la mitad de su cartera en mora, y casi setenta dejaron de operar en el último año y medio. Como consecuencia, bancos y fintech restringen los préstamos personales, que cayeron durante diez meses seguidos, mientras el consumo privado retrocedió dos coma cuatro por ciento. YPF subió uno por ciento sus combustibles este sábado, después de que el petróleo superara los cien dólares el barril por la guerra en Medio Oriente; las privadas ya habían ajustado entre dos y medio y cinco por ciento. Y un informe advirtió que donar alimentos puede resultar más caro que descartarlos en la Argentina, por el tratamiento impositivo y los costos logísticos.\n\nEn el mundo, Irán propuso reabrir el estrecho de Ormuz en siete días para destrabar la guerra con Estados Unidos, a cambio de que Washington levante el bloqueo naval y flexibilice las sanciones petroleras. La Unión Europea advirtió sobre una crisis de precios de la energía por el conflicto y pidió a sus países recortar el consumo de gas. Putin dijo que Rusia no se prepara para una guerra con Europa, mientras la inteligencia danesa no descarta un ataque contra un país de la OTAN. Lula prohibió las apuestas deportivas online a nueve días de las elecciones en Brasil. Y Bahréin denunció ante la Organización de las Naciones Unidas una crisis de seguridad regional sin precedentes por los ataques de los hutíes.\n\nLe Grand Continent analiza dos temas centrales. Primero, por qué buena parte de la izquierda occidental termina simpatizando con Putin, a partir de un libro de dos investigadores rusos exiliados que cruzan activismo antibélico con el análisis del imperialismo ruso. Segundo, cómo el control hutí sobre el estrecho de Bab el Mandeb amenaza el suministro europeo de diésel y queroseno, justo cuando el bloqueo de Ormuz ya presiona los mercados de energía.\n\nEn deportes, Rosario Central y Estudiantes de La Plata definen hoy la Supercopa Internacional en Santiago del Estero, con clima tenso entre las dirigencias. La Asociación del Fútbol Argentino confirmó que comenzaron las charlas para renovar el contrato de Lionel Scaloni, que vence en diciembre. La Argentina suma doscientas ochenta medallas en los Juegos Suramericanos de Santa Fe y sigue segunda detrás de Brasil, aunque la selección sub diecinueve de fútbol perdió por penales la final ante Paraguay y se quedó con la plata. Ailín Pérez busca esta noche una chance por el título mundial gallo de la Ufc. Y en Francia hubo fuerte repercusión por las condenas de veintiséis y diecinueve años de prisión a los asesinos del ex rugbier Federico Martín Aramburú. Franco Colapinto largará noveno este sábado en el Gran Premio de Azerbaiyán de Fórmula uno, que se corre a las ocho de la mañana argentina.\n\nPara cerrar, una idea de escapada: a tres horas de Buenos Aires, las Termas Colón, en Entre Ríos, ofrecen trece piletas termales, hidromasajes y spa durante todo el año, con un descuento importante para jubilados.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Todas las fuentes respondieron sin errores en esta corrida. El material crudo no trajo novedades de Club Atlético Tigre en esta ventana horaria, por lo que no se incluyó en la sección de deportes.",
+ "slug": "2026-09-26-manana",
+ "generado_ba": "26/09/2026 10:12"
+}
