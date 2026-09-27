@@ -1,0 +1,819 @@
+{
+ "fecha": "2026-09-27",
+ "edicion": "manana",
+ "titulo": "Milei rumbo a París entre tensión por Malvinas y nerviosismo en los mercados",
+ "apertura": "Milei viaja a Francia para la Semana Argentina en París buscando inversores, mientras crece la tensión con el Reino Unido por Malvinas y el riesgo país supera los seiscientos puntos básicos tras el dato de pobreza del INDEC. En el plano interno, Kicillof profundiza su perfil de cara a 2027 tras su gira por Nueva York, y el fútbol argentino quedó sacudido por el escandaloso final de la Supercopa entre Rosario Central y Estudiantes. Afuera, Brasil se acerca a elecciones muy competitivas y el papa León XIV continúa su gira europea antes de su visita a la Argentina en noviembre.",
+ "claves": [
+  "Milei viaja el martes a París para la Semana Argentina, con 11 gobernadores y empresarios de todo el mundo, buscando inversiones.",
+  "Reino Unido advirtió que está \"armada y preparada\" para defender Malvinas ante los reclamos de Milei en la ONU.",
+  "El riesgo país cerró el viernes por encima de los 600 puntos básicos, su máximo del año, tras el dato de pobreza del INDEC.",
+  "La pobreza subió a 32,3% en el primer semestre de 2026, 4,1 puntos más que el semestre anterior, según el INDEC.",
+  "Los bancos refinancian a 115.000 clientes en mora por mes para bajar la morosidad, que ronda el 13% en personas físicas.",
+  "Jorge Macri eximió del ABL por seis meses de 2027 a hoteles, restaurantes y librerías porteñas.",
+  "Rosario Central se consagró campeón de la Supercopa Internacional tras vencer 3-1 a Estudiantes en un final con incidentes.",
+  "Argentina terminó segunda en los Juegos Suramericanos de Santa Fe, con 81 medallas doradas, detrás de Brasil."
+ ],
+ "cifras": [
+  {
+   "nombre": "Pobreza (INDEC, primer semestre 2026)",
+   "valor": "32,3%",
+   "variacion": "+4,1 p.p.",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Morosidad crediticia de personas físicas",
+   "valor": "cerca de 13%",
+   "fuente": "IB-22"
+  },
+  {
+   "nombre": "Refinanciaciones bancarias por mes",
+   "valor": "115.000 clientes",
+   "fuente": "IB-22"
+  },
+  {
+   "nombre": "Ingreso familiar promedio en CABA",
+   "valor": "$ 2.574.524",
+   "variacion": "+27,1% i.a.",
+   "fuente": "CR-08"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-25",
+     "titulo": "los gobernadores, la pieza clave del armado electoral de Milei para 2027",
+     "resumen": "Milei necesita votos en el Congreso y los gobernadores necesitan recursos para sus provincias; ese intercambio empieza a definir la estrategia electoral de 2027. El texto advierte que cada acuerdo provincial que asegura apoyo legislativo puede debilitar la expansión de La Libertad Avanza en los distritos donde el espacio necesita crecer.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/27/cuanto-pesan-los-gobernadores-en-el-plan-de-milei-para-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/5RI2I7CDEVHFPIIN5GJQRZ3NDU.jpeg?auth=9821081723044167ff4f37229dde898497a403c6a5fe66e067c72a057871d64e&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:27",
+     "autor": "Gonzalo Aziz",
+     "titulo_original": "¿Cuánto pesan los gobernadores en el plan de Milei para 2027?"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Kicillof busca volumen internacional con China y el Papa tras su paso por Nueva York",
+     "resumen": "Axel Kicillof construye un perfil cada vez más parecido al de un candidato presidencial y busca mostrarse como contracara de Milei ante distintos estamentos de poder. En su gira por Nueva York se reunió con fondos de inversión y se fotografió con el alcalde Zohran Mamdani, en medio de un clima de alerta en el Gobierno por datos económicos adversos.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Las malas noticias que activaron alarmas en el Gobierno y la impensada estrategia de Axel Kicillof en Wall Street",
+       "url": "https://www.clarin.com/politica/malas-noticias-activaron-alarmas-gobierno-impensada-estrategia-axel-kicillof-wall-street_0_uixFgCUMjq.html"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/27/tras-su-viaje-a-nueva-york-kicillof-busca-volumen-con-china-y-el-papa-ante-la-apatia-de-un-sector-del-pj/",
+     "imagen": "https://www.infobae.com/resizer/v2/WYM3AIVXKVCDFGCQK4TYK3IP3Q.jpg?auth=31a7727bddd477ecdd9fb4cf3d23e2dd085f7426d29e53acd5eb15a5a5162718&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:27",
+     "autor": "Facundo Cottet",
+     "titulo_original": "Tras su viaje a Nueva York, Kicillof busca volumen con China y el Papa ante la apatía de un sector del PJ"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Máximo Kirchner comparó el modelo económico de Milei con la dictadura",
+     "resumen": "El diputado de Unión por la Patria dijo que el núcleo del modelo económico de Milei es igual al de la última dictadura, el menemismo y el macrismo, durante un congreso educativo en Mar del Plata. También reclamó cambios en tarifas y combustibles para que, según él, los argentinos participen del crecimiento de Vaca Muerta, al que calificó de logro peronista.",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Máximo Kirchner pidió cambios en tarifas y combustibles para que \"los argentinos participen del crecimiento de Vaca Muerta\"",
+       "url": "https://www.ambito.com/politica/maximo-kirchner-pidio-cambios-tarifas-y-combustibles-que-los-argentinos-participen-del-crecimiento-vaca-muerta-n6327075"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/maximo-kirchner-comparo-a-milei-con-la-dictadura-y-aseguro-que-el-superavit-energetico-se-logro-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WGW6YHPHYFAQ7OZD54VWY5PVC4.jpeg?auth=66b45ff55ac2632347ca29a35bc1d610ada7cc3c4c9444c4a50f049d0d7eaf3a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:46",
+     "autor": "",
+     "titulo_original": "Máximo Kirchner comparó a Milei con la dictadura y aseguró que el “superávit energético” se logró gracias al peronismo"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "el gobernador de Neuquén cruzó a Prat-Gay por decir que Vaca Muerta no derrama en la provincia",
+     "resumen": "Rolando Figueroa invitó al ex ministro de Economía a recorrer la zona y cuestionó sus apreciaciones desde el Obelisco. Defendió que en Neuquén se logró lo que muchos en el país no hicieron cuando tuvieron su oportunidad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/gobernador-neuquen-cruzo-prat-gay-decir-vaca-muerta-derrama-provincia_0_fG8Ofa09fC.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/0Jx4Ok6dk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El gobernador de Neuquén cruzó a Prat-Gay por decir que Vaca Muerta “no derrama” en la provincia"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "caso Sur Finanzas: tres sociedades ligadas a jugadores de la Selección, en la mira de la Justicia y de ARCA",
+     "resumen": "Rodepau Group, Laumart y Gomont fueron constituidas el mismo día de octubre de 2021, con el mismo domicilio fiscal y socios cruzados. Dos de ellas figuraron como clientes de Sur Finanzas, la financiera ligada al fútbol que cerró tras una ola de causas judiciales, y las tres están incluidas en la base APOC de ARCA, que identifica contribuyentes sospechosos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/caso-sur-finanzas-las-sociedades-inspiradas-en-tres-jugadores-de-la-seleccion-que-estan-en-la-mira-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DIOOQMXPTRCDZI2HG3IJUVLAI4.JPG?auth=49369cd7137d23d2e43e407026e99c1b69e9f2bbec4e1db6915349833be1549a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:14",
+     "autor": "Nicolás Pizzi, Federico González del Solar",
+     "titulo_original": "Caso Sur Finanzas: las sociedades inspiradas en tres jugadores de la selección que están en la mira de la Justicia y ARCA"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "vuelve la polémica por la Ley Moyano con la nueva licitación de residuos en CABA",
+     "resumen": "El 5 de octubre se realizará la audiencia pública para analizar los pliegos que renovarán las concesiones de recolección de residuos en la Ciudad entre 2028 y 2038. El gobierno de Jorge Macri no contempla, por ahora, pagar las indemnizaciones que el Sindicato de Camioneros recibe desde los años 90 al renovarse los contratos, lo que puso en alerta al gremio de los Moyano.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/09/27/la-polemica-ley-moyano-vuelve-a-escena-con-la-nueva-licitacion-para-la-recoleccion-de-residuos-en-caba/",
+     "imagen": "https://www.infobae.com/resizer/v2/3GEJWPMWSBDENHJU5I3SWJ4TO4.jpg?auth=8696ed49dcb015273dbf6acdd1dc23ffde46150423a8dbb3c03b673a9d6589b7&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:28",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "La polémica Ley Moyano vuelve a escena con la nueva licitación para la recolección de residuos en CABA"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Reino Unido advirtió que está preparado para defender militarmente las Malvinas",
+     "resumen": "El secretario de Defensa británico, Wes Streeting, dijo que Argentina carece de capacidad para tomar las islas y que el Reino Unido sí puede defenderlas, en respuesta a los reclamos de Milei ante la ONU. Streeting calificó los planteos argentinos de la misma propaganda falsa de siempre y remarcó que la disputa se resolvió en 1982.",
+     "relacionadas": [
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Reino Unido afirmó que están preparados para defender militarmente las Malvinas ante Argentina",
+       "url": "https://www.iprofesional.com/actualidad/465321-reino-unido-afirmo-que-estan-preparados-para-defender-las-malvinas"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Malvinas: Reino Unido advirtió que tiene la capacidad militar para defender a las islas ante una acción argentina",
+       "url": "https://www.cronista.com/economia-politica/malvinas-reino-unido-advirtio-que-tiene-la-capacidad-militar-para-defender-a-las-islas-ante-una-accion-argentina/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-secretario-de-defensa-britanico-aseguro-que-reino-unido-esta-armada-y-preparada-para-proteger-a-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BT6SPSEXQBF7FA6LK3QECNA4NY.JPG?auth=6c0d3975393d2b68059d333478ab15c5eb02e36b0fa80eb8ad0e324ba2661c03&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "El secretario de Defensa británico aseguró que Reino Unido está armada y preparada para proteger a las islas Malvinas"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-20",
+     "titulo": "el salto del riesgo país y el temor de los mercados a un regreso de recetas populistas",
+     "resumen": "El riesgo país cerró el viernes por encima de los 600 puntos básicos, su máximo del año, un día después de que el INDEC informara una suba de 4 puntos porcentuales en la pobreza y una fuerte retracción de la actividad económica en julio. Muchos analistas conectan ambos datos con la persistencia del kirchnerismo como opción competitiva para las próximas elecciones, más que con la suba de tasas en Estados Unidos. Para una empresa: un riesgo país en alza encarece el financiamiento y presiona el costo del crédito en dólares.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/27/no-es-la-recesion-ni-el-repunte-de-la-pobreza-los-mercados-le-tienen-panico-al-regreso-de-las-recetas-populistas/",
+     "imagen": "https://www.infobae.com/resizer/v2/Z3IQ5YXQ3FDOJDDHW2AGKNIMVI.png?auth=eb51d4480977ba2033533d6a4f244d152ac7f0199b7ca5b2c96437b04b269340&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:40",
+     "autor": "Pablo Wende",
+     "titulo_original": "No es la recesión ni el repunte de la pobreza: los mercados le tienen pánico al regreso de las recetas populistas"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "las proyecciones de inflación del REM se alejan de las de los inversores",
+     "resumen": "El Relevamiento de Expectativas de Mercado se muestra ahora más optimista que los inversores sobre la desinflación de los próximos meses, aunque ambos coinciden en que el proceso seguirá siendo gradual, con dificultades para bajar de forma sostenida del piso de entre 1,5% y 1,6% mensual. Ante esa disparidad, los analistas recomiendan oportunidades tanto en bonos CER como en tasa fija. Para una empresa: la brecha entre proyecciones oficiales y privadas complica calcular el costo financiero real del capital de trabajo en pesos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/las-proyecciones-del-rem-se-distancian-de-lo-que-esperan-los-inversores-en-el-mercado-conviene-tasa-fija-o-cer/",
+     "imagen": "https://www.cronista.com/resizer/v2/HPYT6VZ2VFGNZOGI3X65M3HLR4.png?auth=79fcc650bd7b5ee4510e4f1cfe2d610ed177ba8de92e56e37564c3c36f9c35ed&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:58",
+     "autor": "Julián Yosovitch",
+     "titulo_original": "Las proyecciones de inflación del REM se alejan de las de los inversores: ¿conviene tasa fija o bonos CER?"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "Lousteau cuestionó cómo mide el INDEC la pobreza tras el salto al 32,3%",
+     "resumen": "El INDEC informó que la pobreza alcanzó al 32,3% de la población en el primer semestre de 2026, 4,1 puntos porcentuales más que el segundo semestre de 2025 (28,2%). El diputado Martín Lousteau no negó la baja respecto del pico de la crisis, pero cuestionó la magnitud de la mejora que suele destacar el Gobierno y puso el foco en cómo se construye la medición.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/no-son-diez-millones-martin-lousteau-cuestiono-como-se-mide-la-pobreza-y-explico-por-que-difiere-del-dato-oficial/",
+     "imagen": "https://www.cronista.com/resizer/v2/VQDBNCPVBFFPRKRM2X2CPRYHM4.jpg?auth=8c663b4275d0a46f45ece0c7b1b0f90aae36c9651f830f7989433bb401a0117b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:54",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "“No son diez millones”: Martín Lousteau cuestionó cómo se mide la pobreza y explicó por qué difiere del dato oficial"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "los bancos refinancian a 115.000 clientes en mora por mes para bajar la morosidad",
+     "resumen": "Según datos del Banco Central, la irregularidad crediticia de las personas físicas ronda el 13%, uno de los niveles más altos en relación con el pasado reciente y con la región. El stock de crédito no crece por la falta de demanda firme, por lo que la baja de la morosidad depende del avance lento de acuerdos entre privados entre bancos y deudores. Para una empresa: una morosidad alta y sostenida limita la disposición de los bancos a otorgar nuevas líneas de financiamiento comercial.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/27/acuerdo-entre-privados-los-bancos-estan-refinanciando-a-115000-clientes-en-mora-por-mes/",
+     "imagen": "https://www.infobae.com/resizer/v2/56ZTLLGEKNCEXLLLFF26UM3NSU.png?auth=d2790a6965c76fc3bfc9f7a931804d93ad582ef9ce20baa6eaa8b4a130025bc5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:40",
+     "autor": "Fernando Meaños",
+     "titulo_original": "“Acuerdo entre privados”: los bancos están refinanciando a 115.000 clientes en mora por mes"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "los 90 días que inquietan al mercado: recesión, elecciones en Estados Unidos y un fin de año tenso",
+     "resumen": "Los inversores advierten sobre un posible deterioro de las condiciones financieras internacionales de cara a fin de año. El artículo repasa el paso de Axel Kicillof por Nueva York y la medida que analiza la CGT en ese contexto.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/los-90-dias-que-inquietan-al-mercado-amenaza-recesion-elecciones-eeuu-y-un-fin-ano-cargado-tension-n6326985",
+     "imagen": "https://media.ambito.com/p/9b6394105437a073f938f17d6ce1acd3/adjuntos/239/imagenes/043/665/0043665593/1200x675/smart/mercados-septiembre.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Los 90 días que inquietan al mercado: amenaza de recesión, elecciones en EEUU y un fin de año cargado de tensión"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "ocho de los diez sectores de mayor crecimiento tienen índice negativo de empleo",
+     "resumen": "El agro lideró el crecimiento de la actividad económica respecto de 2023 y también impulsó la creación de puestos de trabajo, en el marco del desafío que plantea el modelo económico de Milei. En cambio, intermediación financiera, minería y turismo registraron caídas en el empleo pese al crecimiento sectorial. Para una empresa: un crecimiento de la actividad que no se traduce en más empleo formal anticipa un consumo interno todavía débil.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/desafio-del-modelo-milei-ocho-los-diez-sectores-mayor-crecimiento-tienen-indice-negativo-empleo-n6327084",
+     "imagen": "https://media.ambito.com/p/e0e69b3882deae8348174d31eb47065f/adjuntos/239/imagenes/040/874/0040874678/trabajo-rural.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:57",
+     "autor": "",
+     "titulo_original": "Desafío del modelo Milei: ocho de los diez sectores de mayor crecimiento tienen índice negativo de empleo"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "solo una de cada diez familias porteñas llega al tramo de mayores ingresos",
+     "resumen": "Según la Encuesta Trimestral de Ocupación e Ingresos del IDECBA, el ingreso familiar promedio en la Ciudad de Buenos Aires fue de 2.574.524 pesos, con una suba interanual del 27,1%. El estudio, que mide ingresos y no patrimonio, muestra que la distancia entre los hogares de menores y mayores ingresos es cada vez más marcada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/solo-una-de-cada-10-familias-lo-logra-cuanto-hay-que-ganar-para-estar-entre-las-mas-ricas-de-caba/",
+     "imagen": "https://www.cronista.com/resizer/v2/6ZV7BKQURJDYRMPK63V3WQ7DEQ.png?auth=86d865a2f3ef05e2b86b0eedfd2dcaa40625d4c89116a1e47da661d4d00faf6d&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:26",
+     "autor": "Roxana Toral Reyes",
+     "titulo_original": "Solo una de cada 10 familias lo logra: cuánto hay que ganar para estar entre las más ricas de CABA"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "Citi y UBS anticipan un boom agrícola en la Argentina por El Niño",
+     "resumen": "Ambos bancos estiman que un súper El Niño podría mejorar las lluvias y elevar la cosecha de soja y maíz, con un ingreso extra de hasta 4.000 millones de dólares para el país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/464770-citi-y-ubs-anticipan-mas-cosecha-y-dolares-para-argentina-por-el-nino",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622935.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:30",
+     "autor": "",
+     "titulo_original": "Citi y UBS anticipan boom agrícola para Argentina por El Niño, con más cosecha y dólares"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "las tres acciones de Vaca Muerta que recomienda Wall Street y pueden subir casi 50%",
+     "resumen": "JP Morgan y Citi sostienen que el desarrollo de Vaca Muerta entró en una etapa de mayor escala y señalan tres papeles con potencial de suba cercano al 50%. El precio del petróleo y el momento de entrada son las variables que, según los bancos, pueden condicionar esa proyección.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/465297-3-acciones-de-vaca-muerta-que-pueden-subir-hasta-50-por-ciento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605864.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:27",
+     "autor": "",
+     "titulo_original": "Las 3 acciones de Vaca Muerta que recomienda Wall Street y pueden subir casi 50%"
+    },
+    {
+     "id": "AM-07",
+     "titulo": "los BRICS apuestan a la tecnología y el comercio para la seguridad alimentaria global",
+     "resumen": "La agenda agrícola del bloque combina escala productiva, innovación tecnológica y búsqueda de autonomía comercial frente al mapa global de alimentos, según un análisis sobre los desafíos que tiene por delante.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/opiniones/brics-y-agricultura-tecnologia-comercio-y-seguridad-alimentaria-el-nuevo-mapa-global-n6326696",
+     "imagen": "https://media.ambito.com/p/ced0be73536be9b208f7ac2d6cdb1f84/adjuntos/239/imagenes/043/633/0043633624/brics-2026.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "BRICS y agricultura: tecnología, comercio y seguridad alimentaria en el nuevo mapa global"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "LEGO estuvo al borde de la quiebra y hoy bate récords de facturación",
+     "resumen": "La compañía danesa atravesó una crisis profunda que puso en jaque su negocio, pero años después logró revertir la situación y se convirtió en un fenómeno mundial de ventas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465267-como-lego-salio-de-una-crisis-millonaria-y-volvio-a-crecer",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/607739.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:04",
+     "autor": "",
+     "titulo_original": "LEGO estuvo al borde de la quiebra y terminó batiendo récords de facturación"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "los errores que pueden arruinar un proyecto de inteligencia artificial en una empresa",
+     "resumen": "La inteligencia artificial puede amplificar errores existentes en lugar de corregirlos, según dos casos reales que muestran qué falla antes de que arranque un proyecto de IA corporativo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/464963-por-que-fallan-los-proyectos-de-ia-en-empresas-y-como-prevenirlos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625322.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:20",
+     "autor": "",
+     "titulo_original": "Los errores que pueden arruinar proyectos de IA en una empresa y cómo evitarlos"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "cuánto se paga por cuatro horas de trabajo doméstico en octubre",
+     "resumen": "El aumento salarial para las empleadas domésticas correspondiente a octubre ya fue oficializado, con montos que varían según la categoría. El texto además repasa qué sucederá con la suma extra que se cobró en agosto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/465046-cuanto-cobra-una-empleada-domestica-por-4-horas-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/602168.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:39",
+     "autor": "",
+     "titulo_original": "Cuánto se paga por 4 horas de trabajo doméstico en octubre según la categoría"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "hoteles, restaurantes y librerías no pagarán ABL en la Ciudad durante seis meses de 2027",
+     "resumen": "Jorge Macri anunció que la exención del impuesto de Alumbrado, Barrido y Limpieza regirá entre enero y junio de 2027 y alcanzará a unos 7.000 locales gastronómicos, 380 librerías y cientos de establecimientos hoteleros porteños. El anuncio se realizó en la apertura de la Feria Internacional de Turismo de América Latina, en el predio de La Rural. Para una empresa: una exención sectorial de ABL reduce costos fijos y puede liberar caja para sostener empleo o inversión en esos rubros.",
+     "relacionadas": [
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Macri anunció qué sectores no pagarán ABL hasta mediados de 2027",
+       "url": "https://www.iprofesional.com/impuestos/465320-macri-anuncio-que-sectores-no-pagaran-abl-hasta-mediados-de-2027"
+      },
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Adiós ABL por 6 meses: el beneficio que alcanzará a tres sectores en 2027",
+       "url": "https://www.cronista.com/economia-politica/adios-abl-por-6-meses-el-beneficio-que-alcanzara-a-tres-sectores-en-2027/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/hoteles-restaurantes-y-librerias-no-pagaran-abl-la-ciudad-seis-meses-2027-n6327045",
+     "imagen": "https://media.ambito.com/p/c7bf79b44aa285086adfad50a4d1c809/adjuntos/239/imagenes/043/608/0043608864/1200x675/smart/jorge-macri-el-nino.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "Hoteles, restaurantes y librerías no pagarán ABL en la Ciudad durante seis meses de 2027"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "de qué depende el costo de una sucesión y qué gastos suelen pasarse por alto",
+     "resumen": "Los honorarios del abogado son una parte importante del costo de una sucesión, pero también inciden tasas, publicaciones, informes e inscripciones. La Corte Suprema actualizó el valor de la Unidad de Medida Arancelaria, que la Ley 27.423 usa para regular honorarios en la Justicia nacional y federal, lo que vuelve a poner el foco en cómo se calcula el costo final del trámite.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/sucesiones-2026-de-que-depende-el-costo-del-tramite-y-cuales-son-los-gastos-que-muchos-pasan-de-largo/",
+     "imagen": "https://www.cronista.com/resizer/v2/JCSY6EJH4VB5HB2RXU725ETJE4.jpg?auth=d14e634571da8a7eebcc20c0045c616a652397d919514608578ba5d100c29ec6&smart=true&width=900&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Florencia García Alegre",
+     "titulo_original": "Sucesiones 2026: de qué depende el costo del trámite y cuáles son los gastos que muchos pasan de largo"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "los docentes universitarios convocaron a un paro de hasta 72 horas",
+     "resumen": "Los gremios universitarios anunciaron una huelga a partir del 30 de septiembre y reclamaron la aplicación de la Ley de Financiamiento Universitario. La medida se levantaría si el Gobierno otorga el aumento salarial previsto.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/docentes-universitarios-convocaron-un-paro-72-horas-y-condicionaron-la-medida-una-suba-salarial-n6327027",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:28",
+     "autor": "",
+     "titulo_original": "Docentes universitarios convocaron a un paro de hasta 72 horas y condicionaron la medida a una suba salarial"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la actividad del retail de materiales de construcción y hogar.",
+   "notas": [
+    {
+     "id": "IP-06",
+     "titulo": "los concesionarios de autos reducen personal por la caída de ventas y la baja rentabilidad",
+     "resumen": "La crisis del sector automotor, que históricamente funciona como termómetro de la actividad económica, comenzó a sentirse con fuerza en los concesionarios, que redujeron dotaciones de personal ante la merma en las ventas y la rentabilidad. Para una empresa: una menor venta de bienes durables suele anticipar un consumo más cauto también en otros rubros minoristas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/465323-con-ventas-de-autos-en-baja-concesionarios-reducen-personal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615047.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:21",
+     "autor": "",
+     "titulo_original": "Concesionarios reducen personal por caída de ventas de autos y baja rentabilidad"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "los consejos de los expertos para no gastar de más al comprar una casa modular barata",
+     "resumen": "Antes de avanzar con la compra conviene revisar el terreno, la cimentación, el transporte y las conexiones, además de la documentación, ya que ahí suelen aparecer los costos ocultos que encarecen este tipo de construcciones. Para una empresa: los costos ocultos de terreno y conexiones son un punto crítico también en la venta de materiales para construcción en seco.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/464873-que-tener-en-cuenta-al-comprar-una-casa-modular-para-no-gastar-de-mas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/609082.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:27",
+     "autor": "",
+     "titulo_original": "Los consejos de expertos para evitar gastar de más al comprar una casa modular barata"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "el exarquero de Boca que hoy vende autos premium y se convirtió en empresario",
+     "resumen": "El extitular de las inferiores de Boca dejó el fútbol a los 21 años y hoy lidera Hascar Premium Car, tras superar varios fracasos en el negocio automotor.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465157-quien-es-el-arquero-de-boca-que-hoy-vende-autos-premium-y-es-empresario",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626300.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:22",
+     "autor": "",
+     "titulo_original": "Quién es el arquero de Boca que hoy vende autos premium y se convirtió en un empresario"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-07",
+     "titulo": "Trump y Delcy Rodríguez afianzan su vínculo, en medio de un quiebre con María Corina Machado",
+     "resumen": "Ante la Asamblea General de la ONU, Donald Trump resumió su prioridad en Venezuela con la frase \"el vencedor se queda con el botín\", en referencia al petróleo, mientras Delcy Rodríguez consolidaba su reinserción internacional con reuniones bilaterales. En paralelo, organizaciones civiles reportaron cerca de 39 liberaciones de presos políticos tras una segunda ronda de negociaciones entre el gobierno interino y un sector de la oposición.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El régimen de Venezuela libera a decenas de presos políticas tras nuevas negociaciones con parte de la oposición",
+       "url": "https://www.lanacion.com.ar/el-mundo/el-regimen-de-venezuela-libera-a-decenas-de-presos-politicas-tras-nuevas-negociaciones-con-parte-de-nid26092026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/trump-y-delcy-rodriguez-afianzan-su-vinculo-desconcierto-en-venezuela-y-quiebre-con-maria-corina-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2XKT2DIDMJGANFMNFX4F4A6GMQ.jpg?auth=01f75fca1d052c77baa28cc233aae641f82180efe635c9f11ac1db0574d6880a&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:00",
+     "autor": "Lucía Sol Miguel",
+     "titulo_original": "Trump y Delcy Rodríguez afianzan su vínculo: desconcierto en Venezuela y quiebre con María Corina Machado"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "el voto femenino, decisivo en la ajustada disputa entre Lula y Flávio Bolsonaro en Brasil",
+     "resumen": "De los casi 160 millones de electores brasileños, más de la mitad son mujeres, por lo que ambos candidatos concentran buena parte de su campaña en ese público de cara a la primera vuelta del 4 de octubre. Tres encuestadoras líderes coinciden en un empate técnico en primera vuelta, aunque difieren sobre quién llegaría mejor parado a un eventual balotaje.",
+     "relacionadas": [
+      {
+       "id": "LN-23",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Elecciones Brasil 2026: quiénes son los candidatos a vicepresidente de Lula y Flávio Bolsonaro",
+       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-quienes-son-los-candidatos-a-vicepresidente-de-lula-y-flavio-bolsonaro-nid26092026/"
+      },
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Tres encuestas hablan de empate técnico en Brasil, pero difieren sobre quién llega mejor al probable balotaje",
+       "url": "https://www.cronista.com/economia-politica/tres-encuestas-hablan-de-empate-tecnico-en-brasil-pero-difieren-sobre-quien-llega-mejor-al-probable-balotaje/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/voto-femenino-decisivo-ajustada-disputa-lula-da-silva-flavio-bolsonaro-brasil_0_bAcgrezlqG.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/L4RP8Hv1x_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El voto femenino será decisivo en la ajustada disputa entre Lula da Silva y Flávio Bolsonaro en Brasil"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "el video de Pedro Sánchez y Zohran Mamdani que se hizo viral en la Asamblea de la ONU",
+     "resumen": "El alcalde de Nueva York recibió al presidente del Gobierno español en su residencia oficial, Gracie Mansion, durante la semana de Alto Nivel de la Asamblea General, en un encuentro con guiños hacia la izquierda que circuló ampliamente en redes sociales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/risas-guinos-izquierda-video-pedro-sanchez-zohran-mamdani-hizo-viral_0_RLUY1udAXX.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/G_ZCwFgRp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Risas y guiños a la izquierda: el video de Pedro Sánchez y Zohran Mamdani que se hizo viral"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "una multitud acampa en Madrid contra el desalojo de una mujer de 87 años",
+     "resumen": "Maricarmen Abascal se convirtió en símbolo del conflicto español por la especulación inmobiliaria y el costo de los alquileres. Los manifestantes piden medidas urgentes al gobierno de Pedro Sánchez.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/multitud-acampa-madrid-desalojo-mujer-87-anos-protestar-crisis-vivienda_0_uu27cuCvdZ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/26/tDzZQFgrF_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una multitud acampa en Madrid contra el desalojo de una mujer de 87 años y para protestar por la crisis de la vivienda"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Estados Unidos celebró que el aislamiento económico a Irán \"está dando resultados\"",
+     "resumen": "El secretario del Tesoro estadounidense, Scott Bessent, dijo que el rial iraní cayó a mínimos históricos tras la Operación Paria Económica, que llevó a Turquía y Omán a suspender vuelos de la aerolínea privada iraní Mahan Air. Bessent destacó además restricciones aéreas y financieras adoptadas por otros gobiernos de Medio Oriente.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/27/eeuu-dijo-que-el-aislamiento-economico-contra-iran-esta-dando-resultados-el-rial-cayo-a-minimos-historicos/",
+     "imagen": "https://www.infobae.com/resizer/v2/XBN6X57TBZGTTEEY3TOUPLJT24.JPG?auth=80eb7aac4580e4813946dd2f5092c5fb5382adc690f582de416c3ed09d18b4a3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:14",
+     "autor": "",
+     "titulo_original": "EEUU dijo que el aislamiento económico contra Irán “está dando resultados”: “El rial cayó a mínimos históricos”"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza la caída de la producción petrolera rusa y el discurso de Pedro Sánchez ante la ONU.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "la producción de petróleo rusa caerá en 2026 a su nivel más bajo desde 2009",
+     "resumen": "El ministro de Desarrollo Económico ruso, Maxim Reshetnikov, proyectó una producción de 494 millones de toneladas para este año, un 3,4% menos que en 2025, y atribuyó la baja a \"trabajos de mantenimiento imprevistos\". La revista señala que recién a partir de 2028-2029 la producción volvería a acercarse a los niveles de 2025.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/27/economia-rusa-produccion-de-petroleo-caera-en-2026-a-su-nivel-mas-bajo-desde-2009/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Economía rusa: la producción de petróleo caerá en 2026 a su nivel más bajo desde 2009"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "la doctrina Sánchez para refundar el orden mundial",
+     "resumen": "Sin nombrar a Donald Trump, Pedro Sánchez denunció ante la Asamblea General de la ONU \"un intento de demolición planificado y coordinado\" del orden multilateral y propuso, entre otros puntos, eliminar el derecho de veto en el Consejo de Seguridad. Le Grand Continent publica el texto íntegro del discurso como documento de referencia sobre las tensiones geopolíticas actuales.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/27/la-doctrina-sanchez-para-refundar-el-orden-mundial/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "florent",
+     "titulo_original": "La doctrina Sánchez para refundar el orden mundial"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "un final escandaloso: Rosario Central campeón de la Supercopa Internacional ante Estudiantes",
+     "resumen": "Rosario Central venció 3-1 a Estudiantes en el estadio Madre de Ciudades de Santiago del Estero y sumó su 14ª estrella, con un cierre marcado por un penal discutido a instancias del VAR y agresiones entre jugadores que continuaron en el túnel hacia los vestuarios. La previa ya estaba tensa por el espaldazo de Estudiantes a Central en Arroyito hace casi un año, y tras la definición los jugadores locales le reclamaron con dureza al árbitro Darío Herrera.",
+     "relacionadas": [
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Rosario Central campeón de la Supercopa Internacional: cómo quedó el historial de títulos en el fútbol argentino",
+       "url": "https://www.clarin.com/deportes/rosario-central-campeon-supercopa-internacional-quedo-historial-titulos-futbol-argentino_0_4WF6M1mYIE.html"
+      },
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Estudiantes pasó de la bronca a la burla: aplausos irónicos a Chiqui Tapia y la terna arbitral",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-paso-de-la-bronca-a-la-burla-aplausos-ironicos-a-chiqui-tapia-y-la-terna-arbitral-nid26092026/"
+      },
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Con un polémico arbitraje y un final escandaloso, Rosario Central ganó la Supercopa Internacional en Santiago del Estero",
+       "url": "https://www.ambito.com/deportes/estudiantes-y-rosario-central-empatan-la-final-la-supercopa-internacional-n6327035"
+      },
+      {
+       "id": "CL-09",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Del espaldazo en Arroyito a las piñas en Santiago: el paso a paso de la discordia entre Estudiantes y Rosario Central",
+       "url": "https://www.clarin.com/deportes/espaldazo-arroyito-pinas-santiago-paso-paso-discordia-estudiantes-rosario-central_0_MQwHO6MCF8.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/el-partido-del-escandalo-todo-lo-que-paso-en-el-partido-entre-estudiantes-y-rosario-central-en-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZPOJV2YPCRC4XLQHO7AJI4IH4I.JPG?auth=191a2c1fbe371622591a65187da8f84b09935d164c6ed02e0231f90af9979a70&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:29",
+     "autor": "Alejandro Casar González",
+     "titulo_original": "El partido del escándalo: todo lo que pasó entre Estudiantes y Rosario Central en Santiago del Estero"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Argentina terminó segunda en los Juegos Suramericanos de Santa Fe, detrás de Brasil",
+     "resumen": "La delegación argentina sumó 81 medallas doradas, 87 plateadas y 125 de bronce, un total de 293 preseas que superó la cosecha de oros de la edición 2022. El seleccionado de handball Los Gladiadores aportó el último título del certamen, que reunió a 658 deportistas argentinos.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El oro de Los Gladiadores y unos Juegos Suramericanos históricos para los deportes colectivos: \"Es el gen del deportista argentino\"",
+       "url": "https://www.clarin.com/deportes/oro-gladiadores-juegos-suramericanos-historicos-deportes-colectivos-gen-deportista-argentino_0_lkau3CAPx7.html"
+      },
+      {
+       "id": "LN-16",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Juegos Suramericanos: actuación “histórica” para Argentina, críticas generales y figuras a futuro",
+       "url": "https://www.lanacion.com.ar/deportes/atletismo/juegos-suramericanos-actuacion-historica-para-argentina-criticas-generales-y-figuras-a-futuro-nid26092026/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/argentina-termino-segunda-los-juegos-suramericanos-santa-fe-y-supero-su-cosecha-oros-2022-n6327088",
+     "imagen": "https://media.ambito.com/p/29d4dc70e439bf2ca4ec25f3464e8f7c/adjuntos/239/imagenes/043/666/0043666685/1200x675/smart/sudamericanos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "22:54",
+     "autor": "",
+     "titulo_original": "Argentina terminó segunda en los Juegos Suramericanos de Santa Fe y superó su cosecha de oros de 2022"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "Boca visita a Racing por Copa Argentina con la obligación de cortar una mala racha",
+     "resumen": "El Xeneize manda en el historial general ante Racing, pero no logra vencerlo en los cruces recientes, con derrotas en clásicos y dos copas nacionales pese a haber festejado dos veces por Libertadores. Esta tarde ambos equipos vuelven a cruzarse en Arroyito por un lugar en semifinales de la Copa Argentina.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/racing-piedra-zapato-boca-cruza-copa-argentina-lleva-partidos-perder-racha-tendencia_0_Eu21avv0p4.html",
+     "imagen": "https://www.clarin.com/img/2026/02/18/9soLKIKub_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Racing, la piedra en el zapato de Boca que lo cruza en Copa Argentina: lleva seis partidos sin perder y la racha ya es una tendencia"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "convocado por Argentina pese a poder elegir otras tres selecciones, Mateo Santa María jugará la Vertex Cup",
+     "resumen": "La Sub 17 de Diego Placente convocó al delantero de la Juventus, que puede optar por cuatro nacionalidades, para el certamen en Londres, previo al Mundial de la categoría en Qatar. También fueron citados Lucas Pilili y José Castelau, con pasado en las formativas de España.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/27/juega-en-la-juventus-puede-elegir-entre-cuatro-selecciones-y-fue-citado-por-argentina-estoy-agradecido/",
+     "imagen": "https://www.infobae.com/resizer/v2/FFB5BYYCGFHEXKYAGJTHJOS3MM.jpg?auth=c4ecf032ecee3b98a2a428ca24b124fb48266d9eceefd2442346f4087a49538c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:51",
+     "autor": "",
+     "titulo_original": "Juega en la Juventus, puede elegir entre cuatro selecciones y fue citado por Argentina: “Estoy agradecido”"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "la australiana Kimberly Birrell se consagró campeona del WTA 250 de Seúl",
+     "resumen": "Birrell, de 28 años y ubicada 60ª del ranking WTA, venció a su compatriota Maya Joint por 6-4 y 6-2 en la final de Seúl. Es el primer título de ese nivel en su carrera, tras dos triunfos previos en torneos ITF.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/agencias/2026/09/27/birrell-gana-a-joint-el-duelo-de-australianas-en-la-final-de-seul/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Birrell gana a Joint el duelo de australianas en la final de Seúl"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "el español Iker Lecuona ganó la Superpole de Cremona y aplazó el título de Bulega en Superbike",
+     "resumen": "Lecuona (Ducati) le restó tres puntos a su compañero de equipo Nicolò Bulega, que de todos modos podía sellar el campeonato mundial de Superbike esa misma tarde en Cremona. Bulega llegaba con 138 puntos de ventaja a falta de esa carrera y de las citas de Portugal y España.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/agencias/2026/09/27/lecuona-se-impone-en-la-superpole-de-cremona-y-aplaza-de-nuevo-el-titulo-de-bulega/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Lecuona se impone en la Superpole de Cremona y aplaza de nuevo el título de Bulega"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Tom Cruise recibió la camiseta de Gimnasia y Esgrima La Plata en la presentación de su nueva película",
+     "resumen": "El actor recibió la prenda de manos de un periodista argentino durante una actividad promocional en México, en un cruce inesperado entre el cine de Hollywood y el fútbol argentino que rápidamente se viralizó en redes sociales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/27/la-inesperada-respuesta-de-tom-cruise-al-recibir-la-camiseta-de-un-equipo-argentino-durante-la-presentacion-de-su-nueva-pelicula/",
+     "imagen": "https://www.infobae.com/resizer/v2/A3FL6J7XXNE7FHLQN7GSI7QWTE.jpg?auth=67f4e9b6ae0c8ad6a2b829f2cfe33eb94424114c7fe4c6babc101acbce7e4af6&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "23:00",
+     "autor": "",
+     "titulo_original": "La inesperada respuesta de Tom Cruise al recibir la camiseta de un equipo argentino durante la presentación de su nueva película"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "las termas a tres horas y media con 60% de descuento para jubilados",
+     "resumen": "El turismo termal de Entre Ríos se presenta como uno de los puntos destacados del litoral provincial, a unas tres horas y media de viaje. El destino ofrece un descuento del 60% para jubilados y no exige reserva previa para la visita.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/464832-las-termas-con-60-de-descuento-para-jubilados-cuales-son-y-como-aprovechar-el-descuento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626152.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:08",
+     "autor": "",
+     "titulo_original": "Las termas a 3 horas y media con 60% de descuento para jubilados que hacen turismo"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "por qué 2026 es un buen año para viajar a Japón por el tipo de cambio",
+     "resumen": "La debilidad del yen permite que los turistas que llegan con dólares encuentren alojamiento, comida y transporte a tarifas convenientes, con el tipo de cambio y los precios en mínimos históricos para el visitante extranjero.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/por-que-2026-es-el-ano-viajar-japon-tipo-cambio-y-precios-minimos-historicos-n6326344",
+     "imagen": "https://media.ambito.com/p/2ee688e910f9d7adea65186b106c3d07/adjuntos/239/imagenes/043/663/0043663171/1200x675/779x567:799x587/turismo-japon-viaje-viajar-magnific.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Por qué 2026 es el año para viajar a Japón: tipo de cambio y precios en mínimos históricos"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-11",
+     "titulo": "un frente de 48 horas traerá lluvias, viento y hasta 100 milímetros de agua en el centro del país",
+     "resumen": "A partir de este domingo comenzará un proceso de ciclogénesis que dejará al menos 72 horas de inestabilidad, con las tormentas más abundantes esperadas entre el lunes y el martes en sectores de Buenos Aires, Córdoba y el centro del Litoral. Según Meteored, el ambiente se volverá más fresco, húmedo y ventoso a medida que el frente avance hacia el centro y el este del país.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/avanza-un-frente-de-48-horas-que-provocara-un-brusco-cambio-en-el-pronostico-inestabilidad-viento-y-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XH5TTTX2IZAZDEHW4D63AUNYHE.png?auth=491ceed4827700da5e2a887f782a9efe38a98b4b73b226cc9b055630718fea1d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "04:00",
+     "autor": "",
+     "titulo_original": "Avanza un frente de 48 horas que provocará un brusco cambio en el pronóstico, inestabilidad, viento y tormentas con hasta 100 mm de agua acumulada: las zonas afectadas"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "el cierre de otro colegio porteño reaviva la preocupación por la caída de matrícula",
+     "resumen": "El anuncio del cierre del St. Martin in the Fields School, en Belgrano, se suma a una lista de instituciones privadas de la Ciudad que dejaron de funcionar desde octubre de 2025. El fenómeno coincide con una transformación demográfica que ya se refleja en la cantidad de chicos en las aulas porteñas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/aulas-en-crisis-el-cierre-de-otro-colegio-porteno-reaviva-la-inquietud-por-la-caida-de-alumnos-y-las-nid26092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7DG7QWBHZFEXFKTRLPIS3VS2QQ.JPG?auth=a43dd43cc9fb45a801712f6fb38af7ffeb74fdd370a186f0a902569371dd0b65&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "Camila Súnico Ainchil",
+     "titulo_original": "Aulas en crisis: el cierre de otro colegio porteño reaviva la inquietud por la caída de alumnos y las nuevas integraciones"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "150.000 trabajadores golondrina recorren el país detrás de cada cosecha",
+     "resumen": "Cada campaña agrícola, unos 150.000 trabajadores rurales se trasladan entre provincias para levantar las cosechas, de los cuales 35.000 provienen de Santiago del Estero. Se trata de una actividad estacional que se remonta a 1880, cuando la Argentina se convirtió en un país agroexportador, y que sigue siendo clave para la economía pese a su histórica invisibilidad social.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/27/aves-de-paso-la-larga-travesia-de-los-150-mil-trabajadores-golondrina-que-recorren-el-pais-detras-de-cada-cosecha/",
+     "imagen": "https://www.infobae.com/resizer/v2/LNZUL3UXOBAQDN3OO2UHLAS2UM.png?auth=cf25ae64bbb7fed5163226c18f9d51041080ecdfe95cea40ee868d49c15394f4&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:16",
+     "autor": "Carlos Zurita",
+     "titulo_original": "Aves de paso: la larga travesía de los 150 mil trabajadores golondrina que recorren el país detrás de cada cosecha"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Córdoba se prepara para recibir al papa León XIV el 10 de noviembre",
+     "resumen": "El pontífice permanecerá en la provincia durante buena parte de la jornada, con una misa multitudinaria en FAdeA, recorridos en Papamóvil y un encuentro en la Catedral. Se organiza un operativo especial de transporte gratuito para los miles de peregrinos esperados.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/prepara-cordoba-recibir-papa-leon-xiv-operativo-cronograma-transporte-gratuito_0_1jZejb934l.html",
+     "imagen": "https://www.clarin.com/img/2026/06/10/KFCFVlBC5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cómo se prepara Córdoba para recibir al papa León XIV: operativo, cronograma y transporte gratuito"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del domingo veintisiete de septiembre.\n\nEl panorama del día está marcado por el viaje de Javier Milei a París, la tensión con el Reino Unido por las islas Malvinas y el nerviosismo de los mercados después de conocerse un salto en la pobreza y una suba del riesgo país. En paralelo, Axel Kicillof profundiza su perfil hacia dos mil veintisiete tras su gira por Nueva York, y el fútbol argentino quedó sacudido por un final escandaloso en la Supercopa entre Rosario Central y Estudiantes.\n\nEn cuanto a las cifras del día, el dólar oficial cerró en mil quinientos cuarenta y cinco pesos para la venta, el dólar blue en mil quinientos sesenta pesos, y el riesgo país se ubicó por encima de los seiscientos puntos básicos, su nivel más alto del año. La inflación interanual medida hasta agosto se ubica en torno al treinta y tres coma cinco por ciento. A esto se suma un dato del Instituto Nacional de Estadística: la pobreza llegó al treinta y dos coma tres por ciento de la población en el primer semestre del año, cuatro puntos porcentuales más que el semestre anterior.\n\nEn política, el eje de la semana es el rol de los gobernadores en la estrategia electoral de Milei para dos mil veintisiete: el Presidente necesita votos en el Congreso y las provincias necesitan recursos, y ese intercambio empieza a definir buena parte del armado libertario. Axel Kicillof, por su parte, busca ahora sumar volumen internacional con China y con la visita del Papa, después de una gira por Nueva York en la que se reunió con fondos de inversión y se fotografió con el alcalde Zohran Mamdani. Máximo Kirchner comparó el modelo económico de Milei con el de la última dictadura militar y reclamó cambios en tarifas y combustibles vinculados a Vaca Muerta, mientras que el gobernador de Neuquén, Rolando Figueroa, cruzó al ex ministro Alfonso Prat Gay por decir que ese yacimiento no derrama beneficios en la provincia. También circula el caso Sur Finanzas, con tres sociedades que llevan nombres inspirados en jugadores de la Selección y que están en la mira de la Justicia y del organismo recaudador ARCA. Y crece la polémica por la licitación de recolección de residuos en la Ciudad, que reabre el histórico reclamo del Sindicato de Camioneros por las indemnizaciones de sus trabajadores. Además, el secretario de Defensa británico, Wes Streeting, advirtió que el Reino Unido está preparado para defender militarmente las islas Malvinas y acusó a Milei de repetir, según sus palabras, la misma propaganda de siempre.\n\nEn economía y mercados, el salto del riesgo país por encima de los seiscientos puntos alimenta el temor de los inversores a un regreso de recetas populistas, en momentos en que también se conoció una fuerte retracción de la actividad económica en julio. Las proyecciones de inflación del Relevamiento de Expectativas de Mercado se muestran ahora más optimistas que las de los propios inversores, lo que abre debate entre apostar a tasa fija o a bonos ajustados por inflación. El diputado Martín Lousteau cuestionó, además, cómo mide el INDEC la suba de la pobreza. Según el Banco Central, los bancos refinancian a ciento quince mil clientes en mora por mes para intentar bajar una morosidad que en las personas físicas ronda el trece por ciento, un nivel alto que sigue limitando el otorgamiento de nuevo crédito. También se conoció que ocho de los diez sectores de mayor crecimiento muestran un índice negativo de empleo, y que en la Ciudad de Buenos Aires apenas una de cada diez familias llega al tramo de mayores ingresos, con un promedio mensual de dos millones quinientos setenta y cuatro mil pesos.\n\nEn negocios y empresas, Citi y UBS anticipan un boom agrícola en la Argentina gracias a un posible súper fenómeno de El Niño, que podría dejar hasta cuatro mil millones de dólares extra por una mejor cosecha de soja y maíz. JP Morgan y Citi también recomiendan tres acciones vinculadas a Vaca Muerta con potencial de suba cercano al cincuenta por ciento. Los países del bloque BRICS avanzan, según Ámbito, en una agenda agrícola que combina tecnología, comercio y seguridad alimentaria, y LEGO recuerda cómo remontó una crisis que la llevó al borde de la quiebra. Un análisis de iProfesional advierte sobre los errores que pueden arruinar un proyecto de inteligencia artificial en una empresa.\n\nEn impuestos, laboral y normativa, ya está oficializado el aumento de octubre para el trabajo doméstico, con montos que varían según la categoría. Jorge Macri anunció que hoteles, restaurantes y librerías porteñas dejarán de pagar el impuesto de Alumbrado, Barrido y Limpieza durante seis meses de dos mil veintisiete, una medida que alcanzará a unos siete mil locales gastronómicos y trescientas ochenta librerías. También se actualizó el valor de la Unidad de Medida Arancelaria que regula los honorarios judiciales, clave para calcular el costo real de una sucesión. Y los docentes universitarios convocaron a un paro de hasta setenta y dos horas desde el treinta de septiembre, que se levantaría si el Gobierno otorga el aumento salarial previsto.\n\nEn consumo, construcción y retail, los concesionarios de autos redujeron personal por la caída de ventas y la baja rentabilidad del sector, que históricamente funciona como termómetro de la actividad económica. Para quienes piensan en una casa modular, los expertos recomiendan revisar bien el terreno, la cimentación, el transporte y las conexiones antes de comprar, porque ahí suelen aparecer los costos ocultos. Y un exarquero de las inferiores de Boca cuenta cómo, después de dejar el fútbol a los veintiún años, terminó al frente de una empresa de venta de autos premium.\n\nEn el mundo, Donald Trump resumió ante la Asamblea General de la ONU su prioridad en Venezuela con una frase contundente sobre el petróleo, mientras Delcy Rodríguez consolidaba su reinserción internacional y se liberaban decenas de presos políticos tras nuevas negociaciones. En Brasil, el voto femenino aparece como decisivo en una disputa muy ajustada entre Lula da Silva y Flávio Bolsonaro de cara a las elecciones del cuatro de octubre. También se viralizó un encuentro entre el alcalde de Nueva York, Zohran Mamdani, y el presidente español Pedro Sánchez, mientras en Madrid una multitud acampa contra el desalojo de una mujer de ochenta y siete años, en medio de la crisis de la vivienda española. Y Estados Unidos celebró que el aislamiento económico a Irán, según el secretario del Tesoro Scott Bessent, ya está dando resultados, con el rial iraní en mínimos históricos.\n\nLe Grand Continent analiza esta semana dos frentes: por un lado, la producción de petróleo rusa caerá en dos mil veintiséis a su nivel más bajo desde dos mil nueve, según cifras oficiales de Moscú; por otro lado, publica el texto completo del discurso de Pedro Sánchez ante la ONU, en el que denunció un intento coordinado de demolición del orden multilateral y propuso eliminar el derecho de veto en el Consejo de Seguridad.\n\nEn deportes, Rosario Central se consagró campeón de la Supercopa Internacional al vencer tres a uno a Estudiantes, en una final que terminó con un penal muy discutido y agresiones entre jugadores en el túnel hacia los vestuarios. Esta tarde, Boca visita a Racing por la Copa Argentina con la obligación de cortar una racha adversa en los últimos cruces directos. Argentina terminó segunda en el medallero de los Juegos Suramericanos de Santa Fe, con ochenta y una medallas doradas, ochenta y siete plateadas y ciento veinticinco de bronce, apenas detrás de Brasil. La Sub diecisiete convocó al delantero de la Juventus Mateo Santa María para la Vertex Cup en Londres, la australiana Kimberly Birrell se coronó campeona en Seúl y el español Iker Lecuona aplazó el título mundial de Bulega en Superbike al ganarle la Superpole en Cremona. Como dato curioso, Tom Cruise recibió una camiseta de Gimnasia y Esgrima La Plata durante la presentación de su nueva película en México.\n\nPara cerrar, en turismo, las termas de Entre Ríos ofrecen esta primavera un descuento del sesenta por ciento para jubilados, a solo tres horas y media de viaje. Y quienes piensan en un destino internacional pueden aprovechar que dos mil veintiséis es un buen año para viajar a Japón, con el yen débil y los precios en mínimos históricos para el turista extranjero.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent solo publicó dos notas en esta corrida (por debajo del rango habitual de tres a cinco); se incluyeron ambas igualmente. La sección Management y finanzas corporativas se omitió: el feed de iProfesional trajo una sola nota de esa categoría (errores en proyectos de IA), que se incorporó a Negocios y empresas. No se encontró en el material de esta corrida ninguna novedad de Franco Colapinto ni de Club Atlético Tigre, por lo que no se los menciona. Todas las fuentes respondieron correctamente.",
+ "slug": "2026-09-27-manana",
+ "generado_ba": "27/09/2026 10:17"
+}
