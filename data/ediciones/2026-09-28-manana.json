@@ -1,0 +1,940 @@
+{
+ "fecha": "2026-09-28",
+ "edicion": "manana",
+ "titulo": "Riesgo país arriba de 600 puntos y señales de recesión técnica en la Argentina",
+ "apertura": "El riesgo país volvió a superar los 600 puntos y el Gobierno debió suspender la colocación de bonos por US$ 5.000 millones prevista para pagar deuda en 2027, mientras JP Morgan recortó a 1,5% su proyección de crecimiento para el año tras la caída de 2,9% de la actividad en julio. En paralelo, la Justicia avanza en dos frentes sensibles para el oficialismo: el 2 de octubre arrancan las indagatorias por el Vacunatorio VIP y el fiscal Pollicita busca corroborar el patrimonio de Manuel Adorni. En el plano internacional, el petróleo se disparó por la tensión entre Estados Unidos e Irán, y Boca clasificó a semifinales de la Copa Argentina con un triplete de Enner Valencia en un partido marcado por incidentes.",
+ "claves": [
+  "El riesgo país superó los 600 puntos y el Gobierno evalúa nuevas vías para pagar deuda en 2027 ante el freno en la colocación de bonos.",
+  "El EMAE de julio cayó 2,9% mensual y JP Morgan recortó a 1,5% su proyección de crecimiento para 2026.",
+  "Arrancan el 2 de octubre las indagatorias por el Vacunatorio VIP, con Duhalde, Valdés, Taiana y Verbitsky entre los citados.",
+  "La Justicia avanza contra Manuel Adorni por presunto enriquecimiento ilícito y pedirá abrir el sobre lacrado con sus claves cripto.",
+  "El Gobierno extendió hasta 2049 la concesión de Aeropuertos Argentina, con inversiones comprometidas por US$ 600 millones.",
+  "Desde noviembre los empleadores deberán aportar al nuevo Fondo de Asistencia Laboral (FAL), salvo construcción y casas particulares.",
+  "Boca clasificó a semifinales de la Copa Argentina con un triplete de cabeza de Enner Valencia ante Racing, en un partido con incidentes en las tribunas.",
+  "La guerra entre Estados Unidos, Israel e Irán entra en su octavo mes sin salida diplomática a la vista, según Le Grand Continent."
+ ],
+ "cifras": [
+  {
+   "nombre": "EMAE (actividad económica), julio",
+   "valor": "-2,9% mensual",
+   "variacion": "-1,4% interanual",
+   "fuente": "CR-04"
+  },
+  {
+   "nombre": "Proyección de crecimiento 2026 (JP Morgan)",
+   "valor": "1,5%",
+   "variacion": "recortada desde 2,7%",
+   "fuente": "AM-23"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 107,51 por barril",
+   "variacion": "+3,1%",
+   "fuente": "IB-20"
+  },
+  {
+   "nombre": "Pagos con QR, agosto",
+   "valor": "$ 2,9 billones por mes",
+   "variacion": "+67,5% interanual",
+   "fuente": "AM-22"
+  },
+  {
+   "nombre": "Bono previsional de octubre",
+   "valor": "hasta $ 70.000",
+   "fuente": "LN-06"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "Milei explicó por qué la Quinta de Olivos ahora funciona como base militar",
+     "resumen": "El presidente Javier Milei confirmó que la residencia presidencial \"opera hoy como una base militar\" y atribuyó la decisión a razones de seguridad, al señalar que tiene \"enemigos pesados\" a nivel internacional. La definición surgió en una entrevista con LN+, en la que también habló sobre la disolución de la administración civil de la Quinta de Olivos.",
+     "relacionadas": [
+      {
+       "id": "LN-02",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Javier Milei y sus medidas, EN VIVO: “Tengo algunos enemigos muy pesados acá y en el mundo”, dijo el Presidente",
+       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tengo-algunos-enemigos-muy-pesados-aca-y-en-el-mundo-dijo-el-nid28092026/"
+      },
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las definiciones de Javier Milei: del riesgo país, el dólar y la pobreza a Patricia Bullrich, León XIV y Axel Kicillof",
+       "url": "https://www.ambito.com/politica/las-definiciones-javier-milei-del-riesgo-pais-el-dolar-y-la-pobreza-patricia-bullrich-leon-xiv-y-axel-kicillof-n6327297"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/28/milei-hablo-de-los-cambios-en-la-quinta-de-olivos-es-una-casa-militar-tengo-enemigos-pesados-en-el-mundo/",
+     "imagen": "https://www.infobae.com/resizer/v2/2Z6KBRKWANE7DICIOSX5P2QKEI.jpg?auth=8ab21e3170177819bba845d2c04259953cb822e24752caf411182b1bbeef6ff4&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:40",
+     "autor": "",
+     "titulo_original": "Milei habló de los cambios en la Quinta de Olivos: “Hoy es una base militar, tengo enemigos pesados en el mundo”"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "la oposición presiona al oficialismo con la morosidad de las familias en Diputados",
+     "resumen": "Este martes el oficialismo buscará un dictamen de mayoría propio sobre el proyecto de morosidad y endeudamiento familiar, en momentos en que la oposición usa el tema para golpear al Gobierno tras la crisis por la emergencia en discapacidad. Fuentes cercanas al tema citan que casi 6 millones de argentinos estarían alcanzados por la problemática.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/diputados-la-oposicion-busca-arrinconar-al-oficialismo-con-la-morosidad-y-el-gobierno-intenta-nid28092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NCAEQ7GX7ZHPNONFIKCT7YGJ7M.jpg?auth=fb25dc10e2bf5addc3fc8e5697454f253aa56c72e50349b562c25bb96f20be17&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "Delfina Galarza",
+     "titulo_original": "Diputados: la oposición busca arrinconar al oficialismo con la morosidad y el Gobierno intenta desactivar un nuevo frente"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "arrancan las indagatorias por el Vacunatorio VIP del gobierno de Alberto Fernández",
+     "resumen": "Desde el 2 de octubre comenzarán a declarar ante la jueza María Eugenia Capuchetti los convocados a indagatoria por el caso del Vacunatorio VIP durante la pandemia. Entre los citados figuran el expresidente Eduardo Duhalde, el diputado Eduardo Valdés, el excanciller Jorge Taiana y el periodista Horacio Verbitsky.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/arrancan-indagatorias-acusados-vacunatorio-vip-gobierno-alberto-fernandez_0_hI4aEosj0E.html",
+     "imagen": "https://www.clarin.com/img/2024/01/11/JzFj38nrt_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Arrancan las indagatorias a los acusados por el Vacunatorio VIP del gobierno de Alberto Fernández"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "la Justicia busca corroborar las explicaciones de Adorni sobre sus bienes y criptomonedas",
+     "resumen": "El fiscal Gerardo Pollicita prepara una batería de medidas para poner a prueba la justificación patrimonial del exjefe de Gabinete Manuel Adorni, investigado por presunto enriquecimiento ilícito. Entre los pasos previstos figura un pedido al juez Ariel Lijo para abrir un sobre lacrado con las claves de las cuentas en criptomonedas que aportó el propio Adorni.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-justicia-prepara-medidas-para-contrastar-las-explicaciones-de-adorni-sobre-sus-bienes-y-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XQ5IRWJ6BRCMVDMXGH7U2643BA.JPG?auth=571c6f445240a09afd9f326431e97bf59093f3be06f90f4cd1f641bfa9f08a8b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:06",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "La Justicia prepara medidas para contrastar las explicaciones de Adorni sobre sus bienes y billeteras virtuales"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "piden la detención de Diego Spagnuolo por nuevos informes sobre compras de ANDIS",
+     "resumen": "Un abogado denunciante reclamó al juez Ariel Lijo que ordene la detención inmediata del ex titular de la Agencia Nacional de Discapacidad. Según la presentación, nuevos informes sobre sobreprecios, pagos duplicados y productos distintos de los adjudicados profundizan la hipótesis investigada y generan riesgo de fuga.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/piden-detener-diego-spagnuolo-los-nuevos-informes-las-compras-andis-n6327311",
+     "imagen": "https://media.ambito.com/p/b3b5044f49467daecf18de34adc78cdb/adjuntos/239/imagenes/042/759/0042759781/diego-spagnuolo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:28",
+     "autor": "",
+     "titulo_original": "Piden detener a Diego Spagnuolo por los nuevos informes sobre las compras de ANDIS"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "la reforma política también distancia a Bullrich del Gobierno",
+     "resumen": "La senadora Patricia Bullrich se quejó de que el oficialismo no la consulta sobre la reforma política y afirmó que \"juegan a las escondidas\". Las diferencias con el mileísmo se extienden a otras decisiones y abren interrogantes sobre una eventual ruptura de cara a 2027.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/reforma-politica-distancia-bullrich-gobierno-dice-consultan-juegan-escondidas_0_PQXW3qPrp7.html",
+     "imagen": "https://www.clarin.com/img/2026/09/27/wxcIJ6vWl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La reforma política también distancia a Bullrich del Gobierno: dice que no la consultan y que \"juegan a las escondidas\""
+    },
+    {
+     "id": "LN-17",
+     "titulo": "los gobernadores piden precisiones sobre los fondos del Presupuesto 2027",
+     "resumen": "Las provincias reclaman a la Casa Rosada saber cuánto dinero recibirán el año próximo, bajo qué mecanismos y qué partidas quedarán garantizadas por ley, en medio de la negociación por la reforma electoral y el presupuesto 2027. Los mandatarios provinciales coincidirán en el CFI para buscar puntos en común.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/presupuesto-2027-los-gobernadores-buscan-precisiones-en-la-negociacion-con-la-casa-rosada-por-los-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TH7JO5JA7ZATZA4JSQY3HEOYMM.jpg?auth=33ce06277815c5ea398c6986184b54d8df2c47fff7e93973d7a6feb8a8eecf8c&smart=true&width=900&height=556",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:25",
+     "autor": "Gabriela Origlia",
+     "titulo_original": "Presupuesto 2027: los gobernadores buscan precisiones en la negociación con la Casa Rosada por los fondos para el año electoral"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "julio confirmó la señal de recesión técnica que Milei niega",
+     "resumen": "El Estimador Mensual de Actividad Económica de julio mostró una caída de 2,9% respecto de junio, la mayor contracción mensual desde abril de 2020, y la variación interanual volvió a terreno negativo (-1,4%) por primera vez desde febrero. El ministro Luis Caputo atribuyó la debilidad a factores transitorios, como la escasez de gas y menos horas trabajadas por el Mundial. Para una empresa: la caída de julio anticipa un tercer trimestre más débil en ventas y planificación de stock.",
+     "relacionadas": [
+      {
+       "id": "CR-03",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Entre la recesión y el superávit: la disyuntiva que enfrenta el Gobierno ante el estancamiento de la actividad",
+       "url": "https://www.cronista.com/economia-politica/entre-la-recesion-y-el-superavit-la-disyuntiva-que-enfrenta-el-gobierno-ante-el-estancamiento-de-la-actividad/"
+      },
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "A un paso de la recesión: los números del INDEC desmienten el relato oficial de crecimiento",
+       "url": "https://www.ambito.com/economia/a-un-paso-la-recesion-los-numeros-del-indec-desmienten-el-relato-oficial-crecimiento-n6327240"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/hay-recesion-tecnica-milei-la-niega-pero-hay-nuevos-datos-que-no-son-alentadores/",
+     "imagen": "https://www.cronista.com/resizer/v2/TQOZAQROHFFUNETL4Y4XQUAPVQ.jpg?auth=052b00fc82e5d314ded916f892fcbd8964485e131491f16bdfafc95bf54a49b0&smart=true&width=900&height=648",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "¿Hay recesión técnica? Milei la niega pero hay nuevos datos que no son alentadores"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "JP Morgan recortó a 1,5% su proyección de crecimiento para 2026",
+     "resumen": "El banco de Wall Street redujo su estimación de crecimiento para la Argentina de 2,7% a 1,5% tras el desplome de la actividad de julio, que superó ampliamente sus previsiones, y anticipó una recesión técnica en el tercer trimestre. Para 2027 el banco prevé que el consumo privado crezca apenas 0,4%, muy por debajo del 3,4% que proyecta el Gobierno en el Presupuesto.",
+     "relacionadas": [
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "J.P. Morgan recortó su proyección de crecimiento para el país durante 2026",
+       "url": "https://www.iprofesional.com/economia/465345-j-p-morgan-recorto-su-proyeccion-de-crecimiento-para-el-pais-durante-2026"
+      },
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "JP Morgan proyectó recesión en el tercer trimestre y puso en duda el repunte del consumo que espera el Gobierno en 2027",
+       "url": "https://www.lanacion.com.ar/economia/jp-morgan-proyecto-recesion-en-el-tercer-trimestre-y-puso-en-duda-el-repunte-del-consumo-que-espera-nid27092026/"
+      },
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "JP Morgan recorta sus previsiones para la Argentina: cuál es su diagnóstico del Gobierno",
+       "url": "https://www.cronista.com/economia-politica/jp-morgan-recorta-sus-previsiones-para-la-argentina-cual-es-su-diagnostico-del-gobierno/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/jp-morgan-recorto-fuerte-su-proyeccion-actividad-economica-argentina-y-anticipo-una-recesion-el-tercer-trimestre-n6327194",
+     "imagen": "https://media.ambito.com/p/fce40973fc991f7ce27e4bd9d6281109/adjuntos/239/imagenes/043/429/0043429946/1200x675/smart/industria-argentina-manufactura.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:17",
+     "autor": "",
+     "titulo_original": "J.P. Morgan recortó fuerte su proyección de actividad económica para Argentina y anticipó una recesión en el tercer trimestre"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Wall Street exige cambios al plan económico mientras el riesgo país perfora los 600 puntos",
+     "resumen": "Desde el FMI hasta economistas cercanos a la ortodoxia oficial reclaman una dosis de flexibilidad monetaria y cambiaria, en momentos en que el riesgo país superó el umbral de los 600 puntos. Para una empresa: un riesgo país más alto encarece el financiamiento externo y presiona sobre el costo del crédito en dólares.",
+     "relacionadas": [
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Riesgo país arriba de 600: ¿qué está pasando con los bonos argentinos?",
+       "url": "https://www.ambito.com/opiniones/riesgo-pais-arriba-600-que-esta-pasando-los-bonos-argentinos-n6327272"
+      },
+      {
+       "id": "CL-08",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El precio del dólar y las compras de reservas, en la lupa de los inversores esta semana",
+       "url": "https://www.clarin.com/economia/precio-dolar-compras-reservas-lupa-inversores-semana_0_bYk3zHSJev.html"
+      }
+     ],
+     "url": "https://www.iprofesional.com/economia/465301-que-cambios-le-exige-wall-street-al-pan-caputo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/04/595335.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Wall Street exige cambios al pan Caputo y el riesgo país perfora el techo de 600 puntos"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "por la suba del riesgo país, el Gobierno busca otras fuentes para pagar la deuda de 2027",
+     "resumen": "Economía tuvo que suspender el plan de colocar US$ 5.000 millones en bonos en el mercado local por las altas tasas exigidas por los inversores. Ante ese escenario, el Banco Central deberá comprar más reservas o buscar dólares por otras vías para afrontar los vencimientos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/suba-riesgo-pais-gobierno-explora-fuentes-pagar-deuda-2027_0_cGVacIBkVK.html",
+     "imagen": "https://www.clarin.com/img/2026/09/24/1Z1Hj7FmL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Por la suba del riesgo país, el Gobierno explora otras fuentes para pagar la deuda en 2027"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "el petróleo se disparó tras el rechazo de Trump a la propuesta iraní sobre el estrecho de Ormuz",
+     "resumen": "El Brent avanzó 3,1% hasta los 107,51 dólares por barril y el West Texas Intermediate subió 2,1% hasta los 94,32 dólares, después de que Trump rechazara una tregua de siete días propuesta por Irán para reabrir el estrecho de Ormuz, ruta clave para el transporte marítimo de hidrocarburos. Para una empresa: una suba sostenida del petróleo impacta en costos de logística, fletes y energía.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/28/el-precio-del-petroleo-se-dispara-tras-el-rechazo-de-trump-a-la-propuesta-del-regimen-de-iran-para-reabrir-el-estrecho-de-ormuz/",
+     "imagen": "https://www.infobae.com/resizer/v2/MCWJZYKKURHS7KE2DRV4LXWVGA.JPG?auth=51e74cb79fb9fced92dfbb9e5c25cc02b5c3e37078aa5f5981080d14df1bfb6e&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:43",
+     "autor": "",
+     "titulo_original": "El precio del petróleo se dispara tras el rechazo de Trump a la propuesta del régimen de Irán para reabrir el estrecho de Ormuz"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "en Estados Unidos las tasas largas suben con fuerza aunque no hay crisis de deuda",
+     "resumen": "La tasa a diez años de Estados Unidos llegó a 5,22%, un nivel que no tocaba desde 2007, en un contexto de economía que crece con fuerza. El fenómeno tensiona a los mercados emergentes, entre ellos la Argentina, que compiten por financiamiento externo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/eeuu-tasas-largas-las-nubes-una-que-crece-al-rojo-vivo-n6327274",
+     "imagen": "https://media.ambito.com/p/1e6963dc07754adb427ce7e4940e9d49/adjuntos/239/imagenes/042/883/0042883173/1200x675/smart/scott-bessent.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "EEUU: las tasas largas suben por las nubes, pero no hay una crisis de deuda sino una economía que crece al rojo vivo"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "Milei cruzó a quienes piden un dólar más caro: \"quieren gente pobre y menos empleo\"",
+     "resumen": "El presidente defendió el esquema cambiario vigente al regresar de Nueva York, donde había hablado ante la Asamblea de la ONU, y sostuvo que \"la economía está teniendo cambios estructurales\" pese a la caída de 2,9% del EMAE de julio.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/milei-apunto-contra-quienes-piden-un-dolar-mas-caro-quieren-gente-pobre-y-menos-empleo/",
+     "imagen": "https://www.cronista.com/resizer/v2/DWKTTBGPE5GBNLIOC5VMVG6KYI.jpg?auth=353acbe3aaeae7a13e7bbd3411cd363fe2b2e0602c273c2773f5c19c4d02dcd9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:48",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Milei apuntó contra quienes piden un dólar más caro: “Quieren gente pobre y menos empleo”"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-16",
+     "titulo": "el Gobierno extendió la concesión de Aeropuertos Argentina hasta 2049",
+     "resumen": "Tras un proceso de negociación, el Gobierno y la empresa de Eduardo Eurnekian acordaron extender la concesión de 35 aeropuertos del país, que originalmente vencía en 2038, con posibilidad de prórroga hasta 2056. A cambio, la compañía deberá invertir US$ 600 millones, tres cuartas partes antes de 2031, sin aumentos de tarifas previstos por el acuerdo.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Extienden al menos hasta el 2049 la concesión de Aeropuertos Argentina",
+       "url": "https://www.clarin.com/economia/extienden-2049-concesion-aeropuertos-argentina_0_OqcAPUBst6.html"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/28/el-gobierno-y-aeropuertos-argentina-acordaron-extender-la-concesion-de-servicios-hasta-2049-se-esperan-inversiones-por-usd-600-millones/",
+     "imagen": "https://www.infobae.com/resizer/v2/MD54HZECPBDI5FW4N64QZOJYDI.jpg?auth=b944d945de9e2ba9245ac6e3f1b0f66e876e5737f0369b85796865250c81bdb2&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:24",
+     "autor": "",
+     "titulo_original": "El Gobierno y Aeropuertos Argentina acordaron extender la concesión de servicios hasta 2049: se esperan inversiones por USD 600 millones"
+    },
+    {
+     "id": "LN-03",
+     "titulo": "YPF proyecta llegar a un millón de barriles diarios por primera vez en la historia",
+     "resumen": "El CEO de YPF, Horacio Marín, respondió a declaraciones del exministro Alfonso Prat-Gay, quien había dicho que Vaca Muerta \"no derrama\" en Neuquén, y afirmó que la petrolera está en pleno crecimiento. Marín destacó el aumento de equipos de perforación desde diciembre y defendió el RIGI como herramienta clave para la expansión.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Rolando Figueroa cruzó a Alfonso Prat-Gay por Vaca Muerta: \"Veo que no has recorrido Neuquén\"",
+       "url": "https://www.ambito.com/politica/rolando-figueroa-cruzo-alfonso-prat-gay-vaca-muerta-veo-que-no-has-recorrido-neuquen-n6327207"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/lnmas/horacio-marin-ceo-de-ypf-la-produccion-de-petroleo-va-a-llegar-a-un-millon-de-barriles-por-primera-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/G4JGN6IAPRAIZNZ7XCPKGDVWQ4.png?auth=9f8fdebbdd85b43bc1e2ad1ebfe9cc0bafa1506fb0c50c111920f9f6b108fee8&smart=true&width=731&height=507",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:40",
+     "autor": "",
+     "titulo_original": "Horacio Marín, CEO de YPF: “La producción de petróleo va a llegar a un millón de barriles por primera vez en la historia”"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "el Gobierno avanzó en la privatización de las participaciones de Enarsa",
+     "resumen": "El Ejecutivo autorizó la venta de las tenencias estatales de Energía Argentina S.A. en las centrales termoeléctricas Manuel Belgrano y José de San Martín, y en una etapa posterior la participación en la central Guillermo Brown, en el marco de la privatización prevista en la Ley de Bases. La operación se hará mediante licitaciones públicas de alcance nacional e internacional.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/09/28/iniciaron-un-nuevo-proceso-de-privatizacion-de-las-acciones-de-enarsa/",
+     "imagen": "https://www.infobae.com/resizer/v2/AXB2W6QYPFGSFMG2GVVGIFAA24.jpg?auth=bdf4bb9cc1affb9f56bd078b929dddb4d81439fad592ddbc730a0ec59af9eae8&smart=true&width=900&height=464",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:44",
+     "autor": "",
+     "titulo_original": "Iniciaron un nuevo proceso de privatización de las acciones de Enarsa"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "las exportaciones agroindustriales marcaron un récord en agosto",
+     "resumen": "Las ventas de productos argentinos al exterior llegaron a 135 mercados en todo el mundo y mostraron una suba de 10% interanual en volumen durante agosto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/465340-las-exportaciones-agroindustriales-marcaron-un-nuevo-record-en-agosto",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626448.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:25",
+     "autor": "",
+     "titulo_original": "Las exportaciones agroindustriales marcaron un nuevo récord en agosto"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "llegó al país una nueva marca china de motos con diseño vintage",
+     "resumen": "La firma Benda, fundada en 2016, desembarcó en la Argentina de la mano del Grupo La Emilia con dos modelos de media cilindrada, en un mercado de motos que crece mes a mes impulsado por los modelos de baja cilindrada.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/autos/traen-una-nueva-marca-china-de-motos-con-diseno-vintage-nid28092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KUH3P2RQ5FEYTGPZ5PXQ4JXQLE.png?auth=3ac3095f4a32377f38658c1cdf37db94cc48f37cd09d7d6bfaf1c11e4d9cb40c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:16",
+     "autor": "Fernando Torres Ullmer",
+     "titulo_original": "Traen una nueva marca china de motos con diseño vintage"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Milei encabezará en París un nuevo \"Argentina Week\" con CEOs de energía, minería y agro",
+     "resumen": "El evento de promoción de inversiones se desarrollará entre el martes 30 de septiembre y el viernes 2 de octubre, con una actividad central el jueves 1° de octubre en la sede de la OCDE. Participarán ministros, gobernadores y ejecutivos globales de sectores estratégicos para la Argentina.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/milei-encabezara-en-paris-un-nuevo-argentina-week-con-caputo-bausili-y-ceos-globales-de-energia-mineria-y-agro/",
+     "imagen": "https://www.cronista.com/resizer/v2/L5S4F3SWMBGANMCZYZPOEC5R6Q.jpg?auth=c46868f3ee115da901abc41ca53069d54e7e7cb638352a2f76e3a64fc21ea713&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:42",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Milei encabezará en París un nuevo “Argentina Week” con Caputo, Bausili y CEOs globales de energía, minería y agro"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-05",
+     "titulo": "cuántos planes de pago tomaron las empresas para regularizar deudas con ARCA",
+     "resumen": "La Agencia de Recaudación y Control Aduanero dispuso el 14 de julio un nuevo plan de facilidades de pago para regularizar obligaciones impositivas, aduaneras y previsionales vencidas hasta el 30 de junio, dirigido a micro, pequeñas y medianas empresas y a pequeños contribuyentes. El plazo para adherirse vence el 30 de octubre. Para una empresa: es una ventana concreta para regularizar deuda impositiva atrasada antes de que se sumen intereses y sanciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/deudas-con-arca-cuantos-planes-de-pago-tomaron-las-empresas-y-para-que-impuestos/",
+     "imagen": "https://www.cronista.com/resizer/v2/IM7QJTSJNBE5ZHFGJXU56AFQLI.jpg?auth=1d12d495fcac69d28c69259a6264ac2206c465bc2f889f7cce2b8212370a7d08&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "Deudas con ARCA: cuántos planes de pago tomaron las empresas y para qué impuestos"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "desde noviembre los empleadores deberán aportar al nuevo Fondo de Asistencia Laboral",
+     "resumen": "A partir del 1 de noviembre de 2026, los empleadores privados —con excepción de construcción y casas particulares— deberán aportar al FAL, que ayudará a financiar la salida de trabajadores pero no modifica el régimen de indemnizaciones ni exime al empleador de su responsabilidad. Para una empresa, especialmente una pyme, contar con fondos acumulados puede evitar una salida abrupta de caja ante una desvinculación, aunque el fondo no sustituye a la indemnización.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-fal-se-quedo-corto-ayuda-a-financiar-la-salida-pero-no-a-sostener-la-relacion-laboral/",
+     "imagen": "https://www.cronista.com/resizer/v2/L5GT7GQJ5ZGSNK2HU46OCWOX3Q.jpg?auth=59b91654b125b6be00201fadbddc6774c56cb9b5d72e17e7c2c817b1cd9861eb&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:16",
+     "autor": "Tomás Rigo",
+     "titulo_original": "El FAL se quedó corto: ayuda a financiar la salida, pero no a sostener la relación laboral"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "camioneros, plástico y otros gremios cerraron aumentos que llegan hasta 2027",
+     "resumen": "Gremios de peso como el de camioneros y el de trabajadores del plástico lograron cerrar paritarias durante septiembre con aumentos que se extienden hasta 2027. Para una empresa, estos acuerdos fijan un piso de referencia para la negociación salarial del resto de los sectores.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464919-paritarias-que-gremios-cerraron-aumentos-sueldo-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/02/549975.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Camioneros, plástico y otros gremios cerraron aumentos que llegan hasta 2027"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "el Gobierno oficializó el feriado del 9 de noviembre por la visita del papa León XIV",
+     "resumen": "Mediante el Decreto de Necesidad y Urgencia 1103/2026, el Gobierno estableció el lunes 9 de noviembre como feriado nacional, con el martes 10 feriado en Córdoba y la Ciudad de Buenos Aires, y el miércoles 11 en la provincia de Buenos Aires. En esos distritos el fin de semana largo se extenderá del sábado 7 al martes 10 de noviembre. Para una empresa: implica planificar turnos y liquidación de haberes con un fin de semana largo adicional en noviembre.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El Gobierno oficializó el feriado del 9 de noviembre por la visita del papa León XIV",
+       "url": "https://www.lanacion.com.ar/sociedad/el-gobierno-oficializo-el-feriado-del-9-de-noviembre-por-la-visita-del-papa-leon-xiv-nid28092026/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-oficializo-el-feriado-del-9-de-noviembre-por-la-visita-del-papa-leon-xiv-que-pasara-el-10-y-el-11/",
+     "imagen": "https://www.cronista.com/resizer/v2/FPY5IHG7LFGZFDJDTTI6T3BJF4.jpg?auth=02e9fb9037be115dd91dbe6bb8973d18b939150519c14f17ae6caad1ceb0aa47&smart=true&width=800&height=533",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:07",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El Gobierno oficializó el feriado del 9 de noviembre por la visita del papa León XIV: qué pasará el 10 y el 11"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "el Gobierno confirmó el bono previsional de octubre para jubilados",
+     "resumen": "A través del Decreto 1108/2026, el Gobierno oficializó un bono de hasta $ 70.000 para jubilados, pensionados y titulares de otras prestaciones de la Anses que, por la suma de sus haberes, perciban un monto menor o igual al mínimo previsional garantizado. La medida fue firmada por Milei, Diego Santilli y Sandra Pettovello.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-confirmo-el-bono-previsional-de-octubre-para-jubilados-y-pensionados-nid28092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HIOFVKXR65HE7IFWGMISROHMNE.png?auth=bf0414b59dc34ecd87eebb3d54d57d3cd378ddb531dc46298c9f8a9c2c054445&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:32",
+     "autor": "",
+     "titulo_original": "El Gobierno confirmó el bono previsional de octubre para jubilados y pensionados"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "cerró la juguetería Tío Mario en medio de la caída de ventas del sector",
+     "resumen": "La marca anunció el cierre por redes sociales y el sábado fue su último día de operaciones. En la primera mitad del año las ventas del rubro cayeron 10%, las fábricas operan al 30% de su capacidad y en los últimos dos años cerraron más de 300 jugueterías en el país. Para una empresa de retail, el caso ilustra cómo la combinación de menor consumo y mayor ingreso de importados golpea a los comercios de cercanía.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/cerro-jugueteria-tio-mario-medio-caida-ventas-sector-mayor-ingreso-importados_0_ZQQL97lZgs.html",
+     "imagen": "https://www.clarin.com/img/2026/09/27/ZvUQZreHg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cerró la juguetería Tío Mario, en medio de la caída de ventas del sector y el mayor ingreso de importados"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "los pagos con QR crecieron casi 70% en un año y movieron $ 2,9 billones por mes",
+     "resumen": "En agosto se realizaron 117,2 millones de operaciones con códigos QR interoperables, un 67,5% más que un año atrás, según datos del BCRA. El crecimiento contrasta con la caída en el uso de tarjetas de débito y crédito. Para una empresa de retail, la adopción del QR reduce costos de procesamiento frente a las tarjetas y acelera la digitalización del punto de venta.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-boom-los-pagos-qr-crecieron-casi-70-un-ano-y-movieron-29-billones-mes-n6327202",
+     "imagen": "https://media.ambito.com/p/4bb7dc93baabf6be31640e6b59d0f531/adjuntos/239/imagenes/043/246/0043246760/pago-nfc-banco-provincia-cuenta-dni.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:44",
+     "autor": "",
+     "titulo_original": "El boom de los pagos con QR: crecieron casi 70% en un año y movieron $2,9 billones por mes"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "cuánto cuesta el Muse Charm, el dispositivo de bolsillo de Meta con inteligencia artificial",
+     "resumen": "Meta presentó un pequeño dispositivo pensado para llevar su inteligencia artificial en el bolsillo y usarla sin depender del teléfono celular, comparado por su formato con un Tamagotchi.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/cuanto-sale-el-muse-charm-el-tamagotchi-mark-zuckerberg-n6326739",
+     "imagen": "https://media.ambito.com/p/22167fae1efe77163d9387397a6e087a/adjuntos/239/imagenes/043/664/0043664939/1200x675/771x224:791x244/muse-charm-meta.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "¿Cuánto sale el Muse Charm, el \"Tamagotchi\" de Mark Zuckerberg?"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "las claves del modelo Fleni: por qué la excelencia médica también necesita un buen plan de negocios",
+     "resumen": "Claudio Pensa, médico cardiólogo con vocación de gestión, ingresó al Fleni a fines de 1999 para sumar el servicio de cardiología a la institución neurológica. Según su propio relato, uno de los mayores errores de la historia del instituto fue el intento de reconvertirse en hospital polivalente, un ensayo que duró dos o tres años antes de volver al foco original.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/las-claves-del-modelo-fleni-por-que-la-excelencia-medica-tambien-necesita-un-buen-plan-de-negocios/",
+     "imagen": "https://www.cronista.com/resizer/v2/AZDMEN3PVZDALHS4ZIUUAC7UPY.JPG?auth=9055b30bf14ae06b96c2fe460fab0116a769620452e35f75e09cfb016f78b27c&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:00",
+     "autor": "Juliana Monferrán",
+     "titulo_original": "Las claves del modelo Fleni: por qué la excelencia médica también necesita un buen plan de negocios"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "la ejecutiva que convirtió a la Argentina en la base regional de la dueña de M&M's y Pedigree",
+     "resumen": "Magdalena Ferreira Lamas volvió al país en 2024 como gerente general de Mars South Latam, tras liderar operaciones en Bolivia, Perú, Colombia y México. La compañía la convocó para integrar las operaciones de Cono Sur en uno de los mayores procesos de transformación regional de la empresa, dueña de marcas como M&M's, Snickers, Pedigree y Whiskas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-nueva-apuesta-de-la-duena-de-mms-y-pedigree-que-convirtio-a-la-argentina-en-su-base-para-nueve-paises/",
+     "imagen": "https://www.cronista.com/resizer/v2/ECBQX4TWZFFWLELZZRWHJZDK2I.jpg?auth=66794bc92534be2c96767d78cdb5b93bfb588d73cf4d4b93666ad42985c232e9&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juliana Monferrán",
+     "titulo_original": "La nueva apuesta de la dueña de M&M’s y Pedigree que convirtió a la Argentina en su base para 9 países"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-04",
+     "titulo": "Reino Unido investiga un posible vínculo de Irán en un plan de ataque a una base militar",
+     "resumen": "La policía británica investiga un presunto complot contra una base usada por Estados Unidos, con cinco detenidos cerca del sitio en Inglaterra. Trump dijo estar al tanto de los sospechosos y prometió novedades; la base había sido autorizada para operaciones contra misiles iraníes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/policia-britanica-investiga-un-posible-vinculo-de-iran-en-plan-de-ataque-a-base-militar_0_7uQjQsMFpY.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Policía británica investiga un posible vínculo de Irán en plan de ataque a base militar"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "qué se vota en las elecciones de Brasil 2026",
+     "resumen": "Los brasileños elegirán presidente, gobernadores, senadores y diputados en los comicios de este año. La nota repasa cómo será la votación y qué cargos se renuevan.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/elecciones-brasil-2026-vota_0_D1c8iRIvdt.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/k7-H4XJ2q_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones en Brasil 2026: que se vota"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "rige desde este lunes la prohibición de Lula a las apuestas online en Brasil",
+     "resumen": "El presidente brasileño dijo que la medida busca ayudar a las familias endeudadas, a días de las elecciones presidenciales del 4 de octubre. La prohibición implica una poda a los ingresos publicitarios de los clubes de fútbol, aunque cuenta con 75% de aprobación popular.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/brasil-prohibicion-lula-apuestas-online-rige-lunes-fuertes-criticas-mundo-futbol-apoyo-poblacion_0_5o0pD1rqEh.html",
+     "imagen": "https://www.clarin.com/img/2026/09/27/vXWikDffH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Brasil: la prohibición de Lula de las apuestas online rige desde este lunes entre fuertes críticas del mundo del fútbol y apoyo de la población"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Bangkok declaró el estado de desastre por una inundación histórica",
+     "resumen": "Cayeron 300 milímetros de lluvia en 48 horas y hay más de 5.000 evacuados, con un cálculo de más de 50.000 familias afectadas. Las clases fueron canceladas y las autoridades pidieron a la población permanecer en sus casas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/devastadora-inundacion-bangkok-declaran-estado-desastre-300-milimetros-caidos-48-horas-5000-evacuados_0_gZQyVaPsXN.html",
+     "imagen": "https://www.clarin.com/img/2026/09/27/cBBB5qVS0_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Devastadora inundación en Bangkok: declaran estado de desastre por los 300 milímetros caídos en 48 horas y hay más 5.000 evacuados"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "el ministro de Defensa de Chile apoyó el reclamo argentino por Malvinas pero defendió la autodeterminación de los isleños",
+     "resumen": "Fernando Barros Tocornal dijo que Chile apoya la pretensión de soberanía argentina, pero remarcó que el Reino Unido ejerce soberanía sobre las islas hace 200 años y que debe respetarse \"la voluntad\" de los kelpers. La declaración llega dos días antes de que Diputados comience a discutir un proyecto para reforzar sanciones vinculadas al tema.",
+     "relacionadas": [
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Malvinas: el ministro de Defensa de Kast respaldó la autodeterminación de los isleños y su relación comercial con Chile",
+       "url": "https://www.lanacion.com.ar/politica/malvinas-el-ministro-de-defensa-de-kast-respaldo-la-autodeterminacion-de-los-islenos-y-su-relacion-nid27092026/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/28/malvinas-el-ministro-de-defensa-de-chile-apoyo-a-la-argentina-pero-defendio-el-comercio-de-su-pais-con-los-islenos/",
+     "imagen": "https://www.infobae.com/resizer/v2/GGYD4U5TKBAOBNYQZ7TCVYPXDA.jpg?auth=cb8a314eaef2198b51e4242404686119315fb32ce790b79b7c5245f1f95f93e4&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:05",
+     "autor": "",
+     "titulo_original": "Malvinas: el ministro de Defensa de Chile apoyó a la Argentina, pero defendió la autodeterminación de los isleños"
+    },
+    {
+     "id": "IB-02",
+     "titulo": "continúa en Madrid la acampada por el decreto de vivienda que negocia el Gobierno español",
+     "resumen": "Cientos de personas acampan desde el sábado en la Puerta del Sol para exigir un decreto que termine con los desahucios sin alternativa habitacional, congele el IPC de los alquileres y ponga límites a los pisos turísticos. El Sindicato de Inquilinas advirtió que la protesta \"escalará\" si el Consejo de Ministros no aprueba la norma este martes.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El dueño de Urbagestión dice que Maricarmen seguramante seguiría en su casa sin la actuación del sindicato de inquilinas",
+       "url": "https://www.infobae.com/espana/agencias/2026/09/28/el-dueno-de-urbagestion-dice-que-maricarmen-seguramante-seguiria-en-su-casa-sin-la-actuacion-del-sindicato-de-inquilinas/"
+      },
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Mónica García responde a Ayuso que \"el único desahucio\" que aceptarán será \"el del ático de 6 millones\"",
+       "url": "https://www.infobae.com/espana/agencias/2026/09/28/monica-garcia-responde-a-ayuso-que-el-unico-desahucio-que-aceptaran-sera-el-del-atico-de-6-millones/"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/2026/09/28/ultima-hora-de-la-acampada-en-la-puerta-del-sol-el-decreto-maricarmen-de-vivienda-y-las-protestas-contra-pedro-sanchez-en-directo/",
+     "imagen": "https://www.infobae.com/resizer/v2/EFWL7FNN25HL3O2WBU2KEWQLU4.JPG?auth=e0be7b3d004d72ed39fc71987815e109c515bc20243e90b9dc7c06bf7398f3e6&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:04",
+     "autor": "Alberto López Marín",
+     "titulo_original": "Acampada en Sol y última hora sobre el decreto Maricarmen, en directo | Ayuso: “Que me avisen a partir de qué edad dejo de pagar a mis caseros”"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza la guerra en Irán y el estado de los contrapesos institucionales en Estados Unidos.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "la guerra entre Estados Unidos, Israel e Irán entra en su octavo mes",
+     "resumen": "La revista señala que no se vislumbra una solución diplomática antes de las elecciones de mitad de mandato en Estados Unidos, que podrían significar una derrota republicana en ambas cámaras del Congreso. Trump rechazó este fin de semana una propuesta iraní para poner fin al conflicto, aunque no descartó nuevas conversaciones con Teherán esta semana.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/28/guerra-en-iran-entra-en-su-octavo-mes/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "05:58",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La guerra en Irán entra en su octavo mes"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Estados Unidos aún no ha cedido ante Trump",
+     "resumen": "La revista analiza que, pese a la imagen de poder ilimitado que proyecta Donald Trump, decisiones recientes de la Corte Suprema y de la Reserva Federal muestran que los contrapoderes institucionales siguen funcionando en Estados Unidos, a más de seiscientos días de su segundo mandato.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/09/28/estados-unidos-aun-no-ha-cecido-ante-trump/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "05:45",
+     "autor": "Louis Puel",
+     "titulo_original": "Estados Unidos aún no ha cedido ante Trump"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-14",
+     "titulo": "Enner Valencia protagonizó una remontada histórica y clasificó a Boca a semifinales de la Copa Argentina",
+     "resumen": "Boca le ganó 3-2 a Racing, que se ponía arriba por dos goles, con un cierre de partido en el que Enner Valencia convirtió los tres tantos de cabeza del Xeneize. El ecuatoriano se transformó en el quinto jugador en la historia de Boca en marcar tres goles de cabeza en un partido.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Enner Valencia ingresó a un selecto club, tras ser el héroe de la clasificación de Boca en la Copa Argentina: \"Esta actuación la ubico entre los primeros lugares de mi carrera\"",
+       "url": "https://www.clarin.com/deportes/enner-valencia-ingreso-selecto-club-heroe-clasificacion-boca-copa-argentina-actuacion-ubico-primeros-lugares-carrera_0_69mkys0w6a.html"
+      },
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Incidentes en el ingreso de los hinchas de Boca al estadio Gigante de Arroyito",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/incidentes-en-el-ingreso-de-los-hinchas-de-boca-al-estadio-gigante-de-arroyito-nid27092026/"
+      },
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Caos y represión en la previa de Boca vs Racing: corridas, balas de goma y tensión en Rosario",
+       "url": "https://www.ambito.com/deportes/caos-y-represion-la-previa-boca-vs-racing-corridas-balas-goma-y-tension-rosario-n6327243"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "\"Pateá cerrado\": el hincha de Racing que le \"cantó\" el gol olímpico a Lodico frente a Boca",
+       "url": "https://www.ambito.com/deportes/patea-cerrado-el-hincha-racing-que-le-canto-el-gol-olimpico-lodico-frente-boca-n6327232"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/boca-vs-racing-la-copa-argentina-horario-tv-y-formaciones-confirmadas-n6327223",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:50",
+     "autor": "",
+     "titulo_original": "En una remontada histórica, Enner Valencia mandó de cabeza a Boca a las semifinales de la Copa Argentina"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "la AFA definirá esta semana las sanciones por el escándalo entre Rosario Central y Estudiantes",
+     "resumen": "Tras la final de la Supercopa Internacional, marcada por decisiones polémicas del árbitro Darío Herrera y una gresca luego del tercer gol de Rosario Central, la AFA comenzará a debatir sanciones para los jugadores involucrados y para Juan Sebastián Verón, presidente de Estudiantes, que bajó al campo de juego y trató de \"ladrón\" al árbitro. No existe jurisprudencia específica sobre el caso.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El escándalo entre Rosario Central y Estudiantes en el Madre de Ciudades: un capítulo más que desnuda la grieta en AFA",
+       "url": "https://www.clarin.com/deportes/escandalo-rosario-central-estudiantes-madre-ciudades-capitulo-desnuda-grieta-afa_0_miIWpopSWz.html"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Sebastián Verón tras la polémica derrota ante Rosario Central: apuntó contra la policía por agredir a hinchas",
+       "url": "https://www.ambito.com/deportes/sebastian-veron-la-polemica-derrota-rosario-central-apunto-contra-la-policia-agredir-hinchas-n6327218"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/que-hara-la-afa-con-las-sanciones-por-el-escandalo-entre-rosario-central-y-estudiantes-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CMP5UOVXF5HQRH7FCRRGOKDOEY.JPG?auth=658cb0c03b0d2094e048204c9e6a50cec31715e57a694c8dd20637bc2cbf8e0b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:41",
+     "autor": "Leandro Contento",
+     "titulo_original": "Qué hará la AFA con las sanciones por el escándalo entre Rosario Central y Estudiantes"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "tras la eliminación de Racing, ¿Marcos Rojo vuelve a Estudiantes?",
+     "resumen": "El defensor, protagonista de uno de los goles con los que Boca dio vuelta el partido ante Racing, recibió un llamado de Estudiantes, que podría avanzar por él tras la caída de Racing en Rosario.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/eliminacion-racing-marcos-rojo-vuelve-estudiantes_0_HkMr9dmlfh.html",
+     "imagen": "https://www.clarin.com/img/2026/09/27/5kOOfgbnQ9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras la eliminación de Racing, ¿Marcos Rojo vuelve a Estudiantes?"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Cristian Romero fue confirmado como el nuevo capitán de la Selección argentina",
+     "resumen": "Lionel Scaloni eligió al Cuti Romero como reemplazante de Lionel Messi en la cinta de capitán, de cara al partido despedida de Messi del 6 de octubre. El defensor ya había empezado a ejercer el rol de manera informal en la previa, según reconstruyó la nota.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/28/la-genesis-en-la-seleccion-del-cuti-romero-el-nuevo-capitan-argentino-su-referente-desconocido-y-el-golpe-que-lo-hizo-crecer/",
+     "imagen": "https://www.infobae.com/resizer/v2/GKDXKK5CEJAG5OYOSD5XK4S3TI.JPG?auth=61758ddc99c374a18fee2cce86f76d50b06d12b750979703cffd706442409de0&smart=true&width=900&height=621",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:09",
+     "autor": "Pablo Cavallero",
+     "titulo_original": "La génesis en la Selección del Cuti Romero, el nuevo capitán argentino: su referente desconocido y el golpe que lo hizo crecer"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "un outsider del mundo Boca aparece como candidato a la presidencia del club",
+     "resumen": "Carlos Abriata, nacido en Tartagal y con carrera en la industria del fútbol global, instaló afiches en la Ciudad, el Conurbano y el interior del país como primer gesto de una candidatura que hasta ahora se movía en voz baja. No tuvo cargos previos en la dirigencia de Boca ni pertenece a ninguna agrupación.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/28/carlos-abriata-el-outsider-del-mundo-boca-que-quiere-ser-presidente/",
+     "imagen": "https://www.infobae.com/resizer/v2/MQVO4SGPBNEPXJEOMDJSKIHGCU.jpeg?auth=a228796ec5d426d99f1ef41c7cc0c5db2a4a3cc7e72bd1dd6c17693ce4ee9c70&smart=true&width=900&height=719",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:58",
+     "autor": "",
+     "titulo_original": "Carlos Abriata, el outsider del mundo Boca que quiere ser presidente"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Giuliano Galoppo convirtió su primer gol en la MLS tras salir de River",
+     "resumen": "El mediocampista anotó en el empate 2-2 de Atlanta United, dirigido por Gerardo Martino, ante New York City FC, en apenas su segundo partido como titular en el nuevo equipo. Galoppo había sido uno de los quince futbolistas apartados por la dirigencia de River antes de salir a préstamo hasta mediados de 2027.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/primer-gol-de-giuliano-galoppo-en-la-mls-tras-irse-de-river-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TTGSG7Y35ZGEXDFL3KGBJHBD6U.JPG?auth=bae7e7d438ec3164f98e55205d4ab29cf28385f9adae53f85af7e324e7462524&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:47",
+     "autor": "",
+     "titulo_original": "Primer gol de Giuliano Galoppo en la MLS tras irse de River"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "la cordobesa que dejó la danza por el fútbol y llegó a la Selección argentina",
+     "resumen": "Denise García Rojo nació en Córdoba, se formó en Oviedo, España, y hoy es una de las caras visibles de las juveniles argentinas. Combina el fútbol con sus estudios de periodismo deportivo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/09/28/la-historia-de-denise-garcia-rojo-la-cordobesa-que-asistio-a-danza-con-botines-crecio-en-espana-y-llego-a-la-seleccion-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/ST3KYT4EE5HD3HWI7I7NA3JRSE.jpg?auth=02357386ad3efab2292b2d777890d096f65894aeec6c224016b7b1b8af898f21&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:58",
+     "autor": "Sofia Caballero",
+     "titulo_original": "La historia de Denise García Rojo, la cordobesa que asistió a danza con botines, creció en España y llegó a la selección argentina"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-06",
+     "titulo": "un hostel de Puerto Madryn busca voluntarios a cambio de alojamiento gratis",
+     "resumen": "El establecimiento ofrece alojamiento y desayuno durante 15 días a cambio de 24 horas semanales de trabajo para crear contenido sobre el destino patagónico.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/465164-puerto-madryn-buscan-voluntarios-para-vivir-gratis-y-crear-contenido",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2022/06/537942.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Buscan voluntarios para crear contenido y recibir alojamiento gratis en Puerto Madryn"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Labouiche, el río subterráneo que se recorre en barca en los Pirineos franceses",
+     "resumen": "A seis kilómetros de Foix, un circuito guiado de 1.500 metros permite navegar en barca por galerías situadas hasta 60 metros bajo tierra, dentro de un sistema cuya extensión explorada alcanza 3,8 kilómetros. El recorrido baja casi 200 escalones antes de llegar al curso de agua, que se mantiene a unos 13 grados durante todo el año.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/09/28/labouiche-como-es-el-rio-subterraneo-que-recorre-los-pirineos-franceses/",
+     "imagen": "https://www.infobae.com/resizer/v2/LPHIPRIR4VBCRPM6W3G4K75HNU.jpg?auth=f24d71f9a5290e22c9736f2758d5ac2a6fcf523275c90a7155045ae949f53116&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:00",
+     "autor": "Faustino Cuomo",
+     "titulo_original": "Labouiche: cómo es el río subterráneo que recorre los Pirineos franceses"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-09",
+     "titulo": "alerta amarilla por tormentas y posible granizo en gran parte del país",
+     "resumen": "El Servicio Meteorológico Nacional emitió alertas por tormentas y viento Zonda para este lunes en Catamarca, Chaco, Córdoba, Corrientes, Entre Ríos, Jujuy, La Pampa, La Rioja, Mendoza, Salta, San Luis, Santa Fe, Santiago del Estero y Tucumán, con posible caída de granizo en algunas localidades. En la Ciudad de Buenos Aires la máxima prevista es de 19 grados.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-posible-caida-de-granizo-para-este-lunes-28-de-septiembre-las-nid27092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XBDTZ6D2UNHZZMXVVAE4WPRIVE.png?auth=e8906522141e57f15cf78a3f8e8469ab4d49063ef471d9f0add250b0baf039a6&smart=true&width=900&height=579",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:15",
+     "autor": "",
+     "titulo_original": "Hay alerta amarilla por tormentas y posible caída de granizo para este lunes 28 de septiembre: las provincias afectadas"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "cuándo es el próximo feriado en la Argentina",
+     "resumen": "Tras un septiembre sin fechas de descanso nacional, el próximo feriado será el lunes 12 de octubre, uno de los trasladables del cronograma oficial. El último tramo del año incluye además feriados inamovibles y un día no laborable con fines turísticos entre octubre, noviembre y diciembre.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/09/28/calendario-2026-cuando-es-el-proximo-feriado-en-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/AXL7LMLFKRHBVJZW777FEDIZFA.jpg?auth=753d758b0aa787fb58716ca20e24549d19cb09be57ad65cd01bcb444133edf7b&smart=true&width=900&height=504",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:00",
+     "autor": "Constanza Almirón",
+     "titulo_original": "Calendario 2026: cuándo es el próximo feriado en Argentina"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Argentina cayó ocho puestos en el ranking mundial de brecha de género",
+     "resumen": "Según el Índice Global de Brecha de Género del Foro Económico Mundial, que mide a 145 países, Argentina sostiene la paridad en educación y se acerca en salud, pero la brecha se amplía en el mercado laboral y en los espacios de poder. En participación económica el país ocupa el puesto 107, con un puntaje de 0,660, la dimensión con mayor desigualdad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/argentina-cae-8-puestos-en-el-ranking-mundial-de-genero-la-mayor-brecha-se-da-en-el-trabajo-y-la-politica/",
+     "imagen": "https://www.cronista.com/resizer/v2/7VXOZLLIBBH2JOTJS4R6BF33KM.png?auth=d2791b9a1bdde3f07b2852e5752c4195c4fe3af68ace0e68c2775a34d59e938a&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:57",
+     "autor": "Kiara Calvert de Bohun",
+     "titulo_original": "Argentina cae 8 puestos en el ranking mundial de género: la mayor brecha se da en el trabajo y la política"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "buscan juntar diez mil ladrillos en siete días para renovar un pabellón del Hospital de Niños",
+     "resumen": "La cooperadora del hospital Gutiérrez lanzó la campaña \"Ladrillo + ladrillo\" para refaccionar un sector de 3.200 metros cuadrados por el que pasa casi la mitad de los chicos internados en la institución. Abel Pintos y otros artistas apadrinan la iniciativa, en la que cada ladrillo simbólico tiene un valor de 50.000 pesos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/mano-abel-pintos-buscan-juntar-10-mil-ladrillos-dias-renovar-pabellon-hospital-ninos_0_wdbyeOUMQm.html",
+     "imagen": "https://www.clarin.com/img/2026/09/27/b78CfvCIf_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "De la mano de Abel Pintos, buscan juntar 10 mil ladrillos en siete días para renovar un pabellón del Hospital de Niños"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del lunes 28 de septiembre. El dólar oficial cerró el viernes en mil quinientos cuarenta y cinco pesos y el dólar blue en mil quinientos sesenta pesos, mientras el riesgo país volvió a superar los seiscientos puntos. El Gobierno tuvo que suspender un plan para colocar cinco mil millones de dólares en bonos en el mercado local por las altas tasas que le exigían los inversores, y ahora evalúa otras vías para afrontar los vencimientos de deuda de dos mil veintisiete. A esto se suma que el Estimador Mensual de Actividad Económica de julio cayó dos coma nueve por ciento respecto de junio, la mayor contracción desde el inicio de la pandemia, lo que llevó al banco JP Morgan a recortar de dos coma siete a uno coma cinco por ciento su proyección de crecimiento para todo el año. El ministro Luis Caputo atribuyó la caída a factores transitorios, como la escasez de gas y las menores horas trabajadas durante el Mundial, pero el presidente Javier Milei debió salir a discutir públicamente el diagnóstico de recesión técnica. En política, la Cámara de Diputados vuelve a ser escenario de tensión: este martes el oficialismo buscará un dictamen propio sobre el proyecto de morosidad y endeudamiento familiar, un tema que la oposición usa para golpear al Gobierno tras la crisis por la emergencia en discapacidad. En la Justicia, arrancan el dos de octubre las indagatorias por el caso del Vacunatorio Vip, con el expresidente Eduardo Duhalde, el diputado Eduardo Valdés, el excanciller Jorge Taiana y el periodista Horacio Verbitsky entre los citados a declarar. También avanza la causa contra el exjefe de Gabinete Manuel Adorni: el fiscal Gerardo Pollicita pedirá al juez Ariel Lijo que autorice abrir un sobre lacrado con las claves de las cuentas en criptomonedas que el propio Adorni entregó a la Justicia. Además, un abogado denunciante pidió la detención del exdirector de la Agencia Nacional de Discapacidad, Diego Spagnuolo, luego de que nuevos informes revelaran sobreprecios y pagos duplicados en las compras del organismo. Y la senadora Patricia Bullrich profundizó sus diferencias con el Gobierno por la reforma política, al quejarse de que no la consultan sobre las decisiones. En economía y mercados, la tasa a diez años de Estados Unidos llegó a cinco coma veintidós por ciento, un nivel que no se veía desde dos mil siete, lo que presiona a los mercados emergentes, incluida la Argentina, en su búsqueda de financiamiento. El precio del petróleo también se disparó: el barril de Brent subió tres coma uno por ciento hasta los ciento siete dólares con cincuenta y un centavos, después de que Donald Trump rechazara una propuesta de Irán para reabrir el estrecho de Ormuz, una de las principales rutas marítimas para el transporte de hidrocarburos. Para una empresa, la combinación de un petróleo más caro y tasas más altas en el mundo encarece la logística y el financiamiento externo. En negocios y empresas, el Gobierno extendió hasta el año dos mil cuarenta y nueve la concesión de Aeropuertos Argentina, la empresa de Eduardo Eurnekian, que deberá invertir seiscientos millones de dólares adicionales en los próximos años. YPF, por su parte, proyecta llegar a un millón de barriles de petróleo por día por primera vez en su historia, según su presidente Horacio Marín, quien respondió a las críticas de que Vaca Muerta no derrama en la economía de Neuquén. También avanza la privatización de las participaciones de Enarsa en tres centrales termoeléctricas, y las exportaciones agroindustriales marcaron un récord en agosto, con una suba del diez por ciento interanual en volumen hacia ciento treinta y cinco mercados del mundo. En impuestos y normativa, la Agencia de Recaudación y Control Aduanero mantiene abierto hasta el treinta de octubre un plan de facilidades de pago para que micro, pequeñas y medianas empresas regularicen deudas impositivas, aduaneras y previsionales. Además, desde el primero de noviembre los empleadores privados, con excepción de la construcción y el servicio doméstico, deberán aportar a un nuevo Fondo de Asistencia Laboral, que ayudará a financiar desvinculaciones pero no reemplaza al régimen de indemnizaciones. Gremios como el de camioneros y el de trabajadores del plástico ya cerraron paritarias con aumentos que se extienden hasta dos mil veintisiete. Y el Gobierno confirmó, por decreto, un bono de hasta setenta mil pesos para jubilados y pensionados que cobren hasta el haber mínimo, que se pagará en octubre. En consumo y construcción, cerró la juguetería Tío Mario en medio de una caída del diez por ciento en las ventas del sector durante el primer semestre del año, con fábricas trabajando al treinta por ciento de su capacidad y más de trescientas jugueterías cerradas en los últimos dos años. En contraste, los pagos con código QR crecieron casi setenta por ciento en un año y movieron dos coma nueve billones de pesos por mes, según el Banco Central, en medio de una caída en el uso de tarjetas de débito y crédito. En management y finanzas corporativas, dos historias de gestión: cómo el Fleni combinó excelencia médica con un plan de negocios sólido desde que el cardiólogo Claudio Pensa asumió su conducción, y cómo la ejecutiva Magdalena Ferreira Lamas convirtió a la Argentina en la base regional de Mars para nueve países de América Latina, la empresa dueña de marcas como Emeandemes, Snickers y Pedigree. En el mundo, la policía británica investiga un posible vínculo de Irán con un plan de ataque a una base militar usada por Estados Unidos en Inglaterra, con cinco personas detenidas. En Brasil rige desde hoy la prohibición de las apuestas online que impulsó el presidente Lula, a días de las elecciones presidenciales del cuatro de octubre, mientras Bangkok declaró el estado de desastre por una inundación histórica que dejó más de cinco mil evacuados. Sobre Malvinas, el ministro de Defensa de Chile respaldó el reclamo de soberanía argentino pero también defendió la autodeterminación de los isleños, en la previa del debate que Diputados iniciará esta semana para reforzar las sanciones vinculadas al tema. Y en Madrid continúa la acampada en la Puerta del Sol para exigir un decreto de vivienda que termine con los desalojos sin alternativa habitacional. Le Grand Continent analiza que la guerra entre Estados Unidos, Israel e Irán entra en su octavo mes sin ninguna solución diplomática a la vista, en la previa de las elecciones de mitad de mandato en Estados Unidos. La revista también señala que, pese a la imagen de poder ilimitado que proyecta Donald Trump, decisiones recientes de la Corte Suprema y de la Reserva Federal muestran que los controles institucionales todavía funcionan. En deportes, Boca dio vuelta un partido que perdía dos a cero ante Racing y se clasificó a semifinales de la Copa Argentina gracias a un triplete de cabeza de Enner Valencia, en un cruce que tuvo además incidentes entre hinchas y la policía en las afueras del estadio de Rosario Central. La AFA, mientras tanto, debatirá esta semana las sanciones por el escándalo entre Rosario Central y Estudiantes, que incluyó una gresca en la cancha y el reclamo del presidente de Estudiantes, Juan Sebastián Verón, contra el arbitraje. En la Selección, Lionel Scaloni confirmó a Cristian, el Cuti, Romero como el nuevo capitán en reemplazo de Lionel Messi, de cara al partido despedida del diez de octubre. Y Giuliano Galoppo, que dejó River, convirtió su primer gol en la liga de Estados Unidos en el empate de Atlanta United. Para cerrar, una recomendación de turismo: un hostel de Puerto Madryn busca voluntarios para crear contenido sobre el destino patagónico, a cambio de alojamiento y desayuno durante quince días. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-09-28-manana",
+ "generado_ba": "28/09/2026 10:15"
+}
