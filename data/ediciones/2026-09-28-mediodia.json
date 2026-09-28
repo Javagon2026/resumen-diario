@@ -1,0 +1,767 @@
+{
+ "fecha": "2026-09-28",
+ "edicion": "mediodia",
+ "titulo": "El riesgo país toca su máximo del año y la pobreza vuelve a subir",
+ "apertura": "El riesgo país volvió a tensionar a los mercados este lunes, con los bonos completando once ruedas consecutivas a la baja y el indicador de JP Morgan en su nivel más alto del año, mientras los datos oficiales de pobreza del primer semestre mostraron un salto a 32,3% de las personas. En paralelo, el presidente Javier Milei viaja este martes a París junto a trece gobernadores para la Argentina Week, en medio de nuevos avances judiciales contra Manuel Adorni y de anuncios en impuestos y salarios que impactan directamente en el costo laboral de octubre. En el plano deportivo, Racing se quedó sin director técnico tras la eliminación ante Boca en la Copa Argentina.",
+ "claves": [
+  "El riesgo país tocó su nivel más alto del año (641 puntos según Infobae, cerca de 630 según Clarín y Ámbito) y los bonos completan once ruedas consecutivas en baja.",
+  "La pobreza del primer semestre trepó a 32,3% de las personas, con un salto de 4,1 puntos porcentuales respecto del semestre anterior.",
+  "Milei viaja el martes a París con trece gobernadores para la Argentina Week, mientras dice tener una relación \"excelente\" con Bullrich sin confirmar fórmula para 2027.",
+  "El fiscal Pollicita amplió a 1998 la investigación patrimonial contra Manuel Adorni y pidió verificar sus billeteras de criptomonedas.",
+  "El nuevo Fondo de Asistencia Laboral y los aumentos de octubre en comercio y metalúrgicos suman variables al costo laboral de las empresas.",
+  "Industriales denuncian subas de hasta 300% en la factura eléctrica tras la liberación del mercado energético.",
+  "Racing se quedó sin técnico: Vojvoda dejó el cargo tras la eliminación ante Boca en la Copa Argentina.",
+  "Lando Norris le pidió disculpas a Franco Colapinto por el choque de Bakú."
+ ],
+ "cifras": [
+  {
+   "nombre": "Pobreza, primer semestre 2026 (personas)",
+   "valor": "32,3%",
+   "variacion": "+4,1 puntos porcentuales vs. semestre anterior",
+   "fuente": "CR-11"
+  },
+  {
+   "nombre": "Reservas brutas del BCRA",
+   "valor": "US$ 48.245 millones",
+   "variacion": "-US$ 1.553 millones en la semana",
+   "fuente": "CR-18"
+  },
+  {
+   "nombre": "Acciones argentinas en Wall Street (ADRs)",
+   "valor": "hasta -6% en la rueda",
+   "fuente": "CL-02"
+  },
+  {
+   "nombre": "Recaudación tributaria 2026 (acumulada)",
+   "valor": "-4% real",
+   "fuente": "CR-14"
+  },
+  {
+   "nombre": "Aumento paritario metalúrgico, octubre",
+   "valor": "4% + $ 30.000 no remunerativo",
+   "fuente": "AM-25"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-25",
+     "titulo": "Milei calificó de \"excelente\" su relación con Bullrich pero evitó hablar de una fórmula 2027",
+     "resumen": "El presidente Javier Milei dijo que su vínculo con la senadora Patricia Bullrich es \"excelente\" pero evitó confirmar una fórmula conjunta para las elecciones de 2027, y sostuvo que las diferencias forman parte del modelo libertario. Ámbito agregó que la gira de Milei a París deja una \"zona liberada\" en la interna de La Libertad Avanza que Bullrich buscaría aprovechar frente al círculo rojo.",
+     "relacionadas": [
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Libertad Avanza: Patricia Bullrich aprovecha la \"zona liberada\" por Javier Milei ante el círculo rojo",
+       "url": "https://www.ambito.com/politica/la-libertad-avanza-patricia-bullrich-aprovecha-la-zona-liberada-javier-milei-el-circulo-rojo-n6327380"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-dijo-relacion-patricia-bullrich-excelente-evito-hablar-formula-conjunta-2027_0_QYepQK40bC.html",
+     "imagen": "https://www.clarin.com/img/2025/12/01/i_BmJLZkC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "07:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Milei, EN VIVO: el Presidente dijo que su relación con Bullrich es \"excelente\", pero evitó hablar de una fórmula conjunta en 2027"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "13 gobernadores aliados viajarán con Milei a la Argentina Week en París",
+     "resumen": "El presidente viaja este martes a Francia junto a trece gobernadores aliados y dialoguistas para la Argentina Week, el foro de inversiones que también busca mostrar respaldo político federal. No participarán mandatarios del PJ opositor ni otros aliados clave para las votaciones legislativas, en momentos en que el Gobierno necesita sostener consensos provinciales para avanzar con la eliminación de las PASO.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei arma una foto federal en París: quiénes son los 13 gobernadores que lo acompañan a la Argentina Week",
+       "url": "https://www.ambito.com/politica/javier-milei-arma-una-foto-federal-paris-quienes-son-los-13-gobernadores-que-lo-acompanan-la-argentina-week-n6327397"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/09/28/argentina-week-paris-quienes-son-los-13-gobernadores-aliados-que-viajaran-con-milei-a-francia/",
+     "imagen": "https://www.infobae.com/resizer/v2/I3TZ4F6J7NDDXA4Z2225SSV4A4.jpg?auth=8255c6ff74aef1f0bde2a8309e401a44d12a75b30d18937bd38f3c259ac8954f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:17",
+     "autor": "Facundo Chaves",
+     "titulo_original": "Argentina Week París: quiénes son los 13 gobernadores aliados que viajarán con Milei a Francia"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "el fiscal Pollicita pidió reconstruir el patrimonio de Adorni desde 1998 y sus billeteras cripto",
+     "resumen": "El fiscal Gerardo Pollicita no dio por válidas las explicaciones patrimoniales del exjefe de Gabinete Manuel Adorni y amplió catorce años la investigación, hasta 1998, para reconstruir los ingresos del matrimonio Adorni-Angeletti. También pidió verificar operaciones en Bitcoin por 591.544 dólares registradas en las billeteras virtuales que el propio Adorni entregó a la Justicia con claves selladas.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Justicia pide abrir las billeteras de criptomonedas de Manuel Adorni",
+       "url": "https://www.ambito.com/politica/la-justicia-pide-abrir-las-billeteras-criptomonedas-manuel-adorni-n6327468"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/dudas-explicaciones-adorni-fiscal-pidio-medidas-patrimoniales_0_swRRkdX5ym.html",
+     "imagen": "https://www.clarin.com/img/2026/07/04/AuJ00huk8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Con dudas sobre las explicaciones de Adorni, el fiscal pidió más medidas patrimoniales"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "el Gobierno designó a tres jueces con pliegos frenados en el Senado",
+     "resumen": "Alejandro Catania y Juan Pedro Galván Greenway se sumaron a la Cámara Nacional de Apelaciones en lo Penal Económico, mientras que Juan Manuel Mejuto integrará el Tribunal Oral en lo Criminal y Correccional N°8. Las tres postulaciones habían quedado demoradas durante meses en el Senado.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/el-gobierno-designo-tres-jueces-cuyos-pliegos-habian-estado-frenados-el-senado-n6327338",
+     "imagen": "https://media.ambito.com/p/6a0531ba29f5cd79e6420ba67102c260/adjuntos/239/imagenes/043/631/0043631463/1200x675/smart/alejandro-javier-catania-juan-pedro-galvan-greenway.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:59",
+     "autor": "",
+     "titulo_original": "El Gobierno designó a tres jueces cuyos pliegos habían estado frenados en el Senado"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "Pablo Di Liscia asumió al frente de la Secretaría Nacional de Discapacidad",
+     "resumen": "El Gobierno oficializó por decreto la designación de Di Liscia en reemplazo de Alejandro Vilches, que había renunciado la semana pasada en medio de la polémica por los recortes al área previstos en el Presupuesto 2027.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/oficializan-la-designacion-pablo-di-liscia-al-frente-la-secretaria-nacional-discapacidad-reemplazo-alejandro-vilches-n6327333",
+     "imagen": "https://media.ambito.com/p/e7d82690f754af7dc0957abbf548cfde/adjuntos/239/imagenes/043/658/0043658604/1200x675/smart/di-liscia-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:38",
+     "autor": "",
+     "titulo_original": "Oficializan la designación de Pablo Di Liscia al frente de la Secretaría Nacional de Discapacidad en reemplazo de Alejandro Vilches"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "el proyecto de mercado de carbono vuelve a demorarse en el Senado por diferencias con Misiones",
+     "resumen": "La iniciativa, que busca fijar reglas para generar y comercializar créditos ambientales en el país, ya cuenta con dictamen de las comisiones de Legislación General, Ambiente y Presupuesto y Hacienda, pero enfrenta puntos de fricción entre la regulación nacional y los esquemas provinciales. Hay tres proyectos en danza, entre ellos dos de legisladores de Misiones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/mercado-de-carbono-el-proyecto-se-demora-en-el-senado-por-diferencias-clave-con-misiones/",
+     "imagen": "https://www.cronista.com/resizer/v2/T34NB56ORRFMJL7SPEVBVP4CFA.jpg?auth=5d02234a59f15a524b8d17e7780295a5d55f011487e2c09bdc9257d62a7f9a6a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:42",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Mercado de carbono: el proyecto se demora en el Senado por diferencias clave con Misiones"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "el riesgo país tocó su nivel más alto del año y los bonos completan once ruedas en baja",
+     "resumen": "Los bonos soberanos en dólares cayeron otro 1,8% este lunes y encadenaron once ruedas consecutivas de bajas, con el riesgo país de JP Morgan en 641 puntos básicos, un máximo desde diciembre. Clarín y Ámbito situaron el indicador algo más bajo, cerca de los 630 puntos. El S&P Merval cedió 1,5% en Buenos Aires y las acciones argentinas en Wall Street llegaron a caer 6%. Para una empresa: el salto del riesgo país encarece el crédito en dólares y complica el refinanciamiento de deuda corporativa.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Antes del viaje de Milei a París, los bonos vuelven a caer y el riesgo país se acerca a los 630 puntos",
+       "url": "https://www.clarin.com/economia/viaje-milei-paris-bonos-vuelven-caer-riesgo-pais-acerca-630-puntos_0_58TsLn6psE.html"
+      },
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los bonos en dólares profundizan su caída y el riesgo país ya roza los 630 puntos",
+       "url": "https://www.ambito.com/finanzas/los-bonos-dolares-profundizan-su-caida-y-crece-la-presion-el-riesgo-pais-n6327439"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/09/28/el-riesgo-pais-vuelve-a-subir-y-llega-a-su-nivel-maximo-en-lo-que-va-del-ano/",
+     "imagen": "https://www.infobae.com/resizer/v2/F2IDCWUGFJBI7FKHDY56WGASBQ.JPG?auth=6004a6062e5c2f7dc542dffd70f60a8f51b2db087850aceda804f474dd4e63f9&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:08",
+     "autor": "",
+     "titulo_original": "El riesgo país vuelve a subir y llega a su nivel máximo en lo que va del año"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "la pobreza subió a 32,3% de las personas en el primer semestre",
+     "resumen": "Los datos oficiales del primer semestre de 2026 mostraron un empeoramiento de 4,1 puntos porcentuales en la pobreza medida por personas, que llegó a 32,3%, y de 3,4 puntos en la medición por hogares, que alcanzó 24,4%. El Cronista publicó el dato en dos notas con cifras distintas: una lo fija en 32,3% y otra, al analizar el humor de los mercados, en 36,8%. Para una empresa de consumo o retail, el deterioro social anticipa una recuperación más lenta de la demanda pese a la mejora de otros indicadores macro.",
+     "relacionadas": [
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Los indicadores de actividad y pobreza suman incertidumbre a un golpeado mercado de bonos y acciones",
+       "url": "https://www.cronista.com/finanzas-mercados/los-indicadores-de-actividad-y-pobreza-suman-incertidumbre-al-mercado-de-bonos-y-acciones/"
+      }
+     ],
+     "url": "https://www.cronista.com/columnistas/la-pobreza-vuelve-a-exponer-el-limite-de-la-desinflacion-la-mejora-macro-todavia-no-llega-a-los-hogares/",
+     "imagen": "https://www.cronista.com/resizer/v2/TQDUCXEKUFCC3LSWIZMGDVJARI.jpg?auth=6efb52de68f392e39ef7a9194e0783c12bd1927d4f4e8a3a1e1ca098ca87eedd&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:18",
+     "autor": "Federico Pablo Vacalebre",
+     "titulo_original": "La pobreza vuelve a exponer el límite de la desinflación: la mejora macro todavía no llega a los hogares"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "las reservas brutas del Banco Central cayeron a US$ 48.245 millones tras el pago al FMI",
+     "resumen": "Las reservas internacionales cerraron el viernes en 48.245 millones de dólares, con una caída semanal de 1.553 millones, afectadas por el pago de casi 800 millones de dólares al FMI y por la desaceleración en la compra de divisas del Central. Otra fuente señaló, en paralelo, que las reservas netas podrían acercarse a los 10.000 millones de dólares hacia fin de trimestre pese a ese menor ritmo de compras.",
+     "relacionadas": [
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Reservas netas se acercan a u$s10.000 millones y la City sugiere dolarizarse con bonos",
+       "url": "https://www.iprofesional.com/finanzas/465311-la-city-sugiere-a-inversores-dolarizarse-con-bonos"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-bcra-desacelera-las-compras-y-el-mercado-le-pone-precio-al-dolar-hacia-fin-de-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZFNNLF5RUZB5JELKPAJ2ZJVD7E.jpg?auth=1fccdf771de0487ba474a209f2f42f7ccae8d569766d86b490df6e4838adf0b6&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:19",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El BCRA desacelera las compras y el mercado le pone precio al dólar de fin de año"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "China bajará aranceles a productos agroindustriales de Estados Unidos, pero no a la soja",
+     "resumen": "Un documento conjunto de la Casa Blanca y el gobierno chino, tras la visita de Xi Jinping a Donald Trump, confirmó rebajas arancelarias para varios productos agroindustriales estadounidenses. La soja quedó afuera del acuerdo y sigue con un arancel adicional del 10%, lo que ya provocó una caída de casi 9 dólares en su precio en Chicago. Para una empresa exportadora argentina, la exclusión de la soja del acuerdo sostiene un margen de competitividad frente al grano estadounidense.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/china-reducira-aranceles-varios-productos-agroindustriales-eeuu-soja-cae-us-9-chicago_0_jUFKQFtuv0.html",
+     "imagen": "https://www.clarin.com/img/2026/09/27/nwiptBc00_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "China reducirá aranceles a varios productos agroindustriales de EEUU, pero no a la soja: ya cae casi US$ 9 en Chicago"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Wall Street abrió la semana en rojo y el petróleo amenaza con volver a superar los US$ 100",
+     "resumen": "Las acciones cayeron junto con los bonos del Tesoro de Estados Unidos, en momentos en que se debilitan las esperanzas de un avance en las negociaciones de Medio Oriente, lo que impulsó al alza los precios del petróleo y reavivó los temores de una aceleración de la inflación global. Para una empresa, un petróleo más caro y sostenido presiona sobre los costos de logística y energía.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-adelantan-un-arranque-semana-rojo-y-repunta-el-petroleo-n6327355",
+     "imagen": "https://media.ambito.com/p/e67c06ccd806df2ca5184e6588c48fc4/adjuntos/239/imagenes/041/653/0041653955/wall-street-eeuu-mercados-acciones.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:12",
+     "autor": "",
+     "titulo_original": "Wall Street arranca la semana en rojo, mientras el petróleo amaga con volver a superar los u$s100"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "con la recaudación en baja, el Gobierno tiene poco margen para profundizar el ajuste",
+     "resumen": "El Presupuesto 2027 apunta a un superávit primario de 1,3% del PBI y financiero de 0,2%, pero la recaudación acumula una caída de casi 4% en lo que va del año, lo que deja poco margen adicional para recortar gasto. Para 2027 el Gobierno proyecta una suba real de la recaudación de 5,8%, apoyada en un aumento de la presión tributaria de 0,6 puntos del PBI.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/se-achico-el-margen-de-la-motosierra-donde-puede-recortar-caputo-para-cumplir-las-metas/",
+     "imagen": "https://www.cronista.com/resizer/v2/JRRRNNFIHBDDXBVUFE7OOFMLMU.jpeg?auth=97e9b7ff9c79c0b69674059564ba074199644aec6d87c25abd97f012c249143d&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:55",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "Se achicó el margen de la motosierra: dónde puede recortar Caputo para cumplir las metas"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "China y Estados Unidos crean una junta bilateral para revisar aranceles por US$ 60.000 millones",
+     "resumen": "Washington y Pekín lanzaron el esquema \"30 por 30\" para evaluar rebajas tarifarias mutuas sobre bienes de 2024, con un foro permanente liderado por Scott Bessent, Jamieson Greer y He Lifeng, revisiones anuales y mesas técnicas para la agricultura.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/china-y-eeuu-acuerdan-crear-una-junta-comercio-bilateral-revisar-aranceles-us60000-millones-n6327356",
+     "imagen": "https://media.ambito.com/p/b2ff7c7721cb935e9f0df432a9bdaf02/adjuntos/239/imagenes/043/662/0043662926/xi-jinping-y-trump-la-casa-blanca-249-3.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:58",
+     "autor": "",
+     "titulo_original": "China y EEUU acuerdan crear una junta de comercio bilateral para revisar aranceles por u$s60.000 millones"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "la falta de gas volvió a parar las plantas de Celulosa Argentina, en concurso preventivo",
+     "resumen": "La papelera, en manos del financista Esteban Nofal y en concurso preventivo desde el año pasado, sufrió entre mayo y septiembre interrupciones en el suministro de gas que obligaron a detener la producción en sus plantas de Capitán Bermúdez y Zárate. Aunque las plantas volvieron a operar con normalidad, la compañía recurrió a la Justicia para pedir medidas cautelares que garanticen la continuidad del suministro.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/una-crisis-externa-amenaza-la-produccion-de-la-mayor-papelera-del-pais-en-manos-de-un-hombre-clave-de-la-city/",
+     "imagen": "https://www.cronista.com/resizer/v2/P5YXVL533BGNDM64RSXI3TW5BQ.webp?auth=5caa9a66636c88c41466b08196d0e7b09e77774ad0717ebb320afa3d4d309f50&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Una crisis “externa” amenaza la producción de la mayor papelera del país, en manos de un hombre clave de la City"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "el Banco Central prepara un mercado de cupones de tarjetas para bajar el costo financiero de los comercios",
+     "resumen": "El BCRA, conducido por Santiago Bausili, convocó a bancos y procesadoras de pago a inscribirse en un registro para operar una nueva infraestructura que permitirá negociar los derechos de cobro de las tarjetas de crédito en \"marketplaces\" competitivos. Para una empresa de retail, la iniciativa apunta a bajar la tasa a la que hoy se adelanta el dinero de las ventas con tarjeta.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-plan-secreto-del-banco-central-para-bajar-el-costo-financiero-de-miles-de-comercios/",
+     "imagen": "https://www.cronista.com/resizer/v2/PELAAQXHXJDW5LNPMJH34TTTX4.jpg?auth=f7938b472c17fc50f221273bd2d082cbde4cbd610229b8a5dbcaa8096dcf32a2&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:52",
+     "autor": "Leandro Dario",
+     "titulo_original": "El plan secreto del Banco Central para bajar el costo financiero de miles de comercios"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Colonia Express suma una ruta directa a Buenos Aires con un barco para 600 pasajeros",
+     "resumen": "La naviera acordó las condiciones para operar desde el puerto de Montevideo y espera la resolución de la Administración Nacional de Puertos de Uruguay para poner en marcha el nuevo servicio.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465391-colonia-express-suma-una-ruta-directa-a-buenos-aires-con-600-pasajeros",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626475.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:52",
+     "autor": "",
+     "titulo_original": "Colonia Express suma una ruta directa a Buenos Aires con un barco para 600 pasajeros"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "el Gobierno abre a concesión al Palais de Glace tras casi una década cerrado",
+     "resumen": "Un decreto publicado este lunes facultó a la Secretaría de Obras Públicas a convocar, dentro de doce meses, una licitación pública nacional e internacional para la puesta en valor, conservación y gestión del Palacio Nacional de las Artes, cerrado desde diciembre de 2017.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/tras-anos-cerrado-el-gobierno-avanza-con-un-plan-para-concesionar-un-emblematico-palacio-porteno/",
+     "imagen": "https://www.cronista.com/resizer/v2/7VLB6YSPQFGXHGC6NSRAA5RAVI.png?auth=a0b879e823b771a278d3921a31dd011d8c312fcc2310829843f13a6b2c931b8d&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:51",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Tras años cerrado, el Gobierno avanza con un plan para concesionar un emblemático palacio porteño"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "el nuevo Fondo de Asistencia Laboral tendrá impacto en Ganancias, Bienes Personales e IVA",
+     "resumen": "Los aportes que las empresas deberán realizar al FAL desde noviembre, para financiar futuras desvinculaciones, tendrán distinto tratamiento impositivo según el impuesto de que se trate. Para una empresa, el nuevo fondo suma una variable a planificar en la carga tributaria y en el costo laboral, además del aporte mensual ya previsto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465392-costos-laborales-e-impuestos-fondos-de-indemnizaciones-fal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/603473.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:18",
+     "autor": "",
+     "titulo_original": "Cuáles serán los costos laborales e impuestos de los fondos FAL para indemnizaciones"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Catamarca propone eliminar Ingresos Brutos a toda la industria y reabre el debate en otras provincias",
+     "resumen": "La provincia busca eliminar el impuesto sobre los Ingresos Brutos para el sector industrial, lo que vuelve a poner en discusión el costo tributario provincial que enfrentan las empresas en otras jurisdicciones del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465326-provincia-clave-busca-eliminar-ingresos-brutos-para-toda-la-industria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588170.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:10",
+     "autor": "",
+     "titulo_original": "Catamarca propone eliminar Ingresos Brutos a la industria y crece el debate en otras provincias"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "el tapón fiscal de la Ley de Inocencia Fiscal tiene tratamientos distintos para inspecciones en curso",
+     "resumen": "El límite que impide retrotraerse en el tiempo para determinar el Impuesto a las Ganancias sobre años no prescriptos tiene un alcance diferente según qué versión de la Ley de Inocencia Fiscal se aplique al caso.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465382-cuando-aplica-tapon-inocencia-fiscal-inspecciones-curso",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618963.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:03",
+     "autor": "",
+     "titulo_original": "Cuándo aplica el tapón fiscal de la Ley de Inocencia Fiscal a las inspecciones en curso"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "los metalúrgicos de la Rama 17 cobrarán en octubre un aumento del 4% más una suma fija",
+     "resumen": "El gremio metalúrgico acordó un incremento de 4% y una suma no remunerativa de $ 30.000 para octubre, con nuevas actualizaciones previstas hasta marzo de 2027. Para una empresa industrial, el convenio fija un piso salarial de referencia para el resto de las paritarias del sector.",
+     "relacionadas": [
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "UOM metalúrgicos: cuánto cobrarán en octubre y cómo sigue la paritaria hasta marzo de 2027",
+       "url": "https://www.iprofesional.com/economia/465379-sueldo-uom-metalurgicos-rama-17-cuanto-cobran-octubre-2026"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/salarios-y-paritarias-metalurgicos-cuanto-cobraran-octubre-2026-el-nuevo-aumento-n6327354",
+     "imagen": "https://media.ambito.com/p/a3ee03892e93871a4ffcd5870cdd6eac/adjuntos/239/imagenes/039/080/0039080569/1200x675/smart/fabrica-neba-industria-capacidad-instalada-trabajador-ganancias-metalurgico-trabajo-salario-asalariado-pyme.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:56",
+     "autor": "",
+     "titulo_original": "Salarios y paritarias de metalúrgicos: cuánto cobrarán en octubre de 2026 tras el nuevo aumento"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "los empleados de comercio cobrarán en octubre haberes que superan $ 1,3 millones en varias categorías",
+     "resumen": "Los sueldos que se pagarán en los primeros días de octubre incorporan el último tramo del acuerdo paritario del sector. Para un retailer, el dato es clave para proyectar el costo laboral de octubre en sucursales con personal de comercio.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/salarios-empleados-comercio-cuanto-cobraran-octubre-2026-el-ultimo-aumento-n6327363",
+     "imagen": "https://media.ambito.com/p/e1db2298efd78bac9ae5c67b9b9e54e8/adjuntos/239/imagenes/043/628/0043628223/1200x675/smart/empleado-comercio-portada.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:29",
+     "autor": "",
+     "titulo_original": "Salarios de empleados de comercio: cuánto cobrarán en octubre de 2026 con el último aumento"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "el Gobierno porteño eximirá del pago de ABL a determinados sectores hasta mediados de 2027",
+     "resumen": "El jefe de Gobierno de la Ciudad, Jorge Macri, anunció una exención del impuesto de Alumbrado, Barrido y Limpieza para ciertos sectores, vigente hasta mediados de 2027.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465320-macri-anuncio-que-sectores-no-pagaran-abl-hasta-mediados-de-2027",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617915.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:07",
+     "autor": "",
+     "titulo_original": "Macri anunció qué sectores no pagarán ABL hasta mediados de 2027"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "AM-10",
+     "titulo": "industriales denuncian subas de hasta 300% en la factura eléctrica tras la liberación del mercado",
+     "resumen": "Empresas del sector industrial sostienen que las generadoras están incluyendo en las facturas cargos que duplican el valor pactado en los contratos originales, tras la liberación del mercado energético. Para una empresa con varias sucursales, un salto de esa magnitud en la factura eléctrica presiona directamente sobre los costos operativos y los márgenes.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/industriales-denuncian-que-el-costo-la-energia-subio-300-la-liberacion-del-mercado-n6327378",
+     "imagen": "https://media.ambito.com/p/d1f0bcb09201673744f337c0dd23f3f2/adjuntos/239/imagenes/043/585/0043585559/1200x675/913x374:933x394/industria-empleo-pymes-actividad-economica.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:56",
+     "autor": "",
+     "titulo_original": "Industriales denuncian que el costo de la energía subió hasta 300% tras la liberación del mercado"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "Café Martínez suma una franquicia en Vaca Muerta y apunta a las estaciones de servicio",
+     "resumen": "La cadena de cafeterías desembarcó en Añelo, Neuquén, para acompañar la demanda que genera el auge energético de la zona, y proyecta expandirse también a tiendas de conveniencia.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/465335-cafe-martinez-suma-franquicia-en-vaca-muerta-y-mira-las-estaciones-de-servicio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2023/06/555376.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:31",
+     "autor": "",
+     "titulo_original": "Café Martínez suma una franquicia en Vaca Muerta y mira las estaciones de servicio"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "el metro cuadrado de un monoambiente en la Ciudad de Buenos Aires ronda los US$ 2.476",
+     "resumen": "Según un informe de Zonaprop, el valor promedio del metro cuadrado en la Ciudad subió 0,2% en agosto y un monoambiente de 40 metros cuadrados cuesta en promedio US$ 110.000, aunque el precio varía según el barrio y el estado de la unidad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/cuanto-sale-comprar-un-monoambiente-en-caba-y-que-valor-tiene-el-metro-cuadrado-segun-el-barrio/",
+     "imagen": "https://www.cronista.com/resizer/v2/2KZBS5JRURBLBNALAIHZHM4A3M.jpg?auth=3c30b0dcf0d1a4a42eae834c64767b0b4ad8d14335f85e390dd2b74b9deebb07&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:48",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Cuánto sale comprar un monoambiente en CABA y qué valor tiene el metro cuadrado, según el barrio"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-14",
+     "titulo": "PepsiCo, Disney, Unilever y Newsan abren su temporada de convocatoria a jóvenes profesionales",
+     "resumen": "Varias multinacionales iniciaron su ciclo anual de búsqueda de talento joven, con diferencias entre los programas de pasantías y los de jóvenes profesionales según la etapa de carrera del postulante.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/465248-temporada-alta-de-jovenes-profesionales-pepsico-disney-unilever-newsan-convocan",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/571976.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:45",
+     "autor": "",
+     "titulo_original": "Temporada alta de jóvenes profesionales: PepsiCo, Disney, Unilever, Newsan convocan"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "Meta busca cobrar por agentes de inteligencia artificial y Nubank quiere desembarcar en Estados Unidos",
+     "resumen": "Meta avanza en un modelo de negocio que cobraría por agentes de inteligencia artificial que conecten consumidores y empresas, mientras Nubank evalúa trasladar su banca digital al mercado estadounidense. JP Morgan y Goldman Sachs ven un potencial de suba de 23,6% y 68,9% para las acciones de Meta y Nu, respectivamente.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/meta-y-nubank-van-por-nuevos-negocios-cuanto-podrian-subir-sus-acciones-segun-wall-street/",
+     "imagen": "https://www.cronista.com/resizer/v2/KLDMM52YWBEVPG2XOE3APGQJXY.png?auth=a28c74247b4882e74dfdea1c4c90f2ad9421f30921e54e1012c657bed4d338b9&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:48",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Meta y Nubank van por nuevos negocios: cuánto podrían subir sus acciones, según Wall Street"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-04",
+     "titulo": "un operativo militar mató en Colombia a un líder de las disidencias de las FARC señalado por el magnicidio de Miguel Uribe",
+     "resumen": "El hombre identificado como Robinson Gutiérrez fue \"dado de baja\" en el departamento de Huila, según anunció el presidente Abelardo de la Espriella, quien lo acusó de financiar el asesinato del senador Miguel Uribe. El mandatario advirtió que ahora irá por Iván Márquez, jefe de la banda.",
+     "relacionadas": [
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Las bandas criminales ponen a prueba al nuevo presidente de mano dura de Colombia",
+       "url": "https://www.cronista.com/financial-times/las-bandas-criminales-ponen-a-prueba-al-nuevo-presidente-de-mano-dura-de-colombia/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/operativo-militar-colombia-matan-lider-disidencias-farc-acusado-financiar-magnicidio-senador-miguel-uribe_0_1t0aghPv7J.html",
+     "imagen": "https://www.clarin.com/img/2026/09/28/SvyQkoFvd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Operativo militar en Colombia: matan a un líder de las disidencias de las FARC acusado de financiar el magnicidio del senador Miguel Uribe"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "bandas armadas ponen a prueba la política de mano dura del nuevo presidente colombiano",
+     "resumen": "Tras asumir en agosto con la promesa de combatir el crimen organizado, Abelardo de la Espriella envió 1.100 efectivos a Santa Marta después de que hombres armados incendiaran vehículos y amenazaran a comerciantes. La ciudad, un destino turístico de la costa caribeña, quedó prácticamente vacía durante varios días.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/las-bandas-criminales-ponen-a-prueba-al-nuevo-presidente-de-mano-dura-de-colombia/",
+     "imagen": "https://www.cronista.com/resizer/v2/I5WPGGCHHJDG3FDA5JASZBZO34.jpg?auth=3325050844cfd44ee0320b5ce248266c3c1540d01f9baaab6eb44d217632c1b1&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:20",
+     "autor": "Joe Daniels",
+     "titulo_original": "Las bandas criminales ponen a prueba al nuevo presidente de mano dura de Colombia"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "todos los detenidos por el plan de ataque a una base militar en el Reino Unido son británicos",
+     "resumen": "Los cinco hombres arrestados cerca de una base usada por la Fuerza Aérea de Estados Unidos tienen alrededor de 25 años y son de la zona de Londres. Irán rechazó categóricamente cualquier vínculo con el presunto complot, que según una fuente fue descubierto cuando una granjera advirtió camionetas sospechosas junto a su propiedad.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Tres camionetas, una granjera “héroe” y la ironía atribuida a Irán: qué se sabe del plan para atacar una base de EEUU en el Reino Unido",
+       "url": "https://www.infobae.com/america/mundo/2026/09/28/tres-camionetas-una-granjera-heroe-y-la-ironia-atribuida-a-iran-que-se-sabe-del-plan-para-atacar-una-base-de-eeuu-en-el-reino-unido/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/atentado-frustrado-reino-unido-detenidos-britanicos-iran-rechaza-acusaciones_0_6cJC9ZlIKp.html",
+     "imagen": "https://www.clarin.com/img/2026/09/28/p23bNL4tt_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Atentado frustrado en el Reino Unido: todos los detenidos son británicos e Irán rechaza las acusaciones"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "la fiebre del oro impulsada por Trump también beneficia a bandas venezolanas",
+     "resumen": "La administración estadounidense negocia acuerdos mineros en un sector señalado por su corrupción, entre ellos uno con una empresa que el propio gobierno de Estados Unidos considera una amenaza para la seguridad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/trump-desato-fiebre-oro-bandas-venezolanas-llevan-parte-ganancias_0_3Cjarr7Y6F.html",
+     "imagen": "https://www.clarin.com/img/2026/09/28/75GpASu6Z_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Trump desató una fiebre del oro, y las bandas venezolanas se llevan una parte de las ganancias"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "el líder supremo de Irán desafió a Trump y reivindicó sus posiciones sobre el estrecho de Ormuz",
+     "resumen": "En un mensaje difundido este lunes, el líder supremo iraní sostuvo que su país \"defiende sus posiciones legítimas, incluido Ormuz\" y advirtió que \"los enemigos no se aventuran más allá del mar Arábigo\". Es su primera aparición pública en siete meses, desde el ataque en el que murió su padre y él resultó herido.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/nuevo-mensaje-mojtaba-khamenei-desafia-trump-defendemos-posiciones-legitimas-incluido-ormuz_0_pVQyCIQCOl.html",
+     "imagen": "https://www.clarin.com/img/2026/09/28/z60s0ctLQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un nuevo mensaje de Mojtaba Khamenei desafía a Trump: \"Defendemos nuestras posiciones legítimas, incluido Ormuz\""
+    },
+    {
+     "id": "IB-05",
+     "titulo": "el Gobierno español definirá mañana el decreto de vivienda mientras sigue la acampada en la Puerta del Sol",
+     "resumen": "Centenares de personas acampan desde el sábado en el centro de Madrid para exigir el fin de los desahucios sin alternativa habitacional, la renovación automática de los contratos y límites a los alquileres turísticos. El Consejo de Ministros debe aprobar la norma este martes y el Sindicato de Inquilinas advirtió que la protesta \"escalará\" si el Gobierno de Pedro Sánchez no cumple.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/2026/09/28/ultima-hora-de-la-acampada-en-la-puerta-del-sol-el-decreto-maricarmen-de-vivienda-y-las-protestas-contra-pedro-sanchez-en-directo/",
+     "imagen": "https://www.infobae.com/resizer/v2/4X6CODRF7VC33PYHF6M2DCLH4Q.jpg?auth=fb3857817e45cccdadf8fc77c90bc1a99a669d04041b903d114f74a6a45fb240&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:07",
+     "autor": "Alberto López Marín, Noelia Tabanera",
+     "titulo_original": "Acampada en Sol y última hora sobre el decreto Maricarmen, en directo | Sumar y el Sindicato de Inquilinas exigen como medida “irrenunciable” la prórroga automática de los contratos de alquiler"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "Juan Pablo Vojvoda dejó de ser el técnico de Racing tras la eliminación en la Copa Argentina",
+     "resumen": "La salida del entrenador se precipitó tras la derrota ante Boca, en un contexto de mala campaña que deja al equipo penúltimo en su zona del Torneo Clausura. Sebastián Romero, conductor de la Reserva, se hará cargo del plantel de forma interina mientras la dirigencia evalúa nombres como el de Nico Diez.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Vojvoda se va de Racing: el abrupto final del DT y la decisión de Diego Milito para calmar las aguas tras la eliminación frente a Boca",
+       "url": "https://www.clarin.com/deportes/vojvoda-va-racing-abrupto-final-dt-decision-diego-milito-calmar-aguas-eliminacion-frente-boca_0_jhpl4QC4xW.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/racing/juan-pablo-vojvoda-deja-de-ser-el-tecnico-de-racing-tras-la-agonica-derrota-frente-a-boca-nid28092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/R25YHYY4INH4JNQBRTT5JGE7JM.JPG?auth=30e248f5f6b497e547e13938d8da9bfc083ead79cbea215473d9efe0b0c8405e&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:02",
+     "autor": "Matías Ruffet",
+     "titulo_original": "Juan Pablo Vojvoda deja de ser el técnico de Racing tras la agónica derrota frente a Boca"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "la AFA confirmó los horarios de los tres amistosos de la Selección, incluida la despedida de Messi",
+     "resumen": "Los partidos serán ante Bolivia el miércoles próximo en Córdoba, y ante Burkina Faso y Benín en el estadio Monumental. Las entradas están agotadas para todos los encuentros salvo para el segundo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/afa-confirmo-horarios-amistosos-seleccion-incluida-despedida-lionel-messi_0_o5FcOLOxaX.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/fyfWreOUb_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:38",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La AFA confirmó los horarios para los tres amistosos de la Selección, incluida la despedida de Lionel Messi"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Uruguay goleó 4 a 1 a Corea del Sur y le dio a Diego Forlán su primer triunfo como técnico",
+     "resumen": "Darwin Núñez anotó un doblete y volvió a convertir con la celeste por primera vez desde la Copa América 2024, en un amistoso disputado en Seúl. El mismo rival había goleado a Marcelo Gallardo en su debut como entrenador de Ecuador.",
+     "relacionadas": [
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Uruguay le dio la primera sonrisa a Diego Forlán: goleó a Corea del Sur, que le había dado una paliza a Gallardo en su debut con Ecuador",
+       "url": "https://www.clarin.com/deportes/uruguay-dio-primera-sonrisa-diego-forlan-goleo-corea-sur-dado-paliza-gallardo-debut-ecuador_0_qLH7IJEwpI.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/uruguay-vencio-a-corea-del-sur-forlan-festejo-por-primera-vez-como-dt-y-nunez-corto-la-larga-sequia-nid28092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7VTNJYB4FNHEHCXHENKMF7QZV4.JPG?auth=33680c2c11945953d61a8a4fe154163e389dc4e63a537613de8c9a47af676d8a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:04",
+     "autor": "",
+     "titulo_original": "Uruguay venció a Corea del Sur, Forlán festejó por primera vez como DT y Núñez cortó la larga sequía"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "Lando Norris le pidió disculpas a Franco Colapinto por el choque en Bakú",
+     "resumen": "El vigente campeón, que había reclamado una sanción de una carrera para el piloto argentino tras el accidente múltiple que también lo afectó a él y al francés Pierre Gasly, reconoció en un comunicado que \"también se equivocó\" en el episodio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/lando-norris-envio-mensaje-disculpas-franco-colapinto-encontronazo-baku-equivoque_0_hvV1hsdrL3.html",
+     "imagen": "https://www.clarin.com/img/2026/09/28/3jNOlCbnx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lando Norris le envió un mensaje de disculpas a Franco Colapinto tras el encontronazo en Bakú: \"Yo también me equivoqué\""
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Ailín Pérez llegó a siete triunfos consecutivos en UFC y pide pelear por el título",
+     "resumen": "La peleadora argentina de artes marciales mixtas venció a la brasileña Norma Dumont y extendió su racha invicta en la categoría, a la espera de que le den la oportunidad de disputar el título.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/ailin-perez-sigue-haciendo-historia-ufc-llego-los-7-triunfos-seguidos-y-va-el-titulo-n6327417",
+     "imagen": "https://media.ambito.com/p/30e6eb81713ea4a7f084a43ac67c2f0c/adjuntos/239/imagenes/043/668/0043668821/ailin-perez.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:52",
+     "autor": "",
+     "titulo_original": "Ailín Pérez sigue haciendo historia en UFC: llegó a los 7 triunfos seguidos y va por el título"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Boca tiene cuatro caminos posibles para llegar a la Copa Libertadores 2027",
+     "resumen": "Tras la clasificación a semifinales de la Copa Argentina, el equipo de Rodolfo Arruabarrena afrontará ocho partidos en apenas treinta días, entre las semifinales de la Copa Argentina y la Sudamericana, el superclásico y el tramo final del Torneo Clausura, con distintas combinaciones posibles para meterse en la máxima competencia continental.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/cuales-son-los-cuatro-caminos-que-tiene-boca-llegar-la-libertadores-2027-n6327386",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:13",
+     "autor": "",
+     "titulo_original": "Cuáles son los cuatro caminos que tiene Boca para llegar a la Libertadores 2027"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IB-11",
+     "titulo": "hallaron en los acantilados de Miramar los fósiles de un \"dientes de sable\" de hace 2,5 millones de años",
+     "resumen": "El hallazgo, presentado como una nueva especie llamada Pampaluctor calibar, corresponde a un depredador de unos 100 kilos que habitó la costa bonaerense y que pertenece a los tilacosmílidos, un linaje extinto emparentado con los marsupiales. Miramar, en la costa atlántica de la provincia de Buenos Aires, es conocida por sus acantilados con abundantes restos fósiles.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/salud/ciencia/2026/09/28/hallazgo-en-miramar-encontraron-fosiles-de-un-depredador-con-dientes-de-sable-que-vivio-hace-mas-de-2-millones-de-anos-en-la-costa-bonaerense/",
+     "imagen": "https://www.infobae.com/resizer/v2/HF53BQQJ7VCHVDS443DXRSWSX4.jpg?auth=e4c85c2140b2b71541c0883e0a124a4b5ec9f96577749f57a54c59676d05d599&smart=true&width=676&height=451",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:05",
+     "autor": "Maria Eugenia Cazeneuve",
+     "titulo_original": "Hallazgo en Miramar: encontraron fósiles de un depredador “dientes de sable” que vivió hace más de 2 millones de años en la costa bonaerense"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-26",
+     "titulo": "el temporal deja destrozos en Córdoba y el SMN anticipa un nuevo pico de tormentas el martes",
+     "resumen": "La caída de granizo del tamaño de una pelota de golf provocó destrozos en localidades como Unquillo y Mendiolaza, dentro de la alerta amarilla vigente en gran parte de Córdoba. El Servicio Meteorológico Nacional prevé un nuevo repunte de la inestabilidad este martes en el AMBA, con ráfagas de viento de hasta 59 kilómetros por hora, antes de que lleguen jornadas más secas y frías hacia el fin de semana.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Impresionante tormenta de granizo en Córdoba con piedras del tamaño de una mandarina: hubo destrozos en Unquillo y Mendiolaza",
+       "url": "https://www.clarin.com/sociedad/impresionante-tormenta-granizo-azoto-cordoba-causo-destrozos-unquillo-mendiolaza_0_6Z0Q2rOb0d.html"
+      },
+      {
+       "id": "IB-02",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Granizo, destrozos y fuertes lluvias en Córdoba: rige una alerta amarilla",
+       "url": "https://www.infobae.com/sociedad/2026/09/28/granizo-destrozos-y-fuertes-lluvias-en-cordoba-rige-una-alerta-amarilla/"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/09/28/tiempo-en-el-amba-hasta-cuando-siguen-las-tormentas-y-que-pasara-con-la-temperatura-esta-semana/",
+     "imagen": "https://www.infobae.com/resizer/v2/5UOXVS6MP5GU7MR7K24NOQQXWM.png?auth=03b00abc7532e3fb6daea302588583f2f2832395583b8fd1b4ca0a3e232fab9e&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:59",
+     "autor": "",
+     "titulo_original": "Tiempo en el AMBA: hasta cuándo siguen las tormentas y qué pasará con la temperatura esta semana"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del lunes 28 de septiembre. El dólar oficial opera este lunes en mil quinientos cincuenta pesos en el Banco Nación, un nuevo máximo nominal, y el dólar blue en mil quinientos sesenta y cinco pesos. El panorama financiero se mantiene tenso: los bonos soberanos en dólares completan once ruedas consecutivas a la baja y el riesgo país volvió a subir, aunque las fuentes difieren sobre el nivel exacto: Infobae lo ubicó en seiscientos cuarenta y un puntos, un máximo desde diciembre, mientras que Clarín y Ámbito lo situaron más cerca de los seiscientos treinta. El índice Merval cedió uno coma cinco por ciento y las acciones argentinas en Wall Street llegaron a caer seis por ciento. A esto se suma un dato social preocupante: la pobreza del primer semestre trepó al treinta y dos coma tres por ciento de las personas, con un empeoramiento de cuatro coma uno puntos porcentuales respecto del semestre anterior, aunque otra nota del mismo Cronista habló de treinta y seis coma ocho por ciento, una discrepancia que vale la pena marcar. En política, el presidente Javier Milei calificó de excelente su relación con la senadora Patricia Bullrich, aunque evitó confirmar una fórmula conjunta para dos mil veintisiete y remarcó que las diferencias forman parte del modelo libertario. Este martes viaja a Francia junto a trece gobernadores aliados para la Argentina Week, un foro de inversiones que también busca mostrar respaldo político federal, sin la presencia de mandatarios del peronismo opositor. En la causa contra el exjefe de Gabinete Manuel Adorni, el fiscal Gerardo Pollicita amplió catorce años la investigación patrimonial, hasta mil novecientos noventa y ocho, y pidió verificar operaciones por unos quinientos noventa y un mil dólares en las billeteras de criptomonedas que el propio Adorni entregó a la Justicia. Además, el Gobierno designó a tres jueces cuyos pliegos estaban frenados en el Senado, oficializó a Pablo Di Liscia al frente de la Secretaría Nacional de Discapacidad en reemplazo de Alejandro Vilches, y el proyecto de mercado de carbono volvió a demorarse en el Senado por diferencias con Misiones. En economía y mercados, China confirmó que bajará aranceles a varios productos agroindustriales de Estados Unidos, aunque dejó afuera a la soja, que ya cae casi nueve dólares en Chicago. Las reservas brutas del Banco Central cerraron el viernes en cuarenta y ocho mil doscientos cuarenta y cinco millones de dólares, con una caída semanal de mil quinientos cincuenta y tres millones, principalmente por un pago de casi ochocientos millones al Fondo Monetario Internacional, aunque otra fuente proyecta que las reservas netas podrían acercarse a los diez mil millones hacia fin de trimestre. Wall Street abrió la semana en rojo y el petróleo amenaza con volver a superar los cien dólares por barril, ante el estancamiento de las negociaciones en Medio Oriente. Para una empresa, esa combinación de petróleo más caro y tasas más altas en el mundo encarece tanto la logística como el financiamiento. En el plano fiscal, la recaudación acumula una caída de casi cuatro por ciento en el año, lo que deja poco margen para profundizar el ajuste del gasto pese a la meta de superávit primario de uno coma tres por ciento del producto que fija el Presupuesto dos mil veintisiete. Y China y Estados Unidos crearon una junta bilateral para revisar aranceles por sesenta mil millones de dólares sobre bienes de dos mil veinticuatro. En negocios y empresas, la papelera Celulosa Argentina, en concurso preventivo, volvió a sufrir paradas de producción por falta de gas en sus plantas de Capitán Bermúdez y Zárate, y recurrió a la Justicia para garantizar el suministro. El Banco Central, por su parte, prepara un nuevo mercado de cupones de tarjetas de crédito para que bancos y procesadoras compitan y bajen el costo del financiamiento a los comercios. Colonia Express sumará una ruta directa a Buenos Aires con un barco para seiscientos pasajeros desde Montevideo, y el Gobierno abrió a concesión internacional el Palais de Glace, cerrado desde diciembre de dos mil diecisiete. En impuestos, laboral y normativa, el nuevo Fondo de Asistencia Laboral que empieza a regir en noviembre tendrá tratamientos distintos en Ganancias, Bienes Personales e IVA, según el impuesto que se analice. Catamarca propuso eliminar Ingresos Brutos para toda su industria, lo que reabre el debate tributario en otras provincias, y el tapón fiscal de la Ley de Inocencia Fiscal muestra alcances distintos según qué versión de la norma se aplique a una inspección en curso. En materia salarial, los metalúrgicos de la rama diecisiete cobrarán en octubre un aumento de cuatro por ciento más una suma fija de treinta mil pesos, mientras que los empleados de comercio recibirán haberes que superan el millón trescientos mil pesos en varias categorías. Y el jefe de Gobierno porteño, Jorge Macri, anunció una exención del pago del impuesto de Alumbrado, Barrido y Limpieza para determinados sectores hasta mediados de dos mil veintisiete. En consumo, construcción y retail, industriales denunciaron subas de hasta trescientos por ciento en la factura eléctrica tras la liberación del mercado energético, con cargos que según ellos duplican lo pactado en los contratos. Café Martínez sumó una franquicia en Añelo, Neuquén, para acompañar el auge energético de Vaca Muerta, y en el mercado inmobiliario porteño el metro cuadrado de un monoambiente ronda los dos mil cuatrocientos setenta y seis dólares, con un valor promedio de ciento diez mil dólares para una unidad de cuarenta metros cuadrados. En management y finanzas corporativas, PepsiCo, Disney, Unilever y Newsan abrieron su temporada de convocatoria a jóvenes profesionales, mientras que a nivel global Meta avanza en un modelo de negocio para cobrar por agentes de inteligencia artificial y Nubank evalúa desembarcar con su banca digital en Estados Unidos, con potenciales de suba que Wall Street calcula en veintitrés y casi sesenta y nueve por ciento para sus acciones, respectivamente. En el mundo, un operativo militar mató en Colombia a un líder de las disidencias de las FARC señalado por financiar el magnicidio del senador Miguel Uribe, mientras bandas armadas ponen a prueba la política de mano dura del nuevo presidente colombiano en la ciudad turística de Santa Marta. En el Reino Unido, la policía confirmó que los cinco detenidos por un presunto plan de ataque a una base militar usada por Estados Unidos son todos británicos, y el régimen iraní rechazó cualquier vínculo. El propio líder supremo de Irán reapareció públicamente por primera vez en siete meses para reivindicar sus posiciones sobre el estrecho de Ormuz y desafiar a Donald Trump. En España, el Gobierno de Pedro Sánchez definirá mañana martes un decreto de vivienda mientras sigue la acampada de protesta en la Puerta del Sol de Madrid. En deportes, Racing se quedó sin director técnico: Juan Pablo Vojvoda dejó el cargo tras la eliminación ante Boca en la Copa Argentina, y Sebastián Romero asumirá de forma interina. La AFA confirmó los horarios de los tres amistosos de la Selección, incluida la despedida de Lionel Messi, ante Bolivia, Burkina Faso y Benín. Uruguay goleó cuatro a uno a Corea del Sur en Seúl, con un doblete de Darwin Núñez, y le dio a Diego Forlán su primer triunfo como técnico de la selección charrúa. Boca, ya clasificado a semifinales de la Copa Argentina, afrontará ocho partidos en treinta días y tiene cuatro caminos posibles para llegar a la Copa Libertadores de dos mil veintisiete. En automovilismo, Lando Norris le pidió disculpas a Franco Colapinto por el choque de Bakú y reconoció que también se equivocó. Y la argentina Ailín Pérez llegó a siete triunfos consecutivos en UFC y espera una chance por el título. Para cerrar, en los acantilados de Miramar, en la costa bonaerense, se presentó una nueva especie de depredador prehistórico de hace dos coma cinco millones de años, un hallazgo que vuelve a poner el foco en ese destino de la costa atlántica. En sociedad, un temporal de granizo del tamaño de una pelota de golf provocó destrozos en Córdoba, y el Servicio Meteorológico Nacional anticipa un nuevo pico de tormentas este martes en el Área Metropolitana de Buenos Aires antes de que lleguen jornadas más secas hacia el fin de semana. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Le Grand Continent no publicó notas nuevas en esta corrida (0 notas), por lo que se omitió la sección Europa y geopolítica. El Cronista difundió dos cifras distintas de pobreza del primer semestre en notas separadas (32,3% y 36,8%); se usó la más detallada como cifra principal y se dejó constancia de la discrepancia en el resumen. No hubo material de fuentes de turismo dedicadas esta corrida: se usó el hallazgo paleontológico en los acantilados de Miramar como destino argentino de la sección, tal como prevé la rutina para estos casos.",
+ "slug": "2026-09-28-mediodia",
+ "generado_ba": "28/09/2026 15:19"
+}
