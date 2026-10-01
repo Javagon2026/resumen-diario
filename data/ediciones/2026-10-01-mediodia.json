@@ -1,0 +1,963 @@
+{
+ "fecha": "2026-10-01",
+ "edicion": "mediodia",
+ "titulo": "YPF confirma el megaproyecto LNG y ARCA reglamenta el fondo para despidos",
+ "apertura": "El mediodía del jueves estuvo marcado por una serie de anuncios de inversión hechos desde el Argentina Week en París: YPF confirmó la fecha para firmar el proyecto Argentina LNG, Eramet y Pan American Energy pidieron el ingreso al RIGI, y el canciller Pablo Quirno instó a los empresarios del Coloquio de IDEA a acompañar con capital el cambio de reglas. En el plano institucional, la Corte Suprema aclaró que su fallo sobre la Ley de Tierras fue solo procesal y se confirmó que el vicepresidente de Estados Unidos, JD Vance, visitará el país en noviembre. En lo normativo, ARCA reglamentó el Fondo de Asistencia Laboral que regirá desde el mes próximo, mientras el riesgo país se mantiene por encima de los 610 puntos y el petróleo volvió a superar los 100 dólares.",
+ "claves": [
+  "YPF confirmó que firmará el 26 de noviembre en Buenos Aires la decisión final de inversión del proyecto Argentina LNG, junto con Eni y XRG, lo que habilitaría el inicio de obras en febrero de 2027.",
+  "ARCA reglamentó el Fondo de Asistencia Laboral (FAL): regirá desde el 1° de noviembre con un aporte patronal del 2,5% para pymes y entidades sin fines de lucro y del 1% para las grandes empresas.",
+  "La Corte Suprema aclaró que su fallo sobre la Ley de Tierras fue solo procesal y que no definió la constitucionalidad de la apertura a la compra de tierras por extranjeros.",
+  "El vicepresidente de Estados Unidos, JD Vance, visitará la Argentina en noviembre para reunirse con Javier Milei, en la primera visita de un funcionario de ese rango en casi una década.",
+  "Eramet confirmó que pedirá el ingreso al RIGI para ampliar en US$ 350 millones su planta de litio en Salta, y Pan American Energy solicitó el régimen para invertir US$ 1.200 millones en Cerro Dragón.",
+  "El riesgo país se mantiene por encima de los 610 puntos y los bonos argentinos acumulan caídas de hasta 15% desde sus máximos, mientras el petróleo Brent volvió a superar los 100 dólares.",
+  "Franco Colapinto llegó a la previa del Gran Premio de Bahréin, que la Fórmula 1 corre en Malasia, con el foco puesto en el choque de Bakú y la relación con Flavio Briatore.",
+  "Le Grand Continent analiza por qué Estados Unidos no frena las inversiones en inteligencia artificial pese a los riesgos fiscales que implica ese nivel de gasto."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 100",
+   "variacion": "+2,5% en la rueda",
+   "fuente": "CL-12"
+  },
+  {
+   "nombre": "Compra diaria del BCRA",
+   "valor": "US$ 160 millones",
+   "variacion": "máximo diario de septiembre",
+   "fuente": "IB-24"
+  },
+  {
+   "nombre": "Liquidación agroexportadora de septiembre",
+   "valor": "US$ 3.228 millones",
+   "variacion": "+17% vs. agosto",
+   "fuente": "AM-24"
+  },
+  {
+   "nombre": "Suba del monotributo en octubre",
+   "valor": "16,8%",
+   "fuente": "IP-12"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-14",
+     "titulo": "JD Vance visitará la Argentina en noviembre para reunirse con Milei",
+     "resumen": "El vicepresidente de Estados Unidos, JD Vance, viajará a la Argentina en noviembre para un encuentro con Javier Milei, según confirmaron a Infobae fuentes oficiales en Washington. Aún no se precisó la fecha, el lugar ni la agenda, pero sería la primera visita de un funcionario de ese rango en casi una década. En octubre de 2025 Milei había viajado a Washington para reunirse con Donald Trump y saludar a Vance en la Casa Blanca.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/01/el-vicepresidente-de-los-estados-unidos-jd-vance-visitara-argentina-en-noviembre/",
+     "imagen": "https://www.infobae.com/resizer/v2/YUGI7VHL6NGELKBNTZJBK4TYAM.png?auth=675169adf094cc998271ed3ebf7b18afa772a2d3bdb81ac55f9f5825f0b00f3e&smart=true&width=592&height=333",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:24",
+     "autor": "Román Lejtman",
+     "titulo_original": "El vicepresidente de los Estados Unidos JD Vance visitará la Argentina en noviembre"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "La Corte Suprema aclaró que su fallo sobre la Ley de Tierras fue solo procesal",
+     "resumen": "La Corte Suprema salió a aclarar el alcance de su sentencia en la causa \"CECIM c. Gobierno Nacional\", tras las críticas que generó el fallo que destrabó la venta de tierras a extranjeros. El tribunal remarcó que solo decidió un aspecto procesal, la legitimación de una asociación para pedir una medida cautelar, y que no se pronunció sobre la constitucionalidad del artículo 154 del DNU 70/2023. La Corte sostuvo que su decisión se ajusta a sus propios precedentes y no afecta a otras cautelares con el mismo objeto en trámite.",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Ley de Tierras: la Corte Suprema aclaró su fallo y cruzó las críticas al tribunal",
+       "url": "https://www.ambito.com/politica/ley-tierras-la-corte-suprema-aclaro-su-fallo-y-cruzo-las-criticas-al-tribunal-n6328855"
+      },
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La Corte aclaró que no definió la constitucionalidad de la derogación de la Ley de Tierras",
+       "url": "https://www.iprofesional.com/legales/465674-ley-de-tierras-corte-suprema-aclaro-alcance-fallo-dnu-70-2023"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/ley-de-tierras-la-corte-suprema-aclaro-que-su-fallo-fue-por-una-cuestion-procesal-y-no-afecta-al-regimen/",
+     "imagen": "https://www.cronista.com/resizer/v2/5DLO7K75YREDTAMJPT2J3KPOGI.webp?auth=f76417e3960c61f83a82593850c8910febc8750ee356af6f9e7a5f71d53e8181&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:49",
+     "autor": "Equipo de Política",
+     "titulo_original": "Ley de Tierras: la Corte Suprema aclaró que su fallo fue por una cuestión procesal y no afecta al régimen"
+    },
+    {
+     "id": "IB-03",
+     "titulo": "Milei se reunió con los gobernadores en París y les agradeció el acompañamiento",
+     "resumen": "Javier Milei se reunió con los gobernadores argentinos que viajaron a París para la segunda edición de la Argentina Week, en un encuentro privado realizado en un salón de la OCDE. Los mandatarios provinciales señalaron que el clima fue mejor que en el viaje a Nueva York de marzo, cuando se habían sentido destratados. El Presidente les agradeció en público y en privado que lo acompañaran para transmitir que la Argentina es un destino atractivo para las inversiones europeas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/01/clima-menos-tenso-y-algunas-dudas-milei-se-reunio-con-los-gobernadores-en-paris-y-les-agradecio-por-acompanarlo/",
+     "imagen": "https://www.infobae.com/resizer/v2/VQMBWLGH3FFMDBQ5EYJ6RLHZEM.jpeg?auth=210c66bbc1289671b3113790d0872b78a8332fad1ff3d4d62e3f1673c7facdad&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:04",
+     "autor": "Sebastián Catalano",
+     "titulo_original": "Clima menos tenso y algunas dudas: Milei se reunió con los gobernadores en París y les agradeció por acompañarlo"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Estados Unidos pidió desescalar la tensión entre la Argentina y el Reino Unido por Malvinas",
+     "resumen": "El embajador de Estados Unidos ante la ONU, Mike Waltz, pidió desescalar la tensión entre la Argentina y Gran Bretaña por la disputa sobre la explotación petrolera en Malvinas. El pedido llega después de que Londres convocara a la embajadora argentina, Mariana Plaza, y advirtiera que la ofensiva de Buenos Aires por el proyecto Sea Lion daña la relación bilateral. El Gobierno argentino rechazó las críticas británicas y las desafió a dirimir el caso en la justicia internacional.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Se tensa el vínculo entre Argentina y Reino Unido por Malvinas: los próximos pasos en la disputa por el petróleo",
+       "url": "https://www.infobae.com/politica/2026/10/01/se-tensa-el-vinculo-entre-argentina-y-reino-unido-por-malvinas-los-proximos-pasos-en-la-disputa-por-el-petroleo/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/causa-malvinas-eeuu-llamo-desescalar-tension-argentina-gran-bretana_0_49dhYOBmXK.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/5NoFt6EFC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Causa Malvinas: EE.UU. llamó a desescalar la tensión entre Argentina y Gran Bretaña"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "El diputado libertario Jairo Guzmán respondió al cruce con Grabois por Malvinas",
+     "resumen": "El diputado nacional Jairo Guzmán, de La Libertad Avanza, se refirió al escándalo que protagonizó un día antes con su par de Fuerza Patria, Juan Grabois, durante el debate por un proyecto sobre la soberanía de Malvinas. El legislador santacruceño pidió disculpas por la repercusión del episodio y sostuvo que el debate debía concentrarse en la iniciativa tratada. En Diputados, mientras tanto, se impulsa un pedido para expulsar a Grabois por haber insultado a legisladores libertarios en el mismo plenario.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Diputados: proponen expulsar a Juan Grabois por insultar a otros legisladores",
+       "url": "https://www.ambito.com/politica/diputados-proponen-expulsar-juan-grabois-insultar-otros-legisladores-n6328837"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/01/jairo-guzman-el-diputado-libertario-que-se-enfrento-a-grabois-si-no-estuviera-haciendo-un-acting-habria-que-hacerle-un-control-psicologico/",
+     "imagen": "https://www.infobae.com/resizer/v2/D5TWRPZGKBHZ3G36S6QIJ6K4EA.jpg?auth=9f141c5f635d5d0d1225f2df0c9c5fb74be32e46acdeb47a81050478ef07e497&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:26",
+     "autor": "",
+     "titulo_original": "Jairo Guzmán, el diputado libertario que se enfrentó a Grabois: “Si no estuviera haciendo un acting, habría que hacerle un control psicológico”"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Bullrich llegó a IDEA con agenda propia y marcó distancia del Gobierno",
+     "resumen": "Patricia Bullrich disertó ante empresarios en el Coloquio de IDEA en Mar del Plata, un día después de que Javier Milei abriera el encuentro, en medio de roces con el Gobierno. La senadora sostuvo que si el país tiene \"una infraestructura y un costo argentino más caro, cuesta que podamos competir en igualdad de condiciones\" y volvió a pedir que los cambios en la macroeconomía impacten en el bolsillo de las familias. Además calificó de \"apresurado\" que el Ejecutivo llevara al Congreso el debate sobre la Ley de Inviolabilidad de la Propiedad Privada mientras el DNU 70/2023 sigue en la Justicia.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Patricia Bullrich en IDEA: \"Si tenemos una infraestructura y un costo argentino más caro, cuesta que podamos competir en igualdad de condiciones\"",
+       "url": "https://www.ambito.com/economia/patricia-bullrich-idea-si-tenemos-una-infraestructura-y-un-costo-argentino-mas-caro-cuesta-que-podamos-competir-igualdad-condiciones-n6328911"
+      },
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Bullrich volvió a marcar distancia del Gobierno con otro cuestionamiento: “Apresurado”",
+       "url": "https://www.cronista.com/economia-politica/bullrich-volvio-a-marcar-distancia-del-gobierno-con-otro-cuestionamiento-a-milei-apresurado/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/patricia-bullrich-llega-idea-agenda-propia-disertacion-empresarios-almuerzo-clave-electoral_0_xDtO2X6Ghf.html",
+     "imagen": "https://www.clarin.com/img/2026/08/06/JKjDPU7Hg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Patricia Bullrich llega a IDEA con agenda propia: disertación ante empresarios y almuerzo en clave electoral"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "Mostraron en el juicio por los Cuadernos imágenes de la bóveda de Cristina Kirchner en El Calafate",
+     "resumen": "En la audiencia del juicio por los Cuadernos de la corrupción se exhibieron fotos del allanamiento realizado en agosto de 2018 a la casa de Cristina Kirchner en El Calafate, a pedido de la fiscal Fabiana León. Las imágenes muestran el ingreso a un cuarto blindado que funcionaba como bóveda, con un marco de acero con bisagras para una puerta reforzada. Según declaró un comisario que participó del operativo, hubo que convocar a Gendarmería para abrir el recinto con herramientas especiales.",
+     "relacionadas": [
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Juicio de los Cuadernos: mostraron imágenes de la bóveda y de las cajas fuertes de Cristina Kirchner en Santa Cruz",
+       "url": "https://www.infobae.com/judiciales/2026/10/01/juicio-de-los-cuadernos-declaran-mas-testigos-de-allanamientos-y-procedimientos/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/caso-cuadernos-mostraron-imagenes-boveda-cristina-kirchner-casa-calafate_0_nmZGykOReD.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/feIv0LzEs_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Caso Cuadernos: mostraron imágenes de la bóveda de Cristina Kirchner en la casa de El Calafate"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-08",
+     "titulo": "El FMI remarcó la necesidad de una \"distribución más equitativa\" del crecimiento argentino",
+     "resumen": "El FMI señaló que, en sus conversaciones con el Gobierno, uno de los ejes centrales es lograr que el crecimiento de los sectores más dinámicos, como el energético y el minero, se distribuya de manera más equitativa en la economía y entre los trabajadores. La vocera del organismo, Julie Kozack, lo planteó al cierre de la misión que evaluó la tercera revisión del programa con la Argentina. El Fondo reconoció avances en la estabilización y la baja de la inflación, aunque el desempeño de la actividad económica sigue en discusión con el staff técnico.",
+     "relacionadas": [
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El mensaje del FMI al final de su misión en la Argentina",
+       "url": "https://www.cronista.com/economia-politica/el-mensaje-del-fmi-al-final-de-su-mision-en-la-argentina/"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El FMI advirtió al Gobierno que es importante ampliar el crecimiento a los sectores rezagados y a los trabajadores",
+       "url": "https://www.ambito.com/economia/el-fmi-advirtio-al-gobierno-que-es-importante-ampliar-el-crecimiento-los-sectores-rezagados-y-los-trabajadores-n6328916"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-fmi-reconocio-sus-inquietudes-por-el-crecimiento-de-la-economia-argentina-y-hablo-de-una-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2G6ZZ7WJQVG4LMYHCQC2GBJDFM.JPG?auth=824f1fdb828ceb84236efc22d07141f8d6fbfdce1779b4c8579daff94acbad49&smart=true&width=900&height=553",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:02",
+     "autor": "Guillermo Idiart",
+     "titulo_original": "El FMI reconoció sus inquietudes por el crecimiento de la economía argentina y habló de “una distribución más equitativa”"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "El riesgo país supera los 610 puntos y los bonos argentinos arrancan octubre en baja",
+     "resumen": "El riesgo país se mantiene por encima de los 610 puntos y los bonos soberanos argentinos acumulan pérdidas de entre 4,5% y 15% desde sus máximos, con tasas de dos dígitos en toda la curva. El Global 2029 cae 0,18% y el Global 2030 pierde 0,27%, mientras los títulos más largos retroceden hasta 0,65%. Acciones y bonos locales encaran así la primera rueda de octubre tras un mes complejo, afectado por factores locales e internacionales. Para una empresa: el riesgo país elevado y las tasas en dólares de dos dígitos siguen encareciendo el financiamiento externo para proyectos de inversión.",
+     "relacionadas": [
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Caen los bonos: el riesgo país se mantiene por encima de los 600 puntos y el mercado evalúa oportunidades",
+       "url": "https://www.cronista.com/finanzas-mercados/caen-los-bonos-el-riesgo-pais-se-mantiene-por-encima-de-los-600-puntos-y-el-mercado-evalua-oportunidades/"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/con-el-riesgo-pais-encima-los-610-puntos-las-acciones-y-bonos-se-someten-la-primera-rueda-octubre-n6328875",
+     "imagen": "https://media.ambito.com/p/7a8f1ec5e9df2d81f5aa037b80e71a95/adjuntos/239/imagenes/043/657/0043657211/1200x675/3338x1243:3358x1263/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:45",
+     "autor": "",
+     "titulo_original": "Con el riesgo país por encima de los 610 puntos, las acciones y bonos se someten a la primera rueda de octubre"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "El petróleo volvió a superar los 100 dólares por un dato preocupante de China",
+     "resumen": "El crudo Brent, referencia para la Argentina, sube 2,5% este jueves y vuelve a ubicarse por encima de los 100 dólares. El WTI texano había cerrado septiembre con una suba cercana al 5%, impulsado por la guerra en Medio Oriente. Un informe sobre la demanda china sumó presión adicional al mercado energético. Para una empresa: un petróleo más caro presiona los costos de energía, fletes y logística en los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/petroleo-sube-fuerte-vez-nuevo-us-100-preocupante-dato-apunta-china_0_lurEDTeXgO.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/YyZyl1igv_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El petróleo sube fuerte otra vez y ya está de nuevo en US$ 100: el preocupante dato que apunta a China"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "El BCRA aceleró la compra de dólares y tocó el máximo diario de septiembre",
+     "resumen": "El BCRA compró el miércoles 160 millones de dólares en la rueda de contado, el monto diario más alto de septiembre y equivalente al 15,5% de la oferta spot. A lo largo del mes las compras oficiales sumaron 473 millones de dólares. El dólar mayorista se ubicó en 1.536,90 pesos para la venta, lejos del techo de la banda cambiaria que el BCRA fija en 1.920,44 pesos.",
+     "relacionadas": [
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El dólar oficial sube $ 5 este jueves, a contramano del blue: a cuánto cotiza",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-jueves-1-de-octubre/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/01/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-1-de-octubre/",
+     "imagen": "https://www.infobae.com/resizer/v2/NZYGUQJ3UVAC5A3XWEL4A5FNSM.JPG?auth=605bc17984737cd9d2789c8a0fcfb71bf34491e309c24cffa78ab0c2c5ae1264&smart=true&width=900&height=579",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:20",
+     "autor": "",
+     "titulo_original": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este jueves 1 de octubre"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Quirno les pidió a los empresarios de IDEA que acompañen con inversiones el cambio de reglas",
+     "resumen": "Desde París, el canciller Pablo Quirno envió un mensaje grabado a los empresarios del Coloquio de IDEA en el que destacó el récord de exportaciones, los 25 proyectos aprobados en el RIGI y la meta de que los acuerdos comerciales cubran el 80% del PBI mundial. Sostuvo que el equilibrio fiscal, la desregulación y el respeto por los contratos le devolvieron previsibilidad de largo plazo al cálculo empresario. Quirno había participado también de manera virtual en el cónclave de Mar del Plata.",
+     "relacionadas": [
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Pablo Quirno invitó a invertir y anticipó más apertura comercial: \"El mundo necesita a la Argentina\"",
+       "url": "https://www.ambito.com/politica/pablo-quirno-invito-invertir-y-anticipo-mas-apertura-comercial-el-mundo-necesita-la-argentina-n6328812"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/quirno-les-pidio-a-los-empresarios-del-coloquio-de-idea-que-acompanen-con-inversiones-el-cambio-de-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/37HPZLDU7BFCZPKEX2H623X7KM.jpg?auth=fc6d44756edbf74f5a81d1ce2cf7ce967dbde7dd429840495fd80e21acc408d6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:55",
+     "autor": "",
+     "titulo_original": "Quirno les pidió a los empresarios del Coloquio de IDEA que acompañen con inversiones el cambio de reglas"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "El agro liquidó US$ 3.228 millones en septiembre, el tercer mejor registro en 25 años",
+     "resumen": "El ingreso de divisas del complejo agroexportador sumó 3.228 millones de dólares en septiembre, una suba del 17% frente a agosto, según la Cámara de la Industria Aceitera y el Centro de Exportadores de Cereales. En los primeros nueve meses del año el acumulado llega a 22.275 millones de dólares, un 22% por debajo de igual período de 2025. Ciara-CEC destacó que septiembre de 2026 es el tercer registro más alto de la serie de 25 años.",
+     "relacionadas": [
+      {
+       "id": "LN-16",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Por los embarques de maíz: en septiembre creció un 17% la liquidación de divisas por exportaciones de granos y oleaginosas",
+       "url": "https://www.lanacion.com.ar/economia/campo/por-los-embarques-de-maiz-en-septiembre-crecio-un-17-la-liquidacion-de-divisas-por-exportaciones-de-nid01102026/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/el-agro-liquido-us3228-millones-septiembre-y-alcanzo-el-tercer-mejor-registro-25-anos-n6328761",
+     "imagen": "https://media.ambito.com/p/2d2874a06e50095f002da702343999ee/adjuntos/239/imagenes/040/723/0040723123/dolar-agro-5-grandejpgjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:28",
+     "autor": "",
+     "titulo_original": "El agro liquidó u$s3.228 millones en septiembre y alcanzó el tercer mejor registro en 25 años"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-20",
+     "titulo": "YPF confirmó que firmará el 26 de noviembre la decisión final de Argentina LNG",
+     "resumen": "El CEO de YPF, Horacio Marín, anunció en París que la decisión final de inversión del proyecto Argentina LNG se firmará el 26 de noviembre en Buenos Aires junto a la italiana Eni y la emiratí XRG. La concreción de esa decisión habilitaría el inicio de las obras en febrero de 2027, según había anticipado El Cronista. El proyecto busca convertir a la Argentina en exportador de gas natural licuado.",
+     "relacionadas": [
+      {
+       "id": "CR-25",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Cómo es el proyecto de u$s 51.000 millones que desarrollará YPF junto a Eni y XRG y cuándo arrancan las obras",
+       "url": "https://www.cronista.com/economia-politica/ypf-pone-fecha-a-la-mayor-inversion-de-la-historia-26-de-noviembre/"
+      },
+      {
+       "id": "IP-16",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "YPF confirmó la fecha exacta para firmar la mayor inversión energética de la historia argentina",
+       "url": "https://www.iprofesional.com/energia/465666-argentina-lng-inversion-record-promete-40000-empleos-salto-exportador-historico-octubre-2026"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/marin-confirmo-que-el-megaproyecto-argentina-lng-de-ypf-se-firmara-en-noviembre-el-impacto-de-la-mayor-inversion-de-la-historia-del-pais/",
+     "imagen": "https://www.cronista.com/resizer/v2/XX44NG4HY5BN7NX6WYFC6VUIFA.png?auth=06c5e10bda74c52476bfef31858980e271be4a0242d7724db9ae858763be9670&smart=true&width=900&height=575",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:15",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Marín confirmó la fecha del megaproyecto Argentina LNG de YPF: el impacto de “la mayor inversión de la historia del país”"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Eramet pedirá el RIGI para ampliar en US$ 350 millones su planta de litio en Salta",
+     "resumen": "La minera francesa Eramet anunció en el Argentina Week de París que solicitará el ingreso al RIGI para ampliar la planta Centenario-Ratones, en la Puna salteña, con una inversión adicional de 350 millones de dólares. El proyecto elevaría la capacidad de producción de 24.000 a 35.000 toneladas anuales de carbonato de litio, un salto de casi 46%. La decisión final de inversión está prevista para fines de 2027, y la compañía ya invirtió unos 950 millones de dólares en la planta.",
+     "relacionadas": [
+      {
+       "id": "CR-04",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El gigante francés Eramet solicitará el RIGI para producir más litio en Salta y estima invertir u$s 350 millones",
+       "url": "https://www.cronista.com/negocios/el-gigante-frances-eramet-solicitara-el-rigi-para-producir-mas-litio-en-salta-y-estima-invertir-us-350-millones/"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Karina Milei con empresarios en Francia: anuncios de Eramet y Huttopia",
+       "url": "https://www.ambito.com/politica/karina-milei-empresarios-francia-anuncios-eramet-y-huttopia-n6328910"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/eramet-dijo-argentina-week-presentara-rigi-ampliar-planta-litio-salta-us350-millones_0_n2ZFT59Jh1.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/6kX--EXtk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Eramet dijo en el Argentina Week que se presentará al RIGI para ampliar su planta de litio en Salta por US$350 millones"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Pan American Energy pidió entrar al RIGI con una inversión de US$ 1.200 millones en Cerro Dragón",
+     "resumen": "Pan American Energy presentó la solicitud de adhesión al RIGI para un proyecto de recuperación terciaria en Cerro Dragón, Chubut, el principal yacimiento convencional del país, con una inversión cercana a los 1.200 millones de dólares. La compañía prevé sumar 46 millones de barriles y extender la vida útil del área. El anuncio se hizo en París, con la participación del ministro de Economía, Luis Caputo, y el gobernador de Chubut, Ignacio Torres.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/pan-american-energy-busca-ingresar-al-rigi-con-una-inversion-de-us1200-millones-para-revitalizar-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RZ6WK2JOQVDETPVYHZCJCPTUJM.jpeg?auth=fd56eff885c8eca6f36fbf11ecf4857d854b400560389d560e17c49a50623ed6&smart=true&width=900&height=532",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:02",
+     "autor": "Francisco Jueguen",
+     "titulo_original": "Pan American Energy busca ingresar al RIGI con una inversión de US$1200 millones para revitalizar Cerro Dragón"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Arcor y Danone pusieron números a su alianza y definieron cuánto vale Mastellone",
+     "resumen": "La reorganización societaria de la industria láctea avanzó con la presentación de valuaciones y relaciones de canje para la nueva estructura conjunta de Arcor y Danone en torno a Mastellone Lácteos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465659-arcor-valuo-mastellone-en-us418-millones-y-avanza-con-danone",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601266.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:35",
+     "autor": "",
+     "titulo_original": "Arcor y Danone ponen números a su alianza: cuánto vale Mastellone y cómo sigue"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Pecom reorganiza su negocio de grandes obras de petróleo, gas, minería y electricidad",
+     "resumen": "Pecom trasladará a una sociedad específica su negocio de ingeniería y construcción enfocado en proyectos de petróleo, gas, minería y electricidad, en un movimiento que incluye activos, contratos y empleados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465670-pecom-separa-todo-su-negocio-de-ingenieria-y-construccion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588945.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:00",
+     "autor": "",
+     "titulo_original": "Pecom mueve activos, contratos y empleados y reorganiza su negocio de grandes obras"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "La francesa Savencia cierra la planta de la ex Ilolay y pone en riesgo decenas de empleos",
+     "resumen": "Savencia fijó la fecha definitiva para el cese productivo de su planta en El Trébol, Santa Fe, que procesa 130.000 litros diarios de leche. La planta, que ya se encuentra a la venta, había pertenecido a la marca Ilolay.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465672-la-francesa-savencia-cierra-planta-de-la-ex-ilolay-y-peligran-decenas-de-empleos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620573.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:01",
+     "autor": "",
+     "titulo_original": "La francesa Savencia cierra planta de la ex Ilolay y peligran decenas de empleos"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IB-25",
+     "titulo": "ARCA reglamentó el Fondo de Asistencia Laboral, que rige desde noviembre",
+     "resumen": "ARCA reglamentó el Fondo de Asistencia Laboral (FAL), previsto en la Ley de Modernización Laboral 27.802 para ayudar a los empleadores privados a afrontar indemnizaciones y otras obligaciones por fin de contratos. La Resolución General 5907/2026, publicada el 1° de octubre, fija una contribución mensual del 2,5% para mipymes y entidades sin fines de lucro y del 1% para las grandes empresas, que se descontará de las cargas patronales. El régimen entra en vigencia el 1° de noviembre de 2026 y alcanza a las declaraciones juradas de ese período y los siguientes. Para una empresa: el FAL suma un nuevo concepto a liquidar desde noviembre junto con las cargas patronales habituales, con porcentajes distintos según el tamaño de la compañía.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "ARCA reglamentó el FAL: las claves del nuevo régimen que entra en vigencia el 1 de noviembre",
+       "url": "https://www.ambito.com/economia/arca-reglamento-el-fal-las-claves-del-nuevo-regimen-que-entra-vigencia-el-1ro-noviembre-n6328828"
+      },
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Qué es el FAL y cómo funcionará el fondo para pagar indemnizaciones",
+       "url": "https://www.ambito.com/que-es-el-fal-y-como-funcionara-el-fondo-pagar-indemnizaciones-n6328817"
+      },
+      {
+       "id": "CR-26",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "ARCA definió los detalles del FAL: cómo funcionarán los fondos para despidos",
+       "url": "https://www.cronista.com/economia-politica/arca-definio-los-detalles-del-fal-como-funcionaran-los-fondos-para-despidos/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/01/arca-reglamento-el-fal-cuando-empieza-a-regir-y-como-deberan-aportar-los-empleadores-al-fondo/",
+     "imagen": "https://www.infobae.com/resizer/v2/R55GDBONZFGLBNJTF56MQY3AEA.png?auth=33987a756efa531259c6fdd3899dd18a3cc4f9dea47054fcbbd31f6a6d20be77&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:19",
+     "autor": "",
+     "titulo_original": "ARCA reglamentó el FAL: cuándo empieza a regir y cómo deberán aportar los empleadores al fondo"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "ARCA estrena un nuevo \"semáforo\" para detectar diferencias en Ganancias",
+     "resumen": "El régimen de Inocencia Fiscal II se apoya en una declaración jurada simplificada de Ganancias precargada por ARCA, que el contribuyente puede modificar, confirmar y presentar. Cumplir con la presentación y el pago en término da un efecto liberatorio respecto del período fiscal base y presunción de exactitud para ciertas declaraciones de Ganancias e IVA no prescriptas. Esa protección puede caer si ARCA detecta una discrepancia significativa e impugna la declaración.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/inocencia-fiscal-ii-el-nuevo-semaforo-de-arca-para-detectar-diferencias-en-ganancias/",
+     "imagen": "https://www.cronista.com/resizer/v2/IIVGX6TMMZCXPNPN54UEO3LICY.png?auth=889b23398feabe46bdb46ed11dd547f63a0189af310d7f94084ae63265486d27&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:38",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "Inocencia Fiscal II: el nuevo “semáforo” de ARCA para detectar diferencias en Ganancias"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Monotributo de octubre: la cuota sube 16,8% en línea con la inflación",
+     "resumen": "ARCA difundió los nuevos valores del monotributo para octubre de 2026, con una suba del 16,8% en los montos que deben afrontar los monotributistas, en línea con la inflación registrada. La actualización alcanza a todas las categorías del régimen simplificado.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465371-monotributo-cuanto-se-paga-en-octubre-2026-segun-categoria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/02/491295.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "Monotributo octubre de 2026: cuánto paga cada categoría y cuáles son sus topes"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Así quedan los sueldos de los empleados de comercio por categoría en octubre",
+     "resumen": "Los sueldos de los empleados de comercio que se cobrarán los primeros días de octubre reflejan el último tramo del aumento paritario pactado para el trimestre julio-septiembre de 2026. Con esos incrementos, un cajero de Coto o Carrefour, regidos por la escala de Empleados de Comercio, cobrará los nuevos valores de octubre, a los que pueden sumarse adicionales que elevan el salario de bolsillo.",
+     "relacionadas": [
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Tras los aumentos, cuánto cobra un cajero de Coto y Carrefour en octubre de 2026",
+       "url": "https://www.iprofesional.com/management/465063-cuanto-gana-un-cajero-de-coto-y-carrefour-en-octubre-de-2026"
+      },
+      {
+       "id": "IP-26",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Aumento para empleados de Comercio: los sueldos de octubre, categoría por categoría",
+       "url": "https://www.iprofesional.com/management/465551-sueldo-empleados-de-comercio-cuanto-cobran-en-octubre-con-nuevo-aumento"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/465355-empleados-de-comercio-cuanto-cobra-cada-categoria-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620702.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:20",
+     "autor": "",
+     "titulo_original": "Así quedan los sueldos de empleados de comercio por categoría en octubre 2026"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Monotributo: ya son 46 las obras sociales habilitadas para elegir en octubre",
+     "resumen": "La Superintendencia de Servicios de Salud actualizó el listado oficial de obras sociales habilitadas para recibir afiliados del Régimen Simplificado, que ahora suma 46 entidades disponibles para los monotributistas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/465660-monotributo-cuales-son-las-46-obras-sociales-habilitadas-para-elegir-en-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605122.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:34",
+     "autor": "",
+     "titulo_original": "Monotributo: se amplió a 46 las obras sociales habilitadas para elegir en octubre"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-10",
+     "titulo": "Créditos UVA en octubre: qué ingreso pide cada banco y cuánto queda la cuota",
+     "resumen": "El ingreso necesario para acceder a un crédito hipotecario UVA varía según el banco, el monto financiado y el valor de la primera cuota. Para solicitar hasta 100.000 dólares, los requisitos de ingresos difieren de una entidad a otra, según el relevamiento de octubre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/465483-cuanto-hay-que-ganar-para-sacar-un-credito-hipotecario-uva-en-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614642.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:05",
+     "autor": "",
+     "titulo_original": "Créditos UVA en octubre: qué ingreso pide cada banco y cuánto queda la cuota"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "Tres bancos ya ofrecen créditos específicos para comprar casas modulares",
+     "resumen": "Tres bancos lanzaron préstamos en UVA destinados a la compra de viviendas modulares, con montos de hasta 185 millones de pesos y plazos de hasta 10 años. Cada entidad fija requisitos propios para acceder a esta línea de crédito.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/465498-que-bancos-prestan-hasta-185-millones-para-casas-modulares",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626410.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Tres bancos ya tienen créditos específicos para comprar casas modulares"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Countries: qué miran hoy los compradores, además del precio de la propiedad",
+     "resumen": "El mercado de countries dejó de regirse únicamente por el presupuesto disponible: la recuperación del mercado inmobiliario, el regreso de familias que buscan una mudanza definitiva y el desarrollo de barrios privados con mayor infraestructura ganaron peso en la decisión de compra. Según el último informe de Zonaprop, la zona Norte del Gran Buenos Aires volvió a mostrar señales de recuperación.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/countries-que-miran-hoy-los-compradores-ademas-del-precio-de-la-propiedad/",
+     "imagen": "https://www.cronista.com/resizer/v2/4SHAAKIK7JGPXKYIOJUTKV6O6Y.jpg?auth=3084bd556eac0cb2018a3d37fd58b82dee1d37d721e56afe506a2c0b9bf2729b&smart=true&width=846&height=418",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:48",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Countries: qué miran hoy los compradores, además del precio de la propiedad"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Transporte, prepagas y peajes: los aumentos confirmados para octubre",
+     "resumen": "Desde el 1° de octubre rigen nuevos aumentos en gastos habituales de las familias, con especial impacto en el transporte público: los colectivos del AMBA suben entre 3,7% y 4,3%, y en la Ciudad de Buenos Aires el boleto mínimo pasa de 887,99 a 920,48 pesos. También aumentan prepagas, trenes, subte y peajes porteños, mientras los alquileres se actualizan según las condiciones de cada contrato. Para una empresa: las subas de transporte y de otros servicios regulados impactan en los costos logísticos y en el poder de compra de los empleados.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/desde-prepagas-hasta-transporte-cuales-son-los-aumentos-confirmados-para-octubre-2026/",
+     "imagen": "https://www.cronista.com/resizer/v2/CUOVBNZKXVC6ZFNM7ERG5KTJMI.jpg?auth=8d035eed242eb17f6170f87682f4e2905442fb69c2b6a68bcb81499fc7391a57&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:45",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Desde prepagas hasta transporte: cuáles son los aumentos confirmados para octubre 2026"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "Billeteras virtuales: qué descuentos ofrecen en supermercados y comercios en octubre",
+     "resumen": "Las billeteras virtuales habilitaron para octubre descuentos en supermercados y en comercios de barrio, una herramienta que los consumidores usan cada vez más para estirar el presupuesto de las compras.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/465656-billeteras-virtuales-que-descuentos-ofrecen-en-supermercados-y-comercios-en-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622248.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:48",
+     "autor": "",
+     "titulo_original": "Billeteras virtuales: qué descuentos ofrecen en supermercados y comercios en octubre"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-16",
+     "titulo": "BlackRock: el boom de la inteligencia artificial obliga a repensar las carteras de inversión",
+     "resumen": "En su informe de otoño, BlackRock plantea que la exposición a la inteligencia artificial ya ocupa una porción creciente de los portafolios y que el desafío no es decidir si invertir en tecnología, sino cuánto riesgo relacionado con la IA existe realmente en una cartera. La estrategia que propone se divide en tres frentes: invertir en la IA, alrededor de la IA y más allá de la IA, para participar del fenómeno sin depender solo de las compañías que lideraron el rally tecnológico.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-boom-de-la-ia-cambia-las-carteras-los-riesgos-que-advierte-blackrock-y-donde-ve-oportunidades/",
+     "imagen": "https://www.cronista.com/resizer/v2/CS6B3BS2S5CGRIDQCSKM533MTE.jpg?auth=287ba8e840b6d3b80ab55c0879b6a09603cfdc2e7e8c16c7f99363bb850f8f5a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:38",
+     "autor": "Santiago Escobar",
+     "titulo_original": "El boom de la IA cambia las carteras: los riesgos que advierte BlackRock y dónde ve oportunidades"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Morgan Stanley ve un potencial de suba del 75% en las acciones de BBVA Argentina",
+     "resumen": "Morgan Stanley mantiene su recomendación Overweight sobre BBVA Argentina y calcula que la acción todavía podría subir cerca de 75%, con un precio objetivo de 23 dólares para el papel BBAR, según un informe fechado el 29 de septiembre. La entidad había reducido ese objetivo desde los 25 dólares anteriores y bajó su escenario más optimista de 32 a 29 dólares, aunque sostiene una mirada constructiva sobre el sistema bancario argentino.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/un-banco-argentino-con-potencial-del-75-la-apuesta-de-morgan-stanley-por-la-accion-y-los-desafios-que-enfrenta/",
+     "imagen": "https://www.cronista.com/resizer/v2/LLDGO5DRLJHOVG75UEM2MWUZQE.png?auth=bf8580842a67b20ff028ef3ad52ecac54873630a62bd9c4945409df205211818&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:16",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Un banco argentino con potencial del 75%: la apuesta de Morgan Stanley por la acción y los desafíos que enfrenta"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "La teoría de los \"B players\" explica por qué los equipos pierden nivel al contratar apurado",
+     "resumen": "El método Topgrading, desarrollado por Bradford Smart a partir del análisis de miles de contrataciones ejecutivas, distingue entre jugadores A, B y C según el aporte que hacen al equipo. La idea central es que contratar para tapar una vacante urgente, en lugar de para subir el nivel del equipo, es un problema que se repite en casi todas las empresas en algún momento de su historia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-teoria-que-explica-por-que-tu-equipo-se-llena-de-b-players/",
+     "imagen": "https://www.cronista.com/resizer/v2/6K5CORHIYZGG3J6VAMNX5XS3XA.jpg?auth=348362fce14e66925a3b18a3684ac1e9de0a48246c0c3a42fe1e1f9e041fb164&smart=true&width=900&height=568",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:29",
+     "autor": "Sofía Contreras",
+     "titulo_original": "La teoría que explica por qué tu equipo se llena de B players"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "Cómo le fue a la Argentina en el ranking de competencia por trabajos remotos",
+     "resumen": "Un estudio de Remtly ubicó a la Argentina con una proporción de ofertas de trabajo remoto de casi 40%, una de las más bajas de la región, en el ranking de competencia por este tipo de empleos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/465278-como-le-fue-argentina-en-el-ranking-de-competencia-por-trabajos-remotos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/04/514635.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:43",
+     "autor": "",
+     "titulo_original": "Cómo le fue Argentina en el ranking de competencia por trabajos remotos"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "Elecciones en Brasil: crece el temor a una abstención récord este domingo",
+     "resumen": "En el Gobierno brasileño admiten temor a que las elecciones del domingo repitan o superen el 21% de abstención sin precedentes registrado en los comicios de 2022. Los analistas vinculan el desinterés con los problemas de ingresos, en especial entre los sectores de menores recursos, una porción masiva del electorado tradicional de Lula. La violencia también se perfila como un factor central de una elección reñida entre Lula y Bolsonaro.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Elecciones en Brasil: la violencia, el factor que puede definir la reñida elección entre Lula y Bolsonaro",
+       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-la-violencia-el-factor-que-puede-definir-la-renida-eleccion-entre-lula-y-nid01102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/elecciones-brasil-desinteres-electoral-agita-fantasma-abstencion-record-domingo_0_bUus6x91zH.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/DcP5O7kJH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones en Brasil: el desinterés electoral agita el fantasma de una abstención récord este domingo"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Cuatro pasajeros israelíes sin entrenamiento evitaron que se estrellara un avión de Flydubai",
+     "resumen": "Un plomero, un ejecutivo de seguros, un empresario y un dentista israelíes redujeron al copiloto que había apuñalado al piloto y tomado los controles del vuelo de Flydubai, con 174 personas a bordo, según relataron a medios israelíes. Uno de ellos retomó los controles para enderezar el avión, dos inmovilizaron al atacante y el cuarto atendió al capitán herido. El primer ministro israelí, Benjamín Netanyahu, dijo que se investigará si Irán estuvo detrás del ataque, cometido por un hombre de nacionalidad omaní detenido en Arabia Saudita.",
+     "relacionadas": [
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Siguen los interrogantes del vuelo de Flydubai y Netanyahu dijo que se investigará “si Irán está detrás” del ataque",
+       "url": "https://www.lanacion.com.ar/el-mundo/siguen-los-interrogantes-del-vuelo-de-flydubai-y-netanyahu-dijo-que-se-investigara-si-iran-estaba-nid01102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/01/las-personas-indicadas-en-el-momento-indicado-como-cuatro-pasajeros-israelies-evitaron-que-se-estrellara-el-vuelo-de-flydubai/",
+     "imagen": "https://www.infobae.com/resizer/v2/RU6CRVGFDVHM5BDD33NOCBG63A.jpg?auth=3349c422309cf38c38ae9ec7e2315bcbb0f78797452bff290838d0c5a3ec8cbe&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:02",
+     "autor": "",
+     "titulo_original": "Cómo cuatro pasajeros israelíes salvaron al piloto y evitaron que se estrellara el vuelo de Flydubai"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Trump dijo que \"se acerca el momento\" de definir si hay acuerdo con Irán",
+     "resumen": "El presidente de Estados Unidos, Donald Trump, advirtió que se acerca el momento de tomar una decisión definitiva sobre Irán, entre alcanzar un pacto que termine la guerra en el estrecho de Ormuz o una opción militar. El canciller iraní presentó un informe defendiendo la vía diplomática, pese a que Trump había calificado antes de \"inaceptable\" el plan de Teherán.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/01/trump-dijo-que-se-acerca-el-momento-de-definir-si-estados-unidos-llega-a-un-acuerdo-con-iran/",
+     "imagen": "https://www.infobae.com/resizer/v2/GYTNTQXEEZFJFJCIHB4LZ2ICOM.JPG?auth=c16d688c3708f426dc761672a7b904c0b49988a27e6fde6b42a034674e3a9c24&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:49",
+     "autor": "",
+     "titulo_original": "Trump dijo que “se acerca el momento” de definir si Estados Unidos llega a un acuerdo con Irán"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Las 10 personas más ricas del mundo reúnen cerca de 3 billones de dólares, según Forbes",
+     "resumen": "El ranking de Forbes de octubre de 2026 muestra una diferencia de más de 564.000 millones de dólares entre los dos primeros puestos, con el predominio del sector tecnológico entre las grandes fortunas. Amancio Ortega, asociado a Zara, cierra el top 10 con 141.800 millones de dólares, la misma posición que ocupaba en la medición de septiembre.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/01/las-10-personas-mas-ricas-del-mundo-en-octubre-de-2026-segun-forbes/",
+     "imagen": "https://www.infobae.com/resizer/v2/Y3S6CLS6GVESVGMLEHEWP5P3M4.png?auth=36ae5adc1a9c466159d8f8113a5463a0d5e555b579d07149302b4acc6a544cc0&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:26",
+     "autor": "Santiago Abraldes",
+     "titulo_original": "Las 10 personas más ricas del mundo en octubre de 2026, según Forbes"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "El jefe del Pentágono lanzó una ofensiva contra el \"woke\" en el Ejército de Estados Unidos",
+     "resumen": "El secretario de Defensa de Estados Unidos, Pete Hegseth, anunció la creación del Comando de Guerra Autónoma, que estará a cargo de un oficial de cuatro estrellas y liderará el uso de armas no tripuladas por las Fuerzas Armadas. El anuncio se dio en un discurso ante cientos de oficiales en la Base del Cuerpo de Marines de Quantico, Virginia, a cinco semanas de las elecciones de medio término.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/no-mas-woke-el-jefe-del-pentagono-lanza-una-nueva-ofensiva-para-transformar-al-ejercito-de-eeuu/",
+     "imagen": "https://www.cronista.com/resizer/v2/KQWFAG3NBBCTHMDT3YCH7PILQE.jpg?auth=515081f7ffb8e6003bd42458271b4aa8cedcafd525860232d3a1b020688a6677&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:11",
+     "autor": "Steff Chávez",
+     "titulo_original": "No más “woke”: el jefe del Pentágono lanza una nueva ofensiva para transformar al Ejército de EE.UU."
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Trump anunció inversiones energéticas de Corea del Sur por US$ 200.000 millones",
+     "resumen": "Washington anunció un paquete de inversiones surcoreanas en energía por 200.000 millones de dólares, que incluye proyectos de gas natural licuado en Alaska, generación en Texas y energía nuclear. Seúl condicionó los desembolsos a la viabilidad comercial y al marco legal de cada proyecto.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/donald-trump-anuncia-planes-inversion-energetica-corea-del-sur-us200000-millones-n6328839",
+     "imagen": "https://media.ambito.com/p/97f2b0283078812c0982d2408df5f671/adjuntos/239/imagenes/043/649/0043649215/1200x675/smart/trump-i-irlanda-exigiendo-zelenski-que-deje-atacar-al-diesel-ruso.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "Donald Trump anuncia planes de inversión energética de Corea del Sur por u$s200.000 millones"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Por qué Estados Unidos no frena el desarrollo de la inteligencia artificial",
+     "resumen": "Le Grand Continent repasa un estudio según el cual la inversión acumulada en infraestructura de inteligencia artificial en Estados Unidos podría llegar a 10,3 billones de dólares entre 2025 y 2032, equivalente a un 3,6% del PBI promedio anual. Hacia 2032 esas inversiones representarían el 5,1% del PBI, casi dos puntos más que el gasto en defensa previsto para 2026. La revista compara este ciclo con los grandes booms de infraestructura históricos de Estados Unidos, como los ferrocarriles y la electrificación, para explicar por qué Washington prioriza el desarrollo de la IA pese a los riesgos.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/01/por-que-trump-niega-frenar-el-desarrollo-de-ia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:09",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Por qué Trump se niega a frenar el desarrollo de la IA"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-20",
+     "titulo": "Colapinto llega a la previa del GP de Malasia con el foco en el choque de Bakú",
+     "resumen": "Franco Colapinto asumió la responsabilidad por el choque que protagonizó en Bakú y destacó el liderazgo de Flavio Briatore para resolver la situación puertas adentro del equipo. \"Fue un bloqueo, un error simple y tonto, todos los pilotos lo han tenido\", dijo sobre la maniobra que generó el incidente, de cara al Gran Premio que la Fórmula 1 corre en Sepang, Malasia, en reemplazo del GP de Bahréin. El piloto argentino también habló sobre el cruce con Lando Norris y el mensaje para sus seguidores.",
+     "relacionadas": [
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Colapinto respondió sobre las redes, el choque, Briatore, Norris y Verstappen",
+       "url": "https://www.lanacion.com.ar/deportes/asediado-por-la-prensa-en-sepang-colapinto-respondio-sobre-las-redes-el-choque-briatore-norris-y-nid01102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/colapinto-previa-gp-malasia-hablo-error-baku-cara-cara-gasly-norris-mensaje-fans_0_fKwBSZE76P.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/MlzUVvNdW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:11",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Colapinto y la previa del GP de Malasia: habló de su error en Bakú, el cara a cara con Gasly y Norris y el mensaje para sus fans"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Lautaro Martínez, nuevo capitán de la Selección, busca su lugar en la era post Messi",
+     "resumen": "Lautaro Martínez marcó ante Bolivia y quedó a un gol de Sergio Agüero entre los máximos goleadores históricos de la Selección argentina, consolidando su lugar como tercer capitán tras la salida de Lionel Messi. Durante gran parte del ciclo de Lionel Scaloni, el delantero no tuvo el puesto asegurado, ya que el entrenador priorizaba el equilibrio entre Messi, Julián Álvarez y Lautaro. Sin Messi en cancha, Scaloni empezó a darle un rol más estable como titular.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/lautaro-martinez-tercer-capitan-titular-y-heredero-del-legado-empezar-de-nuevo-en-la-era-post-messi-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XO7G56CA5FG3RLHBW4AU245VTU.jpg?auth=4aa0fbb6627feefca9a838a3c2129fa1b49249abfd40a49493b46129a165e9ff&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:08",
+     "autor": "",
+     "titulo_original": "Lautaro Martínez, tercer capitán, titular y heredero del “legado”: empezar de nuevo en la era post Messi"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "Scaloni confirmó los horarios ante Burkina Faso y Benín, la despedida de Messi",
+     "resumen": "Tras el amistoso ante Bolivia, la Selección argentina jugará dos amistosos más en el estadio Monumental durante la fecha FIFA: el sábado 3 de octubre a las 21 horas contra Burkina Faso y el martes 6 a las 20 horas ante Benín. Lionel Scaloni podrá contar con Enzo Fernández, que cumplió su suspensión, mientras que el partido ante Benín marcará la despedida de Lionel Messi con la camiseta de la Selección.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/horarios-de-burkina-faso-y-benin-los-proximos-partidos-de-la-seleccion-argentina-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XTNZWPS5MRF3VBDZCUEKQITVR4.jpg?auth=0c679f98e0a271087ceeb34278bcaa4080caeb3fa95c0680576b8efaa6bd4018&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "Horarios de Burkina Faso y Benín, los próximos partidos de la selección argentina"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Boca recibe a Unión el viernes por el Torneo Clausura",
+     "resumen": "Boca y Unión se enfrentan el viernes a las 21.30 en la Bombonera, por la fecha 11 del Grupo A del Torneo Clausura 2026, con televisación de ESPN Premium. El equipo de Boca está quinto en su zona con 17 puntos, la misma cantidad que Gimnasia de Mendoza e Independiente, que lo superan por diferencia de gol. En la última fecha, Boca le ganó 2 a 0 a San Lorenzo como visitante, con goles de Leandro Lozano y Miguel Merentiel.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-union-por-el-torneo-clausura-2026-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JTOVVR75AZARXJYA6UNPQEBKYM.jpg?auth=e42b394cdfae9adde9397ca91fd2ae2c9ac8910bc353cd01735dce872e6369c3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Cuándo juega Boca vs. Unión, por el Torneo Clausura 2026"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Se filtró una imagen del proyecto de la nueva Bombonera que impulsa Riquelme",
+     "resumen": "Una imagen del proyecto de ampliación de la Bombonera se filtró durante una presentación a un grupo de socios en uno de los salones internos del estadio, lo que generó repercusión entre los hinchas de Boca en las redes sociales. El plan maestro todavía no fue anunciado oficialmente por el club. Entre los detalles que llamaron la atención figura una supuesta torre de homenajes dentro del nuevo diseño del estadio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/01/se-filtro-una-imagen-del-proyecto-de-la-nueva-bombonera-que-quiere-armar-riquelme-el-detalle-que-causo-furor/",
+     "imagen": "https://www.infobae.com/resizer/v2/NDWFK4RGFBEBTL4GML32JVBCKY.jpg?auth=7f3212e33639e296070f915b7eeb2d4d39e0ee8acab15ba2e1f2d09764c5c44e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:42",
+     "autor": "Federico Cristofanelli",
+     "titulo_original": "Se filtró una imagen del proyecto de la nueva Bombonera que quiere armar Riquelme: el detalle que causó furor"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Esteban Ocon apuntó contra Haas por los motivos de su salida del equipo",
+     "resumen": "Esteban Ocon expresó su malestar por cómo Haas manejó su salida del equipo al final de la temporada de Fórmula 1 y remarcó que la decisión \"no tiene que ver con mi rendimiento\". Después de diez años en la categoría, el piloto francés busca alternativas en la grilla y Aston Martin surgió como uno de los posibles destinos, mientras medios especializados señalan fricciones internas detrás de su salida.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/01/esteban-ocon-sembro-la-polemica-sobre-los-motivos-de-su-salida-de-haas-el-equipo-de-formula-1-en-el-que-podria-recalar/",
+     "imagen": "https://www.infobae.com/resizer/v2/NZYVFYLVMVDBTDAX2BLSOECA5M.jpg?auth=82d8cef9f01868b198af08574989a5b706aadffdece97fe988b49362908a05e7&smart=true&width=900&height=617",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:10",
+     "autor": "",
+     "titulo_original": "Esteban Ocon sembró la polémica sobre los motivos de su salida de Haas: el equipo de Fórmula 1 en el que podría recalar"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-24",
+     "titulo": "Japón investigará a las populares cafeterías con animales",
+     "resumen": "El gobierno japonés lanzará su primera investigación oficial sobre las cafeterías con animales, un negocio que no para de crecer en el país y que ahora buscará regular con nuevas reglas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/polemica-japon-pone-lupa-populares-cafeterias-animales_0_JksyXfjObU.html",
+     "imagen": "https://www.clarin.com/img/2026/09/30/uqesVY_O1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Polémica: Japón pone la lupa sobre las populares cafeterías con animales"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-23",
+     "titulo": "El glaciar Perito Moreno perdió casi un kilómetro de frente en 100 días",
+     "resumen": "Entre febrero y junio, el frente del glaciar Perito Moreno se alejó 910 metros de la costa donde históricamente se formaba el dique de hielo, según un estudio de Glaciarium y el Parque Nacional Los Glaciares. La marca supera el retroceso de 750 metros registrado en 1899 y confirma la aceleración de un proceso de retracción que comenzó en 2018. El monitoreo se realiza con vuelos de un vehículo aéreo no tripulado desde mayo de 2025.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/retroceso-historico-el-perito-moreno-perdio-casi-un-kilometro-de-frente-en-apenas-100-dias-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FKMFUYM3VRECTAMKITUKSXYQV4.jpg?auth=4542f370511c471c52190c0ab8705918acdf57c8daba251a8656f71f774acb34&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:32",
+     "autor": "Mariela Arias",
+     "titulo_original": "Retroceso histórico: el Perito Moreno perdió casi un kilómetro de frente en apenas 100 días"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "El fenómeno de El Niño llegará a su pico y anticipa lluvias fuertes en varias provincias",
+     "resumen": "El Servicio Meteorológico Nacional anticipó que el fenómeno de El Niño alcanzará en el país una intensidad \"fuerte o muy fuerte\", con riesgo alto de inundaciones graves por la anomalía climática en distintas provincias.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegara-pico-maximo-provincias-esperan-fuertes-lluvias_0_Kpx9zg1C6U.html",
+     "imagen": "https://www.clarin.com/img/2025/05/19/ClOIKfVVg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "07:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en la Argentina, EN VIVO: cuándo llegará su pico máximo y en qué provincias se esperan fuertes lluvias"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "La UBA se mantiene en el top 10 regional, pero la Argentina tuvo el peor balance de América Latina",
+     "resumen": "La Universidad de Buenos Aires quedó por segundo año consecutivo en el décimo puesto del QS World University Rankings 2027 para América Latina y el Caribe. La Argentina fue el país de la región con el balance más negativo: 17 instituciones bajaron de posición, ocho subieron y 20 se mantuvieron estables, en un contexto que el QS vincula con las presiones financieras de los últimos años. El ranking evaluó a 517 universidades de 27 países y el primer puesto quedó en manos de la Pontificia Universidad Católica de Chile.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Argentina es el país de la región que más cayó en un ranking de universidades",
+       "url": "https://www.clarin.com/sociedad/argentina-pais-region-cayo-ranking-universidades_0_vhEo3R4mOh.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/ranking-qs-la-uba-se-mantiene-en-el-top-10-regional-pero-el-pais-obtuvo-el-balance-mas-negativo-en-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EF643C2KFNET7HTM4M4BHYGV2A.jpg?auth=ced61189303ebdbf05cb222e9ed99eafe09c2c7787a8073a137b77e5a14b6cd9&smart=true&width=900&height=459",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:33",
+     "autor": "Lucila Marin",
+     "titulo_original": "Ranking QS: la UBA se mantiene en el top 10 regional, pero el país obtuvo el balance más negativo en América Latina"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del jueves primero de octubre. El dólar oficial cerró en mil quinientos cuarenta y cinco pesos, el dólar blue en mil quinientos cincuenta y cinco pesos, y el oro cotiza cerca de cuatro mil ciento noventa y dos dólares la onza. El riesgo país se ubica en seiscientos siete puntos básicos según el último cierre, aunque sobre la rueda de hoy el mercado ya lo ubicaba por encima de los seiscientos diez puntos.\n\nLa agenda del mediodía combina anuncios de inversión energética desde París, con YPF, Eramet y Pan American Energy avanzando en sus proyectos, una aclaración de la Corte Suprema sobre el fallo de la Ley de Tierras, la reglamentación del Fondo de Asistencia Laboral y la confirmación de que el vicepresidente de Estados Unidos, JD Vance, visitará el país en noviembre.\n\nEn política, el vicepresidente estadounidense llegará al país en la primera visita de un funcionario de ese rango en casi una década, aunque todavía no hay fecha ni agenda definida. La Corte Suprema salió a aclarar que su fallo sobre la Ley de Tierras solo resolvió un aspecto procesal, la legitimación de una asociación para pedir una medida cautelar, y que no se pronunció sobre la constitucionalidad del artículo que habilita la compra de tierras rurales por extranjeros. Desde París, Javier Milei se reunió con los gobernadores argentinos en un encuentro en la sede de la OCDE y les agradeció que lo acompañaran para mostrar al país como destino de inversiones. El embajador de Estados Unidos ante la ONU pidió desescalar la tensión entre la Argentina y el Reino Unido por la explotación petrolera en Malvinas, después de que Londres convocara a la embajadora argentina. En el Congreso, el diputado libertario Jairo Guzmán respondió al cruce que protagonizó un día antes con Juan Grabois durante el debate por la soberanía de Malvinas, mientras se impulsa un pedido para expulsar a Grabois por insultar a otros legisladores. Y Patricia Bullrich disertó en el Coloquio de IDEA con agenda propia, marcando distancia del Gobierno y pidiendo que los cambios económicos lleguen al bolsillo de las familias.\n\nEn economía y mercados, el Fondo Monetario Internacional remarcó que, en sus conversaciones con el Gobierno, uno de los ejes centrales es lograr una distribución más equitativa del crecimiento entre los sectores dinámicos, como el energético y el minero, y el resto de la economía. El riesgo país sigue por encima de los seiscientos diez puntos y los bonos argentinos acumulan caídas de hasta quince por ciento desde sus máximos, en una rueda en la que también el petróleo Brent volvió a superar los cien dólares por barril, impulsado por la guerra en Medio Oriente y por un dato de demanda china. El Banco Central compró ciento sesenta millones de dólares el miércoles, el monto diario más alto de septiembre, y acumuló cuatrocientos setenta y tres millones de dólares de compras en todo el mes. El canciller Pablo Quirno les pidió a los empresarios del Coloquio de IDEA que acompañen con inversiones el cambio de reglas, y destacó el récord de exportaciones y los proyectos aprobados en el RIGI. Y el campo liquidó tres mil doscientos veintiocho millones de dólares en septiembre, un salto de diecisiete por ciento frente a agosto y el tercer mejor registro de los últimos veinticinco años.\n\nEn negocios y empresas, además de los anuncios de YPF, Eramet y Pan American Energy, Arcor y Danone avanzaron en la reorganización societaria de la industria láctea y pusieron números a la valuación de Mastellone. Pecom trasladará a una sociedad específica su negocio de ingeniería y construcción para proyectos de petróleo, gas, minería y electricidad. Y la francesa Savencia confirmó el cierre de su planta de la ex Ilolay en El Trébol, Santa Fe, que pone en riesgo decenas de empleos.\n\nEn impuestos, laboral y normativa, la reglamentación del Fondo de Asistencia Laboral establece un aporte patronal de dos coma cinco por ciento para pymes y entidades sin fines de lucro, y de uno por ciento para las grandes empresas, que se descontará de las cargas patronales desde noviembre. ARCA también estrenó un nuevo régimen de Inocencia Fiscal para detectar diferencias en las declaraciones de Ganancias, y difundió los valores del monotributo de octubre, con una suba de dieciséis coma ocho por ciento. Los sueldos de los empleados de comercio reflejan en octubre el último tramo del aumento paritario pactado para el trimestre julio, agosto y septiembre. Y el Régimen Simplificado ya suma cuarenta y seis obras sociales habilitadas para los monotributistas.\n\nEn consumo, construcción y retail, que es la sección más ligada a su actividad, el ingreso necesario para acceder a un crédito hipotecario UVA sigue variando mucho según el banco y el monto financiado, y ya son tres los bancos que ofrecen líneas específicas para comprar casas modulares, con montos de hasta ciento ochenta y cinco millones de pesos. En el mercado de countries, el precio dejó de ser la única variable: pesa cada vez más la infraestructura del barrio y el regreso de familias que buscan una mudanza definitiva. Desde hoy rigen nuevos aumentos en transporte, prepagas y peajes, con los colectivos del AMBA subiendo entre tres coma siete y cuatro coma tres por ciento. Y las billeteras virtuales ofrecen en octubre nuevos descuentos en supermercados y comercios de barrio.\n\nEn gestión y finanzas corporativas, BlackRock sostiene que el boom de la inteligencia artificial ya ocupa una porción creciente de las carteras de inversión, y que el desafío pasa por medir cuánto riesgo tecnológico hay realmente en cada cartera. Morgan Stanley, por su parte, le ve a las acciones de BBVA Argentina un potencial de suba de hasta setenta y cinco por ciento. Y una nota sobre la llamada teoría de los jugadores A, B y C explica por qué, al contratar apurado para tapar una vacante, muchos equipos terminan perdiendo nivel en lugar de ganarlo.\n\nEn el mundo, en Brasil crece el temor a una abstención récord en las elecciones del domingo entre Lula y Bolsonaro, en una campaña marcada también por la violencia. Cuatro pasajeros israelíes sin entrenamiento lograron evitar que se estrellara un avión de Flydubai después de que un copiloto apuñalara al piloto, y el primer ministro israelí Benjamín Netanyahu dijo que se investigará si Irán estuvo detrás del ataque. El presidente Donald Trump advirtió, además, que se acerca el momento de definir si Estados Unidos llega a un acuerdo con Irán. El ranking Forbes de octubre muestra que las diez personas más ricas del mundo reúnen en conjunto cerca de tres billones de dólares, el jefe del Pentágono anunció un nuevo comando de guerra autónoma dentro del Ejército estadounidense, y Washington confirmó inversiones energéticas de Corea del Sur por doscientos mil millones de dólares.\n\nLe Grand Continent analiza por qué Estados Unidos no frena el desarrollo de la inteligencia artificial, pese a los riesgos fiscales que implica: según un estudio que cita la revista, la inversión acumulada en infraestructura de inteligencia artificial podría llegar a diez billones de dólares hacia dos mil treinta y dos, superando en proporción del producto bruto al gasto en defensa.\n\nEn deportes, Franco Colapinto llegó a la previa del Gran Premio que la Fórmula Uno corre este fin de semana en Sepang, Malasia, y volvió a asumir la responsabilidad por el choque que protagonizó en Bakú, destacando el rol de Flavio Briatore para resolver la situación puertas adentro del equipo. Lautaro Martínez quedó a un gol de Sergio Agüero entre los máximos goleadores históricos de la Selección y empieza a consolidarse como referencia ofensiva en la era posterior a Lionel Messi, que jugará el sábado ante Burkina Faso y el martes ante Benín, el partido en el que Messi se despedirá de la camiseta albiceleste. Boca recibe el viernes a Unión en la Bombonera por el Torneo Clausura, y en el club se filtró una imagen del proyecto de ampliación del estadio que impulsa Juan Román Riquelme. Y Esteban Ocon apuntó contra Haas por los motivos de su salida del equipo, de cara a una posible llegada a Aston Martin.\n\nPara cerrar, en turismo, Japón anunció que lanzará su primera investigación oficial sobre las populares cafeterías con animales, un negocio que no deja de crecer y que el gobierno japonés buscará regular con nuevas reglas.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "No apareció ningún destino argentino puntual en el material de esta corrida; se usó la única nota disponible de la sección viajes (cafeterías con animales en Japón) para la sección Turismo. No se repiten en esta edición los temas ya cubiertos en la edición de la mañana (reelección de Milei, Toyota RIGI, goleada a Bolivia, aumentos de ANSES y empleadas domésticas, etc.) salvo que hubiera novedades concretas.",
+ "slug": "2026-10-01-mediodia",
+ "generado_ba": "01/10/2026 15:19"
+}
