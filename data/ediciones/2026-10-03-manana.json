@@ -1,0 +1,938 @@
+{
+ "fecha": "2026-10-03",
+ "edicion": "manana",
+ "titulo": "Milei vuelve de París con el Presupuesto pendiente y el riesgo país en alza",
+ "apertura": "Javier Milei regresó de la Argentina Week de París con el Presupuesto 2027 todavía por discutir en el Congreso, mientras el riesgo país volvió a subir y tocó su nivel más alto en casi un año. En el plano empresario, cerró la cadena de panaderías Pandanés con alrededor de 150 despedidos, y Brasil llega este domingo a una elección clave para la estrategia regional de Donald Trump. En deportes, Franco Colapinto largará 21° este domingo en el Gran Premio de Bahréin que se corre en Malasia.",
+ "claves": [
+  "Milei volvió de la Argentina Week de París y la semana próxima el Gobierno empieza a defender el Presupuesto 2027 en el Congreso.",
+  "El riesgo país tocó los 655 puntos básicos, el nivel más alto desde noviembre de 2025.",
+  "Patricia Bullrich profundizó su diferenciación con el Gobierno ante un grupo de empresarios.",
+  "La cadena de panaderías Pandanés cerró todos sus locales y dejó cerca de 150 despedidos.",
+  "ARCA fijó nuevos montos para informar transferencias bancarias y de billeteras virtuales.",
+  "Brasil vota este domingo en una elección clave para la estrategia regional de Trump.",
+  "Franco Colapinto largará 21° en el Gran Premio de Bahréin en Malasia este domingo.",
+  "Miles de peregrinos caminan hacia Luján bajo la tormenta, antes de la visita del Papa León XIV."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo (Brent)",
+   "valor": "US$ 102,72",
+   "variacion": "+0,46%",
+   "fuente": "CR-17"
+  },
+  {
+   "nombre": "Tasa del bono GD35 (Nueva York)",
+   "valor": "11,4%",
+   "variacion": "+280 pb desde julio",
+   "fuente": "CR-14"
+  },
+  {
+   "nombre": "Superávit comercial minero (agosto)",
+   "valor": "US$ 543 millones",
+   "variacion": "+60% i.a.",
+   "fuente": "AM-06"
+  },
+  {
+   "nombre": "Productividad total de la economía (2025)",
+   "valor": "+2,8%",
+   "variacion": "vs. 2024",
+   "fuente": "LN-26"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-22",
+     "titulo": "Milei vuelve de París con el Presupuesto pendiente y los mismos problemas",
+     "resumen": "Javier Milei regresó de la Argentina Week de París, donde se fotografió con 13 gobernadores sin sumar caras nuevas al esquema de alianzas. La semana próxima el Gobierno empezará a defender el Presupuesto 2027 en el Congreso y buscará acelerar acuerdos electorales con las provincias, en medio de dudas sobre si logrará reinstalar un relato favorable.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei y los gobernadores en París: foto sin sorpresas, el futuro de las PASO y una ofrenda de paz",
+       "url": "https://www.ambito.com/ambito-nacional/javier-milei-y-los-gobernadores-paris-foto-sorpresas-el-futuro-las-paso-y-una-ofrenda-paz-n6329402"
+      },
+      {
+       "id": "CR-16",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Rosada convoca a los gobernadores para avanzar en acuerdos electorales y negociar el Presupuesto",
+       "url": "https://www.cronista.com/economia-politica/rosada-convoca-a-los-gobernadores-para-avanzar-en-acuerdos-electorales-y-negociar-el-presupuesto/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/milei-vuelve-francia-mismos-problemas-llevo-valijas_0_SYJpKvi2dc.html",
+     "imagen": "https://www.clarin.com/img/2026/10/02/s-eTMu-hT_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Milei vuelve de Francia con los mismos problemas que se llevó en sus valijas"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Patricia Bullrich refuerza su distancia con Milei ante el círculo rojo",
+     "resumen": "La senadora Patricia Bullrich reforzó su diferenciación respecto del Gobierno en un almuerzo con más de 30 empresarios de bancos, fondos de inversión y consumo masivo. No mostró diferencias de fondo con el Poder Ejecutivo pero remarcó matices sobre impuestos y competitividad; los empresarios apoyan con reparos la continuidad del modelo.",
+     "relacionadas": [
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "¿La aliada que escucha a la industria? El mensaje político que abrió discusiones",
+       "url": "https://www.cronista.com/economia-politica/la-aliada-que-escucha-a-la-industria-el-mensaje-de-bullrich-a-los-empresarios/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/patricia-bullrich-circulo-rojo-pregunta-incomoda-milei_0_TElEg6aTOO.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/I3--gEXk2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Patricia Bullrich, el círculo rojo y la pregunta que incomoda a Milei"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "Renunció la número dos de la Secretaría de Trabajo",
+     "resumen": "Claudia Testa presentó su \"renuncia indeclinable\" como subsecretaria de Relaciones del Trabajo, cargo que ocupaba desde 2024 bajo la órbita de Julio Cordero y la ministra Sandra Pettovello. La reemplazará el abogado Mariano Sartoris, de confianza de Pettovello, desde el 5 de octubre.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Renunció Claudia Testa, subsecretaria de Relaciones del Trabajo y número dos de Julio Cordero",
+       "url": "https://www.ambito.com/politica/renuncio-claudia-testa-subsecretaria-relaciones-del-trabajo-y-numero-dos-julio-cordero-n6329613"
+      },
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Renunció la subsecretaria de Trabajo Claudia Testa y el Gobierno ya eligió a su reemplazo",
+       "url": "https://www.iprofesional.com/politica/465811-renuncio-la-subsecretaria-de-trabajo-claudia-testa-y-el-gobierno-ya-eligio-a-su-reemplazo"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/renuncio-claudia-testa-la-numero-dos-de-la-secretaria-de-trabajo-nid02102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VWKE45ZC4JEYJDHGI74D73ECNA.jpg?auth=c7aef480300dfc70f0c2f5c9949d8feca51a8f3dc12e92e97f7a4d9bc59f39ba&smart=true&width=900&height=619",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:58",
+     "autor": "",
+     "titulo_original": "Renunció Claudia Testa, la número dos de la Secretaría de Trabajo"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "El Gobierno celebra que Halliburton se baje del proyecto británico en Malvinas",
+     "resumen": "La Cancillería argentina celebró el anuncio de la petrolera Halliburton de no prestar servicios para el proyecto Sea Lion ni participar en exploración y producción de hidrocarburos en las islas Malvinas. La Casa Rosada atribuyó la decisión a un trabajo conjunto de la Secretaría de Legal y Técnica y la Cancillería, en medio de la tensión con el Reino Unido.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno celebró la decisión de Halliburton de no prestar servicios en Malvinas",
+       "url": "https://www.iprofesional.com/politica/465816-el-gobierno-celebro-la-decision-de-halliburton-de-no-prestar-servicios-en-malvinas"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-celebro-el-anuncio-de-otra-petrolera-de-no-prestar-servicios-en-malvinas-nid02102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NAPUZELYDNAF3CSTPGXJ6J6TRY.jpg?auth=2c2ca2f1bf1b7d2aecf1c332ef23454fddb39ec4e4614b88aa3391d7e359195a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:11",
+     "autor": "",
+     "titulo_original": "El Gobierno celebró el anuncio de otra petrolera de no prestar servicios en Malvinas"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Casación definirá si se reunifican los juicios a Cristina y Máximo Kirchner",
+     "resumen": "El Tribunal Oral Federal 5 habilitó que la Cámara Federal de Casación Penal revise su decisión de dividir en dos los juicios por Hotesur y Los Sauces, tras el pedido del fiscal Diego Velasco y la UIF. Se mantiene el cronograma: Los Sauces empieza el 23 de octubre y Hotesur, el 19 de marzo de 2027.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/casacion-decidira-si-se-reunifican-los-juicios-contra-maximo-y-cristina-kirchner-por-hotesur-y-los-nid02102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GL24N6WLFJHB3C53EYAAXC5AWQ.JPG?auth=6d4da8cd20c84af0bd90a3afc50502552fb529bc223476760fb623a566205bcd&smart=true&width=690&height=518",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:56",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "Casación decidirá si se reunifican los juicios contra Máximo y Cristina Kirchner por Hotesur y Los Sauces"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Misiones irá a la Justicia para frenar la venta de tierras a extranjeros",
+     "resumen": "El gobernador Hugo Passalacqua instruyó al Fiscal de Estado provincial a iniciar acciones judiciales tras el fallo de la Corte que eliminó las restricciones nacionales a la compra de tierras rurales por parte de extranjeros. Passalacqua sostuvo que el DNU 70/23 \"lesiona la integridad territorial\" de la provincia.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/03/el-gobernador-de-misiones-ira-a-la-justicia-para-frenar-la-venta-de-tierras-sin-limites-a-extranjeros/",
+     "imagen": "https://www.infobae.com/resizer/v2/3MKICYOFABAM3M2Y37FRJWEFOM.jpeg?auth=31e62a55a074c47b3760d145ab9e5e104aa7f7e9789251f1b1793566770342bf&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:35",
+     "autor": "Juan A. Bracco",
+     "titulo_original": "El gobernador de Misiones irá a la Justicia para frenar la venta de tierras sin límites a extranjeros"
+    },
+    {
+     "id": "AM-07",
+     "titulo": "La oposición arma la agenda legislativa de octubre contra el Gobierno",
+     "resumen": "En la sesión del 15 de octubre, Diputados tratará proyectos de discapacidad, morosidad y la derogación del DNU 70/2023, coincidiendo con la Marcha Federal Universitaria. El oficialismo reserva su respuesta para noviembre en el Senado.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/entre-el-principio-revelacion-y-la-movilizacion-callejera-la-oposicion-diputados-tiene-la-agenda-del-mes-n6329590",
+     "imagen": "https://media.ambito.com/p/ee3e473c3cb76b9deda11a42abe192d1/adjuntos/239/imagenes/043/611/0043611088/1200x675/smart/diputados-oposicion.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Entre el \"principio de revelación\" y la movilización callejera, la oposición en Diputados tiene la agenda del mes"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-17",
+     "titulo": "El riesgo país saltó a 655 puntos, el nivel más alto en casi un año",
+     "resumen": "El riesgo país argentino escaló hasta los 655 puntos básicos, su valor más alto desde noviembre de 2025, en una rueda en la que los bonos soberanos volvieron a quedar bajo presión. Las acciones locales, en cambio, revirtieron las pérdidas de la mañana y cerraron con ganancias.\nPara una empresa: un riesgo país más alto encarece el acceso al crédito externo y presiona las tasas locales para financiar capital de trabajo.",
+     "relacionadas": [
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país superó los 650 puntos y registró su nivel más alto desde noviembre 2025",
+       "url": "https://www.iprofesional.com/finanzas/465786-riesgo-pais-llego-650-puntos-volvio-niveles-noviembre-2025"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-riesgo-pais-supera-los-650-puntos-y-el-cae-el-sp-merval-por-que-sigue-la-cautela/",
+     "imagen": "https://www.cronista.com/resizer/v2/IM5RTUY77JERFJIVDBT4MA4O2Y.jpg?auth=d8160875a78788dd6df692fdc04a83b02e4df37bb8c9321e3c5c41ec6c635e3d&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:50",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Los bonos no encuentran piso: el riesgo país saltó a 655 puntos y las acciones salvaron la rueda"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "La suba de tasas en Estados Unidos y el riesgo país golpean a los activos argentinos",
+     "resumen": "El riesgo país superó los 630 puntos básicos, un umbral que no cruzaba desde marzo o abril, mientras JP Morgan recortó su proyección de crecimiento para la Argentina a 1,5% para 2026. Los analistas recomiendan revisar las estrategias de inversión en un contexto de tasas altas en Estados Unidos y deterioro de los activos locales.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/negocios/si-no-hay-tiempo-es-momento-de-no-arriesgar-nid03102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/G26B4IK64NB27NKZEKTKPC3VY4.JPG?auth=219aed9652b7ced3c9bf821e8030222129bb3d884b1f0322e43f1b3cdd50a3d1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:22",
+     "autor": "Mónica Fernández",
+     "titulo_original": "Si no hay tiempo, es momento de no arriesgar"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Los bonos argentinos empeoran mientras suben las tasas de la deuda en dólares",
+     "resumen": "La tasa del bono GD35 en Nueva York subió 280 puntos básicos desde mediados de julio, de 8,6% a 11,4%, y a los Bonares les fue todavía peor: el AO29 contra MEP pasó de rendir menos de 8% a cerca de 12%. El mercado observa hacia dónde van los dólares que salen del desarme de fondos comunes de inversión.\nPara una empresa: tasas en dólares más altas encarecen el financiamiento externo y reducen el apetito por nueva deuda corporativa.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/desarme-de-fci-hacia-donde-va-los-dolares-que-salen-y-que-efecto-espera-el-mercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/VKPKRUCXHFGQVMDZS477C26NJI.jpg?auth=282eca7579bee9befa36a35f6449bf412f98f63759ba1bf38a84fe1db546d6b8&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:04",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Desarme de FCI: hacia dónde va los dólares que salen y qué efecto espera el mercado"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "La productividad de la economía repuntó en 2025 pero sigue por debajo de 2016",
+     "resumen": "Según un informe que publicó por primera vez el Indec, la productividad total de la economía argentina creció 2,8% en 2025 respecto de 2024, el primer registro positivo desde 2017. Aun así, el nivel actual se ubica 7,5% por debajo del de 2016.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/la-productividad-repunto-en-2025-pero-sigue-por-debajo-del-nivel-de-2016-nid02102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/J6VAXFYIUJGEDOZORGIFASYT4E.jpg?auth=2eb6c2a27d44ace0039325597b4f7a6b3a76f6d6b2dd3d5a8bfc54cb1f89f413&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:11",
+     "autor": "Carlos Manzoni",
+     "titulo_original": "La productividad repuntó en 2025, pero sigue por debajo del nivel de 2016"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Los empresarios prevén una inflación cercana al 20% para el año próximo",
+     "resumen": "En promedio, las empresas presupuestan una inflación de alrededor de 20% para 2027, por encima del 18% pautado por el Gobierno. La proyección se da en un contexto de consumo que no logra mejorar, lo que condiciona la política de precios de las compañías.\nPara una empresa: presupuestar con una inflación más alta que la oficial obliga a revisar con más frecuencia listas de precios y contratos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/empresarios-preven-inflacion-cercana-20-ano-viene_0_8xHMBwHa8E.html",
+     "imagen": "https://www.clarin.com/img/2026/09/10/cBamb6TcV_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los empresarios prevén una inflación cercana al 20% para el año que viene"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Dudas sobre la \"bazuca\" de 75.000 millones de dólares de Milei para 2027",
+     "resumen": "El Gobierno asegura contar con un poder de fuego de 75.000 millones de dólares para evitar una corrida cambiaria antes de las elecciones presidenciales de 2027, cifra que Milei presentó durante la Argentina Week de París. Analistas cuestionan que buena parte de esos fondos esté disponible de forma inmediata o dependa de decisiones políticas y financieras ajenas al Banco Central.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/03/dolar-y-elecciones-las-dudas-detras-de-la-bazuca-de-milei-para-evitar-una-corrida-cambiaria-en-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/MIMPLSN4RZFNJMN7KM4ORM2HLQ.png?auth=3e5e51aaa2b7d50c5d5898edada718e39fe44e9fd17d709486fd8dbd5d3330a3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:14",
+     "autor": "Martín Fernández Nadale",
+     "titulo_original": "Dólar y elecciones: las dudas detrás de la “bazuca” de Milei para evitar una corrida cambiaria en 2027"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "Vencen 27 billones de pesos de deuda en octubre y el mercado espera un nuevo canje",
+     "resumen": "El grueso de los vencimientos de octubre, por 27 billones de pesos, quedó concentrado hacia fin de mes tras la operación con letras atadas al dólar. En la city creen que Finanzas podría convocar a los tenedores a un nuevo canje para despejar el calendario.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/deuda-vencen-27-billones-octubre-la-presion-se-concentra-fin-mes-y-el-mercado-aguarda-un-nuevo-canje-n6329586",
+     "imagen": "https://media.ambito.com/p/06db550874cfb04167414a86b90a1daa/adjuntos/239/imagenes/043/552/0043552738/1200x675/smart/ministerio-economia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Deuda: vencen $27 billones en octubre, la presión se concentra a fin de mes y el mercado aguarda un nuevo canje"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-15",
+     "titulo": "La cadena de panaderías Pandanés cerró todos sus locales y dejó unos 150 despedidos",
+     "resumen": "Pandanés, que estaba en concurso de acreedores y había declarado un pasivo superior a 1.200 millones de pesos, comunicó el cierre durante la madrugada por WhatsApp y pidió a los empleados no presentarse en las tiendas. Según los propios trabajadores son cerca de 150 los despedidos, aunque la empresa había hablado de 120.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Una cadena de panaderías cerró sus locales en la Ciudad: denuncian que hay 150 empleados despedidos",
+       "url": "https://www.lanacion.com.ar/economia/una-cadena-de-panaderias-cerro-sus-locales-en-la-ciudad-denuncian-que-hay-150-empleados-despedidos-nid02102026/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/465800-cadena-de-panaderias-pandanes-cerro-todos-sus-locales-y-pedira-la-quiebra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626840.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:20",
+     "autor": "",
+     "titulo_original": "La cadena de panaderías Pandanés cerró todos sus locales y despidió a 120 empleados"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "Mango abrió su primer local en Argentina de la mano de Grimoldi",
+     "resumen": "La marca española de indumentaria Mango abrió su primera tienda en el país tras más de 20 años de ausencia, en una operación encabezada por el grupo local Grimoldi.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/465814-marca-de-ropa-importada-mango-ya-abrio-en-argentina-todos-los-precios",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626859.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:45",
+     "autor": "",
+     "titulo_original": "Mango ya abrió su primer local en Argentina y estos son los precios de la ropa"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "H&M prepara su desembarco en Argentina",
+     "resumen": "La cadena sueca de indumentaria avanza con su llegada al país y ya definió datos clave sobre la superficie de su primera tienda, el formato y la empresa que gestionará la operación local.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/465750-los-detalles-del-desembarco-de-hm-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/591281.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "Los detalles del desembarco de H&M en Argentina"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "El fundador de Lucciano's explicó la fórmula detrás de su expansión",
+     "resumen": "El empresario destacó la reinversión constante y el desarrollo de nuevos productos como pilares para sostener el crecimiento de la heladería, en un escenario de consumo dispar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465813-fundador-de-luccianos-revelo-formula-con-la-que-no-para-de-crecer",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/592327.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:48",
+     "autor": "",
+     "titulo_original": "El fundador de Lucciano's reveló la fórmula con la que no para de crecer"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "Banco Nación vuelve a emitir deuda después de 30 años y Provincia amplía su oferta de fondos",
+     "resumen": "Banco Nación volvió al mercado de capitales para diversificar sus fuentes de fondeo después de tres décadas sin emitir deuda, mientras Provincia Fondos busca llevar a sus clientes desde el plazo fijo hacia fondos comunes de inversión, bonos, acciones y CEDEARS.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/innovacion-como-propuesta-de-valor-para-el-inversor-que-hacen-provincia-y-nacion-para-ampliar-su-negocio-financiero/",
+     "imagen": "https://www.cronista.com/resizer/v2/OTZGRUN2QRE4JCGNVZWTC3FAQY.JPG?auth=d8788fbeb03777aa36ba77c8dca18aafa014684d8c20538c8e896fb5d600c481&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:04",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "Innovación como propuesta de valor para el inversor: qué hacen Provincia y Nación para ampliar su negocio financiero"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "El RIGI sumó dos proyectos por 13.700 millones de dólares en Vaca Muerta y Zárate",
+     "resumen": "El régimen de incentivo a las grandes inversiones incorporó dos nuevos proyectos, uno en Vaca Muerta y otro en Zárate, por inversiones cercanas a los 13.700 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-rigi-incorporo-dos-nuevos-pesos-pesados-n6329648",
+     "imagen": "https://media.ambito.com/p/590ca256301e7c531332f9afcc1a0cc5/adjuntos/239/imagenes/043/582/0043582542/1200x675/670x260:690x280/energia-mineria-rigi.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "El RIGI incorporó dos nuevos pesos pesados"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "El fallo \"García\" sigue marcando los reclamos judiciales por Ganancias a jubilados",
+     "resumen": "Detrás de buena parte de los reclamos de jubilados y pensionados que cuestionan el pago del impuesto a las Ganancias aparece el fallo \"García\", dictado por la Corte Suprema en 2019 a favor de una jubilada de Entre Ríos. Desde entonces, el antecedente es citado en numerosos reclamos presentados ante la Justicia Federal.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-fallo-garcia-el-antecedente-que-cambio-el-criterio-judicial-para-el-impuesto-a-las-ganancias/",
+     "imagen": "https://www.cronista.com/resizer/v2/Q5FKQJJAGFD3HPSXZFLUI3BVBM.jpg?auth=7f2724a61fc2b7ff76de6f8b0d59852f097f62cfd7a3278cf533a242b6bb7aeb&smart=true&width=740&height=493",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Florencia García Alegre",
+     "titulo_original": "El fallo “García” y su impacto en el criterio judicial sobre el Impuesto a las Ganancias"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "ARCA fijó nuevos montos para informar transferencias bancarias y de billeteras virtuales",
+     "resumen": "La Agencia de Recaudación y Control Aduanero estableció un límite de transacción mensual para transferencias entre cuentas propias o ajenas, bancarias o de billeteras virtuales, que de superarse obliga a notificar al organismo y justificar el origen de los fondos.\nPara una empresa: conviene revisar los esquemas de transferencias entre cuentas propias y de proveedores para no quedar expuesto a pedidos de justificación.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/arca-cuales-son-los-nuevos-montos-para-informar-transferencias-bancarias-y-de-billeteras-virtuales/",
+     "imagen": "https://www.cronista.com/resizer/v2/NEYNEB52AVACVEEDGYYK5FZHMI.jpg?auth=acb65ed0e7d13c1b33505637f3b316aa3b6099c26383ded60f718bd0415cebbf&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:28",
+     "autor": "Florencia Ojeda",
+     "titulo_original": "ARCA: cuáles son los nuevos montos para informar transferencias bancarias y de billeteras virtuales"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Qué información recibe ARCA sobre las cuentas de argentinos en Estados Unidos",
+     "resumen": "Por el acuerdo Fatca, vigente desde 2023, el IRS informa a ARCA sobre cuentas e ingresos de fuente estadounidense de residentes argentinos, aunque no comparte saldos ni movimientos. El acuerdo se firmó en diciembre de 2022 y el intercambio se produce todos los septiembres.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/03/acuerdo-fatca-que-informacion-recibe-arca-sobre-las-cuentas-de-argentinos-en-estados-unidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/OXC7MM5DRNAVNOY47HGIHNV6ZA.png?auth=26762260ad735996c6b24368890850b3b3d4b08a3a683080996450a57abdcfb8&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:14",
+     "autor": "",
+     "titulo_original": "Acuerdo Fatca: qué información recibe ARCA sobre las cuentas de argentinos en Estados Unidos"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "Los camioneros cerraron una suba salarial del 9,9% en seis tramos hasta febrero",
+     "resumen": "El gremio que conduce Hugo Moyano acordó un aumento del 9,9% en seis tramos hasta febrero de 2027, además de un bono de fin de año para los trabajadores del sector.\nPara una empresa: el acuerdo impacta directamente en los costos logísticos y de distribución de los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/465729-cuanto-gana-un-camionero-tras-el-aumento-de-la-ultima-paritaria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/568651.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:35",
+     "autor": "",
+     "titulo_original": "Cuánto gana un camionero tras el aumento de la última paritaria"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Cuánto cobra un albañil tras el nuevo acuerdo paritario de la UOCRA",
+     "resumen": "El nuevo acuerdo salarial de la UOCRA modifica los ingresos de los trabajadores de la construcción desde octubre, con impactos distintos según la región y la categoría.\nPara una empresa: el costo de mano de obra en obra se actualiza de forma diferenciada por zona, un dato clave para presupuestar proyectos de construcción.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/465802-paritaria-de-la-uocra-cuanto-cobra-un-albanil-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626050.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:59",
+     "autor": "",
+     "titulo_original": "Cuánto cobra un albañil en octubre, tras el nuevo acuerdo paritario de la UOCRA"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Las empleadas domésticas cobrarán un 31% más en octubre en zonas específicas",
+     "resumen": "Para octubre se mantiene un adicional clave que eleva en 31% los sueldos de las trabajadoras de casas particulares que se desempeñan en determinadas zonas del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/465597-que-empleadas-domesticas-cobran-un-31-mas-en-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/569874.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:15",
+     "autor": "",
+     "titulo_original": "Qué empleadas domésticas cobran un 31% más en octubre"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la empresa del lector: esta edición la abre la licitación de una obra de infraestructura en Buenos Aires.",
+   "notas": [
+    {
+     "id": "CR-20",
+     "titulo": "Dos consorcios compiten por construir la Línea F del subte, una obra de 1.350 millones de dólares",
+     "resumen": "CITIC Construction (con Ranken Railway Construction, Supercemento, Eleprint y Panedile) y Grupo Roggio (junto con Ghella) presentaron sus propuestas técnicas para construir la Línea F, que unirá Barracas con Palermo. La obra, que se adjudicará en diciembre, demandará 1.350 millones de dólares y los trabajos arrancarán a principios de 2027.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Dos consorcios competirán por la construcción de la Línea F, una obra de u$s1.350 millones",
+       "url": "https://www.iprofesional.com/actualidad/465799-linea-f-dos-consorcios-competiran-por-una-obra-de-us1350-millones"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/avanza-la-linea-f-del-subte-dos-consorcios-compiten-para-su-construccion/",
+     "imagen": "https://www.cronista.com/resizer/v2/PFDO25LCNNFTZCSN4JKFWSWB3M.jpg?auth=8d2b2d2fb17804d10d5f8b4337a06f99bc6e384e133d7744686484bd0faafe37&smart=true&width=900&height=510",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:19",
+     "autor": "Equipo Economía",
+     "titulo_original": "Avanza la Línea F del Subte: dos consorcios compiten para su construcción"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Las inmobiliarias inundan las redes de videos para vender departamentos",
+     "resumen": "Corredores y agentes inmobiliarios usan sketches, looks llamativos y humor en Instagram y TikTok para captar la atención de los usuarios en los primeros segundos. Aseguran que así venden más rápido, aunque todavía es un complemento a los avisos en portales como Argenprop.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/modelos-humor-bailecitos-inmobiliarias-inundan-redes-videos-vender-departamentos_0_sgANBS9SMm.html",
+     "imagen": "https://www.clarin.com/img/2026/09/02/Yh1IBHZa5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Modelos, humor y bailecitos: las inmobiliarias inundan las redes de videos para vender departamentos"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Cuenta DNI ofrece en octubre un 20% sin tope en Chango Más y Día",
+     "resumen": "El programa de descuentos del Banco Provincia incorporó en octubre un 20% de descuento sin tope en las cadenas Chango Más y Día pagando con tarjeta de crédito del banco mediante NFC. En el resto de los más de 15 supermercados adheridos el descuento llega a 20% con tope semanal, y en ferias y mercados bonaerenses sube a 40% todos los días.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/cuenta-dni-en-octubre-2026-todos-los-descuentos-de-este-mes-desde-carnicerias-a-comercios-de-cercania/",
+     "imagen": "https://www.cronista.com/resizer/v2/FVPGJOQJDJCO7PS3E325EIYEDE.png?auth=9be020b8ad1e8b6e57cb26eb03d89ca781a0598a0ab3ca7822e0549832378460&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:03",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Cuenta DNI en octubre 2026: todos los descuentos de este mes, desde carnicerías a comercios de cercanía"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Renault lanzó una campaña en la calle para potenciar sus ventas de octubre",
+     "resumen": "La automotriz desplegó una intervención en distintos puntos de la Ciudad de Buenos Aires para lanzar Renault Days, que durante los primeros diez días de octubre ofrecerá financiación y beneficios especiales para quienes compren un vehículo de la marca.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/renault-sale-a-la-calle-la-audaz-campana-que-lanzo-para-aprovechar-uno-de-los-hitos-del-fin-de-semana/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZWWZED7I6JFLNPCG3D3L7F2GAA.jpg?auth=bef586bfd7fbcfa59ae2ae924b5d94dbfa7db67fec2a0aeeafdf84cd8bfa3700&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "23:29",
+     "autor": "Jefatura Redaccion",
+     "titulo_original": "Renault sale a la calle: la audaz campaña que lanzó para aprovechar uno de los hitos del fin de semana"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "Mientras las librerías argentinas caen, México propone IVA cero para el sector",
+     "resumen": "La Secretaría de Cultura de México propuso una tasa cero de IVA para pequeñas y medianas librerías, en momentos en que la Argentina atraviesa una fuerte caída en las ventas y la facturación del sector.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/cultura/librerias-argentinas-agonizan-mexico-proponen-tasa-cero-venta-libros_0_aVtIsmDMp7.html",
+     "imagen": "https://www.clarin.com/img/2026/09/21/QMzw2od5e_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Mientras las librerias argentinas agonizan, en México proponen tasa cero a la venta de libros"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "LN-06",
+     "titulo": "Tres claves para decidir en un mundo que se siente ingobernable",
+     "resumen": "Fernando Zerboni, profesor de la Universidad de San Andrés, sostiene que más datos y más mediciones no garantizan mejores decisiones porque lo importante está en las relaciones entre las partes, no en las piezas sueltas. El experto en complejidad y management propone tres variables para entender y actuar frente al exceso de señales.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/negocios/tres-claves-para-decidir-en-un-mundo-complejo-nid03102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FGNFEBXSRJFAPBEVSFVW5PA57E.jpg?auth=a313ca1891be207784cc70bd2b35a99ef16eb91808ea3c67c2ddb7fda58a5dae&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:29",
+     "autor": "Martina Rua",
+     "titulo_original": "Tres claves para decidir en un mundo complejo"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "Los directorios envejecen pese al discurso de renovación generacional",
+     "resumen": "El último Índice de la Junta Directiva de Spencer Stuart muestra que la edad promedio de los directores subió a 63,8 años respecto de una década atrás, pese al supuesto recambio etario. Un estudio de ISS-Corporate sobre la composición de directorios en la temporada de asambleas confirma la tendencia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-directorio-no-es-un-lugar-de-retiro/",
+     "imagen": "https://www.cronista.com/resizer/v2/MZAUCX5UYNGNZCPEAXNZC3IUVM.jpg?auth=b4b0d64c951bb39a17e5b84f782ba1714250fa4c4d3eca920a968d6eb5a182b0&smart=true&width=900&height=565",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:15",
+     "autor": "Astrid Mirkin",
+     "titulo_original": "El directorio no es un lugar de retiro"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Cuánta plata ponen las empresas para estar en el Coloquio de IDEA",
+     "resumen": "El 62° Coloquio de IDEA en Mar del Plata reunió más de 1.000 inscriptos y un récord de patrocinadores, lo que expone el costo real de integrar el mayor espacio de encuentro empresario del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465755-cuanto-pagan-las-empresas-por-estar-en-el-coloquio-de-idea",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626817.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:27",
+     "autor": "",
+     "titulo_original": "Cuánta plata tienen que poner las empresas para estar en el Coloquio de IDEA"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "En Europa, el acceso a las herramientas de inteligencia artificial frena a las empresas más que la falta de formación",
+     "resumen": "Las ambiciones europeas en inteligencia artificial pierden impulso no por falta de competencias sino por el acceso limitado a las herramientas y por modelos de trabajo que todavía no se adaptaron a la tecnología.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/el-acceso-las-herramientas-y-no-la-formacion-esta-frenando-el-potencial-la-ia-n6329642",
+     "imagen": "https://media.ambito.com/p/323c0eda16b626f0b44eb99fc52c9281/adjuntos/239/imagenes/043/681/0043681640/1200x675/smart/ai-access-limitations-featured-1920x864.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:53",
+     "autor": "",
+     "titulo_original": "El acceso a las herramientas, y no la formación, está frenando el potencial de la IA"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-02",
+     "titulo": "Más de 50 ciudades españolas se movilizan por la crisis de la vivienda",
+     "resumen": "Tras la derogación de los dos decretos de vivienda del Gobierno con los votos de PP, Vox y Junts, el Sindicato de Inquilinas convocó manifestaciones en más de 50 ciudades españolas. Fuentes de Moncloa evalúan un adelanto electoral mientras crece el reclamo de una huelga general; la crisis habitacional también golpea a Roma, Milán, Bruselas y Lisboa.",
+     "relacionadas": [
+      {
+       "id": "LN-11",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La crisis de la vivienda, un fantasma que recorre Europa y amenaza con ser cada vez más explosivo",
+       "url": "https://www.lanacion.com.ar/el-mundo/la-crisis-de-la-vivienda-un-fantasma-que-recorre-europa-y-amenaza-con-ser-cada-vez-mas-explosivo-nid03102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/2026/10/03/ultima-hora-de-las-manifestaciones-en-toda-espana-por-la-crisis-de-la-vivienda-en-directo/",
+     "imagen": "https://www.infobae.com/resizer/v2/L6LS3ZX43RCGLPRPDQ7SEFANYM.JPG?auth=9be0e6979e51617431fb4173165eb3e2892b94f8efda56389ce00cd95602db1a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:04",
+     "autor": "Fede Sáenz",
+     "titulo_original": "Última hora de las manifestaciones en toda España por la crisis de la vivienda, en directo | Más de 50 ciudades se suman a las protestas tras el rechazo de los dos decretos"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Las elecciones en Brasil, una prueba de fuego para la estrategia regional de Trump",
+     "resumen": "Brasil vota este domingo en una elección que definirá si se consolida el bloque de países alineados con Washington, en caso de un triunfo de Flavio Bolsonaro. La campaña de Lula da Silva acusó al candidato de ser \"el de Trump\" y de buscar colonizar al país.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/las-elecciones-en-brasil-una-prueba-de-fuego-para-la-estrategia-regional-de-trump-nid03102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2OIWUTVJLJGFPFJFUH4FKEFI5M.JPG?auth=51b3ebcf8054e0a0d7809ee4ca15766b7536b65b1a035a6c2aa5865173e9d914&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:00",
+     "autor": "Guillermo Idiart",
+     "titulo_original": "Las elecciones en Brasil, una prueba de fuego para la estrategia regional de Trump"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Corea del Norte lanzó un misil balístico al mar de Japón",
+     "resumen": "El régimen de Kim Jong-un disparó un misil que recorrió más de 700 kilómetros antes de caer, en medio de una escalada de tensión con Corea del Sur por explosiones de minas terrestres en la frontera que hirieron a tres soldados surcoreanos. Washington y Seúl analizan las características del ensayo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/03/tras-la-tension-con-corea-del-sur-por-las-minas-fronterizas-el-regimen-de-kim-jong-un-lanzo-un-misil-balistico-al-mar-de-japon/",
+     "imagen": "https://www.infobae.com/resizer/v2/4RF3WDOC6JF67HAQYZDL5QZ6ZA.jpg?auth=92e17647024a76eb5514ae4faa2b5be8ec2f0b3f78d257a10159c0d627bda609&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:21",
+     "autor": "",
+     "titulo_original": "Tras la tensión con Corea del Sur por las minas fronterizas, el régimen de Kim Jong-un lanzó un misil balístico al mar de Japón"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "Rusia asegura nuevos avances en el bastión ucraniano de Dobropilia",
+     "resumen": "El ejército ruso informó la liberación de 70 edificios en un día en Dobropilia, en la región de Donetsk, donde los combates comenzaron hace aproximadamente un mes. Antes de la guerra vivían allí cerca de 30.000 personas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/03/rusia-asegura-registrar-nuevos-avances-en-bastion-de-dobropilia/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Rusia asegura registrar nuevos avances en bastión de Dobropilia"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "La fiscalía de Emiratos confirma que el copiloto de Flydubai buscaba cometer un atentado",
+     "resumen": "El fiscal general emiratí informó que el copiloto del vuelo FZ1073, que cubría la ruta de Dubái a Tel Aviv, atacó al comandante con un hacha de emergencia e intentó tomar el control del avión. Según The Wall Street Journal, el piloto ya había sido inhabilitado en Omán Air por sus posturas radicales antes de ser contratado por la aerolínea emiratí.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Vuelo de Flydubai: revelan que el copiloto de Omán estaba vetado en su propio país por sus \"ideas radicales\"",
+       "url": "https://www.clarin.com/mundo/vuelo-flydubai-revelan-copiloto-oman-vetado-propio-pais_0_OI2SWbMSim.html"
+      },
+      {
+       "id": "IB-01",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El copiloto de FlyDubai ya había sido inhabilitado por posibles posiciones extremistas",
+       "url": "https://www.infobae.com/america/mundo/2026/10/03/el-copiloto-de-flydubai-que-casi-provoco-un-accidente-aereo-tenia-antecedentes-de-inhabilitacion-por-posibles-posiciones-extremistas/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/03/la-fiscalia-emirati-confirmo-que-el-copiloto-de-flydubai-queria-cometer-un-acto-terrorista/",
+     "imagen": "https://www.infobae.com/resizer/v2/G3F5P4AZU5BSBELH6LVQ7WRZG4.jpg?auth=7f9cec4bc2ed5836491e3a207502a61d590cb002fcca38be395fab574bff0718&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:22",
+     "autor": "",
+     "titulo_original": "La Fiscalía emiratí confirmó que el copiloto de Flydubai quería cometer un “acto terrorista”"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Alerta en España por lluvias torrenciales y una riada que arrastró autos en Albacete",
+     "resumen": "Una tromba de agua convirtió las calles de Madrigueras, en Albacete, en ríos de lodo, con un amplio operativo de emergencias desplegado y al menos una mujer fallecida.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/alerta-espana-albacete-estado-emergencia-lluvias-torrenciales-riada-madrigueras-arrastro-autos-personas_0_IeAiHUbMmm.html",
+     "imagen": "https://www.clarin.com/img/2026/10/03/4HEkxUpxF_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alerta en España: Albacete en estado de emergencia, tras lluvias torrenciales y una riada en Madrigueras que arrastró autos y personas"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza la polémica por una novela premiada en Francia sospechada de haber sido escrita con IA",
+     "resumen": "La revista entrevistó a uno de los fundadores del colectivo \"Balance ton Claude\", que acusó a la novela \"C'était ça ou mourir\" de Thélyson Orélien, número uno en ventas en Francia y candidata al Goncourt, de haber sido redactada con inteligencia artificial. El autor negó las acusaciones, pero la obra fue retirada de la lista del premio y su promoción quedó en suspenso.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/03/quien-se-esconde-tras-el-asunto-thelyson-orelien/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "¿Quién se esconde realmente detrás del caso Thélyson Orélien?"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Rusia recorta drásticamente las indemnizaciones a familias de soldados caídos en Ucrania",
+     "resumen": "Le Grand Continent detalla cómo la región de Saratov redujo a una décima parte la indemnización a las familias de soldados fallecidos en combate, de un millón de rublos a 100.000 rublos a partir del 1° de noviembre. La revista señala que varias regiones rusas vienen recortando este beneficio desde el otoño de 2025 por la presión presupuestaria de la guerra.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/03/economia-rusa-por-presion-presupuestaria-las-regiones-reducen-indemnizaciones-a-familias-de-soldados-muertos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Economía rusa: ante la presión presupuestaria, las regiones reducen las indemnizaciones a las familias de los soldados fallecidos en Ucrania"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "Colapinto largará 21° en el Gran Premio de Bahréin en Malasia, con pole de Verstappen",
+     "resumen": "El piloto argentino terminó 15° en la clasificación de Sepang, pero arrastraba una sanción de 15 lugares que lo dejó relegado en la grilla. No quedó último porque Arvid Lindblad también fue penalizado, con 30 puestos. La carrera se correrá este domingo desde las 4 de la mañana, hora argentina.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-la-prueba-de-clasificacion-del-gran-premio-de-bahrein-en-malasia-de-formula-1-nid03102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PDDWWCL5HVFUNBRH2PAPWEOAOM.png?auth=b64f241fb21a4dd221fbed4ecde9b5d7c94fc01f667e9a16bdb9359a9a9b3fae&smart=true&width=641&height=346",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:58",
+     "autor": "Orlando Ríos",
+     "titulo_original": "Franco Colapinto largará 21º el Gran Premio de Bahréin en Malasia de Fórmula 1; pole de Max Verstappen"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Arruabarrena confirmó la lesión de Velasco y pidió cuidar a la joya Leo Flores",
+     "resumen": "El técnico de Boca contó que Velasco sufrió un pequeño desgarro en el 3-0 ante Unión y espera recuperarlo rápido. También elogió el doblete de Leo Flores, aunque advirtió sobre quienes ya se acercan a representarlo: \"tiene los pies sobre la tierra\".",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/arruabarrena-revelo-lesion-velasco-particular-consejo-cuidar-joya-boca-voy-seguir-rompiendole-pelotas-representantes_0_KvrnHbHTBL.html",
+     "imagen": "https://www.clarin.com/img/2026/09/18/37E3HAqQq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Arruabarrena reveló que Velasco se lesionó y dio su particular consejo para cuidar a la joya de Boca: “Voy a seguir rompiéndole las pelotas a los representantes”"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Gignac visitó la Bombonera, tomó mate con Riquelme y alentó a Boca",
+     "resumen": "El histórico goleador francés de Tigres, que acaba de obtener la ciudadanía mexicana tras 11 años en ese país, estuvo en el palco junto al presidente de Boca durante el partido ante Unión por el Torneo Clausura.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/andre-pierre-gignac-visito-bombonera-tomo-mate-riquelme-alento-boca-palco_0_36qhg0W42g.html",
+     "imagen": "https://www.clarin.com/img/2026/10/02/uFvTM4ip8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:03",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "André-Pierre Gignac visitó la Bombonera, tomó mate con Riquelme y alentó a Boca desde el palco"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "Otra baja para Boca: Tomás Belmonte se rompió los meniscos y vuelve en 2027",
+     "resumen": "El mediocampista, que había ganado protagonismo en el último semestre, fue operado tras lesionarse en una práctica y se perderá lo que resta del año, incluida la Copa Sudamericana.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/otra-baja-boca-tomas-belmonte-se-rompio-los-meniscos-fue-operado-y-volvera-2027-n6329581",
+     "imagen": "https://media.ambito.com/p/ad92b78eb56ece327eea6b6dbcad7064/adjuntos/239/imagenes/043/681/0043681202/1200x675/1032x479:1052x499/belmonte-operado.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:23",
+     "autor": "",
+     "titulo_original": "Otra baja para Boca: Tomás Belmonte se rompió los meniscos, fue operado y volverá en 2027"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "Independiente fue goleado 4-1 como local por Instituto y los hinchas estallaron",
+     "resumen": "El Rojo cayó en Avellaneda ante la Gloria en medio de una gran frustración de los hinchas, en un partido marcado además por el arbitraje cuestionado de Hernán Mastrángelo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/independiente-fue-goleado-como-local-por-instituto-de-cordoba-y-los-hinchas-descargaron-su-furia-nid02102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IO5FP3DD5NBW7N7Y52Z42XYCHQ.JPG?auth=1405df69d777d7509fda25adee4d9a37bf75fd8140c58ff469d1eeacf378c3f8&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:01",
+     "autor": "Rodolfo Chisleanschi",
+     "titulo_original": "Independiente fue goleado como local por Instituto de Córdoba y los hinchas descargaron su furia"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Scaloni prueba variantes en la Selección en la era post Messi",
+     "resumen": "El técnico convocó a cuatro caras nuevas, Román Vega, Valentín Gómez, Tobías Andrada y Leonel Flores, y a nueve futbolistas que no fueron al último Mundial, tras el anuncio del retiro de Lionel Messi de la Selección.",
+     "relacionadas": [
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La marca de Lionel Messi y Diego Maradona que rompió Leonel Flores en su debut con la Selección argentina",
+       "url": "https://www.ambito.com/deportes/la-marca-messi-y-maradona-que-rompio-leonel-flores-su-debut-la-seleccion-argentina-n6329596"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/10/03/los-tres-puestos-que-no-tienen-dueno-en-la-seleccion-en-la-nueva-formacion-ideal-de-scaloni/",
+     "imagen": "https://www.infobae.com/resizer/v2/UJS55I3GFVBOHCXYBLTMUFVC6Q.JPG?auth=6aa147a7347ae1cc0d86bda9374055d79f08887ed51c98617d0edd3a9d81b33b&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:18",
+     "autor": "Gustavo Yarroch",
+     "titulo_original": "Los tres puestos que no tienen dueño en la Selección en la nueva formación ideal de Scaloni"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Francia e Italia empataron 1-1 en un partidazo por la Nations League",
+     "resumen": "Un golazo de Olise abrió el marcador en el Stade de France y Bastoni lo igualó para la Azzurra, en un partido con Donnarumma como una de las figuras y el reencuentro de Zidane con el seleccionado que lo expulsó en la final del Mundial 2006.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/francia-e-italia-armaron-un-gran-partido-por-la-nations-league-del-golazo-de-olise-a-la-arremetida-nid02102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KIKIVXUMC5F75EIZ7CYEUKS544.JPG?auth=2859bf01e4d34830ce2c71d0662c24ac478a1598cb35073175f05ef4a737449e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:49",
+     "autor": "Christian Leblebidjian",
+     "titulo_original": "Francia e Italia armaron un gran partido, por la Nations League: del golazo de Olise a la arremetida de Bastoni"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "Una finca de San Rafael busca voluntarios a cambio de alojamiento gratis",
+     "resumen": "En la localidad mendocina de San Rafael, conocida por sus paisajes y bodegas, una finca abrió una convocatoria en la plataforma Worldpackers para recibir voluntarios que colaboren 20 horas semanales a cambio de alojamiento sin costo, con dos días libres para recorrer la zona.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-san-rafael-ofrecen-alojamiento-gratis-a-cambio-de-20-horas-semanales-de-colaboracion/",
+     "imagen": "https://www.cronista.com/resizer/v2/MBP3UUQZK5DJFPDLU63KXPH3NU.jpg?auth=aa86b054bd12a8ee0b69bc1fc99c3628877d9efe4139cb0b0053af97da856aae&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:41",
+     "autor": "Gabriel Cuellar",
+     "titulo_original": "Buscan voluntarios para vivir en San Rafael: ofrecen alojamiento gratis a cambio de 20 horas semanales de colaboración"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-13",
+     "titulo": "Miles de peregrinos caminan a Luján bajo la tormenta antes de la visita del Papa",
+     "resumen": "La 52ª Peregrinación Juvenil a Luján comenzó desde la medianoche en medio de tormentas, con un recorrido de 60 kilómetros que atraviesa siete partidos bonaerenses hasta el santuario; la misa central será el domingo a las 7. Antes del evento, un emprendedor de la zona lanzó Peregrina, una plataforma tipo Airbnb que ya reunió más de 1.000 usuarios y relevó 30.000 plazas de estacionamiento y 3.000 lugares de camping.",
+     "relacionadas": [
+      {
+       "id": "CR-26",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Crearon un “Airbnb” para la peregrinación a Luján que ya es un éxito en la previa de la visita del Papa León XIV",
+       "url": "https://www.cronista.com/negocios/crearon-un-airbnb-para-la-peregrinacion-a-lujan-que-ya-es-un-exito-en-la-previa-de-la-visita-del-papa-leon-xiv/"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/10/03/miles-de-fieles-comenzaron-la-peregrinacion-a-lujan-bajo-la-tormenta-los-detalles-del-operativo-de-seguridad/",
+     "imagen": "https://www.infobae.com/resizer/v2/MMHND7G4LJCXFMUKZ7AE7OHWOQ.jpg?auth=9be2eb869a5765908121da6d81ef09685a5db4524d29cd0a76f19f8d2642f3d9&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:36",
+     "autor": "",
+     "titulo_original": "Miles de fieles comenzaron la Peregrinación a Luján bajo la tormenta: los detalles del operativo de seguridad"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Un nuevo frente del Pacífico traerá tormentas, viento Zonda y hasta 35 grados",
+     "resumen": "El viernes concentró los mayores contrastes, con lluvias y nieve en la Patagonia y ráfagas de viento Zonda que podrían superar los 80 kilómetros por hora en Cuyo. En San Juan las temperaturas podrían acercarse a los 35 grados.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-nuevo-frente-desde-el-pacifico-que-traera-mas-inestabilidad-tormentas-maximas-de-hasta-nid01102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/USE52NYSSZAQRINBA273H6A2TI.png?auth=1b47a700db3c434364d56b976158513bd9a8fd20b57491b70d153521b6844566&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:54",
+     "autor": "",
+     "titulo_original": "Se viene un nuevo frente desde el Pacífico que traerá más inestabilidad, tormentas, máximas de hasta 35°C y vientos que podrían superar los 80 km/h: las zonas afectadas"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "Estudiantes argentinos crearon un dron monoplaza tripulado",
+     "resumen": "Un grupo de alumnos de ingeniería de distintas facultades desarrolló Atol Mamba, un monoplaza eléctrico que no necesita pista para elevarse, alcanza los 70 kilómetros por hora y cuenta con sistemas electrónicos de asistencia al piloto. Buscan poder fabricarlo en múltiples cantidades.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/estudiantes-argentinos-revolucionan-movilidad-aerea-creacion-atol-mamba-presentaron-inedito-dron-tripulado_0_PNJRkFe4k2.html",
+     "imagen": "https://www.clarin.com/img/2026/10/02/Mz7Whj9mz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Estudiantes argentinos revolucionan la movilidad aérea con la creación de Atol Mamba: un inédito dron monoplaza tripulado"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "A 44 años de Malvinas, Tecka homenajeará al soldado Ricardo Austin",
+     "resumen": "La localidad chubutense realiza un acto en memoria de Ricardo Austin, uno de los siete caídos en el combate de Darwin-Pradera del Ganso, donde 36 soldados resistieron 12 horas de combate. El homenaje nace de una iniciativa de veteranos de guerra para recordar a los caídos en las comunidades donde nacieron.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/03/36-soldados-12-horas-de-combate-y-siete-muertos-el-infierno-de-pradera-del-ganso-y-un-homenaje-que-continua-44-anos-despues/",
+     "imagen": "https://www.infobae.com/resizer/v2/OCGBHLOQ45AYRCZUPKBN7IS53U.jpg?auth=df0c7ec32f4775037313f0474f20d5d241de5e17e2cf247cee14eb5e76611c71&smart=true&width=720&height=477",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:29",
+     "autor": "Adrián Pignatelli",
+     "titulo_original": "36 soldados, 12 horas de combate y siete muertos: el infierno de Pradera del Ganso y un homenaje que continúa 44 años después"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del sábado tres de octubre.\n\nJavier Milei volvió de la Argentina Week de París, donde se fotografió con trece gobernadores sin sumar caras nuevas al esquema de alianzas, y la semana que viene el Gobierno empezará a defender el Presupuesto en el Congreso. En paralelo, el riesgo país volvió a subir y tocó los seiscientos cincuenta y cinco puntos básicos, el nivel más alto desde noviembre del año pasado, mientras las acciones locales lograron cerrar con ganancias. El dólar oficial cerró en mil quinientos cuarenta pesos, el blue en mil quinientos sesenta, el dólar mayorista en mil quinientos veinte y el oro cotiza en cuatro mil ciento sesenta y dos dólares la onza. La inflación de agosto fue de uno coma siete por ciento mensual y treinta y tres coma cinco por ciento interanual.\n\nEn política, además del regreso de Milei desde Francia, la senadora Patricia Bullrich reforzó su diferenciación con el Gobierno en un almuerzo con más de treinta empresarios, aunque sin mostrar diferencias de fondo con el Poder Ejecutivo. Renunció Claudia Testa, la número dos de la Secretaría de Trabajo, y la reemplazará el abogado Mariano Sartoris. La Cámara Federal de Casación Penal deberá definir si se reunifican los juicios contra Cristina y Máximo Kirchner por las causas Hotesur y Los Sauces. El gobernador de Misiones, Hugo Passalacqua, anunció que irá a la Justicia para frenar la venta de tierras a extranjeros tras el fallo de la Corte que eliminó las restricciones nacionales. Y la oposición en Diputados ya arma la agenda de octubre, con la derogación del decreto setenta en el centro de la discusión para la sesión del quince.\n\nEn economía y mercados, el riesgo país había superado los seiscientos treinta puntos hace unas semanas y el banco JP Morgan recortó su proyección de crecimiento para la Argentina a uno coma cinco por ciento para el año que viene, lo que lleva a los analistas a recomendar cautela con las inversiones. La tasa del bono GD35 en Nueva York subió desde ocho coma seis a once coma cuatro por ciento desde mediados de julio, y los Bonares rinden todavía peor. El Indec publicó por primera vez una medición de productividad: creció dos coma ocho por ciento en 2025, el primer registro positivo desde 2017, aunque sigue por debajo de los niveles de 2016. Los empresarios, por su parte, presupuestan una inflación cercana al veinte por ciento para el año próximo, por encima del dieciocho por ciento que pauta el Gobierno. Y el propio Gobierno defiende que cuenta con un poder de fuego de setenta y cinco mil millones de dólares para evitar una corrida cambiaria antes de las elecciones de 2027, aunque los analistas dudan de que esos fondos estén realmente disponibles.\n\nEn negocios y empresas, la cadena de panaderías Pandanés cerró todos sus locales durante la madrugada y dejó cerca de ciento cincuenta empleados despedidos, luego de un aviso por mensaje de texto. La marca española Mango abrió su primer local en el país de la mano de Grimoldi, tras más de veinte años de ausencia, y la sueca H y M avanza con su propio desembarco. El Banco Nación volvió a emitir deuda después de treinta años, y el régimen de incentivo a las grandes inversiones sumó dos proyectos por trece mil setecientos millones de dólares en Vaca Muerta y en Zárate.\n\nEn impuestos y normativa, el fallo García de la Corte Suprema sigue siendo la base de los reclamos judiciales de jubilados contra el impuesto a las Ganancias. El organismo de recaudación ARCA fijó nuevos montos para informar transferencias bancarias y de billeteras virtuales, y gracias al acuerdo Fatca con Estados Unidos recibe información sobre cuentas de argentinos en ese país, aunque no sobre sus saldos. Los camioneros cerraron una suba salarial del nueve coma nueve por ciento en seis tramos hasta febrero, y también se actualizaron los salarios de los trabajadores de la construcción y de las empleadas domésticas para octubre.\n\nEn consumo y construcción, dos consorcios compiten por construir la Línea F del subte, una obra de mil trescientos cincuenta millones de dólares que unirá Barracas con Palermo y que se adjudicará en diciembre. Las inmobiliarias usan cada vez más videos en redes sociales para vender departamentos, Cuenta DNI ofrece en octubre un veinte por ciento de descuento sin tope en dos cadenas de supermercados, y Renault lanzó una campaña en la calle para impulsar sus ventas con financiación especial.\n\nEn management y finanzas corporativas, un especialista de la Universidad de San Andrés propone tres claves para tomar decisiones en un mundo donde más datos no siempre significan mejores resultados. Un estudio de Spencer Stuart muestra que la edad promedio de los directores de empresas subió a casi sesenta y cuatro años, pese al discurso de renovación generacional. Y en Europa, el freno a la inteligencia artificial en las empresas no pasa por falta de formación sino por el acceso limitado a las herramientas.\n\nEn el mundo, más de cincuenta ciudades españolas se movilizaron por la crisis de la vivienda, luego de que el Parlamento derogara los decretos de vivienda del Gobierno de Pedro Sánchez. Brasil vota este domingo en una elección que, según La Nación, es una prueba de fuego para la estrategia regional de Donald Trump. Corea del Norte lanzó un misil balístico que recorrió más de setecientos kilómetros, en medio de la tensión con Corea del Sur. Rusia aseguró nuevos avances en el bastión ucraniano de Dobropilia. Y la fiscalía de Emiratos Árabes Unidos confirmó que el copiloto del vuelo de Flydubai que atacó al comandante con un hacha buscaba cometer un atentado terrorista.\n\nLe Grand Continent analiza dos historias: la polémica en Francia por una novela premiada que un colectivo acusa de haber sido escrita con inteligencia artificial, y cómo varias regiones rusas vienen recortando las indemnizaciones a las familias de los soldados caídos en Ucrania por la presión presupuestaria de la guerra.\n\nEn deportes, Franco Colapinto largará vigésimo primero este domingo en el Gran Premio de Bahréin que se corre en Malasia, luego de terminar quince en la clasificación pero arrastrar una sanción de quince puestos. En Boca, el técnico Arruabarrena confirmó la lesión de Velasco y el delantero francés André Pierre Gignac visitó la Bombonera y tomó mate con Juan Román Riquelme; además, Tomás Belmonte se rompió los meniscos y se perderá lo que resta del año. Independiente fue goleado cuatro a uno de local por Instituto, en medio de la bronca de los hinchas. Lionel Scaloni sigue probando variantes en la Selección tras el retiro de Lionel Messi, y Francia e Italia empataron uno a uno en un partidazo por la Nations League.\n\nEn turismo, una finca de San Rafael, en Mendoza, busca voluntarios que colaboren veinte horas semanales a cambio de alojamiento gratuito, en una zona conocida por sus paisajes y sus bodegas.\n\nY en sociedad, miles de peregrinos caminan hacia Luján bajo la tormenta en la víspera de la visita del Papa León Catorce, un grupo de estudiantes argentinos de ingeniería presentó un dron monoplaza tripulado llamado Atol Mamba, y la localidad chubutense de Tecka homenajeará este sábado al soldado Ricardo Austin, caído hace cuarenta y cuatro años en el combate de Pradera del Ganso.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-10-03-manana",
+ "generado_ba": "03/10/2026 10:14"
+}
