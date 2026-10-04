@@ -1,0 +1,633 @@
+{
+ "fecha": "2026-10-04",
+ "edicion": "mediodia",
+ "titulo": "Brasil cierra las urnas, la actividad rebota en agosto y Verstappen gana en Bahréin",
+ "apertura": "Brasil cerró este domingo la votación de una primera vuelta extremadamente reñida entre Lula da Silva y Flávio Bolsonaro, con un eventual balotaje ya anotado para el 25 de octubre. En la Argentina, datos mixtos de la economía —un repunte de la actividad en agosto que convive con la inversión estancada y el riesgo país en alza— marcaron el cierre de la Argentina Week en París. En el plano internacional, Rusia y Yemen anunciaron sendas escaladas militares, mientras en el deporte Max Verstappen cortó una racha de dieciséis carreras sin ganar y Franco Colapinto remontó ocho puestos en el Gran Premio de Bahréin.",
+ "claves": [
+  "Brasil cerró la votación de la primera vuelta a las cinco de la tarde, con Lula y Bolsonaro en una definición extremadamente reñida.",
+  "La actividad económica rebotó 1,7% mensual en agosto según el IGA-OJF, pero la inversión bruta interna cayó 5,4% interanual.",
+  "La molienda de soja de agosto fue la mejor para ese mes en diez campañas, con un alza interanual de casi 9%.",
+  "Terminó la Argentina Week en París con un pedido puntual de los inversores al ministro Luis Caputo, mientras el riesgo país siguió subiendo.",
+  "Rusia anunció que redoblará los ataques contra infraestructura ucraniana y Yemen lanzó una ofensiva militar para recuperar territorio en manos de los hutíes.",
+  "Max Verstappen ganó el Gran Premio de Bahréin y Franco Colapinto remontó hasta el 13° puesto pese a una estrategia cuestionada de Alpine.",
+  "Novak Djokovic eliminó a Alexander Zverev en Pekín y espera a Daniil Medvedev, que había vencido al argentino Francisco Cerúndolo.",
+  "Las empleadas domésticas cobrarán un adicional del 31% en octubre en zonas específicas del país."
+ ],
+ "cifras": [
+  {
+   "nombre": "Inversión bruta interna (IBIM-OJF), agosto",
+   "valor": "-5,4%",
+   "variacion": "interanual",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Molienda de soja, agosto",
+   "valor": "+9%",
+   "variacion": "interanual, mejor registro en 10 campañas",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Adicional de empleadas domésticas, octubre",
+   "valor": "31%",
+   "fuente": "IP-05"
+  },
+  {
+   "nombre": "Imagen de Milei (pico, diciembre 2025)",
+   "valor": "48,8%",
+   "fuente": "CR-04"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "Buena parte de la agenda política del día ya se cubrió en la edición de la mañana; estas son las novedades.",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "Francos anticipa una alianza amplia entre LLA y el PRO para 2027",
+     "resumen": "El ex jefe de Gabinete, Guillermo Francos, anticipó que La Libertad Avanza buscará una alianza electoral amplia junto al PRO y otras fuerzas liberales para las elecciones del año próximo, y afirmó que el oficialismo tendrá mayor presencia legislativa que la actual. Dejó abierta la puerta a una postulación propia, aunque aclaró que las definiciones llegarán recién el año próximo, y descartó que Patricia Bullrich rompa con el Presidente.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Guillermo Francos anticipó una alianza entre La Libertad Avanza y el PRO para las elecciones de 2027",
+       "url": "https://www.ambito.com/politica/guillermo-francos-anticipo-una-alianza-la-libertad-avanza-y-el-pro-las-elecciones-2027-n6329862"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/04/guillermo-francos-anticipo-una-alianza-electoral-amplia-de-lla-con-el-pro-y-mayor-presencia-oficialista-en-el-congreso/",
+     "imagen": "https://www.infobae.com/resizer/v2/7ONQ45IS4VGVNH2M52KRZC6LJA.jpg?auth=7f457fac0ccb1a9e39c6eefa2e7d66270062a4516482e3a2f4ceeace0a08e12f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:04",
+     "autor": "",
+     "titulo_original": "Guillermo Francos anticipó \"una alianza electoral amplia\" de LLA con el PRO y mayor presencia oficialista en el Congreso"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "García Cuerva advirtió que la descalificación \"infecta el corazón del pueblo\"",
+     "resumen": "El arzobispo de Buenos Aires, Jorge García Cuerva, encabezó la misa central tras la peregrinación a Luján y advirtió que las heridas de la descalificación y de la intolerancia supuran y están infectando el corazón del pueblo. También apuntó contra la violencia física y verbal y pidió un gesto de reconciliación entre los argentinos, a un mes de la visita del papa León XIV al país.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/dura-homilia-garcia-cuerva-misa-peregrinacion-lujan-heridas-descalificacion-intolerancia-supuran-infectando-corazon-pueblo_0_6cEb8JC71z.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/9z8pL9Vlx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Dura homilía de García Cuerva en la misa tras la peregrinación a Luján: \"Las heridas de la descalificación y de la intolerancia supuran y están infectando el corazón del pueblo\""
+    },
+    {
+     "id": "CR-04",
+     "titulo": "La imagen de Milei cae pero La Libertad Avanza sostiene su intención de voto",
+     "resumen": "Una encuesta de Zuban Córdoba sobre 2.000 casos relevados entre el 16 y el 19 de septiembre muestra que la aprobación de Javier Milei retrocedió desde el techo de 48,8% que había marcado en diciembre de 2025, aunque el espacio libertario resiste en intención de voto. A un año de las elecciones, el Gobierno celebra las reformas aprobadas en el Senado, pero reconoce que el humor social no acompaña.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-paradoja-libertaria-la-imagen-de-milei-cae-pero-lla-sostiene-intencion-de-voto/",
+     "imagen": "https://www.cronista.com/resizer/v2/345NXB6CTZBYXIJGPY3SUFLMAA.png?auth=d2b8f675c2d0604197378040ed73ccee2673a7821a58ad7565986d43c999bbf7&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:10",
+     "autor": "Kiara Calvert de Bohun",
+     "titulo_original": "La paradoja libertaria: la imagen de Milei cae, pero LLA sostiene intención de voto"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "El círculo rojo empresario no encuentra su propio Lacalle Pou",
+     "resumen": "Empresarios que vieron de cerca a Patricia Bullrich en el Coloquio de IDEA sostienen que la senadora no va a sacar los pies del plato de su alianza con Javier Milei, aunque el Gobierno ya cambió parte de su relato de cara a 2027. El humor de la city anticipa un escenario de mayor polarización antes de las próximas elecciones.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/javier-milei-cambia-el-relato-patricia-bullrich-se-desmarca-y-el-circulo-rojo-no-encuentra-su-luis-lacalle-pou-n6329687",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Javier Milei cambia el relato, Patricia Bullrich se desmarca y el círculo rojo no encuentra su Luis Lacalle Pou"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "Dal Poggetto: \"la Argentina se está encareciendo en dólares\"",
+     "resumen": "La directora ejecutiva de la consultora Eco Go, Marina Dal Poggetto, advirtió sobre la suba de la inflación medida en dólares y el freno del nivel de actividad económica. Para una empresa: una Argentina más cara en dólares erosiona la competitividad de precios frente a productos importados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/465840-dal-poggetto-la-argentina-se-esta-encareciendo-en-dolares",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2019/01/471506.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:30",
+     "autor": "",
+     "titulo_original": "Dal Poggetto: \"La Argentina se está encareciendo en dólares\""
+    },
+    {
+     "id": "CR-03",
+     "titulo": "La actividad rebotó en agosto pero la inversión sigue sin arrancar",
+     "resumen": "El Índice General de Actividad (IGA-OJF) de Orlando J. Ferreres & Asociados creció 1,7% mensual en agosto y acumuló una suba interanual de 0,6%, pero la inversión bruta interna (IBIM-OJF) retrocedió 5,4% interanual, con caídas tanto en maquinaria y equipos como en construcción. Para una empresa: el repunte de la actividad todavía no se traduce en más inversión productiva, una señal de cautela para quienes evalúan ampliar capacidad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-actividad-reboto-en-agosto-pero-la-inversion-sigue-sin-arrancar-la-senal-que-preocupa/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZIOACS3UCND5NHJE72ZKLUJQXE.jpg?auth=693f23191c5123bf2f2a1cb616318b66da665c4a40d8889990d5238b63dd30b2&smart=true&width=798&height=449",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:11",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "La actividad rebotó en agosto, pero la inversión sigue sin arrancar: la señal que preocupa"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "La molienda de soja alcanzó en agosto su mejor registro en diez campañas",
+     "resumen": "La molienda de soja llegó en agosto a su mayor nivel para ese mes en las últimas diez campañas, con un crecimiento interanual de casi 9%, según la Secretaría de Agricultura, Ganadería y Pesca. El dato contrasta con la primera mitad del año, cuando el procesamiento había sido más débil, y se suma a una seguidilla reciente de indicadores económicos negativos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-soja-le-da-una-buena-noticia-al-gobierno-en-medio-de-una-seguidilla-de-datos-negativos/",
+     "imagen": "https://www.cronista.com/resizer/v2/D77W33VVMZANLNZL7HYRIJVQNA.jpg?auth=fef315080c541477f49cad31dd1cd77d56e7e2f8eb4a6d71308814dcb42357ce&smart=true&width=900&height=513",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:11",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "La soja le da una buena noticia al Gobierno en medio de una seguidilla de datos negativos"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "Terminó la Argentina Week con el pedido de los inversores a Caputo",
+     "resumen": "Tras tres días de optimismo en París, con anuncios de inversiones y presencia de gobernadores, cerró la Argentina Week. Pese al clima favorable, el riesgo país continuó subiendo y los últimos indicadores no fueron buenos, lo que alimentó un pedido puntual de los inversores al ministro Luis Caputo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/fin-la-argentina-week-mejor-que-nueva-york-foco-energia-y-un-pedido-clave-inversores-luis-caputo-n6329842",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:54",
+     "autor": "Nazarena Lomagno",
+     "titulo_original": "Fin de la Argentina Week: mejor que Nueva York, foco en energía y un pedido clave de inversores a Luis Caputo"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "El real y el Ibovespa llegan fortalecidos a la definición electoral en Brasil",
+     "resumen": "El real y el índice Ibovespa llegan fortalecidos a las elecciones presidenciales brasileñas, aunque con creciente sensibilidad a las encuestas. Lula da Silva y Flávio Bolsonaro plantean velocidades distintas para corregir el desequilibrio fiscal, y los grandes bancos de inversión ya ponen el foco en el escenario que se abrirá después de conocerse los resultados.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/elecciones-brasil-que-el-verdadero-trade-electoral-pasa-el-frente-fiscal-n6329104",
+     "imagen": "https://media.ambito.com/p/ea03beb27e217bead2fcd34061845d95/adjuntos/239/imagenes/043/552/0043552911/1200x675/smart/elecciones-brasil.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:55",
+     "autor": "",
+     "titulo_original": "Elecciones en Brasil: por qué el verdadero \"trade electoral\" pasa por el frente fiscal"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Qué cambia para la Argentina en comercio y dólar según quién gane en Brasil",
+     "resumen": "Según la última encuesta de AtlasIntel y Bloomberg, Lula da Silva lidera la primera vuelta con 45,3% frente a 42,2% de Flávio Bolsonaro, con un balotaje previsto para el 25 de octubre en un virtual empate técnico. El resultado es seguido de cerca en la Argentina por su impacto en el comercio bilateral, el tipo de cambio y la relación con el principal socio del Mercosur.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/brasil-define-su-rumbo-que-cambia-para-la-argentina-en-comercio-dolar-y-relacion-bilateral-segun-quien-gane/",
+     "imagen": "https://www.cronista.com/resizer/v2/NJJ742XVQVFCLKICQI67HKWWEA.png?auth=7c6c7519b350481346dc3bae3a3225767f44891f4062b250c994ffeb05db155a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:10",
+     "autor": "Catalina Jordán",
+     "titulo_original": "Brasil define su rumbo: qué cambia para la Argentina en comercio, dólar y relación bilateral según quién gane"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "Brasil amplía su producción porcina y presiona los precios argentinos",
+     "resumen": "La producción de carne porcina de Brasil crece y sus precios caen, lo que abre un nuevo frente de competencia justo cuando el consumo argentino de esa carne alcanza niveles récord. El fenómeno se suma a la histórica rivalidad comercial y deportiva entre ambos socios del Mercosur.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/brasil-amplia-la-produccion-de-una-carne-que-gana-lugar-en-la-mesa-argentina-y-presiona-sobre-los-precios/",
+     "imagen": "https://www.cronista.com/resizer/v2/3WISBUUU6ZBZHAJK2ARPYD6M5A.jpeg?auth=fb6fd43a58a485ea37a2de8714ada4dfdd7f2eb084afdcfa326c827f97434d00&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:12",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Brasil amplía la producción de una carne que gana lugar en la mesa argentina y presiona sobre los precios"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "De una planta neuquina al borde de la quiebra a exportar agua premium a los Emiratos",
+     "resumen": "Alvura, una marca de agua mineral de manantial nacida en Neuquén, reconvirtió una planta que estuvo al borde de la quiebra en un negocio que hoy produce hasta 8 millones de litros al año, con presencia en la Patagonia, Europa y próximamente los Emiratos Árabes Unidos. La planta procesa agua de un manantial de la precordillera, a unos 277 kilómetros de la ciudad de Neuquén.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/de-crear-una-marca-de-agua-premium-patagonica-con-us-500000-al-pupi-zanetti-y-los-emiratos-arabes/",
+     "imagen": "https://www.cronista.com/resizer/v2/WRSMKFAU75ECZARXRTPHUONXAI.png?auth=f461f7e8cae632808257eeadee2408a6b4605e281a911f46e05f96fe10c68e85&smart=true&width=900&height=1350",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "De crear una marca de agua premium patagónica con u$s 500.000 al Pupi Zanetti y los Emiratos Árabes"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "El plan de China para instalar fábricas fuera de China y qué pasará con la Argentina",
+     "resumen": "Automotrices chinas recorren Europa en busca de plantas disponibles para producir fuera de su país, aprovechando capacidad ociosa y ahorrando costos frente a construir desde cero; BYD, por ejemplo, prevé comenzar a producir en Hungría a fin de año. Brasil ya concentra varias de esas inversiones y en el mercado argentino también existen planes en danza.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/autos/el-ambicioso-plan-de-china-para-instalar-fabricas-fuera-de-china-que-pasara-con-la-argentina-nid30092026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RMCPMWN3VRGUBL3KNPH26AFZCA.jpg?auth=43a5724c39a8666fee0432bc698a402f01ba849b8f9b554a6cd1eb557ee04589&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:22",
+     "autor": "Iñaki Zurueta",
+     "titulo_original": "El ambicioso plan de China para instalar fábricas... fuera de China: qué pasará con la Argentina"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "Los autos chinos ya no son una novedad en la Argentina: ahora buscan hacer historia",
+     "resumen": "Las marcas chinas de autos dejaron de ser una curiosidad en el mercado argentino y se consolidaron como tema de conversación entre compradores y especialistas del sector automotor. El desafío que viene es sostener ese crecimiento y ganar terreno frente a las marcas tradicionales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/los-autos-chinos-ya-no-son-cuento-en-la-argentina-su-desafio-ahora-es-hacer-historia/",
+     "imagen": "https://www.cronista.com/resizer/v2/ULNV3SAW2BCX3M5EXYIYPZKHR4.JPG?auth=20416c53870916c4267f5f5575f759863f585e1749fb6f2ff270989f1a6d04f4&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:00",
+     "autor": "Juan Manuel Compte",
+     "titulo_original": "Los autos chinos ya no son cuento en la Argentina: su desafío, ahora, es hacer historia"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Qué esperan los empresarios argentinos de la elección en Brasil",
+     "resumen": "Directivos de los sectores industrial y automotor argentino siguen de cerca la votación en Brasil, con la mirada puesta en cómo el resultado podría redefinir alianzas comerciales y deudas regionales entre ambos socios del Mercosur.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/465821-lula-o-bolsonaro-que-puede-pasar-con-la-relacion-economica-entre-brasil-y-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626738.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:30",
+     "autor": "",
+     "titulo_original": "Lula o Bolsonaro: qué esperan los empresarios argentinos de las elecciones de Brasil"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "intro": "El material de la corrida trajo poco específico sobre impuestos y normativa laboral más allá de este ajuste; no hubo novedades sobre ARCA, Ganancias ni reforma laboral desde la edición de la mañana.",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "Las empleadas domésticas cobrarán un adicional del 31% en octubre en zonas específicas",
+     "resumen": "Para octubre se mantiene un adicional del 31% en los sueldos de las empleadas domésticas que se desempeñan en zonas específicas del país, según el régimen vigente para trabajadoras de casas particulares. Para una empresa: el ajuste no impacta directo en la nómina corporativa, pero es una referencia del ritmo de actualización salarial del sector servicios.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/465597-que-empleadas-domesticas-cobran-un-31-mas-en-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/569874.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:15",
+     "autor": "",
+     "titulo_original": "Qué empleadas domésticas cobran un 31% más en octubre"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "Esta corrida trajo poco material nuevo y específico de consumo y construcción; la mayoría de las novedades del sector ya se cubrieron en la edición de la mañana.",
+   "notas": [
+    {
+     "id": "AM-10",
+     "titulo": "Créditos UVA en Cuyo: la baja de tasas reactiva consultas pero piden cautela",
+     "resumen": "La baja de tasas de interés reactivó las consultas por créditos hipotecarios UVA en la región cuyana, aunque los especialistas remarcan que antes de endeudarse hay que tener en cuenta la inflación, la morosidad y la evolución de los ingresos. Para una empresa: una reactivación del crédito hipotecario podría traccionar en el mediano plazo la demanda de materiales de construcción.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/creditos-uva-la-region-cuyana-rentabilidad-morosidad-y-variables-macroeconomicas-n6329432",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "Créditos UVA en la región cuyana: rentabilidad, morosidad y variables macroeconómicas"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-06",
+     "titulo": "Así piensan los profesionales que las empresas buscan en la era de la inteligencia artificial",
+     "resumen": "El último Work Trend Index de Microsoft, que encuestó a 20.000 trabajadores de diez países que ya usan inteligencia artificial, identificó un grupo de \"profesionales de frontera\": usan agentes de inteligencia artificial para tareas largas y complejas y cambian seguido su forma de trabajar. El estudio sugiere que la pregunta más productiva para una empresa no es qué carreras reemplazará la inteligencia artificial, sino cómo rediseñar el trabajo en torno a ella.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/asi-piensan-los-profesionales-que-buscan-las-empresas-en-la-era-de-la-ia/",
+     "imagen": "https://www.cronista.com/resizer/v2/2GXNAFS2ENHIPFX7GUFYNODMBY.jpg?auth=b2b02a5f6540a09aaa330999bc3669f695f00d7bdd01a82c9d85e7abea49febb&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:56",
+     "autor": "Ximena Gauto Acosta",
+     "titulo_original": "Así piensan los profesionales que buscan las empresas en la era de la IA"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "Meta usa datos de amigos y familiares en Instagram y Facebook para entrenar su inteligencia artificial",
+     "resumen": "El asistente de inteligencia artificial de Meta, llamado Muse, ejecuta un proceso automático cada hora para crear un perfil detallado de cada familiar, pareja, amigo y colega de sus usuarios, según documentos internos revelados por un investigador independiente. La compañía sostiene que esa recolección es indispensable para que la herramienta resuelva tareas cotidianas con mayor precisión, aunque el hallazgo reabre el debate sobre privacidad en el uso corporativo de la inteligencia artificial.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/tecno/2026/10/04/muse-la-ia-de-meta-usa-los-datos-de-los-usuarios-para-crear-perfiles-detallados-de-sus-amigos-y-familiares/",
+     "imagen": "https://www.infobae.com/resizer/v2/VK5EBYZBDVFEFLZVY5LZH5QUTM.jpg?auth=586b6d5ba8ffa2d57a59880bc9bef450071009e88b7b168fecc2b8ebb7a3329d&smart=true&width=900&height=585",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Dylan Escobar Ruiz",
+     "titulo_original": "Meta está usando datos personales de amigos y familiares que sigamos en Instagram y Facebook para modelar su IA"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "Brasil vota con las urnas por cerrar a las cinco de la tarde",
+     "resumen": "Casi 160 millones de brasileños están habilitados para votar en una primera vuelta extremadamente reñida entre Lula da Silva y Flávio Bolsonaro; las mesas cierran a las 17, horario de Brasilia, sin diferencia respecto de la Argentina. Antes de emitir su voto en San Pablo, Lula afirmó que está en juego \"el proyecto de Brasil, entre la democracia y el negacionismo\"; un eventual balotaje está previsto para el 25 de octubre.",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Votó Lula: \"Está en juego el proyecto de Brasil, entre la democracia y el negacionismo\"",
+       "url": "https://www.ambito.com/mundo/elecciones-brasil-vota-lula-da-silva-san-pablo-y-va-su-cuarto-mandato-presidencial-n6329846"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Elecciones en Brasil 2026 EN VIVO: resultados, candidatos y últimas noticias, minuto a minuto",
+       "url": "https://www.ambito.com/mundo/elecciones-brasil-presidente-votacion-lula-da-silva-flavio-bolsonaro-pt-pl-4-octubre"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/elecciones-brasil-2026-seguir-resultados-vivo-argentina_0_i19oCo0QE6.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/BEGWew3bf_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones en Brasil 2026: cómo seguir los resultados en vivo desde Argentina"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "Zelenski afirma que Estados Unidos busca negociaciones trilaterales con Rusia en octubre",
+     "resumen": "El presidente ucraniano, Volodimir Zelenski, afirmó que Washington busca reactivar el diálogo entre Ucrania y Rusia mediante una reunión trilateral prevista para octubre, y confirmó la disposición de Kiev a participar. El Kremlin no descartó esas conversaciones, aunque intentos anteriores no lograron avances significativos para detener el conflicto.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/zelenski-afirma-que-eeuu-quiere-negociaciones-trilaterales-con-rusia-en-octubre_0_Ubx8srCXzz.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Zelenski afirma que EEUU quiere negociaciones trilaterales con Rusia en octubre"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Rusia anuncia que redoblará los ataques contra la infraestructura ucraniana",
+     "resumen": "El Ministerio de Defensa ruso anunció que intensificará los ataques contra infraestructura militar e industrial en Kiev y otras regiones de Ucrania, después de que Zelenski anunciara su intención de redoblar los bombardeos contra las refinerías rusas. La escalada se suma a la llegada a Kiev del canciller alemán Friedrich Merz, que horas antes había anunciado un paquete de ayuda militar.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/04/rusia-y-ucrania-prometen-redoblar-sus-ataques-contra-la-infraestructura-enemiga/",
+     "imagen": "https://www.infobae.com/resizer/v2/MRHVIIKWONEHBFADY2NNAEFF7E.jpg?auth=9d9df200a10b0d143b11b4d23bcfdd451cacfed46635c254bf19c06315e29fba&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Rusia y Ucrania prometen redoblar sus ataques contra la infraestructura enemiga"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Yemen lanza una ofensiva militar para recuperar el territorio en manos de los hutíes",
+     "resumen": "El presidente del Consejo de Liderazgo Presidencial de Yemen, Rashad al Alimi, anunció el inicio de operaciones militares para recuperar los territorios bajo control de los hutíes, tras sostener que se agotaron las vías de desescalada con el grupo respaldado por Irán. El anuncio llega un mes después de una ofensiva hutí que les permitió tomar gran parte de la costa meridional yemení y reforzar su dominio sobre el mar Rojo y el estrecho de Bab el Mandeb.",
+     "relacionadas": [
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno yemení anunció el inicio de operaciones militares para recuperar los territorios controlados por los hutíes",
+       "url": "https://www.infobae.com/america/mundo/2026/10/04/el-gobierno-yemeni-anuncio-el-inicio-de-operaciones-militares-para-recuperar-los-territorios-controlados-por-los-huties/"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/yemen-anuncia-operacion-para-recuperar-el-territorio-controlado-por-los-huties_0_gVWHcWrQbZ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Yemen anuncia operación para recuperar el territorio controlado por los hutíes"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "Trump crea un comité para coordinar el desarrollo de inteligencia artificial en Estados Unidos",
+     "resumen": "El gobierno de Donald Trump creó la llamada \"Fuerza de la Superinteligencia\", un comité de coordinación que liderará el desarrollo de la inteligencia artificial en el país. La medida se suma a la carrera regulatoria y de inversión en inteligencia artificial que atraviesa a buena parte del mundo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/trump-crea-fuerza-superinteligencia-coordinar-desarrollo-inteligencia-artificial-eeuu_0_ykjg0KWnw2.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/hO0eOtG5i_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Trump crea la \"Fuerza de la Superinteligencia\" para coordinar el desarrollo de Inteligencia Artificial en EE.UU."
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Milei y Kicillof miran de cerca una elección que también habla de la Argentina de 2027",
+     "resumen": "Aunque evitaron involucrarse en la recta final de la campaña brasileña, tanto Javier Milei como Axel Kicillof siguen con atención una elección que funciona como anticipo del duelo entre dos modelos políticos que tendrá su correlato local en 2027. La relación bilateral entre ambos países se sostiene hoy más por inercia económica que por sintonía entre sus gobiernos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-eleccion-que-divide-a-brasil-y-miran-de-cerca-milei-y-kicillof-como-y-por-que-impacta-en-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/BBF2CB2X4ZGSVPWVAGMULRGRXQ.JPG?auth=6c85de9b3fc04a3ed7f2a11df0c5bf0c74cc65dbb869c9c44e86343d6295c083&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Mariano Beldyk",
+     "titulo_original": "La elección que divide a Brasil y miran de cerca Milei y Kicillof: cómo y por qué impacta en la Argentina"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "Verstappen ganó en Bahréin y rompió una racha de dieciséis carreras sin victorias",
+     "resumen": "Max Verstappen (Red Bull Racing) ganó el Gran Premio de Bahréin, disputado en el circuito de Sepang por el conflicto en Medio Oriente, y sumó su primer triunfo de la temporada tras 16 carreras. La carrera, marcada por una lluvia torrencial y problemas de software en los monoplazas, comenzó una hora y media más tarde de lo previsto.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto terminó 13° en el Gran Premio de Bahréin tras una carrera caótica y no pudo sumar puntos",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-termino-13-el-gran-premio-bahrein-una-carrera-caotica-y-no-pudo-sumar-puntos-n6329848"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/max-verstappen-y-una-aplastante-primera-victoria-en-el-ano-despues-de-la-lluvia-el-caos-el-susto-y-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/H27MIGI44RGEFEDAIFJFITGFTM.JPG?auth=fa98e494605202eba3b002bf60e04ced8b09133ec244c14b8a4482994ab57964&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:45",
+     "autor": "Alberto Cantore",
+     "titulo_original": "Max Verstappen y una aplastante primera victoria en el año después de la lluvia, el caos, el susto y las estrategias"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Colapinto remontó ocho puestos y terminó 13° en un Gran Premio caótico",
+     "resumen": "Franco Colapinto largó 21° tras una sanción de 15 posiciones y remontó hasta el 13° puesto en el Gran Premio de Bahréin, por delante de su compañero Pierre Gasly pero sin llegar a sumar puntos. El piloto cuestionó la estrategia de Alpine de largar con neumáticos blandos pese a la pista mojada —\"fue la decisión incorrecta\", dijo— y protagonizó además un tenso cruce por radio con su ingeniero durante la bandera roja inicial. El asesor ejecutivo Flavio Briatore admitió luego que el equipo \"no estuvo a la altura\" y que Racing Bulls amplió a 22 puntos su ventaja en el Mundial de Constructores. La Fórmula 1 vuelve el próximo fin de semana con el Gran Premio de Singapur.",
+     "relacionadas": [
+      {
+       "id": "LN-11",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Pese a que hizo una buena carrera, Colapinto se quejó de la elección de neumáticos de Alpine",
+       "url": "https://www.lanacion.com.ar/deportes/pese-a-que-hizo-una-buena-carrera-colapinto-se-quejo-de-la-eleccion-de-los-neumaticos-que-hizo-nid04102026/"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“¡Es bandera roja!“: el encendido cruce entre Franco Colapinto y su ingeniero en Alpine durante el GP de Baréin de Fórmula 1",
+       "url": "https://www.infobae.com/deportes/2026/10/04/es-bandera-roja-el-encendido-cruce-entre-franco-colapinto-y-su-ingeniero-en-alpine-durante-el-gp-de-barein-de-formula-1/"
+      },
+      {
+       "id": "LN-05",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La evaluación de Briatore, después de que Alpine se marchó sin puntos de Sepang y perdió terreno en Mundial de Constructores",
+       "url": "https://www.lanacion.com.ar/deportes/automovilismo/la-evaluacion-de-briatore-despues-de-que-alpine-se-marcho-sin-puntos-de-sepang-y-perdio-terreno-en-nid04102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/franco-colapinto-remonto-puestos-sepang-alpine-pago-caro-error-estrategia-gp-bahrein-decision-incorrecta_0_BfE3jZ6oRE.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/a1RWJ8YDm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Franco Colapinto remontó ocho puestos en Sepang, pero Alpine pagó caro un error de estrategia en el GP de Bahréin: \"Decisión incorrecta\""
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Djokovic eliminó a Zverev en Pekín y espera a Medvedev, verdugo de Cerúndolo",
+     "resumen": "Novak Djokovic, de 39 años, derrotó a Alexander Zverev por 4-6, 6-4 y 6-4 en el ATP 500 de Pekín y se convirtió en el primer tenista en ganar sus primeros 32 partidos en un mismo certamen. En semifinales enfrentará al ruso Daniil Medvedev, que había eliminado al argentino Francisco Cerúndolo en dos sets.",
+     "relacionadas": [
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Fran Cerúndolo chocó con el muro de Medvedev en el ATP 500 de Beijing: no pudo imitar a Guillermo Coria y Juan Martín Del Potro",
+       "url": "https://www.clarin.com/deportes/fran-cerundolo-choco-muro-medvedev-atp-500-beijing-pudo-imitar-guillermo-coria-juan-martin-potro_0_QmyhVI4rTt.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/novak-djokovic-sigue-haciendo-historia-derroto-a-alexander-zverev-el-jugador-del-ano-y-sostiene-su-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/S6756HNLPJG63HHP5CHFBR77ME.JPG?auth=1c6061ac6beda838b09b0bcf5c545d63b9c6c4854037d2d1f131bd1d86eb741a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:59",
+     "autor": "",
+     "titulo_original": "Novak Djokovic sigue haciendo historia: derrotó a Alexander Zverev, el jugador del año, y sostiene su invicto en Pekín"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Alcaraz avanzó a semifinales en Tokio por el retiro de Shapovalov",
+     "resumen": "Carlos Alcaraz, número 3 del mundo, avanzó a semifinales del Abierto de Japón luego de que el canadiense Denis Shapovalov se retirara por una lesión muscular cuando el español ganaba 7-6 y 2-1. Alcaraz, campeón vigente del torneo, se medirá con su compatriota Jaume Munar por un lugar en la final.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-avanzo-en-tokio-por-el-retiro-de-denis-shapovalov-y-aseguro-un-finalista-espanol-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HAAHAWNRYBAGFEDM6X37IOGIPA.JPG?auth=8b1414b8aa335289ad8a69390b4c3203ebcd37e377ceb3da5449ef4c28ae8674&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:53",
+     "autor": "",
+     "titulo_original": "Carlos Alcaraz avanzó en Tokio por el retiro de Denis Shapovalov y aseguró un finalista español"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Racing visita a Estudiantes de Río Cuarto por el Torneo Clausura",
+     "resumen": "Racing y Estudiantes de Río Cuarto, los dos equipos con peor andar de la zona B, se enfrentan hoy desde las 21.30 en el estadio Ciudad de Río Cuarto Antonio Candini por la undécima fecha del Torneo Clausura 2026. El partido se transmite por TNT Sports.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-racing-vs-estudiantes-de-rio-cuarto-por-el-torneo-clausura-2026-hoy-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DSFYYJMJCZAEFKDHQXYQEQGNCQ.JPEG?auth=2a545ca232daf0e95d688061ad113b674624c7eda5eb40c4450379fd90bd853a&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:25",
+     "autor": "",
+     "titulo_original": "En qué canal pasan Racing vs. Estudiantes de Río Cuarto por el Torneo Clausura 2026 hoy"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Talleres y Belgrano juegan hoy el clásico cordobés del Torneo Clausura",
+     "resumen": "Talleres y Belgrano disputan hoy desde las 17 el clásico de Córdoba en el estadio Mario Alberto Kempes, con arbitraje de Facundo Tello, por la undécima fecha del Torneo Clausura 2026. El encuentro se transmite por ESPN Premium.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-talleres-vs-belgrano-y-que-canal-lo-transmite-en-vivo-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KS3AAYJR3VCEPJYHLZSR7562Z4.JPEG?auth=8857ec0637203eac53717d2ddd66c170857db4532f8ba34fd93c66658691ab1f&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:41",
+     "autor": "",
+     "titulo_original": "Por dónde pasan Talleres vs. Belgrano y qué canal lo transmite en vivo"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Hezonja, de los Cavaliers, destacó el nivel del básquet español en una gira por Málaga",
+     "resumen": "El alero croata de Cleveland Cavaliers, Mario Hezonja, dijo tras un amistoso de pretemporada en Málaga que la gira busca mostrar en la NBA que en España \"se toman el baloncesto muy en serio\" y que la liga española es \"la mejor liga doméstica en Europa\".",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/04/hezonja-cleveland-que-vean-en-la-nba-que-aqui-nos-tomamos-el-baloncesto-muy-en-serio/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Hezonja (Cleveland): “Que vean en la NBA que aquí nos tomamos el baloncesto muy en serio”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "La provincia que tuvo más de cien bodegas y ahora vuelve a producir vino",
+     "resumen": "Entre Ríos llegó a ser la cuarta provincia vitivinícola del país hacia fines de la década de 1920, con más de 100 bodegas y 2.500 hectáreas de viñedos, antes de quedar casi seis décadas fuera del mapa del vino. Impulsada por inmigrantes suizos, franceses e italianos desde el siglo XIX, la actividad vuelve a crecer hoy en localidades como Concordia, Federación y Colonia San José.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-provincia-que-llego-a-tener-mas-de-100-bodegas-lo-perdio-todo-y-ahora-vuelve-a-producir-vino/",
+     "imagen": "https://www.cronista.com/resizer/v2/S62BDVZOYNFWZLKCISEYFAKZ6I.jpg?auth=d6911a99be3f91a7d7e7808eae19e296d9425c020478f0fda600042f2133dbde&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Micaela Mura",
+     "titulo_original": "La provincia que llegó a tener más de 100 bodegas, lo perdió todo y ahora vuelve a producir vino"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Colombia apuesta al café y la naturaleza para recuperar el turismo tras el sismo de agosto",
+     "resumen": "Manizales, capital del departamento colombiano de Caldas, apuesta a sus cafetales para reactivar el turismo luego del terremoto de magnitud 7,4 que sacudió al país en agosto. La ocupación hotelera de la zona apenas llegó al 6,8% tras el sismo, y los productores locales confían en que la actividad se recupere de a poco.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/04/colombia-se-apoya-en-cafe-y-naturaleza-para-recuperar-el-turismo-tras-el-sismo-de-agosto/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Colombia se apoya en café y naturaleza para recuperar el turismo tras el sismo de agosto"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-07",
+     "titulo": "El fenómeno de El Niño llegará a su pico con lluvias fuertes en varias provincias",
+     "resumen": "El Servicio Meteorológico Nacional anticipó que el fenómeno de El Niño alcanzará en el país una intensidad \"fuerte o muy fuerte\", con riesgo elevado de inundaciones en las próximas semanas. Una intensa granizada ya causó destrozos en Paraguay, en un contexto regional de clima inestable.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegara-pico-maximo-provincias-esperan-lluvias-fuertes_0_k0K1hB6jAL.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/WccyWkrTt_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: cuándo llegará a su pico máximo y en qué provincias se esperan las lluvias más fuertes"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del domingo 4 de octubre.\n\nBrasil cerró este domingo la votación de una primera vuelta extremadamente reñida entre Lula da Silva y Flávio Bolsonaro, con un eventual balotaje previsto para el 25 de octubre. En la Argentina, datos mixtos de la economía marcaron el cierre de la Argentina Week en París, con un repunte de la actividad en agosto que convive con la inversión estancada y el riesgo país en alza. El dólar oficial cotiza en mil quinientos cuarenta pesos y el dólar blue en mil quinientos sesenta pesos, el riesgo país se ubica en seiscientos cincuenta y cinco puntos básicos y el oro cotiza cerca de cuatro mil ciento sesenta y dos dólares la onza troy.\n\nEn política, el ex jefe de Gabinete Guillermo Francos anticipó que La Libertad Avanza buscará una alianza electoral amplia junto al PRO y otras fuerzas liberales para las elecciones del año próximo, y afirmó que el oficialismo tendrá mayor presencia legislativa que la actual. El arzobispo de Buenos Aires, Jorge García Cuerva, encabezó la misa central tras la peregrinación a Luján y advirtió que las heridas de la descalificación y de la intolerancia supuran y están infectando el corazón del pueblo. Una encuesta de la consultora Zuban Córdoba mostró que la imagen de Javier Milei retrocedió desde el techo de casi cuarenta y nueve por ciento que había marcado en diciembre pasado, aunque el espacio libertario resiste en intención de voto; empresarios que vieron de cerca a Patricia Bullrich en el Coloquio de IDEA sostienen que la senadora no va a sacar los pies del plato de su alianza con el Presidente.\n\nEn economía, la directora ejecutiva de la consultora Eco Go, Marina Dal Poggetto, advirtió que la Argentina se está encareciendo en dólares. El Índice General de Actividad de Orlando Ferreres y Asociados creció uno coma siete por ciento mensual en agosto, pero la inversión bruta interna volvió a caer, cinco coma cuatro por ciento en la comparación interanual, con retrocesos tanto en maquinaria como en construcción. La molienda de soja alcanzó en agosto su mejor registro para ese mes en las últimas diez campañas, con un alza interanual de casi nueve por ciento, según la Secretaría de Agricultura. Terminó la Argentina Week en París con un pedido puntual de los inversores al ministro Luis Caputo, mientras el riesgo país siguió subiendo pese al clima de optimismo de los tres días previos. Y el real y el índice Ibovespa llegan fortalecidos a la definición electoral brasileña, aunque con una sensibilidad creciente a las encuestas.\n\nEn negocios y empresas, Brasil amplía su producción de carne porcina y presiona los precios argentinos justo cuando el consumo local de esa carne alcanza niveles récord. Alvura, una marca de agua mineral nacida en Neuquén que estuvo al borde de la quiebra, hoy produce hasta ocho millones de litros al año y se prepara para llegar a los Emiratos Árabes Unidos. Automotrices chinas como BYD recorren Europa en busca de plantas disponibles para producir fuera de China, con Brasil ya concentrando varias inversiones y planes que también rondan a la Argentina. Las marcas chinas de autos, de hecho, dejaron de ser una curiosidad en el mercado argentino y ahora buscan consolidarse frente a las tradicionales. Y empresarios industriales y automotores argentinos siguen de cerca la elección brasileña por su impacto en alianzas comerciales y deudas regionales.\n\nEn impuestos y normativa laboral, para octubre se mantiene un adicional del treinta y uno por ciento en los sueldos de las empleadas domésticas que se desempeñan en zonas específicas del país.\n\nEn consumo y construcción, la baja de tasas de interés reactivó las consultas por créditos hipotecarios UVA en la región cuyana, aunque los especialistas piden cautela y tener en cuenta la inflación y la morosidad antes de endeudarse.\n\nEn management y finanzas corporativas, el último Work Trend Index de Microsoft, que encuestó a veinte mil trabajadores de diez países que ya usan inteligencia artificial, describió a un grupo de profesionales de frontera que usan agentes de inteligencia artificial para tareas largas y complejas y cambian seguido su forma de trabajar. En paralelo, un investigador independiente reveló que el asistente de inteligencia artificial de Meta, llamado Muse, crea cada hora un perfil detallado de cada familiar, pareja y amigo de sus usuarios en Instagram y Facebook, lo que reabrió el debate sobre privacidad en el uso corporativo de estas herramientas.\n\nEn el mundo, las mesas de votación en Brasil cerraron a las cinco de la tarde, horario de Brasilia, sin diferencia respecto de la Argentina; antes de votar en San Pablo, Lula había dicho que está en juego el proyecto de Brasil, entre la democracia y el negacionismo. Tanto Javier Milei como Axel Kicillof siguen de cerca una elección que funciona como anticipo del duelo entre dos modelos que tendrá su correlato local en dos mil veintisiete. El presidente ucraniano Volodimir Zelenski afirmó que Estados Unidos busca reactivar el diálogo con Rusia mediante una reunión trilateral prevista para octubre, aunque horas más tarde Rusia anunció que redoblará los ataques contra infraestructura ucraniana en Kiev y otras regiones. En Yemen, el gobierno reconocido internacionalmente anunció el inicio de una ofensiva militar para recuperar los territorios en manos de los hutíes, después de sostener que se agotaron las vías de desescalada. Y en Estados Unidos, el gobierno de Donald Trump creó un comité de coordinación llamado la Fuerza de la Superinteligencia para liderar el desarrollo de la inteligencia artificial en el país.\n\nEn deportes, Max Verstappen ganó el Gran Premio de Bahréin, disputado en el circuito de Sepang por el conflicto en Medio Oriente, y cortó una racha de dieciséis carreras sin victorias en una jornada marcada por la lluvia y problemas de software en los autos. Franco Colapinto, que había largado veintiuno por una sanción de quince posiciones, remontó hasta el puesto trece sin llegar a sumar puntos, cuestionó la estrategia de Alpine de largar con neumáticos blandos en pista mojada y protagonizó un tenso cruce por radio con su ingeniero; el asesor ejecutivo Flavio Briatore admitió después que el equipo no estuvo a la altura. La Fórmula uno vuelve el próximo fin de semana con el Gran Premio de Singapur. En tenis, Novak Djokovic eliminó a Alexander Zverev en Pekín y espera en semifinales a Daniil Medvedev, que había vencido al argentino Francisco Cerúndolo; en Tokio, Carlos Alcaraz avanzó a semifinales por el retiro de Denis Shapovalov. Hoy juegan además dos partidos del Torneo Clausura: Racing visita a Estudiantes de Río Cuarto desde las nueve y media de la noche, y Talleres recibe a Belgrano en el clásico cordobés desde las cinco de la tarde. Y en la NBA, el croata Mario Hezonja, de Cleveland Cavaliers, destacó el nivel del básquet español en una gira de pretemporada por Málaga.\n\nPara cerrar, dos recomendaciones de turismo: Entre Ríos, que llegó a tener más de cien bodegas hacia fines de la década de mil novecientos veinte, vuelve hoy a producir vino en localidades como Concordia, Federación y Colonia San José; y en Colombia, la región cafetera de Manizales apuesta al turismo rural para recuperarse del terremoto de agosto.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Esta edición incluye menos notas que el rango habitual de 40 a 55 porque la mayoría de los grandes temas del día (elección en Brasil, Coloquio de IDEA y RIGI, Malvinas, Rusia-Ucrania, peregrinación a Luján) ya se cubrieron en profundidad en la edición de la mañana; se priorizaron solo las novedades concretas de las últimas horas. Le Grand Continent no aportó material nuevo en esta corrida (repitió la misma nota de la mañana), por lo que se omitió la sección Europa y geopolítica. No hubo novedades de Franco Colapinto en Fórmula 1 más allá del resultado ya reportado, ni de Club Atlético Tigre en esta corrida. No se omitió ninguna fuente por falla de descarga; las 7 fuentes y el panel de mercados se actualizaron correctamente.",
+ "slug": "2026-10-04-mediodia",
+ "generado_ba": "04/10/2026 15:15"
+}
