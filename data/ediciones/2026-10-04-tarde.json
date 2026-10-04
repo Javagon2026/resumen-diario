@@ -1,0 +1,737 @@
+{
+ "fecha": "2026-10-04",
+ "edicion": "tarde",
+ "titulo": "Flávio Bolsonaro lidera el escrutinio en Brasil y Bessent no descarta un nuevo rescate",
+ "apertura": "Brasil atraviesa una jornada electoral reñida: con el diez por ciento de las mesas escrutadas, el senador Flávio Bolsonaro aventaja a Lula da Silva y el balotaje del veinticinco de octubre sigue abierto. En la Argentina, el secretario del Tesoro de Estados Unidos no descartó un nuevo rescate financiero en una semana de riesgo país en su máximo del año, mientras datos dispares de consumo y crédito conviven con la escalada militar en Yemen y Ormuz y los preparativos para la despedida de Lionel Messi de la Selección.",
+ "claves": [
+  "Con el 10% escrutado, Flávio Bolsonaro lidera la presidencial de Brasil con cerca de 51% de los votos, frente a 40,7% de Lula da Silva; el balotaje, si corresponde, sería el 25 de octubre.",
+  "Scott Bessent, secretario del Tesoro de EEUU, dijo que un nuevo rescate a la Argentina es posible, en una semana en la que el riesgo país tocó los 655 puntos básicos, máximo del año.",
+  "Javier Milei volvió a atacar por redes sociales al director de La Nación, Fernán Saguier, y a varios de sus periodistas.",
+  "Las ventas minoristas pyme subieron apenas 0,3% en septiembre y acumulan una caída de 2,1% en el año; el crédito privado sigue débil salvo en hipotecarios.",
+  "Yemen lanzó una ofensiva militar contra los hutíes e Irán endureció su postura sobre el estrecho de Ormuz, en medio de una escalada regional en Medio Oriente.",
+  "En la previa de la despedida de Messi, llegó la delegación de Benín y Dibu Martínez desafió a Scaloni en una visita al Turismo Carretera, donde Ignacio Faín logró su primera victoria.",
+  "Colapinto explicó el error de estrategia que lo dejó 13° en Baréin y Briatore asumió la falla del equipo; más tarde Tigre visita a Argentinos Juniors por el Torneo Clausura."
+ ],
+ "cifras": [
+  {
+   "nombre": "Ventas minoristas pyme",
+   "valor": "+0,3% mensual",
+   "variacion": "-2,1% interanual",
+   "fuente": "AM-13"
+  },
+  {
+   "nombre": "Crédito al sector privado",
+   "valor": "+0,3% real en septiembre",
+   "variacion": "-1,4% interanual",
+   "fuente": "AM-10"
+  },
+  {
+   "nombre": "Inflación minorista interanual vs. base monetaria",
+   "valor": "33,6% vs. 11,7%",
+   "fuente": "IB-26"
+  },
+  {
+   "nombre": "Costo de ampliar una cocina estándar",
+   "valor": "$ 9.869.701",
+   "variacion": "+17,3% interanual",
+   "fuente": "LN-04"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-24",
+     "titulo": "Milei redobla sus ataques contra el director de La Nación",
+     "resumen": "El presidente reposteó en X publicaciones que cuestionaban una columna de Jorge Liotti sobre una cena en París entre el ministro Luis Caputo y gobernadores, y cargó contra el director Fernán Saguier y los periodistas Joaquín Morales Solá y Carlos Pagni. \"Desmascarando soretes\", escribió al difundir el cuestionamiento.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-volvio-a-atacar-con-insultos-al-director-de-la-nacion-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2JEGI7ER3VDY3JV7LTVQVLEXBM.jpg?auth=c901cc739da481366a09402775d54d51f327afa10169d7ada05d721edb834bf4&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:19",
+     "autor": "",
+     "titulo_original": "Javier Milei volvió a atacar con insultos al director de LA NACION"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "El titular de la Legislatura de Malvinas dice que las islas están decepcionadas con Milei",
+     "resumen": "Jack Ford, presidente de la Asamblea Legislativa isleña, dijo a La Nación que calificó de \"amenazas\" las sanciones argentinas contra empresas que operen en el proyecto petrolero Sea Lion. Señaló que a comienzos de año Milei había hablado de respetar la autodeterminación de los isleños, aunque desde septiembre endureció su política diplomática, lo que llevó al Reino Unido a reforzar su base militar en Mont Pleasant.",
+     "relacionadas": [
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“No lucen razonables”: según un estudio, los datos conocidos hacen dudar de la viabilidad del proyecto petrolero Sea Lion en Malvinas",
+       "url": "https://www.infobae.com/economia/2026/10/04/no-lucen-razonables-segun-un-experto-argentino-los-datos-conocidos-hacen-dudar-de-la-viabilidad-del-proyecto-petrolero-sea-lion-en-malvinas/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/entrevista-exclusiva-a-jack-ford-desde-malvinas-estamos-decepcionados-a-principios-de-ano-milei-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MAZ47NGH65CJDJZBR74JHJO7JI.jpg?auth=84cfe3b94f62fb1981bffd99be3cd745b7add6ebbdd9747ae259c8d0789b32ef&smart=true&width=760&height=480",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:58",
+     "autor": "Daniel Santa Cruz",
+     "titulo_original": "Entrevista exclusiva a Jack Ford desde Malvinas: “Estamos decepcionados; a principios de año Milei habló de los deseos de autodeterminación”"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Argentina firmó con Estados Unidos un acuerdo de inteligencia artificial para la ciencia",
+     "resumen": "El Gobierno se sumó, junto a otros quince países, a una iniciativa liderada por Estados Unidos para aplicar inteligencia artificial avanzada a la investigación científica y modificar el financiamiento del sector. El documento, firmado en Japón, no establece compromisos económicos ni plazos concretos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/argentina-firmo-estados-unidos-acuerdo-impulsar-inteligencia-artificial-ciencia_0_kDIQBdiwvJ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/Axr23GNEC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentina firmó con Estados Unidos un acuerdo para impulsar la inteligencia artificial en la ciencia"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Sergio Massa expresó su respaldo a Lula da Silva en la elección de Brasil",
+     "resumen": "El ex ministro de Economía publicó un mensaje en X durante la jornada electoral brasileña, acompañado de las banderas de ambos países.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/sergio-massa-expreso-su-apoyo-lula-da-silva-las-elecciones-brasil-n6329869",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:26",
+     "autor": "",
+     "titulo_original": "Sergio Massa expresó su apoyo a Lula da Silva en las elecciones de Brasil"
+    },
+    {
+     "id": "IB-05",
+     "titulo": "Neymar mostró su respaldo a Flávio Bolsonaro al votar en Brasil",
+     "resumen": "El futbolista paulista marcó con los dedos el número dos, símbolo de la candidatura de Bolsonaro, en un video difundido en Instagram, mientras su acompañante lucía una pegatina de un candidato a diputado estatal del mismo partido. La animadversión entre Neymar y Lula da Silva es conocida desde meses atrás.",
+     "relacionadas": [
+      {
+       "id": "IB-11",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Neymar Jr hace un guiño a Flávio Bolsonaro al votar en Brasil",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/04/neymar-jr-hace-un-guino-a-flavio-bolsonaro-al-votar-en-brasil/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/agencias/2026/10/04/el-futbolista-neymar-jr-hace-un-guino-a-flavio-bolsonaro-al-votar-en-brasil/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "El futbolista Neymar Jr. hace un guiño a Flavio Bolsonaro al votar en Brasil"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Incidentes frente a la embajada de Brasil en Buenos Aires durante la votación",
+     "resumen": "Hubo gritos y tensión entre simpatizantes de Lula y de Bolsonaro en la puerta de la sede diplomática porteña. Un hombre fue detenido por atentado y resistencia a la autoridad tras salir en defensa de un vendedor ambulante.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/incidentes-detenido-frente-embajada-brasil-buenos-aires-eleccion-presidencial_0_gFMw1Hckeh.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/ykREr4iaI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Incidentes y un detenido frente a la embajada de Brasil en Buenos Aires durante la elección presidencial"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "Bessent no descarta un nuevo rescate financiero a la Argentina",
+     "resumen": "El secretario del Tesoro de Estados Unidos, Scott Bessent, reivindicó la intervención de 2025 previa a las legislativas y dijo que \"podríamos volver a hacerlo\". La declaración llegó en una semana en la que el riesgo país argentino tocó los 655 puntos básicos, máximo del año, en un contexto externo más adverso y con dudas de los inversores sobre la continuidad del programa económico. Para una empresa: el nivel de riesgo país sigue marcando el costo del financiamiento externo y la cautela sobre el acceso al crédito en dólares.",
+     "relacionadas": [
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Scott Bessent destacó el rescate de Argentina y restó importancia a la suba del rendimiento de los bonos de EEUU",
+       "url": "https://www.ambito.com/economia/scott-bessent-destaco-el-rescate-argentina-y-resto-importancia-la-suba-del-rendimiento-los-bonos-eeuu-n6329905"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-secretario-del-tesoro-de-eeuu-abrio-la-puerta-a-un-nuevo-rescate-a-milei-podriamos-volver-a-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LBIC6TYVXNACDGKJXW2I7IINN4.jpg?auth=4485454d0e7552971674af2fa5afa92861adb38d85db7043a6930a6a2d2566a6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:23",
+     "autor": "Agustín Maza",
+     "titulo_original": "El secretario del Tesoro de EE.UU. abrió la puerta a un nuevo rescate a Milei: “¿Podríamos volver a hacerlo? Claro”"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "El débil dato de empleo en Estados Unidos reduce la expectativa de una suba de tasas de la Fed",
+     "resumen": "Estados Unidos creó apenas 29.000 empleos en septiembre, muy por debajo de lo esperado, y el mercado achicó las apuestas a un nuevo ajuste de tasas de la Reserva Federal. Una menor presión sobre los rendimientos de los bonos del Tesoro estadounidense podría mejorar el escenario para la deuda argentina y otros activos emergentes.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/una-senal-alivio-argentina-el-debil-empleo-eeuu-pone-duda-otra-suba-tasas-la-fed-n6329887",
+     "imagen": "https://media.ambito.com/p/379eaf4d705251713f41b6e3bdbb2e19/adjuntos/239/imagenes/042/798/0042798534/dolar-argentina-eeuu-mercados.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:29",
+     "autor": "",
+     "titulo_original": "Una señal de alivio para Argentina: el débil empleo en EEUU pone en duda otra suba de tasas de la Fed"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Los préstamos personales vuelven a caer y solo los créditos hipotecarios crecen",
+     "resumen": "El financiamiento al sector privado creció apenas 0,3% real en septiembre pero quedó 1,4% por debajo de un año atrás. La mora y las condiciones de tasas y plazos golpearon a los préstamos personales, mientras los créditos hipotecarios volvieron a destacarse. Para una empresa: la demanda de crédito sigue débil fuera del segmento hipotecario, lo que limita el financiamiento de capital de trabajo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-credito-sigue-despegar-los-prestamos-personales-volvieron-caer-septiembre-pero-crecen-hipotecarios-n6329909",
+     "imagen": "https://media.ambito.com/p/4211f9c25be2c4427273696edc205268/adjuntos/239/imagenes/043/638/0043638096/1200x675/smart/diferencial-tasas.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:18",
+     "autor": "",
+     "titulo_original": "El crédito sigue sin despegar: los préstamos personales volvieron a caer en septiembre, pero crecen hipotecarios"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "La inflación triplicó en un año el crecimiento de la base monetaria",
+     "resumen": "Los precios minoristas subieron 33,6% en los últimos doce meses, contra apenas 11,7% de la base monetaria, que se contrajo 16% en términos reales. Desde fines de julio la relación llegó a ser de casi ocho veces, según la consultora Quantum, que atribuye el freno a una menor compra de divisas del Banco Central por la estacionalidad de la liquidación del agro.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/04/moneda-y-precios-en-los-ultimos-doce-meses-la-inflacion-triplico-el-crecimiento-de-la-base-monetaria/",
+     "imagen": "https://www.infobae.com/resizer/v2/LMJF7D2IN5GSFCZWBEWIOPZBBM.jpg?auth=9dd628f0ab5e0b22db60d9b6a2a4e9303e0cd8ceed9d879c26abf165cc409c93&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:10",
+     "autor": "",
+     "titulo_original": "Moneda y precios: en los últimos doce meses la inflación triplicó el crecimiento de la base monetaria"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "Un asesor financiero español explica cómo construir un millón de euros ahorrando desde joven",
+     "resumen": "Javi Llinares planteó que una persona de 25 años que invierta 300 euros mensuales durante diez años puede llegar al millón de euros a los 65, a través de fondos indexados diversificados. Advirtió que mantener el dinero sin invertir también tiene un costo, aunque esos instrumentos implican riesgos que conviene conocer antes de empezar.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/internacional/javi-llinares-asesor-financiero-chaval-25-anos-invierte-300-euros-mes-10-anos-65-millon-euros_0_8TlNiGChAF.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/tO-t0is7C_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javi Llinares, asesor financiero: \"Si un chaval de 25 años invierte 300 euros al mes durante 10 años, a los 65 tendrá un millón de euros\""
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "Un estudio pone en duda los números del proyecto petrolero Sea Lion en Malvinas",
+     "resumen": "El petrofísico argentino Juan Carlos Glorioso, ex YPF y Repsol, cuestionó en un informe técnico los supuestos de reservas y costos del yacimiento: calculó que cada pozo debería recuperar 14 millones de barriles de petróleo con un gasto de capital de unos 36 millones de dólares, valores que consideró poco razonables con la información pública disponible.",
+     "relacionadas": [
+      {
+       "id": "LN-09",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Entrevista exclusiva a Jack Ford desde Malvinas: “Estamos decepcionados; a principios de año Milei habló de los deseos de autodeterminación”",
+       "url": "https://www.lanacion.com.ar/politica/entrevista-exclusiva-a-jack-ford-desde-malvinas-estamos-decepcionados-a-principios-de-ano-milei-nid04102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/04/no-lucen-razonables-segun-un-experto-argentino-los-datos-conocidos-hacen-dudar-de-la-viabilidad-del-proyecto-petrolero-sea-lion-en-malvinas/",
+     "imagen": "https://www.infobae.com/resizer/v2/KMCTQOU6OVBT7J5GPK6TQM74N4.png?auth=41a0f6725b8d9d19a9753e81d9307bf7c048336e9d43724d8d0bba9f0a6aa1a7&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:38",
+     "autor": "Sergio Serrichio",
+     "titulo_original": "“No lucen razonables”: según un estudio, los datos conocidos hacen dudar de la viabilidad del proyecto petrolero Sea Lion en Malvinas"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "La secretaria de Energía advirtió sobre el pico de demanda eléctrica en un foro en París",
+     "resumen": "María Tettamanti planteó ante la Agencia Internacional de Energía, en el cierre de la Argentina Week, un tema poco mencionado públicamente por el sector: la necesidad de prestar atención a la demanda y no solo a la oferta, en medio de tres jornadas centradas en Vaca Muerta, minerales y exportaciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/advertencia-en-paris-por-la-demanda-de-electricidad/",
+     "imagen": "https://www.cronista.com/resizer/v2/6S5XARS3OBHP7L5PVEUUQTUEYI.jpg?auth=a467ae4399f9858140d09f16f90293184e7d87c3d5f8e2603998fe5180d087b2&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:59",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Advertencia en París por la demanda de electricidad"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "El payaso Plim Plim, un negocio argentino que llegó a Times Square",
+     "resumen": "Un publicista argentino rediseñó al personaje infantil, que acumula millones de seguidores en redes sociales y acaba de llegar a Estados Unidos con un show de elenco argentino, además de expandirse en México y Brasil.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/payaso-plim-plim-cancion-infantil-times-square-reinvencion-made-in-argentina-trastienda-negocio-moviliza-millones_0_X8Z3ildEvR.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/GqMZfFiuu_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:27",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El payaso plim-plim, de la canción infantil a Times Square: la reinvención made in Argentina y la trastienda de un negocio que moviliza millones"
+    },
+    {
+     "id": "AM-01",
+     "titulo": "Glaciares artificiales en el Himalaya para salvar las cosechas",
+     "resumen": "En Ladakh, India, torres de hielo almacenan el caudal que sobra durante el invierno y lo liberan meses después, cuando los cultivos más lo necesitan, en una innovación agrícola pensada para un desierto de alta montaña.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/glaciares-artificiales-el-himalaya-la-innovacion-que-salva-las-cosechas-el-desierto-helado-n6329534",
+     "imagen": "https://media.ambito.com/p/d5911bc2c068e5b846390eccf2de568a/adjuntos/239/imagenes/043/680/0043680869/1200x675/1018x520:1038x540/torres-hielo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Glaciares artificiales en el Himalaya: la innovación que salva las cosechas en el desierto helado"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "HMD relanza el Nokia 1100 y lo compara con el nuevo Nokia 300 Charge",
+     "resumen": "La compañía recuperó la fórmula de los primeros teléfonos, con batería de larga duración y botones físicos, apuntando a usuarios que buscan desconectarse de los smartphones tradicionales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/nokia-1100-vs-nokia-300-charge-que-cambia-el-regreso-del-celular-mas-iconico-n6329501",
+     "imagen": "https://media.ambito.com/p/3b419684ff8c83638449cfe16c95eb7f/adjuntos/239/imagenes/043/664/0043664510/1200x675/512x559:532x579/nokia-1100.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:00",
+     "autor": "",
+     "titulo_original": "Nokia 1100 vs Nokia 300 Charge: qué cambia en el regreso del celular más icónico"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "Una persona puede pagar hasta 43 impuestos distintos en un año",
+     "resumen": "Según el último Vademécum Tributario del Instituto Argentino de Análisis Fiscal, aunque el Gobierno eliminó tres impuestos internos respecto de la medición anterior, un contribuyente puede llegar a pagar hasta 43 tributos diferentes a lo largo del año, frente a 46 un año atrás. La mejora se explica en parte por la eliminación de gravámenes incluida en la ley de Modernización Laboral. Para una empresa: la carga tributaria sigue siendo elevada pese a la simplificación parcial, lo que mantiene la presión sobre la estructura de costos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/marana-impositiva-una-persona-puede-pagar-hasta-43-tributos-distintos-en-un-ano-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NL4V2MI4DNH3BDWBMFOTSPG7LQ.jpg?auth=426b5871ab27199251022f16e7f2c4a3dfbee48213333f4aeef424b03f1a78d8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:01",
+     "autor": "Melisa Reinhold",
+     "titulo_original": "Maraña impositiva: una persona puede pagar hasta 43 tributos distintos en un año"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "AM-13",
+     "titulo": "Las ventas minoristas pyme apenas subieron 0,3% en septiembre",
+     "resumen": "El consumo mostró una recuperación marginal frente a septiembre de 2025, pero acumula una caída de 2,1% en el año y retrocedió 1,2% respecto de agosto. Las compras siguieron concentradas en productos de primera necesidad, mientras que las ventas online crecieron 19,4% interanual. Para una empresa: el canal físico sigue perdiendo terreno frente al online, lo que exige revisar la estrategia comercial por canal.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/las-ventas-minoristas-pyme-subieron-apenas-03-septiembre-y-acumulan-una-caida-del-21-anual-n6329896",
+     "imagen": "https://media.ambito.com/p/7c55ddf6297edb99bbb8592e36d0f287/adjuntos/239/imagenes/035/881/0035881923/1200x675/smart/ventas-minoristasjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:18",
+     "autor": "",
+     "titulo_original": "Las ventas minoristas pyme subieron apenas 0,3% en septiembre y acumulan una caída del 2,1% anual"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Subió con fuerza el peso de la energía y los alquileres en el comercio minorista",
+     "resumen": "Un informe de Nadin Argañaraz, del Iaraf, detectó que entre noviembre de 2023 y agosto de 2026 la incidencia de la electricidad en los costos del comercio minorista formal tradicional aumentó cerca de 150% y la de los alquileres de locales, 138%, mientras el peso de la mercadería se mantuvo casi inalterado. Para una empresa: el salto de los costos fijos de energía y alquiler frente a la mercadería presiona los márgenes de los locales físicos tradicionales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/04/otra-economia-otros-costos-como-cambio-el-peso-de-la-energia-y-de-los-alquileres-en-el-comercio-minorista-desde-2023/",
+     "imagen": "https://www.infobae.com/resizer/v2/JZQZ6NJRYRHV3ER72JWIVOR4CM.png?auth=26f649812f6da60677def43aa67e7a08b86a02b1affa6705e609b3aaba3e6007&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:34",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "Otra economía, otros costos: cómo cambió el peso de la energía y de los alquileres en el comercio minorista desde 2023"
+    },
+    {
+     "id": "LN-04",
+     "titulo": "Cuánto cuesta ampliar una cocina en octubre de 2026",
+     "resumen": "Refaccionar de manera integral una cocina estándar de 5,6 metros cuadrados cuesta 9.869.701 pesos, según el relevamiento de Reporte Inmobiliario correspondiente a julio, 2,3% más que el trimestre anterior y 17,3% más que en julio de 2025. Si se suma una reforma de baño, el total se acerca a los 19 millones de pesos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-ampliar-una-cocina-en-octubre-2026-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C4S4IIMOQNFNFPVE6TDMDTL4B4.jpeg?auth=61339f3becec573db260453835bdac2162f74ac8e19556ed7dbcdebf9828cceb&smart=true&width=900&height=504",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta ampliar una cocina en octubre 2026"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-08",
+     "titulo": "Flávio Bolsonaro lidera el escrutinio de las presidenciales de Brasil con el 10% de las mesas",
+     "resumen": "Con el 10% de los votos contabilizados, el senador Flávio Bolsonaro obtiene cerca de 51% de los sufragios, frente a 40,7% de Lula da Silva, según los resultados oficiales. Si ninguno supera la mitad de los votos válidos no habrá balotaje; de lo contrario, la segunda vuelta sería el 25 de octubre. Brasil también eligió gobernadores en sus 27 estados y renovó la totalidad de la Cámara de Diputados y un tercio del Senado.",
+     "relacionadas": [
+      {
+       "id": "IB-04",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "EN VIVO | Elecciones en Brasil: Flávio Bolsonaro encabeza el escrutinio tras la difusión de los primeros resultados oficiales",
+       "url": "https://www.infobae.com/america/america-latina/2026/10/04/en-vivo-elecciones-brasil-2026/"
+      },
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Flávio Bolsonaro lidera con un 50,9 %; Lula, segundo con el 40,7 %, con el 10 % escrutado",
+       "url": "https://www.infobae.com/america/agencias/2026/10/04/flavio-bolsonaro-lidera-con-un-509-lula-segundo-con-el-407-con-el-10-escrutado/"
+      },
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Qué se sabe de los resultados de las Elecciones Brasil 2026, este domingo 4 de octubre",
+       "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-los-resultados-de-las-elecciones-brasil-2026-este-domingo-4-de-octubre-nid04102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/resultados-en-vivo-de-las-elecciones-en-brasil-como-van-las-presidenciales-2026-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TNLDKSSVAVHJLKRISTTCMQ3PRY.JPG?auth=c17bd730e8fe2bec624ab78268934cd51439857d167c2c82921247e1e4f5e8b2&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:58",
+     "autor": "Emiliano Pettovello",
+     "titulo_original": "Resultados en vivo de las elecciones en Brasil: cómo van las presidenciales 2026"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "Yemen lanzó una ofensiva contra los hutíes en medio de una escalada regional en Medio Oriente",
+     "resumen": "El gobierno yemenita anunció una ofensiva para recuperar territorios en manos de los rebeldes hutíes, mientras Irán endureció su postura sobre el estrecho de Ormuz y descartó negociaciones nucleares en esta etapa. En paralelo creció la tensión en Gaza tras un ataque israelí y renunció el ministro de Petróleo iraní en medio de las sanciones.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Irán endureció su postura sobre el estrecho de Ormuz y lanzó una dura advertencia a EEUU",
+       "url": "https://www.ambito.com/mundo/iran-endurecio-su-postura-el-estrecho-ormuz-y-lanzo-una-advertencia-eeuu-n6329884"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/gobierno-de-yemen-anuncia-gran-ofensiva-contra-los-huties_0_3HD5z3Ve8m.html",
+     "imagen": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:50",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Gobierno de Yemen anuncia gran ofensiva contra los hutíes"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Zelenski dijo que Estados Unidos impulsa una nueva ronda de negociaciones con Rusia",
+     "resumen": "El presidente de Ucrania afirmó que está dispuesto a retomar las conversaciones para poner fin a la guerra, en medio de un recrudecimiento de las operaciones bélicas entre ambos países. El encuentro podría concretarse a fin de mes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/zelenski-revelo-eeuu-impulsa-nueva-ronda-negociaciones-trilaterales-rusia-ponerle-fin-guerra_0_DcaSbYACgj.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/EgkCcBJBs_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Zelenski reveló que EE.UU. impulsa una nueva ronda de negociaciones trilaterales con Rusia para ponerle fin a la guerra"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Netanyahu ordenó revisar la seguridad de los vuelos extranjeros tras el intento de ataque a un avión de Flydubai",
+     "resumen": "El primer ministro israelí pidió designar un examinador para revisar los controles de aviación civil extranjera, luego de que un copiloto omaní intentara estrellar un avión con más de 170 personas tras agredir al capitán. La prensa israelí había revelado fallas de supervisión del Ministerio de Transportes sobre pilotos extranjeros.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/04/netanyahu-ordeno-revisar-la-seguridad-de-todos-los-vuelos-extranjeros-tras-el-ataque-a-flydubai/",
+     "imagen": "https://www.infobae.com/resizer/v2/XPL4SVJLKBC4VOEIYEAU32EFVM.jpg?auth=8f5e8c32b94e490d49689ac5b83116b10f74fe81c526f1d8adf971dfd6acdeff&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:39",
+     "autor": "",
+     "titulo_original": "Netanyahu ordenó revisar la seguridad de todos los vuelos extranjeros tras el ataque a Flydubai"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "La mayoría del PSOE empuja a Pedro Sánchez a adelantar las elecciones en España",
+     "resumen": "Dirigentes socialistas y miembros del Gobierno creen que el 29 de noviembre ofrece una oportunidad electoral difícil de repetir, tras el rechazo de PP, Vox y Junts a los decretos de vivienda impulsados por el Ejecutivo. Sánchez inició una ronda de consultas internas que se intensificó durante el fin de semana.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-mayoria-del-psoe-y-del-gobierno-espanol-empuja-a-sanchez-a-adelantar-las-elecciones-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NBW3H3BH7RHUJGXKI2QBIVDHH4.JPG?auth=a51fa1df1120120bedc0cbf085051c59297ad54c39e443af1f9ceefc5bda7561&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:37",
+     "autor": "",
+     "titulo_original": "La mayoría del PSOE y del gobierno español empuja a Sánchez a adelantar las elecciones"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "Sigue en estado crítico la mujer que sobrevivió a su propia ejecución en Tennessee",
+     "resumen": "Christa Pike, condenada a muerte, permanece hospitalizada y conectada a un respirador tras sobrevivir a dos inyecciones letales fallidas. El gobernador de Tennessee suspendió las ejecuciones tras el incidente y la renuncia de un alto funcionario; es la primera mujer en esa situación en 200 años en el país.",
+     "relacionadas": [
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Qué se sabe de Christa Pike hoy tras su fallida ejecución: afirman que sigue inconsciente y conectada a un respirador",
+       "url": "https://www.clarin.com/mundo/sabe-christa-pike-hoy-fallida-ejecucion-afirman-sigue-inconsciente-conectada-respirador_0_uSEImSa7XB.html"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/christa-pike-sigue-hospitalizada-en-estado-critico-tras-fallar-su-ejecucion-en-tennessee_0_5gmErTTsku.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Christa Pike sigue hospitalizada en estado crítico tras fallar su ejecución en Tennessee"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-17",
+     "titulo": "Talleres y Belgrano igualaban sin goles en el clásico cordobés",
+     "resumen": "Los equipos empataban 0 a 0 en el estadio Mario Alberto Kempes en un partido clave para la pelea por los playoffs del Torneo Clausura. Belgrano tuvo las chances más claras del primer tiempo, con intervenciones del arquero Unsain, pero no pudo convertir.",
+     "relacionadas": [
+      {
+       "id": "LN-10",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Talleres vs. Belgrano, en vivo por el Torneo Clausura: el minuto a minuto del partido",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/talleres-vs-belgrano-en-vivo-nid04102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/talleres-vs-belgrano-vivo-horario-formaciones-ver-clasico-cordoba-torneo-clausura-2026_0_GbFPuhv5Dg.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/XZdOx78MX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Talleres vs Belgrano, EN VIVO: cómo van, resultado y minuto a minuto"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Racing visita a Estudiantes de Río Cuarto con el debut de Chirola Romero",
+     "resumen": "La Academia juega en Córdoba su primer partido con el interinato de Chirola Romero, tras la salida de Vojvoda, desde las 21:30 por la fecha 11 del Torneo Clausura.",
+     "relacionadas": [
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Antes de Estudiantes (RC)-Racing, Huracán venció 1-0 a Aldosivi y quedó líder de la zona B: la agenda completa del domingo",
+       "url": "https://www.infobae.com/deportes/2026/10/04/racing-se-enfrentara-a-estudiantes-de-rio-cuarto-en-uno-de-los-partidos-mas-destacados-del-domingo-en-el-clausura-la-agenda-completa/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/estudiantes-rio-cuarto-vs-racing-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura-2026_0_V46zxOfZQe.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/BX5o2ewwl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Estudiantes de Río Cuarto vs Racing, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido por el Torneo Clausura 2026"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Huracán venció 1 a 0 a Aldosivi y quedó líder de la zona B",
+     "resumen": "El gol de Leandro Lescano a los 35 minutos del primer tiempo le dio a Huracán su tercer triunfo consecutivo y la cima de la zona B con 19 puntos. Aldosivi, que pelea la permanencia, jugó con un hombre menos desde la expulsión de Joaquín Pombo.",
+     "relacionadas": [
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Antes de Estudiantes (RC)-Racing, Huracán venció 1-0 a Aldosivi y quedó líder de la zona B: la agenda completa del domingo",
+       "url": "https://www.infobae.com/deportes/2026/10/04/racing-se-enfrentara-a-estudiantes-de-rio-cuarto-en-uno-de-los-partidos-mas-destacados-del-domingo-en-el-clausura-la-agenda-completa/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/huracan-vs-aldosivi-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura-2026_0_gvFRZVuBeJ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/lIhl09BDO_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Huracán venció a Aldosivi, logró su tercer triunfo consecutivo y toma impulso en la Zona A"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Ignacio Faín ganó por primera vez en el Turismo Carretera en San Nicolás",
+     "resumen": "El santafesino de 29 años coronó con el triunfo un fin de semana en el que también logró su primera pole position. Werner abandonó por un problema en su Ford y perdió la punta de la Copa de Oro, que pasó a manos de Chapur.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/ignacio-fain-domingo-sonado-san-nicolas-primera-victoria-tc-1-2-torino_0_OUY3VExS2p.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/-EIhaO5NI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ignacio Faín tuvo su domingo soñado en San Nicolás: primera victoria en el TC y 1-2 de Torino"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "La delegación de Benín llegó a la Argentina para la despedida de Messi",
+     "resumen": "El equipo africano llegó la semana pasada pese a contratiempos logísticos durante el viaje, entrenó en la cancha de Independiente y se prepara para enfrentar a la Selección en el partido de despedida del capitán.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/benin-sufrio-problemas-logisticos-prepara-partido-historico-voy-decir-messi-dame-camiseta_0_1YE2LoReUy.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/4B04C1nF9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Benín también sufrió problemas logísticos pero se prepara para un partido histórico: \"Le voy a decir: 'Messi dame tu camiseta'\""
+    },
+    {
+     "id": "CL-04",
+     "titulo": "Dibu Martínez visitó el Turismo Carretera y lanzó un desafío a Scaloni",
+     "resumen": "El arquero acompañó a su hermano Alejandro, piloto del TC Pista, un día después de la goleada 7 a 0 de la Selección ante Burkina Faso. Recibió un casco con los colores argentinos y desafió al entrenador Lionel Scaloni, en la previa de la despedida de Messi.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El inesperado desafío de Dibu Martínez a Scaloni en la antesala de la despedida de Messi de la Selección",
+       "url": "https://www.infobae.com/deportes/2026/10/04/el-inesperado-desafio-de-dibu-martinez-a-scaloni-en-la-antesala-de-la-despedida-de-messi-de-la-seleccion/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/dibu-martinez-visito-tc-san-nicolas-recibio-regalo-especial-desafio-scaloni_0_mCXu1OxfGi.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/cBQE7StUh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Dibu Martínez visitó el TC en San Nicolás: recibió un regalo especial y desafió a Scaloni"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "La Natividad-La Dolfina es bicampeón del Abierto de Hurlingham de polo",
+     "resumen": "El equipo de Cañuelas, con los Cambiaso y los Castagnola, venció a La Hache por 18 a 14 y extendió a 16 partidos su invicto desde su formación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/polo/la-natividad-la-dolfina-vencio-a-la-hache-y-es-bicampeon-del-abierto-de-hurlingham-de-polo-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RPGH246L65EOLBZM5NKM45QCZU.jpeg?auth=852fc1eae17fa9808c3774ac303b607429549809c67eec841577e1b68e9fb98f&smart=true&width=900&height=577",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:29",
+     "autor": "",
+     "titulo_original": "La Natividad-La Dolfina venció a La Hache y es bicampeón del Abierto de Hurlingham de polo"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "Colapinto explicó el error de estrategia que lo dejó 13° en Baréin y Briatore asumió la falla del equipo",
+     "resumen": "El piloto argentino reconoció que esperaba que la pista se secara antes de lo que ocurrió, lo que condicionó la elección de neumáticos en el Gran Premio de Baréin. Hubo además tensión por radio con su ingeniero Stuart Barlow durante una neutralización, quien luego pidió disculpas. El asesor ejecutivo de Alpine, Flavio Briatore, admitió que el equipo \"no estuvo a la altura\".",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Tensión en Alpine: el fuerte cruce de Franco Colapinto con su ingeniero durante el GP de Baréin",
+       "url": "https://www.ambito.com/deportes/tension-alpine-el-fuerte-cruce-franco-colapinto-su-ingeniero-el-gp-barein-n6329900"
+      },
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Flavio Briatore asumió el error de Alpine tras el enojo de Franco Colapinto: \"No estuvimos a la altura\"",
+       "url": "https://www.ambito.com/deportes/flavio-briatore-asumio-el-error-alpine-el-enojo-franco-colapinto-no-estuvimos-la-altura-n6329873"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-lamento-un-error-estrategia-que-condiciono-su-gp-barein-pense-que-la-pista-se-secaria-n6329866",
+     "imagen": "https://media.ambito.com/p/22638fd86c7405af7964561357aa50e0/adjuntos/239/imagenes/043/682/0043682941/1200x675/smart/colapinto-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:43",
+     "autor": "",
+     "titulo_original": "Franco Colapinto lamentó un error de estrategia que condicionó su GP de Baréin: \"Pensé que la pista se secaría\""
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Tigre visita hoy a Argentinos Juniors por el Torneo Clausura",
+     "resumen": "El Matador juega desde las 19:15 en busca del triunfo que lo acerque a la zona de playoffs, mientras que el Bicho busca mantener su invicto como local y seguir en la pelea por ser el mejor de la tabla anual.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/argentinos-vs-tigre-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura-2026_0_aDjUjZNUHB.html",
+     "imagen": "https://www.clarin.com/img/2026/08/10/PXAl4ISfUy_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:58",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentinos vs Tigre, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido por el Torneo Clausura 2026"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "La Oktoberfest de Villa General Belgrano busca voluntarios para su nueva edición",
+     "resumen": "La fiesta de la cerveza más importante de Argentina, en la provincia de Córdoba, tendrá jornadas los días 2, 3, 4, 9, 10, 11 y 12 de octubre. Ante la llegada de miles de visitantes, alojamientos de la zona buscan voluntarios con conocimientos en desarrollo web, comercio electrónico, fotografía o creación de contenido, a cambio de alojamiento y otros beneficios durante la estadía.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/se-buscan-voluntarios-para-el-oktoberfest-en-villa-general-belgrano-ofrecen-alojamiento-18-horas-semanales-de-colaboracion-y-3-dias-libres/",
+     "imagen": "https://www.cronista.com/resizer/v2/DPSVVQ42TNCRZERCCYQMCKTWMY.webp?auth=88b557f07a6eff4009421125b079ba7b8e6b065c571a8ac1efd4fb1e08bacde2&smart=true&width=900&height=900",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:11",
+     "autor": "María Laura Ruberto",
+     "titulo_original": "Se buscan voluntarios para el Oktoberfest en Villa General Belgrano: ofrecen alojamiento, 18 horas semanales de colaboración y 3 días libres"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-21",
+     "titulo": "La Ciudad detalló el operativo de seguridad para la visita del papa León XIV",
+     "resumen": "El secretario de Seguridad porteño, Maximiliano Piñeiro, dijo que el punto principal del operativo será la misa del 9 de noviembre en el Monumento de los Españoles, donde se espera la asistencia de un millón de personas y se prevén cuatro anillos de seguridad. El Papa visitará la Argentina entre el 8 y el 11 de noviembre, con paradas también en Luján y Córdoba.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/04/como-sera-el-operativo-de-seguridad-en-la-ciudad-de-buenos-aires-durante-la-visita-del-papa/",
+     "imagen": "https://www.infobae.com/resizer/v2/YWLKRB2GKFD4JLY3D243CEJHIY.jpg?auth=350da60cb96d01d3d6d7586ec75db47d2bd7ccf2ffcf9e7a8e56ef198cb440a8&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:47",
+     "autor": "",
+     "titulo_original": "La Ciudad dio más detalles del operativo de seguridad durante la visita del Papa"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "Organizaciones convocan a una vigilia para reclamar la reforma de la ley de salud mental",
+     "resumen": "Familias de pacientes y agrupaciones como Icona y La Madre Marcha convocaron para el próximo viernes una vigilia con velas frente a la Casa Rosada, en reclamo de que avance la reforma de la ley de salud mental enviada al Senado en abril. Alertan por el aumento de casos de suicidio.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/luz-esperanza-y-compromiso-con-una-vigilia-de-velas-vuelven-a-reclamar-por-la-reforma-de-la-ley-de-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VIDHUNX2QZBCPJO6BIZ2THWHT4.jpg?auth=6b6236e929afb166a0acb1e027b3b1ce07d0d26b440585113cfdf1b058fa39ec&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:59",
+     "autor": "Evangelina Himitian",
+     "titulo_original": "“Luz, esperanza y compromiso”: con una vigilia de velas, vuelven a reclamar por la reforma de la ley de salud mental"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Un hombre asesinó a su hija de tres años y atacó a su pareja en Villa La Angostura",
+     "resumen": "El agresor quedó detenido con custodia policial en un hospital luego de atacar con un arma blanca a la menor y a su pareja, en un hecho ocurrido en la localidad neuquina.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/policiales/horror-villa-angostura-ataco-pareja-asesino-hija-anos-quedo-internado_0_Oez49ICoty.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/FZwLQX4ot_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Horror en Villa La Angostura: atacó a su pareja, asesinó a su hija de tres años y quedó internado"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "La Justicia dispuso medidas de restricción tras el video de violencia de género que se viralizó en Tapalqué",
+     "resumen": "El hombre denunciado por golpear a su pareja mientras ella le pedía que parara, en un video que se viralizó, no quedó detenido, pero la Justicia bonaerense dispuso medidas de restricción en su contra. Es investigado por lesiones leves en contexto de violencia de género.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/04/no-me-pegues-mas-el-estremecedor-video-que-se-viralizo-y-derivo-en-una-causa-por-violencia-de-genero-en-tapalque/",
+     "imagen": "https://www.infobae.com/resizer/v2/MRG6INVXGVAFXDRSZWIEYQBEGA.jpg?auth=3bc32769e3ef4d4eca9603a01f0dae89aa4e405dc90e5b33b53639a620b169b5&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:16",
+     "autor": "",
+     "titulo_original": "“No me pegues más”: el estremecedor video que se viralizó y derivó en una causa por violencia de género en Tapalqué"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del domingo cuatro de octubre. En Brasil se vive una jornada electoral decisiva: con el diez por ciento de las mesas escrutadas, el senador Flávio Bolsonaro lidera la elección presidencial con cerca del cincuenta y uno por ciento de los votos, frente a un cuarenta coma siete por ciento de Luiz Inácio Lula da Silva. Si ninguno de los dos supera la mitad de los votos válidos habrá un balotaje el veinticinco de octubre. El país también renovó gobernadores en sus veintisiete estados y la totalidad de la Cámara de Diputados. En la Argentina, Sergio Massa expresó su respaldo a Lula en las redes sociales, mientras que el futbolista Neymar mostró con un gesto su apoyo a Bolsonaro. Hubo además incidentes frente a la embajada brasileña en Buenos Aires, con un detenido. En el plano local, el secretario del Tesoro de Estados Unidos, Scott Bessent, no descartó un nuevo rescate financiero a la Argentina, en una semana en la que el riesgo país tocó los seiscientos cincuenta y cinco puntos básicos, el máximo del año. El dólar oficial cerró la rueda en mil quinientos cuarenta pesos y el oro cotiza por encima de los cuatro mil ciento sesenta dólares la onza. El presidente Javier Milei, por su parte, volvió a cruzar al director del diario La Nación, Fernán Saguier, y a varios de sus periodistas a través de mensajes en las redes sociales. En política también se destacó la firma de un acuerdo entre la Argentina y Estados Unidos para aplicar inteligencia artificial a la investigación científica, junto a otros quince países. En economía y mercados, un dato débil de empleo en Estados Unidos, con apenas veintinueve mil puestos creados en septiembre, redujo las expectativas de una nueva suba de tasas de la Reserva Federal, lo que podría aliviar el financiamiento de los países emergentes. En el plano crediticio, los préstamos personales volvieron a caer en septiembre y solo los créditos hipotecarios mostraron crecimiento; el financiamiento al sector privado avanzó apenas cero coma tres por ciento real en el mes, aunque quedó un uno coma cuatro por ciento por debajo de un año atrás. Un informe privado señaló además que la inflación minorista de los últimos doce meses, de treinta y tres coma seis por ciento, triplicó el crecimiento de la base monetaria, que fue de once coma siete por ciento. En negocios y empresas, un estudio del petrofísico argentino Juan Carlos Glorioso puso en duda los números del proyecto petrolero Sea Lion en las Malvinas, al considerar poco razonables los volúmenes de reservas y los costos de inversión difundidos. En paralelo, el presidente de la Legislatura isleña, Jack Ford, dijo que las islas se sienten decepcionadas con el giro de la política de Milei hacia el archipiélago. En otro orden, la secretaria de Energía, María Tettamanti, advirtió en un foro en París sobre el riesgo de un pico de demanda eléctrica, en el cierre de una semana dedicada a Vaca Muerta y los minerales. En impuestos y normativa, un informe del Instituto Argentino de Análisis Fiscal señaló que una persona puede llegar a pagar hasta cuarenta y tres impuestos distintos a lo largo de un año, aunque esa cifra mejoró frente a los cuarenta y seis tributos del año pasado gracias a la eliminación de algunos gravámenes incluida en la ley de modernización laboral. En consumo y construcción, las ventas minoristas de las pequeñas y medianas empresas subieron apenas cero coma tres por ciento en septiembre y acumulan una caída de dos coma uno por ciento en el año, mientras las ventas por internet crecieron casi veinte por ciento. Otro informe detectó que, desde fines de dos mil veintitrés, el peso de la electricidad en los costos del comercio minorista tradicional aumentó cerca de ciento cincuenta por ciento y el de los alquileres de los locales, ciento treinta y ocho por ciento, mientras la mercadería casi no varió. Y, para quien piensa en una reforma, ampliar una cocina estándar cuesta hoy casi diez millones de pesos, según un relevamiento inmobiliario. En el mundo, además de la definición en Brasil, Yemen lanzó una ofensiva militar para recuperar territorio en manos de los hutíes, mientras Irán endureció su postura sobre el estrecho de Ormuz y advirtió a Estados Unidos. El presidente ucraniano, Volodímir Zelenski, dijo que Washington impulsa una nueva ronda de negociaciones con Rusia para poner fin a la guerra, que podría concretarse a fin de mes. En Israel, el primer ministro Benjamín Netanyahu ordenó revisar la seguridad de los vuelos extranjeros después de que un copiloto omaní intentara estrellar un avión con más de ciento setenta personas a bordo. En España, la mayoría del Partido Socialista empuja a Pedro Sánchez a adelantar las elecciones generales para fines de noviembre. Y en Estados Unidos sigue en estado crítico la mujer condenada a muerte que sobrevivió a dos inyecciones letales fallidas en Tennessee. En deportes, Racing visitaba esta noche a Estudiantes de Río Cuarto en el debut del técnico interino Chirola Romero, mientras que Talleres y Belgrano igualaban sin goles en el clásico cordobés. Huracán venció uno a cero a Aldosivi y quedó como líder de la zona B del Torneo Clausura. En el Turismo Carretera, Ignacio Faín consiguió en San Nicolás su primera victoria en la categoría. En la previa de la despedida de Lionel Messi de la Selección, la delegación de Benín llegó al país pese a contratiempos en el viaje, y el arquero Emiliano Dibu Martínez visitó el autódromo para acompañar a su hermano y lanzó un desafío al entrenador Lionel Scaloni. Franco Colapinto explicó que pensó que la pista se secaría antes de lo que ocurrió, lo que condicionó su estrategia de neumáticos en el Gran Premio de Baréin, donde terminó decimotercero; el asesor de Alpine, Flavio Briatore, reconoció que el equipo no estuvo a la altura. Más tarde, Tigre visita a Argentinos Juniors desde las diecinueve y quince, buscando un triunfo que lo acerque a los puestos de clasificación a los playoffs. Para cerrar, si buscan un plan para estos días, la Oktoberfest de Villa General Belgrano, en Córdoba, sigue su fiesta con nuevas jornadas durante la semana que viene. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Le Grand Continent no publicó notas en esta ventana de seis horas, por eso se omitió la sección Europa y geopolítica. iProfesional también tuvo cobertura mínima (una sola nota, sobre la elección brasileña), lo que limitó el material disponible para Impuestos, laboral y normativa y para Management y finanzas corporativas, que se omitió por falta de contenido relevante. En Turismo no apareció ningún destino argentino fuera del feed de Córdoba (Oktoberfest de Villa General Belgrano), que se usó como única nota de la sección.",
+ "slug": "2026-10-04-tarde",
+ "generado_ba": "04/10/2026 21:14"
+}
