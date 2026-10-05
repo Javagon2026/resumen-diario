@@ -1,0 +1,920 @@
+{
+ "fecha": "2026-10-05",
+ "edicion": "manana",
+ "titulo": "Bolsonaro sorprende en Brasil, el BCRA acelera compras y España adelanta elecciones",
+ "apertura": "El resultado de la primera vuelta en Brasil, con el triunfo sorpresivo de Flávio Bolsonaro sobre Lula da Silva, domina la agenda internacional y reconfigura expectativas sobre la región; el balotaje será el 25 de octubre. En la City, el Banco Central aceleró la compra de reservas tras la revisión del FMI y el Gobierno avisó a los fondos extranjeros que suspendió la emisión de deuda en dólares a nivel local. En España, Pedro Sánchez adelantó las elecciones generales al 29 de noviembre tras la crisis por la vivienda.",
+ "claves": [
+  "Flávio Bolsonaro se impuso en primera vuelta en Brasil (47,15% contra 45,02% de Lula) y definirán la presidencia en el balotaje del 25 de octubre; Milei celebró el resultado.",
+  "El BCRA compró USD 369 millones en la última semana, casi lo mismo que en todo septiembre, tras el cierre de la revisión del FMI.",
+  "El Gobierno le avisó a inversores extranjeros que suspendió la colocación de deuda en dólares a nivel local; busca otras vías de financiamiento para 2027.",
+  "Pedro Sánchez adelantó las elecciones generales de España al 29 de noviembre en medio de una crisis por la vivienda.",
+  "Las ventas minoristas pyme subieron apenas 0,3% interanual en septiembre y acumulan una caída de 2,1% en nueve meses, según CAME.",
+  "El crédito privado sigue sin despegar: los préstamos personales volvieron a caer en septiembre, mientras los hipotecarios crecen.",
+  "El Gobierno negocia con los gobernadores apoyos para 2027 tras el Argentina Week en París, con roces internos en LLA en Salta, Neuquén, Río Negro y Mendoza.",
+  "La Selección recibe a Benín en la despedida de Messi; Argentinos es el nuevo líder de la Zona B del Clausura tras vencer a Tigre."
+ ],
+ "cifras": [
+  {
+   "nombre": "Compras de reservas del BCRA (última semana)",
+   "valor": "US$ 369 millones",
+   "fuente": "IB-20"
+  },
+  {
+   "nombre": "Ventas minoristas pyme (interanual, septiembre)",
+   "valor": "+0,3%",
+   "variacion": "-2,1% acumulado en 9 meses",
+   "fuente": "LN-21"
+  },
+  {
+   "nombre": "Crédito al sector privado (septiembre)",
+   "valor": "+0,3% real mensual",
+   "variacion": "-1,4% interanual",
+   "fuente": "AM-24"
+  },
+  {
+   "nombre": "Actualización de haberes ANSES (octubre)",
+   "valor": "+1,66%",
+   "fuente": "IB-12"
+  },
+  {
+   "nombre": "Venta de autos usados (septiembre)",
+   "valor": "+9% interanual",
+   "fuente": "CL-24"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-08",
+     "titulo": "los acuerdos con gobernadores para 2027 tensionan la interna de LLA",
+     "resumen": "El Gobierno negocia apoyos de los gobernadores de cara a 2027, lo que generó la primera crisis en Salta por el sello violeta y podría tensionar a Neuquén, Río Negro y Mendoza. La disputa incluye una pelea judicial por el uso de la marca partidaria.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Libertad Avanza acelera por Presupuesto y PASO: arrancan las bilaterales con los gobernadores",
+       "url": "https://www.ambito.com/politica/la-libertad-avanza-acelera-presupuesto-y-paso-arrancan-las-bilaterales-los-gobernadores-n6329881"
+      },
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Amor en París: tras 4 meses, Milei y gobernadores definen la fiesta de casamiento para el 2027",
+       "url": "https://www.cronista.com/columnistas/amor-en-paris-tras-4-meses-milei-y-gobernadores-definen-la-fiesta-de-casamiento-para-el-2027/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/acuerdos-gobierno-gobernadores-2027-impactarian-interna-libertad-avanza_0_UdoJ6Mmw46.html",
+     "imagen": "https://www.clarin.com/img/2026/07/03/xZdcV1VN9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los acuerdos del Gobierno con los gobernadores para 2027: cómo impactarían en la interna de La Libertad Avanza"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "el juicio Hotesur y Los Sauces contra Cristina y Máximo Kirchner avanza hacia su reunificación",
+     "resumen": "La Cámara Federal de Casación definiría unir ambas causas, en las que madre e hijo están acusados de asociación ilícita y lavado de dinero, tras una audiencia prevista para el 15 de octubre. Persisten dudas sobre si el proceso podrá iniciar en la fecha prevista, el 23 de octubre.",
+     "url": "https://www.lanacion.com.ar/politica/el-juicio-hotesur-y-los-sauces-contra-cristina-y-maximo-kirchner-se-encamina-a-su-reunificacion-nid05102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GL24N6WLFJHB3C53EYAAXC5AWQ.JPG?auth=6d4da8cd20c84af0bd90a3afc50502552fb529bc223476760fb623a566205bcd&smart=true&width=690&height=518",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "El juicio Hotesur y Los Sauces contra Cristina y Máximo Kirchner se encamina a su reunificación",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-13",
+     "titulo": "cuatro listas competirán el 20 de octubre por los lugares de abogados en el Consejo de la Magistratura",
+     "resumen": "Sectores del radicalismo, el peronismo y La Libertad Avanza presentaron listas propias para renovar representantes del período 2026-2030 en el órgano que selecciona magistrados. Entre los postulantes figuran candidatos cercanos a Karina Milei y a Angelici.",
+     "url": "https://www.clarin.com/politica/elecciones-abogados-consejo-magistratura-candidatos-karina-peso-lista-apoyada-angelici_0_7eewCeJUHn.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/XMIvhXV2V_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones de abogados en el Consejo de la Magistratura: de los candidatos de Karina al peso de la lista apoyada por Angelici",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Malvinas y el Estrecho de Magallanes reavivan la tensión entre Argentina y Chile",
+     "resumen": "Pese a la buena sintonía personal entre Milei y Kast, declaraciones cruzadas reavivaron la desconfianza histórica: Chile no está dispuesto a discutir el control del Estrecho de Magallanes y Argentina reclama a Gran Bretaña por la soberanía de las Islas Malvinas.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Entrevista exclusiva a Jack Ford desde Malvinas: “Estamos decepcionados; a principios de año Milei habló de los deseos de autodeterminación”",
+       "url": "https://www.lanacion.com.ar/politica/entrevista-exclusiva-a-jack-ford-desde-malvinas-estamos-decepcionados-a-principios-de-ano-milei-nid04102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/la-soberania-de-malvinas-y-magallanes-ejes-del-regreso-de-la-tension-bilateral-entre-argentina-y-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2GS6WOYNHZBJZE4UYGDRRM3MJM.jpg?auth=0e4cdaee0de8e49e6e2f915d0b421c5fab7511d70e096a97e42790b6410f0530&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:04",
+     "autor": "Jaime Rosemberg",
+     "titulo_original": "La soberanía de Malvinas y Magallanes, ejes del regreso de la tensión bilateral entre Argentina y Chile"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "el Senado tendrá otra semana de actividad reducida, con el foco en Diputados",
+     "resumen": "Con legisladores aún de viaje, la actividad en la Cámara alta seguirá acotada y el grueso de los temas que interesan a oficialismo y oposición pasará por Diputados. Para el miércoles está prevista una audiencia por pliegos judiciales y avanza, en un 70%, la auditoría sobre el oro enviado al exterior.",
+     "url": "https://www.infobae.com/politica/2026/10/05/el-senado-tendra-otra-semana-con-actividad-reducida-y-el-foco-estara-puesto-en-diputados/",
+     "imagen": "https://www.infobae.com/resizer/v2/UFXTMPCZLNEQVAKVDTMOIOOJCU.jpg?auth=55c6508d1671a02820fdefaf43fcb1a4f4eb52470b9469fef47519715a8bd297&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:50",
+     "autor": "Mariano Casal",
+     "titulo_original": "El Senado tendrá otra semana con actividad reducida y el foco estará puesto en Diputados",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-17",
+     "titulo": "un relevamiento mide la presión tributaria de los municipios bonaerenses",
+     "resumen": "El sitio Menos Impuestos publica un semáforo fiscal con las tasas que cobran los intendentes, comparadas con infraestructura, resultado financiero y empleo público y privado. La Libertad Avanza bonaerense impulsa eliminar 138 tasas municipales, reducir otras 120 y simplificar 11 más en los 116 distritos de la provincia.",
+     "url": "https://www.infobae.com/politica/2026/10/05/cuales-son-los-municipios-bonaerenses-con-mayor-presion-tributaria/",
+     "imagen": "https://www.infobae.com/resizer/v2/ADVYMAFY6JAK5CH5HSGE4X566Y.jpg?auth=10a8a79543e5e657588a2497a60493d5c04103fe74c20b795735f546a2be726b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:46",
+     "autor": "Mariel Fitz Patrick",
+     "titulo_original": "Cuáles son los municipios bonaerenses con mayor presión tributaria",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-20",
+     "titulo": "el Banco Central aceleró la compra de reservas tras el paso del FMI",
+     "resumen": "El BCRA sumó compras en las cinco ruedas de la semana pasada por USD 369 millones, casi lo mismo que en todo septiembre, ya cerrada la misión del FMI por la tercera revisión del acuerdo. El organismo aún no confirmó si aprobó la revisión, definición necesaria para destrabar un desembolso de USD 1.000 millones. Para una empresa: más reservas y un dólar oficial estable reducen el riesgo de un salto cambiario brusco antes de las elecciones.",
+     "url": "https://www.infobae.com/economia/2026/10/05/tras-el-paso-del-fmi-el-banco-central-acelero-la-compra-de-reservas-a-que-poder-de-fuego-aspira-caputo-para-las-elecciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/OIXHSQHB4NB6REXGE2V5EP4NC4.JPG?auth=ba5795f2669eb6ccdea641781e9e8048664053729cabe9edc7268cddf2c125f3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:21",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "Tras el paso del FMI, el Banco Central aceleró la compra de reservas: a qué “poder de fuego” aspira Caputo para las elecciones",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-06",
+     "titulo": "Wall Street ya no compra expectativas electorales sin fundamentos macro",
+     "resumen": "La corrección reciente de bonos y acciones argentinas no respondería a la volatilidad electoral sino al análisis de los inversores sobre una macroeconomía en contracción. El sector bancario del Merval fue uno de los más castigados en septiembre, tras haber liderado las subas meses atrás con valuaciones más exigentes.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El sector del Merval más castigado en septiembre",
+       "url": "https://www.ambito.com/opiniones/el-sector-del-merval-mas-castigado-septiembre-n6329941"
+      },
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Rescatando al soldado Warsh de la pataleta de los bonos",
+       "url": "https://www.ambito.com/economia/rescatando-al-soldado-warsh-la-pataleta-los-bonos-n6329934"
+      }
+     ],
+     "url": "https://www.ambito.com/opiniones/la-caida-del-mercado-local-que-wall-street-ya-no-compra-expectativas-fundamentos-macro-n6329965",
+     "imagen": "https://media.ambito.com/p/4c29a69742272bec17d3a4faf8046fe4/adjuntos/239/imagenes/043/128/0043128756/1200x675/2487x1615:2507x1635/riesgo-pais-mercados.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "La caída del mercado local: por qué Wall Street ya no compra expectativas sin fundamentos macro"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "Bessent volvió a respaldar a la Argentina y no descartó un nuevo salvataje financiero",
+     "resumen": "El secretario del Tesoro de Estados Unidos dijo que la estabilización argentina generó un cambio radical en América Latina y dejó abierta la puerta a una nueva intervención como la de 2025. Las declaraciones llegaron después de que el riesgo país cerrara el viernes pasado en 655 puntos básicos, en su máximo del año.",
+     "relacionadas": [
+      {
+       "id": "CL-25",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Scott Bessent vuelve a respaldar a la Argentina:\"¿Podríamos hacerlo de nuevo? Seguro\", señaló",
+       "url": "https://www.clarin.com/economia/scott-bessent-vuelve-respaldar-argentinapodriamos-hacerlo-nuevo-seguro-senalo_0_TpA7kIvItz.html"
+      },
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Bessent no descartó una nueva intervención del Tesoro de EEUU en el mercado argentino",
+       "url": "https://www.iprofesional.com/economia/465852-bessent-no-descarto-una-nueva-intervencion-del-tesoro-de-eeuu-en-el-mercado-argentino"
+      },
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Scott Bessent destacó el rescate de Argentina y restó importancia a la suba del rendimiento de los bonos de EEUU",
+       "url": "https://www.ambito.com/economia/scott-bessent-destaco-el-rescate-argentina-y-resto-importancia-la-suba-del-rendimiento-los-bonos-eeuu-n6329905"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/bessent-respaldo-a-argentina-y-dejo-abierta-la-posibilidad-de-una-nueva-ayuda-financiera/",
+     "imagen": "https://www.cronista.com/resizer/v2/EB242FTI6JEFRBTPP5R5SJZVBY.jpg?auth=093528936f3c7f5c59c08580b266c9a32b96407989b8c0f3325e5dcb0b8f026e&smart=true&width=891&height=668",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:11",
+     "autor": "Equipo Economía",
+     "titulo_original": "Bessent respaldó a Argentina y dejó abierta la posibilidad de una nueva ayuda financiera"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "el Gobierno avisó a los fondos extranjeros que suspendió la emisión de deuda en dólares a nivel local",
+     "resumen": "El equipo de Caputo lo comunicó la semana pasada en reuniones con inversores del exterior: la colocación de Bonares quedó cerrada por ahora, mientras se buscan otras alternativas de financiamiento para 2027. Para una empresa: menos emisión soberana en el mercado local puede liberar demanda de pesos, pero también señala cautela oficial sobre el apetito inversor.",
+     "url": "https://www.clarin.com/economia/gobierno-aviso-fondos-extranjeros-suspendio-emision-deuda-dolares-nivel-local_0_LLdlvlcdas.html",
+     "imagen": "https://www.clarin.com/img/2026/10/02/rj3Qlwui2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno le avisó a los fondos extranjeros que suspendió la emisión de deuda en dólares a nivel local",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-09",
+     "titulo": "los mercados anticipan un rally en Brasil por el shock fiscal que prometería Bolsonaro",
+     "resumen": "La ventaja de Flávio Bolsonaro sobre Lula en primera vuelta podría disparar un rally de acciones y bonos brasileños, anticipando un ajuste fiscal frente a una deuda bruta de entre 82,9% y 97% del PBI y una tasa real cercana al 10%. El ETF de Brasil saltó 9% y el real trepó casi 4% en las operaciones nocturnas tras conocerse el resultado.",
+     "url": "https://www.cronista.com/finanzas-mercados/preven-rally-de-mercado-en-brasil-por-irrupcion-de-bolsonaro-shock-fiscal-y-baja-de-tasas-en-la-mira/",
+     "imagen": "https://www.cronista.com/resizer/v2/XMKFJAYG4FDPFNZX5SYID54N4A.jpg?auth=5bc9c1ea41451103bad9e023d3de46f64e241e311903cc3f5daec1c20790f9ec&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:30",
+     "autor": "Ariel Cohen",
+     "titulo_original": "Prevén rally de mercado en Brasil por irrupción de Bolsonaro: shock fiscal y baja de tasas en la mira",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "LN-15",
+     "titulo": "una misión de alto nivel de Estados Unidos recorre el país para evaluar inversiones del Corredor Andes-Atlántico",
+     "resumen": "La delegación, con funcionarios del Departamento de Estado, el Exim Bank y la DFC, visita Buenos Aires, Salta y Jujuy entre el 5 y el 9 de octubre para analizar proyectos de minería, energía, infraestructura y privatizaciones. El viaje se da tras la señal de respaldo de Bessent y con el riesgo país en su máximo del año.",
+     "url": "https://www.lanacion.com.ar/economia/llega-una-mision-de-altos-funcionarios-de-eeuu-para-analizar-proyectos-de-inversion-en-la-argentina-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CRN4MF2RFRELHPHND5AR3PJLHA.jpg?auth=8056fdf905a01ed20558ba126755b32b50df265ae4fe7a6e94589b10f10e48d5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:24",
+     "autor": "Agustín Maza",
+     "titulo_original": "Llega una misión de altos funcionarios de EE.UU. para analizar proyectos de inversión en la Argentina",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-11",
+     "titulo": "una funcionaria advirtió en París sobre el pico de demanda eléctrica que viene",
+     "resumen": "Durante el Argentina Week, la secretaria de Energía, María Tettamanti, advirtió que el sector está enfocado en la oferta (Vaca Muerta, minerales, exportaciones) pero descuida el crecimiento de la demanda eléctrica. Para una empresa: la capacidad de abastecimiento energético futuro es un factor a monitorear para la planificación de costos industriales.",
+     "url": "https://www.cronista.com/economia-politica/advertencia-en-paris-por-la-demanda-de-electricidad/",
+     "imagen": "https://www.cronista.com/resizer/v2/6S5XARS3OBHP7L5PVEUUQTUEYI.jpg?auth=a467ae4399f9858140d09f16f90293184e7d87c3d5f8e2603998fe5180d087b2&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:59",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Advertencia en París por la demanda de electricidad",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-24",
+     "titulo": "la venta de autos usados saltó 9% en septiembre y cambió la tendencia",
+     "resumen": "El titular de ACARA, Sebastián Beato, confirmó que la desaceleración previa se frenó y proyectó un cierre de año en crecimiento, con un impulso positivo de cara a 2027.",
+     "url": "https://www.clarin.com/economia/venta-autos-usados-quebro-tendencia-salto-9-septiembre_0_gDsuIYF1wa.html",
+     "imagen": "https://www.clarin.com/img/2026/07/08/rwMaY9edy_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La venta de autos usados quebró una tendencia y saltó 9% en septiembre",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-06",
+     "titulo": "los autos electrificados ya representan uno de cada cinco patentamientos en el país",
+     "resumen": "En septiembre se patentaron más de 9.000 vehículos híbridos y eléctricos, casi 20% más que en agosto. Toyota lidera entre las marcas híbridas, mientras BYD concentra más del 65% de los eléctricos vendidos.",
+     "url": "https://www.clarin.com/autos/autos-electrificados-aceleran-ventas-argentina-representan-patentamientos_0_vBIunuSyKa.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/v9_FO3Le5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los autos electrificados aceleran sus ventas en Argentina: ya representan uno de cada cinco patentamientos",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Japón vuelve a comprar cortes de carne argentina después de veinte años",
+     "resumen": "Por primera vez desde 2006, la carne argentina podrá exportarse al mercado japonés, que consume unos US$ 3.000 millones de carne por año y que recientemente también había habilitado el ingreso del pollo argentino.",
+     "url": "https://www.iprofesional.com/comex/465832-tras-20-anos-argentina-reabrio-un-mercado-de-carne-de-mas-de-us3000-millones-anuales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626870.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:07",
+     "autor": "",
+     "titulo_original": "Este país que consume u$s3000 millones de carne por año vuelve a comprar cortes argentinos",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "ARCA puso en marcha el servicio Ganancias Personas Jurídicas",
+     "resumen": "El organismo habilitó el nuevo aplicativo para la confección y presentación de las declaraciones juradas del impuesto a las Ganancias de las personas jurídicas. Para una empresa: conviene revisar cuanto antes el nuevo servicio para no atrasarse con los vencimientos de la próxima presentación.",
+     "url": "https://www.iprofesional.com/impuestos/465867-arca-pone-en-marcha-el-servicio-ganancias-personas-juridicas-desde-que-fecha-rige",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/607256.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "05:25",
+     "autor": "",
+     "titulo_original": "ARCA pone en marcha el servicio \"Ganancias Personas jurídicas\": desde qué fecha rige",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-08",
+     "titulo": "la reglamentación de la Ley de Modernización Laboral exige nuevos requisitos para el control médico patronal",
+     "resumen": "La norma impone requisitos tecnológicos y formales adicionales para que las empresas puedan justificar inasistencias de personal, lo que cambia el estándar legal vigente. Para una empresa: hay que actualizar los protocolos internos de control de ausentismo para ajustarse a la nueva reglamentación.",
+     "url": "https://www.ambito.com/que-cambia-el-dia-dia-del-control-medico-patronal-n6328149",
+     "imagen": "https://media.ambito.com/p/77cae661174fe1957191b4020a0ce09c/adjuntos/239/imagenes/043/673/0043673014/1200x675/smart/arizmendi.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "¿Qué cambia en el día a día del control médico patronal?",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-19",
+     "titulo": "las empleadas domésticas cobrarán un 31% más en octubre en zonas específicas",
+     "resumen": "Se mantiene vigente un adicional clave para los sueldos de las trabajadoras de casas particulares que se desempeñan en determinadas zonas del país durante el décimo mes del año.",
+     "url": "https://www.iprofesional.com/actualidad/465597-que-empleadas-domesticas-cobran-un-31-mas-en-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/569874.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:15",
+     "autor": "",
+     "titulo_original": "Qué empleadas domésticas cobran un 31% más en octubre",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-18",
+     "titulo": "expertos estiman que el 80% de los jubilados podría reclamar por errores de ANSES en el cálculo del haber",
+     "resumen": "Según especialistas consultados, una gran proporción de jubilados tendría bases para iniciar un reclamo judicial contra ANSES por el cálculo incorrecto de los ajustes previsionales aplicados a sus haberes.",
+     "url": "https://www.iprofesional.com/impuestos/465357-como-reclamar-un-reajuste-jubilatorio-de-anses-ante-la-justicia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/592043.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:30",
+     "autor": "",
+     "titulo_original": "Jubilados, qué revisar si ANSES calculó mal el haber y cómo reclamar",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-12",
+     "titulo": "ANSES actualizó los haberes previsionales 1,66% en octubre y sumó un bono extraordinario",
+     "resumen": "La suba, formalizada por la resolución 284/2026, alcanza a jubilaciones, pensiones, asignaciones familiares y a la Pensión Universal para el Adulto Mayor, cuyos titulares también recibirán un bono extraordinario de hasta 70.000 pesos según el cronograma de pagos.",
+     "relacionadas": [
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "ANSES: cuándo cobro en octubre 2026 si mi DNI termina en 3",
+       "url": "https://www.infobae.com/economia/2026/10/05/anses-cuando-cobro-en-octubre-2026-si-mi-dni-termina-en-3/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/05/de-cuanto-es-la-puam-de-anses-en-octubre-2026/",
+     "imagen": "https://www.infobae.com/resizer/v2/YC3M2ZN6QNC3LEMAJDL6WCKRWQ.JPG?auth=436ef0eda315bd3c3d9e4bd2f0036138b4a1149672162eeb16907b62ec7cdbbc&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:00",
+     "autor": "Constanza Almirón",
+     "titulo_original": "De cuánto es la PUAM de ANSES en octubre 2026"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "LN-21",
+     "titulo": "las ventas minoristas pyme apenas subieron 0,3% interanual en septiembre y acumulan una caída de 2,1% en el año",
+     "resumen": "Según CAME, el resultado interanual convivió con una baja de 1,2% frente a agosto en la medición desestacionalizada. La entidad describió una demanda fragmentada, orientada a compras cotidianas y de bajo valor, tras el fin de los picos de ventas festivos y escolares. Para una empresa: la demanda sigue débil y atomizada, lo que exige cuidar el capital de trabajo y la estrategia de precios por canal.",
+     "url": "https://www.lanacion.com.ar/economia/las-ventas-minoristas-subieron-apenas-03-interanual-en-septiembre-pero-cayeron-frente-a-agosto-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KLGCCVADTVCSPLEQETZCPGKHYE.JPG?auth=d7db68b51d85aedd28dff82221726ee388edbd0b20db6420bc322a404c265da0&smart=true&width=900&height=682",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:26",
+     "autor": "",
+     "titulo_original": "Las ventas minoristas subieron apenas 0,3% interanual en septiembre, pero cayeron frente a agosto",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-01",
+     "titulo": "el real estate porteño cambia de geografía en un mercado que funciona casi sin crédito",
+     "resumen": "Desarrolladores describen un mapa inmobiliario distinto al de hace años, con operaciones mayormente en efectivo, barrios tradicionales que ceden lugar a nuevas zonas de mayor valor y un fenómeno de auge que empieza a replicarse en el interior del país, asociado en parte a la minería. Para una empresa: el financiamiento hipotecario sigue acotado, por lo que la demanda de materiales para obra privada depende en gran medida de inversores con liquidez propia.",
+     "url": "https://www.cronista.com/negocios/lujo-en-cash-barrios-en-maximos-y-auge-minero-las-nuevas-reglas-del-real-estate-sin-credito/",
+     "imagen": "https://www.cronista.com/resizer/v2/CEKOX55RQRBCFK7FRDROKGMXPE.JPG?auth=decb6b654974d0884b41367a92ee64b77e1236e180b5cfe7dabfbc5ddc62b9d1&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Micaela Mura",
+     "titulo_original": "Lujo en “cash”, barrios en máximos y auge minero: las nuevas reglas del real estate sin crédito",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-24",
+     "titulo": "el crédito privado sigue sin despegar, aunque los préstamos hipotecarios crecen",
+     "resumen": "El financiamiento al sector privado avanzó apenas 0,3% real en septiembre y quedó 1,4% por debajo de un año atrás. La mora y las condiciones de tasas y plazos golpearon a los préstamos personales, mientras los hipotecarios volvieron a destacarse como la línea de mejor desempeño.",
+     "url": "https://www.ambito.com/economia/el-credito-sigue-despegar-los-prestamos-personales-volvieron-caer-septiembre-pero-crecen-hipotecarios-n6329909",
+     "imagen": "https://media.ambito.com/p/4211f9c25be2c4427273696edc205268/adjuntos/239/imagenes/043/638/0043638096/1200x675/smart/diferencial-tasas.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:18",
+     "autor": "",
+     "titulo_original": "El crédito sigue sin despegar: los préstamos personales volvieron a caer en septiembre, pero crecen hipotecarios",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-15",
+     "titulo": "una consultora prevé la creación de 2.000 empleos de cara a Cyber Monday, Black Friday y las Fiestas",
+     "resumen": "Una compañía especializada en Recursos Humanos proyectó esa cantidad de búsquedas laborales en el comercio minorista y la logística para reforzar la operación durante la temporada de mayor venta del año.",
+     "url": "https://www.iprofesional.com/management/465848-consultora-anticipo-que-el-mercado-laboral-requerira-2000-nuevos-empleados-para-fin-de-ano",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619192.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:41",
+     "autor": "",
+     "titulo_original": "Consultora anticipó que el mercado laboral requerirá 2000 nuevos empleados para fin de año",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Brasil irá a un balotaje el 25 de octubre entre Lula y Flávio Bolsonaro",
+     "resumen": "Con casi el 100% de los votos escrutados, Flávio Bolsonaro obtuvo 47,15% frente a 45,02% de Lula da Silva, una diferencia de menos de tres puntos que impidió una definición en primera vuelta. El Tribunal Superior Electoral confirmó la fecha de la segunda vuelta que definirá al próximo presidente brasileño.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Elecciones en Brasil 2026 EN VIVO: Flávio Bolsonaro superó a Lula, pero habrá segunda vuelta",
+       "url": "https://www.ambito.com/mundo/elecciones-brasil-presidente-votacion-lula-da-silva-flavio-bolsonaro-pt-pl-4-octubre"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Sorpresa en Brasil: Flávio Bolsonaro se impuso en la primera vuelta, Lula ante un difícil escenario para el balotaje",
+       "url": "https://www.ambito.com/mundo/sorpresa-brasil-flavio-bolsonaro-se-impone-la-primera-vuelta-lula-un-dificil-escenario-el-balotaje-n6329971"
+      },
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Elecciones en Brasil: Lula recortó la ventaja ante Bolsonaro y habrá balotaje",
+       "url": "https://www.iprofesional.com/politica/465845-elecciones-brasil-lula-bolsonaro-pais-espera-final-ajustado"
+      },
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La mayoría de encuestas en Brasil daban vencedor a Lula y Bolsonaro le ganó por 2 puntos",
+       "url": "https://www.iprofesional.com/politica/465851-encuestas-brasil-erraron-victoria-bolsonaro-derrota-lula"
+      },
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Flavio Bolsonaro, tras ganar en primera vuelta ante Lula: \"Brasil quiere un cambio\"",
+       "url": "https://www.clarin.com/mundo/flavio-bolsonaro-ganar-primera-vuelta-lula-brasil-quiere-cambio_0_JrFRnhZ6gd.html"
+      },
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Lula acepta el impacto del triunfo de Bolsonaro: fue \"un resultado inesperado\"",
+       "url": "https://www.clarin.com/mundo/lula-acusa-impacto-resultado-inesperado_0_bqsZUVfuEE.html"
+      },
+      {
+       "id": "LN-17",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Quién es Flavio Bolsonaro, el “hijo 01” que se propuso vengar a su padre y dio la sorpresa frente a Lula",
+       "url": "https://www.lanacion.com.ar/el-mundo/quien-es-flavio-bolsonaro-el-hijo-01-que-se-propuso-vengar-a-su-padre-y-dio-la-sorpresa-frente-a-nid04102026/"
+      },
+      {
+       "id": "LN-16",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Lula da Silva, el líder sindical que abrazó el pragmatismo para buscar su cuarto mandato en Brasil",
+       "url": "https://www.lanacion.com.ar/el-mundo/lula-da-silva-el-lider-sindical-que-abrazo-el-pragmatismo-para-buscar-su-cuarto-mandato-en-brasil-nid04102026/"
+      },
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Sergio Moro, el juez que metió preso a Lula, fue electo gobernador del estado de Paraná",
+       "url": "https://www.iprofesional.com/politica/465853-sergio-moro-arrasa-parana-cambia-mapa-politico-brasil-victoria-inedita"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/cuando-es-el-balotaje-de-brasil-2026-asi-definen-lula-y-flavio-bolsonaro-las-elecciones-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TNLDKSSVAVHJLKRISTTCMQ3PRY.JPG?auth=c17bd730e8fe2bec624ab78268934cd51439857d167c2c82921247e1e4f5e8b2&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:35",
+     "autor": "",
+     "titulo_original": "Cuándo es el balotaje de Brasil 2026: así definen Lula y Flávio Bolsonaro las elecciones"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Pedro Sánchez adelantó las elecciones generales de España al 29 de noviembre",
+     "resumen": "El anuncio se dio tras una crisis de vivienda y luego de que el Congreso derogara los decretos del gobierno socialista para enfrentarla. Sánchez llamó a los españoles a decidir qué rumbo quieren para el país desde las escalinatas del Palacio de la Moncloa.",
+     "relacionadas": [
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Pedro Sánchez adelantó las elecciones generales en España para el 29 de noviembre",
+       "url": "https://www.clarin.com/mundo/pedro-sanchez-anuncio-adelanta-elecciones-generales-29-noviembre_0_JhY9KMYjzu.html"
+      },
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Moreno se implicará \"a fondo\" en campaña y descarta el salto a Madrid si gana Feijóo: \"Mi compromiso es Andalucía\"",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/05/moreno-se-implicara-a-fondo-en-campana-y-descarta-el-salto-a-madrid-si-gana-feijoo-mi-compromiso-es-andalucia/"
+      },
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Ayuso pide no votar por correo en las próximas elecciones generales del 29 de noviembre",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/05/ayuso-pide-no-votar-por-correo-en-las-proximas-elecciones-generales-del-29-de-noviembre/"
+      },
+      {
+       "id": "IB-08",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Page espera que las elecciones dejen un escenario de \"grandes consensos\" en España",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/05/page-espera-que-las-elecciones-dejen-un-escenario-de-grandes-consensos-en-espana/"
+      },
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Iustitia Europa, acusación en casos judiciales que afectan al Gobierno, confirma que se presentará a las elecciones",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/05/iustitia-europa-acusacion-en-casos-judiciales-que-afectan-al-gobierno-confirma-que-se-presentara-a-las-elecciones/"
+      },
+      {
+       "id": "IB-04",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "CCOO aboga por continuar con las movilizaciones y la tensión en la calle",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/05/ccoo-aboga-por-continuar-con-las-movilizaciones-y-la-tension-en-la-calle/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/pedro-sanchez-anuncio-elecciones-anticipadas-en-espana-para-el-29-de-noviembre-nid05102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YYQYBQLV5BDEXEHM4EIA6GPTNY.JPG?auth=2eace2e1d0fd0788e2cfaad9a6af6dbed7343745cb36b63b8e31b0433976c121&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:03",
+     "autor": "Iván Ruiz",
+     "titulo_original": "Pedro Sánchez anunció elecciones anticipadas en España para el 29 de noviembre"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "un nuevo ataque paralizó el oleoducto Este-Oeste de Arabia Saudita",
+     "resumen": "La infraestructura, clave tras los bloqueos en el estrecho de Ormuz, sufrió daños significativos en Jurais y debió cerrarse. Los hutíes de Yemen, apoyados por Irán, reivindicaron el ataque.",
+     "url": "https://www.clarin.com/estados-unidos/nuevo-ataque-paraliza-el-oleoducto-este-oeste-de-arabia-saudita_0_GA1vSEznhe.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Nuevo ataque paraliza el oleoducto Este-Oeste de Arabia Saudita",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-21",
+     "titulo": "a tres años del ataque de Hamas, un nuevo intento terrorista reaviva las alarmas en Israel",
+     "resumen": "La incursión armada de 2023 dejó 1.219 muertos y más de 250 secuestrados. Al cumplirse el tercer aniversario, otro intento de atentado en un vuelo comercial reactivó las alertas de seguridad en el país.",
+     "url": "https://www.clarin.com/mundo/anos-ataque-hamas-amenaza-nuevo-atentado-reaviva-tensiones-israel_0_PB8MwpTSVb.html",
+     "imagen": "https://www.clarin.com/img/2024/10/06/OpvPZZPEE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "A tres años del ataque de Hamas: la amenaza de un nuevo atentado reaviva las alarmas en Israel",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Marco Rubio viaja a Islandia para reforzar la estrategia de Estados Unidos en el Ártico",
+     "resumen": "El secretario de Estado se reunirá en Reykiavik con funcionarios islandeses para avanzar en cooperación económica y de seguridad, dos semanas después de que Washington sellara un acuerdo de seguridad con Dinamarca y Groenlandia, en medio de la competencia por rutas y recursos árticos.",
+     "url": "https://www.infobae.com/america/mundo/2026/10/05/marco-rubio-viaja-a-islandia-para-reforzar-la-estrategia-de-eeuu-en-el-artico-tras-el-pacto-sobre-groenlandia-y-dinamarca/",
+     "imagen": "https://www.infobae.com/resizer/v2/FSBRRCV4W5HLTNYVFXNNPC7XXI.JPG?auth=80254ecddf427e65f10d192107839d0ef809132b759f1ffb55ef8598d5c9b8a5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:05",
+     "autor": "",
+     "titulo_original": "Marco Rubio viaja a Islandia para reforzar la estrategia de EEUU en el Ártico tras el pacto sobre Groenlandia y Dinamarca",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-26",
+     "titulo": "un epidemiólogo ruso denunció un posible encubrimiento del Kremlin por una muerte en Siberia",
+     "resumen": "Mikhal Favorov calificó de ridícula la versión oficial sobre el contagio de una trabajadora del Instituto Antiplaga de Irkutsk, fallecida tras un presunto accidente con un tubo de ensayo. El caso puso bajo vigilancia a unas 200 personas y restringió la actividad en varios centros sanitarios de la región.",
+     "relacionadas": [
+      {
+       "id": "GC-01",
+       "fuente_codigo": "GC",
+       "fuente": "Le Grand Continent",
+       "titulo": "¿Se enfrenta Rusia a una epidemia de peste?",
+       "url": "https://legrandcontinent.eu/es/2026/10/05/rusia-enfrenta-una-epidemia-de-peste/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/05/un-epidemiologo-ruso-acuso-al-kremlin-de-ocultar-la-causa-de-muerte-de-una-mujer-en-siberia-por-posible-peste-neumonica/",
+     "imagen": "https://www.infobae.com/resizer/v2/BQ3OH6IFN5HI3MJTDAFIA5KOPU.JPG?auth=e9cec54545420254f34bba6d44cb65634a1c33d1fe8b26c3322197e6df023e8d&smart=true&width=900&height=598",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "21:34",
+     "autor": "",
+     "titulo_original": "Un epidemiólogo ruso acusó al Kremlin de ocultar la causa de muerte de una mujer en Siberia por posible peste neumónica"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza en profundidad dos hechos de la semana: la posible epidemia en Rusia y el giro político en Brasil.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent pregunta si Rusia enfrenta una epidemia de peste",
+     "resumen": "La revista detalla que Daria Chipilova, técnica de laboratorio de 28 años del instituto Antiplaga de Irkutsk, murió por una neumonía fulminante tras supuestamente romper un tubo de ensayo con el agente de la peste pulmonar. Las medidas de cuarentena adoptadas sugieren que las autoridades temen un patógeno especialmente contagioso.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Un epidemiólogo ruso acusó al Kremlin de ocultar la causa de muerte de una mujer en Siberia por posible peste neumónica",
+       "url": "https://www.infobae.com/america/mundo/2026/10/05/un-epidemiologo-ruso-acuso-al-kremlin-de-ocultar-la-causa-de-muerte-de-una-mujer-en-siberia-por-posible-peste-neumonica/"
+      }
+     ],
+     "url": "https://legrandcontinent.eu/es/2026/10/05/rusia-enfrenta-una-epidemia-de-peste/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "06:44",
+     "autor": "Marin Saillofest",
+     "titulo_original": "¿Se enfrenta Rusia a una epidemia de peste?"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent traduce el discurso de victoria de Flávio Bolsonaro, entre Milei, Bukele y Trump",
+     "resumen": "La revista señala que, por primera vez desde 1998, un candidato superó a Lula en una presidencial brasileña, con una ventaja de casi 2,4 millones de votos. Ubica la línea política de Bolsonaro en la estela reaccionaria de su padre, en ruptura con el PT, y resume su consigna de campaña en una frase: Brasil ya no puede más.",
+     "url": "https://legrandcontinent.eu/es/2026/10/05/flavio-bolsonaro-es-el-fin-de-lula/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "03:38",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Flávio Bolsonaro: «Es el fin de Lula»",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-14",
+     "titulo": "la Selección recibe a Benín en la última función de Messi, tras otra odisea logística del rival",
+     "resumen": "Después del 7 a 0 ante Burkina Faso, que había aterrizado apenas cinco horas antes del partido, Argentina enfrentará a Benín, 93° del ranking, que también tuvo problemas para llegar. Scaloni reconoció las dificultades para conseguir rivales de mayor jerarquía, ya que la AFA cerró tarde los amistosos.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La nostálgica bienvenida \"con estilo\" que le dio Chiqui Tapia a Messi en su llegada a Ezeiza",
+       "url": "https://www.clarin.com/deportes/nostalgica-bienvenida-estilo-dio-chiqui-tapia-messi-llegada-ezeiza_0_B2CqlfVHyO.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/improvisacion-burkina-faso-odisea-modesto-benin-ultima-funcion-messi_0_b6hAh5yNxp.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/Ja5FMEgm4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Más improvisación: de Burkina Faso y su odisea al modesto Benín para la última función de Messi"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Argentinos es el nuevo líder de la Zona B del Clausura tras vencer a Tigre",
+     "resumen": "La fecha 11 coronó al Bicho como puntero de la Zona B luego de superar a Tigre, mientras Boca se acomodó como escolta junto a un envalentonado Huracán tras ganarle de manera agónica a Talleres. Racing debutó con triunfo a Chirola Romero en el banco, al vencer con autoridad a Estudiantes de Río Cuarto.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Así están las posiciones del Clausura y la Tabla Anual que clasifica a la Copa Libertadores y Sudamericana",
+       "url": "https://www.infobae.com/deportes/2026/10/05/asi-estan-las-posiciones-del-clausura-y-la-tabla-anual-que-clasifica-a-la-copa-libertadores-y-sudamericana/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/tablas-torneo-clausura-2026-boca-argentinos-quieren-arrebatarle-cima-anual-lepra-mendocina_0_cZspkKswV8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/13/bvgjoOu8x_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Así están las tablas del Torneo Clausura 2026: Boca y Argentinos quieren arrebatarle la cima de la anual a la Lepra mendocina"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Belgrano le ganó el clásico cordobés a Talleres con un gol sobre el final",
+     "resumen": "El Pirata se impuso 1 a 0 en el estadio Kempes con el tanto de Ramiro Hernandes a pocos minutos del cierre, tras un contraataque que nació de un córner a favor de la T. Belgrano quedó como líder de la Zona B al cierre de esa jornada.",
+     "relacionadas": [
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Belgrano derrotó a Talleres por 1 a 0 en el clásico cordobés del torneo Clausura: era córner para la “T” y terminó en gol Pirata",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/talleres-vs-belgrano-en-vivo-nid04102026/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/belgrano-golpeo-el-final-talleres-y-se-quedo-el-clasico-cordobes-n6329942",
+     "imagen": "https://media.ambito.com/p/0e3e0f9b415dede60a43a79e93986587/adjuntos/239/imagenes/043/683/0043683427/1200x675/smart/belgrano-talleres.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:18",
+     "autor": "",
+     "titulo_original": "Belgrano golpeó sobre el final ante Talleres y se quedó con el clásico cordobés"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Colapinto remontó ocho posiciones en Baréin pese a un error de estrategia de Alpine",
+     "resumen": "El equipo francés reconoció que falló al elegir neumáticos para piso seco con la pista mojada en el circuito de Sepang; el más perjudicado fue Pierre Gasly, que terminó 16°. Franco Colapinto, pese al mismo contratiempo, remontó ocho posiciones y volvió a mostrar carácter.",
+     "relacionadas": [
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Tensión en Alpine: el fuerte cruce de Franco Colapinto con su ingeniero durante el GP de Baréin",
+       "url": "https://www.ambito.com/deportes/tension-alpine-el-fuerte-cruce-franco-colapinto-su-ingeniero-el-gp-barein-n6329900"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/10/05/el-detras-de-escena-del-error-en-la-estrategia-de-alpine-en-el-gp-de-barein-de-f1-como-logro-recuperarse-colapinto-y-superar-a-gasly/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZN3C2VEENFCANKGMIXAUHZZZOE.jpg?auth=5ee2f9fd79f9110cc67b5dcfb53928a5f1bab2edf5e530ac40799eafb63eac60&smart=true&width=900&height=509",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:44",
+     "autor": "Darío Coronel",
+     "titulo_original": "El detrás de escena del error en la estrategia de Alpine en el GP de Baréin de F1: cómo logró recuperarse Colapinto y superar a Gasly"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "La Natividad-La Dolfina retuvo el título del Abierto de Hurlingham de polo",
+     "resumen": "El equipo de Cañuelas venció a La Hache por 18 a 14, obtuvo el torneo por segundo año consecutivo y extendió a 16 partidos su racha invicta.",
+     "url": "https://www.lanacion.com.ar/deportes/polo/la-natividad-la-dolfina-vencio-a-la-hache-y-es-bicampeon-del-abierto-de-hurlingham-de-polo-nid04102026-2/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OBL22RREVFHPPDY7X6URV3ZUHQ.jpeg?auth=ba41bd2fdd3135bdc617b4a741dfffb1df0d8903fca35e02009ab3e047e31055&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:48",
+     "autor": "Juan de Dios Vera Ocampo",
+     "titulo_original": "La Natividad-La Dolfina venció a La Hache y es bicampeón del Abierto de Hurlingham de polo",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Djokovic venció a Zverev en Beijing y superó un récord que compartía con Nadal",
+     "resumen": "El serbio ganó 4-6, 6-4 y 6-4 y avanzó a semifinales del ATP 500 de China, donde sumó su victoria número 32 en el torneo, una marca que superó a Rafael Nadal.",
+     "url": "https://www.ambito.com/deportes/novak-djokovic-vencio-alexander-zverev-beijing-y-rompio-un-record-que-compartia-nadal-n6329915",
+     "imagen": "https://media.ambito.com/p/75f6683fb026fd4c3455aa81147fac71/adjuntos/239/imagenes/043/404/0043404854/novak-djokovic.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:05",
+     "autor": "",
+     "titulo_original": "Novak Djokovic venció a Alexander Zverev en Beijing y rompió un récord que compartía con Nadal",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-22",
+     "titulo": "El Salvador visita a Martinica con la urgencia de evitar el descenso en la Liga de Naciones de la Concacaf",
+     "resumen": "El seleccionado cuscatleco llega último en su grupo, con tres puntos y la peor diferencia de gol, tras caer 6 a 0 ante Guatemala y 0 a 2 ante Jamaica como local, lo que también pone en duda la continuidad del entrenador Hernán Darío Bolillo Gómez.",
+     "url": "https://www.infobae.com/deportes/2026/10/05/el-salvador-juega-su-permanencia-en-la-liga-a-ante-martinica/",
+     "imagen": "https://www.infobae.com/resizer/v2/4ZPA24T2WJFLVAW4LICX6NKY6Y.jpeg?auth=92daac4e715656661b0a6f8f3a381b71815779cefa2986ae852082474b86cf56&smart=true&width=900&height=582",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:16",
+     "autor": "Katlen Urquilla",
+     "titulo_original": "El Salvador llega a Martinica con una urgencia que excede los 90 minutos",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-10",
+     "titulo": "arrancó la temporada de tulipanes 2026 en Trevelin, Chubut",
+     "resumen": "Unas 30 variedades de tulipanes florecen en tres hectáreas de tierra. La temporada 2026 se extiende del 7 de octubre al 7 de noviembre, con una experiencia que varía en cada primavera.",
+     "url": "https://www.clarin.com/viajes/empieza-temporada-tulipanes-2026-trevelin-cuesta-mejor-momento-ir-experiencia-distinta-primavera_0_ZSN62Ne0iP.html",
+     "imagen": "https://www.clarin.com/img/2026/10/02/rsyMVjC7v_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Empieza la temporada de tulipanes 2026 en Trevelin: cuánto cuesta, cuándo es el mejor momento para ir y por qué la experiencia es distinta en cada primavera",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Hierápolis-Pamukkale, el destino turco con ruinas de dos mil años y aguas termales",
+     "resumen": "Declarado Patrimonio Mundial por la Unesco desde 1988, el sitio combina travertinos blancos con restos de una ciudad fundada en el siglo segundo antes de Cristo y vestigios de las épocas helenística, romana y bizantina.",
+     "url": "https://www.infobae.com/america/mundo/2026/10/05/hierapolis-pamukkale-el-destino-turco-con-ruinas-de-2000-anos-y-aguas-termales/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZYOI2ZRAEVDNDCLVLRFJG3TOJM.jpg?auth=fb509570dfb5471e93d24af1308788812cb27c1814157336d3dbfe8874ea60d7&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:00",
+     "autor": "Faustino Cuomo",
+     "titulo_original": "Hierápolis-Pamukkale: el destino turco con ruinas de 2.000 años y aguas termales",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-18",
+     "titulo": "alerta amarilla por tormentas y nevadas en cinco provincias este lunes",
+     "resumen": "El Servicio Meteorológico Nacional advirtió por fenómenos con capacidad de daño en Formosa y Misiones, entre otras provincias, con lluvias localmente fuertes, granizo y ráfagas. En la ciudad de Buenos Aires la máxima prevista es de 23 grados.",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-nevadas-para-este-lunes-5-de-octubre-las-provincias-afectadas-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GQJT27TOW5CWJOX7AY4FO7CQIY.png?auth=5fb469433f738f1cfca9e345938a8e054e482f174c856d507d1b2801a33f48be&smart=true&width=488&height=263",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:05",
+     "autor": "",
+     "titulo_original": "Hay alerta amarilla por tormentas y nevadas para este lunes 5 de octubre: las provincias afectadas",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-23",
+     "titulo": "el obispo auxiliar de Córdoba fue apartado de sus funciones por conductas impropias",
+     "resumen": "El Arzobispado de Córdoba informó la decisión contra monseñor Ricardo Seirutti al concluir un proceso judicial canónico iniciado por denuncias de dos adultos. La Santa Sede ordenó también una privación de cargos eclesiales y pidió perdón a los afectados.",
+     "url": "https://www.lanacion.com.ar/sociedad/el-obispo-auxiliar-de-cordoba-fue-apartado-de-sus-funciones-por-conductas-impropias-nid04102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/F4KVIEUDO5HMZE2LE5FTKJJNKU.jpg?auth=c664f88d15c05b65ca6358adc64ce1173c1b139fecb01e89186185720fced44d&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:52",
+     "autor": "Gabriela Origlia",
+     "titulo_original": "El obispo auxiliar de Córdoba fue apartado de sus funciones por conductas impropias",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-12",
+     "titulo": "el arzobispo García Cuerva pidió estar más unidos durante la Peregrinación a Luján",
+     "resumen": "En la misa central de la peregrinación, el arzobispo de Buenos Aires convocó a fortalecer los vínculos sociales y dar protagonismo a los sectores más vulnerables, en una homilía pronunciada semanas antes de la llegada del papa León XIV a la Argentina.",
+     "url": "https://www.cronista.com/economia-politica/desde-lujan-garcia-cuerva-pidio-estar-mas-unidos-que-nunca-y-advirtio-que-la-argentina-esta-herida/",
+     "imagen": "https://www.cronista.com/resizer/v2/MQPUJ57GVFD77PSVN3P6G4RCO4.png?auth=ac74105fbd7eb7ddb86c98eb8b3c64f50b60314061a3c8151578d79f7b1869d3&smart=true&width=900&height=563",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:58",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Desde Luján: García Cuerva pidió “estar más unidos que nunca” y advirtió que la Argentina está “herida”",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del lunes cinco de octubre. El dólar oficial cerró en mil quinientos cuarenta pesos, el dólar blue en mil quinientos sesenta pesos y el oro cotiza en cuatro mil ciento ochenta y siete dólares la onza, mientras el riesgo país se mantiene cerca de sus máximos del año. El hecho que domina la agenda es el resultado de la primera vuelta electoral en Brasil, donde Flávio Bolsonaro sorprendió a Lula da Silva y ambos definirán la presidencia en un balotaje el veinticinco de octubre. En la City, el Banco Central aceleró la compra de reservas y el Gobierno avisó a los fondos extranjeros que suspendió la emisión de deuda en dólares a nivel local. En España, Pedro Sánchez adelantó las elecciones generales al veintinueve de noviembre.\n\nEn política, el Gobierno negocia apoyos de los gobernadores de cara a dos mil veintisiete, lo que ya generó la primera crisis interna en Salta por el uso del sello violeta y podría tensionar a Neuquén, Río Negro y Mendoza. El juicio por las causas Hotesur y Los Sauces contra Cristina y Máximo Kirchner avanza hacia su reunificación, con una audiencia clave prevista para el quince de octubre. El veinte de octubre se eligen representantes de los abogados en el Consejo de la Magistratura, con cuatro listas en competencia. También resurgió la tensión entre Argentina y Chile por la soberanía de las islas Malvinas y el control del estrecho de Magallanes, pese a la buena relación personal entre Milei y Kast. El Senado tendrá otra semana de actividad reducida, con el foco puesto en Diputados, y avanza la auditoría sobre el oro enviado al exterior. Un relevamiento privado midió además la presión tributaria de los municipios bonaerenses, en momentos en que la Libertad Avanza bonaerense impulsa eliminar más de cien tasas locales.\n\nEn economía y mercados, el Banco Central compró trescientos sesenta y nueve millones de dólares en la última semana, casi lo mismo que en todo septiembre, ya cerrada la misión del Fondo Monetario Internacional por la tercera revisión del acuerdo. Wall Street parece exigir cada vez más fundamentos macroeconómicos antes de convalidar subas en los bonos y acciones argentinas, y el sector bancario fue uno de los más castigados del mes pasado. El secretario del Tesoro de Estados Unidos, Scott Bessent, volvió a respaldar a la Argentina y no descartó una nueva asistencia financiera, después de que el riesgo país cerrara el viernes en su máximo del año. El equipo de Caputo, por su parte, avisó a los inversores que la colocación de deuda en dólares a nivel local quedó suspendida por ahora. Y los mercados anticipan un fuerte rally en los activos brasileños, con el real y los papeles de ese país saltando con fuerza tras el resultado electoral.\n\nEn negocios y empresas, una misión de alto nivel de Estados Unidos recorre Buenos Aires, Salta y Jujuy para evaluar inversiones en minería, energía e infraestructura dentro del Corredor Andes Atlántico. En París, la secretaria de Energía advirtió sobre el crecimiento futuro de la demanda eléctrica, un tema que el sector suele descuidar frente al foco puesto en la oferta. La venta de autos usados saltó nueve por ciento en septiembre y cambió la tendencia previa, mientras los vehículos híbridos y eléctricos ya representan uno de cada cinco patentamientos en el país. Japón, además, volverá a comprar cortes de carne argentina después de veinte años sin hacerlo.\n\nEn impuestos, laboral y normativa, la agencia de recaudación puso en marcha el nuevo servicio para las declaraciones juradas de Ganancias de personas jurídicas. La reglamentación de la Ley de Modernización Laboral exige nuevos requisitos tecnológicos para que las empresas puedan justificar inasistencias de su personal. Las empleadas domésticas cobrarán un treinta y uno por ciento más en octubre en determinadas zonas, y especialistas estiman que el ochenta por ciento de los jubilados podría reclamar judicialmente contra ANSES por errores en el cálculo de sus haberes. La propia ANSES, de todos modos, actualizó un uno con sesenta y seis por ciento los haberes previsionales de octubre y sumó un bono extraordinario para la Pensión Universal para el Adulto Mayor.\n\nEn consumo y construcción, las ventas minoristas de las pequeñas y medianas empresas apenas subieron cero con tres por ciento interanual en septiembre y acumulan una caída de dos coma uno por ciento en el año, con una demanda que la Confederación Argentina de la Mediana Empresa describió como fragmentada y orientada a compras de bajo valor. El mercado inmobiliario porteño, mientras tanto, funciona cada vez más en efectivo y sin crédito, con un mapa de barrios que se corre hacia nuevas zonas de mayor valor, un fenómeno que empieza a verse también en el interior del país. El crédito privado sigue sin despegar, aunque los préstamos hipotecarios volvieron a destacarse frente a la caída de los personales. Y de cara a Cyber Monday, Black Friday y las fiestas de fin de año, una consultora proyectó la creación de dos mil puestos de trabajo en el comercio minorista y la logística.\n\nEn el mundo, además del desenlace electoral en Brasil, España se encamina a votar el veintinueve de noviembre después del adelanto anunciado por Pedro Sánchez. Un nuevo ataque de los hutíes de Yemen volvió a paralizar un oleoducto clave de Arabia Saudita, ya golpeada por los bloqueos en el estrecho de Ormuz. A tres años del ataque de Hamas, un nuevo intento de atentado en un vuelo comercial reactivó las alertas de seguridad en Israel. El secretario de Estado norteamericano, Marco Rubio, viaja a Islandia para reforzar la estrategia de su país en el Ártico, y un epidemiólogo ruso denunció un posible encubrimiento del Kremlin sobre la muerte de una científica en Siberia, que había estado en contacto con una bacteria de la peste.\n\nLe Grand Continent analiza justamente ese episodio ruso y advierte que las medidas de cuarentena adoptadas sugieren temor a un patógeno muy contagioso. La revista también tradujo el discurso de victoria de Flávio Bolsonaro, al que describe entre las referencias de Milei, Bukele y Trump, y recuerda que es la primera vez desde mil novecientos noventa y ocho que un candidato supera a Lula da Silva en una elección presidencial.\n\nEn deportes, la Selección argentina recibe a Benín en la despedida de Messi, después de otra odisea logística de un rival de bajo ranking. En el torneo Clausura, Argentinos es el nuevo líder de la Zona B tras vencer a Tigre, Boca se acomodó como escolta, y Belgrano le ganó el clásico cordobés a Talleres con un gol sobre el final. En la Fórmula uno, Franco Colapinto remontó ocho posiciones en Baréin pese a un error de estrategia de su equipo con los neumáticos. La Natividad La Dolfina retuvo el título del Abierto de Hurlingham de polo, Novak Djokovic superó un récord de Rafael Nadal tras vencer a Zverev en Beijing, y El Salvador visita a Martinica con la urgencia de evitar el descenso en la Liga de Naciones de la Concacaf.\n\nPara cerrar, dos propuestas de turismo. En Trevelin, Chubut, arrancó la temporada de tulipanes, con treinta variedades floreciendo hasta principios de noviembre. Y en Turquía, el sitio de Hierápolis y Pamukkale combina aguas termales con ruinas de dos mil años, declaradas Patrimonio Mundial por la Unesco. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Se consultaron las siete fuentes sin caídas. Esta edición no incluye la sección Management y finanzas corporativas por falta de material propio del feed correspondiente en esta corrida.",
+ "slug": "2026-10-05-manana",
+ "generado_ba": "05/10/2026 10:14"
+}
