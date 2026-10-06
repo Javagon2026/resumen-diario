@@ -1,0 +1,800 @@
+{
+ "fecha": "2026-10-06",
+ "edicion": "tarde",
+ "titulo": "El riesgo país perfora los 575 puntos horas antes de la despedida de Messi",
+ "apertura": "El riesgo país volvió a caer esta tarde, hasta perforar los 575 puntos, en una rueda en la que también se conoció que la producción de litio argentino creció 62% en el último año y ya concentra ocho de cada diez exportaciones hacia China. En el plano judicial, un juez federal declaró inconstitucional el decreto con el que el Gobierno había frenado la Ley de Financiamiento Universitario y le ordenó cumplirla de inmediato. Esta noche, además, el país se prepara para despedir a Lionel Messi de la Selección argentina en un amistoso ante Benín en el estadio Monumental.",
+ "claves": [
+  "El riesgo país cayó por debajo de los 575 puntos y los bonos en dólares extendieron el rebote por el efecto del triunfo de Bolsonaro en Brasil.",
+  "La Justicia declaró inconstitucional el decreto con el que el Gobierno frenó la Ley de Financiamiento Universitario; el Ejecutivo adelantó que apelará.",
+  "La producción de litio argentino creció 62% en un año y China concentra el 81% de sus exportaciones, según Clarín.",
+  "Los depósitos en dólares subieron más de US$ 1.000 millones en septiembre, la mayor suba mensual desde enero.",
+  "La Algodonera Avellaneda, la ex Vicentin, se quedó sin ofertas de rescate y se encamina a la quiebra.",
+  "Desde el 1° de noviembre, los monotributistas sociales deberán facturar electrónicamente o usar controlador fiscal, según una resolución de ARCA.",
+  "El mercado privado ya da por hecho que la economía entró en recesión y espera que el PBI crezca apenas 1,5% en 2026.",
+  "Esta noche, a las 20, Lionel Messi juega su último partido con la Selección ante Benín en el Monumental, tras recibir el doctorado honoris causa de la UBA."
+ ],
+ "cifras": [
+  {
+   "nombre": "Producción de litio argentino (interanual)",
+   "valor": "+62%",
+   "fuente": "CL-12"
+  },
+  {
+   "nombre": "Depósitos privados en dólares (mensual)",
+   "valor": "+US$ 1.000 millones",
+   "fuente": "CL-17"
+  },
+  {
+   "nombre": "Reservas brutas del BCRA",
+   "valor": "US$ 49.123 millones",
+   "variacion": "+US$ 326 millones",
+   "fuente": "AM-05"
+  },
+  {
+   "nombre": "PBI 2026 (REM, estimación privada)",
+   "valor": "+1,5%",
+   "fuente": "AM-02"
+  },
+  {
+   "nombre": "Superávit comercial energético (enero-agosto)",
+   "valor": "US$ 7.834 millones",
+   "fuente": "CR-17"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-24",
+     "titulo": "ruidos en el Gobierno por las advertencias de un economista invitado a la reunión a la que faltó Caputo",
+     "resumen": "El ministro de Economía, Luis Caputo, faltó a la reunión de Gabinete de este martes porque, según explicó, se sintió mal, aunque participó de otro encuentro por la noche. El economista invitado a la reunión a la que no asistió advirtió sobre un posible descalce financiero, el costo del crédito y las dudas del mercado sobre la continuidad del esquema económico ante la reelección. A los cuestionamientos técnicos se suman, según Clarín, ruidos políticos dentro de La Libertad Avanza.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/descalce-credito-caro-dudas-reeleccion-advertencias-economista-milei-invito-reunion-falto-caputo_0_vEMPx9uaMc.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/lP0Z9HQ5W_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Descalce\", \"crédito caro\" y dudas por la reelección: las advertencias del economista que Milei invitó a la reunión a la que faltó Caputo"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "los piqueteros protestaron contra Pettovello y los jueces de la Corte",
+     "resumen": "Organizaciones nucleadas en el Frente de Lucha Piquetero se manifestaron frente a la antigua sede del Ministerio de Desarrollo Social en reclamo por el corte del plan Volver al Trabajo, de 78.000 pesos mensuales, que el Gobierno reemplazó por vouchers de capacitación. Calificaron de \"cipayos\" a los jueces de la Corte Suprema Horacio Rosatti, Carlos Rosenkrantz y Ricardo Lorenzetti por el fallo que dejó vigente la derogación de la ley de tierras, y anunciaron que presentarán un reclamo en Tribunales.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/los-piqueteros-protestaron-contra-pettovello-y-los-jueces-de-la-corte-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZGAL2KL72BGT5KYPFWKVALNLHE.JPG?auth=a1de12385302fc4e5167333862be9ce5521b0254a6a323567f167ea65f9463e3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:15",
+     "autor": "Javier Fuego Simondet",
+     "titulo_original": "Los piqueteros protestaron contra Pettovello y los jueces de la Corte"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "la Iglesia volvió a expresar preocupación por la eliminación de límites a la venta de tierras a extranjeros",
+     "resumen": "La Comisión Episcopal de Pastoral Social reclamó \"velar por la defensa del territorio\" después de que la Corte Suprema restituyera la vigencia del artículo 154 del decreto 70 de 2023, que habilita la liberalización de la venta de tierras rurales a extranjeros. El reclamo eclesiástico se suma a la tensión previa a la visita del papa León XIV a la Argentina.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Antes de la llegada de León XIV, la Iglesia renovó su reclamo contra la venta de tierras a extranjeros",
+       "url": "https://www.cronista.com/economia-politica/antes-de-la-llegada-de-leon-xiv-la-iglesia-renovo-su-reclamo-contra-la-venta-de-tierras-a-extranjeros/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/la-iglesia-expreso-su-preocupacion-por-la-eliminacion-de-los-limites-a-la-venta-de-tierras-a-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NDY2IYOM7JG57DX7OXQZL77MUA.jpeg?auth=f9fa203fd2f81bde2ca4839afa7587728b818b58e063472ac2c01bcb70106384&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:14",
+     "autor": "",
+     "titulo_original": "La Iglesia expresó su preocupación por la eliminación de los límites a la venta de tierras a extranjeros"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "la Justicia declaró inconstitucional el decreto que frenó la Ley de Financiamiento Universitario",
+     "resumen": "El juez federal Martín Cormick hizo lugar al amparo presentado por el Consejo Interuniversitario Nacional, la UBA y otras universidades, y ordenó al Poder Ejecutivo el cumplimiento inmediato de la Ley de Financiamiento Universitario, que el Congreso había ratificado tras rechazar el veto presidencial. El Gobierno adelantó que apelará el fallo y evalúa otros mecanismos legales para no afrontar de inmediato el gasto que implica la norma. Los rectores de las universidades nacionales llevarán su reunión mensual a Plaza de Mayo este miércoles para reclamar su cumplimiento.",
+     "relacionadas": [
+      {
+       "id": "LN-25",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Declaran inconstitucional el decreto con el que el Gobierno frenó la Ley de Financiamiento Universitario",
+       "url": "https://www.lanacion.com.ar/sociedad/fallo-de-primera-instancia-declaran-inconstitucional-el-decreto-con-el-que-el-gobierno-freno-el-nid06102026/"
+      },
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno apelará fallo que lo obliga a aplicar la Ley de Financiamiento Universitaria",
+       "url": "https://www.iprofesional.com/legales/466036-gobierno-quiere-apelar-fallo-que-lo-obliga-a-aplicar-financiamiento-universitario"
+      },
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno apelará el fallo de la Justicia para no acatar la Ley de Financiamiento Universitario",
+       "url": "https://www.infobae.com/politica/2026/10/06/el-gobierno-apelara-el-fallo-de-la-justicia-para-no-acatar-la-ley-de-financiamiento-universitario/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-justicia-ordeno-cumplir-la-ley-de-financiamiento-universitario-y-dejo-una-fuerte-advertencia-al-gobierno/",
+     "imagen": "https://www.cronista.com/resizer/v2/3NVGARSNHRDINM3LV5HY3MIOPI.png?auth=3e09530a0f5ccbc56cf8773a3d93cb8a1550f355aeaede8a8859588f88f30d7e&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:28",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "La Justicia ordenó cumplir la ley de financiamiento universitario y dejó una fuerte advertencia al Gobierno"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "renunció el superintendente de Servicios de Salud, Claudio Stivelman",
+     "resumen": "Stivelman dejó el cargo que ocupaba desde hace poco más de un año al frente del organismo que regula a las prepagas y a las obras sociales; desde el organismo señalaron que \"cumplió una etapa\". Lo reemplazará Horacio Guevara, que se desempeñaba como gerente general de la Superintendencia.",
+     "relacionadas": [
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Renunció el superintendente de Servicios de Salud y el Gobierno ya tiene a su reemplazante",
+       "url": "https://www.ambito.com/politica/renuncio-el-superintendente-servicios-salud-y-el-gobierno-ya-tiene-su-reemplazante-n6330817"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/renuncio-superintendente-servicios-salud-claudio-stivelman-ano-nombramiento_0_FIHN9mi8hK.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/TtH7y9YNZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Renunció el superintendente de Servicios de Salud, Claudio Stivelman, a poco más de un año de su nombramiento"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IP-12",
+     "titulo": "el riesgo país cayó por debajo de los 575 puntos y las acciones argentinas extendieron las subas",
+     "resumen": "El indicador que mide JP Morgan perforó la barrera de los 575 puntos este martes, impulsado por el buen desempeño de la deuda local y la reacción positiva de los mercados externos tras el triunfo de Flávio Bolsonaro en Brasil. Los bonos globales extendieron el rebote, con subas lideradas por el tramo largo de la curva, y las acciones argentinas prolongaron su recuperación. Para una empresa: un riesgo país más bajo reduce, al menos en el margen, el costo de financiarse en dólares.",
+     "relacionadas": [
+      {
+       "id": "CR-02",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Subieron los bonos y cayó el riesgo país por el efecto Brasil y las tasas en EE.UU.",
+       "url": "https://www.cronista.com/finanzas-mercados/vuelven-a-subir-los-bonos-y-modera-el-ajuste-las-razones-de-la-recuperacion-de-la-deuda/"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los bonos en dólares extendieron su rebote y el riesgo país cayó por debajo de los 580 puntos",
+       "url": "https://www.ambito.com/finanzas/los-bonos-dolares-extienden-las-subas-el-envion-las-elecciones-brasil-n6330488"
+      },
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país cedió 12,5% en dos ruedas por el efecto Brasil, pero advierten que sigue desacoplado del resto de LATAM",
+       "url": "https://www.ambito.com/el-riesgo-pais-cedio-125-dos-ruedas-el-efecto-brasil-pero-advierten-que-sigue-desacoplado-del-resto-latam-n6330712"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/466019-el-riesgo-pais-cayo-80-puntos-desde-el-maximo-de-octubre-y-llego-a-575",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584815.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:20",
+     "autor": "",
+     "titulo_original": "El riesgo país cayó por debajo de los 575 puntos y las acciones argentinas extienden subas"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "salto récord de los depósitos en dólares: subieron más de US$ 1.000 millones en un mes",
+     "resumen": "El stock de divisas depositadas en los bancos se incrementó con fuerza en septiembre y tuvo la suba más importante desde enero. A diferencia de los préstamos en pesos, que siguen en caída, el crédito en dólares volvió a crecer, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/salto-record-depositos-dolares-aumentaron-us-1000-millones-mes_0_kbcS21z7K8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/bpipl-tsP_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Salto récord de los depósitos en dólares: aumentaron más de US$ 1.000 millones en un mes"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "las reservas del BCRA tocaron un máximo de dos semanas, por encima de los US$ 49.000 millones",
+     "resumen": "El stock bruto de reservas subió US$ 326 millones y cerró en US$ 49.123 millones, mientras el Banco Central compró US$ 41 millones en el mercado oficial. El dólar mayorista quedó estable por tercera rueda consecutiva y los futuros volvieron a operar a la baja.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/las-reservas-del-bcra-tocaron-un-maximo-dos-semanas-y-volvieron-superar-los-us49000-millones-n6330816",
+     "imagen": "https://media.ambito.com/p/e32e14031d54552357ffa043b614b349/adjuntos/239/imagenes/043/659/0043659016/banco-central-bcra.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:47",
+     "autor": "",
+     "titulo_original": "Las reservas del BCRA tocaron un máximo de dos semanas y volvieron a superar los u$s49.000 millones"
+    },
+    {
+     "id": "AM-02",
+     "titulo": "para el mercado la economía ya entró en recesión y ahora prevé que el PBI crecerá solo 1,5% en 2026",
+     "resumen": "El Relevamiento de Expectativas de Mercado que elabora el Banco Central recortó la proyección de crecimiento del producto bruto para este año. Para una empresa: una expectativa de actividad más floja condiciona la demanda interna y obliga a ajustar los planes de ventas y de stock.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/rem-septiembre-el-mercado-la-ya-entro-recesion-y-ahora-preve-que-el-pbi-crecera-solo-15-2026-n6330834",
+     "imagen": "https://media.ambito.com/p/7a8036bde9a3039edc48268685cad3ae/adjuntos/239/imagenes/041/409/0041409359/1200x675/smart/fabrica-industria.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:58",
+     "autor": "",
+     "titulo_original": "REM de septiembre: para el mercado la economía ya entró en recesión y ahora prevé que el PBI crecerá solo 1,5% en 2026"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "el Banco Mundial volvió a reducir la proyección de crecimiento para la Argentina",
+     "resumen": "Es la segunda vez en el año que el organismo baja su expectativa: ahora prevé que el país crecería a un ritmo similar al promedio de la región, con una expansión de 3% en 2027 y 3,5% en 2028.",
+     "relacionadas": [
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Banco Mundial recortó más de un punto el crecimiento de Argentina",
+       "url": "https://www.cronista.com/economia-politica/el-banco-mundial-recorto-mas-de-un-punto-el-crecimiento-de-argentina/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/banco-mundial-volvio-reducir-proyeccion-crecimiento-argentina-mitad-previsto-enero_0_UNZ2wHWNeQ.html",
+     "imagen": "https://www.clarin.com/img/2025/03/30/_dUGEjF7m_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Banco Mundial volvió a reducir la proyección de crecimiento para la Argentina, a la mitad de lo previsto en enero"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "el dólar siguió estable, pero mejoró la competitividad cambiaria por la suba del real brasileño",
+     "resumen": "El dólar mayorista cerró a 1.520 pesos por tercer día consecutivo y el minorista siguió a 1.540 pesos en el Banco Nación. En Brasil, el dólar cayó a 4,98 reales, un piso en cinco meses, lo que mejoró un punto el índice de tipo de cambio real multilateral que mide el Banco Central, hasta la zona de los 86 puntos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/06/el-dolar-siguio-estable-pero-mejoro-la-competitividad-cambiaria-por-la-suba-del-real-brasileno/",
+     "imagen": "https://www.infobae.com/resizer/v2/RNCHO6FM5JH6PKMZSRAWLMDTII.JPG?auth=991e90a58110d6190048f7411db350dd8573a5b3f697c77bb38ec7a45dd818af&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:26",
+     "autor": "Juan Gasalla",
+     "titulo_original": "El dólar siguió estable, pero mejoró la competitividad cambiaria por la suba del real brasileño"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "el litio argentino puede superar a Chile: 8 de cada 10 exportaciones ya van a China",
+     "resumen": "La producción de litio creció 62% en el último año y podría multiplicarse casi por cinco hacia 2035, aunque ese salto requeriría inversiones por US$ 12.700 millones hasta 2030. China concentró el 81,1% de las exportaciones argentinas de litio en 2025.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/salto-litio-argentino-puede-superar-chile-8-10-exportaciones-van-china_0_uFUoyL8rzZ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/OFkRwhjtr_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El salto del litio argentino: puede superar a Chile y 8 de cada 10 exportaciones ya van a China"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "venció el salvataje de la Algodonera Avellaneda, la ex Vicentin, y la empresa se encamina a la quiebra",
+     "resumen": "El plazo que había habilitado la Justicia para que la empresa, sus acreedores o inversores presentaran una oferta por la textil de la familia Vicentin venció el lunes sin propuestas. La compañía no había logrado reunir las mayorías necesarias para homologar su acuerdo concursal, por lo que ahora resta que la Justicia decrete la quiebra y comience el proceso de liquidación de sus activos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/vencio-el-salvataje-de-la-joya-algodonera-de-vicentin-la-razon-del-rescate-cero-y-su-inminente-quiebra/",
+     "imagen": "https://www.cronista.com/resizer/v2/ON44ALIFENBANBMWE4VMOQ66LA.jpg?auth=fd9075fd8a2884ec77ad15383d519d18f6810d5598a023ce9c3a7e42d67a30c2&smart=true&width=900&height=483",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:28",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Venció el salvataje de la “joya” algodonera de Vicentin: la razón del rescate cero y su inminente quiebra"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "el grupo biotecnológico de un exdiputado del PRO compró una empresa de suplementos para expandirse en la región",
+     "resumen": "Terraflos, la compañía fundada por el exdiputado Facundo Garretón, acordó la compra de Kromberg Fine Chemicals, una firma argentina dedicada a suplementos nutricionales e ingredientes para las industrias alimenticia, farmacéutica y cosmética. Kromberg continuará operando con su identidad y su equipo, e integrará su área productiva de 1.500 metros cuadrados en Escobar al grupo de compañías de Terraflos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-grupo-biotech-de-un-exdiputado-del-pro-compro-una-empresa-de-suplementos-y-suma-capacidad-para-expandirse-en-la-region/",
+     "imagen": "https://www.cronista.com/resizer/v2/R6CIOOBFIVERRDPWXAFHEPD3HY.jpeg?auth=0f754a67f9c2cbbde3a92a08220b88510913f87f6bcc9f35565341d01df76fe1&smart=true&width=819&height=1080",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:05",
+     "autor": "Equipo Negocios",
+     "titulo_original": "El grupo biotech de un exdiputado del PRO compró una empresa de suplementos para expandirse en la región"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Vaca Muerta prepara el salto exportador",
+     "resumen": "Entre enero y agosto, la Argentina acumuló un superávit comercial energético de US$ 7.834 millones, y el debate en el sector ya no pasa por cuánto puede producir la formación neuquina sino por cuánta de esa producción puede efectivamente llegar a los mercados internacionales. Para una empresa: una mayor capacidad exportadora de energía también mejora, con el tiempo, la disponibilidad y el costo de la energía para la industria local.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/vaca-muerta-prepara-el-salto-exportador/",
+     "imagen": "https://www.cronista.com/resizer/v2/K24KY4OBN5BWBLZGJCZGNBYCSI.jpg?auth=aae2caf6caa409358fb68a91efbc9ab8506e494aab246cae6971fb3e85d4b5ad&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:44",
+     "autor": "Omar Díaz",
+     "titulo_original": "Vaca Muerta prepara el salto exportador"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "una empresa centenaria de baterías entró en concurso tras cerrar una fábrica y despedir a 100 empleados",
+     "resumen": "La compañía, que abastece a automotrices, dejó unos $ 5.000 millones en indemnizaciones impagas y acumula deudas millonarias, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/una-empresa-centenaria-entro-concurso-cerrar-una-fabrica-y-despedir-100-empleados-n6330717",
+     "imagen": "https://media.ambito.com/p/46d3a71bbac98503ea7aabf1f12e5421/adjuntos/239/imagenes/043/687/0043687381/1200x675/smart/fabrica-de-baterias-lebensohn.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:38",
+     "autor": "",
+     "titulo_original": "Una empresa centenaria entró en concurso tras cerrar una fábrica y despedir a 100 empleados"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "el 54% del talento argentino del oil & gas que trabaja afuera volvería por Vaca Muerta, pero el 65% pide cobrar en dólares",
+     "resumen": "Según un relevamiento de la consultora Numan entre 1.200 profesionales argentinos de la energía que trabajan en el exterior, más de la mitad considera probable o muy probable regresar al país en los próximos tres años por el boom de Vaca Muerta. Sin embargo, el 65% condicionó un eventual regreso a que parte o la totalidad de su remuneración esté dolarizada o vinculada a una moneda dura.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-54-del-talento-del-oil-gas-que-trabaja-afuera-volveria-por-vaca-muerta-y-el-65-lo-condiciona-a-cobrar-en-dolares/",
+     "imagen": "https://www.cronista.com/resizer/v2/VPUVA5UN6RGGPPVXW5CHAGAAVE.jpg?auth=a3de93c5c2a020598d65a4f2d5cfab95c4311cb337f7548bfc214046e03f7429&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:00",
+     "autor": "Ricardo Quesada",
+     "titulo_original": "El 54% del talento del oil & gas que trabaja afuera volvería por Vaca Muerta pero el 65% lo condiciona a cobrar en dólares"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "LN-26",
+     "titulo": "a contrarreloj: Inocencia Fiscal II sigue sin publicarse y los contadores esperan otra prórroga de Ganancias",
+     "resumen": "Pese a que el Congreso sancionó la ley el 17 de septiembre, el Gobierno todavía no la promulgó ni la publicó en el Boletín Oficial, por lo que tampoco comenzó la reglamentación de ARCA que pondría en marcha sus cambios. Quedan apenas tres días hábiles para que venza el plazo de presentación de las declaraciones juradas de Ganancias, y los contadores esperan que el organismo recaudador anuncie una nueva prórroga.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/a-contrarreloj-inocencia-fiscal-ii-sigue-sin-publicarse-y-los-contadores-esperan-otra-prorroga-de-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Z4YIZFDIRBFK7IQE2R5XD5BZOE.jpeg?auth=7b74197974005534095c47fc18fdd9e3c3a74898011f342b61701dabbc54c5b1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:45",
+     "autor": "Melisa Reinhold",
+     "titulo_original": "A contrarreloj: Inocencia Fiscal II sigue sin publicarse y los contadores esperan otra prórroga de Ganancias"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "ARCA cambió la forma de facturar de los monotributistas sociales, que deberán adaptarse desde noviembre",
+     "resumen": "Mediante la Resolución General 5893/2026, ARCA dispuso que los monotributistas sociales y los del Régimen de Inclusión Social y Promoción del Trabajo Independiente deberán emitir comprobantes electrónicos o usar controlador fiscal a partir del 1° de noviembre de 2026, dejando atrás la factura impresa. El cronograma prevé dos fechas distintas según el tipo de contribuyente alcanzado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/atencion-monotributistas-arca-cambio-la-forma-de-facturar-y-a-partir-de-esta-fecha-sera-obligatorio-que-este-grupo-se-adapte/",
+     "imagen": "https://www.cronista.com/resizer/v2/HUHIM32TQJD2TBYVEE2Y6PKUKA.jpg?auth=4dbe2fecd95227b8442b9dfe933c32d716fbf92676ac3d9d37069ecc062897a8&smart=true&width=800&height=554",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:30",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Atención monotributistas: ARCA cambió la forma de facturar y a partir de esta fecha será obligatorio que este grupo se adapte"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Entre Ríos avanza con una reforma laboral para reducir la litigiosidad",
+     "resumen": "El gobernador Rogelio Frigerio envió un proyecto para modificar el Código Procesal Laboral provincial, con cuatro cambios centrales que incluyen la creación de un Cuerpo Especializado de Profesionales Médicos dependiente del Poder Judicial, seleccionados por concurso público. El objetivo es ordenar el sistema de pericias médicas y dar mayor previsibilidad a trabajadores, empresas y aseguradoras.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/06/el-gobierno-de-entre-rios-avanza-con-una-reforma-laboral-para-terminar-con-la-industria-del-juicio-en-la-provincia/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZDFVJ55W4RDHNIQ3R5KFUEZ4IQ.jpeg?auth=8f31cf0844770313f73e855c6ef5e64fe635407f22cba9664d1eff248805ecdd&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:34",
+     "autor": "",
+     "titulo_original": "El gobierno de Entre Ríos avanza con una reforma laboral para terminar con la industria del juicio en la provincia"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "un celular de empresa puede integrar el salario si no se limita su uso laboral",
+     "resumen": "Un fallo judicial determinó que, si la empresa no logra demostrar que el uso del dispositivo provisto al empleado es exclusivamente laboral, ese celular debe considerarse parte del salario. Para una empresa: conviene revisar las políticas internas de asignación de equipos para evitar reclamos salariales o previsionales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/466002-celular-empresa-cuando-impacta-en-el-calculo-de-la-indemnizacion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625646.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:21",
+     "autor": "",
+     "titulo_original": "Un celular de empresa puede integrar el salario si no se limita su uso laboral"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "créditos hipotecarios: los bancos terminaron pagando menos tasa por los fondos de la ANSES",
+     "resumen": "En la segunda licitación de plazos fijos UVA del Fondo de Garantía de Sustentabilidad destinados a créditos hipotecarios, los bancos cambiaron de postura respecto de lo esperado: colocaron apenas 1,5% de los 200.000 millones de pesos a un año, con una tasa de 2,71%, y volcaron el 98,5% a cinco años a una tasa de 4,94%, inferior a la de la primera licitación de septiembre. Para una empresa: una menor tasa de fondeo para los bancos puede trasladarse, con el tiempo, a mejores condiciones de crédito hipotecario, con impacto en la demanda de materiales de construcción.",
+     "relacionadas": [
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Cuándo conviene tomar un crédito hipotecario UVA: el dato que define la cuenta y no es la inflación",
+       "url": "https://www.cronista.com/negocios/cuando-conviene-tomar-un-credito-uva-el-dato-que-define-la-cuenta-y-no-es-la-inflacion/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/creditos-hipotecarios-los-bancos-sacaron-cuentas-y-pagaran-menos-tasa-por-los-fondos-para-los-prestamos/",
+     "imagen": "https://www.cronista.com/resizer/v2/BREW6CDS3VG4BK3WEX5FYAOGGU.jpg?auth=27a4c118f267d9f5ee99c5564a2362e8a64d5825b7ead7e06a012b2b5d1f6d4c&smart=true&width=800&height=533",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:52",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Créditos hipotecarios: los bancos sacaron cuentas y pagarán menos tasa por los fondos para los préstamos"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "créditos hipotecarios: cuánto hay que ganar para comprar un departamento en octubre",
+     "resumen": "Los ingresos mínimos que exigen los bancos para acceder a una línea hipotecaria varían según la entidad y el plazo del préstamo, aunque no todas las entidades fijan un requisito de ingreso mínimo de entrada, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-cuanto-hay-que-ganar-para-comprar-un-departamento-en-octubre-2026-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MENTE6VNJVCTVNYSDVR2LERKVQ.jpg?auth=46b9083f5df33987a1dc87cc49bacb01f271473077b805b002c31f8300bde574&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios: cuánto hay que ganar para comprar un departamento en octubre 2026"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "calendario de remates de propiedades de octubre",
+     "resumen": "El Banco Ciudad y la Agencia de Administración de Bienes del Estado realizarán durante octubre una ronda de subastas públicas de inmuebles en la ciudad de Buenos Aires y en provincias, con precios base de entre US$ 14.000 y US$ 435.000 en el caso del Banco Ciudad. Los interesados deben inscribirse hasta 48 horas hábiles antes de cada remate y abonar un monto de caución variable.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/calendario-de-remates-de-propiedades-de-octubre-2026-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3FLJHGVTIBH5LNCPUH4LUCMTDA.JPG?auth=1c1e6ba0f115d5470f7dea9701bd623f71d87926b506523e0261378d98b6d431&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Calendario de remates de propiedades de octubre 2026"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Mendoza ofrece refinanciar las deudas de tarjeta de crédito de quienes destinan más del 30% de sus ingresos a pagar cuotas",
+     "resumen": "La Oficina de Conciliación de Reestructuración de Deudas de Consumo mendocina habilitó una instancia gratuita y prejudicial para que los consumidores sobreendeudados negocien con sus acreedores un plan de refinanciación y nuevas condiciones de pago. La medida se estableció mediante la Resolución 384 de la Dirección de Defensa del Consumidor, publicada el 5 de octubre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/deudas-con-tarjeta-de-credito-mendoza-ofrece-refinanciar-a-quienes-destinan-mas-del-30-de-sus-ingresos-a-pagar-cuotas/",
+     "imagen": "https://www.cronista.com/resizer/v2/FWCJN2C64ZFSJGPB2UPVGGJK5Y.jpg?auth=f86097f07d242e929a949d3f6abe8f0e7c5e04c885e2325f99f562081b1ecc6a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:52",
+     "autor": "Florencia Ojeda",
+     "titulo_original": "Deudas con tarjeta de crédito: Mendoza ofrece refinanciar a quienes destinan más del 30% de sus ingresos a pagar cuotas"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "Banco Provincia bajó las tasas para refinanciar deudas y busca aliviar la mora de los clientes",
+     "resumen": "La entidad bonaerense profundizó las condiciones de su programa de refinanciación de deudas de consumo con una nueva baja en las tasas de interés, tanto para clientes con mora temprana como para los que acumulan atrasos más prolongados en créditos personales o tarjetas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/banco-provincia-bajo-las-tasas-para-refinanciar-deudas-y-busca-aliviar-la-mora-de-los-clientes/",
+     "imagen": "https://www.cronista.com/resizer/v2/DFVQN5BBGNBPHGLVV2EVU7TKQA.jpg?auth=49ff7746ccae399fafc3bbb5ee340302a847805bff91f3145ad4a8d3e456c471&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:11",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Banco Provincia bajó las tasas para refinanciar deudas y busca aliviar la mora de los clientes"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-23",
+     "titulo": "las empresas entran en crisis mucho antes de quedarse sin plata",
+     "resumen": "La falta de liquidez suele ser la señal más visible, pero aparece al final de un proceso: antes, una empresa ya muestra un deterioro en sus decisiones, sus costos, su inversión y su gestión, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/466013-las-empresas-entran-en-crisis-mucho-antes-de-quedarse-sin-plata",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625322.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:54",
+     "autor": "",
+     "titulo_original": "Las empresas entran en crisis mucho antes de quedarse sin plata"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "cómo anotarse gratis en Talento Tech: cursos de diseño, e-commerce, tecnologías e inteligencia artificial",
+     "resumen": "La Ciudad de Buenos Aires ofrece una oferta variada de cursos gratuitos para habitantes de todo el AMBA, con modalidades virtuales, presenciales e híbridas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/466029-como-anotarse-gratis-en-talento-tech-cursos-de-diseno-e-commerce-tecnologias-ia-y-mas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627041.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:36",
+     "autor": "",
+     "titulo_original": "Cómo anotarse gratis en Talento Tech: cursos de diseño, e-commerce, tecnologías, IA y más"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "Flávio Bolsonaro suma el apoyo del candidato conservador que obtuvo el 2,18% de los votos en Brasil",
+     "resumen": "El senador del PL concretó una alianza con Ronaldo Caiado, tras haber liderado el primer turno electoral con el 47,03% de los sufragios frente a Luiz Inácio Lula da Silva. Los candidatos que finalizaron en la tercera y la cuarta posición evitaron, por ahora, volcarse por cualquiera de los dos finalistas del balotaje del 25 de octubre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/elecciones-brasil-flavio-bolsonaro-suma-apoyo-candidato-conservador-obtuvo-218-votos_0_OLZColRfkJ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/b-uFQhlha_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:03",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones en Brasil: Flávio Bolsonaro suma el apoyo del candidato conservador que obtuvo el 2,18 % de los votos"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "la Justicia española levantó la orden de detención contra Carles Puigdemont",
+     "resumen": "El Tribunal Constitucional determinó que la amnistía debe abarcar el delito de malversación, lo que llevó al Tribunal Supremo a dejar sin efecto la orden de detención dictada contra el expresidente catalán en 2017. La decisión deja a Puigdemont más cerca de poder regresar a España, casi una década después de haberse instalado en Bélgica, en la antesala de las elecciones del 29 de noviembre.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La Justicia española levanta la orden de detención contra Puigdemont y le abre la puerta a regresar a España",
+       "url": "https://www.lanacion.com.ar/el-mundo/la-justicia-espanola-levanta-la-orden-de-detencion-contra-puigdemont-y-le-abre-la-puerta-a-regresar-nid06102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/levantan-orden-detencion-ex-presidente-catalan-carles-puigdemont-amnistia-formula-resolver-conflicto-solucion_0_eV4j5SX7xq.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/LiT801pOZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Levantan la orden de detención al ex presidente catalán Carles Puigdemont: \"La amnistía es la fórmula para resolver el conflicto, pero no es la solución en sí\""
+    },
+    {
+     "id": "CL-07",
+     "titulo": "se desató una batalla contra petroleros en el mar Negro y Ucrania redobló su alerta por un posible gran ataque ruso",
+     "resumen": "Un buque petrolero con bandera de Liberia fue atacado por drones ucranianos frente a las costas de Sochi, en Rusia. En paralelo, dos buques de carga fueron alcanzados por drones en aguas de Bulgaria: uno se hundió y su tripulación figura como desaparecida. El alcalde de Moscú denunció que Ucrania atacó con más de 600 drones durante la madrugada.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/desata-batalla-petroleros-mar-negro-ucrania-redobla-alerta-super-golpe-rusia_0_aEYdQ6HvrN.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/hrGiAWvIS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:09",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Se desata una batalla contra petroleros en el Mar Negro y Ucrania redobla su alerta por un súper golpe de Rusia"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "detuvieron a un séptimo hombre por la presunta trama contra la base británica de Fairford, que Londres vincula con Irán",
+     "resumen": "La policía antiterrorista británica detuvo en Londres a un hombre de 22 años por sospecha de preparación de actos terroristas, en una investigación vinculada con una base aérea que Estados Unidos usó para bombardear Irán durante la guerra de este año. Estados Unidos retiró sus bombarderos de la instalación y el caso se suma a un aumento sostenido de las investigaciones británicas por amenazas de Estados hostiles.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/06/detenido-un-septimo-hombre-por-la-presunta-trama-contra-la-base-britanica-de-fairford-que-londres-vincula-con-iran/",
+     "imagen": "https://www.infobae.com/resizer/v2/UHYPFCXWLBECVLOZVDZOIEC6YU.JPG?auth=e34c5f8ab9b366cf3cb256af26c2c2386634044eb01797049cf8cb3d38cb974d&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "Detenido un séptimo hombre por la presunta trama contra la base británica de Fairford, que Londres vincula con Irán"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Rubio afirmó que Islandia es un bastión estratégico para Estados Unidos en la disputa por el Ártico",
+     "resumen": "El secretario de Estado estadounidense visitó Reikiavik para reforzar la cooperación en defensa, energía y comercio con Islandia, en un contexto de creciente competencia por el Ártico y de tensiones por las ambiciones de Donald Trump sobre Groenlandia.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/rubio-afirma-que-islandia-es-un-bastion-estrategico-para-estados-unidos-en-plena-disputa-por-el-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/N2JVBUE5SJG5ZPJ3QOYSUV2TRI.jpg?auth=31570ed972aff93d44f8730ba3ff8ce11470e815dc4e77a15f4da50fcc342cb1&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:48",
+     "autor": "",
+     "titulo_original": "Rubio afirma que Islandia es un “bastión estratégico” para Estados Unidos en plena disputa por el Ártico"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "con su nuevo modelo, Mistral sitúa a Francia en el tercer puesto mundial en inteligencia artificial",
+     "resumen": "Mistral presentó el Mistral Large 4, un modelo con un billón de parámetros que la compañía describe como uno de los modelos de peso abierto más avanzados. Le Grand Continent destaca que, con este lanzamiento, Francia se consolida como el tercer país del mundo en potencia de inteligencia artificial, por detrás de Estados Unidos y China, en momentos en que desde Europa se busca reajustar la percepción de atraso frente a esas dos potencias.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/06/mistral-pone-a-francia-en-tercer-lugar-mundial-de-ia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "14:13",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Con su nuevo modelo, Mistral sitúa a Francia en el tercer puesto mundial en materia de inteligencia artificial, por detrás de Estados Unidos y China"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "la despedida de Lionel Messi: así llega la previa del amistoso ante Benín en el Monumental",
+     "resumen": "Esta noche, en el estadio Monumental, Lionel Messi disputa su partido número 208 con la camiseta argentina y el último antes de retirarse de la Selección, en un amistoso ante Benín con shows y homenajes antes y después del encuentro. Enzo Fernández publicó un collage de imágenes junto al capitán, mientras la delegación nacional ya viajaba rumbo al estadio.",
+     "relacionadas": [
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Arrancó la fiesta por la despedida de Messi y la Selección ya viaja rumbo al Monumental",
+       "url": "https://www.iprofesional.com/actualidad/466038-arranco-la-fiesta-por-la-despedida-de-messi-y-la-seleccion-ya-viaja-rumbo-al-monumental"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-lionel-messi-en-vivo-vs-benin-hora-todos-los-invitados-y-el-minuto-a-minuto-del-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C77LHAHDKFBMXGIJQU7ZJ73C5I.jpg?auth=88b3bc0122e53a6d5bb97cd83566fb77d0af2421b4ba54f14fb38e426995d97d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:58",
+     "autor": "",
+     "titulo_original": "La despedida de Lionel Messi EN VIVO vs. Benín: hora, todos los invitados y el minuto a minuto del partido"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "la formación de la Selección argentina para la despedida de Lionel Messi",
+     "resumen": "Lionel Scaloni definió el equipo para la noche de gala frente a Benín, integrado por varios futbolistas que, como Messi, también están viviendo sus últimos partidos con la camiseta albiceleste.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/la-formacion-la-seleccion-argentina-la-despedida-lionel-messi-n6330818",
+     "imagen": "https://media.ambito.com/p/97762d58be0053af7b8f837ade0dd85e/adjuntos/239/imagenes/043/500/0043500121/1200x675/888x261:908x281/messi-fifa-argentina.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:52",
+     "autor": "",
+     "titulo_original": "La formación de la Selección argentina para la despedida de Lionel Messi"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Messi recibió el doctorado Honoris Causa de la UBA antes de su despedida de la Selección",
+     "resumen": "El Consejo Superior de la Universidad de Buenos Aires distinguió al capitán argentino y señaló que \"su trayectoria constituye un ejemplo de excelencia, perseverancia, humildad y ejercicio ético\", horas antes de su último partido con la camiseta nacional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466028-messi-recibio-el-doctorado-honoris-causa-de-la-uba-antes-de-su-despedida-de-la-seleccion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627038.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:55",
+     "autor": "",
+     "titulo_original": "Messi recibió el doctorado Honoris Causa de la UBA antes de su despedida de la Selección"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "el mensaje de despedida de Neymar a Messi: \"gracias por hacerme amar aún más el fútbol\"",
+     "resumen": "El delantero brasileño le dedicó una carta de despedida a su amigo Lionel Messi, acompañada de fotos del momento en que Argentina venció a Brasil en la final de la Copa América 2021, el primer título de Messi con la selección mayor. \"No solo Argentina te agradece, todo el mundo te agradece\", escribió el actual jugador de Santos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/neymar-para-messi-gracias-por-hacerme-amar-aun-mas-el-futbol-fue-un-honor-haber-jugado-contra-ti-y-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RMQ3V4QG3BETJBNCPMT47QBYWY.JPG?auth=c133a4440ead3f5947ddd5ba66cff2f2161d265aa88c95603562e065a4050db7&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:45",
+     "autor": "",
+     "titulo_original": "Neymar para Messi: “Gracias por hacerme amar aún más el fútbol; fue un honor haber jugado contra ti y haber hecho historia a tu lado”"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "los capitanes de las selecciones de rugby le dedicaron sentidos mensajes a Messi por su despedida",
+     "resumen": "Julián Montoya, capitán de Los Pumas, Santiago Mare, de Los Pumas 7's, y Paula Pedrozo, de Las Yaguaretés, destacaron la influencia de Lionel Messi dentro y fuera de las canchas y agradecieron la forma en que representó al país a lo largo de su carrera internacional.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/06/los-sentidos-mensajes-de-los-capitanes-de-las-selecciones-de-rugby-a-messi-en-su-despedida-sos-una-inspiracion/",
+     "imagen": "https://www.infobae.com/resizer/v2/MBHXTVDDCFHLC3OFEYPCOBJPAQ.jpg?auth=a46e1584986beeb38838c72068b29d63546b318f77e3436730b705f8472c62ca&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:01",
+     "autor": "Pablo Deluca",
+     "titulo_original": "Los sentidos mensajes de los capitanes de las selecciones de rugby a Messi por su partido despedida: “Sos una inspiración”"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Nicolás Tagliafico hizo una contundente revelación sobre la final del Mundial entre Argentina y España",
+     "resumen": "El lateral de la Selección consideró que \"la sensación de la final fue muy pobre\" comparada con el resto de los partidos del Mundial 2026, e incluso muy lejos de lo mostrado en la edición de 2022, en una definición que Argentina perdió 1 a 0 en tiempo extra en Nueva Jersey ante España.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/06/la-contundente-revelacion-de-nicolas-tagliafico-sobre-la-final-del-mundial-entre-argentina-y-espana/",
+     "imagen": "https://www.infobae.com/resizer/v2/NZKLKODFC5BBFICIFENTQG5PME.JPG?auth=b59699c115b2b87da1bd6be9e50008816732ba8750b3a86e0a60f80f8e13eefd&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:10",
+     "autor": "",
+     "titulo_original": "La contundente revelación de Nicolás Tagliafico sobre la final del Mundial entre Argentina y España"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "AM-22",
+     "titulo": "feriado del 12 de octubre: cuánto cuesta hospedarse el fin de semana largo en Mar del Plata",
+     "resumen": "De cara al fin de semana largo, Mar del Plata se prepara para recibir turistas y ya se conocen los valores de alojamiento según la zona, con las áreas más buscadas concentrando los precios más altos, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/feriado-del-12-octubre-cuanto-cuesta-hospedarse-el-finde-largo-mar-del-plata-n6330260",
+     "imagen": "https://media.ambito.com/p/9072621b5c1f25226cc70e1d9cf1ea84/adjuntos/239/imagenes/042/959/0042959215/playa-mar-del-plata.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Feriado del 12 de octubre: cuánto cuesta hospedarse el finde largo en Mar del Plata"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "se buscan voluntarios para vivir en Merlo, San Luis, a cambio de 25 horas de colaboración semanales",
+     "resumen": "Un hostel de Merlo, uno de los destinos más elegidos de San Luis por sus paisajes y propuestas al aire libre, publicó en la plataforma Worldpackers una búsqueda de voluntarios a los que ofrece alojamiento a cambio de cinco turnos semanales de cinco horas cada uno, con tareas que incluyen la atención en recepción.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/se-buscan-voluntarios-para-vivir-en-merlo-san-luis-ofrecen-alojamiento-a-cambio-de-colaborar-25-horas-semanales/",
+     "imagen": "https://www.cronista.com/resizer/v2/6HTFIFAM25HP7LGDJMZ6GHJTWE.jpg?auth=b533423f9352c4335ca4d7d88f8b181edb24f3f5331497ccfa8673f841bdcd5a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:16",
+     "autor": "María Laura Ruberto",
+     "titulo_original": "Se buscan voluntarios para vivir en Merlo, San Luis: ofrecen alojamiento a cambio de colaborar 25 horas semanales"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "por qué en diez años la Argentina no logró bajar las muertes por infarto en los hospitales",
+     "resumen": "Entre 2015 y 2024, el 8,6% de los pacientes con el tipo más grave de infarto murió durante la internación, un porcentaje que los cardiólogos consideran un \"verdadero fracaso\". Los especialistas señalan al tiempo de reacción y al acceso a la información como factores clave para revertir la tendencia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/10-anos-argentina-pudo-bajar-muertes-infarto-hospitales_0_fPX9O76esj.html",
+     "imagen": "https://www.clarin.com/img/2026/05/04/p5wtZ89Np_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Por qué en 10 años Argentina no pudo bajar las muertes por infarto en los hospitales"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "piden agravar la denuncia contra el vecino de Nordelta que disparó contra carpinchos",
+     "resumen": "La Defensoría bonaerense solicitó que se le impute al acusado un delito con penas de cárcel, tras el allanamiento realizado en su vivienda. El hombre, identificado como Sebastián Favre, fue comandante de Aerolíneas Argentinas hasta 2022 y está investigado por la Justicia Federal de Campana por otra causa vinculada con un avión estrellado en Uruguay.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Quién es Sebastián Favre, el vecino de Nordelta que disparó a carpinchos: ex piloto de Aerolíneas y una causa por un avión estrellado",
+       "url": "https://www.clarin.com/sociedad/sebastian-favre-vecino-nordelta-disparo-carpinchos-ex-piloto-aerolineas-causa-avion-estrellado_0_LG4eeSvyYd.html"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/piden-agravar-denuncia-vecino-nordelta-disparo-carpincho_0_GnX1IBEXPv.html",
+     "imagen": "https://www.clarin.com/img/2026/10/05/D2vUuWkrl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Piden agravar la denuncia contra el vecino de Nordelta que disparó contra los carpincho"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "el Cuerpo Médico Forense determinó que \"Pity\" Álvarez está en condiciones de continuar el juicio por homicidio",
+     "resumen": "Los peritos oficiales concluyeron, tras una evaluación interdisciplinaria, que el músico no presenta una alteración mental que le impida seguir sometido al proceso por el homicidio de Cristian Maximiliano Díaz. Los peritos de la defensa firmaron el informe en disconformidad total, y el debate se reanuda el viernes 9 de octubre a las 11.30.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/06/el-cuerpo-medico-forense-determino-que-pity-alvarez-esta-en-condiciones-de-continuar-con-el-juicio-por-homicidio/",
+     "imagen": "https://www.infobae.com/resizer/v2/62YXF47SHVD4NFIUDL2RX4OOQI.jpg?auth=2dab1649ac5e466472c717b791f1bc12652025dd0231954dede347803377b42f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:51",
+     "autor": "Florencia Illbele, Martín Candalaft",
+     "titulo_original": "El Cuerpo Médico Forense determinó que “Pity” Álvarez está en condiciones de continuar con el juicio por homicidio"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del martes seis de octubre. El panorama de la jornada estuvo marcado por la caída del riesgo país, que perforó los quinientos setenta y cinco puntos, por la expansión del litio argentino, que ya concentra ocho de cada diez exportaciones hacia China, y por un nuevo revés judicial para el Gobierno, al que la Justicia le ordenó cumplir la ley de financiamiento universitario. Además, esta noche el país se despide de Lionel Messi en su último partido con la Selección, un amistoso ante Benín en el estadio Monumental. Antes de entrar en cada tema, un repaso de las cifras del día. El dólar oficial cerró estable en mil quinientos cuarenta pesos para la venta y el dólar blue en mil quinientos cincuenta pesos. El oro cotiza en cuatro mil ciento noventa y tres dólares la onza. Las reservas brutas del Banco Central treparon a cuarenta y nueve mil ciento veintitrés millones de dólares, un máximo de dos semanas. Y la producción de litio argentino creció sesenta y dos por ciento en el último año. En política, el ministro de Economía, Luis Caputo, faltó a la reunión de Gabinete porque se sintió mal, aunque por la noche participó de otro encuentro. El economista invitado a esa reunión advirtió sobre un posible descalce financiero, el costo del crédito y las dudas del mercado sobre la continuidad del esquema económico, en medio de ruidos políticos dentro de La Libertad Avanza. Organizaciones piqueteras protestaron frente a la antigua sede del Ministerio de Desarrollo Social contra el corte del plan Volver al Trabajo y calificaron de cipayos a los jueces de la Corte Suprema por el fallo que dejó vigente la derogación de la ley de tierras. La Comisión Episcopal de Pastoral Social, por su parte, volvió a reclamar que se vele por la defensa del territorio ante esa misma liberalización. En otro frente judicial, un juez federal declaró inconstitucional el decreto con el que el Gobierno había frenado la ley de financiamiento universitario y le ordenó al Ejecutivo cumplirla de inmediato; el Gobierno adelantó que apelará, mientras los rectores de las universidades nacionales llevarán su reclamo a Plaza de Mayo este miércoles. Y renunció Claudio Stivelman, superintendente de Servicios de Salud, reemplazado por Horacio Guevara. En economía y mercados, el riesgo país volvió a caer con fuerza, hasta perforar los quinientos setenta y cinco puntos, impulsado por el buen momento de los bonos argentinos y el efecto del triunfo electoral de Flavio Bolsonaro en Brasil. Los depósitos en dólares de los bancos tuvieron su mayor suba mensual desde enero, con un incremento de más de mil millones de dólares, mientras el crédito en pesos sigue cayendo. El mercado privado, según el último relevamiento del Banco Central, ya considera que la economía entró en recesión y proyecta que el producto bruto crecerá apenas uno coma cinco por ciento este año. El Banco Mundial, en la misma línea, volvió a recortar su proyección de crecimiento para la Argentina, que ahora ubica en línea con el promedio regional. Y el dólar mayorista se mantuvo estable, aunque la apreciación del real brasileño mejoró la competitividad cambiaria argentina. En negocios y empresas, el litio sigue siendo la gran noticia exportadora: la producción creció sesenta y dos por ciento en el último año y podría multiplicarse casi por cinco hacia dos mil treinta y cinco, aunque ese salto exigiría inversiones por doce mil setecientos millones de dólares. China ya compra ocho de cada diez dólares de litio que exporta la Argentina. Del otro lado del mostrador, la Algodonera Avellaneda, la ex Vicentin, se encamina a la quiebra después de que venciera sin ofertas el plazo para rescatarla. Una empresa centenaria de baterías, que abastece a automotrices, entró en concurso tras cerrar una fábrica y despedir a cien empleados, con cinco mil millones de pesos en indemnizaciones impagas. El grupo biotecnológico de un exdiputado del PRO compró una empresa argentina de suplementos para seguir creciendo en la región. Y Vaca Muerta sigue de festejo: entre enero y agosto la Argentina acumuló un superávit comercial energético de siete mil ochocientos treinta y cuatro millones de dólares, aunque un relevamiento mostró que más de la mitad de los profesionales argentinos de la energía que trabajan en el exterior condiciona su regreso a cobrar en dólares. En impuestos, laboral y normativa, la ley de Inocencia Fiscal dos sigue sin promulgarse pese a que el Congreso la aprobó hace casi tres semanas, y los contadores ya esperan una nueva prórroga para las declaraciones juradas de Ganancias, que vencen en apenas tres días hábiles. La agencia de recaudación ARCA dispuso que los monotributistas sociales deberán facturar electrónicamente o usar controlador fiscal a partir del primero de noviembre. En Entre Ríos, el gobernador Rogelio Frigerio envió una reforma laboral para reducir la litigiosidad y ordenar las pericias médicas. Y un fallo judicial determinó que el celular que una empresa le da a un empleado puede integrar su salario si no se demuestra que el uso es exclusivamente laboral. En consumo, construcción y retail, los bancos terminaron pagando una tasa más baja de lo esperado por los fondos de la ANSES destinados a créditos hipotecarios, lo que a mediano plazo podría mejorar las condiciones para quienes buscan financiar una vivienda. Los ingresos mínimos que piden los bancos para acceder a un crédito hipotecario varían según la entidad, y durante octubre el Banco Ciudad y el Estado nacional realizarán una ronda de remates de propiedades en todo el país. En Mendoza y en el Banco Provincia bajaron las tasas para que las familias endeudadas con tarjetas de crédito puedan refinanciar sus deudas. En management y finanzas corporativas, una nota de iProfesional advierte que las empresas entran en crisis mucho antes de quedarse sin plata: la falta de liquidez es apenas la señal más visible de un deterioro que empieza antes, en las decisiones, los costos y la gestión. Y la Ciudad de Buenos Aires ofrece cursos gratuitos de diseño, comercio electrónico, tecnología e inteligencia artificial a través del programa Talento Tech. En el mundo, Flavio Bolsonaro sumó el respaldo del candidato conservador Ronaldo Caiado de cara al balotaje del veinticinco de octubre frente a Lula da Silva. En España, la Justicia levantó la orden de detención contra el expresidente catalán Carles Puigdemont, que queda más cerca de poder regresar al país después de casi una década en Bélgica. En el mar Negro, un petrolero fue atacado por drones frente a Rusia y otros dos buques de carga sufrieron ataques frente a Bulgaria, con un barco hundido y su tripulación desaparecida. En Londres, la policía detuvo a un séptimo sospechoso por una trama que Reino Unido vincula con Irán contra una base aérea usada para bombardear ese país. Y el secretario de Estado norteamericano, Marco Rubio, calificó a Islandia de bastión estratégico en la disputa por el Ártico. Le Grand Continent analiza el lanzamiento del nuevo modelo de inteligencia artificial de la francesa Mistral, que según la revista ubica a Francia en el tercer puesto mundial en esta tecnología, por detrás de Estados Unidos y China. En deportes, todo gira alrededor de la despedida de Lionel Messi: esta noche, a las ocho de la noche, juega su último partido con la Selección argentina, un amistoso ante Benín en el estadio Monumental, después de recibir horas antes el doctorado honoris causa de la Universidad de Buenos Aires. Hubo mensajes de despedida de rivales y compañeros, entre ellos uno muy emotivo de Neymar, y los capitanes de las selecciones argentinas de rugby también le dedicaron palabras de agradecimiento. Por fuera de la despedida, el defensor Nicolás Tagliafico hizo una fuerte autocrítica sobre el nivel de la Selección en la final del Mundial dos mil veintiséis, que Argentina perdió ante España. Para cerrar, un dato de turismo: de cara al fin de semana largo del doce de octubre, Mar del Plata ya tiene sus precios de alojamiento para quienes busquen escaparse, y en San Luis un hostel de Merlo busca voluntarios a los que les ofrece alojamiento a cambio de colaborar unas horas por semana. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "slug": "2026-10-06-tarde",
+ "generado_ba": "06/10/2026 21:19"
+}
