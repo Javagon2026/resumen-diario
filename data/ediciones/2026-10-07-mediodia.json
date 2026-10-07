@@ -1,0 +1,826 @@
+{
+ "fecha": "2026-10-07",
+ "edicion": "mediodia",
+ "titulo": "Scaloni confirma continuidad, Europa se incendia de protestas y ARCA mueve el tablero impositivo",
+ "apertura": "Pasado el mediodía, la noticia deportiva pasa a Scaloni, que confirmó que sigue al frente de la Selección sin Messi. En el plano político, el Gobierno busca bajar la tensión por Malvinas en Diputados mientras la Justicia avanza en distintos frentes ligados a la Ley de Tierras y al DNU 70/23. En lo impositivo, ARCA actualizó el monotributo y reglamentó nuevos aportes, y en Europa España y Francia atraviesan una ola de protestas sociales.",
+ "claves": [
+  "Lionel Scaloni confirmó que seguirá como entrenador de la Selección argentina tras la despedida de Messi y se emocionó al hablar del capitán.",
+  "El Gobierno pidió en Diputados \"deponer las armas\" en el debate por Malvinas, mientras la Justicia ordenó preservar los registros de tierras rurales bonaerenses y la Corte convocó conjueces por el DNU 70/23.",
+  "ARCA actualizó el tope de facturación del monotributo a más de 126 millones de pesos (suba del 16,8%) y reglamentó aportes del FAL del 2,5% para pymes y 1% para grandes empresas.",
+  "Los préstamos al consumo acumulan 13 meses consecutivos de baja y el 54% de los argentinos dijo haberse atrasado o dejado de pagar algún compromiso.",
+  "España vivirá su primera huelga general en 14 años por la crisis de la vivienda, mientras en Francia las protestas estudiantiles ya dejan más de 1.000 heridos y casi 500 detenidos.",
+  "Santa Fe desdobló su calendario electoral de 2027 y mantuvo las PASO, a contramano de la posición de Milei.",
+  "El riesgo país perforó los 600 puntos pero Citi advirtió que Argentina sigue con un castigo \"desproporcionado\" frente a la región, mientras los bonos vuelven a caer y se diluye el efecto Brasil.",
+  "ARCA actualizó el tope para que las empresas de servicios públicos subsidiadas recuperen saldos de IVA en 27.200 millones de pesos, con el 90% para el sector energético."
+ ],
+ "cifras": [
+  {
+   "nombre": "Tope de facturación del monotributo",
+   "valor": "$ 126 millones",
+   "variacion": "+16,8%",
+   "fuente": "CR-15"
+  },
+  {
+   "nombre": "Préstamos al consumo (variación mensual real)",
+   "valor": "-1,2%",
+   "variacion": "13 meses consecutivos de baja",
+   "fuente": "CR-05"
+  },
+  {
+   "nombre": "Hogares con atrasos o impagos recientes",
+   "valor": "54%",
+   "fuente": "IB-14"
+  },
+  {
+   "nombre": "Tope de devolución de IVA a servicios públicos subsidiados",
+   "valor": "$ 27.200 millones",
+   "fuente": "CR-16"
+  },
+  {
+   "nombre": "Importación de celulares (interanual a agosto)",
+   "valor": "+746,6%",
+   "variacion": "producción electrónica -39,7%",
+   "fuente": "LN-07"
+  },
+  {
+   "nombre": "Cobertura cambiaria privada (stock)",
+   "valor": "US$ 11.663 millones",
+   "variacion": "+US$ 1.600 millones en un mes",
+   "fuente": "CR-19"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-04",
+     "titulo": "Santa Fe desdobló las elecciones de 2027 y ratificó las PASO",
+     "resumen": "El gobernador Maximiliano Pullaro decidió desdoblar el calendario electoral provincial de 2027 y mantener las primarias, a contramano de la postura de Milei de eliminarlas. El mandatario justificó la medida en que un calendario separado evita que el debate local se mezcle con la discusión nacional, lo que generó críticas de la oposición.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/santa-fe-desdoblo-elecciones-2027-contramano-milei-ratifico-paso_0_3cUgXpGWeT.html",
+     "imagen": "https://www.clarin.com/img/2025/09/27/j6o1xlt7T_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Santa Fe desdobló las elecciones de 2027, y a contramano de Milei ratificó las PASO"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "el Gobierno pidió \"deponer las armas\" en el debate por Malvinas en Diputados",
+     "resumen": "La secretaria Legal y Técnica de la Presidencia, María Ibarzabal Murphy, buscó bajar el tono de la discusión parlamentaria sobre la Ley de Defensa de la Soberanía Nacional y llamó a la unidad entre bloques. El pedido se da en paralelo al vencimiento del ultimátum de Milei a las petroleras que operan en las islas, que llevó al Gobierno a pedir medidas cautelares contra el Reino Unido ante un tribunal internacional.",
+     "relacionadas": [
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Malvinas: el Gobierno cumple con su amenaza y pide medidas cautelares contra el Reino Unido ante un tribunal internacional",
+       "url": "https://www.clarin.com/politica/malvinas-gobierno-cumple-amenaza-pide-medidas-cautelares-reino-unido-tribunal-internacional_0_aDPaVzdoXs.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-busca-descomprimir-el-debate-por-malvinas-en-diputados-y-pidio-deponer-las-armas-tras-los-cruces/",
+     "imagen": "https://www.cronista.com/resizer/v2/EJLHAHCUEBBLPOSUGYLQZ4KQHI.jpg?auth=63493e95b379586eb99fc2caa2e377ae6a201a28920dd5feb3c0bfa7c8354fb4&smart=true&width=678&height=452",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:44",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "El Gobierno busca descomprimir el debate por Malvinas en Diputados y pidió “deponer las armas” tras los cruces"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "la Justicia ordenó preservar los registros de tierras rurales bonaerenses",
+     "resumen": "El Juzgado en lo Contencioso Administrativo N° 4 de La Plata, a cargo de la jueza Güendalina Sessarego, hizo lugar parcialmente a una medida cautelar de la Defensoría del Pueblo bonaerense y ordenó al Estado nacional conservar toda la información registral y catastral sobre tierras rurales recopilada durante la vigencia de la derogada Ley de Tierras. La magistrada se declaró incompetente para analizar la constitucionalidad del DNU 70/23 que derogó esa ley.",
+     "relacionadas": [
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Ley de Tierras: la Justicia ordenó preservar los registros bonaerenses",
+       "url": "https://www.ambito.com/politica/ley-tierras-la-justicia-ordeno-preservar-los-registros-bonaerenses-n6331067"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/ley-de-tierras-la-justicia-ordeno-preservar-los-datos-de-las-tierras-rurales-bonaerenses-en-medio-de-la-tension/",
+     "imagen": "https://www.cronista.com/resizer/v2/UD32AV7VDZGEZKNHNVUYTOEA74.jpg?auth=9ca1f2213e8a6cea2063a5b67fd4dea0f4ac28e9dad43390dfbbdead2433026e&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:33",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "Ley de Tierras: la Justicia ordenó preservar los datos de las tierras rurales bonaerenses en medio de la tensión"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "la Corte Suprema convocó a conjueces en medio del operativo oficial contra la sesión opositora",
+     "resumen": "El máximo tribunal citó a conjueces para resolver la legitimidad de una organización ambiental que litiga sobre el artículo que deroga la Ley de Tierras, en un fallo que el Gobierno espera que le dé aire. La Casa Rosada busca evitar a toda costa que la oposición logre tratar el DNU 70/23 en la megasesión convocada para el 15 de octubre, que también incluye la emergencia en discapacidad.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/07/operativo-por-el-dnu-70-una-decision-de-la-corte-le-daria-aire-al-gobierno-para-poder-evitar-la-sesion-opositora/",
+     "imagen": "https://www.infobae.com/resizer/v2/A2ZZU7VSBBHNRP4CMOXEBVXZQY.jpeg?auth=156a048929e4392562f527cf539bc1c4e12a0d756500a3f217bad66e59aa84d5&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:29",
+     "autor": "Julián Alvez",
+     "titulo_original": "Operativo por el DNU 70: una decisión de la Corte le daría aire al Gobierno para poder evitar la sesión opositora"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "el condenado ex juez Walter Bento consiguió un beneficio carcelario para volver los fines de semana a su casa",
+     "resumen": "Bento cumple en Mendoza una pena de 18 años de prisión por corrupción y podrá dejar la cárcel cada viernes para permanecer en su casa de un country hasta el lunes. El beneficio lo autorizó un juez de La Rioja que no estuvo a cargo del caso; la Fiscalía se opuso a la medida y anunció que apelará.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/condenado-ex-juez-walter-bento-consiguio-beneficio-carcelario-volver-fines-semana-casa_0_CBsogJgGPY.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/0sXUdhjNx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El condenado ex juez Walter Bento consiguió un beneficio carcelario para volver los fines de semana a su casa"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Milei rechaza fallos judiciales en su contra mientras el peronismo busca ordenar su interna",
+     "resumen": "Tras lo sucedido con la Ley de Tierras, la Justicia en primera instancia ordenó al Gobierno aplicar de inmediato la Ley de Financiamiento Universitario, otro fallo que el oficialismo cuestiona. En paralelo, crece la discusión sobre los lugares de poder que mantiene La Cámpora dentro del gobierno bonaerense de Axel Kicillof.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/07/milei-recupero-la-confianza-y-rechaza-fallos-judiciales-mientras-el-peronismo-busca-ordenar-su-interna/",
+     "imagen": "https://www.infobae.com/resizer/v2/LSGPP556YRCRNO5XU4VA3W2ZDI.JPG?auth=d8a005522e22ac7022650391bf3c64f6f9e217e00a7734b6e65359568bd30b26&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:36",
+     "autor": "Ramón Indart",
+     "titulo_original": "Milei recuperó la confianza y rechaza fallos judiciales mientras el peronismo busca ordenar su interna"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "el Gobierno creó una comisión para reformar el Código Procesal Civil y Comercial e instaurar la oralidad en los juicios",
+     "resumen": "El Ministerio de Justicia encargó un anteproyecto de reforma integral del código, que data de 1967 y nunca se adecuó por completo al Código Civil y Comercial de 2015. La comisión deberá presentar su propuesta en 60 días.",
+     "relacionadas": [
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Corte Suprema bonaerense acelera su reclamo de autarquía y pide cubrir vacantes",
+       "url": "https://www.ambito.com/ambito-nacional/la-corte-suprema-bonaerense-acelera-su-reclamo-autarquia-y-pide-cubrir-vacantes-n6330959"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/el-gobierno-creo-una-comision-reformar-el-codigo-procesal-civil-y-comercial-e-instaurar-la-oralidad-los-juicios-n6330957",
+     "imagen": "https://media.ambito.com/p/f99654114cf2d1e710328799b6eddf5f/adjuntos/239/imagenes/043/261/0043261768/1200x675/smart/fotos-justicia-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:48",
+     "autor": "",
+     "titulo_original": "El Gobierno creó una comisión para reformar el Código Procesal Civil y Comercial e instaurar la oralidad en los juicios"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "el riesgo país perforó los 600 puntos pero Citi advierte un castigo \"desproporcionado\" para Argentina",
+     "resumen": "El spread soberano volvió a ubicarse por debajo de los 600 puntos básicos, aunque Argentina mantiene el riesgo país más alto de la región según el banco. El informe de Citi plantea que el mercado sigue penalizando a los activos locales más de lo que justifican los fundamentos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/465627-el-citi-dio-las-razones-tras-el-castigo-desproporcionado-al-mercado-argentino",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622945.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:30",
+     "autor": "",
+     "titulo_original": "Riesgo país cae y el Citi advierte que Argentina recibió un castigo \"desproporcionado\""
+    },
+    {
+     "id": "AM-11",
+     "titulo": "los bonos en dólares retoman las bajas y se diluye el efecto Brasil",
+     "resumen": "Tras dos ruedas de fuertes alzas por el resultado electoral brasileño, la deuda soberana argentina volvió a terreno negativo. El tramo corto cae 0,55% en el GD29, mientras que los títulos de mayor duración retroceden con más fuerza: el GD35 pierde 1,16% y el Global 2038 (AE38) retrocede 1,15%, según El Cronista.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Caen los bonos argentinos: suben tasas en EE.UU., crece la aversión al riesgo y suman factores locales",
+       "url": "https://www.cronista.com/finanzas-mercados/caen-los-bonos-argentinos-suben-tasas-en-eeuu-crece-la-aversion-al-riesgo-y-suman-factores-locales/"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/los-bonos-dolares-retoman-las-fuertes-bajas-se-diluye-el-efecto-brasil-n6331046",
+     "imagen": "https://media.ambito.com/p/ffcfb00de5ffb732f78b407e1d8ec84d/adjuntos/239/imagenes/042/765/0042765520/1200x675/smart/bolsa-bonos-valores-acciones-adrs.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:44",
+     "autor": "",
+     "titulo_original": "Los bonos en dólares retoman las fuertes bajas: ¿se diluye el efecto Brasil?"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Morgan Stanley recompuso su cartera de acciones latinoamericanas tras la elección en Brasil",
+     "resumen": "El banco mantiene una posición favorable hacia Argentina en su cartera modelo, aunque recortó la participación de Vista Energy y aumentó la de Mercado Libre. El movimiento responde a una mayor preferencia por Brasil y por compañías que podrían beneficiarse de un cambio de políticas económicas y una flexibilización monetaria más profunda en ese país.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/morgan-stanley-reacomoda-su-cartera-en-america-latina-las-acciones-que-ganan-lugar-y-las-que-salen/",
+     "imagen": "https://www.cronista.com/resizer/v2/LLDGO5DRLJHOVG75UEM2MWUZQE.png?auth=bf8580842a67b20ff028ef3ad52ecac54873630a62bd9c4945409df205211818&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:56",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Morgan Stanley reacomoda su cartera en América Latina: las acciones que ganan lugar y las que salen"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "los préstamos al consumo acumulan 13 meses consecutivos de baja",
+     "resumen": "En septiembre las líneas crediticias vinculadas al consumo volvieron a caer 1,2% mensual en términos reales. Según la consultora LCG, los altos niveles de morosidad obligan a los bancos a ser más cautelosos y a la vez desincentivan a las familias a tomar nueva deuda. Para una empresa de retail, es una señal de que el financiamiento al consumidor seguirá limitado en el corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/alerta-credito-los-prestamos-al-consumo-acumulan-13-meses-consecutivos-de-bajas/",
+     "imagen": "https://www.cronista.com/resizer/v2/EUTPLFVOVNHAZO5MJ6DBVNQ6GE.jpg?auth=9ce3804e05349da261bf529debb05779416ef6daae2a848faefeafb532183323&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:40",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Alerta crédito: los préstamos al consumo acumulan 13 meses consecutivos de bajas"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "el 54% de los argentinos dejó de pagar o tuvo algún atraso en sus compromisos",
+     "resumen": "Un informe de la Fundación Pensar junto con la consultora Casa Tres encontró que más de la mitad de los hogares se atrasó o dejó de pagar algún compromiso económico en los últimos meses. Casi seis de cada diez argentinos tomó un préstamo o financió gastos recientemente, una proporción mayor entre mujeres y sectores de menores ingresos, y buena parte de ese crédito ya se usa para gastos corrientes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/07/menos-ingresos-y-mayor-morosidad-el-54-de-los-argentinos-dejo-de-pagar-o-se-atraso-en-algun-pago-segun-un-informe-privado/",
+     "imagen": "https://www.infobae.com/resizer/v2/YC3M2ZN6QNC3LEMAJDL6WCKRWQ.JPG?auth=436ef0eda315bd3c3d9e4bd2f0036138b4a1149672162eeb16907b62ec7cdbbc&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:21",
+     "autor": "",
+     "titulo_original": "Menos ingresos y mayor morosidad: el 54% de los argentinos dejo de pagar o tuvo algún atraso, según un informe privado"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "el CEO de JPMorgan alertó por el mercado de bonos y el costo del crédito para las empresas",
+     "resumen": "El banco advirtió que una mayor tensión en el mercado de deuda global podría encarecer el financiamiento empresarial en plena expansión del gasto ligado a la inteligencia artificial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/466085-jpmorgan-advierte-por-los-bonos-y-el-costo-del-financiamiento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627112.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:38",
+     "autor": "",
+     "titulo_original": "JPMorgan alerta por el mercado de bonos y el costo del crédito para empresas"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "la cobertura cambiaria privada creció a un año de las elecciones",
+     "resumen": "Según datos de Portfolio Personal Inversiones, el stock total de cobertura cambiaria privada alcanzó 11.663 millones de dólares en septiembre, un salto de 1.600 millones respecto de agosto. El mercado no espera saltos cambiarios inmediatos, pero empresas e inversores demandan cada vez más instrumentos dolarizados de cara al calendario electoral de 2027.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/a-un-ano-de-las-elecciones-el-mercado-demanda-cobertura-que-hay-detras-de-la-dolarizacion/",
+     "imagen": "https://www.cronista.com/resizer/v2/75SP6UERAJCXLNIMMYTBZCYQTA.jpg?auth=c710981cdf9801a0ae90069632aefb983fdfc6d41adf5de978b34b51ab88ca4b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:49",
+     "autor": "Julián Yosovitch",
+     "titulo_original": "A un año de las elecciones, el mercado demanda cobertura: ¿qué hay detrás de la dolarización?"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-10",
+     "titulo": "Central Puerto colocó deuda al 6% para ampliar su negocio energético",
+     "resumen": "La generadora eléctrica adjudicó Obligaciones Negociables Clase F por 50 millones de dólares con vencimiento en 2029, con una tasa del 6%, para respaldar su plan de expansión.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466071-central-puerto-coloco-deuda-por-us50-millones-al-6-anual",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/08/540569.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:19",
+     "autor": "",
+     "titulo_original": "Central Puerto colocó deuda al 6% mientras amplía su negocio energético"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Gonella invierte 20 millones de dólares en La Ramada y La Lácteo para disputar el mercado lechero",
+     "resumen": "Con la compra de La Lácteo y una estructura productiva en dos provincias, los dueños de La Ramada pasaron de ser proveedores de insumo industrial a competir directamente en las góndolas de productos lácteos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466092-gonella-invierte-20-millones-de-dolares-en-la-ramada-y-la-lacteo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/01/565515.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:31",
+     "autor": "",
+     "titulo_original": "Gonella invierte u$s20 millones en La Ramada y La Lácteo para disputar el mercado lechero"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "un sindicato rechaza que Uber compre PedidosYa y denuncia \"concentración laboral\"",
+     "resumen": "El gremio presentó una denuncia ante la Autoridad Nacional de la Competencia por la operación, al advertir que se conformaría una \"patronal todopoderosa\" en el sector de delivery y transporte por aplicaciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/466086-rechazan-que-uber-compre-pedidosya-denuncian-concentracion-laboral",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621764.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "Rechazan que Uber compre PedidosYa: denuncian \"concentración laboral\""
+    },
+    {
+     "id": "IP-18",
+     "titulo": "una pareja creó Salame, la app para vender usados que ya tiene 34.000 usuarios",
+     "resumen": "La aplicación nació después de que sus creadores vendieran sus pertenencias a través de una app similar en España. En Argentina ya acumula 34.000 usuarios y sus fundadores buscan inversión para seguir creciendo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465284-que-es-salame-y-como-funciona-la-app-para-comprar-y-vender-usados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626416.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:16",
+     "autor": "",
+     "titulo_original": "Una pareja creó Salame, la app para vender usados que ya tiene 34.000 usuarios"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "ARCA actualizó el monotributo: el tope de facturación subió a más de 126 millones de pesos",
+     "resumen": "La agencia actualizó por segunda vez en el año las escalas del monotributo, con un incremento del 16,8% calculado en función de la inflación acumulada del semestre anterior. El tope máximo de ingresos para permanecer en el Régimen Simplificado quedó por encima de los 126 millones de pesos; el próximo período de recategorización va de mediados de enero a comienzos de febrero de 2027.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Monotributo: cómo quedan los topes de facturación y los montos de octubre",
+       "url": "https://www.iprofesional.com/impuestos/465653-monotributo-como-quedan-los-topes-de-facturacion-y-los-montos-de-octubre"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/monotributo-como-administrar-la-facturacion-para-no-pasar-al-regimen-general/",
+     "imagen": "https://www.cronista.com/resizer/v2/SND7ZPWO6RBC5GKZMFRYWP7WQU.jpg?auth=2932e21ace8e0c536d4e0527daa2667dfa02c704471074b03441116c8dc73f87&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:21",
+     "autor": "Matías Rufino",
+     "titulo_original": "Monotributo: cómo administrar la facturación para no pasar al régimen general"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "ARCA reglamentó el FAL y fijó aportes del 2,5% y del 1% según el tipo de empresa",
+     "resumen": "El organismo reglamentó el Fondo de Afectación Laboral y estableció un aporte del 2,5% para las micro, pequeñas y medianas empresas, y del 1% para las grandes empresas. El nuevo esquema comenzará a operar en noviembre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465741-arca-reglamento-el-fal-quienes-pagaran-2-coma-5-por-ciento-y-quienes-1-por-ciento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617190.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:40",
+     "autor": "",
+     "titulo_original": "ARCA reglamentó el FAL y fijó aportes del 2,5% y 1% según el tipo de empresa"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "el Gobierno aún no promulgó ni reglamentó la Ley de Inocencia Fiscal II y se impone una nueva prórroga",
+     "resumen": "A una semana del vencimiento de los plazos previstos, el Poder Ejecutivo todavía no promulgó la norma ni publicó sus reglamentaciones, lo que obliga a extender nuevamente los términos de la ley.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/465965-el-gobierno-aun-no-promulgo-ni-reglamento-la-inocencia-fiscal-ii-y-se-impone-prorroga",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618961.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:12",
+     "autor": "",
+     "titulo_original": "Gobierno aún no promulgó ni reglamentó Inocencia Fiscal II y se impone una nueva prórroga"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "el Gobierno fijó en 27.200 millones de pesos el tope para que las empresas de servicios públicos subsidiadas recuperen saldos de IVA",
+     "resumen": "La Resolución 1759/2026 estableció el cupo anual para el recupero de créditos fiscales de IVA del ejercicio 2025 y de saldos de períodos anteriores, destinado a empresas de servicios públicos que reciben subsidios o compensaciones tarifarias. Del total, 24.500 millones de pesos quedaron asignados al sector energético, 2.500 millones al transporte y 200 millones al resto de las actividades alcanzadas.",
+     "relacionadas": [
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno fijó en $27.200 millones el tope para que las empresas de servicios públicos subsidiadas recuperen saldos de IVA",
+       "url": "https://www.ambito.com/economia/el-gobierno-fijo-27200-millones-el-tope-que-las-empresas-servicios-publicos-subsidiadas-recuperen-saldos-iva-n6330956"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/cambia-la-devolucion-del-iva-el-gobierno-le-puso-un-techo-a-este-grupo-a-quienes-impacta-y-de-cuanto-sera/",
+     "imagen": "https://www.cronista.com/resizer/v2/BO5RA7A3FJELFFAAAB37OXO5P4.png?auth=7a4ea2b4633fcd1ca0f96b8708518a0bb34c5a40d0fcf87732c5ddaf91eb3b2c&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:15",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Cambia la devolución del IVA: el Gobierno le puso un techo a este grupo, ¿a quiénes impacta y de cuánto será?"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "transferencias entre cuentas propias: qué monto controla ARCA en octubre",
+     "resumen": "Bancos y billeteras virtuales deben reportar al fisco los movimientos entre cuentas de un mismo titular cuando superan determinados umbrales, aunque esa información por sí sola no implica una sanción automática.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/transferencias-cuentas-propias-que-monto-controla-arca-octubre-n6330614",
+     "imagen": "https://media.ambito.com/p/63c2489ae9a6ab2012ce400da5e01bfa/adjuntos/239/imagenes/043/495/0043495247/tramite-computadora-arca-trabajo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:30",
+     "autor": "",
+     "titulo_original": "Transferencias entre cuentas propias: ¿qué monto controla ARCA en octubre?"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IB-16",
+     "titulo": "créditos hipotecarios: cuánto es la cuota inicial de los préstamos con fondos de Anses",
+     "resumen": "Las primeras familias que accedieron a la línea del Banco Ciudad con fondos de Anses pagaron una cuota promedio de 550.000 pesos por préstamos de 84 millones. La simulación del nuevo programa oficial, que destina hasta 2 billones de pesos a través del Fondo de Garantía de Sustentabilidad, estima que un crédito equivalente a 80.000 dólares exigiría una cuota inicial de 865.098 pesos y un ingreso familiar neto de 3.460.391 pesos mensuales. Para una empresa de materiales de construcción, el ritmo de estos programas condiciona directamente la demanda de obra privada.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/07/creditos-hipotecarios-cual-es-la-cuota-inicial-que-pagan-quienes-compraron-su-vivienda-con-fondos-de-anses/",
+     "imagen": "https://www.infobae.com/resizer/v2/5T52LPID6NBI7KJ4LYAVFJRDFE.jpg?auth=f15242b5532f988e866d1ce20e02f6777a07bc088661fb68772f4bc26523690c&smart=true&width=900&height=504",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:16",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios: cuál es la cuota inicial que pagan quienes compraron su vivienda con fondos de Anses"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "la marca británica Superdry llega a la Argentina para abrir 15 locales",
+     "resumen": "La cadena de indumentaria abre este jueves su primera tienda en el shopping Unicenter, con precios similares a los de Europa, y proyecta llegar a 15 sedes en el país. El desembarco incluye también productos de otras tres marcas internacionales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/marca-britanica-superdry-llega-argentina-inversion-us-50-millones-busca-abrir-15-tiendas_0_6DkDQwOfpU.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/lcsxtWWjy_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La marca británica Superdry llega a la Argentina para abrir 15 locales y ofrecerá ropa con precios similares a Europa"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "countries: la cuenta que hacen los compradores para elegir entre un lote o una casa terminada",
+     "resumen": "Operadores del segmento premium observan que una parte creciente de la demanda prefiere comprar una vivienda ya construida antes que iniciar una obra desde cero, con una preferencia marcada por casas usadas para remodelar. Según un socio de una inmobiliaria del sector, esa tendencia se consolidó durante el último año frente a la compra de lotes vacíos. Para una empresa de materiales de construcción, el auge de la remodelación sobre la obra nueva es una demanda a seguir de cerca.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/countries-la-cuenta-que-hacen-los-compradores-para-decidir-entre-un-lote-o-una-casa-terminada/",
+     "imagen": "https://www.cronista.com/resizer/v2/37YHSPLUC5DI3KXVFSDX6EFRGY.jpg?auth=08d1acbcfa3c3fe8ded6ef3bf87e47a2d493018f6b8c9cc575c0a5ca76274d9e&smart=true&width=900&height=472",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:25",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Countries: la cuenta que hacen los compradores para decidir entre un lote o una casa terminada"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "los costos de transporte de granos superaron a la inflación por la suba del combustible",
+     "resumen": "El transporte de granos acumula un incremento del 30% en los primeros nueve meses del año, nueve puntos por encima de la inflación general, de la mano de un salto en los valores del combustible. Para una empresa, el encarecimiento de la logística es una presión de costos que se traslada a toda la cadena de abastecimiento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/costos-eslabon-clave-agro-supero-inflacion-suba-principal-insumo_0_NWRYXPvhvu.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/9XkeSYnn5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los costos de un eslabón clave del agro superó a la inflación por la suba de su principal insumo"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "vuelve un outlet con Adidas y Puma, con productos desde 20.000 pesos",
+     "resumen": "The Palace Outlet regresa a Buenos Aires con una nueva sede en BA Ferial, más de 30 marcas, entrada gratuita y descuentos de hasta el 70% en productos deportivos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/465747-vuelve-the-palace-outlet-con-productos-desde-20000-y-hasta-70-por-ciento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/07/622220.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:40",
+     "autor": "",
+     "titulo_original": "Vuelve un gran outlet con Adidas y Puma, productos desde $20.000 y hasta 70% de descuento"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IB-06",
+     "titulo": "detrás de cada huésped, una cadena de suministro que nunca cierra",
+     "resumen": "Un gerente de supply chain de una cadena hotelera explica cómo la planificación de demanda, la clasificación de insumos críticos y una logística ágil sostienen la operación de una red de hoteles distribuida en todo el país. El directivo plantea que la función de compras debe entenderse como un aliado estratégico de la operación y no solo como un área administrativa.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/movant/2026/10/05/detras-de-cada-huesped-una-cadena-de-suministro-que-nunca-cierra/",
+     "imagen": "https://www.infobae.com/resizer/v2/GYDANVKHMVBOZCNPS2NVU2OVRY.jpg?auth=9bd8253c9587e28df3ff4293bcb895f3955907740339609f3e7405a0205570e4&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "Redacción Movant",
+     "titulo_original": "Detrás de cada huésped, una cadena de suministro que nunca cierra"
+    },
+    {
+     "id": "IB-02",
+     "titulo": "ferias internacionales: aspiración versus realidad para las pymes del interior",
+     "resumen": "Pese a la comunicación remota, las ferias internacionales siguen siendo clave para que las pequeñas y medianas empresas del interior del país abran mercados, conozcan a sus clientes y cierren negocios cara a cara. El artículo señala que las empresas radicadas lejos de los grandes centros urbanos enfrentan más obstáculos para acceder a esas instancias.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/movant/2026/10/05/ferias-internacionales-aspiracion-vs-realidad/",
+     "imagen": "https://www.infobae.com/resizer/v2/FVWWAO6XRBCSNCUSGZVXSMG5G4.jpg?auth=dd3abd2117645d2b4f7e14ba9ee80c4395f453e0fd639fd912989422ae5b2596&smart=true&width=900&height=580",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:03",
+     "autor": "Diego Zárate",
+     "titulo_original": "Ferias internacionales: aspiración vs. realidad"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "el CEO de JPMorgan advirtió que la inteligencia artificial \"multiplicó por diez los riesgos en ciberseguridad\"",
+     "resumen": "El ejecutivo ubicó el lanzamiento de un modelo de Anthropic en abril de este año como un punto de inflexión en materia de riesgos de seguridad y explotación de vulnerabilidades. Llamó a las empresas a no quedarse en el debate existencial sobre la IA y a \"poner manos a la obra\" en su gestión de riesgo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/tecnologia/el-ceo-jp-morgan-advirtio-que-la-ia-multiplico-diez-los-riesgos-ciberseguridad-n6331049",
+     "imagen": "https://media.ambito.com/p/3957f9909ea5390cadc571a6d76ce198/adjuntos/239/imagenes/043/689/0043689045/1200x675/645x290:665x310/dimon1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "El CEO de J.P. Morgan advirtió que la IA \"multiplicó por diez los riesgos en ciberseguridad\""
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-06",
+     "titulo": "la crisis de la vivienda provoca la primera huelga general en España en 14 años",
+     "resumen": "La huelga fue convocada para el 11 de noviembre, poco antes de las elecciones generales anticipadas del 29 de ese mes. Las protestas contra los desalojos compulsivos y los precios impagables de los alquileres pusieron al presidente Pedro Sánchez contra la pared.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/crisis-vivienda-provoca-primera-huelga-general-espana-14-anos_0_wcAku1oWyp.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/Ah41GYTOB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La crisis de la vivienda provoca la primera huelga general en España en 14 años"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "escala la tensión en Francia: las protestas estudiantiles ya dejaron más de 1.000 heridos y casi 500 detenidos",
+     "resumen": "Más de 250.000 personas marcharon contra la falta de personal y recursos en las escuelas, y el primer ministro Lecornu prometió medidas ante la escalada. Tras un grave incidente en el que un manifestante perdió una mano por el impacto de una granada aturdidora, Francia prohibió a la policía usar ese tipo de armamento en las protestas estudiantiles.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tras un grave incidente, Francia prohíbe a la policía usar granadas aturdidoras en las protestas estudiantiles",
+       "url": "https://www.clarin.com/mundo/grave-incidente-francia-prohibe-policia-usar-granadas-aturdidoras-protestas-estudiantiles_0_99suhc4bJm.html"
+      }
+     ],
+     "url": "https://www.ambito.com/mundo/escala-la-tension-francia-las-protestas-estudiantiles-dejaron-mas-1000-heridos-y-casi-500-detenidos-n6330976",
+     "imagen": "https://media.ambito.com/p/34f06bed7c56192a28362df1b1f81bf6/adjuntos/239/imagenes/043/688/0043688732/1200x675/smart/infosfrancaises-francia-protestas-5.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:57",
+     "autor": "",
+     "titulo_original": "Escala la tensión en Francia: las protestas estudiantiles dejaron más de 1.000 heridos y casi 500 detenidos"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Trump recorre el país y Obama vuelve al modo campaña por una batalla crucial en el Capitolio",
+     "resumen": "Donald Trump encaró un tour de 32 días con 36 actos en 17 estados para apuntalar a los candidatos republicanos de cara a los comicios de medio término del 3 de noviembre. Barack Obama se sumará a la campaña demócrata con un acto en Detroit el 24 de octubre para respaldar a Abdul el-Sayed, candidato al Senado en Michigan.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/trump-recorre-el-pais-y-obama-vuelve-al-modo-campana-para-una-batalla-crucial-por-el-capitolio-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DRW4Q3XUFVBEFAL6RDL4XDUX7A.JPG?auth=1f4bf41ca3f738b90a76490a7f1ea3add2d382afc2adc3bc30ce340b59f19c93&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:38",
+     "autor": "Guillermo Idiart",
+     "titulo_original": "Trump recorre el país y Obama vuelve al modo campaña para una batalla crucial por el Capitolio"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "¿cuánto tiempo más puede el mundo soportar el shock de Irán?",
+     "resumen": "La guerra contra el régimen iraní ya lleva ocho meses sin un final a la vista. El académico John Mearsheimer, de la Universidad de Chicago, describe el conflicto como \"la madre de todos los errores estratégicos\" y señala que Estados Unidos entró en la guerra con el argumento de que Irán estaba a punto de obtener un arma nuclear.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/cuanto-tiempo-mas-puede-el-mundo-soportar-el-shock-de-iran/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZKER3G73LFAOHFVODVMP7IHUBY.jpg?auth=e3c74fbcb07c196b12bbc0d64820db7e70f24c54504a4952a924d1d3f0d71ed1&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:27",
+     "autor": "Martin Wolf",
+     "titulo_original": "¿Cuánto tiempo más puede el mundo soportar el shock de Irán?"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "a tres años del ataque de Hamas, las fallas de seguridad pesan sobre Netanyahu en plena campaña electoral",
+     "resumen": "El primer ministro israelí enfrentará una prueba de fuego en las urnas el 27 de octubre, en medio de críticas de que no hizo lo suficiente para evitar el ataque de 2023, cuando el grupo extremista mató a más de 1.200 personas y tomó a 750 rehenes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/anos-ataque-hamas-fallas-seguridad-pesan-benjamin-netanyahu-plena-campana-electoral-israel_0_xTMvY6SYW7.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/Qivok5yms_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:48",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "A tres años del ataque de Hamas, las fallas de seguridad pesan sobre Benjamin Netanyahu en plena campaña electoral en Israel"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "batalla sin tregua por el control del estrecho de Bab el-Mandeb en Yemen",
+     "resumen": "Milicias tribales que respaldan al gobierno yemení enfrentaron a los rebeldes hutíes para recapturar zonas cercanas al estrecho, clave para el comercio marítimo mundial. El avance previo de los hutíes sobre esa zona ya había generado conmoción en el mercado petrolero y había impulsado al alza los precios de la gasolina y el diésel en todo el mundo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/07/batalla-sin-tregua-por-el-control-del-estrecho-de-bab-el-mandeb-brutal-choque-de-milicias-rivales-en-la-costa-de-yemen/",
+     "imagen": "https://www.infobae.com/resizer/v2/AWZDXWIJQZGZ3PK2THVCEY4EX4.jpg?auth=a4e1ffea3591c9ccdc289660ca488be44386c37055ae83ab7f5131ea4a5dfc62&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:31",
+     "autor": "",
+     "titulo_original": "Batalla sin tregua por el control del estrecho de Bab el-Mandeb: brutal choque de milicias rivales en la costa de Yemen"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent sigue de cerca el impacto económico de la guerra en Ucrania sobre Rusia.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "los ingresos de Rusia por exportaciones de petróleo crudo alcanzan su nivel más alto desde 2022",
+     "resumen": "El valor de las exportaciones rusas de crudo llegó a 2.580 millones de dólares semanales hacia el 4 de octubre, frente a unos 900 millones semanales a comienzos de año, un aumento de casi el 200%, según datos de Bloomberg. El volumen exportado alcanzó 3,8 millones de barriles diarios a comienzos de octubre, volviendo al nivel de agosto tras una caída en septiembre; la revista señala que el aumento del precio del barril Urales hizo crecer los ingresos de Moscú más rápido que la recuperación del volumen exportado.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/07/economia-rusa-ingresos-exportaciones-petroleo-crudo-nivel-mas-alto/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:42",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Economía rusa: los ingresos por exportaciones de petróleo crudo alcanzan su nivel más alto desde 2022"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-23",
+     "titulo": "Scaloni confirmó su continuidad en la Selección y dejó una frase que conmueve sobre Messi",
+     "resumen": "El entrenador habló después de la despedida de Messi ante Benín, se emocionó al recordar al capitán y aseguró que fue \"un sueño\" haberlo dirigido. \"Tiene un aura que no vi en mi vida\", dijo, y adelantó una fuerte señal sobre su futuro: \"Si todo va bien, seguiré siendo entrenador\".",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/scaloni-confirmo-su-continuidad-la-seleccion-y-dejo-una-frase-que-conmueve-messi-tiene-un-aura-que-no-vi-mi-vida-n6330968",
+     "imagen": "https://media.ambito.com/p/129887feb3dcf7ff1ed602cc6f080e7e/adjuntos/239/imagenes/043/688/0043688642/1200x675/smart/scaloni.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:36",
+     "autor": "",
+     "titulo_original": "Scaloni confirmó su continuidad en la Selección y dejó una frase que conmueve sobre Messi: \"Tiene un aura que no vi en mi vida\""
+    },
+    {
+     "id": "CL-13",
+     "titulo": "otra leyenda que brilló con Messi en el Barcelona anunció su retiro del fútbol",
+     "resumen": "El delantero español Pedro Rodríguez, que brilló en el Barcelona conducido por Josep Guardiola junto a Messi, anunció su retiro del fútbol a los 39 años en un video grabado en el Camp Nou. \"Hoy vuelvo donde empezó todo para cerrar una etapa maravillosa\", dijo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/leyenda-brillo-messi-historico-barcelona-anuncio-retiro-futbol_0_5YiRQAs02h.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/3b_Um0mX-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Otra leyenda que brilló con Messi en el histórico Barcelona anunció su retiro del fútbol"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "reventa en la despedida de Messi: más detenidos y entradas truchas para entrar al Monumental",
+     "resumen": "La Policía de la Ciudad capturó a dos prófugos de la Justicia en los alrededores del estadio y detuvo a una mujer que vendía entradas originales hasta un 800% por encima de su valor oficial, en medio de un operativo que detectó también tickets falsificados.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/reventa-despedida-messi-detenidos-entradas-truchas-arreglo-millon-pesos-entrar-monumental_0_cLMX83IJFb.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/-qZbOuPV-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Reventa para la despedida de Messi: más detenidos, entradas truchas y un arreglo de casi un millón de pesos para entrar al Monumental"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "una leyenda del fútbol portugués cuestionó a Cristiano Ronaldo por pedir un trato especial",
+     "resumen": "El ex futbolista, que jugó con Eusébio y compartió época con Pelé y Maradona, respaldó la postura del técnico de la selección lusa Jorge Jesús y recordó un conflicto similar protagonizado por Cristiano en el Mundial de Sudáfrica 2010. \"A veces parece que piensa solo en él mismo\", afirmó.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/jugue-eusebio-comparti-tiempo-pele-maradona-cristiano-debe-tener-trato-especial-leyenda-portugal-destrozo-cr7_0_X3JYE2uqxX.html",
+     "imagen": "https://www.clarin.com/img/2026/10/06/4_3qAdd_0_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Jugué con Eusébio, compartí tiempo con Pelé y Maradona, ¿por qué Cristiano debe tener un trato especial?\": una leyenda de Portugal destrozó a CR7"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Diego Rebagliati fulminó a Perú tras la derrota con Colombia por la fecha FIFA",
+     "resumen": "El comentarista calificó de \"desolador\" el rendimiento de la selección peruana al cierre de su gira por Norteamérica, donde sumó un gol a favor y nueve en contra, con tres derrotas y un empate. Las críticas apuntan también al trabajo del técnico Mano Menezes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/peru/deportes/2026/10/07/diego-rebagliati-fulmino-a-peru-tras-derrota-con-colombia-por-fecha-fifa-esta-lejisimos-de-ser-una-seleccion-mundialista/",
+     "imagen": "https://www.infobae.com/resizer/v2/2HY56BASIREOFDCNMYKZYSBEWI.jpg?auth=f1c6a7d95975bb0053349f55838b64278c0a5469b2f3721eac62383868c1d81a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:03",
+     "autor": "Grace Nole Alcántara",
+     "titulo_original": "Diego Rebagliati fulminó a Perú tras derrota con Colombia por fecha FIFA: “Está lejísimos de ser una selección mundialista”"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "Coco Gauff perdió en el Abierto de China tras denunciar insultos racistas",
+     "resumen": "La tenista estadounidense cayó 6-3 y 6-3 ante la belga Elise Mertens, luego de recibir lo que describió como \"una cantidad demencial\" de insultos racistas en redes sociales tras un controvertido punto en la ronda anterior ante la local Sun Xinran.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/coco-gauff-perdio-en-el-abierto-de-china-tras-denunciar-insultos-racistas-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NCTMFZEVW5ADJGDJOPJMUSWTOM.jpg?auth=1add7e269216566e5df81c85bd3b599f938275a4f1c797b83c2fcf9202b97943&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:54",
+     "autor": "",
+     "titulo_original": "Coco Gauff perdió en el Abierto de China tras denunciar insultos racistas"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-21",
+     "titulo": "arranca en Malta la cumbre global del turismo con más de 200 expositores",
+     "resumen": "La 26ª Cumbre Global del WTTC se inauguró en La Valeta y se extenderá hasta el viernes, con más de 1.000 delegados y 200 directivos de empresas de más de 100 países. La isla ganó la sede entre 21 destinos candidatos y sucede a Roma, anfitriona en 2025.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La Cumbre Mundial del WTTC inauguró una nueva edición en Malta: más de 1000 delegados debatirán el futuro del sector turístico",
+       "url": "https://www.infobae.com/turismo/2026/10/07/la-cumbre-mundial-del-wttc-inauguro-una-nueva-edicion-en-malta-mas-de-1000-delegados-debatiran-el-futuro-del-sector-turistico/"
+      }
+     ],
+     "url": "https://www.cronista.com/clase/trendy/arranca-en-malta-la-cumbre-global-del-turismo-mas-de-100-ponentes-y-un-desafio-para-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/FGW46772EBFQJKOUPCDZFVI4EU.jpg?auth=b898a329f7d418340a73abf7d4107aed48c7f34a08cb9d48f5ba1b5eee5e3c0e&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:44",
+     "autor": "Guillermo Pereira Poizón, enviado especial",
+     "titulo_original": "Arranca la cumbre global del sector: más de 200 expositores y un desafío para la Argentina"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "protesta en un colegio privado de Lomas de Zamora por una denuncia de imágenes manipuladas con inteligencia artificial",
+     "resumen": "Familias y estudiantes se manifestaron frente al establecimiento tras trascender que un grupo de alumnos habría usado inteligencia artificial para simular desnudos de unas 50 compañeras y difundirlos en sitios pornográficos. Los estudiantes afectados se niegan a volver a clase hasta recibir una respuesta de las autoridades del colegio.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/no-vamos-a-entrar-a-clases-protesta-en-un-colegio-privado-por-una-denuncia-contra-alumnos-que-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ILPD2KQCHNFR7KQ6FGGYJIOUTI.jpg?auth=f7cb92b844b754b635498ec3e2c7526edab123fd76bbf5867c29c1c1c0f3ea11&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:56",
+     "autor": "Camila Súnico Ainchil",
+     "titulo_original": "“No vamos a entrar a clases”: protesta en un colegio privado por una denuncia contra alumnos que habrían “desnudado” con IA a sus compañeras"
+    },
+    {
+     "id": "LN-04",
+     "titulo": "revocaron la condena contra cuatro periodistas de La Nación en Formosa",
+     "resumen": "La jueza Gabriela Soledad Plazas absolvió a los periodistas Lautaro Guillamondegui, Micaela Urdinez, Joaquín Rajadel y Javier Corbalán, condenados a cinco días de prisión por un juez de paz de Las Lomitas tras publicar un informe sobre pobreza en la provincia. El fallo original había argumentado que ejercieron el periodismo sin los permisos correspondientes.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/revocaron-la-condena-dictada-contra-cuatro-periodistas-de-la-nacion-en-formosa-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5TW4ZWSW5JEIPHQPCECWP3OPLE.jpg?auth=95b4a2a7d531a3c1221ad88a12a507a351756e407db74b785e222cb7e191e80a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:55",
+     "autor": "",
+     "titulo_original": "Revocaron la condena dictada contra cuatro periodistas de LA NACION en Formosa"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "alerta naranja en el AMBA por tormentas fuertes",
+     "resumen": "El Servicio Meteorológico Nacional emitió una alerta naranja que afecta a la Ciudad de Buenos Aires, el conurbano y otras seis provincias, con mal clima previsto para buena parte del país durante la noche.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/alerta-naranja-ciudad-buenos-aires-conurbano-provincias-fuertes-tormentas-advierten-podria-caer-granizo_0_So1FkT5dP5.html",
+     "imagen": "https://www.clarin.com/img/2026/07/31/MNp-1Cyfm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alerta naranja en el AMBA: a qué hora empiezan las tormentas fuertes y qué se espera para la noche"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "aumentaron las multas camineras en Córdoba, con sanciones máximas que superan los 4 millones de pesos",
+     "resumen": "El incremento, ya oficializado, fue del 2,6%. Una falta máxima puede costar entre 2,5 y 4,3 millones de pesos, además de inhabilitación para conducir y la posibilidad de denuncias penales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/aumentaron-multas-camineras-cordoba-sanciones-maximas-superan-4-millones-pesos_0_y9XKhQ6cZQ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/f6oRbCiFA_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Aumentaron las multas camineras en Córdoba y las sanciones máximas ya superan los 4 millones de pesos"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del miércoles siete de octubre.\n\nLa escena política sigue girando alrededor del DNU setenta barra veintitrés y la Ley de Tierras, mientras el Gobierno busca bajar la tensión por Malvinas en el Congreso. En lo impositivo, ARCA actualizó el monotributo y reglamentó nuevos aportes empresariales. En Europa, España y Francia atraviesan una ola de protestas sociales, y en el plano deportivo la noticia pasa de la despedida de Messi a la confirmación de Lionel Scaloni al frente de la Selección.\n\nUn repaso de las cifras del momento. El dólar oficial cotiza en mil quinientos cuarenta y cinco pesos para la venta, el blue en mil quinientos cincuenta y cinco y el mayorista en mil quinientos veintidós. El oro cotiza en cuatro mil ciento veintinueve dólares la onza. El riesgo país cerró ayer en quinientos setenta y tres puntos básicos, y la inflación de agosto, el último dato oficial, fue de uno coma siete por ciento mensual y treinta y tres coma cinco por ciento interanual.\n\nEn política, la secretaria Legal y Técnica de la Presidencia, María Ibarzabal Murphy, pidió en Diputados deponer las armas en el debate por la Ley de Defensa de la Soberanía Nacional sobre Malvinas, en momentos en que el Gobierno también pidió medidas cautelares contra el Reino Unido ante un tribunal internacional por el ultimátum a las petroleras que operan en las islas. En paralelo, la Justicia ordenó preservar todos los registros de tierras rurales bonaerenses recopilados durante la vigencia de la derogada Ley de Tierras, y la Corte Suprema convocó conjueces para resolver un planteo vinculado al mismo decreto, en un fallo que el Gobierno espera que le dé aire para evitar la megasesión opositora del quince de octubre. También se conoció que la Justicia ordenó al Gobierno aplicar de inmediato la Ley de Financiamiento Universitario, otro fallo que el oficialismo rechaza. El condenado ex juez Walter Bento consiguió un beneficio para salir de la cárcel los fines de semana, pese a la oposición de la Fiscalía, que anunció que apelará. Y Santa Fe desdobló su calendario electoral de 2027 y mantuvo las PASO, a contramano de la posición de Milei. El Ministerio de Justicia, por su parte, creó una comisión para reformar el Código Procesal Civil y Comercial, vigente desde 1967, e instaurar la oralidad en los juicios.\n\nEn economía y mercados, el riesgo país volvió a perforar los seiscientos puntos, aunque Citi advirtió que Argentina sigue recibiendo un castigo desproporcionado frente al resto de la región. Los bonos en dólares, sin embargo, retomaron las bajas y diluyeron buena parte del efecto que había dejado el resultado electoral en Brasil, con caídas de hasta uno coma dos por ciento en los títulos de mayor plazo. Morgan Stanley, en cambio, recompuso su cartera de acciones latinoamericanas y mantiene una posición favorable hacia la Argentina, aunque recortó su apuesta por Vista Energy y la aumentó en Mercado Libre. En el frente del crédito, los préstamos al consumo acumulan trece meses consecutivos de baja, con una caída real de uno coma dos por ciento solo en septiembre, y un informe privado reveló que el cincuenta y cuatro por ciento de los argentinos se atrasó o dejó de pagar algún compromiso en los últimos meses. El CEO de JPMorgan alertó, además, que una mayor tensión en el mercado de bonos globales podría encarecer el crédito para las empresas. Y la cobertura cambiaria privada saltó a casi doce mil millones de dólares en septiembre, mil seiscientos millones más que en agosto, ante la cercanía del calendario electoral de dos mil veintisiete.\n\nEn negocios y empresas, Central Puerto colocó deuda por cincuenta millones de dólares al seis por ciento para ampliar su negocio energético. Gonella invirtió veinte millones de dólares en las marcas La Ramada y La Lácteo para disputar el mercado lechero. Un sindicato rechazó la compra de PedidosYa por parte de Uber y presentó una denuncia por concentración laboral ante la autoridad de competencia. Y una pareja de emprendedores sumó treinta y cuatro mil usuarios a Salame, su aplicación para vender artículos usados.\n\nEn impuestos, laboral y normativa, ARCA actualizó el monotributo: el tope de facturación subió dieciséis coma ocho por ciento y quedó por encima de los ciento veintiséis millones de pesos. El organismo también reglamentó el Fondo de Afectación Laboral, con aportes del dos coma cinco por ciento para las pymes y del uno por ciento para las grandes empresas, que empezarán a regir en noviembre. El Gobierno, en cambio, todavía no promulgó ni reglamentó la Ley de Inocencia Fiscal dos, lo que obliga a una nueva prórroga. Además, se fijó en veintisiete mil doscientos millones de pesos el tope para que las empresas de servicios públicos subsidiadas recuperen saldos de IVA, con el noventa por ciento del cupo destinado al sector energético. Y bancos y billeteras deberán seguir reportando a ARCA las transferencias entre cuentas propias que superen ciertos montos, aunque eso no implica una sanción automática.\n\nEn consumo, construcción y retail, las primeras familias que accedieron a créditos hipotecarios con fondos de Anses a través del Banco Ciudad pagaron una cuota promedio de quinientos cincuenta mil pesos, mientras que la simulación del nuevo programa oficial, de hasta dos billones de pesos, estima una cuota inicial de ochocientos sesenta y cinco mil pesos para un crédito equivalente a ochenta mil dólares. La marca británica Superdry llega a la Argentina con su primera tienda en el shopping Unicenter y planea abrir quince locales en el país. En el mercado de countries, crece la preferencia por comprar casas ya construidas para remodelar antes que lotes vacíos. Y el transporte de granos acumula un aumento del treinta por ciento en lo que va del año, nueve puntos por encima de la inflación general, por la suba del combustible.\n\nEn management y finanzas corporativas, un gerente de cadena de suministro de una red hotelera explica cómo la planificación de la demanda y una logística ágil sostienen la operación diaria, mientras que un informe remarca que las ferias internacionales siguen siendo clave para que las pymes del interior abran nuevos mercados. Y el CEO de JPMorgan advirtió que la inteligencia artificial multiplicó por diez los riesgos de ciberseguridad para las empresas.\n\nEn el mundo, España vivirá su primera huelga general en catorce años por la crisis de la vivienda, convocada para el once de noviembre, poco antes de las elecciones generales anticipadas. En Francia, las protestas estudiantiles por la falta de recursos educativos ya dejaron más de mil heridos y casi quinientos detenidos, y el país prohibió a la policía usar granadas aturdidoras después de que un manifestante perdiera una mano. En Estados Unidos, Donald Trump encara una gira de treinta y dos días por diecisiete estados de cara a las elecciones de medio término, mientras Barack Obama se suma a la campaña demócrata en Michigan. Un análisis del académico John Mearsheimer describe la guerra contra Irán, que ya lleva ocho meses, como uno de los mayores errores estratégicos de Estados Unidos. En Israel, las fallas de seguridad previas al ataque de Hamas de dos mil veintitrés vuelven a pesar sobre Netanyahu a tres semanas de las elecciones. Y en Yemen, milicias que respaldan al gobierno combaten a los rebeldes hutíes por el control del estrecho de Bab el Mandeb, una disputa que ya había presionado al alza los precios del combustible en todo el mundo.\n\nLe Grand Continent analiza el frente económico de la guerra en Ucrania: los ingresos de Rusia por exportación de petróleo crudo llegaron a su nivel más alto desde dos mil veintidós, con un salto de casi doscientos por ciento respecto de comienzos de año, impulsado sobre todo por la suba del precio del barril más que por el volumen exportado.\n\nEn deportes, el gran tema fue la confirmación de Lionel Scaloni al frente de la Selección argentina tras la despedida de Messi. El entrenador se emocionó al hablar del capitán, dijo que tiene un aura que no vio en su vida, y señaló que si todo va bien seguirá siendo el técnico. Otra leyenda que compartió plantel con Messi en el Barcelona, el delantero español Pedro Rodríguez, anunció su retiro del fútbol a los treinta y nueve años. La Policía de la Ciudad detuvo a dos prófugos y a una mujer que revendía entradas de la despedida de Messi hasta un ochocientos por ciento por encima de su valor oficial. Una leyenda del fútbol portugués cuestionó a Cristiano Ronaldo por pedir un trato especial en la selección lusa. El comentarista Diego Rebagliati calificó de desolador el presente de la selección peruana tras su gira por Norteamérica. Y la tenista Coco Gauff perdió en el Abierto de China después de denunciar una ola de insultos racistas en redes sociales.\n\nEn turismo, arrancó en Malta la veintiseisava cumbre global del Consejo Mundial de Viajes y Turismo, con más de mil delegados y doscientos directivos de empresas de más de cien países debatiendo el futuro del sector.\n\nY en sociedad, una protesta de familias y estudiantes en un colegio privado de Lomas de Zamora por una denuncia de imágenes manipuladas con inteligencia artificial contra unas cincuenta alumnas, la revocación de una condena contra cuatro periodistas de La Nación en Formosa, una alerta naranja por tormentas fuertes en el AMBA y otras seis provincias, y una suba del dos coma seis por ciento en las multas camineras de Córdoba.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Todas las fuentes se descargaron correctamente, sin caídas en esta corrida. No se incluyen novedades de Franco Colapinto ni de Club Atlético Tigre porque el material crudo de esta ventana no trae información nueva sobre ninguno de los dos. En turismo, los destinos argentinos disponibles en esta corrida (Península Valdés y Mar del Plata) ya se publicaron en la edición de la mañana sin novedades, por lo que se priorizó la cobertura de la cumbre del WTTC en Malta; la próxima edición retomará la búsqueda de un destino argentino nuevo.",
+ "slug": "2026-10-07-mediodia",
+ "generado_ba": "07/10/2026 15:16"
+}
