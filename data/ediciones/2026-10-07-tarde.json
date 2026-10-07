@@ -1,0 +1,830 @@
+{
+ "fecha": "2026-10-07",
+ "edicion": "tarde",
+ "titulo": "Murió la jubilada símbolo de la crisis de vivienda en España y Nissan cierra su venta en la Argentina",
+ "apertura": "Sobre el cierre de la tarde, Europa suma un capítulo de la crisis de vivienda con la muerte de Maricarmen Abascal en Madrid, mientras en Francia el gobierno anuncia medidas de urgencia para frenar las protestas. En el plano local, el riesgo país vuelve a acercarse a los 600 puntos, el dólar blue dio su mayor salto diario en más de un mes y Nissan formalizó la venta de su operación argentina a dos grupos locales. En el fútbol, Messi sigue despidiéndose y la Selección ya mira a noviembre.",
+ "claves": [
+  "Murió en Madrid Maricarmen Abascal, la jubilada de 87 años desalojada que simbolizó la crisis de vivienda en España; Pedro Sánchez le envió un mensaje de pésame.",
+  "En Francia, el primer ministro Sébastien Lecornu anunció que liberará diez millones de barriles de gasóleo y adelantará el cheque energético para frenar las protestas por el combustible.",
+  "El riesgo país argentino volvió a subir y se acerca a los 600 puntos básicos, mientras el dólar blue pegó su mayor salto diario en más de un mes.",
+  "El BCRA acumuló compras por US$ 100 millones en la semana y llevó las reservas a US$ 49.134 millones, su nivel más alto en dos semanas.",
+  "Nissan cerró el traspaso de su operación de venta de autos en la Argentina a los grupos locales Simpa y Tagle.",
+  "YPF y la francesa TotalEnergies firmaron un acuerdo de largo plazo por US$ 400 millones para producir combustible sostenible de aviación en Santa Fe.",
+  "La directora del FMI, Kristalina Georgieva, pidió a los gobiernos frenar el gasto público ante la suba de los rendimientos de los bonos a nivel global.",
+  "Franco Colapinto vuelve a la pista en el GP de Singapur de Fórmula 1, con formato Sprint y clasificación antes de la carrera del fin de semana."
+ ],
+ "cifras": [
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "US$ 49.134 millones",
+   "variacion": "+ US$ 100 millones en la semana",
+   "fuente": "AM-01"
+  },
+  {
+   "nombre": "Industria (IPI manufacturero)",
+   "valor": "-3,2% interanual en agosto",
+   "fuente": "CR-13"
+  },
+  {
+   "nombre": "Construcción (ISAC)",
+   "valor": "-4,4% interanual en agosto; +0,4% mensual",
+   "fuente": "AM-06"
+  },
+  {
+   "nombre": "Financiamiento pyme (IFP, tasa de descuento de cheques)",
+   "valor": "27,76% TNA",
+   "variacion": "+2,16 puntos porcentuales en el mes",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Dividendos distribuidos en BYMA (enero-septiembre)",
+   "valor": "US$ 1.505 millones",
+   "variacion": "+9,3% interanual",
+   "fuente": "CR-11"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-23",
+     "titulo": "Bullrich no acompañará el pliego de una fiscal propuesta por Milei",
+     "resumen": "Patricia Bullrich anunció que votará en contra del nombramiento de la fiscal Susana Pernas, que había pedido cárcel para el policía Luis Chocobar. La senadora lo comunicó en redes y protagonizó un cruce con la candidata en la audiencia pública de la Comisión de Acuerdos.",
+     "relacionadas": [
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "“¿A quién defiende?”: Bullrich cruzó a la fiscal que pidió cárcel para Chocobar y rechazará su pliego",
+       "url": "https://www.cronista.com/economia-politica/bullrich-anticipo-que-votara-en-contra-del-pliego-de-la-fiscal-que-pidio-condena-para-chocobar/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/bullrich-volvio-diferenciarse-acompanara-pliego-fiscal-enviado-milei-senado_0_GoTyNZAKrv.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/70HZQ5Uc5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Bullrich volvió a diferenciarse: no acompañará el pliego de una fiscal enviado por Milei al Senado"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "Montenegro explicó su regreso a la Intendencia de Mar del Plata",
+     "resumen": "Guillermo Montenegro dejó su banca en el Senado bonaerense para retomar la conducción del municipio de General Pueyrredón, citando un problema grave de seguridad. Confirmó conversaciones con el gobernador Axel Kicillof para pedir más efectivos provinciales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/montenegro-explico-vuelta-intendencia-mar-plata-problema-grave-seguridad_0_x1wiCOWEaM.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/t1rNsA9G4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Montenegro explicó su vuelta a la Intendencia de Mar del Plata: “Hay un problema muy grave con la seguridad”"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "La Corte Suprema obliga a la provincia a garantizar agua potable en Bragado",
+     "resumen": "El máximo tribunal dejó firme un fallo que obliga a Aguas Bonaerenses SA a realizar en seis meses las obras necesarias para bajar la concentración de arsénico en el agua de red de Bragado. Rechazó el recurso de la empresa, que alegaba una intromisión en la autonomía provincial.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-dejo-firme-un-fallo-que-obliga-a-la-provincia-de-buenos-aires-a-garantizar-el-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/57NUSR3IVBHRTESX7KWER5FWPM.JPG?auth=a57adc22cb4bc58f7736d96b975c1e32e98390455b32f9dfbceaab341dc2eb39&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:24",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "La Corte Suprema dejó firme un fallo que obliga a la provincia de Buenos Aires a garantizar el suministro de agua potable en Bragado"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Milei viajará de nuevo a Estados Unidos antes de las elecciones de medio término",
+     "resumen": "El Presidente participará de una gala hispánica y de un encuentro con empresarios en la Cámara de Comercio, en su viaje número 19 a Estados Unidos. No está prevista una reunión con Donald Trump, pero el Gobierno busca enviar señales de apoyo antes de los comicios del 3 de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/07/javier-milei-volvera-a-viajar-a-estados-unidos-nuevas-senales-de-apoyo-a-trump-antes-de-las-elecciones-de-medio-termino/",
+     "imagen": "https://www.infobae.com/resizer/v2/BHWEH4XB7NHZLJXN6CQZUBE72U.jpg?auth=25e1012bbdd6f5fd080f2d5057a042276e4a67f2bcf5d7d6c34dfde20b247bf2&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:17",
+     "autor": "Sofia Rojas",
+     "titulo_original": "Javier Milei volverá a viajar a Estados Unidos: nuevas señales de apoyo a Trump antes de las elecciones de medio término"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Ley Malvinas: el Ejecutivo propone una bicameral para el Consejo de Seguridad",
+     "resumen": "La secretaria de Legal y Técnica, María Ibarzábal Murphy, participó por primera vez del debate en comisión y planteó incorporar una comisión bicameral de seguimiento. El oficialismo insiste en no dividir el proyecto, mientras la oposición reclama por los nombramientos de Pablo Quirno y Carlos Presti.",
+     "relacionadas": [
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Defensa de la Soberanía Nacional: avanza el debate en Diputados, donde reclaman por Pablo Quirno y Carlos Presti",
+       "url": "https://www.ambito.com/politica/defensa-la-soberania-nacional-avanza-el-debate-diputados-donde-reclaman-pablo-quirno-y-carlos-presti-n6331107"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/07/ley-por-malvinas-el-ejecutivo-busca-votos-y-propone-una-bicameral-para-el-consejo-de-seguridad/",
+     "imagen": "https://www.infobae.com/resizer/v2/QVHX5TK7ZBGGREHJFASTWXFNYI.jpg?auth=c75168789449bced7587c85ddbbd0c9d64a049a20acdf5931bc0336f269ca1b8&smart=true&width=900&height=508",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:45",
+     "autor": "David Cayón",
+     "titulo_original": "Ley por Malvinas: el Ejecutivo busca votos y propone una bicameral para el Consejo de Seguridad"
+    },
+    {
+     "id": "AM-02",
+     "titulo": "La visita de Karina Milei dejó al descubierto internas de LLA en Salta",
+     "resumen": "La secretaria general de la Presidencia fue recibida en el aeropuerto por un grupo de dirigentes, pero Alfredo Olmedo y Emilia Orozco, titulares del partido en la provincia, no participaron de la bienvenida.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/ambito-nacional/la-visita-karina-milei-dejo-al-descubierto-los-cortocircuitos-internos-la-libertad-avanza-salta-n6331300",
+     "imagen": "https://media.ambito.com/p/557542be22f068e043040e0d93238c99/adjuntos/239/imagenes/043/690/0043690565/1200x675/smart/karina.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:52",
+     "autor": "",
+     "titulo_original": "La visita de Karina Milei dejó al descubierto los cortocircuitos internos en La Libertad Avanza de Salta"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "El riesgo país retomó la suba y se acerca a los 600 puntos básicos",
+     "resumen": "El avance de tasas en Estados Unidos y la baja en los bonos globales reavivaron la tensión financiera y afectaron el desempeño bursátil local. El Citi había advertido días atrás que la Argentina recibe un castigo desproporcionado frente a la región.",
+     "relacionadas": [
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Riesgo país amenaza con cortar la lluvia de dólares por emisiones de provincias y empresas",
+       "url": "https://www.iprofesional.com/finanzas/465550-el-riesgo-pais-amenaza-con-cerrar-una-importante-canilla-de-dolares"
+      },
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Riesgo país vuelve a subir y el Citi alerta que Argentina recibe castigo desproporcionado",
+       "url": "https://www.iprofesional.com/finanzas/465627-el-citi-dio-las-razones-tras-el-castigo-desproporcionado-al-mercado-argentino"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/466110-riesgo-pais-retomo-senda-alcista-y-se-acerca-nuevamente-a-600-puntos-basicos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/05/575335.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:45",
+     "autor": "",
+     "titulo_original": "El riesgo país retomó la senda alcista y se acerca nuevamente a los 600 puntos básicos"
+    },
+    {
+     "id": "AM-01",
+     "titulo": "El BCRA llevó las reservas a su nivel más alto en dos semanas",
+     "resumen": "La autoridad monetaria cerró la rueda con un saldo neto comprador de US$ 45 millones y elevó a US$ 228 millones el acumulado de octubre. Las reservas subieron a US$ 49.134 millones, mientras el dólar mayorista cayó 3 pesos y volvió al nivel de cierre de septiembre.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-bcra-ya-acumulo-compras-us100-millones-la-semana-y-las-reservas-volvieron-subir-n6331305",
+     "imagen": "https://media.ambito.com/p/4b51d767c668f721c1ba1ec1b28ca724/adjuntos/239/imagenes/043/560/0043560668/1200x675/smart/bcra-reservas.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "El BCRA ya acumuló compras por u$s100 millones en la semana y las reservas volvieron a subir"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "El dólar blue dio su mayor salto diario en más de un mes",
+     "resumen": "El paralelo avanzó 15 pesos en la jornada y volvió a superar un nivel simbólico, mientras el mayorista retrocedió hasta 1.517 pesos. La brecha entre ambas cotizaciones se amplió a alrededor del 2,5%.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar oficial tocó mínimos de dos semanas, a contramano del avance global de la divisa",
+       "url": "https://www.ambito.com/finanzas/el-dolar-oficial-extiende-la-calma-y-la-city-monitorea-las-compras-del-bcra-n6330986"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/el-dolar-blue-pego-el-mayor-salto-diario-mas-un-mes-y-volvio-superar-un-nivel-simbolico-n6331291",
+     "imagen": "https://media.ambito.com/p/089b4526ea8eb4b7eb8da97e58292763/adjuntos/239/imagenes/042/744/0042744090/dolar-blue-vivo-inversiones-mercados-bonos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:25",
+     "autor": "",
+     "titulo_original": "El dólar blue pegó el mayor salto diario en más de un mes y volvio a superar un nivel simbólico"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "La jefa del FMI pidió frenar el gasto público ante la suba global de tasas",
+     "resumen": "Kristalina Georgieva dijo que los gobiernos enfrentan decisiones políticas muy difíciles y pidió contener el gasto para enfrentar la suba de los rendimientos de los bonos a 10 años de Estados Unidos, Alemania y Japón, que llegaron a sus niveles más altos en décadas por el alza de la energía tras la guerra con Irán.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/la-jefa-del-fmi-advierte-que-es-hora-de-ponerle-un-freno-al-gasto-publico/",
+     "imagen": "https://www.cronista.com/resizer/v2/JK42G37SMVAZBFBJV4JIVMB7RU.jpeg?auth=666f7659dfd71b917eebe6fca721d91792b5627c1b819af181a73ac683452973&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:34",
+     "autor": "Claire Jones",
+     "titulo_original": "La jefa del FMI advierte que es hora de ponerle un freno al gasto público"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Un economista advirtió que sin agro, energía y minería el PBI está por debajo de 2023",
+     "resumen": "Martín Rapetti, de la consultora Equilibra, dijo que si se excluyen del cálculo esos tres sectores, el 85% de la economía argentina se ubica hoy por debajo de los niveles de 2023 y permanece estancada desde comienzos del año pasado, aunque el crecimiento total del PBI ronde el 1,5% este año.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/07/martin-rapetti-de-equilibra-si-se-saca-el-agro-la-energia-y-la-mineria-el-pbi-esta-mas-bajo-que-en-2023/",
+     "imagen": "https://www.infobae.com/resizer/v2/RW4QPAILHVF4PDINALDTMC2BA4.jpg?auth=9b961c51fc0948357309d051e44325856c8424d588f0280594e523487d88dd58&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:40",
+     "autor": "",
+     "titulo_original": "Martín Rapetti, de Equilibra: “Si se saca el agro, la energía y la minería, el PBI está más bajo que en 2023”"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Récord de dividendos en BYMA: superan los 1.500 millones de dólares en el año",
+     "resumen": "Las empresas domésticas listadas distribuyeron unos US$ 1.505 millones en dividendos en los primeros nueve meses de 2026, un 9,3% más que en igual período de 2025. El tercer trimestre explicó el 42% del total acumulado, con 12 empresas pagadoras.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/record-de-dividendos-en-byma-mas-de-us-1500-millones-en-lo-que-va-del-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/MRSUZIHYYBB5FHDO7MGA7JNTS4.jpg?auth=d05e437619262bd852c7cacacb5795ddb322a184f7300d88806597a4fc15d974&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:33",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Récord de dividendos en BYMA: acumulan más de u$s 1500 millones en lo que va del año"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-22",
+     "titulo": "Nissan cerró el traspaso de su operación de venta de autos en la Argentina",
+     "resumen": "La automotriz japonesa firmó el acuerdo definitivo por el cual cede su negocio de distribución de vehículos, repuestos y accesorios a una sociedad entre los grupos Simpa y Tagle. El traspaso se concretará antes de fin de año y la marca deja de operar como terminal local.",
+     "relacionadas": [
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Nissan confirmó la venta de su negocio en Argentina y pasa a manos de dos empresas locales",
+       "url": "https://www.iprofesional.com/autos/466112-nissan-confirmo-la-venta-de-su-negocio-en-argentina-y-pasa-a-manos-de-dos-empresas"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/nissan-cierra-el-traspaso-de-su-operacion-de-venta-de-autos-en-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/QEZ5S3RLWZBTVIEGZUQRVELEJI.png?auth=611a61f01ab7bb9e88fa332a29b41e234aea981a1a6f678778ee4097b6732761&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:25",
+     "autor": "Juan Manuel Compte",
+     "titulo_original": "Nissan cierra el traspaso de su operación de venta de autos en la Argentina"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "YPF invierte 400 millones de dólares en un acuerdo de biocombustibles con TotalEnergies",
+     "resumen": "Santa Fe Bio, sociedad entre YPF y Essential Energy, firmó con la francesa TotalEnergies un acuerdo de compraventa de largo plazo para producir combustible sostenible para aviación y otros renovables en la biorrefinería de San Lorenzo, Santa Fe.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/ypf-invierte-us-400-millones-para-un-acuerdo-de-biocombustibles-con-totalenergies/",
+     "imagen": "https://www.cronista.com/resizer/v2/RA4LDVL3A5C5NKBG5T3UL664H4.jfif?auth=2f0cdef421385f77f8dea70f044ae9060fe4a9e6aa9123e228b9a8465111ec63&smart=true&width=900&height=639",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:29",
+     "autor": "Equipo Negocios",
+     "titulo_original": "YPF invierte u$s 400 millones para un acuerdo de biocombustibles con TotalEnergies"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Sin ofertas para su salvataje, una algodonera de la familia Vicentin quedó al borde de la quiebra",
+     "resumen": "Algodonera Avellaneda, en concurso desde 2024, no recibió propuestas para su adquisición al vencer el plazo de inscripción. Arrastra una deuda de US$ 260 millones con el Banco Nación y emplea a unas 350 personas; el sindicato espera una quiebra con continuidad de la actividad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/ofertas-salvataje-importante-algodonera-familia-vicentin-quedo-borde-quiebra_0_VVOIpYXP9r.html",
+     "imagen": "https://www.clarin.com/img/2026/09/14/akCcpjJhc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sin ofertas para su salvataje, una importante algodonera de la familia Vicentin quedó al borde de la quiebra"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Una petrolera inglesa desafía las sanciones de Milei y compra otro barco para Malvinas",
+     "resumen": "Rockhopper Exploration pagará US$ 44 millones por una participación del 35% en la sociedad dueña del buque OSX-1, destinado al proyecto Sea Lion. Junto a la israelí Navitas, apunta a producir petróleo a partir de 2028 pese al rechazo del Gobierno argentino.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/petrolera-inglesa-malvinas-desafia-sanciones-milei-compra-barco-petrolero-lion_0_kDAmEC3sjr.html",
+     "imagen": "https://www.clarin.com/img/2025/09/03/Scjn9cDzM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La petrolera inglesa de Malvinas desafía las sanciones de Milei y compra otro barco petrolero para Sea Lion"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "Morgan Stanley recompuso su cartera de acciones latinoamericanas",
+     "resumen": "Tras la primera vuelta electoral en Brasil, el banco mantuvo una posición favorable hacia la Argentina, aunque recortó su participación en Vista Energy y aumentó la apuesta por Mercado Libre, en favor de compañías que se beneficiarían de una flexibilización monetaria más profunda en la región.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/morgan-stanley-reacomoda-su-cartera-en-america-latina-las-acciones-que-ganan-lugar-y-las-que-salen/",
+     "imagen": "https://www.cronista.com/resizer/v2/LLDGO5DRLJHOVG75UEM2MWUZQE.png?auth=bf8580842a67b20ff028ef3ad52ecac54873630a62bd9c4945409df205211818&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:31",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Morgan Stanley reacomoda su cartera en América Latina: las acciones que ganan lugar y las que salen"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "Avanza la zona franca de Colonia y sale a captar empresas argentinas",
+     "resumen": "El proyecto uruguayo, con una inversión privada de US$ 26 millones y 8.600 metros cuadrados de oficinas, ya suma 11 empresas argentinas confirmadas y apunta a firmas tecnológicas, financieras y de servicios profesionales con exoneración total de IRAE, Patrimonio e IVA.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/avanza-la-zona-franca-colonia-y-sale-captar-empresas-argentinas-beneficios-impositivos-n6331298",
+     "imagen": "https://media.ambito.com/p/a9bebb45d3763e23126f3decab5d74e3/adjuntos/239/imagenes/043/690/0043690583/1200x675/smart/zona-franca-colonia.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:44",
+     "autor": "",
+     "titulo_original": "Avanza la zona franca de Colonia y sale a captar empresas argentinas con beneficios impositivos"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "Vacaciones 2026: qué cambió con la reforma laboral y cómo se calcula el pago",
+     "resumen": "La Ley de Modernización Laboral modificó el artículo 154 de la Ley de Contrato de Trabajo y habilita de forma expresa fraccionar las vacaciones anuales y tomarlas fuera del período tradicional, de mutuo acuerdo entre empleador y trabajador, con menos anticipación en la notificación.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/vacaciones-2026-que-cambio-para-los-trabajadores-con-la-reforma-laboral-y-como-se-calcula-el-pago/",
+     "imagen": "https://www.cronista.com/resizer/v2/XZRJJEHSWVFV5H5K6VEW4DOY4I.png?auth=d5b8ea45048d4325c32510eaad70d0655763d34f503e0ecdcca6f561f2e794d3&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:01",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Vacaciones 2026: qué cambió para los trabajadores con la reforma laboral y cómo se calcula el pago"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Inocencia Fiscal II ya tiene fecha de reglamentación y se pide una nueva prórroga de Ganancias",
+     "resumen": "El Gobierno oficializaría este viernes la promulgación y reglamentación de la ley que busca incentivar a sacar los dólares del colchón. Los contadores piden que ARCA extienda por quinta vez el plazo para presentar la declaración jurada de Ganancias 2025, que vence el martes 13 de octubre.",
+     "relacionadas": [
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Se reglamenta Inocencia Fiscal II y ARCA prorrogará la presentación de Ganancias",
+       "url": "https://www.iprofesional.com/impuestos/466123-ganancias-simplificado-sale-la-ley-y-arca-prorroga-la-declaracion"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/inocencia-fiscal-ii-la-reglamentacion-ya-tiene-fecha-y-piden-una-nueva-prorroga/",
+     "imagen": "https://www.cronista.com/resizer/v2/QC5TMVULLFGADKVA7Y74VPDAYA.jpg?auth=f8657029c6cb5194d4970ec2e69b1ed8aca7c366fcd35146d4da4a5d04946532&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:52",
+     "autor": "Matías Rufino",
+     "titulo_original": "Inocencia Fiscal II: la reglamentación ya tiene fecha y piden una nueva prórroga"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "La Rioja aplicará un aporte extraordinario en Ingresos Brutos a las empresas más grandes",
+     "resumen": "La provincia estableció por ley un aporte equivalente al 25% del impuesto sobre los Ingresos Brutos determinado, sin deducciones, para contribuyentes con una base imponible mensual igual o superior a 2.000 millones de pesos. La medida tiene carácter obligatorio, temporal y de emergencia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-rioja-aplicara-un-aporte-extraordinario-en-ingresos-brutos-quien-lo-paga-y-cuanto-esperan-recaudar/",
+     "imagen": "https://www.cronista.com/resizer/v2/YPZKPM23HBHEDMR6CFGXW7Z2MQ.jpg?auth=ba390ffd2bfadb53b907d110df1c8947ecee44d08cb1c5b5cea0e6ce1a5f121c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "La Rioja aplicará un aporte extraordinario en Ingresos Brutos: quién lo paga y cuánto esperan recaudar"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Piden 10 años de cárcel para el líder de Camioneros que bloqueó una pyme en 2021",
+     "resumen": "Los fiscales solicitaron la condena de Maximiliano Cabaleyro, quien encabezó el bloqueo a la empresa familiar Rey Distribución en San Pedro, por extorsión y coacción, además de su inhabilitación por diez años para cargos sindicales. También pidieron penas para otros acusados en el juicio que se realiza en San Nicolás.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/07/pidieron-10-anos-de-carcel-para-el-lider-sindical-de-camioneros-que-lidero-el-bloqueo-a-una-pyme-en-2021/",
+     "imagen": "https://www.infobae.com/resizer/v2/Z3A47AV46VCMDNCC3CPT4G5CL4.jpg?auth=5e9003d35b7b819d566661471e4354a798a325fe053a0b66f519d0b6355aa67b&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:42",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "Pidieron 10 años de cárcel para el líder sindical de Camioneros que lideró el bloqueo a una pyme en 2021"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "Judiciales profundizan su plan de lucha y anuncian un nuevo paro",
+     "resumen": "El gremio convocó a paralizar los tribunales por un reclamo de recomposición salarial, rechaza el traspaso de la Justicia nacional a la Ciudad de Buenos Aires y reclama por la obra social del sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/466101-judiciales-profundizan-el-plan-de-lucha-cuando-vuelven-a-paralizar-tribunales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/08/541269.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:45",
+     "autor": "",
+     "titulo_original": "Judiciales profundizan el plan de lucha: cuándo vuelven a paralizar tribunales"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "El BCRA adelantó que recién levantará el cepo al dólar y a la cripto en un eventual segundo mandato de Milei",
+     "resumen": "El superintendente de Entidades Financieras, Juan Curutchet, dijo que la liberación total del cepo y la flexibilización de la oferta de criptomonedas quedaron pospuestas y que este año no se van a tocar, mientras el Central prioriza bajar el costo del financiamiento y el crédito.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/cepo-al-dolar-y-cripto-el-bcra-adelanto-que-los-levantara-en-un-eventual-segundo-mandato-de-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/BBH4KNZPYBDYRF6HV2MSOGJT4I.jpeg?auth=11239f289e9a2b1237c72f5ac9ca049e930b0aac46d3d0c817efee67f2ba8e46&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:18",
+     "autor": "Leandro Dario",
+     "titulo_original": "Cepo al dólar y cripto: el BCRA adelantó que los levantará en un eventual segundo mandato de Milei"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "Para una empresa de materiales de construcción y hogar: el cambio en los créditos UVA amplía la demanda potencial de compradores de vivienda usada.",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "Créditos hipotecarios UVA: cambia un requisito y más personas podrán acceder",
+     "resumen": "El Gobierno modificó una condición de los préstamos financiados por el Fondo de Garantía de Sustentabilidad de la ANSES: a partir de la segunda licitación, ya no se exige que el solicitante no tenga ningún inmueble, sino que no disponga de su uso. Así, también pueden acceder quienes son titulares de una propiedad pero no la habitan.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/creditos-hipotecarios-uva-cambian-un-requisito-y-ahora-mas-personas-podran-acceder-al-beneficio/",
+     "imagen": "https://www.cronista.com/resizer/v2/KSLVIZLOQVHHTDIWTYQ3KGMBDI.jpg?auth=516d607b679286197add92c838d0b8328ee057c94a121118842e08eb3b317d9d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:40",
+     "autor": "Florencia Ojeda",
+     "titulo_original": "Créditos hipotecarios UVA: cambian un requisito y ahora más personas podrán acceder al beneficio"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Los celulares importados crecieron 746% y se desploma la producción local",
+     "resumen": "La fabricación local de equipos de informática, televisión y comunicaciones cayó 25,7% mensual en julio y acumula una baja del 44,6% desde diciembre, según la consultora Analytica, en una reconfiguración estructural del mercado tecnológico argentino.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/celulares-importados-crecieron-un-746-y-se-desploma-la-produccion-local/",
+     "imagen": "https://www.cronista.com/resizer/v2/4EW5WYA3V5F5VCBJY5ROR57Y2U.jpg?auth=fbca7aa4ba841d71f0e3b7b25725a1842acf66584eee5fe27102d6793281a262&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:16",
+     "autor": "Julián Kaper",
+     "titulo_original": "Celulares importados: crecieron un 746% y se desploma la producción local"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Una esquina clásica de Libertador se vende por 10 millones de dólares",
+     "resumen": "El terreno de 655 metros cuadrados en Núñez, donde funcionó el histórico lavadero Angelus, salió a la venta a cargo de Toribio Achával. La propiedad perteneció a Genara María Álvarez, fallecida en 2014, y formó parte de una herencia que benefició a la Fundación FLENI.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/una-esquina-clasica-de-libertador-en-manos-de-una-clinica-top-tras-una-herencia-ahora-se-vende-por-us-10-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/KCPUOKYPCRG4XHCVNXZE26CRAE.png?auth=dfb8323febf9b3b450f7fcd805087f08bb73dfef82b9238e52dcb27e2dd1d8eb&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:20",
+     "autor": "Micaela Mura",
+     "titulo_original": "Una esquina “clásica” de Libertador, en manos de una clínica top tras una herencia, ahora se vende por u$s 10 millones"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "Trambus ya tiene empresa operadora para el corredor entre Pompeya y Aeroparque",
+     "resumen": "La Ciudad de Buenos Aires oficializó que Transportes Lope de Vega operará el corredor eléctrico Trambus T1, con una flota de 52 colectivos funcionando las 24 horas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466077-trambus-lope-de-vega-operara-la-linea-de-pompeya-a-aeroparqu",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606744.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:05",
+     "autor": "",
+     "titulo_original": "Trambus ya tiene empresa: quién operará el nuevo corredor entre Pompeya y Aeroparque"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Cuánto cuesta hacer una mudanza hoy en departamentos de uno, dos y tres ambientes",
+     "resumen": "Los valores de fletes y embalajes en la Ciudad de Buenos Aires y el Gran Buenos Aires arrancan desde los 150.000 pesos, según un relevamiento de precios del sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/466072-precios-de-mudanzas-en-caba-y-gba-cuanto-cuesta-flete-por-ambiente",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/03/533011.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:07",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta hacer una mudanza hoy: precios para 1, 2 y 3 ambientes"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "Lo que la inteligencia artificial todavía no puede hacer por vos en una negociación",
+     "resumen": "Un análisis plantea que, pese a los pronósticos sobre el reemplazo del trabajo humano por IA, la pregunta clave para las empresas es qué debe potenciar la tecnología, qué debe reemplazar y dónde debe detenerse en procesos de negociación y decisión.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/lo-que-la-ia-no-puede-hacer-por-vos-en-un-deal/",
+     "imagen": "https://www.cronista.com/resizer/v2/EV6ISWGUYFGUBLXSVTYFP3RO7M.jpg?auth=3968d17c030ac5ee8b7cee6613904d15d17ba81b853b92526aabf295a71dc493&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:56",
+     "autor": "Gonzalo Santamarina",
+     "titulo_original": "Lo que la IA no puede hacer por vos en un deal"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "Financiamiento pyme: \"la estabilidad de las tasas vale más que una baja transitoria\"",
+     "resumen": "Según el Índice de Financiamiento Pyme, la tasa para el descuento de cheques sin aval de una SGR subió a 27,76% TNA, 2,16 puntos más que el mes anterior, mientras las pymes retoman discusiones de productividad y planificación financiera en una economía que aún muestra sectores a distinta velocidad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/financiamiento-pyme-la-estabilidad-de-las-tasas-vale-mas-que-una-baja-transitoria/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZK5QYRO2UJFLNNVVFXQIXPDF4Q.png?auth=2d53e5e5a6f8234256a0bfe1eb502a8e770920eb3efc2b9934d1b01c7657d2ce&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:08",
+     "autor": "Ariel Cohen",
+     "titulo_original": "Financiamiento pyme: “La estabilidad de las tasas vale más que una baja transitoria”"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "\"La inteligencia artificial cambió el mercado laboral\", advirtió un especialista en empleo",
+     "resumen": "Nicolás Fernández Lobbe señaló que la demanda de trabajadores se mantiene firme en energía, petróleo, minería y tecnología, mientras otros sectores muestran una ralentización, en un contexto marcado también por el pluriempleo y la evolución de los salarios.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/nicolas-fernandez-lobbe-la-inteligencia-artificial-cambio-el-mercado-laboral-n6331276",
+     "imagen": "https://media.ambito.com/p/3f7e0c52873047079beaae86bf243462/adjuntos/239/imagenes/043/690/0043690472/1200x675/smart/fernandez-lobbe.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:05",
+     "autor": "",
+     "titulo_original": "Nicolás Fernández Lobbe: \"La inteligencia artificial cambió el mercado laboral\""
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-05",
+     "titulo": "Murió en Madrid la jubilada símbolo de la crisis de vivienda en España",
+     "resumen": "María Carmen Abascal, de 87 años, había sido desalojada en septiembre de su departamento del barrio del Retiro tras más de 70 años viviendo allí, lo que la convirtió en un símbolo de la crisis de acceso a la vivienda. Murió este miércoles en el hospital Gregorio Marañón; su caso impulsó el llamado anticipado a elecciones de Pedro Sánchez.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Murió Maricarmen Abascal, la mujer que había sido desalojada y desató una ola de protestas por la vivienda en España",
+       "url": "https://www.clarin.com/mundo/murio-maricarmen-mujer-desalojada-desato-ola-protestas-espana_0_nb0uWXeG8D.html"
+      },
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El mensaje de Pedro Sánchez tras la muerte de Maricarmen Abascal: \"Sentimos esta pérdida como propia\"",
+       "url": "https://www.clarin.com/mundo/mensaje-pedro-sanchez-muerte-maricarmen-abascal-sentimos-perdida-propia_0_ilv8dTKZbc.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/murio-maricarmen-la-anciana-inquilina-desalojada-en-madrid-como-su-caso-refleja-un-problema-que-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/26JBRISYTVAZ3PWRWYMYT5XWNU.png?auth=3869a05ba51d4720f67281f27512f3e923f0cb4211165a443326927595a139b1&smart=true&width=900&height=586",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Murió Maricarmen, la anciana inquilina desalojada en Madrid: cómo su caso refleja un problema que crece cada vez más en la Argentina"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Francia anuncia medidas para frenar las protestas por el combustible",
+     "resumen": "El primer ministro Sébastien Lecornu buscó contener la furia social con anuncios económicos frente a las movilizaciones de estudiantes, agricultores y sindicatos: el Gobierno liberará diez millones de barriles de gasóleo para bajar el precio en los surtidores y adelantará a enero el pago del cheque energético.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/crisis-francia-primer-ministro-anuncio-medidas-frenar-protestas-suba-combustible_0_1V4RQouzMG.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/uueiQsxs5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crisis en Francia: el primer ministro anunció medidas para frenar las protestas y la suba del combustible"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "El FBI frustró un atentado contra el mayor shopping de Estados Unidos",
+     "resumen": "Sheikhdoon Abdullahi Mohamud, de 18 años, fue detenido tras comprarle un fusil de asalto y municiones a un agente encubierto para atacar el Mall of America, en Minnesota. El joven, investigado desde hacía casi dos años por vínculos con ISIS, pretendía matar entre 30 y 60 personas.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El FBI dice que frustró un ataque contra el mayor centro comercial de Estados Unidos y arrestó a un joven de 18 años",
+       "url": "https://www.clarin.com/mundo/estados-unidos-fbi-dice-frustro-ataque-centro-comercial-minnesota_0_NESHBjoOqH.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/estados-unidos/frustran-un-intento-de-atentado-en-el-shopping-mas-grande-de-eeuu-detuvieron-a-un-joven-que-creia-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RMGXFKHP6NCGBIANABLWSVFZL4.jpg?auth=3883d10174fb7b0a878a228fbcaa1924d5d09cdba7891789154f9a6591d88e7e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "Frustran un intento de atentado en el shopping más grande de EE.UU.: detuvieron a un joven que creía que hablaba con ISIS"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "Alerta sanitaria en Rusia por un posible segundo caso de peste neumónica",
+     "resumen": "China confirmó que coopera con Rusia ante un presunto brote de peste neumónica en Siberia, mientras Estados Unidos y la Organización Mundial de la Salud reclaman más información a Moscú y Mongolia refuerza la vigilancia en su frontera.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/un-vecino-blinda-su-frontera-china-entra-en-escena-y-sospechan-de-un-segundo-caso-de-peste-neumonica-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GSF7WRRO2RAPBANK6TN27KSH5I.JPG?auth=fcc44fd091e2d063ee04d910df20ba01b81805612330b91e8cbd1ebaed55db98&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:01",
+     "autor": "",
+     "titulo_original": "Alerta en Rusia: un vecino blinda su frontera, China entra en escena y sospechan de un segundo caso de peste neumónica"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "El ébola llegó a Kenia por primera vez en la historia",
+     "resumen": "Un hombre que viajó desde la República Democrática del Congo, con paso por Uganda, murió dos días después de ser internado en Nairobi con síntomas clásicos de ébola. Es el primer caso confirmado en Kenia y las autoridades investigan cómo logró atravesar los controles sanitarios de tres países.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-ebola-alcanza-kenia-por-primera-vez-en-la-historia-y-enciende-las-alarmas-en-la-region-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OWSTE7KQCNCKNAOMV3DRLAZU4Y.jpg?auth=193e8b7174aee71b08ce80229ef124c3852d619022cea01f2ed06f68dd226f52&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:47",
+     "autor": "",
+     "titulo_original": "El ébola alcanza Kenia por primera vez en la historia y enciende las alarmas en la región"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "El Senado de Brasil debate reducir la jornada laboral, la apuesta de Lula para el balotaje",
+     "resumen": "El proyecto, ya aprobado en Diputados, enfrenta ahora una discusión más larga en la cámara baja del Senado. El candidato de derecha Flávio Bolsonaro rechaza la propuesta de cara a la segunda vuelta presidencial.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/senado-brasil-debate-reduccion-jornada-laboral-apuesta-lula-da-silva-balotaje_0_P5snJfPPhY.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/47VzrRsU2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Senado de Brasil debate una reducción de la jornada laboral, la apuesta de Lula da Silva para el balotaje"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el deterioro del debate público y el impacto de la inteligencia artificial en el comercio global.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza el derrumbe del debate público, del caso Dreyfus a Gaza",
+     "resumen": "La revista francesa examina cómo el espacio público, pensado por la teoría clásica como reflejo y baluarte de la democracia, se convirtió en el escenario donde se observa el deterioro de esa estructura, con el conflicto como estado normal del debate antes que el consenso.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/07/tras-la-dura-prueba-la-prueba-dura/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "14:58",
+     "autor": "Louis Puel",
+     "titulo_original": "Tras la dura prueba de la prueba dura"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent advierte que la inteligencia artificial agrava el déficit comercial de Estados Unidos",
+     "resumen": "El déficit comercial en bienes y servicios de Estados Unidos alcanzó los 105.600 millones de dólares en agosto, el doble que en enero, impulsado por importaciones récord de 421.000 millones de dólares. La revista analiza si Trump podrá compaginar el liderazgo en IA de vanguardia con la reducción del déficit.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/07/en-etados-unidos-la-ia-agrava-el-deficit-comercial/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:59",
+     "autor": "Marin Saillofest",
+     "titulo_original": "En Estados Unidos, la IA agrava el déficit comercial"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-25",
+     "titulo": "Fórmula 1: Franco Colapinto vuelve a la pista en el GP de Singapur",
+     "resumen": "Colapinto saldrá con Alpine en uno de los circuitos urbanos más exigentes del calendario, en Marina Bay. El fin de semana tendrá formato Sprint, con una sola práctica antes de que comiencen las clasificaciones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/f1-gp-singapur-horarios-entrenamiento-clasificacion-ver-formula-1_0_XM2syfCzyN.html",
+     "imagen": "https://www.clarin.com/img/2025/11/27/Z9pQ3fvSN_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de Singapur: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "La Selección argentina ya sabe cuándo vuelve a jugar, ya sin Lionel Messi",
+     "resumen": "El equipo albiceleste disputará dos amistosos en la fecha FIFA de noviembre, entre el 9 y el 17, ante rivales todavía a confirmar. Scaloni, que renovará contrato con la AFA por cuatro años más, encara una nueva era tras las goleadas a Bolivia, Burkina Faso y Benín.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El día después de Lionel Messi: cómo será el futuro de la Selección argentina",
+       "url": "https://www.ambito.com/deportes/el-dia-despues-lionel-messi-como-sera-el-futuro-la-seleccion-argentina-n6331260"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/proximo-partido-de-la-seleccion-argentina-cuando-vuelve-a-jugar-ya-sin-lionel-messi-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TE7DI55FYRGQNGCAEO5OMFNC7I.JPG?auth=5f1839c43cf459a090c1882cf4e71000d30e5200a607b0a3d7b5455bf4f25372&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:02",
+     "autor": "",
+     "titulo_original": "Próximo partido de la selección argentina: cuándo vuelve a jugar, ya sin Lionel Messi"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Messi recordó a Diego Maradona en un posteo de despedida de la Selección",
+     "resumen": "Un día después de jugar su último partido con la camiseta argentina, Messi escribió que no quiere olvidarse de Maradona, a quien sintió presente desde el cielo. También publicó una historia en la que recordó a su padre, Jorge, fallecido en agosto.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/lionel-messi-recordo-diego-maradona-posteo-despedida-redes-dia-despues-jugar-ultimo-partido-seleccion_0_KU1m5mDwli.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/hKZd77XxH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lionel Messi recordó a Diego Maradona en un posteo de despedida en las redes, el día después de jugar su último partido con la Selección"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "La Euroliga rechazó una oferta para fusionarse con la NBA en Europa",
+     "resumen": "Trece clubes decidieron en una reunión en Italia continuar con su estructura actual pese a una oferta de 400 millones de euros por franquicia ofrecida por la NBA. La Euroliga optó por ampliar sus propias franquicias y mantener su independencia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/equipos-de-la-euroliga-rechazan-oferta-para-fusionarse-con-la-nba-en-una-sola-operacion-europea_0_yfY3lnG6iy.html",
+     "imagen": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Equipos de la Euroliga rechazan oferta para fusionarse con la NBA en una sola operación europea"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Un diario inglés contrastó el \"berrinche\" de Cristiano con la \"elegante\" salida de Messi",
+     "resumen": "The Telegraph comparó la despedida del capitán argentino en Buenos Aires con el enojo de Cristiano Ronaldo, que abandonó la concentración de Portugal tras un comunicado de 2.000 palabras contra su entrenador.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/un-diario-ingles-contrasto-el-berrinche-de-cristiano-en-portugal-con-la-elegante-salida-de-messi-de-nid07102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DDRZY6YTPVDX3FTVREDXKAEUFI.jpg?auth=a51ee957dd0480e767f5135dfcbd71e443adb8a84de4f2ca96392fa9cb686c77&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:16",
+     "autor": "",
+     "titulo_original": "Un diario inglés contrastó el “berrinche” de Cristiano en Portugal con la “elegante” salida de Messi de Argentina"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "Ganó el oro olímpico con Messi en Beijing 2008 y, tras un calvario de lesiones, volvió a brillar en la Kings League",
+     "resumen": "Surgido de las inferiores de Argentinos Juniors, el futbolista fue clave en la medalla dorada junto a Messi en los Juegos Olímpicos de 2008 y, pese a sucesivas lesiones, logró volver a jugar al fútbol en el circuito de la Kings League.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/gano-el-oro-messi-beijing-2008-sufrio-un-calvario-lesiones-y-volvio-brillar-la-kings-league-n6330734",
+     "imagen": "https://media.ambito.com/p/fd4227a49fbcdca275d331f61d2655a1/adjuntos/239/imagenes/043/687/0043687400/1200x675/754x235:774x255/cuenta-x-argentina.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:00",
+     "autor": "",
+     "titulo_original": "Ganó el oro con Messi en Beijing 2008, sufrió un calvario de lesiones y volvió a brillar en la Kings League"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-08",
+     "titulo": "El Chaltén, la puerta a la Laguna de los Tres y el Fitz Roy en la Patagonia",
+     "resumen": "El Chaltén, en Santa Cruz, es uno de los destinos más buscados de la Patagonia por sus senderos de montaña y la cercanía con la Laguna de los Tres, una de las postales más icónicas del país con el Fitz Roy de fondo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-cerca-de-una-de-las-lagunas-mas-iconicas-de-la-patagonia-ofrecen-alojamiento-a-cambio-de-24-horas-semanales-de-colaboracion/",
+     "imagen": "https://www.cronista.com/resizer/v2/DXVCFWYB3FCKFC2GA5HNM5B2LU.jpeg?auth=bcc0ff9942ea23d056ee23282201fc6cc6796548396513818be949c7bda3d8eb&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:18",
+     "autor": "María Laura Ruberto",
+     "titulo_original": "Buscan voluntarios para vivir cerca de una de las lagunas más icónicas de la Patagonia: ofrecen alojamiento a cambio de 24 horas semanales de colaboración"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-24",
+     "titulo": "Aumentaron 15% las internaciones por riesgo suicida en niños y adolescentes porteños",
+     "resumen": "Un informe trianual del Ministerio Público Tutelar de la Ciudad de Buenos Aires, sobre el período 2023-2025, identificó 1.876 casos asociados a riesgo suicida sobre un total de 3.135 internaciones notificadas. Los casos se presentan a edades cada vez más tempranas y las adolescentes son el grupo de mayor incidencia.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/07/aumentaron-un-15-las-internaciones-por-riesgo-suicida-en-ninas-ninos-y-adolescentes-de-la-ciudad-de-buenos-aires/",
+     "imagen": "https://www.infobae.com/resizer/v2/HSUUMVTBLFFQHPEIEKZM6HA4KM.jpg?auth=c1b10725b46a245f51b50f296ea49a24009b436d6ecbbbefdd5c46af645e60ba&smart=true&width=900&height=504",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:09",
+     "autor": "",
+     "titulo_original": "Aumentaron un 15% las internaciones por riesgo suicida en niñas, niños y adolescentes de la Ciudad de Buenos Aires"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del miércoles siete de octubre. El dólar oficial cerró en mil quinientos cuarenta pesos, el blue en mil quinientos cincuenta y cinco pesos tras el mayor salto diario en más de un mes, y el oro cotiza en cuatro mil ciento treinta y seis dólares la onza. El riesgo país, en tanto, volvió a subir y se acerca otra vez a los seiscientos puntos básicos.\n\nEl panorama de esta tarde está marcado por dos noticias de Europa. En España murió María Carmen Abascal, la jubilada de ochenta y siete años que había sido desalojada de su departamento en Madrid después de setenta años viviendo allí, y cuyo caso se convirtió en símbolo de la crisis de vivienda que atraviesa el país. El presidente del gobierno español, Pedro Sánchez, le envió un mensaje de pésame. En Francia, el primer ministro Sebastián Lecornu anunció medidas para frenar las protestas por el combustible: el gobierno liberará diez millones de barriles de gasóleo para bajar el precio en los surtidores y adelantará a enero el pago del cheque energético para los hogares.\n\nEn política, Patricia Bullrich anunció que votará en contra del pliego de la fiscal Susana Pernas, enviado por el propio Javier Milei al Senado, por haber pedido cárcel para el policía Luis Chocobar. En la Ciudad de Buenos Aires, Guillermo Montenegro explicó que dejó su banca en el Senado bonaerense para volver a la Intendencia de Mar del Plata por un problema grave de seguridad. La Corte Suprema, por su parte, dejó firme un fallo que obliga a la empresa Aguas Bonaerenses a garantizar agua potable sin arsénico en Bragado, en un plazo de seis meses. El presidente Milei viajará la semana próxima de nuevo a Estados Unidos, en medio de las elecciones de medio término de ese país, aunque por ahora no está prevista una reunión con Donald Trump. Y en el debate por la Ley Malvinas, el Ejecutivo propuso en Diputados crear una comisión bicameral de seguimiento para el Consejo de Seguridad.\n\nEn economía, el riesgo país volvió a subir, empujado por el avance de tasas en Estados Unidos y la baja de los bonos globales, mientras el Banco Central llevó las reservas a cuarenta y nueve mil ciento treinta y cuatro millones de dólares, su nivel más alto en dos semanas. La directora gerente del Fondo Monetario Internacional, Kristalina Georgieva, pidió a los gobiernos frenar el gasto público ante la suba de los rendimientos de los bonos a diez años en Estados Unidos, Alemania y Japón, que llegaron a sus niveles más altos en décadas. Y el economista Martín Rapetti, de la consultora Equilibra, advirtió que si se excluyen del producto bruto interno al agro, la energía y la minería, el ochenta y cinco por ciento de la economía argentina está hoy por debajo de los niveles de dos mil veintitrés.\n\nEn negocios, Nissan cerró formalmente el traspaso de su operación de venta de autos en la Argentina a los grupos locales Simpa y Tagle, y dejará de ser una terminal local. YPF, por su parte, firmó con la francesa Total Energies un acuerdo por cuatrocientos millones de dólares para producir combustible sostenible de aviación en una biorrefinería de Santa Fe. Y una petrolera inglesa, Rockhopper, compró otro barco para avanzar con un proyecto de extracción de petróleo en Malvinas, pese al rechazo del gobierno argentino.\n\nEn impuestos y normativa, la reforma laboral habilitó de forma expresa que las vacaciones puedan fraccionarse y tomarse fuera del período tradicional, de mutuo acuerdo entre empleador y trabajador. El Gobierno oficializaría este viernes la reglamentación de la ley de Inocencia Fiscal dos, mientras los contadores esperan una quinta prórroga para presentar la declaración jurada de Ganancias. La provincia de La Rioja, por su parte, estableció un aporte extraordinario del veinticinco por ciento sobre Ingresos Brutos para las empresas más grandes. Y los fiscales pidieron diez años de prisión para el líder sindical de Camioneros que encabezó el bloqueo a una pyme bonaerense en dos mil veintiuno. Para una empresa, estas señales conviene seguirlas de cerca: tanto los cambios impositivos provinciales como los conflictos gremiales pueden afectar directamente los costos y la operación diaria.\n\nEn consumo y construcción, el Gobierno modificó un requisito de los créditos hipotecarios con fondos de la Ansés: ahora también pueden acceder personas que tienen una propiedad pero no la habitan, lo que amplía el universo de potenciales compradores. Para una empresa de materiales de construcción, esto puede traducirse en más demanda de vivienda usada para reformar. Además, un informe privado mostró que la producción local de celulares y equipos de comunicaciones se desplomó más del cuarenta por ciento en lo que va del año, mientras las importaciones crecieron con fuerza.\n\nEn el mundo, el FBI frustró un atentado contra el mayor centro comercial de Estados Unidos, el Mall de América en Minnesota, luego de detener a un joven de dieciocho años que había comprado un fusil de asalto a un agente encubierto. En Rusia crece la preocupación sanitaria por un posible segundo caso de peste neumónica en Siberia, mientras China confirmó que coopera con el gobierno ruso. Y en Kenia se confirmó el primer caso de ébola de su historia, en un paciente que había viajado desde el Congo. En Brasil, el Senado debate una reducción de la jornada laboral que impulsa Lula de cara al balotaje presidencial.\n\nLe Grand Continent analiza esta tarde dos temas. Por un lado, el deterioro del debate público en las democracias occidentales, del caso Dreyfus hasta Gaza. Por otro, cómo el liderazgo de Estados Unidos en inteligencia artificial de vanguardia convive con un déficit comercial que se duplicó desde enero y llegó a los ciento cinco mil seiscientos millones de dólares en agosto.\n\nEn deportes, Franco Colapinto vuelve a la pista este fin de semana en el Gran Premio de Singapur de Fórmula 1, con Alpine, en un circuito urbano exigente y con formato Sprint. La Selección argentina ya sabe que jugará dos amistosos en la ventana de noviembre, los primeros sin Lionel Messi, que un día después de su despedida publicó un mensaje recordando a Diego Maradona y a su padre Jorge. La Euroliga de básquet, en tanto, rechazó una oferta de la NBA para fusionar sus competencias en Europa.\n\nPara cerrar, una recomendación de turismo: en Santa Cruz, El Chaltén sigue siendo la puerta de entrada a la Laguna de los Tres, una de las postales más icónicas de la Patagonia, con el Fitz Roy de fondo, ideal para quienes buscan trekking de montaña.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Todas las fuentes respondieron sin errores en esta corrida. Se evitó repetir temas ya cubiertos en las ediciones de la mañana y el mediodía (industria y construcción de agosto, Código Contravencional porteño, paritaria de Camioneros, estancia de Península Valdés) salvo cuando había novedades concretas.",
+ "slug": "2026-10-07-tarde",
+ "generado_ba": "07/10/2026 21:15"
+}
