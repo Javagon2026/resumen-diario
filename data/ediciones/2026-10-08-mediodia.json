@@ -1,0 +1,841 @@
+{
+ "fecha": "2026-10-08",
+ "edicion": "mediodia",
+ "titulo": "Inflación porteña se acelera, Aysa cambia de manos y escalada hutí sube el petróleo",
+ "apertura": "La inflación de la Ciudad de Buenos Aires se aceleró en septiembre y funciona como adelanto del dato nacional, mientras el Gobierno adjudicó la privatización de Aysa a un consorcio local por 340 millones de dólares. En el plano internacional, los hutíes intensificaron sus ataques contra Arabia Saudita y empujaron al petróleo por encima de los 105 dólares, en medio del temor a un ataque de Estados Unidos a Irán. En lo político, la CGT vuelve a movilizarse y se profundiza la interna libertaria por el Senado, mientras Franco Colapinto llega confiado al Gran Premio de Singapur.",
+ "claves": [
+  "La inflación de CABA se aceleró a 1,8% en septiembre (1,7% en agosto) y acumula 32,9% interanual; es el adelanto del IPC nacional que el INDEC difunde la semana próxima.",
+  "El consorcio de Rowing y Transclor, con Daniel Vila y José Luis Manzano entre sus socios, se quedó con el 90% de Aysa tras ofertar US$ 340,2 millones, por encima de los US$ 285 millones de Roggio.",
+  "Los hutíes atacaron aeropuertos de Arabia Saudita y advirtieron a los trabajadores petroleros sauditas que huyan de las refinerías; el petróleo Brent superó los US$ 105 por temor a un ataque de Estados Unidos a Irán.",
+  "La CGT vuelve a marchar contra el Gobierno en defensa de la industria nacional, mientras Karina Milei disputa con Patricia Bullrich el control de la comisión de Acuerdos del Senado.",
+  "Un relevamiento privado de 21 indicadores mostró que el consumo sigue en rojo: las ventas minoristas y el crédito caen pese a mejoras puntuales en patentamientos y confianza del consumidor.",
+  "Flavio Bolsonaro suma aliados y propone una fuerte tijera fiscal de cara al balotaje del 25 de octubre, mientras Lula apuesta al fin de la jornada laboral de seis días.",
+  "Franco Colapinto llega confiado al Gran Premio de Singapur y contó que lloró con la despedida de Lionel Messi de la Selección.",
+  "La AFA confirmó que Boca y River jugarán el superclásico el domingo 1° de noviembre en la Bombonera."
+ ],
+ "cifras": [
+  {
+   "nombre": "Inflación CABA (septiembre)",
+   "valor": "1,8%",
+   "variacion": "32,9% i.a.",
+   "fuente": "IB-14"
+  },
+  {
+   "nombre": "Privatización de Aysa (oferta ganadora)",
+   "valor": "US$ 340,2 millones",
+   "variacion": "20% sobre la oferta de Roggio",
+   "fuente": "CR-08"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 105,30 el barril",
+   "variacion": "+5,1%",
+   "fuente": "LN-15"
+  },
+  {
+   "nombre": "Ingreso de capitales a acciones brasileñas (efecto Bolsonaro)",
+   "valor": "US$ 2.000 millones",
+   "fuente": "AM-22"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-21",
+     "titulo": "La CGT vuelve a marchar contra Milei en defensa de la industria nacional",
+     "resumen": "La central obrera convocó a una movilización desde las 15 en Diagonal Sur y Perú, con destino a la sede de la Secretaría de Industria, en rechazo a la política económica del Gobierno. Es la última de una serie de protestas de la CGT contra la gestión de Javier Milei.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/cgt-vuelve-protestar-milei-marcha-centro-porteno-defensa-industria-nacional_0_iXTe4Ri0X1.html",
+     "imagen": "https://www.clarin.com/img/2026/08/20/iBDh-pbLd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:06",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La CGT vuelve a protestar contra Milei con una marcha al centro porteño en defensa de la industria nacional"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "Interna en La Libertad Avanza: Karina Milei acorrala a Bullrich en la comisión de Acuerdos del Senado",
+     "resumen": "La hermana del presidente impulsó una nueva jefatura libertaria para la comisión que define pliegos judiciales y las vacantes de la Corte Suprema, en momentos en que esa comisión debe resolver la sucesión de un senador fallecido. La maniobra profundiza la disputa interna con Patricia Bullrich.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/interna-la-libertad-avanza-karina-milei-acorrala-patricia-bullrich-comision-clave-del-senado-n6331509",
+     "imagen": "https://media.ambito.com/p/2320ceaab5eaa0d6d1fed8417ff0144e/adjuntos/239/imagenes/042/159/0042159211/patricia-bullrich-y-karina-mileijpeg.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:06",
+     "autor": "",
+     "titulo_original": "Interna en La Libertad Avanza: Karina Milei acorrala a Patricia Bullrich en comisión clave del Senado"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Pichetto cuestionó a Milei y afirmó que Karina \"está supliendo\" al presidente",
+     "resumen": "El diputado y titular de Encuentro Federal criticó el uso de los DNU y el rumbo económico del Gobierno, advirtió por el impacto sobre la industria y puso en duda las chances de reelección de Javier Milei.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/miguel-angel-pichetto-cuestiono-javier-milei-y-aseguro-que-karina-esta-supliendo-al-presidente-n6331536",
+     "imagen": "https://media.ambito.com/p/c39e886cfd395bc8b11a6a8965df9fc3/adjuntos/239/imagenes/043/415/0043415687/1200x675/smart/pichetto.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:12",
+     "autor": "",
+     "titulo_original": "Miguel Ángel Pichetto cuestionó a Javier Milei y aseguró que Karina \"está supliendo\" al Presidente"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Un diputado kirchnerista cruzó con un exabrupto a la funcionaria que defiende la Ley Malvinas",
+     "resumen": "Germán Martínez, jefe del bloque K en Diputados, increpó con la frase \"te estás cagando de risa, nena\" a María Ibarzábal Murphy, secretaria Legal y Técnica, durante su exposición en el plenario de comisiones por el proyecto de Defensa de la Soberanía de Malvinas. El episodio agrega tensión al debate que el Gobierno viene sosteniendo en el Congreso.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/cagando-risa-nena-exabrupto-jefe-bloque-k-diputados-funcionaria-milei-defendio-ley-malvinas_0_usS0iV8Iha.html",
+     "imagen": "https://www.clarin.com/img/2026/10/07/sF3-pNigv_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:50",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Te estás cagando de risa, nena\": el exabrupto del jefe del bloque K en Diputados contra una funcionaria de Milei que defendió la Ley Malvinas"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Sospechan sabotaje en el primer cargamento de exportación de la mina de Río Turbio",
+     "resumen": "El gobernador de Santa Cruz, Claudio Vidal, denunció un descarrilamiento en el primer envío de 600 toneladas de carbón, parte de un contrato por 210.000 toneladas. El interventor nacional, Pablo Gordillo, apuntó a la interna gremial y a sectores que se oponen a la privatización de la mina.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/descarrilamiento-sospechas-sabotaje-primer-cargamento-exportacion-rio-turbio_0_eGYOgXjNll.html",
+     "imagen": "https://www.clarin.com/img/2026/10/08/YDS7uULLV_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Descarrilamiento y sospechas de sabotaje en el primer cargamento de exportación desde la mina de Río Turbio"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "El Gobierno acumula malestar con el arzobispo de Buenos Aires, pero evita confrontar con la Iglesia",
+     "resumen": "En la Casa Rosada reconocen una relación \"tensa\" con monseñor Jorge García Cuerva, a quien acusan de alinearse con el discurso opositor, aunque diferencian esa tensión del vínculo con la Conferencia Episcopal. El Gobierno busca evitar un conflicto mayor de cara a la organización de la visita del papa León XIV al país.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/08/el-gobierno-acumula-malestar-contra-garcia-cuerva-pero-diferencia-la-tension-del-vinculo-con-la-iglesia/",
+     "imagen": "https://www.infobae.com/resizer/v2/AH3BD4XFN5CBVNXK3KW4Z2YWSE.JPG?auth=76bcdf6665e5337805b3765d91ac5511f5d527be8993f3808c92e703482eccd5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:12",
+     "autor": "Sofia Rojas",
+     "titulo_original": "El Gobierno acumula malestar contra García Cuerva, pero diferencia la tensión del vínculo con la Iglesia"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "El Gobierno porteño impulsa una reforma del Código Contravencional con más multas y arrestos",
+     "resumen": "El proyecto baja la edad de responsabilidad contravencional de 18 a 14 años, eleva montos de multas y plazos de arresto, e incorpora figuras para perseguir estafas digitales, acoso callejero y suplantación de identidad. El ministro de Justicia porteño, Gabino Tapia, defendió la iniciativa como una forma de que los incumplimientos tengan consecuencias.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/08/el-gobierno-porteno-adelanto-la-discusion-legislativa-por-la-reforma-del-codigo-contravencional-dejara-las-posturas-claras/",
+     "imagen": "https://www.infobae.com/resizer/v2/GL3VSWLIBJHVZBVXDSPW2YL5QE.png?auth=82654d37591dfdba541dbc623ff2df8e50714514e696b5118f95552f1e05225a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:46",
+     "autor": "Alejandro Caminos",
+     "titulo_original": "El gobierno porteño adelantó la discusión legislativa por la reforma del Código Contravencional: “Dejará las posturas claras”"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-14",
+     "titulo": "La inflación de CABA se aceleró a 1,8% en septiembre y funciona como adelanto del dato nacional",
+     "resumen": "El índice porteño subió frente al 1,7% de agosto, impulsado por vivienda, alimentos, educación y medicina prepaga, y acumula 23,7% en los primeros nueve meses del año. En la comparación interanual llegó a 32,9%, una leve desaceleración respecto del 33,3% de agosto. El dato se considera un precursor del IPC nacional que el INDEC difundirá la semana próxima.",
+     "relacionadas": [
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La inflación porteña tuvo una leve aceleración en septiembre pero se mantuvo por debajo del 2%",
+       "url": "https://www.clarin.com/economia/inflacion-portena-leve-aceleracion-septiembre-mantuvo-debajo-2_0_ZIrf6IDkm8.html"
+      },
+      {
+       "id": "CR-04",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La inflación en CABA fue de 1,8% en septiembre y acumula 32,9% en los últimos 12 meses",
+       "url": "https://www.cronista.com/economia-politica/la-inflacion-en-caba-fue-de-18-en-septiembre-y-acumula-329-en-los-ultimos-12-meses/"
+      },
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La inflación en CABA se aceleró al 1,8% en septiembre, impulsada por educación, vivienda y alimentos",
+       "url": "https://www.ambito.com/economia/la-inflacion-caba-se-acelero-al-18-septiembre-impulsada-educacion-vivienda-y-alimentos-n6331545"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/08/la-inflacion-en-la-ciudad-de-buenos-aires-fue-de-18-en-septiembre-y-acumulo-un-329-en-los-ultimos-doce-meses/",
+     "imagen": "https://www.infobae.com/resizer/v2/ET7Q2P46LZCXDLLYS2F5SYF6DE.jpg?auth=74de9741905142c14e4475a60ed2efaa94491b8b1b7adff9dbaedb6acbe890ac&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:00",
+     "autor": "Natalia Donato",
+     "titulo_original": "La inflación en la Ciudad de Buenos Aires fue de 1,8% en septiembre y acumuló un 32,9% en los últimos doce meses"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Los bonos en dólares rebotan y el riesgo país se acerca a los 590 puntos",
+     "resumen": "Los títulos soberanos repuntan en Wall Street y, a nivel local, las acciones de la Bolsa porteña anotan subas generalizadas de hasta 3%. Para una empresa, estos movimientos siguen siendo una señal a monitorear antes de planificar financiamiento en dólares.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/los-bonos-dolares-caen-segunda-rueda-consecutiva-y-el-riesgo-pais-se-mantiene-cerca-los-580-puntos-n6331482",
+     "imagen": "https://media.ambito.com/p/cc91500139f5e580cba129a5762fb8a5/adjuntos/239/imagenes/042/661/0042661761/mercados-bolsas-acciones-vivo-finanzas-inversiones-bonos-cedears-adr.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:37",
+     "autor": "",
+     "titulo_original": "Los bonos en dólares rebotan y el riesgo país se mantiene cerca de los 590 puntos"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "El dólar oficial sube tras tocar un mínimo de dos semanas",
+     "resumen": "El mayorista subió levemente a 1.518,5 pesos, con una brecha cercana al 27% respecto del techo de la banda cambiaria. La city ya proyecta distintos escenarios de cotización para fin de año.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-dolar-oficial-cayo-minimos-dos-semanas-y-la-city-anticipa-cuanto-llegara-fin-ano-n6331441",
+     "imagen": "https://media.ambito.com/p/38b1a668b86b2db91d79347666e297bb/adjuntos/239/imagenes/042/849/0042849200/dollars.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:30",
+     "autor": "",
+     "titulo_original": "El dólar oficial sube tras tocar mínimos de dos semanas y la city anticipa cuánto valdrá a fin de año"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Plazo fijo o dólar: qué conviene para los próximos seis meses según el mercado",
+     "resumen": "El último Relevamiento de Expectativas de Mercado proyecta una ventaja mínima para el dólar frente al plazo fijo en ese horizonte. El informe también evalúa qué puede pasar con las colocaciones ajustadas por UVA.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/plazo-fijo-o-dolar-cual-seria-la-mejor-inversion-los-proximos-6-meses-n6331188",
+     "imagen": "https://media.ambito.com/p/1ba5222a60fbc7b29596461ee4f6cc56/adjuntos/239/imagenes/043/548/0043548626/plazo-fijo-inversiones.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:30",
+     "autor": "",
+     "titulo_original": "Plazo fijo o dólar: cuál sería la mejor inversión durante los próximos 6 meses"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "La economía argentina ya muestra tres velocidades según la región",
+     "resumen": "Un informe de la Universidad Austral sostiene que los indicadores nacionales, como el EMAE o la tasa de desempleo, ya no reflejan bien la disparidad entre regiones: la agroindustria motoriza el centro, los hidrocarburos de Vaca Muerta el sur, y la minería el oeste y el norte. Para una empresa, conviene mirar la actividad por región antes de definir estrategias comerciales o logísticas, en lugar de guiarse solo por los promedios nacionales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/tres-motores-tres-velocidades-como-vaca-muerta-el-agro-y-la-mineria-transforman-el-empleo-y-la-actividad/",
+     "imagen": "https://www.cronista.com/resizer/v2/R7JTHK3AYNDHNHZPVQI6XVFISE.jpg?auth=e35bb63895a0bd2483afbbbbdfd2d28807e9a16093ff54ff988f98637b1014d4&smart=true&width=900&height=560",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:50",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Tres motores, tres velocidades: cómo Vaca Muerta, el agro y la minería transforman el empleo y la actividad"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "Un consorcio local se quedó con Aysa por 340 millones de dólares",
+     "resumen": "El grupo encabezado por Rowing, de Walter Román, y Transclor, de Mauricio Filiberti, junto a Daniel Vila y José Luis Manzano, ofertó 340,2 millones de dólares por el 90% de las acciones de la empresa de agua y saneamiento del AMBA, superando los 285 millones de Roggio. El nuevo operador asumirá la concesión por 30 años, con opción a prorrogarla una década más, y deberá afrontar inversiones por 2.000 millones de dólares.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Aysa vuelve a la gestión privada por u$s 340 millones: quién es el ganador",
+       "url": "https://www.cronista.com/economia-politica/con-una-oferta-de-us-3402-millones-la-privatizacion-de-aysa-ya-tiene-favorito/"
+      },
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El grupo de Filiberti ganó la licitación por AySA: cuánto ofreció y quiénes lo acompañan",
+       "url": "https://www.iprofesional.com/negocios/466174-el-grupo-de-filiberti-se-quedo-con-aysa-cuanto-pagara-y-quienes-son-sus-socios"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/08/un-grupo-empresario-local-ofrecio-usd-340-millones-y-se-quedo-con-la-concesion-de-aysa-por-30-anos/",
+     "imagen": "https://www.infobae.com/resizer/v2/D5CD3QGDWBDPDN7QZQGIV5YVII.jpg?auth=edf219e926692cc247b7f812513f7adc7921dfaedc91ad2e33f2678c10933e44&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:53",
+     "autor": "Lola Loustalot",
+     "titulo_original": "Un grupo empresario local ofreció USD 340 millones y se quedó con la concesión de Aysa por 30 años"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Renault advierte que la presión fiscal dificulta exportar y anticipa más autos chinos",
+     "resumen": "El presidente de Renault Argentina, Pablo Sibilla, alertó que la carga tributaria local complica la competitividad exportadora de la industria automotriz y anticipó una mayor llegada de vehículos chinos al mercado argentino.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/466179-renault-advierte-por-la-rentabilidad-de-los-autos-en-argentina-y-apunta-a-los-impuestos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/582300.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:36",
+     "autor": "",
+     "titulo_original": "Renault alerta por los costos en Argentina y anticipa qué pasará con los autos chinos"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "Electrofueguina, controlada por Frávega, avanzaría con despidos en Tierra del Fuego",
+     "resumen": "La firma fueguina aplicaría recortes entre operarios y supervisores, en un contexto de preocupación en toda la industria electrónica de la provincia por la caída del empleo sectorial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466189-electronica-controlada-por-fravega-activaria-despidos-en-el-sur",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596347.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:21",
+     "autor": "",
+     "titulo_original": "Electrofueguina, controlada por Frávega, activaría despidos y peligran decenas de empleos"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "Philip Morris acelera en la Argentina su giro hacia los productos de tabaco sin humo",
+     "resumen": "La compañía profundiza localmente la transformación de su modelo de negocio hacia nuevas categorías con nicotina, luego de los cambios regulatorios que habilitaron esos productos en el país. La Argentina pasó a ser uno de los mercados elegidos por la empresa para acelerar esa estrategia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/philip-morris-acelera-en-la-argentina-el-giro-de-su-negocio-hacia-los-productos-sin-humo/",
+     "imagen": "https://www.cronista.com/resizer/v2/6HULO3XNT5CRFL5YFUF3SAAYLE.jpg?auth=7ef84f67097ba137179220efec0d095bcc432ebec3abc7ec860b1fa546bb0726&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:21",
+     "autor": "Ricardo Quesada",
+     "titulo_original": "Philip Morris acelera en la Argentina el giro de su negocio hacia los productos sin humo"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Avanza el Corredor Andes-Atlántico, el acuerdo con Estados Unidos para energía, minería y transporte",
+     "resumen": "Una delegación técnica estadounidense está en el país para avanzar con la iniciativa lanzada el 23 de septiembre en Nueva York, que busca conectar el litio y el cobre del noroeste argentino y la cuenca de Vaca Muerta con los puertos del Atlántico. El embajador de Estados Unidos, Peter Lamelas, dijo que la delegación busca profundizar el diálogo con las autoridades locales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/que-es-el-corredor-andes-atlantico-el-millonario-acuerdo-con-eeuu-para-financiar-energia-mineria-y-transporte/",
+     "imagen": "https://www.cronista.com/resizer/v2/OP3HITV2WZFJRG5GQIMQG4O7CA.jpg?auth=cfa412ccd999791f274c8b4b2dd9aec20a6c3712151c156e2ace6ebdf119f1e6&smart=true&width=900&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:04",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Qué es el Corredor Andes-Atlántico, el millonario acuerdo con EE.UU. para financiar energía, minería y transporte"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "El Gobierno autorizó a Ethiopian Airlines a operar vuelos regulares de carga en el país",
+     "resumen": "La aerolínea de bandera etíope podrá prestar servicios internacionales de transporte de cargas, con derechos de tráfico de la tercera a la novena libertad, según el acuerdo bilateral vigente.",
+     "relacionadas": [
+      {
+       "id": "IP-21",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno habilitó a Ethiopian Airlines para operar vuelos regulares de carga en el país",
+       "url": "https://www.iprofesional.com/negocios/466180-ethiopian-airlines-podra-operar-vuelos-regulares-de-carga-en-argentina"
+      }
+     ],
+     "url": "https://www.ambito.com/negocios/el-gobierno-autorizo-una-nueva-aerolinea-operar-vuelos-regulares-carga-la-argentina-n6331430",
+     "imagen": "https://media.ambito.com/p/10edff22ec0075c7b3ae478e4f88ed7d/adjuntos/239/imagenes/042/785/0042785334/ethiopianairlansjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:04",
+     "autor": "",
+     "titulo_original": "El Gobierno autorizó a una nueva aerolínea a operar vuelos regulares de carga en la Argentina"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "Qué pasaría con alquileres, prepagas y contratos si Diputados rechaza el DNU 70/2023",
+     "resumen": "Una consultora privada examinó el escenario de una eventual derogación del decreto, que no implicaría un regreso automático al régimen vigente en diciembre de 2023. Para una empresa, vale la pena seguir de cerca el trámite legislativo porque de su resultado dependen las reglas de alquileres y de otros contratos que el DNU modificó.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/466187-dnu-702023-que-pasaria-con-alquileres-prepagas-y-contratos-si-se-deroga",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/03/592927.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:17",
+     "autor": "",
+     "titulo_original": "DNU 70/2023: qué podría pasar con alquileres, prepagas y contratos si Diputados lo rechaza"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Banco de horas: cómo funciona la modalidad laboral que ya aplican empresas",
+     "resumen": "Se trata de un mecanismo para compensar horas extra con tiempo libre en lugar de pago, dentro de ciertos límites legales que deben respetarse para que el acuerdo sea válido.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/466192-reforma-laboral-como-funciona-banco-de-horas-y-que-cambio-en-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612124.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:59",
+     "autor": "",
+     "titulo_original": "Banco de horas: cómo funciona la nueva modalidad laboral que ya aplican empresas"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "Transferencias entre cuentas propias: desde qué monto las investiga ARCA",
+     "resumen": "El organismo recaudador monitorea con alertas automáticas los movimientos entre cuentas de un mismo titular. Para una empresa, conviene revisar qué documentación de respaldo exige el fisco para este tipo de transferencias antes de realizarlas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/465704-transferencias-entre-cuentas-propias-desde-que-monto-investiga-arca",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617921.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Transferencias entre cuentas propias: desde qué monto investiga ARCA"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "La Justicia anuló un acuerdo laboral por usar un salario que no era el real",
+     "resumen": "Un fallo ordenó recalcular una indemnización después de determinar que la base salarial utilizada para el acuerdo no reflejaba los pagos no registrados que efectivamente recibía el trabajador.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/466178-justicia-anulo-acuerdo-laboral-seclo-salario-menor-real",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/624580.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:55",
+     "autor": "",
+     "titulo_original": "La Justicia anuló un acuerdo laboral porque el salario usado para calcularlo no era el real"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "Empleadas domésticas: cuánto se paga por hora en octubre",
+     "resumen": "ARCA actualizó la escala salarial del sector para octubre de 2026, con nuevos valores por hora y por mes y los adicionales que deben sumar los empleadores.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466161-sueldo-empleada-domestica-la-nueva-escala-salarial-de-arca-para-octubre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/569876.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:29",
+     "autor": "",
+     "titulo_original": "Empleadas domésticas: cuánto se paga por hora en octubre 2026"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "AM-01",
+     "titulo": "El consumo sigue en rojo: las ventas minoristas y el crédito caen pese a mejoras puntuales",
+     "resumen": "Un relevamiento privado de 21 indicadores mostró una recuperación parcial en agosto tras el fuerte retroceso de julio, aunque los primeros datos de septiembre reflejan un escenario dispar, con avances en patentamientos y en la confianza del consumidor, pero nuevas bajas en ventas y préstamos. Para una empresa de retail, el dato confirma que la recuperación del consumo sigue siendo desigual y conviene planificar el stock con cautela.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-consumo-no-logra-repuntar-las-ventas-minoristas-y-el-credito-siguen-caida-pese-la-mejora-algunos-sectores-n6331560",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:57",
+     "autor": "",
+     "titulo_original": "El consumo sigue en rojo: las ventas minoristas y el crédito caen pese a mejoras en sectores puntuales"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Cómo los dólares del colchón pueden bajar la barrera de entrada a un crédito hipotecario UVA",
+     "resumen": "Un informe de Focus Market muestra que una familia con dólares ahorrados puede usarlos como anticipo, lo que reduce el monto a financiar y también el ingreso mensual que exigen los bancos para otorgar el préstamo. Esta estrategia amplía el universo de familias que podrían acceder a una vivienda propia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/hipotecarios-uva-las-dos-maneras-en-que-los-dolares-del-colchon-pueden-bajar-la-barrera-de-entrada-al-credito/",
+     "imagen": "https://www.cronista.com/resizer/v2/GKUQXAX5GFCC5J5VEMNNYTDII4.jpg?auth=b5a82036f2152ca6e897f4ca7a2c3a4c1828b97c49fe9900e1e9b0f12a73c52b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:32",
+     "autor": "Audiencias Member",
+     "titulo_original": "Hipotecarios UVA: las dos maneras en que los “dólares del colchón” pueden bajar la barrera de entrada al crédito"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "Cuánto cobran un albañil, un electricista y un plomero en octubre",
+     "resumen": "Los valores de la mano de obra para arreglos y obras en una vivienda varían según el oficio, la zona y el tipo de trabajo. Para una empresa de materiales de construcción, es una referencia útil para entender el costo total que enfrenta el cliente final de una obra.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/465921-cuanto-cobran-un-albanil-un-electricista-y-un-plomero-por-su-trabajo-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626050.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:23",
+     "autor": "",
+     "titulo_original": "Cuánto cobran un albañil, un electricista y un plomero por su trabajo en octubre 2026"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "Coto ofrece cuotas sin interés en electrodomésticos y un outlet con fuertes rebajas",
+     "resumen": "La cadena lanzó promociones de hasta 18 cuotas sin interés y un outlet con descuentos de hasta 240.000 pesos para renovar electrodomésticos del hogar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/466116-coto-tiene-cuotas-sin-interes-en-electrodomesticos-como-saber-si-realmente-convienen",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608315.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:23",
+     "autor": "",
+     "titulo_original": "Coto tiene cuotas sin interés en electrodomésticos: cómo saber si realmente convienen"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "Puerto Dock Sud lanza un programa de liderazgo narrativo para empresarios y directivos",
+     "resumen": "El Consorcio de Gestión del Puerto Dock Sud presentó \"Comunicar para liderar\", una capacitación centrada en que las narrativas no son solo herramientas de comunicación sino que también inciden en cómo se conduce una empresa, dentro de la primera oferta educativa de Aula Puerto.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/transport-cargo/puerto-dock-sud-lanza-un-programa-de-liderazgo-narrativo-dirigido-a-empresarios-y-equipos-directivos/",
+     "imagen": "https://www.cronista.com/resizer/v2/3F5OKI5PRRC27M4MYT6ZYCHJXQ.jpeg?auth=22ac55da79de4e8f6551dcec983088064fda01d92b2ae75708c839280140a9bf&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:46",
+     "autor": "",
+     "titulo_original": "Puerto Dock Sud lanza un programa de liderazgo narrativo dirigido a empresarios y equipos directivos"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Nvidia y Amazon encabezan el ranking de ejecutivos que más acciones vendieron en el trimestre",
+     "resumen": "Mark Stevens, Jayshree Ullal y Jeff Bezos lideraron la lista de insiders tecnológicos que más vendieron acciones de sus propias compañías durante el tercer trimestre, en un momento de fuerte debate sobre las valuaciones del sector.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/de-nvidia-amazon-los-lideres-empresas-tecnologicas-que-mas-acciones-vendieron-el-tercer-trimestre-n6331513",
+     "imagen": "https://media.ambito.com/p/e67c06ccd806df2ca5184e6588c48fc4/adjuntos/239/imagenes/041/653/0041653955/wall-street-eeuu-mercados-acciones.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:21",
+     "autor": "",
+     "titulo_original": "De Nvidia a Amazon: los líderes de empresas tecnológicas que más acciones vendieron en el tercer trimestre"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-02",
+     "titulo": "Los hutíes atacan aeropuertos de Arabia Saudita y advierten a los trabajadores petroleros que huyan",
+     "resumen": "Se escucharon explosiones en Riad y se interrumpieron vuelos en el aeropuerto internacional, un día después de que el reino informara las primeras muertes de la escalada. Los rebeldes yemenitas, alineados con Irán, dijeron haber lanzado un misil balístico contra la terminal y advirtieron a trabajadores petroleros, aerolíneas y pasajeros que eviten las instalaciones que consideran objetivos.",
+     "relacionadas": [
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los rebeldes hutíes advirtieron a los trabajadores petroleros sauditas que huyan de las refinerías porque serán atacadas",
+       "url": "https://www.infobae.com/america/mundo/2026/10/08/los-rebeldes-huties-advirtieron-a-los-trabajadores-petroleros-sauditas-que-huyan-de-las-refinerias-porque-seran-atacadas/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/los-huties-atacan-aeropuertos-de-arabia-saudita-tres-muertos-vuelos-cancelados-y-una-advertencia-a-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PHY7ARCUIBEJPALZYXEL7NHOYA.JPG?auth=324d88ee7326946b546302c3ddc5ccfa2f37bac07d4db8de3b643faf197f69cb&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:04",
+     "autor": "",
+     "titulo_original": "Los hutíes atacan aeropuertos de Arabia Saudita: tres muertos, vuelos cancelados y una advertencia a las aerolíneas globales"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "El petróleo superó los 105 dólares por temor a un ataque de Estados Unidos a Irán",
+     "resumen": "El barril de Brent subió más de 5% ante versiones de que la Casa Blanca pidió al Pentágono preparar opciones de ataque a objetivos iraníes antes de las elecciones de medio término del 3 de noviembre. El West Texas Intermediate también avanzó con fuerza, hasta los 92,80 dólares.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-barril-de-petroleo-volvio-a-superar-los-us105-por-temor-a-ataques-de-estados-unidos-a-iran-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/65BHTKSATZFPHNG2GS5MMMDMQE.jpg?auth=c7b031423d259e6c52e6c2ef114101dc4e9defd83a7dd5fc9c28f1526df19424&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:09",
+     "autor": "",
+     "titulo_original": "El barril de petróleo volvió a superar los US$105 por temor a ataques de Estados Unidos a Irán"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "El repliegue de las fuerzas de Estados Unidos, del Golfo Pérsico a Gran Bretaña",
+     "resumen": "Un análisis sostiene que una guerra pensada para demostrar el alcance del poder estadounidense terminó logrando el efecto contrario, con una retirada de tropas que se extiende desde Medio Oriente hasta Europa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/retirada-trump-golfo-persico-gran-bretana-fuerzas-estadounidenses-repliegan_0_V0KNNAwiXp.html",
+     "imagen": "https://www.clarin.com/img/2026/10/08/a_zCls8Jx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La retirada de Trump: Desde el Golfo Pérsico hasta Gran Bretaña, las fuerzas estadounidenses se repliegan"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Flavio Bolsonaro suma aliados y Lula apuesta al miedo de cara al balotaje del 25 de octubre",
+     "resumen": "El candidato del PL sumó el respaldo del exgobernador Ronaldo Caiado y envió señales de distensión a la Corte, mientras Lula estrenó publicidad más agresiva y el Senado debate reducir la jornada laboral. Bolsonaro, que llega con ventaja tras la primera vuelta, propone un fuerte ajuste del gasto público inspirado en el estilo de Javier Milei.",
+     "relacionadas": [
+      {
+       "id": "CR-03",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "De la motosierra a la tijera: el plan de Flávio Bolsonaro para recortar el presupuesto de Brasil",
+       "url": "https://www.cronista.com/financial-times/de-la-motosierra-a-la-tijera-el-plan-de-flavio-bolsonaro-para-recortar-el-presupuesto-de-brasil/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-suma-aliados-y-tiende-un-puente-con-la-corte-mientras-lula-apuesta-al-miedo-y-al-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2UQ53DH22BGZJHIUDJV4ZXDUSI.jpg?auth=d81566af09bb52bf4a02aa2f04724efdb7a533a8d32fb69740e0c165022d5188&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:04",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "Flavio Bolsonaro suma aliados y tiende un puente con la Corte, mientras Lula apuesta al miedo y al fin de la “jornada 6x1”"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Alemania bloquea la compra de una empresa logística a la naviera china Cosco",
+     "resumen": "Las autoridades alemanas rechazaron la operación de la naviera estatal china al advertir riesgos para las cadenas de suministro de Alemania y de la Unión Europea, en un contexto de mayor control sobre la expansión de firmas logísticas chinas en el continente.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/08/alemania-bloquea-la-compra-de-una-empresa-a-la-china-cosco-por-riesgos-para-las-cadenas-de-suministro/",
+     "imagen": "https://www.infobae.com/resizer/v2/MKP2G7IY2JDW5OQHNFTLRIY6FI.JPG?auth=a3c314453f781c9f6020ea1cfcb487a78e7ee52c013df3d3cee0ef94bb05e3fa&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:22",
+     "autor": "",
+     "titulo_original": "Alemania bloquea la compra de una empresa a la china COSCO por riesgos para las cadenas de suministro"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Trump se vuelca en la campaña de medio término pero los republicanos se desmarcan",
+     "resumen": "A menos de un mes de las elecciones legislativas, el presidente intensifica sus actos de campaña para evitar que los demócratas tomen el Congreso, aunque su baja popularidad lleva a varios candidatos republicanos a tomar distancia en contiendas clave.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/trump-se-vuelca-en-la-campana-electoral-pero-los-republicanos-se-desmarcan-de-el_0_m3CwxBeya7.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Trump se vuelca en la campaña electoral pero los republicanos se desmarcan de él"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "El rearme europeo choca con su propio complejo burocrático-industrial",
+     "resumen": "Le Grand Continent analiza por qué Europa no logra traducir el aumento del gasto en defensa en poderío militar real, después de años marcados por la pandemia, la interrupción de las cadenas de suministro, la crisis energética y el regreso de la guerra al continente.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/08/defensa-europea-frente-al-complejo-burocratico-industrial-nacional/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/SIPA_sipahub60203071_000009-125x83.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:46",
+     "autor": "Louis Puel",
+     "titulo_original": "La defensa europea frente al complejo burocrático-industrial nacional"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "Colapinto llega confiado a Singapur: \"Tenemos un auto muy rápido\"",
+     "resumen": "Tras un discreto 13° puesto en Malasia, el piloto argentino se mostró optimista de cara al Gran Premio de Singapur, uno de los circuitos que más disfruta, con formato Sprint este fin de semana. Colapinto también contó que lloró con la despedida de Lionel Messi de la Selección: \"fue un momento muy emocionante para toda la Argentina\".",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Fórmula 1: cómo llega Franco Colapinto al GP de Singapur",
+       "url": "https://www.ambito.com/deportes/formula-1-como-llega-franco-colapinto-al-gp-singapur-n6331537"
+      },
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Gran Premio de Singapur: cronograma completo de Fórmula 1 y cómo es el circuito",
+       "url": "https://www.ambito.com/deportes/gran-premio-singapur-cronograma-completo-formula-1-y-como-es-el-circuito-n6331519"
+      },
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Franco Colapinto contó que lloró al ver la despedida de Lionel Messi de la selección argentina: “Una tristeza grande”",
+       "url": "https://www.infobae.com/deportes/2026/10/08/franco-colapinto-conto-que-lloro-al-ver-la-despedida-de-lionel-messi-de-la-seleccion-argentina-una-tristeza-grande/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/franco-colapinto-hablo-singapur-confia-cambiarle-cara-alpine-coche-rapido_0_HQiPTrHpi9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/08/S3T_RlYd4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:23",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Franco Colapinto habló desde Singapur y confía cambiarle la cara a Alpine: \"Tenemos un coche muy rápido\""
+    },
+    {
+     "id": "AM-24",
+     "titulo": "Inter Miami prepara una operación millonaria para retener a Messi después de 2028",
+     "resumen": "El contrato del argentino con la franquicia de la MLS termina al final de la temporada 2028, pero el club ya proyecta una inversión de entre 70 y 80 millones de dólares anuales para mantenerlo, con la posibilidad de una participación accionaria cuando deje de jugar.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/inter-miami-prepara-una-millonaria-operacion-retener-messi-despues-2028-como-es-el-plan-n6331460",
+     "imagen": "https://media.ambito.com/p/db1336db1a136654557841e0f892947e/adjuntos/239/imagenes/043/691/0043691270/1200x675/smart/lionel-messi.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:35",
+     "autor": "",
+     "titulo_original": "Inter Miami prepara una millonaria operación para retener a Messi después de 2028: cómo es el plan"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Boca y River jugarán el superclásico el domingo 1° de noviembre en la Bombonera",
+     "resumen": "La AFA confirmó el cronograma de las fechas 13, 14 y 15 del Torneo Clausura. Antes del partido más esperado del fútbol argentino, Boca visitará a Independiente y River recibirá a Racing.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/boca-river-ya-tiene-dia-y-hora-cuando-se-juega-el-superclasico-la-bombonera-n6331496",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:22",
+     "autor": "",
+     "titulo_original": "Boca-River ya tiene día y hora: cuándo se juega el Superclásico en la Bombonera"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Cerúndolo avanzó en el Masters de Shanghái y ahora enfrenta a Alcaraz",
+     "resumen": "El tenista argentino venció por doble 6-4 al colombiano Nicolás Mejía y se medirá con el español Carlos Alcaraz, tercero del mundo. En la misma jornada también avanzaron Sebastián Báez, Thiago Tirante y Camilo Ugo Carabelli, mientras cayeron Mariano Navone y Facundo Díaz Acosta.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/juan-manuel-cerundolo-avanzo-en-el-masters-1000-de-shanghai-y-se-enfrentara-con-carlos-alcaraz-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2KD7Y7IGKVGQNFIDETOIYSQO4M.JPG?auth=4e8a280994c8843a6f17110a8e5c87e0c59ca3ad9009884452723401b7faf2c0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:36",
+     "autor": "",
+     "titulo_original": "Juan Manuel Cerúndolo avanzó en el Masters 1000 de Shanghái y se enfrentará con Carlos Alcaraz"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Cristiano Ronaldo respondió con una agresión verbal a la crítica de un periodista",
+     "resumen": "El portugués estalló ante el cuestionamiento del excapitán de Portugal Jorge Jesus, hoy en el rol de periodista, y le respondió con una chicana sobre su aspecto físico. El exfutbolista Romario salió en defensa de Ronaldo en medio de la polémica.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/cristiano-ronaldo-respondio-critica-periodista-agresion-pareces-manzana-deja-usar-botox_0_y76WxsSvGL.html",
+     "imagen": "https://www.clarin.com/img/2026/08/14/9tB6F8iY3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cristiano Ronaldo respondió la crítica de un periodista con una agresión: \"Pareces una manzana, deja de usar botox\""
+    },
+    {
+     "id": "AM-08",
+     "titulo": "A un año de la muerte de Miguel Ángel Russo, Boca le rindió homenaje",
+     "resumen": "El club recordó con un video y mensajes en redes sociales al entrenador que lo llevó a conquistar la Copa Libertadores de 2007.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/a-un-ano-la-muerte-miguel-angel-russo-el-homenaje-que-le-dedico-boca-al-exentrenador-n6331577",
+     "imagen": "https://media.ambito.com/p/97b837a59706158fcad76e7f3fa7de34/adjuntos/239/imagenes/043/691/0043691782/1200x675/594x214:614x234/miguel-angel-russo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:44",
+     "autor": "",
+     "titulo_original": "A un año de la muerte de Miguel Angel Russo, el homenaje que le dedicó Boca al exentrenador"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Bruno Cabral, la nueva joya de las inferiores de River",
+     "resumen": "Con apenas 16 años, firmó su primer contrato profesional con el club de Núñez tras acumular 88 goles entre la Novena, la Octava y su categoría actual, la Séptima, con un promedio de más de un gol por partido.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/river-plate/bruno-cabral-la-nueva-joya-de-river-goles-blindaje-contractual-y-el-encuentro-con-lionel-messi-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SBZT7VD5SZFYXIEIAZSX5FMTOA.JPG?auth=44b15a62e0eca621667bb06b1d0be3f53605198ebf3d8ea5f73ad367d4cff79a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:10",
+     "autor": "Germán Balcarce",
+     "titulo_original": "Bruno Cabral, la nueva joya de River: goles, blindaje contractual y el encuentro con Lionel Messi"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "Un proyecto en Bariloche ofrece alojamiento a cambio de horas de voluntariado",
+     "resumen": "La iniciativa de bioconstrucción y hostelería Kostohunwe, publicada en la plataforma Worldpackers, busca viajeros dispuestos a colaborar 25 horas semanales, con un día libre, a cambio de hospedaje gratuito en el sur del país, una alternativa de turismo a menor costo en la Patagonia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-bariloche-ofrecen-alojamiento-a-cambio-de-25-horas-semanales-de-colaboracion/",
+     "imagen": "https://www.cronista.com/resizer/v2/4STC3VWYXBHBNEK3MV7X73PDPU.jpg?auth=118f97abacb110fa3441c5604f9fec8850fd6a08f0fae89a6a631a5e5026357d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:44",
+     "autor": "Gabriel Cuellar",
+     "titulo_original": "Buscan voluntarios para vivir en Bariloche: ofrecen alojamiento a cambio de 25 horas semanales de colaboración"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "El itinerario para exprimir Miami en 48 horas",
+     "resumen": "Una guía recomienda concentrarse en los distritos de Brickell, Downtown con su Museum Park, Little Havana y South Beach, contiguos al puerto, para quienes llegan a la ciudad antes o después de un crucero o solo tienen un fin de semana largo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/salud/el-secreto-para-exprimir-miami-en-48-horas-sin-perderse-de-nada-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TQWTL5OHFBCZXDJ7MBRXTVNGXI.jpg?auth=8803a57f72c65433d1b5b108803c3a43a1662b40437c00f61c2d04c0643059fe&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:07",
+     "autor": "Santiago Nasra",
+     "titulo_original": "El secreto para exprimir Miami en 48 horas (sin perderse de nada)"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-20",
+     "titulo": "La inseguridad alimentaria severa creció en la última década y ya afecta a más de 1,5 millones de hogares",
+     "resumen": "Según un estudio del Observatorio de la Deuda Social Argentina de la UCA, que comparó los censos de 2010 y 2022, la probabilidad de que un hogar sufra esta situación pasó de 7,94% a 9,49% a nivel nacional, lo que representa 550.000 hogares más. El impacto es desigual entre provincias: la de peor situación llega a 18,77%.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/la-geografia-del-hambre-hay-550000-hogares-argentinos-mas-con-inseguridad-alimentaria-severa-a-nivel-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5VNXWBYSSBDZJMPI6RYKSIWKLU.jpg?auth=afcb64186a89a08d5a030bf7142004b2fe0107aa0f05add2ede9ebf6e76ba4db&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:47",
+     "autor": "Aldana Rizzuto",
+     "titulo_original": "La geografía del hambre: hay 550.000 hogares más con inseguridad alimentaria severa y el total ya supera los 1,5 millones"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Pese a que se levantó la alerta naranja, el mal tiempo persiste en el AMBA",
+     "resumen": "El Servicio Meteorológico Nacional anticipa lluvias y lloviznas para los próximos días, tras acumulados de entre 50 y 80 milímetros, por el avance de un centro de bajas presiones que llevó tormentas desde el centro del país hacia la provincia de Buenos Aires.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Siguen las lluvias y el mal tiempo en el AMBA: para cuándo se espera una mejora en el pronóstico",
+       "url": "https://www.infobae.com/sociedad/2026/10/08/siguen-las-lluvias-y-el-mal-tiempo-en-el-amba-para-cuando-se-espera-una-mejora-en-el-pronostico/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/clima-amba-tiempo-seguira-gris-lluvioso-dias-ciudad_0_QdJfX9GMeM.html",
+     "imagen": "https://www.clarin.com/img/2026/10/08/_wtPl7qH4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Clima en el AMBA: el tiempo seguirá gris y lluvioso por unos días más en la Ciudad"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "El tren Sarmiento no funcionará varios días de octubre por obras",
+     "resumen": "La línea interrumpirá el servicio para renovar vías y el sistema de señalamiento, en el marco de la Emergencia Ferroviaria decretada por el Gobierno nacional para intervenir infraestructura con décadas de deterioro.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/08/que-dias-no-funcionara-el-tren-sarmiento-en-octubre-2026/",
+     "imagen": "https://www.infobae.com/resizer/v2/EN6CNGXQXRABHE24WRAGFGMWX4.jpg?auth=d456aada11ecbaec2cfcbb2c65131ef393f3b40424f24329592e4834f9b738e3&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:14",
+     "autor": "",
+     "titulo_original": "Qué días no funcionará el tren Sarmiento en octubre 2026"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Un fallo judicial extendió un año más la actividad de un colegio que iba a cerrar en diciembre",
+     "resumen": "La Cámara de Apelaciones de Lomas de Zamora resolvió la continuidad de las autoridades del Instituto Almafuerte, al que asisten más de 1.400 alumnos, y prorrogó el cierre de sus actividades hasta la finalización del ciclo lectivo 2027.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/un-historico-colegio-estuvo-a-horas-de-cerrar-sus-puertas-pero-un-fallo-extendio-su-vida-por-un-ano-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CMDNO7D3RFHZ3OR3KZ3PGUP24M.jpeg?auth=3e4a40aaf6c4a2f63fe109564573f3abff64fdde26eec9d75fe614657295cb78&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:03",
+     "autor": "Manuel Casado",
+     "titulo_original": "Un histórico colegio estuvo a horas de cerrar sus puertas, pero un fallo extendió su vida por un año más"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del jueves ocho de octubre.\n\nLa city reacciona a una nueva aceleración de la inflación porteña, el Gobierno adjudicó la privatización de Aysa a un consorcio local por trescientos cuarenta millones de dólares, y la tensión en Medio Oriente volvió a empujar al petróleo, con ataques hutíes contra Arabia Saudita. En el plano político, la Confederación General del Trabajo vuelve a movilizarse contra el Gobierno y se profundiza la interna libertaria por el control del Senado, mientras Franco Colapinto llega confiado al Gran Premio de Singapur.\n\nAntes de entrar en los temas, un repaso de los números del panel de mercados. El dólar oficial cotiza en mil quinientos cuarenta pesos, el dólar blue en mil quinientos cincuenta pesos, y el oro se ubica en cuatro mil ciento cuarenta y ocho dólares la onza. El riesgo país cerró ayer en quinientos ochenta y seis puntos, aunque esta mañana los bonos rebotan y se acerca a los quinientos noventa. La inflación nacional de agosto fue de uno coma siete por ciento mensual, con una interanual de treinta y tres coma cinco por ciento.\n\nEn política, la CGT convocó a una nueva marcha contra el Gobierno en defensa de la industria nacional, con concentración en el centro porteño. En el oficialismo se profundiza una interna: Karina Milei impulsó una nueva jefatura en la comisión de Acuerdos del Senado, que define pliegos judiciales y vacantes de la Corte Suprema, en una maniobra que acorrala a Patricia Bullrich. El diputado Miguel Ángel Pichetto, por su parte, cuestionó la conducción del Ejecutivo y dijo que Karina Milei está supliendo al presidente. En el Congreso, además, un diputado kirchnerista cruzó con un exabrupto a la funcionaria que defiende la ley de Malvinas. Y en Santa Cruz se investiga un posible sabotaje en el primer cargamento de exportación de la mina de Río Turbio.\n\nEn economía, la novedad del mediodía es la inflación de la Ciudad de Buenos Aires: en septiembre fue de uno coma ocho por ciento, una leve aceleración frente al uno coma siete de agosto, y acumula treinta y dos coma nueve por ciento en los últimos doce meses. El dato, impulsado por vivienda, alimentos y educación, funciona como adelanto del índice nacional que el Indec difundirá la semana próxima. En paralelo, los bonos en dólares rebotan en Wall Street y las acciones porteñas suben hasta un tres por ciento, mientras el dólar oficial mayorista sube levemente, con una brecha cercana al veintisiete por ciento respecto del techo de la banda. El último relevamiento de expectativas de mercado proyecta una ventaja mínima para el dólar frente al plazo fijo en los próximos seis meses. Un informe de la Universidad Austral señala, además, que la economía argentina avanza hoy a tres velocidades distintas según la región: la agroindustria en el centro, los hidrocarburos en el sur, de la mano de Vaca Muerta, y la minería en el oeste y el norte, lo que vuelve engañoso mirar solo los promedios nacionales. Para una empresa, estas diferencias regionales conviene tenerlas presentes al planificar ventas o logística según la zona. Por último, el triunfo de Flavio Bolsonaro en la primera vuelta brasileña generó un ingreso récord de dos mil millones de dólares a las acciones de ese país, con el Ibovespa anotando su mayor suba en seis años y el real apreciándose más de cuatro por ciento.\n\nEn negocios, el Gobierno adjudicó la privatización de Aysa: un consorcio encabezado por Rowing y Transclor, con Daniel Vila y José Luis Manzano como socios, ofertó trescientos cuarenta millones de dólares por el noventa por ciento de la compañía y se quedó con la concesión por treinta años, superando la oferta de Roggio. En la industria automotriz, Renault advirtió que la presión fiscal dificulta las exportaciones y anticipó la llegada de más autos chinos al mercado local. En Tierra del Fuego, Electrofueguina, controlada por Frávega, avanzaría con despidos entre operarios y supervisores, lo que preocupa a toda la industria electrónica de la isla. Philip Morris, por su parte, acelera en la Argentina su giro de negocio hacia los productos de tabaco sin humo. Y una delegación técnica de Estados Unidos avanza en el Corredor Andes-Atlántico, el acuerdo de infraestructura para conectar el litio y el cobre del norte argentino y Vaca Muerta con los puertos del Atlántico.\n\nEn impuestos y normativa, una consultora privada analiza qué pasaría con los alquileres, las prepagas y los contratos si Diputados rechaza el decreto setenta de dos mil veintitrés, aunque aclaran que no implicaría volver automáticamente al régimen de diciembre de dos mil veintitrés. También se difunde el banco de horas, una modalidad que ya aplican varias empresas para compensar horas extra dentro de ciertos límites legales. La agencia de recaudación, además, monitorea con alertas automáticas las transferencias entre cuentas de un mismo titular a partir de determinados montos. En la Justicia, un fallo anuló un acuerdo laboral y ordenó recalcular una indemnización porque el salario usado para el cálculo no reflejaba los pagos no registrados. Y la escala de las empleadas domésticas se actualizó para octubre, con nuevos valores por hora y por mes.\n\nEn consumo y construcción, un relevamiento privado de veintiún indicadores confirma que el consumo sigue en rojo: las ventas minoristas y el crédito caen, aunque hay mejoras puntuales en patentamientos y en la confianza del consumidor. Un informe de Focus Market muestra que las familias con dólares ahorrados pueden usarlos como anticipo en los créditos hipotecarios UVA, lo que reduce el monto a financiar y baja la barrera de ingresos que piden los bancos. Para quienes necesitan contratar mano de obra, se conocieron los valores de octubre para un albañil, un electricista y un plomero, que varían según el oficio y la zona. Y Coto ofrece cuotas sin interés en electrodomésticos y un outlet con rebajas de hasta doscientos cuarenta mil pesos. Para una empresa del sector, estas señales conviene cruzarlas antes de definir el ritmo de reposición de stock para lo que resta del año.\n\nEn management, el Consorcio de Gestión del Puerto Dock Sud lanzó un programa de liderazgo narrativo para empresarios y equipos directivos, bajo la premisa de que comunicar decisiones y construir sentido compartido es cada vez más clave en la conducción de las empresas. Y en Wall Street, un ranking mostró que directivos de Nvidia y Amazon encabezaron la lista de ejecutivos que más acciones de sus propias compañías vendieron durante el tercer trimestre.\n\nEn el mundo, los rebeldes hutíes de Yemen intensificaron sus ataques contra Arabia Saudita: hubo explosiones en Riad, se interrumpieron vuelos y el grupo advirtió a los trabajadores petroleros sauditas que abandonen las refinerías porque serán atacadas. Ese clima bélico empujó al petróleo: el barril Brent superó los ciento cinco dólares, ante la posibilidad de que Estados Unidos ataque instalaciones iraníes antes de las elecciones de medio término de noviembre. Un análisis señala, además, que las fuerzas estadounidenses se repliegan desde el Golfo Pérsico hasta Gran Bretaña, una consecuencia no buscada de una guerra que pretendía mostrar el poderío de Washington. En Brasil, Flavio Bolsonaro sumó un aliado clave de cara al balotaje del veinticinco de octubre y propone una fuerte tijera fiscal, mientras Lula apuesta al miedo y a terminar con la jornada laboral de seis días. Y Alemania bloqueó la compra de una empresa logística por parte de la naviera estatal china Cosco, por el riesgo que representa para las cadenas de suministro europeas.\n\nLe Grand Continent analiza el rearme europeo y advierte que el continente choca con un obstáculo de fondo: un complejo burocrático e industrial nacional que le impide convertir el aumento del gasto en defensa en poder real, después de años marcados por la pandemia, la crisis energética y el regreso de la guerra.\n\nEn deportes, Franco Colapinto llegó confiado a Singapur, un circuito que le gusta, y dijo que Alpine tiene un auto muy rápido para el trazado nocturno, tras un discreto resultado en Malasia. El piloto también contó que lloró con la despedida de Lionel Messi de la Selección, un momento que calificó de muy emocionante para todo el país. Hablando de Messi, Inter Miami ya prepara una operación millonaria para retenerlo después de dos mil veintiocho, con una inversión anual de entre setenta y ochenta millones de dólares y una posible participación accionaria. La AFA confirmó que el superclásico entre Boca y River se jugará el domingo primero de noviembre en la Bombonera. En tenis, Juan Manuel Cerúndolo avanzó en el Masters mil de Shanghái y ahora enfrentará a Carlos Alcaraz. Y Boca le rindió homenaje a Miguel Ángel Russo, a un año de su muerte, recordando su título de la Copa Libertadores de dos mil siete.\n\nEn turismo, un proyecto de bioconstrucción en Bariloche busca voluntarios dispuestos a colaborar veinticinco horas semanales a cambio de alojamiento gratuito, una alternativa de turismo más económica para conocer la Patagonia. Y para quienes viajan al exterior, una guía recomienda cómo aprovechar Miami en cuarenta y ocho horas, concentrándose en los barrios de Brickell, Downtown y South Beach.\n\nPor último, un informe de la Universidad Católica Argentina advirtió que la inseguridad alimentaria severa creció en la última década y ya afecta a más de un millón y medio de hogares en el país. Y en el AMBA, pese a que se levantó la alerta naranja, se esperan más lluvias y lloviznas en los próximos días.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Todas las fuentes respondieron sin inconvenientes en esta corrida. No se detectó en el material ninguna novedad sobre Tigre en esta franja horaria.",
+ "slug": "2026-10-08-mediodia",
+ "generado_ba": "08/10/2026 15:17"
+}
