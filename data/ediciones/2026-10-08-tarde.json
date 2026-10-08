@@ -1,0 +1,756 @@
+{
+ "fecha": "2026-10-08",
+ "edicion": "tarde",
+ "titulo": "Flybondi entra en concurso, el dólar retrocede y el petróleo sube por Oriente Medio",
+ "apertura": "Flybondi entró en concurso de acreedores con una deuda de 610.000 millones de pesos, mientras el dólar mayorista volvió a bajar y el petróleo subió más de 3% por el temor a una escalada en Oriente Medio. Donald Trump aseguró que no atacará a Irán antes de las elecciones de medio término, aunque los hutíes volvieron a golpear Arabia Saudita, y en el plano local crece la presión sobre Luis Caputo mientras la Justicia dejó firme el decomiso de bienes a los hijos de Cristina Kirchner. En el deporte, Franco Colapinto llegó a Singapur para el Gran Premio del fin de semana.",
+ "claves": [
+  "Flybondi entró en concurso de acreedores con una deuda de 610.000 millones de pesos y patrimonio neto negativo de 433.000 millones; quedó con solo 3 aviones operativos de los 19 que llegó a tener.",
+  "El dólar mayorista bajó a $1.515,50 y tocó un mínimo desde el 22 de septiembre, mientras el Merval rebotó más de 1% en dólares pero el riesgo país volvió a subir.",
+  "La Auditoría General de la Nación determinó que el Banco Central perdió US$ 1.023 millones en operaciones de derivados respaldadas con oro durante 2025.",
+  "Trump aseguró que Estados Unidos no atacará a Irán antes de las elecciones de medio término del 3 de noviembre, aunque mantendrá el bloqueo petrolero; el Brent y el WTI subieron más de 3% por la tensión en Oriente Medio.",
+  "Los hutíes atacaron por segunda vez en la semana el aeropuerto de Riad y dejaron las primeras muertes confirmadas de la escalada contra Arabia Saudita.",
+  "La Cámara de Casación dejó firme el decomiso de bienes a nombre de Máximo y Florencia Kirchner en la causa Vialidad.",
+  "Crece la presión sobre Luis Caputo dentro del Gobierno por el arranque de la economía, en la previa de su viaje a la cumbre del FMI en Tailandia.",
+  "Franco Colapinto llegó a Singapur para el Gran Premio del fin de semana, en el que Kimi Antonelli lidera el campeonato con amplia ventaja."
+ ],
+ "cifras": [
+  {
+   "nombre": "S&P Merval (dólares)",
+   "valor": "+1%",
+   "fuente": "AM-03"
+  },
+  {
+   "nombre": "Pérdida del BCRA por operaciones con oro (AGN)",
+   "valor": "US$ 1.023 millones",
+   "fuente": "AM-04"
+  },
+  {
+   "nombre": "Morosidad del crédito",
+   "valor": "13%",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Petróleo (Brent y WTI)",
+   "valor": "+3%",
+   "fuente": "CL-08"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "cayó tras cinco días prófugo el ex intendente de Aguas Blancas, acusado de lavar dinero narco",
+     "resumen": "La Policía detuvo a Carlos \"Conejo\" Martínez, imputado por orquestar contrataciones municipales que habrían servido de pantalla para comprar votos y proteger funcionarios vinculados al narcotráfico. En la causa hay otras once personas imputadas, cuatro de ellas familiares del exfuncionario.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/5-dias-profugo-detuvieron-carlos-conejo-martinez-exintendente-aguas-blancas-imputado-lavar-dinero-narco-municipio_0_DrRTWnDHpL.html",
+     "imagen": "https://www.clarin.com/img/2024/09/24/3qWxU8jMl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:27",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras 5 días prófugo, detuvieron a Carlos “Conejo” Martínez, el exintendente de Aguas Blancas: está imputado por lavar dinero narco en el municipio"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Casación dejó firme el decomiso de bienes a nombre de Máximo y Florencia Kirchner",
+     "resumen": "La Cámara de Casación rechazó el planteo de los hijos de Cristina Kirchner para frenar el avance sobre casas, terrenos, hoteles y departamentos anotados a su nombre, en la segunda etapa de decomisos de la causa Vialidad. El tribunal había dado los primeros pasos del embargo mientras sigue en trámite un recurso extraordinario.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Rechazan el intento de Máximo y Florencia Kirchner de frenar el decomiso de sus bienes",
+       "url": "https://www.iprofesional.com/legales/466228-rechazan-el-intento-de-maximo-y-florencia-kirchner-de-frenar-el-decomiso-de-sus-bienes"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/vialidad-casacion-dejo-firme-decomiso-bienes-nombre-maximo-florencia-kirchner_0_me1oap3JrA.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/5rSdmq1HS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Vialidad: Casación dejó firme el decomiso de bienes que están a nombre de Máximo y Florencia Kirchner"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "procesaron a la ex titular del Servicio Penitenciario por no frenar a jefes narco desde las cárceles",
+     "resumen": "El juez federal de Rosario Carlos Vera Barros procesó a María Laura Garrigós, ex titular del Servicio Penitenciario Federal, por abuso de autoridad y violación de los deberes de funcionaria pública. La acusación es no haber inhibido los celulares de cabecillas narco, que entre 2020 y 2021 siguieron dando órdenes delictivas desde la cárcel.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/procesaron-ex-titular-servicio-penitenciario-federal-k-impedir-lideres-narco-operaran-carceles_0_gsFcN3EVcx.html",
+     "imagen": "https://www.clarin.com/img/2020/06/16/-B8rA1JvG_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Procesaron a la ex titular del Servicio Penitenciario Federal K por no impedir que líderes narco operaran desde las cárceles"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "crece la presión política sobre Luis Caputo por el arranque flojo de la economía",
+     "resumen": "A seis meses de haber anunciado que venían \"18 meses de crecimiento\", el ministro de Economía enfrenta cuestionamientos internos del Gabinete y de economistas cercanos a Milei. Caputo participó de un acto en la escuela de dirigentes de La Libertad Avanza antes de viajar a Tailandia para la cumbre del FMI.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/despues-6-meses-crece-presion-politica-luis-caputo-arranque-economia_0_UWyhFBYQh0.html",
+     "imagen": "https://www.clarin.com/img/2026/10/08/Deyonuu1J_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Después de 6 meses, crece la presión política sobre Luis Caputo por el arranque de la economía"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "tensión entre Bullrich y Karina Milei por el pliego de la fiscal del caso Chocobar",
+     "resumen": "En la Comisión de Acuerdos del Senado, Patricia Bullrich cuestionó duramente a la fiscal Susana Pernas, la misma que pidió la cárcel para el policía Luis Chocobar, en momentos en que el oficialismo busca cubrir la vacante dejada por la muerte de Juan Carlos Pagotto. \"¿De qué lado está?\", le espetó la ministra de Seguridad durante la reunión.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/nueva-tension-entre-bullrich-y-karina-milei-que-puede-pasar-con-el-pliego-de-la-fiscal-del-caso-chocobar/",
+     "imagen": "https://www.cronista.com/resizer/v2/TNO6YT3OLRDN3ICGVI3YX2RGJU.JPG?auth=b9afc1693e784c7e1f69ffa996832e898d5e7e83b49e9c761c13174c292c4256&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:58",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Nueva tensión entre Bullrich y Karina Milei: qué puede pasar con el pliego de la fiscal del caso Chocobar"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "dos de cada tres bonaerenses quieren cambiar a la boleta única de papel",
+     "resumen": "Una encuesta de Isonomía mostró que el 64% de los bonaerenses respalda reemplazar la lista sábana por la boleta única, en momentos en que hay un proyecto en la Legislatura para aplicarla en las elecciones provinciales y municipales. Según La Nación, al 67% le parecería bien que la próxima elección a gobernador se haga bajo ese sistema.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La implementación de la Boleta Única de Papel en la provincia de Buenos Aires cosecha un amplio apoyo",
+       "url": "https://www.lanacion.com.ar/politica/la-implementacion-de-la-boleta-unica-de-papel-en-la-provincia-de-buenos-aires-cosecha-un-amplio-nid08102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/boleta-unica-lista-sabana-bonaerenses-quieren-cambiar-sistema-votacion_0_oipQsemuXo.html",
+     "imagen": "https://www.clarin.com/img/2025/10/26/NjH8c8Mnb_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:50",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boleta única o lista sábana: dos de cada tres bonaerenses quieren cambiar el sistema de votación"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "el Gobierno ratificó que Navitas y Rockhopper no tienen permiso para explorar petróleo en Malvinas",
+     "resumen": "El Poder Ejecutivo informó en la causa por presunto daño ambiental que tramita en Tierra del Fuego que ninguna de las dos empresas posee autorización de exploración petrolera en las islas. Ambas firmas quedaron además inhabilitadas para operar en el país durante 20 años.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/gobierno-ratifico-justicia-navitas-rockhopper-autorizacion-explorar-petroleo_0_1xHjo325sj.html",
+     "imagen": "https://www.clarin.com/img/2012/07/17/H1-dfV-Rml_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El gobierno ratificó en la justicia que Navitas y Rockhopper no tienen autorización para explorar petróleo"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "el Merval rebotó en dólares, pero el riesgo país volvió a subir",
+     "resumen": "Los títulos soberanos argentinos repuntaron en Wall Street y el S&P Merval en dólares avanzó más de 1%, en una rueda marcada por altibajos en la Bolsa porteña. Pese al rebote accionario, el riesgo país volvió a subir.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/los-bonos-dolares-caen-segunda-rueda-consecutiva-y-el-riesgo-pais-se-mantiene-cerca-los-580-puntos-n6331482",
+     "imagen": "https://media.ambito.com/p/2cd57991009ffecfc845a5bfc2dc518f/adjuntos/239/imagenes/043/284/0043284702/1200x675/smart/mercados-merval-bolsa-acciones-cedears-4.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:59",
+     "autor": "",
+     "titulo_original": "El S&P Merval en dólares rebotó más de 1%, pero volvió a subir el riesgo país"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "la AGN detectó una pérdida de más de 1.000 millones de dólares del Banco Central por operaciones con oro",
+     "resumen": "La Auditoría General de la Nación concluyó que el BCRA perdió US$ 1.023 millones en operaciones de derivados respaldadas con oro durante 2025. El organismo confirmó además que el Central ya recibió el informe sobre los envíos de reservas al exterior para presentar su descargo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/la-agn-revela-que-el-banco-central-perdio-mas-us1000-millones-operaciones-el-oro-n6331772",
+     "imagen": "https://media.ambito.com/p/e9bfded1ec1496cc66513bb9e21b9ed2/adjuntos/239/imagenes/043/633/0043633566/bausili-lingote-oro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:51",
+     "autor": "",
+     "titulo_original": "La AGN revela que el Banco Central perdió más de u$s1.000 millones por operaciones con el oro"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "el dólar mayorista volvió a valores de septiembre y se consolida el \"ancla\" cambiaria",
+     "resumen": "La divisa mayorista cedió a $1.515,50 tras una rueda con operaciones por US$ 501,6 millones, su valor más bajo desde el 22 de septiembre. En lo que va del año, el tipo de cambio comercial acumula una suba de 4,2%, muy por debajo de la inflación del período, cercana al 24%. Para una empresa: un dólar planchado por debajo de la inflación comprime márgenes en pesos y favorece renegociar plazos de pago en moneda extranjera antes de fin de año.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/08/el-dolar-opero-en-baja-volvio-a-valores-de-septiembre-y-se-consolida-el-ancla-cambiaria/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZBKWSR2HAJH3FJWKJU35IAMESM.jpg?auth=335c4fbebd543091bff38fee52787b0c944a8f547188f630e81f1df5651f59de&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:02",
+     "autor": "Juan Gasalla",
+     "titulo_original": "El dólar operó en baja, volvió a valores de septiembre y se consolida el “ancla” cambiaria"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "el petróleo sube más de 3% por el temor a una escalada en Oriente Medio",
+     "resumen": "El Brent y el WTI subieron más de 3% ante el temor a una reducción de las exportaciones del Golfo Pérsico por la tensión geopolítica. La inquietud por posibles ataques de Estados Unidos a Irán y una tormenta en el Golfo de México profundizaron la volatilidad del mercado petrolero. Para una empresa: una suba sostenida del crudo encarece fletes y costos logísticos de insumos importados, un factor a vigilar en la planificación de precios.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/petroleo-sube-ante-preocupacion-por-oriente-medio_0_FA5p7cWv0M.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Petróleo sube ante preocupación por Oriente Medio"
+    },
+    {
+     "id": "AM-02",
+     "titulo": "Wall Street cerró con mayoría de bajas tras un reporte que sacudió a las tecnológicas",
+     "resumen": "La suba del petróleo provocó una nueva ola de ventas de bonos y acciones en Nueva York. También pesó un informe que señaló que los ingresos anualizados de OpenAI fueron menores a los previstos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-repunte-del-petroleo-hace-tambalear-los-mercados-y-los-futuros-wall-street-adelantan-un-fuerte-retroceso-n6331452",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:02",
+     "autor": "Beatriz Dinovitzer",
+     "titulo_original": "Wall Street cerró con mayoría de bajas por un reporte sobre OpenAI que sacudió a las tecnológicas"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "la inflación no cede y la City elige coberturas ante el riesgo electoral",
+     "resumen": "La persistencia en la suba de precios siembra dudas entre los inversores, que buscan cobertura en bonos indexados y refugio en moneda extranjera en un clima de tensión previo a las elecciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/466063-la-inflacion-vuelve-a-subir-y-los-inversores-buscan-refugio-en-pesos-y-dolares",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/603263.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:30",
+     "autor": "",
+     "titulo_original": "La inflación no cede, surge el riesgo electoral y la City elige inversiones para cubrirse"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "casi 50 bancos y consultoras proyectan el precio del dólar para fin de año",
+     "resumen": "Según el último informe de FocusEconomics, 46 analistas relevados pusieron precio al tipo de cambio esperado para diciembre, en medio de la discusión sobre el ritmo de depreciación que seguirá el Gobierno tras las elecciones.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El dólar operó en baja, volvió a valores de septiembre y se consolida el “ancla” cambiaria",
+       "url": "https://www.infobae.com/economia/2026/10/08/el-dolar-opero-en-baja-volvio-a-valores-de-septiembre-y-se-consolida-el-ancla-cambiaria/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/466025-el-nuevo-precio-del-dolar-que-preven-46-bancos-y-consultoras",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/599928.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:00",
+     "autor": "",
+     "titulo_original": "Cuál es el precio del dólar que prevén casi 50 bancos y consultoras para fin de año"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "Flybondi entró en concurso de acreedores con una deuda de 610.000 millones de pesos",
+     "resumen": "La low cost detalló en su presentación judicial una deuda de $610.000 millones y un patrimonio neto negativo de más de $433.000 millones. La compañía, que llegó a operar 19 aviones y hoy solo tiene 3 en tierra, asegura que quiere seguir funcionando pese al colapso financiero.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Flybondi debe casi $610.000 millones, pero asegura que quiere seguir operando",
+       "url": "https://www.ambito.com/negocios/flybondi-debe-casi-610000-millones-pero-asegura-que-quiere-seguir-operando-n6331669"
+      },
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Qué pasará la plata de los pasajeros que tenían un vuelo comprado en Flybondi",
+       "url": "https://www.iprofesional.com/actualidad/465935-que-pasara-con-la-plata-de-pasajeros-que-debian-volar-con-flybondi"
+      },
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Por qué Flybondi entró en concurso y qué empresas ganan con el colapso de la low cost",
+       "url": "https://www.iprofesional.com/negocios/465925-que-lineas-aereas-ganan-con-el-colapso-de-flybondi-en-argentina"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/466226-flybondi-reconocio-ante-la-justicia-que-sufre-una-colosal-deuda",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/06/576286.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:58",
+     "autor": "",
+     "titulo_original": "Flybondi acumula una colosal deuda de $610.000 millones y estos son sus acreedores"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Telecentro compró Iplan por 260 millones de dólares",
+     "resumen": "La operación le permitirá a Telecentro sumar más de un millón de hogares pasados con fibra óptica y ampliar su presencia en ciudades como Córdoba, Rosario y Tucumán. Uno de los principales atractivos es el negocio corporativo que Iplan construyó durante más de dos décadas, con conectividad, telefonía y servicios en la nube para empresas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/telecentro-adquirio-iplan-por-us260-millones-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OTDBBUY52FDDJANPVXTRU5KTQU.jpg?auth=418840ab3cd09f9d97ff03936330e906b3ecbe489452931a316d280057f6c8b5&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:05",
+     "autor": "María Julieta Rumi",
+     "titulo_original": "Telecentro adquirió Iplan por US$260 millones"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "BYD vuelve a mirar el litio argentino para invertir en producción de baterías",
+     "resumen": "El canciller Pablo Quirno informó que la automotriz china BYD, la mayor fabricante de vehículos eléctricos del mundo, analiza invertir en la Argentina en la cadena de valor del litio, particularmente en baterías y sistemas de almacenamiento energético. El anuncio surgió de una reunión en Singapur con la vicepresidenta ejecutiva de la compañía, Stella Li.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/byd-vuelve-a-poner-la-mira-sobre-el-litio-argentino-analiza-invertir-en-produccion-de-baterias/",
+     "imagen": "https://www.cronista.com/resizer/v2/DHITIKZUKJE25LVMWPECZF3C3M.jpg?auth=efeb976272b4ac9bd0f2a26edd4234c910fd39399fd4a390be4efd89e312f2fc&smart=true&width=900&height=1201",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:58",
+     "autor": "Juan Manuel Compte",
+     "titulo_original": "BYD vuelve a poner la mira sobre el litio argentino: analiza invertir en producción de baterías"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "sospechan de un sabotaje tras el descarrilamiento de la única locomotora de Yacimientos Carboníferos Río Turbio",
+     "resumen": "La locomotora de YCRT descarriló con tres vagones y unas 600 toneladas de carbón en Santa Cruz, sin heridos de gravedad. El interventor de la empresa sostuvo que un artefacto ferroviario fue colocado deliberadamente sobre las vías, en medio de un proceso de privatización de la compañía estatal que todavía no avanzó.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/08/sospechas-y-denuncias-en-medio-de-la-interna-por-la-privatizacion-de-la-unica-minera-argentina-que-produce-carbon/",
+     "imagen": "https://www.infobae.com/resizer/v2/CHXS5BVVNVFQLMTJ2EXLAA7YQY.jpeg?auth=e10620eec1845135c352c275a0498c8d791f3179396eb35d528d4e6a42115d1a&smart=true&width=900&height=501",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:31",
+     "autor": "Lola Loustalot",
+     "titulo_original": "Sospechas y denuncias en medio de la interna por la privatización de la única minera argentina que produce carbón"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "la Justicia ordenó inhibir todos los bienes del grupo detrás de Granja Tres Arroyos por un presunto vaciamiento",
+     "resumen": "Extrabajadores de las plantas de Wade, antes Cresta Roja, denunciaron que la empresa retiraba a diario materias primas, insumos, documentación y maquinaria, además de desmontar líneas productivas. La Justicia Comercial hizo lugar al pedido e inhibió preventivamente los bienes de Granja Tres Arroyos, Wade, Avex y Holding Agroindustrial.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/granja-tres-arroyos-ex-empleados-denuncian-vaciamiento-y-la-justicia-ordeno-inhibir-todos-sus-bienes/",
+     "imagen": "https://www.cronista.com/resizer/v2/VT2TIWSZ6FA6NH6NCDBA7IZJIA.jpg?auth=34f5083021d82dd53228eb8b502caff9e77336e869c201db11c974f0e8fc71d3&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:28",
+     "autor": "",
+     "titulo_original": "Granja Tres Arroyos, ex empleados denuncian vaciamiento y la Justicia ordenó inhibir todos sus bienes"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "legisladores denuncian a funcionarios y buscan trabar la adjudicación de Aysa",
+     "resumen": "Integrantes de la comisión que debe controlar las privatizaciones denunciaron \"tasaciones secretas\" en el proceso que adjudicó Aysa a un consorcio privado por US$ 349 millones. El nuevo operador de la empresa de agua y saneamiento deberá cumplir metas de inversión definidas en el pliego.",
+     "relacionadas": [
+      {
+       "id": "IP-26",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "AySA: qué deberá hacer el nuevo dueño, cuánto tendrá que invertir y qué metas tendrá",
+       "url": "https://www.iprofesional.com/negocios/466194-aysa-cuanto-salio-comprarla-quien-compro-verdadero-costo"
+      }
+     ],
+     "url": "https://www.iprofesional.com/politica/466223-legisladores-buscan-trabar-la-privatizacion-de-la-empresa-aysa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627240.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:42",
+     "autor": "",
+     "titulo_original": "Privatización de AySA: legisladores denuncian a funcionarios y buscan trabar adjudicación"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-22",
+     "titulo": "tributaristas advierten que el nuevo impuesto de La Rioja equivale a un Ganancias provincial",
+     "resumen": "Especialistas señalan que el Aporte Extraordinario creado por La Rioja para empresas de alta facturación tiene el mismo alcance que el Impuesto a las Ganancias nacional y podría colisionar con el régimen de coparticipación federal. Para una empresa: quienes operan en la provincia deberían revisar su exposición fiscal combinada antes de que el tributo se replique en otras jurisdicciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/466168-nuevo-impuesto-provincial-igual-a-ganancias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/627190.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:47",
+     "autor": "",
+     "titulo_original": "El nuevo impuesto provincial sobre empresas con igual alcance que Ganancias"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "sobreseyeron a un técnico de Suizo Argentina en la causa Andis por negarse a desobedecer una orden",
+     "resumen": "La Sala I de la Cámara Federal consideró que no correspondía imputar por desobediencia al empleado que se negó a blanquear las contraseñas de los directivos de la empresa, luego de que el abogado de Suizo Argentina le indicara que no estaba obligado a hacerlo. Los jueces entendieron que no hubo dolo en su conducta.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/causa-andis-sobreseyeron-un-tecnico-suizo-argentina-acusado-desobediencia-n6331741",
+     "imagen": "https://media.ambito.com/p/a22050c74e5c652ab72ff72510e83c2d/adjuntos/239/imagenes/043/223/0043223297/andis-y-el-foco-la-drogueria-suizo-argentina.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:47",
+     "autor": "",
+     "titulo_original": "Causa ANDIS: sobreseyeron a un técnico de Suizo Argentina acusado de desobediencia"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "en qué casos una persona o una empresa puede pedir su propia quiebra y cómo la perjudica",
+     "resumen": "La Ley de Concursos y Quiebras habilita tanto a empresas como a personas humanas insolventes a solicitar judicialmente el ordenamiento de sus deudas cuando no pueden cumplir sus vencimientos. La abogada Muriel Mazzeo Hambo explicó los requisitos y las consecuencias del procedimiento. Para una empresa: entender este mecanismo es clave para evaluar proveedores o clientes en dificultades financieras, un escenario que cobra relevancia tras casos como el de Flybondi.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/deudas-en-que-casos-puedo-pedir-mi-propia-quiebra-y-cuanto-me-perjudica/",
+     "imagen": "https://www.cronista.com/resizer/v2/VAOW7OXN4REMLJFOOHZOR3LUSU.jpg?auth=013f9f90dc3fa4b94e2cc51f5c5f06c62f29ea9f5039b7c15467f453027c961d&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:28",
+     "autor": "Florencia García Alegre",
+     "titulo_original": "Deudas: en qué situación puedo pedir mi propia quiebra y de qué manera me perjudica"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-13",
+     "titulo": "cuánto cuesta remodelar un baño: el precio de la mano de obra de cada oficio",
+     "resumen": "Remodelar un baño es una de las obras más habituales en una vivienda, pero también una de las que más fácilmente termina costando más de lo previsto. El relevamiento detalla los valores de mano de obra por oficio, desde plomería hasta colocación de revestimientos. Para una empresa: el desglose de costos por oficio es un indicador útil para calibrar precios de materiales y servicios de remodelación, un segmento clave del negocio minorista.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/466182-costo-de-remodelacion-de-un-bano-precios-de-albanileria-y-plomeria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/06/576967.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:55",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta remodelar un baño: precio de la mano de obra y los costos de cada oficio"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "el grupo danés Bestseller abre sus primeras tres tiendas en Argentina en Unicenter",
+     "resumen": "Jack & Jones, Only y Balmohk, marcas del holding danés Bestseller, desembarcan el 23 de octubre de la mano de Grupo One, que también trajo a Decathlon y Kiabi. La inversión prevista es de US$ 50 millones en cinco años, con el objetivo de llegar a 40 locales en el país.",
+     "relacionadas": [
+      {
+       "id": "IP-21",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Tres marcas internacionales de ropa llegan a Argentina con descuentos de hasta el 40%",
+       "url": "https://www.iprofesional.com/actualidad/466200-tres-marcas-internacionales-llegan-a-un-shopping-con-40-de-descuento"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/otro-holding-de-la-moda-llega-al-pais-abre-los-primeros-tres-locales-de-sus-marcas-globales-en-un-mismo-shopping/",
+     "imagen": "https://www.cronista.com/resizer/v2/FMAKMENAMJHMTCYXAG4ICAQUTA.jpg?auth=336ca34c7e248300d4ff03f30e0a5b8f87e8dda848cc99e6563a8052524716dd&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:12",
+     "autor": "Micaela Mura",
+     "titulo_original": "Otro holding de la moda llega al país: abre primeros tres locales de sus marcas globales en un mismo shopping"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "la brasileña Morana, mayor cadena de bijouterie de \"lujo accesible\", abrió su primera tienda fuera de Brasil en Buenos Aires",
+     "resumen": "La firma llegó de la mano de Blue Star Group, dueño de Todomoda, Isadora y Atelier, e inauguró su primer local sobre la avenida Santa Fe, en Recoleta. La empresa prevé abrir al menos diez locales más en el país hacia 2027 y ya negocia con los principales shoppings.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-mayor-cadena-de-bijouterie-de-lujo-accesible-de-brasil-cruzo-la-frontera-por-primera-vez-su-socio-decisivo/",
+     "imagen": "https://www.cronista.com/resizer/v2/3L7RUVOKP5GHJBLRQ44PVQHZ3Y.JPG?auth=aad1ea1cb7ccf569ddd56c2f235d8cec30409f12d60e7f5fd798a91cae97a1fe&smart=true&width=900&height=1350",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:10",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "La mayor cadena de bijouterie de “lujo accesible” de Brasil cruzó la frontera por primera vez: su socio decisivo"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "cuánto sueldo hace falta para comprar metros cuadrados en Puerto Madero, Núñez y Lugano",
+     "resumen": "El precio de la vivienda varía fuertemente según la zona porteña y modifica cuánto del salario debe destinarse para adquirir cada metro cuadrado. El relevamiento compara barrios de alta, media y baja gama dentro de la Ciudad de Buenos Aires.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/466198-de-puerto-madero-a-lugano-cuantos-sueldos-cuesta-un-metro-cuadrado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610436.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:22",
+     "autor": "",
+     "titulo_original": "Cuánto alcanza el sueldo para comprar metros cuadrados en Puerto Madero, Núñez y Lugano"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-08",
+     "titulo": "la regla número uno de Warren Buffett para invertir sigue vigente después de 50 años",
+     "resumen": "\"Nunca perder dinero\" es la frase más repetida de Warren Buffett, aunque no implica que una inversión deba subir siempre ni que exista una forma de eliminar el riesgo. Detrás de la consigna hay una filosofía construida durante décadas al frente de Berkshire Hathaway: cuidar el capital antes de salir a buscar rentabilidad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-regla-n1-de-warren-buffett-para-invertir-que-sigue-vigente-despues-de-50-anos/",
+     "imagen": "https://www.cronista.com/resizer/v2/TGDFIS27GBBU7LIAAKK3AE2CCI.jpg?auth=7d32092aca6038988aa88fed58d871f5a4e08829a6307e4aeaf6eece67d6ff8b&smart=true&width=900&height=571",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:30",
+     "autor": "Audiencias Member",
+     "titulo_original": "La regla n.°1 de Warren Buffett para invertir que sigue vigente después de 50 años"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "de militar a empresario: la estrategia del \"punto de no retorno\" de Mauro Stendel",
+     "resumen": "El empresario y exmilitar israelí Mauro Stendel relató en El Cronista Stream cómo su paso por el ejército moldeó su disciplina y su forma de encarar los negocios. Según explicó, la clave de su éxito empresarial está en no dejarse una puerta de salida una vez tomada una decisión.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-estrategia-del-punto-de-no-retorno-mauro-stendel-revela-los-secretos-de-su-exito-empresarial/",
+     "imagen": "https://www.cronista.com/resizer/v2/WVEA6SPRMBGKNME7LAN4Z5NXFA.png?auth=48822b9036ec4eabdc1f7b2cf83e5c06be574f2f58cd62be981a72bcdd0ee2eb&smart=true&width=900&height=520",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:03",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "La estrategia del “punto de no retorno”: Mauro Stendel revela los secretos de su éxito empresarial"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "los hutíes atacaron por segunda vez en la semana el aeropuerto de Riad y dejaron las primeras muertes",
+     "resumen": "Los rebeldes yemeníes alineados con Irán intensificaron su campaña contra Arabia Saudita con un ataque al aeropuerto internacional de la capital, un día después de las primeras muertes confirmadas por el reino en esta escalada. Los hutíes reiteraron su amenaza de forzar el cierre del espacio aéreo saudita.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/los-huties-atacan-aeropuertos-de-arabia-saudita-tres-muertos-vuelos-cancelados-y-una-advertencia-a-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PHY7ARCUIBEJPALZYXEL7NHOYA.JPG?auth=324d88ee7326946b546302c3ddc5ccfa2f37bac07d4db8de3b643faf197f69cb&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:52",
+     "autor": "",
+     "titulo_original": "Los hutíes atacan aeropuertos de Arabia Saudita: tres muertos, vuelos cancelados y una advertencia a las aerolíneas globales"
+    },
+    {
+     "id": "LN-03",
+     "titulo": "Trump aseguró que no atacará a Irán antes de las elecciones de medio término",
+     "resumen": "El presidente de Estados Unidos descartó nuevos ataques militares contra Teherán antes del 3 de noviembre, aunque mantendrá vigente el bloqueo petrolero. Trump calificó de \"productivas\" las conversaciones en curso con la República Islámica.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "EEUU, países europeos y Ucrania discutirán \"nuevas ideas\" para acabar la guerra con Rusia",
+       "url": "https://www.clarin.com/estados-unidos/eeuu-paises-europeos-y-ucrania-discutiran-nuevas-ideas-para-acabar-la-guerra-con-rusia_0_Pc9Wbpj4Id.html"
+      },
+      {
+       "id": "CR-04",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Trump asegura que EE.UU. “no atacará a Irán” antes de las elecciones",
+       "url": "https://www.cronista.com/financial-times/trump-asegura-que-eeuu-no-atacara-a-iran-antes-de-las-elecciones/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/trump-dice-que-no-atacara-iran-hasta-las-elecciones-de-medio-termino-en-eeuu-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MTW5CK7R6FDRVIFCJBPEAM4I3M.JPG?auth=9cea693f85ba81431908d33f041bfed79523c545442e8f7d9db2df13abbcf580&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:01",
+     "autor": "",
+     "titulo_original": "Trump dice que no atacará Irán hasta las elecciones de medio término en EE.UU."
+    },
+    {
+     "id": "LN-07",
+     "titulo": "Bolsonaro amplía su ventaja sobre Lula de cara al balotaje del 25 de octubre",
+     "resumen": "El Tribunal Superior Electoral de Brasil confirmó la segunda vuelta entre Flavio Bolsonaro, que lideró la primera ronda con 47%, y Lula da Silva, con 45%. Una encuesta de PoderData difundida esta semana le da al opositor una ventaja de seis puntos, con 53% contra 47%.",
+     "relacionadas": [
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La primera encuesta tras la sorpresa electoral revela una ventaja inédita de Flavio Bolsonaro frente a Lula",
+       "url": "https://www.lanacion.com.ar/el-mundo/la-primera-encuesta-tras-la-sorpresa-electoral-revela-una-ventaja-inedita-de-flavio-bolsonaro-frente-nid08102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-brasil-en-vivo-que-se-sabe-del-balotaje-entre-lula-y-bolsonaro-encuestas-y-ultimas-nid06102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2UQ53DH22BGZJHIUDJV4ZXDUSI.jpg?auth=d81566af09bb52bf4a02aa2f04724efdb7a533a8d32fb69740e0c165022d5188&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Qué se sabe del balotaje entre Lula y Bolsonaro, encuestas y últimas noticias"
+    },
+    {
+     "id": "IB-10",
+     "titulo": "la Corte Suprema de Brasil ordenó a Eduardo Bolsonaro empezar a cumplir una condena",
+     "resumen": "El magistrado Alexandre de Moraes dispuso que el exdiputado, hijo de Jair Bolsonaro y radicado en Estados Unidos, comience a cumplir la pena de cuatro años y dos meses de prisión por coacción a la Justicia, tras el rechazo de sus últimas apelaciones.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/08/el-supremo-de-brasil-ordena-que-eduardo-bolsonaro-comience-a-cumplir-una-de-sus-condenas/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:03",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "El Supremo de Brasil ordena que Eduardo Bolsonaro comience a cumplir una de sus condenas"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Rusia dio por terminadas las medidas sanitarias en Irkutsk, pero la causa de la muerte de una científica sigue sin aclararse",
+     "resumen": "El organismo ruso de defensa del consumidor afirmó que más de 5.500 análisis no detectaron patógenos peligrosos tras la muerte de Daria Shipílova, investigadora del instituto de estudios de la peste de Irkutsk. Las autoridades sostienen que murió de una neumonía de origen desconocido, mientras la Organización Mundial de la Salud reclama más información para evaluar el riesgo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/08/rusia-dio-por-concluidas-las-medidas-sanitarias-en-irkutsk-y-descarto-riesgo-epidemiologico-tras-la-muerte-de-una-cientifica/",
+     "imagen": "https://www.infobae.com/resizer/v2/X3VKVTZIUFDJ7IFJNXGEUAXMZE.JPG?auth=b3103a224dba9326c43fea14be7a4b6889c869ee4e218689141692d0db71266f&smart=true&width=900&height=676",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:11",
+     "autor": "",
+     "titulo_original": "Rusia dio por concluidas las medidas sanitarias en Irkutsk y descartó riesgo epidemiológico tras la muerte de una científica"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "Franco Colapinto llegó a Singapur con la vista puesta en dejar atrás dos carreras complicadas",
+     "resumen": "Tras el abandono en Bakú y la decimotercera posición en Malasia, el piloto argentino se presentó en el paddock del Circuito Urbano Marina Bay para el media day. Colapinto protagonizó un cruce con un hincha que llevaba la camiseta de la selección española de fútbol, a quien le dijo que \"está mal\".",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/franco-colapinto-llego-a-singapur-y-tuvo-un-cruce-con-un-fan-que-llevaba-la-camiseta-de-la-seleccion-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5WD7UYSYOVBI3B5QUDXLMYLQWE.jpg?auth=ca59952a14797e7f3e78fe635b165c541d2a3e6862863572481d070970c3f0e1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:24",
+     "autor": "",
+     "titulo_original": "Franco Colapinto llegó a Singapur y tuvo un cruce con un fan que llevaba la camiseta de la selección española: “Está mal”"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Kimi Antonelli llega al Gran Premio de Singapur con una amplia ventaja en el campeonato de pilotos",
+     "resumen": "Tras 16 carreras, el italiano de Mercedes suma 320 puntos y le saca una gran distancia a su compañero George Russell, segundo con 236. Franco Colapinto acumula 27 puntos en la temporada, que este fin de semana tiene su 17ª fecha en el circuito callejero de Marina Bay.",
+     "relacionadas": [
+      {
+       "id": "LN-23",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Cronograma del GP de Singapur de la Fórmula 1 2026",
+       "url": "https://www.lanacion.com.ar/deportes/automovilismo/cronograma-del-gp-de-singapur-de-la-formula-1-2026-nid08102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/asi-esta-la-tabla-de-posiciones-de-la-formula-1-2026-en-la-previa-del-gp-de-singapur-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LC2VEBOX3VD2BN4DZJCFBR4U6M.JPG?auth=d8eec10943f87886a6bf9a9b6dcae7b18cac81abdb37279ed825e10d94e7c449&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:23",
+     "autor": "",
+     "titulo_original": "Así está la tabla de posiciones de la Fórmula 1 2026, en la previa del GP de Singapur"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "multaron al capitán de Suiza que enfrentó a la Argentina en el Mundial por falsificar un certificado de Covid",
+     "resumen": "Granit Xhaka deberá pagar 160.000 euros por haber fraguado un certificado de vacunación durante la pandemia. El futbolista dijo que actuó por \"desconfianza hacia la vacuna\" y la pena no se hará efectiva si no comete una nueva infracción.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/multaron-capitan-seleccionado-suizo-enfrento-argentina-mundial-falsificar-certificado-covid_0_FW3RY0CQDu.html",
+     "imagen": "https://www.clarin.com/img/2026/09/25/Wv9ZsJWrLz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Multaron al capitán del Seleccionado Suizo que enfrentó a la Argentina en el Mundial por falsificar un certificado de Covid"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Julián Álvarez rompió con su representante tras la negociación frustrada con el Barcelona",
+     "resumen": "El delantero decidió terminar su vínculo de casi una década con Fernando Hidalgo después de quedar disconforme con la gestión del intento fallido de pase al Barcelona. Su padre, Gustavo Álvarez, ya busca una nueva agencia mientras el jugador sigue bajo contrato con el Atlético de Madrid hasta 2030.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/08/la-decision-que-tomo-julian-alvarez-sobre-su-futuro-tras-la-negociacion-trunca-con-el-barcelona/",
+     "imagen": "https://www.infobae.com/resizer/v2/ACAZSWCUGRCYXEF32P4ND24IOM.jpg?auth=c5770f4293bf5277b6f23cc46542424db693c4e8366530c12475df6651db69e7&smart=true&width=900&height=598",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:51",
+     "autor": "",
+     "titulo_original": "La decisión que tomó Julián Álvarez sobre su futuro tras la negociación trunca con el Barcelona"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "el imperio inmobiliario de Diego Simeone y su esposa Carla Pereyra suma 180 departamentos y siete edificios",
+     "resumen": "La empresaria, pareja del entrenador del Atlético de Madrid desde 2013, lidera un negocio inmobiliario que en 2024 alcanzó activos por casi 40 millones de euros, según una investigación del programa español \"Equipo de investigación\".",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/08/180-departamentos-y-siete-edificios-los-detalles-del-imperio-inmobiliario-de-diego-simeone-y-su-esposa-carla-pereyra/",
+     "imagen": "https://www.infobae.com/resizer/v2/GGS2PBN3ZZE5JLNJLEF3D43JUU?auth=ca812759a13ab20c37b6d19084717285863781109c9789936b4058bb523ebccd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:06",
+     "autor": "",
+     "titulo_original": "180 departamentos y siete edificios: los detalles del imperio inmobiliario de Diego Simeone y su esposa Carla Pereyra"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "sobreseyeron a familiares de Toviggino en la causa por lavado de dinero que apuntaba a la cúpula de la AFA",
+     "resumen": "El juez federal de Campana Adrián González Charvay sobreseyó a media docena de parientes del tesorero de la AFA, Pablo Toviggino, en el expediente iniciado en Santiago del Estero por el fiscal Pedro Simón, que había llegado a pedir la detención de los jerarcas del fútbol argentino.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-juez-federal-de-campana-sobreseyo-a-familiares-de-toviggino-en-una-causa-por-lavado-de-dinero-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Z2XWC3APSZCXPIA3HZQ6MLTZVQ.jpeg?auth=c3ed8d45c31a811006476dbda0432b9f7bfcb2871adfaa0df68eaa0c6e8aaeaa&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:53",
+     "autor": "Nicolás Pizzi",
+     "titulo_original": "El juez federal de Campana sobreseyó a familiares de Toviggino en una causa por lavado de dinero"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "Carlos Keen, el pueblo bonaerense que la gastronomía salvó del olvido",
+     "resumen": "A 80 kilómetros de la Ciudad de Buenos Aires y a una hora en auto, este pueblo ferroviario del partido de Luján se convirtió en un polo gastronómico con más de 20 restaurantes desde que el tren dejó de pasar. Es una de las opciones elegidas para el fin de semana largo de octubre, con paisaje pampeano y un ritmo pausado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/fin-de-semana-largo-el-refugio-a-una-hora-de-caba-ideal-para-disfrutar-de-gastronomia-clasica-y-la-naturaleza/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZFS77N7CANDXHBGR4YTV7OJIRU.png?auth=f19fd08da8f00630e564357465f8f687c350ce5d68abf2115df45b2daabb6fd3&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:37",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Fin de semana largo: el refugio a una hora de CABA, ideal para disfrutar de gastronomía clásica y la naturaleza"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "el riesgo de suicidio adolescente aumenta a partir de los 15 años, según Unicef",
+     "resumen": "El nuevo Monitor de Unicef muestra que la tasa de suicidio en varones es 2,5 veces mayor que en mujeres y que el riesgo crece durante la adolescencia. Especialistas advierten sobre la pérdida de redes de contención en la transición a la adultez y reclaman políticas públicas territoriales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/suicidio-riesgo-aumenta-medida-avanza-adolescencia_0_523Qu1dcpp.html",
+     "imagen": "https://www.clarin.com/img/2022/07/19/cPie8pOFM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Suicidio: el riesgo aumenta a medida que avanza la adolescencia"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "un auto atropelló y mató a un hombre en silla de ruedas en Posadas y el conductor escapó a Paraguay",
+     "resumen": "Plácido Facundo Martínez, un hombre con discapacidad que pedía dinero en el centro de Posadas, murió atropellado por un automóvil blanco cuyo conductor no se detuvo. Las cámaras de seguridad registraron la fuga, que llevó la búsqueda hasta el país vecino.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/08/un-auto-atropello-a-un-hombre-en-silla-de-ruedas-lo-mato-y-el-conductor-se-escapo-lo-buscan-en-paraguay/",
+     "imagen": "https://www.infobae.com/resizer/v2/MUM2QDEELNCYLC3LAGGX3EJFFE.webp?auth=455b59811d4513ce2795fe4baebaf41c0a515ac090478d66ae80f437d4ecaf13&smart=true&width=696&height=387",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "Un auto atropelló a un hombre en silla de ruedas, lo mató y el conductor se escapó: lo buscan en Paraguay"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del jueves 8 de octubre.\n\nLa jornada quedó marcada por el concurso de acreedores de Flybondi, que reconoció una deuda cercana a los seiscientos diez mil millones de pesos, mientras el dólar volvió a bajar y el petróleo subió con fuerza por el temor a una escalada en Oriente Medio. En el plano político, crece la presión sobre Luis Caputo por el arranque de la economía y la Justicia dejó firme el decomiso de bienes a los hijos de Cristina Kirchner. En el exterior, Donald Trump aseguró que no atacará a Irán antes de las elecciones de medio término, aunque los hutíes atacaron otra vez el aeropuerto de Riad. Y en el deporte, Franco Colapinto llegó a Singapur para el Gran Premio del fin de semana.\n\nAntes de entrar en el detalle, los números del día: el dólar oficial cerró en mil quinientos cuarenta pesos, el oro cotiza en cuatro mil ciento cincuenta y ocho dólares la onza y el riesgo país se ubica en quinientos ochenta y seis puntos.\n\nEn política, la Policía detuvo, tras cinco días prófugo, al exintendente de Aguas Blancas Carlos Martínez, imputado por lavar dinero narco en el municipio salteño. La Cámara de Casación, por su parte, dejó firme el decomiso de bienes a nombre de Máximo y Florencia Kirchner en la causa Vialidad, en una segunda etapa que alcanza casas, terrenos, hoteles y departamentos. La Justicia también procesó a la expresidenta del Servicio Penitenciario Federal, María Laura Garrigós, por no haber impedido que jefes narco siguieran dando órdenes desde la cárcel entre dos mil veinte y dos mil veintiuno. Crece además la presión interna sobre el ministro de Economía Luis Caputo, cuestionado dentro del propio Gobierno por el ritmo de la recuperación, antes de su viaje a Tailandia para la cumbre del Fondo Monetario. En el Senado, Patricia Bullrich tuvo un tenso cruce con la fiscal Susana Pernas, la misma que pidió la cárcel para el policía Luis Chocobar, por la disputa en torno a la comisión de Acuerdos. Y una encuesta de Isonomía mostró que dos de cada tres bonaerenses respaldan cambiar la lista sábana por la boleta única de papel.\n\nEn economía y mercados, el dólar mayorista volvió a bajar y cerró en mil quinientos quince pesos con cincuenta centavos, su valor más bajo desde fines de septiembre, mientras acumula en el año una suba muy por debajo de la inflación. El Merval en dólares rebotó más de uno por ciento, aunque el riesgo país volvió a subir, y Wall Street cerró con mayoría de bajas por el salto del petróleo y un informe que mostró ingresos menores a los esperados en OpenAI. La Auditoría General de la Nación reveló que el Banco Central perdió más de mil millones de dólares en operaciones de derivados respaldadas con oro durante el año pasado. El petróleo, por su parte, subió más de tres por ciento ante el temor a una reducción de las exportaciones del Golfo Pérsico. La inflación que no cede sigue empujando a los inversores hacia bonos indexados y moneda extranjera, en momentos en que casi cincuenta bancos y consultoras ya proyectan el valor del dólar para fin de año.\n\nEn negocios y empresas, la noticia central fue el concurso de acreedores de Flybondi, que declaró un patrimonio neto negativo de más de cuatrocientos treinta y tres mil millones de pesos y quedó con solo tres aviones operativos de los diecinueve que llegó a tener. Telecentro, en tanto, compró Iplan por doscientos sesenta millones de dólares para sumar más de un millón de hogares con fibra óptica y reforzar su negocio corporativo. La automotriz china BYD analiza invertir en la producción de baterías de litio en la Argentina, según confirmó el canciller Pablo Quirno tras una reunión en Singapur. En Santa Cruz se sospecha un sabotaje tras el descarrilamiento de la única locomotora de Yacimientos Carboníferos Río Turbio, en medio de un proceso de privatización que no avanza. La Justicia, además, inhibió los bienes del grupo detrás de Granja Tres Arroyos por un presunto vaciamiento denunciado por extrabajadores. Y legisladores denunciaron funcionarios y buscan trabar la adjudicación de Aysa al consorcio que se quedó con la empresa de agua.\n\nEn impuestos y normativa, tributaristas advirtieron que el nuevo aporte extraordinario creado por La Rioja equivale, en la práctica, a un impuesto a las Ganancias provincial y podría colisionar con la coparticipación federal. La Justicia, en tanto, sobreseyó a un técnico de Suizo Argentina en la causa Andis por negarse a blanquear contraseñas de directivos, al entender que no hubo intención de desobedecer. Y la abogada Muriel Mazzeo Hambo explicó en qué casos una empresa o una persona puede pedir su propia quiebra, un mecanismo que vuelve a cobrar relevancia tras casos como el de Flybondi.\n\nEn consumo, construcción y retail, un relevamiento detalló cuánto cuesta remodelar un baño según cada oficio, un gasto que suele terminar costando más de lo previsto. El grupo danés Bestseller abrirá el veintitrés de octubre sus primeras tres tiendas en el país, en Unicenter, con una inversión de cincuenta millones de dólares en cinco años. La marca brasileña Morana, especializada en bijouterie de lujo accesible, inauguró su primera tienda fuera de Brasil sobre la avenida Santa Fe. Y un informe mostró cuánto sueldo hace falta hoy para comprar metros cuadrados en Puerto Madero, Núñez y Lugano.\n\nEn management y finanzas corporativas, se repasó la regla número uno de Warren Buffett para invertir, que sigue vigente después de cincuenta años: nunca perder dinero, antes que buscar rentabilidad. Y el empresario Mauro Stendel contó cómo su paso por el ejército israelí moldeó la disciplina que aplicó después a sus negocios.\n\nEn el mundo, los hutíes atacaron por segunda vez en la semana el aeropuerto de Riad y dejaron las primeras muertes confirmadas de esta escalada contra Arabia Saudita. Donald Trump aseguró que Estados Unidos no atacará a Irán antes de las elecciones de medio término del tres de noviembre, aunque mantendrá el bloqueo petrolero vigente. En Brasil, una encuesta le da a Flavio Bolsonaro una ventaja de seis puntos sobre Lula da Silva de cara al balotaje del veinticinco de octubre, mientras la Corte Suprema brasileña ordenó a Eduardo Bolsonaro empezar a cumplir una condena de cuatro años y dos meses de prisión. Y en Rusia, las autoridades dieron por terminadas las medidas sanitarias en Irkutsk, aunque la causa de la muerte de una investigadora del instituto de estudios de la peste sigue sin aclararse.\n\nEn deportes, Franco Colapinto llegó a Singapur para el Gran Premio del fin de semana, después de dos carreras complicadas en Bakú y Malasia. El italiano Kimi Antonelli llega como líder cómodo del campeonato de pilotos, mientras Colapinto acumula veintisiete puntos en la temporada. El suizo Granit Xhaka fue multado con ciento sesenta mil euros por falsificar un certificado de vacunación durante la pandemia. Julián Álvarez rompió con su representante tras el intento fallido de pase al Barcelona, y una investigación reveló que Diego Simeone y su esposa Carla Pereyra manejan un imperio inmobiliario de casi cuarenta millones de euros. Y la Justicia sobreseyó a familiares del tesorero de la AFA, Pablo Toviggino, en una causa por lavado de dinero que había apuntado a la cúpula del fútbol argentino.\n\nEn turismo, para el fin de semana largo de octubre se destaca Carlos Keen, un pueblo bonaerense del partido de Luján que la gastronomía salvó del olvido: con más de veinte restaurantes, está a solo una hora de viaje desde la Ciudad de Buenos Aires.\n\nY en sociedad, un nuevo informe de Unicef advirtió que el riesgo de suicidio adolescente aumenta a partir de los quince años, con una tasa en varones dos veces y media mayor que en mujeres. En Posadas, un hombre en silla de ruedas murió atropellado por un auto cuyo conductor escapó hacia Paraguay.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Falló la descarga del feed de Infobae/política (error SSL); se cubrió la política con el resto de las fuentes. Le Grand Continent no publicó contenido nuevo desde la edición de la mañana (mismas tres notas ya cubiertas), por lo que se omitió la sección Europa y geopolítica en esta edición.",
+ "slug": "2026-10-08-tarde",
+ "generado_ba": "08/10/2026 21:16"
+}
