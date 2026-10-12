@@ -1,0 +1,761 @@
+{
+ "fecha": "2026-10-12",
+ "edicion": "mediodia",
+ "titulo": "El mercado recorta el crecimiento, arranca el Presupuesto y Rusia condiciona la tregua",
+ "apertura": "El mercado privado recortó al uno y medio por ciento su proyección de crecimiento para 2026 y ya anticipa una contracción en el tercer trimestre, mientras el Gobierno abre mañana el debate del Presupuesto 2027 en Diputados y Luis Caputo participa en Bangkok de la cumbre anual del FMI. En el plano internacional, Rusia condicionó un eventual alto el fuego en Ucrania a que haya elecciones y los hutíes volvieron a atacar el aeropuerto de Riad, que ya acumula diecisiete muertos. En lo deportivo, Alpine definió los próximos pasos para el auto de Franco Colapinto tras el doble abandono del fin de semana en Singapur.",
+ "claves": [
+  "El mercado recortó al 1,5% su proyección de crecimiento para 2026 y ya anticipa una contracción del 1% en el tercer trimestre (CR-01).",
+  "El Gobierno abre mañana en Diputados el debate del Presupuesto 2027, con el capítulo de Discapacidad como punto de fricción con los aliados (CR-08).",
+  "Rusia dijo que solo aceptará un alto el fuego en Ucrania el día que haya elecciones, lo que pone en duda la tregua energética anunciada por Trump (CL-15).",
+  "Los hutíes volvieron a atacar el aeropuerto de Riad: ya son 17 los muertos y las cancelaciones alcanzan hasta el 80% de los vuelos previstos para hoy (IB-14).",
+  "El agro argentino exportó casi 90 millones de toneladas en nueve meses, superando el récord histórico de 2021 (IB-23).",
+  "Una startup de billetera virtual para la construcción cerró una ronda de 4 millones de dólares para crecer en Argentina y México (CR-10).",
+  "Pymes bonaerenses de metalúrgica, calzado y caucho advierten despidos de hasta el 75% del personal y esperan a diciembre para definir cierres (CR-09).",
+  "Alpine definió los próximos pasos para el auto de Franco Colapinto tras el doble abandono por fallas mecánicas en Singapur (AM-03)."
+ ],
+ "cifras": [
+  {
+   "nombre": "Proyección de crecimiento 2026 (relevamiento BCRA)",
+   "valor": "1,5%",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Contracción estimada del PBI en el tercer trimestre",
+   "valor": "-1%",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Exportaciones del agro (enero-septiembre)",
+   "valor": "88,9 millones de toneladas",
+   "fuente": "IB-23"
+  },
+  {
+   "nombre": "Gasto turístico del fin de semana largo",
+   "valor": "$ 313.610 millones",
+   "variacion": "-2,2% real",
+   "fuente": "AM-09"
+  },
+  {
+   "nombre": "Devaluación esperada a un año (encuesta REM)",
+   "valor": "28%",
+   "fuente": "IP-17"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-03",
+     "titulo": "milei se reunirá con el fundador de la petrolera continental resources en washington",
+     "resumen": "El presidente viajó a Estados Unidos para reunirse con Harold Hamm, fundador de la petrolera Continental Resources, con el objetivo de discutir inversiones en Vaca Muerta. La agenda incluye además actividades sobre herencia hispana y libre empresa, y un acto sobre antisemitismo en la embajada argentina.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/milei-se-reunira-en-ee-uu-con-harold-hamm-fundador-de-la-petrolera-continental-resources_0_c1tBqg4QVM.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Milei se reunirá en EE.UU. con Harold Hamm, fundador de la petrolera Continental Resources"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "el gobierno abre mañana el debate del presupuesto 2027 en diputados",
+     "resumen": "El secretario de Hacienda, Carlos Guberman, encabezará este martes la primera reunión informativa de la comisión de Presupuesto en la Cámara de Diputados. El capítulo de Discapacidad, que los aliados exigen reincorporar, es la condición para acompañar el proyecto; el oficialismo apunta a dictaminar el 28 de octubre para llevarlo al recinto en noviembre.",
+     "relacionadas": [
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno abre el debate del Presupuesto, con dos puntos clave para aliados y opositores",
+       "url": "https://www.iprofesional.com/politica/466378-el-gobierno-abre-el-debate-del-presupuesto-con-dos-puntos-en-la-mira-de-los-diputados"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/comienza-el-debate-por-el-presupuesto-2027-con-funcionarios-el-capitulo-que-deberan-bajar/",
+     "imagen": "https://www.cronista.com/resizer/v2/PJHQQR4HW5GTHJQEPVHJO36JSQ.jpg?auth=511e51ffc1354405355e6da1bbc41df86e4b7b96c57bbc19463959e60c722606&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:05",
+     "autor": "Daniela Romero",
+     "titulo_original": "Comienza el debate por el Presupuesto 2027 con funcionarios: el capítulo que deberán bajar"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "redrado calificó como un error técnico la pérdida de reservas en oro del banco central",
+     "resumen": "El extitular del BCRA analizó la polémica operatoria del Banco Central con las reservas en oro, a la que calificó de error técnico, y planteó que el país necesita una estrategia que trascienda la urgencia financiera. También señaló la asimetría de la actividad económica, con pocos sectores traccionando el crecimiento.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/error-tecnico-martin-redrado-revelo-por-que-el-bcra-perdio-us-1000-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/C2SG7OXDE5GVHESUJMSEDGGQTA.png?auth=f8473d9a0f4dd35bc32b3afd7e1f1f03529da58b1d6defd0da8751193f289bbd&smart=true&width=900&height=578",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:23",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“Error técnico”: Martín Redrado reveló por qué el BCRA perdió u$s 1000 millones"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "ya son más de 300 los presos trasladados de devoto a marcos paz y quedan 1.200",
+     "resumen": "El operativo de desalojo de la cárcel de Villa Devoto continuó este lunes con una segunda tanda de traslados hacia el Complejo Penitenciario Federal de Marcos Paz, donde se habilitaron cuatro unidades de máxima seguridad con capacidad para 2.232 detenidos. Tras los 326 internos movidos el domingo, el jefe de Gabinete porteño, Gabriel Sánchez Zinny, estimó que el proceso descomprimirá cerca de 700 plazas en las alcaidías de la Ciudad.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Comenzó el traslado de presos de Devoto a Marcos Paz: “Descomprimiría casi 700 presos”, afirmó el jefe de Gabinete porteño",
+       "url": "https://www.infobae.com/politica/2026/10/12/comenzo-el-traslado-de-presos-de-devoto-a-marcos-paz-descomprimiria-casi-700-presos-afirmo-el-jefe-de-gabinete-porteno/"
+      },
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El Gobierno comenzó el traslado de presos de la cárcel de Devoto a Marcos Paz",
+       "url": "https://www.lanacion.com.ar/seguridad/el-gobierno-comenzo-el-traslado-de-presos-de-la-carcel-de-devoto-a-marcos-paz-nid11102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/12/continua-el-operativo-de-desalojo-de-la-carcel-de-devoto-ya-trasladaron-a-mas-de-300-presos-a-marcos-paz-y-aun-quedan-1200/",
+     "imagen": "https://www.infobae.com/resizer/v2/W7WHQQZZNJEAZFYMT5LTAR232A.jpg?auth=6cc8f69d77bb4d4fe126c112de974c93c817478936dcd224a8d14833efc61290&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:04",
+     "autor": "",
+     "titulo_original": "Continúa el operativo de desalojo de la cárcel de Devoto: ya trasladaron a más de 300 presos a Marcos Paz y aún quedan 1.200"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "el vaciamiento de devoto abre la discusión por el futuro urbano de sus terrenos",
+     "resumen": "Mientras avanza el traslado de los presos a Marcos Paz, todavía deben definirse varios pasos antes de que el predio de Villa Devoto, de 35 hectáreas, pueda transformarse en un proyecto urbano.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466395-cierra-la-carcel-de-devoto-y-se-abre-la-discusion-por-el-futuro-del-predio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610006.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:23",
+     "autor": "",
+     "titulo_original": "Devoto empieza a vaciarse: quién decide el futuro de las tierras de la cárcel"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "milei se mostró dispuesto a ajustar la agenda de la visita del papa por su operación",
+     "resumen": "El presidente planteó la posibilidad de reprogramar la gira de León XIV, prevista para el 8 de noviembre, tras conocerse que el Pontífice será internado este martes para extirparle un nódulo pulmonar.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/dispuesto-hacer-ajuste-necesarios-dijo-milei-posibilidad-reprogramar-visita-leon-xiv-operacion_0_ovJZfJywfn.html",
+     "imagen": "https://www.clarin.com/img/2026/10/11/51VWJoxXt_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:25",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Estamos dispuestos a hacer los ajustes necesarios\", dijo Milei sobre la posibilidad de reprogramar la visita de León XIV por su operación"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "martín menem respaldó a caputo y pidió eliminar definitivamente las paso",
+     "resumen": "El presidente de la Cámara de Diputados descartó cambios en el equipo económico, cuestionó la estrategia de la oposición para la sesión del jueves contra el DNU 70/23 y anticipó que el oficialismo buscará la eliminación definitiva de las primarias abiertas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/martin-menem-respaldo-caputo-apunto-contra-la-oposicion-el-dnu-70-y-pidio-eliminar-las-paso-n6332725",
+     "imagen": "https://media.ambito.com/p/a3e781b965d9802a56a63b19e558c1a8/adjuntos/239/imagenes/043/383/0043383922/1200x675/smart/martin-menem.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:29",
+     "autor": "",
+     "titulo_original": "Martín Menem respaldó a Caputo, apuntó contra la oposición por el DNU 70 y pidió eliminar las PASO"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "el mercado recortó a 1,5% su proyección de crecimiento para 2026 y ya anticipa una contracción en el tercer trimestre",
+     "resumen": "El relevamiento que el Banco Central realiza entre analistas privados redujo seis décimas la estimación de crecimiento para este año y proyectó una contracción del 1% para el tercer trimestre, medida sin estacionalidad. Para una empresa: confirma que la demanda interna seguirá débil en el corto plazo, lo que exige cautela en las decisiones de stock e inversión.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-mercado-volvio-a-recortar-sus-pronosticos-de-crecimiento-y-ya-anticipa-un-tercer-trimestre-en-contraccion/",
+     "imagen": "https://www.cronista.com/resizer/v2/VITOMX6KVJF3ZCNAOCNIHHIJUA.jpg?auth=26532c56f490b190a9f7597b62d1a54d0df16633f9a1c5a5dbeb931f6fecb9da&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:42",
+     "autor": "Federico Pablo Vacalebre",
+     "titulo_original": "El mercado volvió a recortar sus pronósticos de crecimiento y ya anticipa un tercer trimestre en contracción"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "arranca en bangkok la cumbre del fmi con agenda a la medida de la argentina",
+     "resumen": "Luis Caputo y el presidente del Banco Central, Santiago Bausili, encabezan la delegación argentina en el encuentro anual del FMI y el Banco Mundial, donde buscarán evaluar los resultados del programa junto a Kristalina Georgieva. En paralelo, el G20 debatirá en Tailandia el desarrollo de la inteligencia artificial y el ajuste de los países al shock energético.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/empieza-la-cumbre-del-fmi-con-una-agenda-a-la-argentina-gasto-deuda-financiamiento-y-el-fenomeno-k-global/",
+     "imagen": "https://www.cronista.com/resizer/v2/45JJLPBT7RHFZOZWREHX3QR27Y.jpg?auth=8a41c0fb00a6b3c33a96486107aa0f71e46b4782f41d5e20b94cec122dafa74a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:29",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "Empieza la cumbre del FMI con agenda ‘a la Argentina’: gasto, deuda, financiamiento y el fenómeno “K” global"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "el agro argentino ya exportó casi 90 millones de toneladas en nueve meses, un récord histórico",
+     "resumen": "Las exportaciones de granos, subproductos y aceites sumaron 88,9 millones de toneladas entre enero y septiembre, casi 10% más que en 2025 y 6 millones de toneladas por encima del récord previo de 2021, según la Bolsa de Comercio de Rosario. El dato se apoya en la mejor cosecha de la historia, de 172,4 millones de toneladas. Para una empresa: anticipa mayor ingreso de divisas comerciales, un factor que puede aliviar la presión cambiaria de corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/12/en-nueve-meses-el-agro-argentino-ya-exporto-casi-90-millones-de-toneladas-mas-que-el-record-anual-historico-de-2021/",
+     "imagen": "https://www.infobae.com/resizer/v2/LJWJ42DZBFHWZNHQATTJVEFUJQ.png?auth=131db5983b180c3e4355c7ea5952daf743982395bd2918474c1df9b0cf340f43&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:06",
+     "autor": "",
+     "titulo_original": "En nueve meses el agro argentino ya exportó casi 90 millones de toneladas, más que el récord anual histórico de 2021"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "la city espera un dólar más tranquilo a fin de año pero una devaluación del 28% a un año vista",
+     "resumen": "La última encuesta REM mostró expectativas de calma cambiaria en el corto plazo, pese al discurso tranquilizador de Milei, pero una devaluación proyectada del 28% en el horizonte de un año. Para una empresa: condiciona la planificación de precios y de financiamiento en moneda extranjera para 2027.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/466129-para-cuando-el-mercado-preve-una-suba-del-dolar-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606146.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Dólar más bajo a fin de año pero más alto preelecciones, la nueva expectativa de la City"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "el petróleo sigue volátil entre el aval de trump al diésel ruso y los ataques a arabia saudita",
+     "resumen": "Los precios del crudo oscilaron este lunes entre las señales de mayor oferta, tras el aval de Donald Trump a nuevas exportaciones de diésel ruso, y las restricciones de suministro derivadas de los graves ataques hutíes contra Arabia Saudita.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-petroleo-mantiene-la-volatilidad-dichos-donald-trump-el-diesel-ruso-y-ataques-contra-arabia-saudita-n6332721",
+     "imagen": "https://media.ambito.com/p/9d19b94c99718cc21cb98f3dcc8a372f/adjuntos/239/imagenes/043/555/0043555465/1200x675/smart/petroleo-ormuz-argentina-asia.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:10",
+     "autor": "",
+     "titulo_original": "El petróleo mantiene la volatilidad tras dichos de Donald Trump sobre el diésel ruso y ataques contra Arabia Saudita"
+    },
+    {
+     "id": "AM-02",
+     "titulo": "wall street opera mixta a la espera de los balances bancarios y el bitcoin cae por debajo de los 83.000 dólares",
+     "resumen": "La bolsa estadounidense cotizó con poco volumen antes de conocerse los balances del tercer trimestre de los bancos y el dato de inflación de Estados Unidos. En el mercado cripto, el bitcoin retrocedió por debajo de los 83.000 dólares, presionado por salidas de ETFs por 1.250 millones de dólares en la semana.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Bitcoin cae por debajo de los u$s83.000, mientras enormes salidas en los ETFs presionan al mercado cripto",
+       "url": "https://www.ambito.com/finanzas/bitcoin-cae-debajo-los-us84000-el-petroleo-y-los-bonos-del-tesoro-presionan-al-mercado-cripto-n6331012"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/wall-street-opera-manera-mixta-la-previa-resultados-clave-los-bancos-y-datos-del-ipc-n6332747",
+     "imagen": "https://media.ambito.com/p/35f2f285361be4ad2bd7fc0b9a88d97e/adjuntos/239/imagenes/043/498/0043498095/1200x675/925x622:945x642/wall-street-nyse-nasdaq-dow-jones-mercados.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:48",
+     "autor": "",
+     "titulo_original": "Wall Street opera de manera mixta, en la previa de resultados clave de los bancos y datos del IPC"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "una startup que quiere ser la billetera virtual de la construcción levantó 4 millones de dólares",
+     "resumen": "La compañía fundada por Lucas Glustman cerró una ronda semilla de 4 millones de dólares para acelerar su crecimiento regional en Argentina y México y desarrollar nuevos productos financieros para el sector de la construcción.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/crearon-una-startup-que-quiere-ser-la-billetera-virtual-de-la-construccion-y-levantaron-us-4-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/F2FAPQJYGFF6PFWHSUCXE55SN4.jpg?auth=1a29bdeac23c3109ae4dd5ffb7f5852ee6c0f210d136743f12c90aee8d8c23ad&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Crearon una startup que quiere ser la billetera virtual de la construcción y levantaron u$s 4 millones"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "pymes bonaerenses de metalúrgica, calzado y caucho advierten despidos de hasta el 75% del personal",
+     "resumen": "En un encuentro de la Unión Industrial de la Provincia de Buenos Aires, empresarios de distintos rubros manufactureros intensivos en mano de obra coincidieron en que el ajuste ya afecta la producción y el empleo, y varios esperan a diciembre para definir si cierran. Para una empresa: es una señal de alerta sobre la demanda de insumos y servicios de proveedores industriales bonaerenses.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/pymes-bonaerenses-en-crisis-esperamos-a-diciembre-para-definir-el-cierre/",
+     "imagen": "https://www.cronista.com/resizer/v2/SORV6MACSVCXBKYSECWD7GFENM.jpg?auth=69c3a108b8741015daa35b76360fc6554857ec1c44585cdcb4be8ca4b4ff1a8c&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "Pymes bonaerenses en crisis: “Esperamos a diciembre para definir el cierre”"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "durax, la marca de los platos ámbar, renació como cooperativa y hoy produce 250.000 piezas por día",
+     "resumen": "La histórica fábrica de vajilla, que forma parte de la memoria de los argentinos, opera hoy bajo la forma de cooperativa y exporta a la región con una producción de 250.000 piezas diarias.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466120-como-hizo-durax-la-mitica-marca-de-los-platos-ambar-para-revivir",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/627152.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:24",
+     "autor": "",
+     "titulo_original": "Cómo hizo Durax, la mítica marca de los platos ámbar, para renacer de las cenizas"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "el negocio de pádel de carlos tevez crece con bullpadel y llega a caballito",
+     "resumen": "El exfutbolista avanza con una apuesta empresarial deportiva en el barrio porteño de Caballito, que combina nuevos espacios de juego, alianzas de marcas y formación en pádel.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466265-carlos-tevez-expande-su-marca-de-padel-y-suma-una-nueva-sede-en-buenos-aires",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613894.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:09",
+     "autor": "",
+     "titulo_original": "Apache 32, el negocio de Carlos Tevez que crece con Bullpadel y llega a Caballito"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-11",
+     "titulo": "un proyecto en la plata busca un cupo femenino para el empleo en la construcción",
+     "resumen": "Concejales platenses impulsan la creación de un registro que promueva la contratación de trabajadoras en las obras del municipio, como forma de ampliar la participación femenina en el sector de la construcción.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/466379-proyecto-de-cupo-femenino-para-promover-el-empleo-en-la-construccion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627383.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:54",
+     "autor": "",
+     "titulo_original": "Proyecto de cupo femenino para promover el empleo en la construcción"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "las primeras proyecciones ubican el aumento de la jubilación mínima de noviembre entre 1,8% y 2%",
+     "resumen": "El incremento de noviembre para los haberes previsionales todavía no está definido de manera oficial, aunque las primeras estimaciones privadas lo ubican en ese rango; el dato definitivo se conocerá en los próximos días.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/466217-jubilados-cuanto-podria-subir-la-minima-en-noviembre-y-cuando-se-sabra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/599598.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:18",
+     "autor": "",
+     "titulo_original": "Jubilados: cuánto podría subir la mínima en noviembre y cuándo se sabrá"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "la corte suprema fijó un criterio sobre honorarios de abogados tras los fallos puebla y martinuzzi",
+     "resumen": "El máximo tribunal dejó sin efecto dos decisiones de cámaras federales que habían reducido honorarios por debajo de los mínimos de la ley 27.423, en los casos Puebla (20 de agosto) y Martinuzzi (3 de septiembre), ambos amparos de salud. El Colegio Público de la Abogacía celebró el criterio, en medio de la polémica por eventuales sanciones a jueces que no lo apliquen.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/que-pasa-con-los-honorarios-de-los-abogados-tras-los-fallos-de-la-corte-y-la-polemica-por-sancionar-a-un-juez/",
+     "imagen": "https://www.cronista.com/resizer/v2/623KVLYTJ5DN5KWD6HUJQMQLNQ.png?auth=2e5d63a63f037784af429ad7f92a31e7600d32903c485e03acc19fc9f18fdd69&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:03",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "Qué pasa con los honorarios de los abogados tras los fallos de la Corte y la polémica por sancionar a un juez"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "anses confirmó un reajuste del 1,66% para auh, puam y pensiones no contributivas en octubre",
+     "resumen": "Los beneficiarios de la Asignación Universal por Hijo, la Pensión Universal para el Adulto Mayor y las Pensiones No Contributivas recibirán en octubre un incremento del 1,66%, en línea con la inflación de agosto, que fue del 1,7%. El cronograma de pagos se define según la terminación del DNI de cada titular.",
+     "relacionadas": [
+      {
+       "id": "LN-25",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Calendario PNC de la Anses: cuándo se cobran las Pensiones no Contributivas de octubre 2026",
+       "url": "https://www.lanacion.com.ar/economia/calendario-pnc-de-la-anses-cuando-se-cobran-las-pensiones-no-contributivas-de-octubre-2026-nid08102026/"
+      },
+      {
+       "id": "LN-26",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Calendario Anses: cuándo se cobra la AUH en octubre 2026",
+       "url": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-se-cobra-la-auh-en-octubre-2026-nid02102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/calendario-de-pagos-de-anses-cuando-se-cobra-la-puam-de-octubre-de-2026-nid09102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BMRHSQWEBBHIXK2K4L42YNM3SA.jpg?auth=b6a8c4e74eb96b1277f42688d70ccc8d4712213bf582fe1a512a80c54265972c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:38",
+     "autor": "",
+     "titulo_original": "Calendario de pagos de Anses: cuándo se cobra la PUAM de octubre de 2026"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "abre en haedo un nuevo shopping con outlet, cine y gastronomía",
+     "resumen": "El histórico Showcenter de Haedo se renueva con una inversión millonaria que incluirá locales de saldos, salas de cine y espacios gastronómicos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466250-abre-un-nuevo-shopping-en-buenos-aires-outlet-cine-y-gastronomia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618662.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:21",
+     "autor": "",
+     "titulo_original": "Abre un nuevo shopping en Buenos Aires: outlet, cine y gastronomía"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "el crédito hipotecario volvió al mercado pero las exigencias de ingresos dejan afuera a muchas familias",
+     "resumen": "Los préstamos para la vivienda reaparecieron en 2026, aunque los requisitos de ingresos y el límite sobre la primera cuota siguen restringiendo el acceso a la vivienda propia para los salarios promedio. Para una empresa: condiciona la demanda de materiales e insumos ligados a la obra privada residencial.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/credito-hipotecario-2026-el-desafio-acceder-la-vivienda-propia-salarios-promedio-n6331582",
+     "imagen": "https://media.ambito.com/p/377a3ea28dca2621e4a2f19222b23909/adjuntos/239/imagenes/043/616/0043616320/1200x675/639x649:659x669/calcular-credito-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Crédito hipotecario en 2026: el desafío de acceder a la vivienda propia con salarios promedio"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "el fin de semana largo movilizó a 1,5 millones de turistas pero el gasto cayó 2,2% en términos reales",
+     "resumen": "Según CAME, el movimiento turístico del feriado creció 3,5% interanual y generó un impacto económico de 313.610 millones de pesos, aunque la reducción de las estadías y las condiciones climáticas achicaron el gasto real frente al año pasado.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/fin-semana-largo-viajaron-casi-15-millones-turistas-pero-el-gasto-total-cayo-22-real-n6332729",
+     "imagen": "https://media.ambito.com/p/5587ce0b639d97553178cc1ba8cb08c3/adjuntos/239/imagenes/041/620/0041620996/1200x675/smart/fin-semana-largo-2024jpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:40",
+     "autor": "",
+     "titulo_original": "Fin de semana largo: viajaron casi 1,5 millones de turistas, pero el gasto total cayó 2,2% real"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "una cadena de pizzas busca abrir 20 locales nuevos bajo el sistema de franquicias",
+     "resumen": "La firma proyecta sumar 20 locales en el país y detalló los requisitos y los plazos de recupero de la inversión para los interesados en sumarse como franquiciados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/465449-cuanto-cuesta-abrir-una-franquicia-de-pizza-kentucky",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626529.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:29",
+     "autor": "",
+     "titulo_original": "Kentucky busca abrir 20 locales y esto cuesta una franquicia de la famosa cadena de pizzas"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-15",
+     "titulo": "crece la dependencia del chat gpt en las decisiones laborales de los argentinos",
+     "resumen": "Cada vez más empleados delegan en la inteligencia artificial la redacción de mails, negociaciones y decisiones de trabajo, lo que abre el debate sobre si se trata de una herramienta de apoyo o de una dependencia que erosiona el criterio propio.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/466202-iadiccion-en-el-trabajo-los-argentinos-que-no-escriben-un-mail-sin-consultarle-al-chatgpt",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/624881.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:15",
+     "autor": "",
+     "titulo_original": "IAdicción en el trabajo: los argentinos que no escriben un mail sin consultarle al ChatGPT"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "la irrupción de la inteligencia artificial genera tensiones en la cultura de las empresas",
+     "resumen": "La incorporación de algoritmos avanzados y nuevas métricas de productividad genera resistencia entre parte del personal, que percibe la automatización como un riesgo para los saberes adquiridos, el trato humano y la autonomía en el trabajo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/opinion/2026/10/12/descubridores-de-otro-mundo-el-12-de-octubre-y-la-conquista-de-la-inteligencia-artificial-en-las-empresas/",
+     "imagen": "https://www.infobae.com/resizer/v2/DJHSSSBCHJHDJGPDQLC235EPYU.jpg?auth=9b619208f55f108f8874727b77f295f616796e11487d585384df97fa10bc9a2b&smart=true&width=900&height=504",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:13",
+     "autor": "Ezequiel Kieczkier",
+     "titulo_original": "Descubridores de otro mundo: el 12 de octubre y la conquista de la inteligencia artificial en las empresas"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "rusia dijo que solo aceptará un alto el fuego en ucrania el día que haya elecciones",
+     "resumen": "El Kremlin afirmó que Vladimir Putin ordenará cesar los bombardeos recién el día de los comicios ucranianos y no confirmó la tregua energética que había anunciado Donald Trump. Moscú tampoco aclaró si acatará ese acuerdo, mientras un grupo bipartidista de legisladores estadounidenses rechazó el pacto de Trump para comprarle diésel a Rusia.",
+     "relacionadas": [
+      {
+       "id": "CL-07",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Rusia elude aclarar si acata la tregua energética",
+       "url": "https://www.clarin.com/estados-unidos/rusia-elude-aclarar-si-acata-la-tregua-energetica_0_dDdK5i1x3g.html"
+      },
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Rechazo y dudas en Estados Unidos por el acuerdo de Trump con Putin para comprar diésel a Rusia",
+       "url": "https://www.clarin.com/mundo/rechazo-dudas-estados-unidos-acuerdo-trump-putin-comprar-diesel-rusia_0_40aR53ymwr.html"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/presion-trump-zelenski-rusia-dice-solo-aceptara-alto-fuego-ucrania-dia-elecciones_0_c0FaQH9Z8m.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/mHjFpk0Da_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras la presión de Trump contra Zelenski, Rusia dice que sólo aceptará un alto el fuego en Ucrania el día que haya elecciones"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "los ataques hutíes dejaron 17 muertos y el aeropuerto de riad sin fecha para reabrir",
+     "resumen": "Los misiles de los rebeldes yemenitas impactaron la terminal aérea de la capital saudita y provocaron la cancelación de prácticamente todos los vuelos del domingo, con hasta un 80% de las operaciones de este lunes también afectadas. Ejecutivos petroleros no pudieron llegar a un evento central del sector.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/12/ataques-huties-en-arabia-saudita-riad-cancelo-sus-vuelos-hay-17-muertos-y-no-hay-fecha-para-reabrir-el-aeropuerto/",
+     "imagen": "https://www.infobae.com/resizer/v2/EAULGFYEIZFFPN26OAJT7Z5INI.JPG?auth=76d2743f646f80d3bb7b11e85ffc93b0e6a75b5829b3748fd6345bc4dfa8d080&smart=true&width=900&height=591",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:14",
+     "autor": "",
+     "titulo_original": "Ataques hutíes en Arabia Saudita: Riad canceló sus vuelos, hay 17 muertos y no hay fecha para reabrir el aeropuerto"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "se multiplican los incidentes en la movilización estudiantil de francia, a un día de la marcha nacional",
+     "resumen": "Aunque disminuyeron los cierres de centros educativos, la violencia se intensificó en distintos puntos del país y dejó heridos entre el personal educativo y un oficial de policía en Marsella.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/masiva-movilizacion-estudiantil-francia-multiplican-incidentes-dia-marcha-nacional_0_xlhmY82xfh.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/g6aM-J_QR_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:58",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Masiva movilización estudiantil en Francia: se multiplican los incidentes a un día de la marcha nacional"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "la sorpresiva victoria de flávio bolsonaro reabre la disputa por el poder y la identidad en brasil",
+     "resumen": "El triunfo inesperado del hijo de Jair Bolsonaro, que las encuestas no anticipaban, le propinó una derrota al oficialismo de Lula da Silva y expone el desencanto ciudadano con la respuesta de los gobiernos a la inflación, la seguridad y la corrupción, en un escenario donde también ganan terreno las iglesias evangélicas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-guerra-de-dioses-brasilena-la-disputa-por-el-poder-y-la-identidad-detras-del-triunfo-de-flavio-bolsonaro/",
+     "imagen": "https://www.cronista.com/resizer/v2/YUMILPZSOJHFZGNUG3WTFKME64.jpg?auth=36358f56f4f49deeda59ec0dece6300a9cb918d00a36f90de4c81ad44ea065eb&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:28",
+     "autor": "Lucas González Monte",
+     "titulo_original": "La “guerra de dioses” brasileña: la disputa por el poder y la identidad detrás del triunfo de Flávio Bolsonaro"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "sheinbaum exigió a jalisco explicar la represión de una marcha por agua limpia",
+     "resumen": "La presidenta mexicana pidió al gobierno estatal aclarar por qué se usaron chorros de agua y gases lacrimógenos contra manifestantes frente a la residencia del gobernador en Guadalajara. Jalisco reportó 39 arrestos y seis personas ya fueron liberadas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/mexico/2026/10/12/no-estamos-de-acuerdo-con-la-represion-sheinbaum-exige-a-jalisco-explicar-la-detencion-de-manifestantes-por-agua-limpia/",
+     "imagen": "https://www.infobae.com/resizer/v2/LILAF5ALS5BS5APB6INGEFN5QI.jpg?auth=5cab0e65b5ade490f8858abfbc82e6e096489d97fb8d1694bcf59dfdcde82351&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "Itzallana López Castillo",
+     "titulo_original": "“No estamos de acuerdo con la represión”: Sheinbaum exige a Jalisco explicar la detención de manifestantes por agua limpia"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "a diez años del acuerdo de paz, colombia debate si logró más de lo que costó",
+     "resumen": "El exjefe negociador del Gobierno colombiano, Humberto de la Calle, reivindicó la desmovilización sin precedentes de 13.000 combatientes de las FARC, pese a reconocer las carencias y los problemas de implementación del pacto firmado una década atrás.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/12/colombia-a-10-anos-del-acuerdo-de-paz-estariamos-mejor-con-13000-combatientes-mas/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Colombia, a 10 años del Acuerdo de Paz: \"¿Estaríamos mejor con 13.000 combatientes más?\""
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "le grand continent cuestiona el intento de trump de instalar el término superinteligencia",
+     "resumen": "La revista analiza la campaña de relanzamiento que impulsó Donald Trump desde la Asamblea General de la ONU para reemplazar el término inteligencia artificial por superinteligencia, al considerar que la palabra artificial sugiere que la tecnología es falsa. Según el relevamiento citado, solo uno de cada cinco directivos adoptó plenamente el nuevo término, en medio de la creciente impopularidad de los centros de datos.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/12/intento-de-trump-de-promover-super-inteligencia-no-convence/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:11",
+     "autor": "Marin Saillofest",
+     "titulo_original": "El intento de Trump de promover la «superinteligencia» no acaba de convencer"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "alpine definió los próximos pasos para el auto de colapinto tras el doble abandono en singapur",
+     "resumen": "La escudería analizará las fallas mecánicas que obligaron al piloto argentino a abandonar tanto la Sprint como la carrera principal en Singapur y prepara piezas nuevas para el Gran Premio de Estados Unidos, donde buscará volver a sumar puntos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/alpine-tomo-una-decision-el-auto-franco-colapinto-los-problemas-singapur-n6332746",
+     "imagen": "https://media.ambito.com/p/83bf68f57efd0586e8ba1d56f4dd5d67/adjuntos/239/imagenes/043/698/0043698526/franco-colapinto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:38",
+     "autor": "",
+     "titulo_original": "Alpine tomó una decisión con el auto de Franco Colapinto tras los problemas en Singapur"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "alexander zverev terminará la temporada como número uno del ranking atp",
+     "resumen": "El alemán aseguró el primer puesto del año aprovechando la ausencia de Jannik Sinner y la eliminación de Carlos Alcaraz en la tercera ronda del Masters 1000 de Shanghái. Es el segundo tenista alemán en liderar el ranking ATP, después de Boris Becker en 1991.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/derrota-alcaraz-alexander-zverev-cumplio-sueno-terminara-temporada-numero-1-ranking-atp_0_VGo4AXIe3v.html",
+     "imagen": "https://www.clarin.com/img/2026/09/13/ZsRetMePa_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Con la derrota de Alcaraz, Alexander Zverev cumplió su sueño y terminará la temporada como número 1 del ranking ATP"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "santiago carreras volvió a destacarse en la premiership inglesa",
+     "resumen": "El back cordobés, una de las figuras argentinas del rugby europeo, sorprendió con otro gesto técnico inusual al controlar la pelota con el pie durante la derrota de Bath ante Northampton Saints.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/argentinos-en-europa-otro-lujo-de-santiago-carreras-el-penal-de-atras-de-mitad-de-cancha-de-albornoz-nid12102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4HCOF6FFENHCTCDCG3DMKFTEWE.JPG?auth=11599f3cc2c03d224808947bdee4bccc8ec5e5c72b5529e864ba3a5606a6d36f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:29",
+     "autor": "Nicolás Casanova",
+     "titulo_original": "Argentinos en Europa: otro lujo de Santiago Carreras, el penal de atrás de mitad de cancha de Albornoz y un show de tries"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "a cuatro fechas del final, diez equipos pelean la tabla anual separados por solo 7 puntos",
+     "resumen": "Independiente Rivadavia sigue como líder del certamen con 52 puntos pese a una goleada reciente, en una definición que también ordena el ingreso a las copas internacionales, los playoffs y el descenso. Racing perdió con Belgrano y profundizó su crisis.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/las-posiciones-del-torneo-clausura-y-una-tabla-anual-al-rojo-como-estan-boca-y-river-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/244QSN6G3VBRZE6JP766Z56LWM.png?auth=6d58bf7a8270f42e6c72fa85116189fe57d6309afe0b00187f0eed1140480bdf&smart=true&width=662&height=441",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Las posiciones del torneo Clausura y una Tabla Anual al rojo vivo: cómo están Boca y River a cuatro fechas del final"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "lanús-vélez y gimnasia de mendoza-newell's cierran hoy la fecha 12 del clausura",
+     "resumen": "Lanús recibe a Vélez Sarsfield desde las 16 en el sur del conurbano, mientras Gimnasia de Mendoza enfrenta a Newell's desde las 18.30, ambos televisados por ESPN Premium, en el cierre de la fecha 12 de la Zona A.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Gimnasia de Mendoza vs Newell's Old Boys, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
+       "url": "https://www.clarin.com/deportes/gimnasia-mendoza-vs-newells-old-boys-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_n4kbs4Zjnp.html"
+      },
+      {
+       "id": "LN-19",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La agenda de la TV del lunes: Lanús ante Vélez por el Clausura y Carlos Alcaraz contra Bergs, en el Masters 1000 de Shanghai",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-lunes-lanus-ante-velez-por-el-clausura-y-carlos-alcaraz-contra-bergs-en-el-nid11102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/lanus-vs-velez-sarsfield-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_D6jd8cNkyz.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/FikHJy_Ja_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:42",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lanús vs. Vélez Sarsfield, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "a tsitsipas se le cayeron dos pelotas del bolsillo a su rival y terminó ganando el partido",
+     "resumen": "El griego venció a Taylor Fritz por 3-6, 7-5 y 6-3 y avanzó a los octavos del Masters 1000 de Shanghái, en un partido marcado por un confuso incidente cuando al estadounidense se le cayeron pelotas del bolsillo durante el tercer set.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/12/insolito-definicion-en-el-tenis-a-una-figura-se-le-cayeron-dos-pelotas-del-bolsillo-y-perdio-el-partido/",
+     "imagen": "https://www.infobae.com/resizer/v2/JOSNGIQLLJGRFET53TO4ZIAPVI.png?auth=0e99e363c8da3ffa6e56f0f990ba8d2ec99912fdad606a7fcc2f70a43b98d30f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:52",
+     "autor": "",
+     "titulo_original": "Insólita definición en el tenis: a una figura se le cayeron dos pelotas del bolsillo y perdió el partido"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "detuvieron a un expolicía por el crimen de una joven hallada envuelta en una frazada en rosario",
+     "resumen": "El cuerpo de Bárbara Aragón, de 26 años, fue encontrado en una pensión del barrio Empalme Graneros luego de que la familia la buscara desde el sábado. El principal sospechoso es un hombre de 37 años, exonerado de la policía de Santa Fe por su presunta vinculación con una banda narco, detenido en la misma habitación donde apareció el cuerpo.",
+     "relacionadas": [
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Rosario: un ex policía mató a una trabajadora sexual y se quedó junto al cuerpo un día entero",
+       "url": "https://www.infobae.com/sociedad/policiales/2026/10/12/rosario-un-ex-policia-mato-a-una-trabajadora-sexual-y-se-quedo-junto-al-cuerpo-un-dia-entero/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/seguridad/horror-en-rosario-encontraron-el-cuerpo-de-una-joven-envuelto-en-una-frazada-y-detuvieron-a-un-nid12102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UUTGL23YDBENFAEECKSXNFRMRU.jpg?auth=5ac81f46607539d648c7f1e5d81d2f993e62192f9be4b9f03b256fac14e099c2&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:48",
+     "autor": "",
+     "titulo_original": "Horror en Rosario: encontraron el cuerpo de una joven envuelto en una frazada y detuvieron a un expolicía"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "córdoba cerró el invierno sin muertes de bebés por bronquiolitis gracias a un plan de vacunación",
+     "resumen": "La provincia combinó la vacunación durante el embarazo con la aplicación de anticuerpos monoclonales a bebés sin protección materna, lo que permitió terminar 2026 sin fallecimientos por el virus sincicial respiratorio en menores de un año, frente a cinco muertes registradas en cada uno de los dos años anteriores. Las internaciones por el virus cayeron 73% en ese grupo etario.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/una-provincia-aplico-una-medida-inedita-en-el-pais-y-logro-un-invierno-sin-muertes-de-bebes-por-un-nid12102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KVKH3OTVNRHH3P6QQGSHDB2C4M.JPG?auth=d7eb37881130f95c374a1533d94b132d7cd26ccd4ff443e31cd1f131d558ac4a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:56",
+     "autor": "Alejandro Horvat",
+     "titulo_original": "Una provincia aplicó una medida inédita en el país y logró un invierno sin muertes de bebés por un virus que causa bronquiolitis"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "la crecida del río iguazú obligó a cerrar el parque nacional y restringir el acceso a las cataratas",
+     "resumen": "El caudal se triplicó en menos de 48 horas y llegó a superar los 12 mil metros cúbicos por segundo, nueve veces el promedio habitual, por lo que se activó un protocolo de seguridad y se restringió la circulación por las pasarelas del lado argentino. La crecida está asociada a las fuertes lluvias en la Triple Frontera.",
+     "relacionadas": [
+      {
+       "id": "LN-05",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Complicaciones por El Niño: debido a la fuerte crecida del río Iguazú, restringieron el acceso a las Cataratas",
+       "url": "https://www.lanacion.com.ar/sociedad/complicaciones-por-el-nino-debido-a-la-fuerte-crecida-del-rio-iguazu-restringieron-el-acceso-a-las-nid12102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/efecto-nino-caudal-cataratas-iguazu-triplico-48-horas-cerrar-parque-nacional_0_Yw0LMIH8Ur.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/PlMO_qVL3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:48",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Efecto de El Niño: el caudal de las Cataratas del Iguazú se triplicó en menos de 48 horas y tuvieron que cerrar el Parque Nacional"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del lunes 12 de octubre. El dólar oficial cotiza en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cuarenta pesos y el oro ronda los cuatro mil ciento ochenta y ocho dólares la onza, según el panel de mercados; el riesgo país se mantiene en quinientos ochenta y nueve puntos. El mercado recortó su proyección de crecimiento para este año al uno y medio por ciento y ya anticipa una contracción en el tercer trimestre, mientras el Gobierno abre mañana en Diputados el debate del Presupuesto 2027 y Luis Caputo participa en Bangkok de la cumbre del Fondo Monetario. En el plano internacional, Rusia condicionó un eventual alto el fuego en Ucrania a que haya elecciones, y los hutíes volvieron a atacar el aeropuerto de Riad. En el plano deportivo, Alpine definió los próximos pasos para el auto de Franco Colapinto tras el doble abandono del fin de semana en Singapur.\n\nEn política, el presidente Javier Milei se reunió en Washington con Harold Hamm, fundador de la petrolera Continental Resources, para discutir inversiones en Vaca Muerta, y se mostró dispuesto a ajustar la agenda de la visita del papa León Catorce por la operación del pontífice. El exfuncionario del Banco Central Martín Redrado calificó como un error técnico la pérdida de reservas en oro durante la gestión actual y pidió una estrategia económica que trascienda la urgencia financiera. El operativo de desalojo de la cárcel de Devoto sumó una segunda tanda de traslados hacia Marcos Paz: ya son más de trescientos los presos movidos y quedan mil doscientos, mientras se abre la discusión sobre el futuro urbano de los terrenos liberados. Y Martín Menem respaldó a Luis Caputo y pidió eliminar de manera definitiva las primarias abiertas.\n\nEn economía y mercados, además del recorte en las proyecciones de crecimiento y la cumbre del Fondo Monetario en Bangkok, donde Caputo y el titular del Banco Central, Santiago Bausili, buscarán avanzar en la revisión del programa, el agro argentino exportó casi noventa millones de toneladas en los primeros nueve meses del año, un récord histórico que supera ampliamente la marca de dos mil veintiuno. La última encuesta REM mostró expectativas de calma cambiaria de corto plazo pero una devaluación proyectada del veintiocho por ciento a un año vista. El petróleo sigue volátil entre el aval de Donald Trump a nuevas exportaciones de diésel ruso y las restricciones de oferta derivadas de los ataques contra Arabia Saudita. Y Wall Street opera mixta a la espera de los balances bancarios del tercer trimestre, mientras el bitcoin cayó por debajo de los ochenta y tres mil dólares.\n\nEn negocios y empresas, una startup que busca ser la billetera virtual de la construcción cerró una ronda de cuatro millones de dólares para crecer en Argentina y México. En un encuentro de la Unión Industrial bonaerense, empresarios de la metalúrgica, el calzado y el caucho advirtieron despidos de hasta el setenta y cinco por ciento del personal, y varios esperan a diciembre para definir si cierran. Durax, la histórica marca de los platos ámbar, renació como cooperativa y hoy produce doscientas cincuenta mil piezas por día. Y el negocio de pádel de Carlos Tevez, de la mano de Bullpadel, sigue creciendo y llega ahora al barrio porteño de Caballito.\n\nEn impuestos, laboral y normativa, un proyecto en La Plata busca crear un cupo femenino para el empleo en la construcción, mientras las primeras proyecciones privadas ubican el aumento de la jubilación mínima de noviembre entre uno coma ocho y dos por ciento. La Corte Suprema fijó un criterio sobre honorarios de abogados a partir de dos fallos recientes, y la ANSES confirmó un reajuste del uno coma sesenta y seis por ciento para la Asignación Universal por Hijo, la pensión universal para el adulto mayor y las pensiones no contributivas de octubre.\n\nEn consumo, construcción y retail, abre en Haedo un nuevo shopping con outlet, cine y gastronomía. El crédito hipotecario volvió a estar disponible este año, pero las exigencias de ingresos siguen dejando afuera a buena parte de las familias que buscan acceder a la vivienda propia. Según la Confederación Argentina de la Mediana Empresa, el fin de semana largo movilizó a un millón y medio de turistas, aunque el gasto cayó dos coma dos por ciento en términos reales. Y una cadena de pizzas busca abrir veinte locales nuevos bajo el sistema de franquicias.\n\nEn management y finanzas corporativas, crece entre los empleados argentinos la dependencia del Chat GPT para redactar mails y tomar decisiones laborales, lo que abre el debate sobre si se trata de una herramienta de apoyo o de una dependencia que erosiona el criterio propio. Y la irrupción de la inteligencia artificial genera tensiones en la cultura de las empresas, donde parte del personal percibe la automatización como un riesgo para los saberes y la autonomía en el trabajo.\n\nEn el mundo, Rusia dijo que solo aceptará un alto el fuego en Ucrania el día que haya elecciones, y no confirmó la tregua energética que había anunciado Donald Trump; un grupo bipartidista de legisladores estadounidenses, además, rechazó el acuerdo de Trump para comprarle diésel a Rusia. Los ataques hutíes dejaron diecisiete muertos y el aeropuerto de Riad sigue sin fecha para reabrir. En Francia se multiplican los incidentes en la movilización estudiantil, a un día de la marcha nacional. En Brasil, la sorpresiva victoria de Flavio Bolsonaro reabrió la disputa por el poder y la identidad, en medio del desencanto con la respuesta de los gobiernos a la inflación, la seguridad y la corrupción. La presidenta mexicana Claudia Sheinbaum exigió al gobierno de Jalisco explicar la represión de una marcha por agua limpia. Y en Colombia se cumplieron diez años del Acuerdo de Paz con las FARC, con un balance que combina la desmovilización de trece mil combatientes y los problemas de implementación del pacto.\n\nLe Grand Continent analiza el intento de Donald Trump de instalar el término superinteligencia en reemplazo de inteligencia artificial, una campaña de relanzamiento que, según el relevamiento citado por la revista, solo uno de cada cinco directivos adoptó plenamente.\n\nEn deportes, Alpine definió los próximos pasos para el auto de Franco Colapinto tras el doble abandono por fallas mecánicas en Singapur y ya prepara piezas nuevas para el Gran Premio de Estados Unidos. Alexander Zverev se asegurará terminar la temporada como número uno del ranking ATP, tras la ausencia de Jannik Sinner y la eliminación de Carlos Alcaraz en Shanghái. El back cordobés Santiago Carreras volvió a destacarse en la Premiership inglesa con otro gesto técnico inusual. A cuatro fechas del final del Torneo Clausura, diez equipos pelean la Tabla Anual separados por solo siete puntos, con Independiente Rivadavia como líder. Lanús recibe hoy a Vélez Sarsfield y Gimnasia de Mendoza enfrenta a Newell's, en el cierre de la fecha doce. Y Stefanos Tsitsipas avanzó a los octavos de Shanghái en un partido marcado por un confuso incidente con las pelotas de su rival, Taylor Fritz.\n\nEn sociedad, detuvieron en Rosario a un expolicía por el crimen de Bárbara Aragón, una joven de veintiséis años hallada envuelta en una frazada en una pensión del barrio Empalme Graneros. Córdoba cerró el invierno sin muertes de bebés por bronquiolitis gracias a un plan que combinó vacunación durante el embarazo y anticuerpos monoclonales. Y la crecida del río Iguazú obligó a cerrar el Parque Nacional y a restringir el acceso a las Cataratas, después de que el caudal se triplicara en menos de cuarenta y ocho horas.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Las siete fuentes se descargaron sin fallas. No apareció material en ningún feed de turismo o viajes en esta ventana, por lo que se omite esa sección en esta edición. No hubo novedades de Club Atlético Tigre en el material de esta corrida.",
+ "slug": "2026-10-12-mediodia",
+ "generado_ba": "12/10/2026 15:16"
+}
