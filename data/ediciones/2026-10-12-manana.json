@@ -1,0 +1,854 @@
+{
+ "fecha": "2026-10-12",
+ "edicion": "manana",
+ "titulo": "Caputo parte hacia el FMI, el riesgo país sube y Colapinto busca recuperarse",
+ "apertura": "Hoy es feriado nacional por el Día de la Raza, en un fin de semana largo de tres días. El Indec publica mañana el IPC de septiembre, que privados calculan en el 2%, mientras Luis Caputo viaja a Bangkok para la revisión del FMI con un desembolso de US$ 869 millones pendiente y el riesgo país subió a 589 puntos. En el plano internacional, Donald Trump anunció una tregua energética entre Rusia y Ucrania que hizo caer el petróleo, los hutíes volvieron a atacar el aeropuerto de Riad y el papa León XIV será operado de un nódulo pulmonar antes de su visita a la Argentina; en lo deportivo, Franco Colapinto y Alpine atraviesan su momento más crítico del año en la Fórmula 1.",
+ "claves": [
+  "Hoy es feriado nacional por el Día de la Raza, con un fin de semana largo de tres días (LN-06).",
+  "El Indec publica este martes el IPC de septiembre; privados calculan que la inflación volvió al 2% tras el 1,7% de agosto (CL-15).",
+  "Luis Caputo viaja a Bangkok para la revisión del FMI con un desembolso de US$ 869 millones pendiente, en medio de dudas sobre el crecimiento (LN-23).",
+  "El riesgo país subió 173 puntos desde julio hasta 589, el mayor salto entre países emergentes después de Ucrania, según un informe de Miguel Ángel Broda (IB-24).",
+  "Donald Trump anunció un alto el fuego energético entre Rusia y Ucrania, lo que hizo caer el precio del petróleo (LN-22).",
+  "Los hutíes volvieron a atacar el aeropuerto de Riad un día después de un ataque que dejó 12 muertos, en medio de la escalada entre Arabia Saudita y Yemen (LN-24).",
+  "El papa León XIV será operado de un nódulo pulmonar antes de su visita a la Argentina, prevista para el 8 de noviembre (LN-17).",
+  "Franco Colapinto y Alpine atraviesan su peor momento del año en la Fórmula 1 tras dos abandonos consecutivos por fallas mecánicas (IB-21)."
+ ],
+ "cifras": [
+  {
+   "nombre": "Jubilación mínima ANSES (octubre, con bono)",
+   "valor": "$ 505.920",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Petróleo WTI",
+   "valor": "US$ 90,50",
+   "variacion": "-1,5%",
+   "fuente": "IB-15"
+  },
+  {
+   "nombre": "Desembolso pendiente del FMI",
+   "valor": "US$ 869 millones",
+   "fuente": "LN-23"
+  },
+  {
+   "nombre": "Sucursales bancarias (caída en 7 años)",
+   "valor": "-672",
+   "variacion": "-14,5%",
+   "fuente": "LN-16"
+  },
+  {
+   "nombre": "Cuentapropismo en aplicaciones (interanual)",
+   "valor": "+30%",
+   "fuente": "AM-06"
+  },
+  {
+   "nombre": "Boncer (rendimiento en dólares CCL, ene-sep)",
+   "valor": "23,2%",
+   "fuente": "IB-25"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "en el peronismo creen que el Gobierno tiene los votos para suspender las PASO",
+     "resumen": "En el PJ evalúan que el oficialismo reúne los votos para suspender las primarias abiertas y ya miran la interna presidencial de 2027. Con Cristina Kirchner fuera de carrera, Axel Kicillof y Sergio Massa aparecen como referencias naturales, mientras Gerardo Zamora y Sergio Uñac se suman a la discusión por su vínculo con la expresidenta.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/peronismo-creen-gobierno-votos-suspender-paso-empiezan-mirar-interna-presidencial-2027_0_i9UKLHdW7K.html",
+     "imagen": "https://www.clarin.com/img/2026/09/02/TUEW-SQqo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "En el peronismo creen que el Gobierno tiene los votos para suspender las PASO y empiezan a mirar la interna presidencial de 2027"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "se multiplican los candidatos a suceder a Kicillof en el peronismo bonaerense",
+     "resumen": "Más de una docena de intendentes, funcionarios y legisladores peronistas recorren los distritos bonaerenses para posicionarse como sucesores de Axel Kicillof. La definición podría darse en las primarias o mediante una negociación entre Cristina Kirchner y el gobernador.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/pelea-liderazgo-peronismo-docena-candidatos-suceder-kicillof_0_bLva8BSTQW.html",
+     "imagen": "https://www.clarin.com/img/2026/03/30/cu2e6uK80_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:11",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Por la pelea por el liderazgo en el peronismo, ya hay más de una docena de candidatos para suceder a Kicillof"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "legisladores peronistas piden suspender la privatización de AySA",
+     "resumen": "Dos diputadas y dos senadores del peronismo presentaron una medida cautelar para frenar la privatización de Agua y Saneamientos Argentinos hasta conocer su tasación oficial e íntegra. La acción se presentó un día después de que el Estado recibiera las ofertas por el 90% de las acciones de la empresa; el Gobierno sostuvo que el proceso continúa.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/legisladores-peronistas-pidieron-suspender-la-privatizacion-de-aysa-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/U5NXWQWNZFFJFA5U6MO3W3PAWA.jpg?auth=c36629a0ffa4f58f0c9ad984537e408a5dc0d6cf98ac5fc2f04db912ac309994&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:52",
+     "autor": "",
+     "titulo_original": "Legisladores peronistas pidieron suspender la privatización de AySA: reclaman conocer la tasación"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "la Corte Suprema frenó a jueces que recortaban honorarios de abogados",
+     "resumen": "El máximo tribunal dejó sin efecto dos fallos que habían reducido honorarios de abogados por debajo de los mínimos legales y fijó un criterio para los tribunales inferiores. El Colegio Público de la Abogacía celebró las sentencias, en medio de una disputa en el Consejo de la Magistratura por eventuales sanciones a jueces que no las apliquen.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-corte-freno-a-los-jueces-que-recortan-los-honorarios-de-los-abogados-y-debaten-posibles-sanciones-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BHBAIJ4ELNDQHI5KIDNBQXACXE.jpg?auth=715fd4c05005b7dd81ff3487244a27ef473aa1640f0e2b906d15186cb27ec554&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:26",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "La Corte frenó a los jueces que recortan los honorarios de los abogados y debaten posibles sanciones en el Consejo"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "el Súper RIGI sigue estancado en el Senado",
+     "resumen": "El proyecto, que prevé inversiones por más de mil millones de dólares para industrias del futuro, sigue trabado porque el PRO, la UCR y el peronismo disidente exigen cambios que el Ministerio de Economía todavía no aceptó. Sin acuerdo con esos aliados, el oficialismo no reúne los votos para convertirlo en ley.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/12/super-rigi-paralizado-en-el-senado-no-habra-acuerdo-si-la-rosada-no-acepta-las-exigencias-de-los-aliados/",
+     "imagen": "https://www.infobae.com/resizer/v2/MH7ZR2IR7RAQJETQIT4WOXL5XY.jpg?auth=b33d3cc284a346a8c604d29bbfab2b42c64a7a66c3e743d8c3e23fa09085fa01&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:57",
+     "autor": "Mariano Casal",
+     "titulo_original": "Súper RIGI estancado en el Senado: no habrá acuerdo si la Rosada no acepta las exigencias de los aliados"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "Menem acusó a la oposición de buscar el caos con la sesión para voltear el DNU 70/23",
+     "resumen": "El presidente de la Cámara de Diputados dijo que la sesión convocada por la oposición para el jueves 15 de octubre, con el objetivo de rechazar el DNU 70/23, solo busca generar caos. Según Menem, el reclamo se apoya en el artículo 154 del decreto, que derogó la Ley de Tierras y que la Corte Suprema volvió a habilitar tras un fallo sobre la legitimación de la organización demandante.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/menem-acuso-a-la-oposicion-de-buscar-el-caos-con-la-sesion-para-voltear-el-dnu-7023/",
+     "imagen": "https://www.cronista.com/resizer/v2/TTEZTFMRTJFVLJV2ROTQYZT7DM.png?auth=751bcf39af788627dc00f894aeda9c6d957cc5f7c8c79dc827dc5d9d03fc9c15&smart=true&width=900&height=521",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "22:24",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Menem acusó a la oposición de buscar el caos con la sesión para voltear el DNU 70/23"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Covelia, la empresa ligada a los Moyano, avanza en el negocio de la basura en Panamá",
+     "resumen": "La compañía manejada por Ricardo Depresbiteris, denunciada en la Justicia por lavado de dinero, ganó un contrato de recolección de residuos en la capital panameña y se presentó a otra licitación para ampliarlo. Sus finanzas están bajo la mira de bancos de Panamá y el embajador de Estados Unidos en ese país cuestionó públicamente a la empresa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/covelia-empresa-ligada-moyano-puso-pie-negocio-basura-panama_0_smPjcJtrVu.html",
+     "imagen": "https://www.clarin.com/img/2014/04/30/ByzUC2F3me_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Covelia, la empresa ligada a los Moyano, puso un pie en el negocio de la basura en Panamá"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "privados calculan que la inflación de septiembre volvió al 2%",
+     "resumen": "Consultoras privadas estiman que el índice de precios de septiembre, que el Indec publicará el martes, volvió a ubicarse en el 2% tras el 1,7% de agosto, impulsado por alimentos y ropa. En la Ciudad de Buenos Aires se registró una leve aceleración y se diluye la expectativa de un dato por debajo del 1%. Para una empresa: implica revisar listas de precios y contratos indexados a un ritmo que no cede como se esperaba.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/inflacion-calculan-indice-volvio-2-septiembre-aumentos-alimentos-ropa_0_TNZRILeQnH.html",
+     "imagen": "https://www.clarin.com/img/2026/09/10/ADYe9ygcQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Inflación: calculan que el índice volvió al 2% en septiembre por aumentos de alimentos y ropa"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Caputo viaja a Bangkok para la revisión del FMI",
+     "resumen": "El ministro de Economía llega el martes a Tailandia para las reuniones anuales del FMI y el Banco Mundial, avanzar en la tercera revisión del acuerdo vigente y reunirse con Kristalina Georgieva. El viaje ocurre mientras sigue pendiente un desembolso de unos US$ 869 millones y crecen las dudas de los inversores por la actividad económica. Para una empresa: el resultado de la revisión condiciona el acceso a financiamiento externo y la expectativa de tasas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/caputo-viaja-a-bangkok-en-medio-de-la-revision-con-el-fmi-y-las-dudas-por-el-crecimiento-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BPKD2YA6Z5HFZAEHSHAAKJR4JU.jpg?auth=7bae66710a2929d8e7836fd55a074256a337ba32a729cd74e116519b593a964b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:41",
+     "autor": "Agustín Maza",
+     "titulo_original": "Caputo viaja a Bangkok en medio de la revisión con el FMI y las dudas por el crecimiento"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "un informe privado advierte que la corrida cambiaria potencial es mayor a la que reconoce el Gobierno",
+     "resumen": "Entre el 7 de julio y el 6 de octubre el riesgo país subió 173 puntos, hasta 589, el mayor incremento entre quince países emergentes después de Ucrania, según un estudio del economista Miguel Ángel Broda. El trabajo advierte que los recursos oficiales en divisas cubren una proporción menor de los pesos dolarizables que la que estima el Gobierno.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/12/segun-un-reconocido-consultor-la-potencial-corrida-cambiaria-es-mayor-y-la-bazuca-de-dolares-para-afrontarla-menor-de-lo-que-dice-el-gobierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/5GFLHZ2GEVCJXL6OLB2LQBRSNI.jpg?auth=a3502bdc57da7c569532a6bf6fd4c4d4e72840889a82584a32b1a026dd714462&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:16",
+     "autor": "Sergio Serrichio",
+     "titulo_original": "Según un reconocido consultor, la potencial corrida cambiaria es mayor y la “bazuca” de dólares para afrontarla menor de lo que dice el gobierno"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "el carry trade fue la estrategia que más ganó en dólares en 2026",
+     "resumen": "Los bonos Boncer, los plazos fijos UVA y los instrumentos duales en pesos superaron a los bonos soberanos en moneda extranjera y a las acciones entre enero y septiembre, según un relevamiento de GMA Capital. Los Boncer lideraron el ranking con un rendimiento de 30,1% en pesos y 23,2% medido en dólares CCL.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/12/carry-trade-las-inversiones-en-pesos-que-mas-ganaron-en-dolares-en-lo-que-va-de-2026/",
+     "imagen": "https://www.infobae.com/resizer/v2/2Y72KY74MVGBTK5RYQILO5KSSQ.png?auth=93597e89342342d837fc66fcaa9744e5a0710a6827f6e451e96e3f6c0ff48f0f&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:15",
+     "autor": "Matías Barbería",
+     "titulo_original": "Carry trade: las inversiones en pesos que más ganaron en dólares en lo que va de 2026"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "la Fed muestra sus cartas y las tasas largas empiezan a calmarse",
+     "resumen": "La Reserva Federal confirmó que seguirá subiendo las tasas sin urgencia, con una suba trimestral esperada por el mercado, lo que empezó a calmar el tramo largo de la curva. Ese escenario facilitaría que el mercado alcista de Wall Street festeje su cuarto aniversario, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/la-fed-muestra-sus-cartas-y-las-tasas-largas-empiezan-calmarse-n6332627",
+     "imagen": "https://media.ambito.com/p/1f7c0503e361055dca2b0969353a7e4d/adjuntos/239/imagenes/043/345/0043345268/1200x675/621x195:641x215/kevin-warsh.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:37",
+     "autor": "",
+     "titulo_original": "La Fed muestra sus cartas y las tasas largas empiezan a calmarse"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "el petróleo cayó tras el anuncio de la tregua energética entre Rusia y Ucrania",
+     "resumen": "El WTI retrocedió 1,5%, hasta US$ 90,50 por barril, y el Brent cayó 1,2%, hasta US$ 103,48, después del anuncio de Donald Trump de un alto el fuego energético entre Rusia y Ucrania. La baja revirtió las subidas iniciales que había generado el ataque de los hutíes contra Arabia Saudita durante el fin de semana.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/12/el-petroleo-cae-tras-el-anuncio-de-trump-de-una-tregua-energetica-entre-rusia-y-ucrania-pese-a-los-ataques-huties-en-arabia-saudita/",
+     "imagen": "https://www.infobae.com/resizer/v2/OIGEN3TZ5BCFNHWCD4NP5S3BE4.JPG?auth=755c8aa0a56163d60a0d12505bc74d6514299cd9e7b1f728bb0b2e7ee11c4e80&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:29",
+     "autor": "",
+     "titulo_original": "El petróleo cae tras el anuncio de Trump de una tregua energética entre Rusia y Ucrania pese a los ataques hutíes en Arabia Saudita"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "la Argentina recupera participación en el comercio mundial",
+     "resumen": "Tras tocar en 2023 su piso histórico de 0,29% de las exportaciones globales, la Argentina revirtió la tendencia y en 2026 superaría por primera vez los US$ 100.000 millones exportados. Un análisis de Marcelo Elizondo, del Capítulo Argentino de la Cámara de Comercio Internacional, proyecta que el país podría exportar US$ 180.000 millones hacia 2035.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/12/la-argentina-recupera-participacion-en-el-comercio-mundial-proyectan-que-en-2035-exportara-usd-180000-millones/",
+     "imagen": "https://www.infobae.com/resizer/v2/R6SJU3OWVBDU3FJMWF3KTLWZAM.JPG?auth=689dd6c02f306fec5fcbbbadaf4b7d5f2027c9d676a27ca733052dd2d5c2e108&smart=true&width=900&height=602",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:17",
+     "autor": "Lola Loustalot",
+     "titulo_original": "La Argentina recupera participación en el comercio mundial: proyectan que en 2035 exportará USD 180.000 millones"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-04",
+     "titulo": "el CEO de Arcor reclamó bajar la carga tributaria nacional, provincial y municipal",
+     "resumen": "El directivo de la alimenticia pidió avanzar en una reducción de la presión impositiva en los tres niveles de gobierno como condición para mejorar la competitividad de las empresas argentinas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/ceo-arcor-avanzar-aspectos-vinculados-carga-tributaria-nacional-provincial-municipal_0_5aPxKnKX2Z.html",
+     "imagen": "https://www.clarin.com/img/2026/10/11/epWErC3nr_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Para el CEO de Arcor \"hay que avanzar en aspectos vinculados a la carga tributaria nacional, provincial y municipal\""
+    },
+    {
+     "id": "CL-05",
+     "titulo": "Quilmes vuelve a ser la base regional de los negocios de AB InBev para el Cono Sur",
+     "resumen": "Desde comienzos de año, la Argentina volvió a ser la plataforma regional del gigante cervecero dueño de Cervecería y Maltería Quilmes. Su titular, Pablo Panizza, dijo que una de cada cuatro cervezas que vende el grupo en el mundo se elabora con maltas exportadas desde el país y reclamó mayor formalización de la economía para competir en igualdad de condiciones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/quilmes-vuelve-encabezar-argentina-negocios-cono-sur_0_B4Pa5osZFT.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/X6l99KFei_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Quilmes vuelve a encabezar desde Argentina los negocios para todo el Cono Sur"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "lanzan el primer vehículo financiero para invertir desde US$ 1.000 en hoteles de lujo",
+     "resumen": "Invitta, una apuesta conjunta de la cadena Meliá, la casa de bolsa Allaria y Sancor Seguros, es un fideicomiso financiero de oferta pública que financiará la construcción de cuatro hoteles en Mendoza, Buenos Aires y la Costa Atlántica.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/lanzan-primer-vehiculo-financiero-invertir-us-1000-hoteles-lujo-argentina_0_hYzW7J5I5w.html",
+     "imagen": "https://www.clarin.com/img/2025/07/14/7pbiwENTl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lanzan el primer vehículo financiero para invertir desde US$ 1.000 en hoteles de lujo en Argentina"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Flybondi acumula una deuda de $ 610.000 millones y pide seguir operando",
+     "resumen": "La aerolínea low cost se presentó ante la Justicia con un pasivo de $ 609.589 millones frente a activos por $ 176.103 millones. Entre sus principales acreedores figuran YPF y proveedores de servicios, además de devoluciones de pasajes y tasas impagas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/flybondi-acumula-deuda-610000-millones-quiere-seguir-volando-principales-acreedores_0_1pdrJsFhgP.html",
+     "imagen": "https://www.clarin.com/img/2026/08/13/vZDNRkuEL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Flybondi acumula una deuda $ 610.000 millones y quiere seguir volando: quiénes son sus principales acreedores"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
+     "resumen": "Un funcionario indonesio visitó Neuquén para explorar inversiones en Vaca Muerta y en gas natural licuado argentino, y explicó por qué su país decidió abrir su mercado a la carne local.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/indonesia-busca-socios-energeticos-vaca-muerta-y-abre-la-puerta-la-carne-argentina-n6330748",
+     "imagen": "https://media.ambito.com/p/5af559c2229f2823935be23e5d6f9488/adjuntos/239/imagenes/043/697/0043697269/1200x675/683x282:703x302/embajador-indonesia-sulaiman.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "YPF y Vista, las dos apuestas de Vaca Muerta, empatan en rendimiento anual",
+     "resumen": "Las acciones de YPF y Vista tuvieron un desempeño prácticamente idéntico en lo que va del año, pese a tratarse de compañías con tamaño, estructura y perfil de riesgo distintos, según un análisis de Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/opiniones/ypf-vs-vista-cual-las-dos-acciones-gana-el-ano-n6332644",
+     "imagen": "https://media.ambito.com/p/570375692f71d037c7cc44ec537cfbc4/adjuntos/239/imagenes/043/566/0043566241/1200x675/854x638:874x658/ypf-vaca-muerta.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:35",
+     "autor": "",
+     "titulo_original": "YPF vs. Vista: ¿cuál de las dos acciones gana en el año?"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "AM-14",
+     "titulo": "cuando Ingresos Brutos entra en la decisión de dónde producir",
+     "resumen": "Ámbito describe el caso de una empresa que reorganizó su producción y concentró dos líneas en una sola provincia, lo que visibilizó cómo las diferencias de alícuotas de Ingresos Brutos entre jurisdicciones pueden influir sobre dónde se localizan inversiones y plantas productivas. Para una empresa: las asimetrías tributarias provinciales son un factor concreto a evaluar antes de definir dónde instalar o ampliar una planta.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/novedades-fiscales/cuando-ingresos-brutos-entra-la-decision-donde-producir-n6332589",
+     "imagen": "https://media.ambito.com/p/1d4a01b52722fd7ed74ad76c1b153c6a/adjuntos/239/imagenes/042/729/0042729778/industria-pyme-importaciones-fabricas.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:09",
+     "autor": "",
+     "titulo_original": "Cuando Ingresos Brutos entra en la decisión de dónde producir"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "casi 1.000 empresas cerraron en julio, según la SRT",
+     "resumen": "La Superintendencia de Riesgos del Trabajo informó que casi mil empresas registradas fueron dadas de baja durante julio, el séptimo mes del año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466375-contundentes-numeros-de-la-srt-cuantas-empresas-cerraron-en-el-pais-durante-julio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618573.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:59",
+     "autor": "",
+     "titulo_original": "Contundentes números de la SRT: cuántas empresas cerraron en el país durante julio"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "ANSES confirmó el aumento de octubre y la jubilación mínima llega a $ 505.920 con el bono",
+     "resumen": "La movilidad de octubre, calculada con el IPC de agosto, fue del 1,7%. Con ese incremento y el bono extraordinario de $ 70.000, el haber mínimo total que cobrarán los jubilados en el décimo mes asciende a $ 505.919,96.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/nuevo-aumento-para-jubilados-anses-cual-es-la-minima-en-octubre-2026-y-cuanto-cobraran-con-el-bono-de-70000/",
+     "imagen": "https://www.cronista.com/resizer/v2/VDWT2IRNYFBGRPTNPM4TPZYB6I.jpg?auth=3289da6b230ae1b4176690f2be6e360a5c06dca5c8b26ece5b087d49ca0f985f&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:01",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Nuevo aumento para jubilados ANSES: cuál es la mínima en octubre 2026 y cuánto cobrarán con el bono de $ 70.000"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "el cuentapropismo en aplicaciones creció hasta 30% en un año",
+     "resumen": "Con el desempleo en 7,9% y la informalidad en 45%, las plataformas de trabajo independiente se consolidan como salida laboral, tanto para jóvenes que buscan un ingreso complementario como para adultos que las usan como fuente principal. Para una empresa: refleja un mercado laboral con mayor informalidad relativa, un dato a considerar en políticas de contratación y retención de personal.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-cuentapropismo-las-apps-crecio-30-un-ano-y-expone-la-nueva-cara-del-empleo-el-pais-n6332082",
+     "imagen": "https://media.ambito.com/p/887c54a7f4f139faf4056127dd3c29d0/adjuntos/239/imagenes/043/638/0043638845/1200x675/smart/delivery-caba.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:39",
+     "autor": "",
+     "titulo_original": "El cuentapropismo en las apps creció hasta 30% en un año y expone la nueva cara del empleo en el país"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "AM-15",
+     "titulo": "cuánto cobran un albañil, un electricista y un plomero en octubre",
+     "resumen": "Ámbito relevó los valores de referencia que cobran estos oficios en octubre de 2026 y señaló que el costo de contratar a cada uno, o de encarar una obra, varía de forma significativa según la especialidad. Para una empresa: son valores de referencia útiles para presupuestar mantenimiento, reformas u obras en sucursales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/cuanto-cobran-un-albanil-un-electricista-y-un-plomero-octubre-2026-n6332076",
+     "imagen": "https://media.ambito.com/p/c7857a20e3af7628583b790a564eae1a/adjuntos/239/imagenes/043/626/0043626553/1200x675/930x527:950x547/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "¿Cuánto cobran un albañil, un electricista y un plomero en octubre 2026?"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Montevideo seduce a inversores argentinos con la Vivienda Promovida",
+     "resumen": "El régimen de Vivienda Promovida transformó barrios de la capital uruguaya y atrajo a compradores argentinos interesados en el valor del metro cuadrado y en el potencial de renta de esas propiedades.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/465942-montevideo-seduce-a-inversores-argentinos-que-departamentos-compran",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627040.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Montevideo seduce a inversores argentinos: qué departamentos compran y cuánto vale el m2"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "las redadas del ICE dejan sin mano de obra a la construcción en Texas",
+     "resumen": "El endurecimiento de los controles migratorios del ICE redujo la disponibilidad de trabajadores para la construcción en el sur de Texas, según un informe citado por La Nación, y generó retrasos y paralizaciones en numerosos proyectos comerciales de la región del Valle del Río Grande.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/texas/es-oficial-las-redadas-de-ice-dejan-escasez-de-trabajadores-en-texas-y-la-construccion-siente-el-nid10102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GRD5XKSRHNG33KMGDXCA4YHQVA.jpg?auth=a801f444dd0f9e8bef7ed45551696d11bc3f42837fc555639783841a57e607e7&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:38",
+     "autor": "",
+     "titulo_original": "Es oficial: las redadas del ICE dejan escasez de trabajadores en Texas y la construcción siente el impacto"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "la red TelePASE suma nuevas rutas sin cobro en efectivo",
+     "resumen": "En las últimas semanas se incorporaron a la red TelePASE varios peajes adicionales en distintas rutas del país, donde ahora se puede pagar directamente con el tag sin necesidad de efectivo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466348-chau-peaje-en-efectivo-nuevas-rutas-que-sumaron-la-tecnologia-telepase-en-todo-el-pais",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/572298.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:06",
+     "autor": "",
+     "titulo_original": "Chau peaje en efectivo: nuevas rutas que sumaron la tecnología TelePASE en todo el país"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "las fábricas cambian de estrategia: producen contra pedido y priorizan liquidez",
+     "resumen": "La debilidad del mercado interno llevó a las industrias a modificar sus decisiones productivas y comerciales, priorizando la liquidez y la cautela por sobre nuevas inversiones, y a fabricar contra pedido en lugar de acumular stock.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466367-empresas-cambian-la-forma-de-producir-y-avanzan-con-pedidos-confirmados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/05/554019.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:40",
+     "autor": "",
+     "titulo_original": "Las fábricas cambian de estrategia: producen contra pedido y priorizan tener liquidez"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "del cable a la inteligencia artificial y el 5G: dónde buscan crecer las telecomunicadoras",
+     "resumen": "La industria de telecomunicaciones busca nuevas fuentes de ingresos a medida que la inteligencia artificial, el 5G y los contenidos digitales redefinen el mapa de inversiones y de competencia del sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466366-telecomunicaciones-las-empresas-debaten-como-generar-nuevos-negocios-en-la-era-digital",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625575.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:42",
+     "autor": "",
+     "titulo_original": "Del cable a la IA y el 5G: dónde buscan crecer las empresas de telecomunicaciones"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "Trump anunció un alto el fuego energético entre Rusia y Ucrania",
+     "resumen": "El presidente de Estados Unidos dijo que Rusia y Ucrania acordaron frenar los ataques contra sus infraestructuras energéticas. Zelensky confirmó el respaldo de Ucrania a la tregua pero señaló que espera precisiones de Washington sobre sus condiciones, mientras Moscú no se pronunció todavía. El anuncio hizo caer el precio del petróleo en los mercados internacionales.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El petróleo cae tras el anuncio de Trump de una tregua energética entre Rusia y Ucrania pese a los ataques hutíes en Arabia Saudita",
+       "url": "https://www.infobae.com/america/mundo/2026/10/12/el-petroleo-cae-tras-el-anuncio-de-trump-de-una-tregua-energetica-entre-rusia-y-ucrania-pese-a-los-ataques-huties-en-arabia-saudita/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/trump-dice-que-rusia-y-ucrania-acordaron-un-alto-el-fuego-energetico-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/X4POEQXKSBHUDFH3FGK2EYSZ34.JPG?auth=c9af8ed8f69077b143ca92ec6b011b663ddab435720f09c8af26947b8937f9b1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:08",
+     "autor": "",
+     "titulo_original": "Trump dice que Rusia y Ucrania acordaron un “alto el fuego energético”"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "los hutíes volvieron a atacar el aeropuerto de Riad",
+     "resumen": "Un nuevo proyectil impactó en la Terminal 4 del aeropuerto Rey Jalid de Riad y las defensas sauditas interceptaron un misil de crucero, un día después de un ataque que dejó 12 muertos y más de 300 heridos. La coalición liderada por Arabia Saudita intensifica su ofensiva en Yemen en medio de la escalada con los rebeldes hutíes.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/los-huties-vuelven-a-atacar-el-aeropuerto-de-riad-y-crece-la-tension-entre-arabia-saudita-y-yemen-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Y3XZRTXLRBH4NOHRTS2HRVYWRM.JPG?auth=5410c20567eea572827eb5b0c7be6bf8d41cd93454147a062d19075f629ca55a&smart=true&width=900&height=1386",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:37",
+     "autor": "",
+     "titulo_original": "Los hutíes vuelven a atacar el aeropuerto de Riad y crece la tensión entre Arabia Saudita y Yemen"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Netanyahu pidió investigar a los soldados que hablaron en el documental Naza",
+     "resumen": "El primer ministro israelí reclamó una investigación contra los militares que participaron de forma anónima en el documental Naza, premiado en Venecia, y que acusaron al ejército de matar civiles de forma intencionada en Gaza. Netanyahu pidió además que, una vez identificados, se les revoque la ciudadanía israelí.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/netanyahu-pide-que-se-investigue-a-los-soldados-israelies-que-participaron-en-el-documental-naza-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BLX52X2QSZB67C53J4YNRBSQJY.JPG?auth=69b048cbc21a61b250268b33f2bba674f3ecd5723aace2e86fba3eabcb18ac26&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:09",
+     "autor": "",
+     "titulo_original": "Netanyahu pide que se investigue a los soldados israelíes que participaron en el documental NAZA"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "la OTAN advertirá a Rusia sobre su capacidad de respuesta",
+     "resumen": "El comandante supremo aliado en Europa, el general Alexus Grynkewich, expondrá en Varsovia la estrategia de la OTAN ante un eventual ataque ruso, en medio de la preocupación por operaciones de sabotaje atribuidas a Moscú. El discurso también busca tranquilizar a los países del flanco oriental de la alianza.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/12/la-otan-advertira-a-rusia-sobre-su-capacidad-de-respuesta-ante-el-aumento-de-las-operaciones-hibridas-contra-paises-aliados/",
+     "imagen": "https://www.infobae.com/resizer/v2/D4LF3X5H3ZECPDAZ6DNA2OYV7U.JPG?auth=a6c94e812a76951af29926d795590379bf85933569c50831a97a69e6ce6bca99&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:20",
+     "autor": "",
+     "titulo_original": "La OTAN advertirá a Rusia sobre su capacidad de respuesta ante el aumento de las operaciones híbridas contra países aliados"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "un incendio destruyó el mercado cubierto más antiguo de París",
+     "resumen": "El Marché des Enfants Rouges, fundado en 1615 en el barrio de Le Marais y declarado monumento histórico, quedó totalmente destruido por un incendio en la madrugada del lunes, según el alcalde del centro de París, Ariel Weil. Las autoridades pidieron evitar la zona de la rue de Bretagne mientras los bomberos trabajaban en el lugar.",
+     "relacionadas": [
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Un incendio destruyó Enfants Rouges, el mercado cubierto más antiguo de París",
+       "url": "https://www.clarin.com/mundo/incendio-destruyo-enfants-rouges-mercado-cubierto-antiguo-paris_0_RHLCbsMuB3.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/un-incendio-destruyo-enfants-rouges-el-mercado-cubierto-mas-antiguo-de-paris-nid12102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Y72QYQ72PBHFRF3CBT4Q33DW6E.JPG?auth=2ca4d8444d81de5eb3ab6774b9f54f2c55a008754f231efb8e3742d7b79fc0a7&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:44",
+     "autor": "",
+     "titulo_original": "Un incendio destruyó Enfants Rouges, el mercado cubierto más antiguo de París"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "el papa León XIV será operado de un nódulo pulmonar antes de su visita a la Argentina",
+     "resumen": "El Vaticano prevé una semana de internación para extirpar un nódulo pulmonar en estado inicial y bien localizado, detectado al Papa, de 71 años, aunque todavía no se difundieron detalles sobre su tamaño. La intervención genera preocupación de cara al viaje a la Argentina previsto para el 8 de noviembre; Javier Milei le envió un mensaje de apoyo y la Iglesia de Uruguay confirmó que mantiene la agenda de su visita.",
+     "relacionadas": [
+      {
+       "id": "IB-01",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Iglesia Católica uruguaya ratificó la agenda de León XIV en el país tras el anuncio de su operación por un nódulo pulmonar",
+       "url": "https://www.infobae.com/america/america-latina/2026/10/12/iglesia-catolica-uruguaya-ratifico-la-agenda-de-leon-xiv-en-el-pais-tras-el-anuncio-de-su-operacion-por-un-nodulo-pulmonar/"
+      },
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El mensaje de Milei al Papa tras el anuncio de su problema de salud: “Toda la Argentina lo acompaña”",
+       "url": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-al-papa-tras-el-anuncio-de-su-problema-de-salud-toda-la-argentina-lo-acompana-nid11102026/"
+      },
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Papa León XIV será operado a un mes de su visita a Argentina: el mensaje de Milei",
+       "url": "https://www.iprofesional.com/actualidad/466371-el-papa-leon-xiv-sera-operado-a-un-mes-de-su-visita-a-argentina-el-mensaje-de-milei"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/la-cirugia-del-papa-que-es-un-nodulo-pulmonar-como-se-opera-y-cuanto-tarda-la-recuperacion-segun-los-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WBAJ2PLNQ5E2JM6HCSB3FIC3KQ.jpg?auth=f1dbe3b21cdf5f533b14a849f05ce00e6ee92155fe3d6877c6d4630f7b58662b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:57",
+     "autor": "Alejandro Horvat",
+     "titulo_original": "La cirugía del Papa: qué es un nódulo pulmonar, cómo se opera y cuánto tarda la recuperación, según los expertos"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Zhejiang, el laboratorio de Xi Jinping",
+     "resumen": "Le Grand Continent analiza cómo la provincia china de Zhejiang se convirtió en modelo oficial de modernización al estilo chino, título que el propio Xi Jinping le otorgó en 2023. La revista repasa qué revela ese caso sobre el proyecto de modernización que el Partido Comunista busca proyectar al resto del país.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/12/zhejiang-laboratorio-de-xi-jinping/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Louis Puel",
+     "titulo_original": "Zhejiang, el laboratorio de Xi Jinping"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "Boca Juniors y Vasco Da Gama juegan la ida de semifinales de la Sudamericana",
+     "resumen": "El partido de ida de las semifinales de la Copa Sudamericana 2026 se disputará el martes a las 21.30 en la Bombonera, con arbitraje del chileno Piero Maza y transmisión de ESPN y DSports. Según las casas de apuestas, Boca es favorito con una cuota de 1,90 frente a 4,94 de Vasco Da Gama.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors-vs-vasco-da-gama-por-la-copa-sudamericana-2026-dia-horario-tv-y-como-ver-online-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/P4XOZWXTFRG3HOGM4C5QMNURG4.JPG?auth=ec626fcade069f7836eee83c810caafc4e23fb8d8c13e69f7eb6c5af1995887d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:38",
+     "autor": "",
+     "titulo_original": "Boca Juniors vs. Vasco Da Gama, por la Copa Sudamericana 2026: día, horario, TV y cómo ver online"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "Independiente y Talleres empataron 0-0 en Córdoba por el Clausura",
+     "resumen": "Por la fecha 12 de la Zona A, el Rojo y la T igualaron sin goles en el estadio Mario Alberto Kempes. Sobre el final, el VAR anuló un gol de Nahuel Banegas por una posición adelantada previa de Santiago Montiel; Independiente quedó quinto en su zona y Talleres sigue en el fondo de la suya.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Con polémica en el final, Independiente igualó 0-0 ante Talleres en Córdoba por el Torneo Clausura",
+       "url": "https://www.infobae.com/deportes/2026/10/11/en-un-duelo-de-necesitados-independiente-visitara-a-talleres-de-cordoba-hora-tv-y-formaciones/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/independiente-y-talleres-no-se-sacaron-ventajas-empataron-goles-cordoba-el-torneo-clausura-n6332654",
+     "imagen": "https://media.ambito.com/p/8ea69c2df4fb76a65f7ddfc9b60e7a24/adjuntos/239/imagenes/043/698/0043698113/1200x675/smart/independiente-talleres.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:52",
+     "autor": "",
+     "titulo_original": "Independiente y Talleres no se sacaron ventajas: empataron sin goles en Córdoba por el Torneo Clausura"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "Belgrano venció a Racing y profundizó la crisis del equipo de Avellaneda",
+     "resumen": "El Pirata se impuso 2 a 0 en el Cilindro por la fecha 12 del Clausura, con goles de Lucas Zelarayán y Franco Vázquez. Belgrano quedó como escolta de Rosario Central en la Zona B, mientras Racing permanece en el puesto 13 de su zona.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/belgrano-golpeo-avellaneda-vencio-racing-y-profundizo-su-crisis-el-torneo-clausura-n6332633",
+     "imagen": "https://media.ambito.com/p/24f24c883ce584b8b031d8bfd3ba7761/adjuntos/239/imagenes/043/697/0043697888/1200x675/smart/racign-belgrano.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:21",
+     "autor": "",
+     "titulo_original": "Belgrano golpeó en Avellaneda: venció a Racing y profundizó su crisis en el Torneo Clausura"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "hinchas de Gimnasia de Jujuy y de Salta se pelearon trepados al alambrado",
+     "resumen": "En el clásico norteño entre Gimnasia de Jujuy y Gimnasia y Tiro de Salta, los hinchas de ambos equipos se amenazaron y llegaron a subirse al alambrado para intentar pelear, lo que demoró el inicio del segundo tiempo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/insolita-batalla-clasico-norteno-hinchas-lobo-jujeno-albo-salteno-pelearon-trepados-alambrado_0_LdnKay1XFT.html",
+     "imagen": "https://www.clarin.com/img/2026/10/11/Ac3y3GSDnW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La insólita batalla en el clásico norteño: los hinchas de Lobo jujeño y el Albo salteño se pelearon trepados al alambrado"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "Walter Benítez hizo la atajada más espectacular de la fecha en la Premier League",
+     "resumen": "El arquero chaqueño, suplente habitual de Crystal Palace, reemplazó al lesionado Dean Henderson y fue clave en el triunfo 3 a 1 sobre Nottingham Forest con una tapada a los 35 minutos, cuando su equipo perdía 1 a 0.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/walter-benitez-hizo-la-atajada-mas-espectacular-de-la-fecha-de-la-premier-league-nid11102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Q52XTZFKPNGOJB7HM2J5Y7YMRY.jpg?auth=bfd6d923ae2f32a2d2aa43592d5d87eaffe6925129295f4d224bf9684e74c8f9&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:36",
+     "autor": "",
+     "titulo_original": "Walter Benítez hizo la atajada más espectacular de la fecha de la Premier League"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Messi eligió a Tomás Aranda entre las diez mayores promesas del fútbol mundial",
+     "resumen": "La elección forma parte de la campaña publicitaria Messi más diez, temporada tres, de Adidas, en la que el capitán argentino señala a los futbolistas que considera parte del futuro del deporte, incluido el fútbol femenino.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/lionel-messi-eligio-tomas-aranda-las-diez-mayores-promesas-del-futbol-mundial-n6332621",
+     "imagen": "https://media.ambito.com/p/786a6809d374a09333c4cf3036a1f01d/adjuntos/239/imagenes/043/697/0043697768/1200x675/smart/messi-aranda.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:58",
+     "autor": "",
+     "titulo_original": "Lionel Messi eligió a Tomás Aranda entre las diez mayores promesas del fútbol mundial"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "la joya de Racing que superó un récord juvenil de Lautaro Martínez",
+     "resumen": "Román González, delantero de la Séptima División de Racing, alcanzó 27 goles en 23 partidos y superó una marca de las inferiores que pertenecía a Lautaro Martínez. El juvenil, formado en el club desde 2019, fue Botín de Oro en el Mundial de Clubes Sub 18 y ya firmó su contrato profesional con una cláusula de rescisión millonaria.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/aprendio-definir-maradona-quebro-record-lautaro-martinez-joya-ilusiona-racing-pesar-crisis-futbolistica_0_7JIB9ugDTK.html",
+     "imagen": "https://www.clarin.com/img/2026/10/11/zbePIkYiW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Aprendió a definir con Maradona y quebró un récord de Lautaro Martínez: la joya que ilusiona a Racing a pesar de la crisis futbolística"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Alpine atraviesa su momento más crítico del año en la Fórmula 1",
+     "resumen": "Franco Colapinto abandonó ambas carreras del fin de semana en Singapur por fallas mecánicas de su Alpine A526, en el arranque de una crisis de fiabilidad inédita para el equipo en 2026. A eso se suma la mala racha de Pierre Gasly, sin puntos en las últimas cuatro fechas, mientras Alpine pierde terreno en la pelea por el quinto puesto del campeonato de constructores.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La autocrítica de Alpine tras un “triplete” negativo: los problemas en el auto de Colapinto y la promesa de mejoras",
+       "url": "https://www.lanacion.com.ar/deportes/automovilismo/la-autocritica-de-alpine-tras-un-triplete-negativo-los-problemas-en-el-auto-de-colapinto-y-la-nid11102026/"
+      },
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto, golpeado por la mala racha en la Fórmula 1: \"Fue el peor triplete de mi carrera\"",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-golpeado-la-mala-racha-la-formula-1-fue-el-peor-triplete-mi-carrera-n6332517"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/10/12/alpine-atraviesa-el-momento-mas-critico-del-ano-en-la-formula-1-como-buscara-recuperarse-y-la-clave-para-franco-colapinto/",
+     "imagen": "https://www.infobae.com/resizer/v2/SLN3RCYL6JH6VEFPW5PGRPWXSQ.jfif?auth=24e586a9af2a2c61c48a7efddcd7346355f951200a8a3b80fec994ac563ad55a&smart=true&width=900&height=527",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:47",
+     "autor": "Darío Coronel",
+     "titulo_original": "Alpine atraviesa el momento más crítico del año en la Fórmula 1: cómo buscará recuperarse y la clave para Franco Colapinto"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-07",
+     "titulo": "un emprendedor convirtió aviones que llevaron soldados a Malvinas en un hotel en Córdoba",
+     "resumen": "Oscar Scorza instaló en Oncativo, Córdoba, un hotel hecho con aviones que en su momento transportaron soldados durante el conflicto de Malvinas como parte del Escuadrón Fénix. El emprendimiento logra llenar sus habitaciones todos los fines de semana del año y cobra más del doble que otros alojamientos de la zona.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/es-emprendedor-compro-aviones-que-llevaron-soldados-a-las-islas-malvinas-y-los-convirtio-en-un-hotel-nid12102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Y7YKWJNKBJF5VBHVU4SVYFMKCM.jpg?auth=3ec1230775c09c4acba0f6e0f384121368b8a76d6ebbe84c01e9ccd5cbf90dd5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:45",
+     "autor": "Germán Rimoldi",
+     "titulo_original": "Es emprendedor, compró aviones que llevaron soldados a las Islas Malvinas y los convirtió en un hotel"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "Chacras de Coria se convirtió en punto de encuentro de la escena electrónica mendocina",
+     "resumen": "La localidad de Luján de Cuyo, Mendoza, pasó de la tranquilidad de sus arboledas a reunir festivales de música electrónica combinados con degustaciones de vino, cocina de autor, cafés de especialidad, cine al aire libre y hoteles boutique.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/chacras-coria-tranquilidad-arboledas-corazon-escena-electronica-mendoza_0_JAs2CpTFnB.html",
+     "imagen": "https://www.clarin.com/img/2026/10/11/xYMEESeUB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Chacras de Coria: de la tranquilidad de sus arboledas al corazón de la escena electrónica en Mendoza"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-14",
+     "titulo": "la crecida de los ríos por El Niño ya generó los primeros evacuados en el litoral",
+     "resumen": "En Concordia, Entre Ríos, y en Paso de los Libres, Corrientes, ya se trasladó a familias a centros de asistencia por el avance del agua. Desde la represa de Yacyretá advirtieron que las lluvias del fin de semana y las descargas de centrales hidroeléctricas aguas arriba elevarán el caudal del Paraná, mientras hay alerta en las localidades aguas abajo de Salto Grande por el nivel del río Uruguay.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Crecida del río Uruguay: evacuaron familias en Concordia y hay alerta en Corrientes y Entre Ríos por El Niño",
+       "url": "https://www.lanacion.com.ar/sociedad/crecida-del-rio-uruguay-evacuaron-familias-en-concordia-y-hay-alerta-en-corrientes-y-entre-rios-por-nid11102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/fenomeno-nino-argentina-niveles-agua-limite-primeros-evacuados-ciudades-alerta-lluvias-norte-litoral_0_MxzIG5iNZm.html",
+     "imagen": "https://www.clarin.com/img/2026/10/11/uJSOvVgcB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Fenómeno El Niño en Argentina: niveles de agua al límite, primeros evacuados y ciudades en alerta por más lluvias en el norte del litoral"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "los médicos del PAMI harán un paro de 96 horas",
+     "resumen": "Los profesionales que atienden afiliados del PAMI reclaman una actualización de los honorarios que paga el organismo y realizarán una medida de fuerza entre el martes 13 y el viernes 16 de octubre. La protesta suspende los turnos programados y podría afectar las consultas médicas en todo el país.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/informacion-general/paro-nacional-los-medicos-del-pami-96-horas-se-suspenden-los-turnos-programados-n6332641",
+     "imagen": "https://media.ambito.com/p/f97a35258e65f758e7b1eb6a810a56a0/adjuntos/239/imagenes/043/531/0043531779/pami.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "22:09",
+     "autor": "",
+     "titulo_original": "Paro nacional de los médicos del PAMI por 96 horas: se suspenden los turnos programados"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "el presupuesto del CONICET sufrió un fuerte ajuste durante el gobierno de Milei",
+     "resumen": "Un relevamiento de Infobae sobre el período de agosto de 2023 a agosto de 2026 muestra recortes de personal, de investigadores y de becarios, además de una fuerte caída del presupuesto del organismo científico una vez descontada la inflación, lo que comprometió la producción científica del país.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/12/radiografia-del-conicet-en-tiempos-de-milei-recorte-de-fondos-reduccion-de-becarios-y-menos-investigaciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/H56CIYO2ZJG3FGOTEFP32KNNLM.jpg?auth=63ca57872f07d61f5fabcb6a259dac54fbb12ca66e8f5fe859eba087c89505e3&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:54",
+     "autor": "Mariel Fitz Patrick, Sandra Crucianelli",
+     "titulo_original": "Radiografía del CONICET en tiempos de Milei: recorte de fondos, reducción de becarios y menos investigaciones"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "un argentino acusado de estafas con criptomonedas será extraditado desde Australia",
+     "resumen": "Nicolás Mendioroz Jucosa será trasladado a la Argentina el jueves y quedará a disposición de la Justicia, tras una captura internacional que los denunciantes persiguieron durante una intensa pelea judicial.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/argentino-extraditado-australia-acusado-cometer-estafas-criptomonedas_0_z5KUVKl7da.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/DVrtMAHJO_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "03:23",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un argentino será extraditado desde Australia: está acusado por cometer estafas con criptomonedas"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del lunes 12 de octubre. Hoy es feriado nacional por el Día de la Raza, en un fin de semana largo de tres días. El dólar oficial cerró en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cuarenta pesos y el oro cotiza cerca de cuatro mil ciento noventa y ocho dólares la onza, según el panel de mercados. El riesgo país subió hasta quinientos ochenta y nueve puntos, el Indec publica mañana el índice de precios de septiembre, que los privados calculan en el dos por ciento, y el ministro Luis Caputo viaja a Bangkok para la revisión del Fondo Monetario con un desembolso de ochocientos sesenta y nueve millones de dólares todavía pendiente. En el plano internacional, Donald Trump anunció una tregua energética entre Rusia y Ucrania que hizo caer el petróleo, y en el deportivo Franco Colapinto y Alpine atraviesan su momento más crítico del año en la Fórmula uno.\n\nEn política, en el peronismo creen que el oficialismo tiene los votos para suspender las primarias abiertas y ya miran la interna presidencial de dos mil veintisiete, con Axel Kicillof y Sergio Massa como referencias ante la ausencia de Cristina Kirchner. Justamente en la provincia de Buenos Aires se multiplican los candidatos a sucederlo, con más de una docena de dirigentes recorriendo los distritos. Legisladores peronistas pidieron, mediante una medida cautelar, suspender la privatización de Agua y Saneamientos Argentinos hasta conocer su tasación oficial. La Corte Suprema, por su parte, frenó a jueces que venían recortando los honorarios de los abogados por debajo de los mínimos legales. En el Senado, el Súper RIGI sigue estancado porque el Pro, la Unión Cívica Radical y el peronismo disidente exigen cambios que Economía todavía no aceptó. Martín Menem acusó a la oposición de buscar caos con la sesión convocada para el jueves, que intentará voltear el decreto que derogó la Ley de Tierras. Y la empresa Covelia, ligada a la familia Moyano, avanza en el negocio de la recolección de basura en Panamá, en medio de denuncias por lavado de dinero.\n\nEn economía y mercados, además de la inflación y el viaje de Caputo al Fondo Monetario, un informe privado advierte que la corrida cambiaria potencial es mayor a la que reconoce el Gobierno, porque el riesgo país subió ciento setenta y tres puntos desde julio, el mayor salto entre los países emergentes después de Ucrania. El carry trade fue la estrategia que más ganó en dólares en lo que va de dos mil veintiséis, con los bonos Boncer rindiendo más del treinta por ciento en pesos. La Reserva Federal de Estados Unidos confirmó que seguirá subiendo las tasas sin urgencia, lo que empieza a calmar el tramo largo de la curva. El petróleo cayó después del anuncio de la tregua entre Rusia y Ucrania, revirtiendo la suba que había generado el ataque de los hutíes contra Arabia Saudita. Y la Argentina recupera participación en el comercio mundial: este año superaría por primera vez los cien mil millones de dólares exportados.\n\nEn negocios y empresas, el CEO de Arcor reclamó bajar la carga tributaria nacional, provincial y municipal. Quilmes volvió a ser la base regional de los negocios de la cervecera AB InBev para todo el Cono Sur. Lanzaron el primer vehículo financiero para invertir desde mil dólares en hoteles de lujo, que financiará la construcción de cuatro establecimientos en Mendoza, Buenos Aires y la Costa Atlántica. Flybondi acumula una deuda de seiscientos diez mil millones de pesos y pide seguir operando. Indonesia busca socios energéticos en Vaca Muerta y abrió su mercado a la carne argentina. Y las acciones de YPF y Vista empataron en rendimiento anual pese a ser compañías muy distintas en tamaño y perfil de riesgo.\n\nEn impuestos, laboral y normativa, un análisis muestra cómo las diferencias de Ingresos Brutos entre provincias pueden influir en la decisión de una empresa sobre dónde instalar su producción. La Superintendencia de Riesgos del Trabajo informó que casi mil empresas cerraron en julio. ANSES confirmó el aumento de octubre: con el bono extraordinario, la jubilación mínima llega a quinientos cinco mil novecientos veinte pesos. Y el trabajo por cuenta propia en aplicaciones creció hasta un treinta por ciento en el último año, con el desempleo en siete coma nueve por ciento y la informalidad en cuarenta y cinco por ciento.\n\nEn consumo, construcción y retail, se relevaron los valores que cobran en octubre un albañil, un electricista y un plomero, útiles para presupuestar obras y mantenimiento. Montevideo sigue seduciendo a inversores argentinos gracias al régimen de Vivienda Promovida. En el sur de Texas, las redadas migratorias del ICE dejaron sin mano de obra a la construcción y generaron retrasos en numerosos proyectos. Y la red TelePASE sumó nuevas rutas donde ya se puede pagar el peaje sin efectivo.\n\nEn management y finanzas corporativas, las fábricas argentinas cambian de estrategia: por la debilidad del mercado interno, producen contra pedido y priorizan la liquidez por sobre nuevas inversiones. Y la industria de las telecomunicaciones busca nuevas fuentes de ingresos a medida que la inteligencia artificial, el cinco G y los contenidos digitales redefinen las inversiones del sector.\n\nEn el mundo, además de la tregua energética entre Rusia y Ucrania, los hutíes volvieron a atacar el aeropuerto de Riad un día después de un ataque que dejó doce muertos, y Arabia Saudita intensifica su ofensiva en Yemen. Benjamín Netanyahu pidió investigar a los soldados israelíes que hablaron de forma anónima en el documental Naza sobre la guerra en Gaza. La OTAN expondrá en Varsovia su estrategia de respuesta ante un eventual ataque ruso. Un incendio destruyó el mercado cubierto más antiguo de París, fundado en mil seiscientos quince. Y el papa León XIV será operado de un nódulo pulmonar antes de su visita a la Argentina, prevista para el ocho de noviembre; Javier Milei le envió un mensaje de apoyo.\n\nLe Grand Continent analiza cómo la provincia china de Zhejiang se convirtió en el modelo oficial de modernización que el Partido Comunista promueve para el resto del país, un título que el propio Xi Jinping le otorgó en dos mil veintitrés.\n\nEn deportes, Boca Juniors recibe el martes a Vasco Da Gama por la ida de las semifinales de la Copa Sudamericana, como favorito según las casas de apuestas. Independiente y Talleres empataron sin goles en Córdoba, con un gol anulado por el VAR en el final. Belgrano venció dos a cero a Racing y profundizó la crisis del equipo de Avellaneda. En el clásico norteño, los hinchas de Gimnasia de Jujuy y de Salta se pelearon trepados al alambrado. Walter Benítez hizo la atajada más espectacular de la fecha en la Premier League para el triunfo de Crystal Palace. Lionel Messi eligió a Tomás Aranda entre las diez mayores promesas del fútbol mundial para una campaña de Adidas. Una joya de las inferiores de Racing, Román González, superó un récord juvenil que pertenecía a Lautaro Martínez. Y Franco Colapinto y Alpine atraviesan su momento más crítico del año en la Fórmula uno, tras dos abandonos consecutivos por fallas mecánicas en Singapur, a lo que se suma la floja racha de Pierre Gasly.\n\nEn turismo, un emprendedor instaló en Oncativo, Córdoba, un hotel hecho con aviones que en su momento transportaron soldados durante el conflicto de Malvinas, y hoy llena sus habitaciones todos los fines de semana del año. Y Chacras de Coria, en Mendoza, se convirtió en punto de encuentro de la escena de música electrónica, combinada con vino, gastronomía y hotelería boutique.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Las siete fuentes se descargaron sin fallas. Le Grand Continent aportó una sola nota en esta ventana, por eso la sección de Europa y geopolítica tiene una sola nota en lugar de las tres a cinco habituales. No hubo novedades de Club Atlético Tigre en el material de esta corrida.",
+ "slug": "2026-10-12-manana",
+ "generado_ba": "12/10/2026 10:18"
+}
