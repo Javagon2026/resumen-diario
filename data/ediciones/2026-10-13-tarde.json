@@ -1,0 +1,860 @@
+{
+ "fecha": "2026-10-13",
+ "edicion": "tarde",
+ "titulo": "El papa León XIV tiene cáncer de pulmón y la inflación fue del 1,9%",
+ "apertura": "El Vaticano confirmó que el papa León XIV tiene un adenocarcinoma pulmonar, detectado durante la cirugía de este martes en Roma, aunque por ahora se mantiene en pie su viaje a la Argentina previsto para noviembre. El Indec confirmó además que la inflación de septiembre fue de 1,9%, acumula 23,6% en el año y 33,4% interanual, mientras el Banco Central hizo su mayor compra de dólares desde julio y el Reino Unido anunció que blindará legalmente a las empresas que operen en las islas Malvinas. En el resto de la agenda, Boca recibe esta noche a Vasco da Gama por la ida de semifinales de la Copa Sudamericana sin Leandro Paredes, lesionado.",
+ "claves": [
+  "El Vaticano confirmó que el papa León XIV tiene un adenocarcinoma pulmonar; por ahora sigue en pie su viaje a la Argentina en noviembre (LN-08).",
+  "El Indec confirmó que la inflación de septiembre fue de 1,9%, acumula 23,6% en 2026 y 33,4% interanual (LN-05).",
+  "El Reino Unido anunció que usará una ley especial para blindar a las empresas que operen en Malvinas, mientras la Argentina presentó un escrito de 49 páginas ante el Tribunal del Mar (CR-21, CL-12).",
+  "El BCRA compró US$ 291 millones, la mayor compra diaria desde julio, y ya acumula más de US$ 15.000 millones en el año (IB-16).",
+  "Una familia tipo necesitó $ 1.632.505 en septiembre para no caer bajo la línea de pobreza, según el Indec (CR-10).",
+  "La tucumana Silvana Tenreyro debutó como economista jefa del FMI y pidió recomponer el espacio fiscal argentino (CR-14).",
+  "Boca recibe esta noche a Vasco da Gama por la ida de semifinales de la Sudamericana, sin Leandro Paredes; la revancha será en el Maracaná (CL-08).",
+  "Itaipú y Yacyretá abrieron sus compuertas por la crecida del Paraná y ya hubo evacuaciones en Ciudad del Este (LN-17)."
+ ],
+ "cifras": [
+  {
+   "nombre": "Inflación de septiembre (Indec)",
+   "valor": "1,9%",
+   "variacion": "+0,2 p.p. vs. agosto",
+   "fuente": "LN-05"
+  },
+  {
+   "nombre": "Canasta Básica Total (familia tipo, septiembre)",
+   "valor": "$ 1.632.505",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Compra de dólares del BCRA (martes)",
+   "valor": "US$ 291 millones",
+   "variacion": "reservas brutas en US$ 49.839 millones",
+   "fuente": "IB-16"
+  },
+  {
+   "nombre": "S&P Merval (rueda local)",
+   "valor": "+1,45%",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Usuarios que pierden el subsidio de Zona Fría al gas",
+   "valor": "1,6 millones",
+   "fuente": "CL-16"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "la Argentina presentó un escrito de 49 páginas ante el Tribunal del Mar para frenar la explotación petrolera en Malvinas",
+     "resumen": "El documento exige cuatro disposiciones cautelares para frenar las actividades hidrocarburíferas en torno al yacimiento Sea Lion y evitar que se alteren las condiciones de la disputa de soberanía. El Tribunal Internacional del Derecho del Mar fijará audiencias para noviembre y expedirá una resolución obligatoria para el Reino Unido pocas semanas después.",
+     "relacionadas": [
+      {
+       "id": "CR-21",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Reino Unido anunció nuevas medidas para blindar empresas que operan en Malvinas: “No permaneceremos impasibles”",
+       "url": "https://www.cronista.com/economia-politica/el-reino-unido-anuncio-medidas-para-blindar-a-las-empresas-que-operan-en-malvinas-no-permaneceremos-impasibles/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/malvinas-argumento-argentino-frenar-extraccion-petroleo-tiempos-juicio-resuelve-cuestion-soberania_0_LliHRzmM8o.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/_UzpnG7ij_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Malvinas: el argumento argentino para frenar la extracción de petróleo y los tiempos de un juicio que no resuelve la cuestión de soberanía"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "el Reino Unido anunció que usará una ley especial para blindar a las empresas que operan en Malvinas",
+     "resumen": "El gobierno británico confirmó que aplicará la legislación de Protección de los Intereses Comerciales para proteger a empresas y ciudadanos británicos frente a las sanciones anunciadas por la Argentina, de manera que puedan operar en el archipiélago \"sin temor a sufrir represalias legales\". La medida llega en paralelo al reclamo argentino ante el Tribunal del Mar por el yacimiento Sea Lion.",
+     "relacionadas": [
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Malvinas: el argumento argentino para frenar la extracción de petróleo y los tiempos de un juicio que no resuelve la cuestión de soberanía",
+       "url": "https://www.clarin.com/politica/malvinas-argumento-argentino-frenar-extraccion-petroleo-tiempos-juicio-resuelve-cuestion-soberania_0_LliHRzmM8o.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-reino-unido-anuncio-medidas-para-blindar-a-las-empresas-que-operan-en-malvinas-no-permaneceremos-impasibles/",
+     "imagen": "https://www.cronista.com/resizer/v2/4I4G327OWRH6XI5FLZLIIWAJBM.jpg?auth=ec42875eada93c0847b748b35795b6bb50b4782caee26ba6b72a7fb5f83fc82c&smart=true&width=800&height=533",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:05",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El Reino Unido anunció nuevas medidas para blindar empresas que operan en Malvinas: “No permaneceremos impasibles”"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "la Mesa Política se reunió con Sturzenegger para definir la estrategia ante la sesión del jueves por el DNU 70",
+     "resumen": "Karina Milei encabezó el encuentro en Casa Rosada, con el objetivo de desactivar la sesión especial que la oposición convocó para el jueves en Diputados para rechazar el decreto 70/2023. La presencia del ministro de Desregulación, Federico Sturzenegger, se vinculó con la presentación de un proyecto de ley de Mercado de Capitales que modifica 17 leyes vigentes para ampliar el financiamiento a comercios y pymes.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-mesa-politica-se-reunio-con-sturzenegger-para-repasar-la-estrategia-legislativa-la-mira-puesta-en-el-dnu-70/",
+     "imagen": "https://www.cronista.com/resizer/v2/PY7L7NBMEVECFDOCNX5AWCXPVI.jpeg?auth=ff77e044ad1637815dd6cd691c79ad55e7d119046a272191efbe154eaa0ced74&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:16",
+     "autor": "Daniela Romero",
+     "titulo_original": "La Mesa Política se reunió con Sturzenegger para repasar la estrategia legislativa: la mira puesta en el DNU 70"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "habrá una audiencia clave para reunificar los juicios contra Cristina Kirchner y su hijo Máximo",
+     "resumen": "La Cámara Federal de Casación Penal realizará el jueves una audiencia para decidir si reunifica los juicios por las causas Hotesur y Los Sauces, en las que ambos están acusados de asociación ilícita y lavado de dinero. De avanzar la reunificación, ambos procesos podrían comenzar juntos el 23 de octubre, como estaba previsto.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/hotesur-los-sauces-habra-una-audiencia-clave-para-reunificar-los-juicios-contra-cristina-kirchner-y-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZAM4K3CQWZBUXLE4TUFLSE4ZPQ.jpeg?auth=720d6566d8d8bd386a6138ff5e8d0865bb4a2e85441468acea88969394ee4ee9&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:57",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "Hotesur-Los Sauces: habrá una audiencia clave para reunificar los juicios contra Cristina Kirchner y su hijo Máximo"
+    },
+    {
+     "id": "LN-03",
+     "titulo": "rechazaron el pedido de prisión domiciliaria de un exfuncionario condenado junto a Cristina Kirchner por Vialidad",
+     "resumen": "La Cámara Federal de Casación Penal negó la domiciliaria a Mauricio Collareda, exjefe de Vialidad en Santa Cruz, condenado a cuatro años de prisión por el direccionamiento de obra pública provincial. Collareda, que encabezó el Distrito 23 entre 2008 y 2015, seguirá detenido en el penal de Río Gallegos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/caso-vialidad-rechazan-el-pedido-de-prision-domiciliaria-de-un-exfuncionario-que-fue-condenado-junto-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FHYS3PZJLBGV5CKHPBNMI7XPLY.png?auth=85cc579d62a852c41f79a6644ce0eda364d3ef1134a692a6ff6ff92a5a4d0a4a&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "Caso Vialidad: rechazan el pedido de prisión domiciliaria de un exfuncionario que fue condenado junto a Cristina Kirchner"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "en la causa Cuadernos, agentes de inteligencia declararon a puertas cerradas sobre los cruces de llamados",
+     "resumen": "Agentes de la Policía Federal que estudiaron las celdas y antenas de las líneas de empresarios y ex funcionarios declararon como testigos ante el TOF 7. Según el relato, esos análisis coincidieron con las fechas y horas anotadas por el chofer Oscar Centeno y confesadas por el financista Ernesto Clarens como prueba de la logística de la corrupción.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/cuadernos-audiencia-puertas-cerradas-agentes-inteligencia-contaron-detalles-entrecruzamientos-llamados_0_od5M0O4wDq.html",
+     "imagen": "https://www.clarin.com/img/2026/08/26/XAgifWawf_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cuadernos: en una audiencia a puertas cerradas, agentes de Inteligencia contaron detalles de los entrecruzamientos de llamados"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "el peronismo llega dividido al 17 de octubre, con actos separados de Kicillof, Máximo Kirchner y el massismo",
+     "resumen": "A cinco días del Día de la Lealtad, el PJ bonaerense organiza un acto en La Matanza mientras Máximo Kirchner viajará a Chaco y La Cámpora hará su propio acto, sin que el espacio haya logrado una convocatoria unificada. El Frente Renovador, por su parte, todavía no definió una actividad propia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-peronismo-marcha-dividido-al-17-de-octubre-kicillof-maximo-y-massa-con-agendas-separadas/",
+     "imagen": "https://www.cronista.com/resizer/v2/B3PQEIWL7RBQFFUM435YQTEALU.tif?auth=53c67e92398c6ce462fc67b84971995c479fdbd4cd776c8293788ef32fe49558&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:24",
+     "autor": "Amparo Beraza",
+     "titulo_original": "El peronismo marcha dividido al 17 de octubre: Kicillof, Máximo y Massa, con agendas separadas"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-05",
+     "titulo": "el Indec confirmó que la inflación de septiembre fue de 1,9% y acumula 23,6% en el año",
+     "resumen": "El índice se aceleró frente al 1,7% de agosto y acumuló una suba interanual de 33,4%. Como consecuencia del dato, los haberes jubilatorios de la Anses tendrán en noviembre un reajuste de 1,93%, con lo que el haber mínimo quedará en $ 444.158,46.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La inflación se aceleró a 1,9% en septiembre y acumula un alza de 23,6 en el año, según INDEC",
+       "url": "https://www.ambito.com/economia/la-inflacion-se-acelero-19-septiembre-y-acumula-un-alza-236-el-ano-segun-indec-n6333284"
+      },
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno celebró el dato de inflación de septiembre: “Es un buen número comparando de dónde venimos”",
+       "url": "https://www.infobae.com/politica/2026/10/13/el-gobierno-celebro-el-dato-de-inflacion-de-septiembre-es-un-buen-numero-comparando-de-donde-venimos/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/inflacion-de-septiembre-cual-fue-el-ipc-acumulado-y-que-proyectan-las-consultoras-para-este-ano-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LCG2JPMRRVBTDCQZVVPLA5AVOQ.jpg?auth=a1b53fa45064a55505fbc28e3d00636eda08f72dc5f7a4da3b2deea802cbc20b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:03",
+     "autor": "",
+     "titulo_original": "Inflación de septiembre: cuál fue el IPC acumulado y qué proyectan las consultoras para este año"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "el BCRA hizo su mayor compra de dólares desde julio y el Merval subió 1,45%, pero el riesgo país volvió a subir",
+     "resumen": "El Banco Central compró US$ 291 millones en el mercado oficial y las reservas se acercaron a los US$ 50.000 millones, en una rueda en la que el S&P Merval avanzó 1,45% impulsado por las energéticas. El riesgo país, en cambio, volvió a subir por el fortalecimiento internacional del petróleo: El Cronista lo ubicó en 596 puntos y Ámbito dijo que rozó los 600.",
+     "relacionadas": [
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El BCRA concretó la mayor compra diaria en casi tres meses y ya acumuló más de u$s15.000 millones en 2026",
+       "url": "https://www.ambito.com/finanzas/el-bcra-concreto-la-mayor-compra-diaria-casi-tres-meses-y-ya-acumulo-mas-us15000-millones-el-ano-n6333352"
+      },
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Banco Central realizó la mayor compra de dólares desde julio y ya acumula más de USD 15.000 millones en 2026",
+       "url": "https://www.infobae.com/economia/2026/10/13/el-banco-central-realizo-la-mayor-compra-de-dolares-desde-julio-y-ya-acumula-mas-de-usd-15000-millones-en-2026/"
+      }
+     ],
+     "url": "https://www.cronista.com/financial-times/bcra-compro-fuerte-y-las-acciones-subieron-hasta-47-pero-el-riesgo-pais-cerro-en-596-puntos/",
+     "imagen": "https://www.cronista.com/resizer/v2/HPYT6VZ2VFGNZOGI3X65M3HLR4.png?auth=79fcc650bd7b5ee4510e4f1cfe2d610ed177ba8de92e56e37564c3c36f9c35ed&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:02",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "BCRA compró fuerte y las acciones subieron hasta 4,7%, pero el riesgo país cerró en 596 puntos"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "la tucumana Silvana Tenreyro debutó como economista jefa del FMI y pidió recomponer el espacio fiscal",
+     "resumen": "Tenreyro presentó por primera vez el informe Perspectivas de la Economía Mundial del Fondo Monetario Internacional, en reemplazo del francés Pierre-Olivier Gourinchas. La primera argentina en ese cargo remarcó la necesidad de recomponer el espacio fiscal frente a los elevados niveles de deuda y el aumento de los rendimientos soberanos a nivel global.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/debuto-silvana-tenreyro-como-economista-jefe-del-fmi-cual-fue-su-primer-mensaje-sobre-argentina-y-el-mundo/",
+     "imagen": "https://www.cronista.com/resizer/v2/FCBE5W5EORAFVHIDYJC6UHK2OA.jpg?auth=de479f1ab4b3f7a0376794cb8737afc65edb603acfa14d53f7a688196374a833&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:36",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "La nueva economista jefe del FMI es argentina: el primer mensaje de Silvana Tenreyro sobre el país"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "el FMI advirtió que las principales economías tendrán los mayores déficits fiscales desde la pandemia",
+     "resumen": "El organismo proyectó que el endeudamiento neto de las economías avanzadas llegará a 5,2% del PBI este año, el nivel más alto desde 2021, y pidió medidas urgentes para reconstruir las finanzas públicas. Según el informe, los déficits de China y Estados Unidos alcanzarán o superarán el 8% del PBI en 2026.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/el-fmi-alerta-las-principales-economias-tendran-los-mayores-deficits-fiscales-desde-la-pandemia/",
+     "imagen": "https://www.cronista.com/resizer/v2/BDB6V7FYEND6BK452D7RGJFW2Q.jpg?auth=e206b2a6cc858b04e055aea61317077ff544603e5a2d269db8037755b1bf051b&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:43",
+     "autor": "Sam Fleming, Leo Lewis, Claire Jones",
+     "titulo_original": "El FMI alerta: las principales economías tendrán los mayores déficits fiscales desde la pandemia"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Caputo se reunió con Georgieva en Bangkok, pero la tercera revisión del FMI sigue sin cerrarse",
+     "resumen": "El ministro de Economía se reunió con la directora gerente del FMI, Kristalina Georgieva, que elogió la disciplina fiscal argentina, aunque los equipos técnicos seguirán trabajando sin una fecha de cierre para la revisión. Sigue pendiente un desembolso de unos US$ 900 millones, dentro del programa de US$ 20.000 millones firmado en abril de 2025.",
+     "relacionadas": [
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Caputo se reunió con Georgieva en Tailandia: elogios a la disciplina fiscal y cómo sigue la revisión",
+       "url": "https://www.cronista.com/economia-politica/caputo-se-reunio-con-georgieva-elogios-a-la-disciplina-fiscal/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-tercera-revision-del-fmi-sigue-abierta-cuanto-dinero-esta-en-juego-y-que-metas-pesan-mas/",
+     "imagen": "https://www.cronista.com/resizer/v2/BJ6WOTXCMRHBDHTNJFUJABDOTE.jpg?auth=0d7034139533b73f8e80fd0d2cf9c10828ec03ce21d834eef78b24b356ca87ec&smart=true&width=900&height=634",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:12",
+     "autor": "Audiencias Member",
+     "titulo_original": "La tercera revisión del FMI sigue abierta: cuánto dinero está en juego y qué metas pesan más"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "el Tesoro enfrenta vencimientos de deuda en pesos por $ 27 billones este mes y casi $ 100 billones hasta fin de año",
+     "resumen": "Entre octubre y diciembre, el Tesoro deberá afrontar vencimientos estimados en $ 99,3 billones, dentro de un total de $ 221,4 billones en pesos que vencen hasta después de las elecciones. El mercado sigue de cerca el resultado de las licitaciones para evaluar el nivel de renovación de la deuda. Para una empresa: el resultado de estas licitaciones influye en las tasas de interés en pesos y en el costo del crédito de corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-tesoro-enfrenta-27-billones-este-mes-y-casi-100-billones-en-2026-que-espera-el-mercado-que-bonos-le-gustan/",
+     "imagen": "https://www.cronista.com/resizer/v2/OQPY2KHKZZDXVAASW7YGWEZ4A4.jpg?auth=83327ee18bcf18033b90c2dc90e36b3a62f934982ebd9453801a53100e6a5cae&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:33",
+     "autor": "Julián Yosovitch",
+     "titulo_original": "El Tesoro enfrenta $ 27 billones este mes y casi $ 100 billones en lo que resta de 2026: qué espera el mercado y qué bonos le gustan"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "Bisignano, la empresa santafesina que envasa más del 70% de los lácteos que se consumen en el país",
+     "resumen": "La compañía ganó la categoría industrial de los Premios Pyme 2026 por su rol como eslabón clave de la industria láctea argentina, al envasar más del 70% de los productos de esa categoría que se consumen a diario.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/bisignano-eslabon-clave-industria-lactea_0_oYVq8wUV1s.html",
+     "imagen": "https://www.clarin.com/img/2026/10/13/_NSy632Ek_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Bisignano, un eslabón clave en la industria láctea"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "el Laboratorio Pyam, que exporta a 113 países, solicitó el concurso de acreedores",
+     "resumen": "La empresa alegó una crisis operativa y financiera que le impide pagar salarios, aportes e indemnizaciones, y recurrió a la Justicia pese a su presencia exportadora en más de un centenar de mercados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466474-laboratorio-pyam-entro-en-concurso-tras-exportar-a-113-paises",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/05/536468.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:37",
+     "autor": "",
+     "titulo_original": "Laboratorio Pyam solicitó el concurso de acreedores luego de exportar a 113 países"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Rigolleau redujo 65% sus pérdidas, pero factura menos pese a vender más vidrio",
+     "resumen": "La fabricante de envases de vidrio logró vender más toneladas, pero sigue en rojo por el débil mercado interno y la competencia de productos importados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466465-rigolleau-vende-mas-pero-sigue-en-rojo-y-pierde-2-019-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/08/521309.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:25",
+     "autor": "",
+     "titulo_original": "Rigolleau achica 65% sus pérdidas, pero factura menos pese a vender más"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "una marca de ropa con locales en shoppings se presentó en concurso de acreedores",
+     "resumen": "La empresa, que llegó a tener más de 20 franquicias y una planta con 180 trabajadores, declaró deudas por casi $ 6.000 millones y más de 700 cheques rechazados. La caída del consumo, las importaciones y los problemas financieros terminaron por comprometer su continuidad.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/otra-marca-ropa-presencia-shoppings-se-presento-concurso-acreedores-n6333141",
+     "imagen": "https://media.ambito.com/p/e5eda036f21877ede4c5170153d8d3b6/adjuntos/239/imagenes/043/701/0043701018/1200x675/smart/zhoue.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:44",
+     "autor": "",
+     "titulo_original": "Otra marca de ropa con presencia en shoppings se presentó en concurso de acreedores"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "la marca de zapatillas Pony vuelve a la Argentina de la mano del Grupo Addnice",
+     "resumen": "La firma estadounidense, popular en el país durante los años 80, regresa con un sistema mixto de importación y producción local, e incorporará calzado e indumentaria para hombre y mujer que distribuirá en cadenas de deporte y lifestyle. No es la primera vez que la marca intenta reposicionarse en el mercado local.",
+     "relacionadas": [
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Pony vuelve a la Argentina: quién está detrás del regreso de la histórica marca",
+       "url": "https://www.iprofesional.com/negocios/466479-pony-vuelve-a-la-argentina-de-la-mano-del-fabricante-local-de-head"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/pony-vuelve-a-la-argentina-quien-esta-detras-del-regreso-de-la-marca-de-zapatillas/",
+     "imagen": "https://www.cronista.com/resizer/v2/BZH7XJ4VXNDCJJC6N7OWOSU3XI.jpg?auth=19c674ffbedc060eff6c5e00bb3154ca6e30c625928d64b142f790c2bc82cd00&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:57",
+     "autor": "Ricardo Quesada",
+     "titulo_original": "Pony vuelve a la Argentina: quién está detrás del regreso de la marca de zapatillas"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "la cadena de electrodomésticos Minicuotas Ribeiro cerró el último local que le quedaba",
+     "resumen": "La firma cerró su último punto de venta, ubicado en San Luis, en medio de reclamos salariales e indemnizaciones pendientes para sus empleados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466463-con-deudas-minicuotas-ribeiro-cerro-el-ultimo-local-de-su-cadena",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/08/521211.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:57",
+     "autor": "",
+     "titulo_original": "Con polémica por falta de pagos, Minicuotas Ribeiro cerró el último local de su cadena"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "ya rige la reforma de Zona Fría y 1,6 millones de usuarios perderán el subsidio completo al gas",
+     "resumen": "La nueva ley modifica la forma de calcular los descuentos sobre las facturas de gas y, según estimaciones oficiales, dejará sin el subsidio completo a 1,6 millones de usuarios, sobre todo en Buenos Aires, Córdoba y Santa Fe. El Gobierno busca además reducir las transferencias del Tesoro que financian el régimen.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/promulgo-reforma-zona-fria-facturas-gas-aumentaran-incluso-conserven-descuentos_0_cQmqHqUiVl.html",
+     "imagen": "https://www.clarin.com/img/2022/10/06/5R6e6y4n-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:17",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Aumentan las facturas de gas: se promulgó la reforma de Zona Fría y pagarán más incluso quienes conserven descuentos"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "ARCA notifica los datos para renovar el Certificado Mipyme, clave para el Fondo de Asistencia Laboral",
+     "resumen": "El Certificado Mipyme define qué proporción de las contribuciones patronales de cada empresa se deriva al nuevo Fondo de Asistencia Laboral, y el organismo ya comenzó a notificar a las firmas los datos que deben revisar para su renovación.",
+     "relacionadas": [
+      {
+       "id": "IP-21",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Fondo de Asistencia Laboral: qué deben evaluar las empresas antes de adherir",
+       "url": "https://www.iprofesional.com/legales/466496-fondo-de-stencia-laboral-que-deben-evaluar-las-empresas-antes-de-adherir"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/466464-arba-notifica-datos-renovacion-certificado-pyme",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/627440.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:38",
+     "autor": "",
+     "titulo_original": "ARCA notifica los datos de la renovación del Certificado Mipyme necesario para el FAL"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "qué deben evaluar las empresas antes de adherir al Fondo de Asistencia Laboral",
+     "resumen": "El Fondo, previsto en la reforma laboral como alternativa a la indemnización tradicional, puede ayudar a financiar ciertos costos laborales, pero no corrige errores de registración, liquidación ni documentación que una empresa ya tenga.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/466496-fondo-de-stencia-laboral-que-deben-evaluar-las-empresas-antes-de-adherir",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/626998.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "Fondo de Asistencia Laboral: qué deben evaluar las empresas antes de adherir"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Salvador Di Stefano advirtió que el Gobierno no puede bajar hoy impuestos distorsivos como Ingresos Brutos",
+     "resumen": "El analista financiero sostuvo que el superávit fiscal todavía no alcanza para compensar la caída de la recaudación, por lo que una baja de impuestos distorsivos sin ese respaldo obligaría al Estado a salir a buscar financiamiento o a recortar gasto. Para una empresa: mientras no se consolide el ajuste fiscal, la presión de esos tributos sobre los costos operativos seguiría sin cambios.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-advertencia-de-di-stefano-sobre-la-presion-tributaria-primero-el-superavit-despues/",
+     "imagen": "https://www.cronista.com/resizer/v2/GPZ6AMRKA5EOJBSAKVCXDQ7OQE.jpg?auth=0ba40a65c37d40265d41481bdb61db9a998de8955d91dd0b8fc3c6d4488d952f&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:25",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "La advertencia de Di Stefano sobre la presión tributaria: “Primero el superávit, después...”"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-25",
+     "titulo": "cuánto cobran albañiles, electricistas y plomeros por sus trabajos en octubre",
+     "resumen": "El Gobierno busca reactivar la obra pública con el Presupuesto 2027, orientado a rutas, infraestructura hídrica, energética y penitenciaria, algo que puede repercutir tanto en el valor de los materiales de construcción como en el costo de la mano de obra para quienes reparan o construyen una vivienda.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/albanil-electricista-y-plomero-cuanto-cobran-sus-trabajos-de-reparacion-instalacion-o-mantenimiento-en-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/H5BQFFZ4PBA2XIWG3YSCJMXQCE.png?auth=69d8c666363a5456df94930b99579fa43d191c857dec022fe61cd177084e5a0e&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:38",
+     "autor": "Nacho Barrios",
+     "titulo_original": "Albañil, electricista y plomero: cuánto cobran sus trabajos de reparación, instalación o mantenimiento en octubre"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "una familia tipo necesitó $ 1.632.505 en septiembre para no caer bajo la línea de pobreza",
+     "resumen": "Según el Indec, un hogar de cuatro integrantes necesitó esa suma para cubrir la Canasta Básica Total, mientras que una familia de dos adultos y dos menores requirió $ 738.690 para no ser indigente. En el acumulado de 2026 la canasta alimentaria subió 25,3% y la total 24,7%, y en la comparación interanual avanzaron 40% y 38,7% respectivamente.",
+     "relacionadas": [
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Una familia tipo necesita más de $1.630.000 para no ser pobre",
+       "url": "https://www.infobae.com/economia/2026/10/13/una-familia-necesita-mas-de-1630000-para-no-ser-pobre/"
+      },
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Canasta básica: una familia de cuatro personas necesitó $1.632.505 en septiembre para no ser pobre",
+       "url": "https://www.clarin.com/economia/canasta-basica-familia-personas-necesito-1632505-septiembre-pobre_0_CZQdWNCeuO.html"
+      },
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las canastas básicas subieron por debajo de la inflación en septiembre y una familia necesitó $1.632.505 para no ser pobre",
+       "url": "https://www.ambito.com/las-canastas-aumentaron-debajo-la-inflacion-pero-la-alimentaria-ya-salto-40-lo-que-va-2026-n6333283"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1632505-en-septiembre-para-no-ser-pobre/",
+     "imagen": "https://www.cronista.com/resizer/v2/76HWW77CU5DNBNJQVJSVGE74OM.jpg?auth=c86cdead02fe5b3b213d4501447a145909a10679dc1ca0cf6d5cca5ef24d6019&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:04",
+     "autor": "Nacho Barrios",
+     "titulo_original": "Canasta básica: una familia tipo necesitó $ 1.632.505 en septiembre para no ser pobre"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "los servicios impulsaron la inflación de septiembre y en un año subieron casi 50%",
+     "resumen": "El rubro servicios fue el que más empujó el índice de precios del mes pasado y también creció muy por encima de la inflación general en la comparación interanual. Para una empresa: un aumento sostenido de los servicios regulados y semirregulados impacta de lleno en los costos fijos operativos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/466502-los-servicios-impulsaron-el-ipc-de-septiembre-y-en-un-ano-subieron-casi-50",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/622887.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:14",
+     "autor": "",
+     "titulo_original": "Los servicios impulsaron el IPC de septiembre y en un año subieron casi 50%"
+    },
+    {
+     "id": "CL-04",
+     "titulo": "la apertura de las compuertas de Itaipú y Yacyretá por El Niño alivia el costo de la energía",
+     "resumen": "La mayor cantidad de agua que baja por el río Paraná llevó a abrir las represas binacionales a máxima capacidad, lo que reduce el costo de la electricidad tanto para los hogares como para el Gobierno, aunque también eleva el riesgo de inundaciones en el Litoral y complicaciones para el campo. Para una empresa: una mayor generación hidroeléctrica podría moderar en el corto plazo el costo de la energía para la industria.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/efectos-nino-abrieron-compuertas-yacyreta-cae-costo-energia-mayor-cantidad-agua-parana_0_Eg1v2Ux5k9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/LPcA1kkcS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Efectos de El Niño: abrieron las compuertas de Yacyretá y cae el costo de la energía por la mayor cantidad de agua en el Paraná"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-19",
+     "titulo": "cuánto cuesta la certificación en inteligencia artificial con respaldo de la UBA",
+     "resumen": "Aumenta AI y la Universidad de Buenos Aires lanzaron una certificación en inteligencia artificial por $ 200.000, pensada para medir y acreditar habilidades profesionales en la materia.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464948-cuanto-cuesta-una-certificacion-en-inteligencia-artificial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626120.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:50",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta la certificación en Inteligencia Artificial con respaldo de la UBA"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "el CEO de Payway anticipa una transformación total de la industria de medios de pago",
+     "resumen": "Martín Kaplan sostuvo que el sector deja atrás una etapa de divergencia iniciada en 2019 y entra en una de convergencia, marcada por la irrupción del comercio agéntico, los impuestos provinciales como factor de costo y la necesidad de avanzar en la formalización de la economía.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/kaplan-ceo-de-payway-la-industria-de-medios-de-pago-esta-entrando-en-una-etapa-de-convergencia/",
+     "imagen": "https://www.cronista.com/resizer/v2/L74V55MXBRCPBBUJBBH5HKKIKY.jpg?auth=ab7cfcc23de391e093d1e662e650a591fee661b4ee77e8c7ce56f9bdc4f561f1&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:45",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "El CEO de Payway anticipa una transformación total de la industria de medios de pago"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-08",
+     "titulo": "el Vaticano confirmó que el papa León XIV tiene un adenocarcinoma pulmonar",
+     "resumen": "Durante la cirugía de este martes en el hospital Gemelli de Roma, los médicos le extirparon el lóbulo inferior del pulmón derecho mediante una técnica videoasistida, y el examen histológico confirmó el diagnóstico de cáncer que se sospechaba desde los estudios preoperatorios. El Vaticano estima una semana de internación y, por ahora, mantiene en pie el viaje del Papa, de 71 años, a la Argentina entre el 8 y el 11 de noviembre.",
+     "relacionadas": [
+      {
+       "id": "CL-10",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Qué dice el comunicado completo que confirma el diagnóstico de cáncer de pulmón del papa León XIV",
+       "url": "https://www.clarin.com/mundo/dice-comunicado-completo-confirma-diagnostico-cancer-pulmon-papa-leon-xiv_0_T60onG3PZU.html"
+      },
+      {
+       "id": "IB-07",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Qué es el adenocarcinoma pulmonar, el tumor maligno que le detectaron al papa León XIV",
+       "url": "https://www.infobae.com/salud/2026/10/13/que-es-el-adenocarcinoma-pulmonar-el-tumor-maligno-que-le-detectaron-al-papa-leon-xiv/"
+      },
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Qué dice el comunicado del Vaticano sobre la salud de León XIV tras la operación",
+       "url": "https://www.infobae.com/america/mundo/2026/10/13/que-dice-el-comunicado-del-vaticano-sobre-la-salud-de-leon-xiv-tras-la-operacion/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/salud-del-papa-leon-xiv-que-se-sabe-de-la-operacion-y-de-su-visita-a-la-argentina-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GNI46US5GJCLTJ576ILL6BVSBE.jpg?auth=f71da0cfc3895b500615afab53457484a4f322327ba6646efe8c972ccd476b82&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:54",
+     "autor": "",
+     "titulo_original": "Salud del Papa León XIV: qué se sabe de la operación y de su visita a la Argentina"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "la gira de casi 50 horas de vuelo que afronta el Papa tras la operación genera dudas médicas",
+     "resumen": "Tras la cirugía en Roma, León XIV encarará una gira por Uruguay, la Argentina y Perú con 47 horas totales en el aire, mientras especialistas señalan que el plazo médico recomendado para volar tras una intervención de este tipo es de dos semanas si no hay complicaciones en el posoperatorio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/50-horas-vuelo-presurizacion-avion-podria-afectar-papa-despues-operacion_0_Ml0vCPwxzR.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/pa0GVRuhE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Casi 50 horas de vuelo: cómo la presurización del avión podría afectar al Papa después de la operación"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Trump apartó a su exembajadora en Grecia, Kimberly Guilfoyle, por un escándalo de corrupción",
+     "resumen": "La exprometida del hijo mayor del presidente estadounidense fue desplazada de su cargo diplomático después de que trascendiera que habría pedido US$ 100.000 a un donante republicano para pagar deudas de su tarjeta de crédito, además de exigir viajes de lujo y presionar a un funcionario local.",
+     "relacionadas": [
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Trump se despega de su exnuera y la aparta de una embajada por un escándalo de corrupción",
+       "url": "https://www.lanacion.com.ar/estados-unidos/trump-se-despega-de-su-exnuera-y-la-aparta-de-una-embajada-por-un-escandalo-de-corrupcion-nid13102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/renuncio-embajadora-donald-trump-grecia-varias-acusaciones-conducta-indebida_0_d6Kb9AvbwS.html",
+     "imagen": "https://www.clarin.com/img/2026/10/13/YJ-_NqqzK_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Renunció la embajadora de Donald Trump en Grecia por varias acusaciones de \"conducta indebida\""
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Arabia Saudita bombardeó instalaciones petroleras cerca de Saná y los hutíes advirtieron con una respuesta severa",
+     "resumen": "La coalición liderada por Arabia Saudita atacó instalaciones energéticas al oeste de la capital yemenita tras ordenar la evacuación de civiles, en una escalada que ya había llevado al petróleo a sus valores más altos en semanas. Donald Trump elevó la tensión con una advertencia a los rebeldes hutíes.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/arabia-saudita-bombardea-yemen-y-los-huties-lanzan-una-inquietante-advertencia-sobre-su-proximo-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BRBMWN565ND33JPPN4WRBTGOQM.JPG?auth=f68d4bb98a45fce26d078623e16f03a66934c81e736c006d8d18d9e4d8be5709&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:50",
+     "autor": "",
+     "titulo_original": "Arabia Saudita bombardea Yemen y los hutíes lanzan una inquietante advertencia sobre su próximo objetivo"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "investigan un ciberataque que tomó el control de las heladeras de 700 supermercados en Francia",
+     "resumen": "Investigadores franceses buscan a los responsables de un ataque que afectó los sistemas de refrigeración de cientos de locales, sin que hasta el momento ningún grupo se haya atribuido el hecho ni haya pedido un rescate, lo que desconcertó a los investigadores.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/investigan-como-fue-el-ataque-a-las-heladeras-en-supermercados-en-francia-una-maniobra-basica-y-un-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4G7TFSWVAVD4PN7RWV6M56JJII.JPG?auth=61d5cbf454c2689ee2f083ad4beccf521c90cc769c8bdd9a490cd98492716daa&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:31",
+     "autor": "",
+     "titulo_original": "Investigan cómo fue el ataque a las heladeras en supermercados en Francia: una maniobra básica y un dato desconcertante"
+    },
+    {
+     "id": "CL-01",
+     "titulo": "Eduardo Bolsonaro compartirá un evento con Milei en Estados Unidos, a días del balotaje en Brasil",
+     "resumen": "El exlegislador brasileño, condenado en junio a cuatro años de prisión y con una orden de detención en su contra, compartirá escenario con el presidente argentino pocos días antes de que su hermano Flávio Bolsonaro defina la presidencia de Brasil frente a Lula da Silva.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/eduardo-bolsonaro-javier-milei-compartiran-evento-estados-unidos-dias-balotaje-brasil-luego-pedido-detencion_0_kYXH94fB5N.html",
+     "imagen": "https://www.clarin.com/img/2025/08/05/mRGbhE7kh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:55",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Eduardo Bolsonaro y Javier Milei compartirán un evento en Estados Unidos, a días del balotaje en Brasil y luego del pedido de detención contra él"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza el plan de paz de cuatro puntos que Estados Unidos promueve para Ucrania",
+     "resumen": "Según fuentes citadas por el Washington Post, Estados Unidos y varios países europeos avanzarían hacia una propuesta conjunta para un alto el fuego, cuyo primer componente apuntaría a financiar la reconstrucción de Ucrania con apoyo del Banco Mundial y del fondo BlackRock. La revista señala que Kiev calificó la iniciativa de \"una maniobra publicitaria bastante lograda\".",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/13/plan-de-paz-en-cuatro-puntos-que-estados-unidos-unis-promueve-para-ucrania/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "14:06",
+     "autor": "Marin Saillofest",
+     "titulo_original": "¿En qué consiste el plan de paz de cuatro puntos que Estados Unidos promueve para Ucrania?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "la crisis arbitral de la AFA se agrava por la doble función de Beligoy y la interna con Toviggino",
+     "resumen": "El director nacional de arbitraje encabeza a la vez el sindicato de árbitros y la conducción que sostiene Claudio Tapia, un doble rol que alimenta sospechas de favores políticos en medio de polémicas semanales que profundizan la crisis de credibilidad del arbitraje argentino.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/arbitraje-sospecha-favores-politicos-chats-comprometen-peor-cumpleanos-beligoy-grieta-tapia-toviggino-agranda_0_0Hxyx7P7ex.html",
+     "imagen": "https://www.clarin.com/img/2026/10/13/op8n7R_S4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:27",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El arbitraje bajo sospecha: favores políticos, chats que comprometen, el peor cumpleaños de Beligoy y la grieta Tapia - Toviggino que se agranda"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Julián Álvarez cambió de representante tras frustrarse su salida del Atlético de Madrid",
+     "resumen": "El delantero cordobés rompió su vínculo con Fernando Hidalgo y eligió como nuevo agente a Pablo Barquero, que gestionó el pase de Rodri al Barcelona, luego de desestimar propuestas de los representantes de Cristiano Ronaldo y de Javier Pastore.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/trastienda-cambio-agente-julian-alvarez-escandalo-atletico-madrid-eligio-representante-estrella-espanola_0_FIUmoLjb9D.html",
+     "imagen": "https://www.clarin.com/img/2026/10/13/DT5lT9bsxN_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La trastienda del cambio de agente de Julián Álvarez tras el escándalo con Atlético de Madrid: por qué eligió al representante de una estrella española"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Federico Beligoy respaldó la anulación del penal que desató el escándalo entre All Boys y Godoy Cruz",
+     "resumen": "El director nacional de arbitraje reconoció el error inicial del árbitro Nicolás Lamolina, que había cobrado penal, y respaldó la corrección posterior de la jugada tras la polémica final del partido de la Primera Nacional.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/federico-beligoy-rompio-silencio-escandalo-all-boys-godoy-cruz-dijo-penal-anulo-lamolina_0_REVOVnh5TD.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/lsrTim01W_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:04",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Federico Beligoy rompió el silencio tras el escándalo en All Boys - Godoy Cruz: qué dijo sobre el penal que anuló Lamolina"
+    },
+    {
+     "id": "LN-04",
+     "titulo": "Atlético de Madrid venció 2 a 0 a Manchester United y el Inter cayó 4 a 3 ante el Brujas pese al doblete de Lautaro",
+     "resumen": "Por la segunda fecha de la Champions League, el equipo del Cholo Simeone, con Cuti Romero, Giuliano y Julián Álvarez como titulares, derrotó al Manchester United en el Metropolitano. El belga Brujas remontó para ganarle 4 a 3 al Inter en Milán, pese a los dos goles de Lautaro Martínez, que llegó a 181 tantos en el club.",
+     "relacionadas": [
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Atlético de Madrid le ganó al Manchester United por la segunda fecha de la Champions League: la agenda completa de la jornada",
+       "url": "https://www.infobae.com/deportes/2026/10/13/el-duelo-estelar-entre-atletico-de-madrid-manchester-united-abrira-la-segunda-fecha-de-la-champions-league-la-agenda-completa-de-la-jornada/"
+      },
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los dos goles de Lautaro Martínez en la Champions League: del giro y definición al olfato tras un rebote",
+       "url": "https://www.infobae.com/deportes/2026/10/13/asistencia-de-taco-giro-y-definicion-el-golazo-de-lautaro-martinez-en-la-champions-para-el-inter/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7G5MLWT74NFQ7AEY2Y6TK2JHSA.JPG?auth=15dd87cb884c98c10f70c0a34c717ded7de81434103ef996dd31faa390ba0485&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "El Atlético de Madrid de los argentinos le ganó al United y un italiano con raíces argentinas marcó un triplete"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "ya se definieron los dos primeros cruces de cuartos de final del Masters 1000 de Shanghái",
+     "resumen": "Alexander Zverev, que ya aseguró terminar el año como número uno del ranking ATP, se medirá con Álex De Miñaur, mientras Arthur Géa enfrentará a Alejandro Davidovich Fokina. Los cruces restantes se definen este miércoles.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/asi-esta-el-cuadro-de-cuartos-de-final-del-masters-1000-de-shanghai-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DHJDZIIGIZBHLMZEKE5II2XJQE.JPG?auth=2c1b76b654bccb7d46b293a401d58eaf468e6df01449fa3d54936651495875bb&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:23",
+     "autor": "",
+     "titulo_original": "Así está el cuadro de cuartos de final del Masters 1000 de Shanghai"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "en Mendoza buscan voluntarios para colaborar 25 horas por semana a cambio de alojamiento y comidas",
+     "resumen": "Un espacio gastronómico de cocina artesanal y estacional ubicado en la Quinta Sección, cerca del Parque General San Martín, publicó en la plataforma Worldpackers una convocatoria para recibir voluntarios que colaboren 25 horas semanales a cambio de alojamiento y comidas, con dos días libres por semana.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-mendoza-ofrecen-alojamiento-a-cambio-de-25-horas-semanales-de-colaboracion/",
+     "imagen": "https://www.cronista.com/resizer/v2/CBY4RYO4LBCJVFF6M6MMUSW6S4.jpg?auth=c0eec93554b13c83e6a65564d256fdc8e9fb89650f71505237e49a9132d00e57&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:28",
+     "autor": "María Laura Ruberto",
+     "titulo_original": "Buscan voluntarios para vivir en Mendoza: ofrecen alojamiento a cambio de 25 horas semanales de colaboración"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-17",
+     "titulo": "Itaipú y Yacyretá abrieron sus compuertas por la crecida del Paraná y ya hubo evacuaciones en Ciudad del Este",
+     "resumen": "Las represas binacionales reportaron un aumento de los caudales por la intensificación de El Niño y anticiparon posibles escenarios de aguas altas entre octubre y diciembre. En Ciudad del Este la crecida ya obligó a evacuar familias de zonas bajas, y Yacyretá suspendió por seguridad sus visitas turísticas y técnicas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/abrieron-las-compuertas-de-la-represa-de-itaipu-y-yacyreta-y-aumenta-la-preocupacion-por-el-rio-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ND2SEEWY4BFCBHIAX4SLUCEEJE.jpg?auth=38c2244cc5b6b65add1e43e800ba12f9c90f34f0852c668a795d262c94f28872&smart=true&width=324&height=234",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:36",
+     "autor": "",
+     "titulo_original": "Abrieron las compuertas de la represa de Itaipú y Yacyretá y cierran las visitas por la crecida del Paraná"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "denuncian estafas de hasta $ 500.000 por falsas reservas de hotel en Luján ante la visita del Papa",
+     "resumen": "Varios hoteles de la ciudad bonaerense confirmaron la suplantación de su identidad en redes sociales para ofrecer reservas falsas de cara a la anunciada visita del papa León XIV. Una de las víctimas relató haber perdido $ 500.000 que había reunido junto a cuatro amigas para viajar a la ciudad, donde está prevista una misa del Pontífice.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/expectativa-por-el-papa-denuncian-estafas-de-500000-por-falsas-reservas-en-hoteles-de-lujan-y-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7SZRO3MXR5ERVOHWYKVWLMPRYQ.jpg?auth=ca68e8d91358c64e6933ff49cf09fd5bf2a255d593b0a212651e420678622f30&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:00",
+     "autor": "Camila Súnico Ainchil",
+     "titulo_original": "Expectativa por el Papa: denuncian estafas de $500.000 por falsas reservas en hoteles de Luján y se disparan los precios"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "piden hasta 16 años de prisión para los principales acusados por la muerte de Diego Maradona",
+     "resumen": "Los abogados que representan a los hijos del exfutbolista, Fernando y Jana Maradona, alegaron en el juicio y pidieron las penas más altas para Leopoldo Luque, Agustina Cosachov y Nancy Forlini, en línea con los argumentos de la fiscalía. La querella también pidió investigar a otras personas por su posible responsabilidad en el hecho.",
+     "relacionadas": [
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Juicio por la muerte de Maradona: el abogado de Dieguito Fernando pidió hasta 16 años de prisión",
+       "url": "https://www.iprofesional.com/legales/466482-caso-maradona-pidio-16-anos-prision-equipo-medico-reclaman-detencion-inmediata"
+      }
+     ],
+     "url": "https://www.clarin.com/policiales/banda-irresponsables-desalmados-piden-16-anos-acusados-muerte-diego-maradona_0_ay8aa8jCVv.html",
+     "imagen": "https://www.clarin.com/img/2021/11/24/EJPBAN7Ah_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Una banda de irresponsables y desalmados\": piden hasta 16 años para los acusados por la muerte de Diego Maradona"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "alertan por la suba de casos de sífilis en mujeres de 20 a 24 años",
+     "resumen": "Una organización no gubernamental que analiza estadísticas de salud sexual en la Argentina advirtió que la mayor tasa de contagios se registra entre mujeres jóvenes, con 366 casos cada 100.000 habitantes, frente a 218,2 cada 100.000 en varones, y remarcó que muchas personas pueden tener la infección sin saberlo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/alertan-suba-casos-sifilis-mujeres-20-24-anos-pueden-tener-infeccion-saberlo_0_UDnibYODjx.html",
+     "imagen": "https://www.clarin.com/img/2019/08/16/jlH6WQe2h_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alertan por la suba de casos de sífilis en mujeres de 20 a 24 años: \"Pueden tener la infección sin saberlo\""
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del martes trece de octubre. El Vaticano confirmó que el papa León Catorce tiene un adenocarcinoma pulmonar, un tipo de cáncer de pulmón, detectado durante la cirugía de esta tarde en Roma, aunque por ahora se mantiene en pie su viaje a la Argentina previsto para noviembre. El Indec confirmó además que la inflación de septiembre fue de uno coma nueve por ciento, acumula veintitrés coma seis por ciento en el año y treinta y tres coma cuatro por ciento interanual. El Banco Central hizo hoy su mayor compra de dólares desde julio y el Reino Unido anunció que blindará legalmente a las empresas que operen en las islas Malvinas. Esta tarde el dólar oficial cotiza en mil quinientos treinta y cinco pesos y el dólar blue en mil quinientos cincuenta pesos, el riesgo país ronda los seiscientos puntos y la onza de oro cotiza cerca de los cuatro mil ciento ochenta y tres dólares.\n\nEn política, la Argentina presentó ante el Tribunal Internacional del Derecho del Mar un escrito de cuarenta y nueve páginas para frenar la explotación petrolera del yacimiento Sea Lion en Malvinas, mientras el Reino Unido anunció que usará una ley especial para blindar a las empresas británicas que operan en las islas. La Mesa Política que encabeza Karina Milei se reunió con el ministro Federico Sturzenegger para definir la estrategia ante la sesión que la oposición convocó para el jueves contra el decreto setenta, mientras el Gobierno prepara un proyecto de ley de Mercado de Capitales para ampliar el financiamiento a pymes. En la Justicia, la Cámara de Casación fijó para el jueves una audiencia clave para definir si reunifica los juicios contra Cristina Kirchner y su hijo Máximo por las causas Hotesur y Los Sauces, mientras en el expediente Vialidad le rechazaron la domiciliaria a Mauricio Collareda, extitular de Vialidad en Santa Cruz. Y a cinco días del diecisiete de octubre, el peronismo vuelve a conmemorar el Día de la Lealtad dividido, sin una foto de unidad.\n\nEn economía y mercados, el Indec confirmó que la inflación de septiembre fue de uno coma nueve por ciento, acumula veintitrés coma seis por ciento en el año y treinta y tres coma cuatro por ciento interanual; en noviembre los haberes jubilatorios tendrán un reajuste de uno coma noventa y tres por ciento. El Banco Central compró doscientos noventa y un millones de dólares, la mayor compra diaria desde julio, y ya acumula más de quince mil millones en el año, con reservas brutas cerca de los cincuenta mil millones. El Merval subió uno coma cuarenta y cinco por ciento, aunque el riesgo país volvió a subir por la suba internacional del petróleo. La tucumana Silvana Tenreyro debutó como economista jefa del Fondo Monetario Internacional y pidió recomponer el espacio fiscal argentino, mientras el organismo advirtió que las principales economías del mundo caminan hacia sus mayores déficits fiscales desde la pandemia. Luis Caputo se reunió en Bangkok con la directora gerente Kristalina Georgieva, que elogió la disciplina fiscal argentina, aunque la revisión sigue sin cerrarse y resta definir un desembolso cercano a los novecientos millones de dólares. Y el Tesoro enfrenta vencimientos en pesos por unos veintisiete billones este mes y por cerca de cien billones hasta fin de año.\n\nEn negocios y empresas, la santafesina Bisignano, que envasa más del setenta por ciento de los lácteos que se consumen a diario en el país, ganó la categoría industrial de los Premios Pyme dos mil veintiséis. El Laboratorio Pyam, que exporta a ciento trece países, solicitó el concurso de acreedores, y la fabricante de envases de vidrio Rigolleau redujo sus pérdidas pero sigue en rojo por el débil mercado interno. Otra marca de ropa con locales en shoppings se presentó en concurso de acreedores, con deudas por casi seis mil millones de pesos, y la cadena Minicuotas Ribeiro cerró su último local. En una señal más optimista, la marca de zapatillas Pony vuelve a la Argentina de la mano del Grupo Addnice.\n\nEn impuestos, laboral y normativa, ya rige la reforma de la Zona Fría en las tarifas de gas, que dejará sin el subsidio completo a un millón seiscientas mil personas, sobre todo en Buenos Aires, Córdoba y Santa Fe. ARCA empezó a notificar los datos para renovar el Certificado Mipyme, que define cuánto de las contribuciones patronales se deriva al nuevo Fondo de Asistencia Laboral, aunque ese fondo no corrige errores de registración ni de liquidación de sueldos. Y el analista Salvador Di Stefano advirtió que el Gobierno no puede bajar hoy impuestos distorsivos como Ingresos Brutos porque el superávit fiscal todavía no alcanza para compensar la caída de la recaudación.\n\nEn consumo, construcción y retail, el Presupuesto dos mil veintisiete busca reactivar la obra pública, algo que impactaría en el valor de los materiales y en lo que cobran albañiles, electricistas y plomeros en octubre. El Indec confirmó que una familia tipo necesitó un millón seiscientos treinta y dos mil quinientos pesos en septiembre para no caer bajo la línea de pobreza, y setecientos treinta y ocho mil seiscientos noventa pesos para no ser indigente. Los servicios fueron el rubro que más empujó la inflación y en el último año subieron casi cincuenta por ciento. Y la apertura de las compuertas de Itaipú y Yacyretá por El Niño alivia por ahora el costo de la energía eléctrica para hogares y empresas.\n\nEn management y finanzas corporativas, Aumenta A I y la Universidad de Buenos Aires ofrecen una certificación en inteligencia artificial por doscientos mil pesos. Y el CEO de Payway, Martín Kaplan, anticipó una transformación profunda en los medios de pago, con la irrupción del comercio agéntico.\n\nEn el mundo, el Vaticano confirmó que al papa León Catorce le extirparon el lóbulo inferior del pulmón derecho y que el examen confirmó el adenocarcinoma pulmonar; la recuperación demandaría una semana, aunque el plazo médico recomendado para volar es de dos semanas, un dato sensible porque su gira por Uruguay, la Argentina y Perú implica cuarenta y siete horas de vuelo. Donald Trump apartó a la embajadora en Grecia, Kimberly Guilfoyle, luego de que trascendiera que habría pedido cien mil dólares a un donante republicano para pagar deudas personales. Arabia Saudita bombardeó instalaciones petroleras cerca de Saná, en Yemen, y los hutíes advirtieron con una respuesta severa. En Francia, investigadores buscan a los autores de un ciberataque que tomó el control de las heladeras de setecientos supermercados. Y Eduardo Bolsonaro compartirá un evento con Javier Milei, pocos días antes de que su hermano Flavio dispute el balotaje contra Lula da Silva.\n\nLe Grand Continent analiza el plan de paz de cuatro puntos que Estados Unidos y varios países europeos impulsarían para Ucrania, financiado con apoyo del Banco Mundial y del fondo BlackRock; Kiev calificó la iniciativa de maniobra publicitaria.\n\nEn deportes, Boca recibe esta noche, desde las nueve y media, a Vasco da Gama por la ida de semifinales de la Sudamericana, sin Leandro Paredes, lesionado; la revancha será el veinte de octubre en el Maracaná. La crisis arbitral de la AFA sigue escalando, con el doble rol de Beligoy al frente del sindicato de árbitros y de la conducción que sostiene Claudio Tapia, y el propio Beligoy respaldó esta tarde la corrección de un polémico penal entre All Boys y Godoy Cruz. Julián Álvarez cambió de representante tras frustrarse su salida del Atlético de Madrid. En la Champions League, el Atlético de Madrid le ganó dos a cero al Manchester United, y el Inter perdió tres a cuatro ante el Brujas pese al doblete de Lautaro Martínez. Y en el Masters mil de Shanghái ya se definieron los dos primeros cruces de cuartos de final, entre Zverev y De Miñaur, y entre Géa y Davidovich Fokina.\n\nEn turismo, un hostel gastronómico de Mendoza busca voluntarios que colaboren veinticinco horas semanales a cambio de alojamiento y comidas. En sociedad, Itaipú y Yacyretá abrieron sus compuertas por la crecida del Paraná, con evacuaciones en Ciudad del Este, y hoteleros de Luján denunciaron estafas de hasta quinientos mil pesos por falsas reservas ante la visita del Papa. En el juicio por Maradona pidieron hasta dieciséis años de prisión para los principales acusados, y una ONG alertó por la suba de casos de sífilis entre mujeres de veinte a veinticuatro años.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "No se registraron fallas de descarga en ninguna de las siete fuentes. Le Grand Continent volvió a traer una sola nota en esta corrida, por lo que Europa y geopolítica quedó por debajo de las tres a cinco habituales. No apareció material sobre Franco Colapinto ni Club Atlético Tigre en esta corrida. No hubo un destino turístico argentino en los feeds de viajes; se usó como destino principal una nota de volontariado en Mendoza encontrada fuera de esas secciones. Se evitó repetir los temas ya cerrados en las ediciones anteriores del día (Malvinas: autorización británica y pedido argentino al Tribunal del Mar; AFA: giros de FIFA y Camioneros; Milei en Washington; Boca-Vasco: sede de la revancha; Brasil: balotaje Lula-Bolsonaro; Cataratas del Iguazú: reapertura) salvo donde hubo novedades concretas (diagnóstico de cáncer del Papa, inflación de septiembre confirmada, blindaje legal británico en Malvinas, compra de dólares del BCRA, nueva crecida con evacuaciones en Ciudad del Este).",
+ "slug": "2026-10-13-tarde",
+ "generado_ba": "13/10/2026 21:22"
+}
