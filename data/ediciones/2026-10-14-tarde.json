@@ -1,0 +1,649 @@
+{
+ "fecha": "2026-10-14",
+ "edicion": "tarde",
+ "titulo": "El Tesoro renueva el 136% de la deuda y cae el empleo privado formal",
+ "apertura": "La city porteña marcó la tarde: el Tesoro renovó con creces los vencimientos de deuda y absorbió pesos extra, mientras el mercado digirió una inflación que volvió a acelerarse tanto en la Argentina como en Estados Unidos. En paralelo, ATE llevó adelante un paro nacional contra el DNU 70/23, crecieron las versiones sobre el armado político de cara a 2027 y la suba de la mora empresarial junto con la nueva caída del empleo privado encendieron luces amarillas para la actividad. Afuera, España evaluó la amenaza arancelaria de Estados Unidos a sus buques y Brasil sigue en vilo de cara al balotaje del domingo 25.",
+ "claves": [
+  "El Tesoro renovó el 136,14% de los vencimientos de deuda y absorbió 1,75 billones de pesos en la licitación de hoy.",
+  "La inflación de septiembre fue de 1,9% y la interanual llegó a 33,4%, por encima de la de 2025.",
+  "La mora empresarial subió 53% interanual: ya son 59.982 las firmas con problemas de pago.",
+  "El empleo privado formal volvió a caer en julio y acumula una pérdida de 265.000 puestos desde 2024.",
+  "ATE hizo un paro nacional de 24 horas contra el DNU 70/23 y el Gobierno descontará el día a los estatales que adhieran.",
+  "La Justicia absolvió a un dirigente de Camioneros acusado de bloquear una pyme en San Nicolás.",
+  "Franco Colapinto les pidió a los hinchas que frenen los mensajes de odio hacia el equipo de Alpine.",
+  "La crecida del río Paraná cortó dos puentes y aisló a Iguazú y el Alto Paraná en Misiones."
+ ],
+ "cifras": [
+  {
+   "nombre": "Rollover de la licitación de deuda",
+   "valor": "136,14%",
+   "fuente": "IB-12"
+  },
+  {
+   "nombre": "Absorción neta de pesos en la licitación",
+   "valor": "$ 1,75 billones",
+   "fuente": "IB-12"
+  },
+  {
+   "nombre": "Reservas brutas del BCRA",
+   "valor": "US$ 49.722 millones",
+   "variacion": "-US$ 117 millones",
+   "fuente": "IB-13"
+  },
+  {
+   "nombre": "Compras del BCRA en el mercado cambiario",
+   "valor": "US$ 101 millones",
+   "fuente": "IB-13"
+  },
+  {
+   "nombre": "Empresas con mora crediticia",
+   "valor": "59.982 firmas",
+   "variacion": "+53% i.a.",
+   "fuente": "AM-16"
+  },
+  {
+   "nombre": "Empleo privado formal",
+   "valor": "-0,2% en julio",
+   "variacion": "-265.765 puestos desde nov. 2023",
+   "fuente": "CR-26"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-01",
+     "titulo": "una encuesta iguala el rechazo a los gobiernos de Milei y de Alberto Fernández",
+     "resumen": "Según el último informe de Atlas Intel/Bloomberg, uno de los sondeos más consultados por el mercado, el 45,9% de los consultados considera que la gestión de Javier Milei es \"peor\" que la de Alberto Fernández, mientras que el 45% la ve \"mejor\" y el 9% la califica \"igual\". Los encuestados valoraron mejor la gestión de Fernández en obras públicas, empleo y políticas sociales, aunque el sondeo también marcó un leve repunte en la imagen del Presidente durante septiembre.",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-vs-alberto-fernandez-segun-una-encuestadora-ambas-gestiones-provocan-el-mismo-nivel-de-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YV4MDFA2WVHZDFOAHTC6MRDAZU.jpg?auth=2218b79e78b7f98efc94d213c8eb2d6aad66a6bb940542d83f079886cf0d3ecc&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "Javier Milei vs. Alberto Fernández: según una encuestadora, ambas gestiones provocan el mismo nivel de rechazo",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-03",
+     "titulo": "Santiago Caputo pidió recuperar Malvinas y habló de una colonización islámica del Reino Unido",
+     "resumen": "En medio del debate por el Presupuesto 2027, el asesor presidencial Santiago Caputo llamó a recuperar las islas Malvinas y advirtió que el Reino Unido está \"siendo colonizado por el Islam\", según La Nación. La declaración se dio en una jornada marcada además por las críticas de la oposición al secretario de Trabajo, Julio Cordero, por la caída del empleo.",
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HCBVUYVDGVHTBN4SKXRVTHHWFE.jpg?auth=2b3236f2359dcd83aa993291cd67870a7ec3fa7c27f56f308cdbb7a91ff512d7&smart=true&width=855&height=641",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:02",
+     "autor": "",
+     "titulo_original": "Javier Milei y sus medidas, EN VIVO: Santiago Caputo llamó a recuperar Malvinas y advirtió que el Reino Unido está “siendo colonizado por el Islam”",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-11",
+     "titulo": "Bullrich se reúne cada semana con Melconian y crece la hipótesis de un mileísmo sin Milei",
+     "resumen": "Patricia Bullrich mantiene encuentros semanales con el economista Carlos Melconian, crítico del Gobierno, lo que alimenta especulaciones sobre su rol de cara a 2027. En el último Coloquio de IDEA mostró mayor solidez al hablar de economía que durante su campaña presidencial anterior, según La Nación.",
+     "url": "https://www.lanacion.com.ar/opinion/milei-en-zona-de-debilidad-a-que-juega-patricia-a-sus-espaldas-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7DBCOPBCPVBQ3B2RFK4GPYAAG4.jpg?auth=1037e6d2fec9eb5326aa8b29caa9b74f7514d6a6d19ef8f96362d9921a0e4649&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:58",
+     "autor": "Laura Di Marco",
+     "titulo_original": "Milei, en zona de debilidad. ¿A qué juega Patricia, a sus espaldas?",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Máximo Kirchner advirtió que el peronismo revisará todos los RIGI si gana las elecciones",
+     "resumen": "El diputado nacional de Fuerza Patria dijo que, si el peronismo gana las elecciones de 2027, someterá a revisión cada proyecto del Régimen de Incentivo a las Grandes Inversiones aprobado por el Gobierno. Cuestionó los beneficios impositivos a mineras, que según él pagarían entre 25% y 35% de Ganancias, y admitió que una victoria opositora al mercado presiona al alza el riesgo país.",
+     "url": "https://www.lanacion.com.ar/politica/maximo-kirchner-advirtio-que-si-el-peronismo-gana-las-elecciones-revisara-cada-uno-de-los-rigi-de-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VWGZIXH5QJF6RJP25OPTYPTELY.jpeg?auth=2991dc1d7adcecf99e0107aa208c75ad66268a09d7d4056f83dffef62f6b6fee&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:30",
+     "autor": "",
+     "titulo_original": "Máximo Kirchner advirtió que si el peronismo gana las elecciones revisará cada uno de los RIGI de Milei",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-25",
+     "titulo": "absolvieron a un dirigente de Camioneros acusado de bloquear una pyme y el empresario afectado apelará",
+     "resumen": "El Tribunal Oral Criminal N°2 de San Nicolás absolvió a Maximiliano Cabaleyro, jefe regional del gremio de los Moyano, acusado de bloquear la empresa Rey Distribución y exigir dinero a sus dueños; el juez consideró que ejerció el derecho de huelga. El empresario Ariel Rey, propietario de la firma, calificó el fallo de injusto y anunció que recurrirá a casación.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“El juez justificó un delito”: la palabra del empresario de San Pedro tras la absolución a los gremialistas que bloquearon su pyme",
+       "url": "https://www.infobae.com/politica/2026/10/14/el-juez-justifico-un-delito-la-palabra-del-empresario-de-san-pedro-tras-la-absolucion-a-los-gremialistas-que-bloquearon-su-pyme/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/absolvieron-a-un-jefe-camionero-acusado-de-bloquear-una-empresa-y-exigir-dinero-a-los-duenos-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NCDPQEWKH5DPFEUMMYNGDBIHU4.jpeg?auth=256d62b8047df25cb4effb123ce155874a319239d83fb8f52390537a00aee0de&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:28",
+     "autor": "Javier Fuego Simondet",
+     "titulo_original": "Absolvieron a un jefe camionero acusado de bloquear una empresa y exigir dinero a los dueños"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "diez gobernadores coinciden con Santilli en un foro sobre obras pese a las dudas oficiales sobre los acuerdos",
+     "resumen": "Mandatarios provinciales opositores, aliados y moderados coincidieron con el jefe de Gabinete, Diego Santilli, en un consejo de logística del CFI centrado en obras de infraestructura. El diputado Martín Menem sostuvo que sería más fácil acordar \"con cuanto gobernador se les cruzara\", mientras en el Gobierno hay dudas sobre la conveniencia de este tipo de acuerdos.",
+     "url": "https://www.clarin.com/politica/gobernadores-coinciden-santilli-foro-obras-gobierno-dudas-conveniencia-acuerdos_0_o3MfIIhVZ9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/auY9c3owK_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:04",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Diez gobernadores coinciden con Santilli en un foro sobre obras, mientras en el Gobierno hay dudas sobre la conveniencia de acuerdos",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-13",
+     "titulo": "ATE hizo un paro nacional de 24 horas y el Gobierno descontará el día a los estatales que adhieran",
+     "resumen": "El gremio que conduce Rodolfo Aguiar realizó una huelga nacional de 24 horas contra el DNU 70/23. El Gobierno anunció que descontará el día a los empleados públicos que adhieran, una medida que el dirigente calificó de \"ilegalidad\" y que, advirtió, fortalecerá la protesta.",
+     "url": "https://www.clarin.com/politica/gobierno-descontara-dia-estatales-adhieran-paro-ate-desafia-acatamiento-total_0_HkFTBJ7d7i.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/yiZkt3-5P_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno descontará el día a los estatales que adhieran al paro y ATE desafía: “El acatamiento será casi total”",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-06",
+     "titulo": "LLA combina la ley de Tierras con el blindaje al DNU 70 para complicar la sesión opositora",
+     "resumen": "En un plenario de comisiones, el oficialismo dejó listo para el recinto el proyecto de Inviolabilidad de la Propiedad Privada, ya aprobado por el Senado, pero le sumó un cambio: eliminar el artículo del DNU 70 que deroga la ley que limita la venta de tierras rurales a extranjeros. La maniobra busca complicar los planes de la oposición para la próxima sesión.",
+     "url": "https://www.ambito.com/politica/lla-reflota-la-ley-tierras-del-kirchnerismo-blindar-el-dnu-70-y-complicar-la-sesion-opositora-n6333817",
+     "imagen": "https://media.ambito.com/p/e517d9abe99b55e7139db0b056ac96ca/adjuntos/239/imagenes/043/415/0043415675/1200x675/smart/diputados-4.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:26",
+     "autor": "",
+     "titulo_original": "LLA reflota la ley de Tierras del kirchnerismo para blindar el DNU 70 y complicar la sesión opositora",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-12",
+     "titulo": "el Gobierno renovó el 136% de los vencimientos de deuda y absorbió 1,75 billones de pesos",
+     "resumen": "La Secretaría de Finanzas recibió ofertas por 9,49 billones de pesos y adjudicó 6,61 billones, con lo que logró un rollover de 136,14% sobre los vencimientos del día y absorbió 1,75 billones de pesos del mercado. El Tesoro no ofreció el Bonar 2029 en dólares por la suba de tasas que siguió al salto del riesgo país, y estiró plazos de colocación más allá de las elecciones de 2027.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Deuda: Economía aspiró pesos del mercado, renovó el 136% de los vencimientos y estiró plazos más allá de 2027",
+       "url": "https://www.ambito.com/deuda-economia-aspiro-pesos-del-mercado-renovo-el-136-los-vencimientos-y-estiro-plazos-mas-alla-2027-n6333837"
+      },
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Argentina logra refinanciar todos sus próximos vencimientos de deuda",
+       "url": "https://www.infobae.com/america/agencias/2026/10/14/argentina-logra-refinanciar-todos-sus-proximos-vencimientos-de-deuda/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/14/licitacion-clave-el-gobierno-renovo-todos-los-vencimientos-de-deuda-y-absorbio-175-billones-de-pesos/",
+     "imagen": "https://www.infobae.com/resizer/v2/4XLYJPFSPFH2LEOIXCZPT2BTAQ.jpg?auth=5c2d0e8ac073acd801cf8221feca1fa4032f29571355aac6fd3bf2f3a7d2dae2&smart=true&width=900&height=563",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:02",
+     "autor": "",
+     "titulo_original": "Licitación clave: el Gobierno renovó todos los vencimientos de deuda y absorbió 1,75 billones de pesos"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "la inflación de septiembre fue de 1,9% y complica el objetivo de piso del 1% que busca el Gobierno",
+     "resumen": "El IPC de septiembre, informado por el INDEC, fue de 1,9% y retomó la suba después del 1,7% de agosto, con los alimentos por encima del promedio general. La inflación interanual llegó a 33,4%, por encima del 31,5% con que cerró 2025, y el acumulado de los primeros nueve meses del año es de 23,6%.",
+     "url": "https://www.cronista.com/economia-politica/piso-del-1-que-traba-la-baja-de-la-inflacion-y-por-que-el-desafio-para-el-gobierno-es-mayor-al-proyectado/",
+     "imagen": "https://www.cronista.com/resizer/v2/UMIFGTGR4RBVZCWJXB4FIA4WOY.jpg?auth=2f0e9c8dd29bbf3a6bedf9a773c55600cd8d9966a43740c32d8aaf5f4ec8fdaf&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Piso del 1%: qué traba la baja de la inflación y por qué el desafío para el Gobierno es “mayor al proyectado”",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-19",
+     "titulo": "Caputo se reunió con el Banco Mundial y el BID en Bangkok para gestionar financiamiento",
+     "resumen": "El ministro de Economía mantuvo encuentros con autoridades del Banco Mundial y el BID durante su gira en Bangkok, con el objetivo de atraer inversiones y habilitar líneas de crédito internacionales, especialmente para infraestructura y energía.",
+     "url": "https://www.iprofesional.com/finanzas/466593-inversiones-privadas-millonarias-argentina-gestion-caputo-bangkok",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611179.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:57",
+     "autor": "",
+     "titulo_original": "Caputo se reunió con el Banco Mundial, el BID para atraer inversiones y financiamiento",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-16",
+     "titulo": "la mora empresarial subió 53% interanual y ya son casi 60.000 las firmas con problemas de pago",
+     "resumen": "En agosto, casi 2.000 empresas cayeron en mora y el total de firmas con dificultades de pago llegó a 59.982, un salto de 53% frente a igual mes de 2025. Entre las personas físicas, 6,3 millones están en situación irregular de crédito, aunque se observó una leve recuperación en la mora temprana. Para una empresa: un aumento sostenido de la mora corporativa anticipa mayor cautela de bancos y proveedores a la hora de otorgar plazos y líneas de crédito.",
+     "url": "https://www.ambito.com/economia/endeudamiento-empresas-casi-2000-firmas-cayeron-mora-y-ya-son-casi-59982-dificultades-pago-n6333781",
+     "imagen": "https://media.ambito.com/p/17c230f82c3b022276c3e6bb2ac43cda/adjuntos/239/imagenes/043/644/0043644804/1200x675/smart/morosidad-empresas.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:25",
+     "autor": "",
+     "titulo_original": "Endeudamiento en empresas: en agosto casi 2.000 firmas cayeron en mora y ya son 59.982 con dificultades de pago",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-26",
+     "titulo": "el empleo privado formal volvió a caer en julio y ya se perdieron 265.000 puestos desde 2024",
+     "resumen": "Según un informe de la consultora Politikón Chaco, el empleo registrado del sector privado bajó 0,2% en julio frente a junio, con la destrucción de 12.716 puestos de trabajo. La caída acumulada desde noviembre de 2023 llega a 4,2%, equivalente a 265.765 empleos, y la construcción y la industria siguen entre los sectores más golpeados.",
+     "url": "https://www.cronista.com/economia-politica/el-empleo-privado-volvio-a-caer-en-julio-y-ya-se-perdieron-mas-de-265000-puestos-registrados-desde-el-2024/",
+     "imagen": "https://www.cronista.com/resizer/v2/LCOLSI2OM5E7HNZJ7QL5CU344I.png?auth=01b3438fc035a487349f06d9bdde461c8712d01974a4e61c78642695b3705c04&smart=true&width=900&height=501",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:41",
+     "autor": "Equipo Política",
+     "titulo_original": "El empleo privado volvió a caer en julio y ya se perdieron más de 265.000 puestos registrados desde el 2024",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "la Justicia frenó la quiebra de Pan Danés y buscará nuevos dueños para la cadena de panaderías",
+     "resumen": "Un juez rechazó el pedido de quiebra de la cadena de panaderías Pan Danés y abrió un proceso para que terceros puedan intentar adquirir la empresa. Los informes judiciales revelaron cómo evolucionaron las ventas, las deudas y la dotación de personal de la firma antes del cierre de sus locales.",
+     "url": "https://www.ambito.com/negocios/giro-inesperado-pan-danes-la-justicia-freno-su-quiebra-y-buscan-nuevos-duenos-n6333832",
+     "imagen": "https://media.ambito.com/p/a541515c4f8029df71b57bed6648f01b/adjuntos/239/imagenes/043/680/0043680873/1200x675/smart/pan-danes.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:45",
+     "autor": "",
+     "titulo_original": "Giro inesperado para Pan Danés: la Justicia frenó su quiebra y buscan nuevos dueños",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-18",
+     "titulo": "la marca de ropa Zhoue entró en concurso de acreedores tras cerrar locales en los principales shoppings",
+     "resumen": "La firma de indumentaria Zhoue presentó un concurso de acreedores con un pasivo multimillonario y cuentas embargadas por ARCA, después de cerrar franquicias y locales en los shoppings más importantes del país.",
+     "url": "https://www.iprofesional.com/negocios/466566-la-marca-de-ropa-zhoue-entro-en-concurso-y-debe-miles-de-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627525.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:14",
+     "autor": "",
+     "titulo_original": "Tras cerrar locales, la marca de ropa Zhoue entró en concurso y debe miles de millones",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-10",
+     "titulo": "el BID financiará bonificaciones al consumo de gas para hogares vulnerables",
+     "resumen": "Un préstamo del BID permitirá financiar bonificaciones al consumo de gas para hogares vulnerables, dentro del régimen que reemplazó la segmentación de usuarios por ingresos.",
+     "url": "https://www.iprofesional.com/negocios/466572-milei-aprueba-un-prestamo-de-us500-millones-para-subsidiar-el-gas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625623.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:34",
+     "autor": "",
+     "titulo_original": "El BID financiará bonificaciones al consumo de gas de hogares vulnerables",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-12",
+     "titulo": "la empresa de Warren Buffett invirtió otros 330 millones de dólares en la tecnológica Bending Spoons",
+     "resumen": "Berkshire Hathaway inyectó US$330 millones adicionales en Bending Spoons, el conglomerado tecnológico dueño de AOL, Eventbrite y Vimeo, con lo que su participación llega al 4% tras haber invertido US$600 millones en la salida a bolsa de julio. Las acciones de la compañía llegaron a subir más de 40% en Wall Street tras conocerse la noticia.",
+     "url": "https://www.cronista.com/financial-times/la-empresa-de-warren-buffett-invierte-otros-us-330-millones-en-una-tecnologica-que-ya-sube-91-en-wall-street/",
+     "imagen": "https://www.cronista.com/resizer/v2/DNEW4XYQMFERTLTXCWL633KN4U.jpg?auth=42e9ef0d98f4dbaa16436b78b7f2dab63233c3ae0f0c0282ce3fb638883f8b7f&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:29",
+     "autor": "Peter Wells, Amelia Pollard, Kieran Smith",
+     "titulo_original": "La empresa de Warren Buffett invierte otros u$s 330 millones en una tecnológica que ya sube 91% en Wall Street",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-15",
+     "titulo": "demandan por más de 26.000 millones de dólares a empresas pesqueras que operan en Malvinas",
+     "resumen": "La Fundación Agustina Lerena presentó una demanda ante la Justicia Federal de Río Grande contra empresas pesqueras que operan en las islas Malvinas, principalmente españolas, junto con una red de proveedoras y el gobierno colonial del archipiélago.",
+     "url": "https://www.ambito.com/politica/demandan-mas-us26-mil-millones-empresas-pesqueras-que-operan-las-malvinas-n6333795",
+     "imagen": "https://media.ambito.com/p/3dd5c518fce6f6f9231a0acc28647c0f/adjuntos/239/imagenes/043/704/0043704473/1200x675/smart/pesca-malvinas.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:36",
+     "autor": "",
+     "titulo_original": "Demandan por más de u$s26 mil millones a empresas pesqueras que operan en las Malvinas",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "cobrar en dólares por YouTube, Twitch o Patreon no exime de declarar los ingresos ante ARCA",
+     "resumen": "Cada vez más argentinos generan ingresos en plataformas como YouTube, Twitch, TikTok o Patreon y cobran en dólares desde empresas radicadas en el exterior. Según especialistas tributarios consultados por El Cronista, recibir el dinero desde afuera no elimina las obligaciones impositivas ni las normas cambiarias que regulan el ingreso de divisas. Para una empresa: el criterio también aplica a pymes de servicios que facturan al exterior, un esquema cada vez más usado.",
+     "url": "https://www.cronista.com/negocios/uno-por-uno-que-impuestos-hay-que-pagar-si-ganas-dolares-en-plataformas-digitales/",
+     "imagen": "https://www.cronista.com/resizer/v2/RILGXWT54NHAXNVP7VPGZYYIW4.jpg?auth=0afa3d8e560e963860476b916606cdc79bd857b3b6add4bb66029e2cec5f413f&smart=true&width=740&height=492",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:00",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Uno por uno, qué impuestos hay que pagar si ganás dólares en plataformas digitales",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-20",
+     "titulo": "del monotributo al régimen general de IVA: cuánto más hay que facturar para ganar lo mismo",
+     "resumen": "Cuando un monotributista supera el límite de la categoría K, debe inscribirse en el régimen general de IVA y necesita vender más para mantener el mismo nivel de ganancia neta, por el peso adicional de impuestos y cargas.",
+     "url": "https://www.iprofesional.com/impuestos/466555-monotributo-a-iva-cuanto-mas-hay-que-vender-para-ganar-igual",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/627515.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:40",
+     "autor": "",
+     "titulo_original": "Del Monotributo al régimen de IVA: cuánto más hay que vender para ganar lo mismo",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-17",
+     "titulo": "cuánto cobran en octubre los empleados de las cadenas de comida rápida",
+     "resumen": "Los trabajadores alcanzados por el Convenio Colectivo 329/2000, de la rama de Servicios Rápidos, perciben en octubre salarios básicos mensuales de entre $997.033 y $1.863.345 según la categoría, de acuerdo con la escala difundida por la federación gremial del sector. El esquema también contempla sumas no remunerativas y adicionales por presentismo, antigüedad, trabajo nocturno y zona fría.",
+     "url": "https://www.infobae.com/economia/2026/10/14/cuando-cobran-los-empleados-de-las-principales-cadenas-de-comida-rapida-de-la-argentina-en-octubre-2026/",
+     "imagen": "https://www.infobae.com/resizer/v2/3POUIXJYSVB3VLTM3RWKZXZIQU.png?auth=e9a1ef73529065b8a632d41823bad8921f8133fd83f1bc7f1d69eb965786ef1c&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:10",
+     "autor": "",
+     "titulo_original": "Cuánto cobran los empleados de las principales cadenas de comida rápida de la Argentina en octubre 2026",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-09",
+     "titulo": "testamento o donación en vida: qué conviene antes de transferir una propiedad",
+     "resumen": "La transferencia de un inmueble a un heredero o a un tercero puede hacerse en vida, mediante una donación, o después del fallecimiento, a través de un testamento, y cada camino sigue reglas distintas. La existencia de legitimarios, la posibilidad de reservar un usufructo, el carácter propio o ganancial del bien y las consecuencias fiscales son algunos de los puntos a evaluar antes de decidir.",
+     "url": "https://www.cronista.com/economia-politica/testamento-o-donacion-en-vida-los-puntos-a-evaluar-antes-de-transferir-una-propiedad/",
+     "imagen": "https://www.cronista.com/resizer/v2/W2AWUEASCZGGRBKCKBPCAFQLCY.jpg?auth=4851af50b2405f024daf7b589bd8f19d9446cc119d5a3879dce0abfacdc9916e&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:49",
+     "autor": "Audiencias Member",
+     "titulo_original": "Testamento o donación en vida: los puntos a evaluar antes de transferir una propiedad",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "LN-14",
+     "titulo": "Pony vuelve a la Argentina de la mano del grupo Addnice",
+     "resumen": "El grupo argentino Addnice tomó la representación y distribución exclusiva de Pony, la histórica marca deportiva estadounidense que tuvo fuerte presencia en el país durante los años setenta y ochenta. La apuesta combina nostalgia, reconocimiento de marca y una estrategia enfocada en el canal deportivo, según La Nación.",
+     "url": "https://www.lanacion.com.ar/economia/negocios/pony-vuelve-a-la-argentina-apuestan-a-revivir-una-marca-con-historia-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YODFS5NI7REWNOMYRYJDTIXPDI.jpg?auth=9597add013c7ad7bc6a8d7e2bbf16550274eb50c17ffb72137a87ad92e10e307&smart=true&width=398&height=277",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:31",
+     "autor": "",
+     "titulo_original": "Pony vuelve a la Argentina: apuestan a revivir una marca con historia",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-12",
+     "titulo": "Día de la Madre: bancos y billeteras lanzan descuentos de hasta 40% y 24 cuotas sin interés",
+     "resumen": "De cara al Día de la Madre, que se celebra el domingo 18 de octubre, los bancos lanzaron promociones con descuentos de hasta 40%, reintegros y financiación en hasta 24 cuotas sin interés en indumentaria, perfumería, gastronomía, tecnología y supermercados. Para una empresa: son beneficios a mirar de cerca para planificar precios de lista y promociones propias en la semana previa a la fecha.",
+     "url": "https://www.ambito.com/negocios/dia-la-madre-bancos-lanzan-descuentos-40-reintegros-y-24-cuotas-interes-n6331384",
+     "imagen": "https://media.ambito.com/p/f4802b18e59ba3a3f6afe3f1f31bf614/adjuntos/239/imagenes/042/869/0042869413/dia-la-madrejpg.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:47",
+     "autor": "",
+     "titulo_original": "Día de la Madre: bancos y billeteras lanzan descuentos de hasta 40%, reintegros y 24 cuotas sin interés",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-03",
+     "titulo": "España evalúa la amenaza de Estados Unidos de imponer tasas a sus buques",
+     "resumen": "El gobierno español analiza las medidas que propone Estados Unidos para gravar y restringir a buques y productos españoles, en medio de tensiones por el puerto de Algeciras. España busca proteger sus intereses comerciales y trabaja en coordinación con la Unión Europea para evitar una escalada.",
+     "url": "https://www.clarin.com/estados-unidos/el-gobierno-espanol-analiza-la-amenaza-de-eeuu-de-imponer-tasas-a-buques-espanoles_0_cx4Vszmso1.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno español analiza la amenaza de EEUU de imponer tasas a buques españoles",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-09",
+     "titulo": "Musk responsabilizó al gobierno de Estados Unidos por las restricciones de Starshield en Ucrania",
+     "resumen": "El empresario Elon Musk indicó que las limitaciones de acceso a Starshield, el sistema que usa Ucrania, fueron decididas por el gobierno estadounidense y no por su empresa. Diferenció ese servicio militar de Starlink, destinado a usos civiles, ambos desarrollados por sus compañías.",
+     "url": "https://www.clarin.com/estados-unidos/musk-sugiere-que-el-gobierno-de-eeuu-es-responsable-de-problemas-de-acceso-a-starshield-en-ucrania_0_Hq0Vyf1Q7h.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Musk sugiere que el gobierno de EEUU es responsable de problemas de acceso a Starshield en Ucrania",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-10",
+     "titulo": "Marco Rubio le dijo a Bukele que el régimen cubano no hará las reformas que el pueblo merece",
+     "resumen": "El secretario de Estado de Estados Unidos habló por teléfono con el presidente salvadoreño Nayib Bukele sobre la situación política de Cuba, las prioridades compartidas ante la ONU y la protección de infraestructuras estratégicas de El Salvador. Rubio cuestionó la disposición del gobierno cubano a introducir cambios políticos y económicos.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/marco-rubio-en-su-llamada-a-bukele-el-regimen-cubano-no-llevara-a-cabo-las-reformas-que-el-pueblo-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OXSK4A2KFBDMHET5O7PQUQ3WYE.png?auth=fba738ef114d9a31d9968c223f1eaaf65868872ce3f3d7c242af5dd27782dd54&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:59",
+     "autor": "",
+     "titulo_original": "Marco Rubio, en su llamada a Bukele: “El régimen cubano no llevará a cabo las reformas que el pueblo merece”",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Trump publicó un video con inteligencia artificial en el que se burla del hombre que murió atacado por un tigre",
+     "resumen": "El presidente de Estados Unidos compartió en Truth Social un video editado con inteligencia artificial en el que aparece en el lugar que ocupaba un hombre que saltó al recinto de los tigres de un zoológico inglés y murió atacado por uno de los animales.",
+     "url": "https://www.lanacion.com.ar/el-mundo/trump-subio-un-video-domando-a-un-tigre-usando-como-base-el-del-hombre-al-que-mato-un-animal-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RMH537ABONAZDGILOJTSNX3Z7Y.png?auth=7bf020b656bcc607771aa1d5c3df11f9f4581fe80d1e4e6dabc8eb97ebac2133&smart=true&width=820&height=528",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:02",
+     "autor": "",
+     "titulo_original": "Trump publicó un video domando a un tigre usando como base el del hombre al que mató un animal",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-02",
+     "titulo": "Champions League: PSG goleó a Manchester City y Real Madrid remontó ante Roma",
+     "resumen": "En la segunda fecha de la fase de liga, PSG venció 4 a 2 a Manchester City en Inglaterra tras ir ganando 3 a 0 en el entretiempo, mientras que Real Madrid remontó para ganarle 4 a 3 a Roma. También se jugaron Feyenoord 3-2 Como, LASK 3-6 Liverpool, Aston Villa 6-0 Fenerbahce, Betis 3-2 Porto, Bodo/Glimt 1-0 Borussia Dortmund, Slovan Bratislava 0-3 Stuttgart y Shakhtar 3-1 AEK Atenas.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XYSYQP47ZVGSBLORKEOIHYCJXM.JPG?auth=3696d8758c93b25fc9360e3933586cfd51ed11e2816b213d8878d33b0c431370&smart=true&width=900&height=720",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:02",
+     "autor": "",
+     "titulo_original": "Champions League: PSG festejó en Inglaterra ante Manchester City, y Real Madrid remontó ante Roma en un partidazo",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-07",
+     "titulo": "Giannis Antetokounmpo se despidió de Milwaukee y se sumó al Heat de Miami",
+     "resumen": "El astro griego, que jugó 13 temporadas en los Bucks, comienza una nueva etapa en Florida en busca de un entorno competitivo para pelear el título de la NBA. Miami apostó fuerte por el traspaso y entregó múltiples selecciones del draft a cambio del jugador.",
+     "url": "https://www.clarin.com/estados-unidos/giannis-antetokounmpo-y-el-heat-de-miami-podrian-ser-una-dupla-ideal-por-el-titulo_0_Ax7CvzdRc9.html",
+     "imagen": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Giannis Antetokounmpo y el Heat de Miami podrían ser una dupla ideal por el título",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Vinicius Júnior fue suspendido cuatro partidos y se perderá el clásico ante el Barcelona",
+     "resumen": "El extremo brasileño del Real Madrid fue sancionado por el tribunal de disciplina de la liga española tras protagonizar una polémica durante la última fecha, lo que lo dejará afuera del próximo clásico frente al Barcelona.",
+     "url": "https://www.ambito.com/deportes/vinicius-junior-fue-sancionado-cuatro-partidos-y-se-perdera-el-clasico-contra-el-barcelona-n6333778",
+     "imagen": "https://media.ambito.com/p/624006463813610e22bcea696f61fd06/adjuntos/239/imagenes/043/704/0043704318/1200x675/553x240:573x260/vinicius-expulsion.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:05",
+     "autor": "",
+     "titulo_original": "Vinicius Júnior fue sancionado con cuatro partidos y se perderá el clásico contra el Barcelona",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-01",
+     "titulo": "LPF Play dejará de ser gratis y cobrará una suscripción mensual para ver el ascenso",
+     "resumen": "Después de casi un año de transmisiones gratuitas, la plataforma que emite los partidos del ascenso del fútbol argentino pasará a cobrar una suscripción mensual a los fanáticos de esas categorías.",
+     "url": "https://www.ambito.com/deportes/lpf-play-dejara-ser-gratis-y-habra-que-pagar-una-suscripcion-mensual-ver-los-partidos-del-ascenso-n6333836",
+     "imagen": "https://media.ambito.com/p/88abd350594b1457a0909486f4efce75/adjuntos/239/imagenes/043/704/0043704647/1200x675/842x400:862x420/lpf-play-tapia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:52",
+     "autor": "",
+     "titulo_original": "LPF Play dejará de ser gratis y habrá que pagar una suscripción mensual para ver los partidos del ascenso",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-11",
+     "titulo": "la Fórmula 1 confirmó el regreso de los motores V8 para 2030",
+     "resumen": "Tras el debut de las nuevas reglas de esta temporada, que no convencieron a pilotos ni a buena parte de los fanáticos, el presidente de la Federación Internacional del Automóvil confirmó que la categoría volverá a los motores V8 a partir de 2030.",
+     "url": "https://www.ambito.com/deportes/buena-noticia-la-formula-1-los-motores-v8-volveran-2030-n6333807",
+     "imagen": "https://media.ambito.com/p/742dc3c3a448cbba625498edeb9fc802/adjuntos/239/imagenes/042/366/0042366973/ben-sulayem_fiajpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:55",
+     "autor": "",
+     "titulo_original": "Buena noticia para la Fórmula 1: los motores V8 volverán en 2030",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Franco Colapinto les pidió a los hinchas que frenen los mensajes de odio hacia el equipo de Alpine",
+     "resumen": "El piloto argentino publicó un video en sus redes sociales tras el hate que recibieron mecánicos y oficiales de Alpine por la actuación del equipo en el Gran Premio de Singapur. \"Hay veces que nos pasamos de la raya\", les dijo a sus seguidores, y señaló que los mensajes de apoyo mal entendidos terminan generando el efecto contrario al buscado.",
+     "relacionadas": [
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Del amor al hate: el detrás de escena del mensaje de Franco Colapinto a los fanáticos argentinos que lo siguen en la Fórmula 1",
+       "url": "https://www.clarin.com/deportes/franco-colapinto-mensajes-odio-redes-sociales-piensan-defendiendo-generan-contrario_0_vaGU2tERQP.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/franco-colapinto-mensajes-odio-redes-sociales-piensan-defendiendo-generan-contrario_0_mySL2wLxxK.html",
+     "imagen": "https://www.clarin.com/img/2026/10/09/jgUS-lJP4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Franco Colapinto, contra los mensajes de odio en las redes sociales: \"Sé que piensan que me están defendiendo, pero generan lo contrario\""
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-05",
+     "titulo": "una ciudad de la costa de Chubut apuesta a crecer en el turismo patagónico",
+     "resumen": "Un destino de la costa patagónica de Chubut busca atraer a más viajeros con recorridos por acantilados y playas, avistaje de fauna marina y experiencias al aire libre como senderismo y navegación.",
+     "url": "https://www.clarin.com/informacion-general/ciudad-patagonia-sorprende-paisajes-busca-atraer-turistas_0_hj8HlCxeQ9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/J9WvDI9g1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La ciudad de la Patagonia que sorprende con sus paisajes y busca atraer a más turistas",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-05",
+     "titulo": "la crecida del río Paraná cortó dos puentes y dejó aisladas a Iguazú y el Alto Paraná",
+     "resumen": "La ruta nacional 12, principal vía de Misiones, fue cortada a la altura de El Alcázar por la crecida del Paraná y el arroyo Piray, lo que dejó virtualmente aisladas a localidades como Eldorado e Iguazú. Como los caminos alternativos son de tierra, la zona queda obligada a un rodeo de 230 kilómetros para conectarse con el resto de la provincia.",
+     "url": "https://www.lanacion.com.ar/sociedad/por-la-crecida-del-rio-cortaron-dos-puentes-sobre-la-ruta-nacional-12-iguazu-y-el-alto-parana-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IPZQRKR5ORHFTNY4X2XNYXMPYM.jpeg?auth=3e6efc383fcd9c57493c21c5aaf842190461da57ce25f24f007623c8a021ba60&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:01",
+     "autor": "Martín Boerr",
+     "titulo_original": "Por la crecida del río, cortaron dos puentes sobre la ruta nacional 12: Iguazú y el Alto Paraná, virtualmente aislados",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-16",
+     "titulo": "aparecieron cinco ballenas muertas en Puerto Madryn en las últimas 48 horas",
+     "resumen": "Las autoridades investigan las causas de las muertes y una de las hipótesis apunta a una bacteria presente en el mar. De mantenerse la tendencia, se superaría el récord anual de ballenas muertas registrado hasta ahora.",
+     "url": "https://www.clarin.com/sociedad/alarma-puerto-madryn-aparecieron-ballenas-muertas-ultimas-48-horas-podria-superarse-record-anual_0_esstARHjUf.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/0zyOZIEVc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alarma en Puerto Madryn: aparecieron cinco ballenas muertas en las últimas 48 horas y podría superarse el récord anual",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-18",
+     "titulo": "murió un marinero a bordo de un buque pesquero que ya había perdido a otro tripulante en julio",
+     "resumen": "Alejandro Silva, de 53 años, murió cuando un portón del aparejo de pesca lo aprisionó durante tareas de captura de merluza a bordo del buque Cabo Vírgenes, unas 200 millas náuticas al nordeste de Puerto Deseado, Santa Cruz. Es la segunda muerte a bordo de la misma embarcación en pocos meses, luego de que otro tripulante cayera al mar en julio.",
+     "url": "https://www.infobae.com/sociedad/2026/10/14/tragico-accidente-murio-un-marinero-a-bordo-de-un-buque-que-ya-habia-perdido-a-otro-tripulante-al-caer-al-mar-en-julio/",
+     "imagen": "https://www.infobae.com/resizer/v2/JDPUTJBMONDJFOTLN3U2HALYAY.jpg?auth=6279626ee9518ce85e4ca8600603f28efe6f2a6c67a3d30c0a97962e10efac05&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:08",
+     "autor": "",
+     "titulo_original": "Trágico accidente: murió un marinero a bordo de un buque que ya había perdido a otro tripulante al caer al mar en julio",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-25",
+     "titulo": "un alumno baleó a un compañero en el baño de una escuela de La Matanza",
+     "resumen": "El hecho ocurrió en un colegio de la localidad de Villa Dorrego y el agresor fue demorado por las autoridades. La víctima resultó herida en el abdomen y el brazo.",
+     "url": "https://www.clarin.com/sociedad/matanza-alumno-baleo-companero-bano-escuela_0_oeKeU38qiA.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/0QTFGFDMM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Matanza: un alumno baleó a un compañero en el baño de una escuela",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del miércoles catorce de octubre. La jornada estuvo marcada por los números de la city financiera: el Tesoro salió a buscar pesos al mercado y logró renovar con creces los vencimientos de deuda, justo cuando un dato de inflación más caliente de lo esperado en Estados Unidos volvió a sacudir a los mercados globales. El dólar oficial cerró en mil quinientos treinta y cinco pesos para la venta, el dólar blue quedó en mil quinientos cincuenta pesos, el oro cotiza en torno a los cuatro mil ciento veintiséis dólares la onza y el riesgo país se mantiene cerca de los seiscientos puntos básicos. En la city, la Secretaría de Finanzas recibió ofertas por nueve coma cuarenta y nueve billones de pesos y terminó adjudicando seis coma sesenta y un billones, lo que implica una renovación del ciento treinta y seis coma catorce por ciento de los vencimientos del día y una absorción neta de un billón setecientos cincuenta mil millones de pesos. El Tesoro evitó ofrecer el bono Bonar dos mil veintinueve en dólares, justamente por la suba de tasas que siguió al salto del riesgo país, y estiró los plazos de las nuevas colocaciones más allá de las elecciones de dos mil veintisiete. En paralelo, el Instituto Nacional de Estadística y Censos confirmó que la inflación de septiembre fue de uno coma nueve por ciento, con los alimentos por encima del promedio, y que la inflación interanual llegó a treinta y tres coma cuatro por ciento, un nivel más alto que el de hace un año. Dos indicadores de la economía real completan el panorama y no son menores para cualquier empresa: la mora de las empresas subió cincuenta y tres por ciento interanual y ya son casi sesenta mil las firmas con dificultades para pagar sus deudas, mientras que el empleo privado formal volvió a caer en julio y acumula una pérdida de alrededor de doscientos sesenta y cinco mil puestos de trabajo desde noviembre de dos mil veintitrés. En política, una encuesta de Atlas Intel y Bloomberg mostró que el rechazo a la gestión de Javier Milei es similar al que tenía el gobierno de Alberto Fernández, aunque también marcó un leve repunte en la imagen del Presidente durante septiembre. En medio del debate por el Presupuesto, el asesor Santiago Caputo pidió recuperar las islas Malvinas y cuestionó al Reino Unido, mientras crecen las versiones sobre encuentros semanales entre Patricia Bullrich y el economista Carlos Melconian de cara a dos mil veintisiete. Desde la oposición, Máximo Kirchner advirtió que si el peronismo gana las elecciones revisará todos los regímenes de incentivo a las grandes inversiones aprobados por este Gobierno. También hubo un paro nacional de veinticuatro horas de la Asociación de Trabajadores del Estado contra el decreto setenta, que el Gobierno respondió anunciando que descontará el día a quienes adhieran, y diez gobernadores de distinto signo coincidieron con el jefe de Gabinete, Diego Santilli, en un encuentro sobre obras de infraestructura. En la Justicia, un tribunal de San Nicolás absolvió a un dirigente de Camioneros acusado de bloquear una empresa, un fallo que el empresario afectado calificó de injusto y que apelará. En impuestos y normativa, especialistas tributarios recordaron que cobrar en dólares por plataformas como YouTube, Twitch o Patreon no exime de declarar esos ingresos ante la agencia de recaudación, algo que también alcanza a las pymes de servicios que facturan al exterior. Además, quienes superan el límite de la categoría más alta del monotributo deben pasar al régimen general de IVA y necesitan facturar bastante más para mantener la misma ganancia neta, y se difundió la escala salarial de octubre para los empleados de las cadenas de comida rápida, con básicos de entre novecientos noventa y siete mil y un millón ochocientos sesenta y tres mil pesos según la categoría. En consumo y retail, el grupo Addnice anunció el regreso de la marca deportiva Pony a la Argentina, de cara al Día de la Madre los bancos lanzaron descuentos de hasta cuarenta por ciento y financiación en hasta veinticuatro cuotas sin interés, y la marca de indumentaria Zhoue entró en concurso de acreedores tras cerrar locales en varios shoppings del país. En negocios, la Justicia frenó la quiebra de la cadena de panaderías Pan Danés y abrió la puerta a que terceros intenten comprarla, y una fundación demandó por más de veintiséis mil millones de dólares a empresas pesqueras que operan en las islas Malvinas. En el mundo, España evalúa la amenaza de Estados Unidos de imponer tasas a sus buques por la tensión en torno al puerto de Algeciras, Elon Musk responsabilizó al gobierno estadounidense por las restricciones al sistema satelital que usa Ucrania, y el secretario de Estado norteamericano, Marco Rubio, le dijo al presidente salvadoreño que el régimen cubano no está dispuesto a hacer las reformas que su pueblo necesita. En deportes, se completó la Champions League con un triunfo contundente del Paris Saint Germain sobre el Manchester City y una remontada del Real Madrid frente a la Roma; Giannis Antetokounmpo dejó Milwaukee después de trece temporadas para sumarse al Heat de Miami; Vinicius Júnior fue suspendido cuatro partidos y se perderá el próximo clásico ante el Barcelona; la plataforma que transmite gratis el ascenso del fútbol argentino empezará a cobrar una suscripción mensual; y la Fórmula uno confirmó que los motores V ocho volverán a partir de dos mil treinta. Franco Colapinto, además, publicó un video pidiéndoles a sus seguidores que frenen los mensajes de odio contra el equipo de Alpine después del Gran Premio de Singapur. En sociedad, la crecida del río Paraná cortó dos puentes sobre la ruta nacional doce y dejó prácticamente aisladas a Iguazú y a toda la región del Alto Paraná, en Misiones, que ahora depende de un rodeo de doscientos treinta kilómetros por caminos de tierra. En Puerto Madryn preocupa la aparición de cinco ballenas muertas en las últimas cuarenta y ocho horas, con la sospecha de una bacteria en el mar como una de las causas posibles, y en Santa Cruz murió un marinero a bordo de un buque pesquero que ya había perdido a otro tripulante en julio. Para cerrar, en turismo recomiendan una ciudad de la costa de Chubut, en la Patagonia, que busca atraer más viajeros con acantilados, playas y avistaje de fauna marina. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "No hubo notas nuevas de Le Grand Continent desde la edición del mediodía, por eso esta corrida no tiene sección de Europa y geopolítica. La sección de consumo, construcción y retail quedó más breve que lo habitual porque el material crudo de esta ventana trajo poco sobre construcción y materiales específicamente.",
+ "slug": "2026-10-14-tarde",
+ "generado_ba": "14/10/2026 21:15"
+}
