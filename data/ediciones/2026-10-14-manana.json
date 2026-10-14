@@ -1,0 +1,1109 @@
+{
+ "fecha": "2026-10-14",
+ "edicion": "manana",
+ "slug": "2026-10-14-manana",
+ "titulo": "Cáncer del Papa, inflación en 1,9% y una interna peronista que se profundiza",
+ "apertura": "El papa León XIV fue operado de un cáncer de pulmón y en el Gobierno crecen las dudas sobre su visita a la Argentina prevista para el 8 de noviembre. En el plano económico, el INDEC confirmó una inflación de 1,9% en septiembre, con el empleo privado registrado cayendo por decimocuarto mes consecutivo y los mercados mostrando señales mixtas: suba del Merval pero riesgo país cerca de los 600 puntos. En la previa del Día de la Lealtad, el peronismo profundiza su interna mientras el Gobierno negocia por separado con los gobernadores aliados y avanza con la privatización del Belgrano Cargas.",
+ "claves": [
+  "El papa León XIV fue operado de un cáncer de pulmón (adenocarcinoma) y crecen las dudas sobre su visita a la Argentina del 8 de noviembre.",
+  "La inflación de septiembre fue de 1,9%, una leve aceleración frente al 1,7% de agosto; el acumulado de 2026 llega a 23,6%.",
+  "El empleo privado registrado cayó por 14° mes consecutivo: se perdieron 134.034 puestos en lo que va del año.",
+  "El peronismo llega dividido al Día de la Lealtad, con actos separados de Kicillof, Máximo Kirchner y el massismo; Uñac lanzó su candidatura presidencial.",
+  "El Gobierno negocia \"provincia por provincia\" con los 13 gobernadores aliados y Salta presiona para sumar ramales del Belgrano Cargas a la privatización.",
+  "El Banco Central compró US$ 291 millones y el Merval subió 1,45%, pero el riesgo país se acercó a los 600 puntos.",
+  "ARCA estrena un recibo de sueldo electrónico asistido para empleadas domésticas y renueva el Certificado Mipyme que define aportes patronales.",
+  "Boca cayó 1-0 ante Vasco da Gama en la ida de la semifinal de la Copa Sudamericana y deberá revertir la serie en Brasil."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent (futuro a diciembre)",
+   "valor": "US$ 106,47 por barril",
+   "variacion": "+0,74%",
+   "fuente": "CR-23"
+  },
+  {
+   "nombre": "S&P Merval (rueda del martes)",
+   "valor": "+1,45%",
+   "fuente": "CR-23"
+  },
+  {
+   "nombre": "Compras netas del BCRA en el mercado de cambios",
+   "valor": "US$ 291 millones",
+   "fuente": "CR-23"
+  },
+  {
+   "nombre": "Empleo privado registrado perdido en 2026 (acumulado)",
+   "valor": "134.034 puestos (-2,2%)",
+   "fuente": "AM-13"
+  },
+  {
+   "nombre": "Inflación acumulada, primeros nueve meses de 2026",
+   "valor": "23,6%",
+   "fuente": "CR-05"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "el peronismo llega dividido al día de la lealtad",
+     "resumen": "El 17 de octubre habrá actos separados dentro del peronismo: Kicillof irá a La Matanza con Espinoza y Magario, Máximo Kirchner estará en Chaco y una columna marchará a San José 1111 para respaldar a Cristina Kirchner. El Frente Renovador de Sergio Massa y los gobernadores aliados organizarán sus propias actividades, en un cuadro de internas cruzadas dentro del espacio.",
+     "relacionadas": [
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Día de la Lealtad: el PJ llega plagado de guerrillas internas y con una grieta cada vez más profunda",
+       "url": "https://www.infobae.com/politica/2026/10/14/dia-de-la-lealtad-el-pj-llega-plagado-de-guerrillas-internas-y-con-una-grieta-cada-vez-mas-profunda/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/plena-interna-peronismo-celebra-dividido-17-octubre-multiples-actos-dia-lealtad_0_ZIyH2CElfg.html",
+     "imagen": "https://www.clarin.com/img/2019/10/24/jJ0VqfuK_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "En plena interna, el peronismo celebra dividido el 17 de octubre: habrá múltiples actos por el Día de la Lealtad"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Sergio Uñac se lanzó como precandidato a presidente del peronismo",
+     "resumen": "El senador y exgobernador de San Juan difundió un spot en el que habló del \"desánimo\" social y ofreció su experiencia para un futuro gobierno. Tiene apoyo de sectores afines a Cristina Kirchner y ya reconoció que ve a Axel Kicillof como un rival directo dentro de la interna justicialista.",
+     "relacionadas": [
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Un exgobernador lanzó su primer spot presidencial y apuesta a competir con Kicillof dentro del peronismo",
+       "url": "https://www.cronista.com/economia-politica/un-exgobernador-lanzo-su-primer-spot-presidencial-y-apuesta-a-competir-con-kicillof-dentro-del-peronismo/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/unac-se-lanzo-como-precandidato-a-presidente-con-un-spot-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UXYWYOKCCZG2BDNU46B4RJCT6Y.JPG?auth=525b5b8e028b38aa42a219e47887094f9abdbe7c32c6280aaa9d24db7c65e23b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:10",
+     "autor": "",
+     "titulo_original": "Uñac se lanzó como precandidato a presidente del peronismo con un spot: “Hay mucho desánimo en la sociedad”"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Sáenz presiona para sumar el norte a la privatización del Belgrano Cargas",
+     "resumen": "El gobernador de Salta reclama que dos ramales del tren de cargas, hoy opcionales para los inversores, sean obligatorios en la privatización, para poder exportar a Bolivia y Chile sin pasar por Rosario o Buenos Aires. Industriales de diez provincias respaldaron el pedido y advirtieron que los altos costos logísticos afectan la competitividad y el empleo regional.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Industriales piden revisar la licitación del Belgrano Cargas y exigir inversiones",
+       "url": "https://www.ambito.com/politica/industriales-piden-revisar-la-licitacion-del-belgrano-cargas-y-exigir-inversiones-n6333401"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/saenz-presiona-gobierno-busca-incluir-ramales-belgrano-cargas-privatizacion-exportar-chile-bolivia_0_ux8OkVhkah.html",
+     "imagen": "https://www.clarin.com/img/2022/07/18/Wf759e94MX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Saénz presiona al Gobierno y busca incluir dos ramales del Belgrano Cargas en la privatización para exportar a Chile y Bolivia"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "la Casa Rosada negocia provincia por provincia con los 13 gobernadores aliados",
+     "resumen": "Pese a las diferencias en plazos y condiciones, el Gobierno descartó un acuerdo macro único y avanza en entendimientos particulares con cada mandatario provincial, según fuentes oficiales consultadas por Infobae. Las conversaciones contemplan las necesidades específicas de cada territorio y su electorado.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/14/el-mapa-de-acuerdos-que-disena-la-casa-rosada-con-los-13-gobernadores-aliados/",
+     "imagen": "https://www.infobae.com/resizer/v2/2QLLU44BVVED3GMUHAOH7YYQQ4.jpg?auth=9a1bf429cab7a009eea497067e1a0358b20b441df03f6493cbebe890acbf1cac&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:46",
+     "autor": "Sofia Rojas",
+     "titulo_original": "El mapa de acuerdos que diseña la Casa Rosada con los 13 gobernadores aliados"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Quirno acusó a \"sectores\" de buscar un conflicto con Chile por Malvinas",
+     "resumen": "El canciller defendió la estrategia oficial frente a la explotación petrolera británica en las islas y confirmó medidas cautelares ante el Tribunal Internacional del Derecho del Mar, en medio de la tensión por el envío de un buque chileno con insumos hacia el archipiélago. El Parlamento chileno aprobó siete resoluciones de respaldo a esa travesía, China reiteró su apoyo al reclamo de soberanía argentino y Londres pidió a Interpol frenar alertas rojas contra empresarios de Malvinas.",
+     "relacionadas": [
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Congreso de Chile presiona para blindar la ruta entre Punta Arenas y Malvinas y escala la discusión con Argentina",
+       "url": "https://www.infobae.com/politica/2026/10/14/el-congreso-de-chile-presiona-para-blindar-la-ruta-entre-punta-arenas-y-malvinas-y-escala-la-discusion-con-argentina/"
+      },
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "China reiteró el respaldo al reclamo argentino por Malvinas y pidió al Reino Unido retomar las negociaciones",
+       "url": "https://www.ambito.com/politica/china-reitero-el-respaldo-al-reclamo-argentino-malvinas-y-pidio-al-reino-unido-retomar-las-negociaciones-n6333400"
+      },
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Londres pide a Interpol que frene alertas rojas argentinas contra empresarios de Malvinas",
+       "url": "https://www.iprofesional.com/politica/466533-londres-pide-a-interpol-que-frene-alertas-rojas-argentinas-contra-empresarios-de-malvinas"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/pablo-quirno-hay-sectores-que-estan-tratando-de-hacernos-pelear-con-chile/",
+     "imagen": "https://www.cronista.com/resizer/v2/Q6X4DVGITJDQTLE3GG4JXUXBXQ.jpeg?auth=9c86f03b03e59da6990c34b55f065db2f27196982af310c15dd15ed07af8f179&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:28",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Pablo Quirno: “Hay sectores que están tratando de hacernos pelear con Chile”"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Diego Masaragian asumió como nuevo secretario de Discapacidad",
+     "resumen": "El funcionario reemplaza a Pablo Di Liscia, quien sufrió un accidente de moto a fines de septiembre y permanece en recuperación tras apenas ocho días en el cargo. Masaragian estaba al frente de la Administración Nacional de Establecimientos de Salud desde julio de 2025.",
+     "relacionadas": [
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Diego Masaragian es el nuevo secretario de Discapacidad de la Nación",
+       "url": "https://www.ambito.com/politica/diego-masaragian-es-el-nuevo-secretario-discapacidad-la-nacion-n6333335"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/secretaria-de-discapacidad-tras-la-fallida-gestion-de-di-liscia-asumio-diego-masargian/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZWNUYNFPAVEKRKFRLJRJKL2HGM.jpeg?auth=1b6d57bf1cf483307eba5378339a6688203a2e6e2cc2dc7690dcf91eb9b1127e&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:12",
+     "autor": "Nacho Barrios",
+     "titulo_original": "Secretaría de Discapacidad: tras la “fallida” gestión de 8 días, de Di Liscia, designaron a Diego Masaragian como el nuevo titular"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "la oposición no reúne los votos para voltear el mega DNU",
+     "resumen": "Pese a mantener la sesión prevista para el jueves, el oficialismo descuenta que no hay números suficientes para rechazar el decreto. En paralelo, La Libertad Avanza apura un nuevo proyecto con límites a la venta de tierras para evitar correr riesgos legislativos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/466525-la-oposicion-aun-no-tiene-votos-para-voltear-el-mega-dnu-y-lla-hace-su-ultima-jugada",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617408.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:42",
+     "autor": "",
+     "titulo_original": "La oposición aún no tiene los votos para voltear el mega DNU y LLA hace su última jugada"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-05",
+     "titulo": "la inflación de septiembre fue de 1,9% y acumula 23,6% en el año",
+     "resumen": "El INDEC midió una leve aceleración de 0,2 puntos porcentuales respecto de agosto; la variación interanual llegó a 33,4%. Vivienda, agua, electricidad y gas lideró los aumentos del mes con 3,1%, seguida por Educación con 3%, mientras que Restaurantes y hoteles y Prendas de vestir fueron las de menor suba. Para una empresa: los rubros regulados e indexados siguen marcando el piso de la inflación mensual, un dato a monitorear para la actualización de precios y contratos.",
+     "relacionadas": [
+      {
+       "id": "IP-23",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La inflación sigue pegándole al plazo fijo y la City anticipa cuándo será más rentable",
+       "url": "https://www.iprofesional.com/finanzas/466504-cuando-sera-negocio-el-plazo-fijo-tras-el-dato-de-inflacion-ipc-indec"
+      },
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Inflación de septiembre: cuáles fueron los productos básicos que más subieron en el mes",
+       "url": "https://www.ambito.com/economia/inflacion-septiembre-cuales-fueron-los-productos-basicos-que-mas-subieron-el-mes-n6333316"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/tras-el-19-de-septiembre-como-cierra-la-inflacion-el-2026/",
+     "imagen": "https://www.cronista.com/resizer/v2/UMIFGTGR4RBVZCWJXB4FIA4WOY.jpg?auth=2f0e9c8dd29bbf3a6bedf9a773c55600cd8d9966a43740c32d8aaf5f4ec8fdaf&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "Tras el 1,9% de septiembre, ¿cómo ven los economistas el cierre de la inflación en 2026?"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "el Merval subió 1,45% pero el riesgo país volvió a acercarse a los 600 puntos",
+     "resumen": "Las acciones argentinas extendieron las ganancias impulsadas por las energéticas, mientras los bonos soberanos operaron en baja en una rueda marcada por la suba del petróleo internacional. El Banco Central compró US$ 291 millones en el mercado oficial de cambios, lo que permitió recomponer reservas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/bcra-compro-fuerte-y-las-acciones-subieron-hasta-47-pero-el-riesgo-pais-cerro-en-596-puntos/",
+     "imagen": "https://www.cronista.com/resizer/v2/HPYT6VZ2VFGNZOGI3X65M3HLR4.png?auth=79fcc650bd7b5ee4510e4f1cfe2d610ed177ba8de92e56e37564c3c36f9c35ed&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:02",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "BCRA compró fuerte y las acciones subieron hasta 4,7%, pero el riesgo país trepó cerca de los 600 puntos"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "el empleo privado registrado cae hace catorce meses seguidos",
+     "resumen": "Según la Secretaría de Trabajo, en julio se perdieron 12.716 puestos asalariados registrados y, desde noviembre de 2023, la caída acumulada llega a 265.765 personas, un 4,2%. En lo que va de 2026 el sector privado perdió 134.034 puestos (-2,2%) y el público, 22.681 (-0,7%), mientras el Gobierno señaló que las empresas congelan la reposición de personal. Para una empresa: la contracción del empleo formal reduce la masa salarial disponible para consumo, un factor a seguir de cerca en sectores de venta minorista.",
+     "relacionadas": [
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El empleo formal privado cayó por 14º mes consecutivo: se perdieron más de 12.500 puestos",
+       "url": "https://www.ambito.com/economia/el-empleo-formal-privado-cayo-14-mes-consecutivo-se-perdieron-mas-12500-puestos-n6333416"
+      },
+      {
+       "id": "LN-23",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "En julio hubo 12.716 asalariados registrados menos y suman casi 266.000 en la gestión Milei",
+       "url": "https://www.lanacion.com.ar/economia/en-julio-hubo-12716-asalariados-registrados-menos-y-suman-casi-266000-en-la-gestion-milei-nid13102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/baja-empleo-registrado-detiene-ano-perdieron-136500-puestos-trabajo_0_eOdBZWWpeV.html",
+     "imagen": "https://www.clarin.com/img/2024/04/12/bR3gtnJDC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La baja del empleo registrado no se detiene: en un año se perdieron 136.500 puestos de trabajo"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "el FMI pidió bajar la deuda global para aliviar la presión sobre los emergentes",
+     "resumen": "La directora gerente Kristalina Georgieva presentó en Bangkok los lineamientos del organismo para enfrentar la incertidumbre internacional, generada por el shock de precios de la energía y las tensiones comerciales. El Fondo advirtió además que el aumento del rendimiento de la deuda de las economías centrales puede encarecer el financiamiento externo para los mercados emergentes, incluida la Argentina.",
+     "relacionadas": [
+      {
+       "id": "CL-01",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La jefa del FMI insta a EEUU y otros países ricos a frenar la deuda para aliviar la presión global",
+       "url": "https://www.clarin.com/estados-unidos/la-jefa-del-fmi-insta-a-eeuu-y-otros-paises-ricos-a-frenar-la-deuda-para-aliviar-la-presion-global_0_GzqTVaXNP4.html"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El FMI, con una advertencia que le puede jugar en contra a Argentina: ¿se cierra el mercado de deuda?",
+       "url": "https://www.cronista.com/economia-politica/el-fmi-dejo-una-advertencia-que-le-puede-jugar-en-contra-a-argentina-se-cierra-el-mercado-de-deuda-para-emergentes/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/fmi-los-11-consejos-de-georgieva-para-sobrellevar-la-incertidumbre-global/",
+     "imagen": "https://www.cronista.com/resizer/v2/BDB6V7FYEND6BK452D7RGJFW2Q.jpg?auth=e206b2a6cc858b04e055aea61317077ff544603e5a2d269db8037755b1bf051b&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "00:51",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "Los 11 mandamientos del FMI para sobrevivir a la incertidumbre global"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "el objetivo electoral del Gobierno es bajar fuerte la inflación interanual antes de las elecciones",
+     "resumen": "Pese al repunte de septiembre, la inflación núcleo cayó a 1,7% y el Gobierno apuesta a retomar la desaceleración para recuperar jubilaciones y salarios. Las consultoras difieren sobre octubre: CyT Consultores proyecta 1,9% mientras Fernando Marull es más optimista y espera volver a 1,7%, el menor nivel del año.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/14/el-objetivo-electoral-del-gobierno-es-lograr-una-fuerte-baja-de-la-inflacion-interanual-antes-de-ir-a-votar/",
+     "imagen": "https://www.infobae.com/resizer/v2/HCR5QH6LBJC4NGTTLBLZGUUYJY.png?auth=791280f8eaf47cec9d6318a374bad09d317ef31d1f84b5db5564dd04cab66bf0&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:58",
+     "autor": "Pablo Wende",
+     "titulo_original": "El objetivo electoral del Gobierno es lograr una fuerte baja de la inflación interanual antes de ir a votar"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "más de 40 consultoras proyectan el dólar y advierten riesgos para 2027",
+     "resumen": "Según el relevamiento mensual de FocusEconomics, la economía argentina transita una desinflación sostenida por la política fiscal, aunque persisten riesgos sobre el tipo de cambio y las tasas de interés ligados al ciclo electoral de 2027.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-pronostico-de-mas-de-40-consultoras-a-cuanto-llegara-el-dolar-a-fin-de-ano-y-una-advertencia-de-cara-a-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/EUI37ERMCFCM5OGOOK6JJA6BIU.jpg?auth=fb33e3db16671e48ef8fd99a01b60f2aa045d43c06cc6e5d98f018086fc52057&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:30",
+     "autor": "Fernando Garcia",
+     "titulo_original": "El pronóstico de más de 40 consultoras: a cuánto llegará el dólar a fin de año y una advertencia de cara a 2027"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "la City recomienda empezar a dolarizar carteras pese a que el carry trade sigue rindiendo",
+     "resumen": "Los analistas evalúan cuánto margen queda para ganar con las tasas en pesos frente al riesgo cambiario de cara a las elecciones de 2027 y sugieren ir reduciendo la exposición a instrumentos en moneda local.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/466510-la-city-recomienda-anticiparse-y-empezar-a-dolarizar-inversiones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615321.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "La City recomienda empezar a dolarizar carteras, pese a que el carry trade aún es rentable"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "Techint y Saipem se quedan con la ingeniería de la nueva planta de Profertil",
+     "resumen": "El contrato, de once meses de duración, contempla evaluar la viabilidad, definir alternativas constructivas y estimar la inversión para la ampliación del complejo de fertilizantes de Bahía Blanca, que usará tecnología de amoníaco de Topsoe. La obra aún no fue adjudicada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/techint-y-un-socio-se-quedan-con-un-contrato-clave-para-la-nueva-planta-de-profertil/",
+     "imagen": "https://www.cronista.com/resizer/v2/RYLBXSKB7VAIHAZD7RAD6M53YU.jpg?auth=9e680af832831fb7c74bb8c527f1a07824ad7100d7dea2b6e2910d1123d807bc&smart=true&width=741&height=469",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Techint y un socio se quedan con un contrato clave para la nueva planta de Profertil"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "cerraron cerca de cien fábricas de calzado en poco más de dos años",
+     "resumen": "Sindicalistas, empresarios y pequeños talleres advierten sobre miles de despidos en el sector y piden medidas para frenar el ingreso de productos importados. La industria describe un cuadro de alerta por la combinación de caída del consumo y mayor competencia externa.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466531-calzado-argentino-alarma-cierre-100-fabricas-miles-despidos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611793.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:35",
+     "autor": "",
+     "titulo_original": "Cierran unas 100 fábricas de calzado en poco más de dos años y la industria está en alerta"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "el Gobierno lanzó una plataforma pública con datos diarios de exportaciones de petróleo y gas",
+     "resumen": "La Secretaría de Energía publicó nuevos tableros con información diaria sobre los envíos, en medio de un superávit energético récord impulsado por los despachos de crudo de Vaca Muerta.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/466497-inauguran-plataforma-publica-con-datos-diarios-de-exportaciones-de-petroleo-y-gas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/600699.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:08",
+     "autor": "",
+     "titulo_original": "Inauguran una plataforma pública con datos diarios de exportaciones de petróleo y gas"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "Vaca Muerta y la minería traccionan el comercio exterior pero exigen más logística",
+     "resumen": "Operadores del sector señalan que el dólar relativamente bajo complica la competitividad exportadora, mientras los importadores enfrentan el problema del consumo interno débil tras haberse estoqueado de mercadería. La empresa Talwin Transport, que celebra treinta años en logística, diversificó sus operaciones para acompañar ese potencial productivo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/transport-cargo/vaca-muerta-y-la-mineria-traccionan-el-comercio-exterior/",
+     "imagen": "https://www.cronista.com/resizer/v2/SWIA4XJPFBEI5PQGZQDWQKBP2E.jpg?auth=76c2f250a14f8b4521cff89eef6b82d07899227f14055904c8272d55517b7e9d&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Agustín Barletti",
+     "titulo_original": "Vaca Muerta y la minería traccionan el comercio exterior"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "la central nuclear de Embalse extendió a 24 meses el período entre paradas de mantenimiento",
+     "resumen": "La planta cordobesa busca optimizar su generación y sumar eficiencia operativa, lo que le permitirá aportar más energía nuclear de forma sostenida a la red.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/466484-embalse-operara-24-meses-sin-paradas-y-aportara-mas-energia-nuclear",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626182.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:33",
+     "autor": "",
+     "titulo_original": "Embalse funcionará más tiempo sin frenar y aportará más energía nuclear"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Celulosa Argentina redujo pérdidas y multiplicó su producción tras la crisis",
+     "resumen": "La papelera disminuyó significativamente su resultado negativo y aumentó producción y ventas, aunque todavía enfrenta restricciones financieras y operativas que condicionan su recuperación plena.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466516-celulosa-argentina-reduce-fuerte-sus-perdidas-y-consolida-la-recuperacion-de-sus-fabricas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/04/594383.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "21:00",
+     "autor": "",
+     "titulo_original": "Celulosa Argentina reduce sus pérdidas y multiplica la producción después de la crisis"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IB-16",
+     "titulo": "ARCA estrena el recibo de sueldo electrónico asistido para empleadas domésticas",
+     "resumen": "El nuevo sistema calculará de forma automática parte de los conceptos de cada liquidación y permitirá a los empleadores revisar o corregir los montos antes de emitir el comprobante. La medida modifica la Resolución General N° 3693 y entró en vigencia mediante la Resolución General N° 5912/2026.",
+     "relacionadas": [
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "ARCA modifica pautas para la confección del recibo de sueldo para empleadas domésticas",
+       "url": "https://www.iprofesional.com/impuestos/466544-arca-modifica-pautas-para-la-confeccion-del-recibo-de-sueldo-para-empleadas-domesticas"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/14/el-gobierno-habilito-una-nueva-herramienta-para-liquidar-los-sueldos-de-las-empleadas-domesticas/",
+     "imagen": "https://www.infobae.com/resizer/v2/GPDV2EMZV5AT5PNMTI3AGWULNE.png?auth=c351d12739f7f47c6f321e1a85511ae9d93283f0bf52ebf851368ac3ec8be81b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:55",
+     "autor": "",
+     "titulo_original": "El Gobierno habilitó una nueva herramienta para liquidar los sueldos de las empleadas domésticas"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "ARCA notifica los datos para la renovación del Certificado Mipyme que exige el FAL",
+     "resumen": "El certificado define la cuota de contribuciones patronales que el organismo deriva al Fondo de Asistencia y Liquidación, por lo que las empresas deben revisar los datos notificados antes del vencimiento de la renovación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/466464-arba-notifica-datos-renovacion-certificado-pyme",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/627440.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:38",
+     "autor": "",
+     "titulo_original": "ARCA notifica los datos de la renovación del Certificado Mipyme necesario para el FAL"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "las vacaciones fraccionadas cambiaron con la reforma laboral",
+     "resumen": "La Ley de Modernización Laboral N° 27.802, que reemplazó el artículo 154 de la Ley de Contrato de Trabajo, exige que trabajador y empleador acuerden dividir las vacaciones en períodos de al menos siete días. La norma también redujo el plazo para comunicar las fechas y habilitó tomarlas fuera del período habitual, aunque la cantidad de días sigue dependiendo de la antigüedad. Para una empresa: implica revisar los procesos de aprobación de licencias y los acuerdos individuales de fraccionamiento.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/vacaciones-fraccionadas-que-cambio-con-la-reforma-laboral-y-como-funciona-el-nuevo-regimen/",
+     "imagen": "https://www.cronista.com/resizer/v2/BYC7EQUZVJCXNLAHB5GZRH67SU.jpg?auth=c575139784a667e7e2ba252ce82f892f1f097a170f85c5778f85cb2f52fdbef9&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "Vacaciones fraccionadas: qué cambió con la reforma laboral y cómo funciona el nuevo régimen"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "los pilotos de avión cerraron una paritaria trimestral con 16% de aumento",
+     "resumen": "El acuerdo entre la Asociación de Pilotos de Líneas Aéreas y las empresas fija un incremento promedio de 5,3% mensual para el último trimestre del año y establece que las partes volverán a negociar en diciembre. El entendimiento contrasta con los mini aumentos mensuales pactados por el sindicato de Camioneros.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Pilotos de avión cerraron una paritaria trimestral: de cuánto es la suba",
+       "url": "https://www.iprofesional.com/management/466534-pilotos-de-avion-cerraron-una-paritaria-trimestral-de-cuanto-es-la-suba"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/este-gremio-cerro-un-acuerdo-salarial-del-16-y-se-despega-del-techo-del-gobierno/",
+     "imagen": "https://www.cronista.com/resizer/v2/XGRYOIX7IRCRXN3LQPM2XTZSBE.jpg?auth=c9bbfbce7dc4b1459c23da04ecdf7f94a626afffddc90a1e3b4b62ccd5a0dab0&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:54",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Los pilotos de avión cerraron una paritaria trimestral con aumento del 16%: los detalles del acuerdo"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "la Justicia confirmó el procesamiento de Ricardo Nissen por abuso de autoridad",
+     "resumen": "La Cámara de Casación ratificó que el extitular de la Inspección General de Justicia excedió sus funciones al intentar avanzar sobre una empresa vinculada a Joe Lewis en Lago Escondido.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/466530-confirman-el-procesamiento-por-abuso-de-autoridad-de-ricardo-nissen-extitular-de-la-igj",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627487.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:33",
+     "autor": "",
+     "titulo_original": "Casación confirmó el procesamiento por abuso de autoridad de Ricardo Nissen, extitular de la IGJ"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "LN-09",
+     "titulo": "el costo de construcción subió más de 130% en dólares desde fines de 2023",
+     "resumen": "El salto encareció los proyectos en barrios cerrados como Costa Esmeralda, donde compradores que no construyeron a tiempo hoy buscan vender sus lotes mientras la demanda se concentra en las casas más caras, de hasta US$ 500.000. Para una empresa de materiales: la combinación de mayor costo de obra y brecha entre segmentos de precio es una señal a seguir en la venta de insumos para la construcción.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/costa-esmeralda-el-impensado-fenomeno-que-vive-el-proyecto-top-de-la-costa-con-lotes-baratos-y-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PJYBZHGIC5DU5NHZUYSWMDCFRY.jpg?auth=dd49177530a11d4700a974862b943c80b4cc802417664b10b9ac4c88543204ca&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:55",
+     "autor": "Manuela Viñales",
+     "titulo_original": "Costa Esmeralda: el impensado fenómeno que vive el proyecto top de la costa, con lotes “baratos” y compradores que buscan casas de US$500.000"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "los créditos UVA para refaccionar o ampliar la vivienda sumaron cambios que amplían el acceso",
+     "resumen": "Las modificaciones en las condiciones de los préstamos permiten que más personas consideren esta opción para encarar arreglos o ampliaciones en sus casas, en un contexto de recuperación gradual del crédito hipotecario.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/creditos-uva-refaccionar-o-ampliar-la-vivienda-que-cambio-y-como-solicitarlos-n6333219",
+     "imagen": "https://media.ambito.com/p/eb4b862a2617273263bd1ae1235475b5/adjuntos/239/imagenes/043/619/0043619268/1200x675/1027x473:1047x493/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:00",
+     "autor": "",
+     "titulo_original": "Créditos UVA para refaccionar o ampliar la vivienda: qué cambió y cómo solicitarlos"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "cinco productos de la canasta familiar aumentaron cerca de 260% en un año",
+     "resumen": "Frente a una inflación interanual que superó el 33%, algunos artículos de consumo masivo muestran subas muy por encima del promedio general, según el relevamiento difundido por iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/466518-los-5-productos-de-la-canasta-familiar-que-mas-aumentaron-en-un-ano",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615659.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:15",
+     "autor": "",
+     "titulo_original": "Cuáles fueron los 5 productos de la canasta familiar que más aumentaron en un año"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Carrefour lanzó promociones 2x1 en electrodomésticos para incentivar el consumo",
+     "resumen": "La cadena de supermercados extendió los descuentos tanto a sus tiendas físicas como a su sitio de venta online, en un intento por reactivar la demanda de bienes durables.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466532-carrefour-liquida-electrodomesticos-2x1-todos-los-precios",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627488.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:49",
+     "autor": "",
+     "titulo_original": "Carrefour lanza promociones para incentivar el consumo y vende electrodomésticos 2x1"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "Montevideo sigue seduciendo a inversores argentinos con la Vivienda Promovida",
+     "resumen": "El régimen transformó barrios de la capital uruguaya y atrajo a compradores argentinos interesados en departamentos con potencial de renta. El material disponible no precisa valores concretos del metro cuadrado.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/465942-montevideo-seduce-a-inversores-argentinos-que-departamentos-compran",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627040.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Montevideo seduce a inversores argentinos: qué departamentos compran y cuánto vale el m2"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "AM-02",
+     "titulo": "Luciana Aymar llevó las lecciones del deporte a la gestión de equipos",
+     "resumen": "La ex capitana de Las Leonas compartió su experiencia como líder durante HRTrends 2026 y remarcó que buscaba \"hacer brillar\" también a su equipo, no solo a ella misma, en una charla centrada en la construcción de equipos y la gestión del talento.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/luciana-aymar-y-el-liderazgo-no-queria-brillar-solo-yo-tambien-queria-hacer-brillar-mi-equipo-n6333397",
+     "imagen": "https://media.ambito.com/p/b6f4d16f9f59329fc0b9ff8baea6cedf/adjuntos/239/imagenes/043/702/0043702262/1200x675/smart/presentacion-luciana-aymar-hrtrends.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Luciana Aymar y el liderazgo: \"No quería brillar sólo yo, también quería hacer brillar a mi equipo\""
+    },
+    {
+     "id": "IP-26",
+     "titulo": "la UBA lanzó una certificación en inteligencia artificial por $ 200.000",
+     "resumen": "El programa, desarrollado junto con Aumenta AI, busca medir y certificar habilidades profesionales vinculadas al uso de inteligencia artificial en el ámbito laboral.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/464948-cuanto-cuesta-una-certificacion-en-inteligencia-artificial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626120.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:50",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta la certificación en Inteligencia Artificial con respaldo de la UBA"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Morgan Stanley mira más allá de Nvidia para anticipar los ganadores de la inteligencia artificial",
+     "resumen": "El banco identifica oportunidades que van desde centros de datos hasta energía y automatización como los próximos sectores beneficiados por el boom de inversión en inteligencia artificial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/466382-morgan-stanley-anticipa-los-sectores-que-ganaran-con-la-ia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/570178.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:50",
+     "autor": "",
+     "titulo_original": "Morgan Stanley mira más allá de Nvidia y anticipa los sectores que ganarán con la IA"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-23",
+     "titulo": "el papa León XIV fue operado de un cáncer de pulmón y crecen las dudas sobre su viaje a la Argentina",
+     "resumen": "Le extirparon el lóbulo inferior del pulmón derecho tras diagnosticarle un adenocarcinoma; el Vaticano calificó la cirugía de exitosa, pero hay incertidumbre sobre los tiempos de recuperación. El Pontífice tenía previsto llegar al país el 8 de noviembre, dentro de una gira que también incluye Uruguay y Perú, y en la Casa Rosada ya se especula con el impacto de una eventual visita en el año electoral. Louis Prevost, uno de los hermanos del Papa, también está internado por otro tipo de cáncer en Estados Unidos.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La salud del Papa: qué es un adenocarcinoma pulmonar, cómo se trata y qué pronóstico tiene",
+       "url": "https://www.lanacion.com.ar/sociedad/la-salud-del-papa-que-es-un-adenocarcinoma-pulmonar-como-se-trata-y-que-pronostico-tiene-nid13102026/"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La coincidencia médica que une a Francisco y León XIV: ambos perdieron un lóbulo pulmonar",
+       "url": "https://www.ambito.com/informacion-general/la-coincidencia-medica-que-une-francisco-y-leon-xiv-ambos-perdieron-un-lobulo-pulmonar-n6333419"
+      },
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Quién tomará las decisiones en el Vaticano tras la confirmación de que el papa León XIV tiene cáncer",
+       "url": "https://www.ambito.com/informacion-general/quien-tomara-las-decisiones-el-vaticano-la-confirmacion-que-el-papa-leon-xiv-tiene-cancer-n6333410"
+      },
+      {
+       "id": "IB-01",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno depende otra vez del Vaticano y ya hay especulaciones sobre el impacto de una eventual visita del Papa en el año electoral",
+       "url": "https://www.infobae.com/politica/2026/10/14/el-gobierno-depende-otra-vez-del-vaticano-y-ya-hay-especulaciones-por-una-visita-del-papa-en-el-ano-electoral/"
+      },
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"¡El Papa tiene cáncer de pulmón!\": las reacciones en los principales medios del mundo",
+       "url": "https://www.clarin.com/internacional/salud-leon-xiv-principales-medios-mundo-papa-cancer-pulmon-detalles-derivaron-intervencion-quirurgica_0_UPXwt7FR6E.html"
+      },
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Louis Prevost, uno de los hermanos del Papa León XIV, también se encuentra internado por un cáncer",
+       "url": "https://www.clarin.com/mundo/louis-prevost-hermanos-papa-leon-xiv-encuentra-internado-cancer_0_DbfV093PB8.html"
+      },
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Qué es un adenocarcinoma pulmonar: el diagnóstico que recibió el papa León XIV después de la operación",
+       "url": "https://www.clarin.com/sociedad/adenocarcinoma-pulmonar-diagnostico-recibio-papa-leon-xiv-despues-operacion_0_d6x5vunwgd.html"
+      },
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Qué pasa con los días feriados si no viene el papa y qué hacer con pasajes y reservas",
+       "url": "https://www.iprofesional.com/legales/466524-que-pasa-con-los-dias-feriados-si-se-cancela-la-visita-del-papa-a-argentina"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los negocios y rebusques que corren riesgo si se cae la visita del papa a Argentina",
+       "url": "https://www.iprofesional.com/actualidad/466528-los-negocios-y-rebusques-que-corren-riesgo-si-se-cae-la-visita-del-papa-a-argentina"
+      },
+      {
+       "id": "IP-21",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La Iglesia mantiene en pie la gira del papa pero en el Gobierno crece la preocupación",
+       "url": "https://www.iprofesional.com/politica/466514-en-el-gobierno-hay-preocupacion-por-la-salud-del-papa-y-su-visita-a-argentina"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno condiciona la visita de León XIV a su recuperación, pero no suspende los preparativos: \"La organización sigue\"",
+       "url": "https://www.ambito.com/politica/el-gobierno-condiciono-la-visita-leon-xiv-su-recuperacion-y-espera-novedades-queremos-que-este-bien-n6333361"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Especialistas no descartan la visita del papa León XIV a la Argentina pero advierten que dependerá del posoperatorio",
+       "url": "https://www.ambito.com/mundo/especialistas-no-descartan-la-visita-del-papa-leon-xiv-la-argentina-pero-advierten-que-dependera-del-posoperatorio-n6333408"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/salud-papa-leon-xiv-operacion-noticia-cayo-bomba-abre-interrogantes_0_jBk16TxdUM.html",
+     "imagen": "https://www.clarin.com/img/2026/10/13/BX4lpbIb6_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El papa León XIV fue operado por un cáncer de pulmón y se abren dudas sobre su viaje a la Argentina"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "alerta roja en Santiago de Chile por tormentas e inundaciones",
+     "resumen": "El Servicio Nacional de Prevención y Respuesta ante Desastres decretó la alerta para toda la Región Metropolitana, con evacuaciones en Talagante por el desborde del río Mapocho y más de 34.000 usuarios sin electricidad. La medida llega a pocos días de un aluvión previo en la zona.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Chile declaró alerta roja en Santiago por un temporal con inundaciones y evacuaciones",
+       "url": "https://www.ambito.com/mundo/chile-declaro-alerta-roja-santiago-un-temporal-inundaciones-y-evacuaciones-n6333440"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/alerta-roja-en-santiago-de-chile-por-fuertes-tormentas-e-inundaciones-a-pocos-dias-del-aluvion-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/E22362XRCZHO7LJQ6O4HNGGQOI.JPG?auth=1f2677cbd194a0694964b3a4f8122a7f824ff57c56e32066434e4330d868fcca&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:57",
+     "autor": "",
+     "titulo_original": "Alerta roja en Santiago de Chile por fuertes tormentas e inundaciones, a pocos días del aluvión"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "el jefe del MI5 confirmó la injerencia rusa en el referéndum del Brexit",
+     "resumen": "Ken McCallum ratificó ante una evaluación anual de amenazas que hubo intervención del Kremlin \"con bastante fuerza\" en la consulta de 2016, aunque aclaró que no alteró el resultado final. Las declaraciones se dieron un día después de que el primer ministro Andy Burnham reconociera públicamente la injerencia rusa.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-jefe-de-la-inteligencia-interior-britanica-confirma-la-intervencion-rusa-con-bastante-fuerza-en-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RQXIQBHRYNGYVONZW5PTYETKZM.jpg?auth=dd551ba1605aaa83dddeedd49e6ccd9bcfb8a00ba45c6ed8cf1173e6a1f78947&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:32",
+     "autor": "",
+     "titulo_original": "El jefe de la inteligencia interior británica confirma la intervención rusa “con bastante fuerza” en el Brexit"
+    },
+    {
+     "id": "IB-02",
+     "titulo": "España entra en la recta final de la campaña hacia las elecciones del 29 de noviembre",
+     "resumen": "La izquierda española busca sin éxito una candidatura unitaria mientras Ada Colau, nueva líder del Frente Amplio, condiciona su participación a un acuerdo con Gabriel Rufián y Podemos. PP, PSOE y Vox mantienen cruces por la ley de nietos y las pensiones, en momentos en que Vox define su estrategia de campaña y los reyes concluyeron una visita histórica por Ceuta y Melilla.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Abascal reúne a la cúpula del partido para diseñar la estrategia de la campaña del 29N",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/14/abascal-reune-a-la-cupula-del-partido-para-disenar-la-estrategia-de-la-campana-del-29n/"
+      },
+      {
+       "id": "IB-04",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los reyes llegan a Melilla, donde concluyen su histórica visita por las ciudades autónomas",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/14/los-reyes-llegan-a-melilla-donde-concluyen-su-historica-visita-por-las-ciudades-autonomas/"
+      },
+      {
+       "id": "IB-08",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Sánchez mantiene pese al 29N su agenda en la UE, con cumbres claves para sus presupuestos",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/14/sanchez-mantiene-pese-al-29n-su-agenda-en-la-ue-con-cumbres-claves-para-sus-presupuestos/"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/2026/10/14/elecciones-generales-de-2026-en-directo-ultima-hora-sobre-las-coaliciones-para-el-29-n-encuestas-y-la-visita-de-los-reyes-en-melilla/",
+     "imagen": "https://www.infobae.com/resizer/v2/RR34MW7SQVFDXLMUEWSLXB3VPY.jpg?auth=68aba76d9425f370663abedf62510345b6aa8e4f6ea971a685dbecee80edee8f&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:05",
+     "autor": "Alberto López Marín",
+     "titulo_original": "Elecciones generales de 2026, en directo: última hora sobre las coaliciones para el 29-N, encuestas y la visita de los reyes en Melilla"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "Japón convocó al embajador ruso por la detención de un periodista en Sajalín",
+     "resumen": "El Gobierno japonés exigió información y acceso al periodista nipón detenido bajo acusaciones de espionaje en la isla rusa del Lejano Oriente y reclamó un trato \"humano, justo y equitativo\" para el detenido.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/14/japon-convoca-al-embajador-ruso-en-tokio-tras-la-detencion-de-un-periodista-en-sajalin/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:03",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Japón convoca al embajador ruso en Tokio tras la detención de un periodista en Sajalín"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "el piloto de la misión Artemis II relató cómo fue ver el lado oculto de la Luna",
+     "resumen": "Reid Wiseman describió la experiencia como \"indescriptible\" en un mensaje difundido durante el vuelo de abril, poco antes de que la tripulación perdiera la conexión con la Tierra durante 40 minutos como parte del plan de la misión.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-piloto-de-artemis-ii-vimos-cosas-que-ningun-ser-humano-ha-visto-jamas-nid09102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/H2FTNTD7FFDNHAWGSTQ3CRRSUE.jpg?auth=871ccd3659b5d1083638a37ff4924aee29b2fff3db0d04db22da046c7651c994&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:40",
+     "autor": "",
+     "titulo_original": "Reid Wiseman, piloto de Artemis II: “Vimos cosas que ningún ser humano ha visto jamás”"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-02",
+     "titulo": "el sitio hutí sobre Taiz amenaza al gobierno de Yemen",
+     "resumen": "Le Grand Continent describe cómo la tercera ciudad más poblada de Yemen quedó totalmente rodeada por los hutíes, que controlan ya las principales vías de abastecimiento, en una ofensiva que podría allanar el camino hacia Adén. La revista analiza el valor estratégico de Taiz, que separa el noroeste controlado por los hutíes del sur bajo control gubernamental, tras años de asedio sin conquista entre 2015 y 2024.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/14/el-sitio-huti-de-taiz-amenaz-al-gobierno-yemeni/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "El sitio hutí de Taiz amenaza al gobierno yemení"
+    },
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza el futuro del francés en la era de la automatización",
+     "resumen": "La revista plantea que la expansión histórica de la lengua francesa no respondió a decisiones únicas del poder político sino a procesos complejos y graduales, y utiliza esa premisa para pensar cómo la automatización integral podría transformar el rol internacional del idioma.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/14/la-lengua-francesa-en-la-era-de-la-automatizacion-integral/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "05:43",
+     "autor": "Louis Puel",
+     "titulo_original": "La lengua francesa en la era de la automatización integral"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-05",
+     "titulo": "Boca cayó 1-0 ante Vasco da Gama y deberá revertir la serie en Brasil",
+     "resumen": "Sin Leandro Paredes, lesionado, el equipo de Rodolfo Arruabarrena no pudo quebrar al conjunto brasileño en la Bombonera y el único gol del partido lo marcó Adson. La revancha de la semifinal de la Copa Sudamericana se jugará el martes próximo desde las 21:30, hora argentina, con sede a confirmar.",
+     "relacionadas": [
+      {
+       "id": "CL-08",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Leandro Paredes, el necesario enigma a resolver por Boca para la revancha contra Vasco da Gama y tratar de ser finalista de la Copa Sudamericana",
+       "url": "https://www.clarin.com/deportes/leandro-paredes-necesario-enigma-resolver-boca-revancha-vasco-da-gama-tratar-finalista-copa-sudamericana_0_Byn12t2yrp.html"
+      },
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "5 frases de Arruabarrena tras la caída de Boca ante Vasco Da Gama: por qué Merentiel fue suplente y el contundente mensaje a los hinchas",
+       "url": "https://www.infobae.com/deportes/2026/10/14/5-frases-de-arruabarrena-tras-la-caida-de-boca-ante-vasco-da-gama-por-que-merentiel-fue-suplente-y-el-contundente-mensaje-a-los-hinchas/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/boca-se-enfrenta-vasco-da-gama-posibles-formaciones-horario-y-donde-ver-vivo-n6333285",
+     "imagen": "https://media.ambito.com/p/3fcb52571f90cb8bbc64de3be3b5787a/adjuntos/239/imagenes/043/702/0043702605/1200x675/smart/boca-vasco-da-gama.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:55",
+     "autor": "",
+     "titulo_original": "De local y con uno más, Boca cayó por 1-0 ante Vasco Da Gama y se complicó en la Copa Sudamericana"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "el arbitraje vuelve a estar bajo sospecha en el ascenso argentino",
+     "resumen": "Nicolás Lamolina revirtió la sanción de un penal tras mantener 25 minutos detenido el partido entre All Boys y Godoy Cruz por la Primera Nacional, en un episodio que generó un nuevo escándalo arbitral. Pese a que el árbitro y Federico Beligoy, jefe de los árbitros de AFA, negaron haber usado imágenes externas, los equipos que pelean por el ascenso y el descenso quedaron en alerta por los próximos fallos.",
+     "relacionadas": [
+      {
+       "id": "CL-07",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Federico Beligoy, el jefe de los árbitros que suma escándalos en AFA: sus dos momentos como juez que hicieron ruido y su pasado vinculado a Boca",
+       "url": "https://www.clarin.com/deportes/federico-beligoy-jefe-arbitros-suma-escandalos-afa-momentos-juez-hicieron-ruido-pasado-vinculado-boca_0_v6aVylL8hz.html"
+      },
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El \"celuVAR\", el último invento argentino: el fútbol de la AFA perdió la capacidad de asombro y manda la sospecha",
+       "url": "https://www.clarin.com/deportes/celuvar-ultimo-invento-argentino-futbol-afa-perdio-capacidad-asombro-manda-sospecha_0_wuE8ufLLps.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/var-blue-encendio-alarmas-ascenso-nicolas-lamolina-protagonista-noche-negra-arbitraje-repite-fin-semana_0_q42Us1wVjF.html",
+     "imagen": "https://www.clarin.com/img/2026/10/13/XFUDk2yK__1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El \"VAR blue\" encendió las alarmas en el Ascenso: Nicolás Lamolina, el protagonista de una noche negra del arbitraje que se repite cada fin de semana"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "River visita hoy a Sarmiento por la fecha pendiente del Clausura",
+     "resumen": "El Millonario juega este miércoles en Junín, en el estadio Eva Perón, por la undécima fecha del Grupo B del Torneo Clausura 2026, con arbitraje de Nazareno Arasa. El partido se transmite por TNT Sports y se había postergado por la fecha FIFA debido a la despedida de Lionel Messi de la Selección.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-hoy-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UHESN3CWFVH4VI5BIFSSBGXMQQ.jpg?auth=b0d8abef10c01c0b385a8d76b9f58129fbe12f1b9921c7b86f2be16cc8198540&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "A qué hora juega River hoy"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Lisandro Martínez cuestionó a la dirigencia de Manchester United tras la derrota en Champions",
+     "resumen": "El defensor argentino apuntó contra la conformación del plantel después de la caída 2-0 ante Atlético de Madrid y defendió al técnico Michael Carrick, lo que generó una dura respuesta del histórico Wayne Rooney, que lo acusó de irrespetuoso.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Lisandro Martínez explotó contra la dirigencia de Manchester United y una leyenda del club lo cruzó: \"Sus actuaciones no están siendo buenas\"",
+       "url": "https://www.clarin.com/deportes/lisandro-martinez-exploto-dirigencia-manchester-united-leyenda-club-cruzo-actuaciones-buenas_0_xNVWlGPyUT.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/lisandro-martinez-apunto-a-la-dirigencia-tras-la-derrota-de-manchester-united-en-champions-league-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/L33ERV3WQFDHRJVIKAVYG6GLKI.JPG?auth=17f47588e869a40926b9c3b499b9ecda623995daf18f797d5edcf02316347461&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:01",
+     "autor": "",
+     "titulo_original": "Lisandro Martínez apuntó a la dirigencia tras la derrota de Manchester United en Champions League"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Barcelona goleó 4-1 a Galatasaray en Estambul y lleva diez triunfos seguidos",
+     "resumen": "El equipo de Hansi Flick, con Lamine Yamal como figura, acumuló 22 remates y 71% de posesión en el infierno de Estambul y lidera la Champions League con puntaje perfecto. En el mismo día, Julián Álvarez pegó en un palo en el 2-0 de Atlético de Madrid sobre Manchester United y fue reemplazado entre aplausos y silbidos, en una reconciliación con la hinchada que todavía avanza lenta.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Duras derrotas y victorias sorpresivas: el rendimiento de los argentinos en la Champions League",
+       "url": "https://www.ambito.com/deportes/duras-derrotas-y-victorias-sorpresivas-el-rendimiento-los-argentinos-la-champions-league-n6333396"
+      },
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La reconciliación de Julián Alvarez con Atlético de Madrid va lenta, y le sigue faltando el gol",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/la-reconciliacion-de-julian-alvarez-con-atletico-de-madrid-va-lenta-y-le-sigue-faltando-el-gol-nid13102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/barcelona-tambien-arrasa-en-la-champions-goleada-ante-galatasaray-10-triunfos-seguidos-y-43-gritos-nid13102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DED6CUN7EFGHHOPWTQ6NH3CCXI.JPG?auth=2173800f6cbf2d0037862d54b71c8ca01797bf48e669d613eedb39280f95b860&smart=true&width=900&height=690",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:32",
+     "autor": "",
+     "titulo_original": "Barcelona también arrasa en la Champions: goleada ante Galatasaray, 10 triunfos seguidos y 43 gritos"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Messi vuelve a jugar con Inter Miami en busca de los playoffs",
+     "resumen": "Las Garzas reciben este miércoles a New York City por la jornada 30, a seis fechas del final de la fase regular, con Messi cerca de un premio individual y de la clasificación grupal a los playoffs de la liga estadounidense.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/lionel-messi-vuelve-jugar-inter-miami-va-doble-objetivo-necesita-clasificar-playoffs-mls_0_E4CweUGhUS.html",
+     "imagen": "https://www.clarin.com/img/2026/10/08/2xG_IoXlD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lionel Messi vuelve a jugar con Inter Miami y va por un doble objetivo: qué necesita para clasificar a los Playoffs de la MLS"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "murió a los 59 años el histórico boxeador Jorge Castro",
+     "resumen": "El excampeón mundial de peso mediano, uno de los grandes referentes del boxeo argentino, se descompensó en el Bingo de Morón y falleció en el lugar; las causas del deceso no fueron determinadas de inmediato. Clarín lo identificó como \"Roña\" Castro e Infobae como \"Locomotora\" Castro, dos de los apodos con los que se lo conoció en su carrera de 144 combates.",
+     "relacionadas": [
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Murió Jorge “Locomotora” Castro a los 59 años",
+       "url": "https://www.infobae.com/deportes/2026/10/14/murio-jorge-locomotora-castro-a-los-59-anos/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/murio-59-anos-jorge-rona-castro-ex-boxeador-descompenso-bingo-moron_0_0C3MeJhvKZ.html",
+     "imagen": "https://www.clarin.com/img/2025/09/04/8bnqxIvSc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Murió a los 59 años Jorge \"Roña\" Castro: el ex boxeador se descompensó en el Bingo de Morón"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "el Gran Meliá Iguazú fue elegido por cuarta vez el mejor hotel de la Argentina",
+     "resumen": "El establecimiento fue distinguido en los World Travel Awards 2026 y tiene vista a las Cataratas del Iguazú, una suite de dos pisos y una piscina infinita entre sus instalaciones más destacadas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/vista-cataratas-suite-pisos-piscina-infinita-mejor-hotel-argentina_0_QjKSboQ0jS.html",
+     "imagen": "https://www.clarin.com/img/2025/04/10/Ty68qEZc-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tiene vista a las Cataratas, una una suite de dos pisos y una piscina infinita: así es el mejor hotel de la Argentina"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "una capital europea atrae cada vez más visitantes argentinos",
+     "resumen": "Clarín destaca una capital europea que registró en 2025 un crecimiento de 15,2% en las pernoctaciones de viajeros argentinos, sin precisar su nombre en el material disponible. La ciudad lleva adelante una inversión millonaria para recuperar su patrimonio histórico y combina historia, gastronomía, arte y playas cercanas en su oferta turística.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/capital-europea-atrae-vez-argentinos-cultura-gastronomia-barrios-identidad_0_aYMx3e5XXN.html",
+     "imagen": "https://www.clarin.com/img/2016/08/04/SJQ8RsnYVe_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La capital europea que atrae a cada vez más argentinos: cultura, gastronomía y barrios con identidad"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "crece la alerta por la crecida de los ríos Paraná y Uruguay",
+     "resumen": "Las lluvias asociadas a El Niño elevaron los caudales en ambas cuencas y obligaron a reforzar los operativos de asistencia en Corrientes, Chaco y Entre Ríos. El río Uruguay superó la cota de evacuación en Paso de los Libres, mientras las represas de Itaipú, Yacyretá y Salto Grande mantienen abiertos sus vertederos para administrar el volumen de agua.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/14/sigue-la-alerta-por-inundaciones-ante-la-crecida-de-los-rios-parana-y-uruguay-familias-evacuadas-y-operativos-de-emergencia/",
+     "imagen": "https://www.infobae.com/resizer/v2/LIPWZ7A3ENAAFJ2DE4SKFYAS4M.jpg?auth=5f35add027ac6f66dbf4e8511f00904bc9bf9dfdccfeffdbb9879b107f534537&smart=true&width=590&height=331",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:34",
+     "autor": "",
+     "titulo_original": "Sigue la alerta por inundaciones ante la crecida de los ríos Paraná y Uruguay: familias evacuadas y operativos de emergencia"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "volvieron a cerrar las pasarelas de las Cataratas por una nueva crecida del río Iguazú",
+     "resumen": "El caudal trepó a 13.700 metros cúbicos por segundo, muy por encima del promedio de 1.500, por efecto de las lluvias asociadas a El Niño desde el sábado. La empresa Iguazú Argentina evalúa cómo seguirá la actividad turística en el Parque Nacional.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/vuelven-cerrar-pasarelas-cataratas-nuevo-pico-rio-iguazu-trepo-13700-metros-cubicos-segundo_0_TRy7pM5yI0.html",
+     "imagen": "https://www.clarin.com/img/2026/10/13/xHkbtIHPa_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Vuelven a cerrar las pasarelas de las Cataratas por un nuevo pico en el río Iguazú: trepó a 13.700 metros cúbicos por segundo"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "el juicio por Loan sumó testimonios sobre la búsqueda y el hallazgo de un botín",
+     "resumen": "La audiencia incluyó relatos de vecinos del paraje Algarrobal sobre las primeras horas del operativo y sobre el hallazgo de uno de los calzados que llevaba el niño el día de su desaparición, en junio de 2024. Para este miércoles están citados policías, un chofer y otros testigos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/14/juicio-por-loan-que-declararon-los-testigos-sobre-la-busqueda-y-el-botin-y-quienes-estan-citados-para-este-miercoles/",
+     "imagen": "https://www.infobae.com/resizer/v2/MAFZWWSW5ZGWDMTEHVMFHABFHM.png?auth=494c6f925e499efae952a50ac0b51bef47c15ce2b482ce0178b719a93bb22903&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:30",
+     "autor": "",
+     "titulo_original": "Juicio por Loan: qué declararon los testigos sobre la búsqueda y el botín, y quiénes están citados para este miércoles"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "advierten por tres factores de riesgo cardiovascular que suelen pasar inadvertidos",
+     "resumen": "El aire que se respira, el ruido y el estrés crónico se suman a los factores clásicos de riesgo cardíaco, según especialistas reunidos en el Congreso Argentino de Cardiología que comenzó este miércoles.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/advierten-factores-riesgo-suelen-pasar-inadvertidos-amenaza-corazon_0_aZ3L5rlLGH.html",
+     "imagen": "https://www.clarin.com/img/2025/07/01/gw4X9VbN6_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Advierten por tres factores de riesgo que suelen pasar inadvertidos y son una amenaza para el corazón"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del miércoles 14 de octubre.\n\nEl dólar oficial cotiza en mil quinientos treinta y cinco pesos para la venta, sin grandes cambios en las últimas ruedas, mientras el dólar blue subió a mil quinientos cincuenta pesos. El riesgo país se ubica en quinientos noventa y siete puntos básicos y el oro cotiza en cuatro mil ciento sesenta y cinco dólares la onza. La inflación interanual llegó a treinta y tres coma cuatro por ciento.\n\nEl día está marcado por la salud del papa León XIV, operado de un cáncer de pulmón, y por una inflación de septiembre que mostró una leve aceleración. En lo político, el peronismo llega dividido al Día de la Lealtad y el Gobierno negocia por separado con los gobernadores aliados.\n\nEn política, el peronismo celebrará el 17 de octubre con actos separados: Axel Kicillof irá a La Matanza, Máximo Kirchner estará en Chaco y una columna marchará a San José mil ciento once para respaldar a Cristina Kirchner, según Clarín e Infobae. En paralelo, el senador y exgobernador de San Juan Sergio Uñac se lanzó como precandidato a presidente del peronismo con un spot en el que habló del desánimo social, y ya reconoció que ve a Kicillof como un rival directo, informaron La Nación y El Cronista. El gobernador de Salta, Carlos Sáenz, presiona para que dos ramales del Belgrano Cargas sean obligatorios en la privatización y permitan exportar a Bolivia y Chile sin pasar por Rosario o Buenos Aires, un reclamo respaldado por industriales de diez provincias, según Clarín y Ámbito. Infobae contó que la Casa Rosada negocia provincia por provincia con los trece gobernadores aliados, sin un acuerdo macro a la vista. El canciller Pablo Quirno acusó a sectores chilenos de buscar un conflicto con la Argentina por la disputa de Malvinas, en medio del envío de un buque chileno hacia el archipiélago y el respaldo de China al reclamo argentino de soberanía, según El Cronista, Infobae y Ámbito. Y Diego Masaragian asumió como nuevo secretario de Discapacidad, en reemplazo de Pablo Di Liscia, que sigue en recuperación tras un accidente de moto.\n\nEn economía y mercados, el INDEC confirmó que la inflación de septiembre fue de uno coma nueve por ciento, con una leve aceleración frente a agosto, y el acumulado de los primeros nueve meses del año llegó a veintitrés coma seis por ciento, según El Cronista. Vivienda y servicios regulados lideraron los aumentos del mes. En la city porteña, el índice Merval subió uno coma cuarenta y cinco por ciento y el Banco Central compró doscientos noventa y un millones de dólares, aunque el riesgo país volvió a acercarse a los seiscientos puntos básicos. El empleo privado registrado cayó por decimocuarto mes consecutivo: en lo que va del año se perdieron ciento treinta y cuatro mil puestos. Para una empresa, esta caída del empleo formal reduce la masa salarial disponible para el consumo, algo para seguir de cerca en el sector minorista. La directora del Fondo Monetario Internacional, Kristalina Georgieva, pidió en Bangkok bajar la deuda global para aliviar la presión sobre los países emergentes, y el organismo advirtió que el mayor rendimiento de la deuda de las economías centrales puede encarecer el financiamiento externo. Más de cuarenta consultoras proyectan una desinflación sostenida pero con riesgos cambiarios de cara al ciclo electoral de 2027, y la city recomienda empezar a dolarizar carteras.\n\nEn impuestos y normativa, ARCA estrenó el recibo de sueldo electrónico asistido para empleadas domésticas, que calculará automáticamente parte de la liquidación y permitirá corregir montos antes de emitir el comprobante. El organismo también notificó los datos para renovar el Certificado Mipyme, que define la cuota de contribuciones patronales derivadas al Fondo de Asistencia y Liquidación. La reforma laboral cambió el régimen de vacaciones fraccionadas: ahora trabajador y empleador deben acordar dividirlas en períodos de al menos siete días, informó El Cronista. Los pilotos de avión cerraron una paritaria trimestral con dieciséis por ciento de aumento, muy por encima de otros gremios, y volverán a negociar en diciembre. Y la Justicia confirmó el procesamiento por abuso de autoridad de Ricardo Nissen, extitular de la Inspección General de Justicia, por el caso de la empresa vinculada a Joe Lewis en Lago Escondido.\n\nEn consumo y construcción, el costo de construcción subió más de ciento treinta por ciento en dólares desde fines de 2023, lo que encareció proyectos en barrios cerrados como Costa Esmeralda y amplió la brecha entre lotes baratos y casas de alto valor. Para una empresa de materiales, es una señal a monitorear junto con los créditos UVA para refaccionar o ampliar vivienda, que sumaron cambios que amplían el acceso. Cinco productos de la canasta familiar subieron cerca de doscientos sesenta por ciento en el último año, muy por encima del promedio de inflación, según iProfesional. Carrefour lanzó promociones dos por uno en electrodomésticos para incentivar el consumo, y Montevideo sigue atrayendo inversores argentinos gracias al régimen de Vivienda Promovida.\n\nEn management, la ex capitana de Las Leonas, Luciana Aymar, habló durante HRTrends sobre liderazgo y gestión de equipos, y remarcó que buscaba hacer brillar también a su equipo. La UBA lanzó una certificación en inteligencia artificial por doscientos mil pesos, y Morgan Stanley identificó sectores que irían más allá de Nvidia como próximos ganadores del boom de inversión en inteligencia artificial, desde centros de datos hasta energía y automatización.\n\nEn el mundo, la noticia central sigue siendo la salud del papa León XIV, operado de un cáncer de pulmón con diagnóstico de adenocarcinoma. El Vaticano calificó la cirugía de exitosa, pero hay incertidumbre sobre la recuperación y crecen las dudas sobre su visita a la Argentina, prevista para el ocho de noviembre dentro de una gira que también incluye Uruguay y Perú. En la Casa Rosada ya se especula con el impacto de una eventual visita en el año electoral, y uno de los hermanos del Papa también está internado por otro cáncer en Estados Unidos. Chile decretó alerta roja en Santiago por tormentas e inundaciones, con evacuaciones en Talagante y más de treinta y cuatro mil usuarios sin electricidad. El jefe de la inteligencia británica confirmó que hubo injerencia rusa en el referéndum del Brexit de 2016, aunque aclaró que no cambió el resultado. España entra en la recta final de la campaña hacia las elecciones del veintinueve de noviembre, con la izquierda sin lograr una candidatura unitaria. Japón convocó al embajador ruso por la detención de un periodista en la isla de Sajalín. Y el piloto de la misión Artemis dos, Reid Wiseman, relató cómo fue ver el lado oculto de la Luna durante el vuelo de abril.\n\nLe Grand Continent analiza el sitio hutí sobre la ciudad yemenita de Taiz, que podría allanar el camino hacia la capital Adén, y también reflexiona sobre el futuro de la lengua francesa en la era de la automatización integral.\n\nEn deportes, Boca cayó uno a cero ante Vasco da Gama por la ida de la semifinal de la Copa Sudamericana y deberá revertir la serie el martes próximo en Brasil. El arbitraje volvió a estar bajo sospecha en el ascenso, después de que Nicolás Lamolina revirtiera un penal tras veinticinco minutos de partido detenido entre All Boys y Godoy Cruz. River visita hoy a Sarmiento en Junín por la fecha pendiente del Clausura. En Europa, Lisandro Martínez cuestionó a la dirigencia de Manchester United tras la derrota ante Atlético de Madrid, lo que generó una respuesta de Wayne Rooney, mientras Julián Álvarez pegó en un palo en esa misma revancha entre argentinos. Barcelona goleó cuatro a uno a Galatasaray en Estambul y lidera la Champions League con puntaje perfecto. Lionel Messi vuelve a jugar hoy con Inter Miami en busca de la clasificación a los playoffs del torneo estadounidense. Y murió a los cincuenta y nueve años el histórico boxeador Jorge Castro, una de las grandes figuras del boxeo argentino.\n\nEn turismo, el Gran Meliá Iguazú fue elegido por cuarta vez como el mejor hotel del país en los World Travel Awards, con vista a las Cataratas y una suite de dos pisos. Y una capital europea, cuyo nombre no se precisa en el material disponible, registró el año pasado un fuerte crecimiento en las visitas de argentinos gracias a una inversión en su patrimonio histórico.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent aportó solo dos notas en esta corrida (el mínimo habitual de la sección es tres); se incluyen igual por ser todo el material disponible de esa fuente. Todas las demás fuentes y el panel de mercados se actualizaron sin inconvenientes.",
+ "generado_ba": "14/10/2026 10:18"
+}
