@@ -1,0 +1,961 @@
+{
+ "fecha": "2026-10-15",
+ "edicion": "manana",
+ "titulo": "Diputados sin quórum para el DNU, riesgo país en 611 y balotaje en Brasil",
+ "apertura": "El oficialismo repuso los límites a la venta de tierras para blindar el DNU 70/23 y evitar quórum opositor en Diputados, en una jornada marcada además por la Marcha Federal Universitaria. En el plano económico, el riesgo país volvió a superar los 600 puntos pese a una buena licitación del Tesoro, mientras las reservas del Banco Central cayeron pese a las compras de dólares. Afuera, Brasil se acerca al balotaje del 25 de octubre entre Lula da Silva y Flávio Bolsonaro, a quien Milei respaldó desde Washington.",
+ "claves": [
+  "El oficialismo repuso los límites a la venta de tierras dentro del proyecto de Propiedad Privada para evitar que la oposición reúna quórum y derogue el DNU 70/23.",
+  "La quinta Marcha Federal Universitaria se moviliza hoy al Congreso, en coincidencia con la sesión especial de Diputados.",
+  "El riesgo país volvió a superar los 611 puntos y los bonos argentinos siguen sin reaccionar pese al blindaje financiero.",
+  "El Tesoro logró un rollover de 136% en su última licitación y extendió plazos de deuda hacia después de las elecciones.",
+  "Las reservas brutas del Banco Central cayeron a 49.722 millones de dólares pese a la compra de divisas del Central.",
+  "La morosidad en las financieras de las cadenas de retail casi cuadruplica a la de los bancos, según el Banco Central.",
+  "El Senado de Brasil aprobó reducir la semana laboral a 40 horas, la bandera de Lula antes del balotaje del 25 de octubre.",
+  "River empató 1-1 con Sarmiento y sigue afuera de zona de playoffs; Messi clasificó al Inter Miami a los playoffs de la MLS."
+ ],
+ "cifras": [
+  {
+   "nombre": "Reservas brutas del BCRA",
+   "valor": "US$ 49.722 millones",
+   "variacion": "-US$ 117 millones",
+   "fuente": "CR-19"
+  },
+  {
+   "nombre": "Rollover de la licitación del Tesoro",
+   "valor": "136,14%",
+   "fuente": "CR-12"
+  },
+  {
+   "nombre": "Techo de la banda cambiaria",
+   "valor": "$ 1.934,07",
+   "fuente": "CR-13"
+  },
+  {
+   "nombre": "Exportaciones de economías regionales (ene-ago)",
+   "valor": "US$ 43.509 millones",
+   "variacion": "+16%",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Empresas con problemas de pago",
+   "valor": "casi 59.000",
+   "fuente": "IP-03"
+  },
+  {
+   "nombre": "Morosidad en financieras de cadenas de retail",
+   "valor": "más del 50%",
+   "fuente": "CL-20"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-20",
+     "titulo": "Gobierno y aliados reponen la ley de tierras para blindar el DNU 70/23",
+     "resumen": "El oficialismo incorporó un capítulo sobre venta de tierras a extranjeros en el proyecto de Inviolabilidad de la Propiedad Privada, que fue dictaminado exprés y se votará en el recinto el 21 de octubre. La maniobra busca contener a sus aliados y evitar que la oposición reúna el quórum necesario este jueves para derogar el DNU 70/23. Según el acuerdo, volverá a regir el tope del 15% que había fijado el kirchnerismo en diciembre de 2011.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno acordó con los aliados restituir los límites a la venta de tierras para blindar el DNU 70/23",
+       "url": "https://www.infobae.com/politica/2026/10/14/el-gobierno-acordo-con-los-aliados-restituir-los-limites-a-la-venta-de-tierras-para-blindar-el-dnu-7023/"
+      },
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La oposición no llega con el quórum para rechazar el DNU/70 y seguían las presiones en Diputados",
+       "url": "https://www.clarin.com/politica/oposicion-llega-quorum-rechazar-dnu70-seguian-presiones-diputados_0_i88qMiJMt1.html"
+      },
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Gobierno y aliados restituyen la Ley de Tierras con una maniobra para salvar el mega DNU",
+       "url": "https://www.iprofesional.com/politica/466616-gobierno-y-aliados-acordaron-restituir-la-ley-de-tierras-para-blindar-mega-dnu"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-incluyo-un-capitulo-de-ley-de-tierras-en-el-proyecto-de-propiedad-privada-para-blindar-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HGMDL4E2IBCBPHEOZYFBOFPMAA.JPG?auth=b937646a2d85902a67849cf20783ab608b1fd97b5516abd675c16d2a4b5d980d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:59",
+     "autor": "Delfina Galarza",
+     "titulo_original": "El Gobierno repone los límites a la venta de tierras para contener a sus aliados y desactivar la sesión opositora"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "Marcha Federal Universitaria y sesión especial por el DNU, con cortes en la Ciudad",
+     "resumen": "Estudiantes, docentes y organizaciones sociales se movilizan este jueves hacia el Congreso en la quinta Marcha Federal Universitaria, que coincide con una sesión especial de Diputados convocada para debatir el DNU 70/23 y el financiamiento de las universidades públicas. La convocatoria generará cortes de tránsito en los alrededores del Congreso.",
+     "relacionadas": [
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La oposición pone a prueba a los aliados de Javier Milei en una sesión con quorum incierto",
+       "url": "https://www.ambito.com/politica/la-oposicion-pone-prueba-los-aliados-javier-milei-una-sesion-quorum-incierto-n6333666"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/quinta-marcha-federal-universitaria-hora-los-servicios-afectados-cuales-calles-evitar-y-donde-habra-cortes/",
+     "imagen": "https://www.cronista.com/resizer/v2/XLG2SNRGCZAYNIRFA7NKITCSTU.jpg?auth=e37a36aee7273671fb865f6605c59c8316f25df81bff62fcedae7cda4a3ea343&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:29",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Quinta Marcha Federal Universitaria: hora, los servicios afectados, cuáles calles evitar y dónde habrá cortes"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Milei respaldó a Flávio Bolsonaro y pidió un escudo contra el socialismo en Washington",
+     "resumen": "En una gala de Latino Wall Street en Washington, el Presidente reivindicó su alineamiento con Donald Trump, cuestionó al socialismo y respaldó a Flávio Bolsonaro, que disputa el balotaje brasileño del 25 de octubre contra Lula da Silva. El acto contó con la presencia de Eduardo Bolsonaro, hermano del candidato, días después de que la Justicia brasileña ordenara ejecutar su condena a cuatro años y dos meses de prisión. Milei también pidió que Trump salga \"fortalecido\" en las elecciones de medio término de Estados Unidos.",
+     "relacionadas": [
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Desde EEUU, Javier Milei respaldó a Flávio Bolsonaro y llamó a consolidar un \"escudo contra el socialismo\"",
+       "url": "https://www.ambito.com/politica/desde-eeuu-javier-milei-respaldo-flavio-bolsonaro-y-llamo-consolidar-un-escudo-contra-el-socialismo-n6333938"
+      },
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Milei ratificó su alineamiento con Trump y volvió a cargar contra Lula da Silva",
+       "url": "https://www.iprofesional.com/politica/466636-milei-ratifico-su-alineamiento-con-trump-y-volvio-a-cargar-contra-lula-da-silva"
+      },
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Milei le dio un fuerte respaldo a Trump de cara a las elecciones de medio término",
+       "url": "https://www.lanacion.com.ar/politica/milei-le-dio-un-fuerte-respaldo-a-trump-de-cara-a-las-elecciones-de-medio-termino-nid14102026/"
+      },
+      {
+       "id": "LN-06",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos",
+       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/milei-en-estados-unidos-predica-anticomunista-respaldo-a-flavio-bolsonaro-y-foto-con-eduardo/",
+     "imagen": "https://www.cronista.com/resizer/v2/UZXMAKVPTFFSPPHMJUY3X5ODTU.jpeg?auth=06dd752c5e2c9db8153e5b8a54fcd571d05aea4b76adce42f7a30e35dcc4d045&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "22:19",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Milei en Estados Unidos: prédica anticomunista, respaldo a Flávio Bolsonaro y foto con Eduardo"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "Una encuesta de Atlas Intel midió a los dirigentes: Milei supera por poco a Kicillof",
+     "resumen": "El relevamiento de Atlas Intel, realizado entre el 2 y el 7 de octubre sobre 2.067 casos, midió el nivel de aceptación de 16 dirigentes nacionales de cara a las elecciones de 2027. Ni el presidente Javier Milei ni el gobernador bonaerense Axel Kicillof encabezaron el ranking, aunque Milei lo superó por escaso margen; dos figuras de la oposición lideraron la medición.",
+     "url": "https://www.cronista.com/economia-politica/midieron-a-los-principales-dirigentes-milei-supera-por-poco-a-kicillof-pero-dos-figuras-de-la-oposicion-lideran-el-ranking/",
+     "imagen": "https://www.cronista.com/resizer/v2/5RMVOWHRTVDTXK2WVGAPBHGZBQ.jpg?auth=8310210cf1c5fa348a578af000154060d25f5351eb7c163950ee4b478a18f429&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:28",
+     "autor": "Nicolás Montenegro",
+     "titulo_original": "Midieron a los principales dirigentes: Milei supera por poco a Kicillof, pero dos figuras de la oposición lideran el ranking",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Con la economía sin señales de repunte, crecen las tensiones dentro del Gobierno",
+     "resumen": "A siete semanas de que terminen las sesiones ordinarias, La Libertad Avanza todavía debe aprobar la reforma política y el Presupuesto 2027, mientras la oposición busca sesionar para derogar el DNU 70/23 y declarar la emergencia en discapacidad. La falta de resultados económicos genera tensión entre Luis Caputo y el sector que impulsa la reelección de Milei.",
+     "url": "https://www.infobae.com/politica/2026/10/15/el-solitario-de-milei-esta-dificil-en-la-cuenta-regresiva-al-2027-todos-se-reprochan-la-falta-de-resultados/",
+     "imagen": "https://www.infobae.com/resizer/v2/PLD6JNCNAZHVRNJVNWQPC24DME.JPG?auth=66123675afe14416f9f9d385aa82e2a4c38cdc37b9b912f5a8e64023957ae792&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:49",
+     "autor": "Maia Jastreblansky",
+     "titulo_original": "El “solitario” de Milei está difícil: en la cuenta regresiva al 2027, todos se reprochan la falta de resultados",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-23",
+     "titulo": "La Libertad Avanza anticipa una negociación dura con el PRO por las listas bonaerenses",
+     "resumen": "De cara al armado electoral de 2027 en la provincia de Buenos Aires, dirigentes libertarios prevén someter a debate la conducción de los distintos distritos con su aliado, mientras en el PRO consideran prematura esa discusión. El diputado Sebastián Pareja, titular de LLA bonaerense, lidera el armado del espacio en la provincia.",
+     "url": "https://www.infobae.com/politica/2026/10/15/la-libertad-avanza-preve-una-dura-negociacion-con-el-pro-en-pba-y-acelera-su-armado-partidario/",
+     "imagen": "https://www.infobae.com/resizer/v2/JMRJM3I3DZCNFDNUQC6LH34ZYQ.jpeg?auth=3ecf3ad6e17e5feed917543adda2c9d78c5bf672fda5bf07b1b62d32e9364295&smart=true&width=900&height=675",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:40",
+     "autor": "Sofia Rojas",
+     "titulo_original": "La Libertad Avanza prevé una dura negociación con el PRO en PBA y acelera su armado partidario",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-20",
+     "titulo": "Riesgo país en 611 puntos: ¿un techo o un nuevo piso para los bonos?",
+     "resumen": "El riesgo país volvió a 611 puntos básicos y los bonos argentinos siguen sin reaccionar, en momentos en que las tasas internacionales se mantienen al alza y la Argentina descarta por ahora un regreso a los mercados voluntarios de deuda. El rebote había comenzado a fines de julio desde los 400 puntos, impulsado entonces por la incertidumbre política previa a las elecciones. Para una empresa: mientras el riesgo país no ceda, el financiamiento externo sigue cerrado y el costo del crédito en dólares continúa elevado.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Tres razones por las que le riesgo país volvió a superar los 600 puntos",
+       "url": "https://www.iprofesional.com/finanzas/466625-3-razones-por-las-que-le-riesgo-pais-volvio-a-superar-los-600-puntos"
+      },
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "StoneX pone la lupa sobre los bonos argentinos y revela cuáles son sus tres preferidos",
+       "url": "https://www.iprofesional.com/finanzas/466261-stonex-elige-3-bonos-argentinos-para-invertir-en-dolares"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/15/los-bonos-argentinos-siguen-debiles-el-riesgo-pais-a-600-puntos-es-un-techo-o-un-nuevo-piso/",
+     "imagen": "https://www.infobae.com/resizer/v2/VZ5RZBRRYVCYNKBLQ34UCRQYLQ.JPG?auth=95f35aece0a1ed2ac0dcd6b6f58df6da5ae0fe55964785b4547ffc9b4004225c&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:44",
+     "autor": "Pablo Wende",
+     "titulo_original": "Los bonos argentinos siguen débiles: ¿el riesgo país a 600 puntos es un techo o un nuevo piso?"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "El Tesoro renovó toda la deuda que vencía y pasó pagos para después de las elecciones",
+     "resumen": "En la licitación del miércoles, el secretario de Finanzas Federico Furiase adjudicó 6,61 billones de pesos frente a vencimientos por 4,86 billones, con un rollover de 136,14%. La demanda llegó a 9,49 billones de pesos, casi el doble de lo necesario para refinanciar, lo que le dio margen al equipo económico para no convalidar premios sobre el mercado secundario. Para una empresa: la extensión de plazos de deuda pública reduce la presión de corto plazo sobre las tasas en pesos.",
+     "relacionadas": [
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Caputo pudo emitir deuda con vencimiento post elecciones y tuvo su revancha en el mercado",
+       "url": "https://www.iprofesional.com/economia/466629-revancha-para-caputo-emitio-deuda-con-vencimiento-post-elecciones"
+      },
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Caputo vuelve a prender la aspiradora de pesos y da una señal de \"mano dura\" monetaria",
+       "url": "https://www.iprofesional.com/economia/466621-caputo-da-una-contundente-senal-de-que-sigue-la-mano-dura-monetaria"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/renuevan-deuda-aspiran-pesos-y-pasan-pagos-para-despues-de-las-elecciones/",
+     "imagen": "https://www.cronista.com/resizer/v2/VYQ6LPNIHNCPVJPXLRVNG5YMTE.jpg?auth=7b09c83f658f9613acaa0bab12c0fe6395520408a04865482d3a80d0b010933a&smart=true&width=900&height=528",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "05:00",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Renuevan deuda, aspiran pesos y pasan pagos para después de las elecciones"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "El BCRA compró dólares pero las reservas brutas cayeron a 49.722 millones",
+     "resumen": "El Banco Central adquirió 101 millones de dólares en el mercado oficial y completó doce ruedas consecutivas de compras, pero el stock bruto de reservas bajó 117 millones de dólares respecto del día anterior por pagos a organismos internacionales y el efecto de las cotizaciones. En lo que va de octubre el Central acumula compras por 732 millones de dólares y 15.300 millones en el año.",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Tesoro volvió a comprar dólares en el mercado y esperan que el BCRA acelere adquisición de reservas hacia fin de año",
+       "url": "https://www.ambito.com/finanzas/el-tesoro-volvio-comprar-dolares-el-mercado-y-esperan-que-el-bcra-acelere-adquisicion-reservas-fin-ano-n6333613"
+      },
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El BCRA sigue el pedido del FMI y carga la \"bazuca de dólares\" con más compras de reservas",
+       "url": "https://www.iprofesional.com/finanzas/466619-el-bcra-sigue-el-pedido-del-fmi-y-carga-la-bazuca-de-dolares-con-mas-compras-de-reservas"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/bcra-compro-us-101-millones-pero-las-reservas-cayeron-las-razones-de-la-baja-y-los-desafios-hacia-adelante/",
+     "imagen": "https://www.cronista.com/resizer/v2/5Q7HROKDBVHB5MCBAINXHQSJWQ.jpg?auth=2395b249a6a9b3bc33b9ba4ec9bd21deef59599688bbf90c7d96f7d865636826&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:47",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "BCRA compró u$s 101 millones, pero las reservas cayeron: las razones de la baja y la prueba de fuego hacia adelante"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Con la mora en niveles récord, el Gobierno prepara cinco medidas para ampliar el crédito en pesos",
+     "resumen": "El Banco Central y la Comisión Nacional de Valores trabajan en cambios para facilitar el financiamiento a hogares, comercios y empresas, en momentos en que la morosidad de los créditos familiares alcanzó niveles inéditos en dos décadas. El diagnóstico oficial fue expuesto por el vicepresidente del BCRA, Vladimir Werning, durante una ronda con inversores en las reuniones del FMI y el Banco Mundial en Bangkok. Para una empresa: una eventual ampliación del crédito en pesos podría aliviar el financiamiento de capital de trabajo, aunque las entidades aún operan con cautela.",
+     "url": "https://www.infobae.com/economia/2026/10/15/con-la-mora-en-niveles-record-el-gobierno-prepara-cinco-medidas-para-impulsar-el-credito-en-pesos/",
+     "imagen": "https://www.infobae.com/resizer/v2/R4RH2QBRABH2VKPQXR3EG7PVWU.JPG?auth=cb1d90dfd0644ce15b8d91d5ad56e15a72e765ab89edb474cb3239f8ad6cc25b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:43",
+     "autor": "Martín Fernández Nadale",
+     "titulo_original": "Con la mora en niveles récord, el Gobierno prepara cinco medidas para impulsar el crédito en pesos",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-09",
+     "titulo": "El plazo fijo quedó atrás de la inflación: qué alternativas recomiendan los especialistas",
+     "resumen": "Con tasas por debajo de una inflación que las proyecciones privadas ubican cerca del 30% interanual, los depósitos tradicionales dejaron de ser la opción más atractiva para proteger el poder adquisitivo. Especialistas consultados por El Cronista señalan otros instrumentos financieros para obtener rendimientos reales sin resignar liquidez.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Plazo fijo vs. inflación: qué bancos rinden más y cuáles pierden, tras el dato del INDEC",
+       "url": "https://www.ambito.com/economia/plazo-fijo-vs-inflacion-que-bancos-rinden-mas-y-cuales-pierden-el-dato-del-indec-n6333693"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-plazo-fijo-quedo-atras-donde-poner-los-pesos-para-no-perder-contra-la-inflacion/",
+     "imagen": "https://www.cronista.com/resizer/v2/MWZNIKHYIZC5DCTDDE3QX54Q5U.jpg?auth=e42ebd7c4e7da2fd2c26d7dc0377296f66c1ba74810b8ae814c712cb27bb6ca7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "El plazo fijo quedó atrás: dónde poner los pesos para no perder contra la inflación"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "Cómo arma una cartera conservadora en dólares un broker para reducir la volatilidad",
+     "resumen": "Un portfolio de renta fija de largo plazo elaborado por IOL Inversiones reparte la exposición entre deuda corporativa, provincial, fondos comunes y bonos para capturar rendimiento en moneda dura con menor volatilidad. La deuda corporativa concentra la mitad de la composición de esta cartera de perfil defensivo.",
+     "url": "https://www.cronista.com/finanzas-mercados/una-cartera-conservadora-en-dolares-como-se-reparte-la-inversion-entre-empresas-provincias-fci-y-bonos-segun-un-broker-estrella/",
+     "imagen": "https://www.cronista.com/resizer/v2/X2VQU2EBYNDOFM5XOBOINHGKG4.jpg?auth=1b35cf5344fb2446976e0484de23a3f0687c64111396c126afca0630cb6ef0ed&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Una cartera conservadora en dólares: cómo se reparte la inversión entre empresas, provincias, FCI y bonos según un broker estrella",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-07",
+     "titulo": "El campo exportó 43.509 millones de dólares en ocho meses, pero casi la mitad de los sectores está en rojo",
+     "resumen": "El nuevo Semáforo de Economías Regionales de Coninagro muestra que, entre enero y agosto, las 19 economías regionales exportaron 43.509 millones de dólares, un 16% más que en 2025 y un 12% por encima del promedio de los últimos cinco años. Sin embargo, casi la mitad de esas economías atraviesa una crisis de rentabilidad y competitividad que ya lleva varios años. Para una empresa: el desempeño exportador agregado convive con una fuerte heterogeneidad sectorial que conviene mirar en detalle antes de tomar decisiones de abastecimiento o inversión regional.",
+     "url": "https://www.cronista.com/economia-politica/la-otra-cara-del-boom-exportador-el-campo-tambien-se-mueve-a-dos-velocidades/",
+     "imagen": "https://www.cronista.com/resizer/v2/337DK3TKDNF7JIHLD5OZRAGFQA.jpg?auth=3bd1e46d51eb68c0ebe16477921494b76c35cd584164c34b21769dbda260a5ac&smart=true&width=900&height=602",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "El campo también se mueve a dos velocidades: los 9 sectores que están en rojo",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-12",
+     "titulo": "La Justicia declaró la quiebra de la textil Algodonera Avellaneda tras fracasar el salvataje",
+     "resumen": "La compañía de Reconquista, Santa Fe, no logró reestructurar sus obligaciones y afronta el cierre definitivo, con miles de empleos en riesgo.",
+     "url": "https://www.iprofesional.com/negocios/466623-algodonera-avellaneda-quiebra-deuda-millonaria-preocupa-empleados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/11/587297.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:58",
+     "autor": "",
+     "titulo_original": "La Justicia declaró la quiebra de la textil Algodonera Avellaneda, tras fracasar salvataje",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-04",
+     "titulo": "La controlante de Bioceres pide su propia liquidación y pone en riesgo a la empresa",
+     "resumen": "Moolec Science, que cotiza en Nasdaq y se convirtió en controlante del entramado de Bioceres, propuso iniciar una liquidación voluntaria ante la pérdida de fuentes de financiamiento. La compañía convocó a una asamblea extraordinaria de accionistas para el 20 de octubre, donde se votará la medida y la designación de dos liquidadores de la firma Interpath.",
+     "url": "https://www.cronista.com/negocios/la-sociedad-que-controla-bioceres-pide-su-propia-liquidacion-y-peligra-la-empresa/",
+     "imagen": "https://www.cronista.com/resizer/v2/6PJEW2H7QZAFZOQXMYGUUYYZ6E.jpg?auth=dde84489e174fe850d2722206239f604588a4ecb5819e1db8d57fc892f2b4692&smart=true&width=834&height=459",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "La sociedad que controla Bioceres pide su propia liquidación y peligra la empresa",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-24",
+     "titulo": "La Justicia frenó la quiebra de la panificadora Pandanés y buscan nuevos dueños",
+     "resumen": "Un juez rechazó el pedido de quiebra de la cadena de panaderías y abrió un proceso para que terceros puedan intentar adquirirla. Los informes judiciales muestran cómo evolucionaron sus ventas, deudas y dotación de personal antes del cierre.",
+     "url": "https://www.ambito.com/negocios/giro-inesperado-pan-danes-la-justicia-freno-su-quiebra-y-buscan-nuevos-duenos-n6333832",
+     "imagen": "https://media.ambito.com/p/a541515c4f8029df71b57bed6648f01b/adjuntos/239/imagenes/043/680/0043680873/1200x675/smart/pan-danes.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:45",
+     "autor": "",
+     "titulo_original": "Giro inesperado para Pandanés: la Justicia frenó su quiebra y buscan nuevos dueños",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-16",
+     "titulo": "TGS avanza en un crédito de 1.400 millones de dólares para un megaproyecto en Vaca Muerta",
+     "resumen": "La compañía trabaja en el cierre financiero de un proyecto para procesar y exportar líquidos derivados del gas, con ventas anuales previstas por 1.200 millones de dólares.",
+     "url": "https://www.iprofesional.com/energia/466620-tgs-busca-credito-de-us1-400-millones-para-mega-proyecto-en-vaca-muerta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613221.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:28",
+     "autor": "",
+     "titulo_original": "TGS avanza en un crédito de u$s1.400 millones para un megaproyecto en Vaca Muerta",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-14",
+     "titulo": "YPF ratifica su plan para cuadruplicar el valor de la compañía hacia 2030",
+     "resumen": "El presidente y CEO de YPF, Horacio Marín, repasó ante el Consejo Interamericano de Comercio y Producción los números de la petrolera y reafirmó el plan 4x4, que apunta a multiplicar por cuatro el valor de la empresa para 2030. Empresarios y ejecutivos presentes elogiaron la gestión de la compañía.",
+     "url": "https://www.ambito.com/economia/el-salto-exportador-ypf-una-politica-estado-blindada-los-cambios-gobierno-n6333898",
+     "imagen": "https://media.ambito.com/p/ea701f31d6715d97c459d8922c4dc0bb/adjuntos/239/imagenes/043/704/0043704848/1200x675/625x345:645x365/horacio-marin-ypf.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:21",
+     "autor": "",
+     "titulo_original": "El salto exportador de YPF: una política de Estado blindada ante los cambios de gobierno",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-08",
+     "titulo": "La industria pide más proveedores locales en los proyectos del RIGI",
+     "resumen": "La senadora Patricia Bullrich planteó en el Coloquio de IDEA la necesidad de que las compañías beneficiadas por el Régimen de Incentivos a las Grandes Inversiones contraten en mayor medida proveedores locales, ante el malestar por el volumen de insumos importados en algunos proyectos. El ministro Luis Caputo busca fomentar proveedores locales, aunque persisten quejas sobre la practicidad del registro.",
+     "url": "https://www.cronista.com/economia-politica/la-industria-en-alerta-por-las-importaciones-de-otro-proyecto-del-rigi/",
+     "imagen": "https://www.cronista.com/resizer/v2/KLBAYO32Q5C2XEZENTUIEL5AJ4.jpg?auth=7981aa84dc1f118d7516da682f854e985ce7d4bd48e16dca63557adb9002dd8f&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Jairo Straccia",
+     "titulo_original": "La industria en alerta por las importaciones de otro proyecto del RIGI",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-06",
+     "titulo": "La Justicia anuló un ajuste de ARCA en Ganancias a Pan American Energy por demoras",
+     "resumen": "La Sala V de la Cámara Contencioso Administrativo Federal dejó sin efecto un ajuste en el impuesto a las Ganancias del período fiscal 2009 y una multa equivalente al doble del tributo omitido, al considerar que se vulneró el derecho del contribuyente a ser juzgado en un plazo razonable. El fallo, firmado el 6 de octubre, revocó una sentencia previa del Tribunal Fiscal de la Nación. Para una empresa: el antecedente puede ser invocado en otros litigios tributarios de larga duración frente a ARCA.",
+     "url": "https://www.cronista.com/economia-politica/reves-para-arca-la-justicia-dejo-sin-efecto-un-ajuste-en-ganancias-por-exceder-el-plazo-razonable/",
+     "imagen": "https://www.cronista.com/resizer/v2/KTUXVMX435HQFE76U2ZALE36PY.jpg?auth=66a869547309fab57c743a3fd30b1436d6ba83006f3b06cc7c31c543e72a0d0c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "Revés para ARCA: la Justicia dejó sin efecto un ajuste en Ganancias por exceder el “plazo razonable”",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Cómo elegir el fondo del FAL para una pyme antes de que arranque en noviembre",
+     "resumen": "ARCA reglamentó el procedimiento de aportes al Fondo de Asistencia Laboral, que entrará en vigencia el 1 de noviembre y alcanzará a las declaraciones juradas de ese mes y los siguientes. Las pymes deberán elegir la entidad administradora según plazos de inversión, costos y servicios, considerando la rotación de personal y la cantidad de empleados. Para una empresa: definir el fondo correcto antes de noviembre evita costos innecesarios en la cobertura de futuras indemnizaciones laborales.",
+     "url": "https://www.cronista.com/economia-politica/se-viene-el-fal-como-elegir-el-fondo-mas-conveniente-para-una-pyme-y-que-errores-evitar/",
+     "imagen": "https://www.cronista.com/resizer/v2/WMGZNHB5IZAWRI7EECMF6MPAFM.jpg?auth=f86fde744dfeb602bbc372c42a4e2c91bea3a6a0c685e7b28726ca392a6db79f&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Se viene el FAL: cómo elegir el fondo más conveniente para una pyme y qué errores evitar",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-13",
+     "titulo": "La Justicia suspendió por tres meses dos artículos de la reforma laboral",
+     "resumen": "El juez federal Martín Cormick hizo lugar a una medida cautelar de colegios de abogados de todo el país y frenó las modificaciones sobre el pago de sentencias laborales y la responsabilidad por las costas judiciales, al cuestionar la falta de claridad de la normativa. La suspensión rige por tres meses.",
+     "url": "https://www.ambito.com/politica/la-justicia-hizo-lugar-al-reclamo-colegios-abogados-todo-el-pais-y-suspendio-dos-articulos-la-reforma-laboral-n6333903",
+     "imagen": "https://media.ambito.com/p/c805190441ee71847a858c4553eacda1/adjuntos/239/imagenes/043/265/0043265057/1200x675/smart/congreso-fallo-judicial-justicia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:48",
+     "autor": "",
+     "titulo_original": "La Justicia hizo lugar al reclamo de colegios de abogados de todo el país y suspendió dos artículos de la reforma laboral",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-04",
+     "titulo": "Empleada doméstica: así funciona el nuevo sistema de ARCA para liquidar sueldos",
+     "resumen": "La nueva plataforma unifica en un solo paso el cálculo y la gestión de la liquidación de sueldos para trabajadores de casas particulares.",
+     "url": "https://www.iprofesional.com/impuestos/466635-empleada-domestica-asi-funciona-el-sistema-de-arca-para-liquidar-sueldos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/11/507852.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:20",
+     "autor": "",
+     "titulo_original": "Empleada doméstica: cómo funciona el nuevo sistema de ARCA para liquidar sueldos",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-08",
+     "titulo": "CABA lanza un plan de pagos de ABL y patentes con quita total de intereses",
+     "resumen": "El régimen porteño permite saldar deudas previas a diciembre, acceder a pagos en cuotas y aprovechar la condonación del 100% de los recargos acumulados.",
+     "url": "https://www.iprofesional.com/impuestos/466632-caba-lanza-plan-de-pago-de-deudas-de-abl-y-patentes-con-quita-del-100-de-los-intereses",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627582.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:41",
+     "autor": "",
+     "titulo_original": "CABA lanza un plan de pago de deudas de ABL y patentes con quita del 100% de los intereses",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La morosidad en el financiamiento propio de las cadenas de retail encabeza esta sección por su relevancia directa para el sector.",
+   "notas": [
+    {
+     "id": "CL-20",
+     "titulo": "La morosidad en las financieras de retail casi cuadruplica a la de los bancos",
+     "resumen": "Según los últimos informes del Banco Central, en las entidades financieras de los supermercados el nivel de deudores en situación irregular supera el 50% en algunos casos, muy por encima del promedio del sistema bancario. Como en el resto del sistema financiero, no se observa una baja de los deudores en mora. Para una empresa de retail: la calidad de la cartera de financiamiento propio es un indicador central para calibrar el riesgo crediticio antes de ampliar planes de cuotas.",
+     "url": "https://www.clarin.com/economia/cara-deudas-familiares-morosidad-cadenas-retail-veces-mayor-bancos_0_BnHEjy6HB8.html",
+     "imagen": "https://www.clarin.com/img/2026/08/28/Mfl41lxaj_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La otra cara de las deudas familiares: la morosidad con las cadenas de retail es casi cuatro veces mayor a la de los bancos",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-18",
+     "titulo": "El Banco Ciudad lanza un crédito hipotecario de hasta 150 millones de pesos a 25 años",
+     "resumen": "La línea, con tasa subsidiada, está pensada para la compra de la primera vivienda en la Ciudad de Buenos Aires y permite sumar ingresos familiares cuando el sueldo del solicitante no alcanza.",
+     "url": "https://www.ambito.com/economia/nuevo-credito-hipotecario-del-banco-ciudad-montos-150-millones-25-anos-tasa-subsidiada-n6333763",
+     "imagen": "https://media.ambito.com/p/7c9e6c128963f0591f2f6ac383fcfbff/adjuntos/239/imagenes/043/647/0043647627/1200x675/942x672:962x692/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "Nuevo crédito hipotecario del Banco Ciudad: montos de hasta $150 millones a 25 años con tasa subsidiada",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-01",
+     "titulo": "Bancos piden ampliar el destino de los créditos hipotecarios con fondos de ANSES",
+     "resumen": "El gabinete económico buscaba acelerar la tercera licitación de los plazos fijos UVA del Fondo de Garantía de Sustentabilidad para motorizar la construcción, pero los bancos pusieron condiciones adicionales en un mercado menos fluido de lo esperado. Por ese motivo, las licitaciones seguirán siendo mensuales en lugar de cada 15 días, como pretendía el Gobierno. Para una empresa de materiales de construcción: el ritmo de estas licitaciones incide directamente en la demanda de obra privada financiada.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Créditos hipotecarios UVA: cuál es la cuota por cada millón a 20 años de plazo",
+       "url": "https://www.iprofesional.com/finanzas/466594-creditos-hipotecarios-uva-cual-es-la-cuota-por-cada-millon-a-20-anos"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/segunda-vivienda-bancos-piden-ampliar-el-destino-de-los-creditos-hipotecarios-con-fondos-anses/",
+     "imagen": "https://www.cronista.com/resizer/v2/HJX427LAARCQNJTCVBK4LN46BE.png?auth=4d56b2b1d24bd6c37b623458993376e7c5c29bf228a14575fb9727d09d3db51f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:00",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Segunda vivienda: bancos piden ampliar el destino de los créditos hipotecarios con fondos ANSES"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "El costo de construcción subió más de 130% en dólares desde 2023 y reconfigura el mercado de lotes",
+     "resumen": "En proyectos de barrios cerrados como Costa Esmeralda, compradores que adquirieron terrenos sin construir ahora buscan venderlos ante el fuerte encarecimiento de la obra, mientras la demanda se concentra en las casas ya terminadas de mayor valor. Según el relato de un propietario citado por La Nación, construir hoy la misma casa que planeaba en 2021 cuesta más del doble que entonces.",
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/costa-esmeralda-el-impensado-fenomeno-que-vive-el-proyecto-top-de-la-costa-con-lotes-baratos-y-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PJYBZHGIC5DU5NHZUYSWMDCFRY.jpg?auth=dd49177530a11d4700a974862b943c80b4cc802417664b10b9ac4c88543204ca&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:05",
+     "autor": "Manuela Viñales",
+     "titulo_original": "Costa Esmeralda: el impensado fenómeno que vive el proyecto top de la costa, con lotes “baratos” y compradores que buscan casas de US$500.000",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Superdry prometía en Argentina los mismos precios que en Europa: qué mostró el relevamiento",
+     "resumen": "La cadena de indumentaria había generado expectativa al anunciar precios alineados con los de Europa en su desembarco local, pero un relevamiento de iProfesional mostró diferencias respecto de esa promesa.",
+     "url": "https://www.iprofesional.com/negocios/466472-revelan-si-la-ropa-de-superdry-cuesta-lo-mismo-en-argentina-que-en-europa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627505.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:47",
+     "autor": "",
+     "titulo_original": "Superdry prometía en Argentina mismos precios de ropa que en Europa: esta es la realidad",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-26",
+     "titulo": "Reabre el Showcenter de Haedo con formato de outlet, cine y gastronomía",
+     "resumen": "El histórico shopping se renueva con una inversión millonaria que incorpora locales de saldos, salas de cine y espacios gastronómicos.",
+     "url": "https://www.iprofesional.com/negocios/466250-abre-un-nuevo-shopping-en-buenos-aires-outlet-cine-y-gastronomia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618662.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:26",
+     "autor": "",
+     "titulo_original": "Abre un nuevo shopping en Buenos Aires: outlet, cine y gastronomía",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "Un informe privado sostiene que revertir el modelo económico sería más costoso que continuar",
+     "resumen": "Un algoritmo desarrollado por la consultora ABECEB asigna apenas 22% de probabilidad a un cambio de rumbo en los lineamientos económicos de fondo, incluso ante un eventual triunfo opositor en 2027. El estudio sugiere que las empresas tienen más oportunidades que riesgos para sostener decisiones de inversión de mediano y largo plazo pese al ruido electoral.",
+     "url": "https://www.cronista.com/finanzas-mercados/sin-riesgo-kuka-afirman-que-revertir-el-modelo-economico-seria-mas-costoso-que-el-incentivo-a-continuar/",
+     "imagen": "https://www.cronista.com/resizer/v2/M6P5YAPNMJDLXMF7BU4OPEE6XU.jpg?auth=d65a12617bab5d14858adb700fdfab58933a79ec8f98b4dd276dfec4b8dfb71b&smart=true&width=680&height=453",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:30",
+     "autor": "Ariel Cohen",
+     "titulo_original": "Elecciones y negocios: por qué revertir el modelo económico sería más costoso que continuar el rumbo",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-17",
+     "titulo": "ABECEB prepara su foro anual para que las empresas decidan dónde invertir en un contexto geopolítico complejo",
+     "resumen": "La consultora realizará el 5 de noviembre la 16ª edición de su foro, titulado \"Radar: del ruido a la señal\", centrado en la posición de la Argentina y las empresas frente al escenario geopolítico global. Su presidenta, Mariana Caminos, sostuvo que el costo de revertir las reformas ya es mayor que el de sostener el modelo actual.",
+     "url": "https://www.cronista.com/economia-politica/foro-de-geopolitica-estrategia-y-liderazgo-para-que-las-empresas-decidan-si-es-momento-de-invertir/",
+     "imagen": "https://www.cronista.com/resizer/v2/GZCRUJVIQVEP5NV6FLNDVOAM3I.jpeg?auth=d47f85dcc791e4b9808213e823919b9faa3c018417ffa7d31262dc91e35a501a&smart=true&width=900&height=892",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:17",
+     "autor": "Equipo Economía",
+     "titulo_original": "Foro de geopolítica, estrategia y liderazgo para que las empresas decidan si es momento de invertir",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-20",
+     "titulo": "El estilo de gestión de Caputo: ordenar las cuentas fiscales y dejar protagonismo a los privados",
+     "resumen": "Un análisis de El Cronista describe la gestión económica de Luis Caputo con el perfil de un CFO más que de un ministro tradicional, con foco en ordenar las cuentas públicas y reducir la intervención estatal en las decisiones privadas. El ministro aseguró a inversores en Bangkok que el plan financiero tendrá excedente de dólares sin necesidad de refinanciar deuda.",
+     "url": "https://www.cronista.com/columnistas/entre-el-trader-y-los-academicos-tambien-la-economia-parece-inmersa-en-un-bloqueo-atmosferico/",
+     "imagen": "https://www.cronista.com/resizer/v2/4FC5GU4ZF5DSNIZVXRZW2A7RTQ.jpg?auth=ca08389dd0a332c3d30ec7db68db2bfc390553e436ee98daa51ac3dd7f448437&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:05",
+     "autor": "Juan Manuel Compte",
+     "titulo_original": "Entre el trader y los “académicos”, también la economía parece inmersa en un bloqueo atmosférico",
+     "relacionadas": []
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-15",
+     "titulo": "El Senado de Brasil aprobó reducir la jornada laboral a 40 horas, la gran apuesta de Lula antes del balotaje",
+     "resumen": "La enmienda constitucional, que pone fin a la jornada de 44 horas semanales, obtuvo 75 votos a favor y 1 en contra en primer turno, con el acompañamiento del diputado Flávio Bolsonaro, hermano del candidato opositor. Por tratarse de una reforma constitucional requiere una segunda votación de ratificación antes de entrar en vigencia.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Jugada política de Lula: Brasil aprueba reducir la semana laboral, a menos de dos semanas de los comicios de segunda vuelta",
+       "url": "https://www.clarin.com/mundo/jugada-politica-lula-brasil-aprueba-reducir-semana-laboral-semanas-comicios-segunda-vuelta_0_8eSYHD4pPJ.html"
+      },
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Encuestas de las elecciones de Brasil 2026: una por una, qué dicen en los días previos a la segunda vuelta",
+       "url": "https://www.lanacion.com.ar/el-mundo/encuestas-de-las-elecciones-de-brasil-2026-una-por-una-que-dicen-en-los-dias-previos-a-la-segunda-nid14102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-senado-de-brasil-aprueba-el-fin-de-la-jornada-6x1-la-gran-apuesta-de-lula-antes-del-balotaje-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MZ3RDF34OJHERFUBDUHKUI5USM.JPG?auth=42c7d3457a3e720b2559c990c7e8841322b00de89ac7af9665899eddd0068a02&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:07",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "El Senado de Brasil aprueba el fin de la jornada “6x1”, la gran apuesta de Lula antes del balotaje"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Ucrania retomó los bombardeos contra refinerías rusas tras una tregua de tres días",
+     "resumen": "El presidente Volodimir Zelensky confirmó la reanudación de los ataques contra infraestructura energética rusa y denunció que el Kremlin lanzó al menos 100 ataques contra instalaciones ucranianas en la última semana. La pausa de tres días, impulsada por Donald Trump, nunca fue reconocida oficialmente ni por Moscú ni por Kiev.",
+     "url": "https://www.infobae.com/america/mundo/2026/10/15/ucrania-reanudo-sus-bombardeos-contra-las-refinerias-rusas-y-lanzo-una-ofensiva-a-una-region-cercana-a-moscu/",
+     "imagen": "https://www.infobae.com/resizer/v2/5KQG7KKF6ZFMHOVEOLTT2LST7E.JPG?auth=c4fa296e6125f784fe916a6c5c80610eb034065a821ace4c4776dd8307400d07&smart=true&width=900&height=663",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:02",
+     "autor": "",
+     "titulo_original": "Ucrania reanudó sus bombardeos contra las refinerías rusas y lanzó una ofensiva a una región cercana a Moscú",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Estados Unidos amenaza a España con tasas de 200.000 dólares a sus buques",
+     "resumen": "La medida alcanzaría a los buques mercantes con bandera española y responde, según Washington, al bloqueo español de embarcaciones con armas destinadas a Israel. La decisión también incluiría restricciones a varios productos españoles.",
+     "url": "https://www.clarin.com/mundo/eeuu-endurece-postura-espana-amenaza-tasas-200000-dolares-buques-restricciones-varios-productos_0_wAXI2bbapc.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/y1Cm7c3w9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "02:55",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "EE.UU. endurece su postura con España: amenaza con tasas de 200.000 dólares a sus buques y restricciones a varios de sus productos",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Bukele evalúa liberar presos capturados en su guerra contra las pandillas",
+     "resumen": "El presidente salvadoreño creó una comisión gubernamental paralela, con participación de altos mandos de la Justicia y el Gobierno, para analizar posibles liberaciones entre los miles de detenidos de su política de mano dura antipandillas.",
+     "url": "https://www.clarin.com/mundo/bukele-dio-giro-inesperado-anuncio-posibles-liberaciones-presos-capturados-guerra-antipandillas_0_0sOpaWbQZz.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/tAnOptphp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:29",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Bukele dio un giro inesperado: anunció posibles liberaciones de presos que fueron capturados en su guerra antipandillas",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-21",
+     "titulo": "El Reino Unido realizó ejercicios militares en Malvinas recreando el desembarco de 1982",
+     "resumen": "En medio de la tensión con la Argentina, militares británicos simularon combates en las islas con uso de drones y amenazas digitales. El embajador británico en Chile visitó además la región de Magallanes, en el sur chileno, en el marco de un proyecto de conectividad que reavivó la controversia petrolera y diplomática regional.",
+     "relacionadas": [
+      {
+       "id": "IP-19",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El embajador británico en Chile visitó Magallanes en plena tensión con Argentina",
+       "url": "https://www.iprofesional.com/politica/466617-el-embajador-britanico-en-chile-visito-magallanes-en-plena-tension-con-argentina"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/466615-el-reino-unido-realizo-ejercicios-militares-en-malvinas-recreando-el-desembarco-de-1982",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627561.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:50",
+     "autor": "",
+     "titulo_original": "El Reino Unido realizó ejercicios militares en Malvinas recreando el desembarco de 1982"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "Se derrumbó el techo de una escuela en Pakistán y murieron al menos 27 niños",
+     "resumen": "La tragedia ocurrió en la escuela Al-Khair de Peshawar, donde un techo colapsó sobre otro y aplastó un aula; más de 30 personas resultaron heridas, seis de ellas en estado crítico. Según las autoridades sanitarias, todos los alumnos fallecidos o lesionados tenían 13 años o menos.",
+     "url": "https://www.lanacion.com.ar/el-mundo/se-derrumbo-el-techo-de-una-escuela-en-pakistan-murieron-27-ninos-y-un-profesor-nid15102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/D3XHRHNTRFA2JJNDHTXNU25IRM.JPG?auth=d065fbb5559718d0cd77d33be27ca8193be5da69294917f22eabea3f27e11787&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:52",
+     "autor": "",
+     "titulo_original": "Se derrumbó el techo de una escuela en Pakistán: murieron al menos 27 niños y un profesor",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza la brecha generacional entre dirigentes y sociedades en todo el mundo.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "En casi todos los países del mundo, los líderes son más grandes que su población",
+     "resumen": "Un relevamiento de la científica de datos Hannah Ritchie, retomado por Le Grand Continent, muestra que en el 98% de los 146 países analizados los dirigentes son mayores que la edad mediana de su población. Solo tres excepciones se apartan de la regla: los Países Bajos, Lituania y Montenegro, donde los mandatarios son apenas más jóvenes que sus ciudadanos. El caso más extremo es Camerún, uno de los países con población más joven del mundo, gobernado por uno de los líderes de mayor edad. La revista usa el dato para ilustrar la brecha generacional entre las élites políticas y las sociedades que gobiernan, un fenómeno transversal a democracias y autocracias.",
+     "url": "https://legrandcontinent.eu/es/2026/10/15/en-98-de-los-paises-los-dirigentes-son-mas-viejos-que-la-poblacion/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "En el 98% de los países, los dirigentes son mayores que la población",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "River empató con Sarmiento y sigue afuera de la zona de clasificación a los playoffs",
+     "resumen": "En el estadio Eva Perón de Junín, River igualó 1-1 en un partido pendiente de la fecha 11 del Torneo Clausura. El resultado deja al equipo millonario noveno en el grupo B, afuera de la zona de playoffs, a cuatro fechas del cierre de la fase regular.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Montiel había marcado el empate ante Sarmiento pero el árbitro lo anuló por una mano de Vera",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/montiel-habia-marcado-el-empate-ante-sarmiento-pero-el-arbitro-lo-anulo-por-una-mano-de-vera-nid14102026/"
+      },
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "En un partido con gusto a poco, River y Sarmiento igualaron por el Torneo Clausura",
+       "url": "https://www.ambito.com/deportes/sarmiento-golpeo-primero-y-vence-river-junin-el-torneo-clausura-n6333885"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/sarmiento-vs-river-en-vivo-por-el-torneo-clausura-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3TO5IUS6PZAIVEFPFWEERM4BW4.JPEG?auth=3aa7fc5b5af3dfa407d39c2d8c19a901e6c536fa007e9d40f67f0bdc2187d94e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:28",
+     "autor": "Carlos Delfino",
+     "titulo_original": "River empató con Sarmiento por el Torneo Clausura y sigue afuera de la zona de clasificación a los playoffs"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "Con Messi de titular, Inter Miami venció a New York City y clasificó a los playoffs de la MLS",
+     "resumen": "El equipo de Cristian \"Kily\" González ganó 2 a 0 y aseguró su lugar en los playoffs a cinco fechas del final de la temporada regular. Messi fue clave en el primer gol y asistió a Rodrigo De Paul en el segundo.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Asistencia, sociedad con De Paul y varios remates al arco: el partido de Messi en el triunfo del Inter Miami ante New York City FC",
+       "url": "https://www.infobae.com/deportes/2026/10/15/asistencia-sociedad-con-de-paul-y-varios-remates-al-arco-el-partido-de-messi-en-el-triunfo-del-inter-miami-ante-new-york-city-fc/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-inter-miami-vs-new-york-city-fc-en-vivo-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/474QKA2NSJGVLLP53H72QXW564.jpg?auth=ac325a17fd884c5964b20ec98819408380618bc632373c3b096b276c2b304ed9&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "23:00",
+     "autor": "Andrés Fernández Ré",
+     "titulo_original": "Con Lionel Messi de titular, Inter Miami derrotó a New York City y se clasificó a los playoffs de la MLS"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Rafael Jódar, el tenista que escala en el ranking ATP entre polémicas dentro de la cancha",
+     "resumen": "El español tuvo un 2026 meteórico: arrancó el año en el puesto 165 del ranking, llegó a tener chances de entrar al top 10 y actualmente está 13°. Su tenis agresivo convive con actitudes cuestionadas que le valieron fama de \"chico malo\" del circuito.",
+     "url": "https://www.clarin.com/deportes/rafael-jodar-darth-vader-atp-sube-ranking-suma-escandalos-abren-dudas-futuro_0_XzKbiOw76i.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/nrt0vCMYG_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Rafael Jódar, el \"Darth Vader\" de la ATP que sube en el ranking pero también suma escándalos que abren dudas sobre su futuro",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Chiqui Tapia viajó a Zurich para la asamblea de la FIFA que define las elecciones de marzo",
+     "resumen": "El titular de la AFA participa del 37° Consejo de la FIFA, que debe preparar los comicios en los que el organismo apoya la reelección de Gianni Infantino pese a los escándalos. Tapia voló en un avión privado del empresario Javier Faroni junto a otros dos dirigentes.",
+     "url": "https://www.clarin.com/deportes/chiqui-tapia-fifa-desafiante-respuesta-foto-di-carlo-veron-trastienda-dirigentes-acompanaron_0_II0ThGn67y.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/mwK_2kKXX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Chiqui Tapia, en la FIFA: la desafiante respuesta a la foto de Di Carlo con Verón y la trastienda de los dos dirigentes que lo acompañaron",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-11",
+     "titulo": "La FIFA evalúa cambiar sus reglas tras el escándalo de Balogun y crece la presión sobre Infantino",
+     "resumen": "El organismo analiza modificar el artículo 27 de su Código Disciplinario para evitar que una sanción automática por tarjeta roja quede en suspenso, después de que Folarin Balogun pudiera jugar durante el Mundial 2026 pese a una expulsión, tras una intervención de Donald Trump ante Gianni Infantino.",
+     "url": "https://www.ambito.com/deportes/la-fifa-busca-cambiar-sus-reglas-el-escandalo-balogun-y-crece-la-presion-gianni-infantino-n6333906",
+     "imagen": "https://media.ambito.com/p/c5ddf8de8b483539b1aa93cab3b7316e/adjuntos/239/imagenes/043/704/0043704896/1200x675/smart/mundial-fifa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:15",
+     "autor": "",
+     "titulo_original": "La FIFA busca cambiar sus reglas tras el escándalo de Balogun y crece la presión sobre Gianni Infantino",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Goleadas y duras derrotas de local para los argentinos en la segunda fecha de la Champions League",
+     "resumen": "Varios futbolistas argentinos fueron titulares en la segunda jornada del torneo europeo: algunos lograron victorias contundentes y otros sufrieron derrotas clave como locales en la pelea por meterse entre los ocho primeros.",
+     "url": "https://www.ambito.com/deportes/goleadas-y-duras-derrotas-local-como-les-fue-los-argentinos-la-champions-league-n6333873",
+     "imagen": "https://media.ambito.com/p/46800a68c634da16ca250ef033e261c4/adjuntos/239/imagenes/043/704/0043704747/1200x675/728x159:748x179/dybala-roma.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:05",
+     "autor": "",
+     "titulo_original": "Goleadas y duras derrotas de local: cómo les fue a los argentinos en la Champions League",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-09",
+     "titulo": "El Castillo San Carlos de Concordia guarda la historia que inspiró a Saint-Exupéry",
+     "resumen": "En esta residencia de fines del siglo XIX en Concordia, Entre Ríos, investigaciones arqueológicas iniciadas en 2012 recuperaron objetos cotidianos y antiguos sistemas de agua que ayudan a reconstruir cómo se vivía allí. El lugar también guarda un episodio de 1929, cuando el aviador Antoine de Saint-Exupéry conoció a las hermanas Fuchs Valon, experiencia que luego inspiraría parte de su obra literaria vinculada a El Principito.",
+     "url": "https://www.lanacion.com.ar/que-sale/un-aterrizaje-de-emergencia-dos-hermanas-y-un-zorro-el-episodio-en-un-castillo-argentino-de-saint-nid14102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HRTNUYXHYVEYZMH7IEAGELUU74.jpeg?auth=86adbeadeebd1e9b8e3b124e03aaacab16170a919eba7c1f0f9541f2a4bcf622&smart=true&width=900&height=537",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:00",
+     "autor": "Alejandro Rapetti",
+     "titulo_original": "Un aterrizaje de emergencia, dos hermanas y un zorro: el episodio en un castillo argentino de Saint-Exupéry ligado a El Principito",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "Súper Niño 2026: el Servicio Meteorológico anticipa lluvias fuertes y riesgo de inundaciones",
+     "resumen": "El Servicio Meteorológico Nacional prevé que el fenómeno alcance una intensidad \"fuerte o muy fuerte\" en el centro-este del país, con riesgo alto de inundaciones graves. La crecida asociada del río Paraná ya llevó a la Entidad Binacional Yacyretá a abrir las compuertas de la represa, lo que podría derivar en una mayor generación hidroeléctrica y una baja en el costo de la energía.",
+     "relacionadas": [
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Se llenan 10 piletas olímpicas por segundo: el Súper Niño disparó el caudal del Paraná y podría bajar el precio de la energía",
+       "url": "https://www.infobae.com/economia/2026/10/15/se-llenan-10-piletas-olimpicas-por-segundo-el-super-nino-disparo-el-caudal-del-parana-y-podria-bajar-el-precio-de-la-energia/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-pico-fuertes-lluvias-cambiara-clima_0_y6zqcxp46F.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/Wt8EhBKum_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: cuándo será el pico de las fuertes lluvias y cómo cambiará el clima"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Solo dos de cada diez alumnos de 15 años llegan en tiempo y forma al curso que les corresponde",
+     "resumen": "Argentina cayó al séptimo lugar entre nueve países de la región en este indicador educativo, con un 21% de los alumnos con sobreedad, la tasa más alta de Latinoamérica. También es elevado el porcentaje de estudiantes que no alcanza los conocimientos mínimos de Lengua y Matemática.",
+     "url": "https://www.clarin.com/sociedad/solo-2-10-alumnos-15-anos-llega-tiempo-forma-curso-corresponde_0_sfKlrZAmO1.html",
+     "imagen": "https://www.clarin.com/img/2016/12/05/HkWZCokLmx_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Solo 2 de cada 10 alumnos de 15 años llega en tiempo y forma al curso que le corresponde",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Un hospital porteño incorpora un nuevo tomógrafo para diagnosticar cáncer",
+     "resumen": "El equipo PET-CT combina tomografía por emisión de positrones y tomografía axial computada, lo que permite mayor precisión con menos radiación. La tecnología habilita diagnósticos más tempranos y facilita identificar metástasis.",
+     "url": "https://www.clarin.com/sociedad/nuevo-tomografo-primera-vez-va-usar-diagnosticar-cancer-hospital-ciudad_0_BwcV3zMbrj.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/Z2ihK-18A_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cómo es el nuevo tomógrafo que por primera vez se va a usar para diagnosticar cáncer en un hospital de la Ciudad",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Golpe comando a una fábrica de La Plata: robaron 80 millones de pesos",
+     "resumen": "Al menos cuatro delincuentes encapuchados desactivaron el sistema de alarma y los detectores de movimiento de una fábrica de colorantes para plásticos en Melchor Romero y sustrajeron 80 millones de pesos de una oficina. Según la reconstrucción del hecho, el dinero permanecía allí de forma excepcional y se sospecha que hubo un entregador.",
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/15/golpe-comando-a-una-fabrica-de-la-plata-se-llevaron-80-millones-y-creen-que-existio-un-entregador/",
+     "imagen": "https://www.infobae.com/resizer/v2/2DRRXIZ3GFHPPGCLVHSBPSML64.jpg?auth=4ab413e4fb62f54e6fa29fb13032ffdb2a35bee86874ef75d353d09ba93675c3&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:13",
+     "autor": "",
+     "titulo_original": "Golpe comando a una fábrica de La Plata: se llevaron $80 millones y creen que existió un entregador",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del jueves 15 de octubre.\n\nLa jornada arranca con el oficialismo tratando de blindar el DNU 70 barra 23 ante una sesión especial de Diputados, el riesgo país otra vez por encima de los 600 puntos y el Tesoro renovando toda su deuda de corto plazo. Afuera, Brasil se encamina al balotaje del 25 de octubre entre Lula da Silva y Flávio Bolsonaro, mientras Milei refuerza desde Washington su respaldo a Donald Trump y al candidato opositor brasileño. En el panel de mercados, el dólar oficial cerró en 1.535 pesos para la venta, el dólar blue en 1.550 pesos, el oro cotiza cerca de 4.178 dólares la onza y el riesgo país quedó en 611 puntos básicos. A eso se suma un dato que no está en ese panel: las reservas brutas del Banco Central cayeron a 49.722 millones de dólares pese a que la entidad siguió comprando divisas.\n\nEn política, el Gobierno y sus aliados repusieron los límites a la venta de tierras a extranjeros dentro del proyecto de Inviolabilidad de la Propiedad Privada, que ya tiene dictamen y se vota en el recinto el 21 de octubre. La maniobra busca contener a los bloques aliados y evitar que la oposición junte el quórum para derogar el mega decreto este jueves, en una sesión que coincide con la quinta Marcha Federal Universitaria hacia el Congreso. Desde Washington, Milei respaldó a Flávio Bolsonaro de cara al balotaje brasileño y pidió que Trump salga fortalecido en las elecciones de medio término de Estados Unidos. Una encuesta de Atlas Intel mostró que ni Milei ni el gobernador bonaerense Axel Kicillof encabezan el ranking de dirigentes, aunque el Presidente supera por poco a Kicillof. Infobae señala además que crecen las tensiones dentro del Gobierno por la falta de resultados económicos, mientras La Libertad Avanza anticipa una negociación dura con el PRO por las listas bonaerenses de cara a 2027.\n\nEn economía y mercados, el riesgo país volvió a 611 puntos y los bonos argentinos siguen sin reaccionar, en un contexto de tasas internacionales altas que llevó al Gobierno a descartar por ahora un regreso a los mercados voluntarios de deuda. El Tesoro, en cambio, tuvo una buena licitación: adjudicó 6,61 billones de pesos frente a vencimientos por 4,86 billones, un rollover de 136 por ciento que le permitió estirar plazos hasta después de las elecciones. El Banco Central compró 101 millones de dólares, aunque las reservas brutas bajaron por pagos a organismos internacionales. Con la morosidad de las familias en niveles récord, el Gobierno prepara cinco medidas para ampliar el crédito en pesos. El plazo fijo, mientras tanto, quedó atrás de la inflación, y el campo exportó 43.509 millones de dólares en los primeros ocho meses del año, aunque casi la mitad de las economías regionales sigue en rojo.\n\nEn negocios y empresas, la Justicia declaró la quiebra de la textil santafesina Algodonera Avellaneda tras fracasar su salvataje, con miles de empleos en riesgo, mientras que un juez frenó la quiebra de la panificadora Pandanés y ahora se buscan nuevos dueños. Moolec Science, controlante del entramado de Bioceres y que cotiza en Nasdaq, propuso su propia liquidación voluntaria ante la falta de financiamiento. En energía, TGS avanza en un crédito de 1.400 millones de dólares para un proyecto en Vaca Muerta, e YPF ratificó su plan para cuadruplicar el valor de la compañía hacia 2030. Patricia Bullrich pidió además que los proyectos del régimen de grandes inversiones contraten más proveedores locales, ante el malestar de la industria por los insumos importados.\n\nEn impuestos y normativa, la Justicia le dio un revés a ARCA: anuló un ajuste en Ganancias contra Pan American Energy por exceder el plazo razonable para juzgar al contribuyente. Avanza también el Fondo de Asistencia Laboral, que entra en vigencia el primero de noviembre y obligará a las pymes a elegir pronto la entidad que administrará esos aportes. Un juez federal suspendió por tres meses dos artículos de la reforma laboral sobre pago de sentencias y costas judiciales, y la Ciudad de Buenos Aires lanzó un plan de pagos de ABL y patentes con quita total de intereses para deudas anteriores a diciembre.\n\nEn consumo, construcción y retail, un dato para tener en cuenta: según el Banco Central, la morosidad en las financieras de las cadenas de retail casi cuadruplica a la de los bancos, con niveles que superan el 50 por ciento en algunos casos. El Banco Ciudad lanzó un crédito hipotecario de hasta 150 millones de pesos a 25 años con tasa subsidiada, mientras los bancos le pusieron más condiciones al Gobierno para ampliar el destino de los créditos con fondos de ANSES pensados para motorizar la construcción. La Nación cuenta además cómo el costo de construcción subió más de 130 por ciento en dólares desde 2023 y cambió el mercado de lotes en barrios cerrados como Costa Esmeralda. En retail, un relevamiento de iProfesional mostró diferencias entre lo que prometía Superdry en precios respecto de Europa, y reabrió el histórico Showcenter de Haedo con formato de outlet, cine y gastronomía.\n\nEn management y finanzas corporativas, un informe de ABECEB sostiene que revertir el modelo económico sería más costoso que sostenerlo, incluso ante un eventual triunfo opositor en 2027, y que las empresas tienen más oportunidades que riesgos para mantener decisiones de inversión de mediano plazo. La misma consultora prepara para el 5 de noviembre su foro anual sobre geopolítica y estrategia empresarial, y El Cronista describe el estilo de gestión de Luis Caputo con el perfil de un director financiero más que de un ministro tradicional.\n\nEn el mundo, el Senado de Brasil aprobó reducir la jornada laboral de 44 a 40 horas semanales, la gran apuesta de Lula antes del balotaje, aunque las últimas encuestas muestran ventaja del candidato liberal. Ucrania retomó los bombardeos contra refinerías rusas tras una tregua de tres días nunca reconocida oficialmente, y Zelensky denunció al menos cien ataques rusos contra infraestructura energética en la última semana. Estados Unidos amenazó a España con tasas de doscientos mil dólares a sus buques por el bloqueo español de embarcaciones con armas para Israel, y Nayib Bukele evalúa liberar presos de su guerra contra las pandillas en El Salvador. El Reino Unido realizó ejercicios militares en las Malvinas recreando el desembarco de 1982, en medio de tensión con la Argentina que también se extiende a Magallanes, en el sur de Chile. Y en Pakistán, el derrumbe del techo de una escuela en Peshawar dejó al menos 27 niños muertos.\n\nLe Grand Continent analiza un dato llamativo: en el 98 por ciento de los países del mundo, los dirigentes son más grandes que la edad mediana de su población. Solo los Países Bajos, Lituania y Montenegro escapan a esa regla, mientras que Camerún, uno de los países con población más joven del planeta, está gobernado por uno de los líderes de mayor edad.\n\nEn deportes, River empató 1 a 1 con Sarmiento en Junín y sigue noveno en su grupo, afuera de la zona de playoffs. Con Messi de titular, el Inter Miami venció 2 a 0 a New York City y aseguró su clasificación a los playoffs de la Major League Soccer, con el capitán argentino clave en el primer gol y asistidor en el segundo. El tenista español Rafael Jódar sigue escalando en el ranking ATP entre polémicas dentro de la cancha, mientras Chiqui Tapia viajó a Zurich para la asamblea de la FIFA que prepara las elecciones de marzo, que además evalúa cambiar sus reglas disciplinarias tras el escándalo de Balogun en el Mundial. Los futbolistas argentinos, por su parte, tuvieron una segunda fecha dispar en la Champions League, con goleadas y también derrotas clave como locales.\n\nAntes de cerrar, una recomendación de turismo: el Castillo San Carlos, en Concordia, Entre Ríos, guarda una historia poco conocida. Investigaciones arqueológicas recuperaron allí objetos cotidianos y sistemas de agua de fines del siglo diecinueve, y el lugar fue escenario de un episodio de 1929 en el que el aviador Antoine de Saint-Exupéry conoció a las hermanas Fuchs Valon, experiencia que luego inspiró parte de su obra literaria.\n\nPor último en sociedad, el Servicio Meteorológico Nacional advirtió que el Súper Niño traerá lluvias fuertes y riesgo de inundaciones en el centro este del país, mientras la crecida del río Paraná llevó a abrir las compuertas de Yacyretá, lo que podría derivar en más generación hidroeléctrica y una baja en el costo de la energía.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "El feed de Le Grand Continent solo trajo una nota en esta ventana de 16 horas, por eso la sección Europa y geopolítica tiene una sola nota en lugar de las 3 a 5 habituales. Tampoco llegaron notas en los feeds de turismo/viajes de los diarios ni menciones de Franco Colapinto o Club Atlético Tigre en esta corrida; el destino argentino de la sección Turismo se tomó de una nota de portada de La Nación (Castillo San Carlos, Concordia) que describe un lugar puntual para visitar, tal como prevé la rutina.",
+ "slug": "2026-10-15-manana",
+ "generado_ba": "15/10/2026 10:19"
+}
