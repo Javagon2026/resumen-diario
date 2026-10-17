@@ -1,0 +1,587 @@
+{
+ "fecha": "2026-10-17",
+ "edicion": "tarde",
+ "titulo": "Fractura de Dibu Martínez, disturbios en Francia y tensión por Malvinas",
+ "apertura": "Emiliano Dibu Martínez sufrió una fractura de mandíbula en el partido de Chelsea ante Everton y debe ser operado, mientras las protestas en Francia escalaron a 400 detenidos y un incendio destruyó gran parte del histórico ayuntamiento de Limoges. En el plano diplomático, Estados Unidos presionó al Gobierno para que la ley de soberanía sobre Malvinas no afecte a sus empresas, en la misma semana en que una delegación argentina viajó a Londres en medio de la disputa por el petróleo del archipiélago. En la Argentina, las expensas porteñas volvieron a subir muy por encima de la inflación y la Selección confirmó sus primeros amistosos sin Lionel Messi.",
+ "claves": [
+  "Emiliano Dibu Martínez sufrió una fractura de mandíbula tras un choque en el partido de Chelsea ante Everton y está siendo operado en Liverpool.",
+  "Las protestas en Francia escalaron a 400 detenidos y un incendio destruyó gran parte del histórico ayuntamiento de Limoges, de 143 años.",
+  "Estados Unidos presionó al Gobierno para que la Ley de Defensa de la Soberanía Nacional sobre Malvinas no afecte a sus empresas, mientras una delegación argentina viajó a Londres en medio de la tensión por el petróleo del archipiélago.",
+  "Un exfiscal anticorrupción guatemalteco fue asesinado en una cancha de fútbol y la policía detuvo a dos hermanos diez minutos después del ataque.",
+  "Una avalancha en los Andes chilenos dejó al menos cuatro muertos en el centro de esquí Portillo.",
+  "Las expensas en la Ciudad de Buenos Aires subieron en septiembre más del doble que la inflación general, hasta un promedio de 379.794 pesos.",
+  "La Selección argentina confirmó que jugará amistosos ante Uruguay y Costa Rica en noviembre, en la primera convocatoria sin Lionel Messi.",
+  "En algunos tramos de ingresos el trabajo informal paga más que el empleo registrado, según un dato del INDEC sobre el segundo trimestre."
+ ],
+ "cifras": [
+  {
+   "nombre": "Expensas promedio en CABA",
+   "valor": "$ 379.774",
+   "variacion": "+4,9% vs. agosto",
+   "fuente": "IB-25"
+  },
+  {
+   "nombre": "Ingreso promedio trabajo registrado vs. informal (INDEC, 2° trim.)",
+   "valor": "$ 1.433.794 vs. $ 706.204",
+   "fuente": "IB-19"
+  },
+  {
+   "nombre": "Proyección USDA de oferta cárnica mundial 2027",
+   "valor": "-2 millones de toneladas",
+   "fuente": "IB-24"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-04",
+     "titulo": "Estados Unidos presiona al Gobierno para que la ley de soberanía sobre Malvinas no afecte a sus empresas",
+     "resumen": "En Washington advirtieron que el proyecto de Defensa de la Soberanía Nacional podría frenar el interés de las compañías estadounidenses y transformarse en una barrera para las inversiones en el país, según Clarín. La advertencia llega mientras el Gobierno negocia en el Congreso la aprobación del proyecto, que busca proteger los recursos naturales de las islas Malvinas.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Una delegación argentina viajó al Reino Unido en medio de la tensión por la soberanía y el petróleo de Malvinas",
+       "url": "https://www.infobae.com/politica/2026/10/17/una-delegacion-argentina-viajo-al-reino-unido-en-medio-de-la-tension-por-la-soberania-y-el-petroleo-de-malvinas/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/estados-unidos-presiona-gobierno-reclama-ley-malvinas-afecte-empresas_0_aGCasvHDpq.html",
+     "imagen": "https://www.clarin.com/img/2026/03/08/JpghJPSI__1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:17",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Estados Unidos presiona al Gobierno y reclama que la Ley Malvinas no afecte a sus empresas"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "una delegación argentina viajó a Londres en medio de la tensión por el petróleo de Malvinas",
+     "resumen": "El secretario de Minería, Luis Lucero, viajó junto a funcionarios de Mendoza y Jujuy para participar de la LME Week, uno de los foros más influyentes de la industria global de minerales, y expondrá ante inversores el lunes en el Argentina Day. El viaje se da la misma semana en que el Gobierno formalizó ante el Tribunal Internacional del Derecho del Mar su pedido para frenar la explotación petrolera británica en las islas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/17/una-delegacion-argentina-viajo-al-reino-unido-en-medio-de-la-tension-por-la-soberania-y-el-petroleo-de-malvinas/",
+     "imagen": "https://www.infobae.com/resizer/v2/NSD7K4FQABBHFEDECFM5RW4XBQ.jpeg?auth=b779f5f0d4ea227b034e614556122c057ac74afe55db71d2d74dda988fcbff3e&smart=true&width=900&height=620",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:51",
+     "autor": "Patricio Tesei",
+     "titulo_original": "Una delegación argentina viajó al Reino Unido en medio de la tensión por la soberanía y el petróleo de Malvinas"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "el oficialismo explora revertir en Diputados un cambio del Senado a la reforma del Banco Central",
+     "resumen": "El cambio en cuestión es el mecanismo de remoción de las autoridades de la entidad monetaria, que la Cámara alta modificó y blindó con dos tercios al tratar el proyecto enviado por el Gobierno. El oficialismo busca ahora que ese requisito también cuente con el respaldo de Diputados.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/reforma-banco-central-oficialismo-explora-opciones-revertir-cambio-clave-senado_0_WFQz9v5DC8.html",
+     "imagen": "https://www.clarin.com/img/2026/09/04/8Lf7uHeBn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:43",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Reforma del Banco Central: el oficialismo explora opciones para revertir un cambio clave del Senado"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "la Libertad Avanza reunió a mil jóvenes libertarios en la Ciudad y presiona al PRO en la pelea porteña",
+     "resumen": "El congreso de la juventud libertaria contó con la presencia de Pilar Ramírez, mano derecha de Karina Milei en el distrito, en un contexto de tensión con el PRO de cara a la disputa por la Ciudad de Buenos Aires.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/libertad-avanza-armo-congreso-juventud-ciudad-presiona-pro-pelea-portena_0_e8DZkfIzp8.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/ZLtWhduJy_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Libertad Avanza armó un congreso de la juventud en la Ciudad y presiona al PRO en la pelea porteña"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "el Gobierno celebró que el cirujano del papa descarte motivos clínicos para suspender su gira, pero pide prudencia",
+     "resumen": "El cirujano Stefano Margaritora aseguró que no existen razones médicas para que León catorce cancele su viaje a Uruguay, Argentina y Perú, previsto para noviembre. En la Casa Rosada valoraron la declaración, aunque prefieren esperar una confirmación oficial de la Santa Sede antes de dar por cerrada la logística de la visita.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/17/muy-importante-el-gobierno-celebro-las-declaraciones-sobre-la-salud-de-leon-xiv-pero-pide-prudencia-por-el-viaje-del-papa/",
+     "imagen": "https://www.infobae.com/resizer/v2/HM3TJIXAIRD5TLEAM2I7UMT3XU.jpg?auth=9af8092427c6f150e271dd3ec882ba7893a2ff0cf49c4464b940b69f66496ffb&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:41",
+     "autor": "Julián Alvez",
+     "titulo_original": "“Muy importante”: el Gobierno celebró las declaraciones sobre la salud de León XIV, pero pide “prudencia” por el viaje del papa"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CL-07",
+     "titulo": "Pablo Goldberg, de BlackRock, advirtió que la falta de ahorro en pesos es la principal vulnerabilidad de la Argentina",
+     "resumen": "El jefe de research y portfolio manager de deuda de mercados emergentes del mayor fondo de inversión del mundo señaló que los vaivenes político económicos generan una visión negativa entre los inversores. Afirmó que, de cara al año electoral, ese escenario se refleja en la prima de riesgo que paga el país en los mercados.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/pablo-goldberg-argentina-punto-vulnerabilidad-falta-voluntad-sector-privado-ahorrar-propia-moneda_0_qiNr89QTxy.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/ITNi2Klz4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Pablo Goldberg: “La Argentina tiene un punto de vulnerabilidad que es la falta de voluntad del sector privado para ahorrar en su propia moneda”"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "un exdirector del BCRA advirtió que \"el tren ya pasó\" para corregir el nivel del dólar",
+     "resumen": "El economista Jorge Carrera, ex director del Banco Central, cuestionó el nivel del tipo de cambio y sostuvo que el Gobierno dejó pasar la oportunidad de corregirlo de forma gradual. Advirtió que los programas de estabilización se vuelven más difíciles cuando la inflación se acerca a sus valores más bajos, porque el ajuste final resulta cada vez más costoso de sostener. Para una empresa, esta mirada advierte sobre el riesgo de que el atraso cambiario se corrija de forma brusca más adelante.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-tren-ya-paso-un-exdirector-del-bcra-alerto-por-el-dolar-y-anticipo-que-puede-pasar-en-el-ano-electoral/",
+     "imagen": "https://www.cronista.com/resizer/v2/OW7C6CM6N5CE7KKTQASYXUXLK4.jpg?auth=e982d2efdd085e1524f65b33a2a596eb8cf4bb625990e0878810ffbb7863d811&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:59",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“El tren ya pasó”: un exdirector del BCRA alertó por el dólar y anticipó qué puede pasar en el año electoral"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "en algunos tramos de ingresos el trabajo informal paga mejor que el empleo registrado, según el INDEC",
+     "resumen": "El ingreso promedio del trabajo registrado fue de 1.433.794 pesos brutos en el segundo trimestre, más del doble que los 706.204 pesos del empleo informal. Sin embargo, el organismo identificó al menos dos tramos de ingresos donde se revierte esa relación y el trabajador sin descuento jubilatorio cobra más que su par registrado.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/17/salario-y-empleo-cuales-son-los-segmentos-de-ingreso-en-los-que-el-trabajo-informal-remunera-mejor-que-el-trabajo-registrado/",
+     "imagen": "https://www.infobae.com/resizer/v2/TCIJWPEOSJCT3H64WQYE2UT6ZQ.png?auth=d37d88365583fb00460d51c04f1464a5e8764a3fde25dd804658f04cb21b79c8&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:43",
+     "autor": "Daniel Sticco",
+     "titulo_original": "Salario y empleo: en qué segmentos de ingreso el trabajo informal remunera mejor que el trabajo registrado"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "la crecida por \"El Niño Godzilla\" obliga a sacar hacienda en canoa y el USDA proyecta menos oferta de carne para 2027",
+     "resumen": "En Corrientes, productores trasladan terneros en canoas y arrean hacienda a nado ante el avance del agua, que según el titular de la Sociedad Rural de Bella Vista llegaría a la ciudad entre el martes y el miércoles. A nivel mundial, el Departamento de Agricultura de Estados Unidos proyectó para 2027 una caída de más de dos millones de toneladas en la oferta cárnica global por el fenómeno climático.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/17/vacas-nadando-y-terneros-en-canoa-el-efecto-de-el-nino-godzilla-y-su-posible-incidencia-sobre-el-precio-de-la-carne/",
+     "imagen": "https://www.infobae.com/resizer/v2/AFD3I34MSBAHTKF4FQERYWFSC4.png?auth=19a807e9c2d3c8f04728dc253cfbfb8d3fcd025bb08e13100cf44b2500c09031&smart=true&width=282&height=153",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:30",
+     "autor": "",
+     "titulo_original": "Vacas nadando y terneros en canoa: el efecto de “El Niño Godzilla” y su posible incidencia sobre el precio de la carne"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "AM-07",
+     "titulo": "Siemens despliega control digital y gemelos virtuales para reducir costos en Vaca Muerta",
+     "resumen": "La compañía aplica control inteligente de pozos y gemelos digitales del VMOS para mejorar la eficiencia operativa, reducir tiempos de ingeniería y anticipar fallas en la cuenca neuquina. Varias de estas tecnologías se presentarán en la feria AOG Patagonia 2026, en Neuquén.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/energia/vaca-muerta-control-digital-como-siemens-busca-mejorar-la-eficiencia-y-reducir-costos-n6334898",
+     "imagen": "https://media.ambito.com/p/daef853c280b2b79207c129373ea279b/adjuntos/239/imagenes/043/710/0043710695/vaca-muerta-digitalizacion.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:58",
+     "autor": "",
+     "titulo_original": "Vaca Muerta, bajo control digital: cómo Siemens busca mejorar la eficiencia y reducir costos"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "quién es José Luis Manzano, el empresario detrás de Shell, Metrogas y grandes medios",
+     "resumen": "El empresario expandió sus negocios desde la política hacia los medios, el petróleo y la energía, y hoy mantiene participaciones en compañías como Shell Argentina y Metrogas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466461-quien-es-jose-luis-manzano-el-empresario-detras-de-shell-metrogas-y-grandes-medios",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627709.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:41",
+     "autor": "",
+     "titulo_original": "Quién es José Luis Manzano, el empresario detrás de Shell, Metrogas y grandes medios"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "un emprendimiento argentino convierte paracaídas en ropa de diseño y exporta a mercados asiáticos",
+     "resumen": "A través de un proceso de upcycling, la marca reutiliza materiales industriales en desuso para fabricar indumentaria sustentable, con ventas que ya llegan a Asia.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466451-ropa-diseno-paracaidas-reciclados-marca-argentina-exporta-asia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627435.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "El emprendimiento argentino que convierte paracaídas en ropa de diseño y conquista el mundo"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la actividad de materiales de construcción y hogar.",
+   "notas": [
+    {
+     "id": "IB-25",
+     "titulo": "las expensas en la Ciudad subieron más del doble que la inflación en septiembre",
+     "resumen": "El valor promedio de las expensas en CABA fue de 379.774 pesos en septiembre, un 4,9% más que en agosto, según el relevamiento de ConsorcioAbierto. El incremento más que duplicó la inflación general del mes, que el INDEC midió en 1,9%, y representó un aumento de 17.615 pesos respecto del mes anterior.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/17/las-expensas-en-caba-aumentaron-mas-que-el-doble-de-la-inflacion-en-septiembre-cuanto-paga-un-departamento-promedio/",
+     "imagen": "https://www.infobae.com/resizer/v2/RBHNDSHFKFEEHK43UQPY7PBECY.jpg?auth=61107a52626f678f14f526065e38d7c1e2bd57e80d9e364ae4c9cc50afcea144&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:47",
+     "autor": "",
+     "titulo_original": "Las expensas en CABA aumentaron más que el doble de la inflación en septiembre: cuánto paga un departamento promedio"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "empresas de colectivos del AMBA advirtieron posibles recortes de frecuencias nocturnas",
+     "resumen": "Las cámaras CEAP, CETUBA, CTBPA y CEUTUPBA evalúan recortar de forma escalonada los servicios nocturnos a partir de la semana próxima y reclaman respuestas al Gobierno. Para una empresa, una reducción de frecuencias nocturnas de colectivos puede complicar la logística de turnos y el traslado de personal en el conurbano.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/colectivos-del-amba-advirtieron-posibles-recortes-los-servicios-que-le-reclaman-las-empresas-al-gobierno-n6334897",
+     "imagen": "https://media.ambito.com/p/d42a3da855d7d223cf6abc5a72c6ab7d/adjuntos/239/imagenes/043/617/0043617153/colectivos-transporte-publico-paradas-sube-paro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:56",
+     "autor": "",
+     "titulo_original": "Colectivos del AMBA advirtieron posibles recortes en los servicios: qué le reclaman las empresas al Gobierno"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "Trump endureció su discurso contra los inmigrantes y aseguró que México pagó el muro fronterizo con los aranceles",
+     "resumen": "En un mitin en Kentucky, de cara a las elecciones de medio término, el presidente estadounidense volvió a criticar a inmigrantes y ciudades refugio, culpó al gobierno anterior por la inflación y prometió recompensas si el Partido Republicano mantiene el control del Congreso. También sostuvo que México \"ha pagado muchas veces\" el muro fronterizo a través de los aranceles impuestos a ese país.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Trump asegura que México ha pagado \"muchas veces\" el muro fronterizo con los aranceles",
+       "url": "https://www.clarin.com/estados-unidos/trump-asegura-que-mexico-ha-pagado-muchas-veces-el-muro-fronterizo-con-los-aranceles_0_pRtmnq2Bav.html"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/trump-vuelve-a-criminalizar-a-inmigrantes-en-su-intento-de-animar-al-votante-republicano_0_Udimc8OEs4.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Trump vuelve a criminalizar a inmigrantes en su intento de animar al votante republicano"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "las protestas en Francia escalaron a 400 detenidos y el ayuntamiento histórico de Limoges quedó destruido por un incendio",
+     "resumen": "Las fuerzas de seguridad detuvieron a 400 personas durante una jornada de protestas por el encarecimiento de la vida en la que, según las autoridades, se movilizaron 550.000 personas en todo el país. En Limoges, manifestantes encapuchados incendiaron un vehículo policial y provocaron un incendio que destruyó buena parte del ayuntamiento municipal, un edificio de 143 años, mientras el presidente Emmanuel Macron advirtió que los responsables \"serán perseguidos y castigados\".",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Incendios, saqueos y enfrentamientos con la Policía: un escenario de guerra en plena campaña electoral en Francia",
+       "url": "https://www.clarin.com/mundo/incendios-saqueos-enfrentamientos-policia-escenario-guerra-plena-campana-electoral-francia_0_banL4eyW6J.html"
+      },
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Disturbios en Francia: los manifestantes incendiaron el histórico ayuntamiento de Limoges",
+       "url": "https://www.infobae.com/america/mundo/2026/10/17/disturbios-en-francia-los-manifestantes-incendiaron-el-historico-ayuntamiento-de-limoges/"
+      },
+      {
+       "id": "LN-08",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El impactante incendio de un edificio municipal de 143 años en las protestas en Francia",
+       "url": "https://www.lanacion.com.ar/el-mundo/el-impactante-incendio-de-una-alcaidia-en-las-protestas-en-francia-nid17102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/17/nueva-jornada-de-protestas-e-incidentes-en-francia-hubo-disturbios-en-varias-ciudades-del-pais-y-al-menos-100-detenidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/MA7XMCH6XBCVXDK4LDHS7Q76T4.JPG?auth=c7c2b3090236428c663961666382318a6ef4388c8a68b28919bcc77ad0e325ce&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:10",
+     "autor": "",
+     "titulo_original": "Crece la tensión en Francia: disturbios, saqueos y más de 400 detenidos en una nueva jornada de violentas protestas"
+    },
+    {
+     "id": "IB-03",
+     "titulo": "la policía de Guatemala detuvo a dos hermanos diez minutos después del asesinato de un exfiscal anticorrupción",
+     "resumen": "Juan Francisco Solórzano Foppa, exfiscal contra pandillas y extitular de la agencia tributaria guatemalteca, fue asesinado junto con otra persona mientras jugaba un partido de fútbol en el complejo Campo Marte, en la capital. La Policía Nacional Civil detuvo minutos después a los hermanos Rigoberto y Daniel Choc Toz como presuntos responsables, mientras la embajada de Estados Unidos exigió una investigación completa.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Asesinan a un exfiscal anticorrupción en una cancha de fútbol: había denunciado nexos entre políticos y pandillas en Guatemala",
+       "url": "https://www.clarin.com/mundo/asesinan-exfiscal-anticorrupcion-cancha-futbol-denunciado-nexos-politicos-pandillas-guatemala_0_dFuJTHUo5R.html"
+      },
+      {
+       "id": "LN-15",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Un exfiscal anticorrupción fue asesinado en una cancha de fútbol en Guatemala: otra persona murió en el ataque",
+       "url": "https://www.lanacion.com.ar/el-mundo/un-exfiscal-anticorrupcion-fue-asesinado-en-una-cancha-de-futbol-en-guatemala-otra-persona-murio-en-nid17102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/guatemala/2026/10/17/guatemala-la-policia-nacional-civil-captura-a-dos-hermanos-por-el-asesinato-de-solorzano-foppa-en-campo-marte-diez-minutos-despues-del-ataque/",
+     "imagen": "https://www.infobae.com/resizer/v2/X4AG6EZWEZFYFF5GJJ7ED3ZSUI.jpg?auth=61c8f1d75a4984c561e5debab0ab3a74c431c7d40d30a02a787dd1565996d74f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:06",
+     "autor": "Sayda Galicia",
+     "titulo_original": "Guatemala: La Policía Nacional Civil captura a dos hermanos por el asesinato de Solórzano Foppa en Campo Marte diez minutos después del ataque"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "una avalancha en los Andes chilenos dejó al menos cuatro muertos en un centro de esquí",
+     "resumen": "El episodio ocurrió en el Centro de Esquí Portillo, el más antiguo de Sudamérica, a dos horas de Santiago de Chile. Las autoridades informaron además cuatro heridos y no descartaron que haya otras personas atrapadas en el lugar.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/17/avalancha-en-zona-central-de-los-andes-chilenos-causa-al-menos-cuatro-fallecidos/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Avalancha en zona central de Los Andes chilenos causa al menos cuatro fallecidos"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "colonos israelíes atacaron a una delegación diplomática europea en Cisjordania y Francia exigió a Israel que detenga a los responsables",
+     "resumen": "El ataque ocurrió en la localidad de Taybeh durante la recorrida de una comitiva internacional que relevaba agresiones previas contra agricultores palestinos. El canciller de Bélgica exigió a Israel llevar a los responsables ante la Justicia, mientras su par francés, Jean Noël Barrot, pidió a las autoridades israelíes detener a los agresores que también atacaron al alcalde de una localidad francesa que integraba la delegación.",
+     "relacionadas": [
+      {
+       "id": "IB-11",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Francia exige a Israel que detenga a colonos que agredieron a alcalde galo en Cisjordania",
+       "url": "https://www.infobae.com/america/agencias/2026/10/17/francia-exige-a-israel-que-detenga-a-colonos-que-agredieron-a-alcalde-galo-en-cisjordania/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/colonos-israelies-atacaron-delegacion-diplomatica-europea-cisjordania-fuerte-repudio-canciller-belgica_0_PikuRVYVQ9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/vrLmj7Uph_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Colonos israelíes atacaron a una delegación diplomática europea en Cisjordania: fuerte repudio del canciller de Bélgica"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "Rubio encabeza una delegación de 200 empresarios en Asia Central para fortalecer lazos comerciales de Estados Unidos",
+     "resumen": "El secretario de Estado viaja a Uzbekistán y otros países de Asia Central y del Sur para impulsar vínculos comerciales, con foco en el sector energético, en momentos en que Washington busca contrarrestar la influencia de Rusia y China en la región.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/rubio-viaja-a-asia-central-y-del-sur-para-impulsar-lazos-comerciales-de-eeuu_0_qCdjwCc3ww.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Rubio viaja a Asia Central y del Sur para impulsar lazos comerciales de EEUU"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-06",
+     "titulo": "Emiliano Dibu Martínez sufrió una fractura de mandíbula y debe ser operado tras el golpe en Everton",
+     "resumen": "El arquero argentino del Chelsea permanece hospitalizado en Liverpool luego de chocar con un rival durante la victoria 2 a 0 ante Everton, cuando intentaba despejar un centro y se encontró con el defensor Jarrad Branthwaite. La salida en camilla estuvo además marcada por silbidos del público local, que según medios británicos creyó que el arquero fingía la lesión.",
+     "relacionadas": [
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La reprochable actitud de los hinchas del Everton durante la salida de Dibu Martínez por lesión: “Creí que estaba fingiendo”",
+       "url": "https://www.infobae.com/deportes/2026/10/17/la-reprochable-actitud-de-los-hinchas-del-everton-durante-la-salida-de-dibu-martinez-por-lesion-crei-que-estaba-fingiendo/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/dibu-martinez-sufrio-una-fractura-de-mandibula-tras-el-duro-golpe-con-un-rival-y-debe-ser-operado-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LIZ2EZQKU5FDDGEY3WGRIF5IDA.JPG?auth=369621a3f35098f8e41feb5ecd030001c081f2e4631a44810c285067d851eac7&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:57",
+     "autor": "",
+     "titulo_original": "Dibu Martínez sufrió una fractura de mandíbula tras el duro golpe con un rival y debe ser operado"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "Barcelona, con Lamine Yamal, goleó a Betis y mantiene un invicto perfecto de nueve partidos",
+     "resumen": "El equipo catalán ganó los nueve partidos que lleva disputados en la temporada y acumula 39 goles a favor. El exVélez Valentín Gómez convirtió para el local, que además tuvo un golazo de Giovani Lo Celso anulado por el VAR tras una mano previa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/barcelona-aplanadora-mano-lamine-yamal-goleo-betis-golazo-celso-ahogado-var_0_X0RaLcw5gO.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/mdew5MBqV_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Barcelona es una aplanadora de la mano de Lamine Yamal: goleó al Betis, que tuvo un golazo de Lo Celso ahogado por el VAR"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "el Leipzig de Demichelis sufrió una goleada 6 a 1 en la vuelta del entrenador a Bayern Múnich",
+     "resumen": "El regreso de Michael Demichelis al club donde jugó siete temporadas como futbolista terminó en una dolorosa derrota. Luis Díaz marcó un hat-trick y Harry Kane sumó otro gol en la victoria del Bayern por la Bundesliga.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/cachetazo-demichelis-bundesliga-leipzig-sufrio-goleada-regreso-dt-bayern-munich_0_kkmaMYLlGp.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/1Yn3xe9yj_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cachetazo a Demichelis en la Bundesliga: su Leipzig sufrió una goleada en el regreso del DT a Bayern Munich"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "la Selección argentina confirmó sus rivales para la última doble fecha del año, la primera sin Lionel Messi",
+     "resumen": "El equipo de Lionel Scaloni recibirá a Uruguay en Buenos Aires y a Costa Rica en Córdoba en la ventana de noviembre, luego de que se cayera la gira prevista por Asia ante Arabia Saudita e India. Será la primera convocatoria desde el retiro de Messi de la Selección, tras el triunfo 3 a 0 ante Benín a principios de octubre.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/amistosos-de-la-seleccion-argentina-contra-que-rivales-juega-en-la-fecha-fifa-de-noviembre-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/O65JA566HJEP7IYPINIIFI6KDY.JPG?auth=545a3e8122ebbb84c0ff80cc556d0544a508271e0497fe24e5951890781e7f0d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:29",
+     "autor": "",
+     "titulo_original": "Amistosos de la selección argentina: contra qué rivales juega en la fecha FIFA de noviembre"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "Santiago Castro convirtió un golazo con la camiseta de la Roma en la Serie A",
+     "resumen": "El delantero surgido en Vélez y citado por Scaloni a la última lista de la Selección anotó el primer gol de la Roma ante Genoa, luego de proteger una pelota dentro del área con cinco rivales marcándolo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/el-golazo-de-santiago-castro-una-de-las-promesas-de-la-seleccion-argentina-en-italia-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/L5HD2U4SXNESJNNPWF6VPZ5LMA.jpg?auth=53c5c5336cbd0411b14b84576f751d9363eb284fdb583db2d50a9ebf5c839606&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:23",
+     "autor": "",
+     "titulo_original": "El golazo de Santiago Castro, una de las promesas de la selección argentina en Italia"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Hindú clasificó a semifinales del Top catorce de la URBA, SIC quedó afuera y Los Matreros descendió",
+     "resumen": "El equipo de Don Torcuato goleó 68 a 33 a Atlético del Rosario y volvió a las semifinales tras dos temporadas de ausencia. SIC, pese a ganarle a Buenos Aires Cricket and Rugby, quedó eliminado por primera vez desde 2018, mientras Los Matreros perdió con Belgrano Athletic y descendió a la Primera A junto a Champagnat.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/top-14-de-la-urba-hindu-se-clasifico-sic-quedo-afuera-y-los-matreros-descendio-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7OIDESZSK5C7VMBA57WA6YO5QM.JPG?auth=0483d04c570ff61ee5adf11041decacbb08800ecbb9234fddcdc6808ca36a9e9&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:01",
+     "autor": "",
+     "titulo_original": "Top 14 de la URBA: Hindú se clasificó, SIC quedó afuera y Los Matreros descendió"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "la Selección femenina Sub diecisiete debutó con una ajustada derrota ante Alemania en su primer Mundial",
+     "resumen": "El equipo dirigido por Christian Meloni cayó 2 a 1 ante Alemania en el estreno del torneo que se disputa en Marruecos hasta el 7 de noviembre. Mercedes Diz convirtió el primer gol de la historia albiceleste en esta competencia, aunque el equipo no pudo sostener la ventaja hasta el final.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/17/argentina-tuvo-su-debut-historico-en-el-mundial-femenino-sub-17-con-una-ajustada-derrota-2-1-ante-alemania/",
+     "imagen": "https://www.infobae.com/resizer/v2/7WKOQ4IBBRCSZKART7NRZC6OHI.jpg?auth=d37ae6573f919777036c59cfa42ab7c9b0d56eeb1585447df7bd4f5b0285806f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:14",
+     "autor": "",
+     "titulo_original": "Argentina tuvo su debut histórico en el Mundial femenino Sub 17 con una ajustada derrota 2-1 ante Alemania"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "buscan voluntarios para vivir en un domo ecológico en las sierras cordobesas a cambio de tareas de jardinería",
+     "resumen": "El proyecto, ubicado en San Marcos Sierras, Córdoba, ofrece alojamiento con internet a cambio de que los viajeros colaboren algunas horas por semana con el mantenimiento de espacios verdes. La propuesta se difunde a través de Workaway, la plataforma que conecta voluntarios con anfitriones en distintos destinos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-un-domo-ecologico-en-cordoba-ofrecen-alojamiento-con-internet-a-cambio-de-colaborar-con-jardineria-en-espacios-abiertos/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZFCO3TAH6JHAPHNKLWTRNDRQKQ.jpg?auth=c735297bfb868a527e185df3739c2f7b4af25bc46ee8f06a964f490d7f4d7263&smart=true&width=900&height=475",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:46",
+     "autor": "Gabriel Cuellar",
+     "titulo_original": "Buscan voluntarios para vivir en un domo ecológico en Córdoba: ofrecen alojamiento con internet a cambio de colaborar con jardinería en espacios abiertos"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "El Niño complica el pronóstico para las vacaciones de verano en la Costa Atlántica",
+     "resumen": "El fenómeno climático, catalogado como \"muy fuerte\", podría dejar una temporada estival más lluviosa en la costa bonaerense, aunque no existen pronósticos confiables a tan largo plazo. En Mar del Plata ya se pidió una \"emergencia preventiva\" ante un escenario que también genera dudas sobre el verano en Brasil.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-puede-complicar-vacaciones-verano-costa-atlantica_0_xcfYhLDudy.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/ktxidx6-I_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño: ¿puede complicar las vacaciones de verano en la Costa Atlántica?"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "murió Juan Carlos Diez, el periodista y escritor que retrató a Spinetta en Martropía",
+     "resumen": "Trabajó más de 15 años en Clarín y colaboró en revistas como Nueva, La Maga, Noticias y Anfibia. En 2006 publicó Martropía, un libro con más de cinco años de conversaciones con Luis Alberto Spinetta, y en 2001 había recibido el premio a la creatividad de la Academia Nacional de Periodismo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/murio-juan-carlos-periodista-escritor-hizo-oficio-arte-atravesado-musica_0_l7870kNtBU.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/vA7wLePvl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Murió Juan Carlos Diez, el periodista y escritor que hizo del oficio un arte atravesado por la música"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "la Justicia investiga la difusión de imágenes íntimas de una docente en una escuela técnica de Mendoza",
+     "resumen": "El caso, ocurrido en la Escuela Técnica Número 4-120 de San Martín, quedó bajo la órbita del fuero penal juvenil porque el principal sospechoso es menor de edad. La fiscalía busca establecer cómo se accedió al material y cómo circuló entre estudiantes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/17/investigan-la-difusion-de-imagenes-intimas-de-una-docente-en-una-escuela-de-mendoza/",
+     "imagen": "https://www.infobae.com/resizer/v2/F6DUZ5NWKRDBZIZRSV5RFXAE5A.jpg?auth=d062796f46c807c027aa2ffc53b06306423242b93d290f9ff076557f4c82271f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:42",
+     "autor": "",
+     "titulo_original": "Investigan la difusión de imágenes íntimas de una docente en una escuela de Mendoza"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "un profesor tucumano prepara a jóvenes para la industria y los ayuda a confiar en sus capacidades",
+     "resumen": "En el taller de Víctor Zanotta los alumnos crean proyectos tecnológicos innovadores y dejan de lado el miedo a equivocarse. Es uno de los seis finalistas del premio Docentes que Inspiran, de Clarín y Zurich, que reparte 32 millones de pesos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/profesor-tucumano-prepara-jovenes-industria-ensena-confiar-capacidades_0_JsRBvP26FC.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/W7bx17FAK_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El profesor tucumano que prepara a los jóvenes para la industria y les enseña a confiar en sus capacidades"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "el frío y la nubosidad acompañarán todo el fin de semana en Buenos Aires",
+     "resumen": "El AMBA tiene un sábado fresco, con cielo parcialmente nublado y una máxima de 15 grados, según el Servicio Meteorológico Nacional. El domingo seguirá sin lluvias, aunque la temperatura mínima será todavía más baja.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/clima-buenos-aires-nubes-van-frio-queda-fin-semana_0_1C9DwxnMcJ.html",
+     "imagen": "https://www.clarin.com/img/2019/08/08/QwdjIva9Q_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:27",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El clima en Buenos Aires: las nubes no se van y el frío se queda todo el fin de semana"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del sábado diecisiete de octubre. Emiliano Dibu Martínez sufrió una fractura de mandíbula en el partido de Chelsea ante Everton y está siendo operado en Liverpool, mientras las protestas en Francia escalaron a cuatrocientos detenidos y un incendio destruyó gran parte del histórico ayuntamiento de Limoges. En el plano diplomático, Estados Unidos presionó al Gobierno para que la ley de soberanía sobre Malvinas no afecte a sus empresas, en la misma semana en que una delegación argentina viajó a Londres en medio de la disputa por el petróleo del archipiélago. El dólar oficial cerró en mil quinientos treinta y cinco pesos, el dólar blue en mil quinientos cincuenta y cinco pesos y el riesgo país se mantiene en torno a los seiscientos cuarenta y ocho puntos básicos, mientras el oro cotiza por encima de los cuatro mil ciento ochenta dólares la onza. En la Ciudad de Buenos Aires, las expensas subieron en septiembre a un promedio de trescientos setenta y nueve mil setecientos setenta y cuatro pesos, un cuatro coma nueve por ciento más que en agosto, muy por encima de la inflación general del mes, que fue de uno coma nueve por ciento. En política, Estados Unidos advirtió que el proyecto de Defensa de la Soberanía Nacional sobre Malvinas podría frenar el interés de sus empresas y convertirse en una barrera para las inversiones, según informa Clarín. En la misma semana, una delegación encabezada por el secretario de Minería, Luis Lucero, viajó a Londres para participar de un foro de inversión en minerales estratégicos, mientras el Gobierno negocia en el Congreso la aprobación del proyecto. Además, el oficialismo explora revertir en Diputados un cambio que el Senado introdujo a la reforma del Banco Central, sobre el mecanismo de remoción de sus autoridades, y La Libertad Avanza reunió a mil jóvenes militantes en un congreso en la Ciudad en medio de la pelea con el PRO por la Capital. En economía y mercados, Pablo Goldberg, de BlackRock, advirtió que la falta de voluntad del sector privado para ahorrar en pesos es la principal vulnerabilidad de la Argentina, en un contexto de prima de riesgo elevada de cara al año electoral. El economista Jorge Carrera, ex director del Banco Central, dijo que el tren ya pasó para corregir de forma gradual el nivel del dólar, y advirtió que ese atraso podría corregirse de forma brusca más adelante. Según el Indec, en algunos tramos de ingresos el trabajo informal paga mejor que el empleo registrado, con un promedio de un millón cuatrocientos treinta y tres mil pesos brutos para los asalariados registrados frente a setecientos seis mil pesos para los informales en el segundo trimestre. Además, el avance de la crecida por el fenómeno de El Niño obliga en Corrientes a trasladar hacienda en canoas, mientras el Departamento de Agricultura de Estados Unidos proyectó para dos mil veintisiete una caída de más de dos millones de toneladas en la oferta mundial de carne. En negocios y empresas, Siemens despliega control digital y gemelos virtuales para reducir costos operativos en Vaca Muerta, un emprendimiento argentino convierte paracaídas en ropa de diseño y ya exporta a mercados asiáticos, e iProfesional repasa la trayectoria de José Luis Manzano, el empresario detrás de Shell, Metrogas y grandes medios. En consumo y construcción, además de la suba de las expensas porteñas, las cámaras de colectivos del AMBA advirtieron posibles recortes de frecuencias nocturnas a partir de la semana próxima, algo que para una empresa puede complicar la logística de turnos y el traslado de personal en el conurbano. En el mundo, el presidente Donald Trump volvió a criticar a los inmigrantes en un mitin en Kentucky y aseguró que México ha pagado muchas veces el muro fronterizo con los aranceles impuestos a ese país. En Francia, las protestas por el costo de vida dejaron cuatrocientos detenidos y un incendio que destruyó buena parte del ayuntamiento de Limoges, un edificio de ciento cuarenta y tres años, mientras el presidente Emmanuel Macron prometió castigar a los responsables. En Guatemala, la policía detuvo a dos hermanos diez minutos después del asesinato de un exfiscal anticorrupción en una cancha de fútbol, y en Chile una avalancha en los Andes dejó al menos cuatro muertos en el centro de esquí Portillo. También colonos israelíes atacaron a una delegación diplomática europea en Cisjordania, lo que llevó a Francia a exigirle a Israel que detenga a los responsables, y el secretario de Estado estadounidense, Marco Rubio, encabeza una delegación de doscientos empresarios en Asia Central para fortalecer lazos comerciales. En deportes, la gran preocupación es la fractura de mandíbula de Emiliano Dibu Martínez, que debe ser operado tras chocar con un rival en el partido del Chelsea. Barcelona, con Lamine Yamal, goleó a Betis y mantiene un invicto perfecto de nueve partidos, mientras el Leipzig de Demichelis sufrió una goleada de seis a uno en la vuelta del entrenador a Bayern Múnich. La Selección argentina confirmó que jugará amistosos ante Uruguay y Costa Rica en noviembre, en la primera convocatoria sin Lionel Messi, y Santiago Castro convirtió un golazo con la camiseta de la Roma en la Serie A. En rugby, Hindú clasificó a las semifinales del Top catorce de la URBA, mientras Los Matreros descendieron a la Primera A. Y la Selección femenina Sub diecisiete debutó con una ajustada derrota ante Alemania en su primer Mundial, disputado en Marruecos. En turismo, en las sierras cordobesas de San Marcos Sierras buscan voluntarios para vivir en un domo ecológico a cambio de tareas de jardinería, y en la Costa Atlántica el fenómeno de El Niño complica el pronóstico para las vacaciones de verano, con una emergencia preventiva ya solicitada en Mar del Plata. En sociedad, murió el periodista y escritor Juan Carlos Diez, autor de Martropía, el libro de conversaciones con Luis Alberto Spinetta, y la Justicia investiga la difusión de imágenes íntimas de una docente en una escuela técnica de Mendoza. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Esta corrida de la tarde no incluyó notas de Le Grand Continent, por lo que se omitió la sección Europa y geopolítica. Tampoco hubo material nuevo para una sección de Impuestos, laboral y normativa ni de Management y finanzas corporativas, por lo que se omitieron en esta edición. No apareció novedad sobre Franco Colapinto ni sobre Club Atlético Tigre más allá de lo ya publicado en la edición del mediodía.",
+ "slug": "2026-10-17-tarde",
+ "generado_ba": "17/10/2026 21:15"
+}
