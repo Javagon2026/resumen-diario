@@ -1,0 +1,911 @@
+{
+ "fecha": "2026-10-18",
+ "edicion": "manana",
+ "titulo": "Francia sacudida por protestas violentas, mientras Caputo promete liberar el cepo",
+ "apertura": "Francia amaneció con más de mil ochocientos detenidos tras una jornada de protestas que derivó en saqueos e incendios y se extendió a Italia. En la Argentina, el Gobierno busca evitar un lunes negro en los mercados mientras Luis Caputo habla de un excedente de dólares desde las reuniones del Fondo Monetario Internacional en Tailandia, y el peronismo volvió a mostrarse dividido en el Día de la Lealtad. En deportes, Racing e Independiente juegan hoy el clásico de Avellaneda.",
+ "claves": [
+  "Francia endureció su respuesta tras protestas que dejaron más de mil ochocientos detenidos y violencia que también alcanzó a Italia.",
+  "El riesgo país argentino cerró el viernes en 648 puntos básicos, cerca del máximo del año.",
+  "Caputo dijo en el FMI que hay un 'excedente de dólares' y vinculó el RIGI con el fin del cepo cambiario.",
+  "El peronismo marcó el Día de la Lealtad con actos divididos entre Kicillof, Máximo Kirchner y una movilización a San José 1111.",
+  "Diputados retoma el miércoles el debate por Discapacidad, Morosidad y la Ley de Tierras tras frenar la sesión opositora.",
+  "ARBA lanza desde el 26 de octubre una moratoria impositiva con descuentos de hasta 40%.",
+  "Racing e Independiente juegan hoy a las 14.45 el clásico de Avellaneda.",
+  "Dibu Martínez sufrió una fractura de mandíbula y fue operado tras un choque en el Chelsea-Everton."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 110 por barril",
+   "variacion": "+3% en la semana",
+   "fuente": "IB-24"
+  },
+  {
+   "nombre": "Alquileres CABA (variación mensual)",
+   "valor": "+1,31%",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Inflación alimentos (promedio 4 semanas)",
+   "valor": "4,4%",
+   "fuente": "CR-09"
+  },
+  {
+   "nombre": "Producción industrial Argentina (acum. 8 meses 2026)",
+   "valor": "-2,7%",
+   "fuente": "CL-17"
+  },
+  {
+   "nombre": "Patentamientos 0km (septiembre)",
+   "valor": "49.814 unidades",
+   "variacion": "+10,7% m/m",
+   "fuente": "LN-07"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-19",
+     "titulo": "El Gobierno busca evitar un nuevo lunes negro en los mercados",
+     "resumen": "El desgaste presidencial, la resistencia de la inflación y las disidencias internas por el rumbo económico llevan a Javier Milei a maniobrar para contener a los mercados antes de la apertura del lunes. Según Clarín, hay una negociación a contrarreloj en el Congreso y trascendió un encuentro entre Cristina Kirchner y Sergio Massa.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Ansiedad en la mesa chica del Gobierno: crecen las internas por la estrategia para 2027 y surgen los primeros números clave",
+       "url": "https://www.infobae.com/politica/2026/10/18/ansiedad-en-la-mesa-chica-del-gobierno-crecen-las-internas-por-la-estrategia-para-2027-y-surgen-los-primeros-numeros-clave/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/objetivo-urgente-gobierno-maniobras-javier-milei-evitar-fantasma-lunes-negro_0_y2Ucj51Lg9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/a9z6iA7TQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El objetivo más urgente del Gobierno y las maniobras de Javier Milei para evitar el fantasma del lunes negro"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "El peronismo celebró el Día de la Lealtad con actos divididos y una masiva marcha a San José 1111",
+     "resumen": "El Partido Justicialista realizó convocatorias separadas: Máximo Kirchner encabezó un acto en Chaco y Axel Kicillof otro en La Matanza, mientras una columna de militantes se movilizó hasta el departamento de Cristina Kirchner en Constitución, donde cumple prisión domiciliaria desde junio de 2025 por la causa Vialidad. La expresidenta salió al balcón, saludó con la V de la victoria y acompañó algunos cánticos.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Día de la Lealtad por separado: Kicillof defendió a Cristina Kirchner y La Cámpora llenó San José 1111",
+       "url": "https://www.clarin.com/politica/dia-lealtad-separado-kicillof-defendio-cristina-kirchner-campora-lleno-san-jose-1111_0_FDAIpqovEr.html"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Desde Formosa a Tierra del Fuego, se multiplicaron los actos del peronismo por el Día de la Lealtad",
+       "url": "https://www.ambito.com/politica/desde-formosa-tierra-del-fuego-se-multiplicaron-los-actos-del-peronismo-el-dia-la-lealtad-n6334945"
+      },
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Cristina Kirchner salió al balcón y saludó a la militancia: el reclamo del PJ por su libertad en el Día de la Lealtad",
+       "url": "https://www.cronista.com/economia-politica/cristina-kirchner-salio-al-balcon-y-saludo-a-la-militancia-el-reclamo-del-pj-por-su-libertad-en-el-dia-de-la-lealtad/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/dia-de-la-lealtad-el-pj-pidio-por-la-libertad-de-cristina-kirchner-y-el-fin-de-su-proscripcion-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HE6CBK4N4RCABPCR3Q5P36D2T4.jpeg?auth=e409dd84e3ad2ff37047e981a378079580926e75a009d4e145b08bda9ef7f204&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:22",
+     "autor": "",
+     "titulo_original": "El PJ hizo actos divididos por el Día de la Lealtad y hubo una masiva movilización a San José 1111 por Cristina Kirchner"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "Diputados retoma el miércoles la agenda oficialista tras la caída de la sesión por el DNU 70",
+     "resumen": "Luego de que el oficialismo lograra frenar la sesión opositora contra el DNU 70, convocó para el miércoles a tratar los proyectos de Discapacidad, Morosidad y la Ley de Tierras, esta última incorporada al proyecto de Propiedad Privada. El temario también incluye un sistema nacional de trazabilidad de medicamentos de alto riesgo y un proyecto de Vandalismo Rural.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Después de hacer caer la sesión opositora, La Libertad Avanza retruca con una sorpresa en Diputados",
+       "url": "https://www.ambito.com/politica/despues-hacer-caer-la-sesion-opositora-la-libertad-avanza-retruca-una-sorpresa-diputados-n6334970"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/diputados-hacer-caer-sesion-opositora-dnu-70-oficialismo-intenta-miercoles-imponer-proyectos-clave_0_0cSfg54gEU.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/7xcjUWhfm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Diputados: tras hacer caer la sesión opositora contra del DNU 70, el oficialismo intenta el miércoles imponer sus proyectos clave"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "La ofensiva de Milei por Malvinas profundizó la crisis con Gran Bretaña",
+     "resumen": "Después de que el Gobierno recurriera al Tribunal del Mar de Hamburgo para frenar la explotación petrolera de un consorcio británico-israelí en las islas, el vínculo diplomático con Londres atraviesa uno de sus momentos más tensos desde la guerra de 1982. Según La Nación, Gran Bretaña acusa a los libertarios de usar la disputa por la soberanía con fines electorales.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-renovada-ofensiva-de-milei-por-malvinas-profundizo-la-crisis-bilateral-con-gran-bretana-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SJY2BZKQBFEVRJAWNSDNV3645A.jpeg?auth=c0748954f14a2b0dda973ac097465b6a265e53c747cc54b6707446c3247ca615&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:38",
+     "autor": "Jaime Rosemberg",
+     "titulo_original": "La renovada ofensiva de Milei por Malvinas profundizó la crisis bilateral con Gran Bretaña"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "La Justicia insiste con un exhorto a Estados Unidos por los fondos de la AFA en Miami",
+     "resumen": "La fiscal Silvana Russi pidió a la jueza Paula Petazzi que envíe un exhorto a Estados Unidos para obtener información societaria y financiera de TourProdEnter, la empresa que administró fondos de la AFA en Miami desde 2021, vinculada a Javier Faroni, Claudio Tapia y Pablo Toviggino. Según La Nación, el pedido lleva más de dos semanas de idas y vueltas sin resolverse.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/cruces-y-maniobras-dilatorias-en-torno-a-un-exhorto-a-eeuu-que-incluye-datos-sobre-tapia-toviggino-y-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/X3474FWVIVCNVN655IPXRV7MLQ.jpg?auth=4410775eb06f53f3ac53b5ae1041bd16daeeb02a2483f85ed21e99335cdd94dc&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:26",
+     "autor": "Nicolás Pizzi",
+     "titulo_original": "Cruces y maniobras dilatorias en torno a un exhorto a EE.UU. que incluye datos sobre Tapia, Toviggino y la firma de Faroni"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "Milei, entre los gobernadores y la tropa propia: las tensiones que complican el armado de 2027",
+     "resumen": "La disputa por las candidaturas en las PASO expone diferencias dentro de La Libertad Avanza sobre cómo negociar con los mandatarios provinciales, con estrategias distintas entre Martín Menem, Diego Santilli y Patricia Bullrich. Según Ámbito, también hay mensajes cruzados en el Gobierno sobre la negociación del Presupuesto y la relación con China.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/javier-milei-los-gobernadores-y-la-tropa-propia-las-tensiones-que-complican-el-armado-2027-n6334979",
+     "imagen": "https://media.ambito.com/p/a8215299a84e92b9ef5880f600894451/adjuntos/239/imagenes/041/945/0041945161/1200x675/smart/milei-gobernadores-radicalesjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Javier Milei, entre los gobernadores y la tropa propia: las tensiones que complican el armado de 2027"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Milei viaja a una Europa convulsionada por las protestas, con agenda en España",
+     "resumen": "El Presidente viajará a España, donde combinará actividades sobre la Escuela Austríaca de Economía con un nuevo encuentro con Isabel Díaz Ayuso, en medio de la antesala electoral española de noviembre. Según Infobae, por el momento no tiene previsto un encuentro con Santiago Abascal.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/18/milei-viaja-a-una-europa-en-crisis-reunion-en-espana-con-diaz-ayuso-economia-austriaca-y-batalla-cultural-contra-la-izquierda/",
+     "imagen": "https://www.infobae.com/resizer/v2/4X7E5NMOWFAPFEQMNN4YBQZNHA.jpg?auth=7184f6cec4ee7bac2127c1bea01d353ed5d4bcdab07f4256c340a5f14baa5cd3&smart=true&width=900&height=652",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:07",
+     "autor": "Facundo Chaves",
+     "titulo_original": "Milei viaja a una Europa en crisis: reunión en España con Díaz Ayuso, economía austríaca y batalla cultural contra la izquierda"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "Caputo dijo que hay 'excedente de dólares' y vinculó el RIGI con el fin del cepo",
+     "resumen": "El ministro de Economía aseguró en Bangkok, durante las Reuniones Anuales del FMI y el Banco Mundial, que la Argentina atraviesa una situación de excedente de dólares y que el ingreso de inversiones del Régimen de Incentivo para Grandes Inversiones permitirá avanzar en el levantamiento de las restricciones cambiarias que aún afectan a las empresas. Para una empresa: si se confirma la flexibilización del cepo, podría facilitarse el giro de utilidades y el acceso a divisas para importaciones.",
+     "relacionadas": [
+      {
+       "id": "LN-26",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Luis Caputo aseguró que hay “un excedente de dólares” y que el rumbo del RIGI permitiría levantar restricciones cambiarias",
+       "url": "https://www.lanacion.com.ar/economia/luis-caputo-aseguro-que-hay-un-excedente-de-dolares-y-que-el-rumbo-del-rigi-permitiria-levantar-nid17102026/"
+      },
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Caputo, en Tailandia: \"excedente\" de dólares, aumento del crédito y el futuro del RIGI",
+       "url": "https://www.iprofesional.com/economia/466852-caputo-en-tailandia-excedente-de-dolares-aumento-del-credito-y-el-futuro-del-rigi"
+      },
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Luis Caputo buscó llevar calma a los mercados: \"Argentina tiene un excedente de dólares\"",
+       "url": "https://www.ambito.com/economia/luis-caputo-busco-llevar-calma-los-mercados-argentina-tiene-un-excedente-dolares-n6334966"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/excedente-de-dolares-caputo-anticipo-que-falta-para-terminar-de-levantar-el-cepo/",
+     "imagen": "https://www.cronista.com/resizer/v2/GDDFU35WNFEGJI6VIH6U4Q2A5U.JPG?auth=01d9beb71499d0f08357fc6daffc59d8c699ff762ed6500bb5214effb1f7abed&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:05",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“Excedente de dólares”: Caputo reveló la condición que falta para terminar de levantar el cepo"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "El riesgo país terminó la semana en 648 puntos, cerca del máximo del año",
+     "resumen": "El indicador cerró el viernes en 648 puntos básicos, un nivel cercano al más alto de 2026, tras subir 245 puntos desde el día en que Argentina le ganó a Egipto en el Mundial. Clarín atribuye el retroceso a la cercanía de las elecciones, el contexto internacional, el peso de los vencimientos, la recesión y una desinflación amesetada.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El riesgo país ya roza los 650 puntos: se complicó el frente externo y las encuestas tampoco ayudan",
+       "url": "https://www.infobae.com/economia/2026/10/18/el-riesgo-pais-ya-roza-los-650-puntos-se-complico-el-frente-externo-y-las-encuestas-tampoco-ayudan/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/razones-dio-vuelta-riesgo-pais-mercado-corre-arco-caputo_0_VIn45EfCUW.html",
+     "imagen": "https://www.clarin.com/img/2026/05/27/KWk-M1qwd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Las cinco razones por las que se dio vuelta el riesgo país y el mercado le corre el arco a Caputo"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "El Banco Mundial estima pérdidas regionales de 60.000 millones de dólares por el Súper Niño",
+     "resumen": "El Gobierno monitorea desbordes de ríos y prevé más inundaciones hasta diciembre; en Corrientes ya hay unos 500 evacuados y se espera que el río supere los siete metros frente a la capital provincial. Según Infobae, en el campo argentino estiman que el fenómeno climático podría no ser tan negativo para la producción, aunque persiste la incertidumbre sobre precios de alimentos y energía.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/18/clima-de-negocios-cual-sera-el-impacto-en-la-economia-argentina-de-un-super-nino-que-este-ano-llega-recargado-y-feroz/",
+     "imagen": "https://www.infobae.com/resizer/v2/AUGU2ZNJUZBVTGOPNJ4PRE7J44.jpg?auth=09a46294f805491f0891873d6be415f01d32ae5da492b520396e5bcc0fa4d2ee&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:17",
+     "autor": "Sebastián Catalano",
+     "titulo_original": "Clima de Negocios: cuál será el impacto en la economía argentina de un Súper Niño que este año llega recargado y feroz"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "El Merval cambia de administrador: desde el lunes lo calcula MSCI y no más S&P",
+     "resumen": "Bolsas y Mercados Argentinos inicia el lunes 19 de octubre una colaboración con MSCI, que reemplazará a S&P Dow Jones en la administración y el cálculo de los principales índices accionarios locales, tarea que esta última desempeñaba desde 2018. El nuevo esquema incluye el Índice MSCI Merval, con cambios de cartera: entra Cresud y salen Telecom y Comercial del Plata.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/el-merval-cambia-este-lunes-que-se-sabe-sobre-el-nuevo-indice-de-msci-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5W4VOZU3PBEC3K3UMZ6PHHHU7U.jpg?auth=669aa4d53c0221a664d082a8ef5f65c8e5c1476371f951f1227fcb4d46f8b2c0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:18",
+     "autor": "Agustina Parise",
+     "titulo_original": "El Merval cambia este lunes: qué se sabe sobre el nuevo índice de MSCI"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Un exdirector del BCRA advirtió que 'el tren ya pasó' para corregir el dólar",
+     "resumen": "El economista Jorge Carrera cuestionó el nivel del tipo de cambio y consideró que el Gobierno dejó pasar la oportunidad de corregirlo de manera gradual. Según El Cronista, Carrera señaló que los programas de estabilización enfrentan mayores dificultades cuando la inflación se acerca a sus niveles más bajos, por la combinación con la apertura de importaciones y la debilidad de la actividad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-tren-ya-paso-un-exdirector-del-bcra-alerto-por-el-dolar-y-anticipo-que-puede-pasar-en-el-ano-electoral/",
+     "imagen": "https://www.cronista.com/resizer/v2/PCQMMEZSANBMBNPHQ6BEFIPNAI.jpg?auth=19618b607faf6b61176ce2db202086a5774786b09e27c288db322acb5fb72160&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:59",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“El tren ya pasó”: un exdirector del BCRA alertó por el dólar y anticipó qué puede pasar en el año electoral"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "La industria argentina está más golpeada que la de Brasil y México",
+     "resumen": "En los primeros ocho meses de 2026 la producción manufacturera argentina acumuló una caída interanual de 2,7 por ciento, frente a una baja de apenas 0,3 por ciento en México, luego de que la mejora de 2025 resultara insuficiente para compensar la fuerte contracción de 2024. Para una empresa: la recuperación industrial sigue siendo más débil que la de los principales socios comerciales de la región.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/industria-argentina-golpeada-brasil-mexico_0_ouBhsHYp0W.html",
+     "imagen": "https://www.clarin.com/img/2024/12/05/g1sZmFVQ-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La industria argentina, más golpeada que la de Brasil y México"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "Vaca Muerta se abre paso en Asia con un salto histórico de las exportaciones",
+     "resumen": "Las ventas de crudo de Vaca Muerta ya superan a las de maíz o soja y este año llegaron a destinos como Tailandia, Singapur, Malasia, China, Corea del Sur y Australia. Clarín destaca el rol de los puertos de Rosales y Punta Colorada, que pasan a tener un papel clave para la economía local.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/vaca-muerta-abre-paso-asia-prepara-salto-historico-exportaciones_0_YsrBPALoQU.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/Rjwlk7k0p_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Vaca Muerta se abre paso en Asia y prepara un salto histórico de sus exportaciones"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Denunciaron a Hernán Casciari por una presunta estafa vinculada al proyecto Orsai",
+     "resumen": "El escritor fue denunciado por un grupo de inversores que lo acusó de estafa en el esquema de financiamiento armado para su proyecto editorial Orsai. Según iProfesional, Casciari salió a responder a las acusaciones en las redes sociales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466855-denunciaron-a-hernan-casciari-por-una-presunta-estafa-su-defensa-en-las-redes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627802.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "21:49",
+     "autor": "",
+     "titulo_original": "Denunciaron a Hernán Casciari por una presunta estafa: su defensa en las redes"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Un emprendimiento argentino convierte paracaídas en ropa de diseño y exporta a Asia",
+     "resumen": "A través de un proceso de upcycling, la empresa reutiliza materiales industriales como paracaídas para crear prendas de moda sustentable, con ventas que llegan a mercados asiáticos, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466451-ropa-diseno-paracaidas-reciclados-marca-argentina-exporta-asia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627435.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "El emprendimiento argentino que convierte paracaídas en ropa de diseño y conquista el mundo"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Dos argentinos integran el ranking de inmigrantes más ricos de Estados Unidos",
+     "resumen": "Ambos empresarios siguieron caminos distintos pero lograron hacer crecer sus negocios fuera del país hasta ubicarse entre los inmigrantes más ricos de Estados Unidos, según el relevamiento citado por Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/quienes-son-los-argentinos-que-integran-el-ranking-inmigrantes-mas-ricos-ee-uu-n6334626",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "¿Quiénes son los argentinos que integran el ranking de inmigrantes más ricos de EE. UU.?"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IB-26",
+     "titulo": "ARBA lanza una moratoria con descuentos de hasta 40 por ciento desde el 26 de octubre",
+     "resumen": "La Agencia de Recaudación de la provincia de Buenos Aires habilitará un plan de regularización de deudas de Ingresos Brutos, Sellos, Inmobiliario y Automotor, con bonificaciones más altas para quienes adhieran en los primeros días. Para una empresa: conviene evaluar la adhesión temprana si hay deuda provincial pendiente, dado que el descuento baja con el correr de los días.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "ARBA lanza un plan para la regularización de deudas de los contribuyentes",
+       "url": "https://www.ambito.com/economia/arba-lanza-un-plan-la-regularizacion-deudas-los-contribuyentes-n6334927"
+      },
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "ARBA lanza un plan excepcional: a quiénes alcanza, qué descuento y para qué impuestos",
+       "url": "https://www.iprofesional.com/impuestos/466851-arba-lanza-un-plan-excepcional-a-quienes-alcanza-que-descuento-y-para-que-impuestos"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/18/arba-lanzara-una-moratoria-impositiva-que-deudas-se-podran-regularizar-con-que-descuento-y-en-cuantas-cuotas/",
+     "imagen": "https://www.infobae.com/resizer/v2/Q4XSTJOZGBC5PIOUZH26HDBLJ4.jpg?auth=7d99f3b452779e70bb11bf9823b6a9bcdbe784acad9b0e674a9bfa5b37b68fec&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:16",
+     "autor": "",
+     "titulo_original": "ARBA lanzará una moratoria impositiva: qué deudas se podrán regularizar, con qué descuento y en cuántas cuotas"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "El intercambio automático de información bajo FATCA ya funciona entre Argentina y Estados Unidos",
+     "resumen": "El régimen busca elevar la transparencia sobre los capitales de residentes argentinos en el exterior, sin implicar un acceso indiscriminado del fisco a los movimientos bancarios, según Clarín. La nota ubica la medida dentro de una relación bilateral cada vez más cercana en materia de comercio e inversiones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/argentina-estados-unidos-relacion-vez-cercana-transparencia-fiscal-comercio-nuevas-oportunidades-inversion_0_qSUh58Mxw5.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/Axr23GNEC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentina y Estados Unidos, una relación cada vez más cercana: transparencia fiscal, comercio y nuevas oportunidades de inversión"
+    },
+    {
+     "id": "AM-07",
+     "titulo": "Milei elogia el empleo informal, pero esos trabajadores cobran la mitad y pierden la obra social",
+     "resumen": "Según datos del INDEC citados por Ámbito, los ingresos de los trabajadores informales no llegan a la mitad de los que perciben los registrados, y crece el porcentaje de personas sin cobertura de salud. Para una empresa: la informalidad laboral sigue siendo una variable de riesgo en la gestión de personal y en la competencia de costos del sector.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/javier-milei-elogia-el-empleo-informal-pero-los-trabajadores-cobran-la-mitad-y-pierden-la-obra-social-n6334935",
+     "imagen": "https://media.ambito.com/p/9ea3256670924461f38caedf47475523/adjuntos/239/imagenes/042/526/0042526859/desempleo-cabajpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Javier Milei elogia el empleo informal, pero los trabajadores cobran la mitad y pierden la obra social"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "Buenos Aires acordó un aumento del 6 por ciento para docentes y estatales en dos tramos",
+     "resumen": "La suba se distribuirá entre octubre y noviembre, con reapertura de la negociación paritaria en diciembre. Cuatro organizaciones gremiales de la educación aprobaron la propuesta, mientras la Federación de Educadores Bonaerenses todavía no dio su respaldo, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/buenos-aires-acordo-un-aumento-del-6-docentes-y-estatales-dos-tramos-n6334962",
+     "imagen": "https://media.ambito.com/p/97039f80e2192b972338c151fa81bb56/adjuntos/239/imagenes/040/799/0040799573/docentes-escuelajpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:43",
+     "autor": "",
+     "titulo_original": "Buenos Aires acordó un aumento del 6% para docentes y estatales en dos tramos"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "La brecha entre comprar un departamento usado y uno a estrenar superó el 32 por ciento en CABA",
+     "resumen": "Los costos de construcción elevan los precios de las unidades nuevas, mientras que comprar sobre plano resulta todavía más caro, según iProfesional. Para una empresa de materiales de construcción: el encarecimiento relativo de la obra nueva puede frenar el ritmo de nuevos desarrollos y, con ello, la demanda de insumos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/466597-cuanto-mas-barato-es-comprar-un-departamento-usado-que-uno-a-estrenar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613875.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "Se amplió la brecha y comprar un departamento usado es mucho más barato que uno a estrenar"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "Palermo desplazó a Núñez y es el segundo barrio porteño más caro para alquilar",
+     "resumen": "Según el relevamiento de Zonaprop, el precio medio de un departamento en la Ciudad de Buenos Aires subió 1,31 por ciento en septiembre respecto de agosto, el incremento mensual más bajo del año, aunque en Palermo el alza fue de 1,48 por ciento. El barrio quedó así en el segundo lugar del ranking, solo detrás de Puerto Madero.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-historico-barrio-porteno-volvio-a-encarecerse-y-esta-entre-los-mas-caros-de-la-ciudad/",
+     "imagen": "https://www.cronista.com/resizer/v2/CPCW6IW72RHQ5AIWJ2ZI2VXDXA.jpeg?auth=1f71d619432e2c369faa41fd617e367830272ca3e16c18bdd94530a0c66c27c9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Un histórico barrio porteño desplazó a Núñez y volvió a estar entre los dos más caros de la ciudad"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "Las pickups medianas mantienen su peso en el mercado automotor pese a la caída anual",
+     "resumen": "En septiembre se patentaron 49.814 vehículos 0 kilómetro, un 10,7 por ciento más que en agosto pero 11,4 por ciento menos que un año atrás, según la Asociación de Concesionarios de Automotores de la República Argentina citada por La Nación. El acumulado de los primeros nueve meses llegó a 435.493 unidades, con una caída interanual del 13 por ciento.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/autos/estos-son-los-precios-de-todas-las-pickups-en-octubre-2026-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VS2L3G2GFRDVZJQEM7ILSPIPPI.png?auth=7d011943fd0f1ea1f3645786420764c67a9927a125a2afca23df00b3643bddd9&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:04",
+     "autor": "",
+     "titulo_original": "Estos son los precios de todas las pickups en octubre 2026"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Abrió el primer Decathlon en la Ciudad de Buenos Aires",
+     "resumen": "La tercera tienda de la cadena multideportiva en el país se inauguró en uno de los shoppings más importantes de la Capital y ya abrió sus puertas al público, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466803-abre-el-primer-decathlon-en-la-ciudad-de-buenos-aires-donde-esta-y-que-vende",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627753.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:55",
+     "autor": "",
+     "titulo_original": "Abrió el primer Decathlon en la Ciudad de Buenos Aires: dónde está y qué vende"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Alertan por una web falsa de Frávega que usa promociones como anzuelo para robar datos de tarjetas",
+     "resumen": "Un sitio especializado en seguridad digital descubrió el fraude, que emula a la cadena de electrodomésticos para captar datos de tarjetas de crédito de los usuarios, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466850-alertan-por-una-falsa-web-de-fravega-promociones-como-anzuelo-para-robar-datos-de-tarjeta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/589203.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:23",
+     "autor": "",
+     "titulo_original": "Alertan por una falsa web de Frávega: promociones como anzuelo para robar datos de tarjeta"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "El traslado de la cárcel de Devoto abre una oportunidad inmobiliaria en el oeste porteño",
+     "resumen": "Después de más de 90 años de funcionamiento, el cierre del penal despierta el interés del mercado inmobiliario por el destino del predio y su eventual impacto en los precios de las propiedades de la zona, según Ámbito.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Cierran la cárcel de Devoto, y detrás de sus muros quedan recordadas historias",
+       "url": "https://www.clarin.com/sociedad/cierran-carcel-devoto-detras-muros-quedan-recordadas-historias_0_TLiejnUAsM.html"
+      }
+     ],
+     "url": "https://www.ambito.com/real-estate/adios-la-carcel-devoto-que-haran-el-terreno-y-cuanto-podrian-subir-los-precios-las-propiedades-n6334728",
+     "imagen": "https://media.ambito.com/p/88700da1e7970775b481d58eb8e248f4/adjuntos/239/imagenes/043/118/0043118558/1200x675/579x294:599x314/villa-devoto-carcel-propiedades.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Adiós a la cárcel de Devoto: qué harán con el terreno y cuánto podrían subir los precios de las propiedades"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "AM-08",
+     "titulo": "La morosidad de las pymes cordobesas crece y enciende una alerta para la caja",
+     "resumen": "Los atrasos en los pagos aumentaron durante el último año tanto en el financiamiento al consumo como en el crédito comercial, en un escenario nacional de retracción de la actividad y mayor cautela crediticia, según Ámbito. Para una empresa: detectar estas tensiones de manera temprana es clave para evitar que se conviertan en un problema estructural de caja.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/opiniones/morosidad-alza-una-senal-la-caja-las-pymes-cordobesas-n6334763",
+     "imagen": "https://media.ambito.com/p/77a8ef17c5c8163ede0dc4c977256581/adjuntos/239/imagenes/043/644/0043644804/1200x675/840x426:860x446/morosidad-empresas.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Morosidad en alza: una señal para la caja de las pymes cordobesas"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "Un banco recomienda vender un bono CER que rinde el doble y pasar a otro con menor tasa",
+     "resumen": "La estrategia consiste en salir del bono TZXS7, que paga una tasa adicional sobre CER de 4,8 por ciento, para comprar el TZXM7, que rinde 2,4 por ciento pero vence seis meses antes. Según El Cronista, la clave de la recomendación está en el plazo y en cuánto compensa el mercado por asumir más tiempo de duración.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/un-banco-cambia-su-apuesta-en-bonos-cer-recomienda-vender-uno-que-rinde-el-doble-y-comprar-otro/",
+     "imagen": "https://www.cronista.com/resizer/v2/JF2IF6HOVBBR5DE3ESWYCGB67A.png?auth=240b5352554dca6ae646cec4c8a6679ef2e950bdbc86ad32f36947a91e5c9924&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Un banco cambia su apuesta en bonos CER: recomienda vender uno que rinde el doble y comprar otro"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-11",
+     "titulo": "Francia endurece la respuesta tras las protestas: ya son más de 1.800 los detenidos",
+     "resumen": "El ministro del Interior, Laurent Núñez, informó que las protestas contra el encarecimiento de la vida dejaron más de 1.800 detenidos y que hay investigaciones en curso para identificar a los responsables de los saqueos e incendios. Según Infobae, la violencia abrió una disputa política sobre sus responsables a seis meses de la elección presidencial francesa.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "De tiendas de lujo a un ayuntamiento histórico: las fotos y los videos más impactantes de los saqueos y daños por la crisis en Francia",
+       "url": "https://www.clarin.com/mundo/tiendas-lujo-ayuntamiento-historico-fotos-videos-impactantes-saqueos-danos-crisis-francia_0_brTvJ128Bd.html"
+      },
+      {
+       "id": "IB-10",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los detenidos en las protestas en Francia ascienden a 1.800 con 500 agentes heridos",
+       "url": "https://www.infobae.com/america/agencias/2026/10/18/los-detenidos-en-las-protestas-en-francia-ascienden-a-1800-con-500-agentes-heridos/"
+      },
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Protestas en Francia: el Gobierno pidió a fiscales medidas “extremadamente firmes” para los culpables de los destrozos",
+       "url": "https://www.infobae.com/america/mundo/2026/10/18/protestas-en-francia-el-gobierno-pidio-a-fiscales-medidas-extremadamente-firmes-para-los-culpables-de-los-destrozos/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Protestas en Francia: así fue el incendio que afectó gravemente el ayuntamiento de Limoges",
+       "url": "https://www.ambito.com/mundo/protestas-francia-asi-fue-el-incendio-que-afecto-gravemente-el-ayuntamiento-limoges-n6334967"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/18/el-gobierno-de-francia-reporto-mas-de-1800-detenidos-durante-las-violentas-protestas-del-sabado/",
+     "imagen": "https://www.infobae.com/resizer/v2/EMGNM7OIPJGXLD4HM3N3QH5BQI.JPG?auth=16c5270376c7d054be07e209bfa5626a2714d6e16f8664f9670892b334ffaf62&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:55",
+     "autor": "",
+     "titulo_original": "El gobierno de Francia reportó más de 1.800 detenidos durante las violentas protestas del sábado"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Las protestas se extendieron a Italia, con incidentes frente a la catedral de Milán",
+     "resumen": "Una jornada de movilizaciones estudiantiles y sindicales derivó en choques entre manifestantes y policías en Bolonia y Milán, mientras decenas de miles de personas se concentraron en Roma para reclamar mejoras salariales, según La Nación. La primera ministra Giorgia Meloni expresó su solidaridad con las fuerzas de seguridad.",
+     "relacionadas": [
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Meloni se solidariza con las fuerzas del orden ante los violentos que siembran el caos",
+       "url": "https://www.infobae.com/america/agencias/2026/10/18/meloni-se-solidariza-con-las-fuerzas-del-orden-ante-los-violentos-que-siembran-el-caos/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/las-protestas-se-extendieron-tambien-a-italia-fuego-frente-a-la-catedral-de-milan-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SDXTZOSRWNC33O7WO6HSP7MOYU.JPG?auth=2fb281125d225d69c62583a639e3c22e8c074954af627d4024298b070bb73b2a&smart=true&width=900&height=585",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:22",
+     "autor": "",
+     "titulo_original": "Las protestas se extendieron también a Italia: fuego frente a la catedral de Milán"
+    },
+    {
+     "id": "CL-01",
+     "titulo": "Irán nombró a un nuevo ministro de Defensa tras ocho meses de guerra",
+     "resumen": "El funcionario, con décadas de experiencia en la cartera, asume tras la muerte de su antecesor en ataques internacionales y promete fortalecer las alianzas regionales pese a las sanciones de la ONU, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/iran-nombra-a-un-nuevo-ministro-de-defensa-tras-ocho-meses-de-guerra_0_rsuqjRrtrJ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Irán nombra a un nuevo ministro de Defensa tras ocho meses de guerra"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "Zelenski instó a Estados Unidos a reconocer que Rusia no quiere la paz",
+     "resumen": "El presidente ucraniano denunció que, desde que Estados Unidos anunció un alto el fuego energético hace una semana, Rusia atacó en 76 ocasiones los sectores energético, petrolero y gasístico de Ucrania, según Infobae. Moscú nunca confirmó formalmente su adhesión al anuncio impulsado por Donald Trump.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/18/zelenski-insta-a-eeuu-a-darse-cuenta-de-que-rusia-no-quiere-la-paz/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Zelenski insta a EE.UU. a darse cuenta de que Rusia no quiere la paz"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Una avalancha cerca de un centro de esquí en Chile dejó al menos tres muertos",
+     "resumen": "El hecho ocurrió 150 kilómetros al noreste de Santiago, en un complejo inactivo tras el cierre de temporada; según Clarín, las autoridades todavía buscan recuperar el cuerpo de una víctima arrastrada a una laguna y los afectados no habrían escuchado las advertencias de los lugareños.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/avalancha-centro-esqui-chile-muertos_0_KDCeAqZj4G.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/qrQVmekbR_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Avalancha fatal cerca de un centro de esquí en Chile: al menos tres muertos"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Un hombre murió baleado tras una discusión en el subte de Nueva York",
+     "resumen": "El episodio ocurrió en un andén de Manhattan, cerca de los teatros de Broadway y el Carnegie Hall; la víctima fue trasladada al hospital Bellevue, donde finalmente falleció, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/asesinato-subte-nueva-york-discusion-termino-disparos-muerto-anden-manhattan_0_AQikygu6zi.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/70gZH9GPk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Asesinato en el subte de Nueva York: una discusión terminó con disparos y un muerto en un andén de Manhattan"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent retrata a la generación del Donbás marcada por ocho años de guerra",
+     "resumen": "La revista francesa repasa el trabajo de la fotoperiodista Marion Péhée, quien documenta desde 2016 las consecuencias del conflicto de baja intensidad que atravesó el este de Ucrania antes de la invasión rusa de 2022, cuando esa guerra aún era prácticamente invisible para Occidente.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/18/retratos-de-la-generacion-sacrificada-del-donbass/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/unnamed.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Louis Puel",
+     "titulo_original": "Retratos de la generación sacrificada del Donbás"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "El gasto público ruso se acerca a la media de la OCDE pese a las sanciones",
+     "resumen": "Según el economista Alexandre Isakov, el gasto del presupuesto consolidado de Rusia equivale a cerca del 39 por ciento del PIB, frente al 42,6 por ciento promedio de la OCDE en 2023. Le Grand Continent señala que esa proporción era de apenas entre 32 y 33 por ciento antes de la invasión a gran escala de Ucrania en 2022, lo que evidencia el fuerte aumento del gasto estatal ruso durante la guerra.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/18/economia-rusa-gasto-publico-cerca-media-de-ocde/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Economía rusa: el gasto público se acerca a la media de la OCDE"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-02",
+     "titulo": "Racing e Independiente juegan hoy el clásico de Avellaneda",
+     "resumen": "El partido por la fecha 13 del Torneo Clausura se disputa a las 14.45 en el Cilindro, con arbitraje de Facundo Tello y televisación de ESPN Premium y TNT Sports. La Academia llega en el antepenúltimo puesto del Grupo B, con 11 puntos tras tres victorias, dos empates y siete derrotas, y viene de perder 2 a 0 con Belgrano, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-racing-vs-independiente-y-por-donde-se-puede-ver-en-vivo-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FNPHLAUVHREZHBAUMHWQGEZVZM.jpg?auth=fc30eb33e8d24c9d61772097542b70dfcc2adff90357409ed292ad92ac164c04&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "A qué hora juega Racing vs. Independiente y por dónde se puede ver en vivo"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Messi anotó un doblete con Inter Miami en el estadio donde Argentina eliminó a Inglaterra",
+     "resumen": "El astro argentino convirtió dos goles ante Atlanta United por la MLS en el mismo estadio donde la Selección eliminó a Inglaterra en el Mundial 2026. Según Clarín, Messi lleva 936 goles en 1.181 partidos y estuvo cerca de sumar también su ansiado gol olímpico.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/lionel-messi-volvio-inter-miami-estadio-argentina-elimino-inglaterra-regalo-golazos-atlanta-united_0_339uVfFLU9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/18/RaAfqTHj1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lionel Messi volvió con Inter Miami al estadio donde Argentina eliminó a Inglaterra y se regaló dos golazos contra Atlanta United"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Dibu Martínez sufrió una fractura de mandíbula y fue operado en Liverpool",
+     "resumen": "El arquero de la Selección se fracturó la mandíbula tras un choque con un rival durante el triunfo 1 a 0 del Chelsea sobre el Everton y fue operado la noche del sábado. Según La Nación, la cirugía salió bien y el futbolista permanece hospitalizado en recuperación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/dibu-martinez-sufrio-una-fractura-de-mandibula-tras-el-duro-golpe-con-un-rival-y-debe-ser-operado-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LIZ2EZQKU5FDDGEY3WGRIF5IDA.JPG?auth=369621a3f35098f8e41feb5ecd030001c081f2e4631a44810c285067d851eac7&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:03",
+     "autor": "",
+     "titulo_original": "Dibu Martínez sufrió una fractura de mandíbula tras el duro golpe con un rival y fue operado"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Tigre igualó agónicamente 2 a 2 con Independiente Rivadavia en Mendoza",
+     "resumen": "Manuel Fernández anotó el empate del Matador sobre el cierre del partido, en una jornada que le impidió a la Lepra recuperar el liderazgo de la tabla anual y devolvió la punta a Boca y Argentinos. Según La Nación, el entrenador de Independiente Rivadavia, Alfredo Berti, convaleciente de una operación de peroné, vivió el final del partido con gestos de resignación.",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Arde la tabla anual: Argentinos alcanzó a Boca e Independiente Rivadavia empató",
+       "url": "https://www.ambito.com/deportes/arde-la-tabla-anual-argentinos-alcanzo-boca-e-independiente-rivadavia-empato-n6334968"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/tigre-amargo-sobre-el-final-a-independiente-rivadavia-que-se-desinfla-en-la-tabla-anual-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AOPTKY5B4RAUHKVGSH3GJYNSEQ.JPG?auth=e62bc24e4abe84f061e62a87cca3c5124002c035db8c7935a992ece901b9e06e&smart=true&width=900&height=585",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:55",
+     "autor": "",
+     "titulo_original": "Tigre amargó sobre el final a Independiente Rivadavia, que se desinfla en la tabla anual"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Boca ya sabe cuándo y dónde jugará la semifinal de la Copa Argentina ante Banfield",
+     "resumen": "El partido se disputará el sábado a las 19 en el estadio Malvinas Argentinas, en medio de la fecha FIFA, según Ámbito. El ganador se medirá en la final con Atlético Tucumán o Platense.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/boca-ya-sabe-cuando-y-donde-jugara-contra-banfield-la-semifinal-la-copa-argentina-n6334953",
+     "imagen": "https://media.ambito.com/p/46da1877498dc45ec6980211106ff0bb/adjuntos/239/imagenes/043/630/0043630537/1200x675/smart/boca-juniors-merentiel-paredes.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:01",
+     "autor": "",
+     "titulo_original": "Boca ya sabe cuándo y dónde jugará contra Banfield por la semifinal de la Copa Argentina"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Chiqui Tapia no habló en una reunión de la FIFA marcada por críticas a Infantino",
+     "resumen": "El presidente de la AFA viajó en avión privado a Zúrich para participar del Consejo de la FIFA, que estuvo atravesado por duros cuestionamientos a Gianni Infantino. Según Clarín, uno de los presentes contó que Tapia no pronunció palabra durante las tres horas y media de debate.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/chiqui-tapia-mudo-fifa_0_BskXC2IJgD.html",
+     "imagen": "https://www.clarin.com/img/2023/06/22/iDgwUVuD5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Chiqui\" Tapia, el mudo de la FIFA"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Una delantera uruguaya que volvió a jugar tras ser madre marcó un gol histórico para Belgrano",
+     "resumen": "Julieta Alaides Paz convirtió el primer gol de Belgrano en la historia de la Copa Libertadores Femenina, en el empate 1 a 1 ante Independiente del Valle en Quito. Según Infobae, la delantera había estado siete años alejada del fútbol profesional tras ser madre.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/18/fue-mama-dejo-el-futbol-profesional-durante-7-anos-y-volvio-para-firmar-una-pagina-historica-en-la-copa-libertadores-femenina/",
+     "imagen": "https://www.infobae.com/resizer/v2/RLE6ECSHU5GWNOIPRSELVMGMMI.jpg?auth=a6fae1fa7efba9ebd2c7084e5a22585c06bda23025df14f3b41d9415cebf09a1&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:24",
+     "autor": "Sofia Caballero",
+     "titulo_original": "Fue mamá, dejó el fútbol profesional durante 7 años y volvió para firmar una página histórica en la Copa Libertadores femenina"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-04",
+     "titulo": "Caminito, el barrio pintado de La Boca que se convirtió en celebridad turística global",
+     "resumen": "El pasaje que iba camino a ser un basural fue salvado por los vecinos y, gracias al impulso del pintor Benito Quinquela Martín, hoy está entre los lugares más fotografiados del planeta según Google Maps. Según Clarín, el sitio combina los colores originales del barrio con una fuerte presencia de arte contemporáneo que atrae turistas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/ciudades/67-caminito-secretos-arcoiris-porteno-convirtio-celebridad-global_0_IFNTClcnTS.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/1m-q64pj9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:03",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los 67 de Caminito: secretos del arcoiris porteño que se convirtió en celebridad global"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Nursia, el pueblo italiano que resurgió del terremoto con jamón, lentejas y turismo religioso",
+     "resumen": "Tras el sismo de 2016, la localidad de Umbría se recupera gracias al turismo religioso, de arte y de naturaleza, además de la tradición de sus embutidos y sus reconocidas lentejas, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/nursia-pueblo-italia-resurgio-terremoto-devastador-conquista-jamon-lentejas-lindos-paisajes_0_1kW6dofEq9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/12/IrcEdhMRk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Nursia, el pueblo de Italia que resurgió tras un terremoto devastador y conquista con jamón, lentejas y lindos paisajes"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "Reclaman que se reglamente una ley tras la muerte de un nene por la caída de un arco",
+     "resumen": "Joaquín Gatto tenía 12 años y falleció en un campamento en Neuquén; su madre, Soledad, impulsó la norma que ya se aprobó en la provincia de Buenos Aires para prevenir estos accidentes. Según Clarín, la familia reclama que se tomen más medidas de prevención en el resto del país.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/pasar-tomen-conciencia-hijo-murio-cayo-arco-reclama-reglamente-ley_0_9jMuSFtApE.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/R3EHEDC7I_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"¿Qué más tiene que pasar para que tomen conciencia?\": su hijo murió porque se le cayó un arco y reclama que se reglamente una ley"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Cierra la histórica cárcel de Devoto tras casi un siglo de funcionamiento",
+     "resumen": "Inaugurada en 1927, hasta fin de año los internos del penal serán trasladados al nuevo presidio de Marcos Paz, según Clarín.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Adiós a la cárcel de Devoto: qué harán con el terreno y cuánto podrían subir los precios de las propiedades",
+       "url": "https://www.ambito.com/real-estate/adios-la-carcel-devoto-que-haran-el-terreno-y-cuanto-podrian-subir-los-precios-las-propiedades-n6334728"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/cierran-carcel-devoto-detras-muros-quedan-recordadas-historias_0_TLiejnUAsM.html",
+     "imagen": "https://www.clarin.com/img/2026/10/16/2IhMp_N48_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cierran la cárcel de Devoto, y detrás de sus muros quedan recordadas historias"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "El aval médico al Papa León XIV renueva el optimismo por su viaje a la Argentina",
+     "resumen": "El cirujano que lo operó aseguró que no hay impedimentos clínicos para la gira, mientras la Santa Sede mantiene los preparativos y se espera una nueva delegación vaticana en Buenos Aires. Según Infobae, se espera que el viaje, que incluiría Uruguay, Argentina y Perú, se concrete entre el 8 y el 11 de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/18/el-viaje-de-leon-xiv-a-la-argentina-el-aval-medico-una-nueva-avanzada-del-vaticano-y-otra-senal-clave-renovaron-el-optimismo-por-la-visita/",
+     "imagen": "https://www.infobae.com/resizer/v2/G6C3UFLTL5DIHETNR727XLED5A.jpg?auth=4941b98897c53bfe67fb3a5b7821b962e2a60fda7f47850c9417b219bde53261&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:06",
+     "autor": "Facundo Chaves",
+     "titulo_original": "El viaje de León XIV a la Argentina: el aval médico, una nueva avanzada del Vaticano y otra señal clave renovaron el optimismo por la visita"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "A diez años de su canonización, homenajean al Cura Brochero con una canción",
+     "resumen": "El videoclip de la Zamba del Cura Brochero, interpretado por Athenas y Joaquín Chávez, se grabó en la Casa de Ejercicios Espirituales fundada por Mama Antula en Buenos Aires. Según Infobae, el papa Francisco había proclamado santo a José Gabriel del Rosario Brochero hace una década.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/18/se-cumplen-diez-anos-de-la-canonizacion-del-cura-brochero-y-lo-homenajean-con-una-cancion/",
+     "imagen": "https://www.infobae.com/resizer/v2/AWGTNHPVXRF4ZK67PFXXMQHUTM.jpg?auth=99dc12f42739372562ace5789a88b1ccaf1e6cc05c2d74295256322641c1530e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:12",
+     "autor": "",
+     "titulo_original": "Se cumplen diez años de la canonización del Cura Brochero y lo homenajean con una canción"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del domingo 18 de octubre. El dólar oficial cerró la semana en mil quinientos treinta y cinco pesos para la venta, el dólar blue en mil quinientos cincuenta y cinco pesos, y el riesgo país terminó el viernes en seiscientos cuarenta y ocho puntos básicos, cerca del nivel más alto del año. La inflación de septiembre se ubicó en uno coma nueve por ciento mensual y treinta y tres coma cuatro por ciento interanual. El panorama del día combina una Francia sacudida por protestas violentas con más de mil ochocientos detenidos, un Gobierno argentino que intenta evitar un lunes negro en los mercados mientras el ministro Luis Caputo habla de un excedente de dólares, y un peronismo que volvió a mostrar sus diferencias internas en el Día de la Lealtad. En deportes, Racing e Independiente juegan hoy el clásico de Avellaneda. En política, el desgaste presidencial, la resistencia de la inflación y las disidencias internas por el rumbo económico llevan al Gobierno a maniobrar para contener a los mercados antes de la apertura del lunes, en medio de una negociación a contrarreloj en el Congreso. El Día de la Lealtad mostró al peronismo dividido. Máximo Kirchner encabezó un acto en Chaco y Axel Kicillof otro en La Matanza, mientras una columna de militantes se movilizó hasta el departamento de Cristina Kirchner en Constitución, donde la expresidenta salió al balcón, saludó con la tradicional señal de la victoria y acompañó algunos cánticos. En el Congreso, tras frenar la sesión opositora contra el decreto setenta, el oficialismo convocó para el miércoles a tratar los proyectos de Discapacidad, Morosidad y la Ley de Tierras. La ofensiva de Javier Milei por Malvinas, con una denuncia ante el Tribunal del Mar de Hamburgo contra la explotación petrolera británica, profundizó la crisis diplomática con Londres. La Justicia, por su parte, insiste con un exhorto a Estados Unidos para obtener información financiera de la empresa que administró fondos de la AFA en Miami, vinculada a Tapia, Toviggino y Faroni. Y dentro de La Libertad Avanza crecen las tensiones con los gobernadores de cara al armado electoral de 2027, mientras Milei viaja esta semana a una España convulsionada por las protestas. En economía y mercados, Luis Caputo aseguró en Bangkok que la Argentina tiene un excedente de dólares y que el ingreso de inversiones del régimen de grandes inversiones permitirá avanzar en el levantamiento del cepo cambiario que todavía afecta a las empresas. El riesgo país cerró cerca del máximo del año, por la cercanía de las elecciones, el contexto internacional y una desinflación que se amesetó. El Banco Mundial estima pérdidas regionales de sesenta mil millones de dólares por el fenómeno de El Niño, que ya provocó inundaciones en el Litoral con unos quinientos evacuados en Corrientes. Desde mañana lunes, el índice Merval pasa a ser administrado por la consultora MSCI en lugar de Standard and Poor's, con cambios de cartera que incorporan a Cresud y sacan a Telecom y Comercial del Plata. Un exdirector del Banco Central advirtió que el Gobierno dejó pasar la oportunidad de corregir gradualmente el tipo de cambio, y la producción industrial argentina acumula en el año una caída de dos coma siete por ciento, peor que la de Brasil y México. En negocios y empresas, Vaca Muerta profundiza su salto exportador hacia Asia, con ventas de crudo que ya superan a las de maíz o soja y llegan a Tailandia, Singapur, Malasia, China, Corea del Sur y Australia. El escritor Hernán Casciari fue denunciado por un grupo de inversores por una presunta estafa vinculada al financiamiento de su proyecto Orsai. Y un emprendimiento argentino que convierte paracaídas en ropa de diseño sustentable ya exporta a mercados asiáticos. En impuestos y normativa, la Agencia de Recaudación de la provincia de Buenos Aires lanzará desde el veintiséis de octubre una moratoria con descuentos de hasta cuarenta por ciento para regularizar deudas de Ingresos Brutos, Sellos, Inmobiliario y Automotor, con mejores bonificaciones para quienes adhieran primero. El régimen de intercambio automático de información financiera conocido como FATCA ya funciona entre Argentina y Estados Unidos para elevar la transparencia fiscal. Y mientras el Gobierno pondera la informalidad laboral, los trabajadores informales cobran menos de la mitad que los registrados y pierden la cobertura de obra social, según datos del INDEC. En consumo, construcción y retail, la brecha entre comprar un departamento usado y uno a estrenar superó el treinta y dos por ciento en la Ciudad de Buenos Aires, por el encarecimiento de los costos de construcción. Los alquileres porteños subieron uno coma treinta y uno por ciento en septiembre, con Palermo desplazando a Núñez como segundo barrio más caro para alquilar, detrás de Puerto Madero. En septiembre se patentaron casi cincuenta mil vehículos cero kilómetro, con las camionetas pickup manteniendo su peso dentro del mercado automotor. Abrió el primer local de Decathlon en la Ciudad de Buenos Aires, y un sitio de seguridad digital alertó sobre una web falsa que imita a Frávega para robar datos de tarjetas. En management y finanzas corporativas, crece la morosidad de las pymes cordobesas tanto en el crédito al consumo como en el comercial, una señal de alerta temprana para la caja de las empresas en un escenario nacional de mayor cautela crediticia. Y un banco recomendó a sus clientes vender un bono ajustado por inflación que rinde más, para pasar a otro con menor tasa pero vencimiento más corto, una decisión que depende de cuánto compensa el mercado por asumir más plazo. En el mundo, Francia endureció su respuesta tras una jornada de protestas que dejó más de mil ochocientos detenidos, con saqueos, incendios y enfrentamientos que se extendieron también a Italia, con incidentes frente a la catedral de Milán y la estación de Bolonia. Irán designó a un nuevo ministro de Defensa tras ocho meses de guerra. El presidente ucraniano Volodímir Zelenski instó a Estados Unidos a reconocer que Rusia no quiere la paz, después de denunciar setenta y seis ataques rusos recientes a la infraestructura energética ucraniana. En Chile, una avalancha cerca de un centro de esquí dejó al menos tres muertos, y en Nueva York un hombre murió baleado tras una discusión en una estación del subte de Manhattan. Le Grand Continent analiza dos caras de la guerra en el este de Europa. Por un lado, retrata a través de la fotografía a la generación del Donbás, marcada por ocho años de conflicto de baja intensidad antes de la invasión rusa de dos mil veintidós. Por otro, repasa cómo el gasto público ruso se acercó a la media de los países de la OCDE durante la guerra, pasando de representar un tercio del producto bruto a casi el cuarenta por ciento. En deportes, Racing e Independiente juegan hoy a las catorce cuarenta y cinco el clásico de Avellaneda en el Cilindro. Lionel Messi convirtió un doblete con el Inter Miami en el mismo estadio donde la Selección eliminó a Inglaterra en el Mundial, y ya lleva novecientos treinta y seis goles en mil ciento ochenta y un partidos. El arquero Emiliano Martínez, el Dibu, sufrió una fractura de mandíbula tras un choque en el partido del Chelsea ante el Everton y fue operado en Liverpool. Tigre igualó dos a dos de manera agónica con Independiente Rivadavia en Mendoza, un resultado que le devolvió la punta de la tabla anual a Boca y a Argentinos. Boca ya tiene fecha y cancha para la semifinal de la Copa Argentina ante Banfield, el próximo sábado en el estadio Malvinas Argentinas. El presidente de la AFA, Claudio Tapia, no habló durante una reunión del Consejo de la FIFA marcada por críticas a Gianni Infantino. Y la delantera uruguaya Julieta Alaides Paz, que había estado siete años alejada del fútbol profesional tras ser madre, marcó el primer gol de Belgrano en la historia de la Copa Libertadores Femenina. Para cerrar, dos recomendaciones de viaje. En La Boca, Caminito sigue siendo uno de los destinos más fotografiados del mundo según Google Maps, gracias al color que le dio el pintor Benito Quinquela Martín. Y en Italia, el pueblo de Nursia resurgió del terremoto de dos mil dieciséis con el impulso del turismo religioso, de arte y de naturaleza, además de su tradición de jamón y lentejas. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Sin incidencias en la descarga de feeds (7 fuentes, 124 notas). No se encontraron novedades de Franco Colapinto en esta corrida, por lo que no se incluyó en Deportes.",
+ "slug": "2026-10-18-manana",
+ "generado_ba": "18/10/2026 10:16"
+}
