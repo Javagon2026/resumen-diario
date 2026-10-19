@@ -1,0 +1,834 @@
+{
+ "fecha": "2026-10-19",
+ "edicion": "tarde",
+ "titulo": "Riesgo país en récord del año y freno al debate por Malvinas",
+ "apertura": "El riesgo país volvió a escalar durante la tarde y tocó nuevos máximos del año, cerca de los 680 puntos básicos, con una fuerte caída de los ADRs argentinos, pese a que el INDEC confirmó un superávit comercial récord en septiembre. En el plano político, el Gobierno frenó el debate de la ley de Malvinas en Diputados tras el pedido de Estados Unidos de disolver el comité de descolonización de la ONU, mientras Patricia Bullrich aceptó ser candidata a vicepresidenta con condiciones. Afuera, Francia sigue bajo toques de queda tras los saqueos del fin de semana, Italia evalúa reforzar la seguridad en Milán y en Brasil la última encuesta achicó la diferencia entre Lula y Flavio Bolsonaro a una semana del balotaje.",
+ "claves": [
+  "El riesgo país llegó a rondar los 680 puntos básicos, un récord del año, y los ADRs argentinos cayeron hasta 8,7 por ciento.",
+  "La balanza comercial de septiembre cerró con un superávit de 2.976 millones de dólares, apalancado en exportaciones récord de 10.036 millones.",
+  "El Gobierno suspendió el debate de la ley de Soberanía Nacional por Malvinas en Diputados tras el pedido de Estados Unidos de disolver el comité de descolonización de la ONU.",
+  "Patricia Bullrich aceptó ser candidata a vicepresidenta de Milei, pero pidió independencia para opinar y espacios de poder.",
+  "El BCRA prepara cinco medidas para ampliar el crédito a familias y pymes, con nuevas garantías e instrumentos de liquidez para comercios.",
+  "Francia mantiene toques de queda tras los saqueos del fin de semana, que afectaron a 3.000 comercios, e Italia evalúa un plan de acción con más tropas en Milán.",
+  "A una semana del balotaje en Brasil, la encuesta de Next redujo a 0,6 puntos la diferencia entre Lula da Silva y Flavio Bolsonaro.",
+  "En Corrientes sigue la búsqueda de la docente desaparecida Nancy Godoy, con dos detenidos y hallazgos de ropa y cuchillos con manchas rojizas."
+ ],
+ "cifras": [
+  {
+   "nombre": "Exportaciones de septiembre",
+   "valor": "US$ 10.036 millones",
+   "variacion": "+23,5% interanual",
+   "fuente": "CL-20"
+  },
+  {
+   "nombre": "Superávit comercial de septiembre",
+   "valor": "US$ 2.976 millones",
+   "fuente": "CR-08"
+  },
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 109,55 el barril",
+   "variacion": "-0,28%",
+   "fuente": "IB-12"
+  },
+  {
+   "nombre": "Patentamientos de autos 0Km",
+   "valor": "caída de 11% interanual en octubre",
+   "fuente": "IP-10"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-14",
+     "titulo": "el Gobierno suspendió en Diputados el debate de la ley de Malvinas tras el giro de Estados Unidos en la ONU",
+     "resumen": "La Comisión de Defensa frenó la reunión en la que iba a buscar dictamen para la Ley de Soberanía Nacional, después de que Washington pidiera poner fin al mandato del Comité de Descolonización (C-24), el ámbito donde la Argentina sostiene su reclamo por las islas. El vocero presidencial, Adrián Ravier, reconoció que la postura argentina en ese organismo \"está bajo análisis\" y no descartó cambios en la ley.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno reconoció que “está bajo análisis” la postura argentina en el Comité de Descolonización de la ONU",
+       "url": "https://www.infobae.com/politica/2026/10/19/el-gobierno-reconocio-que-esta-bajo-analisis-la-postura-argentina-en-el-comite-de-descolonizacion-de-la-onu/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/malvinas-el-gobierno-suspendio-el-debate-de-la-ley-en-diputados-tras-el-giro-de-eeuu-en-la-onu/",
+     "imagen": "https://www.cronista.com/resizer/v2/SOKMRWU7T5DC7F4HOASH4A7QJY.png?auth=e719c23a8ada78a328ddcaab7581730aad7bd7337cf11833cc15cb7afe439559&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:03",
+     "autor": "Amparo Beraza, Daniela Romero",
+     "titulo_original": "Malvinas: el Gobierno suspendió el debate de la ley en Diputados tras el giro de EE.UU. en la ONU"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Bullrich aceptó ser candidata a vicepresidenta de Milei, pero puso condiciones",
+     "resumen": "El Presidente pretende alineamiento total y que la senadora deje de desmarcarse de las decisiones del Gobierno, mientras ella busca mantener independencia para opinar y conseguir espacios de poder dentro de la coalición.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/466945-bullrich-acepto-la-propuesta-de-milei-de-ser-candidata-a-vice-pero-puso-condiciones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611504.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:41",
+     "autor": "",
+     "titulo_original": "Bullrich aceptó la propuesta de Milei de ser candidata a vice pero puso condiciones"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "la Corte Suprema podrá revisar el sobreseimiento de dos exfuncionarios kirchneristas por el derrame de cianuro en Barrick",
+     "resumen": "La Cámara de Casación le concedió a la fiscalía un recurso para llevar a la Corte el caso del exsecretario de Minería Jorge Omar Mayoral y la exsubsecretaria Beatriz Domingorena, acusados de no controlar a la subsidiaria de Barrick Gold que operaba en la mina Veladero, San Juan, donde hubo un derrame de cianuro hace once años. Las acusaciones habían prescripto por afectación al derecho a ser juzgados en un plazo razonable.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/llega-a-la-corte-el-caso-de-los-exfuncionarios-kirchneristas-sobreseidos-por-el-derrame-en-la-mina-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LF34OD24HNG6ZFZ32DWDWHFKAA.jpg?auth=4a53e4696030210fefd6808b13fe24d03a9c9fbebd526385f6fdcd500d170cd7&smart=true&width=866&height=577",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:33",
+     "autor": "Ignacio Grimaldi",
+     "titulo_original": "Llega a la Corte el caso de los exfuncionarios kirchneristas sobreseídos por el derrame en la mina de Barrick"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Diputados acelera el debate de un nuevo régimen de biocombustibles por 15 años",
+     "resumen": "La Comisión de Energía, presidida por el libertario Facundo Correa Llano, empieza este martes a discutir un proyecto que aumenta progresivamente el porcentaje obligatorio de biodiésel y bioetanol mezclado con combustibles fósiles. La iniciativa, que ya tiene media sanción del Senado, despierta especial interés en Córdoba y Santa Fe, cuyos legisladores ayudaron al oficialismo a frustrar la última sesión de la oposición.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-acelera-un-proyecto-clave-para-cordoba-y-santa-fe-tras-la-ayuda-para-frustrar-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/S7FWPIETJJDUPDNSWBU352VLUE.jpeg?auth=6cd80e55264a3475f70e6c925e1f2ba8b9af88b09583888e97218b85e9e65344&smart=true&width=900&height=579",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:22",
+     "autor": "Delfina Celichini",
+     "titulo_original": "Diputados: el Gobierno acelera un proyecto clave para Córdoba y Santa Fe tras la ayuda para frustrar la sesión opositora"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "la Cámara de Diputados retoma el debate del Presupuesto 2027 con el capítulo Educación",
+     "resumen": "Oficialismo y oposición vuelven a medir fuerzas en comisiones y en el recinto luego de la fallida sesión opositora de la semana pasada. El miércoles, La Libertad Avanza pedirá sesión por discapacidad y morosidad, mientras persisten tensiones dentro de los bloques provinciales que intentaron avanzar contra el Gobierno.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/19/diputados-oficialismo-y-oposicion-vuelven-a-medirse-por-el-presupuesto-2027-discapacidad-y-morosidad/",
+     "imagen": "https://www.infobae.com/resizer/v2/JAQNOABXB5BKTO7C7BFOOMUIYE.jpg?auth=a333900beabf8d2691ddf74b8394107bfdf7efa75d3328c874de71e8b4c885b1&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:38",
+     "autor": "David Cayón",
+     "titulo_original": "Diputados: oficialismo y oposición vuelven a medirse por el Presupuesto 2027, discapacidad y morosidad"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Kicillof denunció al Gobierno nacional por demoras en los fondos para paliar los efectos de El Niño",
+     "resumen": "Los ministros bonaerenses Carlos Bianco y Martín Katopodis plantearon que la Nación no ejecuta las obras hidráulicas necesarias para reducir el impacto del fenómeno climático en la provincia, en medio de la crecida del río Paraná que ya obliga a evacuar ganado de las zonas de islas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/denuncia-kicillof-milei-ahora-demoras-transferencia-fondos-atenuar-efectos-nino_0_OVj58vjGkj.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/6fq_ZuMt7_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Otra denuncia de Kicillof contra Milei: ahora por demoras en la transferencia de fondos para atenuar los efectos del Niño"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-05",
+     "titulo": "el riesgo país avanzó a 675 puntos básicos y tocó el valor más alto en un año",
+     "resumen": "El índice que elabora JP Morgan sumó 27 unidades en la rueda y cerró en 675 puntos básicos, un salto de 4,17 por ciento, según Rava Bursátil. No se veía un nivel similar desde fines de octubre del año pasado; el contexto internacional, los datos negativos de actividad y la cercanía de las elecciones de 2027 explican la escalada.",
+     "relacionadas": [
+      {
+       "id": "IB-04",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La incertidumbre global y el escenario electoral: cómo explica el Gobierno la suba del riesgo país",
+       "url": "https://www.infobae.com/politica/2026/10/19/la-incertidumbre-global-y-el-escenario-electoral-como-explica-el-gobierno-la-suba-del-riesgo-pais/"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país tocó un récord de 2026 tras rozar los 680 puntos, mientras los ADRs se hundieron hasta 8,7%",
+       "url": "https://www.ambito.com/finanzas/el-riesgo-pais-supera-los-650-puntos-una-nueva-caida-los-bonos-dolares-n6335256"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/dolar/el-riesgo-pais-alcanza-los-660-puntos-basicos-y-toca-el-valor-mas-alto-del-ano-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5E6WV3IH2BFRNK4VH462Z2DP4Q.JPG?auth=ab0e5284ac1c9079e7ef0041adff2b6648e4972a12cb9d1653f5dc2a8e081c0d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "Melisa Reinhold",
+     "titulo_original": "El riesgo país alcanzó los 675 puntos y tocó el valor más alto en un año"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "la balanza comercial de septiembre cerró con un superávit de 2.976 millones de dólares",
+     "resumen": "Las exportaciones alcanzaron un récord de 10.036 millones de dólares, con un crecimiento interanual de 23,5 por ciento, mientras las importaciones sumaron 7.060 millones, con una baja de 1,8 por ciento. Fue el resultado positivo número 34 consecutivo y la energía volvió a liderar el crecimiento de las ventas externas. Para una empresa: el ingreso sostenido de dólares comerciales es uno de los factores que el mercado mira para evaluar la capacidad del Banco Central de seguir comprando reservas.",
+     "relacionadas": [
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Otro récord para las exportaciones: por primera vez superaron los US$ 10.000 millones en un solo mes",
+       "url": "https://www.clarin.com/economia/balanza-comercial-dejo-superavit-usd-2976-millones-septiembre_0_ul2CL0xXzb.html"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El superávit comercial de septiembre rozó los u$s3.000 millones, segundo máximo de 2026",
+       "url": "https://www.ambito.com/economia/el-superavit-comercial-septiembre-rozo-los-us3000-millones-segundo-maximo-2026-n6335477"
+      },
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Con exportaciones en niveles récord, la balanza comercial marcó un superávit de USD 2.976 millones en septiembre",
+       "url": "https://www.infobae.com/economia/2026/10/19/con-exportaciones-en-niveles-record-la-balanza-comercial-marco-un-superavit-de-usd-2976-millones-en-septiembre/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-energia-volvio-a-sostener-el-superavit-comercial-el-saldo-rozo-los-us-3000-millones-en-septiembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/IKJN37X77FGQNI2PKY77NSPPLM.jpg?auth=55a3031c95e81fb8a446cd28ffb1003b0a683d4a4e4b9c166b7dbdbeb340e922&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:37",
+     "autor": "Guillermo Pereira Poizón",
+     "titulo_original": "La energía volvió a sostener el superávit comercial en septiembre: el saldo rozó los u$s 3000 millones"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "el dólar volvió a subir, pero en el año acumula una suba de apenas 3%",
+     "resumen": "El mayorista avanzó 6,50 pesos (0,4 por ciento) hasta 1.524,50 pesos, con más de 605 millones de dólares negociados, la suba diaria más alta desde el 1 de octubre. Al público, el tipo de cambio subió a 1.540 pesos para la venta en el Banco Nación.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar mayorista subió por segunda rueda consecutiva y quedó a un paso de los $1.525",
+       "url": "https://www.ambito.com/finanzas/el-dolar-mayorista-se-ubica-arriba-1530-y-el-bcra-busca-acelerar-la-compra-reservas-n6335172"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/19/el-dolar-volvio-a-subir-pero-acumula-un-aumento-de-solo-3-en-el-ultimo-ano/",
+     "imagen": "https://www.infobae.com/resizer/v2/QYGWP6UJEBDORHCFJ7CUOJDPF4.JPG?auth=c0853ace985d629e93dd3e8aafa6cda89227b591f585868dc067894b49e47763&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:44",
+     "autor": "Juan Gasalla",
+     "titulo_original": "El dólar volvió a subir pero acumula un aumento de solo 3% en el último año"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "el petróleo cerró con el Brent a la baja y el WTI al alza por la tensión en Medio Oriente",
+     "resumen": "El Brent para entrega en diciembre retrocedió 0,28 por ciento, hasta 109,55 dólares, tras haber superado los 110 dólares durante la sesión, mientras el WTI para noviembre avanzó 2,22 por ciento, hasta 103,66 dólares. La divergencia se dio en medio de incidentes navales en el estrecho de Ormuz y de la decisión de Donald Trump de postergar nuevas sanciones al sector energético ruso.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/19/el-petroleo-cierra-con-el-brent-a-la-baja-y-el-wti-al-alza-por-la-tension-en-medio-oriente/",
+     "imagen": "https://www.infobae.com/resizer/v2/OMAWXRXY6VHGRGXPQYL4KFXNH4.JPG?auth=42c17ac456161a81ca1f725d3802c27911fa3d6bad05de8614c9d83155c6bce8&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:12",
+     "autor": "",
+     "titulo_original": "El petróleo cierra con el Brent a la baja y el WTI al alza por la tensión en Medio Oriente"
+    },
+    {
+     "id": "LN-03",
+     "titulo": "el BCRA prepara cinco medidas para impulsar el crédito a familias y empresas",
+     "resumen": "El Banco Central busca ampliar las garantías, facilitar el financiamiento a las pymes y crear nuevos instrumentos para que los comercios obtengan liquidez, tras el pico de morosidad del último año. El vicepresidente de la entidad, Vladimir Werning, detalló el plan ante inversores en las Reuniones Anuales del FMI y el Banco Mundial en Bangkok. Para una empresa: un abaratamiento del crédito y garantías más flexibles podrían facilitar el financiamiento de capital de trabajo y de inversión.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/credito-las-cinco-medidas-que-prepara-el-gobierno-para-impulsar-los-prestamos-a-familias-y-empresas-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Z5LHYEOLUBDSNN6U3O7ZAODCJE.jpg?auth=7a725008573bf811d1a037769e62713c2ff90abca6b5cca86734c0ee7f88ea58&smart=true&width=900&height=647",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:02",
+     "autor": "",
+     "titulo_original": "Crédito: las cinco medidas que prepara el Gobierno para impulsar los préstamos a familias y empresas"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "un informe privado advierte que el Gobierno necesitará financiamiento extra para cerrar el programa de 2027",
+     "resumen": "Según Suramericana Visión, existe una alta probabilidad de que el Gobierno deba recurrir a financiamiento adicional para afrontar los vencimientos de deuda del año próximo, en un contexto en el que la inflación de Estados Unidos se mantiene por encima de lo esperado. El riesgo país, el nivel de reservas y el costo de emitir deuda nueva son las variables centrales que seguirá el mercado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/martin-guzman-pronostico-que-necesitara-el-gobierno-para-cerrar-su-programa-financiero-de-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/XZ4V5XJCVBDKDD3IK55QTIFI2U.jpg?auth=b06be925d4aa78e934bb1a59172d4f4afdb249f8aefe1d40effc4c26aa35b637&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:10",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Martín Guzmán pronosticó qué necesitará el Gobierno para cerrar su programa financiero de 2027"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "S&P mantuvo la nota de la deuda bonaerense con perspectiva estable",
+     "resumen": "La calificadora asignó la nota RABB+ a una nueva emisión de la Provincia de Buenos Aires por hasta 50.000 millones de pesos, ampliables, con vencimiento en junio de 2028 y tasa variable atada a la TAMAR. S&P destacó el manejo prudente de las cuentas fiscales, pero advirtió sobre la limitada capacidad de la provincia para fortalecer su liquidez.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/sp-global-trazo-dos-escenarios-que-definiran-la-calificacion-de-la-deuda-bonaerense-en-los-proximos-12-meses/",
+     "imagen": "https://www.cronista.com/resizer/v2/74L2MHIYFNFT7MZVB4YFW2ZH74.jpg?auth=17cbf24aa8fe8b57fb1d26e8cba791362e1339440ba87d03e5866a4664a79387&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:16",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Los dos escenarios que definirán el futuro de la deuda bonaerense en los próximos 12 meses, según S&P"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "Milei celebró en Neuquén el crecimiento de Vaca Muerta y dijo que la Argentina está cerca del millón de barriles diarios",
+     "resumen": "En el Argentina Oil & Gas, el Presidente agradeció al director de YPF, Horacio Marín, y al gobernador Rolando Figueroa, y sostuvo que la producción de Vaca Muerta superó los 670.000 barriles diarios en agosto tras años de \"precios pisados, cepo y miedo a invertir\". También cuestionó el esquema del barril criollo y los subsidios de gestiones anteriores.",
+     "relacionadas": [
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei defendió el superávit energético y aseguró que “estamos a pocos pasos del millón de barriles diarios\"",
+       "url": "https://www.ambito.com/politica/javier-milei-defendio-el-superavit-energetico-y-aseguro-que-estamos-pocos-pasos-del-millon-barriles-diarios-n6335529"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/milei-defendio-el-valor-actual-del-dolar-y-critico-a-la-oposicion-hoy-dicen-que-crecemos-a-dos-velocidades-antes-no-creciamos/",
+     "imagen": "https://www.cronista.com/resizer/v2/XGDZ3Z4EG5FU7NQEUYEWRV5KZI.png?auth=453e15dc4c7320d53b732ded4ed17cc545b9267de002fbef55a8dacbc87e5e6e&smart=true&width=900&height=563",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "Milei defendió el valor actual del dólar y criticó a la oposición: “Hoy dicen que crecemos a dos velocidades, antes no crecíamos”"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "las petroleras se acercan a las universidades ante la falta de personal calificado para Vaca Muerta",
+     "resumen": "Las productoras comenzaron a vincularse directamente con las casas de estudio frente a una demanda de ingenieros y técnicos que crecerá junto con la actividad en la cuenca neuquina.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466930-vaca-muerta-negocia-con-universidades-para-formar-profesionales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606751.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "Las petroleras van a las universidades ante uno de los nuevos desafíos que enfrenta Vaca Muerta"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "el Gobierno sumó respaldo financiero de Japón para proyectos del RIGI",
+     "resumen": "En Tokio, la Argentina renovó un acuerdo de cooperación con el Japan Bank for International Cooperation para financiar iniciativas en petróleo y gas, energía y minería dentro del Régimen de Incentivo para Grandes Inversiones. Japón ya tiene 2.634 millones de dólares invertidos en el país, y el entendimiento fue firmado por el viceministro de Economía, José Luis Daza.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-amplia-el-respaldo-internacional-al-rigi-que-acordo-con-japon/",
+     "imagen": "https://www.cronista.com/resizer/v2/EVSFPYEDEZDY5KDC3M6VHJTTIQ.jpg?auth=316428d6648e03baf42a93863d6b3bf5811c1a2b4147d4bd5f124bdd9ec628cd&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:18",
+     "autor": "Equipo Economía",
+     "titulo_original": "El Gobierno amplía el respaldo internacional al RIGI: qué acordó con Japón"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "embargaron terrenos del ex fabricante de New Balance y Diadora para pagar indemnizaciones",
+     "resumen": "La Justicia trabó cautelares sobre los predios que ocupaba Bicontinentar para responder a los reclamos de 134 ex empleados despedidos por la firma.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466920-por-deudas-embargan-terrenos-de-ex-fabricante-de-new-balance",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/583241.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:21",
+     "autor": "",
+     "titulo_original": "Embargan terrenos de ex fabricante de New Balance y Diadora para indemnizar a despedidos"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Simon Hotel cerró su primera ronda de inversión y consiguió 32 millones de dólares",
+     "resumen": "El fondo creado para financiar el proyecto hotelero superó el piso previsto para la colocación y aceptó el total de la demanda presentada por 47 inversores.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466934-simon-hotel-consiguio-32-millones-de-dolares-para-avanzar-con-nuevo-hotel-palermo-buenos-aires",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2011/09/348609.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:58",
+     "autor": "",
+     "titulo_original": "Simon Hotel cerró su primera ronda y consiguió u$s32 millones de 47 inversores"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "los supermercados piden extender a todo el país las retenciones de Ingresos Brutos a las billeteras virtuales",
+     "resumen": "La Asociación de Supermercados Unidos le solicitó al Ministerio de Economía que interceda ante los gobiernos de CABA, Santa Fe y La Pampa para que adhieran al Sircupa, el sistema de recaudación que ya aplica la mayoría de las provincias sobre las acreditaciones en cuentas de pago. El reclamo busca equiparar la presión tributaria entre el comercio formal y los operadores que trabajan con billeteras virtuales. Para una empresa: una adhesión completa de las jurisdicciones reduciría las diferencias de carga fiscal entre canales de cobro.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/ingresos-brutos-supermercados-presionan-para-extender-las-retenciones-a-las-billeteras-virtuales-y-apuntan-a-tres-provincias/",
+     "imagen": "https://www.cronista.com/resizer/v2/2MO3QVYKVNDEDJSHRQJ3HQWTTQ.jpg?auth=7687d3a9f10170a830b1b36fd40f90f01354bd9e90b73ce7b8563957b6adbc16&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:22",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "Ingresos Brutos: supermercados presionan para extender las retenciones a las billeteras virtuales y apuntan a tres provincias"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Neuquén reglamentó un crédito fiscal de Ingresos Brutos por cada trabajador que se contrate",
+     "resumen": "La Dirección Provincial de Rentas reglamentó el programa Emplea Neuquén, que descuenta de Ingresos Brutos un Salario Mínimo, Vital y Móvil por mes y por trabajador nuevo a jornada completa, equivalente a 564.900 pesos con los adicionales vigentes en agosto. El beneficio solo alcanza a quienes cumplan las condiciones fijadas por la norma.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/credito-fiscal-para-ingresos-brutos-por-contratar-quien-puede-usarlo-y-quien-queda-afuera/",
+     "imagen": "https://www.cronista.com/resizer/v2/7JSC2EQQRBE65FNDBEP3VCCWHM.jpg?auth=47576926af712648d297d364f37b0e023f9d50fcbd2e5e6a2f3beca9dea9c194&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:51",
+     "autor": "Audiencias Member",
+     "titulo_original": "Crédito fiscal para Ingresos Brutos por contratar: quién puede usarlo y quién queda afuera"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "cuánto cuesta hoy una remodelación integral de una casa, según un caso real difundido en redes",
+     "resumen": "Un usuario que muestra procesos de flipping inmobiliario en redes sociales detalló todos los gastos de una reforma completa, en un contexto de suba de precios de la construcción que encarece este tipo de proyectos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466939-cuanto-cuesta-una-remodelacion-integral-de-tu-casa-influencer-mostro-todos-los-gastos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627876.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta una remodelación integral de tu casa: influencer mostró todos los gastos"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "pocas ventas, ofertas y locales vacíos marcan a la avenida Santa Fe",
+     "resumen": "En una recorrida por la tradicional avenida comercial porteña, vendedores señalaron caídas en las ventas y dificultades crecientes para afrontar los gastos fijos de los locales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466735-avenida-santa-fe-caen-las-ventas-y-crecen-los-locales-vacios",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627738.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:20",
+     "autor": "",
+     "titulo_original": "Pocas ventas, ofertas y locales vacíos: radiografía de la emblemática avenida Santa Fe"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "se amplió la brecha de precios entre un departamento usado y uno a estrenar",
+     "resumen": "Los costos de construcción siguen elevando los precios de las unidades nuevas: en CABA, la brecha con los departamentos usados ya supera el 32 por ciento, y comprar en pozo resulta todavía más caro. Para una empresa: el encarecimiento relativo de la obra nueva es una referencia directa para quienes venden materiales de construcción.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/466597-cuanto-mas-barato-es-comprar-un-departamento-usado-que-uno-a-estrenar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613875.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:20",
+     "autor": "",
+     "titulo_original": "Se amplió la brecha y comprar un departamento usado es mucho más barato que uno a estrenar"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "los barrios del sur porteño ofrecen hoy mayor renta inmobiliaria que Palermo o Belgrano",
+     "resumen": "Mientras esas zonas tradicionales mantienen precios de compra elevados, el sur de la Ciudad ofrece una relación más favorable entre el valor de las propiedades y los alquileres, además de terrenos disponibles para nuevos desarrollos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/invertir-en-real-estate-los-barrios-en-los-que-se-recupera-antes-la-inversion-y-tienen-mayor-renta/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZOCF2TDOYBED7HJ35TKCS7ROGI.jpg?auth=3948c99fdb71a27ff8af35cca6be1b116c824365f60a0b2bd29437578379abcf&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Invertir en Real Estate: los barrios en los que se recupera antes la inversión y tienen mayor renta"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-13",
+     "titulo": "los fondos de money market concentran cada vez más pesos de empresas y particulares",
+     "resumen": "Según datos de la Cámara Argentina de Fondos Comunes de Inversión al 14 de octubre, estos vehículos se consolidaron como una de las principales herramientas para mantener liquidez en pesos con algo de rendimiento, en una industria con fuerte concentración de patrimonio en pocos fondos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/money-market-cuales-son-los-fondos-comunes-que-mas-dinero-administran-en-pesos/",
+     "imagen": "https://www.cronista.com/resizer/v2/FLOIAY2EPZBCNFCDOQ57YHNDYM.jpg?auth=a95e1e71d4b54f84080d37c4caf7023cdaf8a07603e397274b7a8b06b97e6be6&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:06",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Money market: cuáles son los Fondos Comunes que más dinero administran en pesos"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "casi el 20% de las pymes no tiene ningún seguro contratado",
+     "resumen": "Un relevamiento muestra que las empresas reconocen la importancia de las coberturas, pero el 43 por ciento señala dificultades económicas para pagarlas y el 19 por ciento no encuentra productos adaptados a sus necesidades.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/seguros/las-pymes-reconocen-la-importancia-los-pero-casi-el-20-no-tiene-cobertura-n6335435",
+     "imagen": "https://media.ambito.com/p/916b186c136cb387c010d261fe4ce5a6/adjuntos/239/imagenes/043/666/0043666410/inteligencia-artificial-seguros.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:53",
+     "autor": "",
+     "titulo_original": "Las pymes reconocen la importancia de los seguros, pero casi el 20% no tiene cobertura"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-09",
+     "titulo": "un deslizamiento en una mina de oro artesanal en Colombia dejó al menos nueve muertos",
+     "resumen": "La tragedia ocurrió en una mina de Santa Bárbara de Iscuandé, en el departamento de Nariño, donde el desprendimiento de lodo y material rocoso sepultó el yacimiento mientras cerca de 30 personas realizaban tareas de barequeo. La Defensoría del Pueblo pidió apoyo aéreo y asistencia médica urgente ante la posibilidad de que aumente el número de víctimas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/colombia/2026/10/19/deslizamiento-en-mina-de-oro-en-narino-dejo-al-menos-nueve-muertos-cerca-de-30-personas-habrian-quedado-atrapadas/",
+     "imagen": "https://www.infobae.com/resizer/v2/4E5LPP2BAVE6TE3YWSO3BP3FOE.jpeg?auth=6149c42cb95f0470d38fecb5426c4550cb5c2c9868a8ec1d367473daace6db78&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:03",
+     "autor": "Juan Gaona",
+     "titulo_original": "Deslizamiento en mina de oro en Nariño dejó al menos nueve muertos: cerca de 30 personas habrían quedado atrapadas"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "crece en Irán la presión de los sectores más duros para avanzar hacia armas nucleares",
+     "resumen": "Tras el asesinato del líder supremo Ali Jameneí, quien había prohibido con una fatwa el desarrollo de bombas atómicas, un número creciente de políticos y legisladores de línea dura pide que el país se retire del Tratado de No Proliferación Nuclear y adopte las armas nucleares, en medio de la devastación dejada por la guerra con Estados Unidos e Israel.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/los-sectores-mas-duros-de-iran-presionan-por-un-giro-hacia-las-armas-nucleares/",
+     "imagen": "https://www.cronista.com/resizer/v2/BPF7MWLW2BCPTIZIEC2254OFSM.jpg?auth=30592c0a9a7f6499ae9a2fa02880072a221449b94e21a02c88ef9089cf2e376a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:38",
+     "autor": "Najmeh Bozorgmehr",
+     "titulo_original": "Los sectores más duros de Irán presionan por un giro hacia las armas nucleares"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Italia evalúa un plan de acción y el envío de más tropas a Milán tras los disturbios del fin de semana",
+     "resumen": "La primera ministra Giorgia Meloni está decidida a actuar después de que algunas protestas por el encarecimiento de la vida derivaran en violentos saqueos en el centro de varias ciudades. Por el momento no se conocen las medidas concretas, aunque algunos medios adelantan que podría tratarse de un decreto-ley.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/italia-violentas-protestas-gobierno-giorgia-meloni-evalua-plan-accion-sumar-tropas-milan_0_vVX6JkGLop.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/GdEv-dD0o_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:55",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Italia: tras las violentas protestas, el gobierno de Giorgia Meloni evalúa un plan de acción y sumar tropas en Milán"
+    },
+    {
+     "id": "LN-04",
+     "titulo": "a una semana del balotaje en Brasil, la diferencia entre Lula y Flavio Bolsonaro se achicó a 0,6 puntos",
+     "resumen": "La última encuesta de Next ubicó a Lula da Silva en 45,9 por ciento y a Flavio Bolsonaro en 46,5 por ciento, una brecha mucho menor a la de los días previos. Otros sondeos conocidos este lunes, como BTG/Nexus y Futura, también muestran un empate técnico, mientras AtlasIntel mantiene a Bolsonaro algo más adelante. La Bolsa de San Pablo cayó 0,17 por ciento tras el primer debate televisado entre ambos candidatos.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Balotaje de las Elecciones Brasil 2026, EN VIVO: las últimas noticias sobre los comicios hoy",
+       "url": "https://www.lanacion.com.ar/el-mundo/balotaje-de-las-elecciones-brasil-2026-en-vivo-las-ultimas-noticias-sobre-los-comicios-hoy-nid19102026/"
+      },
+      {
+       "id": "IB-10",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La Bolsa de São Paulo cae un 0,17 % tras el debate electoral entre Lula y Bolsonaro",
+       "url": "https://www.infobae.com/america/agencias/2026/10/19/la-bolsa-de-sao-paulo-cae-un-017-tras-el-debate-electoral-entre-lula-y-bolsonaro/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-ultima-encuesta-de-next-lula-con-459-y-flavio-bolsonaro-con-465-para-las-elecciones-brasil-2026-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CSRMPNXON5DFNKK52HKM6Y6KRM.jpg?auth=3a796b438d441073589fee0eddc833af442a7af61d2244a6dbafc5398098c104&smart=true&width=900&height=604",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:01",
+     "autor": "",
+     "titulo_original": "La última encuesta de Next: Lula, con 45,9%, y Flavio Bolsonaro, con 46,5%, para las elecciones Brasil 2026"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "México espera antes de fin de año una respuesta de Estados Unidos sobre una posible baja de aranceles",
+     "resumen": "El país busca una reducción de los aranceles al acero, el aluminio y los autos, tras presentar argumentos técnicos a Washington en busca de condiciones más favorables para el comercio automotriz y siderúrgico bilateral.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/mexico-espera-la-respuesta-de-ee-uu-para-una-reduccion-de-aranceles-antes-de-fin-de-ano_0_3GFEA872dJ.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "México espera la respuesta de EE.UU. para una reducción de aranceles antes de fin de año"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "incautaron 7,6 toneladas de cocaína mezclada con panela en el puerto de Cartagena",
+     "resumen": "El presidente colombiano, Abelardo de la Espriella, calificó el operativo como el golpe más grande registrado en los últimos diez años en ese puerto, el principal del país sobre el mar Caribe. Los narcotraficantes pretendían burlar los controles mezclando la droga con panela pulverizada.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/19/incautan-76-toneladas-de-cocaina-en-el-puerto-de-la-ciudad-colombiana-de-cartagena/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Incautan 7,6 toneladas de cocaína en el puerto de la ciudad colombiana de Cartagena"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent mapea cómo distintos gobiernos usan la violencia en Francia para justificar sus propias políticas",
+     "resumen": "La revista analiza las reacciones internacionales a los disturbios franceses y señala que la mayoría de los dirigentes, más que describir lo ocurrido, lo utilizan como argumento para sus agendas domésticas. Cita a Donald Trump, quien atribuyó la crisis a la inmigración y pidió el cierre de fronteras en Europa, y al vicepresidente J. D. Vance, quien acusó a los \"progresistas occidentales\" de haber importado desigualdades sin resolver la asimilación. El ángulo del artículo es justamente ese: Francia se convirtió en un espejo donde cada gobierno proyecta su propio relato político, más que en el objeto real del análisis.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/19/cartografiar-reacciones-internacionales-violencias-en-francia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "14:36",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Cartografiar las reacciones internacionales ante los actos de violencia en Francia"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "Boca visita a Vasco da Gama este martes a las nueve y media de la noche por la revancha de la Sudamericana",
+     "resumen": "El encuentro de vuelta de la semifinal se juega en el estadio Maracaná, porque el São Januário no habilita la capacidad mínima exigida por la Conmebol, con arbitraje del venezolano Jesús Valenzuela. Vasco da Gama ganó la ida 1 a 0 en la Bombonera y se transmitirá por DSports y Fox Sports.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Arruabarrena dio buenas señales sobre Paredes para la revancha contra Vasco da Gama y avisó: \"No tenemos que caer en provocaciones\"",
+       "url": "https://www.clarin.com/deportes/vasco-arruabarrena-dio-buenas-senales-paredes-revancha-vasco-da-gama-aviso-caer-provocaciones_0_udZ1zCpC24.html"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La advertencia de Rodolfo Arruabarrena sobre la lesión de Leandro Paredes: \"Él quiere estar, pero hay un riesgo\"",
+       "url": "https://www.ambito.com/deportes/la-advertencia-rodolfo-arruabarrena-la-lesion-leandro-paredes-el-quiere-estar-pero-hay-un-riesgo-n6335446"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Paredes viajó a Brasil con la ilusión de ser titular frente a Vasco Da Gama por la Sudamericana: la advertencia de Arruabarrena",
+       "url": "https://www.infobae.com/deportes/2026/10/19/paredes-viajo-a-brasil-con-la-ilusion-de-ser-titular-frente-a-vasco-da-gama-por-la-sudamericana-la-advertencia-de-arruabarrena/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-vasco-da-gama-cuando-juegan-por-las-semifinales-de-la-copa-sudamericana-2026-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/W66NEE6ZG5APJEAP7UVYGIXEZE.JPG?auth=96022babf033b269da5574750446dfe92a55f9aceb50addb12deb436ff6ed35f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:09",
+     "autor": "",
+     "titulo_original": "Boca vs. Vasco Da Gama: cuándo juegan por las semifinales de la Copa Sudamericana 2026"
+    },
+    {
+     "id": "CL-01",
+     "titulo": "Ponzio ratificó su continuidad en River tras la goleada a Belgrano y despejó los rumores sobre Ramón Díaz",
+     "resumen": "El técnico interino remarcó que jamás le haría daño a la institución y confirmó que seguirá al frente de los entrenamientos, después del mejor partido de River en su ciclo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/ponzio-sigue-firme-luego-mejor-partido-river-ciclo-contundente-respuesta-ruido-externo-ramon-diaz_0_IhhPxMmKun.html",
+     "imagen": "https://www.clarin.com/img/2026/10/11/cByU1u9ar_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ponzio sigue firme luego del mejor partido de River en su ciclo: la contundente respuesta tras el ruido externo por Ramón Díaz"
+    },
+    {
+     "id": "IB-05",
+     "titulo": "River perderá al mediocampista Fausto Vera para el Superclásico ante Boca",
+     "resumen": "Los estudios médicos confirmaron un desgarro en el isquiotibial derecho durante la goleada ante Belgrano, con un plazo de recuperación de unas tres semanas que también lo dejará afuera del cierre de la fase regular del Torneo Clausura.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/19/preocupacion-en-river-plate-se-lesiono-uno-de-los-jugadores-mas-utilizados-por-ponzio-y-se-perdera-el-superclasico-con-boca-juniors/",
+     "imagen": "https://www.infobae.com/resizer/v2/J6QPAOBIANENPFUCDK5YB3CUBY.JPG?auth=0d634e1dc841cf969ced974fb1f31f269da250c2ab6392dcff1a3705ab78915e&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "Preocupación en River Plate: se lesionó uno de los jugadores más utilizados por Ponzio y se perderá el Superclásico con Boca Juniors"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "el Manchester City se expone a una sanción histórica que podría hacerlo descender a la segunda división",
+     "resumen": "Según Daily Mail, la Comisión de Investigación independiente de la Premier League encontraría culpable al club en alrededor de 100 de los 114 cargos por irregularidades financieras entre 2009 y 2018, con un fuerte descuento de puntos y una multa económica. El equipo, donde juegan Enzo Fernández y Jerónimo Rulli, ya presentó una apelación.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Las posibles sanciones para el Manchester City por el escándalo en la Premier League: ¿el equipo de Enzo Fernández puede descender?",
+       "url": "https://www.clarin.com/deportes/posibles-sanciones-manchester-city-escandalo-premier-league-equipo-enzo-fernandez-puede-descender_0_5fqTuiDniP.html"
+      },
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Salen a la luz detalles sobre un posible castigo histórico para el Manchester City que podría hacerle hasta perder la categorìa",
+       "url": "https://www.ambito.com/deportes/salen-la-luz-detalles-un-posible-castigo-historico-el-manchester-city-que-podria-hacerle-perder-la-categoria-n6335405"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/manchester-city-se-expone-a-una-sancion-historica-en-un-caso-que-toca-intereses-economicos-de-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SIDF5AMRBVENXMDZ7SNKQAMRAY.JPG?auth=db23a9cbf173a48b426c8a3ac880f45fbfbc19784e3a489152492d49e08fd037&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:56",
+     "autor": "",
+     "titulo_original": "Manchester City se expone a una sanción histórica en un caso que toca intereses económicos de Emiratos Árabes y Gran Bretaña"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "PSG y Barcelona se enfrentan en París en uno de los partidos más esperados de la Champions League",
+     "resumen": "El equipo de Hansi Flick llega con un promedio de 4,36 goles por partido. El mismo martes se juegan también Liverpool-Villarreal y Stuttgart-Atlético de Madrid.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/partido-72-goles-psg-barcelona-chocan-champions-league-duelo-nadie-quiere-debe-perder_0_dSfXemjIPO.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/ojCjfAEZe_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El partido de los 72 goles: PSG y Barcelona chocan por la Champions League en un duelo que nadie se quiere (y debe) perder"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Facundo Díaz Acosta ganó en Almaty y se espera el duelo entre Navone y Cerúndolo en Bruselas",
+     "resumen": "El porteño venció en tres sets a Thiago Tirante, número 50 del mundo, y avanzó a la segunda ronda del ATP 250 de Kazajistán, su primer triunfo en un torneo de esa categoría sobre superficie rápida en casi dos años. En el ATP 250 de Bélgica habrá otro cruce entre argentinos en primera ronda.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/19/facundo-diaz-acosta-logro-un-importante-triunfo-ante-thiago-tirante-en-almaty-y-se-espera-el-duelo-entre-navone-y-cerundolo-en-bruselas/",
+     "imagen": "https://www.infobae.com/resizer/v2/5QPQCYHY2ZAODJJ7NQQBOXQQKU.jpg?auth=d899e96f23dd65f8659aefd50c997152c7246c3fa2040280a449957d8f50c738&smart=true&width=753&height=551",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:59",
+     "autor": "",
+     "titulo_original": "Facundo Díaz Acosta logró un importante triunfo ante Thiago Tirante en Almaty y se espera el duelo entre Navone y Cerúndolo en Bruselas"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-21",
+     "titulo": "el Tren Patagónico ya vende pasajes para noviembre y diciembre entre Viedma y Bariloche",
+     "resumen": "El servicio tradicional de Tren Patagónico SA une la Costa Atlántica con la Cordillera de los Andes en un recorrido de más de 800 kilómetros y unas 19 horas de viaje, cruzando la meseta y la estepa patagónica. La empresa fijó un cuadro tarifario que distingue entre residentes de Río Negro y no residentes.",
+     "relacionadas": [
+      {
+       "id": "IP-19",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Tren Patagónico ya vende los pasajes para noviembre y diciembre: cuánto cuesta y recorrido",
+       "url": "https://www.iprofesional.com/turismo/466921-tren-patagonico-ya-vende-los-pasajes-para-noviembre-y-diciembre-cuanto-cuesta-y-recorrido"
+      }
+     ],
+     "url": "https://www.cronista.com/clase/break/el-tren-patagonico-ya-vende-pasajes-para-noviembre-y-diciembre-2026-precios-horarios-y-como-comprar/",
+     "imagen": "https://www.cronista.com/resizer/v2/UN2APSZJ7FBOZGEH7CXLIODC6Q.png?auth=b81fc25ad88a05148ca70e4f87d77cd4f8cfecef1d2644d47b531b8d2e4f107e&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:56",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El Tren Patagónico ya vende pasajes para noviembre y diciembre 2026: precios, horarios y cómo comprar"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "buenas noticias para el turismo en las Cataratas del Iguazú de cara al fin de semana",
+     "resumen": "Los niveles del río bajaron, aunque todavía se mantienen altos, lo que mejora las condiciones para los visitantes. Se recomienda prestar atención al pronóstico de lluvias de los próximos días por su posible impacto en el litoral.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/cataratas-iguazu-buena-noticia-turismo-fin-semana-puede-pasar-lluvias-proximos-dias_0_DXDrly2b2H.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/10anj5a9G_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cataratas del Iguazú: la buena noticia para el turismo del fin de semana y qué puede pasar con la lluvias de los próximos días"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-06",
+     "titulo": "sigue la búsqueda de la docente desaparecida en Corrientes, con dos detenidos",
+     "resumen": "Nanci Estela Godoy, directora suplente de una escuela rural en Esquina, se comunicó por última vez con su familia el 7 de octubre. En la casa de uno de los sospechosos, un peón rural, los investigadores hallaron cuchillos y ropa con manchas rojizas, y una testigo aseguró haber visto a la docente en la escuela el 9 de octubre, tres días después del último rastro conocido.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Caso Nancy Godoy en Corrientes: el fiscal reveló que hallaron \"manchas rojizas\" en ropa y cuchillos de un peón rural",
+       "url": "https://www.clarin.com/sociedad/caso-nancy-godoy-corrientes-fiscal-revelo-docente-rural-llego-escuela-investigan-manchas-rojizas-casa-peon_0_Oj5ya7cAJW.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JB2EDCU2HRBF3ITI7QFQUHZKMY.jpg?auth=ce6320c2185be9bf5248d9c865e1cb5d0e6a9bfb32ced27267f090febd31685d&smart=true&width=878&height=1333",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree que la engañaron"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "la falta de reglamentación de la Ley Joaquín vuelve a exponer la inseguridad de los arcos en los clubes de barrio",
+     "resumen": "Hubo seis accidentes con arcos de fútbol en un año, el último en Lanús, donde un nene de 12 años quedó internado, y el 7 de octubre murió una nena por un hecho similar en General Villegas. La ley que busca prevenir estos accidentes fue sancionada por unanimidad en la Legislatura bonaerense hace tres meses, pero todavía no fue reglamentada por el gobierno de Axel Kicillof.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/accidentes-arcos-ano-ley-cajoneada-controla-clubes-chicos-hacen-deportes_0_Ena1tQYkXN.html",
+     "imagen": "https://www.clarin.com/img/2026/02/10/fhAmokZzD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Seis accidentes con arcos en un año y una ley cajoneada: quién controla los clubes donde los chicos hacen deportes"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "la crecida del Paraná obliga a retirar miles de cabezas de ganado de las zonas de islas",
+     "resumen": "Productores de la costa santafesina preparan el retiro de unas 15.000 vacas de las islas frente a San Javier, mientras en el norte de la provincia de Buenos Aires la mitad del ganado todavía no pudo ser evacuado por falta de barcos y de campos disponibles en tierra firme, con el pico de la creciente a dos semanas de llegar.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "En Buenos Aires se adelantan a la crecida del Paraná: el drama por sacar a los miles de animales que quedan en las islas y conseguir campos para ubicarlos",
+       "url": "https://www.clarin.com/rural/buenos-aires-adelantan-crecida-parana-drama-sacar-miles-animales-quedan-islas-conseguir-campos-ubicarlos_0_6MV5TohvRr.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/campo/crecida-del-parana-preparan-el-retiro-de-15000-vacas-para-que-no-se-las-lleve-el-agua-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BRUIISM4J5FSVBAWFKRLZZE4SU.jpg?auth=6741f6cc91396d083c57e6a4837480dfbb52074c669c4b0bcfe5184ed487f4d4&smart=true&width=706&height=540",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:48",
+     "autor": "José E. Bordón",
+     "titulo_original": "Crecida del Paraná: preparan el retiro de 15.000 vacas para que no se las lleve el agua"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "excarcelaron al ex abogado de Wanda Nara acusado de once estafas millonarias",
+     "resumen": "Nicolás Payarola, que llevaba casi once meses detenido, recuperó la libertad bajo condiciones que incluyen la prohibición de salir del país y de contactar a las víctimas. La jueza consideró que el tiempo ya cumplido permitiría acceder a la libertad condicional ante una eventual condena de hasta tres años; la causa fue elevada a juicio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/19/excarcelaron-al-ex-abogado-de-wanda-nara-acusado-de-once-estafas-millonarias-los-argumentos-de-la-justicia/",
+     "imagen": "https://www.infobae.com/resizer/v2/SBHAT2J6N5GZ5LX4C7XYLBWQOU.jpg?auth=1f38ca8fc00ce3ce40e5e5917667586e6824c7b3ff5f974a702b9716165435f4&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:46",
+     "autor": "Federico Fahsbender",
+     "titulo_original": "Excarcelaron al ex abogado de Wanda Nara acusado de once estafas millonarias: los argumentos de la Justicia"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del lunes diecinueve de octubre. El riesgo país volvió a subir y llegó a rondar los seiscientos ochenta puntos básicos, un récord para este año, con una fuerte caída de los bonos y acciones argentinas, a pesar de que el INDEC confirmó un superávit comercial récord en septiembre. En el plano político, el Gobierno frenó el debate de la ley de Malvinas en Diputados tras el pedido de Estados Unidos de disolver el comité de descolonización de las Naciones Unidas, y Patricia Bullrich aceptó ser candidata a vicepresidenta de Milei, aunque con condiciones. Afuera, Francia sigue bajo toques de queda tras los saqueos del fin de semana, Italia evalúa reforzar la seguridad en Milán, y en Brasil la última encuesta achicó la diferencia entre Lula y Flavio Bolsonaro a una semana del balotaje.\n\nEn política, la noticia central fue el freno al debate de la ley de Soberanía Nacional por Malvinas. La comisión de Defensa de Diputados iba a buscar esta semana un dictamen, pero el oficialismo suspendió la reunión después de que Washington pidiera terminar con el mandato del comité de descolonización de la ONU, el ámbito donde la Argentina sostiene su reclamo por las islas. El vocero presidencial reconoció que la postura argentina está bajo análisis. En paralelo, Patricia Bullrich aceptó la propuesta de Milei de ser candidata a vice, aunque pidió independencia para opinar y mayores espacios de poder, según informó iProfesional. La Corte Suprema, por su parte, quedó en condiciones de revisar el sobreseimiento de dos exfuncionarios kirchneristas acusados de no controlar el derrame de cianuro en la mina Veladero, en San Juan, hace once años. Y Diputados acelera, además, el debate de un nuevo régimen de biocombustibles por quince años, impulsado especialmente por los legisladores de Córdoba y Santa Fe.\n\nEn economía, el dato más resonante fue el nuevo salto del riesgo país, que según el índice de JP Morgan subió veintisiete unidades y cerró en seiscientos setenta y cinco puntos básicos, el valor más alto en un año, de acuerdo con Rava Bursátil. El contexto internacional más volátil, los malos datos de actividad y la cercanía de las elecciones de dos mil veintisiete explican buena parte de la suba. Pero la otra cara de la jornada fue positiva: el INDEC informó que la balanza comercial de septiembre cerró con un superávit de dos mil novecientos setenta y seis millones de dólares, apalancado en exportaciones récord de diez mil treinta y seis millones, con un alza interanual de veintitrés coma cinco por ciento. Fue el resultado positivo número treinta y cuatro consecutivo. El dólar, mientras tanto, volvió a subir pero acumula apenas un tres por ciento de suba en el año; el mayorista avanzó hasta mil quinientos veinticuatro pesos con cincuenta centavos. En el mercado petrolero, el barril Brent bajó levemente hasta ciento nueve dólares con cincuenta y cinco centavos, mientras el West Texas Intermediate subió, en medio de incidentes navales en el estrecho de Ormuz. El Banco Central, según informa La Nación, prepara cinco medidas para ampliar el crédito a familias y empresas, con nuevas garantías y herramientas de liquidez para comercios y pymes. Para una empresa, esto podría traducirse en mejores condiciones para financiar capital de trabajo. Y un informe privado advirtió que el Gobierno necesitará financiamiento adicional para cerrar el programa financiero de dos mil veintisiete.\n\nEn negocios, Javier Milei celebró en Neuquén el crecimiento de Vaca Muerta, que según dijo superó los setecientos mil barriles diarios y está cerca del millón, mientras las petroleras empiezan a acercarse a las universidades ante la falta de personal calificado. El Gobierno además sumó respaldo financiero de Japón para proyectos del régimen de incentivo a grandes inversiones. Y la Justicia embargó terrenos del ex fabricante de zapatillas New Balance y Diadora para pagar indemnizaciones a ciento treinta y cuatro empleados despedidos.\n\nEn impuestos y normativa, los supermercados nucleados en ASU pidieron que se extiendan a todo el país las retenciones de Ingresos Brutos sobre las billeteras virtuales, para equiparar la carga tributaria entre el comercio formal y los nuevos canales de cobro. Y la provincia de Neuquén reglamentó un crédito fiscal de Ingresos Brutos equivalente a un salario mínimo por cada trabajador nuevo que se contrate.\n\nEn consumo y construcción, que es la sección más ligada a su actividad, un caso real mostró cuánto cuesta hoy una remodelación integral de una vivienda, en un contexto de suba de precios de la construcción. En la avenida Santa Fe porteña, los comerciantes reportan pocas ventas y locales vacíos, y se amplió la brecha de precios entre un departamento usado y uno a estrenar, que en la Ciudad ya supera el treinta y dos por ciento. Para una empresa de materiales, esto confirma que el costo de construir sigue siendo determinante en la decisión de compra. Además, los barrios del sur porteño empiezan a ofrecer mayor renta inmobiliaria que Palermo o Belgrano.\n\nEn management y finanzas corporativas, los fondos de money market siguen concentrando cada vez más pesos de empresas y particulares que buscan liquidez con algo de rendimiento. Y casi el veinte por ciento de las pymes argentinas no tiene ningún seguro contratado, principalmente por dificultades económicas.\n\nEn el mundo, un deslizamiento en una mina de oro artesanal en Colombia dejó al menos nueve muertos en el departamento de Nariño. En Irán crece la presión de los sectores más duros para abandonar el tratado de no proliferación nuclear y avanzar hacia las armas atómicas. En Italia, el gobierno de Giorgia Meloni evalúa reforzar la seguridad y sumar tropas en Milán tras los disturbios del fin de semana por el encarecimiento de la vida. En Brasil, a una semana del balotaje, la última encuesta redujo a apenas seis décimas de punto la diferencia entre Lula da Silva y Flavio Bolsonaro. México espera antes de fin de año una respuesta de Estados Unidos sobre una posible baja de aranceles al acero, el aluminio y los autos. Y en Colombia, las autoridades incautaron siete coma seis toneladas de cocaína mezclada con panela en el puerto de Cartagena.\n\nLe Grand Continent analiza cómo distintos gobiernos usan la violencia en Francia para justificar sus propias agendas internas, citando declaraciones de Donald Trump y de su vicepresidente J. D. Vance, que atribuyen la crisis a la inmigración.\n\nEn deportes, Boca visita este martes a Vasco da Gama en el estadio Maracaná, a las nueve y media de la noche, por la revancha de la semifinal de la Copa Sudamericana, tras perder uno a cero la ida. En River, el técnico interino Ponzio ratificó su continuidad después de la goleada a Belgrano, aunque el equipo perderá al mediocampista Fausto Vera para el Superclásico ante Boca por un desgarro. El Manchester City, según Daily Mail, se expone a una sanción histórica que podría hacerlo descender a la segunda división de Inglaterra. En la Champions League, París Saint-Germain recibe a Barcelona en uno de los partidos más esperados de la fecha. Y en tenis, Facundo Díaz Acosta ganó en Almaty y se espera el duelo entre Navone y Cerúndolo en Bruselas.\n\nEn turismo, el Tren Patagónico ya vende pasajes para noviembre y diciembre entre Viedma y Bariloche, un recorrido de más de ochocientos kilómetros que une la Costa Atlántica con la Cordillera de los Andes. Y en las Cataratas del Iguazú bajaron los niveles del agua, lo que mejora las condiciones para los visitantes de cara al fin de semana.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Le Grand Continent trajo una sola nota en esta corrida, por eso la sección Europa y geopolítica tiene una sola noticia en lugar de las tres a cinco habituales. No se detectaron novedades de Franco Colapinto ni de Club Atlético Tigre en el material de esta edición.",
+ "slug": "2026-10-19-tarde",
+ "generado_ba": "19/10/2026 21:15"
+}
