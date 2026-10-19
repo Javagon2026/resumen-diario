@@ -1,0 +1,919 @@
+{
+ "fecha": "2026-10-19",
+ "edicion": "manana",
+ "titulo": "Juicio a los Kirchner, inflación mayorista al alza y disturbios en Francia",
+ "apertura": "La semana arranca con el foco puesto en la Justicia y la política: este viernes empieza el juicio contra Cristina y Máximo Kirchner por las causas Hotesur y Los Sauces, mientras la interna del PJ se acelera de cara a 2027 y el Gobierno avanza con la suspensión de las PASO. En el plano económico, la inflación mayorista repuntó por el Súper Niño y el Gobierno bajó su meta de superávit fiscal, mientras ARBA lanza un plan de pagos con fuertes descuentos y el consumo minorista sigue golpeado. Afuera, Francia atraviesa su peor ola de disturbios en años y Lula da Silva y Flávio Bolsonaro debatieron de cara al balotaje brasileño.",
+ "claves": [
+  "Comienza el viernes el juicio contra Cristina y Máximo Kirchner por las causas Hotesur y Los Sauces.",
+  "La inflación mayorista aceleró a 3,2% en septiembre por el impacto del Súper Niño y el petróleo.",
+  "El Gobierno bajó la meta de superávit fiscal a 1,3% del PBI para 2026, por debajo de lo acordado con el FMI.",
+  "ARBA lanzará el 26 de octubre un plan de pagos con descuentos de hasta 40% para regularizar deudas.",
+  "Las ventas pyme por el Día de la Madre cayeron 1,4%, la quinta baja consecutiva.",
+  "Francia atraviesa su peor jornada de disturbios en años, con más de 2.000 detenidos y Macron bajo presión.",
+  "River goleó 3-0 a Belgrano y sigue en carrera por la Libertadores 2027; Racing e Independiente empataron en el clásico de Avellaneda.",
+  "Reino Unido evalúa bloquear el ingreso argentino a la OCDE en represalia por las sanciones al proyecto Sea Lion."
+ ],
+ "cifras": [
+  {
+   "nombre": "Inflación mayorista (IPIM)",
+   "valor": "3,2%",
+   "variacion": "vs. 2,1% en agosto",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Superávit fiscal primario proyectado 2026",
+   "valor": "1,3% del PBI",
+   "fuente": "CR-05"
+  },
+  {
+   "nombre": "Ventas pyme Día de la Madre",
+   "valor": "-1,4% interanual",
+   "fuente": "CR-17"
+  },
+  {
+   "nombre": "Comercialización agrícola campaña 2025/26",
+   "valor": "105 millones de toneladas",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Licitación de caños para gasoducto Argentina LNG",
+   "valor": "US$ 2.000 millones",
+   "fuente": "IB-23"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-02",
+     "titulo": "comienza el juicio Hotesur-Los Sauces contra Cristina y Máximo Kirchner",
+     "resumen": "La primera audiencia del juicio por presunto lavado de dinero en las causas Hotesur y Los Sauces será este viernes, aunque antes la Casación deberá resolver sobre la reunificación de los expedientes. La fiscalía sostiene que una sociedad que nació con $ 100.000 de capital terminó con un patrimonio de 12,1 millones de pesos, y que Los Sauces facturó casi $ 26 millones en alquileres, el 88% con empresas de Lázaro Báez y Cristóbal López. Según la fiscalía, uno de los hoteles fue comprado con US$ 3 millones en efectivo.",
+     "relacionadas": [
+      {
+       "id": "LN-01",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El destino de los hoteles de los Kirchner: dos funcionan, uno está cerrado y el cuarto, tomado por ocupas",
+       "url": "https://www.lanacion.com.ar/politica/el-destino-de-los-hoteles-de-los-kirchner-dos-funcionan-uno-esta-cerrado-y-el-cuarto-tomado-por-nid19102026/"
+      },
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Hotesur-Los Sauces: el golpe judicial que complica los planes electorales de los Kirchner",
+       "url": "https://www.clarin.com/politica/hotesur-los-sauces-golpe-judicial-complica-planes-electorales-kirchner_0_IyefLUUVpb.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/comienza-el-juicio-contra-los-kirchner-por-lavado-y-asociacion-ilicita-las-pruebas-que-reunieron-los-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PDC75BLYXVEABCNQDYYPKKU5Z4.jpg?auth=86dd61f3a13266234989858aa96c093016829c1647cbd2c557099714306a3d2a&smart=true&width=900&height=648",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "Comienza el juicio contra los Kirchner por lavado y asociación ilícita: las pruebas que reunieron los fiscales"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "la interna del PJ se acelera: Kirchner y Massa presionan a Kicillof de cara a 2027",
+     "resumen": "El sector de Cristina Kirchner busca condicionar el proyecto político de Axel Kicillof, mientras el gobernador bonaerense avanza con su propio armado y estrecha vínculos con intendentes cercanos a la expresidenta. La disputa anticipa la pelea por el liderazgo del espacio de cara a las elecciones de 2027.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/interna-pj-2027-kirchner-massa-aceleran-presion-buscan-acorralar-kicillof_0_98kWHWClsa.html",
+     "imagen": "https://www.clarin.com/img/2025/03/04/ZsaSPc36Q_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:16",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Interna del PJ para 2027: los Kirchner y Massa aceleran la presión y buscan acorralar a Kicillof"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "el PRO y La Libertad Avanza se reúnen otra vez, pero crece la desconfianza sobre un acuerdo",
+     "resumen": "A dos meses de iniciadas las conversaciones entre dirigentes de ambos espacios, todavía no hay definiciones sobre un eventual acuerdo electoral, ni en la Ciudad de Buenos Aires ni a nivel nacional.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/pro-vuelve-reunirse-libertad-avanza-crece-desconfianza-acuerdo_0_Vp6zJtYasy.html",
+     "imagen": "https://www.clarin.com/img/2026/08/13/r7uk_MYts_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El PRO vuelve a reunirse con La Libertad Avanza, pero crece la desconfianza sobre un acuerdo"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Santilli respaldó la suspensión de las PASO y auguró otro triunfo de Milei",
+     "resumen": "El jefe de Gabinete, Diego Santilli, respaldó la reforma electoral impulsada por el Gobierno y afirmó que la suspensión o eliminación de las PASO terminará aprobándose en el Congreso. También sostuvo que el peronismo llegará unido a las próximas elecciones y que Milei volverá a ganar, \"con PASO o sin PASO\".",
+     "relacionadas": [
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "¿Por qué el Gobierno sigue priorizando suspender las PASO?",
+       "url": "https://www.cronista.com/columnistas/por-que-el-gobierno-sigue-priorizando-suspender-las-paso/"
+      },
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Luego del traspié opositor en Diputados, La Libertad Avanza mide su poderío en el Congreso",
+       "url": "https://www.ambito.com/politica/luego-del-traspie-opositor-diputados-la-libertad-avanza-mide-su-poderio-el-congreso-n6334612"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/diego-santilli-milei-paso-paso-va-volver-ganar-elecciones_0_zugF1LqYvp.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/eNS0N2GdQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Diego Santilli: \"Milei, con PASO o sin PASO, va a volver a ganar las elecciones\""
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Reino Unido estudia bloquear el ingreso argentino a la OCDE por las sanciones a Sea Lion",
+     "resumen": "El gobierno y legisladores británicos evalúan oponerse al ingreso de la Argentina a la OCDE y al Tipat, en represalia por las sanciones que el Gobierno anunció contra la explotación del proyecto petrolero Sea Lion en el Atlántico Sur. En 2017 el Reino Unido había apoyado el ingreso argentino al organismo, pero ahora califica al país de \"socio no confiable\".",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-reino-unido-analiza-bloquear-el-ingreso-argentino-a-la-ocde-y-el-tipat-y-chile-avanza-con-la-ruta-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/H6TDYSLT3BDNFDPOE4TMACEPEY.JPG?auth=0e3daed4f42ec318e3541f89c303132ecbd08e46f898a6e8895b72e9f22acab4&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:44",
+     "autor": "Daniel Santa Cruz",
+     "titulo_original": "El Reino Unido analiza bloquear el ingreso argentino a la OCDE y el Tipat, y Chile avanza con la ruta naviera a Malvinas"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "los aliados buscan posponer hasta 2027 la definición de la comisión de Acuerdos del Senado",
+     "resumen": "Tras la muerte del expresidente de la comisión, el libertario Juan Carlos Pagotto, bloques dialoguistas resisten los intentos de la Casa Rosada de ocupar rápidamente ese lugar estratégico, por el que pasan los pliegos judiciales, diplomáticos y de ascensos militares. La propuesta es que el radical Maximiliano Abad, actual vicepresidente de la comisión, asuma de manera parcial hasta comienzos de 2027.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/19/aliados-buscan-posponer-la-definicion-del-manejo-de-la-estrategica-comision-de-acuerdos-del-senado-hasta-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZCUCK5UTPBCR3HCH2XNXDIJPHY.jpg?auth=36c773eb7198b47bb3a206fcc95913320d92cb73f4dbad4e6f7b788dac8582ca&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:42",
+     "autor": "Mariano Casal",
+     "titulo_original": "Aliados buscan posponer la definición del manejo de la estratégica comisión de Acuerdos del Senado hasta 2027"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "el Gobierno invirtió US$ 445 millones en armamento y equipamiento militar",
+     "resumen": "Pese al ajuste en otras áreas del Estado, Defensa y Seguridad no fueron alcanzadas por los recortes: desde el inicio de la gestión de Javier Milei se destinaron US$ 445 millones a la compra de cazas F-16, blindados Stryker, helicópteros, camiones Unimog y aviones de patrulla naval, según un relevamiento de las contrataciones electrónicas del Estado.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/19/en-lo-que-va-de-la-gestion-milei-se-invirtieron-usd-445-millones-en-insumos-para-armamentos-equipos-militares-y-de-seguridad/",
+     "imagen": "https://www.infobae.com/resizer/v2/SJ2PJYYD7NDPZFEBEMDVVUTSOQ.png?auth=77ba3a9373dd6c5d67b5eb68c0a60b437710d84f33eec3d0ddfa0a0c90ba347e&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:08",
+     "autor": "Mariel Fitz Patrick",
+     "titulo_original": "En lo que va de la gestión Milei, se invirtieron USD 445 millones en insumos para armamentos, equipos militares y de seguridad"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "repunta la inflación mayorista por el Súper Niño y el petróleo",
+     "resumen": "El Índice de Precios Internos al por Mayor subió 3,2% en septiembre, una aceleración frente al 2,1% de agosto y el registro más alto desde abril, según el Indec. En nueve meses acumula 22,8% y en doce meses, 29,2%; el fenómeno climático ya presiona los precios de frutas y verduras, con impacto esperado en la carne en las próximas semanas. Para una empresa: un repunte mayorista suele trasladarse con rezago a los costos de reposición y a las listas de precios minoristas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/repunta-la-inflacion-por-el-super-nino-y-el-petroleo-en-que-invertir/",
+     "imagen": "https://www.cronista.com/resizer/v2/GR67NPOGUVHT7OS63ZBBGV4GPQ.jpg?auth=c0cba738c030cd9c76653db8f8bbe13d6b3a97a1d6009aed5daba8c907d7e60f&smart=true&width=900&height=605",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:20",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Repunta la inflación por el Super Niño y el petróleo: ¿En qué invertir?"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "las tarifas y el transporte frenan la baja de la inflación pese al dólar planchado",
+     "resumen": "Los servicios (tarifas de luz, gas y transporte, alquileres, colegios y prepagas) acumularon un aumento de 30,2% entre enero y septiembre, casi 10 puntos más que los bienes. La recomposición tarifaria de la gestión Milei todavía no terminó y sigue alimentando una inercia que complica el objetivo oficial de una inflación \"con cero adelante\".",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/advierten-que-los-servicios-impiden-que-baje-la-inflacion-aun-con-una-economia-debilitada-y-el-dolar-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YG2GKD6CIZCX7EVVGWDYFCZQXQ.png?auth=3030b974ada95a315c8772d91938c04c529b4847678c25cb90e90c9908dec11e&smart=true&width=678&height=406",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:56",
+     "autor": "Agustín Maza",
+     "titulo_original": "Advierten que los servicios impiden que baje la inflación, aun con una economía debilitada y el dólar planchado"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "el Gobierno proyecta un superávit primario de 1,3% del PBI, por debajo de lo pactado con el FMI",
+     "resumen": "El Presupuesto 2027 fijó una meta de superávit primario de 1,3% del PBI para 2026, inferior al 1,4% acordado con el FMI y al 1,5% proyectado el año pasado. La consultora Analytica advirtió sobre las dificultades crecientes para sostener la meta por la debilidad de la recaudación y el escaso margen para seguir recortando gasto. Para una empresa: una meta fiscal más floja presiona sobre la necesidad de financiamiento y puede tensar el mercado de deuda en pesos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/superavit-en-la-mira-cual-es-la-piedra-en-el-camino-del-gobierno-para-cumplir-la-meta-fiscal/",
+     "imagen": "https://www.cronista.com/resizer/v2/MW4X67UGZVDFNKN3XMFZFSKYNU.jpg?auth=857916d0db2c434962fe652f4c47f2827760f0117a6c2dc9ffb32c316cc11931&smart=true&width=680&height=453",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "Superávit en la mira: cuál es la piedra en el camino del Gobierno para cumplir la meta fiscal"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "el FMI y el Banco Mundial pidieron orden fiscal y atención al financiamiento no bancario",
+     "resumen": "En el cierre de sus reuniones anuales de 2026, el FMI y el Banco Mundial pidieron a sus 191 miembros ordenar las cuentas públicas, bajar la deuda y vigilar el desarrollo de la inteligencia artificial para evitar distorsiones. La directora gerente del FMI, Kristalina Georgieva, planteó la necesidad de prestar atención al financiamiento no bancario y las finanzas digitales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/para-el-fmi-el-orden-fiscal-es-clave-pero-viene-con-otra-condicion/",
+     "imagen": "https://www.cronista.com/resizer/v2/WZ4SZY3MGNGZXABXVVCYINSBBY.jpeg?auth=a64075fe8eeb0fe12a755934f1e08317b0398542c326d63ec6576cee5c4e9767&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "23:30",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "Para el FMI, el orden fiscal es clave pero viene con otra condición"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "el exviceministro de Caputo cuestionó la estrategia antiinflacionaria oficial",
+     "resumen": "Joaquín Cottani, que integró el equipo económico de Luis Caputo al inicio de la gestión, dijo que en el corto plazo el Gobierno \"no da pie con bola\" con la política monetaria y cambiaria, aunque elogió el rumbo de disciplina fiscal y reformas estructurales a largo plazo. Pidió liberar el tipo de cambio y flexibilizar la política monetaria, aceptando una suba temporal de la inflación para reactivar la actividad.",
+     "relacionadas": [
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El exviceministro de Caputo lapidario contra el plan económico: “La plata no alcanza, pero no alcanza porque...”",
+       "url": "https://www.cronista.com/economia-politica/el-exviceministro-de-caputo-lapidario-contra-el-plan-economico-la-plata-no-alcanza-pero-no-alcanza-porque/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-exviceministro-de-caputo-critico-la-estrategia-para-bajar-la-inflacion-en-el-corto-plazo-no-dan-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/QNEKMM7DJFCGTFZTLH4WIPMTV4.jpeg?auth=b183751b78ffc04773845c3ae252e0663fc1bdc381cbe48ed5cb1182c8ab06f5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:41",
+     "autor": "",
+     "titulo_original": "El exviceministro de Caputo criticó la estrategia oficialista para bajar la inflación: “En el corto plazo no dan pie con bola”"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "riesgo país en 641 puntos: cuánto podrían subir los bonos si vuelve a 500",
+     "resumen": "El riesgo país se ubica en 641 puntos básicos y una eventual baja hasta los niveles de hace un mes generaría subas dispares en los bonos soberanos argentinos, según su vencimiento y sensibilidad a las tasas. La city también anticipa un posible rebote de la deuda argentina si baja la tasa del Treasury estadounidense, lo que facilitaría el flujo de capitales hacia la región.",
+     "relacionadas": [
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La City anticipa un rebote de los bonos de deuda argentina tras semanas de castigo",
+       "url": "https://www.iprofesional.com/finanzas/466825-la-city-anticipa-rebote-de-bonos-argentinos-tras-semanas-de-castigo"
+      }
+     ],
+     "url": "https://www.ambito.com/opiniones/cuanto-pueden-subir-los-bonos-si-el-riesgo-pais-vuelve-500-puntos-n6335111",
+     "imagen": "https://media.ambito.com/p/c050a2b87980952181145ffe11b30b03/adjuntos/239/imagenes/043/677/0043677183/1200x675/622x283:642x303/riesgo-pais.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "¿Cuánto pueden subir los bonos si el riesgo país vuelve a 500 puntos?"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "el Gobierno prepara un sistema de garantías para abaratar el crédito a las empresas",
+     "resumen": "El Banco Central y la Comisión Nacional de Valores proyectan crear un Sistema Federal de Garantías para reducir el costo financiero corporativo, y buscan además incrementar los topes de respaldo que otorgan las Sociedades de Garantías Recíprocas a las pymes. El vicepresidente del BCRA, Vladimir Werning, sumó otra medida en preparación: habilitar códigos de descuento para créditos tomados en bancos distintos al que paga el sueldo. Para una empresa: más garantías disponibles pueden bajar la tasa de financiamiento del capital de trabajo.",
+     "relacionadas": [
+      {
+       "id": "CR-16",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Estímulo del crédito: más aire para que las pymes tengan garantías para acceder a financiamiento",
+       "url": "https://www.cronista.com/finanzas-mercados/estimulo-del-credito-mas-aire-para-que-las-pymes-tengan-garantias-para-acceder-a-financiamiento/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/plan-gobierno-abaratar-credito-empresas-ayuda-mercado-capitales_0_bTQg1QI8kC.html",
+     "imagen": "https://www.clarin.com/img/2025/08/17/OP4K0_zVi_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El plan del Gobierno para abaratar el crédito a las empresas con la ayuda del mercado de capitales"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "Horacio Marín, de YPF: \"los precios de los combustibles no pueden ser regulados por un gobierno\"",
+     "resumen": "El presidente y CEO de YPF consideró que ya están dados los incentivos para el desarrollo del petróleo y el gas, y señaló como pendientes la licitación de los caños para el gas licuado y el impacto de un nuevo oleoducto que se inauguraría en 2027.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/horacio-marin-ypf-precios-combustibles-pueden-regulados-gobierno_0_TfXMIJ5zlC.html",
+     "imagen": "https://www.clarin.com/img/2026/10/16/jWjfGvOhi_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Horacio Marín, de YPF: \"Los precios de los combustibles no pueden ser regulados por un gobierno\""
+    },
+    {
+     "id": "CL-13",
+     "titulo": "San Juan acordó US$ 250 millones con Vicuña para infraestructura minera",
+     "resumen": "Jujuy reclama inversiones obligatorias en el ferrocarril Belgrano Cargas y San Juan cerró un acuerdo por US$ 250 millones con la minera Vicuña para obras de infraestructura. Las empresas del sector piden a Nación y provincias una hoja de ruta conjunta de obras prioritarias para anticipar la demanda.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/obras-necesita-mineria-reclamos-jujuy-acuerdos-san-juan-planes-empresas_0_jv6V2yYz49.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/H-HGI4NUF_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Las obras que necesita la minería: reclamos de Jujuy, acuerdos en San Juan y los planes de las empresas"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "YPF y sus socios definen quién proveerá los caños del gasoducto de Vaca Muerta",
+     "resumen": "El consorcio que YPF integra con la italiana Eni y la emiratí XRG licita la provisión de tubos para un gasoducto de más de 500 kilómetros, dentro del proyecto Argentina LNG, la mayor inversión privada de la historia del país, con un total estimado en US$ 51.000 millones bajo el régimen RIGI. La licitación de caños, estimada en US$ 2.000 millones, sería la mayor compra de tubos de la historia energética argentina.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/19/argentina-lng-ypf-y-sus-socios-internacionales-definen-quien-proveera-los-tubos-del-gasoducto-mas-grande-de-vaca-muerta/",
+     "imagen": "https://www.infobae.com/resizer/v2/WT4Y3KOEUJAB3IPBPROYMFR5E4.jpeg?auth=f6be6fcaf7170ce292ccbd128447e5e603046f0c0af497688deee77d697e55b5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:33",
+     "autor": "Lola Loustalot",
+     "titulo_original": "Argentina LNG: YPF y sus socios internacionales definen quién proveerá los tubos del gasoducto más grande de Vaca Muerta"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "el CEO de Grupo Don Mario apunta a duplicar la inversión en Argentina y crecer en Australia",
+     "resumen": "Ignacio Bartolomé, CEO de la semillera argentina Grupo Don Mario (fundada en Chacabuco en 1982), explicó que Estados Unidos es su principal mercado externo y detalló los planes de expansión hacia Australia y China. La compañía desembarcó en Brasil en 2003 y continuó expandiéndose según criterios de latitud agroclimática.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/creo-un-gigante-de-semillas-su-principal-mercado-es-eeuu-y-su-proxima-parada-es-australia/",
+     "imagen": "https://www.cronista.com/resizer/v2/SUR2I4XDANAIXNL4CHKIBID36Q.jpg?auth=8749d92765db23bfdf097a17a621547aaae50d39f23d1128c2ac878b2d510360&smart=true&width=900&height=691",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Creó un gigante de semillas, su principal mercado es EE.UU y su próxima parada es Australia"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "FIX mejoró la calificación de Banco Coinag por su apuesta a la innovación financiera",
+     "resumen": "La calificadora de riesgo FIX elevó la nota de largo plazo de Banco Coinag a A-(arg) con perspectiva estable, desde BBB(arg). La entidad, con más de 50 años de trayectoria, procesa más de 100 millones de transacciones mensuales y creció en mercado de capitales, agro, industria, real estate, minería y Oil & Gas mediante tecnología y tokenización.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/mayor-rentabilidad-empujo-mejora-en-la-nota-de-un-banco-centrado-en-la-innovacion-financiera-digital/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:05",
+     "autor": "Equipo Finanzas",
+     "titulo_original": "Mayor rentabilidad empujó mejora en la nota de un banco centrado en la innovación financiera digital"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "investigadores argentinos reciclan baterías de litio para obtener insumos para el campo",
+     "resumen": "Un equipo de investigadoras argentinas logró reciclar desechos de baterías eléctricas de litio para producir insumos sostenibles destinados al sector agrícola y la industria.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/465010-son-argentinos-y-transforman-las-baterias-de-litio-en-insumos-para-el-campo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626205.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:02",
+     "autor": "",
+     "titulo_original": "Son argentinos y transforman las baterías de litio en insumos para el campo"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "ARBA lanza un plan de pagos con descuentos de hasta 40% antes de 2027",
+     "resumen": "La Agencia de Recaudación de la provincia de Buenos Aires pondrá en marcha el 26 de octubre un régimen especial de regularización de deudas de Ingresos Brutos, Inmobiliario, Automotor, Sellos y Embarcaciones Deportivas, con descuentos de hasta 40% para quienes se pongan al día antes de fin de año. Las mayores bonificaciones son para quienes adhieran en las primeras semanas y paguen al contado, y la regularización es condición para acceder a beneficios impositivos previstos para 2027.",
+     "relacionadas": [
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "ARBA lanza un plan excepcional: a quiénes alcanza, qué descuento y para qué impuestos",
+       "url": "https://www.iprofesional.com/impuestos/466851-arba-lanza-un-plan-excepcional-a-quienes-alcanza-que-descuento-y-para-que-impuestos"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/arba-lanza-un-plan-de-pagos-con-descuentos-de-hasta-40-para-cancelar-deudas-antes-de-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/XKWQDDXSA5B6VHT4L5FLEHTEDE.jpg?auth=6b58a58322ebd312bd5a3ed9f6473965d2f8a1cfc50900c38b077382aa7ba5eb&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:22",
+     "autor": "Equipo Política",
+     "titulo_original": "ARBA lanza un plan de pagos con descuentos de hasta 40% para cancelar deudas antes de 2027"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "el Gobierno lanzó un retiro voluntario para empleados públicos con pagos de hasta 20 sueldos",
+     "resumen": "El Decreto 1203/2026, publicado en el Boletín Oficial, habilitó la inscripción al nuevo régimen de retiro voluntario para la Administración Pública Nacional centralizada entre el 1 y el 30 de noviembre, con posibilidad de una prórroga de hasta 30 días. Las compensaciones varían según edad, aportes y antigüedad, y quedan excluidos ANSES, las Fuerzas Armadas y de seguridad, la Secretaría de Inteligencia y el Servicio Exterior, entre otros organismos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/19/el-gobierno-lanzo-un-nuevo-plan-de-retiro-voluntario-para-empleados-estatales/",
+     "imagen": "https://www.infobae.com/resizer/v2/UAV4M7OAMRA37LMIPYCNLFJE7Y.JPG?auth=6bb12580490f463fb6b8522eaf8e4a1d44f4fda3b8b707efa8a4b6c3ce04abbb&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:38",
+     "autor": "",
+     "titulo_original": "El Gobierno lanzó un nuevo plan de retiro voluntario para empleados estatales"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "cuánto cobra el personal de Gendarmería en octubre de 2026 tras el aumento salarial",
+     "resumen": "La resolución 844/2026 del Ministerio de Seguridad, publicada en el Boletín Oficial, actualizó la grilla salarial de Gendarmería Nacional para octubre. Un comandante general percibe $ 3.376.187,99 y un comandante mayor, $ 3.073.495,28, entre otras categorías actualizadas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/cuanto-gana-el-personal-de-gendarmeria-nacional-argentina-en-octubre-de-2026-nid19102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DMYWSMKQ5BAURN7DB7ATAM4XSQ.jpg?auth=38779db815fb818a7e36bbe5a6406d43574be1135ae52767321b400031caabe8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:32",
+     "autor": "",
+     "titulo_original": "Cuánto gana el personal de Gendarmería Nacional Argentina en octubre de 2026"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-17",
+     "titulo": "las ventas por el Día de la Madre cayeron por quinto año consecutivo",
+     "resumen": "Según la CAME, las ventas pyme por el Día de la Madre cayeron 1,4% interanual a precios constantes, con un ticket promedio de $ 63.197, y casi nueve de cada diez comercios recurrieron a promociones para vender. Es la quinta caída consecutiva: bajó 4,7% en 2022, 3,2% en 2023, 0,9% en 2024 y 3,5% en 2025.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Caída interanual en las ventas por el Día de la Madre por quinto año consecutivo",
+       "url": "https://www.iprofesional.com/economia/466872-caida-interanual-en-las-ventas-por-el-dia-de-la-madre-por-quinto-ano-consecutivo"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/cayeron-las-ventas-por-el-dia-de-la-madre-que-sectores-profundizaron-la-baja-y-cuales-vendieron-mas-este-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/BYBK34SZQ5AIHHKTZQG7WZ3RAA.jpg?auth=37fccec2847ced11ef8b54377f8c4791642c0829e351e931be43b434a8e9af11&smart=true&width=900&height=565",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:06",
+     "autor": "Kiara Calvert de Bohun",
+     "titulo_original": "Cayeron las ventas por el Día de la Madre: qué sectores profundizaron la baja y cuáles vendieron más este año"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "autorizan la expansión de un hipermercado porteño hacia un centro comercial",
+     "resumen": "El Gobierno de la Ciudad de Buenos Aires autorizó que un hipermercado se amplíe hacia un formato de centro comercial con pequeños locales y hasta un lavadero.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466875-nuevo-centro-comercial-en-caba-autorizan-expansion-a-un-espacio-que-busca-transformarse",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584926.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "¿Nuevo centro comercial en CABA?: autorizan expansión a un espacio que busca transformarse"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "abrió el primer Decathlon en la Ciudad de Buenos Aires",
+     "resumen": "La cadena multideportiva inauguró su tercera tienda en el país dentro de uno de los shoppings más importantes de la Capital Federal.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466803-abre-el-primer-decathlon-en-la-ciudad-de-buenos-aires-donde-esta-y-que-vende",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627753.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:55",
+     "autor": "",
+     "titulo_original": "Abrió el primer Decathlon en la Ciudad de Buenos Aires: dónde está y qué vende"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "dos de cada tres menores de 40 años se quedan sin sueldo a los 20 días del mes",
+     "resumen": "Un relevamiento privado midió cuánto dura el salario de los argentinos y encontró que dos de cada tres menores de 40 años se quedan sin dinero antes de fin de mes. Según otro relevamiento citado por Ámbito, el 72% de los menores de 40 se queda sin plata antes del día 20, solo el 3% logra ahorrar, el 81,8% afirma que su salario pierde contra la inflación y seis de cada diez se endeudaron.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El 72% de los menores de 40 años se queda sin plata antes del día 20 y seis de cada diez se endeudaron",
+       "url": "https://www.ambito.com/economia/el-72-los-menores-40-anos-se-queda-plata-antes-del-dia-20-y-seis-cada-diez-se-endeudaron-n6335100"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/466871-alarmante-informe-sobre-el-porcentaje-de-menores-de-40-anos-que-no-llegan-a-fin-de-mes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598229.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:34",
+     "autor": "",
+     "titulo_original": "Alarmante informe sobre el porcentaje de menores de 40 años que no llega a fin de mes"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "inauguraron un nuevo peaje en la autopista Buenos Aires-La Plata",
+     "resumen": "La autopista que une la Capital Federal con la capital bonaerense sumó una estación de peaje sin barrera, con el mismo sistema moderno que ya opera en otras autovías del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/466854-inauguraron-nuevo-peaje-de-la-autopista-buenos-aires-la-plata-donde-esta-y-como-funciona",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605668.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:40",
+     "autor": "",
+     "titulo_original": "Inauguraron nuevo peaje de la Autopista Buenos Aires-La Plata: dónde está y cómo funciona"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IB-21",
+     "titulo": "el costo de excluir al talento sénior: ventas, liderazgo y clientes que las empresas pierden",
+     "resumen": "En la primera Cumbre de Economía Plateada realizada en México, la cofundadora de Wiser Hub, Cecilia Reyes Trejo, sostuvo que las empresas dicen no encontrar perfiles adecuados mientras excluyen por edad a profesionales con experiencia, lo que limita ventas, liderazgo y continuidad organizacional. Reyes Trejo trabaja hace siete años con talento sénior directivo y acumuló más de 2.000 horas de entrevistas a ejecutivos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/generacion-silver/2026/10/19/el-mercado-invisible-que-las-empresas-no-ven-por-que-excluir-al-talento-senior-les-cuesta-dinero-clientes-y-liderazgo/",
+     "imagen": "https://www.infobae.com/resizer/v2/IAKKDIOAEBCDFEEU4A65ZW4WTM.png?auth=6bc811f9842d196310b2a8e1267a7d78c09c45f17fa28af693997bf164f5a4ce&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:09",
+     "autor": "Juan Mascardi",
+     "titulo_original": "El mercado invisible que las empresas no ven: por qué excluir al talento sénior les cuesta dinero, clientes y liderazgo"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "IOL lanzó el primer protocolo de conexión con inteligencia artificial de un bróker argentino",
+     "resumen": "IOL invertironline se convirtió en el primer bróker argentino en ofrecer un Model Context Protocol (MCP), una tecnología que permite conectar la cuenta de un usuario con asistentes de inteligencia artificial para consultar, analizar y gestionar inversiones desde una conversación.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/de-preguntarle-una-ia-inversiones-preguntarle-las-tuyas-como-funciona-el-nuevo-mcp-iol-n6333828",
+     "imagen": "https://media.ambito.com/p/3549d569261edccdd6904dfad9624a8f/adjuntos/239/imagenes/043/704/0043704621/1200x675/smart/iol-invertironline-inteligencia-artificial.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "De preguntarle a una IA sobre inversiones a preguntarle por las tuyas: cómo funciona el nuevo MCP de IOL"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-18",
+     "titulo": "Francia enfrenta una ola de disturbios y saqueos en medio de una fuerte tensión política",
+     "resumen": "Más de 2.000 personas fueron detenidas y cientos de policías, gendarmes y bomberos resultaron heridos tras una jornada de disturbios y saqueos en París, Lyon y otras ciudades, en protestas contra el encarecimiento del costo de vida y la suba de los combustibles. El presidente Emmanuel Macron reconoció \"fallas de previsión e inteligencia\", rechazó la renuncia del ministro del Interior, Laurent Nunez, y no descartó prohibir reuniones, mientras manifestantes bloquearon el acceso al Museo del Louvre y los chalecos amarillos anunciaron nuevas protestas para el sábado. Según el Ministerio del Interior, el sábado se movilizaron unas 550.000 personas en el país; la CGT habla de cerca de 800.000. La deuda pública francesa equivale a 117,5% del PBI y el Ministerio de Economía proyecta 119,3% para este año.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Tensión en Francia: bloquearon el acceso al Louvre y los chalecos amarillos anunciaron nuevas protestas",
+       "url": "https://www.lanacion.com.ar/el-mundo/tension-en-francia-bloquearon-el-acceso-al-louvre-y-los-chalecos-amarillos-anunciaron-nuevas-nid19102026/"
+      },
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Macron reconoció “fallas de previsión e inteligencia” tras las violentas protestas en Francia que dejaron 2.400 detenidos",
+       "url": "https://www.infobae.com/america/mundo/2026/10/19/macron-reconocio-fallas-de-prevision-e-inteligencia-tras-las-violentas-protestas-en-francia-que-dejaron-2400-detenidos/"
+      },
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El mensaje de Macron tras la jornada de graves incidentes en todo Francia",
+       "url": "https://www.iprofesional.com/actualidad/466873-el-mensaje-de-macron-tras-la-jornada-de-graves-incidentes-en-todo-francia"
+      },
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Emmanuel Macron no descarta prohibir reuniones tras los disturbios en Francia: \"Los que intentaron derrocar a la República van a responder por ello\"",
+       "url": "https://www.ambito.com/mundo/emmanuel-macron-no-descarta-prohibir-reuniones-los-disturbios-francia-los-que-intentaron-derrocar-la-republica-van-responder-ello-n6335082"
+      },
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Arde París: Liberté, égalité, et soudain, la fraternité c’est fini",
+       "url": "https://www.cronista.com/columnistas/arde-paris-liberte-egalite-et-soudain-la-fraternite-cest-fini/"
+      },
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Robaron una camiseta y la cinta de capitán firmadas por Lionel Messi durante las protestas en París",
+       "url": "https://www.ambito.com/deportes/escandalo-las-protestas-francia-robaron-una-camiseta-y-la-cinta-capitan-firmadas-lionel-messi-n6335080"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/francia-enfrentaba-las-consecuencias-de-una-ola-de-violencia-y-saqueos-en-medio-de-una-creciente-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VCXKIMMB65A5FCLJMH46JPSDMI.JPG?auth=b52e392b531f7ec50b65f4a6beb93e02d9e0cad090ecfb6eeacdee4c9223dbb3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:38",
+     "autor": "Luisa Corradini",
+     "titulo_original": "Francia enfrentaba las consecuencias de una ola de violencia y saqueos en medio de una creciente tensión política"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Lula y Flávio Bolsonaro cruzaron acusaciones en el primer debate antes del balotaje",
+     "resumen": "En el primer cara a cara antes del balotaje del 25 de octubre, el presidente Lula da Silva ligó a su rival con los intereses de Estados Unidos y lo asoció con la \"motosierra\" de Javier Milei, mientras que Bolsonaro apeló a denuncias de corrupción en el gobierno del Partido de los Trabajadores. La seguridad, el crimen organizado y la gestión de Jair Bolsonaro también marcaron el cruce.",
+     "relacionadas": [
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "En el primer debate, Lula y Flávio Bolsonaro cruzaron acusaciones y hubo chicanas por Milei y los presos",
+       "url": "https://www.ambito.com/mundo/en-el-primer-debate-lula-y-flavio-bolsonaro-cruzaron-acusaciones-y-hubo-chicanas-milei-y-los-presos-n6335141"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/balotaje-brasil-primer-debate-tv-lula-bolsonaro-fuertes-insultos-acusaciones_0_s0UG9DVhWG.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/tQBQ25YMJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "22:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lula da Silva buscó recortar distancias con Flávio Bolsonaro durante un primer debate electoral con fuertes cruces y chicanas"
+    },
+    {
+     "id": "LN-03",
+     "titulo": "un fallo judicial permite a los agentes del ICE actuar sin identificarse en California",
+     "resumen": "El 14 de octubre, el Tribunal de Apelaciones del Noveno Circuito de Estados Unidos bloqueó la aplicación de una ley de California que exigía a los agentes federales no uniformados exhibir una identificación visible, lo que beneficia a los agentes de inmigración y aduanas (ICE). Según el fallo, California no tiene autoridad para regular directamente las funciones de los agentes federales sin autorización del Congreso.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/california/redadas-del-ice-en-california-los-agentes-federales-podran-seguir-sin-mostrar-su-identificacion-pese-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BRSY2MLMENBZVMORNF46EDKCSY.png?auth=f1532f8113ec31ee3b5153ba34806c856a7adde36023cd1fc030865a0be80ad6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:58",
+     "autor": "",
+     "titulo_original": "Redadas del ICE en California: los agentes federales podrán seguir sin mostrar su identificación pese a la ley estatal"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "la Unión Europea y Estados Unidos condenaron ataques de colonos israelíes en Cisjordania",
+     "resumen": "La UE condenó \"enérgicamente\" los ataques de colonos israelíes contra una comitiva de diplomáticos europeos y un alcalde francés en Cisjordania, y reclamó a Israel que investigue, juzgue a los responsables y frene la violencia contra la población palestina. La condena se suma a los reclamos por el ataque a una fotoperiodista de The Washington Post.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-ue-y-eeuu-condenaron-los-ataques-de-colonos-israelies-en-cisjordania-y-exigieron-medidas-para-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EIVQ5RJZLNCHNF27AMYN6EQAVA.JPG?auth=66be5982b2adf92f111ef34f5c35be6108b194b90e5b9edf522467130e0e6df3&smart=true&width=900&height=1492",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:44",
+     "autor": "",
+     "titulo_original": "La UE y EE.UU. condenaron los ataques de colonos israelíes en Cisjordania y exigieron medidas para frenar la violencia"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "la marcha por el aniversario del estallido social en Chile terminó con 29 detenidos",
+     "resumen": "La movilización por el séptimo aniversario del estallido social de 2019 reunió a miles de personas en el centro de Santiago. Según Carabineros, los incidentes comenzaron cuando un grupo de encapuchados atacó a policías con objetos contundentes y bombas molotov.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/chile-marcha-septimo-aniversario-estallido-social-termino-29-detenidos_0_H3pYqPH3EM.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/NEqcsZqG-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "04:06",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Chile: la marcha por el séptimo aniversario del estallido social terminó con 29 detenidos"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "el canciller ruso viaja a Irán para mediar en el estancamiento con Estados Unidos",
+     "resumen": "Serguéi Lavrov llegó a Irán en su primera visita al país desde el inicio de la guerra en Medio Oriente, con el objetivo de impulsar la mediación de Moscú ante el estancamiento de las negociaciones entre Teherán y Washington y las tensiones en torno al estrecho de Ormuz. Se reunirá con su par iraní, Abbas Araqchi.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/19/el-canciller-ruso-viaja-a-iran-para-impulsar-una-mediacion-ante-el-estancamiento-de-las-negociaciones-con-estados-unidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/JGCWTM5A2NAQNJLEB5MVQM5GUY.JPG?auth=a93fcb5940da5a5efa15c841e337e5482f4b3e6156793ce0eb262887554e051e&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:47",
+     "autor": "",
+     "titulo_original": "El canciller ruso viaja a Irán para impulsar una mediación ante el estancamiento de las negociaciones con Estados Unidos"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent publicó una sola nota en esta corrida.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent: la crisis del costo de vida sacude a Europa más allá de Francia",
+     "resumen": "La revista señala que, desde el sábado, cientos de miles de personas se manifestaron en cinco países europeos (Francia, Bélgica, Italia, Portugal y Albania) contra el encarecimiento del costo de vida, con Francia concentrando la mayor participación y los actos más violentos. El Ministerio del Interior francés cifra en unos 550.000 los manifestantes del sábado, 110.000 de ellos en París, mientras la CGT habla de cerca de 800.000; la publicación enmarca las protestas como un fenómeno continental y no solo doméstico.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/19/mas-alla-de-francia-la-crisis-del-coste-de-la-vida-sacude-europa/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Más allá de Francia, la crisis del coste de la vida está sacudiendo a Europa"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-26",
+     "titulo": "River goleó 3-0 a Belgrano y sigue en la pelea por la Copa Libertadores 2027",
+     "resumen": "River venció 3-0 a Belgrano en el estadio Mario Alberto Kempes de Córdoba, con goles de Tomás Galván, Ángel Correa y Thiago Almada, y escaló al séptimo puesto de la Tabla Anual con 49 puntos, a cuatro unidades de la zona de clasificación directa a la Libertadores 2027. Por encima se ubican Instituto (50), Vélez Sarsfield (52) e Independiente Rivadavia (53).",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "River brilló en Córdoba y goleó a Belgrano para dar un paso clave en el Torneo Clausura",
+       "url": "https://www.ambito.com/deportes/river-estiro-la-ventaja-y-vence-belgrano-cordoba-el-inicio-del-segundo-tiempo-n6335120"
+      },
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Leonardo Ponzio tomó aire en Córdoba: decisiones acertadas en un momento caliente y un importante respaldo",
+       "url": "https://www.clarin.com/deportes/leonardo-ponzio-tomo-aire-cordoba-decisiones-acertadas-momento-caliente-importante-respaldo_0_TRnIlkvQHu.html"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/10/19/que-necesita-river-plate-para-clasificarse-a-la-copa-libertadores-2027-como-lo-podria-ayudar-boca-juniors/",
+     "imagen": "https://www.infobae.com/resizer/v2/QG6FUEQFYRHRTKZYGUPAPKVRBU.JPG?auth=e21851efcea1926ddce1f6eb68949e9a6cebda968727a8eef47e783cc8303f58&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:18",
+     "autor": "",
+     "titulo_original": "Qué necesita River Plate para clasificarse a la Copa Libertadores 2027: cómo lo podría ayudar Boca Juniors"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Racing e Independiente empataron 1-1 en el clásico de Avellaneda",
+     "resumen": "Racing e Independiente empataron 1-1 en el Cilindro de Avellaneda, con goles de Matías Zaracho y Maximiliano Meza, este último de penal. El resultado ubica a Independiente entre los mejores ocho de su grupo de cara a los playoffs y agrava la crisis de Racing, cuyos hinchas volvieron a cuestionar al presidente Diego Milito.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Racing e Independiente repartieron puntos en el clásico de Avellaneda",
+       "url": "https://www.ambito.com/deportes/racing-e-independiente-empataron-1-1-el-clasico-avellaneda-n6335088"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/independiente/el-cilindro-era-una-fiesta-pero-el-diablo-metio-la-cola-racing-se-hundio-en-su-impotencia-y-el-rojo-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/53XSGNBL5ZBXLCSSVLJZOJP3DQ.jpg?auth=01fffd8e34a9ae178e60f8e6f6210ae86b10281ef455e5478954c4800c9064f0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:36",
+     "autor": "Alberto Cantore",
+     "titulo_original": "El Cilindro era una fiesta, pero el Diablo metió la cola: Racing se hundió en su impotencia y el Rojo rescató el empate"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "nuevas polémicas arbitrales: la mano invisible a Ferro, la plancha a Barinaga y la no roja a Lisandro López",
+     "resumen": "El arbitraje argentino volvió a estar en el centro de la polémica tras un fin de semana con fallos discutidos en varias categorías. El VAR tuvo un rol protagónico en la goleada de River, con tres intervenciones, y también hubo reclamos por un penal a favor de Estudiantes; la Primera Nacional sumó nuevos capítulos de polémica por el desempeño de los árbitros.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/polemicas-arbitrales-fin-semana-mano-invisible-ferro-plancha-barinaga-roja-lisandro-lopez_0_FMoM4hjFoe.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/tvQ8pn7Hz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Las polémicas arbitrales del fin de semana: de la mano invisible para Ferro a la plancha de Barinaga y la (no) roja a Lisandro López"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "los hinchas de Racing volvieron a insultar a Milito, que ya busca técnico para 2027",
+     "resumen": "El presidente de Racing, Diego Milito, fue nuevamente cuestionado por los hinchas en el Cilindro tras el empate con Independiente, que dejó al club al borde de la eliminación de los playoffs del Torneo Clausura. Con solo tres partidos por jugar, ni ganándolos todos el club asegura el acceso a los ocho mejores, lo que implica quedar sin copas internacionales en 2027 y la necesidad de definir al próximo entrenador.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/los-hinchas-de-racing-insultaron-otra-vez-a-milito-mientras-el-presidente-busca-dt-para-2027-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZPWAWPD2DRFQVHUG47N4N56VLU.jpg?auth=a0fecf359a5038e1f08e2a85b5ee57d0fc43258404941f73a0401ecd657faa40&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:03",
+     "autor": "Matías Ruffet",
+     "titulo_original": "Los hinchas de Racing insultaron otra vez a Milito, mientras el presidente busca DT para 2027"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Real Madrid goleó 4-1 a Sevilla con tantos de Mbappé, Güler y Diomande",
+     "resumen": "Real Madrid venció 4-1 a Sevilla en el Santiago Bernabéu y quedó a seis puntos del líder Barcelona, que lleva nueve triunfos consecutivos en la Liga de España. Hubo polémica por una posible agresión de Güler cuando el partido estaba 0-0; el equipo merengue visitará a Barcelona el próximo domingo en el Camp Nou, antes de recibir a Leipzig el miércoles por la Champions League.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/real-madrid-gano-con-golazos-de-mbappe-guler-y-diomande-mientras-sevilla-se-quejo-del-arbitro-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DSP5R73H5VCMTEETQP5A5N5FAM.jpg?auth=909dc4f29b0fb37b590c5811f5cde9d5cab31947e879ac3968825f4af802708b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:11",
+     "autor": "",
+     "titulo_original": "Real Madrid ganó con golazos de Mbappé, Güler y Diomande, mientras Sevilla se quejó del árbitro"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "Davidovich Fokina ganó el Masters 1000 de Shanghái y se consagró primer campeón español del torneo",
+     "resumen": "Alejandro Davidovich Fokina superó a Rafael Jódar en la final del Masters 1000 de Shanghái, levantó su tercer trofeo ATP y se convirtió en el primer campeón español de ese torneo. Con el título, trepó al puesto 13 del ranking mundial.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/defensa-siciliana-apertura-espanola-davidovich-fokina-tenista-cambio-cabeza-ajedrez-levanto-trofeo-importante-shanghai_0_Q5Slf45j0i.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/XszTqKIj9_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Defensa siciliana\" y \"apertura española\": Davidovich Fokina, el tenista que cambió su cabeza con el ajedrez y levantó su trofeo más importante en Shanghai"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Rafael Cámara, con miopía y astigmatismo, debutará en la Fórmula 1 con Haas en 2027",
+     "resumen": "El piloto brasileño de 21 años, parte de la Academia de Ferrari, reemplazará a Esteban Ocon en Haas para la temporada 2027 de Fórmula 1. Cámara utiliza lentes para competir debido a problemas de visión, una particularidad poco común en una categoría cuyos monoplazas alcanzan los 350 kilómetros por hora.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/19/el-piloto-de-los-lentes-los-problemas-en-la-vista-de-la-nueva-estrella-de-la-formula-1-y-que-dice-el-reglamento/",
+     "imagen": "https://www.infobae.com/resizer/v2/YA6BXV35ZFGMRB65R6ZQX6UX2Y.jfif?auth=a1c8567ebab23f28786915f5552721a4761d8d2a478d13a9723a793aa6263d56&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:43",
+     "autor": "Ezequiel Ochoa",
+     "titulo_original": "El piloto de los lentes: los problemas en la vista de la nueva estrella de la Formula 1 y qué dice el reglamento"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "San Antonio de Areco: talleres de plateros y diseñadores donde la tradición se cruza con el diseño de autor",
+     "resumen": "El pueblo bonaerense, famoso por sus gauchos y pulperías, atrae por sus talleres de plateros, joyeros y diseñadores que trabajan a mano. La nota destaca un nuevo paseo para recorrer en la localidad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/san-antonio-areco-diferente-recorrido-talleres-tradicion-cruza-diseno-autor_0_Vrwek3gBXu.html",
+     "imagen": "https://www.clarin.com/img/2026/04/16/86LHXpvTo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "San Antonio de Areco diferente: un recorrido por los talleres donde la tradición se cruza con el diseño de autor"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Cataratas del Iguazú: cómo afecta el fenómeno de El Niño y qué se puede visitar",
+     "resumen": "El caudal del río Iguazú está en niveles inusuales esta temporada por El Niño, lo que llevó a cerrar el circuito de la Garganta del Diablo; la situación se monitorea día a día y algunos circuitos pueden verse limitados. El parque ofrece otras actividades alternativas mientras dure la restricción.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/cataratas-iguazu-impacta-fenomeno-nino-saber-ir_0_pC6Xtp52nS.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/ZVVeI_oFw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cataratas del Iguazú: cómo les impacta el fenómeno del Niño y lo que hay que saber antes de ir"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "Corrientes se prepara para la peor semana por la crecida del río Paraná",
+     "resumen": "El domingo el río llegó a 6,98 metros, al borde del nivel de evacuación de 7 metros, y se espera el pico para este martes. En toda la provincia 646 personas debieron dejar sus hogares; las autoridades estiman que el agua comenzará a bajar hacia las localidades del sur recién en las próximas tres semanas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/fenomeno-nino-corrientes-prepara-peor-semana-crecida-rio-parana_0_vY8xshaK6n.html",
+     "imagen": "https://www.clarin.com/img/2026/10/18/_fOwYEfLO_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Fenómeno El Niño: Corrientes se prepara para la peor semana por la crecida del río Paraná"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "un relato sobre violencia intrafamiliar reinstala el debate sobre escuchar a las víctimas",
+     "resumen": "El testimonio de Valentín Yan sobre los maltratos sufridos en su infancia reinstaló la discusión sobre la violencia intrafamiliar en la Argentina. Según una encuesta nacional, el 35,4% de los chicos recibió castigos físicos durante su crianza y el 6,6%, castigos físicos severos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/valentin-yan-un-duro-relato-que-reinstala-el-foco-en-la-violencia-intrafamiliar-y-el-desafio-de-nid18102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AEDA4MQ36NETFA52XE3JKQGMV4.jpg?auth=ea056e05e4a43ab13eb64ba82401d5dc446ba438386429ad2db9058c7a26d80c&smart=true&width=840&height=623",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:31",
+     "autor": "Lucila Marin",
+     "titulo_original": "Valentín Yan: un duro relato que reinstala el foco en la violencia intrafamiliar y el desafío de escuchar a las víctimas"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "hallaron muerto a un gendarme arrastrado por un arroyo crecido en Neuquén",
+     "resumen": "El cabo José Galeano, de 38 años, estaba desaparecido desde el sábado tras ser arrastrado por un arroyo crecido cuando intentaba cruzarlo. Más de 100 rescatistas participaron del operativo de búsqueda.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/hallaron-muerto-gendarme-arrastrado-caudal-arroyo-neuquen_0_3beDamj2WF.html",
+     "imagen": "https://www.clarin.com/img/2026/10/18/EjeRT7aGY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Hallaron muerto a un gendarme que había sido arrastrado por el caudal de un arroyo en Neuquén"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "va a juicio oral el caso de Matías Jurado, el presunto asesino serial de Jujuy",
+     "resumen": "Matías Jurado, de 38 años, fue detenido en agosto de 2025 por la desaparición de numerosos hombres, en su mayoría en situación de calle, y aunque los cuerpos nunca fueron hallados irá a juicio por cinco homicidios. Lo incrimina ADN hallado en su casa y un video en el que aparece con una víctima.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/policiales/charlas-duendes-juicio-oral-puerta-paso-matias-jurado-asesino-serial-jujuy_0_0PSZnn3rS3.html",
+     "imagen": "https://www.clarin.com/img/2025/08/04/q1mbeSWhg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Charlas con duendes y juicio oral en puerta: que pasó con Matías Jurado, el \"asesino serial\" de Jujuy"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del lunes 19 de octubre.\n\nLa semana arranca con el foco puesto en la Justicia y la política: este viernes empieza el juicio contra Cristina Kirchner y Máximo Kirchner por las causas Hotesur y Los Sauces, mientras la interna del Partido Justicialista se acelera de cara a 2027 y el Gobierno avanza con la suspensión de las PASO. En el plano económico, la inflación mayorista repuntó por el fenómeno del Súper Niño y el Gobierno bajó su meta de superávit fiscal, mientras ARBA lanza un plan de pagos con fuertes descuentos y el consumo minorista sigue golpeado. Afuera, Francia atraviesa su peor ola de disturbios en años y Lula da Silva y Flávio Bolsonaro debatieron de cara al balotaje brasileño.\n\nLas cifras del día: el dólar oficial cerró en mil quinientos treinta y cinco pesos para la venta y el dólar blue, en mil quinientos cincuenta y cinco pesos. El oro cotiza en cuatro mil ciento ochenta y ocho dólares la onza y el riesgo país se ubica cerca de los seiscientos cuarenta y ocho puntos básicos. La inflación de septiembre fue de uno coma nueve por ciento mensual y treinta y tres coma cuatro por ciento interanual, según el último dato oficial.\n\nEn política, comienza esta semana el juicio contra Cristina Kirchner y su hijo Máximo por lavado de dinero y asociación ilícita en las causas Hotesur y Los Sauces. La primera audiencia será el viernes, aunque antes la Casación deberá resolver sobre la reunificación de los expedientes; la fiscalía sostiene que una de las sociedades investigadas pasó de cien mil pesos de capital a un patrimonio de doce coma uno millones de pesos, y que Los Sauces facturó casi veintiséis millones de pesos en alquileres, el ochenta y ocho por ciento con empresas de Lázaro Báez y Cristóbal López. En paralelo, la interna del peronismo se acelera: el sector de Cristina Kirchner y Sergio Massa presionan al gobernador bonaerense Axel Kicillof de cara a 2027, mientras el PRO y La Libertad Avanza volvieron a reunirse sin lograr un acuerdo electoral. El jefe de Gabinete, Diego Santilli, respaldó la suspensión de las PASO y auguró otro triunfo de Javier Milei en las próximas elecciones. Además, el Reino Unido evalúa bloquear el ingreso argentino a la OCDE y al Tipat en represalia por las sanciones que el Gobierno anunció contra el proyecto petrolero Sea Lion en el Atlántico Sur. El Gobierno también lanzó un plan de retiro voluntario para empleados públicos, con pagos de hasta veinte sueldos, e invirtió cuatrocientos cuarenta y cinco millones de dólares en armamento y equipamiento militar desde el inicio de la gestión.\n\nEn economía, la inflación mayorista aceleró a tres coma dos por ciento en septiembre, el registro más alto desde abril, impulsada por el Súper Niño y el petróleo; según La Nación, las tarifas y el transporte siguen frenando la baja de la inflación general pese al dólar planchado. El Gobierno fijó una meta de superávit fiscal primario de uno coma tres por ciento del producto bruto para este año, por debajo de lo acordado con el Fondo Monetario, que junto al Banco Mundial pidió a sus miembros ordenar sus cuentas y prestar atención al financiamiento no bancario. El exviceministro de Economía Joaquín Cottani cuestionó la estrategia antiinflacionaria oficial y pidió liberar el tipo de cambio, aunque elogió el rumbo de disciplina fiscal a largo plazo. El riesgo país se ubica en torno a los seiscientos cuarenta puntos básicos, y en la City se anticipa un posible rebote de los bonos si baja la tasa de interés en Estados Unidos. Por su parte, el Banco Central y la Comisión Nacional de Valores preparan un sistema de garantías para abaratar el crédito a las empresas y las pymes. Para una empresa, estos movimientos importan porque definen el costo del financiamiento y la presión sobre los precios de reposición en los próximos meses.\n\nEn negocios y empresas, el presidente de YPF, Horacio Marín, sostuvo que los precios de los combustibles no deberían ser regulados por un gobierno, mientras la compañía avanza junto a sus socios Eni y XRG en la licitación de caños para el gasoducto del proyecto Argentina LNG, por dos mil millones de dólares. San Juan acordó doscientos cincuenta millones de dólares con la minera Vicuña para obras de infraestructura. El CEO de la semillera argentina Grupo Don Mario contó que apunta a duplicar la inversión en el país y crecer en Australia y China, y la calificadora FIX mejoró la nota de Banco Coinag por su apuesta a la innovación financiera digital.\n\nEn impuestos y normativa, ARBA lanzará el 26 de octubre un plan de pagos con descuentos de hasta cuarenta por ciento para regularizar deudas de Ingresos Brutos, Inmobiliario, Automotor, Sellos y Embarcaciones. El Gobierno nacional, por decreto, abrió la inscripción a un nuevo retiro voluntario para empleados públicos durante noviembre, y Gendarmería Nacional actualizó su grilla salarial de octubre.\n\nEn consumo y construcción, las ventas pyme por el Día de la Madre cayeron uno coma cuatro por ciento, la quinta baja consecutiva según la CAME. El Gobierno porteño autorizó la expansión de un hipermercado hacia un centro comercial, y abrió el primer local de Decathlon en la Ciudad de Buenos Aires. Un relevamiento privado mostró que dos de cada tres menores de cuarenta años se quedan sin sueldo antes de fin de mes. Para una empresa del sector, estos datos confirman que el consumo sigue frágil pese a la estabilidad cambiaria.\n\nEn management, una especialista en talento directivo advirtió en México que excluir por edad a profesionales sénior le cuesta a las empresas ventas, liderazgo y continuidad. Y el bróker argentino IOL lanzó el primer protocolo de conexión con inteligencia artificial del país, para que los usuarios consulten y gestionen sus inversiones desde una conversación.\n\nEn el mundo, Francia enfrenta su peor ola de disturbios en años: más de dos mil personas fueron detenidas y cientos de policías y bomberos resultaron heridos tras saqueos en París y Lyon por la suba del costo de vida y los combustibles. El presidente Emmanuel Macron reconoció fallas de previsión e inteligencia, rechazó la renuncia de su ministro del Interior y no descartó prohibir nuevas reuniones, mientras manifestantes bloquearon el acceso al museo del Louvre. En Brasil, Lula da Silva y Flávio Bolsonaro cruzaron acusaciones en el primer debate antes del balotaje del veinticinco de octubre. En Estados Unidos, un fallo judicial permitió que los agentes de inmigración actúen sin identificarse en California, y la Unión Europea condenó ataques de colonos israelíes contra diplomáticos europeos en Cisjordania. En Chile, la marcha por el aniversario del estallido social terminó con veintinueve detenidos, y el canciller ruso viajó a Irán para mediar en el estancamiento de las negociaciones con Estados Unidos.\n\nLe Grand Continent analiza que la crisis del costo de vida no es solo francesa: durante el fin de semana hubo manifestaciones en cinco países europeos, entre ellos Bélgica, Italia, Portugal y Albania, aunque Francia concentra la mayor participación y los episodios más violentos.\n\nEn deportes, River goleó tres a cero a Belgrano en Córdoba, con goles de Tomás Galván, Ángel Correa y Thiago Almada, y sigue en carrera por la Copa Libertadores del próximo año. Racing e Independiente empataron uno a uno en el clásico de Avellaneda, un resultado que agrava la crisis del presidente de Racing, Diego Milito, cuestionado otra vez por los hinchas. El fin de semana también dejó polémicas arbitrales, con el VAR como protagonista en varios partidos. En España, Real Madrid goleó cuatro a uno a Sevilla y quedó a seis puntos del líder Barcelona. En tenis, el español Alejandro Davidovich Fokina ganó el Masters mil de Shanghái y se convirtió en el primer campeón español de ese torneo. Y en la Fórmula 1, el brasileño Rafael Cámara, que compite con problemas de visión, reemplazará a Esteban Ocon en Haas a partir de 2027.\n\nPara cerrar, una recomendación de turismo: San Antonio de Areco, en la provincia de Buenos Aires, invita a recorrer talleres de plateros y diseñadores donde la tradición gaucha se cruza con el diseño de autor. Y en Misiones, las Cataratas del Iguazú atraviesan niveles inusuales de caudal por El Niño, que obligó a cerrar por ahora el circuito de la Garganta del Diablo.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent publicó una sola nota en esta corrida (GC-01), por lo que la sección Europa y geopolítica tiene una nota en lugar de las 3 a 5 habituales. El resto de las fuentes se descargó sin inconvenientes y no se encontró contenido sobre Franco Colapinto ni Club Atlético Tigre en el material de esta corrida.",
+ "slug": "2026-10-19-manana",
+ "generado_ba": "19/10/2026 10:18"
+}
