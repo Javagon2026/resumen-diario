@@ -1,0 +1,909 @@
+{
+ "fecha": "2026-10-20",
+ "edicion": "mediodia",
+ "titulo": "El riesgo país tocó 710 puntos y un paro sorpresivo frenó todo el subte porteño",
+ "apertura": "El riesgo país llegó a tocar los 710 puntos durante la mañana, su nivel más alto desde octubre de 2025, antes de moderar la suba a 684 puntos al mediodía, en una rueda con bonos en baja y el dólar en alza. En paralelo, un paro sorpresivo dejó sin servicio las seis líneas de subte porteño tras la detención de tres metrodelegados, incluido el secretario general del gremio. Milei profundizó su respaldo a Flávio Bolsonaro con una dura acusación contra Lula da Silva y viajó a España para reunirse con Isabel Díaz Ayuso, mientras en Francia el gobierno amplía los toques de queda tras dos días de saqueos.",
+ "claves": [
+  "El riesgo país tocó un máximo de 710 puntos y cerró la mañana en 684, con los bonos argentinos en baja de hasta 1,5% y el dólar oficial y el blue subiendo $5 y $10 respectivamente.",
+  "Un paro sorpresivo dejó sin servicio las seis líneas de subte porteño tras la detención de tres metrodelegados, incluido el secretario general Néstor Segovia.",
+  "Milei llamó \"zurdo ladrón\" a Lula da Silva y advirtió por un posible fraude en el balotaje brasileño, mientras viaja a España para reunirse con Ayuso y hablar por teléfono con Abascal.",
+  "El 27% de los deudores bancarios argentinos tiene pagos atrasados y las familias acumulan $73,8 billones de deuda, según un relevamiento de EcoGo y la Universidad Austral.",
+  "ARCA eliminó la retención de contribuciones patronales sobre la facturación de empresas de servicios eventuales, y ARBA extendió hasta el 12 de noviembre el pago de tres impuestos provinciales.",
+  "Seis millones de líneas de Movistar pasarán a la marca Tuenti, operada por Metrotel, que pagó US$ 450 millones por los activos.",
+  "El textil Teodoro Karagozian, dueño de TN&Platex, pidió su concurso preventivo con más de $5.900 millones en cheques rechazados.",
+  "Francia amplió los toques de queda a más ciudades tras dos días de saqueos; el ministro del Interior presentó su renuncia y Macron la rechazó."
+ ],
+ "cifras": [
+  {
+   "nombre": "Deuda de los hogares con pagos atrasados",
+   "valor": "$ 73,8 billones",
+   "variacion": "27% de deudores en mora",
+   "fuente": "AM-21"
+  },
+  {
+   "nombre": "Transferencia de líneas Movistar a Tuenti/Metrotel",
+   "valor": "6 millones de líneas, US$ 450 millones",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Proyectos RIGI de TGS aprobados",
+   "valor": "US$ 3.200 millones",
+   "variacion": "US$ 1.100 millones anuales en exportaciones",
+   "fuente": "IP-26"
+  },
+  {
+   "nombre": "Cheques rechazados del grupo Karagozian (TN&Platex)",
+   "valor": "más de $ 5.900 millones",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Recorte de frecuencias de colectivos del AMBA",
+   "valor": "104 líneas, -50% en franja nocturna",
+   "fuente": "CR-23"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "un paro sorpresivo dejó sin servicio las seis líneas de subte tras detener a tres metrodelegados",
+     "resumen": "La Asociación Gremial de Trabajadores del Subte y Premetro (AGTSyP) paró todo el servicio desde cerca de las 10 luego de que la Policía de la Ciudad detuviera a dos delegados en la Línea B y, más tarde, al secretario general del gremio, Néstor Segovia. El sindicato advirtió que no habrá servicio hasta la liberación de los detenidos. El jefe de Gobierno porteño, Jorge Macri, respaldó el operativo: \"el que bloquea un servicio esencial va preso\".",
+     "relacionadas": [
+      {
+       "id": "LN-09",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Paro de subtes en las seis líneas: qué se sabe de la medida de fuerza y hasta cuándo dura",
+       "url": "https://www.lanacion.com.ar/sociedad/paro-de-subtes-en-las-seis-lineas-que-se-sabe-de-la-medida-de-fuerza-y-hasta-cuando-dura-nid20102026/"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Paro total de subtes: Metrodelegados llevan adelante una sorpresiva medida de fuerza en todas las líneas",
+       "url": "https://www.ambito.com/sorpresivo-paro-total-subtes-metrodelegados-llevan-adelante-una-medida-fuerzas-todas-las-lineas-n6335705"
+      },
+      {
+       "id": "LN-01",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Jorge Macri respaldó la detención de los metrodelegados en medio de una protesta del subte",
+       "url": "https://www.lanacion.com.ar/politica/jorge-macri-respaldo-la-detencion-de-los-metrodelegados-en-medio-de-una-protesta-del-subte-nid20102026/"
+      },
+      {
+       "id": "IB-07",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "¿Qué está pasando en el Metro y Metrobús hoy 20 de octubre? Tres líneas del MB afectadas por manifestaciones",
+       "url": "https://www.infobae.com/mexico/2026/10/20/que-esta-pasando-en-el-metro-y-metrobus-hoy-20-de-octubre/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/sorpresivo-paro-total-en-todas-las-lineas-de-subte-el-servicio-se-encuentra-interrumpido-por-una-protesta-gremial/",
+     "imagen": "https://www.cronista.com/resizer/v2/2G2H6QPSH5DQLIFO2543NVAJUM.jpg?auth=2b6e10fbf7c7f66176a2a41cf62e1889c00f07b0d8bd1fc3e7949a33919bfc8c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:07",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Sorpresivo paro total de subte tras la detención de tres metrodelegados, incluido el Secretario General"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Milei llamó \"zurdo ladrón\" a Lula y advirtió por un posible fraude en el balotaje de Brasil",
+     "resumen": "El presidente Javier Milei volvió a cruzar a Lula da Silva a cinco días del balotaje brasileño, lo calificó de \"zurdo ladrón\" y deslizó la posibilidad de un fraude electoral en respaldo explícito a Flávio Bolsonaro. La declaración se suma a sus críticas por el esquema laboral que había planteado Lula para las mujeres.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Javier Milei llamó \"zurdo ladrón\" a Lula da Silva y advirtió por un posible fraude del presidente de Brasil en el balotaje con Flávio Bolsonaro",
+       "url": "https://www.clarin.com/politica/javier-milei-llamo-zurdo-ladron-lula-da-silva-advirtio-posible-fraude-presidente-brasil-balotaje-flavio-bolsonaro_0_dKStJMnILP.html"
+      },
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei advirtió sobre un posible fraude de Lula da Silva en el balotaje de Brasil",
+       "url": "https://www.ambito.com/politica/javier-milei-advirtio-un-posible-fraude-lula-da-silva-el-balotaje-brasil-n6335725"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/zurdo-ladron-milei-apunto-contra-lula-y-advirtio-por-un-posible-fraude-en-las-elecciones-de-brasil/",
+     "imagen": "https://www.cronista.com/resizer/v2/JV7Q6RPASJB67OKPN2Z46AOYSM.jpg?auth=885658cae10e4f6a3cc1a6b50485657a365e43390c204950e75c7ad07c50db31&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:46",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“Zurdo ladrón”: Milei apuntó contra Lula y advirtió por un posible fraude en las elecciones de Brasil"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Milei viajó a España: reunión con Ayuso, llamada con Abascal y debut de su nuevo vocero",
+     "resumen": "El Presidente viajó anoche a Madrid, a cinco semanas de las elecciones generales españolas, y se reunirá el miércoles con Isabel Díaz Ayuso en la Fundación Disenso. No habrá encuentro con Santiago Abascal, líder de Vox, que habló por teléfono con Milei antes del viaje y ese día tendrá agenda propia en La Coruña y Avilés. Será la primera gira internacional del vocero presidencial Ravier.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/milei-se-mete-en-la-campana-de-espana-reunion-con-ayuso-llamada-con-abascal-y-el-debut-de-ravier/",
+     "imagen": "https://www.cronista.com/resizer/v2/TZ6JASF76FAOTMKCCD53V7OJ5A.jpg?auth=95c168a3fd388d54cc4ba9970cf0cf5c1ce0fd12cd90cd23cb45a978118c07c4&smart=true&width=900&height=602",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:39",
+     "autor": "Daniela Romero",
+     "titulo_original": "Milei se mete en la campaña de España: reunión con Ayuso, llamada con Abascal y el debut de Ravier"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Milei volvió a cuestionar a quienes dicen quedarse sin plata a mitad de mes y generó rechazos",
+     "resumen": "En un discurso ante petroleros en Neuquén, el Presidente calificó de \"pelotudez\" la idea de que la gente se quede sin dinero el día 20 del mes y preguntó cómo viven diez días sin comer ni beber. Dirigentes políticos, incluido el expresidente ecuatoriano Rafael Correa, lo cruzaron por la frase. El exministro del Interior Lisandro Catalán salió a bajarle el tono y admitió que \"a todos nos gustaría\" que el asalariado llegue holgado al supermercado.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Milei desafió a quienes dicen que se quedan sin plata el día 20 del mes: \"¿Cómo viven?\"",
+       "url": "https://www.iprofesional.com/politica/467007-milei-duda-que-la-gente-no-llegue-a-fin-de-mes-como-viven-sin-comer"
+      },
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Lisandro Catalán: \"A todos nos gustaría que el tipo asalariado vaya al súper y se sienta holgado\"",
+       "url": "https://www.infobae.com/politica/2026/10/20/lisandro-catalan-a-todos-nos-gustaria-que-el-tipo-asalariado-vaya-al-super-y-se-sienta-holgado/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/javier-milei-burlo-hablan-gente-llega-fin-mes-quedan-plata-20-viven-10-dias-comer-beber_0_hWRHyU8vuh.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/YkKnqUdvm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei se burló de los que hablan de la gente que no llega a fin de mes: “Si se quedan sin plata el 20, ¿cómo viven 10 días sin comer ni beber?”"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "la Cámara Federal dejó firme la causa de lavado contra José Luis Espert",
+     "resumen": "El tribunal de San Martín rechazó los planteos con los que el exdiputado buscaba anular distintas medidas de la investigación sobre los US$ 200.000 que recibió de una empresa vinculada a Fred Machado. Con esta decisión, la causa por lavado de dinero sigue firme.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/caso-jose-luis-espert-la-camara-federal-rechazo-el-pedido-anular-la-causa-lavado-activos-y-dejo-firme-la-investigacion-n6335768",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:46",
+     "autor": "Vanesa Petrillo",
+     "titulo_original": "Caso José Luis Espert: la Cámara Federal rechazó el pedido para anular la causa por lavado de dinero y dejó firme la investigación"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Diputados debate el Presupuesto 2027 en medio del conflicto por el financiamiento universitario",
+     "resumen": "El secretario de Educación, Carlos Torrendell, defendió ante la comisión de Presupuesto el proyecto para 2027 y cuestionó las políticas educativas previas a La Libertad Avanza, en un debate marcado por el reclamo de fondos de las universidades públicas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/diputados-debate-el-presupuesto-2027-el-foco-puesto-educacion-n6335740",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:28",
+     "autor": "",
+     "titulo_original": "Diputados debate el Presupuesto 2027 con el foco puesto en educación, en medio del conflicto por ley de Financiamiento Universitario"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-13",
+     "titulo": "el riesgo país tocó los 710 puntos y los analistas no ven un deterioro equivalente en los fundamentals",
+     "resumen": "El índice EMBI de JP Morgan llegó a subir 35 unidades (+5,19%) hasta los 710 puntos antes de moderar la suba, su nivel más alto desde octubre de 2025, mientras los bonos argentinos siguen bajo presión. Los analistas señalan que el Banco Central sigue acumulando reservas y el Tesoro sostiene el superávit fiscal, pero el mercado le da cada vez más peso a la incertidumbre política y a factores globales. Los bonos en dólares caen hasta 1,5% y acumulan una baja del 6% en el último mes. Para una empresa: el encarecimiento del riesgo país complica el acceso al crédito externo y presiona las tasas que paga el sector privado.",
+     "relacionadas": [
+      {
+       "id": "LN-05",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El riesgo país vuelve a subir y alcanza el valor más alto en casi un año",
+       "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-salta-hasta-los-710-puntos-y-alcanza-el-valor-mas-alto-en-casi-un-ano-nid20102026/"
+      },
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El riesgo país llegó a superar la línea de los 700 puntos básicos tras una nueva caída de los bonos argentinos",
+       "url": "https://www.infobae.com/economia/2026/10/20/el-riesgo-pais-supero-la-linea-de-los-700-puntos-basicos-tras-una-nueva-caida-de-los-bonos-argentinos/"
+      },
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El riesgo país vuelve a trepar: ya superó los 700 puntos",
+       "url": "https://www.clarin.com/economia/riesgo-pais-vuelve-trepar-supero-700-puntos_0_7LDrZ1Yz6F.html"
+      },
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Los bonos caen 15% desde sus máximos e impulsan una nueva disparada del riesgo país",
+       "url": "https://www.cronista.com/finanzas-mercados/los-bonos-caen-y-ya-acumulan-bajas-del-15-desde-sus-maximos-que-hay-detras-de-la-escalada-del-riesgo-pais/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-al-supero-los-700-puntos-por-que-parece-imparable/",
+     "imagen": "https://www.cronista.com/resizer/v2/DSBJ6EIDOFHRVD4CY7RBBXRXHA.jpg?auth=256472b71fa6645a3931a80dc1c7c6a03ac7b9448324fd41dddb341eb7ce5ff2&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:24",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Riesgo país superó los 700 puntos: por qué parece imparable y qué pasa con los fundamentals"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "el dólar oficial subió a $1.545 y el blue a $1.570",
+     "resumen": "El dólar oficial subió $5 hasta $1.545 para la venta en el Banco Nación, mientras el blue avanzó $10 hasta $1.570. El mayorista cotiza en $1.536,90, lejos del techo de la banda cambiaria que el Banco Central fija en $1.940,39. Ambos valores quedan por encima de los niveles con que cerró septiembre.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El dólar oficial sube $ 5 este martes: a cuánto cotiza en los bancos de la City",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-martes-20-de-octubre/"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar: el oficial supera los $1.525 tras registrar su mayor suba en casi tres semanas",
+       "url": "https://www.ambito.com/finanzas/dolar-el-oficial-registro-su-mayor-suba-casi-tres-semanas-pero-acumula-un-avance-apenas-34-un-ano-n6335622"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-martes-20-de-octubre-con-el-mep-y-el-ccl/",
+     "imagen": "https://www.cronista.com/resizer/v2/EUI37ERMCFCM5OGOOK6JJA6BIU.jpg?auth=fb33e3db16671e48ef8fd99a01b60f2aa045d43c06cc6e5d98f018086fc52057&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:00",
+     "autor": "",
+     "titulo_original": "El dólar blue sube $ 10 este martes: a cuánto cotiza con el MEP y el CCL"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "la morosidad bancaria llegó a un récord y las familias acumulan $73,8 billones de deuda",
+     "resumen": "El 27% de los deudores bancarios argentinos tiene pagos atrasados, según un informe de EcoGo y la Universidad Austral, con una irregularidad de los créditos del 18,4% en agosto que acumula 22 meses consecutivos de aumento. Un relevamiento de Focus Market ubicó la deuda bancaria promedio por hogar endeudado en $13,38 millones. Para una empresa: el deterioro del crédito a las familias es una señal de alerta para las ventas financiadas y el consumo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/morosidad-record-el-27-los-deudores-tiene-pagos-atrasados-y-las-familias-acumulan-deudas-738-billones-pesos-n6335674",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:47",
+     "autor": "",
+     "titulo_original": "Morosidad récord: el 27% de los deudores tiene pagos atrasados y las familias acumulan deudas por $73,8 billones de pesos"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Ricardo Arriazu dijo que Argentina crece poco por \"demasiadas divisas\" y la política del Banco Central",
+     "resumen": "El economista afirmó que el país reúne condiciones para crecer al 5% anual -cosecha récord, producción récord de hidrocarburos, ganancia minera-, pero que la excesiva compra de divisas del Banco Central lo mantiene estancado en torno al 2%. También advirtió sobre una venta masiva de bonos a nivel global y dijo que \"la Argentina está sólida pero no es confiable\".",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Ricardo Arriazu advirtió sobre una venta masiva de bonos a nivel global: \"La Argentina está sólida pero no es confiable, y el mundo está por ser un estafador serial\"",
+       "url": "https://www.clarin.com/economia/arriazu-advirtio-venta-masiva-bonos-nivel-global-argentina-solida-confiable-mundo-estafador-serial_0_8rt2zpN4U1.html"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/20/uno-de-los-economistas-mas-escuchados-por-milei-explico-por-que-argentina-tiene-poco-crecimiento-demasiadas-divisas/",
+     "imagen": "https://www.infobae.com/resizer/v2/YXVHYALLMVCYPAMUVVRHS2VIYU.jpg?auth=f3b6680e8132e8b6b2edc0588af04355149137f9f665d3374e7b5f70d928335e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:17",
+     "autor": "Lola Loustalot",
+     "titulo_original": "Uno de los economistas más escuchados por Milei explicó por qué Argentina crece poco: “Demasiadas divisas”"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "el FMI proyecta que Brasil volverá al top 10 de las economías mundiales en 2027",
+     "resumen": "El organismo estima que Brasil superará a Italia y Rusia en el ranking de las mayores economías del mundo hacia 2027, impulsado por las agroexportaciones y mejoras tecnológicas. Estados Unidos y China siguen liderando el ranking.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/brasil-volvera-al-top-10-las-s-mas-grandes-del-mundo-que-puesto-quedara-segun-el-fmi-n6335662",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:41",
+     "autor": "",
+     "titulo_original": "Brasil volverá al top 10 de las economías más grandes del mundo: en qué puesto quedó, según el FMI"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-20",
+     "titulo": "Movistar deja de existir: seis millones de líneas pasarán a Tuenti, operada por Metrotel",
+     "resumen": "Metrotel pagó US$ 450 millones por los activos de Movistar y seis millones de clientes móviles pasarán a operar bajo la marca Tuenti, como parte de la desinversión que Telecom debió realizar para completar la compra de Telefónica en la Argentina. La migración será automática, gradual y por etapas, con comunicaciones a los clientes hasta fines de noviembre; mantendrán beneficios, condiciones, número y chip.",
+     "relacionadas": [
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Movistar empezó a informar qué clientes pasarán a Tuenti y qué ocurrirá con sus líneas",
+       "url": "https://www.iprofesional.com/negocios/466994-movistar-traspaso-tuenti-sin-tramite-perdida-beneficios-usuarios-octubre-2026"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/movistar-deja-de-existir-un-sms-avisa-el-cambio-a-tuenti-y-que-pasa-con-el-numero-el-chip-y-el-plan-de-telefonia/",
+     "imagen": "https://www.cronista.com/resizer/v2/HXXOAW6S3NHUFJPSRKWPRR5XOQ.jpg?auth=2470c2de7e5353a4593a3504144c58fd836e84ce324914669131fedd63919346&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:38",
+     "autor": "Ricardo Quesada",
+     "titulo_original": "Movistar deja de existir: un SMS avisa el cambio a Tuenti y qué pasa con el número, el chip y el plan de telefonía"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "el textil Teodoro Karagozian, dueño de TN&Platex, pidió su concurso preventivo",
+     "resumen": "El empresario presentó el concurso el 26 de junio y fue abierto el 18 de septiembre en La Rioja, ocho meses después de que Hilado S.A., otra empresa de la familia, hiciera lo mismo. Según el Boletín Oficial, Hilado S.A. acumula más de $5.900 millones en cheques rechazados. El grupo llegó a tener fábricas en Corrientes, Tucumán, La Rioja y Catamarca.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/uno-de-los-popes-textiles-pidio-su-concurso-preventivo-y-es-su-segunda-empresa-en-problemas/",
+     "imagen": "https://www.cronista.com/resizer/v2/6SH7GARHKBGA5GORC2LIMRBI2A.png?auth=cd44802caf790354dd11bebe832d8ce83fe3aef9226ec9baacbb912478c0029d&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:06",
+     "autor": "Micaela Mura",
+     "titulo_original": "Uno de los popes textiles pidió su concurso preventivo y es su segunda empresa en problemas"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "la Justicia busca compradores para la cadena de panaderías Pandanés tras rechazar su quiebra",
+     "resumen": "El Juzgado Comercial N° 15 abrió un registro para recibir ofertas de acreedores, una eventual cooperativa de trabajadores u otros interesados en adquirir Pan Danés SRL, en el marco de su concurso preventivo. La convocatoria llega después del cierre de los 25 locales de la cadena y el despido de unos 150 empleados.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/20/la-justicia-busca-interesados-en-adquirir-pandanes-tras-rechazar-el-pedido-de-quiebra-que-se-exige/",
+     "imagen": "https://www.infobae.com/resizer/v2/Y6RFA2EC4VCYZDUV7PLWBKR4KE.jpg?auth=4cf2f3279a9116f2cebf5495b4ddbc4a64a743ffcd498e25a3e53eb717c43165&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:20",
+     "autor": "",
+     "titulo_original": "La Justicia busca interesados en adquirir Pandanés tras rechazar el pedido de quiebra: qué se exige"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "aprobaron proyectos del RIGI de TGS por US$ 3.200 millones en Vaca Muerta",
+     "resumen": "Las obras de TGS en Tratayén y Bahía Blanca, incorporadas al Régimen de Incentivo para Grandes Inversiones, ampliarán la capacidad de evacuación de gas de Vaca Muerta y sumarán US$ 1.100 millones anuales en exportaciones. Para una empresa: la ampliación de la infraestructura energética puede derivar en menores costos de gas para la industria en el mediano plazo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/466978-aprobaron-proyectos-del-rigi-de-tgs-por-3200-millones-de-dolares",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/07/499686.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:51",
+     "autor": "",
+     "titulo_original": "Aprobaron proyectos del RIGI de TGS por u$s 3.200 millones"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "Mercado Libre enfrenta un test clave en Wall Street con la presentación de su próximo balance",
+     "resumen": "Morgan Stanley recomienda sobreponderar la acción con un precio objetivo de US$ 2.450, mientras Citi mantiene una postura neutral con un objetivo de US$ 2.100. Para el negocio argentino, Morgan Stanley proyecta un crecimiento interanual del 36% en el volumen de ventas a tipo de cambio constante, aunque advierte que las inversiones en logística, crédito y beneficios comerciales seguirán presionando la rentabilidad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/mercado-libre-se-juega-un-test-clave-en-wall-street-que-anticipan-los-bancos-para-la-accion/",
+     "imagen": "https://www.cronista.com/resizer/v2/3LZW22XJNZBF5JBDD5JCIQ4BWE.png?auth=42082b524f5648eae605c70ef742a7ceaabf678fa95abd5ae06cfccbeb6c87b8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:23",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Mercado Libre se juega un test clave en Wall Street: qué anticipan los bancos para la acción"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "la láctea bonaerense La Suipachense volvió a producir y recuperó empleo tras su quiebra",
+     "resumen": "La empresa, con planta en Suipacha, procesa actualmente 50.000 litros de leche diarios y produce leche y quesos con más de 60 operarios, tras revertir una situación de quiebra y acumular cuatro meses de recuperación de puestos de trabajo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466999-la-suipachense-reactiva-la-produccion-de-lacteos-y-recupera-empleo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627941.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:04",
+     "autor": "",
+     "titulo_original": "La Suipachense ya produce leche y quesos y suma cuatro meses de recuperación de empleos"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-16",
+     "titulo": "las empresas tienen un mes más para prepararse para el Fondo de Asistencia Laboral",
+     "resumen": "El Decreto 1228/2026 postergó del 1° de noviembre al 1° de diciembre la entrada en vigencia del FAL, el mecanismo de la reforma laboral para cubrir indemnizaciones por despido, y duplicó de seis a doce meses el período de carencia antes de que los fondos acumulados puedan utilizarse. Para una empresa: el nuevo cronograma da más tiempo para elegir el administrador de los aportes, pero posterga la disponibilidad real del fondo hasta fines de 2027.",
+     "relacionadas": [
+      {
+       "id": "IP-20",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Prorrogan el FAL: más tiempo para adherir y plazo de carencia sin pago de indemnizaciones",
+       "url": "https://www.iprofesional.com/impuestos/466986-prorrogan-fal-hasta-cuando-podran-adherir-empresas"
+      },
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cómo funcionará el FAL, el fondo que financiará las indemnizaciones por despido",
+       "url": "https://www.iprofesional.com/impuestos/466992-que-es-el-fondo-de-asistencia-laboral-y-cuanto-deberan-aportar-las-empresas"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/fal-los-5-pasos-que-debe-cumplir-una-empresa-antes-del-1-de-diciembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/3NJ66M3WSBDNNESE7SFZZP22H4.jpg?auth=fde85d316a6b389e8c5cacd806bf2a694dc52fa372cba96ad4947cca39991c06&smart=true&width=606&height=343",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:02",
+     "autor": "Lucas González Monte",
+     "titulo_original": "FAL: los 5 pasos que debe cumplir una empresa antes del 1 de diciembre"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "ARCA eliminó una retención de contribuciones patronales para empresas de servicios eventuales",
+     "resumen": "La Resolución General 5913/2026 derogó el régimen que obligaba a retener contribuciones patronales sobre la facturación de las empresas de servicios eventuales, en línea con la Ley de Modernización Laboral 27.802 y su decreto reglamentario 407/2026. Para una empresa: el cambio reduce una carga administrativa para las compañías que contratan personal eventual a través de agencias.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/reforma-laboral-arca-elimino-una-retencion-por-la-contratacion-de-personal-eventual/",
+     "imagen": "https://www.cronista.com/resizer/v2/JHNGUS73NNF4HOPU6NYJXC2VFM.png?auth=e329a08159c6f0cf0f6eacadc99ad05a634c0a57cf4aae7840ee101dc1752a75&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:09",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Reforma laboral: ARCA eliminó una retención por la contratación de personal eventual"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "ARBA extendió hasta el 12 de noviembre el pago de tres impuestos provinciales",
+     "resumen": "La Agencia de Recaudación bonaerense postergó de forma automática los vencimientos del Inmobiliario Rural y del Inmobiliario Urbano, entre otros tributos cuyo pago original estaba previsto para los primeros días de noviembre. La extensión se aplicó en todos los medios de pago habilitados por el organismo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/arba-extendio-tres-vencimientos-clave-que-impuestos-se-pueden-pagar-hasta-el-12-de-noviembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/RG2YMSBGM5FZHMHYT6PNTONFRM.jpg?auth=7c076fa02794e7816de1fdb58aafd0dff161637a302d4a0f03b5714cf5080d73&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:27",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "ARBA extendió tres vencimientos clave: qué impuestos alcanza y hasta cuándo se puede pagar"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "los bancarios cobrarán un bono de más de $2,2 millones y un sueldo inicial de $2,6 millones",
+     "resumen": "El gremio bancario acordó un aumento del 1,9% para septiembre y un bono de $2.275.519,25 por su día, con plazo de pago hasta el 6 de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/466996-sueldo-bancarios-cuanto-gana-un-empleado-tras-el-aumento-y-que-bono-cobrara",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/11/506439.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:51",
+     "autor": "",
+     "titulo_original": "Bancarios cobrarán un bono de más de $2,2 millones y un sueldo inicial de $2,6 millones"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "la Justicia dijo que la vivienda que da el empleador forma parte del salario",
+     "resumen": "Un tribunal laboral determinó que vivir en el lugar de trabajo equivale a un pago en especie y ratificó derechos laborales por ese beneficio habitacional. Para una empresa: las compañías que ofrecen vivienda como parte de la relación laboral deben contemplar ese valor en el cálculo de indemnizaciones y cargas sociales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/467010-salario-en-especie-vivienda-empleador-reforma-laboral",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/607399.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:25",
+     "autor": "",
+     "titulo_original": "¿La vivienda que da el empleador forma parte del salario? Qué dice la Justicia"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-23",
+     "titulo": "más de 100 líneas de colectivos del AMBA reducirán a la mitad sus frecuencias nocturnas",
+     "resumen": "Las empresas que operan las 104 líneas de colectivos de jurisdicción nacional en el AMBA comenzarán a recortar un 50% los servicios nocturnos, entre las 22 y las 5, como medida de protesta por pagos atrasados y la falta de actualización de las compensaciones estatales. El sector no descartó extender la medida a otros horarios. Para una empresa: una reducción del transporte público puede afectar la llegada de empleados y clientes en los horarios nocturnos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/alerta-por-los-colectivos-mas-de-100-lineas-reduciran-sus-frecuencias-a-la-mitad-cuales-son/",
+     "imagen": "https://www.cronista.com/resizer/v2/BKQA2KDHARGCJLXF46ZGMHKYA4.jpg?auth=7ba60fa72f2cf5ef7f74cfd22d7910cd0254cd44aa9cb2a74124818ee0164a84&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:45",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Alerta por los colectivos: más de 100 líneas reducirán sus frecuencias a la mitad, ¿cuáles son y en qué horario?"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "los empleados de comercio esperan la definición paritaria para noviembre",
+     "resumen": "El gremio de comercio todavía no cerró el aumento salarial de noviembre ni definió cuánto cobrará cada categoría, en momentos en que otros sectores ya acordaron sus incrementos. Para una empresa: la demora en la paritaria de comercio dificulta proyectar los costos laborales del sector para fin de año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/466987-cuanto-cobrara-un-empleado-de-comercio-en-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627925.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:04",
+     "autor": "",
+     "titulo_original": "Cuánto cobrará cada empleado de comercio en noviembre y qué se sabe del próximo aumento"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "el celular barato está en riesgo por el encarecimiento de los chips de memoria",
+     "resumen": "El aumento del costo de las memorias y el almacenamiento, impulsado por la demanda de los centros de datos de inteligencia artificial, golpea especialmente a los celulares de entrada, el segmento más sensible al precio. En la industria ya se discute si los equipos más baratos van a seguir existiendo tal como se los conoce hoy.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/tecnologia/el-celular-barato-en-peligro-que-va-a-pasar-con-la-gama-de-entrada-en-2027-nid20102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/6VB6MHRLQRDFHOGZ7TXF7IU4GY.jpg?auth=28c853f58775799ad01145aa76e2d17ef97bcf6dddb5aacaacfbad64d1e6bdf8&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:06",
+     "autor": "Débora Slotnisky",
+     "titulo_original": "El celular barato, en peligro: qué va a pasar con la gama de entrada en 2027"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "las motos chinas dominan las preferencias de los argentinos en la categoría de 500 a 800 cc",
+     "resumen": "De las 15 marcas de motos más vendidas en la categoría de entre 500 y 800 cc, 8 son de origen chino, según un relevamiento del sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/466974-cuales-son-las-motos-chinas-que-mas-compran-los-argentinos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627914.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:10",
+     "autor": "",
+     "titulo_original": "Cuáles son las motos chinas que más compran los argentinos"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "crecen los reclamos por multas antiguas que aparecen después de transferir un auto usado",
+     "resumen": "El fin del cruce de datos entre jurisdicciones provinciales generó problemas para validar antecedentes de los vehículos y sorpresas con infracciones atrasadas que demoran las transferencias de autos usados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/466983-auto-usado-multas-inesperadas-colapso-sistema-costar-millones-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/581943.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:34",
+     "autor": "",
+     "titulo_original": "Crecen los reclamos por multas antiguas que llegan después de transferir un auto usado"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-05",
+     "titulo": "un contador recibido en la UBA llegó a ser director global de tecnología de una multinacional y ganó el premio CIO a la trayectoria",
+     "resumen": "Gastón Vega se recibió de contador público en la UBA en 1996, entró al mundo tecnológico a través de SAP y pasó por PwC, Aventis Crop Science, Fresenius Medical Care, Kimberly-Clark y Natura antes de llegar a liderar la estrategia global de tecnología de Fratelli Branca, la compañía detrás de Branca y otras marcas. Por esa trayectoria recibió el premio CIO a la trayectoria.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/mundo-cio/gaston-vega-el-contador-argentino-que-llego-a-ser-director-global-de-tecnologia-de-fratelli-branca-gano-el-premio-cio-a-la-trayectoria/",
+     "imagen": "https://www.cronista.com/resizer/v2/IM576JVTI5CQDEABLIDPNDAUHE.png?auth=c81999431d6c4375b3523a6378ac8dcc12634dddda347aeedbd7a27aa538a425&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:59",
+     "autor": "Sebastián De Toma",
+     "titulo_original": "Gastón Vega, el contador argentino que llegó a ser director global de tecnología de Fratelli Branca, ganó el premio CIO a la trayectoria"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "la líder de Recursos Humanos de SAP dio un consejo para que la inteligencia artificial no automatice tu trabajo",
+     "resumen": "Rebecca Carr, presidenta de HCM Products en SAP, habló sobre cómo los profesionales pueden posicionarse frente al avance de la automatización en el futuro del trabajo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/466924-ia-y-empleo-el-consejo-de-la-referente-de-recursos-humanos-de-sap",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627428.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:43",
+     "autor": "",
+     "titulo_original": "El mejor consejo para que la IA no automatice tu trabajo, según la líder de Recursos Humanos de SAP"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "la paradoja de dejar de formar juniors mientras las empresas siguen necesitando seniors",
+     "resumen": "La automatización de tareas mejora la productividad de las compañías, pero al mismo tiempo debilita los mecanismos tradicionales de aprendizaje laboral con los que se formaban los perfiles senior del futuro.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/466995-la-paradoja-de-dejar-de-formar-juniors-y-seguir-necesitando-seniors",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/10/544496.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:25",
+     "autor": "",
+     "titulo_original": "La paradoja de dejar de formar juniors y seguir necesitando seniors"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-04",
+     "titulo": "Francia amplió los toques de queda y el ministro del Interior presentó su renuncia",
+     "resumen": "El gobierno de Emmanuel Macron extendió las restricciones nocturnas a más ciudades para contener los saqueos y enfrentamientos que ya dejaron miles de detenidos, cientos de policías heridos y pérdidas millonarias, con al menos 3.000 comercios afectados. El ministro del Interior, Laurent Nuñez, presentó su renuncia en medio de las críticas, pero Macron la rechazó de inmediato.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Violencia en Francia: el gobierno de Macron ordena toques de queda y admite una “pérdida de control” en algunas ciudades",
+       "url": "https://www.lanacion.com.ar/el-mundo/disturbios-en-francia-el-gobierno-de-macron-pidio-toques-de-queda-para-frenar-los-saqueos-nid19102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/violencia-en-francia-que-se-sabe-de-los-disturbios-y-el-toque-de-queda-hoy-20-de-octubre-nid20102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SU6ZRNVVTFCT7D7FXBRHJN2SAM.JPG?auth=93f9a4afccef1fbc34f571b9c8fd2c718f2779d49e4d83da64dfaf8a9ef16686&smart=true&width=900&height=493",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:08",
+     "autor": "",
+     "titulo_original": "Violencia en Francia: qué se sabe de los disturbios y el toque de queda hoy, 20 de octubre"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "el balotaje de Brasil llega empatado entre Lula y Flávio Bolsonaro a cinco días de la votación",
+     "resumen": "Las encuestas de Datafolha y Quaest dan a Flávio Bolsonaro un 51% de intención de voto frente a un 49% de Lula da Silva, un empate técnico dentro del margen de error, de cara al balotaje del domingo 25 de octubre. El plan de subsidios Bolsa Familia se convirtió en un eje central de la campaña final, disputado por ambos candidatos.",
+     "relacionadas": [
+      {
+       "id": "CL-09",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El plan platita de las elecciones en Brasil: la pelea por los pobres se mete en la recta final del balotaje",
+       "url": "https://www.clarin.com/mundo/plan-platita-elecciones-brasil-pelea-pobres-mete-recta-final-balotaje_0_RyiBQSW8sf.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid20102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2RLNIZOHBJAEJKY326WYO5CISY.jpg?auth=1159dbdc81b3b4e1c7d9383d86bbbab07c723e38db3bef022c66e2dea77d3ec7&smart=true&width=900&height=609",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:03",
+     "autor": "",
+     "titulo_original": "Elecciones Brasil 2026, EN VIVO: encuestas, final de las campañas para el balotaje y el minuto a minuto"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "el respaldo de Trump a Netanyahu divide opiniones a semanas de la elección israelí",
+     "resumen": "El presidente Trump calificó a Benjamin Netanyahu de \"gran guerrero\" en momentos en que el primer ministro israelí enfrenta una difícil campaña por la reelección. Analistas consultados señalan que la imagen de Trump en Israel ya no tiene el mismo peso que antes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/respaldo-trump-netanyahu-impulsara-campana-desvanecera_0_sKzN5AhyMP.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/qztfej8vj_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:48",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "¿El respaldo de Trump a Netanyahu impulsará su campaña o la desinflará?"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Marco Rubio dijo que Estados Unidos e India están cerca de cerrar un acuerdo comercial",
+     "resumen": "El secretario de Estado estadounidense destacó los avances de India para diversificar sus compras de petróleo y afirmó que restan pocos puntos pendientes para el acuerdo comercial entre ambos países, durante una visita de tres días a Mumbai.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/20/marco-rubio-afirmo-en-mumbai-que-eeuu-e-india-estan-cerca-de-cerrar-un-acuerdo-comercial-que-pasara-con-el-petroleo/",
+     "imagen": "https://www.infobae.com/resizer/v2/5N7KUKCBD5FDZGZ43U2P6X2NVI.JPG?auth=3293e288fa19f4b5db4227ccd3494ff41e1b7573aa9ee5cda90c346d9e9cf8d9&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:33",
+     "autor": "",
+     "titulo_original": "Marco Rubio afirmó en Mumbai que EEUU e India están cerca de cerrar un acuerdo comercial: qué pasará con el petróleo"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "un plan para construir uno de los mayores centros de datos de Europa encontró fuerte resistencia en la Inglaterra rural",
+     "resumen": "Los vecinos de Devon se oponen al proyecto de un gran centro de datos de inteligencia artificial por las preocupaciones ambientales que genera, en un episodio que refleja el creciente rechazo social a este tipo de infraestructura en Europa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/rechazo-centros-datos-ia-llegado-rincon-tranquilo-inglaterra-rural_0_9PzVRMmaQR.html",
+     "imagen": "https://www.clarin.com/img/2026/09/15/TyMhezuB3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El rechazo a los centros de datos de IA ha llegado a un rincón tranquilo de la Inglaterra rural"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent advierte que el acercamiento de Trump a Putin lo aleja de su propio electorado",
+     "resumen": "La revista analiza que solo el 12% de los votantes de Trump tiene una opinión positiva de Moscú, en momentos en que el presidente estadounidense se mostró dispuesto a organizar una cumbre trilateral con Putin y Xi Jinping, posiblemente centrada en la \"desnuclearización\" más que en la guerra en Ucrania.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/20/al-acercarse-de-putin-trump-se-aleja-aun-mas-de-su-electorado/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:18",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Al acercarse a Putin, Trump se aleja aún más de su electorado"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent analiza por qué el Partido chino invierte miles de millones en la región de Guangxi",
+     "resumen": "La publicación dedica una serie a explorar las provincias chinas menos conocidas y se detiene en Guangxi, una región fronteriza con el Sudeste Asiático que Pekín considera estratégica para su proyección hacia esa zona del continente.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/20/a-las-puertas-del-sudeste-asiatico-la-apuesta-estrategica-de-guangxi/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "08:23",
+     "autor": "Louis Puel",
+     "titulo_original": "A las puertas del Sudeste Asiático, la apuesta estratégica de Guangxi"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Boca juega esta noche en el Maracaná una revancha decisiva ante Vasco da Gama por la Sudamericana",
+     "resumen": "Desde las 21.30, el equipo de Rodolfo Arruabarrena buscará revertir el 0-1 de la ida para avanzar a la final de la Copa Sudamericana. La duda pasa por Leandro Paredes, que tendrá apenas once días de recuperación de un desgarro y será esperado hasta último momento. Antes del partido, hinchas locales arrojaron fuegos artificiales contra el hotel de concentración del plantel argentino en Río de Janeiro.",
+     "relacionadas": [
+      {
+       "id": "CL-25",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Boca vs. Vasco da Gama, por la semifinal de la Copa Sudamericana: hora, formaciones y dónde ver",
+       "url": "https://www.clarin.com/deportes/boca-vs-vasco-da-gama-semifinal-copa-sudamericana-hora-formaciones-ver_0_5aYKrjnqky.html"
+      },
+      {
+       "id": "CL-01",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La historia de siempre: los hinchas de Vasco detonaron bombas de estruendo en el hotel de Boca durante la madrugada",
+       "url": "https://www.clarin.com/deportes/historia-siempre-hinchas-vasco-detonaron-bombas-estruendo-hotel-boca-madrugada_0_6febWzAXcj.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/boca-vuelve-a-brasil-por-otra-noche-copera-la-duda-por-paredes-y-una-noche-decisiva-en-el-maracana-nid20102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RPRKQ6NWUBFBFGISBLAQH2MUG4.jpg?auth=a731df08c4f5f29fcbc397d81f769d3288fc3a8b9764409e5ac64f451a7dd4eb&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:48",
+     "autor": "Leandro Contento",
+     "titulo_original": "Boca vuelve a Brasil por otra noche copera: la duda por Paredes y una noche decisiva en el Maracaná"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "PSG recibe hoy a Barcelona por la Champions League con Hansi Flick a la cabeza del puntero de LaLiga",
+     "resumen": "El bicampeón de Europa juega desde las 16 en el Parque de los Príncipes ante el equipo que dirige Hansi Flick, por la tercera fecha de la fase de liga de la Champions League, con transmisión de ESPN y Disney+ Premium.",
+     "relacionadas": [
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Hansi Flick, el cerebro de Barcelona, estético y arrollador: del fracaso con Alemania al secreto de su éxito",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/hansi-flick-el-cerebro-de-barcelona-estetico-y-arrollador-del-fracaso-con-alemania-al-secreto-de-su-nid20102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/psg-vs-barcelona-uefa-champions-league-vivo-hora-formaciones-ver-partido_0_TZ4rWDFqw4.html",
+     "imagen": "https://www.clarin.com/img/2026/09/06/8TmEgLUyEI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "PSG vs. Barcelona, por la UEFA Champions League, EN VIVO: hora, formaciones y dónde ver el partido"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Mariano Navone venció a Cerúndolo en un duelo argentino y avanzó en el ATP de Bruselas",
+     "resumen": "Navone, ubicado 45° en el ranking mundial, se impuso 7-6 (10) y 6-2 ante Juan Manuel Cerúndolo tras salvar cuatro set points en contra en el primer set, y avanzó a octavos de final del ATP 250 de Bruselas. Sebastián Báez, en cambio, cayó en su debut en el ATP de Lyon.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/20/mariano-navone-vencio-a-juan-manuel-cerundolo-en-el-duelo-argentino-y-avanzo-en-el-atp-de-bruselas/",
+     "imagen": "https://www.infobae.com/resizer/v2/PJ7NERRX6ZWQG36HKGSWH4V2EA.jpg?auth=7862d41a68132bbcac977b6b196164643554df4450d30e78500ab8d0ffa66a15&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:31",
+     "autor": "",
+     "titulo_original": "Mariano Navone venció a Juan Manuel Cerúndolo en el duelo argentino y avanzó en el ATP de Bruselas"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Gimnasia venció 2-1 a Huracán con un gol en el séptimo minuto de descuento",
+     "resumen": "El Lobo se impuso en Parque Patricios por la fecha 13 del Torneo Clausura con goles de Ignacio Fernández y Germán Conti, este último convertido a los 90+7 minutos tras una revisión del VAR.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/15/huracan-y-gimnasia-la-plata-abriran-la-fecha-13-del-torneo-clausura-hora-tv-y-probables-formaciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/NWAWPBLKDJDXRDWXAC67PVMBVY.JPG?auth=2020cfee34ecb4104b446527e9707909df748b126b1b426cd7d0fa05e74b1b85&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:49",
+     "autor": "",
+     "titulo_original": "Con un gol en la última acción del partido, Gimnasia venció a Huracán por la fecha 13 del Torneo Clausura"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "el Rally Dakar volverá a disputarse en África después de veinte años",
+     "resumen": "La organización del Rally Dakar trabaja en un cambio de sede que lo llevaría de regreso a África tras dos décadas, en un giro impulsado por la tensión en Medio Oriente que complicaba la continuidad de la carrera en Arabia Saudita.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/19/la-historia-detras-del-retorno-del-rally-dakar-a-africa-luego-de-20-anos-las-razones-y-las-claves-de-la-negociacion/",
+     "imagen": "https://www.infobae.com/resizer/v2/YSFRMHGDMBGZFGQADJNSVPG3SM.JPG?auth=2a62384b35d988fdd42637cfe0a30c6bd66a3456bfe9c0224dd47f381877d004&smart=true&width=900&height=607",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:51",
+     "autor": "Darío Coronel",
+     "titulo_original": "La historia detrás del retorno del Rally Dakar a África luego de 20 años: las razones y las claves de la negociación"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "el ítalo-argentino Mattia Colnaghi correrá la Fórmula 3 en el equipo campeón, con apoyo de Red Bull Junior",
+     "resumen": "El piloto de 18 años hará su segunda temporada en la categoría con Campos Racing, bicampeón de la Fórmula 3, dentro del programa Red Bull Junior Team al que se sumó en 2024.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/el-italo-argentino-que-desembarca-en-el-equipo-campeon-de-la-formula-3-con-el-apoyo-del-programa-red-nid20102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/D3PLF56OI5DHPFS4X6VSNFXBFI.jpg?auth=15da59c5fa9a8735cc0fa40c21206dfd3fd2528cc7ff8f43b4ce8809ecd26ec6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:03",
+     "autor": "Alberto Cantore",
+     "titulo_original": "El ítalo-argentino que desembarca en el equipo campeón de la Fórmula 3, con el apoyo del programa Red Bull Junior"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "Purmamarca, en Jujuy, fue elegida entre los pueblos más lindos del mundo",
+     "resumen": "Un ranking internacional destacó a la localidad jujeña por su arquitectura colonial, su riqueza cultural y los colores de sus paisajes en la Quebrada de Humahuaca, posicionándola como uno de los destinos más atractivos del planeta pese a sus bajos costos relativos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/el-pueblo-en-el-norte-argentino-que-se-encuentra-entre-los-mas-lindos-del-mundo/",
+     "imagen": "https://www.cronista.com/resizer/v2/IC7N5BBECJHH7IX4OOVZL5ABIM.jpg?auth=93a5310e8470ec66a64354f80c1d05aa563331ae9d685713422a6024afbb9ff5&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:38",
+     "autor": "Felipe González Bueno",
+     "titulo_original": "El pueblo en el norte argentino que se encuentra entre los más lindos del mundo"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "los paquetes a Brasil para 2027 subieron hasta 40% frente al verano pasado",
+     "resumen": "Los viajes a destinos como Río de Janeiro, Florianópolis y Bombinhas encarecieron sus paquetes turísticos hasta un 40% respecto del verano anterior, lo que lleva a los viajeros argentinos a buscar alternativas de ahorro para planificar sus vacaciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/466908-vacaciones-en-brasil-2027-cuanto-cuesta-viajar-y-que-destinos-convienen",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626978.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:35",
+     "autor": "",
+     "titulo_original": "Vacaciones en Brasil 2027: cuánto cuesta viajar y qué destinos convienen"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "la crecida de Yacyretá llegó a la capital correntina y algunas familias temen irse por miedo a los saqueos",
+     "resumen": "En el barrio Caridi de la ciudad de Corrientes, el agua de la crecida del Paraná avanzó desde hace una semana hasta llegar a la puerta de las viviendas, y varias familias dudan entre evacuarse o quedarse para evitar saqueos en sus casas. En la misma provincia, dos trabajadores rurales de 49 y 55 años murieron ahogados al intentar resguardar ganado de la crecida, tras varios días de búsqueda en la isla Ibarapitá.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El drama de El Niño en Corrientes: dos trabajadores rurales murieron ahogados al intentar resguardar al ganado de la crecida del río",
+       "url": "https://www.clarin.com/sociedad/drama-nino-corrientes-trabajadores-rurales-murieron-ahogados-intentar-resguardar-ganado-crecida-rio_0_NZLW3hPTl6.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/corrientes-en-crisis-el-agua-sigue-subiendo-pero-muchos-temen-dejar-sus-casas-por-miedo-a-que-les-nid20102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WH6WYITLGVCNFITOYOEWJEWIDE.jpg?auth=b5b4c933b07587ed7c69773d140b1371718a4fb1cf07430a28f8e15aa3f35772&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:08",
+     "autor": "Germán de los Santos",
+     "titulo_original": "Con Yacyretá desbordada, las inundaciones llegan a la capital y muchos temen dejar sus casas por los saqueos"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "un barco fantasma quedó a la deriva por la crecida del Paraná y preocupa a los navegantes correntinos",
+     "resumen": "El \"Uros-Z\" encalló a dos kilómetros de su ubicación original en Corrientes, arrastrado por la crecida del río, y representa un riesgo para otras embarcaciones. La estructura, cuya construcción nunca se completó, lleva décadas de abandono y reclamos al Estado.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/historia-uros-z-barco-fantasma-quedo-deriva-crecida-rio-parana-efecto-nino_0_oXr1RCvjjo.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/_S7_Mz4Dw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La historia de \"Uros-Z\", el barco fantasma que quedó a la deriva en la crecida del río Paraná por efecto de El Niño"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen del mediodía del martes veinte de octubre. El riesgo país volvió a dispararse esta mañana: llegó a tocar los setecientos diez puntos, su nivel más alto desde octubre del año pasado, aunque después moderó la suba y quedó en torno a los seiscientos ochenta y cuatro puntos al mediodía. Los bonos argentinos en dólares cayeron hasta uno coma cinco por ciento, el dólar oficial cerró en mil quinientos cuarenta y cinco pesos y el dólar blue en mil quinientos setenta pesos, el oro cotiza en torno a los cuatro mil ciento sesenta y un dólares la onza. En paralelo, un paro sorpresivo dejó sin servicio las seis líneas de subte porteño después de que la policía detuviera a tres metrodelegados, entre ellos el secretario general del gremio, Néstor Segovia. El jefe de gobierno porteño, Jorge Macri, respaldó el operativo y dijo que quien bloquea un servicio esencial va preso.\n\nEn política, el presidente Javier Milei profundizó su respaldo a Flavio Bolsonaro en la recta final del balotaje brasileño: llamó zurdo ladrón a Lula da Silva y advirtió sobre un posible fraude electoral. El mandatario viajó anoche a Madrid, donde el miércoles se reunirá con Isabel Díaz Ayuso, y habló por teléfono con Santiago Abascal antes del viaje. También generó polémica al calificar de pelotudez la idea de que alguien se quede sin plata a mitad de mes, frase que le valió críticas de varios dirigentes; el exministro del Interior Lisandro Catalán salió después a bajarle el tono. Además, la Cámara Federal de San Martín dejó firme la causa por lavado de dinero contra José Luis Espert, y en Diputados se debate el Presupuesto 2027 en medio del reclamo de fondos para las universidades públicas.\n\nEn economía, más allá del salto del riesgo país, un informe de EcoGo y la Universidad Austral mostró que el veintisiete por ciento de los deudores bancarios tiene pagos atrasados, con una deuda total de las familias de setenta y tres billones ochocientos mil millones de pesos. El economista Ricardo Arriazu sostuvo que la Argentina podría crecer al cinco por ciento anual, pero que la política de compra de divisas del Banco Central la mantiene estancada en torno al dos por ciento. El Fondo Monetario Internacional proyectó, por su parte, que Brasil volverá a entrar entre las diez economías más grandes del mundo hacia 2027. En impuestos y normativa laboral, las empresas tienen ahora hasta el primero de diciembre para prepararse para el Fondo de Asistencia Laboral, que además duplicó de seis a doce meses el plazo de carencia antes de que esos fondos puedan usarse. La agencia de recaudación nacional eliminó una retención de contribuciones patronales para las empresas de servicios eventuales, y la agencia bonaerense extendió hasta el doce de noviembre el pago de tres impuestos provinciales. En consumo y construcción, más de cien líneas de colectivos del área metropolitana empezarán a reducir a la mitad sus frecuencias nocturnas por reclamos de pagos atrasados, lo que puede complicar los traslados de empleados en ese horario. Los empleados de comercio todavía esperan la definición de su aumento salarial de noviembre, y en la industria de celulares se discute si los equipos más baratos van a poder sostenerse frente al encarecimiento de los chips de memoria. En negocios y empresas, seis millones de líneas de Movistar pasarán a operar bajo la marca Tuenti, de la mano de Metrotel, que pagó cuatrocientos cincuenta millones de dólares por esos activos. El empresario textil Teodoro Karagozian, dueño de TN y Platex, pidió su concurso preventivo, ocho meses después de que otra empresa de su familia hiciera lo mismo. En el rubro de alimentos, la láctea bonaerense La Suipachense, que también había atravesado una quiebra, volvió a producir leche y quesos: procesa cincuenta mil litros diarios y ya suma más de sesenta operarios tras cuatro meses de recuperación de empleo. La Justicia abrió una convocatoria para encontrar comprador para la cadena de panaderías Pandanés, tras el cierre de sus veinticinco locales. Se aprobaron proyectos del régimen de incentivo a las grandes inversiones de la empresa TGS por tres mil doscientos millones de dólares para ampliar la evacuación de gas de Vaca Muerta. Mercado Libre, por su parte, afronta un test clave en Wall Street con la presentación de su próximo balance, en el que el mercado buscará confirmar si el fuerte crecimiento de las ventas se traduce en mejores ganancias. Y en management, un contador recibido en la Universidad de Buenos Aires, Gastón Vega, ganó un premio a la trayectoria como director global de tecnología de una multinacional, después de un camino que empezó en una auditora y pasó por varias empresas internacionales. En el mundo, Francia amplió los toques de queda a más ciudades tras dos días de saqueos; el ministro del Interior presentó su renuncia, pero el presidente Macron la rechazó. En Brasil, las encuestas muestran un empate técnico entre Lula da Silva y Flavio Bolsonaro a cinco días del balotaje. El respaldo de Donald Trump a Benjamín Netanyahu generó dudas entre los analistas sobre si le sirve de cara a la elección israelí, y el secretario de Estado norteamericano, Marco Rubio, dijo que Estados Unidos e India están cerca de cerrar un acuerdo comercial. Le Grand Continent analiza cómo el acercamiento de Donald Trump a Vladimir Putin lo aleja de su propio electorado, y dedica también un análisis a la apuesta estratégica de China en la región de Guangxi. En Inglaterra, un proyecto para construir uno de los mayores centros de datos de inteligencia artificial de Europa encontró fuerte resistencia de los vecinos de un pueblo rural de Devon, preocupados por el impacto ambiental. En deportes, esta noche desde las nueve y media Boca Juniors se juega una revancha decisiva ante Vasco da Gama en el Maracaná, por la semifinal de la Copa Sudamericana, con la duda de si podrá contar con Leandro Paredes. Esta tarde, desde las cuatro, Paris Saint Germain recibe a Barcelona por la Champions League. En tenis, Mariano Navone venció a Juan Manuel Cerúndolo y avanzó en el torneo de Bruselas, mientras Sebastián Báez cayó en su debut en Lyon. Gimnasia le ganó dos a uno a Huracán con un gol agónico. Y el Rally Dakar volvería a disputarse en África después de veinte años. En automovilismo también hubo novedades para el país: el ítalo argentino Mattia Colnaghi correrá la próxima temporada de Fórmula 3 con Campos Racing, el equipo bicampeón de la categoría, dentro del programa de pilotos jóvenes de Red Bull. En turismo, Purmamarca, en Jujuy, fue elegida entre los pueblos más lindos del mundo por su arquitectura colonial y los colores de la Quebrada de Humahuaca. Para quienes piensan en un viaje al exterior, los paquetes a destinos brasileños como Río de Janeiro, Florianópolis y Bombinhas subieron hasta un cuarenta por ciento frente al verano pasado. En sociedad, la crecida de Yacyretá sigue golpeando a Corrientes: en el barrio Caridi de la capital provincial, el agua de la crecida del río Paraná ya llega a la puerta de varias viviendas y algunas familias dudan entre evacuarse o quedarse por temor a saqueos. En la misma provincia, dos trabajadores rurales de cuarenta y nueve y cincuenta y cinco años murieron ahogados mientras intentaban resguardar ganado de la crecida, tras varios días de búsqueda. Además, un barco abandonado hace décadas, conocido como el Uros Z, quedó encallado a la deriva por la corriente del Paraná y representa un riesgo para otras embarcaciones de la zona. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Todas las fuentes respondieron con normalidad en esta corrida. No se encontraron novedades sobre Franco Colapinto ni sobre Club Atlético Tigre en el material de esta edición.",
+ "slug": "2026-10-20-mediodia",
+ "generado_ba": "20/10/2026 15:18"
+}
