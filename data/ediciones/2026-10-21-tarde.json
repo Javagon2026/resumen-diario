@@ -1,0 +1,798 @@
+{
+ "fecha": "2026-10-21",
+ "edicion": "tarde",
+ "titulo": "Escándalo de Milei en Madrid, alerta cibernética mundial y Boca camino a la final",
+ "apertura": "Javier Milei volvió a generar polémica en España al insultar a una periodista de la Cadena Ser, mientras una alerta global de ciberseguridad por fallas críticas de PHP llevó a gobiernos europeos a desconectar preventivamente sitios oficiales. El Indec confirmó que la actividad económica apenas se movió en agosto y los salarios registrados volvieron a superar a la inflación, en una tarde en la que también se confirmó que el papa León XIV no necesitará más tratamiento oncológico y podrá viajar a la Argentina en noviembre. En el plano deportivo, Boca Juniors clasificó a la final de la Copa Sudamericana tras eliminar a Vasco da Gama en el Maracaná.",
+ "claves": [
+  "Javier Milei insultó a una periodista de la Cadena Ser en Madrid y varios diarios españoles, entre ellos El País, calificaron su actitud de inaceptable.",
+  "Una Cámara de Apelaciones suspendió la cautelar que frenaba el tarifazo eléctrico bonaerense dispuesto en agosto, tras una apelación del Gobierno de Kicillof.",
+  "La actividad económica (EMAE) apenas mejoró 0,1% en agosto y acumula una caída interanual de 1,7%, aunque Vaca Muerta y la minería treparon 11%.",
+  "Los salarios registrados le ganaron a la inflación por tercer mes consecutivo, con una suba de 2,6% en agosto y 21,5% acumulado en el año.",
+  "Una alerta global de ciberseguridad por fallas críticas de PHP llevó a Finlandia, los Países Bajos y la Fundación Wikimedia a desconectar preventivamente sitios web.",
+  "El papa León XIV no necesitará tratamiento oncológico adicional tras su cirugía por cáncer de pulmón, lo que allana su viaje a la Argentina en noviembre.",
+  "Boca Juniors clasificó a la final de la Copa Sudamericana tras vencer 3-1 a Vasco da Gama en el Maracaná, con un gol decisivo de Leandro Paredes.",
+  "A cuatro días del balotaje, una encuesta de Quaest mostró un empate técnico entre Lula da Silva (44%) y Flavio Bolsonaro (45%) en Brasil."
+ ],
+ "cifras": [
+  {
+   "nombre": "Actividad económica (EMAE), agosto",
+   "valor": "+0,1% mensual",
+   "variacion": "-1,7% interanual",
+   "fuente": "CL-16"
+  },
+  {
+   "nombre": "Vaca Muerta y minería, agosto",
+   "valor": "+11% interanual",
+   "fuente": "CL-16"
+  },
+  {
+   "nombre": "Salarios registrados, agosto",
+   "valor": "+2,6% mensual",
+   "variacion": "+21,5% acumulado enero-agosto",
+   "fuente": "LN-13"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "Un nuevo escándalo de Milei en España, un giro judicial en el tarifazo bonaerense y avances en varias causas judiciales marcan la tarde.",
+   "notas": [
+    {
+     "id": "CL-14",
+     "titulo": "Milei insultó a una periodista española y los diarios de Madrid lo calificaron de inaceptable",
+     "resumen": "El presidente Javier Milei llamó \"corta intelectualmente\" y \"miserable político\" a una periodista de la Cadena Ser durante una actividad en Madrid. El diario El País le dedicó una editorial en la que lo trató de vulgar y lo acusó de generar daño institucional.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/escandalo-madrid-javier-milei-insulto-periodista-diarios-espanoles-reaccionaron-tildando-inaceptable-actitud_0_mXg8b9VD89.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/kWcIBED0-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:17",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Escándalo en Madrid: Javier Milei insultó a una periodista y los diarios españoles reaccionaron tildando de \"inaceptable\" su actitud"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "la Justicia suspendió la cautelar que frenaba el tarifazo eléctrico bonaerense",
+     "resumen": "Una Cámara de Apelaciones hizo lugar a una apelación del Gobierno de Axel Kicillof y revirtió la medida cautelar que, desde hacía un mes, frenaba el aumento de la electricidad dispuesto en agosto en la provincia de Buenos Aires. Con este giro, el tarifazo ya podrá aplicarse.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/freno-aumento-tarifas-provincia-gobierno-kicillof-apelo-vuelve-aplicar-ajuste-14-millones-usuarios_0_QuZbQj71OR.html",
+     "imagen": "https://www.clarin.com/img/2016/08/16/By7rJCnYVx_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Giro en la disputa por la electricidad: el Gobierno de Kicillof apeló y la Justicia suspendió la cautelar que frenaba el tarifazo bonaerense"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "el Gobierno explicó por qué Milei usó una venda en el cuello en España",
+     "resumen": "Fuentes de la comitiva presidencial desestimaron cualquier problema de salud grave y atribuyeron la marca a un corte que el Presidente se hizo al afeitarse. Otra versión oficial, difundida por Infobae, indicó en cambio que Milei se golpeó al salir de la bañadera y le quedó un hematoma.",
+     "relacionadas": [
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno informó la razón por la que Javier Milei usó una venda durante su viaje a España",
+       "url": "https://www.infobae.com/politica/2026/10/21/el-gobierno-informo-la-razon-por-la-que-javier-milei-uso-una-venda-durante-su-viaje-a-espana/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/salud-javier-milei-espana-aparecio-venda-cuello-gobierno-aducen-corto-afeitarse_0_CrRLsAAfCa.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/awL0wJP36_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La salud de Javier Milei: en España apareció con una venda en el cuello y en el Gobierno aducen que se cortó al afeitarse"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "Cristina y Máximo Kirchner no tendrán que asistir en persona al inicio del juicio por Hotesur y Los Sauces",
+     "resumen": "Tras la decisión de Casación de unificar ambas causas en un solo debate, el Tribunal Oral Federal 5 resolvió que los imputados, entre ellos la expresidenta y su hijo, podrán participar de manera virtual en la audiencia inicial de este viernes.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/hotesur-los-sauces-cristina-y-maximo-kirchner-no-tendran-que-asistir-a-comodoro-py-para-el-inicio-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/T5ONTE3JVZHCHPHBZXKVBQKZTE.JPG?auth=56cb7063d31472617f218ab3b27a61407c72771eeb2b4d4ddd97ca53db0393da&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:58",
+     "autor": "Federico González del Solar",
+     "titulo_original": "Hotesur-Los Sauces: Cristina y Máximo Kirchner no tendrán que asistir a Comodoro Py para el inicio del juicio"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Gils Carbó fue indagada en el juicio por la compra del edificio de la Procuración",
+     "resumen": "La exprocuradora Alejandra Gils Carbó evitó contestar preguntas del fiscal y de los jueces del Tribunal Oral Federal 8, y se remitió a su declaración indagatoria de 2017. Está acusada de negociaciones incompatibles con la función pública por la compra, durante su gestión, del edificio de Perón 667.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/gils-carbo-fue-indagada-en-el-juicio-por-la-compra-del-edificio-de-la-procuracion-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/6S4L4Z6UDFA73DNT3KI3M3TJ3A.jpg?auth=3abc16754c5cb03394890ed406627fa0ca63b684fa698abc0a51a10b52eabbd0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:23",
+     "autor": "",
+     "titulo_original": "Gils Carbó fue indagada en el juicio por la compra del edificio de la Procuración"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Diputados aprobó la Ley de Propiedad Privada y sigue con discapacidad y endeudamiento familiar",
+     "resumen": "La Cámara aprobó la Ley de Inviolabilidad de la Propiedad Privada, aunque tuvo que sacarle la eliminación de la Ley de Tierras, que así queda restituida según la versión votada; el proyecto vuelve al Senado. La sesión especial continúa esta tarde con los proyectos de emergencia en discapacidad y de endeudamiento familiar.",
+     "relacionadas": [
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Propiedad Privada: Diputados votó restituir la Ley de Tierras, acelerar desalojos y limitar expropiaciones",
+       "url": "https://www.cronista.com/economia-politica/con-el-quorum-asegurado-el-gobierno-enfrenta-una-sesion-maratonica-propiedad-privada-endeudamiento-y-discapacidad/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/21/diputados-en-vivo-ultimas-noticias-del-debate-sobre-discapacidad-endeudamiento-familiar-y-propiedad-privada/",
+     "imagen": "https://www.infobae.com/resizer/v2/KCCOIWLA7VHYPINOIVE445RWYE.jpg?auth=c3954db1854a3e5d6035a02d4b3b903471f24d983f3307c3506a5fae55c468c9&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:05",
+     "autor": "David Cayón",
+     "titulo_original": "Tras aprobar la Ley de Propiedad Privada, Diputados discutirá la emergencia en Discapacidad y Endeudamiento Familiar"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "tras la elección de los abogados, la política define el perfil del Consejo de la Magistratura",
+     "resumen": "Con el resultado del estamento de abogados ya conocido, resta que se elijan los diputados y senadores que integrarán el órgano, instancia en la que La Libertad Avanza ganará más bancas y el kirchnerismo perderá representación. El Consejo discute además si cambia la forma de elegir a los jueces.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/despues-eleccion-abogados-politica-define-perfil-consejo-magistratura-ano-electoral_0_6yS4yflUhL.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/XMIvhXV2V_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Después de la elección de los abogados, la política define el perfil del Consejo de la Magistratura para el año electoral"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "intro": "El dato de actividad de agosto confirma el freno de la economía, aunque los salarios registrados vuelven a ganarle a la inflación.",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "la actividad económica se estancó en agosto y no logró recuperarse de la caída de julio",
+     "resumen": "El EMAE, que mide la marcha de la economía, mejoró apenas 0,1% mensual en agosto, después del derrumbe de casi 3% de julio, y acumula una baja de 1,7% en los últimos doce meses. Vaca Muerta y la minería treparon 11% y fueron de los pocos sectores en terreno positivo.",
+     "relacionadas": [
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La economía se estancó en agosto y quedó a las puertas de la recesión",
+       "url": "https://www.lanacion.com.ar/economia/la-economia-se-estanco-en-agosto-y-quedo-a-las-puertas-de-la-recesion-nid21102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/actividad-economica-cayo-17-agosto-indec_0_xqx0gKxVjG.html",
+     "imagen": "https://www.clarin.com/img/2024/06/06/aop-L96Eo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La actividad económica se estancó en agosto y no logró recuperarse de la fuerte caída de julio"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "los salarios registrados le ganaron a la inflación por tercer mes consecutivo",
+     "resumen": "Según el Indec, los sueldos formales subieron 2,6% en agosto frente al 1,7% de inflación del mes, y acumulan una suba de 21,5% en los primeros ocho meses del año, apenas por encima del 21,3% del índice de precios. Aun así, en la comparación interanual los salarios privados y públicos todavía no recuperan lo perdido.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los salarios registrados subieron 2,6% en agosto y le ganaron a la inflación por tercer mes consecutivo",
+       "url": "https://www.infobae.com/economia/2026/10/21/los-salarios-registrados-subieron-26-en-agosto-y-le-ganaron-a-la-inflacion-por-tercer-mes-consecutivo/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/los-salarios-registrados-le-ganaron-a-la-inflacion-por-tercer-mes-consecutivo-y-recuperaron-lo-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MNESLAMTJBHUJLTHH5URD3JKJA.JPG?auth=e261a07d9712dd64e4bb7a182ae96a4459836c51651dfcd920811ec0b8dedb13&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:24",
+     "autor": "Agustín Maza",
+     "titulo_original": "Los salarios registrados le ganaron a la inflación por tercer mes consecutivo y recuperaron lo perdido en el año"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "los bonos recuperaron terreno y el riesgo país bajó a 661 puntos",
+     "resumen": "El mercado argentino cerró con una mejora en las acciones y una baja del riesgo país, que terminó en 661 puntos básicos, 11 unidades menos que el cierre previo, en una jornada de mayor apetito por activos emergentes. El MSCI Merval avanzó 1,62% en pesos y los ADR argentinos en Wall Street mostraron mayoría de subas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-bonos-recuperaron-terreno-y-bajo-el-riesgo-pais-pero-el-mercado-sigue-en-alerta-por-la-deuda-local/",
+     "imagen": "https://www.cronista.com/resizer/v2/HR7OU7ZEKRBOHB7S45DGXCMIRE.jpg?auth=ebe0ae30c2550ccdd1816b29febcd43cfdfa99eb07e6581961f4bb47747971e8&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:50",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Los bonos recuperaron terreno y bajó el riesgo país, pero el mercado sigue en alerta por la deuda local"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "con Milei el PBI creció, pero el empleo registrado retrocedió: la lección de Australia que mira la Argentina",
+     "resumen": "Entre fines de 2023 y el segundo trimestre de 2026, el PBI argentino creció 5,8%, mientras el empleo registrado total y el privado cayeron cerca de 4% en el mismo período. El antecedente de Australia, citado en el análisis, muestra cuánto puede tardar una transformación económica en traducirse en nuevos puestos de trabajo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/con-milei-el-pbi-crecio-pero-el-empleo-registrado-retrocedio-la-leccion-de-australia-que-mira-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/XPOMQDXGHJC5BP4TXOAOBBM5I4.jpeg?auth=2e3735cff6b3221cd2ff86102372d93aa65be905c463b436ee19e4c88ea82565&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:01",
+     "autor": "Audiencias Member",
+     "titulo_original": "Con Milei el PBI creció, pero el empleo registrado retrocedió: la lección de Australia que mira la Argentina"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "los ADR argentinos escalaron hasta 4,6%, pero el riesgo país volvió a repuntar",
+     "resumen": "Telecom lideró las subas de las acciones argentinas en Nueva York, mientras el MSCI Merval ganó 1,6%. Los bonos en dólares terminaron con resultados mixtos y el riesgo país rebotó 0,3% y se sostuvo por encima de los 670 puntos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/bonos-dolares-ensayan-un-rebote-las-fuertes-perdidas-y-el-riesgo-pais-cede-maximos-del-ano-n6336222",
+     "imagen": "https://media.ambito.com/p/8373e1b1488bbc55e3ba7f5f977378a5/adjuntos/239/imagenes/043/703/0043703197/1200x675/830x446:850x466/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:23",
+     "autor": "",
+     "titulo_original": "Los ADRs escalaron hasta 4,6%, pero el riesgo país volvió a repuntar y se sostuvo por encima de los 670 puntos"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CR-12",
+     "titulo": "el petróleo vuelve a fluir: las exportaciones de Medio Oriente recuperan los niveles previos a la guerra",
+     "resumen": "Los envíos diarios de los productores de petróleo del Golfo, sin contar Irán, promediaron 24,6 millones de barriles en la semana hasta el 18 de octubre, por encima del promedio previo al conflicto de 23,3 millones, a medida que las navieras usan rutas alternativas para evitar el estrecho de Ormuz.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/el-petroleo-vuelve-a-fluir-las-exportaciones-de-medio-oriente-recuperan-los-niveles-previos-a-la-guerra/",
+     "imagen": "https://www.cronista.com/resizer/v2/G3OLRTGU4VBAPARL5OXDVRAOH4.png?auth=923e02d227951fa9d1e27b43e59936a475ab77ce75056bebffaee81cf5ff23da&smart=true&width=900&height=502",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:17",
+     "autor": "Verity Ratcliffe, Alice Hancock",
+     "titulo_original": "El petróleo vuelve a fluir: las exportaciones de Medio Oriente recuperan los niveles previos a la guerra"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "pagos digitales: el mercado argentino crecerá a un ritmo de 5,5% anual hasta 2030",
+     "resumen": "Según un informe de Boston Consulting Group, los ingresos del sector de pagos en la Argentina pasarían de unos 5.200 millones de dólares en 2025 a 6.800 millones en 2030. El cambio más marcado estará en el volumen de operaciones, de la mano del fuerte crecimiento de los pagos instantáneos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/pagos-digitales-el-mercado-argentino-crecera-a-un-ritmo-del-55-anual-hasta-2030/",
+     "imagen": "https://www.cronista.com/resizer/v2/5WZ346WWLJCGFF7WCJCFUHU2JU.jpg?auth=80609776fa9b60b2ff589b3a3e9930ecb58b4f08983e1bec85442e74d1f0d90a&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:18",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Pagos digitales: el mercado argentino crecerá a un ritmo del 5,5% anual hasta 2030"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "después de una pelea millonaria, Colonia Express ganó la ruta de ferry más rentable a Uruguay",
+     "resumen": "La empresa obtuvo la autorización para operar la ruta directa entre Buenos Aires y Montevideo, una conexión estimada en 100 millones de dólares. El ferry Montevideo Express ya navega el Río de la Plata y la compañía prevé iniciar los viajes comerciales en los primeros días de diciembre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/despues-de-una-pelea-millonaria-una-de-las-empresas-de-ferry-gano-la-ruta-mas-rentable-a-uruguay/",
+     "imagen": "https://www.cronista.com/resizer/v2/5YZEFCHEZNC5LHUHKYTU4OEMWY.png?auth=66513dee0d3ade95976e4855e405e6c8f5d72042ff5817d134760b847f46512f&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:34",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Después de una pelea millonaria, una de las empresas de ferry ganó la ruta más rentable a Uruguay"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "así serán los pozos submarinos que Total realizará en el mar para producir gas",
+     "resumen": "La petrolera de origen francés proyecta el desarrollo del Proyecto Alberdi con pozos submarinos eléctricos en la cuenca austral, una tecnología inédita en el país para la producción de gas offshore.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/467046-la-duena-de-casi-la-mitad-de-la-soja-mundial-usara-ia-y-satelites-para-mejorar-negocio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627989.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:15",
+     "autor": "",
+     "titulo_original": "La dueña de casi la mitad de la soja mundial usará IA y satélites para mejorar su negocio"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "PAE apuesta al petróleo convencional y al shale gas en el Golfo San Jorge",
+     "resumen": "Marcos Bulgheroni detalló la estrategia de la petrolera en Chubut, que combina drones, polímeros y desarrollo no convencional, en simultáneo con el avance de proyectos de gas natural licuado.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467119-yerba-mate-plan-de-1812-millones-para-impulsar-exportaciones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623408.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:10",
+     "autor": "",
+     "titulo_original": "Yerba mate: el nuevo plan para llevar más marcas argentinas a mercados internacionales"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "intro": "",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "la Corte condenó el despido discriminatorio de un trabajador por su estado de salud",
+     "resumen": "Un empleado con VIH fue despedido poco después de un análisis de laboratorio que determinó su estado de salud, y la Corte aceptó que hubo discriminación. Para una empresa: el fallo eleva el riesgo de demandas para quien desvincule personal sin acreditar una causa objetiva ajena a su salud.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467115-corte-condeno-despido-discriminatorio-por-estado-de-salud",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628031.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:50",
+     "autor": "",
+     "titulo_original": "La Corte condenó el despido discriminatorio de un trabajador por el estado de salud"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "el Gobierno homologó 19 acuerdos colectivos en distintos sectores",
+     "resumen": "El Ministerio de Capital Humano destacó el papel de la negociación colectiva para formalizar los consensos alcanzados entre trabajadores y empleadores en los últimos acuerdos paritarios.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467134-el-gobierno-homologo-19-acuerdos-colectivos-en-distintos-sectores",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/620412.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:30",
+     "autor": "",
+     "titulo_original": "El Gobierno homologó 19 acuerdos colectivos en distintos sectores"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "encargados de edificios: los salarios de noviembre y los adicionales que reciben",
+     "resumen": "El sindicato y las cámaras de la actividad cerraron una suba salarial para noviembre, con mejoras en los adicionales remuneratorios y los pluses por tareas específicas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467127-cuanto-cobra-un-encargado-de-edificio-en-noviembre-de-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/617524.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:40",
+     "autor": "",
+     "titulo_original": "Encargados de edificios: los salarios de noviembre y los adicionales que reciben"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "paso a paso: cómo pagar el Monotributo con QR para evitar una deuda con ARCA",
+     "resumen": "Para pagar la cuota mensual con código QR desde una billetera digital compatible, los contribuyentes deben generar primero un volante electrónico de pago en el sitio de la Agencia de Recaudación y Control Aduanero y completar la operación desde la aplicación elegida.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/paso-a-paso-como-pagar-el-monotributo-con-qr-para-evitar-una-deuda-con-arca/",
+     "imagen": "https://www.cronista.com/resizer/v2/MFHJ5BJUGVBVTGIF3ED7EP4HBI.jpg?auth=c5e1c6ca515cea9568f5c829a0c331b83c8c6d83bdef6ffb0c1482eb39b1d2e7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:25",
+     "autor": "Equipo Audiencias Argentina",
+     "titulo_original": "Paso a paso: cómo pagar el Monotributo con QR para evitar una deuda con ARCA"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "",
+   "notas": [
+    {
+     "id": "AM-02",
+     "titulo": "créditos hipotecarios: cuánta plata en efectivo hace falta ahorrar para comprar una casa",
+     "resumen": "Un relevamiento mostró que una familia puede ganar lo suficiente como para afrontar las cuotas de un crédito hipotecario y, aun así, estar lejos de poder comprar una vivienda. Para una empresa: el dato confirma que el acceso al financiamiento sigue siendo la principal traba para la demanda de vivienda nueva.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/creditos-hipotecarios-cuanta-plata-efectivo-hace-falta-ahorrar-comprar-una-casa-n6336026",
+     "imagen": "https://media.ambito.com/p/934bc05df1dc0bf9eb22241ed6a726ee/adjuntos/239/imagenes/043/629/0043629344/1200x675/1371x572:1391x592/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios: cuánta plata en efectivo hace falta ahorrar para comprar una casa"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "cuánto hay que invertir para poner una franquicia de la cadena de heladerías Lucciano's",
+     "resumen": "La cadena de heladerías premium mantiene su expansión y ya suma 100 locales entre propios y franquiciados en el país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/467131-cuanto-hay-que-invertir-para-poner-una-franquicia-de-luccianos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628037.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:15",
+     "autor": "",
+     "titulo_original": "Cuánto hay que invertir para poner una franquicia de la cadena de heladerías Lucciano's"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Carboclor habilita su puerto privado y consolida el negocio logístico en Campana",
+     "resumen": "La compañía del grupo estatal uruguayo Ancap consiguió la autorización del Gobierno para la terminal que convirtió en el eje de su negocio logístico en Campana. Para una empresa: la mayor oferta de terminales privadas sobre el Paraná de las Palmas puede facilitar la logística de cargas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467124-carboclor-habilita-su-puerto-privado-en-campana-para-uso-logistico",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/06/577882.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:23",
+     "autor": "",
+     "titulo_original": "Carboclor habilita su puerto privado y consolida el negocio logístico en Campana"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CR-22",
+     "titulo": "el nuevo desafío de los líderes: transformar sin perder a los equipos",
+     "resumen": "Tecnología, eficiencia y nuevos modelos de trabajo obligan a revisar cómo se construyen confianza, autonomía y compromiso dentro de las organizaciones. La directora de Administración y Finanzas de MetroGAS, Andrea Svoboda, señaló que uno de sus principales aprendizajes fue entender que liderar no significa controlar cada detalle.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-nuevo-desafio-de-los-lideres-transformar-sin-perder-a-los-equipos/",
+     "imagen": "https://www.cronista.com/resizer/v2/IK4YZAPDQJAC7MANMNIDFT3RAY.JPG?auth=8c745e2097e064122612de46a06fa829299856ed8f1866f70c1446b0d30effc8&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:15",
+     "autor": "Equipo Negocios",
+     "titulo_original": "El nuevo desafío de los líderes: transformar sin perder a los equipos"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "las nuevas reglas para crecer: el desafío que aparece cuando llega el éxito",
+     "resumen": "Referentes de la academia, la medicina y una multinacional coincidieron en que, a medida que cambian las responsabilidades profesionales, también cambian las herramientas necesarias para tomar decisiones y conducir equipos capaces de ir más allá de una sola persona.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/las-nuevas-reglas-para-crecer-el-desafio-que-aparece-cuando-llega-el-exito/",
+     "imagen": "https://www.cronista.com/resizer/v2/E7CA3CPZAFFEXGZZ6Y3LOPIUAE.JPG?auth=ad87e28aa8c63107d415adfff9115f47a73edd5c79df0f30f4d0f1ef0db712f3&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:08",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Las nuevas reglas para crecer: el desafío que aparece cuando llega el éxito"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "qué están haciendo las empresas de cara a la agenda 2030",
+     "resumen": "Cushman & Wakefield, Adidas y Santander explicaron cómo reducen consumos, emisiones y residuos, y cómo proyectan los espacios de trabajo del futuro.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/467062-que-estan-haciendo-las-empresas-de-cara-a-la-agenda-2030",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627995.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:15",
+     "autor": "",
+     "titulo_original": "¿Qué están haciendo las empresas de cara a la agenda 2030?"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "intro": "Una alerta global de ciberseguridad y la recta final del balotaje brasileño marcan la agenda internacional.",
+   "notas": [
+    {
+     "id": "LN-20",
+     "titulo": "alerta global por fallas de seguridad en internet: desconectan sitios de gobiernos y empresas",
+     "resumen": "Páginas de gobiernos europeos y de empresas de todo el mundo quedaron fuera de servicio luego de que se detectaran, mediante inteligencia artificial, dos vulnerabilidades críticas que llevaban años ocultas en el lenguaje de programación PHP. Finlandia y los Países Bajos desconectaron preventivamente portales oficiales y la Fundación Wikimedia hizo lo propio con parte de sus sistemas.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Ciberataques: agencias internacionales y gobiernos instan a dar de baja sitios web por errores que pasaron desapercibidos por más de diez años",
+       "url": "https://www.clarin.com/mundo/ciberataques-agencias-internacionales-gobiernos-instan-dar-baja-sitios-web-errores-pasaron-desapercibidos-anos_0_NpLSPnIoSS.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/alerta-global-por-fallas-de-seguridad-en-internet-desconectan-sitios-web-de-gobiernos-europeos-y-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7FFG2TCKFRDR7KKKDEWPZELOWA.JPG?auth=f5724cdb4a4ebcae28fc7aab18ba030454f7eca276572996d0ecc290895c59d3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:23",
+     "autor": "",
+     "titulo_original": "Alerta global por fallas de seguridad en internet: desconectan sitios web de gobiernos europeos y empresas de todo el mundo"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Lula recorta la ventaja de Flavio y hay un empate técnico a cuatro días del balotaje en Brasil",
+     "resumen": "Una encuesta de Quaest, realizada tras el debate, mostró un escenario de máxima paridad: 45% de intención de voto para el senador Flavio Bolsonaro y 44% para el presidente Lula da Silva, dentro del margen de error.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Fake news, indecisos y redes sociales: las claves de la disputa entre Lula y Bolsonaro",
+       "url": "https://www.infobae.com/america/mundo/2026/10/21/fake-news-indecisos-y-redes-sociales-las-claves-de-la-disputa-entre-lula-y-bolsonaro/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/lula-recorta-la-ventaja-de-flavio-segun-la-ultima-encuesta-y-hay-un-empate-tecnico-a-cuatro-dias-del-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MHWO5CY4KVCD7P7BQ4X7325YLM.JPG?auth=6ff1795b852b5e4bbdd7c74f10d2c85459fd1d8b2c02ae4884fa33929a785db6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:12",
+     "autor": "",
+     "titulo_original": "Lula recorta la ventaja de Flavio según la última encuesta y hay un empate técnico a cuatro días del balotaje en Brasil"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "condenan a Meta a pagar 25.000 millones de dólares por engañar a sus consumidores sobre su privacidad",
+     "resumen": "Un juez de Nuevo México condenó a Meta, dueña de Instagram y Facebook, luego de que un jurado determinara que la compañía había engañado a sus usuarios. El caso se originó en las acusaciones contra Cambridge Analytica, que había obtenido datos de hasta 87 millones de usuarios de Facebook sin su consentimiento.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/debera-pagar-us25000-millones-condenan-a-meta-por-enganar-a-consumidores-sobre-su-privacidad-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DA7QT27BFBE2XD2RPU5BCGQDSE.jpg?auth=18a1ee55b5b159f296c33c1625c83a331ca534927a356dc04a5ff1f18d5ce4f3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:31",
+     "autor": "",
+     "titulo_original": "Deberá pagar US$25.000 millones: condenan a Meta por engañar a consumidores sobre su privacidad"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "Estados Unidos ordena evacuar a su personal de la embajada en Arabia Saudita",
+     "resumen": "Washington dispuso la evacuación de ciudadanos y familias del personal de su embajada ante ataques hutíes, en medio de tensiones con Irán. Riad interceptó drones dirigidos a Medina, mientras un medio iraní informó, por separado, de explosiones cerca del estrecho de Ormuz.",
+     "relacionadas": [
+      {
+       "id": "CL-06",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Medio iraní informa de explosiones cerca del estrecho de Ormuz",
+       "url": "https://www.clarin.com/estados-unidos/medio-irani-informa-de-explosiones-cerca-del-estrecho-de-ormuz_0_D2M17cIzO7.html"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/eeuu-ordena-la-evacuacion-de-sus-ciudadanos-y-familias-de-la-embajada-en-arabia-saudita_0_DrC2cqI8Da.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "EEUU ordena la evacuación de sus ciudadanos y familias de la embajada en Arabia Saudita"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "el premier británico confirmó ante el Parlamento las más firmes medidas para defender las Malvinas",
+     "resumen": "El primer ministro del Reino Unido ratificó que su gobierno mantendrá las medidas más firmes para defender la soberanía británica sobre las islas, en respuesta a un legislador que le exigió oponerse al intento argentino de frenar la explotación petrolera en el archipiélago ante el Tribunal Internacional del Derecho del Mar.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-primer-ministro-britanico-confirmo-ante-el-parlamento-las-mas-firmes-medidas-para-defender-las-malvinas/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZT65ETW72FDY7EVYKHWJDSXXNE.jpg?auth=3d5136cdc0a2f88aa6e6f9c545162421b6a36920bbabc658e61071f5fd690aa7&smart=true&width=900&height=626",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:43",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El premier británico confirmó ante el Parlamento “las más firmes medidas“ para defender las Malvinas"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "el frente digital de los disturbios en Francia",
+     "resumen": "El excomisario europeo Thierry Breton advirtió que Francia perdió el control de su frontera informativa tras los disturbios del 17 de octubre, un fenómeno que compara con la crisis migratoria de Ceuta del verano pasado y que, a su juicio, amenaza la estabilidad de los sistemas democráticos si no se recupera el control de las plataformas digitales.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/21/el-planeta-se-quema-los-medios-miran-a-otro-lado/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/doodle-jour-de-la-terre-earth-day-125x70.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "13:52",
+     "autor": "Louis Puel",
+     "titulo_original": "El planeta se está quemando. Los medios de comunicación miran para otro lado"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "la guerra en Ucrania se extiende al espacio",
+     "resumen": "Un satélite militar ruso, el Kosmos 2612, siguió durante semanas en la misma órbita a un satélite de radar occidental, el ICEYE-X36, hasta ubicarse a apenas 200 metros de distancia antes de cambiar de órbita. El episodio se suma a otros ataques recientes contra instalaciones de Starlink en Europa.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/21/guerra-en-ucrania-se-extiende-al-espacio/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/ICEYE-125x54.png",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "13:43",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La guerra en Ucrania se extiende al espacio"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CL-02",
+     "titulo": "Leandro Paredes, el genio que hizo delirar a Boca en la Copa Sudamericana",
+     "resumen": "El capitán, que convirtió el gol de la clasificación ante Vasco da Gama en el Maracaná, habló con Clarín tras otra actuación consagratoria apenas once días después de un desgarro: \"jugar una final es lo que soñé desde chiquito\".",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Rodolfo Arruabarrena, del plan perfecto para meter a Boca en la final de la Sudamericana a la honestidad brutal: \"Si no ganamos nada, me tendré que ir a la mierda\"",
+       "url": "https://www.clarin.com/deportes/rodolfo-arruabarrena-plan-perfecto-meter-boca-final-sudamericana-honestidad-brutal-ganamos-ir-mierda_0_0B8k5YYKar.html"
+      },
+      {
+       "id": "CL-21",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La alegría de Daniel Osvaldo desde el hospital: así vivió la clasificación de Boca a la final de la Copa Sudamericana",
+       "url": "https://www.clarin.com/deportes/alegria-daniel-osvaldo-hospital-vivio-clasificacion-boca-final-copa-sudamericana_0_JEMn9CxBuQ.html"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“No se puede despertar”: la pareja del capitán de Vasco Da Gama mostró en video cómo le impactó la derrota ante Boca",
+       "url": "https://www.infobae.com/deportes/2026/10/21/no-se-puede-despertar-la-pareja-del-capitan-de-vasco-da-gama-mostro-en-video-como-le-impacto-la-derrota-ante-boca/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/leandro-paredes-genio-froto-lampara-hacer-delirar-boca-copa-sudamericana-jugar-final-sone-chiquito_0_MRKt5y9Zhv.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/B774DSuQo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Leandro Paredes, el genio que frotó la lámpara para hacer delirar a Boca en la Copa Sudamericana: \"Jugar una final es lo que soñé desde chiquito\""
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Nico Paz se consagró figura y le abre un lindo problema a Scaloni",
+     "resumen": "El futbolista nacido en Tenerife, que eligió jugar para la Selección Argentina, convirtió un doblete y dio una asistencia para hundir al Manchester United en la goleada 4-1 del Como, en la tercera fecha de la Champions League.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Bayern Múnich y Arsenal igualaron 2-2 en un choque de favoritos en la Champions League: todos los goles del día",
+       "url": "https://www.infobae.com/deportes/2026/10/21/el-como-de-nico-paz-jugara-ante-manchester-united-y-el-leipzig-de-demichelis-contra-real-madrid-la-agenda-del-cierre-de-la-fecha-3-de-la-champions-league/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/nico-paz-recibio-crack-abre-lindo-problema-scaloni-doblete-asistencia-hundir-manchester-united-champions_0_DUbkqwZ9Wq.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/xXb78yxPe_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:23",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Nico Paz se recibió de crack y le abre un lindo problema a Scaloni: doblete y asistencia para hundir al Manchester United en Champions"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Champions League: goleada del Real Madrid, triunfos de Inter y Aston Villa y los goles de Nico Paz",
+     "resumen": "La tercera fecha se completó con una jornada cargada de goles: Real Madrid le ganó 4-1 a Leipzig, dirigido por Martín Demichelis; Arsenal empató 2-2 con Bayern Múnich; Aston Villa venció 4-1 a Viking con gol de Emiliano Buendía; e Inter superó 1-0 a Shakhtar jugando con diez hombres.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KZTCPUYQYNAA5P7SO4YXTH3ITY.JPG?auth=9f52232d3edd3f47df389168a426798917b35c1328df7e168394530521bede94&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "Champions League: gol de Buendía, goleada de Real Madrid ante Leipzig de Demichelis y los goles de Nico Paz"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "la AFA está a una firma de anunciar la continuidad de Lionel Scaloni al frente de la Selección",
+     "resumen": "La entidad y el entrenador tienen todo acordado para que siga al mando hasta 2030, con un contrato del tipo \"dos más dos\": dos años hasta la Copa América de 2028, con renovación automática hasta el Mundial 2030.",
+     "relacionadas": [
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cómo siguen las negociaciones entre la AFA y Scaloni: cuándo podría anunciarse la decisión final",
+       "url": "https://www.infobae.com/deportes/2026/10/21/como-siguen-las-negociaciones-entre-la-afa-y-scaloni-cuando-podria-anunciarse-la-decision-final/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/la-afa-esta-a-una-firma-de-anunciar-la-continuidad-de-lionel-scaloni-al-frente-de-la-seleccion-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZK36DHYLDBGKNFO3OCSFVZRBCE.jpg?auth=1af8e933ad0a51a3d34bdffe239a4158f00d6357b9913df05fc5b62009881b57&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:58",
+     "autor": "",
+     "titulo_original": "La AFA está a una firma de anunciar la continuidad de Lionel Scaloni al frente de la selección argentina"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "el desolador descargo del candidato a ganar el Balón de Oro que se rompió los ligamentos",
+     "resumen": "El extremo del Paris Saint-Germain Khvicha Kvaratskhelia sufrió la rotura del ligamento cruzado anterior de la rodilla derecha tras la victoria del equipo ante el Barcelona, y quedará afuera de lo que resta de la temporada. El futbolista compartió un descargo en redes sociales y recibió el apoyo de Cristiano Ronaldo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/21/por-que-a-mi-el-desolador-descargo-del-candidato-a-ganar-el-balon-de-oro-que-se-rompio-los-ligamentos-y-el-mensaje-de-consuelo-de-cristiano-ronaldo/",
+     "imagen": "https://www.infobae.com/resizer/v2/VCZMSMOKMNFMZCHPVXXZPHRNN4.jpg?auth=9aa3d4f0c574784cd8e3c9378e51ca2137203202302c48e3d37b6a0aa1a5bea8&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:56",
+     "autor": "",
+     "titulo_original": "“¿Por qué a mí?”: el desolador descargo del candidato a ganar el Balón de Oro que se rompió los ligamentos y el mensaje de consuelo de Cristiano Ronaldo"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Palmeiras y Fluminense definen esta noche al segundo finalista de la Copa Libertadores",
+     "resumen": "El Verdão y el Flu se enfrentan desde las 21.30 en el Nubank Parque de San Pablo por la vuelta de las semifinales. En la ida, disputada en el Maracaná, Palmeiras había ganado 2-1 con goles de José Manuel \"Flaco\" López y Marlon Freitas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-hoy-palmeiras-vs-fluminense-por-la-vuelta-de-las-semifinales-de-la-copa-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RJGOSGCAYJC7ZBUAY72O4CQV2A.jpg?auth=71770b534cc82bb331015009be6f877557ec654159f276685e79e8aab7fe078c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "En qué canal pasan hoy Palmeiras vs. Fluminense, por la vuelta de las semifinales de la Copa Libertadores 2026"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Franco Colapinto vuelve a correr con Alpine en la decimoctava fecha de la Fórmula 1",
+     "resumen": "El piloto argentino volverá a sentarse en el monoplaza francés en busca de regresar a los puntos, luego de una seguidilla negativa en Asia, e intentará comenzar de la mejor manera la gira americana.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-vuelve-correr-alpine-cuando-donde-y-que-hora-sera-la-decimoctava-fecha-la-formula-1-n6336446",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:51",
+     "autor": "",
+     "titulo_original": "Franco Colapinto vuelve a correr con Alpine: cuándo, dónde y a qué hora será la decimoctava fecha de la Fórmula 1"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Sociedad",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "rayo en el Jockey Club de San Isidro: de quién eran los cuatro caballos muertos",
+     "resumen": "Los animales, estimados en entre 20.000 y 30.000 dólares cada uno, estaban atados a un cable de acero cuando un rayo impactó sobre la estructura y les provocó la muerte inmediata, mientras esperaban para entrenar en una práctica de polo que se había suspendido por el mal tiempo.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Por qué los caballos son tan vulnerables a los rayos y qué les pasó a los animales que murieron en el Jockey Club de San Isidro",
+       "url": "https://www.lanacion.com.ar/sociedad/por-que-los-caballos-son-tan-vulnerables-a-los-rayos-y-que-les-paso-a-los-animales-que-murieron-en-nid21102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/rayo-jockey-club-san-isidro-caballos-muertos-detalles-tragico-momento_0_CMQa0xNXnN.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/VlZGFynfk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:34",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Rayo en el Jockey Club de San Isidro: de quién eran los cuatro caballos muertos y los detalles del trágico momento"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "\"voy al hospital a divertirme con los niños\": en Mendoza acompaña a chicos con cáncer desde hace 16 años",
+     "resumen": "Mercedes Carrión, una de las ocho Abanderadas 2026, lidera desde 2010 la Asociación Tras-Pasar, que asistió a más de 1.800 familias de niños y adolescentes en tratamiento oncológico, ayudándolos además a cumplir sueños como recibir el saludo de sus ídolos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/voy-hospital-divertirme-ninos-mendoza-acompana-chicos-cancer-hace-16-anos_0_9wCfhfKK1h.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/5zCUx7Hyg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "“Voy al hospital a divertirme con los niños”: en Mendoza acompaña a chicos con cáncer desde hace 16 años"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Nación desreguló a un grupo de médicos del IOMA: ¿puede ser un antecedente para otros afiliados?",
+     "resumen": "El Ministerio de Salud permitió que 64 residentes del hospital El Cruce puedan elegir dónde derivar sus aportes, una decisión que podría sentar precedente para otros afiliados de una obra social que tiene más de 2 millones de beneficiarios cautivos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/nacion-desregulo-grupo-medicos-ioma-puede-antecedente-afiliados_0_jXRs1vS2Qa.html",
+     "imagen": "https://www.clarin.com/img/2026/01/09/3YSbyzBFF_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Nación desreguló a un grupo de médicos del IOMA: ¿puede ser un antecedente para otros afiliados?"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "llegan las tormentas al AMBA y hay alerta por posible caída de granizo",
+     "resumen": "Las condiciones atmosféricas aceleraron el ingreso de agua al Área Metropolitana de Buenos Aires, con ráfagas y riesgo de granizo, según el Servicio Meteorológico Nacional, que prevé un ciclo húmedo e inestable que se extenderá durante varios días.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/21/llegan-las-tormentas-al-amba-y-hay-alerta-por-posible-caida-de-granizo-que-dice-el-pronostico-extendido/",
+     "imagen": "https://www.infobae.com/resizer/v2/EGCI5KCACRGHZAJDELQNSFXW3Q.jpg?auth=aae73d3e7e4fa38e6230fec23bd57c890bd5d88ac25f34fbe47d7ee9095cdfe2&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:49",
+     "autor": "",
+     "titulo_original": "Llegan las tormentas al AMBA y hay alerta por posible caída de granizo: qué dice el pronóstico extendido"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del miércoles veintiuno de octubre.\n\nEl dólar oficial cerró hoy en mil quinientos cuarenta y cinco pesos para la venta, el dólar blue en mil quinientos sesenta y cinco pesos, y el oro cotiza en torno a los cuatro mil ciento cincuenta y nueve dólares la onza. El riesgo país se mantiene cerca de los seiscientos setenta puntos, aunque circularon mediciones algo más bajas durante la rueda.\n\nLa tarde estuvo marcada por un nuevo escándalo de Javier Milei en Madrid, una alerta mundial de ciberseguridad, la confirmación de que el papa León Catorce podrá viajar a la Argentina en noviembre, y la clasificación de Boca Juniors a la final de la Copa Sudamericana.\n\nEn política, Javier Milei volvió a generar polémica en España: llamó corta intelectualmente y miserable político a una periodista de la Cadena Ser, y varios diarios españoles, entre ellos El País, calificaron su actitud de inaceptable. Desde el Gobierno explicaron que la venda que el Presidente lleva en el cuello se debe a un corte al afeitarse, aunque otra versión oficial habló de un golpe al salir de la bañadera. En Buenos Aires, una Cámara de Apelaciones suspendió la cautelar que frenaba el tarifazo eléctrico bonaerense dispuesto en agosto, tras una apelación del gobierno de Axel Kicillof, de modo que el aumento ya podrá aplicarse. Cristina y Máximo Kirchner podrán participar en forma virtual de la primera audiencia del juicio unificado por Hotesur y Los Sauces, que arranca el viernes, y la expolémica procuradora Alejandra Gils Carbó fue indagada en el juicio por la compra del edificio de la Procuración General. En Diputados, tras aprobar la Ley de Inviolabilidad de la Propiedad Privada, la Cámara sigue debatiendo discapacidad y endeudamiento familiar. Y en el Consejo de la Magistratura, tras el resultado en el estamento de los abogados, la discusión pasa ahora a diputados y senadores.\n\nEn economía y mercados, el Indec confirmó que la actividad económica apenas mejoró cero coma uno por ciento en agosto, tras el derrumbe de casi tres por ciento de julio, y acumula una caída interanual de uno coma siete por ciento, aunque Vaca Muerta y la minería treparon once por ciento; el crecimiento acumulado del año se redujo a uno coma dos por ciento. Los salarios registrados, en cambio, le ganaron a la inflación por tercer mes consecutivo: subieron dos coma seis por ciento en agosto y acumulan veintiuno coma cinco por ciento en los primeros ocho meses, aunque todavía no recuperan lo perdido en el año. Los bonos recuperaron terreno y el riesgo país bajó a seiscientos sesenta y uno según El Cronista, y los ADR argentinos en Nueva York llegaron a subir hasta cuatro coma seis por ciento. Y un informe del instituto IAE remarcó que, pese a que el producto bruto creció cinco coma ocho por ciento desde fines de dos mil veintitrés, el empleo registrado cayó cerca de cuatro por ciento.\n\nEn negocios y empresas, las exportaciones de petróleo de Medio Oriente volvieron a superar los niveles previos a la guerra con Irán, con rutas alternativas que evitan el estrecho de Ormuz. En la Argentina, Total avanza con pozos submarinos eléctricos en la cuenca austral para producir gas, mientras PAE combina drones y polímeros para sostener su producción en el Golfo San Jorge. Un informe de Boston Consulting Group proyectó que el mercado argentino de pagos digitales crecerá cinco coma cinco por ciento anual hasta dos mil treinta. Y Colonia Express obtuvo la autorización para una nueva ruta de ferry directa entre Buenos Aires y Montevideo, que arrancaría en diciembre.\n\nEn impuestos, laboral y normativa, la Corte Suprema confirmó la condena por despido discriminatorio a una empresa que dejó cesante a un empleado poco después de detectarse que tenía VIH, un antecedente que eleva el riesgo de demandas para quien despida sin una causa objetiva. El Ministerio de Capital Humano homologó diecinueve acuerdos colectivos en distintos sectores, los encargados de edificios ya conocen su escala salarial de noviembre, y ARCA recordó que el monotributo también puede pagarse con código QR desde una billetera digital.\n\nEn consumo, construcción y retail, un relevamiento mostró que una familia puede ganar lo suficiente para afrontar las cuotas de un crédito hipotecario y aun así seguir lejos de comprar una vivienda propia; para una empresa de productos para el hogar, el crédito sigue siendo la principal traba para la demanda de vivienda nueva. La cadena de heladerías Lucciano's ya suma cien locales propios y franquiciados, y Carboclor, del grupo estatal uruguayo Ancap, habilitó un puerto privado en Campana que consolida su negocio logístico; para una empresa con distribución propia, más terminales privadas sobre el Paraná de las Palmas puede facilitar la logística de cargas.\n\nEn management y finanzas corporativas, directivos de distintas empresas coincidieron en que transformar una organización exige también revisar cómo se lidera a los equipos: escuchar más, delegar y aceptar el error como parte del aprendizaje, y que crecer profesionalmente exige construir equipos capaces de ir más allá de una sola persona. Y compañías como Cushman and Wakefield, Adidas y Santander detallaron cómo reducen consumos, emisiones y residuos de cara a la agenda dos mil treinta.\n\nEn el mundo, una alerta de ciberseguridad sacudió a gobiernos y empresas: tras detectarse con inteligencia artificial dos vulnerabilidades críticas en el lenguaje de programación PHP, que llevaban más de diez años ocultas, Finlandia y los Países Bajos desconectaron preventivamente portales oficiales y la Fundación Wikimedia hizo lo propio. Estados Unidos ordenó evacuar a su personal y a las familias de su embajada en Arabia Saudita ante ataques hutíes, mientras un medio iraní informó de explosiones cerca del estrecho de Ormuz. En Brasil, a cuatro días del balotaje, una encuesta de Quaest mostró un empate técnico entre Lula da Silva, con cuarenta y cuatro por ciento, y Flavio Bolsonaro, con cuarenta y cinco. En Estados Unidos, un juez de Nuevo México condenó a Meta a pagar veinticinco mil millones de dólares por engañar a sus consumidores sobre el uso de sus datos, ligado al escándalo de Cambridge Analytica. Y en el Reino Unido, el primer ministro ratificó ante el Parlamento que continuará con las medidas más firmes para defender la soberanía británica sobre las Malvinas.\n\nLe Grand Continent analiza que Francia perdió el control de su frontera informativa tras los disturbios del diecisiete de octubre, un fenómeno que el excomisario europeo Thierry Breton compara con la crisis migratoria de Ceuta del año pasado, y reconstruye cómo un satélite militar ruso siguió durante semanas a un satélite de radar occidental en la misma órbita, en una tensión creciente por el control del espacio.\n\nEn deportes, Boca Juniors jugará la final de la Copa Sudamericana después de eliminar a Vasco da Gama en el Maracaná: Leandro Paredes, once días después de un desgarro, convirtió el gol de la clasificación, el entrenador Rodolfo Arruabarrena fue honesto sobre la exigencia del club, y el exdelantero Daniel Osvaldo festejó desde la cama de un hospital. En la Champions League, Nico Paz volvió a ser figura con un doblete y una asistencia en la goleada cuatro a uno del Como sobre el Manchester United, Bayern Múnich y Arsenal empataron dos a dos, y hubo triunfos de Real Madrid, Aston Villa, Inter y Brujas. La AFA está a una firma de confirmar la continuidad de Lionel Scaloni al frente de la Selección hasta dos mil treinta, con un contrato de dos más dos años. En España, Khvicha Kvaratskhelia, del Paris Saint Germain, se rompió los ligamentos cruzados y quedará afuera de lo que resta de la temporada, con el apoyo público de Cristiano Ronaldo. Esta noche, Palmeiras y Fluminense definen en San Pablo al segundo finalista de la Copa Libertadores. Y en la Fórmula Uno, Franco Colapinto vuelve a subirse al auto de Alpine, buscando sumar puntos tras una seguidilla negativa en Asia.\n\nEn sociedad, cuatro caballos de polo murieron electrocutados cuando un rayo impactó sobre el cable al que estaban atados en el Jockey Club de San Isidro. En Mendoza, Mercedes Carrión fue elegida una de las ocho Abanderadas del año por acompañar desde hace dieciséis años a chicos con cáncer en el hospital. El Ministerio de Salud desreguló a un grupo de médicos del IOMA para que elijan dónde derivar sus aportes, y el Servicio Meteorológico Nacional mantiene la vigilancia sobre el Área Metropolitana de Buenos Aires por tormentas y posible caída de granizo.\n\nEso fue todo por ahora. Mañana a las siete, la próxima edición.",
+ "notas_del_editor": "La sección Turismo no incluye notas en esta edición porque la ventana de seis horas no trajo contenido nuevo sobre destinos; las ediciones de la mañana y el mediodía ya cubrieron Villa Meliquina, Ushuaia y Malta, con un destino argentino en ambos casos. La sección Europa y geopolítica solo trae dos notas porque el feed de Le Grand Continent aportó apenas dos artículos nuevos en esta corrida. No hubo novedades de Franco Colapinto más allá del próximo Gran Premio, ni de Club Atlético Tigre, en el material de esta ventana.",
+ "slug": "2026-10-21-tarde",
+ "generado_ba": "21/10/2026 21:20"
+}
