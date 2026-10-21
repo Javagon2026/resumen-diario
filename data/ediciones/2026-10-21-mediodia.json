@@ -1,0 +1,970 @@
+{
+ "fecha": "2026-10-21",
+ "edicion": "mediodia",
+ "titulo": "Milei agita España, Diputados vota leyes clave y Boca apunta a cinco títulos",
+ "apertura": "La visita de Javier Milei a España escaló con insultos a una periodista y el faltazo del rey Felipe, mientras el Gobierno negocia en el Senado la suspensión de las PASO y el fiscal Gerardo Pollicita avanza en la causa por las operaciones de oro del Banco Central. En paralelo, Diputados debate hoy un temario sensible con propiedad privada, discapacidad y endeudamiento familiar, Grupo México abandonó la licitación del Belgrano Cargas y el mercado espera el dato de actividad económica de agosto del INDEC. Boca ya proyecta una temporada de hasta cinco títulos tras clasificar a la final de la Copa Sudamericana, mientras Ucrania aceptó por primera vez congelar el frente de batalla con Rusia.",
+ "claves": [
+  "El Gobierno negocia la suspensión de las PASO: Patricia Bullrich delegó la negociación en Diego Santilli y en el Senado todavía no aparecen los votos necesarios.",
+  "El fiscal Gerardo Pollicita pidió informes técnicos para investigar pérdidas de US$ 1.023 millones en operaciones de oro del Banco Central, con el ministro Caputo y el titular del BCRA, Bausili, apuntados.",
+  "Milei insultó a una periodista de la Cadena Ser en Madrid y el PSOE le respondió con dureza; la Casa Real le negó un encuentro con el rey Felipe VI.",
+  "Grupo México se bajó de la licitación del Belgrano Cargas, que prometía US$ 3.000 millones de inversión; quedan en carrera empresas locales y un consorcio cerealero.",
+  "Diputados sesiona este miércoles con un temario que incluye propiedad privada, discapacidad, endeudamiento familiar y Ley de Tierras, con el quórum asegurado por el oficialismo.",
+  "El INDEC difunde hoy el dato de actividad económica de agosto, tras una caída de 2,9% mensual en julio.",
+  "Boca Juniors clasificó a la final de la Copa Sudamericana y, si corona el año, podría sumar hasta cinco títulos en 59 días.",
+  "Ucrania aceptó por primera vez congelar las líneas del frente con Rusia, que acordó reanudar las negociaciones trilaterales con Estados Unidos desde el 10 de noviembre."
+ ],
+ "cifras": [
+  {
+   "nombre": "Actividad económica (EMAE), julio",
+   "valor": "-2,9% mensual",
+   "variacion": "-1,4% interanual",
+   "fuente": "CR-08"
+  },
+  {
+   "nombre": "Inflación proyectada para fin de 2026 (JP Morgan)",
+   "valor": "29,4%",
+   "fuente": "CR-16"
+  },
+  {
+   "nombre": "Seguro de desempleo, beneficiarios",
+   "valor": "127.000",
+   "variacion": "+30% interanual",
+   "fuente": "IP-17"
+  },
+  {
+   "nombre": "Boleto mínimo de colectivo en Bariloche",
+   "valor": "$ 2.333",
+   "fuente": "IB-23"
+  },
+  {
+   "nombre": "Empresas cerradas durante la gestión (IAE)",
+   "valor": "29.000",
+   "variacion": "PBI acumulado +5,8%",
+   "fuente": "IP-16"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "El Gobierno negocia la suspensión de las PASO y Diputados abre una sesión maratónica mientras avanza la causa judicial por el oro del Banco Central.",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "el fiscal Pollicita pidió informes para investigar pérdidas de US$ 1.023 millones en el oro del Banco Central",
+     "resumen": "El fiscal federal Gerardo Pollicita requirió medidas previas en la denuncia contra el ministro de Economía, Luis Caputo, el presidente del BCRA, Santiago Bausili, y el director Juan Curutchet, para recabar documentación técnica sobre operaciones con el oro de las reservas. La presentación judicial, impulsada por el abogado Gregorio Dalbón, se originó en un informe de la Auditoría General que estimó pérdidas por US$ 1.023 millones.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/oro-del-banco-central-la-fiscalia-pidio-informes-para-investigar-las-operaciones-que-habrian-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5MMQYGY7GRD6RBSNEY6FDC2EBU.jpg?auth=b2050d5a3c61a2ff11c8954ac3ec51c2bafcd9b420295f941435db204a35e6fc&smart=true&width=900&height=626",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:12",
+     "autor": "",
+     "titulo_original": "Oro del Banco Central: la fiscalía pidió informes para investigar las operaciones que habrían generado pérdidas por US$1023 millones"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "bajo secreto militar, el Gobierno evalúa submarinos y fragatas por US$ 3.500 millones",
+     "resumen": "El Ejecutivo avanza con el rearme de las Fuerzas Armadas bajo reserva militar e incluyó US$ 3.500 millones en el presupuesto para la compra de submarinos y dos fragatas. Las negociaciones incluyen conversaciones con Francia por los sumergibles y con Estados Unidos por el sistema de armas de los aviones F-16 y la actualización del sistema de defensa antiaérea, con nuevos radares y drones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467117-bajo-secreto-las-opciones-de-submarinos-que-evalua-el-gobierno",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/600792.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:34",
+     "autor": "",
+     "titulo_original": "Bajo secreto militar, estas son las opciones de submarinos que evalúa el Gobierno"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "Bullrich deja la negociación de las PASO en manos de Santilli y crecen las dudas por los votos en el Senado",
+     "resumen": "La jefa del bloque libertario se corrió de la negociación con los gobernadores y dejó en manos del jefe de Gabinete, Diego Santilli, la tarea de conseguir los respaldos para eliminar las PASO. El proyecto necesita 37 votos en el Senado por tratarse de una reforma de la ley electoral, y esa mayoría todavía no aparece con claridad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/bullrich-deja-la-negociacion-en-manos-de-santilli-y-crecen-las-dudas-por-los-votos-en-el-senado/",
+     "imagen": "https://www.cronista.com/resizer/v2/6M2AJQ6C7FGEXC3EJ3MNDA7APE.png?auth=df16491ea702539188bf3148ee2fc15f02f844c50bb2bd3423988b52d4f14489&smart=true&width=900&height=640",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:08",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Bullrich deja la negociación en manos de Santilli y crecen las dudas por los votos en el Senado"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Diputados sesiona este miércoles por discapacidad, endeudamiento familiar y propiedad privada",
+     "resumen": "La Cámara de Diputados trata este miércoles al mediodía un temario que incluye los proyectos de Inviolabilidad de la Propiedad Privada, Discapacidad y Morosidad o endeudamiento familiar, además de la restitución de límites a la extranjerización de tierras rurales que había frenado la Corte Suprema. El oficialismo llega con el quórum prácticamente asegurado, mientras la oposición busca aprovechar el debate para sus propias iniciativas.",
+     "relacionadas": [
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El oficialismo lleva a sesión de Diputados su versión de discapacidad, morosidad e Inviolabilidad de la Propiedad Privada",
+       "url": "https://www.ambito.com/politica/el-oficialismo-lleva-sesion-diputados-su-version-discapacidad-morosidad-e-inviolabilidad-la-propiedad-privada-n6335931"
+      },
+      {
+       "id": "CR-25",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Con quórum asegurado, el Gobierno enfrenta una sesión maratónica: Propiedad Privada, endeudamiento y discapacidad",
+       "url": "https://www.cronista.com/economia-politica/con-el-quorum-asegurado-el-gobierno-enfrenta-una-sesion-maratonica-propiedad-privada-endeudamiento-y-discapacidad/"
+      },
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Día clave en Diputados: uno por uno, los proyectos que se votan y qué cambios proponen",
+       "url": "https://www.cronista.com/economia-politica/dia-clave-en-diputados-uno-por-uno-los-proyectos-que-se-votan-y-que-cambia-con-cada-iniciativa/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/21/diputados-en-vivo-ultimas-noticias-del-debate-sobre-discapacidad-endeudamiento-familiar-y-propiedad-privada/",
+     "imagen": "https://www.infobae.com/resizer/v2/KCCOIWLA7VHYPINOIVE445RWYE.jpg?auth=c3954db1854a3e5d6035a02d4b3b903471f24d983f3307c3506a5fae55c468c9&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:19",
+     "autor": "",
+     "titulo_original": "Diputados, en vivo: últimas noticias del debate sobre discapacidad, endeudamiento familiar y propiedad privada"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "\"Yategate\": volvieron a rechazar un pedido de Insaurralde para apartar al fiscal que lo investiga",
+     "resumen": "La Cámara Federal de La Plata ratificó al fiscal Sergio Mola en la causa que investiga a Martín Insaurralde por enriquecimiento ilícito y lavado de dinero, tras un nuevo pedido de apartamiento rechazado por el tribunal.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/yategate-volvieron-rechazar-pedido-insaurralde-apartar-fiscal-investiga_0_H3W5mpnfq5.html",
+     "imagen": "https://www.clarin.com/img/2024/04/11/R2Q1Tu4Vq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Yategate\": volvieron a rechazar un pedido de Insaurralde para apartar al fiscal que lo investiga"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "cuándo son las elecciones 2027 en la Argentina: todas las fechas clave",
+     "resumen": "La elección presidencial general de 2027 debe realizarse dentro de los dos meses anteriores al fin del mandato en curso, por lo que la primera vuelta se ubicaría el domingo 24 de octubre. En caso de requerirse un balotaje, este debe celebrarse dentro de las semanas siguientes según el calendario electoral vigente.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/cuando-son-las-elecciones-2027-en-la-argentina-todas-las-fechas-clave-nid08102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WEIQPPWZ4VHNXMEO7BPIIJ3IYM.jpg?auth=599d908dd8437cc0d0ad769ecfd2d6118d09b81bac66d391b99189a39690e36c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:34",
+     "autor": "",
+     "titulo_original": "¿Cuándo son las elecciones 2027 en la Argentina? Todas las fechas clave"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "intro": "El mercado espera el dato de actividad económica de agosto mientras crece el malestar social por los ingresos y el crédito.",
+   "notas": [
+    {
+     "id": "AM-20",
+     "titulo": "se conoce hoy el dato de actividad económica de agosto: prevén un rebote acotado tras el desplome de julio",
+     "resumen": "El INDEC difundirá este miércoles el EMAE de agosto, luego de la caída mensual de 2,9% y la baja interanual de 1,4% registradas en julio. Las consultoras anticipan una recuperación parcial, aunque advierten que el tercer trimestre podría cerrar en terreno negativo y dejar a la economía al borde de una recesión técnica.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Actividad económica: el INDEC publica el dato clave de agosto, ¿qué anticipan las consultoras?",
+       "url": "https://www.cronista.com/economia-politica/actividad-economica-el-indec-publica-el-dato-clave-de-agosto-que-anticipan-las-consultoras/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/se-conoce-hoy-el-dato-actividad-economica-agosto-preven-un-rebote-acotado-el-desplome-julio-n6336180",
+     "imagen": "https://media.ambito.com/p/d1f0bcb09201673744f337c0dd23f3f2/adjuntos/239/imagenes/043/585/0043585559/1200x675/913x374:933x394/industria-empleo-pymes-actividad-economica.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:24",
+     "autor": "",
+     "titulo_original": "Se conoce hoy el dato de actividad económica de agosto: prevén un rebote acotado tras el desplome de julio"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "\"la gente no llega a fin de mes\": qué dijo el autor de la encuesta que irritó a Milei",
+     "resumen": "Claudio Montiel, director de la consultora Zentrix, defendió el relevamiento que indicó que los ingresos de dos de cada tres argentinos alcanzan para vivir hasta el día 20 de cada mes, proporción que sube a 72% entre los menores de 40 años y a 83,3% en la clase baja. El presidente Javier Milei había cuestionado el estudio y calificado de \"muy pobres intelectualmente\" a quienes lo difundieron.",
+     "relacionadas": [
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Milei dudó de quienes no llegan a fin de mes, pero el 47,1% se endeuda, según una encuesta",
+       "url": "https://www.iprofesional.com/economia/467106-milei-dudo-del-dato-sobre-fin-de-mes-y-una-encuesta-midio-las-deudas"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/21/la-gente-no-llega-a-fin-de-mes-que-dijo-el-autor-de-la-encuesta-que-irrito-al-presidente-milei/",
+     "imagen": "https://www.infobae.com/resizer/v2/LJHYRPLKBZEYXCCDF6CXWUEARQ.jpg?auth=c73aea99f793c195dd0ea493010e590b88a3cf3319dd0d54112af8655f93f322&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:54",
+     "autor": "",
+     "titulo_original": "“La gente no llega a fin de mes”: qué dijo el autor de la encuesta que irritó al Presidente Milei"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "JP Morgan: las tres condiciones para que la inflación desacelere en el tramo final del año",
+     "resumen": "El banco proyecta que la inflación argentina cierre 2026 en 29,4%, pero condiciona ese escenario a que el tipo de cambio real se mantenga estable hasta diciembre, que se reviertan las subas estacionales y que pierdan intensidad los aumentos de tarifas y precios regulados.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El mercado espera un estancamiento de la inflación: qué bonos ve como los nuevos ganadores",
+       "url": "https://www.cronista.com/finanzas-mercados/el-mercado-espera-un-estancamiento-de-la-inflacion-que-bonos-ve-como-los-nuevos-ganadores/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/jp-morgan-las-tres-condiciones-para-que-la-inflacion-desacelere-en-el-tramo-final-del-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/7BIZH3H7OZBZBMM5SWNKIEX2JE.jpg?auth=931721890f6e4d772bdf360f8f2122e909f778eebf0d5bf39038c65ecc69a854&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:25",
+     "autor": "Santiago Escobar",
+     "titulo_original": "JP Morgan: las tres condiciones para que la inflación desacelere en el tramo final del año"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "el PBI subió 5,8% en la era Milei, pero el empleo privado cae y cerraron 29 mil empresas en el país",
+     "resumen": "Un informe del IAE detectó que se crean empresas pero en menor cantidad que las que cierran, con una pérdida de 186.000 puestos de trabajo formales. Para una empresa: el dato confirma que el crecimiento agregado no se traduce en más empleo registrado, lo que presiona sobre la demanda de materiales y consumo masivo.",
+     "relacionadas": [
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El seguro por desempleo creció casi 30% en 2026 y ya alcanza a más de 127.000 personas",
+       "url": "https://www.iprofesional.com/management/467051-el-seguro-por-desempleo-crecio-casi-30-por-ciento-en-2026-y-ya-alcanza-a-mas-de-127000-personas"
+      }
+     ],
+     "url": "https://www.iprofesional.com/management/467097-era-milei-sube-el-pbi-58-pero-cayeron-186-mil-empleos-formales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/07/600024.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:04",
+     "autor": "",
+     "titulo_original": "El PBI subió 5,8% en la era Milei, pero el empleo privado cae y cerraron 29 mil empresas en el país"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Galicia puede subir 97% y MercadoLibre más de 30%, según Morgan Stanley",
+     "resumen": "El banco estima que el Banco Galicia podría subir hasta 97% y MercadoLibre más de 30% en un año, y destaca además a Edenor y Central Puerto entre sus recomendaciones para la plaza argentina.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467096-mercadolibre-podria-subir-mas-de-30-por-ciento-en-un-ano-segun-morgan-stanley",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605016.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:10",
+     "autor": "",
+     "titulo_original": "Galicia puede subir 97% y MercadoLibre más de 30%, según Morgan Stanley"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "intro": "La privatización del Belgrano Cargas pierde a su principal oferente extranjero y avanza el debate por la ley de biocombustibles.",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "privatización del Belgrano Cargas: se bajó de la licitación el Grupo México, que prometía US$ 3.000 millones de inversión",
+     "resumen": "El principal grupo extranjero interesado en la concesión por 50 años no quedó conforme con los pliegos de la licitación, que empieza a definirse a partir del 11 de noviembre. Quedan en competencia empresas locales y un consorcio integrado por cerealeras.",
+     "relacionadas": [
+      {
+       "id": "IB-11",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Privatización del Belgrano Cargas: el único oferente extranjero abandonó la licitación a tres semanas de que se defina",
+       "url": "https://www.infobae.com/economia/2026/10/21/privatizacion-del-belgrano-cargas-el-unico-oferente-extranjero-abandono-la-licitacion-a-tres-semanas-de-que-se-defina/"
+      },
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Privatización del Belgrano Cargas: se bajó un jugador clave y cambia la pelea por la concesión",
+       "url": "https://www.cronista.com/economia-politica/privatizacion-del-belgrano-cargas-se-bajo-un-jugador-clave-y-cambia-la-pelea-por-la-concesion/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/privatizacion-belgrano-cargas-licitacion-grupo-mexico-prometia-us-3000-millones-inversion_0_wPBEfHeljB.html",
+     "imagen": "https://www.clarin.com/img/2026/03/21/V_Iebboex_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Privatización del Belgrano Cargas: se bajó de la licitación el Grupo México, que prometía US$ 3.000 millones de inversión"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "biocombustibles: las pymes piden elevar el corte del biodiésel y las aceiteras reclaman aprobar la ley sin cambios",
+     "resumen": "En una reunión informativa en Diputados, la cámara de pymes Cepreb propuso llevar la mezcla obligatoria de biodiésel al 12% o 12,5% para preservar su participación, mientras la cámara aceitera Ciara defendió el acuerdo que obtuvo media sanción en el Senado por 41 votos contra 25. El proyecto podría obtener dictamen la semana próxima.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Ley de Biocombustibles: tras la media sanción en el Senado, sigue la disputa entre las pymes y las exportadoras de biodiésel",
+       "url": "https://www.clarin.com/rural/ley-biocombustibles-media-sancion-senado-sigue-disputa-pymes-exportadoras-biodiesel_0_0EKdlfj93Y.html"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Biocombustibles: reparto del mercado genera ruido en Diputados entre las provincias",
+       "url": "https://www.ambito.com/politica/biocombustibles-reparto-del-mercado-genera-ruido-diputados-las-provincias-n6336171"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/campo/biocombustibles-las-pymes-pidieron-elevar-el-corte-del-biodiesel-y-las-aceiteras-reclamaron-aprobar-nid20102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/E6ZQBQHLW5HSPIJ3ZIGDWQLLPI.png?auth=3d17f6ba7f333a0162d32393cb5f330fa436e3953ef8d6a6e666e11a2d40f337&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:34",
+     "autor": "Belkis Martínez",
+     "titulo_original": "Biocombustibles: las pymes pidieron elevar el corte del biodiésel y las aceiteras reclamaron aprobar la ley sin cambios"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Elon Musk va por todo: su apuesta de US$ 3,6 billones para unir Tesla y SpaceX",
+     "resumen": "Musk confirmó que ambas compañías conformaron comités de directores independientes para estudiar una fusión que uniría cohetes, satélites, internet satelital, chatbots, redes sociales, robots y autos en una sola empresa. SpaceX ganó US$ 4.404 millones en el tercer trimestre, aunque el propio Musk advirtió que no hay garantías de que el acuerdo se concrete.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Elon Musk apoya la posible fusión de SpaceX y Tesla, valuada en u$s3,5 billones",
+       "url": "https://www.iprofesional.com/tecnologia/467112-musk-apoya-unir-spacex-y-tesla-en-un-gigante-de-us35-billones"
+      }
+     ],
+     "url": "https://www.cronista.com/financial-times/elon-musk-va-por-todo-su-apuesta-de-us-36-billones-para-unir-tesla-y-spacex/",
+     "imagen": "https://www.cronista.com/resizer/v2/VUXI6WLXRVCSBDDN7HETC6CNNU.jpg?auth=b43c1bd35c814ebe14ea3681a8f71e8cd715894c80a82855d544cc8fb6e118f5&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:05",
+     "autor": "Ryan McMorrow, Sujeet Indap, Stephen Morris",
+     "titulo_original": "Elon Musk va por todo: su apuesta de u$s 3,6 billones para unir Tesla y SpaceX"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "así serán los pozos submarinos que Total realizará en el mar para producir gas",
+     "resumen": "La petrolera de origen francés proyecta el desarrollo del Proyecto Alberdi con pozos submarinos eléctricos en la cuenca austral, una tecnología inédita en el país para la producción de gas offshore.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/467102-totalenergies-usara-pozos-submarinos-100-electricos-en-el-sur",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628024.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:26",
+     "autor": "",
+     "titulo_original": "Así serán los pozos submarinos que Total realizará en el mar para producir gas"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "PAE apuesta al petróleo convencional y al shale gas en el Golfo San Jorge",
+     "resumen": "Marcos Bulgheroni detalló la estrategia de la petrolera en Chubut, que combina drones, polímeros y desarrollo no convencional, en simultáneo con el avance de proyectos de GNL.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/467098-pae-aplica-ia-drones-y-polimeros-en-campos-maduros-de-chubut",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628022.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:45",
+     "autor": "",
+     "titulo_original": "PAE apuesta al petróleo convencional y shale gas en el Golfo San Jorge"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "intro": "ARBA lanza una moratoria y se discute si la factura de monotributista alcanza para desligar un vínculo laboral.",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "facturar como monotributista no impide reclamar una indemnización: qué cambió con la reforma laboral",
+     "resumen": "El encuadre tributario no garantiza por sí solo desligar un vínculo laboral si existe subordinación, según el análisis de los cambios introducidos por la reforma laboral. Para una empresa: el fallo eleva el riesgo de demandas por mala categorización de trabajadores facturados como monotributistas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/467109-monotributistas-reforma-laboral-relacion-dependencia-indemnizacion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/05/497406.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:40",
+     "autor": "",
+     "titulo_original": "Facturar como monotributista no impide reclamar una indemnización: qué cambió con la reforma laboral"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "ARBA lanza una moratoria con descuentos de hasta 40% para regularizar deudas",
+     "resumen": "El plan bonaerense comenzará el 26 de octubre y permitirá pagar en cuotas o al contado, con quitas de hasta 40% según el impuesto adeudado. Para una empresa: es una ventana para sanear pasivos fiscales provinciales antes de que cambien las condiciones en 2027.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467054-arba-lanza-una-moratoria-con-descuentos-de-hasta-40-por-ciento-para-regularizar-deudas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584905.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:50",
+     "autor": "",
+     "titulo_original": "ARBA lanza una moratoria con descuentos de hasta 40% para regularizar deudas"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "cuánto se paga por hora a las empleadas domésticas en noviembre y cuáles son los sueldos mensuales",
+     "resumen": "Los sueldos de las empleadas domésticas se actualizan en noviembre de 2026, con un aumento de 1,7% en octubre y 1,6% en noviembre que impacta en lo que se cobra por hora y por mes según la categoría y la modalidad de trabajo.",
+     "relacionadas": [
+      {
+       "id": "IP-23",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cuánto cobra la empleada doméstica por hora y mes con el aumento según la tarea",
+       "url": "https://www.iprofesional.com/impuestos/467092-cuanto-cobra-empleada-domestica-octubre-y-noviembre-segun-escala"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/467108-empleada-domestica-cuanto-cobrara-por-hora-y-por-mes-en-noviembre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/02/550247.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:10",
+     "autor": "",
+     "titulo_original": "Cuánto se paga por hora a las empleadas domésticas en noviembre y cuáles son los sueldos mensuales"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "cambios a la Ley de Vivienda Única: la renuncia a la protección solo podrá hacerse ante escribano",
+     "resumen": "La reforma exige escritura pública o acta notarial para renunciar a la inembargabilidad de la vivienda única, pide el consentimiento del cónyuge o conviviente y extiende la protección a las uniones convivenciales. Además limita al 1% los honorarios del escribano por esta gestión.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/cambios-la-ley-vivienda-unica-la-renuncia-la-proteccion-solo-podra-hacerse-escribano-n6336106",
+     "imagen": "https://media.ambito.com/p/1900052a94d908aca6583a756a5d49d0/adjuntos/239/imagenes/043/717/0043717757/1200x675/578x415:598x435/viviendas.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:44",
+     "autor": "",
+     "titulo_original": "Cambios a la Ley de Vivienda Única: la renuncia a la protección solo podrá hacerse ante escribano"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "cuánto cobrarán los recolectores de residuos y barrenderos en noviembre",
+     "resumen": "El acuerdo salarial del sector es de 9,9%, con vigencia entre septiembre y febrero, y además incluye un bono de $ 1.200.000 que se pagará a partir de enero.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467082-cuanto-cobraran-los-recolectores-de-residuos-y-barrenderos-en-noviembre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/603823.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:38",
+     "autor": "",
+     "titulo_original": "Cuánto cobrarán los recolectores de residuos y barrenderos en noviembre"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "El real estate porteño vuelve a mostrar el peso del financiamiento, mientras supermercados y franquicias compiten con promociones.",
+   "notas": [
+    {
+     "id": "CR-09",
+     "titulo": "comprar una vivienda en Buenos Aires: el costo extra que la hace una de las ciudades menos accesibles",
+     "resumen": "En relación precio de la propiedad e ingresos, Buenos Aires tiene un índice de 15,0 según Numbeo, por debajo de ciudades como San Salvador, Medellín o Bogotá. Pero al incorporar el costo del financiamiento hipotecario, la ciudad pasa a ubicarse entre las plazas menos accesibles de la región.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/comprar-una-vivienda-en-buenos-aires-el-costo-extra-que-la-hace-una-de-las-ciudades-menos-accesibles/",
+     "imagen": "https://www.cronista.com/resizer/v2/ULUPUC57QFHIPFVMVYQUCRSK6E.jpg?auth=1c8c0828cb7ce81072cd27326008d9c4738781fa68a4e12d3f67163fdd8b19ed&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:37",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Comprar una vivienda en Buenos Aires: el costo extra que la hace una de las ciudades menos accesibles"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "invierten US$ 120 millones en un hotel boutique de 500 habitaciones en pleno Palermo",
+     "resumen": "Un desarrollo inmobiliario en Palermo apuesta a transformar la oferta hotelera del barrio y sumar cientos de habitaciones nuevas al destino, en un proyecto que busca atraer inversores del sector turístico.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467103-hotel-mas-grande-palermo-invertir-desde-1000-oportunidad-unica-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628027.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:03",
+     "autor": "",
+     "titulo_original": "Invierten u$s120 millones en un hotel boutique de 500 habitaciones en pleno Palermo"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Coto lanzó un \"combo\" de pequeños electrodomésticos con hasta 50% de descuento",
+     "resumen": "En un escenario en el que el consumo continúa sin despegar, la cadena de supermercados apuesta a promociones agresivas en electrodomésticos chicos para incentivar las ventas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/467027-coto-vende-combo-de-dos-electrodomesticos-con-50-por-ciento-de-descuento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627961.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:25",
+     "autor": "",
+     "titulo_original": "Coto lanzó un \"combo\" de pequeños electrodomésticos con hasta 50% de descuento"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "el costo de poner una franquicia de supermercados DIA en 2026 y sus requisitos",
+     "resumen": "La cadena ofrece un modelo llave en mano para abrir una franquicia y estima que el capital invertido se recupera en 18 meses, según el relevamiento sobre qué incluye la propuesta y qué garantías exige.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467058-cuanto-cuesta-poner-una-franquicia-de-supermercados-dia-en-2026-y-que-requisitos-pide",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/569438.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:50",
+     "autor": "",
+     "titulo_original": "El costo de poner una franquicia de supermercados DIA en 2026 y sus requisitos"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "inflación: en qué provincias cuesta más llenar el changuito y en cuáles hubo mayores aumentos mensuales",
+     "resumen": "Un relevamiento sobre la canasta representativa de la clase media expone fuertes disparidades de precios de alimentos entre provincias y su impacto diferencial sobre los salarios locales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/inflacion-que-provincias-cuesta-mas-llenar-el-changuito-y-cuales-hubo-mayores-aumentos-mensuales-n6336188",
+     "imagen": "https://media.ambito.com/p/9f134e33c092b66082617b9280b2ce92/adjuntos/239/imagenes/029/784/0029784144/1200x675/smart/como-hacer-que-su-changuito-sea-lo-mas-saludable-posible.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:48",
+     "autor": "",
+     "titulo_original": "Inflación: en qué provincias cuesta más llenar el changuito y en cuáles hubo mayores aumentos mensuales"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "el nuevo mapa del bolsillo: menos ahorro, recorte de gastos y más deuda",
+     "resumen": "El empleo y los salarios ganan peso frente a la inflación como principales preocupaciones de los hogares, mientras más familias recurren a ahorros acumulados, recortes de consumo y endeudamiento para llegar a fin de mes.",
+     "relacionadas": [
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“La gente no llega a fin de mes”: qué dijo el autor de la encuesta que irritó al Presidente Milei",
+       "url": "https://www.infobae.com/economia/2026/10/21/la-gente-no-llega-a-fin-de-mes-que-dijo-el-autor-de-la-encuesta-que-irrito-al-presidente-milei/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/467100-ingresos-insuficientes-mas-argentinos-usan-ahorros-y-toman-deuda",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/07/579302.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:37",
+     "autor": "",
+     "titulo_original": "El nuevo mapa del bolsillo: menos ahorro, recorte de gastos y más deuda"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CR-26",
+     "titulo": "esta startup quiere desbancar a Nvidia y consiguió US$ 1.500 millones para crecer",
+     "resumen": "Tenstorrent, especializada en chips para inteligencia artificial, obtuvo US$ 1.500 millones en una ronda liderada por Trace Capital e Innovation X, con participación de ARK Invest, Morgan Stanley y Tether Investments, que elevó su valuación a US$ 6.200 millones. La empresa destinará los fondos a ampliar la producción de servidores para chatbots, asistentes de programación y generadores de video.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/it-business/esta-startup-quiere-desbancar-a-nvidia-y-consiguio-us-1500-millones-para-crecer-como-es-su-tecnologia/",
+     "imagen": "https://www.cronista.com/resizer/v2/UE3NNBG2KNA2NOOFXTHIHKFDAQ.jpg?auth=b8228b2fde746d4d661d6f8df1315649060e2d4da1f0e7ee9cdff99a4cae2f8d&smart=true&width=740&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:13",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "Esta startup quiere desbancar a Nvidia y consiguió u$s 1.500 millones para crecer: cómo es su tecnología"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "los inversores ganan menos que los fondos en los que invierten: qué explica la diferencia",
+     "resumen": "Un informe de Morningstar mostró que entre 2016 y 2025 los fondos de inversión de Estados Unidos rindieron en promedio 9,9% anual, pero el inversor promedio obtuvo apenas 8,7%, una brecha explicada por las decisiones de entrada y salida del mercado y no por el desempeño de los instrumentos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-inversores-ganan-menos-que-los-fondos-en-los-que-invierten-que-explica-la-diferencia/",
+     "imagen": "https://www.cronista.com/resizer/v2/JS27KMWK5ZEQ3NQXSDUEZLHRBI.jpg?auth=4b979a8021adb49748d886f92ffb31ca6a650797580362493e1bf95f3e3403a8&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:54",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Los inversores ganan menos que los fondos en los que invierten: qué explica la diferencia"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "retiro voluntario para empleados públicos 2026: el monto que pueden cobrar y quiénes pueden acceder",
+     "resumen": "El Gobierno abrió la inscripción para noviembre y fijó compensaciones de hasta 20 sueldos según la edad, los aportes y la antigüedad del empleado público que se acoja al programa.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/467055-retiro-voluntario-para-empleados-publicos-cuanto-pueden-cobrar-y-quienes-pueden-acceder",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598838.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:50",
+     "autor": "",
+     "titulo_original": "Retiro voluntario para empleados públicos 2026: el monto que pueden cobrar y quiénes pueden acceder"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "intro": "Zelensky acepta por primera vez congelar el frente con Rusia y la Unión Europea ratifica sus sanciones energéticas a Moscú.",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "qué territorios podría perder Ucrania si las fronteras con Rusia se fijan donde está hoy el frente de batalla",
+     "resumen": "El presidente ucraniano, Volodimir Zelensky, aceptó por primera vez congelar las líneas del frente tal como están para alcanzar un alto el fuego, lo que implica resignar cerca del 25% del territorio ocupado por Rusia desde 2022. Rusia, por su parte, aceptó reanudar las conversaciones trilaterales con Ucrania y Estados Unidos desde el 10 de noviembre.",
+     "relacionadas": [
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Rusia aceptó reanudar conversaciones de paz con Ucrania desde el 10 de noviembre",
+       "url": "https://www.infobae.com/america/mundo/2026/10/21/rusia-acepto-reanudar-conversaciones-de-paz-con-ucrania-desde-el-10-de-noviembre/"
+      },
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Putin acepta reanudar las conversaciones trilaterales entre Rusia, Ucrania y Estados Unidos el próximo mes",
+       "url": "https://www.clarin.com/mundo/putin-acepta-reanudar-conversaciones-trilaterales-rusia-ucrania-estados-unidos-proximo-mes_0_DI0leJlD8c.html"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/21/que-territorios-podria-perder-ucrania-si-las-fronteras-con-rusia-se-fijan-donde-esta-hoy-el-frente-de-batalla/",
+     "imagen": "https://www.infobae.com/resizer/v2/WAYXDL2LPRH77K7XM6ERUU7DDI.jpg?auth=f6a9c0b76486d922c283ba10a3d5f40cd7619545a88f884ab2b42b9e8265a647&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:12",
+     "autor": "Gastón Calvo",
+     "titulo_original": "Qué territorios podría perder Ucrania si las fronteras con Rusia se fijan donde está hoy el frente de batalla"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "la Unión Europea ratificó que mantendrá las sanciones energéticas contra Rusia hasta el fin de la guerra en Ucrania",
+     "resumen": "La presidenta de la Comisión Europea, Ursula von der Leyen, afirmó ante el Parlamento Europeo que las sanciones, impuestas tras la invasión de febrero de 2022, no serán retiradas mientras continúe el conflicto armado.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/21/la-union-europea-ratifico-que-mantendra-las-sanciones-energeticas-contra-rusia-hasta-el-fin-de-la-guerra-en-ucrania/",
+     "imagen": "https://www.infobae.com/resizer/v2/3DJ7D5ST35DDPOJMZRBNGW6QKA.JPG?auth=7efc5d78ef3bb408a49a39c86d9b7f1430a198775c94171548244c4e56377594&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:25",
+     "autor": "",
+     "titulo_original": "La Unión Europea ratificó que mantendrá las sanciones energéticas contra Rusia hasta el fin de la guerra en Ucrania"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en las protestas en Francia",
+     "resumen": "Lo que comenzó como una protesta estudiantil por las condiciones en las escuelas públicas derivó en manifestaciones contra el costo de vida y las pensiones, con toques de queda en varias ciudades. Las protestas generan desconfianza en los bonos franceses y podrían derivar en inestabilidad financiera para el gobierno de Emmanuel Macron.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/que-es-el-efecto-bola-de-nieve-de-la-deuda-y-que-papel-tiene-en-las-protestas-en-francia-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SU6ZRNVVTFCT7D7FXBRHJN2SAM.JPG?auth=93f9a4afccef1fbc34f571b9c8fd2c718f2779d49e4d83da64dfaf8a9ef16686&smart=true&width=900&height=493",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:28",
+     "autor": "",
+     "titulo_original": "Qué es el “efecto bola de nieve” de la deuda y qué papel tiene en las protestas en Francia"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "una esperada encuesta en Brasil reduce de dos a un punto la diferencia entre los candidatos al balotaje",
+     "resumen": "El nuevo sondeo de Quaest ubica a Flávio Bolsonaro con 45% y a Lula da Silva con 44%, en un empate técnico de cara al balotaje del domingo. La encuesta anterior daba 46 a 44 a favor de Bolsonaro.",
+     "relacionadas": [
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Elecciones en Brasil: la paridad entre Lula y Flávio Bolsonaro pone en juego la relación con Javier Milei",
+       "url": "https://www.infobae.com/politica/2026/10/21/elecciones-en-brasil-la-paridad-entre-lula-y-flavio-bolsonaro-pone-en-juego-la-relacion-con-javier-milei/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/esperada-encuesta-brasil-reduce-punto-diferencia-candidatos-flavio-bolsonaro-45-lula-44_0_Q2KYBTyAA0.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/d5Kmm9aPm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una esperada encuesta en Brasil reduce de dos a un punto la diferencia entre los candidatos: Flàvio Bolsonaro tiene 45% y Lula 44%"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "al menos dos muertos en Kiev tras el impacto de un dron ruso contra un edificio residencial",
+     "resumen": "Un dron ruso impactó este miércoles contra un edificio residencial en Kiev y mató a dos residentes, informó el alcalde Vitali Klitschko, en medio de ataques intensificados con drones a reacción sobre la capital ucraniana.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/21/al-menos-dos-muertos-en-kiev-tras-el-impacto-de-un-dron-ruso-contra-un-edificio-residencial/",
+     "imagen": "https://www.infobae.com/resizer/v2/GVC6IB4D4FCMFKFKDWQTZ7PBZM.JPG?auth=0a9d7d9ccd16aa4126d50980fb28d24c0785bfca2cab04057b9f0d498b956898&smart=true&width=900&height=637",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:27",
+     "autor": "",
+     "titulo_original": "Al menos dos muertos en Kiev tras el impacto de un dron ruso contra un edificio residencial"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "el primer ministro del Reino Unido ratificó ante el Parlamento las \"más firmes medidas\" para defender la soberanía británica sobre las Malvinas",
+     "resumen": "Andy Burnham respondió así a un pedido de un diputado para oponerse al reclamo argentino ante el Tribunal Internacional del Derecho del Mar contra la explotación petrolera en las islas, mientras el Gobierno argentino avanza con sanciones a las empresas del proyecto Sea Lion.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/21/el-primer-ministro-del-reino-unido-ratifico-ante-el-parlamento-las-mas-firmes-medidas-para-defender-la-soberania-britanica-sobre-las-malvinas/",
+     "imagen": "https://www.infobae.com/resizer/v2/YB4XVSXGABGFVBBS254JERGAXQ.JPG?auth=122f0d7c35445cfcf434fe0384faa056147aff318ce3ad6a79c9d1c852bbaefe&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:38",
+     "autor": "Patricio Tesei",
+     "titulo_original": "El primer ministro del Reino Unido ratificó ante el Parlamento las “más firmes medidas” para defender la soberanía británica sobre las Malvinas"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el margen de maniobra de Trump tras las elecciones de mitad de mandato y el nuevo mapa energético del Golfo Pérsico.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "tras las elecciones de mitad de mandato, la política internacional de Trump se volverá aún más descabellada",
+     "resumen": "La revista sostiene que, gane o pierda el Congreso, la política exterior de Donald Trump tendrá pocos frenos reales porque el Legislativo estadounidense históricamente tiene poco poder en esta materia; habrá investigaciones y enfrentamientos internos, pero no un cambio de rumbo, según el análisis.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/21/tras-las-midterms-la-politica-internacional-de-trump-sera-mas-descabellada/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/Bringing-Order-to-Anarchy-Governing-the-World-to-Come-By-Charles-A.-Kupchan-125x193.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:07",
+     "autor": "Louis Puel",
+     "titulo_original": "Tras las elecciones de mitad de mandato, la política internacional de Trump se volverá aún más descabellada"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "los flujos de petróleo del Golfo Pérsico superaron su nivel anterior a la guerra",
+     "resumen": "Según datos de Kpler, los flujos de crudo de Oriente Medio superaron la semana pasada su nivel previo a la guerra contra Irán, con más de 24 millones de barriles diarios exportados frente a los 23,3 millones anteriores. Parte del petróleo iraní transitaría por los Emiratos Árabes Unidos mediante petroleros lanzadera.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/21/flujos-de-petroleo-del-golfo-persico-han-superado-nivel-anterior-guerra/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:02",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Los flujos de petróleo del Golfo Pérsico han superado su nivel anterior a la guerra"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "intro": "Boca Juniors proyecta un cierre de año con hasta cinco títulos tras eliminar a Vasco da Gama en el Maracaná.",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Boca va por cinco títulos en 59 días tras la clasificación en el Maracaná",
+     "resumen": "Tras el gol de Leandro Paredes que selló el 3 a 1 sobre Vasco da Gama, Boca tiene asegurada la final de la Copa Sudamericana del 21 de noviembre en Barranquilla y mantiene además sus chances en competencias locales, lo que abre un escenario de hasta cinco títulos posibles en los próximos 59 días, con un clásico ante River en el medio.",
+     "relacionadas": [
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Boca llegó a la final por Paredes, acumula u$s6,28 millones y va por u$s10 millones más",
+       "url": "https://www.ambito.com/deportes/boca-llego-la-final-paredes-acumula-us628-millones-y-va-us10-millones-mas-n6336115"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-va-por-cinco-titulos-en-59-dias-el-valor-del-gol-de-paredes-las-rachas-por-cortar-y-un-cierre-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VKH4U7B3RFHGHCXXYJETJJNLOA.jpg?auth=d4ec74889452c3f88845b35e82dfe4a14ce1eaf69aaaf5a2d5ed0c0919ffc453&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:45",
+     "autor": "Leandro Contento",
+     "titulo_original": "Boca va por cinco títulos en 59 días: el valor del gol de Paredes, las rachas por cortar y un cierre de año sin respiro"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Boca llegó a la final por Paredes, acumula US$ 6,28 millones en premios y va por US$ 10 millones más",
+     "resumen": "El Xeneize sumó US$ 3,68 millones por su fase de grupos en la Libertadores y otros US$ 2,6 millones por su recorrido en la Sudamericana. Si se consagra campeón acumulará US$ 16,28 millones en premios; si pierde la final, el total será de US$ 8,78 millones.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Álvaro Montero y Sebastián Villa jugarán la final de la Copa Sudamericana con Boca Juniors en Barranquilla: así los calificó la prensa en Argentina",
+       "url": "https://www.infobae.com/colombia/deportes/2026/10/21/alvaro-montero-y-sebastian-villa-jugaran-la-final-de-la-copa-sudamericana-con-boca-juniors-en-barranquilla-asi-los-califico-la-prensa-en-argentina/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/boca-llego-la-final-paredes-acumula-us628-millones-y-va-us10-millones-mas-n6336115",
+     "imagen": "https://media.ambito.com/p/1c012632dd8ecd9ff331dca5660fc5fe/adjuntos/239/imagenes/043/717/0043717657/1200x675/smart/gemini_generated_image_hb2h9mhb2h9mhb2h-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:03",
+     "autor": "",
+     "titulo_original": "Boca llegó a la final por Paredes, acumula u$s6,28 millones y va por u$s10 millones más"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "el TAS falló a favor de Estudiantes y habilitó a Marcos Rojo para jugar la revancha ante Flamengo",
+     "resumen": "El Tribunal de Arbitraje Deportivo dio visto bueno al pedido de Estudiantes de La Plata y habilitó al defensor, que había llegado desde Racing y no pudo jugar el partido de ida, para la revancha de semifinales de la Copa Libertadores de este jueves en el Maracaná.",
+     "relacionadas": [
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Estudiantes de La Plata anunció que Marcos Rojo fue habilitado y podrá jugar la revancha de la semifinal de Copa Libertadores ante Flamengo",
+       "url": "https://www.infobae.com/deportes/2026/10/21/estudiantes-de-la-plata-anuncio-que-marcos-rojo-fue-habilitado-y-podra-jugar-la-revancha-de-la-semifinal-de-copa-libertadores-ante-flamengo/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/veron-torcio-brazo-conmebol-tas-fallo-favor-estudiantes-habilito-marcos-rojo-jugar-revancha-frente-flamengo_0_Sdp9WuYeNN.html",
+     "imagen": "https://www.clarin.com/img/2026/10/15/Oq5H79k4Z_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:42",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Verón le torció el brazo a la Conmebol: el TAS falló a favor de Estudiantes y habilitó a Marcos Rojo para la jugar la revancha frente a Flamengo"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "lo llora el PSG: se rompió los ligamentos cruzados una de las estrellas del equipo de Luis Enrique",
+     "resumen": "Khvicha Kvaratskhelia sufrió la rotura del ligamento cruzado anterior de la rodilla derecha en el partido ante Barcelona y será operado en los próximos días, con una recuperación que demandará entre seis y nueve meses.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Khvicha Kvaratskhelia, una de las figuras de PSG, sufrió una grave lesión de rodilla",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/khvicha-kvaratskhelia-una-de-las-figuras-de-psg-sufrio-una-grave-lesion-de-rodilla-nid21102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/malas-noticias-psg-luis-enrique-georgiano-kvaratskhelia-sufrio-rotura-ligamentos-cruzados-frente-barcelona_0_dkaXWrVNCm.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/spfPg7koc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Lo llora el PSG y lo sufre el fútbol: se rompió los ligamentos cruzados una de las estrellas del equipo de Luis Enrique"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "las feroces críticas de los medios brasileños a Vasco da Gama tras caer con Boca",
+     "resumen": "La prensa de Brasil cuestionó duramente el rendimiento de Vasco da Gama tras la derrota por 3 a 1 en el Maracaná y destacó la eficacia del equipo de Rodolfo Arruabarrena para aprovechar las fallas del rival y clasificar a la final.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El peligroso ingreso al estadio Maracaná que vivió un grupo de hinchas de Boca Juniors en el partido ante Vasco da Gama",
+       "url": "https://www.infobae.com/deportes/2026/10/21/el-peligroso-ingreso-al-estadio-maracana-que-vivio-un-grupo-de-hinchas-de-boca-juniors-en-el-partido-ante-vasco-da-gama/"
+      },
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La celebración de Daniel Osvaldo desde el hospital por el pase de Boca Juniors a la final de la Copa Sudamericana",
+       "url": "https://www.infobae.com/deportes/2026/10/21/la-celebracion-de-daniel-osvaldo-desde-el-hospital-por-el-pase-de-boca-juniors-a-la-final-de-la-copa-sudamericana/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/sintieron-presion-paredes-tiempo-tomarse-caipirinha-feroces-criticas-medios-brasilenos-vasco-da-gama-caer-boca_0_RN1VN0MlZD.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/0RmHVtH_K_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Paredes tuvo tiempo de tomarse una caipirinha\" y \"sintieron la presión\": las feroces críticas de los medios brasileños a Vasco da Gama tras caer con Boca"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "Al Nassr acumula una pérdida de US$ 213 millones y el dueño del Milan negocia su compra, con Cristiano Ronaldo como posible accionista",
+     "resumen": "El fondo soberano de Arabia Saudita busca sanear las cuentas del club antes de una eventual venta a RedBird Capital, propietario del Milan, en una operación por el 70% de las acciones que rondaría los US$ 267 millones y podría convertir a Cristiano Ronaldo en jugador y accionista con el 20%.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/al-nassr-acumula-una-perdida-us213-millones-el-dueno-del-milan-negocia-su-compra-y-cristiano-ronaldo-podria-quedarse-el-20-n6336206",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:15",
+     "autor": "",
+     "titulo_original": "Al Nassr acumula una pérdida de u$s213 millones, el dueño del Milan negocia su compra y Cristiano Ronaldo podría quedarse con el 20%"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Franco Colapinto busca revancha en la Fórmula 1 y lanzó un mensaje antes del Gran Premio de Austin",
+     "resumen": "El piloto argentino quiere dejar atrás una serie de resultados adversos con Alpine y se prepara para un circuito donde ya sumó puntos, con expectativas puestas en el trabajo del equipo de cara a las próximas carreras.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-busca-revancha-la-formula-1-y-lanzo-un-mensaje-antes-del-gran-premio-austin-n6336204",
+     "imagen": "https://media.ambito.com/p/7c695d0d5a5bb8d4dbdddb77964cedfe/adjuntos/239/imagenes/043/682/0043682270/colapinto.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:03",
+     "autor": "",
+     "titulo_original": "Franco Colapinto busca revancha en la Fórmula 1 y lanzó un mensaje antes del Gran Premio de Austin"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "intro": "",
+   "notas": [
+    {
+     "id": "CR-19",
+     "titulo": "el puerto de Ushuaia recibe una inversión de más de US$ 2,5 millones para la temporada de cruceros",
+     "resumen": "La terminal fueguina renovará su infraestructura y mejorará las condiciones de seguridad de las operaciones de case a una temporada récord, con más de 550 recaladas confirmadas en el ciclo 2026-2027, que comenzó el 14 de septiembre con la llegada del Ventus Australis.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-puerto-de-ushuaia-recibe-inversion-de-mas-de-us-25-millones-que-obras-necesita-el-negocio-de-los-cruceros/",
+     "imagen": "https://www.cronista.com/resizer/v2/BM6HFJUTZZFX7LNUU2REXVCMJ4.jpg?auth=a63a7022e9adffed765659c603c6ba4de1f003f0c5364348a084ca2d377525f1&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:54",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "El puerto de Ushuaia recibe inversión de más de u$s 2,5 millones: qué obras necesita el negocio de los cruceros"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Malta, el destino que recibe 4 millones de turistas al año pero que los argentinos todavía miran de lejos",
+     "resumen": "El archipiélago de apenas 316 kilómetros cuadrados combina fortalezas de caballeros, mar turquesa y un clima benigno casi todo el año; la Cumbre Global del Consejo Mundial de Viajes y Turismo, realizada en La Valeta, reunió a más de 200 ejecutivos del sector y expuso un destino europeo todavía poco explorado por los viajeros argentinos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/trendy/malta-el-destino-que-recibe-4-millones-de-turistas-al-ano-pero-que-los-argentinos-todavia-miran-de-lejos/",
+     "imagen": "https://www.cronista.com/resizer/v2/WHK3E3N335CWZHZ4TLXSXFRRRM.jpg?auth=2e1c9f668a7f39a084963b7f8ebc1b5d5e34cf1fca7748df06bd4db22abcde9e&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:14",
+     "autor": "Guillermo Pereira Poizón",
+     "titulo_original": "Malta: el destino que recibe 4 millones de turistas al año, pero que los argentinos todavía miran de lejos"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "intro": "",
+   "notas": [
+    {
+     "id": "LN-08",
+     "titulo": "feriados por la visita del papa León XIV: los días de noviembre afectados",
+     "resumen": "El papa León XIV llegará a la Argentina el 8 de noviembre y permanecerá hasta el 11, con un cronograma que incluye un asueto nacional y dos feriados jurisdiccionales por la relevancia del viaje.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/feriados/feriados-de-la-visita-del-papa-leon-xiv-uno-por-uno-estos-son-los-dias-de-noviembre-afectados-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/J22GCBUMZVHM7GC7UDVI7RBTZU.jpg?auth=5b399150b8c097be839a2a9629ebd97deb3e94d8d8b4b89c31a9875777842424&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:06",
+     "autor": "",
+     "titulo_original": "Feriados de la visita del papa León XIV: uno por uno, estos son los días de noviembre afectados"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "desaparición de Nancy Godoy: detuvieron a dos nuevos sospechosos y ya se habla de un posible femicidio",
+     "resumen": "La Justicia de Corrientes ordenó la detención de Rosa Leguizamón, la última persona que vio a la docente desaparecida el 7 de octubre en Esquina, y de su pareja, Nahuel Rojas, ambos sospechados de encubrimiento. Ya son tres los detenidos vinculados a la causa, que ahora evalúa la hipótesis de femicidio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/21/corrientes-ordenaron-dos-nuevas-detenciones-en-la-causa-por-la-desaparicion-de-la-docente-nancy-godoy/",
+     "imagen": "https://www.infobae.com/resizer/v2/6R43OUJKBJEJDJCNWA27OJFCJE.gif?auth=a185570379f0469af245cc189f7a837a5b378f70672a1935f9e3ce29044efdef&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:06",
+     "autor": "Miguel Prieto Toledo",
+     "titulo_original": "Desaparición de Nancy Godoy: detuvieron a dos nuevos sospechosos y ya se habla de un posible femicidio"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "murió un niño de 10 años tras resultar infectado por una ameba \"comecerebros\": investigan aguas termales en Catamarca",
+     "resumen": "El Instituto Malbrán confirmó por PCR el diagnóstico de meningoencefalitis amebiana primaria en un niño que habría contraído el microorganismo en un complejo termal de Fiambalá, cuyas actividades fueron suspendidas de forma preventiva mientras avanza la investigación sanitaria.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/murio-un-nino-de-10-anos-tras-resultar-infectado-por-una-ameba-comecerebros-investigan-aguas-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WCZYN67RFNGCHGXDAKYQJQJPLI.jpg?auth=0ba7f97b579fc14b91e9cb226ed73c7d6cf3f097465c066e783d84495f2c6bfe&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:31",
+     "autor": "",
+     "titulo_original": "Murió un niño de 10 años tras resultar infectado por una ameba “comecerebros”: investigan aguas termales en Catamarca"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "el río Paraná rompió las defensas de una ciudad turística correntina e inundó tres barrios",
+     "resumen": "La rotura de un terraplén en Paso de la Patria, localidad ribereña a 40 kilómetros de Corrientes capital, anegó los barrios Don Julián, La Isla y Pescadores tras una crecida que llevó el hidrómetro local a 7,63 metros. El pico ya pasó, pero nuevas lluvias previstas en Brasil amenazan con prolongar la emergencia en todo el Litoral.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/el-rio-parana-rompio-las-defensas-de-una-importante-ciudad-turistica-e-inundo-tres-barrios-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FL4X5PAWYFA7LNH6KVAFLKN4QM.jpeg?auth=dd3e89dded33febcb83077b5f9ee208a6746a41293e39b8acc5fda3f7a0b7216&smart=true&width=900&height=597",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:41",
+     "autor": "Germán de los Santos",
+     "titulo_original": "El río Paraná rompió las defensas de una importante ciudad turística e inundó tres barrios"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del miércoles veintiuno de octubre. El dólar oficial cerró ayer en mil quinientos cuarenta y cinco pesos para la venta y el dólar blue en mil quinientos setenta y cinco pesos, ambos en suba frente al cierre del día anterior. El oro cotiza en torno a los cuatro mil ciento cuarenta y siete dólares la onza y el riesgo país se ubica en seiscientos setenta y dos puntos, luego de haber tocado máximos del año por encima de las setecientas unidades.\n\nEn política, el Gobierno sigue negociando la suspensión de las PASO. Patricia Bullrich dejó esa tarea en manos del jefe de Gabinete, Diego Santilli, y en el Senado todavía no aparecen con claridad los treinta y siete votos necesarios para aprobar la reforma electoral. En paralelo avanzó la causa judicial por el oro del Banco Central: el fiscal Gerardo Pollicita pidió informes técnicos para investigar pérdidas por mil veintitrés millones de dólares en operaciones con las reservas, en una denuncia que apunta al ministro de Economía, Luis Caputo, y al presidente del Banco Central, Santiago Bausili. También trascendió que el Gobierno evalúa, bajo secreto militar, la compra de submarinos y dos fragatas por tres mil quinientos millones de dólares, con negociaciones abiertas con Francia y Estados Unidos. Y la Justicia de La Plata volvió a rechazar un pedido de Martín Insaurralde para apartar al fiscal que lo investiga por enriquecimiento ilícito en la causa conocida como Yategate.\n\nEn economía y mercados, el INDEC difunde hoy el dato de actividad económica de agosto, después de una caída mensual de dos coma nueve por ciento en julio; las consultoras esperan un rebote parcial, aunque advierten que el tercer trimestre podría cerrar en terreno negativo. Sigue además la polémica por una encuesta de la consultora Zentrix que mostró que dos de cada tres argentinos llegan sin dinero al día veinte del mes, un estudio que el presidente Milei había cuestionado y que su autor salió a defender. El banco JP Morgan proyecta que la inflación argentina cierre el año en veintinueve coma cuatro por ciento, aunque lo condiciona a que el tipo de cambio se mantenga estable y bajen las subas estacionales. Y un informe del IAE mostró que, pese a que el producto bruto creció cinco coma ocho por ciento durante la gestión de Milei, el empleo privado sigue cayendo y cerraron veintinueve mil empresas en el país, con una pérdida de ciento ochenta y seis mil puestos formales.\n\nEn negocios y empresas, la privatización del Belgrano Cargas sufrió un golpe: el Grupo México, que prometía una inversión de tres mil millones de dólares, se bajó de la licitación que empieza a definirse el once de noviembre, y ahora quedan en carrera empresas locales y un consorcio de cerealeras. En Diputados también se debate la nueva ley de biocombustibles, con las pymes pidiendo elevar el corte obligatorio de biodiésel al doce por ciento y las aceiteras reclamando que se apruebe sin cambios el acuerdo que ya tiene media sanción del Senado. Y Elon Musk avanza con su apuesta más audaz: estudia fusionar Tesla y SpaceX en una sola compañía valuada en tres coma seis billones de dólares.\n\nEn impuestos, laboral y normativa, un análisis advirtió que facturar como monotributista no alcanza para desligar un vínculo laboral si existe subordinación, lo que eleva el riesgo de demandas para las empresas que categorizan así a sus colaboradores. La provincia de Buenos Aires lanzará, a partir del veintiséis de octubre, una moratoria de ARBA con descuentos de hasta cuarenta por ciento para regularizar deudas. Y una reforma a la Ley de Vivienda Única exigirá que la renuncia a la protección de la vivienda se haga siempre ante escribano, con el consentimiento del cónyuge o conviviente.\n\nEn consumo, construcción y retail, un relevamiento mostró que comprar una vivienda en Buenos Aires no es la más cara de América en relación al precio, pero se vuelve una de las menos accesibles de la región cuando se suma el costo del financiamiento hipotecario. En Palermo se invertirán ciento veinte millones de dólares en un hotel boutique de quinientas habitaciones, mientras Coto lanzó promociones de hasta cincuenta por ciento en electrodomésticos chicos para sostener las ventas y la cadena DIA sigue ofreciendo franquicias que prometen recuperar la inversión en dieciocho meses. Un relevamiento provincial, además, mostró fuertes diferencias en el precio de los alimentos entre distintas provincias del país.\n\nEn management y finanzas corporativas, la startup Tenstorrent, que desarrolla chips para inteligencia artificial, consiguió mil quinientos millones de dólares de inversores como Morgan Stanley y ARK Invest para competir con Nvidia. Un informe de Morningstar mostró que, en la última década, el inversor promedio ganó menos que los fondos en los que invirtió, por las decisiones de entrada y salida del mercado. Y el Gobierno abrió la inscripción para un retiro voluntario de empleados públicos, con compensaciones de hasta veinte sueldos según la antigüedad.\n\nEn el mundo, el presidente ucraniano Volodimir Zelensky aceptó por primera vez congelar las líneas del frente con Rusia tal como están hoy, lo que implicaría resignar un cuarto del territorio ocupado desde dos mil veintidós; Rusia, por su parte, aceptó reanudar las negociaciones trilaterales con Ucrania y Estados Unidos a partir del diez de noviembre. La Unión Europea ratificó que mantendrá las sanciones energéticas contra Rusia hasta que termine la guerra. En Francia, las protestas por el costo de vida y las pensiones generan desconfianza en los bonos del país y podrían derivar en inestabilidad financiera. En Brasil, una nueva encuesta redujo a un solo punto la diferencia entre Flavio Bolsonaro y Lula da Silva de cara al balotaje del domingo. Y en Kiev, un dron ruso mató a dos personas al impactar contra un edificio residencial.\n\nLe Grand Continent analiza, por un lado, que la política exterior de Donald Trump podría volverse aún más impredecible después de las elecciones de mitad de mandato, ya que el Congreso estadounidense tiene poco poder real sobre esa materia. Y por otro lado señala que los flujos de petróleo del Golfo Pérsico ya superaron su nivel previo a la guerra con Irán, con una parte del crudo iraní transitando a través de los Emiratos Árabes Unidos.\n\nEn deportes, Boca Juniors sueña en grande: tras eliminar a Vasco da Gama en el Maracaná con un gol de Leandro Paredes, el equipo de Rodolfo Arruabarrena tiene asegurada la final de la Copa Sudamericana del veintiuno de noviembre en Barranquilla y podría sumar hasta cinco títulos en cincuenta y nueve días, con un clásico ante River en el medio; en premios, ya acumula más de seis millones de dólares y podría llegar a dieciséis si se corona campeón. El Tribunal de Arbitraje Deportivo habilitó a Marcos Rojo para jugar con Estudiantes la revancha de semifinales de la Libertadores ante Flamengo este jueves. En el fútbol europeo, el PSG sufrió la lesión de Khvicha Kvaratskhelia, que se rompió los ligamentos cruzados y estará inactivo al menos seis meses. Y en la Fórmula Uno, Franco Colapinto busca revancha con Alpine antes del Gran Premio de Austin, en un circuito donde ya sumó puntos.\n\nEn turismo, el puerto de Ushuaia recibirá más de dos coma cinco millones de dólares en obras para prepararse para una temporada récord de cruceros, con más de quinientas cincuenta recaladas confirmadas. Y para quienes miran más lejos, Malta se perfila como un destino europeo todavía poco explorado por los argentinos, con fortalezas históricas, mar turquesa y un clima benigno casi todo el año.\n\nEn sociedad, se confirmaron los feriados por la visita del papa León Catorce a la Argentina, que llegará el ocho de noviembre y permanecerá hasta el once. En Corrientes, la investigación por la desaparición de la docente Nancy Godoy sumó dos nuevos detenidos y ya se evalúa la hipótesis de un femicidio. En Catamarca murió un niño de diez años por una ameba conocida como comecerebros, presuntamente contraída en un complejo termal de Fiambalá. Y en el Litoral, la crecida del río Paraná rompió las defensas de la localidad turística de Paso de la Patria e inundó tres barrios, mientras se esperan nuevas lluvias que podrían prolongar la emergencia.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "La sección Europa y geopolítica solo incluye dos notas porque el feed de Le Grand Continent trajo apenas dos artículos nuevos en esta ventana de seis horas.",
+ "slug": "2026-10-21-mediodia",
+ "generado_ba": "21/10/2026 15:21"
+}
