@@ -1,0 +1,960 @@
+{
+ "fecha": "2026-10-22",
+ "edicion": "mediodia",
+ "titulo": "El riesgo país perfora los 700 puntos otra vez y Toyota confirma su mayor inversión en el país",
+ "apertura": "El mediodía llega con los mercados argentinos de nuevo en alerta: el riesgo país volvió a superar los 700 puntos y los bonos soberanos caen con fuerza, arrastrados por un clima global adverso en el que el petróleo trepa a 112 dólares por los ataques hutíes en Arabia Saudita y Wall Street retrocede por balances tecnológicos. En el plano político, el oficialismo acumula roces internos y debates pendientes mientras crece la expectativa por el balotaje de Brasil del domingo. Del lado de las buenas noticias, Toyota formalizó la mayor inversión de la historia automotriz argentina para producir una pick-up híbrida, y el BID destrabó una obra eléctrica clave de 800 millones de dólares para el AMBA.",
+ "claves": [
+  "El riesgo país volvió a superar los 700 puntos (703 según JP Morgan) y los bonos soberanos caen hasta 8 por ciento, en un día de aversión global al riesgo.",
+  "El petróleo saltó a 112 dólares por barril tras la evacuación de la refinería de Saudi Aramco en Dhahran por ataques hutíes; Wall Street cae por balances tecnológicos.",
+  "Toyota formalizó en el Boletín Oficial su ingreso al RIGI: invertirá más de 1.300 millones de dólares en una pick-up híbrida en Zárate, la mayor inversión automotriz de la historia argentina.",
+  "El BID aprobó una garantía de 200 millones de dólares que destraba la obra eléctrica AMBA I, de 800 millones, para ampliar la capacidad de transporte de electricidad.",
+  "El Gobierno declaró organizaciones terroristas al Cártel de Sinaloa, las FARC-EP, el ELN y otros dos grupos de la región.",
+  "La Legislatura bonaerense prohibió el uso de celulares en las escuelas secundarias durante la jornada de clases.",
+  "Patricia Bullrich dijo estar \"preparada para ser presidente\" y presiona la interna libertaria a menos de un año y medio de las elecciones de 2027.",
+  "El Niño sigue golpeando el Litoral: más de mil personas evacuadas en Chaco y tres barrios inundados en Paso de la Patria por la crecida del Paraná."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo (crudo)",
+   "valor": "US$ 112 por barril",
+   "variacion": "+3%",
+   "fuente": "IB-23"
+  },
+  {
+   "nombre": "Índice de Confianza del Consumidor (UTDT)",
+   "valor": "41,52 puntos",
+   "variacion": "+0,81% mensual; -1,9% interanual",
+   "fuente": "AM-12"
+  },
+  {
+   "nombre": "Salarios (Indec, agosto)",
+   "valor": "+2,7% mensual",
+   "fuente": "IP-02"
+  },
+  {
+   "nombre": "Contado con liquidación (CCL)",
+   "valor": "$ 1.639",
+   "variacion": "+0,4%",
+   "fuente": "CR-21"
+  },
+  {
+   "nombre": "Compras de oro de bancos centrales (Goldman Sachs)",
+   "valor": "85 toneladas por mes",
+   "variacion": "5 veces el promedio histórico",
+   "fuente": "CR-23"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "El Gobierno declaró terroristas al Cártel de Sinaloa, las FARC-EP y otros tres grupos",
+     "resumen": "El Ejecutivo sumó al Registro de Personas y Entidades Vinculadas al Terrorismo al Cártel de Sinaloa y La Nueva Familia Michoacana de México, las FARC-EP y el ELN de Colombia, y Los Tiguerones de Ecuador. La medida se formalizó este jueves en el Boletín Oficial y había sido anticipada un día antes por la Oficina del Presidente, que calificó al Cártel de Sinaloa como una organización criminal transnacional dedicada al narcotráfico, el contrabando y los secuestros extorsivos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-declaro-terroristas-al-cartel-de-sinaloa-las-farc-ep-y-otros-tres-grupos-de-la-region/",
+     "imagen": "https://www.cronista.com/resizer/v2/JQBXRP2PFRE6LH3L3L2JQDDVSY.png?auth=27798810e0c0718ce4fd8bea4bce8ca1fb8e2f7a0381143d3bd14cc72e70b8ad&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:40",
+     "autor": "Nicolás Montenegro",
+     "titulo_original": "El Gobierno declaró terroristas al Cártel de Sinaloa, las FARC-EP y otros tres grupos de la región"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "La Provincia de Buenos Aires prohibió los celulares en las escuelas secundarias",
+     "resumen": "La Legislatura bonaerense le dio sanción definitiva a una ley que restringe el uso de celulares y otros dispositivos digitales durante la jornada escolar, y extiende a los colegios secundarios una norma que hasta ahora solo regía en el nivel primario. La regla general es la no utilización de dispositivos en el aula, salvo que el docente lo autorice de manera explícita.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/no-mas-celulares-en-las-escuelas-que-dice-la-norma-que-aprobo-la-provincia-de-buenos-aires/",
+     "imagen": "https://www.cronista.com/resizer/v2/U3G7NE5CINDE3H7AQ5BB5QYVQ4.jpg?auth=ebac7c6eff77dc1a1da6483cfba6c1b476aecfd24543bf6db3520bc0d7831ddf&smart=true&width=612&height=408",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:27",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "No más celulares en las escuelas: qué dice la norma que aprobó la Provincia de Buenos Aires"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Patricia Bullrich presiona a Milei con una candidatura presidencial a la vista",
+     "resumen": "La jefa del bloque de La Libertad Avanza en el Senado reclamó acelerar las negociaciones con gobernadores y sectores del peronismo no kirchnerista. En diálogo con Infobae, afirmó que está \"preparada para ser presidente\" aunque evitó confirmar una postulación y dijo que las candidaturas deben definirse más cerca de la elección de 2027.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Patricia Bullrich: “Estoy preparada para ser presidente, pero una tiene que saber esperar su momento”",
+       "url": "https://www.infobae.com/politica/2026/10/22/patricia-bullrich-estoy-preparada-para-ser-presidente-pero-una-tiene-que-saber-esperar-su-momento/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/patricia-bullrich-presiona-javier-milei-una-posible-candidatura-presidencial-y-desafia-la-interna-libertaria-n6336735",
+     "imagen": "https://media.ambito.com/p/2a2d140bf008e736e03c30680c078cd8/adjuntos/239/imagenes/043/355/0043355303/1200x675/smart/patricia-bullrich-senado.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:29",
+     "autor": "",
+     "titulo_original": "Patricia Bullrich presiona a Javier Milei con una posible candidatura presidencial y desafía la interna libertaria"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "Una encuesta de la UBA muestra empate técnico entre Milei y Kicillof de cara a 2027",
+     "resumen": "La última Encuesta de Satisfacción Política y Opinión Pública de la Universidad de San Andrés mostró a La Libertad Avanza con 26% de intención de voto y al peronismo con 24%, una diferencia que queda dentro del margen de error de 3,15 puntos. El estudio también midió el humor social y comparó la imagen de Milei con la de otros mandatarios de la región.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-ajustado-escenario-que-anticipa-una-encuesta-para-las-presidenciales-empate-tecnico/",
+     "imagen": "https://www.cronista.com/resizer/v2/J7ATAKUCTFBZVC3ZWCZEE7KIGE.jpg?auth=67c632827294439a7eb852bafe40842fca08c3b28680f4f162df5a680df55c50&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:45",
+     "autor": "Giannina Nigro",
+     "titulo_original": "Midieron a Milei y Kicillof para 2027: empate técnico, el “factor Bullrich” y pesimismo"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "El peronismo busca una nueva foto de unidad en medio de la disputa por las PASO y 2027",
+     "resumen": "Gobernadores, jefes de bloque, Máximo Kirchner y Sergio Massa repetirán el formato de encuentro en el Hotel Emperador para discutir la suspensión de las primarias, el Presupuesto y la agenda legislativa de cara al año electoral.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/ambito-nacional/el-peronismo-busca-una-nueva-foto-unidad-medio-la-disputa-las-paso-y-2027-n6336719",
+     "imagen": "https://media.ambito.com/p/4a6d7c2abf4f5d7e77f7416017796f7e/adjuntos/239/imagenes/042/575/0042575405/1200x675/smart/massa-maximo-kirchner-y-kicillofjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:35",
+     "autor": "",
+     "titulo_original": "El peronismo busca una nueva foto de unidad en medio de la disputa por las PASO y 2027"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Avanza un proyecto para habilitar el uso de pistolas Taser en la Policía Bonaerense",
+     "resumen": "El Frente Renovador logró el dictamen por unanimidad en la Comisión de Seguridad y Asuntos Penitenciarios para un proyecto que habilita a la fuerza provincial a usar armas menos letales, con reglas de uso y mecanismos de control. La iniciativa, impulsada por el massismo, abrió un debate dentro del PJ y pasa ahora a la Legislatura.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/21/avanza-un-proyecto-de-ley-para-habilitar-el-uso-de-las-pistolas-taser-para-la-policia-bonaerense/",
+     "imagen": "https://www.infobae.com/resizer/v2/JJP6KQIWRFADTPHKHJWZHFK5TI.jpg?auth=d0423f9aa41049c99efe69dde4f290c9ebea4432b7d4eccf1a7f8a730ff67f3b&smart=true&width=700&height=467",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:07",
+     "autor": "",
+     "titulo_original": "Avanza un proyecto de ley para habilitar el uso de las pistolas Taser para la Policía Bonaerense"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "Un sector docente bonaerense inició un paro de 48 horas pese al acuerdo salarial",
+     "resumen": "La Federación de Educadores Bonaerenses rechazó el aumento del 6% ofrecido por el gobierno de Axel Kicillof y lanzó una huelga de dos días en las escuelas de la provincia, mientras el resto de los gremios del Frente de Unidad Docente Bonaerense sí aceptó la oferta.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/educacion/2026/10/22/pese-al-acuerdo-salarial-un-sector-docente-realiza-hoy-un-paro-de-48-horas-en-las-escuelas-bonaerenses/",
+     "imagen": "https://www.infobae.com/resizer/v2/GNVY4BRGUNBX7L2REK7SIDXVYQ.jpg?auth=38405ed6989e02262ec8893304c66714869cf4256ad1f43622f4e7d8f8d32962&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:08",
+     "autor": "",
+     "titulo_original": "Pese al acuerdo salarial, un sector docente realiza hoy un paro de 48 horas en las escuelas bonaerenses"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-06",
+     "titulo": "El riesgo país volvió a superar los 700 puntos y castiga a los bonos argentinos",
+     "resumen": "Los bonos de la deuda caen hasta 1% y el riesgo país escaló a 703 puntos básicos, según JP Morgan, en un contexto externo de fuerte aversión al riesgo. El petróleo subió hasta 112 dólares el barril por la escalada en Medio Oriente y una serie de balances tecnológicos decepcionantes golpeó a Wall Street, con el Nasdaq cayendo 1,5% y los ADR argentinos retrocediendo en promedio 1,5%. Para una empresa: un escenario de bonos en baja y riesgo país en alza encarece el financiamiento externo en un momento en que ya es escaso.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país se dispara y vuelve a superar los 700 puntos ante otra fuerte caída de los bonos en dólares",
+       "url": "https://www.ambito.com/finanzas/el-riesgo-pais-se-dispara-y-vuelve-superar-los-700-puntos-otra-fuerte-caida-los-bonos-dolares-n6336723"
+      },
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tensión financiera: el riesgo país vuelve a trepar y supera los 700 puntos",
+       "url": "https://www.clarin.com/economia/tension-financiera-riesgo-pais-vuelve-trepar-supera-700-puntos_0_VVJIMiwTyw.html"
+      },
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país vuelve a superar los 700 puntos y genera incertidumbre en el mercado",
+       "url": "https://www.iprofesional.com/finanzas/467227-el-riesgo-pais-vuelve-a-superar-los-700-puntos-y-genera-incertidumbre-en-el-mercado"
+      },
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Pese a las compras récord de dólares los bonos operan con fuertes bajas: ¿qué pide el mercado?",
+       "url": "https://www.cronista.com/finanzas-mercados/pese-a-las-compras-record-de-dolares-los-bonos-operan-con-fuertes-bajas-que-pide-el-mercado/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/vuelve-a-escalar-el-riesgo-pais-arriba-de-700-puntos-caen-los-bonos-y-tiembla-el-mercado-global/",
+     "imagen": "https://www.cronista.com/resizer/v2/3BEAEHDHGVB4DG64QQMMNORQ3E.png?auth=3238c9b380d382acdf1ecc5fb6bff33c534d2a74e0a153e1c9c13a38d7c7bbe1&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:24",
+     "autor": "Ariel Cohen",
+     "titulo_original": "Vuelve a escalar el riesgo país arriba de 700 puntos, caen los bonos y tiembla el mercado global"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "El dólar oficial subió 5 pesos y cotiza a 1.550 pesos para la venta",
+     "resumen": "El dólar oficial cotiza este jueves a 1.500 pesos para la compra y 1.550 para la venta en el Banco Nación, 10 pesos por encima del cierre de septiembre y 70 pesos por encima del fin de 2025. El mayorista se ubica en 1.541,90 pesos, lejos del techo de la banda cambiaria que el Banco Central fija en 1.941,44 pesos.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar mayorista encadena su quinta suba consecutiva y alcanza un nuevo récord nominal",
+       "url": "https://www.ambito.com/finanzas/el-dolar-oficial-alcanzo-un-nuevo-record-nominal-pero-el-mercado-pone-la-lupa-las-reservas-del-bcra-n6336622"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-jueves-22-de-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/V2FFGAQEFFFDFESO6FLKPMUFKI.jpeg?auth=56620ddced96e53e64badcf5eca0e9fcf8012d2ed8bd4b2121e30c1e718068f8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:01",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El dólar oficial sube $5: a cuánto cotiza en los bancos de la City hoy jueves 22 de octubre"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "Broda cuestionó el \"dólar barato\" y pidió un tipo de cambio de 1.750 pesos",
+     "resumen": "El economista Miguel Ángel Broda detalló un diagnóstico crítico de la política económica oficial, advirtió sobre el riesgo de más cierres de empresas y pidió un dólar más alto para sostener la apertura comercial. Sostuvo que si no hay reactivación, el Gobierno corre riesgo electoral en 2027. Para una empresa: un tipo de cambio considerado bajo por varios analistas presiona la competitividad de la industria local frente a las importaciones.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Broda apuntó contra el “dólar barato”: el tipo de cambio que propone para la Argentina",
+       "url": "https://www.cronista.com/finanzas-mercados/broda-apunto-contra-el-dolar-barato-el-tipo-de-cambio-que-propone-para-la-argentina/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/miguel-broda-critico-el-plan-economico-javier-milei-pidio-un-dolar-mas-alto-y-advirtio-el-cierre-empresas-n6336746",
+     "imagen": "https://media.ambito.com/p/1b19e3ba8c8d042be080fa0f535810b6/adjuntos/239/imagenes/040/981/0040981694/1200x675/smart/brodajpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:47",
+     "autor": "",
+     "titulo_original": "Miguel Broda criticó el plan económico de Javier Milei, pidió un dólar más alto y advirtió sobre el cierre de empresas"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "La confianza del consumidor subió en octubre pero sigue por debajo de 2025",
+     "resumen": "El Índice de Confianza de los Consumidores de la Universidad Torcuato Di Tella subió 0,81% en octubre y llegó a 41,52 puntos, acumulando dos meses de alza, aunque todavía marca una caída de 1,9% frente a un año atrás.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/la-confianza-del-consumidor-volvio-subir-octubre-pero-aun-no-alcanza-el-nivel-2025-n6336720",
+     "imagen": "https://media.ambito.com/p/c4a29749f26680845d8ba9b0ecc9c1f0/adjuntos/239/imagenes/043/537/0043537919/1200x675/836x425:856x445/shopping-consumo-negocios.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:51",
+     "autor": "",
+     "titulo_original": "La confianza del consumidor volvió a subir en octubre, pero aún no alcanza el nivel de 2025"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Los salarios subieron 2,7% en agosto según el Indec, pero no se sintió en el consumo",
+     "resumen": "El Indec informó un incremento salarial de 2,7% en agosto, aunque solo los sueldos informales tuvieron una mejora real del 14% desde diciembre. Los datos reflejan además el achicamiento del empleo en el Estado nacional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/467203-salarios-subieron-casi-un-3-por-ciento-segun-indec-por-que-no-se-nota-en-el-consum",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612218.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:20",
+     "autor": "",
+     "titulo_original": "Los salarios subieron 2,7% en agosto según el INDEC, ¿por qué no se notó en el consumo?"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Bank of America proyecta un dólar a 2.000 pesos para fines de 2027",
+     "resumen": "El banco revisó a la baja su proyección de crecimiento para la Argentina, de 2% a 1,4% del PBI para este año y de 3,3% a 3,1% para 2027, y anticipa un dólar de 1.600 pesos para diciembre de 2026 y de 2.000 pesos a fines de 2027. BofA atribuye la revisión a la debilidad del consumo, la caída de la inversión y las tasas de interés elevadas, aunque mantiene una visión favorable sobre la oferta de dólares de las exportaciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-recuperacion-y-pbi-el-nuevo-escenario-que-espera-el-bofa-para-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/36VBSLDVGRCJJFBJXYDDWT5WCA.png?auth=59047a91e72519e9195191b660a31cf0f5929527c9921b948aa0847f7b11671c&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:29",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Dólar, recuperación y PBI: el nuevo escenario que espera el BofA para la Argentina"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "La cobertura preelectoral dispara la demanda de Cedear y el contado con liquidación",
+     "resumen": "El dólar contado con liquidación que usan las empresas para girar divisas al exterior subió 0,4% a 1.639 pesos, impulsado por la mayor demanda de Cedear, que en septiembre alcanzó 6,7 billones de pesos operados, un alza de 109,3% interanual. Las obligaciones negociables también crecieron, a 14,8 billones de pesos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-cobertura-preelectoral-se-disparo-en-la-bolsa-la-demanda-de-cedear-crece-al-109/",
+     "imagen": "https://www.cronista.com/resizer/v2/37ZZUDDMCFH33N2NJQMJP4IYII.png?auth=6920a0d486c80a2c8a6a2b82a0d7c7346316d5d958b4c65769c5516caa1543d7&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:58",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "La cobertura preelectoral se disparó en la Bolsa: la demanda de Cedear crece al 109%"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "Toyota formalizó su mayor inversión en la historia automotriz argentina",
+     "resumen": "Toyota consiguió la aprobación de su proyecto en el régimen RIGI y avanzará con una inversión de 1.341 millones de dólares para producir una pick-up híbrida no enchufable en su complejo de Zárate, con ventas externas previstas por 1.280 millones de dólares anuales. La compañía también evalúa una versión SUV sobre la misma plataforma y sumará otros 400 millones de dólares para renovar la producción de la Hilux.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Toyota consiguió el RIGI y fabricará una pick-up híbrida inédita en Argentina: cuánto invertirá",
+       "url": "https://www.iprofesional.com/economia/467213-gobierno-nacional-aprobo-rigitoyota-invertira-1252-millones-dolares-zarate"
+      },
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El RIGI de Toyota es para una producir pick-up 100% híbrida y la japonesa también planea un SUV con esa tecnología",
+       "url": "https://www.cronista.com/negocios/el-rigi-de-toyota-es-para-una-producir-pick-up-100-hibrida-y-la-japonesa-tambien-planea-un-suv-con-esa-tecnologia/"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/el-rigi-se-anota-otro-record-la-mayor-inversion-en-la-industria-automotriz-y-en-los-vehiculos-del-futuro/",
+     "imagen": "https://www.cronista.com/resizer/v2/EIHCNPEBANFGNFWA4IRVYNG6GA.jpg?auth=0ff4d6a4e7e64b7d54ff8a5e241c08c1c245cbe9a940487139532eaf1e17baeb&smart=true&width=900&height=575",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:41",
+     "autor": "Equipo Negocios",
+     "titulo_original": "El RIGI se anota otro récord: la mayor inversión en la industria automotriz será en los vehículos del futuro"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "El BID destrabó con una garantía de 200 millones de dólares una obra eléctrica de 800 millones",
+     "resumen": "El directorio del Banco Interamericano de Desarrollo aprobó una garantía de inversión a 25 años para ampliar la capacidad de transmisión eléctrica en el país. El respaldo habilita el avance de los proyectos AMBA I y la línea Puerto Madryn-Choele Choel-Bahía Blanca, dos obras clave para fortalecer el sistema argentino de interconexión. Para una empresa: más capacidad de transporte eléctrico reduce el riesgo de cortes que afectan la producción y la operación de sucursales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-bid-aprobo-la-garantia-que-destraba-una-obra-electrica-de-us-800-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/E27QPQ3VU5HZTIJGRIPCIVXT7Y.jpeg?auth=cfeaa0fc28afecfec0dc2cdb23de29efa1edf712cb157a6fe63e177843c01565&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:58",
+     "autor": "",
+     "titulo_original": "El BID aprobó la garantía que destraba una obra eléctrica de u$s 800 millones"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "La Campagnola frenó una planta clave y suspendió empleados",
+     "resumen": "La marca de conservas de Arcor frenó la producción en su planta de Mar del Plata por sobrestock de atún y una caída de 90% en la disponibilidad de caballa, y negocia salarios con el personal suspendido.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467217-planta-de-la-campagnola-frena-produccion-y-suspende-empleados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628128.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:19",
+     "autor": "",
+     "titulo_original": "La Campagnola frena la producción de planta clave y suspende a decenas de empleados"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Una empresa de salud invirtió 200 millones de pesos en atención domiciliaria y busca sumar prepagas",
+     "resumen": "Vittal lanzó un modelo de atención médica domiciliaria con enfermeros y técnicos en el lugar y el médico por videollamada, y busca que las obras sociales y prepagas lo incorporen a sus prestaciones. Por ahora el servicio, llamado Vittal Mobi, funciona solo para sus socios directos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/una-empresa-de-salud-invirtio-200-millones-en-un-nuevo-modelo-y-busca-crecer-con-las-prepagas/",
+     "imagen": "https://www.cronista.com/resizer/v2/6DWQX5BQZBCFFGTYFT45S66UOY.jpg?auth=481b7a0995983a0edceb8755323d4e26544b6622abca056d032a18970d8bf9db&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:32",
+     "autor": "",
+     "titulo_original": "Una empresa de salud invirtió $ 200 millones en un nuevo modelo y busca crecer con las prepagas"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "Lanzan un nuevo servicio de ferry entre Buenos Aires y Montevideo para competir con Buquebus",
+     "resumen": "Una nueva compañía naviera anunció que podrá realizar traslados entre las capitales de Argentina y Uruguay, luego de un largo trámite de permisos ante las autoridades de ambos países.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/467018-no-solo-buquebus-habra-un-nuevo-servicio-de-ferry-entre-buenos-aires-y-montevideo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610167.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:20",
+     "autor": "",
+     "titulo_original": "Nuevo servicio de ferry entre Buenos Aires y Montevideo para competir con Buquebus"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "SpaceX y Tesla impulsaron a Wall Street por rumores de una fusión de Elon Musk",
+     "resumen": "Las acciones de ambas compañías subieron después de que SpaceX superara las estimaciones de ganancias y Musk confirmara que evalúa un acuerdo entre las dos empresas, en una rueda en la que el apetito por las tecnológicas se reactivó parcialmente pese a la caída general del sector.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/spacex-impulsa-el-auge-la-inteligencia-artificial-n6336656",
+     "imagen": "https://media.ambito.com/p/7fb42b3acf532e35ae42b8afcf41b89c/adjuntos/239/imagenes/043/603/0043603998/1200x675/smart/elon-musk1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:31",
+     "autor": "",
+     "titulo_original": "SpaceX impulsa el auge de la Inteligencia Artificial"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "El servicio doméstico tendrá un aumento del 1,6% en noviembre",
+     "resumen": "La resolución 6/2026 de la Comisión Nacional de Trabajo en Casas Particulares fijó la suba de noviembre e incorporó al salario básico el 25% restante de la suma no remunerativa pagada en agosto. El monto final depende de la categoría, la modalidad con o sin retiro y la cantidad de horas semanales trabajadas.",
+     "relacionadas": [
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Qué empleadas domésticas tienen derecho a cobrar un 31% extra en noviembre",
+       "url": "https://www.iprofesional.com/legales/467129-que-empleadas-domesticas-cobran-un-31-por-ciento-mas-en-noviembre-de-2026"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/servicio-domestico-en-noviembre-de-2026-cuanto-cobran-las-empleadas-quienes-reciben-el-aumento-y-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KUU22RUT2JB3VP35ZSHD32NEN4.JPG?auth=ed86ade103c260bc579fc8ca3cd69f306ac9bb8f4b0530c0b34f4a9b12627268&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:01",
+     "autor": "",
+     "titulo_original": "Servicio doméstico en noviembre 2026: cuánto cobran, quiénes reciben el aumento y cómo se incorpora el bono"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "ARBA extendió hasta el 12 de noviembre el pago de tres impuestos bonaerenses",
+     "resumen": "La prórroga alcanza al Inmobiliario Rural, al Complementario y al Automotor. Los contribuyentes mantienen los beneficios de pago en término pese a la extensión del plazo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467190-arba-extendio-hasta-el-12-de-noviembre-el-pago-de-tres-impuestos-bonaerenses",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628103.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:03",
+     "autor": "",
+     "titulo_original": "ARBA extendió hasta el 12 de noviembre el pago de tres impuestos bonaerenses"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Las compras al exterior por courier ya superaron todo 2025 y podrían marcar un récord",
+     "resumen": "Las compras por courier sumaron 960 millones de dólares en los primeros nueve meses del año, un monto que ya superó el total de 2025, y podrían alcanzar 1.250 millones de dólares al cierre de 2026. Para una empresa: el auge de las compras directas al exterior le quita volumen al comercio minorista local.",
+     "relacionadas": [
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Auge de compras al exterior: las importaciones vía courier ya acumulan casi u$s1.000 millones en 2026",
+       "url": "https://www.ambito.com/economia/auge-compras-al-exterior-las-importaciones-via-courier-ya-acumulan-casi-us1000-millones-2026-n6336664"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/467222-importaciones-por-courier-en-argentina-ya-superaron-los-960-millones-de-dolares-en-9-meses",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/05/535936.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:49",
+     "autor": "",
+     "titulo_original": "Las compras al exterior por courier superaron todo 2025 y podrían marcar un récord"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Cuánto cobrará en noviembre un cajero de Coto y Carrefour",
+     "resumen": "Los cajeros de supermercados esperan definiciones sobre su paritaria para noviembre de 2026. El monto final depende de la categoría y de los adicionales que puedan sumarse al básico.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/466989-que-salario-gana-un-cajero-de-supermercado-coto-y-carrefour-en-noviembre-de-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627929.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:03",
+     "autor": "",
+     "titulo_original": "Tras los aumentos, cuánto cobra un cajero de Coto y Carrefour en noviembre de 2026"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-14",
+     "titulo": "Construir una casa: los gastos que no incluye el precio por metro cuadrado",
+     "resumen": "Honorarios profesionales, permisos municipales, conexiones de servicios y trabajos previos en el terreno pueden encarecer significativamente una obra por encima del valor del metro cuadrado publicado. La recomendación es revisar en detalle qué incluye cada presupuesto antes de aceptarlo. Para una empresa de materiales: estos costos adicionales son parte de la decisión de compra que condiciona el gasto final en insumos de construcción.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/467214-construir-una-casa-los-gastos-que-no-incluye-el-precio-por-m",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/03/593000.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:35",
+     "autor": "",
+     "titulo_original": "Construir una casa: los gastos que no incluye el precio por m2"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Tras la privatización de AySA, qué pasará con las facturas de agua y la tarifa social",
+     "resumen": "El nuevo esquema de administración de la empresa de agua y saneamiento impactará en la forma de calcular los importes de las facturas, la cobertura de la tarifa social y las inversiones previstas en infraestructura.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467208-tras-la-privatizacion-de-aysa-que-pasara-con-las-facturas-de-agua-y-la-tarifa-social",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/591364.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:42",
+     "autor": "",
+     "titulo_original": "Tras la privatización de AySA: qué pasará con las facturas de agua y la tarifa social"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Un índice revela cuánto se negocian los departamentos usados por debajo del precio pedido",
+     "resumen": "Según el Índice M² Real, elaborado por RE/MAX Argentina, la Universidad del CEMA y Reporte Inmobiliario, los departamentos usados en la Ciudad de Buenos Aires siguen cerrándose por debajo de los valores publicados en los portales, aunque la brecha se mantiene relativamente estable.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/precio-real-de-las-propiedades-como-funciona-el-indice-que-revela-la-brecha-entre-valores-publicados-y-los-de-cierre/",
+     "imagen": "https://www.cronista.com/resizer/v2/2KZBS5JRURBLBNALAIHZHM4A3M.jpg?auth=3c30b0dcf0d1a4a42eae834c64767b0b4ad8d14335f85e390dd2b74b9deebb07&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:52",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "Precio real de las propiedades: cómo funciona el índice que revela la brecha entre valores publicados y los de cierre"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "Cuánto cuesta el kilo de carne en Argentina frente a Brasil, Uruguay y Estados Unidos",
+     "resumen": "Un relevamiento mostró que el precio promedio de la carne vacuna en el país es de 13,13 dólares por kilo, por debajo de seis de los ocho mercados analizados, aunque Brasil y Paraguay ofrecen valores más bajos todavía.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/la-carne-esta-cara-o-barata-argentina-cuanto-cuesta-el-kilo-frente-brasil-uruguay-y-eeuu-n6336679",
+     "imagen": "https://media.ambito.com/p/d3970a695cf7929237fffcfb2cfdacae/adjuntos/239/imagenes/043/643/0043643533/1200x675/smart/carne.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:36",
+     "autor": "",
+     "titulo_original": "¿La carne está cara o barata en Argentina? Cuánto cuesta el kilo frente a Brasil, Uruguay y EEUU"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Cuánto cuesta abrir una franquicia de cafetería en 2026",
+     "resumen": "Las grandes cadenas de cafeterías ofrecen distintos formatos de inversión inicial, pero la rentabilidad del negocio enfrenta nuevas presiones de costos que achican el margen frente a años anteriores.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467219-franquicias-de-cafeterias-cuanto-cuesta-abrir-un-local-en-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584038.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Franquicias de cafeterías: cuánto cuesta abrir un local en 2026"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "Coto ofrece hasta 18 cuotas sin interés y descuentos por cumpleaños en octubre",
+     "resumen": "La cadena de supermercados lanzó un 40% de descuento por cumpleaños en compras online y promociones de hasta 18 cuotas sin interés en electrodomésticos durante octubre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467206-coto-regala-un-40-por-ciento-de-descuento-por-cumpleanos-y-asi-podes-aprovecharlo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/01/590407.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:22",
+     "autor": "",
+     "titulo_original": "Coto ofrece descuentos por cumpleaños y hasta 18 cuotas sin interés en octubre"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-25",
+     "titulo": "Google lanzó tres herramientas gratuitas para pymes y emprendedores",
+     "resumen": "La compañía presentó un centro integrado de recursos para pequeñas y medianas empresas, generación de imágenes alineadas a la identidad de marca y análisis financiero en tiempo real, todo basado en su asistente Gemini.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/467194-las-3-herramientas-gratuitas-que-lanzo-google-para-pymes-y-emprendedores",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2023/04/551951.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:43",
+     "autor": "",
+     "titulo_original": "Las 3 herramientas gratuitas que lanzó Google para Pymes y emprendedores"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "La demanda de Cedear y obligaciones negociables marca un cambio en el ahorro corporativo",
+     "resumen": "El crecimiento de los instrumentos en dólares operados en la Bolsa, impulsado por la cobertura preelectoral, muestra cómo las empresas y los inversores ajustan su estrategia financiera ante la incertidumbre cambiaria de los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-22-octubre-n6336588",
+     "imagen": "https://media.ambito.com/p/8c3f3d72cf7809ee88dff1476f9ed50e/adjuntos/239/imagenes/042/743/0042743993/dolar-blue-vivo-inversiones-mercados.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:43",
+     "autor": "",
+     "titulo_original": "Dólar hoy: a cuánto cotiza este jueves 22 de octubre"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-19",
+     "titulo": "Saudi Aramco evacuó su principal refinería por ataques hutíes y el petróleo sube",
+     "resumen": "La petrolera estatal saudí ordenó evacuar su sede de Dhahran y dispuso trabajo remoto para su personal, un día después de un ataque contra el aeropuerto de Dammam que dejó dos muertos. Las milicias hutíes, respaldadas por Irán, también apuntaron contra el ministerio de Defensa en Riad, en una escalada que ya impulsó el precio del petróleo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/22/la-mayor-petrolera-del-mundo-evacuo-a-su-principal-refineria-por-los-ataques-huties-mientras-sube-el-precio-del-barril-de-crudo/",
+     "imagen": "https://www.infobae.com/resizer/v2/B4TZMPR54JFUHAU7DIOSSPSHIU.JPG?auth=891d39caad57f6ec5617c06406417ccfd558afad9629a12f59bb79a8dcbe3770&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:15",
+     "autor": "",
+     "titulo_original": "La mayor petrolera del mundo evacuó a su principal refinería por los ataques hutíes mientras sube el precio del barril de crudo"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Estados Unidos e Israel analizan retomar los ataques contra Irán tras las elecciones",
+     "resumen": "Israel tendrá comicios parlamentarios el domingo 27 de octubre y Estados Unidos enfrenta elecciones de medio término el 3 de noviembre. Washington y Tel Aviv evalúan las consecuencias de prolongar el conflicto con Teherán mientras la tensión regional sigue en ascenso.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/mundo/eeuu-e-israel-analizan-retomar-los-ataques-contra-iran-despues-las-elecciones-n6336641",
+     "imagen": "https://media.ambito.com/p/c486a7b2970c1f74790aa1e2813e6a20/adjuntos/239/imagenes/043/720/0043720127/1200x675/smart/1792670019393-donald-trump-y-benjamin-netanyahu-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:26",
+     "autor": "",
+     "titulo_original": "EEUU e Israel analizan retomar los ataques contra Irán después de las elecciones"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Brasil llega al balotaje con una nueva encuesta que ubica a Flávio Bolsonaro al frente",
+     "resumen": "Un sondeo telefónico de Gerp ubicó a Flávio Bolsonaro con 52% de los votos válidos frente a 48% de Lula da Silva, una diferencia de cuatro puntos que el instituto considera estadísticamente significativa. En votos totales, Bolsonaro reúne 50% y Lula 45%, con un 5% de indecisos o en blanco, de cara a la segunda vuelta del domingo 25 de octubre.",
+     "relacionadas": [
+      {
+       "id": "LN-26",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Una nueva encuesta enfrentó a Lula y Flavio Bolsonaro en Brasil: la diferencia es de un punto",
+       "url": "https://www.lanacion.com.ar/el-mundo/una-nueva-encuesta-enfrento-a-lula-y-flavio-bolsonaro-en-brasil-la-diferencia-es-de-un-punto-nid21102026/"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Lula llega al balotaje con más respaldo que Bolsonaro en 2022: ¿alcanza para ganar?",
+       "url": "https://www.cronista.com/economia-politica/aprobacion-y-votos-alcanza-con-el-respaldo-para-ganar-una-eleccion/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-flavio-bolsonaro-camino-al-balotaje-hoy-jueves-22-de-octubre-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2RLNIZOHBJAEJKY326WYO5CISY.jpg?auth=1159dbdc81b3b4e1c7d9383d86bbbab07c723e38db3bef022c66e2dea77d3ec7&smart=true&width=900&height=609",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:05",
+     "autor": "",
+     "titulo_original": "Elecciones Brasil 2026, EN VIVO: Lula vs. Flávio Bolsonaro camino al balotaje, hoy jueves 22 de octubre"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Los videos electorales hechos con inteligencia artificial inundan la campaña en Brasil",
+     "resumen": "La proliferación de contenido generado con inteligencia artificial complica a las autoridades electorales brasileñas, que ya vienen lidiando desde hace años con la desinformación en internet, en una contienda que se define este domingo entre Lula y Flávio Bolsonaro.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/videos-electorales-inteligencia-artificial-inundan-brasil-podrian-influir-voto_0_fqARrojr2x.html",
+     "imagen": "https://www.clarin.com/img/2026/10/22/buPImzWLL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los vídeos electorales con inteligencia artificial inundan Brasil. ¿Podrían influir en el voto?"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "La OTAN habilitará compras de armamento más rápidas y baratas para Ucrania",
+     "resumen": "La Agencia de Apoyo y Adquisiciones de la OTAN activará un mecanismo de compras centralizadas que permitirá a Kiev acceder a armas, municiones y equipamiento militar en plazos más cortos y con posibles reducciones de costos, tras la incorporación de Ucrania a una asociación de cooperación militar e industrial de la Alianza.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/22/la-otan-permitira-a-ucrania-comprar-armas-municiones-y-equipamiento-militar-mas-rapido-y-a-menor-costo/",
+     "imagen": "https://www.infobae.com/resizer/v2/YE4J2RYMNJG3RDX2XGPSXDS6WE.jpg?auth=63fe4fc55aaf9bc30eb0172dc068d3ff8464ddd5b75068adb8edc21e6a24cd33&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:36",
+     "autor": "",
+     "titulo_original": "La OTAN permitirá a Ucrania comprar armas, municiones y equipamiento militar más rápido y a menor costo"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "Un estadounidense detenido en Rusia por colaborar con Ucrania regresó a Estados Unidos",
+     "resumen": "El hombre, acusado por Moscú de luchar del lado ucraniano, volvió a su país tras cuatro años de detención. La liberación fue anunciada por Vladimir Putin y Donald Trump difundió imágenes de su regreso, aunque suavizó algunas sanciones contra Rusia como parte del gesto.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/estadounidense-preso-en-rusia-acusado-de-luchar-por-ucrania-regresa-a-eeuu_0_nMiXFU5hy5.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Estadounidense preso en Rusia acusado de luchar por Ucrania regresa a EEUU"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza la desinformación detrás de las protestas en Francia, la influencia evangélica en la política brasileña y el deterioro de las cuentas públicas francesas.",
+   "notas": [
+    {
+     "id": "GC-03",
+     "titulo": "La crisis de la deuda francesa se agrava y la tasa a diez años supera el 5 por ciento",
+     "resumen": "El rendimiento exigido por los mercados para la deuda pública francesa a diez años superó el 5% anual por primera vez desde 2002, y ya es más alto que el de la deuda estadounidense, algo que no ocurría desde 2013. El diferencial con los bonos alemanes superó los 170 puntos básicos, el nivel más alto desde noviembre de 2011, en pleno momento álgido de la crisis de deuda europea.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/22/la-crisis-francesa-de-la-deuda-se-agrava/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "08:14",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La crisis de la deuda francesa se agrava"
+    },
+    {
+     "id": "GC-01",
+     "titulo": "Un estudio revela cómo actores extranjeros amplificaron la indignación por las protestas en Francia",
+     "resumen": "Un informe de la ONG Alliance4Europe, basado en un corpus de cerca de 550.000 publicaciones, detectó que distintos actores extranjeros contribuyeron a difundir narrativas distorsionadas sobre las manifestaciones violentas del 17 y 18 de octubre en Francia. Mientras que en francés solo el 3% de las publicaciones atribuyó los disturbios a los migrantes o al islam, ese porcentaje fue mucho más alto en publicaciones en inglés.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/22/como-actores-extranjeros-avivan-la-indignacion-en-linea-por-manifestaciones-en-francia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:03",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Cómo algunos actores extranjeros avivaron la indignación en las redes sociales en torno a las manifestaciones del 17 de octubre en Francia"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Una investigación examina la influencia evangélica sobre el voto en Brasil",
+     "resumen": "El análisis de Le Grand Continent matiza la idea de un \"voto gregario\" de los fieles evangélicos hacia sus pastores en Brasil, y explora cómo la relación entre religión y política se juega de forma más compleja de lo que suele describirse, en la antesala del balotaje presidencial del domingo.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/22/bolsonaro-influencia-evangelica-investigacion/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/124a9732-scaled.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "08:19",
+     "autor": "Louis Puel",
+     "titulo_original": "Bolsonaro y la influencia evangélica: una investigación"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-02",
+     "titulo": "Estudiantes busca el pase a la final de la Libertadores ante Flamengo en Río de Janeiro",
+     "resumen": "El equipo platense define este jueves, como visitante, la llave de semifinal de la Copa Libertadores 2026 ante Flamengo, tras haber igualado en el partido de ida.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Guido Carrillo, el emblema de Estudiantes que volvió para noches como estas y “cambia todo” por estar en la final",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/guido-carrillo-el-emblema-de-estudiantes-que-volvio-para-noches-como-estas-y-cambia-todo-por-estar-nid22102026/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/estudiantes-busca-un-lugar-la-final-la-libertadores-2026-que-hora-juega-contra-flamengo-y-como-verlo-vivo-n6336741",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:00",
+     "autor": "",
+     "titulo_original": "Estudiantes busca un lugar en la final de la Libertadores 2026: a qué hora juega contra Flamengo y cómo verlo en vivo"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Guido Carrillo, el goleador histórico de Estudiantes, va por otra noche grande en el Maracaná",
+     "resumen": "El delantero, máximo artillero del club en la Libertadores, busca llevar a Estudiantes a la final de la Copa ante un Maracaná repleto, a los 35 años y en la oportunidad más importante desde su regreso al Pincha.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/guido-carrillo-el-emblema-de-estudiantes-que-volvio-para-noches-como-estas-y-cambia-todo-por-estar-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PZLWWW4LKJCWRBFVOXMYE6HN6Q.jpg?auth=69ae5e3a3bfbaeeb954236e7c4d8644699bc013ce56f2e120639e57cad7a24fb&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:31",
+     "autor": "Leandro Contento",
+     "titulo_original": "Guido Carrillo, el emblema de Estudiantes que volvió para noches como estas y “cambia todo” por estar en la final"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "Nico Paz hizo historia con dos goles ante Manchester United y el Real Madrid pide su regreso",
+     "resumen": "El argentino marcó dos goles y dio una asistencia en la goleada 4-1 del Como sobre el Manchester United por la Champions League. La actuación reavivó el reclamo de los hinchas del Real Madrid, que esperan que el club active su opción de recompra sobre el jugador.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Crece el conflicto en Manchester Unted tras el cortocircuito de Licha Martínez con el entrenador: el cruce del DT con el capitán y los candidatos que suenan",
+       "url": "https://www.infobae.com/deportes/2026/10/22/crece-el-conflicto-en-manchester-unted-tras-el-cortocircuito-de-licha-martinez-con-el-entrenador-el-cruce-del-dt-con-el-capitan-y-los-candidatos-que-suenan/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/nico-paz-brillo-manchester-united-hizo-historia-como-messi-y-los-hinchas-del-real-madrid-exigen-su-regreso-n6336633",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:28",
+     "autor": "",
+     "titulo_original": "Nico Paz brilló ante Manchester United, hizo historia como Messi y los hinchas del Real Madrid exigen su regreso"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Crece la crisis en el Manchester United tras el cruce entre Lisandro Martínez y el entrenador",
+     "resumen": "El club acumula siete partidos sin ganar en todas las competencias, tras caer 4-1 ante el Como. Lisandro Martínez cuestionó la política de incorporaciones, Bruno Fernandes apuntó contra el planteo táctico de Michael Carrick y ya circulan nombres de posibles reemplazantes del entrenador.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/22/crece-el-conflicto-en-manchester-unted-tras-el-cortocircuito-de-licha-martinez-con-el-entrenador-el-cruce-del-dt-con-el-capitan-y-los-candidatos-que-suenan/",
+     "imagen": "https://www.infobae.com/resizer/v2/BHAT476YZZHYNA4YQKO43SLGLE.JPG?auth=64db9b23fd9ad06eaec3fad2ec549dd894a5f7cc877ce878da139dbc62c0636c&smart=true&width=900&height=612",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:37",
+     "autor": "",
+     "titulo_original": "Crece el conflicto en Manchester Unted tras el cortocircuito de Licha Martínez con el entrenador: el cruce del DT con el capitán y los candidatos que suenan"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "Lionel Messi llegó a Oviedo para recibir el Premio Princesa de Asturias",
+     "resumen": "El futbolista arribó junto a su esposa Antonela Roccuzzo a la ciudad española, donde este viernes recibirá el Premio Princesa de Asturias de los Deportes 2026. Una multitud se acercó a saludarlo en las calles cercanas al Hotel Reconquista.",
+     "relacionadas": [
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Lionel Messi llegó a Oviedo para recibir el premio Princesa de Asturias",
+       "url": "https://www.lanacion.com.ar/deportes/lionel-messi-llego-a-oviedo-para-recibir-el-premio-princesa-de-asturias-nid22102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/lionel-messi-y-antonela-roccuzzo-llegaron-a-espana-y-causaron-furor-con-sus-elegantes-looks-total-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3CQHCIX6BRDIZPT3IOOZQY457I.jpg?auth=98edb47d403de48a7f843e025e3cba01cec83394b4f9869c71d3f3bdc8ddd728&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:56",
+     "autor": "",
+     "titulo_original": "Lionel Messi y Antonela Roccuzzo llegaron a España y causaron furor con sus elegantes looks total black"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "Boca aumentó 40 por ciento el valor de su plantel desde la final de 2023",
+     "resumen": "El club pasó de una cotización de 89,3 millones de dólares antes de la final de la Libertadores ante Fluminense a una valuación estimada de 125,2 millones de dólares en la actualidad, impulsada por la apuesta por los juveniles y las proyecciones de reventa de jugadores.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/boca-aumento-un-40-el-valor-su-plantel-la-final-2023-y-va-otro-salto-economico-n6336683",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:35",
+     "autor": "",
+     "titulo_original": "Boca aumentó un 40% el valor de su plantel desde la final de 2023 y va por otro salto económico"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Conmoción en el rugby francés por la muerte de una jugadora de 17 años en pleno partido",
+     "resumen": "Cléa Menier, jugadora de la Union du Bassin Marmandais, sufrió un paro cardiorrespiratorio tras un fuerte golpe en la cabeza durante un partido y falleció pese a ser reanimada y trasladada de urgencia a un hospital de Burdeos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/conmocion-en-el-rugby-frances-fallecio-en-pleno-partido-una-jugadora-de-17-anos-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OPYPA2BZVNBJTGOUGT2QTFLCTM.JPG?auth=1f185d05a357b076408cc03de38cd206d01da2e2ca73216c2eee5bd9c3e1cc4f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:59",
+     "autor": "",
+     "titulo_original": "Conmoción en el rugby francés: murió en pleno partido una jugadora de 17 años"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Franco Colapinto se preparó a caballo en un rancho de Austin antes del Gran Premio de Estados Unidos",
+     "resumen": "El piloto de Alpine visitó un rancho en Texas y montó a caballo por primera vez, en la previa de las prácticas del Gran Premio de Estados Unidos de Fórmula 1 en el Circuito de las Américas, este fin de semana. El bonaerense de 23 años busca dejar atrás un complicado triplete asiático, en el que no pudo completar la carrera en Singapur por un problema en la transmisión de su auto.",
+     "relacionadas": [
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Colapinto en \"modo cowboy\": qué hacía el piloto de Alpine cabalgando en la previa del Gran Premio de Estados Unidos",
+       "url": "https://www.clarin.com/deportes/colapinto-modo-cowboy-piloto-alpine-cabalgando-previa-gran-premio-estados-unidos_0_pXaFIdl0YP.html"
+      },
+      {
+       "id": "LN-05",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El divertido entrenamiento estilo cowboy de Franco Colapinto en la previa del GP de los Estados Unidos: “Gaucho Power”",
+       "url": "https://www.lanacion.com.ar/deportes/el-divertido-entrenamiento-estilo-cowboy-de-franco-colapinto-en-la-previa-del-gp-de-los-estados-nid22102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/10/22/los-desopilantes-videos-de-franco-colapinto-cabalgando-que-causaron-furor-en-las-redes-sociales-el-gaucho-salvaje/",
+     "imagen": "https://www.infobae.com/resizer/v2/6YBTWP5INVFVBGFFJISCGJ2XEI.jpg?auth=4acf2dd3ec9f2fcd87c8ff8b8ef32e4cf2bfa85795b7e8a337e9c3514784b4d3&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:57",
+     "autor": "",
+     "titulo_original": "Los desopilantes videos de Franco Colapinto cabalgando antes del GP de Estados Unidos de F1 que causaron furor: “El gaucho salvaje”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "Una bodega histórica del Valle de Uco presenta nuevas etiquetas con enólogo nuevo",
+     "resumen": "La bodega mendocina Monteviejo atraviesa un momento clave de renovación, con un nuevo enólogo y etiquetas que combinan la historia del lugar con su etapa actual, en uno de los polos vitivinícolas más visitados del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/vinos/467178-nuevos-vinos-de-mitica-bodega-de-valle-de-uco-valen-la-pena",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628090.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:15",
+     "autor": "",
+     "titulo_original": "Probamos los nuevos vinos de una mítica bodega del Valle de Uco: ¿vale la pena comprarlos?"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "Un complejo termal a tres horas de Buenos Aires ofrece 13 piletas y descuento para jubilados",
+     "resumen": "El predio cuenta con aguas termales de hasta 40 grados, hidromasajes y espacios de relax, además de una tarifa diferencial del 60% de descuento para jubilados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/467135-a-3-horas-de-buenos-aires-termas-con-60-por-ciento-de-descuento-para-jubilados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628040.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:03",
+     "autor": "",
+     "titulo_original": "Las termas con 13 piletas a 3 horas de Buenos Aires y 60% de descuento para jubilados"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-16",
+     "titulo": "El fenómeno de El Niño dejó más de mil personas afectadas por inundaciones en Chaco",
+     "resumen": "Defensa Civil informó que 913 personas fueron trasladadas y 281 se autoevacuaron por la crecida de los ríos Paraná y Uruguay. En paralelo, los productores aceleran el traslado de unas 900.000 cabezas de ganado desde las zonas de islas ante el avance del agua.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/22/el-nino-hay-mas-de-un-millar-de-personas-afectadas-por-las-inundaciones-en-chaco/",
+     "imagen": "https://www.infobae.com/resizer/v2/DMUFNNMUOZEXLHOZWGGEPJT3UI.jpg?auth=84dd051135f66082157bcc596de9ebd72b9a10a1fe172471f424b59c2c62b867&smart=true&width=850&height=478",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:31",
+     "autor": "Juan A. Bracco",
+     "titulo_original": "El Niño: hay más de un millar de personas afectadas por las inundaciones en Chaco"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "El río Paraná rompió defensas y dejó tres barrios inundados en Paso de la Patria",
+     "resumen": "La rotura de un terraplén en esta localidad turística correntina, el lunes por la noche, anegó los barrios Don Julián, La Isla y Pescadores. Si bien el pico de la crecida ya pasó, las lluvias previstas en Brasil amenazan con una nueva onda que podría prolongar la emergencia en todo el Litoral.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/el-rio-parana-rompio-las-defensas-de-una-importante-ciudad-turistica-e-inundo-tres-barrios-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FL4X5PAWYFA7LNH6KVAFLKN4QM.jpeg?auth=dd3e89dded33febcb83077b5f9ee208a6746a41293e39b8acc5fda3f7a0b7216&smart=true&width=900&height=597",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:41",
+     "autor": "Germán de los Santos",
+     "titulo_original": "El río Paraná rompió las defensas de una importante ciudad turística e inundó tres barrios"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "El Servicio Meteorológico Nacional prevé lluvias fuertes en diez provincias por el Súper Niño",
+     "resumen": "El organismo anticipó que el fenómeno climático alcanzará una intensidad fuerte o muy fuerte en el centro-este del país, con alertas por temporales en diez provincias y precipitaciones previstas también en el área metropolitana de Buenos Aires.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-pico-fuertes-lluvias-provincias-afectadas_0_O8voSAqVpS.html",
+     "imagen": "https://www.clarin.com/img/2026/10/22/zKWMaLEZE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: cuándo será el pico de las lluvias y qué provincias serán las más afectadas"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del jueves veintidós de octubre. El dólar oficial cerró la rueda de ayer en mil quinientos cincuenta pesos para la venta, el dólar blue en mil quinientos sesenta y cinco pesos, y el oro cotiza cerca de cuatro mil setenta y siete dólares la onza. El panorama del mediodía está marcado por los mercados en alerta y la política en plena ebullición antes de las elecciones de Brasil del domingo. El riesgo país volvió a superar los setecientos puntos básicos, llegando a setecientos tres según el banco JP Morgan, mientras los bonos argentinos caen con fuerza en un día de aversión global al riesgo. El petróleo saltó a ciento doce dólares el barril por la escalada de ataques hutíes en Arabia Saudita, y Wall Street retrocede golpeada por balances tecnológicos que no cumplieron las expectativas. Del lado positivo, Toyota formalizó la mayor inversión de la historia automotriz argentina y el Banco Interamericano de Desarrollo destrabó una obra eléctrica clave para el área metropolitana de Buenos Aires.\n\nEn política, el Gobierno declaró organizaciones terroristas al Cártel de Sinaloa, las FARC-E-P, el Ele Ene y otros dos grupos de la región, en una medida formalizada en el Boletín Oficial. La Legislatura bonaerense aprobó una ley que prohíbe el uso de celulares en las escuelas secundarias durante la jornada de clases. Patricia Bullrich dijo estar preparada para ser presidenta, aunque evitó confirmar una candidatura para dos mil veintisiete, mientras el peronismo busca una nueva foto de unidad entre gobernadores, Máximo Kirchner y Sergio Massa para discutir las primarias y el Presupuesto. Una encuesta de la Universidad de San Andrés mostró un empate técnico entre La Libertad Avanza y el peronismo de cara a las elecciones del año próximo. También avanza en la Legislatura bonaerense un proyecto para habilitar pistolas eléctricas para la policía, y un sector de los docentes bonaerenses inició un paro de cuarenta y ocho horas pese al acuerdo salarial alcanzado con el resto de los gremios.\n\nEn economía y mercados, además del salto del riesgo país, el dólar oficial subió cinco pesos en la semana y el mayorista encadenó su quinta suba consecutiva. El economista Miguel Ángel Broda cuestionó lo que llama el dólar barato y pidió un tipo de cambio de mil setecientos cincuenta pesos para sostener la apertura comercial, advirtiendo sobre el riesgo de más cierres de empresas. La confianza del consumidor subió levemente en octubre pero todavía está por debajo de los niveles de hace un año, y los salarios medidos por el Indec subieron dos coma siete por ciento en agosto, aunque la mejora no se sintió en el consumo. El banco Bank of America proyectó un dólar de dos mil pesos para fines de dos mil veintisiete y recortó su previsión de crecimiento para el país. La cobertura preelectoral también se nota en la Bolsa, con un salto en la demanda de Cedear y el contado con liquidación en mil seiscientos treinta y nueve pesos.\n\nEn negocios y empresas, la noticia del día es que Toyota consiguió la aprobación de su proyecto en el régimen de incentivo para grandes inversiones: invertirá más de mil trescientos millones de dólares para producir una camioneta híbrida en su planta de Zárate, con exportaciones previstas por mil doscientos ochenta millones de dólares al año. El Banco Interamericano de Desarrollo aprobó, por su parte, una garantía de doscientos millones de dólares que destraba una obra eléctrica de ochocientos millones para ampliar la capacidad de transporte de electricidad en el área metropolitana. En un tono distinto, la fábrica de conservas La Campagnola frenó una planta en Mar del Plata por sobrestock de atún y suspendió empleados, y una empresa de salud invirtió doscientos millones de pesos en un nuevo modelo de atención domiciliaria para sumar a las prepagas. También se anunció un nuevo servicio de ferry entre Buenos Aires y Montevideo para competir con Buquebus.\n\nEn impuestos, laboral y normativa, el servicio doméstico tendrá un aumento de uno coma seis por ciento en noviembre, con la incorporación al básico del resto de la suma no remunerativa pagada en agosto. La agencia de recaudación bonaerense extendió hasta el doce de noviembre el pago de tres impuestos provinciales. Y las compras al exterior por courier ya superaron todo el año pasado, con novecientos sesenta millones de dólares acumulados, una cifra que podría llegar a mil doscientos cincuenta millones para fin de año; para una empresa, esto le quita volumen al comercio minorista local.\n\nEn consumo, construcción y retail, un informe detalla los gastos que no incluye el precio por metro cuadrado al construir una casa, como honorarios, permisos y conexiones de servicios, algo clave para quien compra materiales de construcción. Tras la privatización de la empresa de agua AySA, se analiza qué pasará con las facturas y la tarifa social. Un índice inmobiliario muestra que los departamentos usados en la Ciudad de Buenos Aires siguen cerrándose por debajo del precio publicado. Y un relevamiento ubicó el precio de la carne vacuna argentina por debajo de seis de los ocho países comparados, aunque por encima de Brasil y Paraguay.\n\nEn management, Google lanzó tres herramientas gratuitas para pymes y emprendedores basadas en su asistente de inteligencia artificial, con un centro de recursos, generación de imágenes de marca y análisis financiero en tiempo real.\n\nEn el mundo, la petrolera estatal saudí Aramco evacuó su principal refinería por los ataques hutíes, en momentos en que Estados Unidos e Israel evalúan retomar los ataques contra Irán después de sus respectivas elecciones. Brasil llega a los últimos días antes del balotaje del domingo entre Lula da Silva y Flávio Bolsonaro: una nueva encuesta telefónica ubica a Bolsonaro cuatro puntos arriba, mientras crecen los videos de campaña hechos con inteligencia artificial. La OTAN, por su parte, habilitará compras de armamento más rápidas y baratas para Ucrania, y un estadounidense detenido en Rusia por colaborar con Kiev regresó a su país tras cuatro años.\n\nLe Grand Continent analiza la crisis de la deuda francesa, que llevó la tasa a diez años por encima del cinco por ciento por primera vez desde dos mil dos, además de un estudio sobre la desinformación extranjera en las protestas de Francia y una investigación sobre la influencia evangélica en la política de Brasil.\n\nEn deportes, Estudiantes de La Plata busca esta noche el pase a la final de la Copa Libertadores ante Flamengo en el Maracaná, con Guido Carrillo como goleador histórico del equipo. En Europa, Nico Paz hizo historia con dos goles ante el Manchester United, que atraviesa una crisis interna con roces entre Lisandro Martínez y el entrenador. Lionel Messi llegó a Oviedo para recibir mañana el Premio Princesa de Asturias de los Deportes, y Boca aumentó cuarenta por ciento el valor de su plantel desde la final de dos mil veintitrés. Hubo también una noticia triste en el rugby francés, con la muerte de una jugadora de diecisiete años durante un partido. Y Franco Colapinto se preparó a caballo en un rancho de Austin antes del Gran Premio de Estados Unidos de Fórmula uno, que se corre este fin de semana en el Circuito de las Américas, buscando dejar atrás un complicado paso por Asia.\n\nPara cerrar, en turismo, una bodega histórica del Valle de Uco en Mendoza presenta nuevas etiquetas de la mano de un enólogo nuevo, y un complejo termal a tres horas de Buenos Aires ofrece trece piletas con descuento para jubilados. Y en sociedad, el fenómeno de El Niño sigue golpeando al Litoral: más de mil personas fueron evacuadas en Chaco y el río Paraná rompió defensas e inundó tres barrios en la localidad turística de Paso de la Patria, mientras el Servicio Meteorológico Nacional prevé lluvias fuertes en diez provincias en los próximos días.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Todas las fuentes respondieron correctamente en esta corrida (156 notas descargadas, 8 de 8 series de mercados actualizadas). No se detectó ninguna mención de Club Atlético Tigre en el material crudo de esta franja horaria, por lo que no se incluyó en deportes.",
+ "slug": "2026-10-22-mediodia",
+ "generado_ba": "22/10/2026 15:20"
+}
