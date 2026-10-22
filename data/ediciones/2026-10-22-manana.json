@@ -1,0 +1,961 @@
+{
+ "fecha": "2026-10-22",
+ "edicion": "manana",
+ "titulo": "Freno económico, ley de Discapacidad aprobada y tensión en Medio Oriente",
+ "apertura": "La economía argentina volvió a sorprender en baja: el Emae de agosto confirmó el freno de la actividad y el Gobierno ya convive con el riesgo de una recesión técnica, mientras el riesgo país se mantiene por encima de los 670 puntos a un año de las elecciones de 2027. En el plano político, Diputados dio media sanción a la ley de Discapacidad con un amplio consenso y avanzó también contra el vandalismo rural, en una madrugada legislativa intensa. Afuera, la tensión en Medio Oriente escala con ataques en Arabia Saudita y el estrecho de Ormuz, mientras Brasil llega a los últimos días antes del balotaje entre Lula y Flávio Bolsonaro.",
+ "claves": [
+  "El Emae de agosto subió apenas 0,1% mensual y cayó 1,7% interanual; economistas ya dan por hecha una recesión técnica en el tercer trimestre.",
+  "Diputados aprobó con 237 votos la nueva ley de Discapacidad, que reemplaza la emergencia por un régimen permanente; pasa al Senado.",
+  "También obtuvo media sanción el proyecto contra el vandalismo rural, con penas de hasta 10 años de prisión.",
+  "El oficialismo bloqueó el debate sobre endeudamiento familiar y el tema volvió a comisión sin fecha.",
+  "El riesgo país cerró en 674 puntos y la brecha cambiaria rozó el 6%, aunque el dólar oficial se mantuvo estable en 1.545 pesos.",
+  "Estados Unidos ordenó evacuar personal diplomático de Arabia Saudita por la escalada de ataques hutíes, que también golpearon el aeropuerto de Dammam.",
+  "Brasil define el balotaje el domingo entre Lula da Silva y Flávio Bolsonaro, con encuestas muy ajustadas.",
+  "En Vaca Muerta, Neuquén adjudicó ocho áreas petroleras en la mayor licitación en una década."
+ ],
+ "cifras": [
+  {
+   "nombre": "Emae de agosto (Indec)",
+   "valor": "+0,1% mensual",
+   "variacion": "-1,7% interanual",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Soja (Bolsa de Chicago)",
+   "valor": "US$ 457,55 por tonelada",
+   "variacion": "-3,62% en ocho ruedas",
+   "fuente": "LN-26"
+  },
+  {
+   "nombre": "Merval en pesos",
+   "valor": "+1,62%",
+   "fuente": "CR-23"
+  },
+  {
+   "nombre": "Brecha cambiaria (CCL)",
+   "valor": "cerca del 6%",
+   "fuente": "IB-25"
+  },
+  {
+   "nombre": "Morosidad bancaria",
+   "valor": "12,8%",
+   "fuente": "CR-05"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-17",
+     "titulo": "Diputados aprobó la nueva ley de discapacidad con 237 votos",
+     "resumen": "La Cámara de Diputados dio media sanción a un régimen permanente de discapacidad que reemplaza la emergencia vigente, con 237 votos a favor, 9 en contra y 4 abstenciones. El oficialismo aceptó los cambios pedidos por la oposición y mantuvo la pensión no contributiva compatible con el empleo formal, la actualización por inflación y el nomenclador unificado de prestaciones. El proyecto pasa ahora al Senado para su tratamiento.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La reacción de la política al amplio acuerdo que permitió dar media sanción al proyecto de Discapacidad",
+       "url": "https://www.infobae.com/politica/2026/10/22/la-reaccion-de-la-politica-al-amplio-acuerdo-que-permitio-dar-media-sancion-al-proyecto-de-discapacidad/"
+      },
+      {
+       "id": "CR-09",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Diputados: el oficialismo aprobó la ley de Discapacidad que intentó desarmar en el Presupuesto",
+       "url": "https://www.cronista.com/economia-politica/el-oficialismo-alcanzo-un-acuerdo-por-nuevo-regimen-de-discapacidad-la-votacion/"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Holgada aprobación a un proyecto para fondos en discapacidad en Diputados",
+       "url": "https://www.ambito.com/politica/el-gobierno-aspira-conseguir-unanimidad-su-proyecto-discapacidad-diputados-y-la-sesion-podria-terminarse-antes-tiempo-n6336495"
+      },
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Diputados aprobó la Ley de Discapacidad con concesiones de LLA y un apoyo casi total",
+       "url": "https://www.iprofesional.com/politica/467168-diputados-aprobo-la-ley-de-discapacidad-con-concesiones-de-lla-y-apoyo-casi-total"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/22/con-cambios-de-ultimo-momento-y-apoyo-opositor-el-gobierno-logro-aprobar-una-nueva-ley-de-discapacidad-en-diputados/",
+     "imagen": "https://www.infobae.com/resizer/v2/6SURPXW2IBGPPGMKYGAVG7G5WM.jpg?auth=59060fd0052b2716f5ccf62ee72b8aa1e84f687b2bb0ea7b3240a66e47e2ef8a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:53",
+     "autor": "Federico Millenaar",
+     "titulo_original": "Con cambios de último momento y amplio apoyo opositor, el Gobierno aprobó una nueva ley de Discapacidad en Diputados"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Diputados también avanzó contra el vandalismo rural",
+     "resumen": "En la misma sesión maratónica, la Cámara aprobó por 162 votos a favor, 77 en contra y una abstención un proyecto que crea la figura de vandalismo rural en el Código Penal. La pena prevista es de hasta ocho años de prisión por daños a la producción agropecuaria, que puede llegar a diez si el hecho lo cometen tres o más personas de manera coordinada o si provoca la pérdida total de la cosecha.",
+     "url": "https://www.lanacion.com.ar/politica/vandalismo-rural-diputados-aprobo-un-proyecto-que-preve-hasta-ocho-anos-de-prision-para-quienes-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RT2IW6QKVRDMHLGIXQGZU2BKKY.JPG?auth=4f2f421fa6ba2b502c4d2b030a2c238bdfed893d7bc9dd74dd295030e7c33ba6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:32",
+     "autor": "",
+     "titulo_original": "Vandalismo rural: Diputados aprobó un proyecto que prevé hasta 10 años de prisión para quienes provoquen daños a la producción del agro",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-18",
+     "titulo": "El oficialismo bloqueó el debate sobre endeudamiento familiar",
+     "resumen": "El Gobierno no reunió los votos para aprobar su propio proyecto de educación financiera contra el sobreendeudamiento de las familias, pero sí logró frenar las iniciativas de la oposición y devolver todo el tema a comisión sin fecha de dictamen. Bloques críticos del oficialismo denunciaron una maniobra para cajonear los proyectos.",
+     "url": "https://www.infobae.com/politica/2026/10/22/por-falta-de-consensos-no-se-aprobo-ningun-proyecto-sobre-endeudamiento-familiar-y-el-tema-volvio-a-comision/",
+     "imagen": "https://www.infobae.com/resizer/v2/JFH5OFO6CZBHVJYZWJPWS6LYBE.jpg?auth=18824ee9c15066c62871b64d5202993f56aa364348bbee2c3702f6b1b7679fd3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:46",
+     "autor": "Federico Millenaar",
+     "titulo_original": "Por falta de consensos, no se aprobó ningún proyecto sobre endeudamiento familiar y el tema volvió a comisión",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Escaló la interna libertaria por el Islam",
+     "resumen": "El propagandista Daniel Parisini, conocido como el Gordo Dan, cuestionó públicamente a Alberto Benegas Lynch (h) y a Martín Menem luego de que el primero pidiera no vincular el terrorismo con el Islam. La disputa se da en paralelo a una ofensiva de las Fuerzas del Cielo, el espacio que responde a Santiago Caputo, contra la comunidad musulmana, a la que vinculan con el terrorismo y con las protestas europeas.",
+     "url": "https://www.lanacion.com.ar/politica/escala-la-interna-libertaria-por-el-islam-el-gordo-dan-ataco-a-benegas-lynch-el-procer-de-milei-y-a-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TSZ3SBS6BVA35IVNE4XLTMQYLE.jpg?auth=6fe79a23df5d1173ebd7f59b821a10d98a2eefe312025fe5dfd9571f5fce1fce&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:28",
+     "autor": "",
+     "titulo_original": "Escala la interna libertaria por el Islam: el Gordo Dan atacó a Benegas Lynch, el “prócer” de Milei, y a Martín Menem",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-17",
+     "titulo": "El juicio a Cristina Kirchner por Hotesur y Los Sauces arranca este viernes",
+     "resumen": "El Tribunal Oral Federal 5 unificó las causas Hotesur y Los Sauces en un único debate que comenzará este viernes 23 de octubre a las 10, con Cristina Fernández de Kirchner, Máximo Kirchner y otros acusados como imputados. La participación remota por Zoom quedó habilitada solo para la lectura inicial de las acusaciones; luego la regla será la presencialidad en los tribunales de Comodoro Py.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los Sauces y Hotesur: el juicio contra Cristina Kirchner comenzará este viernes y los imputados podrán conectarse de manera virtual",
+       "url": "https://www.ambito.com/politica/los-sauces-y-hotesur-el-juicio-contra-cristina-kirchner-comenzara-este-viernes-y-los-imputados-podran-conectarse-manera-virtual-n6336527"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/hotesur-y-los-sauces-como-sera-el-juicio-a-cristina-kirchner/",
+     "imagen": "https://www.cronista.com/resizer/v2/WRLYZOEQKRE3DDX2I32K7XOR74.jpeg?auth=df548e44ea4f21e24e63e4fb930f8993b35d8ab1cfa27715d7afbfa78a0c934b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:23",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Hotesur y Los Sauces: cómo será el juicio a Cristina Kirchner"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "Piden ampliar las indagatorias en la causa Andis",
+     "resumen": "Los fiscales Franco Picardi y Sergio Rodríguez solicitaron ampliar las indagatorias al exdirector de la Andis Diego Spagnuolo y a otros imputados por la causa de corrupción en la compra de medicamentos de alto costo. El pedido también alcanza a directivos de Suizo Argentina y atribuye nuevos pagos de sobornos a Spagnuolo por parte del empresario Miguel Ángel Calvete.",
+     "url": "https://www.cronista.com/economia-politica/andis-los-fiscales-pidieron-ampliar-las-indagatorias-a-spagnuolo-y-otros-imputados/",
+     "imagen": "https://www.cronista.com/resizer/v2/XWVF5XI5SBCGTFGU4T2Y3JYPZM.jpg?auth=dae7ce66940b5ef5f34b7bfd7542c6408f48ade480488977232744dd8a08cd17&smart=true&width=900&height=593",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:23",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "ANDIS: los fiscales pidieron ampliar las indagatorias a Spagnuolo y otros imputados",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-02",
+     "titulo": "La imagen negativa de Milei trepó al 56 por ciento",
+     "resumen": "Un informe registró un salto de cinco puntos por encima del promedio mensual en la imagen negativa del Presidente, luego de que cuestionara públicamente a quienes dicen no llegar a fin de mes.",
+     "url": "https://www.ambito.com/politica/la-imagen-negativa-javier-milei-trepo-al-56-sus-dichos-llegar-fin-mes-n6336583",
+     "imagen": "https://media.ambito.com/p/a91827f2748633811c2a15d40bad4e91/adjuntos/239/imagenes/043/706/0043706241/javier-milei-atril-estados-unidos.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:02",
+     "autor": "",
+     "titulo_original": "La imagen negativa de Javier Milei trepó al 56% tras sus dichos sobre llegar a fin de mes",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "El Emae confirma el freno de la economía y acerca la recesión técnica",
+     "resumen": "El Estimador Mensual de Actividad Económica de agosto subió apenas 0,1% desestacionalizado frente a julio, tras la caída de 2,8% del mes previo, y marcó una baja interanual de 1,7%, la mayor desde septiembre de 2024. Para evitar que el tercer trimestre cierre en recesión técnica, la actividad de septiembre debería saltar 8,5% desestacionalizado, algo que los analistas consideran prácticamente imposible. Las consultoras ya recalculan a la baja su proyección de crecimiento para todo el año, de un rebote esperado a apenas 1%. Para una empresa: menor actividad implica demanda más débil y financiamiento más caro hacia fin de año.",
+     "relacionadas": [
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La economía defraudó al mercado, se mantuvo estancada y quedó al borde de la recesión",
+       "url": "https://www.iprofesional.com/economia/467146-la-economia-defraudo-al-mercado-se-mantuvo-estancada-y-quedo-al-borde-de-la-recesion"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "\"Muy malo, preocupante\": la reacción de economistas al dato de actividad del INDEC",
+       "url": "https://www.iprofesional.com/economia/467163-muy-malo-preocupante-la-reaccion-de-economistas-al-dato-de-actividad-del-indec"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cuánto debería crecer la economía argentina en septiembre para no caer en recesión técnica",
+       "url": "https://www.infobae.com/economia/2026/10/22/cuanto-deberia-crecer-la-economia-argentina-en-septiembre-para-no-caer-en-recesion-tecnica/"
+      },
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Por qué hoy la economía crece un cuarto que hace un año: las cinco razones de un frenazo mayor al esperado",
+       "url": "https://www.clarin.com/economia/hoy-economia-crece-cuarto-hace-ano-razones-frenazo-mayor-esperado_0_Sekk6blH7n.html"
+      },
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Luego del rebote fallido en agosto, las consultoras recalculan su proyección de crecimiento: sería de 1% este año",
+       "url": "https://www.clarin.com/economia/luego-rebote-fallido-agosto-consultoras-recalculan-proyeccion-crecimiento-1-ano_0_lceFGMYSPs.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/economia-debil-por-que-se-espera-otra-caida-en-el-trimestre-y-como-juega-para-el-cierre-del-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/5WXAQZB3HRHJXBED6737MCQLHY.jpg?auth=5e5360f2915d6573dca70a0bf257e88b4e4b25135b960ea2eb4c594cf378f1da&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "Economía débil: por qué se espera otra caída en el trimestre y cómo juega para el cierre del año"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "El riesgo país se estabiliza en 674 puntos y crece la brecha cambiaria",
+     "resumen": "El riesgo país cerró el miércoles en 674 puntos básicos, después de haber tocado un máximo en un año de 711 puntos el martes. El dólar oficial apenas se movió, pero empezó a sentirse presión en el contado con liquidación, que elevó la brecha cambiaria a cerca del 6%. El índice Merval avanzó 1,62% en pesos en una jornada de mayor apetito por riesgo en los mercados emergentes.",
+     "relacionadas": [
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El salto del riesgo país no alteró al dólar, pero empieza a impactar en la brecha cambiaria",
+       "url": "https://www.infobae.com/economia/2026/10/22/el-salto-del-riesgo-pais-no-altero-al-dolar-pero-empieza-a-impactar-en-la-brecha-cambiaria/"
+      },
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El riesgo kuka es real, tanto como un nivel de actividad económica que todavía no logra despegar",
+       "url": "https://www.cronista.com/columnistas/el-riesgo-kuka-es-real-tanto-como-un-nivel-de-actividad-economica-que-todavia-no-logra-despegar/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/los-bonos-recuperaron-terreno-y-bajo-el-riesgo-pais-pero-el-mercado-sigue-en-alerta-por-la-deuda-local/",
+     "imagen": "https://www.cronista.com/resizer/v2/HR7OU7ZEKRBOHB7S45DGXCMIRE.jpg?auth=ebe0ae30c2550ccdd1816b29febcd43cfdfa99eb07e6581961f4bb47747971e8&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:50",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El mercado sigue en alerta por la deuda local: cayeron los bonos y el riesgo país no cede"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "El dólar oficial cotizó a 1.545 pesos para la venta",
+     "resumen": "El dólar oficial cerró el jueves en 1.495 pesos para la compra y 1.545 pesos para la venta en el Banco Nación, cinco pesos por encima del cierre de septiembre y 65 pesos por encima del valor de fin de 2025. El mayorista se ubicó en 1.541,90 pesos, lejos del techo de la banda cambiaria, que el Banco Central fija en 1.941,44 pesos.",
+     "relacionadas": [
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar blue hoy: a cuánto cotiza el jueves 22 de octubre con el MEP y el CCL",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-jueves-22-de-octubre-con-el-mep-y-el-ccl/"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar hoy: a cuánto cotiza este jueves 22 de octubre",
+       "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-jueves-22-octubre-n6336588"
+      },
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar blue hoy: a cuánto opera este jueves 22 de octubre",
+       "url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-jueves-22-octubre-n6336589"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-jueves-22-de-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/V2FFGAQEFFFDFESO6FLKPMUFKI.jpeg?auth=56620ddced96e53e64badcf5eca0e9fcf8012d2ed8bd4b2121e30c1e718068f8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "00:01",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Dólar hoy: a cuánto cotiza el oficial en los bancos de la City hoy jueves 22 de octubre"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "La soja cayó a su menor precio desde agosto",
+     "resumen": "La oleaginosa acumuló ocho ruedas consecutivas de baja en la Bolsa de Chicago y cerró el miércoles en 457,55 dólares por tonelada, una caída de 3,62% desde el 9 de octubre por el avance de la cosecha estadounidense. El trigo también tocó un mínimo de catorce semanas. Para una empresa: precios agrícolas más bajos presionan sobre la liquidación de divisas del campo.",
+     "url": "https://www.lanacion.com.ar/economia/campo/la-soja-cayo-a-su-menor-precio-desde-agosto-y-el-trigo-toco-un-minimo-de-14-semanas-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5VDQTFG7LJFTRNOBYDRK7IK5XY.png?auth=b196bab5e3b76058f491a92939e12d72c6d276dcb409a40ff4c93b9ae81944eb&smart=true&width=900&height=595",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:24",
+     "autor": "Pilar Vazquez",
+     "titulo_original": "La soja cayó a su menor precio desde agosto y el trigo tocó un mínimo de 14 semanas",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Los fondos de money market le hacen sombra a los plazos fijos",
+     "resumen": "Los fondos comunes de inversión de mercado de dinero muestran rendimientos que les permiten competir de igual a igual con los depósitos a plazo fijo tradicionales, según el relevamiento de iProfesional.",
+     "url": "https://www.iprofesional.com/finanzas/467156-cuales-son-los-grandes-fondos-de-inversion-que-le-dan-pelean-a-los-plazos-fijos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/04/515907.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:09",
+     "autor": "",
+     "titulo_original": "Cuáles son los grandes fondos de inversión que le dan pelean a los plazos fijos",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Bitcoin avanzó más de 2 por ciento y se acerca a los 83.500 dólares",
+     "resumen": "La criptomoneda recuperó terreno impulsada por la fortaleza de las acciones tecnológicas en Asia. Zcash lideró las subas entre las altcoins con más de 10%, mientras J.P. Morgan proyectó una rentabilidad anual del 10% para Bitcoin en los próximos diez años.",
+     "url": "https://www.ambito.com/finanzas/bitcoin-avanza-mas-un-2-y-se-acerca-los-us83500-el-rebote-tecnologico-impulsa-el-apetito-el-riesgo-n6336192",
+     "imagen": "https://media.ambito.com/p/bfd1d840b8c20c362551fab63173e21a/adjuntos/239/imagenes/042/808/0042808156/stablecoins-criptomonedas-bitcoin-ethereum.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:31",
+     "autor": "",
+     "titulo_original": "Bitcoin avanza más de un 2% y se acerca a los u$s83.500: el rebote tecnológico impulsa el apetito por el riesgo",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "Vaca Muerta tuvo su mayor licitación de áreas petroleras en una década",
+     "resumen": "Neuquén adjudicó ocho de los quince bloques petroleros licitados, tras recibir veinte ofertas de diez compañías. Continental Resources, la colombiana Geopark y la nacional PCR resultaron las principales ganadoras de la ronda, coordinada por la estatal Gas y Petróleo del Neuquén. Habrá una nueva licitación en noviembre.",
+     "url": "https://www.cronista.com/negocios/el-rey-del-fracking-una-multilatina-en-ascenso-y-una-nacional-pionera-ganan-puja-en-vaca-muerta/",
+     "imagen": "https://www.cronista.com/resizer/v2/SHOZJJISPBFL5N4KTEF76THT2E.jpg?auth=3644a68cf2842387618682bc41bd012fc2ea899fb3a9d8615491874f15406603&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Martín Bidegaray",
+     "titulo_original": "El rey del fracking, una multilatina en ascenso y una nacional “pionera” ganan puja en Vaca Muerta",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-26",
+     "titulo": "Impsa se asocia con una firma de Estados Unidos para fabricar microrreactores nucleares",
+     "resumen": "La compañía argentina Impsa firmó una alianza estratégica con la estadounidense Nano Nuclear para colaborar en el desarrollo industrial del microrreactor Kronos MMR, de nueva generación.",
+     "url": "https://www.iprofesional.com/energia/467136-impsa-firma-acuerdo-en-eeuu-para-fabricar-microrreactores-de-nueva-generacion",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/07/579050.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:41",
+     "autor": "",
+     "titulo_original": "IMPSA se asocia con NANO Nuclear para fabricar microrreactores de nueva generación",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-17",
+     "titulo": "El Gobierno se quedó sin oferente favorito para el Belgrano Cargas",
+     "resumen": "Grupo México se bajó de la licitación por diferencias con los pliegos del tren de cargas, en momentos en que el Gobierno también rescindió once contratos de obras viales en seis provincias.",
+     "url": "https://www.iprofesional.com/negocios/467159-belgrano-cargas-perdio-inversion-de-3000-millones-de-dolares-y-frenan-obras-clave",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/586290.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:39",
+     "autor": "",
+     "titulo_original": "Se bajó el grupo que era favorito a quedarse con la operación del Belgrano Cargas",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Las provincias argentinas salen a buscar negocios en China antes que Milei",
+     "resumen": "Once empresas de Buenos Aires, Corrientes y Tierra del Fuego participarán, coordinadas por el Consejo Federal de Inversiones, de la feria China International Import Expo que se realizará en Shanghái del 5 al 10 de noviembre. El movimiento provincial avanza mientras el Presidente posterga su viaje a China.",
+     "url": "https://www.cronista.com/economia-politica/china-las-provincias-se-adelantan-a-milei-y-salen-a-buscar-negocios-e-inversiones/",
+     "imagen": "https://www.cronista.com/resizer/v2/ENMRBQLULNA3JISUW7KDYY6JRI.jpg?auth=1949e95f16f53199c24015cec87d079bc97b452042eead73b0d51df88e1b29fc&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "China: las provincias se adelantan a Milei y salen a buscar negocios e inversiones",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Meta subió con fuerza en Wall Street tras superar las previsiones",
+     "resumen": "La dueña de Facebook, Instagram y WhatsApp reportó un crecimiento de 26% en sus ingresos y proyectó una facturación del cuarto trimestre por encima de lo esperado. La compañía elevó el piso de su inversión anual en inteligencia artificial y anunció una nueva clase de acciones sin derecho a voto. En la misma rueda, Wall Street también extendió ganancias impulsado por SpaceX y Tesla, tras versiones sobre una posible fusión promovida por Elon Musk.",
+     "relacionadas": [
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street extendió ganancias, impulsada por SpaceX y Tesla tras dichos de Elon Musk sobre una posible fusión",
+       "url": "https://www.ambito.com/finanzas/wall-street-adelanta-nuevas-subas-medida-que-el-apetito-las-tecnologicas-se-reinicia-n6336157"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los inversores esperan el próximo gran acuerdo de Elon Musk con SpaceX",
+       "url": "https://www.ambito.com/finanzas/los-inversores-esperan-el-proximo-gran-acuerdo-elon-musk-spacex-n6336548"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/meta-sube-fuerza-wall-street-superar-las-previsiones-y-redoblar-su-apuesta-la-ia-n6336543",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:04",
+     "autor": "",
+     "titulo_original": "Meta sube con fuerza en Wall Street tras superar las previsiones y redoblar su apuesta por la IA"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "La Corte le puso un freno a la dictadura del aplicativo",
+     "resumen": "La Corte Suprema resolvió un caso en el que un contribuyente cumplió con la ley pero no con el trámite digital exigido por la reglamentación, y falló en contra de que esa omisión formal le haga perder un beneficio tributario. El fallo marca un límite a la exigencia de aplicativos como condición excluyente para acceder a derechos previstos por la norma.",
+     "url": "https://www.iprofesional.com/impuestos/467186-te-dan-el-beneficio-pero-sin-hacer-clic-la-corte-contra-la-dictadura-del-aplicativo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2020/11/506899.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:12",
+     "autor": "",
+     "titulo_original": "Te dan el beneficio, pero te olvidaste de hacer clic: la Corte contra la dictadura del aplicativo",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-16",
+     "titulo": "La Corte condenó un despido discriminatorio por motivos de salud",
+     "resumen": "El máximo tribunal confirmó que hubo discriminación en el despido de un trabajador que vivía con VIH, concretado poco después de que un análisis de laboratorio determinara su estado de salud.",
+     "url": "https://www.iprofesional.com/impuestos/467115-corte-condeno-despido-discriminatorio-por-estado-de-salud",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628031.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:50",
+     "autor": "",
+     "titulo_original": "La Corte condenó el despido discriminatorio de un trabajador por el estado de salud",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-16",
+     "titulo": "La inteligencia artificial empieza a reemplazar las planillas de Excel en las áreas de impuestos",
+     "resumen": "Las herramientas de automatización primero y la inteligencia artificial después están cambiando la gestión impositiva de las empresas, al permitir analizar datos de múltiples áreas de una organización y no solo acelerar tareas repetitivas. El avance abre oportunidades de eficiencia, pero también plantea el desafío de mantener el control sobre procesos cada vez más automatizados. Para una empresa: la automatización impositiva reduce errores de carga, pero exige reforzar los controles internos.",
+     "url": "https://www.cronista.com/negocios/de-excel-a-la-inteligencia-artificial-la-revolucion-que-redefine-el-area-de-impuestos/",
+     "imagen": "https://www.cronista.com/resizer/v2/C6MX3JPXUVC3NLZNJNKY3OV34A.jpg?auth=0a22b8a57199c89a87f87b28519997e8a9862cf314c9e114a0e7de154751f0c7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:59",
+     "autor": "Brenda Murphy",
+     "titulo_original": "De Excel a la inteligencia artificial: la revolución que redefine el área de impuestos",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CL-08",
+     "titulo": "Qué define hoy a un edificio verdaderamente sustentable",
+     "resumen": "Especialistas consultados por Clarín señalan que el consumo energético es un indicador relevante pero no el único factor para evaluar la sustentabilidad de un edificio, y que también deben considerarse los materiales utilizados en la construcción. Para una empresa: la selección de materiales con menor huella ambiental empieza a pesar en las decisiones de compra del sector.",
+     "url": "https://www.clarin.com/arq/construccion/consumo-energetico-materiales-define-hoy-edificio-verdaderamente-sustentable_0_3RvXmNcp90.html",
+     "imagen": "https://www.clarin.com/img/2024/07/11/7PuR_PSV8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Del consumo energético a los materiales: qué define hoy a un edificio verdaderamente sustentable",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Comprar para alquilar deja una renta de hasta 9 por ciento en algunos barrios",
+     "resumen": "La renta bruta promedio de un departamento destinado a alquiler en la Ciudad de Buenos Aires se ubica en 5,7% anual, aunque en algunos barrios supera el 9%, según un relevamiento de El Cronista. La rentabilidad final depende del precio de compra, los gastos a cargo del propietario y la posibilidad de mantener la unidad ocupada.",
+     "url": "https://www.cronista.com/negocios/comprar-para-alquilar-cuanto-hay-que-invertir-y-que-rentabilidad-deja-hoy/",
+     "imagen": "https://www.cronista.com/resizer/v2/62444SSBPVHIHGY6ZCURJZMZNQ.jpg?auth=dface136489269551dff6815b9e32b6ee83ae113a95b212a7ae51bd1bebbe4c9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Comprar para alquilar: cuánto hay que invertir y qué rentabilidad deja hoy",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Cuánto efectivo hace falta ahorrar para comprar una vivienda con crédito hipotecario",
+     "resumen": "Un análisis de Ámbito muestra que una familia puede tener ingresos suficientes para afrontar las cuotas de un crédito hipotecario y, aun así, estar lejos de reunir el ahorro inicial necesario para acceder a una vivienda.",
+     "url": "https://www.ambito.com/economia/creditos-hipotecarios-cuanta-plata-efectivo-hace-falta-ahorrar-comprar-una-casa-n6336026",
+     "imagen": "https://media.ambito.com/p/934bc05df1dc0bf9eb22241ed6a726ee/adjuntos/239/imagenes/043/629/0043629344/1200x675/1371x572:1391x592/creditos-freepik.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios: cuánta plata en efectivo hace falta ahorrar para comprar una casa",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-26",
+     "titulo": "La cerveza sin alcohol ya es el 3 por ciento del mercado argentino y crece",
+     "resumen": "Cervecería y Maltería Quilmes invertirá 3 millones de dólares en su planta de Zárate para desarrollar cervezas sin alcohol, sin gluten y dulces. La compañía señala que una de cada diez cervezas Corona que se vende en el país ya es sin alcohol, en una tendencia de consumo que crece en toda la región.",
+     "url": "https://www.cronista.com/negocios/gigante-de-la-cerveza-se-la-juega-por-la-sin-alcohol-ya-es-un-3-del-mercado-y-ahora-va-por-la-dulce/",
+     "imagen": "https://www.cronista.com/resizer/v2/DWH77XXSCJDS3BOK2J2LIFOGIE.jpg?auth=be46d06a1ec4da5abf7024c07a8b338056e71101dc04544d5a14a89026911a9f&smart=true&width=838&height=390",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:52",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Gigante de la cerveza se la juega por la sin alcohol: ya es un 3% del mercado y ahora va por la dulce",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-18",
+     "titulo": "Café Martínez apunta a duplicar sus locales en diez años",
+     "resumen": "La cadena prevé llegar a 600 locales en una década, incorpora tecnología industrial para triplicar su capacidad de producción y prueba cultivos propios de café en el norte del país.",
+     "url": "https://www.iprofesional.com/energia/466870-cafe-martinez-proyecta-duplicar-sus-locales-y-apuesta-a-la-produccion-nacional",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598004.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Café Martínez proyecta duplicar sus locales y apuesta a la producción nacional",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-21",
+     "titulo": "La fabricante de las camisetas de la Selección, River y Boca suspende empleados",
+     "resumen": "RA Intertrading redujo su dotación de 1.040 a 642 empleados y mantiene suspensiones en su planta de Catamarca, donde trabajan 82 personas, por la falta de nuevos contratos de producción. En Villa Lugano, la planta más grande de la compañía, se adelantaron vacaciones a parte del personal. Para una empresa: la caída de pedidos obliga a ajustar turnos antes de recortar estructura.",
+     "relacionadas": [
+      {
+       "id": "IP-25",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La empresa que fabrica camisetas de la Selección suspende empleados por menos ventas",
+       "url": "https://www.iprofesional.com/negocios/467111-fabricante-ra-intertrading-suspende-empleados-por-caida-de-ventas"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/la-fabricante-de-las-camisetas-de-la-seleccion-river-y-boca-en-problemas/",
+     "imagen": "https://www.cronista.com/resizer/v2/OIMNTKRXP5GHXJQCQJTXXROW7Y.jpg?auth=79d1bbf23f6faa4108d00cbf263b9a7da4334e4d108284b1584fae7618276c4a&smart=true&width=900&height=1199",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:58",
+     "autor": "Equipo Negocios",
+     "titulo_original": "La fabricante de las camisetas de la Selección, River y Boca, en problemas"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "Mendoza suma dos carreras cortas para el sector energético que más crece",
+     "resumen": "El Instituto de Educación Superior 9-018 de Mendoza incorporará a partir de 2027 dos formaciones vinculadas al desarrollo energético del país, en un intento de cubrir la demanda de personal calificado del sector.",
+     "url": "https://www.iprofesional.com/management/467167-gran-salida-laboral-dos-nuevas-carreras-cortas-para-formarse-en-petroleo-y-gas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/12/528973.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:54",
+     "autor": "",
+     "titulo_original": "Gran salida laboral: dos nuevas carreras cortas para formarse en el sector que más crece",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Camuzzi capacita a la comunidad en primeros auxilios",
+     "resumen": "La empresa de gas lleva tres años de capacitaciones gratuitas junto con Argentina Reanima y distintos municipios sobre reanimación cardiopulmonar, uso de desfibriladores externos automáticos y prevención de riesgos, como parte de su estrategia de vínculo con el territorio donde opera.",
+     "url": "https://www.cronista.com/columnistas/camuzzi-y-la-importancia-de-transformar-la-capacitacion-en-una-herramienta-para-salvar-vidas/",
+     "imagen": "https://www.cronista.com/resizer/v2/4L4UJVL7IRCMVCNZMKKQIIXAYY.jpg?auth=488d534f6a821584de05cc84beb771488f368b60fe82c6f2d3152990b529ecf6&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:58",
+     "autor": "Sergio Felice",
+     "titulo_original": "Camuzzi y la importancia de transformar la capacitación en una herramienta para salvar vidas",
+     "relacionadas": []
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-21",
+     "titulo": "Brasil llega a los últimos días antes del balotaje entre Lula y Flávio Bolsonaro",
+     "resumen": "Brasil celebra el balotaje presidencial el domingo 25 de octubre entre el actual presidente Luiz Inácio Lula da Silva y Flávio Bolsonaro, luego de que ninguno superara el 50% de los votos en primera vuelta: Bolsonaro obtuvo 47,15% y Lula, 45,02%. En el mercado de apuestas, sin embargo, Bolsonaro aparece favorito con 80% de probabilidad, mientras las encuestas muestran paridad.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Flávio Bolsonaro arrasa en las apuestas y se impone sobre Lula da Silva con el 80%",
+       "url": "https://www.iprofesional.com/politica/467172-quien-ganara-las-elecciones-en-brasil-segun-las-casas-de-apuestas"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los 2 CEDEAR de empresas brasileñas que recomienda la City, gane quien gane",
+       "url": "https://www.iprofesional.com/finanzas/467160-2-cedear-de-empresas-brasilenas-que-recomienda-la-city-gane-quien-gane"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2RLNIZOHBJAEJKY326WYO5CISY.jpg?auth=1159dbdc81b3b4e1c7d9383d86bbbab07c723e38db3bef022c66e2dea77d3ec7&smart=true&width=900&height=609",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:50",
+     "autor": "",
+     "titulo_original": "Elecciones Brasil 2026: encuestas, final de las campañas para el balotaje y el minuto a minuto"
+    },
+    {
+     "id": "CL-01",
+     "titulo": "Ucrania sufrió nuevos ataques y Zelenski cuestionó la falta de avances diplomáticos",
+     "resumen": "Rusia interceptó 808 drones ucranianos en distintas regiones y en Crimea, mientras Ucrania sufrió ataques con misiles y drones que dejaron heridos y daños materiales. Zelenski criticó que no haya avances diplomáticos tras los últimos encuentros de alto nivel, mientras Rusia y Estados Unidos evalúan nuevas conversaciones.",
+     "url": "https://www.clarin.com/estados-unidos/ucrania-sufre-nuevos-ataques-y-zelenski-critica-que-rusia-no-cambie-de-actitud_0_ZbXUVjDc4a.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ucrania sufre nuevos ataques y Zelenski critica que Rusia no cambie de actitud",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-02",
+     "titulo": "Irán denuncia siete petroleros dañados en Ormuz en medio de la escalada en Medio Oriente",
+     "resumen": "Irán reportó daños en siete embarcaciones en el estrecho de Ormuz y amenazó bases de Estados Unidos en la región, mientras propuso un acuerdo para garantizar la apertura del paso. Donald Trump rechazó la propuesta y Estados Unidos reforzó su presencia militar en la zona. En paralelo, la Casa Blanca retiró sanciones al petróleo y al gas rusos para frenar la suba de los combustibles antes de las elecciones de medio mandato.",
+     "relacionadas": [
+      {
+       "id": "CL-25",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Petróleo y elecciones: los motivos del acercamiento de Donald Trump a Vladimir Putin",
+       "url": "https://www.clarin.com/mundo/petroleo-elecciones-motivos-acercamiento-donald-trump-vladimir-putin_0_OdqiilpPdX.html"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/iran-dice-que-hay-7-petroleros-danados-en-ormuz-entre-temores-a-un-repunte-de-la-guerra_0_EhMGNFjk2x.html",
+     "imagen": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Irán dice que hay 7 petroleros dañados en Ormuz, entre temores a un repunte de la guerra"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Estados Unidos evacuó personal diplomático de Arabia Saudita por la escalada hutí",
+     "resumen": "El Departamento de Estado ordenó al personal no esencial de su embajada en Arabia Saudita y a sus familias abandonar el país, tras una serie de ataques de los rebeldes hutíes de Yemen, respaldados por Irán. Un ataque contra el aeropuerto de Dammam dejó dos muertos y ocho heridos, con daños materiales en las instalaciones.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Estados Unidos ordenó evacuar al personal de la embajada en Arabia Saudita por la escalada de los ataques hutíes",
+       "url": "https://www.clarin.com/mundo/estados-unidos-ordeno-evacuar-personal-embajada-arabia-saudita-escalada-ataques-huties_0_IGdRts1Lc5.html"
+      },
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Un nuevo ataque contra el aeropuerto de Dammam, en el este de Arabia Saudita, dejó dos muertos y ocho heridos",
+       "url": "https://www.infobae.com/america/mundo/2026/10/22/un-nuevo-ataque-contra-el-aeropuerto-de-dammam-en-el-este-de-arabia-saudita-dejo-un-muerto-y-ocho-heridos/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/eeuu-ordena-la-evacuacion-de-diplomaticos-en-arabia-saudita-en-medio-de-la-escalada-de-los-huties-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3ATDC2YQVBD2LOBU4NZ3CZ4DI4.jpg?auth=67b4666441d4050682779d2fc98328f904fe9b2eded2edae1db649ad899b1f8f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:47",
+     "autor": "",
+     "titulo_original": "EE.UU. ordena la evacuación de diplomáticos en Arabia Saudita en medio de la escalada de los hutíes"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Bukele lanzó un ultimátum a pandillas de Haití que secuestraron a soldados salvadoreños",
+     "resumen": "El presidente de El Salvador amenazó con una ofensiva militar contra pandillas haitianas si no liberan a cuatro técnicos de aviación salvadoreños, integrantes de una misión respaldada por la ONU, secuestrados desde el domingo tras una emboscada.",
+     "url": "https://www.lanacion.com.ar/el-mundo/bukele-lanzo-un-ultimatum-a-las-pandillas-de-haiti-que-secuestraron-a-cuatro-soldados-salvadorenos-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/S7HJU5M2TFBANFB47PMSY2IVFQ.jpg?auth=9a4f6e56afc4a688df71100bb3cb45e4c75f3404024bcfbdb43008cd40bac129&smart=true&width=900&height=755",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:03",
+     "autor": "",
+     "titulo_original": "Bukele lanzó un ultimátum a las pandillas de Haití que secuestraron a cuatro soldados salvadoreños tras una emboscada",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-22",
+     "titulo": "La escasez de agua obliga a los cubanos a cavar pozos para abastecerse",
+     "resumen": "Las fallas eléctricas constantes impiden el bombeo regular de agua en Cuba y perjudican a cerca del 29% de la población, que debe acarrear bidones de forma manual o recurrir a perforaciones privadas para abastecerse.",
+     "url": "https://www.clarin.com/mundo/crisis-cuba-escasez-agua-fuerza-cubanos-cavar-pozos-abastecerse_0_awMiz576qV.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/fD8Aux1EQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crisis en Cuba: la escasez de agua fuerza a cubanos a cavar pozos para abastecerse",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza la tentación de la injerencia extranjera en las protestas europeas",
+     "resumen": "La revista francesa examina si potencias extranjeras instigaron o acompañaron los actos de violencia en las recientes manifestaciones europeas, en un contexto que compara con la crisis de Ceuta del verano pasado. El analista Kevin Limonier distingue entre la falta de control europeo sobre su propio espacio informativo y la responsabilidad directa de actores como Rusia o Estados Unidos en esos episodios.",
+     "url": "https://legrandcontinent.eu/es/2026/10/22/manifestaciones-la-tentacion-de-la-ingerencia-extranjera/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Louis Puel",
+     "titulo_original": "Manifestaciones: la tentación de la injerencia extranjera",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent advierte que la inteligencia artificial absorbe el capital en Estados Unidos",
+     "resumen": "La revista proyecta que el gasto en inversión de Alphabet, Amazon, Meta y Microsoft alcanzará 745.000 millones de dólares este año, y que el conjunto de los grandes hiperescaladores superará el billón de dólares el año próximo. Según datos de la Oficina de Análisis Económico estadounidense, el gasto en equipos informáticos ya supera a la inversión residencial, y hacia 2032 los centros de datos podrían representar 5,1% del PBI de Estados Unidos.",
+     "url": "https://legrandcontinent.eu/es/2026/10/22/en-estados-unidos-ia-absorbe-el-capital/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Marin Saillofest",
+     "titulo_original": "En Estados Unidos, la IA absorbe el capital",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-08",
+     "titulo": "Boca ya tiene rival para la final de la Copa Sudamericana",
+     "resumen": "Atlético Mineiro eliminó a Montevideo City Torque pese a perder 2 a 0 en la revancha, gracias al 3 a 0 que había conseguido en la ida. El equipo brasileño enfrentará a Boca en la final de la Copa Sudamericana el 21 de noviembre en Barranquilla.",
+     "url": "https://www.ambito.com/deportes/boca-tiene-rival-atletico-mineiro-elimino-montevideo-city-torque-y-disputara-la-final-la-copa-sudamericana-n6336571",
+     "imagen": "https://media.ambito.com/p/3fc0e70a88bc1b2e9b17e13a49e66a1d/adjuntos/239/imagenes/043/719/0043719831/1200x675/smart/boca-mineiro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:54",
+     "autor": "",
+     "titulo_original": "Boca tiene rival: Atlético Mineiro eliminó a Montevideo City Torque y disputará la final de la Copa Sudamericana",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-14",
+     "titulo": "La clasificación de Boca a la final abre un interrogante para River en la Copa Libertadores 2027",
+     "resumen": "El pase de Boca a la final de la Copa Sudamericana 2026 no es una mala noticia para River, pero abre otros interrogantes entre los hinchas a diez días del superclásico en la Bombonera sobre el camino del Millonario hacia la clasificación a la Copa Libertadores 2027.",
+     "url": "https://www.clarin.com/deportes/incomoda-situacion-puede-presentar-river-clasificar-copa-libertadores-2027_0_yvjSfQTYrb.html",
+     "imagen": "https://www.clarin.com/img/2026/10/22/4dKWXeXzv_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La incómoda situación que se le puede presentar a River para clasificar a la Copa Libertadores 2027",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Lionel Scaloni renovó su contrato al frente de la Selección argentina",
+     "resumen": "El entrenador llegó a un acuerdo con la AFA para extender su vínculo por dos años más, con una opción de renovación que le permitiría seguir al frente del equipo hasta el Mundial 2030.",
+     "url": "https://www.ambito.com/deportes/lionel-scaloni-seguira-la-seleccion-argentina-los-detalles-su-contrato-n6336541",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "Lionel Scaloni seguirá en la Selección argentina: los detalles de su contrato",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Tres goles argentinos en la tercera fecha de la Champions League",
+     "resumen": "La tercera fecha de la Liga de Campeones dejó un saldo positivo para los futbolistas argentinos, con tres goles convertidos y uno de ellos autor de un doblete ante un histórico campeón del torneo.",
+     "url": "https://www.ambito.com/deportes/miercoles-champions-league-tres-goles-argentinos-cerrar-la-tercera-fecha-n6336521",
+     "imagen": "https://media.ambito.com/p/2a6238ef3feb94da7ce6281683d78588/adjuntos/239/imagenes/043/719/0043719625/1200x675/775x280:795x300/nico-paz-como.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:17",
+     "autor": "",
+     "titulo_original": "Miércoles de Champions League: tres goles argentinos para cerrar la tercera fecha",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Los Pumas concentran en Londres con varios regresos antes de la ventana de noviembre",
+     "resumen": "Felipe Contepomi convocó a 33 jugadores para una concentración de tres días en Londres, previa a los partidos ante Irlanda, Italia y Francia por el Nations Championship. Cinco de los seis lesionados en el primer semestre están de regreso, aunque Matías Moroni quedó al margen de la lista.",
+     "relacionadas": [
+      {
+       "id": "LN-16",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Matías Moroni, al margen de la convocatoria de los Pumas que marca el puntapié inicial rumbo a Australia 2027",
+       "url": "https://www.lanacion.com.ar/deportes/rugby/matias-moroni-al-margen-de-la-convocatoria-de-los-pumas-que-marca-el-puntapie-inicial-rumbo-a-nid21102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/pumas-concentraran-londres-reanudacion-nations-championship-convocados-contepomi-varios-regresos_0_Ief6jVGrM7.html",
+     "imagen": "https://www.clarin.com/img/2025/09/13/70bfY9Qdm_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los Pumas concentrarán en Londres antes de la reanudación del Nations Championship: los convocados de Contepomi con varios regresos"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "River, Boca y Vélez, entre los cuatro mejores clubes formadores del mundo",
+     "resumen": "El CIES Football Observatory ubicó a River, Boca y Vélez en el segundo, tercer y cuarto puesto de su ranking mundial de clubes formadores de futbolistas, que contempla 49 ligas de primera división y es encabezado por Benfica, de Portugal.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/river-boca-y-velez-entre-los-cuatro-mejores-clubes-formadores-del-mundo-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/QBLRAPKJE5EYRFGTTJWIYN6BXE.jpg?auth=2ee376b19b41893994b6f2bf6323797334928ec126ac58d8ea74fd5bf29a9617&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:28",
+     "autor": "",
+     "titulo_original": "River, Boca y Vélez, entre los cuatro mejores clubes formadores del mundo",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Ferro, cerca de la final por el primer ascenso a la Liga Profesional",
+     "resumen": "Las categorías de ascenso del fútbol argentino entraron en la etapa de definición de campeones y descensos. Ferro Carril Oeste, con 65 puntos, puede asegurarse la disputa de la final por el primer ascenso incluso con una derrota, en la búsqueda de volver a la Liga Profesional tras más de 26 años de ausencia.",
+     "url": "https://www.infobae.com/deportes/2026/10/22/con-ferro-como-gran-protagonista-se-definen-los-ascensos-y-descensos-del-futbol-argentino-todo-lo-que-hay-que-saber/",
+     "imagen": "https://www.infobae.com/resizer/v2/LOOUKJQENZFHPHUJ7J36AXQCIY.jpg?auth=c585c780ef2f1455c247f49f2c45283ddbde35f72e0a190fa1e1dac6b49f2e5e&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:34",
+     "autor": "",
+     "titulo_original": "Con Ferro como gran protagonista, se definen los ascensos y descensos del fútbol argentino: todo lo que hay que saber",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "Un viñedo del Valle de Uco en Mendoza renueva sus etiquetas",
+     "resumen": "La bodega Monteviejo, en el Valle de Uco, atraviesa un momento clave de su historia con un nuevo enólogo y una línea de vinos que combina su pasado con nuevas propuestas, según la cata realizada por iProfesional.",
+     "url": "https://www.iprofesional.com/vinos/467178-nuevos-vinos-de-mitica-bodega-de-valle-de-uco-valen-la-pena",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628090.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:55",
+     "autor": "",
+     "titulo_original": "Probamos los nuevos vinos de una mítica bodega delValle de Uco: ¿vale la pena comprarlos?",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Uruguay busca conquistar a los argentinos más allá de Punta del Este",
+     "resumen": "Tras una baja en la cantidad de visitantes argentinos este año, aunque con un mayor gasto promedio, la Dirección Nacional de Turismo de Uruguay apuesta a destinos menos conocidos, entre sierras, quebradas, bodegas y pueblos con historia.",
+     "url": "https://www.clarin.com/viajes/uruguay-alla-punta-destinos-buscan-conquistar-argentinos_0_JHUYK3Sa4Y.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/6A5AWvjtU_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Uruguay más allá de Punta del Este: los destinos que buscan conquistar a los argentinos",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "AM-11",
+     "titulo": "Alerta por tormentas fuertes y granizo en Buenos Aires",
+     "resumen": "El Servicio Meteorológico Nacional prevé para este jueves tormentas con acumulados de entre 40 y 70 milímetros, posibilidad de granizo y ráfagas de hasta 90 kilómetros por hora en Buenos Aires. El alerta naranja por lluvias intensas alcanza además a diez provincias.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Advertencia para el AMBA: continúan las tormentas este jueves y hay alerta naranja para 10 provincias con posible caída de granizo",
+       "url": "https://www.clarin.com/sociedad/advertencia-amba-continuan-tormentas-jueves-alerta-naranja-10-provincias-posible-caida-granizo_0_xlhbTrQWjz.html"
+      }
+     ],
+     "url": "https://www.ambito.com/informacion-general/alerta-naranja-tormentas-y-cambios-el-clima-el-nino-cuales-son-las-provincias-afectadas-y-que-se-espera-n6336283",
+     "imagen": "https://media.ambito.com/p/e9ac0ae467952a64d66b09939d4dfda1/adjuntos/239/imagenes/041/953/0041953999/tormenta.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:48",
+     "autor": "",
+     "titulo_original": "Alerta meteorológica en Buenos Aires: tormentas fuertes, granizo y ráfagas de hasta 90 km/h este jueves"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "Varios puertos del Paraná siguen en niveles de evacuación",
+     "resumen": "La Prefectura Naval Argentina reportó que varias localidades del norte del país, especialmente en Misiones, Corrientes y Chaco, permanecen por encima de los niveles de evacuación en el río Paraná. La crecida ya obligó a productores apícolas de Santa Fe a trasladar miles de colmenas a contrarreloj y a dar el año como perdido por la menor floración en los campos de destino.",
+     "relacionadas": [
+      {
+       "id": "CL-03",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Crecida del Paraná: productores apícolas sacan contrarreloj miles de colmenas de las islas y ya dan el año como perdido",
+       "url": "https://www.clarin.com/rural/crecida-parana-productores-apicolas-sacan-contrarreloj-miles-colmenas-islas-dan-ano-perdido_0_GW0ewz1FtG.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-en-el-parana-hoy-miercoles-nid21102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/R2ZTOFMYC5ARRD6J3TGZK6YDHM.png?auth=633d66079d5cdd4b5e30cb7f567af91e3c5b32b334da54dbdf843164aea828af&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:48",
+     "autor": "",
+     "titulo_original": "Altura de los ríos en la Argentina, según Prefectura: esta es la situación en el Paraná hoy, miércoles 21 de octubre"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Argentina queda al tope de la región en un ranking de calidad de salud",
+     "resumen": "Un sondeo sobre la conformidad con la salud en 32 países, realizado entre 22.500 personas, ubicó a Argentina en el primer lugar de la región, pese a que la percepción de falta de inversión en el sistema duplica el promedio global.",
+     "url": "https://www.clarin.com/sociedad/ranking-calidad-salud-32-paises-lugar-quedo-argentina-paradoja-sorprende_0_EHxmvy2642.html",
+     "imagen": "https://www.clarin.com/img/2025/09/21/8qV3Sf2c8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ranking sobre la calidad de la salud en 32 países: en qué lugar quedó Argentina y una paradoja que sorprende",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Buenos Aires será sede de un Sefer Torá escrito por judíos de todo el mundo",
+     "resumen": "Este domingo se completará en La Rural, con la presencia del Gran Rabino de Israel, Kalman Ber, el 12º Sefer Torá de la unión de Am Israel, un rollo en el que participaron 304.805 judíos de todo el mundo, entre ellos 50.000 argentinos. Es la primera vez que una edición de esta campaña mundial permanece de manera definitiva en el país.",
+     "url": "https://www.infobae.com/sociedad/2026/10/22/por-primera-vez-en-la-argentina-se-completara-un-sefer-tora-escrito-por-judios-de-todo-el-mundo/",
+     "imagen": "https://www.infobae.com/resizer/v2/QSTE64NDXJFEBC6OHBOIMQIOL4.jpeg?auth=2f4c5477f52f9cce825f9b3447f7d57c8cceba966f1fd73d34c9bca3ef85fe0d&smart=true&width=900&height=587",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:20",
+     "autor": "",
+     "titulo_original": "Por primera vez en la Argentina, se completará un Sefer Torá escrito por judíos de todo el mundo",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del jueves 22 de octubre.\n\nLa economía argentina vuelve a mostrar señales de freno, el Congreso salió de una sesión maratónica con dos leyes importantes rumbo al Senado, y afuera escala la tensión en Medio Oriente mientras Brasil llega a los últimos días antes del balotaje presidencial. El dólar oficial cerró ayer en 1.545 pesos para la venta, el dólar blue en 1.565 pesos y el oro cotiza en torno a los 4.104 dólares la onza. El riesgo país se mantuvo en 674 puntos básicos, después de haber tocado el martes un máximo en un año de 711 puntos.\n\nEn economía y mercados, el dato del día es el de actividad. El estimador mensual de actividad económica de agosto, que difunde el Indec, subió apenas 0,1 por ciento desestacionalizado frente a julio, después de la caída de 2,8 por ciento del mes anterior, y marcó una baja interanual de 1,7 por ciento, la mayor desde septiembre de 2024. Para que el tercer trimestre no cierre en recesión técnica, la actividad de septiembre debería saltar 8,5 por ciento desestacionalizado, algo que los analistas ya consideran casi imposible. Las consultoras recalcularon a la baja su proyección de crecimiento para todo el año, que ahora ubican en apenas 1 por ciento. Empezó a sentirse presión en el contado con liquidación, que llevó la brecha cambiaria a cerca del 6 por ciento, y el Merval avanzó 1,62 por ciento en pesos. En otros mercados, la soja cerró en 457 dólares con 55 centavos la tonelada, una caída de 3,62 por ciento por el avance de la cosecha estadounidense, y Bitcoin avanzó más de 2 por ciento, cerca de los 83.500 dólares.\n\nEn política, la Cámara de Diputados aprobó con 237 votos a favor una nueva ley de Discapacidad que reemplaza la emergencia vigente por un régimen permanente, manteniendo la pensión no contributiva, su actualización por inflación y el nomenclador unificado de prestaciones. El proyecto pasa ahora al Senado. En la misma sesión se aprobó también la figura de vandalismo rural en el Código Penal, con penas de hasta diez años de prisión para quienes dañen la producción agropecuaria de manera coordinada. En cambio, el oficialismo no consiguió votos para su propio proyecto sobre endeudamiento familiar y, aunque bloqueó las propuestas de la oposición, todo el tema volvió a comisión sin fecha definida. Puertas adentro de La Libertad Avanza también escaló una interna por el Islam, después de que el propagandista conocido como el Gordo Dan cuestionara a referentes libertarios que pidieron no vincular el terrorismo con esa religión. Un informe privado registró además un salto de cinco puntos en la imagen negativa del Presidente, que trepó al 56 por ciento, luego de que Milei cuestionara a quienes dicen no llegar a fin de mes. En la Justicia, los fiscales de la causa Andis pidieron ampliar las indagatorias al exdirector Diego Spagnuolo y a directivos de la empresa Suizo Argentina por nuevos sobornos vinculados a la compra de medicamentos de alto costo. Y este viernes arranca el juicio oral contra Cristina Kirchner por las causas Hotesur y Los Sauces, con una primera audiencia que permitirá la conexión remota de los imputados solo para la lectura de las acusaciones.\n\nEn impuestos y normativa, la Corte Suprema falló en dos casos relevantes para las empresas. En uno, puso un límite a lo que se conoce como la dictadura del aplicativo, al resolver que un contribuyente que cumplió con la ley de fondo no puede perder un beneficio solo por un trámite digital incompleto. En el otro, confirmó que hubo discriminación en el despido de un trabajador que vivía con VIH, concretado poco después de que un análisis de laboratorio revelara su estado de salud. Y en las áreas impositivas de las empresas, la automatización y la inteligencia artificial empiezan a reemplazar a las planillas de cálculo, con la posibilidad de analizar datos de distintas áreas de una organización, aunque también exigen reforzar los controles internos.\n\nEn consumo, construcción y retail, especialistas consultados por Clarín señalan que la sustentabilidad de un edificio no depende solo de su consumo energético, sino también de los materiales utilizados en la construcción. En el mercado inmobiliario, comprar para alquilar deja hoy una renta bruta promedio de 5,7 por ciento anual en la Ciudad de Buenos Aires, aunque en algunos barrios supera el 9 por ciento, mientras muchas familias tienen ingresos para pagar un crédito hipotecario pero no el ahorro inicial necesario. En consumo masivo, Quilmes invertirá 3 millones de dólares en Zárate para desarrollar cervezas sin alcohol, que ya son el 3 por ciento del mercado argentino, y Café Martínez apunta a duplicar sus locales en diez años. La empresa que fabrica las camisetas de la Selección, River y Boca, Ra Intertrading, redujo su dotación de 1.040 a 642 empleados por falta de nuevos contratos.\n\nEn management y finanzas corporativas, Mendoza sumará desde 2027 dos carreras cortas orientadas al sector energético, uno de los que más empleo genera en el país, y la empresa de gas Camuzzi lleva adelante, junto con municipios y la organización Argentina Reanima, capacitaciones gratuitas en reanimación cardiopulmonar y uso de desfibriladores.\n\nEn el mundo, Brasil llega a los últimos días antes del balotaje presidencial del domingo entre Luiz Inácio Lula da Silva y Flávio Bolsonaro, luego de que ninguno superara la mitad de los votos en primera vuelta. En Ucrania, Rusia interceptó 808 drones mientras continúan los ataques con misiles, y Zelenski criticó la falta de avances diplomáticos. En el golfo Pérsico, Irán denunció daños en siete petroleros en el estrecho de Ormuz y amenazó bases de Estados Unidos, mientras Washington evacuó personal diplomático de su embajada en Arabia Saudita tras ataques hutíes que también golpearon el aeropuerto de Dammam, con dos muertos. Y en Centroamérica, el presidente de El Salvador, Nayib Bukele, lanzó un ultimátum a pandillas de Haití que secuestraron a cuatro técnicos de aviación salvadoreños.\n\nLe Grand Continent analiza dos fenómenos de fondo. Por un lado, la tentación de la injerencia extranjera en las recientes protestas europeas, con la discusión sobre hasta qué punto Rusia o Estados Unidos acompañaron esos episodios de violencia. Por otro, cómo la inteligencia artificial absorbe cada vez más capital en Estados Unidos: la revista calcula que la inversión conjunta de Alphabet, Amazon, Meta y Microsoft llegará este año a 745.000 millones de dólares, y que hacia 2032 los centros de datos podrían representar más del 5 por ciento del producto bruto estadounidense.\n\nEn deportes, Boca ya conoce a su rival en la final de la Copa Sudamericana: será Atlético Mineiro, que eliminó a Montevideo City Torque por el resultado de la ida, el 21 de noviembre en Barranquilla. Esa clasificación abre además interrogantes sobre el camino de River hacia la Copa Libertadores de 2027, a diez días del superclásico. Lionel Scaloni renovó su contrato al frente de la Selección por dos años más, con opción hasta el Mundial de 2030. Los Pumas concentran esta semana en Londres con 33 convocados de Felipe Contepomi, con el regreso de varios lesionados aunque sin Matías Moroni, antes de la ventana de noviembre del Nations Championship. El CIES Football Observatory ubicó a River, Boca y Vélez entre los cuatro mejores clubes formadores del mundo, detrás de Benfica. Y en el ascenso, Ferro Carril Oeste quedó cerca de asegurarse la final por el primer puesto a la Liga Profesional, tras más de 26 años de ausencia.\n\nPara cerrar, en turismo la bodega Monteviejo, en el Valle de Uco mendocino, presenta una nueva línea de vinos de la mano de un enólogo reciente, en un momento clave de su historia. Y Uruguay busca atraer turistas argentinos hacia destinos menos conocidos que Punta del Este, entre sierras, quebradas y bodegas.\n\nEn sociedad, hay alerta por tormentas fuertes y posible granizo en Buenos Aires y otras diez provincias, mientras varios puertos del Paraná siguen por encima de los niveles de evacuación en el norte del país. Un sondeo internacional ubicó a la Argentina al tope de la región en calidad de salud, y este domingo se completará en La Rural un Sefer Torá escrito por más de 300.000 judíos de todo el mundo, la primera vez que una edición de esta campaña queda de forma permanente en el país.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-10-22-manana",
+ "generado_ba": "22/10/2026 10:17"
+}
