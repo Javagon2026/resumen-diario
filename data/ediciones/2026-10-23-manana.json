@@ -1,0 +1,1020 @@
+{
+ "fecha": "2026-10-23",
+ "edicion": "manana",
+ "titulo": "Milei admite el freno económico, sube el riesgo país y Lula empata con Bolsonaro",
+ "apertura": "El riesgo país volvió a superar los setecientos puntos y las acciones tecnológicas arrastraron a los mercados globales, en la misma jornada en que Javier Milei admitió que la economía no evoluciona como esperaba. En el plano político, el peronismo cerró filas en defensa de las PASO y renunció otro funcionario del área económica, mientras Brasil llega empatado técnicamente al balotaje del domingo. En deportes, Estudiantes de La Plata dio la sorpresa en el Maracaná y se metió en la final de la Copa Libertadores.",
+ "claves": [
+  "Milei admitió que la economía no evoluciona como esperaba y lo atribuyó a un \"shock externo\" por la suba de tasas en Estados Unidos y las guerras en Ucrania e Irán.",
+  "El riesgo país volvió a superar los 700 puntos y los ADR argentinos cayeron hasta 6% en Wall Street, en medio de una fuerte aversión al riesgo global.",
+  "Renunció Daniel González, secretario de Coordinación de Energía y Minería, sin reemplazo designado.",
+  "El peronismo, con Kicillof, Massa y Máximo Kirchner, cerró filas con los gobernadores del PJ para defender las PASO.",
+  "A tres días del balotaje, Lula empató técnicamente con Flavio Bolsonaro según Datafolha, tras venir de atrás en las encuestas.",
+  "El Banco Central obligará desde el 1 de noviembre a bancos y billeteras a informar el rendimiento real de los fondos money market.",
+  "La láctea Verónica entró formalmente en concurso preventivo con 829 acreedores y 120.000 millones de pesos de deuda.",
+  "Estudiantes de La Plata eliminó a Flamengo en los penales y jugará la final de la Copa Libertadores ante Palmeiras."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 113 por barril",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Merval",
+   "valor": "-3%",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Deuda de Argentina con el FMI",
+   "valor": "US$ 56.800 millones",
+   "fuente": "CR-06"
+  },
+  {
+   "nombre": "Ventas en supermercados (agosto, INDEC)",
+   "valor": "-3,7% interanual",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Déficit comercial de autopartes (ene-sep 2026)",
+   "valor": "US$ 6.055 millones",
+   "variacion": "-15,5% interanual",
+   "fuente": "IB-24"
+  },
+  {
+   "nombre": "Necesidad de dólares del programa financiero 2027",
+   "valor": "US$ 17.000 millones",
+   "fuente": "IB-22"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-03",
+     "titulo": "Comenzó el juicio a Cristina Kirchner por Hotesur y Los Sauces",
+     "resumen": "Arrancó el proceso contra la expresidenta, la tercera vez que se sienta en el banquillo de los acusados. La Justicia sostiene que la empresa hotelera y la inmobiliaria familiar se usaron para blanquear fondos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/juicio-cristina-kirchner-vivo-arranca-proceso-hotesur-sauces_0_Qlv71INzPQ.html",
+     "imagen": "https://www.clarin.com/img/2022/10/15/hijKrfChdl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "07:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juicio a Cristina Kirchner, EN VIVO: arranca el proceso por Hotesur y Los Sauces"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "El peronismo cierra filas para defender las PASO",
+     "resumen": "Axel Kicillof, Máximo Kirchner y Sergio Massa se reunieron con gobernadores y jefes de los bloques del PJ en el Congreso para ordenar la interna frente al Gobierno. El encuentro incluyó un diagnóstico sobre la situación económica y social y coincidencias para el debate del Presupuesto, además de la defensa conjunta de las primarias.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El peronismo se reunió en la Casa de La Pampa y cerró filas en defensa de las PASO",
+       "url": "https://www.ambito.com/politica/el-peronismo-se-reunio-la-casa-la-pampa-y-cerro-filas-defensa-las-paso-n6337034"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/kicillof-massa-maximo-y-los-gobernadores-del-pj-cerraron-filas-por-las-paso-y-buscan-ordenar-la-interna/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZAFSEATSTVFXLC3V3W5ZAA75SU.jpg?auth=d7a0b1ea774cde0f638606982c1aac49d18de43525a32ae4ed8b53f3520036de&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "Kicillof, Massa, Máximo y los gobernadores del PJ cerraron filas por las PASO y buscan ordenar la interna"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Renunció Daniel González, secretario de Energía y Minería",
+     "resumen": "Daniel González dejó la Secretaría de Coordinación de Energía y Minería del Ministerio de Economía, cargo que ocupaba desde mediados de 2024 tras su paso como CEO de YPF. En el Palacio de Hacienda indicaron que no tendrá reemplazo; el funcionario había encabezado el reordenamiento de subsidios energéticos y la desregulación de los mercados de electricidad, petróleo y gas.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Se fue otro funcionario del Gobierno de Milei: renunció el secretario coordinador de Energía y Minería",
+       "url": "https://www.clarin.com/politica/funcionario-gobierno-milei-renuncio-secretario-coordinador-energia-mineria_0_W6n7PlLV70.html"
+      },
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Renunció Daniel González, el funcionario que coordinaba las áreas de Energía y Minería",
+       "url": "https://www.iprofesional.com/politica/467278-renuncio-daniel-gonzalez-el-funcionario-que-coordinaba-las-areas-de-energia-y-mineria"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Renunció Daniel González a Energía y Minería: los motivos de la salida del Señor RIGI del Gobierno",
+       "url": "https://www.ambito.com/energia/renuncio-daniel-gonzalez-y-mineria-los-motivos-la-salida-del-senor-rigi-del-gobierno-n6337003"
+      },
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Renunció Daniel González, el ex YPF que coordinaba las áreas de Energía y Minería para la cartera de Caputo",
+       "url": "https://www.cronista.com/economia-politica/renuncio-daniel-gonzalez-funcionario-clave-que-coordinaba-las-areas-de-energia-y-mineria/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/renuncio-daniel-gonzalez-a-la-secretaria-de-coordinacion-de-energia-y-mineria-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RQTKJUO5VNDCDCHLKZMQOEOHDM.jpg?auth=c1256a76d40cafce431c02d76fcc5378166a51159ca66d1787291ce8483628ff&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:47",
+     "autor": "Agustín Maza",
+     "titulo_original": "Renunció Daniel González a la Secretaría de Coordinación de Energía y Minería"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Elisa Carrió advirtió contra Milei: \"es nocivo\"",
+     "resumen": "La dirigente cuestionó en sus redes sociales la actitud del Presidente y pidió no escucharlo. \"Cuando se pierde el respeto, se pierde la dignidad humana\", sostuvo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/dura-advertencia-elisa-carrio-escuchen-presidente-nocivo_0_qqCZBmpl02.html",
+     "imagen": "https://www.clarin.com/img/2026/05/11/mmX7lL-WB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Dura advertencia de Elisa Carrió: \"No escuchen al Presidente porque es nocivo\""
+    },
+    {
+     "id": "IP-19",
+     "titulo": "Crece la presión interna para blindar políticamente la economía",
+     "resumen": "Con Patricia Bullrich a la cabeza, un sector de la coalición de Gobierno pide cerrar acuerdos políticos para bajar la incertidumbre antes de las definiciones económicas. Santilli y Luis Caputo respaldan el planteo, en medio de fricciones dentro de la mesa política oficialista. Bullrich, en paralelo, dejó un posteo con la frase \"se vienen cositas\" sobre su futuro político.",
+     "relacionadas": [
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Sugestivo posteo de Bullrich mientras Milei dice que el \"círculo rojo\" lo quiere correr",
+       "url": "https://www.iprofesional.com/politica/467281-sugestivo-posteo-de-bullrich-mientras-milei-dice-que-el-circulo-rojo-lo-quiere-correr"
+      }
+     ],
+     "url": "https://www.iprofesional.com/politica/467257-crece-presion-a-milei-para-blindar-politicamente-la-economia-con-bullrich-a-la-cabeza",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628179.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Crece la presión a Milei para blindar políticamente la economía, con Bullrich a la cabeza"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Milei recibió en la Casa Rosada a la misión de Trump",
+     "resumen": "El Presidente recibió al vicesecretario de Estado Christopher Landau y al secretario adjunto Juan Pablo Segura, en la reunión de mayor nivel de la gira de enviados de Donald Trump. El encuentro, que incluyó a Pablo Quirno y Luis Caputo, funciona como antesala de la visita del vicepresidente JD Vance prevista para la tercera semana de noviembre y se da en medio de diferencias por la ley de Malvinas.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Estados Unidos reconoció que hay \"preocupación\" en sus empresas por la ley Malvinas",
+       "url": "https://www.iprofesional.com/politica/467272-estados-unidos-reconocio-que-hay-preocupacion-en-sus-empresas-por-la-ley-malvinas"
+      },
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "EEUU expresó preocupación por la ley Malvinas durante la visita de sus enviados al país",
+       "url": "https://www.ambito.com/politica/eeuu-expreso-preocupacion-la-ley-malvinas-la-visita-sus-enviados-al-pais-n6336947"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/milei-recibe-a-la-mision-de-trump-en-argentina-inversiones-malvinas-y-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/FLGUS34ZW5BPFGY42MCAZDQTRE.jpg?auth=7385dab41974efabbf81415fe76e4897554473cf543e6dc9b95bbbef9a3af5b4&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "23:37",
+     "autor": "Daniela Romero",
+     "titulo_original": "Milei recibe a la misión de Trump en Argentina: inversiones, Malvinas y 2027"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Citaron a indagatoria a los dueños de Suizo Argentina por la causa ANDIS",
+     "resumen": "El juez Ariel Lijo convocó para el 29 de octubre a Jonathan y Emmanuel Kovalivker, presidente y vicepresidente de la droguería, junto a otros directivos, por presuntas irregularidades en la compra y distribución de medicamentos de alto costo a la Agencia Nacional de Discapacidad. La causa investiga un esquema de direccionamiento de compras y sobreprecios.",
+     "relacionadas": [
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Citan a indagatoria a los dueños de la droguería Suizo Argentina por la causa ANDIS",
+       "url": "https://www.iprofesional.com/negocios/467252-citan-a-indagatoria-a-los-duenos-de-la-drogueria-suizo-argentina-por-la-causa-andis"
+      },
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Causa ANDIS: fijaron las fechas de las nuevas indagatorias y ordenaron inhibir los bienes de 36 personas",
+       "url": "https://www.ambito.com/politica/andis-los-duenos-suizo-argentina-deberan-declarar-la-justicia-la-proxima-semana-n6336846"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/causa-andis-citaron-a-indagatoria-a-los-duenos-de-suizo-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/VQYCDIQV65DY5GDLOFUOSGF6VI.jpg?auth=6b308e0acd40a2187167998e5fad7e261583a261ac5573f58110f4a54575a9e7&smart=true&width=900&height=571",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:52",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Causa ANDIS: citaron a indagatoria a los dueños de Suizo Argentina"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "El riesgo país subió 13% en octubre en medio de la aversión global al riesgo",
+     "resumen": "Los ADR de empresas argentinas cayeron hasta 6% en Wall Street y los bonos en dólares retrocedieron 0,5%, mientras el riesgo país avanzó 4,5% hasta 704 puntos básicos. El derrumbe de las acciones tecnológicas y la suba del petróleo arrastraron al Nasdaq 2,6% y al S&P 500 1,2%, a un año de las elecciones presidenciales de 2027. Para una empresa: la suba del riesgo país encarece el financiamiento en dólares y presiona el costo del crédito para capital de trabajo.",
+     "relacionadas": [
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Volvió a escalar el riesgo país, llegó a 704 puntos, cayeron los bonos y los ADR bajaron 6%",
+       "url": "https://www.cronista.com/finanzas-mercados/vuelve-a-escalar-el-riesgo-pais-arriba-de-700-puntos-caen-los-bonos-y-tiembla-el-mercado-global/"
+      },
+      {
+       "id": "IP-25",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país vuelve a superar los 700 puntos y genera incertidumbre en el mercado",
+       "url": "https://www.iprofesional.com/finanzas/467227-el-riesgo-pais-vuelve-a-superar-los-700-puntos-y-genera-incertidumbre-en-el-mercado"
+      },
+      {
+       "id": "IP-26",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país superó los 700 puntos y crece la presión sobre la deuda, el dólar y el crédito",
+       "url": "https://www.iprofesional.com/finanzas/467234-riesgo-pais-argentino-sube-consecuencias-gobierno-empresas"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Lo que se dice en las mesas: más presión por un reset, dudas detrás del dólar y últimas apuestas en Brasil",
+       "url": "https://www.ambito.com/finanzas/lo-que-se-dice-las-mesas-mas-presion-un-reset-dudas-detras-del-dolar-y-ultimas-apuestas-brasil-n6337037"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/nubarrones-de-tormenta-en-los-mercados-por-que-el-riesgo-pais-subio-13-en-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/KH4JU4XJ7RCLVOQBMURKBXIYYA.jpg?auth=27e9c758138cf2c942cc05c11539b03cb9504877ecb7799c9795992839f3af2f&smart=true&width=900&height=491",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "Nubarrones de tormenta en los mercados: por qué el riesgo país subió 13% en octubre"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Milei admitió que la economía no evoluciona como esperaba",
+     "resumen": "El Presidente atribuyó el estancamiento a un \"shock externo\" vinculado a la suba de tasas de la Reserva Federal y las guerras en Ucrania e Irán, luego de que el riesgo país superara los 700 puntos. Habló en declaraciones radiales el día de su cumpleaños, recién llegado de su viaje a España.",
+     "relacionadas": [
+      {
+       "id": "IP-20",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Milei dijo que la evolución de la inflación y la economía no es tan positiva como esperaba",
+       "url": "https://www.iprofesional.com/economia/467263-inflacion-baja-lento-milei-explico-plata-rinde-menos"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-la-confirmacion-del-rumbo-viene-con-la-reeleccion-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OSLEO35WBJEVVNBXMURQVHKIDY.jpg?auth=45b45178859f59d2b07a1a7b79717f2f38bd9a6edfcd41dca7c3820175d65556&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:05",
+     "autor": "",
+     "titulo_original": "Javier Milei admitió que la economía no evoluciona como esperaba y lo adjudicó a un “shock externo”"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "La actividad económica se encamina a una recesión técnica",
+     "resumen": "El Estimador Mensual de Actividad Económica no revirtió en agosto la caída de julio y el tercer trimestre se encamina a una recesión técnica, según el Indec. Los salarios le ganaron al costo de vida, pero no hay motores claros de crecimiento en los sectores que más empleo generan, mientras empresarios e inversores piden medidas para mejorar el clima económico.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/del-mercado-a-la-mesa-politica-preocupa-la-falta-de-reaccion-para-revertir-el-estancamiento/",
+     "imagen": "https://www.cronista.com/resizer/v2/OXYGCNKHUJF3JGDEO7V6IKOTDA.jpg?auth=9aea0f7bcbd70829480c5eab9f558b4945ce305b3a8ff7815aaa113e7ff3a069&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Jairo Straccia",
+     "titulo_original": "Del mercado a la mesa política, preocupa la falta de reacción para revertir el estancamiento"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Se complica el programa financiero de Caputo para 2027",
+     "resumen": "Una consultora privada advirtió que el Gobierno deberá conseguir todavía US$ 17.000 millones para el año próximo, en la peor jornada para Wall Street desde junio y con el petróleo en US$ 113 el barril. Desde Economía, en cambio, el equipo de Caputo calificó de \"exagerado\" el castigo del riesgo país sobre la deuda argentina.",
+     "relacionadas": [
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Economía desafía a la City y advierte que el castigo del riesgo país es \"exagerado\"",
+       "url": "https://www.iprofesional.com/finanzas/467274-economia-desafia-a-la-city-advierte-que-el-riesgo-pais-esta-exagerado"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/10/23/se-redobla-el-viento-de-frente-y-le-agrega-presion-al-programa-financiero-de-caputo-para-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/R5UVSAX3YNBPNKOGFTNHI6L7DE.JPG?auth=c34cd6141e9e86ae8c62f2380a7f3a0ac0590563e3893ca01c1d50279a44b72e&smart=true&width=900&height=619",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:42",
+     "autor": "Pablo Wende",
+     "titulo_original": "Se redobla el viento de frente y le agrega presión al programa financiero de Caputo para 2027"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Argentina lidera el ranking mundial de deuda con el FMI",
+     "resumen": "El país encabeza la lista de deudores del FMI con obligaciones por US$ 56.800 millones, una cifra superior a la deuda conjunta de los seis países que le siguen. La calificación crediticia argentina continúa varios escalones por debajo del grado de inversión, pese a que otros deudores menores, como Pakistán, Egipto y Ecuador, tienen mejor nota. Para una empresa: el bajo grado de inversión del país encarece y limita el acceso a financiamiento externo para proyectos de expansión.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-ranking-que-incomoda-a-la-argentina-lidera-la-deuda-con-el-fmi-y-sigue-lejos-del-grado-de-inversion/",
+     "imagen": "https://www.cronista.com/resizer/v2/QBFVBBJ7GFB4BCYMCL23J2QXDY.png?auth=be8628121457fc49e7a370b19ca27b1151202c6f94ceeb307b0f9fa0d0f2e4a0&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Santiago Escobar",
+     "titulo_original": "El ranking que incomoda a la Argentina: lidera la deuda con el FMI y sigue lejos del grado de inversión"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "La suba del petróleo presiona a las petroleras y YPF contiene los aumentos",
+     "resumen": "El crudo superó los US$ 113 por el conflicto en Medio Oriente, pero YPF mantiene el mecanismo que amortigua las subas de combustibles y Marín aseguró que no impacta en Vaca Muerta. Crece la presión sobre el resto de las petroleras para que trasladen el aumento a los surtidores. Para una empresa: una suba sostenida de los combustibles impacta directamente en los costos logísticos y de distribución.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/suba-petroleo-internacional-argentina-ypf-contiene-aumentos-crece-presion-marcas_0_rwuVNI3Z66.html",
+     "imagen": "https://www.clarin.com/img/2026/07/21/Dk9tKRueo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La suba del petróleo internacional y la Argentina: YPF contiene los aumentos y crece la presión sobre las otras marcas"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-21",
+     "titulo": "La láctea Verónica entró en concurso con 829 acreedores y 120.000 millones de pesos de deuda",
+     "resumen": "El Juzgado Nacional en lo Comercial N°17 abrió formalmente el concurso preventivo de la empresa santafesina, que mantiene operativa apenas una de sus tres plantas industriales y tiene 360 empleados. El juez calificó el proceso como un \"gran concurso\" por su magnitud; la compañía arrastra una crisis financiera que se profundizó durante este año.",
+     "relacionadas": [
+      {
+       "id": "IP-22",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Lácteos Verónica ya entró formalmente en concurso con deudas por u$s80 millones",
+       "url": "https://www.iprofesional.com/negocios/467260-lacteos-veronica-ya-entro-en-concurso-con-deudas-por-us80-millones"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/se-abrio-el-gran-concurso-de-una-lactea-historica-800-acreedores-y-120000-millones-de-deuda/",
+     "imagen": "https://www.cronista.com/resizer/v2/PTOMROLJXFERFFRFHEWS2YQ2QQ.jpg?auth=523dcab66b737a2ca3a749f77db96155392132b107ebc29c23329409feff3407&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:18",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Se abrió el “gran concurso” de una láctea histórica: 800 acreedores y $ 120.000 millones de deuda"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "El Gobierno rechazó los cuestionamientos de Grupo México a la licitación del Belgrano Cargas",
+     "resumen": "Tras el retiro del grupo mexicano de la puja por la privatización ferroviaria, el Gobierno sostuvo que ya hay otras ocho empresas inscriptas y que el proceso no se altera, aunque reconoció que perder a un oferente internacional no es una buena noticia. La apertura de ofertas, prevista para el 11 de noviembre, podría postergarse por pedido de otros competidores.",
+     "relacionadas": [
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno evalúa posponer la privatización del Belgrano Cargas",
+       "url": "https://www.iprofesional.com/negocios/467268-privatizacion-belgrano-cargas-quedo-aire-incertidumbre-sector"
+      },
+      {
+       "id": "CR-22",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Gobierno analiza posponer la privatización del Belgrano Cargas",
+       "url": "https://www.cronista.com/economia-politica/el-gobierno-va-a-posponer-la-privatizacion-del-belgrano-cargas/"
+      },
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Un municipio de Tucumán fue a la Justicia para defender sus Talleres Ferroviarios ante la privatización del Belgrano Cargas",
+       "url": "https://www.ambito.com/ambito-nacional/un-municipio-tucuman-fue-la-justicia-defender-sus-talleres-ferroviarios-la-privatizacion-del-belgrano-cargas-n6336975"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/privatizacion-del-belgrano-cargas-el-gobierno-rechaza-los-cuestionamientos-grupo-mexico-la-licitacion-n6336996",
+     "imagen": "https://media.ambito.com/p/198f305d3aff4d8e8d683a00a58cfe1e/adjuntos/239/imagenes/043/623/0043623608/1200x675/771x378:791x398/belgrano-cargass.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:54",
+     "autor": "",
+     "titulo_original": "Privatización del Belgrano Cargas: el Gobierno rechaza los cuestionamientos de Grupo México a la licitación"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "La marca francesa LC Waikiki llegará a la Argentina de la mano del Grupo One",
+     "resumen": "El desembarco se suma a las aperturas previas de Jack & Jones, Only y Balmohk que el grupo ya trajo al país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467279-la-marca-de-ropa-francesa-lc-waikiki-llegara-a-argentina-de-la-mano-del-grupo-one",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628206.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:51",
+     "autor": "",
+     "titulo_original": "La marca de ropa francesa LC Waikiki llegará a Argentina de la mano del Grupo One"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "Mr. Tasty, la marca low cost de El Desembarco, cruza a Chile",
+     "resumen": "La cadena argentina de hamburgueserías firmó un acuerdo con el holding chileno G&N Brands para abrir 40 locales por franquicia a partir del primer trimestre de 2027. Mr. Tasty, que nació hace apenas dos años, ya representa el 60% de la facturación del grupo y tiene 76 locales en Argentina, el doble que su marca madre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-otro-rey-de-las-hamburguesas-cruza-la-frontera-y-firma-un-acuerdo-con-un-gigante-chileno/",
+     "imagen": "https://www.cronista.com/resizer/v2/GA62EP2IPJFYHB3LFI52QP5TEE.jpg?auth=5801da55b731a4549613c602937c960d073e1542fef20ab3c9a0eca8f26adb6e&smart=true&width=900&height=462",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "El otro rey de las hamburguesas cruza la frontera y firma un acuerdo con un gigante chileno"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Vaca Muerta busca dar el salto de escala, según los CEOs petroleros",
+     "resumen": "En el encuentro AOG Patagonia 2026, los ejecutivos del sector coincidieron en que el potencial de Vaca Muerta ya no se discute en términos de recursos o capacidad de extracción, sino en cómo se articulan producción, transporte, servicios, tecnología, talento y mercados para la próxima etapa.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/energia/aog-patagonia-2026-ceos-petroleros-ven-una-nueva-escala-vaca-muerta-pero-advierten-temas-pendientes-n6336963",
+     "imagen": "https://media.ambito.com/p/051df348cbf6242fbaf99aa9ec29a01f/adjuntos/239/imagenes/043/722/0043722522/ceos-aog-patagonia-2026-neuquen.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:32",
+     "autor": "",
+     "titulo_original": "AOG Patagonia 2026: CEOs petroleros ven una nueva escala para Vaca Muerta, pero advierten por temas pendientes"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "Las fintech argentinas planean invertir US$ 2.200 millones en 2027",
+     "resumen": "La Cámara Argentina Fintech relevó 1.108 empresas del sector, que proyectan un aumento real del 28% en su facturación para el año próximo. El 71% de las compañías ya alcanzó el punto de equilibrio y el 73% aumentó su facturación en el último año, en una industria que crece y anticipa una etapa de consolidación.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Fintech: crece la competencia y el 91% de las empresas anticipa una consolidación del sector",
+       "url": "https://www.ambito.com/finanzas/fintech-crece-la-competencia-y-el-91-las-empresas-anticipa-una-consolidacion-del-sector-n6336898"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/las-fintech-planean-invertir-us-2200-millones-en-2027-y-apuestan-por-la-expansion-regional/",
+     "imagen": "https://www.cronista.com/resizer/v2/2SM7NMJE4RHXHHBG4HKQFJP2SQ.jpg?auth=a9a9da4abe3fc732cb04df293819666be857539742e09e1170c2e80fcc6fc901&smart=true&width=900&height=541",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:15",
+     "autor": "Leandro Dario",
+     "titulo_original": "Las fintech planean invertir u$s 2200 millones en 2027 y apuestan por la expansión regional"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "El Gobierno reglamentó la Ley de Inocencia Fiscal II",
+     "resumen": "A una semana del vencimiento de las declaraciones juradas de Ganancias, el Poder Ejecutivo reglamentó la norma que reduce multas y facilita la exteriorización de dólares guardados fuera del sistema financiero. La ley limita que ARCA use depósitos bancarios como presunción automática para determinar Ganancias a nivel nacional, aunque ese resguardo no se extiende de forma automática a los impuestos provinciales.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Inocencia Fiscal y dólares del colchón: el riesgo de Ingresos Brutos y qué conviene hacer antes de depositar",
+       "url": "https://www.cronista.com/economia-politica/inocencia-fiscal-y-dolares-del-colchon-el-riesgo-de-ingresos-brutos-y-que-conviene-hacer-antes-de-depositar/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/467285-el-gobierno-reglamento-inocencia-fiscal-ii-reduccion-de-multas-y-dolares-bajo-el-colchon",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/595712.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:22",
+     "autor": "",
+     "titulo_original": "El Gobierno reglamentó Inocencia Fiscal II: reducción de multas y dólares bajo el colchón"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "ARBA lanzó un plan de pagos para deudas de Ingresos Brutos, Patentes e Inmobiliario",
+     "resumen": "El organismo bonaerense puso en marcha un régimen especial para facilitar la regularización de deudas tributarias provinciales antes de fin de año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467291-arba-oficializa-el-plan-para-cancelar-deudas-de-ingresos-brutos-patentes-e-inmobiliario",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584905.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "02:43",
+     "autor": "",
+     "titulo_original": "ARBA oficializa el plan para cancelar deudas de Ingresos Brutos, Patentes e Inmobiliario"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "El Banco Central obliga a bancos y billeteras a informar el rendimiento de los fondos money market",
+     "resumen": "Desde el 1 de noviembre, por la Comunicación \"A\" 8497, las entidades financieras y las billeteras virtuales deberán mostrar la tasa nominal anual de los últimos siete días de los fondos comunes money market en todos sus canales digitales, para facilitar la comparación entre alternativas de inversión. Para una empresa: la medida ordena la información sobre el rendimiento de los excedentes de caja de corto plazo.",
+     "relacionadas": [
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Cambio clave del Banco Central para billeteras virtuales y bancos: deberán transparentar las tasas que pagan sus fondos",
+       "url": "https://www.clarin.com/economia/cambio-clave-banco-central-billeteras-virtuales-bancos-deberan-transparentar-tasas-pagan-fondos_0_IoWsCGJCQp.html"
+      },
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Bancos y billeteras deberán informar el rendimiento de sus cuentas remuneradas a 7 días",
+       "url": "https://www.iprofesional.com/finanzas/467265-bancos-y-billeteras-deberan-informar-el-rendimiento-de-sus-cuentas-remuneradas-a-7-dias"
+      },
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Bancos y billeteras deberán informar cada 7 días cuánto rinden sus cuentas remuneradas",
+       "url": "https://www.iprofesional.com/finanzas/467255-bancos-y-billeteras-virtuales-deberan-informar-cada-7-dias-cuanto-rinden-sus-cuentas-remuneradas"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/nueva-exigencia-bcra-obliga-a-bancos-y-billeteras-a-mostrar-cuanto-rinden-los-fondos-money-market/",
+     "imagen": "https://www.cronista.com/resizer/v2/VHICH5GREVCL7EOE7VGNIBUSPQ.jpg?auth=f52529010c3b6b8044acbe00dfcaa60f0acbfe0fb4c068a581070fec37b92f4b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:55",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Nueva exigencia: BCRA obliga a bancos y billeteras a mostrar cuánto rinden los fondos money market"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Un dictamen de la Procuración reabre el debate sobre planificación fiscal legítima",
+     "resumen": "A partir de la causa \"Lutz, Juan Jacobo c/DGI\", sobre bonos del Estado austríaco comprados con fondos de un fondo de inversión del exterior en 2007, la Procuración General de la Nación analizó dónde termina la planificación fiscal legítima y dónde empieza el abuso. La Corte Suprema sostiene desde 1958 que \"no es reprensible el esfuerzo honesto del contribuyente para limitar sus impuestos al mínimo legal\".",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/en-rescate-del-esfuerzo-honesto-de-pagar-menos-o-no-tantos-impuestos/",
+     "imagen": "https://www.cronista.com/resizer/v2/H24KV2IJNVDINGUMZ2T334EEJQ.jpg?auth=66f32c9bd399c2ec38000570682c05cb65c94fa0971f4246e9202b9bcd6d5e4a&smart=true&width=900&height=565",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:02",
+     "autor": "Juan Marcos Rougès",
+     "titulo_original": "En rescate del esfuerzo honesto de pagar menos (o no tantos) impuestos"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "La Justicia confirmó el procesamiento por evasión del dueño de Manaos",
+     "resumen": "La Cámara Federal de San Martín mantuvo la sentencia que procesa a Orlando Canido por evasión de Ganancias, IVA e Impuestos Internos, en una causa iniciada por ARCA y el Ministerio Público Fiscal. Sigue vigente un embargo de 250 millones de pesos sobre el empresario y otro monto igual sobre su firma.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/manaos-justicia-confirmo-procesamiento-evasion-dueno-complica-situacion_0_96iIvUyqGO.html",
+     "imagen": "https://www.clarin.com/img/2025/07/28/fRmWIYke__1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Manaos: la Justicia confirmó el procesamiento por evasión de su dueño y se complica su situación"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "El consumo no repunta: las ventas en supermercados acumulan ocho meses de caída",
+     "resumen": "Según el Indec, las ventas en supermercados cayeron 3,7% interanual en agosto y bajaron 0,8% respecto de julio, mientras los mayoristas retrocedieron 3,6% interanual. En cambio, las ventas en shoppings crecieron 3,7% interanual y el e-commerce y las farmacias también mostraron subas; la tarjeta de crédito es el medio de pago principal, con el 43% del total. Datos privados anticipan que la caída del consumo masivo se extendió a septiembre. Para una empresa: la combinación de supermercados en baja y shoppings y canales digitales en alza sugiere reforzar la presencia online y los formatos de cercanía.",
+     "relacionadas": [
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las ventas en supermercados cayeron por tercer mes consecutivo en agosto",
+       "url": "https://www.ambito.com/economia/el-consumo-supermercados-cayo-tercer-mes-consecutivo-n6336887"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-consumo-no-arranca-la-caida-se-extiende-a-septiembre-pero-no-en-todos-los-canales/",
+     "imagen": "https://www.cronista.com/resizer/v2/XRAG4P54FFBJ3DKNXYYPLCJXB4.jpg?auth=26988ae3877a1595adda38125943c978fe439138238a3e0b63edaf1df5dabc6e&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "El consumo no arranca: la caída se extiende a septiembre, pero no en todos los canales"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "El Banco Ciudad bajó la tasa de sus créditos hipotecarios",
+     "resumen": "La entidad lanzó nuevas líneas para quienes buscan ampliar su vivienda, con una tasa menor gracias al nuevo fondeo que obtuvo por su participación en licitaciones del Fondo de Garantía de Sustentabilidad de la ANSES. Para una empresa: una baja en las tasas hipotecarias puede sostener la demanda de materiales de construcción vinculada a ampliaciones y refacciones.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-banco-ciudad-la-tasa-creditos-hipotecarios-n6336997",
+     "imagen": "https://media.ambito.com/p/ca9dddcb9dcd5be679b87ed68fc05da7/adjuntos/239/imagenes/042/410/0042410663/1200x675/smart/creditos-hipotecarios-mercado-inmobiliario-viviendaswebp.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:40",
+     "autor": "",
+     "titulo_original": "El Banco Ciudad bajó la tasa para créditos hipotecarios"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Quién paga cuando se rompe un auto durante una prueba de manejo",
+     "resumen": "Un cliente destrozó un SUV chino valuado en US$ 45.000 mientras lo probaba en una concesionaria, lo que abrió una controversia sobre quién debe asumir la responsabilidad civil por los daños ocurridos durante un test drive.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/467228-quien-debe-pagar-el-desastre-que-causo-un-cliente-con-suv-chino-en-agencia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628142.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:34",
+     "autor": "",
+     "titulo_original": "Destrozó un SUV chino de u$s45.000 que probaba en la agencia: ¿quién tiene que pagar?"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "Santiago Bilinkis: \"el mayor desafío para emprender e innovar es bancarse el riesgo\"",
+     "resumen": "El emprendedor analizó cómo la inteligencia artificial acelera los cambios, desafía a las empresas y vuelve más difícil anticipar el futuro, en un contexto donde la capacidad de tomar riesgos se vuelve una habilidad central para innovar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/467205-santiago-bilinkis-por-que-la-ia-es-el-mayor-cambio-de-la-historia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628141.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:35",
+     "autor": "",
+     "titulo_original": "Santiago Bilinkis: \"El mayor desafío para emprender e innovar es bancarse el riesgo\""
+    },
+    {
+     "id": "CR-23",
+     "titulo": "La regla del \"más ocho\" con la que el CEO de Guapaletas exige rendimiento a sus empleados",
+     "resumen": "Esteban Wolf, CEO de Persicco, Chocorísimo, Guapaletas y Abuela Goye, repasó en el ciclo Sin Manual su filosofía de gestión y los desafíos de emprender en la Argentina, a partir de una infancia marcada por el abandono y la cárcel de su padre que lo empujó a definirse desde joven como \"empresario exitoso\".",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-mas-ocho-de-esteban-wolf-la-regla-con-la-que-exige-rendimiento-a-sus-empleados-el-ceo-de-guapaletas/",
+     "imagen": "https://www.cronista.com/resizer/v2/WVCCAMBYVRG2NKDKZWACEEOKC4.png?auth=d6d0f03a891bc06c9961a29e7d2d29fc087300855b51c7ca9104114b2fb86bab&smart=true&width=900&height=563",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:16",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El “más ocho” de Esteban Wolf: la regla con la que exige rendimiento a sus empleados el CEO de Guapaletas"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-18",
+     "titulo": "Lula empató técnicamente con Flavio Bolsonaro a tres días del balotaje",
+     "resumen": "La encuesta Datafolha dio 47% a Bolsonaro y 46% a Lula, un empate técnico; en votos válidos ambos quedaron en 50%, la primera medición del instituto en la que Flavio no aparece adelante con ese criterio. La evaluación de la gestión de Lula también mejoró, en la previa de la segunda vuelta del domingo 25 de octubre.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Panorama Internacional: elecciones en Brasil, mucho más que un país partido en dos",
+       "url": "https://www.clarin.com/opinion/panorama-internacional-elecciones-brasil-pais-partido_0_6pyKb9CrPC.html"
+      },
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Elecciones Brasil 2026: qué pronostica para el balotaje la encuestadora que más se acercó al resultado en los últimos comicios",
+       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-que-pronostica-para-el-balotaje-la-encuestadora-que-mas-se-acerco-al-nid22102026/"
+      },
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Bolsonaro y Lula se miden hoy en un último duelo antes del balotaje: las definiciones que espera Argentina",
+       "url": "https://www.cronista.com/economia-politica/bolsonaro-y-lula-se-miden-hoy-en-un-ultimo-duelo-antes-del-balotaje-las-definiciones-que-espera-argentina/"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Lula y Flávio Bolsonaro acordaron abrir sus secretos bancarios, fiscales y telefónicos antes del balotaje",
+       "url": "https://www.ambito.com/mundo/lula-y-flavio-bolsonaro-acordaron-abrir-sus-secretos-bancarios-fiscales-y-telefonicos-antes-del-balotaje-n6337031"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/lula-empata-con-flavio-bolsonaro-y-recupera-la-aprobacion-de-su-gobierno-a-tres-dias-del-balotaje-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4BDOASO2VVFV7A6433HNNPRKFI.JPG?auth=46a4179b12dff44dd47e3b348b28bfe3c860b6911edc3c6bd4e39876df51faaf&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:50",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "Lula empata con Flavio Bolsonaro y recupera la aprobación de su gobierno a tres días del balotaje"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "El Supremo de Brasil volvió a intentar operaciones de censura antes de las elecciones",
+     "resumen": "Dos magistrados vinculados a Jair Bolsonaro impulsaron una propuesta para interferir en los canales de WhatsApp donde la campaña oficialista venía logrando avances, según reveló la prensa. La iniciativa quedó congelada tras conocerse.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/supremo-brasil-vuelve-intentar-influir-elecciones-brasil-operaciones-censura_0_ldDEj3SHYa.html",
+     "imagen": "https://www.clarin.com/img/2026/10/22/FSTofTi7I_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Supremo de Brasil vuelve a intentar influir en las elecciones de Brasil con operaciones de censura"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Estados Unidos propuso restringir inversiones tecnológicas en Irán, Corea del Norte, Rusia y Cuba",
+     "resumen": "El Departamento del Tesoro busca limitar las inversiones estadounidenses en sectores estratégicos como inteligencia artificial, supercomputación, sistemas hipersónicos y biotecnología en países considerados de \"preocupación\", entre ellos también China. La propuesta amplía un programa de control de inversiones en el exterior iniciado en 2023 bajo la administración de Joe Biden.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/23/estados-unidos-propone-restringir-las-inversiones-en-sectores-tecnologicos-de-iran-corea-del-norte-rusia-y-cuba/",
+     "imagen": "https://www.infobae.com/resizer/v2/5NAJUVAUCZC4PHLHV2MTT5C5PY.jpg?auth=faf05d6d62a86213c0a0a54b63bc0eb7ac8c7ce934719bc41f3c7e5e7a158ba6&smart=true&width=900&height=701",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:14",
+     "autor": "",
+     "titulo_original": "Estados Unidos propuso restringir las inversiones en sectores tecnológicos de Irán, Corea del Norte, Rusia y Cuba"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Ucrania denuncia que persisten las restricciones en el sistema satelital Starshield",
+     "resumen": "Pese a los anuncios de Donald Trump sobre el restablecimiento del servicio, Kiev reporta problemas de señal que afectan misiones militares clave, lo que genera tensión con Washington en medio del conflicto.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/ucrania-denuncia-que-sigue-habiendo-restricciones-en-sistema-satelital-starshield_0_Xn6OEllxrw.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:50",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ucrania denuncia que sigue habiendo restricciones en sistema satelital Starshield"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "En Italia la cantidad de menores presos creció 40% desde 2022",
+     "resumen": "El aumento llevó al límite la capacidad de los centros especializados y las autoridades evalúan sumar plazas mediante la remodelación de recintos y la construcción de nuevas instalaciones, e incluso usar cárceles de adultos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/alerta-italia-cantidad-menores-presos-crecio-40-ciento-evaluan-usar-carceles-adultos_0_fBmA1ex8x5.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/yuOxUK96N_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:25",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alerta en Italia: la cantidad de menores presos creció un 40 por ciento y evalúan usar cárceles de adultos"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "El comandante de la misión Artemis II relató cómo fue ver el lado oculto de la Luna",
+     "resumen": "Reid Wiseman describió la experiencia como \"indescriptible\" en un mensaje enviado antes de que la tripulación perdiera la conexión con la Tierra durante 40 minutos, durante la misión realizada en abril de este año.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-comandante-de-la-historica-mision-artemis-ii-vimos-cosas-que-ningun-ser-humano-ha-visto-nid17102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/H2FTNTD7FFDNHAWGSTQ3CRRSUE.jpg?auth=871ccd3659b5d1083638a37ff4924aee29b2fff3db0d04db22da046c7651c994&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:37",
+     "autor": "",
+     "titulo_original": "Reid Wiseman, comandante de la histórica misión Artemis II: “Vimos cosas que ningún ser humano ha visto jamás”"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza dos frentes de la guerra en Ucrania: el riesgo de un alto el fuego apresurado y el primer envío de combustible ruso a Estados Unidos.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "La trampa de un alto el fuego en Ucrania sin disuasión europea",
+     "resumen": "La revista advierte que una tregua impulsada por la Casa Blanca, sin una disuasión europea sólida detrás, podría congelar las posiciones actuales sin garantizar la paz y preparar el terreno para una futura guerra. El análisis sitúa esas negociaciones en la búsqueda de éxitos diplomáticos de Washington antes de las elecciones de medio término en Estados Unidos.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/23/en-ucrania-la-trampa-del-alto-el-fuego-trumpista/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "05:50",
+     "autor": "Louis Puel",
+     "titulo_original": "En Ucrania, la trampa del alto al fuego trumpista"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Si Rusia puede permitirse vender combustible a Estados Unidos",
+     "resumen": "Un petrolero con gasóleo ruso zarpó rumbo a Estados Unidos, el primer envío de ese tipo desde la prohibición decretada en 2022 tras la invasión a Ucrania, en el marco del acuerdo alcanzado el 9 de octubre entre Trump y Putin. La revista sostiene que el margen de maniobra de Moscú para sostener ese suministro está limitado por el desgaste de la guerra.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/23/economia-rusa-putin-puede-suministrar-carburante-a-estados-unidos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "01:30",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Economía rusa: ¿puede Putin permitirse suministrar combustible a Estados Unidos?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-04",
+     "titulo": "Estudiantes eliminó a Flamengo y jugará la final de la Copa Libertadores",
+     "resumen": "El Pincha empató 0-0 en el Maracaná, resistió con diez jugadores durante casi todo el segundo tiempo y se impuso 3-2 en los penales, con el arquero Sergio Muslera como figura al atajar tres remates. Estudiantes definirá el título frente a Palmeiras.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/estudiantes-busca-un-lugar-la-final-la-libertadores-2026-que-hora-juega-contra-flamengo-y-como-verlo-vivo-n6336741",
+     "imagen": "https://media.ambito.com/p/13450a068210f2cad1f8129c6a8df98f/adjuntos/239/imagenes/043/723/0043723023/1200x675/2642x725:2662x745/muslera-estudiantes.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:54",
+     "autor": "",
+     "titulo_original": "Maracanazo pincharrata: con Muslera como héroe, Estudiantes eliminó a Flamengo y jugará la final de la Copa Libertadores"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Eduardo Domínguez, el técnico que Boca enfrentará en la final de la Sudamericana",
+     "resumen": "El entrenador de Atlético Mineiro, que como jugador le convirtió cuatro goles al Xeneize y también lo eliminó dirigiendo a Estudiantes, buscará ser campeón ante Boca el 21 de noviembre en Barranquilla en su primera temporada al frente del equipo brasileño.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El técnico de Atlético Mineiro palpitó la final de Copa Sudamericana contra Boca",
+       "url": "https://www.ambito.com/deportes/el-tecnico-atletico-mineiro-palpito-la-final-copa-sudamericana-contra-boca-n6336978"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/boca-vs-eduardo-dominguez-antecedentes-dt-carga-aura-bianchi-siempre-sono-bombonera_0_OElryg71CC.html",
+     "imagen": "https://www.clarin.com/img/2026/01/29/Adq1HTQuC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca vs Eduardo Domínguez: los antecedentes contra el DT que carga el aura de Bianchi y siempre sonó en La Bombonera"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "El Estadio Único de La Plata apunta a ser sede del Mundial 2030",
+     "resumen": "La FIFA ya inspeccionó la cancha en 2023 y las autoridades platenses reafirman la candidatura del estadio que lleva el nombre de Diego Maradona para albergar el primer partido en suelo argentino, en disputa con el Monumental de River y el estadio de Rosario Central.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/el-estadio-unico-de-la-plata-apunta-a-ser-sede-de-la-copa-del-mundo-2030-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YQPOIP2I7FB6BN5PNICDWM5OFQ.jpg?auth=8f548a944bfd089bba4894b4da04dc9770713e6da6f1c164578254ee4a54405e&smart=true&width=900&height=598",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:35",
+     "autor": "",
+     "titulo_original": "El Estadio Único de La Plata apunta a ser sede de la Copa del Mundo 2030"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Messi y Antonela Roccuzzo llegaron a España para el Princesa de Asturias",
+     "resumen": "La pareja arribó a Oviedo, donde el futbolista recibirá el viernes el Premio Princesa de Asturias de los Deportes 2026, y se instaló en el Hotel Reconquista tras un recorrido que generó furor entre el público.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/lionel-messi-y-antonela-roccuzzo-llegaron-a-espana-y-causaron-furor-con-sus-elegantes-looks-total-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3CQHCIX6BRDIZPT3IOOZQY457I.jpg?auth=98edb47d403de48a7f843e025e3cba01cec83394b4f9869c71d3f3bdc8ddd728&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:23",
+     "autor": "",
+     "titulo_original": "Lionel Messi y Antonela Roccuzzo llegaron a España y causaron furor con sus elegantes looks total black"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "France Football explicó la polémica encuesta del Balón de Oro \"de todos los tiempos\"",
+     "resumen": "Los organizadores del galardón aclararon, tras las críticas en redes sociales, los criterios de la encuesta que ubica a Cristiano Ronaldo por delante de Lionel Messi, de cara a la ceremonia del próximo lunes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/revista-france-football-aclaro-polemica-boat-revelo-verdad-detras-balon-oro-tiempos_0_Cis09CrjI2.html",
+     "imagen": "https://www.clarin.com/img/2026/06/03/8q8zaed9v_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La revista France Football aclaró la polémica por el BOAT y reveló la verdad detrás del Balón de Oro \"de todos los tiempos\""
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Marina Basso reparte cuatro trabajos, tres hijos y un sueño mundialista de trail running",
+     "resumen": "La corredora de montaña federada en Pinamar entrena de madrugada en las sierras mientras apunta al Mundial de Master Trail 2027 en Suiza y afrontará en diciembre el Cruce en Bariloche.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/23/la-montana-como-refugio-y-motor-el-desafio-de-una-mujer-que-sostiene-tres-hijos-cuatro-empleos-y-persigue-un-nuevo-sueno-mundialista/",
+     "imagen": "https://www.infobae.com/resizer/v2/JYZYPZDETFCCVBQWGWJIOVUH7U.jpg?auth=e8742732040575d5d5d04e17107221ef4c95b2abeb1c56e6dbc5b1015b33c17c&smart=true&width=810&height=456",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:00",
+     "autor": "Ismael Yasnikowski",
+     "titulo_original": "La montaña como refugio y motor: el desafío de una mujer con tres hijos, que sostiene cuatro empleos y persigue un nuevo sueño mundialista"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Colapinto se entrenó como cowboy en la previa del Gran Premio de Estados Unidos",
+     "resumen": "El piloto argentino visitó un rancho en Austin, Texas, y montó a caballo por primera vez antes de las prácticas en el Circuito de las Américas. Colapinto busca dejar atrás el complicado triplete asiático, tras no poder completar las 62 vueltas en Marina Bay por una falla en la transmisión de su monoplaza, de cara al Gran Premio de Estados Unidos de este fin de semana.",
+     "relacionadas": [
+      {
+       "id": "IB-01",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La divertida escena de Franco Colapinto con unos alfajores y su reacción en el circuito de Austin",
+       "url": "https://www.infobae.com/deportes/2026/10/23/la-divertida-escena-de-franco-colapinto-con-unos-alfajores-y-su-reaccion-en-el-circuito-de-austin/"
+      },
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto presentó un nuevo casco con un guiño especial a Boca",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-presento-un-nuevo-casco-un-guino-especial-boca-n6337032"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/el-divertido-entrenamiento-estilo-cowboy-de-franco-colapinto-en-la-previa-del-gp-de-los-estados-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TMAVNRY52NFRXEWKZUVQ5Q7SJQ.png?auth=dcf8110060f9a5b6a399c47d69ff7c1d7a70c12a8b5c865b4ccadbdcf7ea5a8c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:24",
+     "autor": "",
+     "titulo_original": "El divertido entrenamiento estilo cowboy de Franco Colapinto en la previa del GP de los Estados Unidos: “Gaucho Power”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-19",
+     "titulo": "Una escapada a 300 kilómetros de Buenos Aires con fiesta cervantina y tortas fritas",
+     "resumen": "En Azul comenzó una nueva edición del Festival Cervantino, que cumple 20 años y se extiende hasta el 1 de noviembre. A 40 kilómetros, el Pueblo Turístico Crotto festeja su aniversario el domingo con un concurso de tortas fritas y música en vivo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/300-kilometros-buenos-aires-escapada-2x1-fiesta-don-quijote-concurso-tortas-fritas_0_Yhf4fk3KFj.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/j-2_j52Jq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "A 300 kilómetros de Buenos Aires: una escapada 2x1 con la fiesta de Don Quijote y un concurso de tortas fritas"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Cuánto cuesta cruzar a Uruguay en el nuevo ferry eléctrico de Buquebus",
+     "resumen": "El servicio 100% eléctrico comenzó a operar este jueves y ya pueden comprarse los pasajes en la web de la empresa, con tres categorías de precios disponibles.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/467276-cuanto-cuesta-viajar-a-uruguay-en-el-nuevo-buquebus-100-por-ciento-electrico",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628198.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:04",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta viajar a Uruguay en el nuevo ferry 100% eléctrico de Buquebus"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-20",
+     "titulo": "Detuvieron a cinco personas por trata laboral tras la muerte de un operario",
+     "resumen": "Catorce víctimas fueron rescatadas en allanamientos a dos establecimientos de reciclaje de baterías en Malvinas Argentinas, donde los trabajadores vivían en contenedores y realizaban tareas de fundición de plomo sin protección adecuada. Uno de los operarios murió intoxicado.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/detuvieron-acusados-trata-laboral-muerte-operario-intoxicacion_0_py4GmGoqBd.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/9Rlh6YVXL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:04",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Detuvieron a cinco personas por trata laboral tras la muerte de un operario por intoxicación"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "Un temporal de granizo mató a decenas de animales en el norte de Santa Fe",
+     "resumen": "El fenómeno, registrado en Fortín Olmos, duró unos 15 minutos y además de matar animales de granja destruyó parte de una vivienda, según el relato de los productores afectados.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/una-violenta-caida-de-mucho-granizo-mato-a-decenas-de-animales-y-dejo-graves-danos-nid22102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7MOLI7DFCVHS5P6SVFGFDGIY5E.png?auth=90a28ee99322d6c14c4d322713ea1d1778b462bce4b9227b08b9587a13e746cd&smart=true&width=900&height=1200",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:33",
+     "autor": "José E. Bordón",
+     "titulo_original": "Un violento fenómeno con mucho granizo mató a decenas de animales y dejó graves daños"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Una droga para la artritis demostró frenar el tipo de calvicie más severo",
+     "resumen": "Dos estudios de fase 3 comprobaron que la medicación tiene efectos positivos contra la alopecia areata severa, aunque todavía no hay evidencia de que sirva contra las formas más frecuentes de caída del cabello. El tratamiento mensual cuesta entre 5 y 10 millones de pesos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/probaron-droga-artritis-frena-tipo-caida-pelo-severo_0_YTSjNuwXoO.html",
+     "imagen": "https://www.clarin.com/img/2026/10/22/QtAIQj5q4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Probaron que una droga para la artritis también frena el tipo de caída del pelo más severo"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Una mujer murió arrollada por un acoplado en el Mercado Central",
+     "resumen": "La víctima, de 26 años, había bajado de una camioneta cuando un acoplado se desenganchó y la arrastró varios metros en la zona de Tapiales, La Matanza. El hecho ocurrió el jueves por la noche y se investigan las causas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/tragedia-mercado-central-mujer-26-anos-murio-arrollada-acoplado_0_5bkmrhafPe.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/eVIpvnylp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "04:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tragedia en el Mercado Central: una mujer de 26 años murió tras ser arrollada por un acoplado"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del viernes 23 de octubre.\n\nLa jornada arranca con un combo complicado para la city y la Casa Rosada: el riesgo país volvió a superar los setecientos puntos, los mercados globales castigaron a las acciones tecnológicas y el propio Milei admitió que la economía no evoluciona como esperaba. En paralelo, el peronismo cerró filas en defensa de las PASO, renunció otro funcionario del área económica y Brasil llega empatado técnicamente al balotaje del domingo. En el plano deportivo, Estudiantes de La Plata dio la sorpresa en el Maracaná y se metió en la final de la Copa Libertadores.\n\nEl dólar oficial cerró ayer en mil quinientos cincuenta pesos, el blue en mil quinientos sesenta y cinco, el dólar MEP en mil quinientos cincuenta y tres con sesenta, y el mayorista en mil quinientos veintiocho pesos. El riesgo país terminó en setecientos cuatro puntos básicos, la inflación de septiembre fue del uno coma nueve por ciento mensual y treinta y tres coma cuatro por ciento interanual, y el oro cotiza en cuatro mil treinta y cinco dólares la onza.\n\nEn política, arrancó el juicio contra Cristina Kirchner por las causas Hotesur y Los Sauces, la tercera vez que la expresidenta se sienta en el banquillo; la Justicia sostiene que la empresa hotelera y la inmobiliaria familiar se usaron para blanquear fondos. Renunció Daniel González, secretario de Coordinación de Energía y Minería, sin reemplazo designado. Elisa Carrió advirtió contra Javier Milei y pidió no escucharlo porque, dijo, es nocivo. Crece además la presión interna, con Patricia Bullrich a la cabeza, para que el Gobierno cierre acuerdos políticos que bajen la incertidumbre. El Presidente recibió en la Casa Rosada al vicesecretario de Estado norteamericano Christopher Landau, antes de la visita del vicepresidente JD Vance prevista para noviembre. Y el juez Ariel Lijo citó a indagatoria a los dueños de la droguería Suizo Argentina, Jonathan y Emmanuel Kovalivker, por la causa de corrupción en la Agencia Nacional de Discapacidad. Del lado peronista, Axel Kicillof, Máximo Kirchner y Sergio Massa se reunieron con gobernadores del PJ para ordenar la interna y defender las primarias.\n\nEn economía y mercados, el riesgo país subió trece por ciento en lo que va de octubre y los certificados argentinos en Wall Street llegaron a caer seis por ciento, arrastrados por el derrumbe de las acciones tecnológicas y la suba del petróleo, que tocó los ciento trece dólares el barril. El propio Milei reconoció el freno de la economía y lo atribuyó a un shock externo por la suba de tasas en Estados Unidos y las guerras en Ucrania e Irán. El Estimador Mensual de Actividad Económica no repuntó en agosto y el tercer trimestre se encamina a una recesión técnica, según el Indec. Una consultora privada advirtió que el Gobierno todavía necesita conseguir diecisiete mil millones de dólares para el programa financiero de 2027, aunque desde Economía calificaron de exagerado el castigo del mercado. Argentina, de hecho, lidera el ranking mundial de deuda con el Fondo Monetario Internacional. Y pese a la suba del petróleo internacional, YPF sostiene el mecanismo que amortigua los aumentos de combustibles en el surtidor.\n\nEn negocios y empresas, la láctea santafesina Verónica entró formalmente en concurso preventivo, con ochocientos veintinueve acreedores y ciento veinte mil millones de pesos de deuda, y mantiene operativa apenas una de sus tres plantas. El Gobierno rechazó los cuestionamientos de Grupo México a la licitación del Belgrano Cargas después de que la empresa se bajara de la puja, aunque reconoció que perder a un oferente internacional no es una buena noticia. La marca francesa LC Waikiki llegará a la Argentina de la mano del Grupo One, y la cadena de hamburgueserías El Desembarco cruzará a Chile con su marca low cost Mr. Tasty. En Vaca Muerta, los CEOs petroleros coincidieron en que el desafío ya no pasa por los recursos sino por articular producción, transporte, tecnología y mercados. Y las fintech argentinas proyectan invertir dos mil doscientos millones de dólares en dos mil veintisiete.\n\nEn impuestos, lo laboral y la normativa, el Gobierno reglamentó la Ley de Inocencia Fiscal dos, que reduce multas y facilita blanquear dólares guardados fuera del sistema, a días del vencimiento de las declaraciones juradas de Ganancias. ARBA lanzó un plan de pagos para regularizar deudas de Ingresos Brutos, Patentes e Inmobiliario. El Banco Central dispuso que, desde el primero de noviembre, bancos y billeteras deberán informar cada siete días el rendimiento de los fondos money market. Un dictamen de la Procuración reabrió el debate sobre los límites de la planificación fiscal legítima, y la Justicia confirmó el procesamiento por evasión del dueño de Manaos.\n\nEn consumo, construcción y retail, las ventas en supermercados acumulan ocho meses de caída y retrocedieron tres coma siete por ciento interanual en agosto, aunque los shoppings, el comercio electrónico y las farmacias mostraron subas. El Banco Ciudad bajó la tasa de sus créditos hipotecarios para ampliaciones. Y una prueba de manejo que terminó con un auto chino destrozado abrió una controversia sobre quién debe hacerse cargo de los daños en un test drive.\n\nEn management y finanzas corporativas, el emprendedor Santiago Bilinkis sostuvo que el mayor desafío para innovar es animarse a tomar riesgos, en un contexto donde la inteligencia artificial acelera los cambios. Y Esteban Wolf, CEO de Persicco, Chocorísimo y Guapaletas, repasó en el ciclo Sin Manual la regla del más ocho con la que exige rendimiento a sus empleados, además de contar una infancia marcada por el abandono y la cárcel de su padre.\n\nEn el mundo, a tres días del balotaje brasileño, la encuesta Datafolha mostró un empate técnico entre Lula da Silva y Flavio Bolsonaro, con cuarenta y siete por ciento para Bolsonaro y cuarenta y seis para Lula. Dos jueces del Supremo de Brasil, vinculados a Jair Bolsonaro, impulsaron una polémica propuesta para censurar canales de WhatsApp de la campaña oficialista, que quedó congelada tras conocerse. Estados Unidos propuso restringir las inversiones tecnológicas en Irán, Corea del Norte, Rusia y Cuba. Ucrania denunció que persisten las restricciones en el sistema satelital Starshield pese a los anuncios de Donald Trump. En Italia, la cantidad de menores presos creció cuarenta por ciento desde dos mil veintidós. Y el comandante de la misión Artemis II, Reid Wiseman, contó cómo fue ver por primera vez el lado oculto de la Luna.\n\nLe Grand Continent analiza dos frentes de la guerra en Ucrania. Por un lado, advierte que un alto el fuego impulsado por Washington, sin una disuasión europea sólida detrás, podría congelar el conflicto sin garantizar una paz duradera. Por el otro, examina el primer envío de gasóleo ruso a Estados Unidos tras el acuerdo entre Trump y Putin, y sostiene que el margen de maniobra de Moscú para sostener ese negocio está limitado por el desgaste de la guerra.\n\nEn deportes, Estudiantes de La Plata dio la sorpresa en el Maracaná: empató sin goles con Flamengo, resistió con diez jugadores casi todo el segundo tiempo y se impuso por penales gracias a las tres atajadas del arquero uruguayo Sergio Muslera. El Pincha jugará la final de la Copa Libertadores ante Palmeiras. Boca, por su parte, se prepara para enfrentar a Atlético Mineiro, dirigido por Eduardo Domínguez, en la final de la Copa Sudamericana el veintiuno de noviembre en Barranquilla. El Estadio Único de La Plata reafirmó su candidatura para ser sede del Mundial dos mil treinta. Lionel Messi y Antonela Roccuzzo llegaron a Oviedo, donde el futbolista recibirá el Premio Princesa de Asturias de los Deportes. France Football explicó la polémica encuesta del Balón de Oro de todos los tiempos, que ubica a Cristiano Ronaldo por delante de Messi. Y Franco Colapinto, en la previa del Gran Premio de Estados Unidos, visitó un rancho en Austin y montó a caballo por primera vez, tras un complicado triplete asiático en el que no pudo completar la carrera en Marina Bay.\n\nPara cerrar, una escapada cerca de Buenos Aires: en la ciudad de Azul comenzó el Festival Cervantino, que cumple veinte años, y a cuarenta kilómetros el pueblo de Crotto festeja su aniversario con un concurso de tortas fritas. Y si el plan es cruzar a Uruguay, Buquebus ya vende pasajes para su nuevo ferry cien por ciento eléctrico.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent publicó solo dos notas en esta corrida (ambas sobre Ucrania), por lo que la sección Europa y geopolítica tiene menos notas que lo habitual; no se completó con material de otro origen para respetar la regla de usar solo fuentes de esa revista.",
+ "slug": "2026-10-23-manana",
+ "generado_ba": "23/10/2026 10:19"
+}
