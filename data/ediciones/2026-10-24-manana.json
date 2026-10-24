@@ -1,0 +1,919 @@
+{
+ "fecha": "2026-10-24",
+ "edicion": "manana",
+ "titulo": "Milei sobreseído en la causa Libra, con el riesgo país sobre 700 puntos",
+ "apertura": "La Justicia sobreseyó a Javier Milei y a su hermana Karina en la causa Libra, lo que generó una fuerte reacción presidencial contra la oposición y los medios. En paralelo, el riesgo país cerró por encima de los 700 puntos y la city sigue atenta al dólar y al Presupuesto 2027, mientras las inundaciones por El Niño golpean a Chaco, Corrientes y Neuquén. En el plano deportivo, Estudiantes de La Plata clasificó a la final de la Copa Libertadores y Franco Colapinto corre este domingo el Gran Premio de Estados Unidos con una sanción en la grilla.",
+ "claves": [
+  "La Justicia sobreseyó a Javier Milei y a su hermana Karina en la causa Libra; el Presidente habló de un intento de golpe de Estado.",
+  "El riesgo país cerró en 707 puntos básicos, pero el Merval subió 4,37% hasta los 102.277 puntos.",
+  "Las inundaciones por El Niño dejan miles de evacuados en Chaco, Corrientes y Neuquén.",
+  "Estudiantes de La Plata clasificó a la final de la Copa Libertadores ante Palmeiras, pero Flamengo presentó un reclamo formal ante la Conmebol.",
+  "El decreto 1253/2026 permite reducir hasta 50% las multas de ARCA para contribuyentes con buena conducta fiscal.",
+  "El Gobierno postergó al 1° de diciembre el debut del Fondo de Asistencia Laboral y duplicó su período de carencia.",
+  "Franco Colapinto correrá sancionado 10 puestos en la grilla del Gran Premio de Estados Unidos de Fórmula 1.",
+  "Vaca Muerta ya reúne anuncios de inversión por 200.000 millones de dólares para la próxima década."
+ ],
+ "cifras": [
+  {
+   "nombre": "Merval",
+   "valor": "102.277 puntos",
+   "variacion": "+4,37%",
+   "fuente": "CR-13"
+  },
+  {
+   "nombre": "Petróleo",
+   "valor": "US$ 110 por barril",
+   "fuente": "CR-04"
+  },
+  {
+   "nombre": "Reservas brutas BCRA",
+   "valor": "más de US$ 50.000 millones",
+   "fuente": "IP-12"
+  },
+  {
+   "nombre": "Subsidios energéticos sobre la factura",
+   "valor": "26% en septiembre",
+   "fuente": "IP-07"
+  },
+  {
+   "nombre": "Créditos hipotecarios ANSES otorgados por Banco Nación",
+   "valor": "210 créditos por $ 32.000 millones",
+   "fuente": "IP-08"
+  },
+  {
+   "nombre": "Transferencias inmediatas en pesos (agosto)",
+   "valor": "779 millones por $ 96 billones",
+   "variacion": "+20,3%",
+   "fuente": "CR-21"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-21",
+     "titulo": "La Justicia sobreseyó a Milei y a Karina en la causa Libra",
+     "resumen": "El Juzgado Criminal y Correccional Federal 8 sobreseyó el viernes a Javier Milei, a su hermana Karina y a otros nueve acusados en la causa Libra, que investigaba una presunta megaestafa con criptomonedas. El juez Marcelo Martínez de Giorgi concluyó que los hechos denunciados no encuadran en figuras como estafa, abuso de autoridad o negociaciones incompatibles. Milei calificó la causa de operación política y mediática y habló de un intento de golpe de Estado por la vía institucional, mientras la oposición denunció impunidad judicial y cuestionó al fiscal y al juez.",
+     "relacionadas": [
+      {
+       "id": "LN-17",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Milei celebró el fallo de la Justicia y aseguró: “Somos honestos, estamos limpios”",
+       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-admitio-que-la-economia-no-evoluciona-como-nid23102026/"
+      },
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "\"Operación con fines golpistas\": fuerte descargo de Milei tras ser sobreseído por $LIBRA",
+       "url": "https://www.iprofesional.com/politica/467372-operacion-con-fines-golpistas-fuerte-descargo-de-milei-tras-ser-sobreseido-por-libra"
+      },
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "\"La verdad triunfa por sí misma\": el mensaje de Milei tras ser sobreseído por $LIBRA",
+       "url": "https://www.iprofesional.com/politica/467361-la-verdad-triunfa-por-si-misma-el-mensaje-de-milei-tras-ser-sobreseido-por-libra"
+      },
+      {
+       "id": "IP-20",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Del tuit de Milei al sobreseimiento de todos los acusados: cómo estalló la causa $LIBRA",
+       "url": "https://www.iprofesional.com/actualidad/467351-del-tuit-de-milei-al-sobreseimiento-de-todos-los-acusados-como-estallo-la-causa-libra"
+      },
+      {
+       "id": "IP-23",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Por qué el juez sobreseyó a todos los acusados en la causa $LIBRA",
+       "url": "https://www.iprofesional.com/actualidad/467350-por-que-el-juez-sobreseyo-a-todos-los-acusados-en-la-causa-libra"
+      },
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Milei habló tras ser sobreseído en la causa Libra: “Intentaron un golpe de Estado y no pudieron”",
+       "url": "https://www.cronista.com/economia-politica/milei-hablo-tras-haber-sido-sobreseido-en-la-causa-libra-la-verdad-triunfa-por-si-misma-la-mentira-necesita-siempre-complicidad/"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "$LIBRA: la oposición cuestionó el sobreseimiento de Javier Milei y denunció impunidad judicial",
+       "url": "https://www.ambito.com/politica/libra-la-oposicion-cuestiono-el-sobreseimiento-javier-milei-y-denuncio-impunidad-judicial-n6337415"
+      },
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei, tras el sobreseimiento en la causa $LIBRA: \"La Justicia volvió a poner las cosas en su lugar\"",
+       "url": "https://www.ambito.com/politica/javier-milei-el-sobreseimiento-la-causa-libra-la-justicia-volvio-poner-las-cosas-su-lugar-n6337406"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/milei-hablo-tras-el-sobreseimiento-por-la-causa-libra-quien-me-compensa-por-un-ano-y-ocho-meses-de-nid23102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KUKVRQN5FRCX7OTHMRYQHUGGSI.jpg?auth=c13580e7aa794a9640a986ff1bdf2bc26c053bceff5c411a74e38ab586790b7b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:29",
+     "autor": "",
+     "titulo_original": "Milei habló tras el sobreseimiento por la causa $LIBRA: “¿Quién me compensa por un año y ocho meses de mentiras?”"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "audios complican a Espert por el pago de Fred Machado",
+     "resumen": "Audios hallados en el celular del contador de José Luis Espert revelaron detalles sobre el contrato de un millón de dólares que el economista firmó con el empresario Fred Machado, procesado por lavado de dinero. En las grabaciones, Espert admite haber mentido primero al decir que el dinero provenía del estado de Guatemala. El ex diputado ya fue procesado en la causa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/mentira-chanta-total-reveladores-audios-complicaron-jose-luis-espert-lavado-dinero_0_PXEPxMBs1M.html",
+     "imagen": "https://www.clarin.com/img/2026/07/07/Wmb7UiZNz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Es todo una mentira, es un chanta total\": los reveladores audios que complicaron a José Luis Espert por lavado de dinero"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Villarruel marcó distancia de Milei por la crisis de la Ley Malvinas",
+     "resumen": "La vicepresidenta Victoria Villarruel reivindicó en redes sociales su silencio frente a las versiones de que el Gobierno frenaría la Ley Malvinas, impulsada por Javier Milei bajo la órbita del asesor Santiago Caputo. Con la frase hechos, no palabras, Villarruel volvió a exponer sus diferencias con la Casa Rosada sobre el proyecto, formalmente llamado de Defensa de la Soberanía Nacional.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-respuesta-de-villarruel-a-la-crisis-de-la-ley-malvinas-volvio-a-exponer-su-distancia-con-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/K7IZDQVINFDJHNSRU2RWMKHUJU.jpg?auth=857cf6a23897978e54c499155061ea8b26d877dfe278ba3a074e158e04ab126a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:07",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "La respuesta de Villarruel a la crisis de la Ley Malvinas volvió a exponer su distancia con Milei"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "80 intendentes bonaerenses no podrán competir por la reelección en 2027",
+     "resumen": "Si la Legislatura bonaerense no modifica el límite vigente, 80 intendentes quedarán impedidos de buscar un nuevo mandato en las elecciones de 2027. El recambio abre disputas internas en el peronismo, la UCR y el PRO, con familiares, funcionarios y dirigentes de confianza que ya compiten por sucederlos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/ambito-nacional/intendentes-bonaerenses-reeleccion-el-mapa-la-sucesion-2027-distrito-distrito-n6335696",
+     "imagen": "https://media.ambito.com/p/9cc578980cec87572f8af043199b272b/adjuntos/239/imagenes/043/382/0043382180/1200x675/smart/kicillof-intendentes.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Intendentes bonaerenses sin reelección: el mapa de la sucesión en 2027, distrito por distrito"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "renunció un funcionario de Seguridad cercano a Bullrich",
+     "resumen": "Un funcionario del Ministerio de Seguridad cercano a Patricia Bullrich renunció tras recibir un severo apercibimiento, en medio de tensiones por la competencia de la Justicia.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/467353-renuncio-un-funcionario-del-ministerio-de-seguridad-cercano-a-patricia-bullrich",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628280.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:10",
+     "autor": "",
+     "titulo_original": "Renunció un funcionario del Ministerio de Seguridad cercano a Patricia Bullrich"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "las universidades llevaron al papa León XIV su reclamo por la ley de Financiamiento",
+     "resumen": "El rector Franco Bartolacci entregó al papa León XIV un documento del Consejo Interuniversitario Nacional que cuestiona al Gobierno por desoír al Congreso y a la Justicia en materia de financiamiento universitario. Los rectores advirtieron sobre la caída de los recursos y sus consecuencias para la enseñanza y la investigación.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/las-universidades-llevaron-al-papa-leon-xiv-su-reclamo-la-ley-financiamiento-n6337395",
+     "imagen": "https://media.ambito.com/p/6895a2d07de9308b371dac6e2fe4c11d/adjuntos/239/imagenes/043/725/0043725124/1200x675/621x488:641x508/leon-universidades.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:00",
+     "autor": "",
+     "titulo_original": "Las universidades llevaron al papa León XIV su reclamo por la ley de Financiamiento"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "un seminario en el Senado expuso el descalabro de la coparticipación",
+     "resumen": "Un encuentro informativo en el Senado sobre coparticipación federal expuso el descalabro impositivo vigente desde hace años. Entre los datos difundidos se destacó que las gestiones kirchneristas tuvieron los pisos de incumplimiento más bajos, del 34% de la masa a repartir entre Nación y provincias, según expusieron funcionarios y legisladores de distintas provincias.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/24/coparticipacion-un-seminario-en-el-senado-expuso-el-descalabro-impositivo-y-la-falta-de-acuerdos/",
+     "imagen": "https://www.infobae.com/resizer/v2/QP7VHPRIXRAZHMOTL3JCBHFWQU.jpg?auth=779284c79d93e0c9606b7c42dcee4af610e33e7c76772d97574f1e2c6e26d3fd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:34",
+     "autor": "Mariano Casal",
+     "titulo_original": "Coparticipación: un seminario en el Senado expuso el descalabro impositivo y la falta de acuerdos"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "Milei rechazó emitir más pesos para reactivar la actividad",
+     "resumen": "En la cena de la Fundación Faro, Javier Milei descartó emitir moneda para incentivar la demanda, pese a la desaceleración de la actividad económica. Dijo tener sobrante monetario y comparó la emisión con tirar más leña al fuego, aunque admitió que el crecimiento se desacelera y que la demanda de dinero crece menos. Para una empresa: el Gobierno descarta un atajo monetario, por lo que la recuperación de ventas seguirá dependiendo del ingreso real y del crédito.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/milei-rechazo-emitir-mas-pesos-para-mejorar-la-actividad-economica-nid23102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HIZS3BLH6ZBLHK45UJKNQGR3PI.JPG?auth=cf03bc2372b255f6abd3af518f1c2e74ace1225e36d5547781815f120649ddbf&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:07",
+     "autor": "",
+     "titulo_original": "Milei rechazó emitir más pesos para mejorar la actividad económica"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "la inflación no logra bajar del 2% mensual",
+     "resumen": "El índice de precios al consumidor subió 1,9% en septiembre, tras el 1,7% de agosto, y las consultoras privadas esperan un resultado similar para octubre. Los economistas no anticipan una desaceleración significativa hasta fin de año y advierten que 2027 dependerá del dólar, los costos de energía y el escenario electoral. El próximo dato oficial se conocerá el 12 de noviembre. Para una empresa: la inflación sostenida cerca del 2% mensual obliga a mantener ajustes frecuentes de precios y a revisar la indexación de contratos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/24/la-inflacion-se-resiste-a-bajar-del-2-que-espera-el-mercado-para-el-resto-del-ano-y-cuales-son-los-riesgos-para-el-ano-que-viene/",
+     "imagen": "https://www.infobae.com/resizer/v2/TZRFWE2BXRAFPMDQYWWJNOESMY.jpg?auth=23eeaeb819baec8856643b73501c74f72bb76b21a9c55df83cf501a813827ddb&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:20",
+     "autor": "Natalia Donato",
+     "titulo_original": "La inflación se resiste a bajar del 2%: qué espera el mercado para el resto del año y cuáles son los riesgos para el año que viene"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "qué puede pasar con el dólar en 2027 pese a la bazuca oficial",
+     "resumen": "El Gobierno asegura contar con una bazuca de 75.000 millones de dólares para una eventual corrida cambiaria el año próximo, pero cálculos de consultoras privadas sugieren que la liquidez en pesos que podría migrar al dólar superaría esa cifra en términos teóricos. La discusión gana relevancia de cara a las elecciones presidenciales de 2027, cuando el Gobierno buscará sostener el esquema de bandas cambiarias y afrontar vencimientos de deuda.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/24/que-va-a-pasar-con-el-dolar-en-2027-los-movimientos-del-peso-que-pueden-poner-a-prueba-la-bazuca-del-gobierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/M35OYRP5CJG6PDQWMMZGFZT274.JPG?auth=7d0f46fd1452ca19e011837aa85f92600f2a733cf60d94ab6afc4c6eead44bfd&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:20",
+     "autor": "Martín Fernández Nadale",
+     "titulo_original": "¿Qué va a pasar con el dólar en 2027?: los movimientos del peso que pueden poner a prueba la “bazuca” del Gobierno"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "un banco recomienda una cartera defensiva de cara a 2027",
+     "resumen": "Un informe bancario señala que el mercado argentino empezó a poner precio a las elecciones de 2027 antes de lo habitual, con el riesgo país en 700 puntos y datos de actividad económica débiles. A la incertidumbre local se suma un contexto internacional más exigente, con el petróleo en torno a los 110 dólares por barril, una corrección de las acciones tecnológicas y tasas largas elevadas en Estados Unidos. El banco recomienda reducir exposición a los segmentos más sensibles a la incertidumbre electoral.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-mercado-le-pone-precio-a-2027-un-importante-broker-muestra-una-cartera-defensiva-en-renta-fija-y-variable/",
+     "imagen": "https://www.cronista.com/resizer/v2/7VLWNOMZIFGE5A45O2ZM5GTWJA.jpg?auth=f17133d239df9e076828cdda49b21b5b6c42a91829c96cd96f19d32f85d41c34&smart=true&width=830&height=467",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Lucas González Monte",
+     "titulo_original": "El mercado le pone precio a 2027: un importante broker muestra una cartera defensiva en renta fija y variable"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "el riesgo país cerró arriba de 700 puntos pero las acciones rebotaron",
+     "resumen": "El riesgo país cerró la semana en 707 puntos básicos, tras haber tocado un máximo intradiario de 717, con los bonos argentinos todavía bajo presión. En cambio, las acciones tuvieron una fuerte recuperación: el índice MSCI Merval avanzó 4,37% y cerró en 102.277 puntos, con casi todo el panel líder en terreno positivo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-en-717-puntos-que-lo-impulsa-hacia-arriba/",
+     "imagen": "https://www.cronista.com/resizer/v2/PVKAXY3SYFFVFMANTJBMZFZ7NQ.jpg?auth=3f657b04cc024e282f5e5a901a59328af48ba49166a151bb86d6349452e3c898&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:04",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El riesgo país cerró arriba de 700 puntos, pero las acciones rebotaron hasta 7%"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "la industria usa menos de la mitad de su capacidad instalada",
+     "resumen": "La industria argentina no utiliza casi la mitad de su capacidad instalada, mientras los organismos multilaterales de crédito revisaron a la baja sus proyecciones de crecimiento del PBI local para este año. Además, uno de cada dos trabajos ya se encuentra en la informalidad. Para una empresa: la capacidad ociosa y la informalidad laboral anticipan una demanda interna todavía débil y mayores dificultades para trasladar costos a precios.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/bajon-economia-datos-incomodos_0_4cZpdfS4b6.html",
+     "imagen": "https://www.clarin.com/img/2025/09/16/obrq_riLd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El bajón de la economía y otros datos incómodos"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "el Presupuesto 2027 enfrenta un nuevo flanco fiscal por la ley de Discapacidad",
+     "resumen": "Diputados giró al Senado la ley de Discapacidad con 237 votos a favor, después de que el oficialismo aceptara todos los cambios pedidos por la oposición, incluidos los del peronismo. El secretario de Hacienda reconoció que esas modificaciones generan una incompatibilidad fiscal con el proyecto de Presupuesto 2027 enviado por el Ejecutivo, que la Casa Rosada busca resolver antes de las reuniones de comisión del 27 y 28 de octubre.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/24/el-presupuesto-bajo-presion-las-concesiones-en-discapacidad-le-abren-al-gobierno-un-complicado-flanco-fiscal/",
+     "imagen": "https://www.infobae.com/resizer/v2/CBZST4IMWJAPFMERLNTJD7STOM.jpg?auth=d9e11967f6eb62e96e08c70c890c757c7d76558d966a3c83740caf142e779c1f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:34",
+     "autor": "David Cayón",
+     "titulo_original": "El Presupuesto bajo presión: las concesiones en discapacidad le abren al Gobierno un complicado flanco fiscal"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-11",
+     "titulo": "Vaca Muerta ya suma anuncios de inversión por 200.000 millones de dólares",
+     "resumen": "YPF, Pluspetrol, Tecpetrol, Pampa Energía y otros jugadores impulsan un ciclo de inversiones récord en Vaca Muerta, con anuncios por 200.000 millones de dólares para la próxima década en proyectos de petróleo, gas y GNL. La agenda de Energía y Minería incluye además la aprobación del Súper RIGI y del proyecto Argentina LNG.",
+     "relacionadas": [
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Súper RIGI, GNL y Vaca Muerta: los temas que quedan en la agenda de Energía y Minería",
+       "url": "https://www.cronista.com/economia-politica/la-agenda-que-deja-daniel-gonzalez-para-mineria-y-energia/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/energia/467358-inversiones-en-vaca-muerta-superaran-los-us200000-millones-a-10-anos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626220.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:39",
+     "autor": "",
+     "titulo_original": "Vaca Muerta ya suma anuncios de inversión por u$s200.000 millones en la próxima década"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "YPF anticipa un diciembre histórico en exportaciones",
+     "resumen": "El CEO de YPF, Horacio Marín, anticipó un diciembre histórico en exportaciones durante la presentación de resultados ante inversores, en el marco de la alianza con McDonald's para la estación YPF Black Melo. Marín aseguró que la Argentina estará entre los seis principales países productores de petróleo del mundo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/ypf-presenta-sus-resultados-inversores-horacio-marin-anticipa-un-diciembre-historico-exportaciones-n6337346",
+     "imagen": "https://media.ambito.com/p/917efeb7b4f9b089664df89de8a5c38f/adjuntos/239/imagenes/043/725/0043725201/horacio-marin-ypf.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:39",
+     "autor": "",
+     "titulo_original": "YPF presenta sus resultados ante inversores: Horacio Marín anticipa un diciembre “histórico” en exportaciones"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "La Campagnola frena una planta por falta de materia prima para el atún",
+     "resumen": "La Campagnola debió frenar una planta en Mar del Plata por la caída del 90% en la disponibilidad de magrú, la materia prima con la que elabora conservas de caballa. La parálisis de la fábrica se extendería entre uno y dos meses.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/campagnola-frena-planta-falta-insumo-clave-produccion-conservas-atun_0_sZTXjLsGWx.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/aJxauBUj5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Campagnola frena una planta por falta de un insumo clave para la producción de conservas de atún"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "Grupo México cuestiona la privatización de Belgrano Cargas",
+     "resumen": "Grupo México cuestionó el modelo de privatización de Belgrano Cargas tras su salida del proceso, aunque el Gobierno ratificó que la privatización sigue en marcha y sostiene que la extensión de los plazos responde a pedidos de otros interesados. El conflicto tensiona además el vínculo entre la Nación y los gobernadores del norte, que reclaman inversiones en los ramales C-14 y C-15.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Belgrano Cargas y zona cálida, dos frentes que tensionan el vínculo de Nación con los gobernadores norteños",
+       "url": "https://www.ambito.com/ambito-nacional/belgrano-cargas-y-zona-calida-dos-frentes-que-tensionan-el-vinculo-nacion-los-gobernadores-nortenos-n6337365"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/467323-belgrano-cargas-gobierno-javier-milei-ratifica-privatizacion-ante-grupo-mexico",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/586275.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:53",
+     "autor": "",
+     "titulo_original": "Belgrano Cargas: Grupo México cuestionó el modelo y el Gobierno ratifica la privatización"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "abrió el primer McDonald's dentro de una estación de servicio YPF",
+     "resumen": "Esta semana abrió el primer local de McDonald's dentro de una estación de servicio YPF, en el marco de una nueva alianza entre ambas compañías.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/recreo/467380-donde-esta-el-primer-mcdonalds-dentro-de-una-estacion-de-servicio-ypf",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628320.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "23:14",
+     "autor": "",
+     "titulo_original": "Dónde está el primer McDonald’s dentro de una estación de servicio YPF"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "llegó desde Tasmania el ferry eléctrico más grande del mundo para ir a Colonia",
+     "resumen": "El China Zorrilla, considerado el buque 100% eléctrico más grande del mundo, comenzó a operar la ruta entre Buenos Aires y Colonia del Sacramento con capacidad para 2.100 pasajeros y 225 vehículos. La embarcación, construida en Tasmania, demandó una inversión de 180 millones de dólares más 10 millones adicionales para su traslado al Cono Sur.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/llego-desde-tasmania-el-ferry-100-electrico-mas-grande-del-mundo-para-viajar-a-colonia-tiene-un-mega-free-shop/",
+     "imagen": "https://www.cronista.com/resizer/v2/WK2547KIVBBUBOBBCGW7ES7XI4.jpg?auth=e9073ecd5e6fb75d83320d10dbbcc297ddbf0ffa9bfbf73b76b0a56735d927cb&smart=true&width=640&height=360",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:08",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Llegó desde Tasmania el ferry 100% eléctrico más grande del mundo para ir a Colonia: tiene un mega free shop"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "el decreto 1253 permite reducir hasta 50% las multas de ARCA",
+     "resumen": "El Decreto 1253/2026 habilita una reducción de hasta el 50% en las multas de ARCA, tomando en cuenta la condición del contribuyente al momento del incumplimiento. La norma confirma que el beneficio se aplica de pleno derecho.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467384-inocencia-fiscal-ii-como-opera-la-reduccion-de-hasta-el-50-de-las-multas-de-arca",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588602.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:26",
+     "autor": "",
+     "titulo_original": "Inocencia fiscal II: cómo opera la reducción de hasta el 50% de las multas de ARCA"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "el Gobierno postergó el debut del FAL y duplicó su período de carencia",
+     "resumen": "El decreto 1228/26 aplazó al 1° de diciembre el debut operativo del Fondo de Asistencia Laboral y estiró el período de carencia inicial de 6 a 12 meses. Como los aportes se liquidan a mes vencido, el primer desembolso de las empresas al fondo recién ocurrirá a principios de enero de 2027. Para una empresa: las compañías están obligadas a aportar al FAL desde enero pero no podrán usarlo para financiar indemnizaciones ni retirar fondos antes de 2028.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/fal-que-cambia-para-las-empresas-con-la-postergacion-del-debut-y-cuando-podran-financiar-nid23102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JFHMAVYSJVGVDD6SCDKUWK73M4.png?auth=3f0fdeff4f86146f8a6364def973108e64a367951b02892e2ad984a910505e0c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:39",
+     "autor": "Lautaro Castillo",
+     "titulo_original": "FAL: qué cambia para las empresas con la postergación del debut y cuándo podrán financiar indemnizaciones"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "fallo ordena indemnizar a un jubilado por la caída de árboles de una vecina",
+     "resumen": "La Justicia de Mar del Plata ordenó indemnizar a un jubilado tras la caída de árboles de la propiedad de su vecina, en un fallo que sienta precedente sobre responsabilidad civil entre vecinos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/467346-fallo-ejemplar-entre-vecinos-por-la-caida-de-arboles-en-mar-del-plata",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628271.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:35",
+     "autor": "",
+     "titulo_original": "Fallo ejemplar entre vecinos por la caída de árboles en Mar del Plata"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "cuántos feriados bancarios habrá en noviembre por la visita del Papa",
+     "resumen": "Los bancos cerrarán en noviembre por el Día del Trabajador Bancario y por la visita del papa León XIV, según el calendario de feriados del sector financiero.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467345-cuantos-feriados-bancarios-habra-en-noviembre-2026-con-la-visita-del-papa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605740.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:41",
+     "autor": "",
+     "titulo_original": "Cuántos feriados bancarios habrá en noviembre con la visita del Papa"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "créditos hipotecarios UVA: tasas desde 6,5% en los principales bancos",
+     "resumen": "Nación, Ciudad, Provincia, BBVA, Galicia, Macro y Santander ofrecen créditos hipotecarios UVA con tasas desde el 6,5%, plazos de hasta 30 años y condiciones preferenciales para quienes cobran el sueldo en la entidad. La cuota se actualiza por el Coeficiente de Estabilización de Referencia, ligado a la inflación, mientras la tasa de interés queda fija al contratar el préstamo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/nuevos-creditos-hipotecarios-uva-tasas-desde-65-plazos-y-requisitos-en-nacion-ciudad-provincia-bbva-galicia-macro-y-santander/",
+     "imagen": "https://www.cronista.com/resizer/v2/26LBRCN7QFAKFPZDCMQTOCZHYU.jpg?auth=4f6d8835debc3651af34e2891d5838cf702c5159c089aaf79f7eb38c9964c56f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "Nuevos créditos hipotecarios UVA: tasas desde 6,5%, plazos y requisitos en Nación, Ciudad, Provincia, BBVA, Galicia, Macro y Santander"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "el Banco Nación ya otorgó 210 créditos hipotecarios con fondos de ANSES",
+     "resumen": "El Banco Nación colocó 32.000 millones de pesos en 210 créditos hipotecarios, fondos que obtuvo en la primera licitación del Fondo de Garantía de Sustentabilidad de ANSES.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467368-el-banco-nacion-ya-otorgo-210-creditos-hipotecarios-con-los-fondos-de-anses",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/06/537164.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:55",
+     "autor": "",
+     "titulo_original": "El Banco Nación ya otorgó 210 créditos hipotecarios con los fondos de ANSES"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "se despide la Ley de Alquileres con 12.000 contratos que vencen",
+     "resumen": "Con la salida de la Ley de Alquileres, 12.000 contratos vencen en los próximos meses mientras la oferta en CABA ronda los 18.000 departamentos, tras multiplicarse desde el DNU 70/2023. Los precios y los gastos de ingreso siguen dificultando el acceso al alquiler.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467157-vencen-12000-contratos-de-la-ley-de-alquileres-como-esta-hoy-el-mercado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/586335.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Se despide la Ley de Alquileres con 12.000 contratos que vencen y así está hoy el mercado"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "compras hormiga y el regreso del fiado: los almacenes se adaptan a la caída del consumo",
+     "resumen": "Las compras en comercios minoristas cayeron 2,7% en los primeros nueve meses de 2026 y los almacenes de barrio responden con compras hormiga, segundas marcas y el regreso del fiado. El aumento del gasto en servicios golpea el poder adquisitivo disponible para el consumo. Para una empresa: la caída sostenida del consumo masivo anticipa una demanda minorista todavía frágil para los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/compras-hormiga-segundas-marcas-y-el-regreso-del-fiado-los-almacenes-barrio-se-adaptan-la-caida-consumo-n6337141",
+     "imagen": "https://media.ambito.com/p/38efc29f6c48f1b07d5658a68a813ab8/adjuntos/239/imagenes/043/723/0043723874/almacenes-barrio.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Compras hormiga, segundas marcas y el regreso del fiado, los almacenes de barrio se adaptan a la caída de consumo"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-19",
+     "titulo": "el dilema del cajón lleno: facturar más no siempre significa tener caja",
+     "resumen": "Una pyme puede cerrar el año con facturación récord y ganancia contable y aun así no tener efectivo para pagar sueldos, porque el dinero queda inmovilizado en mercadería sin vender y en facturas pendientes de cobro. Ese capital de trabajo, descontado lo que financian los proveedores, explica por qué crecer en ventas no garantiza liquidez.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-dilema-del-cajon-lleno/",
+     "imagen": "https://www.cronista.com/resizer/v2/5AQCGILG5RCA7FOB5HIDKIWGO4.jpg?auth=332781379ae879c9b95c747f6703de0a109f0b5a778feba61c6a72397681a399&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:45",
+     "autor": "Fabián Canoni",
+     "titulo_original": "El dilema del cajón lleno"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "una solución de cobranzas digitales ya suma más de 6.000 empresas",
+     "resumen": "En agosto se realizaron 779 millones de transferencias inmediatas en pesos por 96 billones de pesos, según el Banco Central, un 20,3% más de operaciones que un año atrás. Ante la dificultad de las empresas para identificar a qué cliente o factura corresponde cada pago, una solución de conciliación automática de cobranzas ya suma más de 6.000 empresas usuarias.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/resolvieron-uno-de-los-problemas-que-mas-les-molesta-a-las-pymes-y-le-dan-solucion-a-mas-de-6000-empresas/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZHEAEXYN6FAZNIYEWA3DZEGLFA.jpg?auth=5b61542a692f88c36638948436e51236b241386b0ae2e90a8db405ea16c13182&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:19",
+     "autor": "Florencia García Alegre",
+     "titulo_original": "Resolvieron uno de los problemas que más les molesta a las pymes y le dan solución a más de 6000 empresas"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "el decano de la Escuela de Negocios de San Andrés: la estabilidad es necesaria pero no suficiente",
+     "resumen": "Daniel González Isolio, decano de la Escuela de Negocios de la Universidad de San Andrés, sostuvo que la estabilidad macroeconómica es una condición necesaria pero no suficiente para el desarrollo empresario. Analizó el impacto de la inteligencia artificial en la gestión y las oportunidades en sectores estratégicos para atraer inversiones a la Argentina.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/daniel-gonzalez-isolio-udesa-la-estabilidad-es-una-condicion-necesaria-aunque-no-suficiente-n6336865",
+     "imagen": "https://media.ambito.com/p/3660def81f51b9e1aa5f9e10f0ac0739/adjuntos/239/imagenes/043/721/0043721930/1200x675/2179x1752:2199x1772/daniel-gonzalez-isolio-udesa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Daniel González Isolio, de UdeSA: \"La estabilidad es una condición necesaria, aunque no suficiente\""
+    },
+    {
+     "id": "IB-10",
+     "titulo": "la directora de Dircom advierte sobre el impacto de la IA en el empleo joven",
+     "resumen": "Nieves Rey, directora general de la Asociación de Directivos de Comunicación, advirtió que la inteligencia artificial transformará funciones y hará innecesarias algunas tareas. Señaló que esto preocupa especialmente a los jóvenes, porque esas tareas eran su forma de aprender el oficio, y planteó que las empresas deben invertir en nuevas formas de capacitación.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/24/nieves-rey-dircom-sobre-el-impacto-de-la-ia-en-el-empleo-y-en-los-jovenes-algunas-tareas-dejaran-de-ser-necesarias/",
+     "imagen": "https://www.infobae.com/resizer/v2/FPXHI4ROXVCSZFAG7MH3ETQPQA.jpg?auth=3104dd920369f8a64a831d66fd6924a2b8e31d76e73d91160c891fd6cac70120&smart=true&width=900&height=572",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Nieves Rey (Dircom) sobre el impacto de la IA en el empleo y en los jóvenes: \"Algunas tareas dejarán de ser necesarias\""
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-01",
+     "titulo": "Israel endurece cierres en Cisjordania mientras crece la tensión con Irán",
+     "resumen": "Israel impuso cierres en Hebrón tras ataques palestinos que dejaron dos soldados muertos, desplazando a residentes y bloqueando accesos. Un ataque aéreo en Yemen mató a cuatro integrantes de una familia, mientras Irán advirtió a Estados Unidos por su presencia naval en el golfo Pérsico.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/israel-impone-cierres-en-una-ciudad-de-cisjordania-tras-ataques-y-mas-noticias-de-oriente-medio_0_s1h8lGGDoh.html",
+     "imagen": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Israel impone cierres en una ciudad de Cisjordania tras ataques y más noticias de Oriente Medio"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Trump plantea nuevos ataques contra Irán y no descarta avanzar sobre el país",
+     "resumen": "Donald Trump descartó negociaciones de paz con Irán y anticipó la posibilidad de reanudar ataques militares, al punto de advertir que Estados Unidos podría tomar todo el país. El Departamento de Estado además reducirá personal en cuatro embajadas de Oriente Medio ante información de que Irán planea ataques contra personal estadounidense en la región.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/nueva-amenaza-donald-trump-plantea-nuevos-ataques-iran-advirtio-eeuu-podria-tomar-pais_0_WC3DozlSz0.html",
+     "imagen": "https://www.clarin.com/img/2026/10/24/Yj3VDKKLo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Amenaza de Donald Trump: plantea nuevos ataques contra Irán y advirtió que \"EE.UU. podría tomar todo el país\""
+    },
+    {
+     "id": "CL-26",
+     "titulo": "masacre en una iglesia de Jordania durante un funeral deja siete muertos",
+     "resumen": "Hombres armados mataron a siete personas y dejaron 40 heridos durante un ataque en una iglesia de Jordania en medio de un funeral. El país decretó luto por tres días.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/masacre-iglesia-jordania-hombres-armados-mataron-personas-funeral_0_89V2CP43kO.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/HskwF3t_4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Masacre en una iglesia de Jordania: hombres armados mataron a siete personas durante un funeral"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Rubio: la guerra en Ucrania se reduce al 11% del territorio, en el Donbás",
+     "resumen": "El secretario de Estado estadounidense, Marco Rubio, sostuvo que la guerra entre Rusia y Ucrania se concentra en el Donbás, una región que equivale al 11% del territorio ucraniano, y reclamó concesiones de ambas partes. Señaló que Rusia no logró tomar esa zona por la vía militar y que Ucrania tiene razones para resistirse a cederla.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/24/marco-rubio-afirmo-que-la-invasion-a-ucrania-se-reduce-a-la-region-del-donbas-e-insto-a-moscu-y-kiev-a-dar-concesiones-para-la-paz/",
+     "imagen": "https://www.infobae.com/resizer/v2/LYKWYEJQ5FG47GDKT7GUE27TRM.JPG?auth=faaa40f305bb110e8b1573b7473d32f7559ae89dc823a98870b116f9672d426b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:06",
+     "autor": "",
+     "titulo_original": "Marco Rubio afirmó que la invasión a Ucrania se reduce a la región del Donbás e instó a Moscú y Kiev a dar concesiones para la paz"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Francia eleva la alerta por disturbios antes de nuevas protestas",
+     "resumen": "El primer ministro francés, Sébastien Lecornu, advirtió que la amenaza de disturbios sigue elevada ante las movilizaciones convocadas para este sábado en todo el país por el costo de vida, la vivienda y los servicios públicos. El Gobierno desplegará 70.000 policías y gendarmes, mientras un argentino que vive en París describió escenas de vidrieras rotas, incendios y saqueos en la semana previa. En paralelo, miles de personas se manifestaron en Orleans contra la ultraderechista Agrupación Nacional, antes del congreso en el que Marine Le Pen lanzará su candidatura presidencial.",
+     "relacionadas": [
+      {
+       "id": "LN-23",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "“Una zona de guerra”: el crudo relato de un argentino que presenció los disturbios en París y el temor por lo que puede ocurrir este fin de semana",
+       "url": "https://www.lanacion.com.ar/el-mundo/una-zona-de-guerra-el-crudo-relato-de-un-argentino-que-presencio-los-disturbios-en-paris-y-el-temor-nid23102026/"
+      },
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Miles de personas se manifiestan en Orleans contra ultraderecha antes congreso de Le Pen",
+       "url": "https://www.infobae.com/america/agencias/2026/10/24/miles-de-personas-se-manifiestan-en-orleans-contra-ultraderecha-antes-congreso-de-le-pen/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/24/el-primer-ministro-de-francia-considero-elevado-el-nivel-de-amenazas-para-las-protestas-convocadas-en-todo-el-pais/",
+     "imagen": "https://www.infobae.com/resizer/v2/N3VBH6NCZBC65HUNASDXFQURH4.JPG?auth=f79317df84e4e9124a0118f641325d32fb4adcca4e041f4c8686473bf8cf6463&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:15",
+     "autor": "",
+     "titulo_original": "El primer ministro de Francia consideró “elevado” el nivel de amenazas para las protestas convocadas en todo el país"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "el primer ministro británico defendió ante Trump la explotación petrolera en Malvinas",
+     "resumen": "El primer ministro británico, Andy Burnham, trasladó a Donald Trump la importancia de respetar el derecho de los habitantes de las islas Malvinas a desarrollar sus recursos naturales, en una conversación centrada en el proyecto petrolero Sea Lion. La Argentina reclama la soberanía de esas aguas y lleva adelante acciones legales y arbitrajes para frenar la explotación.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/ante-trump-el-primer-ministro-britanico-defendio-el-derecho-de-los-malvinenses-a-explotar-sus-recursos/",
+     "imagen": "https://www.cronista.com/resizer/v2/PYFMDXFM75FOVNFHJL5KVIDXQE.jpg?auth=79bedcb359c5e63ad3c45bb379d32f15a70e3817566d59934ba0c9036effa255&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:21",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Ante Trump, el primer ministro británico defendió el “derecho” de los malvinenses a explotar sus recursos"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "una start-up de Texas quiere modificar genéticamente perros de guerra para el ejército de Estados Unidos",
+     "resumen": "Warhound, una start-up fundada por el cofundador de Anduril, Palmer Luckey, y por Ben Lamm, de Colossal Biosciences, obtuvo 200 millones de dólares de financiación para clonar y modificar genéticamente perros de combate destinados al ejército y a fuerzas de seguridad estadounidenses. La empresa, valuada en 1.200 millones de dólares, estará dirigida por un veterano del Cuerpo de Marines y ex director de datos del Pentágono, y dice contar con certificación de bienestar animal. Le Grand Continent señala el caso como un ejemplo del avance de capitales ligados a la vigilancia y la defensa sobre la biotecnología militar.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/23/un-programa-captain-america-para-perros-en-texas/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:13",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Un «programa Capitán América para perros»: en Texas, una start-up quiere modificar genéticamente a los perros de servicio del ejército estadounidense"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "Estudiantes vuelve a enfrentar a Palmeiras por la quinta Libertadores",
+     "resumen": "Estudiantes de La Plata, conducido por Juan Sebastián Verón, disputará la final de la Copa Libertadores ante Palmeiras en el estadio Centenario, repitiendo la final de 1968. Flamengo, eliminado en semifinales por penales, presentó un reclamo formal ante la Conmebol por la inclusión de Marcos Rojo en el equipo platense, habilitado previamente por el Tribunal de Arbitraje Deportivo.",
+     "relacionadas": [
+      {
+       "id": "LN-15",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Flamengo presentó un reclamo en la Conmebol contra Estudiantes por supuesta inclusión incorrecta de Marcos Rojo",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/flamengo-presento-un-reclamo-en-la-conmebol-contra-estudiantes-por-la-mala-inclusion-de-marcos-rojo-nid23102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/veron-desafia-tapia-va-quinta-libertadores-estudiantes-final-peso-historia-pelea-termina_0_A5Y13Z8oVu.html",
+     "imagen": "https://www.clarin.com/img/2026/07/04/-UhRAoZJQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Verón desafía a Tapia y va por la quinta Libertadores con Estudiantes: una final con el peso de la historia y una pelea que no termina"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Scaloni prepara la primera lista de convocados de la era post Messi",
+     "resumen": "Lionel Scaloni define la primera convocatoria de la Selección sin Lionel Messi, para los amistosos ante Uruguay el 13 de noviembre y Costa Rica el 17, mientras se espera el anuncio de la renovación de su contrato hasta el Mundial 2030. El entrenador tampoco podrá citar a Emiliano Dibu Martínez ni a Lautaro Martínez, lesionados.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/24/scaloni-define-la-primera-lista-de-convocados-de-la-era-post-messi-ausencias-obligadas-y-notables-y-dos-grandes-dudas/",
+     "imagen": "https://www.infobae.com/resizer/v2/PVS42NEO3JGMVLLUYXEDPN3DU4.JPG?auth=ab36849e4ce5b7f78925fe17eccb717b80825bb4ae11f81b67387fd3204a173b&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:29",
+     "autor": "Gustavo Yarroch",
+     "titulo_original": "Scaloni define la primera lista de convocados de la era post Messi: ausencias obligadas y notables, y dos grandes dudas"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "el clásico entre Barcelona y Real Madrid llega con roces entre Mourinho y Fermín López",
+     "resumen": "Barcelona, líder con puntaje ideal, recibe a Real Madrid, tercero a seis puntos, en un clásico que puede ampliar la diferencia a nueve unidades. Fermín López respondió con fastidio a las quejas reiteradas de José Mourinho sobre el árbitro designado, mientras Gavi aseguró que a los clásicos se tiene que ir a la guerra sin importar la forma de cada equipo.",
+     "relacionadas": [
+      {
+       "id": "IB-08",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Gavi: \"A los Clásicos se tiene que ir a la guerra\"",
+       "url": "https://www.infobae.com/america/agencias/2026/10/24/gavi-a-los-clasicos-se-tiene-que-ir-a-la-guerra/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/el-barcelona-vs-real-madrid-toma-calor-entre-una-duda-de-mourinho-y-la-respuesta-de-fermin-lopez-nid23102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/O6SAPG5IYFAURDYAASJMQIYWSM.JPG?auth=88b037749040c93169552a5eb98c6c357aa3fd41dd279838792cdb4d62cafb08&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:42",
+     "autor": "",
+     "titulo_original": "El Barcelona vs. Real Madrid toma calor, entre una duda de Mourinho y la respuesta de Fermín López: “Cansa su discurso”"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Messi fue la gran figura de los Premios Princesa de Asturias",
+     "resumen": "Lionel Messi fue uno de los ocho galardonados en los Premios Princesa de Asturias 2026 en Oviedo y recibió una ovación sin precedentes pese a no dar un discurso. Su presencia concentró la atención del Teatro Campoamor durante el acto.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/messi-fue-el-iman-de-los-premios-princesa-de-asturias-36-horas-de-emociones-para-cumplir-el-deseo-de-nid23102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CRF3FEARWJETZPIZFHEF7SLKZY.jpeg?auth=83f16bc6c34ee39a67d962c5040bd7d521f197997f0e2a03cc3bb2ba1fb3d85a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:41",
+     "autor": "Laura Ventura",
+     "titulo_original": "Messi fue el imán de los Premios Princesa de Asturias: 36 horas de emociones para cumplir el deseo de su papá"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Sofía Cairó fue elegida la mejor jugadora de hockey del mundo",
+     "resumen": "La campeona mundial con Las Leonas, Sofía Cairó, fue premiada como la mejor jugadora de hockey del mundo tras una temporada 2026 destacada. Otros deportistas argentinos también recibieron reconocimientos por su año.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/orgullo-argentino-el-hockey-sofia-cairo-es-la-nueva-mejor-jugadora-del-mundo-n6337396",
+     "imagen": "https://media.ambito.com/p/ddc08f31e14f01240ad364e7fca72a04/adjuntos/239/imagenes/043/725/0043725183/1200x675/smart/sofi-cairo-las-leonas.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:06",
+     "autor": "",
+     "titulo_original": "Orgullo argentino en el hockey: Sofía Cairó es la nueva mejor jugadora del mundo"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "Cerúndolo avanzó a semifinales del ATP de Bruselas",
+     "resumen": "Francisco Cerúndolo, la mejor raqueta argentina, se metió en semifinales del ATP de Bruselas y buscará su tercer título de la temporada, luego de haber ganado el Abierto de Argentina y el torneo de Queen's.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/francisco-cerundolo-gano-el-atp-bruselas-y-se-metio-las-semifinales-n6337371",
+     "imagen": "https://media.ambito.com/p/f0998f8cb6ca0a67a212b20580c51081/adjuntos/239/imagenes/043/725/0043725044/1200x675/423x502:443x522/cerundolo-bruselas.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:34",
+     "autor": "",
+     "titulo_original": "Francisco Cerúndolo ganó en el ATP de Bruselas y se metió en las semifinales"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Colapinto correrá sancionado en el Gran Premio de Estados Unidos",
+     "resumen": "Franco Colapinto, que marcó el 17° y el 15° tiempo en las dos primeras prácticas libres, perderá diez puestos en la grilla de largada tras conocerse una sanción. El argentino competirá este domingo en Austin, en una carrera que podrá verse por televisión abierta de cable sin necesidad de contratar una plataforma de streaming.",
+     "relacionadas": [
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La mala noticia que recibió Franco Colapinto durante la primera práctica del fin de semana en la Fórmula 1",
+       "url": "https://www.ambito.com/deportes/la-mala-noticia-que-recibio-franco-colapinto-la-primera-practica-del-fin-semana-la-formula-1-n6337354"
+      },
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Vuelve a correr Franco Colapinto: cómo y dónde ver la carrera del domingo sin pagar una plataforma de streaming",
+       "url": "https://www.cronista.com/clase/trendy/vuelve-a-correr-franco-colapinto-como-y-donde-ver-la-carrera-del-domingo-sin-pagar-una-plataforma-de-streaming/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/f1-gp-estados-unidos-colapinto-vivo-horarios-fp3-clasificacion-ver-formula-1_0_aiBG96BkrK.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/CQeiJI3xI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de Estados Unidos con Colapinto, EN VIVO: horarios de la FP3, clasificación y dónde ver la Fórmula 1"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "ocho propuestas premiadas de Mendoza para una escapada turística",
+     "resumen": "Mendoza atrae cada vez más turismo local e internacional con propuestas que combinan bodegas, restaurantes y arquitectura, entre ocho experiencias premiadas que la provincia destaca para una escapada.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/467379-ocho-propuestas-premiadas-de-mendoza-para-tener-en-cuenta-en-una-escapada-turistica",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628318.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "22:51",
+     "autor": "",
+     "titulo_original": "Ocho propuestas premiadas de Mendoza para tener en cuenta en una escapada turística"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Salta, Jujuy y Catamarca preparan el verano 2027 en el norte argentino",
+     "resumen": "Las provincias del norte argentino preparan la temporada de verano 2027 con paquetes turísticos para distintos presupuestos, que incluyen vuelos, alojamiento y travesías por la Puna.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/verano-2027-el-norte-argentino-precios-viajes-alojamiento-y-excursiones-n6337329",
+     "imagen": "https://media.ambito.com/p/92608386f60a7f68df4d37c586dce9e6/adjuntos/239/imagenes/043/724/0043724999/1200x675/smart/image.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Verano 2027 en el norte argentino: precios de viajes, alojamiento y excursiones"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-13",
+     "titulo": "las inundaciones por El Niño dejan miles de evacuados en Chaco, Corrientes y Neuquén",
+     "resumen": "Las lluvias intensas y la crecida de los ríos Paraná y Uruguay dejaron más de mil personas afectadas y numerosos evacuados en Chaco, más de 550 evacuados y autoevacuados en Corrientes, y parajes incomunicados en el oeste neuquino, donde se usan helicópteros para asistir a zonas aisladas. En Barranqueras, Chaco, 74 familias del barrio Club Náutico sufren los efectos del anegamiento tras un temporal de más de 100 milímetros. El fenómeno de El Niño también mantiene temperaturas bajas y lluvias en la última semana de octubre, con una amenaza puntual sobre el Delta bonaerense.",
+     "relacionadas": [
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Inundaciones en Chaco: el drama de los que perdieron todo por la crecida del Paraná y viven al costado de la ruta",
+       "url": "https://www.clarin.com/sociedad/inundaciones-chaco-drama-perdieron-crecida-parana-viven-costado-ruta_0_3oyLKQC8nb.html"
+      },
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El Súper Niño sigue escondiendo la primavera: octubre se despide con frío, lluvias y una amenaza en el Delta bonaerense",
+       "url": "https://www.clarin.com/sociedad/super-nino-sigue-escondiendo-primavera-octubre-despide-frio-lluvias-amenaza-delta-bonaerense_0_bGdEPWseMr.html"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/10/24/inundaciones-evacuados-y-aislados-las-imagenes-del-caos-que-provoco-el-nino-en-neuquen-chaco-y-corrientes/",
+     "imagen": "https://www.infobae.com/resizer/v2/QGYRFEFIOFDYFOBYQXHA7TPMLY.jpg?auth=cf011c13eca1bc786dacaffbe7d8e51b41b85cc9d94ed80abc28b7cf15adcbc7&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:32",
+     "autor": "",
+     "titulo_original": "Inundaciones, evacuados y aislados: las imágenes del caos que provocó El Niño en Neuquén, Chaco y Corrientes"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "se derrumbó un bar de Paraná durante un cumpleaños y hubo 15 heridos",
+     "resumen": "Un entrepiso de madera cedió durante un festejo de cumpleaños en un bar del centro de Paraná, Entre Ríos, y dejó 15 heridos, al menos siete trasladados a un hospital para estudios de mayor complejidad. El episodio ocurrió cerca de las 23:30 del viernes, cuando el grupo cantaba el feliz cumpleaños y la estructura del sector elevado colapsó.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/24/se-derrumbo-un-bar-de-parana-en-medio-del-festejo-de-un-cumpleanos-hubo-15-heridos/",
+     "imagen": "https://www.infobae.com/resizer/v2/U4UA3AC5DNCQTLYHY27GRJPTV4.jpg?auth=a065d9392b892ad00117287912c76c1480d1275cc44ede0a53315d7b18a4f2bd&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:12",
+     "autor": "",
+     "titulo_original": "Se derrumbó un bar de Paraná en medio del festejo de un cumpleaños: hubo 15 heridos"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "la polémica entre Alan Faena y ambientalistas por un proyecto hotelero en Bariloche",
+     "resumen": "Un megaproyecto hotelero de Alan Faena sobre tierras de un antiguo edificio de turismo social, creado por un decreto de Juan Domingo Perón hace más de ochenta años, desató una disputa ambiental y judicial con vecinos y ambientalistas de Bariloche.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/24/polemica-entre-alan-faena-y-ambientalistas-de-bariloche-por-el-hotel-de-peron/",
+     "imagen": "https://www.infobae.com/resizer/v2/QAFFOR3NYND77NF3YSENF267S4.jpg?auth=62aeb26e63344d4d70778bfe79c2a575a2df094b771979bb8912c8957f19f724&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:33",
+     "autor": "Gonzalo Sánchez",
+     "titulo_original": "Polémica entre Alan Faena y ambientalistas de Bariloche por el hotel de Perón"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del sábado veinticuatro de octubre.\n\nLa noticia que domina la agenda es el sobreseimiento de Javier Milei y de su hermana Karina en la causa Libra. El juez Marcelo Martínez de Giorgi concluyó que los hechos denunciados no constituyen delito y benefició también a otros nueve acusados. El Presidente habló de un intento de golpe de Estado por la vía institucional y preguntó quién lo compensa por casi dos años de acusaciones, mientras la oposición cuestionó el fallo y denunció impunidad judicial. En paralelo, el riesgo país argentino cerró la semana en setecientos siete puntos básicos, todavía elevado, aunque las acciones tuvieron una fuerte recuperación: el índice Merval subió más de cuatro por ciento. El dólar oficial cerró en mil quinientos cincuenta pesos, el dólar blue en mil quinientos sesenta y cinco pesos, y el oro cotiza por encima de los cuatro mil dólares la onza. La inflación interanual se ubica en treinta y tres coma cuatro por ciento. Además, en el norte y el litoral del país, las inundaciones por El Niño dejan miles de evacuados.\n\nEn política, además del caso Libra, la vicepresidenta Victoria Villarruel volvió a marcar distancia del Gobierno por la crisis en torno a la Ley Malvinas, reivindicando su silencio ante las versiones de que el oficialismo frenaría el proyecto. Un funcionario del Ministerio de Seguridad cercano a Patricia Bullrich renunció tras un severo apercibimiento. En la Legislatura bonaerense, ochenta intendentes podrían quedar impedidos de buscar la reelección en 2027 si no se modifica el límite vigente, lo que ya genera disputas internas en el peronismo, la Unión Cívica Radical y el PRO. Y circularon audios que complican al ex diputado José Luis Espert, encontrados en el celular de su contador, sobre el contrato de un millón de dólares que firmó con el empresario Fred Machado.\n\nEn economía, Javier Milei rechazó la idea de emitir más pesos para reactivar la actividad, porque según él aceleraría la inflación, aunque reconoció que el crecimiento se desacelera. La inflación de septiembre fue de uno coma nueve por ciento y el mercado no espera una baja significativa antes de fin de año. También se discute qué puede pasar con el dólar en 2027: el Gobierno dice contar con una bazuca de setenta y cinco mil millones de dólares, pero algunos cálculos privados sugieren que la demanda potencial de dólares podría superar esa cifra. Para una empresa, esto significa seguir de cerca el dólar y las tasas, porque la volatilidad cambiaria puede afectar los costos de importación y la financiación. Además, la industria argentina usa menos de la mitad de su capacidad instalada y uno de cada dos trabajos ya está en la informalidad, y el Presupuesto 2027 enfrenta un nuevo problema fiscal después de que el Gobierno aceptara todos los cambios de la oposición en la ley de Discapacidad.\n\nEn impuestos y normativa, un nuevo decreto permite reducir hasta el cincuenta por ciento las multas de ARCA para los contribuyentes con buena conducta fiscal. El Gobierno también postergó al primero de diciembre el debut del Fondo de Asistencia Laboral y duplicó su período de carencia, por lo que el primer aporte de las empresas recién va a producirse en enero del año que viene. Y en Mar del Plata, un fallo judicial ordenó indemnizar a un jubilado por la caída de árboles de una vecina.\n\nEn consumo y construcción, los principales bancos ofrecen créditos hipotecarios UVA con tasas desde seis coma cinco por ciento y plazos de hasta treinta años, y el Banco Nación ya colocó doscientos diez créditos hipotecarios con fondos de ANSES por treinta y dos mil millones de pesos. Con la salida de la Ley de Alquileres, doce mil contratos vencen en los próximos meses, mientras la oferta en la Ciudad de Buenos Aires ronda los dieciocho mil departamentos. Y en los barrios, las compras minoristas cayeron dos coma siete por ciento en lo que va del año, lo que llevó a los almacenes a ofrecer compras hormiga, segundas marcas y el regreso del fiado. Para una empresa del sector, esta caída sostenida del consumo anticipa una demanda todavía frágil para los próximos meses.\n\nEn management y finanzas corporativas, una nota explica el dilema del cajón lleno: una pyme puede cerrar el año con facturación récord y aun así quedarse sin caja, porque el dinero se inmoviliza en mercadería sin vender y en facturas pendientes de cobro. En agosto se hicieron setecientos setenta y nueve millones de transferencias inmediatas, un veinte coma tres por ciento más que el año pasado, lo que impulsa soluciones para que las empresas concilien sus cobranzas digitales. El decano de la Escuela de Negocios de la Universidad de San Andrés sostuvo que la estabilidad macroeconómica es necesaria pero no alcanza para el desarrollo, y la directora de Dircom advirtió que la inteligencia artificial va a volver innecesarias algunas tareas, lo que preocupa a los jóvenes que aprenden el oficio haciendo esas tareas.\n\nEn el mundo, Israel endureció los controles en Hebrón, en Cisjordania, tras ataques que dejaron dos soldados muertos, mientras Irán advirtió a Estados Unidos por su presencia naval en el golfo Pérsico. Donald Trump planteó retomar ataques contra Irán y llegó a decir que Estados Unidos podría tomar el control de todo el país. En Jordania, un ataque armado durante un funeral en una iglesia dejó siete muertos y cuarenta heridos. Marco Rubio dijo que la guerra entre Rusia y Ucrania se reduce en los hechos a la región del Donbás y pidió concesiones de ambas partes. En Francia, el primer ministro Sébastien Lecornu advirtió que la amenaza de disturbios sigue elevada antes de nuevas protestas por el costo de vida y la vivienda, con un despliegue de setenta mil policías, mientras miles de personas se manifestaron en Orleans contra la ultraderecha. Y el primer ministro británico defendió ante Trump el derecho de los habitantes de las islas Malvinas a explotar sus recursos petroleros, mientras la Argentina lleva adelante acciones legales para frenar esa explotación.\n\nLe Grand Continent analiza el caso de Warhound, una empresa de Texas fundada por el cofundador de la compañía de defensa Anduril, que obtuvo doscientos millones de dólares para clonar y modificar genéticamente perros de guerra para el ejército y las fuerzas de seguridad de Estados Unidos. La revista señala el caso como parte del avance de capitales vinculados a la vigilancia y la defensa sobre la biotecnología militar.\n\nEn deportes, Estudiantes de La Plata, con Juan Sebastián Verón al frente, vuelve a enfrentar a Palmeiras en la final de la Copa Libertadores, repitiendo la definición de mil novecientos sesenta y ocho, aunque Flamengo reclamó ante la Conmebol por la inclusión de Marcos Rojo en la revancha de semifinales. Lionel Scaloni prepara la primera convocatoria de la Selección sin Lionel Messi, para los amistosos ante Uruguay y Costa Rica en noviembre. El propio Messi fue la gran figura de los Premios Princesa de Asturias en España, con una ovación sin precedentes. Barcelona y Real Madrid juegan el clásico con roces entre Mourinho y Fermín López de por medio. Sofía Cairó fue elegida la mejor jugadora de hockey del mundo con Las Leonas, y Francisco Cerúndolo avanzó a semifinales en Bruselas. Y Franco Colapinto correrá este domingo el Gran Premio de Estados Unidos de Fórmula uno en Austin, sancionado con diez puestos menos en la grilla tras un viernes flojo en los libres; la carrera podrá verse por televisión abierta de cable sin contratar una plataforma de streaming.\n\nEn turismo, Mendoza presenta ocho propuestas premiadas entre bodegas, restaurantes y arquitectura para una escapada de fin de semana, y las provincias del norte, Salta, Jujuy y Catamarca, ya preparan la temporada de verano dos mil veintisiete con paquetes para distintos presupuestos.\n\nFinalmente, en sociedad, las inundaciones por El Niño siguen golpeando al país: hay más de mil personas afectadas en Chaco, más de quinientos cincuenta evacuados en Corrientes y parajes aislados en Neuquén, donde se usan helicópteros para asistir a las zonas rurales. En Paraná, el derrumbe de un entrepiso en un bar durante un cumpleaños dejó quince heridos. Y en Bariloche, un proyecto hotelero del empresario Alan Faena sobre tierras con un decreto histórico de Juan Domingo Perón generó una disputa judicial y ambiental con vecinos de la zona.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent aportó una sola nota en esta ventana (no llegan a las 3 a 5 habituales); se usó igual por ser el único material disponible de esa fuente. No hay noticias de Club Atlético Tigre en esta corrida, por lo que no se incluyó ninguna mención. Ninguna de las siete fuentes falló en la descarga.",
+ "slug": "2026-10-24-manana",
+ "generado_ba": "24/10/2026 10:16"
+}
