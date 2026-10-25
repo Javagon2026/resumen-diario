@@ -1,0 +1,824 @@
+{
+ "fecha": "2026-10-25",
+ "edicion": "manana",
+ "titulo": "Brasil define presidente en el balotaje mientras la actividad económica argentina se estanca",
+ "apertura": "Brasil vive hoy el balotaje presidencial más parejo en tres décadas entre Lula da Silva y Flávio Bolsonaro, con la Argentina pendiente del resultado por su peso comercial y político en la región. En el plano local, el Indec confirmó una caída de la actividad en julio y del PBI en el segundo trimestre, mientras el Gobierno reconoce que algunos indicadores no evolucionan como esperaba a poco de cumplirse un mes de las elecciones legislativas. Además, el debate por la ley de Malvinas sigue trabado en el Congreso y Franco Colapinto corre hoy el Gran Premio de Estados Unidos de Fórmula 1 desde la vigésimo primera posición.",
+ "claves": [
+  "Brasil vota hoy en el balotaje más parejo en tres décadas entre Lula da Silva y Flávio Bolsonaro, con la Argentina pendiente del resultado comercial y político regional.",
+  "El Indec confirmó una caída de la actividad de 2,9% en julio y del PBI de 0,6% en el segundo trimestre, en línea con las dudas que el propio Gobierno admitió sobre el rumbo económico.",
+  "El Salario Mínimo Vital y Móvil subirá en noviembre según la Resolución 4/2026, tercer escalón de una serie de aumentos que llega hasta abril de 2027.",
+  "El precio del metro cuadrado en CABA subió 0,3% en septiembre y el crédito hipotecario crece, mientras construir en dólares sigue encareciéndose.",
+  "Milei negó una interna con Patricia Bullrich (\"Patricia es socia\") pero evitó confirmar una fórmula conjunta para 2027.",
+  "La crisis de las obras sociales sindicales se calificó de \"casi terminal\" tras reuniones fallidas entre el Gobierno y la CGT.",
+  "Franco Colapinto largará 21° en el Gran Premio de Estados Unidos de Fórmula 1, donde Andrea Kimi Antonelli podría consagrarse campeón más joven de la historia.",
+  "Al menos dos personas murieron por un brote de meningitis en un hospital privado de Mendoza."
+ ],
+ "cifras": [
+  {
+   "nombre": "Actividad económica (Indec, julio)",
+   "valor": "-2,9% mensual",
+   "fuente": "IB-18"
+  },
+  {
+   "nombre": "PBI segundo trimestre 2026",
+   "valor": "-0,6% trimestral",
+   "fuente": "IB-18"
+  },
+  {
+   "nombre": "Deuda bancaria promedio por hogar",
+   "valor": "$ 13,38 millones",
+   "fuente": "IP-01"
+  },
+  {
+   "nombre": "Comercio bilateral Argentina-Brasil (2025)",
+   "valor": "US$ 31.195 millones",
+   "fuente": "IB-17"
+  },
+  {
+   "nombre": "Precio promedio del m2 en CABA",
+   "valor": "US$ 2.484",
+   "fuente": "CR-02"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "La recta final del balotaje brasileño convive con la interna libertaria y el freno al proyecto de ley de Malvinas en el Congreso.",
+   "notas": [
+    {
+     "id": "CL-23",
+     "titulo": "en el Gobierno se diluye el optimismo económico y crecen las dudas sobre 2027",
+     "resumen": "En el Gobierno se esfumó el optimismo por la marcha de la economía, en medio de pases de factura internos y cuestionamientos a la conducción del presidente Javier Milei, según Clarín. También preocupa la cumbre del peronismo, el temor de Máximo Kirchner a perder centralidad y la especulación sobre la irrupción de dirigentes outsiders. En el oficialismo circulan además dudas sobre una eventual reelección de Milei en 2027, con el PRO buscando alternativas y Patricia Bullrich evaluando sus próximos pasos, de acuerdo con Ámbito.",
+     "relacionadas": [
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las dudas sobre Javier Milei agitan el tablero de 2027: la tercera vía, Patricia Bullrich y los cálculos del peronismo",
+       "url": "https://www.ambito.com/politica/las-dudas-milei-agitan-el-tablero-2027-la-tercera-via-bullrich-y-los-calculos-del-peronismo-n6337509"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/tormenta-acecha-senal-alerta-javier-milei-puede-ocultar_0_fgTd1LNaWL.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/xd0jc68Zw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La tormenta acecha y la señal de alerta que Javier Milei ya no puede ocultar"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "\"Patricia es socia\": Milei negó una interna con Bullrich",
+     "resumen": "El presidente Javier Milei negó que exista una interna dentro de La Libertad Avanza y afirmó que \"Patricia es socia\" al ser consultado por Patricia Bullrich, en medio de versiones sobre el armado político de cara a 2027. Milei rechazó las especulaciones sobre un oficialismo sin su liderazgo, defendió su programa económico y aseguró que la Argentina está preparada ante una eventual presión cambiaria. Según Ámbito, el Presidente había dicho horas antes que todavía \"no es el momento\" de hablar de una fórmula conjunta con la exministra de Seguridad para 2027.",
+     "relacionadas": [
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei negó una disputa interna con Patricia Bullrich, pero evitó hablar de una fórmula conjunta: \"No es el momento\"",
+       "url": "https://www.ambito.com/politica/javier-milei-nego-una-disputa-interna-patricia-bullrich-es-un-soldado-este-gobierno-n6337546"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/milei-hablo-de-bullrich-nego-una-interna-y-se-pronuncio-sobre-el-armado-para-2027-patricia-es-socia/",
+     "imagen": "https://www.cronista.com/resizer/v2/H7YG3AGHQZED5HLFHVAW2E7BHI.jpg?auth=e64ea8d19e14b0cceccd20de00a01d9c3f115baef830c1551f7117974945bf39&smart=true&width=744&height=418",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:44",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“Patricia es socia”: Milei negó internas con Bullrich y habló sobre la fórmula para 2027"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Milei volvió a atacar a La Nación por el caso $LIBRA",
+     "resumen": "El presidente Javier Milei volvió a atacar a LA NACION y en particular al periodista Hugo Alconada Mon por la cobertura de la causa $LIBRA, tras haber sido sobreseído por el juez federal Marcelo Martínez de Giorgi. En diálogo con Radio Mitre calificó la cobertura judicial de \"operación\" y no descartó iniciar acciones legales contra los periodistas que siguieron el caso, apuntando también contra el director del diario, Fernán Saguier.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-la-nacion-por-el-caso-libra-y-dijo-que-no-descarta-iniciar-acciones-legales-nid24102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZFVMF66RU5HVFDQBNS2QZUW4FM.jpg?auth=97b53051be6b47f6d78c6989695a9909167e0d99ffb6dd32b4adc1de2702942e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:24",
+     "autor": "",
+     "titulo_original": "Milei volvió a atacar a LA NACION por el caso $LIBRA y dijo que no descarta iniciar acciones legales"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "la CGT advierte que la crisis de las obras sociales es \"casi terminal\"",
+     "resumen": "Dirigentes de la CGT advirtieron que la crisis de las obras sociales sindicales es \"casi terminal\", luego de tres reuniones secretas y fallidas con el Gobierno. Se quejan de que el ministro de Salud, Mario Lugones, todavía no respondió los reclamos por el agravamiento financiero del sistema, que ya sufre cortes de prestaciones y problemas de pago. Luis Barrionuevo, del Sindicato de Gastronómicos, comparó la situación con la crisis de las obras sociales de los años 90, previa a la asunción de Carlos Menem.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/25/obras-sociales-luego-de-tres-reuniones-secretas-y-fallidas-entre-el-gobierno-y-la-cgt-alertan-que-la-crisis-del-sistema-es-casi-terminal/",
+     "imagen": "https://www.infobae.com/resizer/v2/YH3INDMPKFDBZKVRJ7QG5ZS6EY.png?auth=881a470647928dfefee5f4559d92517c295182e9ec7b2132f76bc66187e93f91&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:41",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "Obras sociales: luego de tres reuniones secretas y fallidas entre el Gobierno y la CGT, alertan que la crisis del sistema es “casi terminal”"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "el oficialismo intenta destrabar la ley de Malvinas mientras Bullrich busca abrir el Senado",
+     "resumen": "En el Senado, Patricia Bullrich busca destrabar el recinto, con la reforma de Salud Mental y el Tratado de Cooperación de Patentes como posibles temas a tratar, mientras en Diputados el oficialismo intenta reactivar el proyecto de ley de \"Defensa de la Soberanía Nacional\" sobre Malvinas. Un combatiente, una diplomática y un constitucionalista debatieron los alcances del proyecto, entre la mirada de Estados Unidos y los objetivos de seguridad interior del Gobierno, según Ámbito. Infobae informó además que un eventual viaje de una comitiva oficial a observar las elecciones de medio término en Estados Unidos podría postergar el tratamiento del proyecto en el recinto.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Malvinas: especialistas opinan sobre la ley de \"Defensa de la Soberanía Nacional\", que tambalea en Diputados",
+       "url": "https://www.ambito.com/politica/malvinas-especialistas-opinan-la-ley-defensa-la-soberania-nacional-que-tambalea-diputados-n6337593"
+      },
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El viaje que podría postergar el debate del proyecto sobre Malvinas y los ajustes que el Gobierno evalúa para sumar votos",
+       "url": "https://www.infobae.com/politica/2026/10/25/el-viaje-que-podria-postergar-el-debate-del-proyecto-sobre-malvinas-y-los-ajustes-que-el-gobierno-evalua-para-sumar-votos/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/congreso-patricia-bullrich-busca-sesionar-el-senado-y-lla-negocia-cambios-la-ley-malvinas-n6337195",
+     "imagen": "https://media.ambito.com/p/bf569c5378b2c44d27aabc69190b64e8/adjuntos/239/imagenes/043/336/0043336773/1200x675/3252x1062:3272x1082/javier-milei-karina-milei-congreso.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Congreso: Patricia Bullrich busca sesionar en el Senado y LLA negocia cambios a la ley de Malvinas"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "el Reino Unido pidió apoyo a Chile por la soberanía de Malvinas",
+     "resumen": "El primer ministro británico, Andy Burnham, y el presidente de Chile, José Antonio Kast, hablaron por teléfono sobre Malvinas, en una conversación en la que Burnham pidió apoyo para garantizar la autodeterminación de los isleños. Según un comunicado de Downing Street, ambos líderes también dialogaron sobre fortalecer la cooperación en defensa, seguridad, ciencia y comercio entre el Reino Unido y Chile.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Reino Unido pidió apoyo a Chile por Malvinas en una llamada entre Andy Burnham y José Antonio Kast",
+       "url": "https://www.ambito.com/mundo/el-reino-unido-pidio-apoyo-chile-malvinas-una-llamada-andy-burnham-y-jose-antonio-kast-n6337592"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-primer-ministro-britanico-y-el-presidente-de-chile-hablaron-sobre-malvinas-nid24102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/H6TDYSLT3BDNFDPOE4TMACEPEY.JPG?auth=0e3daed4f42ec318e3541f89c303132ecbd08e46f898a6e8895b72e9f22acab4&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:53",
+     "autor": "Daniel Santa Cruz",
+     "titulo_original": "El primer ministro británico y el presidente de Chile hablaron sobre Malvinas"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "empresarios de IDEA defendieron la libertad de prensa ante los ataques de Milei",
+     "resumen": "La organización empresaria IDEA, que reúne a las principales compañías del país, defendió la libertad de prensa y el debate público sin agravios, tras nuevos ataques del presidente Javier Milei al periodismo. La entidad remarcó que \"quienes fueron elegidos para gobernar deben actuar con responsabilidad\" y advirtió que los agravios a periodistas en el ejercicio de su función \"contradicen ese deber\", según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/empresarios-idea-defienden-libertad-prensa-debate-publico-agravios-nuevos-ataques-milei-periodismo_0_avcqIJc5Tb.html",
+     "imagen": "https://www.clarin.com/img/2026/10/24/Ccsy42hHL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "03:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los empresarios de IDEA defienden la libertad de prensa y el debate público sin agravios, tras los nuevos ataques de Milei al periodismo"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "intro": "El Indec confirmó un freno de la actividad en julio y del PBI en el segundo trimestre, en línea con las dudas que el propio Gobierno admitió sobre el rumbo económico.",
+   "notas": [
+    {
+     "id": "IB-18",
+     "titulo": "la actividad económica cayó 2,9% en julio y reabre la discusión sobre una recesión",
+     "resumen": "En julio la actividad económica cayó 2,9% frente a junio en la medición desestacionalizada del Indec, la mayor baja mensual desde abril de 2020, y en el segundo trimestre el PBI había caído 0,6% respecto del primero. El nivel de actividad resultó similar al de marzo de 2025 y apenas 2,2% superior al de noviembre de 2023, lo que reabrió la discusión sobre una eventual recesión técnica si el PBI también cae en el tercer trimestre. Infobae señala que el freno convive con exportaciones dinámicas y un consumo debilitado, por lo que describe una marcha despareja más que un derrumbe generalizado. Para una empresa: una demanda interna que no repunta obliga a planificar ventas y reposición de stock con cautela hacia fin de año.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El rebote que no fue",
+       "url": "https://www.ambito.com/opiniones/el-rebote-que-no-fue-n6337605"
+      }
+     ],
+     "url": "https://www.infobae.com/opinion/2026/10/25/crecimiento-estancamiento-o-recesion/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZCEXTK4RNBCIJP6QOKEMMJXZEI.png?auth=aca8dc953d14816dcd1aaec6fd016292a4d565adaadae43de3741a4bb443cb68&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:01",
+     "autor": "Lucas Pussetto",
+     "titulo_original": "¿Crecimiento, estancamiento o recesión?"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "el deterioro del EMAE confirma que el estancamiento no fue pasajero",
+     "resumen": "El deterioro del Estimador Mensual de Actividad Económica en julio y agosto confirma, según Ámbito, que el estancamiento no fue un bache pasajero sino el síntoma de una desarticulación macroeconómica más profunda. La nota se suma a los datos del Indec que ya habían mostrado una caída de la actividad y del PBI en el año.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "¿Crecimiento, estancamiento o recesión?",
+       "url": "https://www.infobae.com/opinion/2026/10/25/crecimiento-estancamiento-o-recesion/"
+      }
+     ],
+     "url": "https://www.ambito.com/opiniones/el-rebote-que-no-fue-n6337605",
+     "imagen": "https://media.ambito.com/p/38504cc9db20373a633a92b009e3576b/adjuntos/239/imagenes/043/332/0043332956/1200x675/369x340:389x360/luis-caputo-fuchila-5.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "El rebote que no fue"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "los cinco indicadores que inquietan al Gobierno de cara a fin de año",
+     "resumen": "Tras la advertencia del propio Javier Milei sobre que algunas variables económicas no evolucionan como esperaba, Clarín repasa cinco indicadores que inquietan al Gobierno de cara a fin de año. Las consultoras privadas no anticipan cambios significativos en ninguno de esos frentes en el corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/advertencia-milei-5-indicadores-inquietan-gobierno-pueden-llegar-fin-ano_0_joojqPgrx9.html",
+     "imagen": "https://www.clarin.com/img/2026/04/27/Xt2PPFn3k_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras la advertencia de Milei, los 5 indicadores que inquietan al Gobierno y cómo pueden llegar a fin de año"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "un economista advierte que el Gobierno \"va a tener que buscar un reset del programa\"",
+     "resumen": "El economista Eduardo Crespo advirtió que la economía argentina funciona \"a dos velocidades\" y que el mercado interno no tiene un motor claro para salir de la recesión, en una entrevista con Ámbito. El especialista sostuvo que el Gobierno \"va a tener que buscar un reset del programa\" y propuso recuperar la inversión pública junto con una estrategia de desarrollo para los sectores urbanos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/eduardo-crespo-especialista-desarrollo-economico-el-gobierno-va-tener-que-buscar-un-reset-del-programa-n6337539",
+     "imagen": "https://media.ambito.com/p/2d7512c2ceccaacb4b8bd2951b26bedd/adjuntos/239/imagenes/043/726/0043726719/1200x675/smart/eduardo-crespo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Eduardo Crespo, especialista en desarrollo económico: \"El Gobierno va a tener que buscar un reset del programa”"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "la brecha entre la jubilación mínima y la máxima bajó de 21 a menos de 7 veces",
+     "resumen": "La distancia entre el haber jubilatorio mínimo y el máximo bajó de 21 a menos de 7 veces en tres décadas, un cambio que Infobae describe como reflejo del deterioro acumulado en ambos extremos de la escala previsional. Las sentencias judiciales de movilidad corrigieron haberes individuales, pero dejaron intactos el piso y el techo del sistema, que acumulan entre 34% y 75% de deterioro respecto de lo que habrían alcanzado con una movilidad constitucionalmente válida.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/opinion/2026/10/25/jubilaciones-la-justicia-recompuso-el-centro-pero-dejo-afuera-los-extremos/",
+     "imagen": "https://www.infobae.com/resizer/v2/B7NJP37FCNH35COG6QELI6AQTQ.jpg?auth=0888b32f9d220adb7ad9b987b41b089f2e8d25aa43a189961309747d3e85151c&smart=true&width=900&height=450",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:02",
+     "autor": "Alfredo Bernabei",
+     "titulo_original": "Jubilaciones: la Justicia recompuso el centro, pero dejó afuera los extremos"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "la deuda bancaria promedio por hogar llegó a un récord de $13,38 millones",
+     "resumen": "La deuda bancaria promedio por hogar endeudado llegó a $13,38 millones, según un relevamiento difundido por iProfesional, mientras la morosidad de los créditos a las familias se mantiene en niveles elevados. Para una empresa: un consumidor más endeudado y con mora alta condiciona la demanda de financiación en cuotas y las ventas a crédito en el corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467199-deuda-familiar-record-cuanto-deben-los-hogares-argentinos-y-por-que-crece-la-mora",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/607758.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:52",
+     "autor": "",
+     "titulo_original": "Deuda familiar récord: cuánto deben los hogares argentinos y por qué crece la mora"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "cuánto rinde hoy un plazo fijo de $1 millón según el banco elegido",
+     "resumen": "Un relevamiento banco por banco mostró que las tasas de los plazos fijos en pesos a 30 días van del 16% al 24% nominal anual, lo que genera una diferencia de más de $6.500 en intereses para una colocación de $1 millón según la entidad elegida, informó iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467037-banco-por-banco-cuanto-se-gana-con-un-plazo-fijo-por-1-millon-a-30-dias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/07/579546.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:45",
+     "autor": "",
+     "titulo_original": "Banco por banco: cuánto se gana con un plazo fijo por $1 millón a 30 días"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-17",
+     "titulo": "Mercado Libre abrió un nuevo depósito en el interior con vuelos semanales de pedidos",
+     "resumen": "Mercado Libre inauguró un nuevo centro de distribución de última milla en una provincia del interior, con una inversión de 8 millones de dólares y la generación de más de 1.000 puestos de trabajo. La compañía prevé la llegada de cinco vuelos semanales con pedidos hacia ese centro, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467398-mercado-libre-con-nuevo-deposito-en-el-interior-llegaran-5-vuelos-semanales-con-pedidos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628343.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:58",
+     "autor": "",
+     "titulo_original": "Mercado Libre, con nuevo depósito en el interior: llegarán 5 vuelos semanales con pedidos"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "abrió el primer McDonald's dentro de una estación de servicio YPF",
+     "resumen": "Esta semana abrió, en una estación de servicio YPF, el primer local de McDonald's dentro de una estación de la petrolera, en el marco de una nueva alianza comercial entre ambas compañías, reportó iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/recreo/467380-donde-esta-el-primer-mcdonalds-dentro-de-una-estacion-de-servicio-ypf",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628320.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:14",
+     "autor": "",
+     "titulo_original": "Dónde la estación de servicio YPF que tiene un McDonald's adentro"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "tres amigos crearon una IA para inmobiliarias que funciona por WhatsApp",
+     "resumen": "Tres amigos crearon Propio, una inteligencia artificial para inmobiliarias que funciona por WhatsApp y permite hacer tasaciones, fichas y contenido para redes sociales. La startup cobra planes mensuales por su uso y tuvo buena repercusión entre agencias inmobiliarias, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467248-como-funciona-propio-la-inmobiliaria-con-ia-que-se-usa-por-whatsapp",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628166.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:38",
+     "autor": "",
+     "titulo_original": "Tres amigos crearon una IA para inmobiliarias que funciona por WhatsApp y es un éxito"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "abrió en Palermo la primera lavandería con IA que opera sin empleados",
+     "resumen": "Abrió en Palermo el primer local de LavanderIA, una lavandería autoservicio que opera las 24 horas sin empleados mediante inteligencia artificial. La empresa busca ahora sumar franquiciados para expandir el modelo, de acuerdo con iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467039-franquicia-de-lavanderia-cuanto-cuesta-un-local-con-ia-sin-empleados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627975.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:31",
+     "autor": "",
+     "titulo_original": "Abrió la primera lavandería con IA que opera sin empleados: cuánto sale la franquicia"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "un productor de Pergamino dejó la soja y encontró un negocio en las frutillas",
+     "resumen": "El productor Pablo Flores desafió el monopolio sojero en la zona de Pergamino y encontró un nuevo negocio en el cultivo de frutillas. Según iProfesional, ahora busca expandir la actividad, aunque enfrenta nuevos desafíos productivos y comerciales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467148-el-productor-de-frutillas-que-encontro-un-negocio-en-pleno-polo-sojero",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628068.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:41",
+     "autor": "",
+     "titulo_original": "Productor desafió el monopolio sojero en Pergamino y encontró un negocio en las frutillas"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "quiénes son los herederos de las cinco fortunas más grandes de la Argentina",
+     "resumen": "iProfesional repasó quiénes son los herederos de las cinco fortunas más grandes de la Argentina, con el comercio electrónico y las finanzas digitales liderando las valuaciones entre los empresarios locales de mayor escala internacional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/467021-quienes-son-los-herederos-de-las-5-fortunas-mas-grandes-de-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2021/01/509973.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:42",
+     "autor": "",
+     "titulo_original": "Quiénes son los herederos de las 5 fortunas más grandes de Argentina"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-08",
+     "titulo": "el Salario Mínimo subirá en noviembre según la Resolución 4/2026",
+     "resumen": "Según la Resolución 4/2026 publicada en el Boletín Oficial, el Salario Mínimo, Vital y Móvil aumentará en noviembre de 2026, en el tercer escalón de una serie de subas mensuales que se extenderá hasta abril de 2027. La norma fija montos diferenciados para trabajadores mensualizados y jornalizados, informó El Cronista. Para una empresa: el cronograma de aumentos mensuales obliga a recalcular costos laborales y otras prestaciones atadas al SMVM mes a mes hasta 2027.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/por-la-resolucion-42026-el-salario-minimo-vital-y-movil-aumentara-en-noviembre-de-2026-a-cuanto-ascendera-para-trabajadores-mensualizados-y-jornalizados/",
+     "imagen": "https://www.cronista.com/resizer/v2/4O6GPNEOWRGYFF7PAYGELL352U.jpg?auth=dd2dd1d2f6ac16dfc60c94e19c680d5317ef790e3526feca2a11dd857f53a844&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:24",
+     "autor": "Gabriel Cuellar",
+     "titulo_original": "Por la Resolución 4/2026, el Salario Mínimo Vital y Móvil aumentará en noviembre de 2026: a cuánto ascenderá para trabajadores mensualizados y jornalizados"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "el Presupuesto 2027 prevé 200.000 titulares para Potenciar Trabajo",
+     "resumen": "El proyecto de Presupuesto 2027 enviado al Congreso contempla fondos para el programa de Acompañamiento Social dentro de Potenciar Trabajo y proyecta una cobertura de 200.000 titulares para ese año, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467189-planes-sociales-que-preve-el-presupuesto-2027-para-los-beneficiarios-de-potenciar-trabajo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628102.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:38",
+     "autor": "",
+     "titulo_original": "Planes sociales: qué prevé el Presupuesto 2027 para los beneficiarios de Potenciar Trabajo"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "una grieta gremial por la certificación antideforestación que exige la Unión Europea",
+     "resumen": "La discusión sobre si inscribirse en Visec Carne, la plataforma que permite a los frigoríficos exportadores argentinos certificar ante la Unión Europea que cumplen con la normativa EUDR de libre deforestación, generó una grieta entre entidades gremiales del sector. La resolución europea 1115 entra en vigencia en enero y algunas entidades instan a sus asociados a no inscribirse, pese a que los clientes europeos podrían descontar precio a quienes no certifiquen, según La Nación. Para una empresa: una norma de un socio comercial clave puede alterar precios y condiciones de exportación aun sin cambios en la legislación local.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/visec-carne-asi-funciona-el-mundo-de-los-negocios-guste-o-no-nid25102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TF4OFWBD7BH53KVXNJ3YKROPZA.jpeg?auth=6c80322adb2a419b96d26a1782854116ab56bbcec26a0e6e98f2b854ea363127&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:30",
+     "autor": "Víctor Tonelli",
+     "titulo_original": "Visec Carne: así funciona el mundo de los negocios, guste o no"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "comprar un departamento usado o a estrenar: qué conviene con la construcción más cara en dólares",
+     "resumen": "El valor medio del metro cuadrado de los departamentos en la Ciudad de Buenos Aires subió 0,3% en septiembre y acumula un alza de 1,4% en lo que va de 2026, hasta un promedio de US$ 2.484 por m2, según datos de Zonaprop difundidos por El Cronista. El encarecimiento de la construcción en dólares favoreció al segmento usado, que todavía ofrece margen de negociación, mientras la recuperación del crédito hipotecario dinamiza la demanda de unidades a estrenar. Para una empresa: el costo de construcción en dólares influye directamente en los precios de materiales y en el ritmo de la obra privada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/comprar-un-departamento-usado-o-uno-a-estrenar-que-conviene-hoy/",
+     "imagen": "https://www.cronista.com/resizer/v2/YLMGEZ6MK5FOFADW642RDYRZBY.jpg?auth=c6a0723dbec64bf13ed1db6acf120acea57ea7098ca094a643272f91d2290762&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Comprar un departamento usado o uno a estrenar: qué conviene hoy"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "el Banco Nación otorgó más de 210 créditos hipotecarios con fondos de ANSES",
+     "resumen": "El Banco Nación otorgó más de 210 préstamos hipotecarios con fondos del Fondo de Garantía de Sustentabilidad de ANSES, tras utilizar la totalidad de los $32.000 millones adjudicados en la primera licitación, y recibió otros $40.000 millones adicionales para ampliar el financiamiento a la compra de viviendas, informó Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/creditos-hipotecarios-banco-nacion-otorgo-mas-210-prestamos-fondos-anses-y-recibio-otros-40000-millones-n6337529",
+     "imagen": "https://media.ambito.com/p/dc1bd91579b30136d1347c8f3f5f5aa5/adjuntos/239/imagenes/043/726/0043726437/banco-nacion-creditos-hipotecarios.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:44",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios: Banco Nación otorgó más de 210 préstamos con fondos de ANSES y recibió otros $40.000 millones"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "cuánto se llevan los \"gastos hormiga\" del sueldo y cómo convertirlos en inversión",
+     "resumen": "Los llamados \"gastos hormiga\", consumos frecuentes y de bajo monto como suscripciones, delivery o cafetería, pueden representar una parte considerable del presupuesto mensual sin que se note, según un asesor financiero consultado por El Cronista. El especialista explicó cómo detectar esos consumos, reducirlos y destinar ese dinero a inversión.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/gastos-hormiga-cuanto-se-lleva-de-tu-sueldo-y-como-convertirlos-en-inversion-para-hacerlos-rendir/",
+     "imagen": "https://www.cronista.com/resizer/v2/SCQMQIGKLNCM5J6CKNJALEBEHI.jpg?auth=fe80087fd7074aeb658606f4616c9e0675abc7ed539749957ced303189af0df7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Gastos hormiga: cuánto se lleva de tu sueldo y cómo convertirlos en inversión para hacerlos rendir"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "estacionar en CABA se volvió un caos para vecinos y comerciantes",
+     "resumen": "Estacionar en la Ciudad de Buenos Aires se volvió un problema creciente: vecinos y comerciantes de Once, Palermo y Belgrano relataron a iProfesional que encontrar un lugar puede demorar hasta una hora, mientras la Cámara de Garajes advirtió sobre la situación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/467244-estacionar-en-caba-es-un-caos-puede-llevar-una-hora-y-crecen-quejas-de-vecinos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/06/538075.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "03:30",
+     "autor": "",
+     "titulo_original": "Estacionar en CABA, un caos: puede llevar una hora y crecen las quejas de vecinos"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "Brasil llega al balotaje más parejo desde el regreso de la democracia",
+     "resumen": "Brasil llegó este domingo al balotaje más parejo desde el regreso de la democracia entre el presidente Luiz Inácio Lula da Silva, que busca un cuarto mandato a dos días de cumplir 81 años, y el senador Flávio Bolsonaro, hijo del expresidente preso por intento de golpe de Estado. Según La Nación, ambos llegan en un empate técnico y el resultado definirá además el rumbo de la relación bilateral con la Argentina, en medio de un comercio que en 2025 alcanzó un récord de 13 años. Milei ya había felicitado a Bolsonaro tras la primera vuelta y habló de \"empezar a trabajar juntos\", mientras que con Lula el vínculo diplomático quedó reducido a nivel de encargado de negocios tras un cruce de insultos públicos.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Elecciones en Brasil 2026, EN VIVO: Lula y Flávio Bolsonaro se enfrentan en balotaje por la presidencia este 25 de octubre",
+       "url": "https://www.clarin.com/mundo/elecciones-brasil-2026-vivo-lula-flavio-bolsonaro-enfrentan-balotaje-presidencia-25-octubre_0_aeVGSwcowu.html"
+      },
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Lula da Silva o Flávio Bolsonaro: Brasil vota en una elección que mira el continente",
+       "url": "https://www.ambito.com/mundo/lula-da-silva-o-flavio-bolsonaro-brasil-elige-una-eleccion-que-mira-el-continente-n6337587"
+      },
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Cierres en la cuna del bolsonarismo: por qué Río es el “laboratorio” del duelo final entre Lula y Flavio",
+       "url": "https://www.cronista.com/economia-politica/cierres-en-la-cuna-del-bolsonarismo-por-que-rio-es-el-laboratorio-del-duelo-final-entre-lula-y-bolsonaro/"
+      },
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Elecciones en Brasil: Lula y Bolsonaro, cabeza a cabeza en un balotaje clave para Milei",
+       "url": "https://www.iprofesional.com/politica/467362-elecciones-en-brasil-lula-y-bolsonaro-cabeza-a-cabeza-en-un-balotaje-clave-para-milei"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/balotaje-en-brasil-lula-y-flavio-bolsonaro-se-enfrentan-en-la-eleccion-mas-pareja-en-un-pais-partido-nid24102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WL5WP6O6GJAFLAGP3QRZ3BLGGQ.JPG?auth=2b0bd2aa4fb08089dd31f48421650daf43a2fca65c252127471348ec6c5c9763&smart=true&width=900&height=605",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:50",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "Balotaje en Brasil: Lula y Flavio Bolsonaro se enfrentan en la elección más pareja en un país partido al medio"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Trump y Melania votaron de manera anticipada en Florida",
+     "resumen": "El presidente de Estados Unidos, Donald Trump, y la primera dama Melania Trump votaron de manera anticipada en Palm Beach, Florida, en el primer día de votación anticipada presencial del estado. El mandatario viajó luego a Georgia para un acto de campaña, a menos de dos semanas de las elecciones legislativas de medio término, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/cuenta-regresiva-elecciones-estados-unidos-donald-trump-melania-votaron-manera-anticipada_0_bSTkxXt42n.html",
+     "imagen": "https://www.clarin.com/img/2026/10/24/gYIfhPE6h_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cuenta regresiva para las elecciones en Estados Unidos: Donald Trump y Melania votaron de manera anticipada"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "casi 100 detenidos en Barcelona tras una marcha con violencia y saqueos",
+     "resumen": "Una marcha convocada por redes sociales terminó con casi 100 detenidos en Barcelona, tras incidentes de violencia y saqueos. El alcalde Jaume Collboni precisó que más de 600 jóvenes participaron de los disturbios y prometió perseguir a los tutores legales de los menores implicados, en hechos ocurridos cerca de una acampada por la vivienda instalada en la plaza Cataluña, informó Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/violencia-saqueos-barcelona-marcha-convocada-redes-sociales-termino-100-detenidos_0_tHoWMTn583.html",
+     "imagen": "https://www.clarin.com/img/2026/10/24/HiaiJV59I_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Violencia y saqueos en Barcelona: una marcha convocada por redes sociales terminó con casi 100 detenidos"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "el Reino Unido tiene \"mil días\" para prepararse para la guerra, según su ministro de Defensa",
+     "resumen": "El ministro de Defensa británico, Wes Streeting, afirmó que el Reino Unido tiene mil días para prepararse para una eventual guerra, en un artículo en el que señala a Rusia como la \"amenaza existencial\" para su país y para Europa. Streeting advirtió que para 2030 la capacidad militar de los adversarios del Reino Unido habrá crecido, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/25/el-reino-unido-tiene-1000-dias-para-prepararse-para-la-guerra-dice-ministro-de-defensa/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "El Reino Unido tiene 1.000 días para prepararse para la guerra, dice ministro de Defensa"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Serbia celebra sus elecciones más disputadas en 14 años con el movimiento estudiantil como rival de Vucic",
+     "resumen": "Serbia celebró este domingo las elecciones parlamentarias más disputadas en más de 14 años, con el movimiento estudiantil como principal desafío al partido del líder Aleksandar Vucic. Los comicios anticipados surgieron tras casi dos años de protestas contra la corrupción, desatadas por el derrumbe de una marquesina en la estación de Novi Sad en 2024 que dejó 16 muertos, informó Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/25/serbia-celebra-las-elecciones-parlamentarias-mas-disputadas-en-14-anos-con-el-movimiento-estudiantil-como-principal-rival-de-vucic/",
+     "imagen": "https://www.infobae.com/resizer/v2/CXJPTZZO6BHTLIBDB7ZO6WJLUY.JPG?auth=2c49c29ab8f6c570a074dd7f61f25f5fc617f772396d694a5d6afea204f4a01f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:04",
+     "autor": "",
+     "titulo_original": "Serbia celebra las elecciones parlamentarias más disputadas en 14 años, con el movimiento estudiantil como principal rival de Vucic"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Bulgaria vota bajo tensión por ataques con drones en el mar Negro",
+     "resumen": "Bulgaria votó este domingo en unas elecciones presidenciales marcadas por ataques con drones contra buques mercantes en el mar Negro, en un contexto de tensión por la guerra de Rusia en Ucrania. Las encuestas ubican en primer lugar a la presidenta interina Iliana Iotova, de 61 años, seguida por el ex primer ministro interino Andrey Gyurov; si nadie logra mayoría absoluta habrá segunda vuelta el 1° de noviembre, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/25/bulgaria-vota-en-una-elecciones-presidenciales-bajo-la-tension-por-los-ataques-con-drones-contra-buques-en-el-mar-negro/",
+     "imagen": "https://www.infobae.com/resizer/v2/MXWUMD5KCZEQJHWXEA43XKZFCA.JPG?auth=bd048ff3e72f2c9db1c235111cc8f0e08b700d66a50931693f735fc7bba32f37&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:27",
+     "autor": "",
+     "titulo_original": "Bulgaria vota en una elecciones presidenciales bajo la tensión por los ataques con drones contra buques en el mar Negro"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-07",
+     "titulo": "Barcelona y Real Madrid juegan El Clásico un día antes del Balón de Oro",
+     "resumen": "Barcelona y Real Madrid disputan este domingo El Clásico de España por la fecha 10 de LaLiga, un día antes de la entrega del Balón de Oro en el que compiten sus máximas figuras, Lamine Yamal y Kylian Mbappé. El conjunto catalán, dirigido por Hansi Flick, llega como líder invicto del torneo, mientras el Real Madrid de José Mourinho buscará dar el golpe sin Vinicius Jr., según Clarín e Infobae.",
+     "relacionadas": [
+      {
+       "id": "IB-10",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Dónde ver Barcelona vs Real Madrid HOY en Perú: canal tv online del partido por clásico de LaLiga 2026-27",
+       "url": "https://www.infobae.com/peru/deportes/2026/10/25/donde-ver-barcelona-vs-real-madrid-hoy-canal-tv-online-partido-clasico-jornada-10-laliga-2026-2027/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/barcelona-vs-real-madrid-lamine-yamal-mbappe-juegan-clasico-espana-dia-balon-oro_0_qgvN30uWFB.html",
+     "imagen": "https://www.clarin.com/img/2026/10/25/W5vWCls7k_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Barcelona vs Real Madrid: Lamine Yamal y Mbappé juegan El Clásico de España un día antes del Balón de Oro"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "clásicos cruzados: Independiente recibe a Boca y River es local ante Racing",
+     "resumen": "Independiente recibe a Boca y River será local ante Racing este domingo desde las 17 horas, en una fecha marcada por los clásicos cruzados del fútbol argentino. El Rojo buscará una victoria ante los de Arruabarrena, mientras los de Ponzio enfrentan a una Academia de Avellaneda golpeada, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/independiente-boca-river-vs-racing-radiografia-clasicos-cruzados-peso-historia-presion-presente_0_471eEtU4Xd.html",
+     "imagen": "https://www.clarin.com/img/2026/10/25/Ix-67e0mJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Independiente ante Boca y River vs Racing: radiografía de los clásicos cruzados, con el peso de la historia y la presión del presente"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "Rosario Central le ganó a Huracán y es líder de la tabla anual",
+     "resumen": "Rosario Central le ganó a Huracán y es líder de la tabla anual de la Liga Profesional, lo que le quita presión a Boca y a Argentinos Juniors. En la misma fecha, Defensa y Justicia se clasificó a los playoffs del Clausura y San Lorenzo complicó su futuro en el certamen, informó Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/quedo-tabla-anual-liga-profesional-rosario-central-gano-huracan-lider-paso-presion-boca-argentinos-juniors_0_NgHx6vu1v0.html",
+     "imagen": "https://www.clarin.com/img/2026/10/25/AODPHisS2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Así quedó la tabla anual de la Liga Profesional: Rosario Central le ganó a Huracán, es líder y les pasó la presión a Boca y Argentinos Juniors"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "San Lorenzo empató con Newell's y complicó su clasificación a los playoffs",
+     "resumen": "San Lorenzo empató 0 a 0 con Newell's y perdió la chance de consolidar su clasificación a los octavos de final del torneo Clausura, lo que generó bronca y desazón entre sus hinchas en el estadio Nuevo Gasómetro, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/a-san-lorenzo-el-envion-se-le-termino-rapido-el-empate-ante-newells-trajo-de-vuelta-la-bronca-y-la-nid24102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/U7RPWNSTJFEOTIVPBBOXQ53C4E.JPG?auth=faad4a7a3161e13dcf4d30b1258a3e14002e234f6bc1f52674b67fc39b51189f&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:57",
+     "autor": "Andrés Vázquez",
+     "titulo_original": "A San Lorenzo el envión se le terminó rápido: el empate ante Newell’s trajo de vuelta la bronca y la desilusión"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Messi jugó un rato pero no evitó la derrota de Inter Miami",
+     "resumen": "Lionel Messi ingresó en el tramo final de la derrota de Inter Miami por 2 a 0 ante New York Red Bull, por la serie regular de la MLS, luego de una semana en la que viajó a España para recibir el Premio Princesa de Asturias de los Deportes en Oviedo, reportó La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-inter-miami-vs-new-york-red-bull-en-vivo-por-la-mls-nid24102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YLWRKFMCVRGETMGZUKHBOOIZWY.JPG?auth=2359fe1890ad9730f4b72bf8712fd35750e6d04fe9a3867aa122939671e70f5d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:10",
+     "autor": "",
+     "titulo_original": "Después de una semana emocionante, Lionel Messi jugó un rato y no evitó la derrota de Inter Miami"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Julián Álvarez se reconcilia con el Atlético: metió un gol y fue ovacionado",
+     "resumen": "Julián Álvarez marcó su primer gol de la temporada en LaLiga y fue ovacionado por el Atlético de Madrid, su segundo tanto en cuatro días tras el que había convertido ante el Stuttgart por la Champions League. El equipo de Diego Simeone quedó segundo, a dos puntos del Barcelona, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/julian-alvarez-empieza-dejar-atras-el-mal-momento-el-atleti-metio-un-gol-y-lo-ovacionaron-n6337552",
+     "imagen": "https://media.ambito.com/p/c2bbb0020b716c05e52cb7ac71b7abdf/adjuntos/239/imagenes/043/224/0043224594/1200x675/smart/julian-alvarez.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:56",
+     "autor": "",
+     "titulo_original": "Julián Álvarez se reconcilia con el Atleti: metió un gol y fue ovacionado"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Antonelli podría ser el campeón más joven de la historia de la Fórmula 1",
+     "resumen": "El italiano Andrea Kimi Antonelli, de 20 años, podría coronarse este domingo como el campeón más joven de la historia de la Fórmula 1 si gana el Gran Premio de Estados Unidos en Austin y sus perseguidores no suman los puntos necesarios para prolongar la definición. El piloto acumula ocho victorias y seis podios en 17 Grandes Premios en su segunda temporada y aventaja por 102 puntos a su compañero George Russell, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/25/que-necesita-andrea-kimi-antonelli-para-ser-campeon-record-de-la-formula-1-en-el-gp-de-estados-unidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/PBT5UBYCNNGARFC7JSOZXQMJPA.JPG?auth=4128485a34c078c8c5ecefb1726a0028bf96bcfbd1f81064f7219446e5f2f9d5&smart=true&width=900&height=583",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:44",
+     "autor": "",
+     "titulo_original": "Qué necesita Andrea Kimi Antonelli para ser campeón récord de la Fórmula 1 en el GP de Estados Unidos"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Colapinto largará 21° en el Gran Premio de Estados Unidos",
+     "resumen": "Franco Colapinto largará 21° en el Gran Premio de Estados Unidos de Fórmula 1 este domingo en el circuito de las Américas, tras marcar el 14° tiempo en la clasificación del sábado y decir no haberse sentido cómodo con su monoplaza A526 en toda la sesión. Según Ámbito, el argentino de Alpine había terminado 15° en la última práctica libre, pero recibió una penalización de diez posiciones en la grilla de largada por un cambio en su auto.",
+     "relacionadas": [
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto terminó 15° en la última práctica libre del GP de EEUU: a qué hora corre y dónde ver la clasificación",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-termino-15-la-ultima-practica-libre-del-gp-eeuu-que-hora-corre-y-donde-ver-la-clasificacion-n6337535"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-largara-21-en-el-gran-premio-de-estados-unidos-de-formula-1-cuanto-puede-remontar-nid24102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/46PSRTBMSFB43DGUHML6FPVE7U.jpg?auth=29a9cd477e415c662d441f98bb3de5733d773879692eb92230fef66c6256ab59&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:52",
+     "autor": "Orlando Ríos",
+     "titulo_original": "Franco Colapinto largará 21º en el Gran Premio de Estados Unidos de Fórmula 1: cuánto puede remontar"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-19",
+     "titulo": "el rincón poco conocido de Brasil con playas, ballenas y gastronomía centenaria",
+     "resumen": "Clarín destaca un rincón poco conocido de Brasil, ubicado entre los estados de Río de Janeiro y Bahía, fuera del radar de los turistas argentinos. El destino combina grandes playas, avistaje de ballenas, manglares, historia jesuita y una gastronomía centenaria con ollas de barro artesanales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/rincon-conocido-brasil-disfrutar-grandes-playas-ver-ballenas-descubrir-gastronomia-centenaria_0_zn5vMomvLn.html",
+     "imagen": "https://www.clarin.com/img/2026/10/05/C3Clv04v1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El rincón poco conocido de Brasil donde disfrutar de grandes playas, ver ballenas y descubrir una gastronomía centenaria"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "una luna de miel que llega 50 años después, rumbo a Hawái",
+     "resumen": "Un matrimonio argentino que cumplió 50 años de casados retomó un sueño pendiente desde 1976: el viaje de luna de miel a Hawái, que en su momento habían reemplazado por un paseo a las Cataratas del Iguazú en un Citroën 3CV rojo. Según Infobae, el relato forma parte de un diario de viaje que el protagonista, de 74 años, escribió a mano día por día junto a su esposa, de 72.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/generacion-silver/2026/10/25/cuando-la-luna-de-miel-llega-5-decadas-despues-72-ella-74-yo-50-de-casados-y-por-fin-el-viaje-a-hawai-pendiente-desde-1976/",
+     "imagen": "https://www.infobae.com/resizer/v2/467C7N6QAZABZDPDO75AZXLCDQ.png?auth=76a00d1079e169fd5ca7925ecd708a41f48f47c17d8c45ea447f5294ad943105&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:35",
+     "autor": "Carlos Vozzi",
+     "titulo_original": "Cuando la luna de miel llega 5 décadas después: 72 ella, 74 yo, 50 de casados, y por fin el viaje a Hawai pendiente desde 1976"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-17",
+     "titulo": "al menos dos muertos por un brote de meningitis en un hospital de Mendoza",
+     "resumen": "Un brote de meningitis fue detectado en un hospital privado de Mendoza y el Ministerio de Salud dispuso el cierre preventivo de sus quirófanos. Dos de los cuatro pacientes confirmados con la enfermedad murieron y otras dos personas dieron positivo, mientras seis permanecen en observación por posible contagio, informó La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/al-menos-dos-muertos-por-el-brote-de-meningitis-detectado-en-un-hospital-de-mendoza-nid24102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XW7CPSABGFAMHJHTR75HUQRAOY.png?auth=fb9c9da19868f5fc70a67074af6a9aacf274c49b8da0ebbe6a5069411d74dc83&smart=true&width=900&height=615",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:25",
+     "autor": "",
+     "titulo_original": "Al menos dos muertos por un brote de meningitis detectado en un hospital de Mendoza"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "por El Niño, serpientes y yacarés avanzan en zonas pobladas del Litoral",
+     "resumen": "Por el fenómeno de El Niño, serpientes y yacarés avanzan sobre zonas pobladas del Litoral debido a las inundaciones, y aumentaron los rescates de otras especies como comadrejas, mulitas y pájaros, según Clarín. En la misma línea, el gobernador de Neuquén, Rolando Figueroa, anunció que la provincia decretará la emergencia meteorológica por seis meses y destinará recursos a obras pluvioaluviales ante la previsión de tormentas intensas, informó Infobae.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno de Neuquén anunció que decretarán la emergencia meteorológica por El Niño",
+       "url": "https://www.infobae.com/politica/2026/10/25/el-gobierno-de-neuquen-anuncio-que-decretaran-la-emergencia-meteorologica-por-el-nino/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/super-nino-inundaciones-serpientes-yacares-avanzan-zonas-pobladas-litoral_0_Dr1SyeQ3xc.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/kFDes6MAQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño: por las inundaciones, serpientes y yacarés avanzan en zonas pobladas del Litoral"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "un neurocientífico argentino creó una app que detecta el Alzheimer con IA",
+     "resumen": "El neurocientífico argentino Adolfo García desarrolló una aplicación que detecta el Alzheimer de forma temprana a partir del análisis con inteligencia artificial de unos minutos de habla espontánea, con una precisión del 90%. El servicio, que también permite identificar deterioro cognitivo leve, ya se ofrece en 15 países, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/neurocientifico-argentino-creo-app-detecta-alzheimer-temprano-traves-ia-solo-minutos-habla_0_jwdQrrxYfX.html",
+     "imagen": "https://www.clarin.com/img/2026/10/22/a5N-8Im3c_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un neurocientífico argentino creó una app que detecta el Alzheimer temprano a través de la IA y con solo unos minutos de habla"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "un estudiante argentino ganó en Harvard por un invento para personas no videntes",
+     "resumen": "Martín Pulitano, un estudiante argentino de 20 años oriundo de Moreno, obtuvo el primer puesto en HackHarvard, una maratón de 36 horas de innovación, con un invento para personas no videntes. Su prototipo, llamado \"Feel\", utiliza sensores que detectan obstáculos hasta cinco metros de distancia y emiten suaves presiones en la palma de la mano, informó Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/orgullo-argentino-harvard-20-anos-logro-primer-puesto-competencia-invento-personas-videntes_0_65O0Fr3OJT.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/7wa72FwZG_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Orgullo argentino en Harvard: tiene 20 años y logró el primer puesto en una competencia por un invento para personas no videntes"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del domingo 25 de octubre.\n\nBrasil vive hoy el balotaje presidencial más parejo en tres décadas, entre el presidente Luiz Inácio Lula da Silva y el senador Flávio Bolsonaro, hijo del expresidente preso por intento de golpe de Estado. El resultado también importa para la Argentina, por el peso comercial y político de Brasil en la región. En el plano local, el Indec confirmó que la actividad económica se frenó en julio y que el producto bruto interno cayó en el segundo trimestre, en momentos en que el propio gobierno admite que algunos indicadores no evolucionan como esperaba. El dólar oficial cerró en mil quinientos cincuenta pesos para la venta, el dólar blue en mil quinientos sesenta y cinco pesos, el riesgo país se ubica en setecientos siete puntos básicos y el oro cotiza cerca de cuatro mil ocho dólares la onza.\n\nEn política, en el Gobierno se diluyó el optimismo por la economía, en medio de pases de factura internos y cuestionamientos a la conducción del presidente Milei, mientras crecen las dudas sobre una eventual reelección en dos mil veintisiete, con el PRO buscando alternativas y Patricia Bullrich evaluando sus próximos pasos. El propio Milei negó que exista una interna con la exministra de Seguridad y dijo que, en sus palabras, Patricia es socia, aunque evitó confirmar una fórmula conjunta. El presidente también volvió a atacar a La Nación y al periodista Hugo Alconada Mon por la cobertura de la causa Libra, tras haber sido sobreseído judicialmente. En paralelo, dirigentes de la CGT advirtieron que la crisis de las obras sociales sindicales es casi terminal, después de tres reuniones fallidas con el Gobierno. En el Congreso, el oficialismo intenta destrabar el proyecto de ley sobre la soberanía de Malvinas en Diputados, mientras Patricia Bullrich busca abrir el recinto del Senado; y el primer ministro británico pidió apoyo al presidente de Chile para sostener la autodeterminación de los isleños. La organización empresaria IDEA, por su parte, defendió la libertad de prensa frente a los nuevos ataques de Milei al periodismo.\n\nEn economía, la actividad cayó dos coma nueve por ciento en julio frente a junio, la mayor baja mensual desde abril de dos mil veinte, y el producto bruto interno había retrocedido cero coma seis por ciento en el segundo trimestre. Según Ámbito, el deterioro del estimador mensual de actividad en julio y agosto confirma que el estancamiento no fue un bache pasajero sino el síntoma de una desarticulación macroeconómica más profunda. El economista Eduardo Crespo sostuvo que el Gobierno va a tener que buscar un reset del programa económico y que el mercado interno no tiene un motor claro para salir de la recesión. También se conoció que la distancia entre la jubilación mínima y la máxima bajó de veintiuna a menos de siete veces en tres décadas, reflejo del deterioro acumulado en ambas puntas de la escala previsional. Además, la deuda bancaria promedio por hogar endeudado llegó a trece millones trescientos ochenta mil pesos, con una morosidad que sigue elevada, y un relevamiento banco por banco mostró que un plazo fijo de un millón de pesos a treinta días puede rendir hasta seis mil quinientos pesos más según la entidad elegida.\n\nEn negocios y empresas, Mercado Libre inauguró un nuevo centro de distribución de última milla en el interior del país, con una inversión de ocho millones de dólares y más de mil puestos de trabajo. YPF sumó en una de sus estaciones de servicio el primer local de McDonald's dentro de una estación de la petrolera. También surgieron nuevos emprendimientos con inteligencia artificial: una inmobiliaria que opera por WhatsApp y la primera lavandería autoservicio sin empleados, que ahora busca franquiciados. Por otro lado, un productor de Pergamino dejó atrás la soja para apostar por las frutillas.\n\nEn impuestos y normativa, el Salario Mínimo, Vital y Móvil aumentará en noviembre según la Resolución cuatro de dos mil veintiséis, en el tercer escalón de una serie de subas mensuales que se extiende hasta abril de dos mil veintisiete. El proyecto de Presupuesto dos mil veintisiete que está en el Congreso prevé fondos para el programa Potenciar Trabajo con una cobertura de doscientos mil titulares. Y en el campo exportador, se abrió una grieta entre entidades gremiales por la decisión de inscribirse o no en una plataforma que certifica el cumplimiento de la normativa europea contra la deforestación, que entra en vigencia en enero.\n\nEn consumo y construcción, el valor del metro cuadrado en la Ciudad de Buenos Aires subió cero coma tres por ciento en septiembre y llegó a un promedio de dos mil cuatrocientos ochenta y cuatro dólares, en un contexto donde construir en dólares se volvió cada vez más caro y eso favorece al mercado de usados. El Banco Nación, por su parte, otorgó más de doscientos diez créditos hipotecarios con fondos de ANSES y recibió otros cuarenta mil millones de pesos para seguir financiando la compra de viviendas. También se habló de los llamados gastos hormiga, esos consumos chicos y frecuentes que pueden comerse una parte importante del presupuesto mensual, y del caos para estacionar en barrios como Once, Palermo y Belgrano.\n\nEn el mundo, además del balotaje en Brasil, Donald Trump y Melania Trump votaron de manera anticipada en Florida, a menos de dos semanas de las elecciones legislativas de medio término en Estados Unidos. En Barcelona, una marcha convocada por redes sociales terminó con casi cien detenidos, tras incidentes de violencia y saqueos. El ministro de Defensa británico advirtió que el Reino Unido tiene mil días para prepararse ante una eventual guerra con Rusia. Y este domingo también votaron Serbia, en las elecciones parlamentarias más disputadas en catorce años, y Bulgaria, en unas elecciones presidenciales marcadas por ataques con drones en el mar Negro.\n\nEn deportes, Barcelona y Real Madrid juegan hoy El Clásico de España, un día antes de la entrega del Balón de Oro. En el fútbol argentino, Independiente recibe a Boca y River será local ante Racing, mientras Rosario Central se consolidó como líder de la tabla anual tras ganarle a Huracán. San Lorenzo empató sin goles con Newell's y complicó su clasificación a los playoffs. Lionel Messi ingresó en el tramo final de la derrota de Inter Miami ante New York Red Bull, después de haber recibido el Premio Princesa de Asturias de los Deportes. Julián Álvarez marcó su segundo gol en cuatro días y fue ovacionado en el Atlético de Madrid. En la Fórmula uno, el italiano Andrea Kimi Antonelli podría consagrarse hoy campeón más joven de la historia si gana el Gran Premio de Estados Unidos. Y Franco Colapinto largará vigésimo primero en esa misma carrera, después de un sábado complicado en la clasificación y una penalización de diez posiciones en la grilla.\n\nEn sociedad, un brote de meningitis en un hospital privado de Mendoza dejó dos muertos y otras seis personas en observación. Por el fenómeno de El Niño, serpientes y yacarés avanzan sobre zonas pobladas del Litoral debido a las inundaciones, y Neuquén anunció que declarará la emergencia meteorológica por seis meses. En el plano positivo, un neurocientífico argentino desarrolló una aplicación que detecta el Alzheimer de forma temprana con inteligencia artificial, y un estudiante de Moreno ganó una maratón de innovación en Harvard con un invento para personas no videntes.\n\nPara cerrar, en turismo, Clarín recomienda un rincón poco conocido de Brasil, entre Río de Janeiro y Bahía, con playas, ballenas y gastronomía centenaria. E Infobae contó la historia de un matrimonio argentino que, después de cincuenta años de casados, por fin viaja a Hawái, un sueño pendiente desde mil novecientos setenta y seis.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent no trajo notas en esta corrida (0), por lo que se omitió la sección Europa y geopolítica. Tampoco se encontró en el material ningún destino turístico dentro de la Argentina, así que la sección de turismo se cubrió con un destino en Brasil y uno en Hawái. No hay novedades sobre Club Atlético Tigre en esta corrida.",
+ "slug": "2026-10-25-manana",
+ "generado_ba": "25/10/2026 10:16"
+}
