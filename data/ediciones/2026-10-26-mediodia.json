@@ -1,0 +1,772 @@
+{
+ "fecha": "2026-10-26",
+ "edicion": "mediodia",
+ "titulo": "El Bovespa se hunde 16% y el riesgo país argentino salta a 745 puntos tras la victoria de Lula",
+ "apertura": "El impacto financiero de la reelección de Lula da Silva se profundizó durante la mañana: la Bolsa de San Pablo llegó a desplomarse 16,6%, el real se devaluó hasta 12% y el riesgo país argentino trepó a entre 738 y 745 puntos según la fuente. Javier Milei sigue sin reconocer el triunfo del presidente brasileño, mientras en el plano local avanzan la reglamentación de Zona Fría, la prórroga del FAL y el plan de pagos de ARBA, y el fenómeno de El Niño complica la operación en Neuquén y Vaca Muerta.",
+ "claves": [
+  "La Bolsa de San Pablo se desplomó hasta 16,6% y el real se devaluó hasta 12% tras la reelección de Lula; en Nueva York, Mercado Libre y los bancos argentinos cayeron con fuerza",
+  "El riesgo país argentino subió a 738 puntos según La Nación y El Cronista, y a 745 según otra nota de La Nación, arrastrado por la crisis bursátil brasileña",
+  "Javier Milei saludó desde el balcón de la Casa Rosada pero sigue sin reconocer oficialmente el triunfo de Lula, mientras encabeza la reunión de Gabinete de este lunes",
+  "El Gobierno reglamentó la reforma de Zona Fría, que limita el descuento automático de gas a la Patagonia, Malargüe y la Puna, y la prórroga del Fondo de Asistencia Laboral para diciembre",
+  "Diarco cerró otra sucursal y ya suma cuatro bajas en dos meses en un mercado golpeado por la caída del consumo; el empleo privado lleva 14 meses consecutivos de retroceso según la UBA",
+  "El Niño obligó a evacuar familias y aisló localidades en Neuquén, complicó la operación en Vaca Muerta y mantiene cerrado el paso de Yacyretá hacia Paraguay",
+  "Franco Colapinto respondió a la burla del presentador Jeremy Clarkson tras su abandono en el Gran Premio de Estados Unidos; esta noche se entrega el Balón de Oro en Londres"
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 114,51 por barril",
+   "variacion": "-1,89%",
+   "fuente": "CR-09"
+  },
+  {
+   "nombre": "Dólar en Brasil (real)",
+   "valor": "R$ 5,60 por dólar",
+   "variacion": "hasta +12,2%",
+   "fuente": "IB-20"
+  },
+  {
+   "nombre": "ETF de acciones brasileñas (EWZ)",
+   "valor": "-26% en la previa",
+   "fuente": "CR-23"
+  },
+  {
+   "nombre": "Empleo privado formal",
+   "valor": "9.000 puestos perdidos en julio",
+   "variacion": "14 meses de caída consecutiva",
+   "fuente": "LN-15"
+  },
+  {
+   "nombre": "Empresas empleadoras",
+   "valor": "29.000 menos en dos años",
+   "fuente": "IP-25"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "Milei mantiene silencio sobre el triunfo de Lula mientras el Gobierno avanza con la agenda legislativa y judicial local.",
+   "notas": [
+    {
+     "id": "AM-09",
+     "titulo": "Milei saludó desde el balcón de la Rosada pero sigue sin reconocer el triunfo de Lula",
+     "resumen": "El Presidente se asomó al balcón de la Casa de Gobierno para saludar a quienes pasaban por Plaza de Mayo, en lo que fue leído como un gesto informal frente al silencio oficial sobre la victoria de Lula da Silva. Milei encabeza este lunes la reunión de Gabinete y acumula más de dieciséis horas sin mensajes en su cuenta de X sobre el resultado brasileño.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Milei saludó desde el balcón de Casa Rosada, encabeza la reunión de Gabinete y sigue sin hablar sobre la victoria de Lula",
+       "url": "https://www.infobae.com/politica/2026/10/26/milei-aun-no-felicito-a-lula-y-encabeza-una-nueva-reunion-de-gabinete-tras-la-derrota-de-bolsonaro/"
+      },
+      {
+       "id": "LN-01",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Javier Milei y sus medidas, en vivo: el Presidente acusó a Lula de querer “robar” las elecciones en Brasil",
+       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/"
+      },
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei demora el reconocimiento del triunfo de Lula da Silva en el balotaje y crece la tensión con Brasil",
+       "url": "https://www.ambito.com/politica/javier-milei-demora-el-reconocimiento-del-triunfo-lula-da-silva-el-balotaje-y-crece-la-tension-brasil-n6337925"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/javier-milei-hizo-six-seven-el-balcon-casa-rosada-junto-al-gabinete-n6337901",
+     "imagen": "https://media.ambito.com/p/511ff3154449b4812670778d730ad18d/adjuntos/239/imagenes/043/728/0043728226/1200x675/767x447:787x467/milei-six-seven-casa-rosada.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:01",
+     "autor": "",
+     "titulo_original": "\"Six seven\": la primera reacción de Javier Milei tras victoria de Lula da Silva"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "el Club Político Argentino repudió los dichos de Milei contra periodistas",
+     "resumen": "La entidad reclamó que cesen los ataques a la prensa y advirtió sobre los riesgos de naturalizar discursos de violencia, luego de que el Presidente hablara de quemar periodistas en la hoguera durante un acto el viernes, tras conocerse su sobreseimiento en la causa dólar Libra.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/club-politico-argentino-repudio-dichos-milei-periodistas-democracia-necesita-hogueras_0_SU2mNrTosr.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/kJUWemdDN_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:06",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Club Político Argentino repudió los dichos de Milei contra periodistas: “La democracia no necesita hogueras”"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "juicio a Cristina Kirchner: segunda audiencia por lavado de dinero en Hotesur y Los Sauces",
+     "resumen": "La expresidenta se sienta por tercera vez en el banquillo de los acusados en la causa en la que, según la Justicia, la empresa hotelera y la inmobiliaria familiar se usaron para blanquear fondos. El juicio continuará en las próximas semanas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/juicio-cristina-kirchner-vivo-nueva-audiencia-lavado-dinero-hotesur-sauces-ultimas-noticias_0_nHizXGYKml.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/EQp-8DC4m_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:38",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juicio a Cristina Kirchner, EN VIVO: nueva audiencia por lavado de dinero en Hotesur y Los Sauces y últimas noticias"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "Presupuesto 2027: el Gobierno busca cerrar el dictamen en Diputados y prepara la batalla en el Senado",
+     "resumen": "La Libertad Avanza apunta a firmar el dictamen este miércoles y llevar el proyecto al recinto el 18 de noviembre. La Cámara alta deberá acelerar el tratamiento en un calendario acotado por los viajes de legisladores, la visita del Papa y el cierre del período ordinario.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/presupuesto-2027-el-gobierno-busca-cerrar-la-discusion-diputados-y-prepara-la-batalla-en-el-senado/",
+     "imagen": "https://www.cronista.com/resizer/v2/QIO52YKH4RB2FNUMXJPGHDBWJ4.jpg?auth=78ae0cb4c7ba5e6d14a348e53daa64dd2549b9805bb984abd36d387b6c4657d2&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:31",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Presupuesto 2027: el Gobierno busca cerrar la discusión Diputados y prepara la batalla en el Senado"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "Malvinas: la ruta marítima que esquiva las sanciones argentinas y que Milei no puede frenar",
+     "resumen": "El buque MV Unispirit une Montevideo con el puerto de las islas todos los meses a través del Atlántico. El 11 de noviembre otro barco, de bandera chilena, también desafiará el reclamo argentino a través del Estrecho de Magallanes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/malvinas-ruta-maritima-esquiva-sanciones-argentinas-milei-puede-frenarla_0_bFrNdk58Os.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/7Q-BTW7s4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Malvinas: la ruta marítima que esquiva las sanciones argentinas y por qué Milei no puede frenarla"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "intro": "La crisis bursátil brasileña se agravó durante la mañana y arrastró al riesgo país y a las acciones argentinas en Wall Street.",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "la Bolsa de San Pablo se desplomó 16,6% y el dólar se disparó en Brasil tras el triunfo de Lula",
+     "resumen": "Las operaciones se suspendieron de manera preventiva cuando los valores ya habían caído 10%, pero la tendencia se agravó en la reanudación y el dólar llegó a trepar 11% en Brasil. Entre los ADR que cotizan en Estados Unidos, Petrobras retrocedía 20,7%, Vale 3,3% y Ambev 16,1%. Para una empresa: una fuerte devaluación del real abarata las importaciones brasileñas y presiona a los exportadores argentinos que compiten con ese mercado.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El dólar se disparó en Brasil tras las elecciones y el real sufrió su mayor caída en décadas",
+       "url": "https://www.iprofesional.com/finanzas/467480-dolar-subio-12-por-ciento-brasil-tras-victoria-lula"
+      },
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Lunes negro: el Bovespa suspendió la cotización de acciones brasileñas tras caída récord",
+       "url": "https://www.iprofesional.com/finanzas/467445-acciones-brasilenas-caida-historica-preocupa-inversores-wall-street"
+      },
+      {
+       "id": "CR-23",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Las acciones brasileñas se derrumban más del 40% tras la victoria de Lula y van rumbo al peor día en su historia",
+       "url": "https://www.cronista.com/finanzas-mercados/las-acciones-brasilenas-caen-mas-del-40-tras-la-victoria-de-lula-y-van-rumbo-al-peor-dia-en-su-historia/"
+      },
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El dólar se disparó en Brasil hasta 12% tras el triunfo de Lula en el balotaje",
+       "url": "https://www.infobae.com/economia/2026/10/26/el-dolar-se-disparo-en-brasil-hasta-12-tras-el-triunfo-de-lula-en-el-balotaje/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/mercado-bursatil-brasileno-hunde-extraordinario-22-29-victoria-lula-da-silva-balotaje_0_BVeCsFQcaY.html",
+     "imagen": "https://www.clarin.com/img/2020/03/10/JIO2eEuO_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:50",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Bolsa brasileña se desplomó 16,6% en la apertura en un lunes negro bursátil y se disparó el precio del dólar tras la victoria de Lula da Silva en el balotaje"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "el riesgo país argentino se dispara por el contagio brasileño, aunque las fuentes difieren en el número",
+     "resumen": "El riesgo país subió con fuerza en la rueda: La Nación y El Cronista lo ubicaron en 738 puntos, mientras otra nota de La Nación habló de 745 puntos. Mercado Libre, que concentra buena parte de sus negocios en Brasil, llegó a derrumbarse hasta 12% en Wall Street, seguido por Banco Macro y BBVA Argentina. Para una empresa: una suba del riesgo país encarece el financiamiento en dólares y el crédito para importar insumos.",
+     "relacionadas": [
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Tras el batacazo de Lula en Brasil, el riesgo país se dispara hasta los 745 puntos básicos y los ADRs se hunden 11%",
+       "url": "https://www.ambito.com/finanzas/los-adrs-y-acciones-argentina-caen-8-wall-street-la-victoria-lula-da-silva-brasil-n6337806"
+      },
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Fuerte repunte del riesgo país y caída de los ADR en Nueva York acoplan la Argentina a la debacle de Brasil",
+       "url": "https://www.cronista.com/finanzas-mercados/caen-las-acciones-argentinas-y-los-bonos-en-wall-street-arrastradas-por-el-desplome-de-brasil/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-triunfo-sorpresivo-de-lula-en-brasil-presiona-al-riesgo-pais-argentino-y-mercado-libre-se-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YG7ZHCHMSBAQTJ3AUN2FVBQAM4.JPG?auth=035e12b921ed34678969c97fb3d3628366f5a3ace67f9588ef1e829901b33abf&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:21",
+     "autor": "Sofía Diamante",
+     "titulo_original": "Tras el triunfo de Lula, sube el riesgo país y caen las acciones argentinas en Wall Street"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "la soja se desploma en Chicago y toca su valor más bajo en dos meses",
+     "resumen": "La oleaginosa perdió casi nueve dólares por tonelada en el inicio de la semana, presionada por el avance de la cosecha estadounidense y la depreciación del real tras el triunfo de Lula. La posición noviembre cotizaba a 453,24 dólares por tonelada, con una baja de 8,45 dólares respecto del cierre anterior, según Zeni.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/golpe-en-chicago-la-soja-se-desploma-y-toca-su-valor-mas-bajo-en-dos-meses-tras-las-elecciones-en-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/67LHDFSNJZBNHJ6KCYYU32DHRE.png?auth=c7a66bd88a16811f0022f7e8bba552f2fba21ea0a7ffd42927f704a01db922b8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:58",
+     "autor": "Pilar Vazquez",
+     "titulo_original": "Golpe en Chicago: la soja se desploma y toca su valor más bajo en dos meses tras las elecciones en Brasil y un dato de Estados Unidos"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "el petróleo afloja, pero el riesgo en Arabia Saudita lo mantiene cerca de máximos de seis meses",
+     "resumen": "El crudo Brent bajó 1,89%, hasta 114,51 dólares por barril, y el WTI cedió 2,19%, a 101 dólares, en medio de la expectativa de una moderación en las tensiones entre Estados Unidos e Irán, aunque se mantiene la escalada bélica en Arabia Saudita. Para una empresa: un petróleo sostenido en niveles altos presiona los costos de logística y de transporte de materiales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-petroleo-afloja-pero-el-riesgo-en-arabia-saudita-impide-que-se-aleje-de-sus-maximos-de-seis-meses/",
+     "imagen": "https://www.cronista.com/resizer/v2/SYUYMKGS4ZAG7D6RA376ZBMDTI.jpg?auth=e8051136ac1360a44b51246516a5785d5bdaacbf674db8fd6e4788ae2f7e1df5&smart=true&width=900&height=592",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:05",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El petróleo afloja, pero el riesgo en Arabia Saudita impide que se aleje de sus máximos de seis meses"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "Meta tropezó en Wall Street y llega el turno de Alphabet, Microsoft y Amazon",
+     "resumen": "La temporada de balances tecnológicos entra en una etapa sensible: después de que Meta cayera hasta 7% al anunciar más gasto en infraestructura de inteligencia artificial, Alphabet y Microsoft presentarán resultados el miércoles y Amazon el jueves, en la misma semana en que la Reserva Federal define su tasa de interés.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/meta-tropezo-wall-street-reacciono-y-llega-el-turno-de-alphabet-microsoft-y-amazon-que-miraran-los-inversores/",
+     "imagen": "https://www.cronista.com/resizer/v2/CBESK7A7JNHQFEBBMPTSE2SOZE.png?auth=4559541b0df851076c3a15800ebb9f27ae984f1fac4fc37a9ab2bfc12b932424&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:18",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Meta tropezó, Wall Street reaccionó y llega el turno de Alphabet, Microsoft y Amazon: qué mirarán los inversores"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "el empleo privado lleva 14 meses consecutivos en caída, según un informe de la UBA",
+     "resumen": "Un informe del Instituto Interdisciplinario de Economía Política de la Facultad de Ciencias Económicas de la UBA detectó que en julio, el último mes medido, se perdieron 9.000 puestos de trabajo formales, con lo que el número de asalariados privados volvió a niveles de abril de 2022. Un informe de iProfesional sumó que hay 29.000 empresas empleadoras menos que hace dos años, pese a que el PBI creció 5,8% desde fines de 2023. Para una empresa: la caída sostenida del empleo formal y de la base de empresas empleadoras es un indicador clave para medir el pulso del consumo.",
+     "relacionadas": [
+      {
+       "id": "IP-25",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El empleo registrado no repunta y hay 29.000 empresas empleadoras menos en dos años",
+       "url": "https://www.iprofesional.com/management/467330-el-empleo-registrado-no-repunta-y-hay-29-000-empresas-empleadoras-menos-en-dos-anos"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-empleo-en-el-sector-privado-lleva-14-meses-consecutivos-en-caida-segun-la-uba-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IKMH7FEAPBHLLDSWC6Z2VXJ64M.jpg?auth=6e11a99481a5a9a8c66809a7b0741a61fdbc1e1a601f85d10419c9943c73ef26&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:29",
+     "autor": "",
+     "titulo_original": "El empleo en el sector privado lleva 14 meses consecutivos en caída, según la UBA"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "Granja Tres Arroyos acumula 62.400 millones de pesos de deuda laboral y un tendal de cheques sin fondos",
+     "resumen": "El colapso del gigante avícola se profundiza con 1.250 despidos ya ratificados, plantas bajo la lupa de la Justicia y cautelares por un presunto vaciamiento de la empresa.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467468-granja-tres-arroyos-pidio-concurso-debe-62-400-millones-en-sueldos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628389.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:27",
+     "autor": "",
+     "titulo_original": "Granja Tres Arroyos: $62.400 millones de deuda laboral y un tendal de cheques sin fondos"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "el Gobierno firma con empresarios un acuerdo contra el contrabando",
+     "resumen": "El Ejecutivo avanza con convenios marco con la Unión Industrial Argentina y otras cámaras, además de acuerdos específicos con Mercado Libre y Meta, para reforzar los controles sobre el comercio ilegal e identificar productos sospechosos que ingresan al país de manera irregular. La iniciativa incluye herramientas tecnológicas, intercambio de información y fiscalización de plataformas digitales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/26/el-gobierno-firma-con-empresarios-un-acuerdo-contra-el-contrabando-que-controles-incluye-y-como-funcionaran/",
+     "imagen": "https://www.infobae.com/resizer/v2/6EUKVTNGNFF3RC3TUQZVL3CHUA.jpg?auth=47f35494e9d3c0367cb29e94016562d8d8149e52181028c36e0c19d2d67ee7ec&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:18",
+     "autor": "Natalia Donato",
+     "titulo_original": "El Gobierno firma con empresarios un acuerdo contra el contrabando: qué controles incluye y cómo funcionarán"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Anthropic presentó documentos ante la SEC para salir a bolsa",
+     "resumen": "La compañía detrás de Claude presentó la documentación para comenzar a cotizar en el Nasdaq bajo el símbolo ANT, con una valuación buscada de 2 billones de dólares que, según Ámbito, podría superar el récord de SpaceX. La operación podría concretarse en noviembre y recaudar hasta 100.000 millones de dólares, en medio del entusiasmo por la inteligencia artificial y las dudas sobre la rentabilidad del sector.",
+     "relacionadas": [
+      {
+       "id": "CL-03",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Anthropic revela documentos para salir a bolsa que muestran ventas en auge y riesgos de la IA",
+       "url": "https://www.clarin.com/estados-unidos/anthropic-revela-documentos-para-salir-a-bolsa-que-muestran-ventas-en-auge-y-riesgos-de-la-ia_0_ZVvuCMZXbb.html"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/anthropic-anuncio-su-oferta-salir-la-bolsa-busca-una-valuacion-us2-billones-y-podria-superar-el-record-spacex-n6337893",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "Anthropic anunció su oferta para salir a la bolsa: busca una valuación de u$s2 billones y podría superar el récord de SpaceX"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Arauco revisa activos en Argentina mientras invierte 200 millones de dólares en Misiones",
+     "resumen": "El gigante forestal chileno evalúa desprenderse de parte de sus operaciones locales, aunque en paralelo acelera una inversión de 200 millones de dólares en Misiones como parte de su expansión regional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467460-arauco-habilita-venta-de-activos-en-argentina-y-reordena-sus-negocios",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628388.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:56",
+     "autor": "",
+     "titulo_original": "Arauco revisa activos en Argentina mientras invierte u$s200 millones en Misiones"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "el Gobierno reglamentó la reforma de Zona Fría: el descuento automático de gas queda limitado a la Patagonia",
+     "resumen": "El decreto 1266/2026, firmado por Javier Milei, Diego Santilli y Luis Caputo, reglamenta la ley 27.828 y reserva el beneficio automático en la factura de gas para la Patagonia, el departamento mendocino de Malargüe y la Puna, dejando al resto del país en manos de un subsidio focalizado que deberá fijar la Secretaría de Energía.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-reglamento-la-reforma-de-zona-fria-como-funcionara-el-nuevo-regimen/",
+     "imagen": "https://www.cronista.com/resizer/v2/WZ7MAFP63FHLJNDX43JOA6SZV4.jpg?auth=736ac8e0a647ec80dd184f7260f9b9acbd0dc362f742b6e2fe39e21c73b3ed28&smart=true&width=900&height=502",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:56",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El Gobierno reglamentó la reforma de Zona Fría: cómo funcionará el nuevo régimen"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "ARCA reglamentó la prórroga del FAL: nuevas fechas y más carencia para los fondos de despido",
+     "resumen": "La Resolución General 5915/2026 adecuó la normativa del organismo al decreto que postergó al 1° de diciembre de 2026 la entrada en vigencia del Fondo de Asistencia Laboral y extendió el período de carencia de seis a doce períodos mensuales.",
+     "relacionadas": [
+      {
+       "id": "IP-21",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "ARCA reglamenta la prórroga del FAL",
+       "url": "https://www.iprofesional.com/impuestos/467453-arca-reglamenta-la-prorroga-del-fal"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/arca-reglamento-la-prorroga-del-fal-las-nuevas-fechas-y-que-cambia/",
+     "imagen": "https://www.cronista.com/resizer/v2/MYT6ZMMR35GOBITBNRLEZRZFNA.png?auth=4c7f613d7f719d8f2a7f67dc5d7b5cea7ffb88e0e1ce6bf35e6f0e7a53473b65&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:40",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "ARCA reglamentó la prórroga del FAL: las nuevas fechas y qué cambia para los fondos de despido"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "en Riesgos del Trabajo, la litigiosidad ya absorbe cerca del 45% de la prima",
+     "resumen": "A 30 años de su creación, el sistema enfrenta 500.000 juicios y la Unión de Aseguradoras de Riesgos del Trabajo estima 140.000 nuevos litigios este año. La entidad advierte por el impacto sobre los costos laborales, el empleo y la sustentabilidad del esquema, pese a una fuerte caída histórica de los accidentes y fallecimientos. Para una empresa: el costo de la litigiosidad laboral termina trasladándose a la prima que pagan todos los empleadores.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/riesgos-del-trabajo-la-litigiosidad-ya-absorbe-cerca-del-45-de-la-prima/",
+     "imagen": "https://www.cronista.com/resizer/v2/VLRZQLX46NE2HCYPSO24N4OFRA.jpg?auth=6b8f13c91e2a5b2d67a235ec103ebd22bebebb3931a4109e2a08803712ff704d&smart=true&width=900&height=534",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:04",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Riesgos del Trabajo: la litigiosidad ya absorbe cerca del 45% de la prima"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "cuánto deja de recaudar el sistema previsional por la menor cantidad de aportantes y el nuevo FAL",
+     "resumen": "Según un cálculo del Centro de Economía Política Argentina, al primer trimestre de 2026 el 54,5% de las personas ocupadas no realiza aportes jubilatorios, una tendencia que se profundiza desde el inicio de la gestión de Milei. El Fondo de Asistencia Laboral, que entra en vigencia el 1° de diciembre, se suma como otro factor que debilita el financiamiento del sistema previsional.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/26/cuanto-deja-de-recaudar-el-sistema-previsional-por-la-menor-cantidad-de-trabajadores-que-aportan-y-la-implementacion-del-fal/",
+     "imagen": "https://www.infobae.com/resizer/v2/YAO3XCJ4D5H7RMODQEQN46GOGI.jpg?auth=160ea2205d328a42fed35524f9465ae20cba357c2f08ef92b4849ac35754a38a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:04",
+     "autor": "Mariel Fitz Patrick, Sandra Crucianelli",
+     "titulo_original": "Cuánto deja de recaudar el sistema previsional por la menor cantidad de trabajadores que aportan y la implementación del FAL"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "aumento para los trabajadores de Claro, Movistar y Telecom",
+     "resumen": "Los gremios y las empresas de telecomunicaciones acordaron una suba del 3,60% que se aplicará sobre los salarios básicos de octubre y noviembre, y se consolidará en diciembre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467471-aumento-para-trabajadores-de-claro-movistar-y-telecom-a-cuanto-se-fue-el-salario-basico",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/582272.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:35",
+     "autor": "",
+     "titulo_original": "Aumento para trabajadores de Claro, Movistar y Telecom: a cuánto se fue el salario básico"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La caída del consumo golpea de lleno al canal mayorista, mientras el real estate porteño y bonaerense mueve nuevos proyectos.",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "Diarco cierra sucursales: los factores que golpean al gigante de los mayoristas",
+     "resumen": "La firma acaba de cerrar un punto de venta en Neuquén y suma cuatro bajas en dos meses, en un mercado golpeado por la contracción del consumo. Para una empresa de retail: la retracción de un jugador mayorista de esta escala es una señal de alerta sobre la demanda del canal tradicional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467475-diarco-cierra-sucursales-los-factores-que-golpean-al-mayorista",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614124.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:53",
+     "autor": "",
+     "titulo_original": "Diarco cierra sucursales: los factores que golpean al gigante de los mayoristas"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "cambió el changuito: caen los alimentos básicos y los comercios chinos ganan terreno",
+     "resumen": "La caída del consumo ya alcanza a productos esenciales, golpea con fuerza a las bebidas y modifica el mapa de los comercios elegidos para comprar, con los autoservicios chinos ganando participación frente a cadenas y almacenes tradicionales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467455-consumo-masivo-la-caida-llega-a-alimentos-basicos-y-al-changuito",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/09/560326.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:16",
+     "autor": "",
+     "titulo_original": "Cambió el changuito: caen alimentos básicos y los chinos ganan terreno frente a cadenas y almacenes"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "la Ciudad de Buenos Aires tomará solo el 70% del valor del suelo para cobrar el cargo a los desarrollos",
+     "resumen": "Desde 2027, el Derecho para el Desarrollo Urbano y el Hábitat Sustentable, conocido como plusvalía urbana, se calculará sobre el 70% del valor de incidencia del suelo, que además pasará a actualizarse con un índice que promedia la UVA y el dólar oficial. Con los valores actuales, implica un monto menor a pagar para quienes desarrollan proyectos inmobiliarios en la Ciudad.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-ciudad-de-buenos-aires-tomara-solo-el-70-del-valor-del-suelo-para-cobrar-el-cargo-a-los-desarrollos/",
+     "imagen": "https://www.cronista.com/resizer/v2/QLOYOAHTYVGXDC6MBG6IH7W2HA.jpg?auth=878d705254524486e173ca68d07c70645807f19c6258653486a7420ff4ef31b3&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:50",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "La Ciudad de Buenos Aires tomará solo el 70% del valor del suelo para cobrar el cargo a los desarrollos"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "una desarrolladora del Grupo Werthein compite con los countries de zona norte con edificios y dúplex premium",
+     "resumen": "El proyecto Luciérnagas Pilar, de Landmark Developments, tendrá once edificios de solo cuatro pisos en una zona de 13 hectáreas dominada por countries, con precios de alrededor de 3.000 dólares por metro cuadrado, entre los más altos de los complejos residenciales de la zona.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/una-desarrolladora-del-grupo-werthein-construye-departamentos-top-para-competir-con-el-country-de-zona-norte/",
+     "imagen": "https://www.cronista.com/resizer/v2/XLSLKBQ4RRGWRPH4VSL4SLVN3U.jpeg?auth=4aed6ab9c6199149574b69d3bde793710174e24dce7a7db20cce03bf8e0459b2&smart=true&width=900&height=643",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:14",
+     "autor": "Micaela Mura",
+     "titulo_original": "Una desarrolladora del Grupo Werthein compite con “el” country de zona norte con edificios y dúplex premium"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "franquicias de cafeterías: cuánto cuesta abrir un local en 2026",
+     "resumen": "Las grandes cadenas ofrecen distintos formatos de inversión para abrir una franquicia, pero la rentabilidad del negocio enfrenta nuevas presiones de costos que obligan a analizar con cuidado los montos y gastos antes de invertir.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467219-franquicias-de-cafeterias-cuanto-cuesta-abrir-un-local-en-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584038.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:00",
+     "autor": "",
+     "titulo_original": "Franquicias de cafeterías: cuánto cuesta abrir un local en 2026"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "intro": "El triunfo de Lula reconfigura el tablero político sudamericano, mientras Estados Unidos encara sus elecciones de medio término y crece la tensión con Irán.",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "Lula profesionalizará su gabinete para el cuarto mandato y fortalecerá el ala liberal",
+     "resumen": "El triunfo en el balotaje impulsará cambios ministeriales y redefinirá la interna entre los sectores del gobierno brasileño. Para encabezar el área de Hacienda suenan los nombres de Luiz Carlos Trabuco Cappi y del vicepresidente Geraldo Alckmin.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/brasil-lula-da-silva-profesionalizara-gabinete-cuarto-mandato-fortalecera-ala-liberal-disuelve-protesta-flavio-bolsonaro_0_bSi6LpwPlz.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/kQfymVJCY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Brasil: Lula da Silva profesionalizará su gabinete para el cuarto mandato, fortalecerá el ala liberal y se disuelve la protesta de Flávio Bolsonaro"
+    },
+    {
+     "id": "IB-09",
+     "titulo": "Putin felicitó a Lula y destacó su contribución personal a los lazos entre Rusia y Brasil",
+     "resumen": "El presidente ruso expresó su confianza en continuar la cooperación bilateral en foros como la ONU, el BRICS y el G20, y calificó de difícil de sobreestimar el aporte del mandatario brasileño al fortalecimiento de la alianza estratégica entre ambos países.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/26/putin-felicita-a-lula-y-alaba-su-contribucion-personal-a-los-lazos-entre-rusia-y-brasil/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Putin felicita a Lula y alaba su \"contribución personal\" a los lazos entre Rusia y Brasil"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "a nueve días de las midterms en Estados Unidos, la votación anticipada muestra una leve ventaja demócrata",
+     "resumen": "Hasta el 25 de octubre se habían emitido más de 4,6 millones de votos anticipados en todo el país, de los cuales el 54% corresponde a demócratas registrados frente a un 29% de republicanos. Pese a ello, los nuevos distritos electorales mantienen una leve ventaja republicana en el mapa nacional.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/washington/quien-va-ganando-las-midterms-2026-entre-republicanos-y-democratas-resultados-en-vivo-y-nuevos-nid25102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/I7KRACLPSVGNJEPO5FQQTMBO4M.jpg?auth=32543b6dce130e2103ff9f70bcfe48948d04f47750d621ab14e16842d540eefb&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:03",
+     "autor": "Vanessa Castillo",
+     "titulo_original": "Quién va ganando las midterms 2026 entre republicanos y demócratas: resultados en vivo y nuevos distritos por las elecciones en USA"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "los iraníes afrontan una angustiosa espera ante la inminente amenaza de un nuevo ataque",
+     "resumen": "Estados Unidos e Israel elaboraron planes para reanudar los ataques contra Irán, lo que generó un clima de temor entre los residentes, cansados tras ocho meses de guerra en la región.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/iranies-afrontan-angustiosa-espera-inminente-amenaza-ataque_0_27q3bibLZq.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/fOpDRama8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los iraníes afrontan una angustiosa espera ante la inminente amenaza de un ataque"
+    },
+    {
+     "id": "IB-08",
+     "titulo": "los Mossos d'Esquadra detuvieron a 130 personas por los disturbios en Barcelona",
+     "resumen": "La condena de los disturbios del fin de semana fue unánime en todo el arco político español, aunque persisten discrepancias sobre quién los instigó. Un grupo de jóvenes convocado por redes sociales provocó pillajes, enfrentamientos con la policía y daños al mobiliario urbano; el presidente Pedro Sánchez prometió cero tolerancia ante el vandalismo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/agencias/2026/10/26/unanimidad-al-condenar-los-disturbios-en-barcelona-pero-discrepancia-en-quien-los-instigo/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Unanimidad al condenar los disturbios en Barcelona pero discrepancia en quién los instigó"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "las constantes purgas de Xi Jinping allanan el camino para su próximo mandato en China",
+     "resumen": "El líder chino, que probablemente se prepara para asegurarse un cuarto mandato en el poder en 2027, se quejó de que no se puede confiar en los funcionarios, en medio de una seguidilla de remociones dentro del Partido Comunista.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/arrancar-arboles-enfermos-constantes-purgas-xi-allanan-camino-proximo-mandato_0_WT5afpFxxr.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/wI1MWpByz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "«Arrancar los árboles enfermos»: las constantes purgas de Xi allanan el camino para el próximo mandato"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-24",
+     "titulo": "el espectacular gol de chilena de Ronaldo Martínez que es candidato al mejor del Torneo Clausura",
+     "resumen": "Vélez goleó 5-0 a Central Córdoba en Santiago del Estero con una actuación sobresaliente del delantero paraguayo, autor de tres goles, uno de ellos de chilena. El triunfo clasificó de forma directa al equipo de Guillermo Barros Schelotto a los playoffs y lo dejó a dos puntos de Boca, líder de la tabla anual.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/26/el-espectacular-gol-de-chilena-de-ronaldo-martinez-que-es-candidato-al-mejor-del-torneo-clausura-creo-que-es-de-puskas/",
+     "imagen": "https://www.infobae.com/resizer/v2/R7NVKUYOCVDSFLEI4I2GJBRXQ4.jpg?auth=3abbb5a3bc2de47b62d1e1dd6acb15bdbf9e32deb1757c7f4724868bae94721e&smart=true&width=435&height=277",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:06",
+     "autor": "",
+     "titulo_original": "El espectacular gol de chilena de Ronaldo Martínez que es candidato al mejor del Torneo Clausura: “Creo que es de Puskás”"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "alerta en River por los arbitrajes en la previa del Superclásico",
+     "resumen": "Leonardo Ponzio y Ángel Correa expresaron su preocupación por las decisiones arbitrales después del triunfo ante Racing, a una semana del encuentro ante Boca. \"Contra nosotros van siempre al VAR\", se quejó el delantero.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/26/alerta-en-river-por-los-arbitrajes-en-la-previa-del-superclasico-contra-nosotros-van-siempre-al-var-y-hay-que-hacer-dos-goles-para-que-te-den-uno/",
+     "imagen": "https://www.infobae.com/resizer/v2/SBS6RS3WHZBO5PDHZGBAFQVGDU.jfif?auth=95305a501402fb4aa3137e79328344136dde6e57b311b96e8da3777742b29807&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:06",
+     "autor": "",
+     "titulo_original": "Alerta en River por los arbitrajes en la previa del Superclásico: “Contra nosotros van siempre al VAR” y “hay que hacer dos goles para que te den uno”"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Boca recibe a River el domingo 1° de noviembre por el Superclásico",
+     "resumen": "El Xeneize busca afirmarse en la tabla anual y podría consagrarse campeón ante su clásico rival en La Bombonera, en un partido que se jugará por la Liga Profesional.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/superclasico-2026-que-hora-juegan-boca-river-la-liga-profesional-este-domingo-1-noviembre-y-como-verlo-vivo-n6337892",
+     "imagen": "https://media.ambito.com/p/49e963a7b3eb30ba1f4206735dd3f672/adjuntos/239/imagenes/043/728/0043728151/1200x675/973x421:993x441/boca-river.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:39",
+     "autor": "",
+     "titulo_original": "Superclásico 2026: a qué hora juegan Boca - River por la Liga Profesional este domingo 1 de noviembre y cómo verlo en vivo"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "dos lesiones preocupan en los Pumas antes de los tests de noviembre",
+     "resumen": "Santiago Carreras sufrió una lesión en la rodilla y Thomas Gallo se operó de la muñeca; ambos fueron desafectados de la selección argentina de rugby, que ya está en Londres preparando el segundo tramo del Nations Championship ante Irlanda, Italia, Francia y un rival por definir.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/dos-lesiones-que-preocupan-carreras-y-gallo-fueron-desafectados-de-los-pumas-y-se-perderan-los-tests-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FSY4M4XDKNAW7CKUGVWJ7GIRJE.jpg?auth=acd19d5b62c047913f4c24043ca959dbb2fc812993c5f8e17743bfc5b1241479&smart=true&width=900&height=652",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:02",
+     "autor": "",
+     "titulo_original": "Dos lesiones que preocupan: Carreras y Gallo fueron desafectados de los Pumas y se perderán los tests de noviembre"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "una fractura expuesta dejó conmocionada a la NBA en el cierre de Thunder-Clippers",
+     "resumen": "Jalen Williams sufrió la fractura expuesta de la tibia izquierda cuando faltaba poco más de un minuto para el final del partido entre Oklahoma City Thunder y Los Angeles Clippers, en una de las peores lesiones que se recuerden en la liga.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/basquetbol/la-escalofriante-lesion-de-jalen-williams-en-el-cierre-del-partido-entre-oklahoma-city-thunder-y-los-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WDYUR3NKJRBLLF4MVKUHMIBLTM.png?auth=ae4984e8adee5c9f971984ca6e64339159789c2268726d6b56682a49fc251522&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:46",
+     "autor": "",
+     "titulo_original": "La escalofriante lesión de Jalen Williams en el cierre del partido entre Oklahoma City Thunder y Los Angeles Clippers"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Colapinto le respondió al presentador británico que lo había bromeado tras su abandono en Austin",
+     "resumen": "Franco Colapinto volvió a tener problemas en su Alpine y debió abandonar el Gran Premio de Estados Unidos tras un toque. Luego de la carrera, el piloto argentino le respondió al presentador Jeremy Clarkson y aclaró que sus dichos sobre una supuesta sanción no representan a la escudería, que había salido a respaldarlo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/26/la-respuesta-de-franco-colapinto-tras-la-burla-del-presentador-britanico-que-invito-alpine-al-gran-premio-de-eeuu-de-la-f1-no-tiene-nada-que-ver/",
+     "imagen": "https://www.infobae.com/resizer/v2/EB5DZ5N3KBCRFBNJRWXUWMLXHQ.jpg?auth=001d031384f714294b9901218855038a46b1fc606902e69e9e758b648e49f645&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:13",
+     "autor": "",
+     "titulo_original": "La respuesta de Franco Colapinto tras la burla del presentador británico que invitó Alpine al Gran Premio de EEUU de la F1: \"No tiene nada que ver\""
+    },
+    {
+     "id": "AM-18",
+     "titulo": "esta noche se entrega el Balón de Oro en Londres, con Messi entre los candidatos",
+     "resumen": "La gala de France Football se realiza por primera vez en The London Palladium desde las 17 horas de la Argentina y se puede ver únicamente por streaming a través de DAZN. Lionel Messi, Lamine Yamal, Harry Kane y Kylian Mbappé son los principales candidatos al premio.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/balon-oro-2026-que-hora-empieza-la-gala-argentina-y-como-seguirlo-vivo-este-lunes-26-octubre-n6337883",
+     "imagen": "https://media.ambito.com/p/9d0ba875749a543098ba73b349f24a15/adjuntos/239/imagenes/043/629/0043629006/1200x675/564x1236:584x1256/balon-oro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:27",
+     "autor": "",
+     "titulo_original": "Balón de Oro 2026: a qué hora empieza la gala en Argentina y cómo seguirlo en vivo este lunes 26 de octubre"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IB-26",
+     "titulo": "Rosario alcanzó el 97% de ocupación hotelera por el Turismo Carretera, el Festival Bandera y congresos",
+     "resumen": "Más de 120.000 personas llegaron a la ciudad entre el 19 y el 25 de octubre, según datos municipales, con un impacto económico estimado en más de 11.400 millones de pesos. El regreso del Turismo Carretera después de siete años fue uno de los principales convocantes de la agenda.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/26/rosario-alcanzo-el-97-de-ocupacion-hotelera-por-el-tc-festival-bandera-y-congresos/",
+     "imagen": "https://www.infobae.com/resizer/v2/SVZIWXQG2FFAXOLF2NFOVW54EM.jpeg?auth=4025398245b683892f95c801e385f58d179e62585fbc5032ddfdb874c009ae3d&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:00",
+     "autor": "",
+     "titulo_original": "Rosario alcanzó el 97 % de ocupación hotelera por el TC, Festival Bandera y congresos"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Busan, la ciudad surcoreana que busca convertirse en el nuevo polo turístico de Asia",
+     "resumen": "Obras en el frente marítimo, nuevos espacios culturales, conexiones aéreas y hoteles redefinen la proyección turística de la segunda ciudad de Corea del Sur, que conserva su actividad portuaria como pieza central de la economía local.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/26/la-ciudad-que-busca-convertirse-en-el-nuevo-polo-turistico-de-asia/",
+     "imagen": "https://www.infobae.com/resizer/v2/22OOAA57YRCT7FCWV3DNQYXF7Y.jpg?auth=2b8e40f9072309b08182cf38f4e21fc3eede5b88d0543ed242f65499f4c14ae2&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:21",
+     "autor": "Faustino Cuomo",
+     "titulo_original": "La ciudad que busca convertirse en el nuevo polo turístico de Asia"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "intro": "El fenómeno de El Niño sigue golpeando distintas regiones del país, con evacuaciones y cortes de rutas.",
+   "notas": [
+    {
+     "id": "IB-18",
+     "titulo": "El Niño aisló localidades en Neuquén y complicó la operación en Vaca Muerta",
+     "resumen": "Las intensas lluvias dañaron la infraestructura vial, aislaron a poblaciones rurales y complicaron la logística de la actividad hidrocarburífera. El gobernador Rolando Figueroa anunció que la provincia declarará la emergencia meteorológica por seis meses ante la previsión de nuevas precipitaciones.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/26/temporal-en-neuquen-el-nino-aislo-localidades-obligo-a-evacuar-familias-y-complico-las-operaciones-en-vaca-muerta/",
+     "imagen": "https://www.infobae.com/resizer/v2/EIDNSNEANJC2RD5XQ7OFPFE32U.jpg?auth=b7b3209b25d130451cf8e1a5567d6ac266aad39e978aca961485a888115e097a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:02",
+     "autor": "Francisco Poppe",
+     "titulo_original": "Temporal en Neuquén: El Niño aisló localidades, obligó a evacuar familias y complicó las operaciones en Vaca Muerta"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "una docena de familias podría quedar bajo el agua por las tormentas de El Niño en Mendoza",
+     "resumen": "Las viviendas están ubicadas dentro del dique colector Papagayos, en El Challao, donde ingenieros reclaman una reubicación urgente y alertan sobre el riesgo aluvional en el piedemonte mendocino ante las lluvias previstas para diciembre y enero.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/advierten-que-una-docena-de-familias-podria-quedar-bajo-el-agua-por-las-tormentas-de-el-nino-en-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AIXFCXC3YBFJZOND6XGCPTMKNY.jpg?auth=720660b0ba52dc5add6a92dd460016dea6c9fc43c9e3430bc0aa3f5b72b304ae&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:06",
+     "autor": "Pablo Mannino",
+     "titulo_original": "Advierten que una docena de familias podría quedar bajo el agua por las tormentas de El Niño en Mendoza"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "las Cataratas del Iguazú registran un caudal récord en 2026 y una de las pasarelas permanece cerrada",
+     "resumen": "El efecto de El Niño duplicó el promedio del río Iguazú en metros cúbicos por segundo. El Servicio Meteorológico Nacional anticipa que el fenómeno tendrá en el centro-este argentino una intensidad fuerte o muy fuerte en las próximas semanas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/efecto-nino-cataratas-caudal-record-2026-pasarelas-permanece-cerrada_0_JKeVmF63lL.html",
+     "imagen": "https://www.clarin.com/img/2026/10/14/E0v2OPyxz_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:09",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Efecto de El Niño en las cataratas: caudal récord en 2026 y una de las pasarelas permanece cerrada"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "el paso por Yacyretá sigue cerrado por el nivel del Paraná mientras la creciente vuelve al río Uruguay",
+     "resumen": "El cruce entre Ituzaingó, en Corrientes, y Ayolas, en Paraguay, permanecerá cerrado al menos hasta el viernes por las lluvias en las cuencas del norte. Misiones también tiene cortados los pasos fluviales hacia Paraguay por el río Paraná.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/26/el-nino-el-paso-por-yacyreta-continua-cerrado-por-el-nivel-del-parana-mientras-la-creciente-volvio-al-rio-uruguay/",
+     "imagen": "https://www.infobae.com/resizer/v2/XDXQGQNR4ZB6VAFFYYDI7LE4JY.jpg?auth=057d7dd515c62cf5c5fdc1eb3a2fc9f6ebc61835e89900538cfe51c29338c2aa&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:55",
+     "autor": "Juan A. Bracco",
+     "titulo_original": "El Niño: el paso por Yacyretá continúa cerrado por el nivel del Paraná mientras la creciente volvió al río Uruguay"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del lunes 26 de octubre. El impacto financiero de la reelección de Lula da Silva se profundizó durante la mañana. En el panel de indicadores, el dólar oficial cotiza en mil quinientos sesenta pesos, el dólar blue en mil quinientos sesenta y cinco, el oro cerró en cuatro mil treinta y siete dólares con cuarenta centavos la onza y el riesgo país argentino saltó, según distintas fuentes, a entre setecientos treinta y ocho y setecientos cuarenta y cinco puntos básicos.\n\nEn política, Javier Milei se asomó al balcón de la Casa Rosada para saludar a quienes pasaban por Plaza de Mayo, pero sigue sin reconocer oficialmente el triunfo de Lula; el Presidente encabeza este lunes la reunión de Gabinete y acumula más de dieciséis horas sin mensajes sobre el resultado brasileño. El Club Político Argentino repudió los dichos de Milei sobre quemar periodistas en la hoguera y reclamó que cesen los ataques a la prensa. En tribunales, se realizó este lunes la segunda audiencia del juicio a Cristina Kirchner por lavado de dinero en las causas Hotesur y Los Sauces. En el Congreso, La Libertad Avanza busca firmar esta semana el dictamen del Presupuesto dos mil veintisiete en Diputados, con la mira puesta en una sesión el dieciocho de noviembre, mientras el verdadero cuello de botella se anticipa en el Senado. Y Clarín contó que un buque uruguayo sigue uniendo Montevideo con las islas Malvinas todos los meses, esquivando las sanciones argentinas.\n\nEn economía y mercados, la Bolsa de San Pablo llegó a desplomarse dieciséis coma seis por ciento, después de suspenderse las operaciones ante una caída del diez por ciento, y el dólar llegó a trepar once por ciento en Brasil. Entre los papeles brasileños en Nueva York, Petrobras cayó más de veinte por ciento y Vale y Ambev también retrocedieron con fuerza. El contagio llegó al riesgo país argentino, que distintas fuentes ubicaron entre setecientos treinta y ocho y setecientos cuarenta y cinco puntos, mientras Mercado Libre se derrumbó hasta doce por ciento por su exposición al mercado brasileño. La soja, mientras tanto, tocó su valor más bajo en dos meses en la Bolsa de Chicago, presionada por la cosecha estadounidense y la devaluación del real. El petróleo aflojó levemente pero se mantiene cerca de sus máximos de seis meses por el riesgo geopolítico en Arabia Saudita. Después del traspié de Meta en Wall Street, esta semana presentan balance Alphabet, Microsoft y Amazon, en medio de las dudas sobre el retorno de las inversiones en inteligencia artificial. Y un informe de la Universidad de Buenos Aires mostró que el empleo privado lleva catorce meses consecutivos de caída, con nueve mil puestos de trabajo formales perdidos en julio, mientras otro relevamiento de iProfesional contó veintinueve mil empresas empleadoras menos que hace dos años.\n\nEn negocios y empresas, Granja Tres Arroyos acumula una deuda laboral de sesenta y dos mil cuatrocientos millones de pesos y mil doscientos cincuenta despidos ya ratificados, en medio de cautelares por un presunto vaciamiento. El Gobierno avanza con acuerdos con cámaras empresarias, entre ellas la Unión Industrial Argentina, y con plataformas como Mercado Libre y Meta, para reforzar los controles contra el contrabando y la venta de mercadería ilegal. Anthropic, la compañía detrás de Claude, presentó la documentación ante el regulador bursátil de Estados Unidos para empezar a cotizar en el Nasdaq, con una valuación buscada de dos billones de dólares que podría recaudar hasta cien mil millones en la operación. Y la forestal chilena Arauco evalúa desprenderse de parte de sus activos en el país mientras, en paralelo, invierte doscientos millones de dólares en una planta en Misiones.\n\nEn impuestos y normativa, el Gobierno reglamentó la reforma de la Zona Fría: el descuento automático en la factura de gas queda limitado a la Patagonia, Malargüe y la Puna, y el resto del país pasará a depender de un subsidio focalizado que deberá definir la Secretaría de Energía. ARCA también reglamentó la prórroga del Fondo de Asistencia Laboral, que entrará en vigencia el primero de diciembre con un período de carencia que se extendió de seis a doce meses. En el sistema de Riesgos del Trabajo, la litigiosidad ya absorbe cerca del cuarenta y cinco por ciento de la prima, con medio millón de juicios acumulados y una proyección de ciento cuarenta mil nuevos litigios este año. Un informe mostró además que más de la mitad de los ocupados no hace aportes jubilatorios, lo que debilita aún más el financiamiento del sistema previsional. Y los trabajadores de Claro, Movistar y Telecom acordaron un aumento del tres coma sesenta por ciento sobre los salarios básicos de octubre y noviembre.\n\nEn consumo y construcción, Diarco cerró otra sucursal, la cuarta baja en dos meses, en un mercado golpeado por la caída del consumo; y un informe de iProfesional mostró que los alimentos básicos pierden terreno frente a los autoservicios chinos, que ganan participación frente a cadenas y almacenes tradicionales. En la Ciudad de Buenos Aires, a partir de dos mil veintisiete se reducirá el cargo por plusvalía urbana que pagan los desarrollos inmobiliarios, al tomarse solo el setenta por ciento del valor del suelo. En Pilar, una desarrolladora del Grupo Werthein avanza con un proyecto de departamentos y dúplex premium que compite con los countries de la zona.\n\nEn el mundo, Lula profesionalizará su gabinete para el cuarto mandato y buscará fortalecer el ala liberal, con los nombres de Luiz Carlos Trabuco Cappi y del vicepresidente Geraldo Alckmin sonando para Hacienda. El presidente ruso Vladimir Putin felicitó a Lula y destacó su aporte a los lazos entre Rusia y Brasil. En Estados Unidos, a nueve días de las elecciones de medio término, la votación anticipada muestra una ventaja demócrata entre quienes ya votaron, aunque el mapa de distritos mantiene una leve ventaja republicana. En Medio Oriente, los iraníes afrontan una angustiosa espera ante la posibilidad de que Estados Unidos e Israel reanuden los ataques contra el país. En España, los Mossos d'Esquadra detuvieron a ciento treinta personas por los disturbios del fin de semana en Barcelona. Y en China, las constantes purgas de funcionarios por parte de Xi Jinping allanan el camino para un probable cuarto mandato en dos mil veintisiete.\n\nEn deportes, Vélez goleó cinco a cero a Central Córdoba con tres goles de Ronaldo Martínez, uno de ellos de chilena, y clasificó de forma directa a los playoffs del Clausura. En River, Leonardo Ponzio y Ángel Correa expresaron su preocupación por los arbitrajes a una semana del Superclásico, que se jugará el domingo primero de noviembre en la Bombonera. En los Pumas, Santiago Carreras y Thomas Gallo fueron desafectados por lesiones y se perderán los tests de noviembre en Europa. En la NBA, Jalen Williams sufrió una grave fractura expuesta en el cierre del partido entre Oklahoma City Thunder y Los Angeles Clippers. Franco Colapinto, que debió abandonar el Gran Premio de Estados Unidos tras un toque, le respondió al presentador británico Jeremy Clarkson después de que este se burlara de él, y aclaró que sus dichos no representan a la escudería Alpine. Y esta noche, desde las cinco de la tarde, se entrega el Balón de Oro en Londres, con Lionel Messi entre los principales candidatos junto a Lamine Yamal, Harry Kane y Kylian Mbappé.\n\nEn turismo, Rosario alcanzó el noventa y siete por ciento de ocupación hotelera el fin de semana pasado gracias al regreso del Turismo Carretera después de siete años, el Festival Bandera y varios congresos, con más de ciento veinte mil visitantes y un impacto económico estimado en once mil cuatrocientos millones de pesos. Y en Asia, la ciudad surcoreana de Busan avanza con una reconversión urbana de su frente marítimo para consolidarse como un nuevo polo turístico de la región.\n\nY en sociedad, el fenómeno de El Niño sigue golpeando al país: en Neuquén aisló localidades y complicó la operación en Vaca Muerta, con la provincia por declarar la emergencia meteorológica por seis meses; en Mendoza, una docena de familias podría quedar bajo el agua por las tormentas previstas en el dique colector Papagayos; en Misiones, las Cataratas del Iguazú registran un caudal récord con una de las pasarelas cerrada; y el paso fronterizo de Yacyretá hacia Paraguay sigue cerrado por el nivel del río Paraná.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Le Grand Continent no publicó notas en esta ventana, por lo que se omitió la sección Europa y geopolítica. No hubo referencias al Club Atlético Tigre en esta corrida. El riesgo país se citó según distintas fuentes porque Clarín, La Nación y El Cronista dieron valores levemente distintos (738 y 745 puntos) en la misma mañana.",
+ "slug": "2026-10-26-mediodia",
+ "generado_ba": "26/10/2026 15:15"
+}
