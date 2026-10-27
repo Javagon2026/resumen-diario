@@ -1,0 +1,985 @@
+{
+ "fecha": "2026-10-27",
+ "edicion": "manana",
+ "titulo": "Tras el triunfo de Lula sube el riesgo país y el Gobierno negocia Malvinas",
+ "apertura": "El triunfo de Luiz Inácio Lula da Silva en el balotaje brasileño sacudió a los mercados argentinos: el riesgo país trepó a 765 puntos, el Merval y los ADR se desplomaron y el Banco Central cortó una racha de 19 ruedas de compras. En el plano político, Javier Milei evita pronunciarse sobre la elección brasileña mientras el oficialismo negocia cambios a la ley de Malvinas y posterga el debate del Presupuesto. En la agenda económica empieza a implementarse el Fondo de Asistencia Laboral para empresas y, en el mundo, Israel vota hoy para definir la continuidad de Benjamin Netanyahu.",
+ "claves": [
+  "El riesgo país argentino trepó a 765 puntos y el MSCI Merval cayó 4,9% en dólares tras el triunfo de Lula en el balotaje de Brasil.",
+  "El dólar oficial subió a 1.560 pesos, el BCRA cortó una racha de 19 ruedas de compras y el Tesoro vendió 100 millones de dólares para contener la cotización.",
+  "El oficialismo negocia cambios a la ley de Defensa de la Soberanía Nacional sobre Malvinas para lograr dictamen esta semana, mientras el debate del Presupuesto se posterga hasta mediados de noviembre.",
+  "El Gobierno aprobó dentro del RIGI el proyecto minero Agua Rica en Catamarca, con una inversión prevista de más de 6.300 millones de dólares.",
+  "Javier Milei no se pronunció sobre el triunfo de Lula y Patricia Bullrich evitó la reunión de Gabinete, en medio de tensiones dentro de la coalición oficialista.",
+  "Entra en implementación el Fondo de Asistencia Laboral (FAL), un nuevo instrumento para que las empresas administren sus pasivos por indemnizaciones.",
+  "Israel vota hoy en elecciones parlamentarias que definen la continuidad de Benjamin Netanyahu como primer ministro.",
+  "El papa León XIV visitará la Argentina del 8 al 11 de noviembre, dentro de una gira que también incluye Uruguay y Perú."
+ ],
+ "cifras": [
+  {
+   "nombre": "MSCI Merval (en dólares)",
+   "valor": "US$ 59",
+   "variacion": "-4,9%",
+   "fuente": "CR-04"
+  },
+  {
+   "nombre": "Contado con liquidación (CCL)",
+   "valor": "$ 1.682",
+   "variacion": "+1,8%",
+   "fuente": "CR-16"
+  },
+  {
+   "nombre": "Salario pretendido promedio (Bumeran)",
+   "valor": "$ 1.948.059",
+   "variacion": "+1,16% mensual",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Índice de Confianza en el Gobierno (UTDT)",
+   "valor": "1,95 puntos",
+   "variacion": "+0,9% mensual",
+   "fuente": "CR-24"
+  },
+  {
+   "nombre": "Turismo receptivo (septiembre)",
+   "valor": "+15,3% interanual",
+   "fuente": "LN-09"
+  },
+  {
+   "nombre": "Licitación de deuda en pesos",
+   "valor": "$ 10,9 billones a renovar",
+   "fuente": "CR-25"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-17",
+     "titulo": "el oficialismo acota las sanciones de la ley Malvinas tras reparos de Estados Unidos",
+     "resumen": "Un borrador de dictamen al que accedió El Cronista excluye de las sanciones a accionistas minoritarios y fondos pasivos, preserva contratos vigentes con empresas sancionadas y habilita la ejecución de laudos extranjeros. También mantiene en manos del Presidente la decisión de derribar aviones o hundir buques sin autorización previa del Congreso, uno de los puntos más resistidos por los aliados.",
+     "relacionadas": [
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Malvinas: el Gobierno aceptó limitar las prohibiciones a empresas que operan en las islas y reformuló el polémico delito de “desinformación masiva”",
+       "url": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-acepto-limitar-las-prohibiciones-a-empresas-que-operan-en-las-islas-y-reformulo-nid26102026/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-oficialismo-acota-las-sanciones-de-la-ley-malvinas-tras-los-reparos-de-eeuu-los-cambios-que-se-negocian/",
+     "imagen": "https://www.cronista.com/resizer/v2/3HNS7T4FTVFKTLC5XXBI342I5E.jpg?auth=8ea3c6b7e5e4540d37b8f204719d5e2585da58683aaa93fe1e3c4cf2678d2a43&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:27",
+     "autor": "Daniela Romero",
+     "titulo_original": "El oficialismo acota las sanciones de la Ley Malvinas tras los reparos de EE.UU.: los cambios que se negocian"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "sin acuerdo con los aliados, se posterga el debate del Presupuesto",
+     "resumen": "La Libertad Avanza pretendía dictaminar esta semana, pero las diferencias con los bloques dialoguistas obligan a extender las negociaciones y el oficialismo posterga el dictamen hasta mediados de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/acuerdo-aliados-dilata-debate-presupuesto-oficialismo-posterga-dictamen-mediados-noviembre_0_5859ypa0TE.html",
+     "imagen": "https://www.clarin.com/img/2026/06/10/7y5vMB8oQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:58",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sin acuerdo con los aliados, se dilata el debate por el Presupuesto y el oficialismo posterga el dictamen hasta mediados de noviembre"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Milei mantiene silencio sobre el triunfo de Lula y crece la tensión con Bullrich",
+     "resumen": "Javier Milei no hizo ninguna alusión al triunfo de Lula sobre Flávio Bolsonaro ni ordenó un comunicado a la Cancillería, pese a que fue el único presidente sudamericano que no felicitó al ganador. En paralelo, Patricia Bullrich criticó la escalada del Presidente contra el periodismo y no participó de la reunión de Gabinete del inicio de semana, en un cambio de foco de la interna del oficialismo.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La interna del oficialismo cambia de foco y de terreno: tensión con Patricia Bullrich en el acelerado camino electoral",
+       "url": "https://www.infobae.com/politica/2026/10/27/la-interna-del-oficialismo-cambia-de-foco-y-de-terreno-tension-con-patricia-bullrich-en-el-acelerado-camino-electoral/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/milei-sigue-sin-pronunciarse-sobre-las-elecciones-de-brasil-el-contraste-con-la-primera-vuelta-y-el-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KUKVRQN5FRCX7OTHMRYQHUGGSI.jpg?auth=c13580e7aa794a9640a986ff1bdf2bc26c053bceff5c411a74e38ab586790b7b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:01",
+     "autor": "Cecilia Devanna",
+     "titulo_original": "Milei sigue sin pronunciarse sobre las elecciones de Brasil: el contraste con la primera vuelta y el forzado hermetismo en la Casa Rosada"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "un senador de La Rioja volvió al bloque del PJ que reclama bancas en el Consejo de la Magistratura",
+     "resumen": "Fernando Rejal regresó al bloque del PJ en el Senado, que con su incorporación suma 22 legisladores, uno más que el oficialismo. El cambio es relevante porque a la primera minoría de la Cámara le corresponden dos consejeros en el Consejo de la Magistratura.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/senador-rioja-regreso-bloque-pj-reclama-bancas-consejo-magistratura_0_00Va51T1bf.html",
+     "imagen": "https://www.clarin.com/img/2026/08/18/WH1_hmwlg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un senador de La Rioja regresó al bloque del PJ, que reclama dos bancas en el Consejo de la Magistratura"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "el Gobierno impulsa el ascenso de un hermano del ministro de Justicia en la carrera diplomática",
+     "resumen": "El Poder Ejecutivo envió al Senado el pedido de ascenso de Esteban Mahiques, hermano del ministro de Justicia Juan Bautista Mahiques, a la categoría de ministro plenipotenciario de segunda clase. El expediente debe tomar estado parlamentario y pasar por la Comisión de Acuerdos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-impulsa-en-el-senado-el-ascenso-de-un-hermano-del-ministro-de-justicia-en-la-carrera-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VGXFXFAIFRHTBB6Q4WUJZEB7EQ.JPG?auth=58de244cdd2c08c31db945d14f5392da749bf39eb9be5e08b1d3a715b3feb8ca&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:46",
+     "autor": "",
+     "titulo_original": "El Gobierno impulsa en el Senado el ascenso de un hermano del ministro de Justicia en la carrera diplomática"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Amnistía Internacional llevará a la CIDH y la ONU los ataques de Milei contra periodistas",
+     "resumen": "La organización denunciará ante organismos internacionales la escalada de hostilidad del Presidente contra periodistas por el caso dólar Libra, incluida la frase sobre \"quemar en la hoguera\" a sus críticos. Advirtió además sobre el deterioro de la libertad de expresión y el riesgo de autocensura.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/amnistia-internacional-llevara-la-cidh-y-la-onu-los-ataques-milei-contra-periodistas-el-caso-libra-n6338056",
+     "imagen": "https://media.ambito.com/p/3fc19ef409403774aa50afca5f06759d/adjuntos/239/imagenes/043/338/0043338989/javier-milei-ataque-prensa.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:19",
+     "autor": "",
+     "titulo_original": "Amnistía Internacional llevará a la CIDH y la ONU los ataques de Milei contra periodistas por el caso $LIBRA"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "el papa León XIV visitará la Argentina del 8 al 11 de noviembre",
+     "resumen": "El Vaticano confirmó que León XIV viajará a la Argentina dentro de una gira que también incluye Uruguay y Perú, tras descartar tratamientos oncológicos adicionales luego de su cirugía de pulmón del 13 de octubre. El Papa se reunirá con Milei en Casa Rosada, visitará Córdoba y cerrará su estadía con una misa en Luján; una delegación del Vaticano llegará antes a La Matanza para reunirse con movimientos sociales.",
+     "relacionadas": [
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Una delegación del Vaticano llega a La Matanza para reunirse con movimientos sociales antes de la visita de León XIV",
+       "url": "https://www.ambito.com/politica/una-delegacion-del-vaticano-llega-la-matanza-reunirse-movimientos-sociales-antes-la-visita-leon-xiv-n6338130"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/27/los-movimientos-de-la-region-y-enviados-del-vaticano-peregrinaran-en-la-matanza-y-entregaran-un-documento-a-leon-xiv/",
+     "imagen": "https://www.infobae.com/resizer/v2/OWZRY4UW5FFGJPLGN3W35M3KAU.jpg?auth=728989d88fd5e523b1b0464851ca0b58c7eb7c0e6baa6074e5dcfd87e1a7a546&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:18",
+     "autor": "Andrés Klipphan",
+     "titulo_original": "Los movimientos de la región y enviados del Vaticano peregrinarán en La Matanza y entregarán un documento a León XIV"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "el triunfo de Lula dispara el riesgo país y hunde a los bonos y acciones argentinas",
+     "resumen": "El riesgo país trepó 8,2% hasta los 765 puntos tras la victoria de Lula en Brasil, y los ADR argentinos cayeron hasta 8,5% mientras el MSCI Merval bajó 4,9% en dólares, hasta los 59 dólares. Entre los bonos soberanos, el Global 2035 lideró las caídas con un retroceso de 2,94%, seguido por el título que vence en 2038, con una baja de 2,77%.",
+     "relacionadas": [
+      {
+       "id": "CR-26",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El riesgo país subió 765 puntos y los ADR cayeron hasta 8% tras las elecciones en Brasil",
+       "url": "https://www.cronista.com/finanzas-mercados/caen-las-acciones-argentinas-y-los-bonos-en-wall-street-arrastradas-por-el-desplome-de-brasil/"
+      },
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La City advierte a inversores que se preparen para más días movidos por efecto Brasil",
+       "url": "https://www.iprofesional.com/finanzas/467531-la-city-advierte-a-inversores-por-mas-dias-movidos-por-efecto-brasil"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/efecto-caipirinha-dispara-al-riesgo-pais-y-adelanta-el-trade-electoral-en-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/KXVFDESCJRGPHAHBTAMHCPAFPM.png?auth=c03020a26b6237fa4a0bdeabf3f99f5921f2f4229b4c85c89db88b5cd16ab290&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "Las elecciones en Brasil disparan el riesgo país y adelantan el trade electoral en Argentina"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "el derrumbe del real obliga a Caputo a elegir entre ancla cambiaria o devaluar",
+     "resumen": "La devaluación del real brasileño implica una pérdida de competitividad para la economía argentina. El Banco Central acotó la suba del dólar oficial pero lo dejó deslizar, en una jornada de fuerte demanda de cobertura.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Efecto Brasil: el BCRA cortó una racha de 19 ruedas con compras ante la mayor presión cambiaria",
+       "url": "https://www.ambito.com/finanzas/efecto-brasil-el-bcra-corto-una-racha-19-ruedas-compras-la-mayor-presion-cambiaria-n6338113"
+      },
+      {
+       "id": "IP-25",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El dólar mayorista trepó más de $10 y alcanzó un nuevo récord tras el triunfo de Lula",
+       "url": "https://www.iprofesional.com/finanzas/467506-el-dolar-mayorista-trepo-mas-de-10-y-alcanzo-un-nuevo-record-tras-el-triunfo-de-lula"
+      }
+     ],
+     "url": "https://www.iprofesional.com/economia/467522-derrumbe-del-real-en-brasil-obliga-a-caputo-a-elegir-que-hacer-con-el-dolar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628433.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:00",
+     "autor": "",
+     "titulo_original": "Derrumbe del real en Brasil obliga a Caputo a elegir entre ancla cambiaria o devaluar"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "el Tesoro vendió 100 millones de dólares para evitar una disparada del dólar oficial",
+     "resumen": "El contado con liquidación se disparó 1,8% hasta los 1.682 pesos y el mayorista subió 0,75% a 1.541 pesos, llevando la brecha al 9%. Ante la imposibilidad del Banco Central de comprar divisas, el Tesoro debió vender 100 millones de dólares para evitar que la suba del oficial se traslade a la inflación.",
+     "relacionadas": [
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar hoy: a cuánto cotiza este martes 27 de octubre",
+       "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-martes-27-octubre-n6338213"
+      },
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar blue hoy: a cuánto opera este martes 27 de octubre",
+       "url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-martes-27-octubre-n6338214"
+      },
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El BCRA cortó racha de compras y el Tesoro vendió u$s100 millones para contener el dólar",
+       "url": "https://www.iprofesional.com/finanzas/467534-el-bcra-corto-racha-de-compras-y-el-tesoro-vendio-100-millones-dolares-para-contener-el-dolar"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-tesoro-vendio-us-100-millones-para-evitar-una-disparada-del-dolar/",
+     "imagen": "https://www.cronista.com/resizer/v2/OIX7IFNXMNFEXHQSJBIJBGYJ5I.jpg?auth=dd0729ce97cbb497f414bb3bfa3d0cac53cd0b5db011313e7e2e127389ba3d80&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:28",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "El Tesoro vendió u$s 100 millones para evitar una disparada del dólar"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "la confianza en el Gobierno frena su caída pero no logra consolidar una recuperación",
+     "resumen": "El Índice de Confianza en el Gobierno que elabora la Universidad Torcuato Di Tella subió 0,9% en octubre y se ubicó en 1,95 puntos, aunque acumula una caída de más del 20% desde fines de 2025. El movimiento de subas y bajas moderadas se repite desde abril sin una tendencia definida.",
+     "relacionadas": [
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La confianza en el Gobierno se mantuvo casi estancada en octubre: desde fines de 2025 se hundió más de 20%",
+       "url": "https://www.ambito.com/economia/la-confianza-el-gobierno-se-mantuvo-casi-estancada-octubre-fines-2025-se-hundio-mas-20-n6338153"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-confianza-en-el-gobierno-en-modo-serrucho-freno-su-caida-en-octubre-pero-no-logra-consolidar-una-recuperacion/",
+     "imagen": "https://www.cronista.com/resizer/v2/ACJGLDLSKZAFXJP24R2QSSASCM.jpg?auth=a87fd5fdf55aed57a5b4ac19562603e8f4fce4e126aee0c13090358eb6686f27&smart=true&width=900&height=505",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:30",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "La confianza en el Gobierno en modo serrucho: frenó su caída en octubre, pero no logra consolidar una recuperación"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "el Gobierno buscará renovar más de 10,9 billones de pesos en la licitación del miércoles",
+     "resumen": "En una jornada marcada por el impacto bursátil de las elecciones en Brasil, el ministro de Economía Luis Caputo anunció el menú de instrumentos que ofrecerá el Tesoro: una nueva Lecap a febrero de 2027, dos bonos CER y un título que ajusta por Tamar. De los 10,9 billones de pesos a renovar, 9,76 billones estarían en manos privadas.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Deuda: Economía va por la renovación de casi $11 billones con posible \"viento de frente\"",
+       "url": "https://www.ambito.com/finanzas/deuda-economia-va-la-renovacion-casi-11-billones-posible-viento-frente-n6338165"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/caputo-buscara-renovar-mas-de-10-billones-cuales-son-los-bonos-que-ofrece-al-mercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/HQDRD2ORINFFDJGQVDIDFT6ONE.jpg?auth=db60b9f1d7910a0f7748b6a446da4551159286f1fc87284f66e38c541a0f369a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:17",
+     "autor": "Leandro Dario",
+     "titulo_original": "El Gobierno buscará renovar más de $ 10 billones: cuáles son los bonos que ofrece al mercado"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "qué recomiendan hacer con los CEDEAR de empresas brasileñas tras el derrumbe",
+     "resumen": "El triunfo de Lula sacudió la Bolsa de Brasil y puso bajo presión a los CEDEAR de compañías brasileñas que cotizan en la City porteña, mientras los analistas evalúan riesgos y oportunidades de corto plazo. Para una empresa: la volatilidad regional obliga a monitorear de cerca el tipo de cambio y el costo de financiamiento en los próximos días.",
+     "url": "https://www.iprofesional.com/finanzas/467527-que-hacer-con-cedears-de-empresas-brasilenas-tras-derrumbe",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628311.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:00",
+     "autor": "",
+     "titulo_original": "Qué recomiendan hacer con los CEDEARs de empresas brasileñas tras el derrumbe",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-16",
+     "titulo": "el Gobierno aprobó dentro del RIGI el proyecto minero Agua Rica en Catamarca",
+     "resumen": "La medida fue oficializada mediante una resolución del Ministerio de Economía que dispone el ingreso del proyecto Agua Rica al régimen de incentivos, con una inversión total prevista de más de 6.300 millones de dólares. El proyecto contempla la explotación de cobre, oro, plata y molibdeno con una vida útil de 23 años, y se conoce después de que el Gobierno lo anunciara en Francia junto al CEO de Glencore, Gary Nagle.",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei viaja a Catamarca: visita a proyectos mineros y encuentro con la militancia",
+       "url": "https://www.ambito.com/ambito-nacional/javier-milei-viaja-catamarca-visita-proyectos-mineros-y-encuentro-la-militancia-n6338107"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/gobierno-aprobo-proyecto-minero-dentro-rigi-preve-inversion-total-us-6300-millones-catamarca_0_XivSwdxGAw.html",
+     "imagen": "https://www.clarin.com/img/2026/10/27/GS-SPX4Pq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "03:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno aprobó un proyecto minero dentro del RIGI: prevé una inversión total por más de US$ 6.300 millones en Catamarca"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "Pampa Energía busca 300 millones de dólares para invertir en Vaca Muerta",
+     "resumen": "El grupo energético regresa al mercado de capitales para financiar inversiones como prioridad, mientras despliega proyectos por 7.200 millones de dólares en la cuenca neuquina.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467521-pampa-energia-busca-300-millones-dolares-para-invertir-en-vaca-muerta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/03/592609.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:14",
+     "autor": "",
+     "titulo_original": "Pampa Energía busca 300 millones de dólares para invertir en Vaca Muerta"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "Camuzzi completó una obra de 40 millones de dólares para abastecer de gas a 25 localidades patagónicas",
+     "resumen": "La compañía finalizó la obra de interconexión y nuevas plantas para garantizar el suministro de gas natural a 125.000 usuarios de la Patagonia.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/467515-camuzzi-completo-una-obra-de-40-millones-dolares-para-abastecer-de-gas-a-25-localidades",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628421.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:50",
+     "autor": "",
+     "titulo_original": "Camuzzi completó una obra de u$s40 millones para abastecer de gas a 25 localidades"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "la AOG Patagonia 2026 dejó anuncios millonarios y negociaciones clave para Vaca Muerta",
+     "resumen": "El encuentro petrolero tuvo cruces políticos y anuncios de inversión: Milei defendió el RIGI, el CEO de YPF Horacio Marín anticipó próximos hitos de la compañía y el embajador de Estados Unidos, Peter Lamelas, condicionó una ayuda de 20.000 millones de dólares. También se debatió la disputa por el agua y su reúso en la actividad shale.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/charlas-quincho-parte-ii-aog-patagonia-2026-horacio-marin-derrocha-amor-jorge-sapag-cuenta-el-shale-y-asoma-el-fantasma-del-flowback-n6338182",
+     "imagen": "https://media.ambito.com/p/cedc4be3edb697cbe2a2795e9cd75c91/adjuntos/239/imagenes/043/730/0043730501/1200x675/smart/charlas-27-10-26-c.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Charlas de Quincho Parte II: AOG Patagonia 2026, Horacio Marín derrocha amor, Jorge Sapag cuenta el shale y asoma el fantasma del flowback"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Moolec Science aprobó su liquidación voluntaria tras perder el control de Bioceres",
+     "resumen": "La decisión fue respaldada por el 98,4% de los votos de los accionistas en una asamblea extraordinaria del 20 de octubre, después de que la empresa quedara sin acceso a las fuentes de financiamiento que sostenían al grupo. El proceso de liquidación se conducirá bajo la legislación de las Islas Caimán, donde está constituida la compañía.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/nuevas-esquirlas-de-la-caida-de-bioceres-su-exduena-quedo-sin-financiamiento-y-va-por-la-solucion-en-paraiso-offshore/",
+     "imagen": "https://www.cronista.com/resizer/v2/6FVM6IPS35APJL4HZ3GOB4AQMA.png?auth=24bf93d2394450b833a5f9cf6e0506fa00059538600c7904f9d1aa9442cc0bda&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Nuevas esquirlas de la caída de Bioceres: su exdueña quedó sin financiamiento y va por la “solución” en paraíso offshore"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "nuevos cuestionamientos por la privatización de AySA y dudas sobre el futuro de las obras",
+     "resumen": "Una audiencia convocada por el Ente Regulador de Agua y Saneamiento incluyó críticas al proceso de privatización iniciado por el Gobierno nacional, en medio de incertidumbre sobre la continuidad de las obras de la empresa.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/nuevos-cuestionamientos-la-privatizacion-aysa-e-incertidumbre-el-futuro-las-obras-n6338149",
+     "imagen": "https://media.ambito.com/p/02e6c7385ccb2e13a517a40714c42aba/adjuntos/239/imagenes/043/630/0043630196/1200x675/smart/aysa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:54",
+     "autor": "",
+     "titulo_original": "Nuevos cuestionamientos por la privatización de AySA e incertidumbre por el futuro de las obras"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-11",
+     "titulo": "moratoria de ARBA: qué impuestos entran y cómo acceder al descuento",
+     "resumen": "El organismo bonaerense lanzó un plan especial para regularizar deudas tributarias, con distintas fases, beneficios de descuento y una fecha límite para adherir. Para una empresa: conviene revisar deudas de Ingresos Brutos y otros tributos provinciales antes del vencimiento del plan.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467492-moratoria-de-arba-que-impuestos-entran-y-como-acceder-al-descuento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628408.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:00",
+     "autor": "",
+     "titulo_original": "Moratoria de ARBA: qué impuestos entran y cómo acceder al descuento"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "Monotributo: cómo regularizar las deudas con ARCA pagando en hasta 20 cuotas",
+     "resumen": "Los contribuyentes con cuotas impagas pueden consultar el saldo, calcular intereses y acceder a planes de pago de hasta 20 cuotas a través de ARCA.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467393-monotributo-como-regularizar-deudas-con-arca-y-evitar-baja-regimen-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/11/587856.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:11",
+     "autor": "",
+     "titulo_original": "Monotributo: cómo regularizar las deudas con ARCA pagando en hasta 20 cuotas"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "el Gobierno definió cómo se aplicará el nuevo Régimen de Zona Fría",
+     "resumen": "La Secretaría de Energía fijó, mediante la Resolución 299/2026, bonificaciones de 50% sobre el precio del gas para las zonas incluidas en el régimen específico y de 20% para hogares del Régimen de Subsidios Energéticos Focalizados. El esquema conserva beneficios para la Patagonia, Malargüe y la Puna, tras la reglamentación de la Ley 27.828.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/27/el-gobierno-definio-como-se-aplicaran-el-nuevo-regimen-de-zona-fria-descuentos-de-50-y-20-sobre-el-precio-del-gas/",
+     "imagen": "https://www.infobae.com/resizer/v2/O3HXGY37JZB3RODPNQF2LZD4NY.png?auth=b1ede44353192e120847312765bdc49e4d55f06ad662dbc22f47374db299824e&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:05",
+     "autor": "",
+     "titulo_original": "El Gobierno definió cómo se aplicarán el nuevo Régimen de Zona Fría: descuentos de 50% y 20% sobre el precio del gas"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "el Gobierno declaró la emergencia agropecuaria por inundaciones en dos partidos bonaerenses",
+     "resumen": "La resolución 1850/2026, firmada por el ministro de Economía Luis Caputo, declaró el estado de emergencia y/o desastre agropecuario en el partido de 9 de Julio y en cuatro circunscripciones de Necochea, para el período entre el 1 de mayo y el 31 de octubre. La medida habilita beneficios previstos en la legislación vigente para las explotaciones afectadas. Para una empresa: los plazos impositivos y de obligaciones previsionales de los establecimientos alcanzados pueden prorrogarse mientras dure la emergencia.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/el-gobierno-declaro-la-emergencia-agropecuaria-por-inundaciones-en-dos-partidos-bonaerenses-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/6CL57ZOPVNB2XHPN66XONXSOAQ.jpg?auth=69178a1d1e427a5e620dcf7455b41e9006bb49aef6fa97c770b7d26c96c3bdf5&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:58",
+     "autor": "",
+     "titulo_original": "El Gobierno declaró la emergencia agropecuaria por inundaciones en dos partidos bonaerenses"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-19",
+     "titulo": "DeWALT suma ropa de trabajo en Argentina y apunta a la minería",
+     "resumen": "La marca de herramientas sumó una línea de indumentaria y protección personal en el país, con su licenciataria apuntando a abastecer a los sectores de minería y energía. Para una empresa de materiales de construcción, es una señal del crecimiento de la demanda de insumos y equipamiento ligada a la expansión minera y energética.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/466810-marca-de-herramientas-vendera-ropa-de-trabajo-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627763.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:01",
+     "autor": "",
+     "titulo_original": "DeWALT, la marca de herramientas, suma ropa de trabajo en Argentina y apunta a la minería"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "DIA mejora ventas pero sigue buscando comprador para sus locales en Argentina",
+     "resumen": "La cadena de supermercados incrementó sus negocios en el mercado doméstico, pero continúa sondeando compradores para una filial que redujo la cantidad de locales y todavía pierde volumen.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467517-dia-mejora-ventas-pero-sigue-buscando-comprador-para-sus-locales-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614577.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:08",
+     "autor": "",
+     "titulo_original": "DIA mejora ventas, pero sigue buscando comprador para sus locales en Argentina"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "se despide la Ley de Alquileres con 12.000 contratos que vencen y así está hoy el mercado",
+     "resumen": "En la Ciudad de Buenos Aires la oferta de alquileres roza los 18.000 departamentos, una cifra que se multiplicó tras el DNU 70/2023 que derogó la ley anterior. Pese a la mayor oferta, los precios y los gastos de ingreso todavía dificultan el acceso a un alquiler.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467157-vencen-12000-contratos-de-la-ley-de-alquileres-como-esta-hoy-el-mercado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/586335.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "Se despide la Ley de Alquileres con 12.000 contratos que vencen y así está hoy el mercado"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Saavedra, el barrio que vive un despegue inmobiliario con suba de precios",
+     "resumen": "El barrio porteño, rodeado de espacios verdes y bien conectado, atrae a compradores que buscan alejarse del ritmo de zonas más concurridas como Palermo sin resignar conectividad ni propuestas gastronómicas, en un contexto de suba de precios de sus propiedades.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/saavedra-bajo-la-lupa-cuanto-cuesta-comprar-un-dos-ambientes-en-octubre-2026-y-por-que-atrae-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WRZXVIZZWNB5FLZGCC6XEO4QAQ.JPG?auth=de7dbe87542b842fd41eaea966e9d14bf92d8805d23bfcab274e726a1c365665&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:06",
+     "autor": "",
+     "titulo_original": "Saavedra, bajo la lupa: cuánto cuesta comprar un dos ambientes en octubre 2026 y por qué atrae compradores"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "qué busca hoy el comprador de departamentos en CABA, más allá del barrio y los metros",
+     "resumen": "Un relevamiento de la plataforma Roomix muestra que los compradores de departamentos priorizan contar con balcones y cocheras, mientras rechazan unidades con expensas altas vinculadas a amenities.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/466234-que-buscan-los-compradores-de-departamentos-en-caba-y-por-que",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/08/541362.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "Qué busca hoy el comprador de departamentos en CABA, más allá del barrio y los metros"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "cuánto gana un cajero de Coto y Carrefour en noviembre y qué adicionales pueden sumar",
+     "resumen": "Los salarios de los empleados de supermercados varían según la categoría y pueden incrementarse con sumas fijas, presentismo y antigüedad, de acuerdo a los convenios vigentes para el sector.",
+     "url": "https://www.iprofesional.com/economia/467528-cuanto-gana-un-cajero-de-coto-y-carrefour-en-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627929.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:07",
+     "autor": "",
+     "titulo_original": "Cuánto gana un cajero de Coto y Carrefour en noviembre y qué adicionales pueden sumar",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "el nuevo Fondo de Asistencia Laboral cambia la forma de administrar los pasivos laborales",
+     "resumen": "El FAL permite a las empresas administrar sus pasivos laborales con mayor previsibilidad y podría movilizar hasta 10.000 millones de dólares en cinco años, según detalló un ejecutivo de BBVA Argentina en un encuentro de El Cronista Studio. El esquema establece aportes mensuales obligatorios calculados sobre la nómina salarial y busca dar previsibilidad financiera sin generar un costo adicional inmediato para las compañías, con posibilidad de disponer del capital desde el séptimo mes.",
+     "relacionadas": [
+      {
+       "id": "CR-19",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El fondo que puede aportar u$s 1800 millones al mercado de capitales",
+       "url": "https://www.cronista.com/negocios/el-fondo-que-puede-aportar-us-1800-millones-al-mercado-de-capitales/"
+      },
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Previsibilidad y desarrollo del mercado ante el nuevo esquema de indemnizaciones",
+       "url": "https://www.cronista.com/negocios/previsibilidad-y-desarrollo-del-mercado-ante-el-nuevo-esquema-de-indemnizaciones/"
+      },
+      {
+       "id": "CR-21",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La decisión que las empresas deberán tomar para administrar sus fondos de reserva",
+       "url": "https://www.cronista.com/negocios/la-decision-que-las-empresas-deberan-tomar-para-administrar-sus-fondos-de-reserva/"
+      },
+      {
+       "id": "CR-22",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Indemnizaciones: el FAL convierte un gasto futuro en una inversión para las empresas",
+       "url": "https://www.cronista.com/negocios/indemnizaciones-el-fal-convierte-un-gasto-futuro-en-una-inversion-para-las-empresas/"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/el-nuevo-fondo-que-cambia-la-forma-de-administrar-los-pasivos-laborales/",
+     "imagen": "https://www.cronista.com/resizer/v2/7OHT5IW3GRFR7D6GNZUNQKSGBE.JPG?auth=39e050bc12b494520b1c6aa47e28fef8ab6dfb6a3478eaf4e7c04b407b64a28c&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "El nuevo fondo que cambia la forma de administrar los pasivos laborales"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "obligaciones negociables de empresas para invertir en dólares y cobrar hasta 7,7% anual",
+     "resumen": "Tecpetrol, YPF y Vista Energy figuran entre las obligaciones negociables recomendadas por la sociedad de bolsa Allaria para invertir en dólares, con rendimientos de hasta 7,7% anual.",
+     "url": "https://www.iprofesional.com/finanzas/467405-5-obligaciones-negociables-para-ganar-mas-del-5-por-ciento-en-dolares-al-ano",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620740.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:25",
+     "autor": "",
+     "titulo_original": "Obligaciones negociables de empresas para invertir en dólares y cobrar hasta 7,7% anual",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-23",
+     "titulo": "Visa y American Express: por qué tienen dos negocios completamente distintos",
+     "resumen": "Visa obtiene sus ingresos principalmente de la infraestructura que permite procesar pagos para bancos y comercios, mientras American Express concentra en la misma compañía la red de pagos, las tarjetas, la relación con los comercios y una actividad propia de financiamiento al cliente. Para quien analiza inversiones o negocios de pagos, la diferencia es clave: una acción queda ligada al volumen de pagos procesado y la otra también al gasto de sus propios clientes.",
+     "url": "https://www.cronista.com/finanzas-mercados/visa-y-american-express-por-que-tienen-dos-negocios-completamente-distintos/",
+     "imagen": "https://www.cronista.com/resizer/v2/KPKBXEFMUNA4RDSXAF3XWFTA7I.jpg?auth=43a425760c44aa21d0f166162a66cd451c2aeba9c28a3cbd6f75ece1427c75c4&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:41",
+     "autor": "Audiencias Member",
+     "titulo_original": "Visa y American Express: por qué tienen dos negocios completamente distintos",
+     "relacionadas": []
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-25",
+     "titulo": "tras una remontada histórica, Lula enfrenta la caída de los mercados y el desafío de Bolsonaro",
+     "resumen": "Lula fue reelecto presidente de Brasil con el 51,79% de los votos frente al 48,21% de Flávio Bolsonaro, en una remontada que generó una fuerte reacción negativa de los inversores. El Partido Liberal de Bolsonaro tomó distancia de su candidato y reconoció los resultados, mientras Lula inicia su cuarto mandato con un Congreso ampliamente opositor.",
+     "relacionadas": [
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Lecciones del balotaje en Brasil: el impacto de las encuestas, la macro, los aliados y el tono del candidato",
+       "url": "https://www.cronista.com/columnistas/lecciones-del-balotaje-cuanto-impactan-las-encuestas-la-macro-los-aliados-y-el-tono-del-candidato/"
+      },
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Los desafíos de Lula 4",
+       "url": "https://www.cronista.com/columnistas/los-desafios-de-lula-4/"
+      },
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Sepetiba, un balneario que entró en el mapa de la inédita politización brasileña",
+       "url": "https://www.clarin.com/mundo/sepetiba-balneario-entro-mapa-inedita-politizacion-brasilena_0_5yrirZX3kj.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/tras-una-remontada-historica-lula-enfrenta-la-caida-de-los-mercados-y-el-desafio-de-flavio-bolsonaro-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4ATYJMDZAZHM7DJ5UVKK2ECD64.jpg?auth=c4eb5a4bf971d5594f5b0c3596bf9b0a2e4764ea25bef5b088b1a4ba00fef64e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:52",
+     "autor": "Guido Bovone",
+     "titulo_original": "Tras una remontada histórica, Lula enfrenta la caída de los mercados y languidece el desafío de Flavio Bolsonaro"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "prohíben salir del país a Flavio Bolsonaro, que abandona su intento de anular la elección",
+     "resumen": "A menos de 24 horas de su derrota, el senador Flavio Bolsonaro fue intimado por la Policía Federal de Brasil a entregar sus pasaportes por orden del juez del Supremo Tribunal Federal Alexandre de Moraes. Tras la derrota, Bolsonaro había dicho que no reconocía el resultado y denunció una persecución política, aunque luego repliegó esa postura.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tras la derrota frente a Lula, la Justicia le prohibió salir del país a Flávio Bolsonaro",
+       "url": "https://www.clarin.com/mundo/derrota-frente-lula-policia-prohibio-salir-pais-flavio-bolsonaro_0_PM9OOlpqVu.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-justicia-le-prohibe-a-flavio-bolsonaro-salir-del-pais-por-una-causa-y-lo-intima-a-entregar-su-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NXM7GRBC65CZTJMEOO7NPATFTA.jpg?auth=c94da3b8a91ab7ee047632eecee4bd1fa88db23301034155ade094bb92bd2c16&smart=true&width=900&height=572",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:31",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "Prohíben salir del país a Flavio Bolsonaro, que abandona su intento de anular la elección"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "en plena tensión con Irán, Netanyahu disputa una elección que puede terminar con su carrera política",
+     "resumen": "Unos 7,3 millones de israelíes están habilitados para votar este martes por las 120 bancas del Parlamento, de las que se necesitan 61 para designar al primer ministro. Apoyado por Donald Trump, Benjamin Netanyahu busca conservar el poder frente a una oposición fragmentada, en una elección sin un resultado claro anticipado por las encuestas.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Israel define su futuro: Benjamin Netanyahu se juega la continuidad en unas elecciones decisivas",
+       "url": "https://www.ambito.com/mundo/israel-define-su-futuro-benjamin-netanyahu-se-juega-la-continuidad-unas-elecciones-decisivas-n6338185"
+      },
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Quiénes son los principales candidatos que disputan las elecciones parlamentarias en Israel",
+       "url": "https://www.infobae.com/america/mundo/2026/10/27/quienes-son-los-principales-candidatos-que-disputan-las-elecciones-parlamentarias-en-israel/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/10/27/en-plena-tension-con-iran-netanyahu-disputa-una-eleccion-que-puede-terminar-con-su-carrera-politica/",
+     "imagen": "https://www.infobae.com/resizer/v2/OYMLIMRDL5GCLIJHOKNUSYNEXU.JPG?auth=2dabc92e739e732e0555ee44d6ec56490d785e542b9ed2bbe05b4c6f185134bc&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:11",
+     "autor": "Román Lejtman",
+     "titulo_original": "En plena tensión con Irán, Netanyahu disputa una elección que puede terminar con su carrera política"
+    },
+    {
+     "id": "IB-02",
+     "titulo": "España define candidaturas a 33 días de las elecciones generales del 29 de noviembre",
+     "resumen": "Los partidos cerraron el plazo para presentar sus listas al Congreso y al Senado, que se harán públicas este miércoles en el Boletín Oficial del Estado. Casi todas las encuestas, con la excepción del CIS, auguran una victoria holgada de la alianza entre el PP y Vox.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/2026/10/27/elecciones-generales-espana-29-n-en-directo-ultima-hora-de-las-listas-al-congreso-y-al-senado-los-sondeos-y-los-candidatos/",
+     "imagen": "https://www.infobae.com/resizer/v2/4M4SCM5CBBFYHAXQTSCXUFRNYA.jpg?auth=19be24c6304baec7318e51a9c412c473a95c9ad091e150c32f924514c2e18c70&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:03",
+     "autor": "Fede Sáenz",
+     "titulo_original": "Elecciones generales España 29-N, en directo: última hora de las listas al Congreso y al Senado, los sondeos y los candidatos"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "Países Bajos vuelve a retirarse de Eurovisión tras protestas por la presencia de Israel",
+     "resumen": "La radiotelevisión pública neerlandesa anunció que no participará en la edición de Eurovisión de 2027, prevista para mayo en Bulgaria, tras dar marcha atrás en su intención de volver al certamen por la falta de respaldo de las emisoras públicas y las protestas de trabajadores por la presencia de Israel.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/27/paises-bajos-vuelve-a-retirarse-de-eurovision-tras-protestas-por-la-presencia-de-israel/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Países Bajos vuelve a retirarse de Eurovisión tras protestas por la presencia de Israel"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "el gobierno francés promete cambios en la educación tras semanas de protestas estudiantiles",
+     "resumen": "Las medidas oficiales contemplan préstamos por 4.000 millones de euros para reformar centros de enseñanza media y fijan un tope de 28 alumnos por aula. El Estado también destinará 1.000 millones de euros adicionales a infraestructura universitaria e indexará las becas estudiantiles a la inflación.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/rebelion-estudiantes-francia-gobierno-promete-cambios-clave-educacion-semanas-protestas_0_vw84NWkY7J.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/SqM-pLSZn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "19:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Rebelión de estudiantes en Francia: el gobierno promete cambios clave en la educación tras semanas de protestas"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-12",
+     "titulo": "Harry Kane ganó el Balón de Oro 2026, primer inglés en lograrlo desde 2001",
+     "resumen": "El delantero del Bayern Múnich conquistó por primera vez el máximo galardón individual del fútbol mundial tras marcar 73 goles en la temporada 2025/26, y también se quedó con el premio Gerd Müller al mejor delantero del año. Kylian Mbappé y Lamine Yamal completaron el podio; Lionel Messi terminó quinto y Lautaro Martínez figuró entre los 30 nominados.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Balón de Oro 2026: Harry Kane en la cumbre y todos los ganadores de una ceremonia sin brillo",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/balon-de-oro-2026-harry-kane-en-la-cumbre-y-todos-los-ganadores-de-una-ceremonia-sin-brillo-nid26102026/"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Balón de Oro 2026: en qué puesto quedó Lionel Messi tras la votación",
+       "url": "https://www.ambito.com/deportes/balon-oro-2026-que-puesto-quedo-lionel-messi-la-votacion-n6338187"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Sin Lionel Messi en la ceremonia, se entregó el Balón de Oro 2026: todos los ganadores",
+       "url": "https://www.ambito.com/deportes/entrega-del-balon-oro-minuto-minuto-ya-se-revelo-el-top-30-al-11-n6338038"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/harry-kane-gano-el-balon-oro-2026-es-el-primer-ingles-lograrlo-2001-n6338168",
+     "imagen": "https://media.ambito.com/p/2f8e1267aa217c12ad8dca5e784edb86/adjuntos/239/imagenes/043/730/0043730197/kane-balon-oro2.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:20",
+     "autor": "",
+     "titulo_original": "Harry Kane ganó el Balón de Oro 2026: es el primer inglés en lograrlo desde 2001"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "qué pasa si Boca gana los cuatro títulos: el efecto dominó que beneficia a River de cara a la Libertadores 2027",
+     "resumen": "Si Boca conquista la Copa Libertadores, la Argentina sumará un séptimo representante en la máxima competencia continental del año próximo, lo que otorgaría un cupo internacional a Argentinos Juniors y liberaría vacantes en la clasificación acumulada. Para tener esperanzas de jugar la Libertadores por esa vía, River debe ganar el Superclásico.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/pasa-boca-gana-cuatros-titulos-cupos-liberan-efecto-domino-beneficia-river-cara-libertadores-2027_0_gY60YiVDNf.html",
+     "imagen": "https://www.clarin.com/img/2026/10/21/bK6vC2Cbr_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Qué pasa si Boca gana los cuatros títulos: qué cupos se liberan y el efecto dominó que beneficia River de cara a la Libertadores 2027"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "la AFA estudia un nuevo formato: todos contra todos y dos campeones por año",
+     "resumen": "Por sexta vez en diez años, la AFA analizará este jueves un cambio en el formato de los torneos de Primera División, con un sistema que mantendría dos campeones anuales pero obligaría a cada equipo a enfrentar a los otros 29 a lo largo de la temporada. La propuesta cuenta con el apoyo de Claudio Tapia y del presidente de Gimnasia y Esgrima La Plata, Carlos Anacleto.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/el-nuevo-formato-que-estudia-la-afa-todos-contra-todos-y-dos-campeones-por-ano-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C4T5IE26PZBJJLBE4ENL3HAW6E.jpg?auth=0d3f08ccd09f9da5911195bc15626b2ba1fd622acb4e84937191fa392c60c0f3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:53",
+     "autor": "Leandro Contento",
+     "titulo_original": "El nuevo formato que estudia la AFA: todos contra todos y dos campeones por año"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "las nuevas reglas del rugby en el Nations Championship y de qué deberán cuidarse Los Pumas",
+     "resumen": "Los nuevos ajustes sobre los tackles, conocidos como hip drop y knee drop, tienen como finalidad evitar lesiones graves y entrarán en vigencia durante el tramo europeo de la competencia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/nuevas-reglas-rugby-nations-championship-hip-drop-knee-drop-deberan-cuidarse-pumas_0_tO1jH3DDI3.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/tMvRjtGGp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Las nuevas reglas del rugby en el Nations Championship: qué son el hip drop y el knee drop y de qué deberán cuidarse en Los Pumas"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Daniel Orsanic, a diez años del título en la Copa Davis, recordó la gesta de aquel equipo",
+     "resumen": "El próximo mes se cumple una década de la obtención de la Copa Davis por parte de Argentina, con el equipo capitaneado por Orsanic, que rompió una racha de cuatro finales perdidas al ganar cuatro series como visitante en 2016.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/27/daniel-orsanic-a-10-anos-del-titulo-en-la-copa-davis-en-quien-penso-al-levantar-el-trofeo-y-por-que-del-potro-fue-el-messi-del-equipo/",
+     "imagen": "https://www.infobae.com/resizer/v2/HZYTCWJFYFABNJX3LAYQFD7SKM.jpg?auth=f53b9324125b41ecf0122477bf55d13b40b9af524ea9c416db7cbbf67c957d23&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:20",
+     "autor": "Diego Huberman",
+     "titulo_original": "Daniel Orsanic, a 10 años del título en la Copa Davis: en quién pensó al levantar el trofeo y por qué Del Potro fue “el Messi” del equipo"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "desplazaron a uno de los líderes de la barra de River en la antesala del Superclásico",
+     "resumen": "Ariel \"Pato\" Calvici fue desterrado de Los Borrachos del Tablón, en medio de movimientos internos en la barra de cara al partido ante Boca.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/27/desplazaron-a-uno-de-los-lideres-de-la-barra-de-river-en-la-antesala-del-superclasico-quien-es-quien-en-la-interna/",
+     "imagen": "https://www.infobae.com/resizer/v2/IBM6BI7ZOBBEZBGKKEC3SRKAWU.jpg?auth=28abb6b3df511d4d7c6628fe189f4c5dd46948e6433745411ab11d0c66a43d20&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:19",
+     "autor": "Gustavo Grabia",
+     "titulo_original": "Desplazaron a uno de los líderes de la barra de River en la antesala del superclásico: quién es quién en la interna"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "la precocidad en el ajedrez: el caso de Faustino Oro entre otros jóvenes prodigios",
+     "resumen": "El ajedrez argentino sigue de cerca el desarrollo de Faustino Oro, uno de los mayores prodigios actuales de este deporte, en una disciplina que históricamente facilitó el surgimiento temprano de grandes talentos gracias a la informatización del juego.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/ajedrez/la-precocidad-en-el-ajedrez-como-la-tecnologia-reemplaza-a-los-cuadernos-con-miles-de-jugadas-y-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LTE6RVO23JFIDBHSS6YLEF6ISI.png?auth=04642244cfc529452ab385a8384b298060887982f57dd4d2ddfdd9e54b796a4f&smart=true&width=900&height=581",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:37",
+     "autor": "Pablo Ricardi",
+     "titulo_original": "La precocidad en el ajedrez: tres casos para analizar detrás del compromiso de Faustino Oro"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "cabalgatas, historia y platos criollos en el pago gaucho de Maipú",
+     "resumen": "En el camino de Buenos Aires a Mar del Plata, este pueblo bonaerense es conocido por sus cabalgatas por caminos rurales que llevan a antiguas postas y estancias. Se suman como atractivos la laguna Kaikel Huincul, los sitios históricos del casco urbano y restaurantes con especialidades autóctonas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/cabalgatas-historia-platos-criollos-pago-gaucho-maipu_0_BCqSf60pLa.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/4ejx7Q8lZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cabalgatas, historia y platos criollos en el pago gaucho de Maipú"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Argentina se consolidó como el país sudamericano con más turistas hacia Costa Rica",
+     "resumen": "El ente turístico de Costa Rica reveló que llegan más turistas argentinos que de cualquier otro país de Sudamérica, en un contexto de crecimiento del turismo emisivo hacia ese destino.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/467536-argentina-se-consolido-como-el-sudamericano-con-mas-turistas-a-este-pais-en-tendencia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/05/554053.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:21",
+     "autor": "",
+     "titulo_original": "Argentina se consolidó como el sudamericano con más turistas a este país en tendencia"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "Mendoza en alerta por un brote de meningitis con dos muertos en un hospital",
+     "resumen": "Dos pacientes adultos operados en el Hospital Privado, principal centro de atención de PAMI en la provincia, murieron tras contraer la bacteria Serratia marcescens, lo que activó una investigación epidemiológica para dar con el objeto contaminante en el quirófano. Otras dos personas intervenidas en el mismo efector dieron positivo pero ya están fuera de peligro, y seis pacientes más bajo observación descartaron el contagio.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/mendoza-en-alerta-por-un-brote-de-meningitis-en-un-hospital-dos-los-cuatro-contagiados-fallecieron-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XQQN2L5SZFBVFCLJ7ZTR6YZQ6I.jpeg?auth=0fe534657ba31cb17b871b7bb14babcb2f7ad7d7f44c2ac6a2f9bcfcc74c2563&smart=true&width=554&height=554",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:06",
+     "autor": "Pablo Mannino",
+     "titulo_original": "Mendoza, en alerta: la principal hipótesis sobre el origen del brote de meningitis con dos muertos en un hospital"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "la crecida del Paraná devastó las playas y la economía de Paso de la Patria, en Corrientes",
+     "resumen": "El desborde del río, atribuido al fenómeno de El Niño, afectó cerca del 40% de la villa turística y obligó a unas 400 familias a abandonar sus hogares. La localidad recibe habitualmente un millón de visitantes al año, y la cámara turística local puso en marcha una colecta de alimentos, agua potable, ropa y medicamentos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/efecto-nino-corrientes-crecida-parana-devasto-playas-economia-villa-turistica-popular_0_6StHolqqS2.html",
+     "imagen": "https://www.clarin.com/img/2026/10/17/_cU125jbA_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Efecto El Niño en Corrientes: la crecida del Paraná devastó las playas y la economía de una villa turística muy popular"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "buscan en Santa Cruz a dos hermanos de 10 y 12 años arrastrados por el río",
+     "resumen": "Los menores fueron vistos por última vez el domingo por la tarde jugando en un sector conocido como La Toma, en Río Gallegos. Más de un centenar de efectivos de distintos organismos participan del operativo de búsqueda, que continuaba este martes por la mañana.",
+     "relacionadas": [
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Buscan en Santa Cruz a dos hermanos de 10 y 12 años que fueron arrastrados por la corriente",
+       "url": "https://www.clarin.com/sociedad/buscan-santa-cruz-hermanos-10-12-anos-arrastrados-corriente_0_huLTq6chdB.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/buscan-a-dos-hermanos-de-10-y-12-anos-que-fueron-arrastrados-por-el-rio-en-santa-cruz-nid27102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/73PV3CVW2JCU7AIJSEIXZGXVWE.jpg?auth=02602063bbb7f9c890a06abe7ec4ef5e8a800e6705250a25c28234ad9fe98755&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:49",
+     "autor": "",
+     "titulo_original": "Buscan a dos hermanos de 10 y 12 años que fueron arrastrados por el río en Santa Cruz"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "alerta amarilla por tormentas este martes en Mendoza, San Luis y Córdoba",
+     "resumen": "El Servicio Meteorológico Nacional advirtió sobre posible caída de granizo y actividad eléctrica en esas provincias, con precipitaciones acumuladas de entre 20 y 40 milímetros. En la Ciudad de Buenos Aires y el conurbano no rigen advertencias y la máxima prevista es de 20 grados.",
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-para-este-martes-27-de-octubre-las-provincias-afectadas-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JFCWUGULGFCOVPYOGUG4EBL43I.png?auth=2f6835ff01d972e9f853156130618b6ff3db0cb73988446cbc3d6e70e9eed8ea&smart=true&width=485&height=250",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:59",
+     "autor": "",
+     "titulo_original": "Hay alerta amarilla por tormentas para este martes 27 de octubre: las provincias afectadas",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del martes 27 de octubre. El dato que domina la jornada es el impacto en la Argentina del triunfo de Luiz Inácio Lula da Silva en el balotaje de Brasil. El riesgo país argentino subió a setecientos sesenta y cinco puntos, el índice Merval cayó casi cinco por ciento medido en dólares, hasta los cincuenta y nueve dólares, y los bonos soberanos también sufrieron la caída, con el Global dos mil treinta y cinco perdiendo casi tres por ciento. El dólar oficial cerró en mil quinientos sesenta pesos, mientras el dólar blue se ubicó en mil quinientos setenta y cinco pesos. El oro cotiza cerca de cuatro mil quince dólares la onza. En paralelo, el Banco Central cortó una racha de diecinueve ruedas de compras de divisas y el Tesoro debió vender cien millones de dólares para contener la suba del dólar oficial. En política, el Gobierno negocia cambios a la ley de Malvinas para conseguir dictamen esta semana, con concesiones a los aliados que excluyen de las sanciones a accionistas minoritarios y fondos pasivos, y posterga el debate del Presupuesto hasta mediados de noviembre por falta de acuerdo con los bloques dialoguistas. Javier Milei continúa sin pronunciarse sobre el triunfo de Lula, y fue el único presidente sudamericano que no lo felicitó, mientras Patricia Bullrich marcó distancia del mandatario tras sus críticas al periodismo y no asistió a la reunión de Gabinete. También avanza el ascenso de un hermano del ministro de Justicia en la carrera diplomática, un senador riojano regresó al bloque del peronismo en el Senado que ahora suma veintidós legisladores, y Amnistía Internacional llevará ante la Comisión Interamericana de Derechos Humanos y la ONU los ataques del Presidente contra periodistas. El papa León catorce visitará la Argentina del ocho al once de noviembre, dentro de una gira que también incluye Uruguay y Perú, con un encuentro previsto con Milei en Casa Rosada y una misa de cierre en Luján. En economía y mercados, además del golpe cambiario y bursátil por el efecto Brasil, el contado con liquidación subió casi dos por ciento hasta los mil seiscientos ochenta y dos pesos, y el Gobierno anunció que buscará renovar más de diez billones de pesos en la licitación de este miércoles, con una nueva Lecap a febrero del año que viene. El índice de confianza en el Gobierno que elabora la Universidad Di Tella subió levemente en octubre, aunque acumula una caída de más de veinte por ciento desde fines del año pasado, en un movimiento que los analistas describen como de serrucho. El salario pretendido promedio relevado por Bumeran llegó a casi dos millones de pesos brutos mensuales, con una suba interanual cercana al quince por ciento. En negocios y empresas, el Gobierno aprobó dentro del régimen de incentivos para grandes inversiones el proyecto minero Agua Rica, en Catamarca, por más de seis mil trescientos millones de dólares, y Javier Milei viajará a esa provincia para inaugurar plantas de litio de la empresa Río Tinto. Pampa Energía sale a buscar trescientos millones de dólares para invertir en Vaca Muerta, Camuzzi completó una obra de cuarenta millones de dólares para llevar gas a localidades patagónicas, y Moolec Science aprobó su liquidación voluntaria tras perder el control de Bioceres, un proceso que se conducirá bajo la legislación de las Islas Caimán. También hay cuestionamientos por el proceso de privatización de la empresa de agua y saneamiento AySA. En impuestos y normativa, la provincia de Buenos Aires lanzó una moratoria de ARBA para regularizar deudas tributarias, y ARCA habilitó planes de hasta veinte cuotas para quienes tengan deudas de monotributo. El Gobierno definió además los nuevos descuentos del Régimen de Zona Fría sobre las facturas de gas, de cincuenta y veinte por ciento según la zona, y declaró la emergencia agropecuaria por inundaciones en los partidos bonaerenses de nueve de julio y Necochea, lo que habilita beneficios impositivos para las explotaciones afectadas. En consumo y construcción, la marca de herramientas DeWALT sumó una línea de ropa de trabajo en la Argentina apuntando a la minería y la energía, un dato que muestra el crecimiento de la demanda de insumos en esos sectores. La cadena de supermercados DIA mejoró sus ventas pero sigue buscando comprador para sus locales en el país, se despide la ley de alquileres con doce mil contratos por vencer mientras la oferta en la Ciudad roza los dieciocho mil departamentos, el barrio porteño de Saavedra vive un despegue inmobiliario con suba de precios, y un relevamiento mostró que quienes compran departamentos en la Ciudad priorizan balcones y cocheras por sobre los amenities con expensas altas. En management y finanzas corporativas, empieza a implementarse el Fondo de Asistencia Laboral, un instrumento que permitirá a las empresas administrar con mayor previsibilidad sus pasivos por indemnizaciones a través de aportes mensuales sobre la nómina salarial, con proyecciones de movilizar hasta diez mil millones de dólares en cinco años y posibilidad de disponer del capital desde el séptimo mes. También hay oportunidades para invertir en dólares a través de obligaciones negociables de Tecpetrol, YPF y Vista Energy, con rendimientos de hasta siete coma siete por ciento anual, y un análisis remarca que Visa y American Express, pese a competir en pagos, tienen modelos de negocio completamente distintos. En el mundo, Lula inicia su cuarto mandato como presidente de Brasil tras ganar con el cincuenta y uno coma setenta y nueve por ciento de los votos frente al cuarenta y ocho coma veintiuno de Flavio Bolsonaro, mientras la Justicia brasileña prohibió a este último salir del país y le retiró el pasaporte. Israel vota hoy en elecciones parlamentarias que pueden poner fin a la carrera política de Benjamin Netanyahu, con siete millones trescientos mil ciudadanos habilitados para votar y un resultado que las encuestas anticipan fragmentado. España define candidaturas a treinta y tres días de sus elecciones generales del veintinueve de noviembre, con encuestas que anticipan una victoria de la alianza entre el Partido Popular y Vox. Países Bajos se retiró otra vez de Eurovisión por la participación de Israel, y Francia debate en el Senado nuevas penas por los disturbios y la posibilidad de bloquear redes sociales que inciten a la violencia, tras semanas de protestas estudiantiles que ya arrancaron al gobierno promesas de reforma educativa. En deportes, Harry Kane ganó el Balón de Oro dos mil veintiséis y se convirtió en el primer inglés en lograrlo desde dos mil uno, tras anotar setenta y tres goles en la temporada, con Mbappé y Yamal completando el podio y Messi en el quinto puesto. Si Boca consigue los cuatro títulos en danza se liberarían cupos para la Copa Libertadores que beneficiarían a River, que para tener chances debe ganar el Superclásico. La AFA evalúa un nuevo formato de torneo con dos campeones por año y todos los equipos enfrentándose entre sí, el rugby internacional modificó sus reglas para los tackles de cara al tramo europeo de Los Pumas, uno de los líderes de la barra de River fue desplazado en la previa del Superclásico, el ajedrez argentino sigue de cerca la carrera de Faustino Oro, y Daniel Orsanic recordó los diez años del título argentino en la Copa Davis, logrado tras ganar cuatro series seguidas como visitante. Para cerrar, en turismo recomendamos el pago gaucho de Maipú, un pueblo bonaerense camino a Mar del Plata conocido por sus cabalgatas, su laguna y sus restaurantes con platos criollos, mientras del lado internacional la Argentina se consolidó como el país sudamericano que más turistas envía a Costa Rica. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "No hubo notas nuevas de Le Grand Continent en esta corrida, por lo que se omitió la sección Europa y geopolítica.",
+ "slug": "2026-10-27-manana",
+ "generado_ba": "27/10/2026 10:15"
+}
