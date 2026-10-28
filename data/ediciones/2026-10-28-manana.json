@@ -1,0 +1,998 @@
+{
+ "fecha": "2026-10-28",
+ "edicion": "manana",
+ "titulo": "Bolsonaro huyó a Estados Unidos y el mercado espera la decisión de la Fed",
+ "apertura": "La fuga de Flávio Bolsonaro hacia Estados Unidos, pese a la prohibición judicial, marcó la agenda internacional y agregó tensión a los mercados que ya procesaban el triunfo de Lula da Silva en Brasil. En la Argentina, el riesgo país se acercó a los 750 puntos básicos mientras el Gobierno negoció con Washington los últimos cambios para destrabar la ley Malvinas en el Congreso. En España, el choque de dos trenes de alta velocidad en Toledo dejó al menos diez muertos y paralizó la agenda política.",
+ "claves": [
+  "Flávio Bolsonaro huyó de Brasil hacia Estados Unidos en un vuelo privado desde Puerto Iguazú, pese a la prohibición judicial de salir del país.",
+  "El riesgo país argentino retrocedió a 753 puntos básicos y los bonos rebotaron tras el cimbronazo por el triunfo de Lula en Brasil.",
+  "El Gobierno modificó la ley Malvinas para destrabar su dictamen en Diputados, tras la presión de funcionarios de Estados Unidos.",
+  "Consultoras privadas estiman que la economía argentina entró en recesión técnica pese a una leve mejora en septiembre.",
+  "ANSES aumentó 1,93% las jubilaciones y llevará la mínima a $ 444.158,46 en noviembre.",
+  "Un choque de trenes de alta velocidad en Toledo, España, dejó al menos diez muertos.",
+  "Sinteplast invertirá US$ 44 millones para ampliar su producción de pinturas en la Argentina y la región.",
+  "La AFA prepara un nuevo torneo de 30 equipos de cara al Superclásico entre River y Boca."
+ ],
+ "cifras": [
+  {
+   "nombre": "Índice MSCI Merval",
+   "valor": "$ 96.681",
+   "variacion": "-3,3% desde su debut",
+   "fuente": "IP-15"
+  },
+  {
+   "nombre": "Tasa de referencia de la Fed",
+   "valor": "3,75% a 4%",
+   "fuente": "CR-11"
+  },
+  {
+   "nombre": "Jubilación mínima (noviembre)",
+   "valor": "$ 444.158,46",
+   "variacion": "+1,93%",
+   "fuente": "IB-16"
+  },
+  {
+   "nombre": "Costo del contrabando en 2026",
+   "valor": "US$ 2.855 millones",
+   "fuente": "CR-08"
+  },
+  {
+   "nombre": "Morosidad en microempresas",
+   "valor": "18%",
+   "fuente": "AM-10"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-13",
+     "titulo": "el Gobierno cedió ante Estados Unidos para destrabar el dictamen de la ley Malvinas",
+     "resumen": "El oficialismo modificó las sanciones a empresas que operan en las islas tras la exigencia de los funcionarios estadounidenses Christopher Landau y Juan Pablo Segura, que visitaron el país la semana pasada. Con esos cambios, el bloque de La Libertad Avanza logró dictaminar el proyecto en comisión y prevé llevarlo al recinto el 12 de noviembre. Persisten dudas por el capítulo sobre campañas de desinformación, que aliados y opositores creen que podría afectar la libertad de expresión.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno consiguió dictamen del proyecto Malvinas tras negociar con sus aliados",
+       "url": "https://www.iprofesional.com/politica/467635-proyecto-malvinas-logro-dictamen-feroz-negociacion-avanza-diputados"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LAN4AYH6WBCKTC3SCKWPWQPH4E.jpg?auth=6d3c95860b80088424797fb70c0b5091813142edb48ff742bcb9ff6f4981296f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:52",
+     "autor": "Delfina Galarza",
+     "titulo_original": "Ley Malvinas: el Gobierno cedió ante EE.UU. y logró dictaminar, pero siguen las dudas por el capítulo sobre libertad de expresión"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "el Gobierno disolvió el Iosfa, la obra social de las Fuerzas Armadas",
+     "resumen": "Mediante el Decreto 1286/2026 publicado en el Boletín Oficial, el Ejecutivo dispuso el inicio del proceso de disolución y liquidación del Instituto de Obra Social de las Fuerzas Armadas. El Ministerio de Defensa designará un administrador y el directorio de la obra social definirá los puestos de trabajo necesarios según su estructura vigente. La medida se conoció el mismo día en que el Presidente tomó distancia de la salida de Flavio Bolsonaro hacia Estados Unidos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-nueva-revision-del-acuerdo-con-el-fmi-y-la-salida-de-bolsonaro-nid28102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HT3GB3DECVDWTBYCX4J5KBPZOU.jpg?auth=36f66431ba5ee308a0c27610872feefe8c9131a851ea29f0b77ecdc6b5832a22&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:38",
+     "autor": "",
+     "titulo_original": "Javier Milei y sus medidas, en vivo: la nueva revisión del acuerdo con el FMI y la salida de Bolsonaro desde Misiones"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "crearon un programa para priorizar la captura de los prófugos más peligrosos",
+     "resumen": "El Ministerio de Seguridad Nacional lanzó el programa Los Más Buscados, formalizado mediante la Resolución 1089/2026 publicada en el Boletín Oficial. La iniciativa reunirá información de distintas agencias para clasificar a prófugos y evadidos según su nivel de peligrosidad y funcionará dentro del Comando Unificado Federal de Recaptura de Evadidos. El objetivo es ordenar las prioridades operativas de las fuerzas federales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/28/el-ministerio-de-seguridad-creo-un-programa-para-priorizar-la-captura-de-profugos-con-mayor-peligrosidad/",
+     "imagen": "https://www.infobae.com/resizer/v2/BO7A5DDFARGYDBJZHNA2U45DLE.jpg?auth=55ba14bee02a154f99e88061c6cc56a5a1b048a54763977cce5245d007bac631&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:17",
+     "autor": "",
+     "titulo_original": "El Ministerio de Seguridad creó un programa para priorizar la captura de prófugos con mayor peligrosidad"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "el proyecto de Defensa de la Soberanía Nacional creció de 133 a 154 artículos",
+     "resumen": "El oficialismo amplió el texto original de la Ley de Defensa de la Soberanía Nacional e incorporó cambios en las penas, las restricciones vinculadas con Malvinas, el control de inversiones extranjeras y las facultades de seguridad nacional. Los ajustes forman parte de la negociación paralela que el Gobierno lleva adelante con sus aliados por la agenda Malvinas.",
+     "relacionadas": [
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Ley Malvinas: el Gobierno cedió ante EE.UU. y logró dictaminar, pero siguen las dudas por el capítulo sobre libertad de expresión",
+       "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/ley-defensa-la-soberania-nacional-todos-los-cambios-que-el-oficialismo-tuvo-que-hacer-al-proyecto-n6338609",
+     "imagen": "https://media.ambito.com/p/de33621f83582805c8881e685a0fd2f9/adjuntos/239/imagenes/043/706/0043706480/1200x675/smart/sesion-diputados.JPG",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:06",
+     "autor": "",
+     "titulo_original": "Ley Defensa de la Soberanía Nacional: todos los cambios que el oficialismo tuvo que hacer al proyecto"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "piden que una fiscalía especializada reactive la investigación por el caso Libra",
+     "resumen": "Dos organizaciones que actuaron como amigos del tribunal en el expediente cuestionaron la actuación del fiscal Eduardo Taiano y reclamaron que intervenga la Procuraduría de Investigaciones Administrativas. Advirtieron sobre el riesgo de impunidad luego de los sobreseimientos de Javier Milei, Karina Milei y los otros nueve imputados en la causa.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/caso-libra-organizaciones-piden-que-intervenga-una-fiscalia-especializada-reactivar-la-investigacion-n6338561",
+     "imagen": "https://media.ambito.com/p/45c0daf7d9bbb962b1c84713a44ebf04/adjuntos/239/imagenes/043/570/0043570894/1200x675/smart/javier-milei-y-karinajpg.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:50",
+     "autor": "",
+     "titulo_original": "Caso $LIBRA: organizaciones piden que intervenga una fiscalía especializada para reactivar la investigación"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Máximo Kirchner encabezó un acto por Néstor Kirchner y pidió la liberación de Cristina",
+     "resumen": "El diputado encabezó un acto a 16 años de la muerte de su padre y cuestionó a Javier Milei. También agradeció al Frente Renovador de Sergio Massa, que estuvo ausente en el evento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/maximo-kirchner-recordo-nestor-pidio-liberacion-cristina-vamos-hacer-presidenta_0_MnHzdsiwlx.html",
+     "imagen": "https://www.clarin.com/img/2026/10/28/NhcTd4rr__1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:06",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Máximo Kirchner recordó a Néstor y pidió por la liberación de Cristina: \"¿La vamos a hacer presidenta?\""
+    },
+    {
+     "id": "CL-17",
+     "titulo": "una encuesta midió a Patricia Bullrich en distintos escenarios presidenciales con resultados dispares",
+     "resumen": "El último estudio nacional de CB Global Data evaluó escenarios de primera vuelta, con el Presidente y la senadora por separado, además de dos mano a mano contra Axel Kicillof. A la candidata le fue muy mal en un escenario y muy bien en otro, según el relevamiento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/nueva-encuesta-incluyo-patricia-bullrich-presidencial-mal-escenario-bien_0_a7WO868fV9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/09/flv2yqAg1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una nueva encuesta incluyó a Patricia Bullrich para la presidencial: le fue muy mal en un escenario y muy bien en otro"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-13",
+     "titulo": "el dólar oficial y el blue operan estables este miércoles",
+     "resumen": "El dólar oficial se ofrece a $ 1.510 para la compra y $ 1.560 para la venta en el Banco Nación, $ 20 por encima del cierre de septiembre y $ 80 por encima del cierre de 2025. El blue cotiza a $ 1.555 para la compra y $ 1.575 para la venta, mientras el mayorista se ubica en $ 1.556,90, lejos del techo de la banda cambiaria que el Banco Central fija en $ 1.947,79.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar hoy: a cuánto cotiza el oficial en los bancos de la City hoy miércoles 28 de octubre",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-miercoles-28-de-octubre/"
+      },
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar hoy y dólar blue hoy: cuál es la cotización del martes 27 de octubre minuto a minuto",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-martes-27-de-octubre-minuto-a-minuto-2/"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar hoy: a cuánto cotiza este miércoles 28 de octubre",
+       "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-28-octubre-n6338653"
+      },
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar blue hoy: a cuánto opera este miércoles 28 de octubre",
+       "url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-28-octubre-n6338654"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-miercoles-28-de-octubre-con-el-mep-y-el-ccl/",
+     "imagen": "https://www.cronista.com/resizer/v2/CDSIDYG5N5CQ7DWVMOH4EMFPCE.jpg?auth=c1754c5591ee3d18d1254d3ceee7d9a8e8ffea64b5c8beb26e0e35e435221da2&smart=true&width=740&height=494",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:22",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Dólar blue hoy: a cuánto cotiza el miércoles 28 de octubre con el MEP y el CCL"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "el riesgo país se acercó a 750 puntos tras el rebote de los bonos",
+     "resumen": "Tras el cimbronazo por el triunfo de Lula en Brasil, el riesgo país retrocedió 1,6% hasta los 753 puntos básicos y los bonos en dólares subieron hasta 1,44%. El Merval bajó 1% en dólares y 2,6% en pesos, mientras los ADR argentinos cayeron hasta 4,7% en Wall Street. La apreciación del real le quitó presión al tipo de cambio argentino. Para una empresa: una baja sostenida del riesgo país facilitaría el acceso a financiamiento externo más barato.",
+     "relacionadas": [
+      {
+       "id": "CR-21",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El riesgo país retrocedió y se recuperaron los bonos, pero las acciones volvieron a caer",
+       "url": "https://www.cronista.com/finanzas-mercados/se-recuperan-los-bonos-y-cede-ligeramente-el-riesgo-pais-pero-las-acciones-argentinas-siguen-en-observacion/"
+      },
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cedió el riesgo país, pero se mantuvo por encima de los 750 puntos básicos",
+       "url": "https://www.iprofesional.com/finanzas/467584-cedio-el-riesgo-pais-pero-se-mantuvo-por-encima-de-los-750-puntos-basicos"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/fin-del-efecto-lula-el-riesgo-pais-se-acerco-a-750-puntos-y-volvio-la-calma-al-mercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "¿Fin del efecto Lula?: el riesgo país se acercó a 750 puntos y volvió la calma al mercado"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "consultoras privadas estiman que la Argentina entró en recesión técnica",
+     "resumen": "Equilibra y Orlando J. Ferreres calcularon una leve mejora de la actividad en septiembre, insuficiente para compensar la caída de julio, lo que dejaría al tercer trimestre en baja frente al segundo. Equilibra estimó un avance mensual desestacionalizado de 0,5% para el Estimador Mensual de Actividad. Con estos números, las proyecciones de crecimiento de 2026 vuelven a corregirse a la baja. Para una empresa: una actividad estancada presiona el volumen de ventas y obliga a ajustar presupuestos de corto plazo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/28/segun-estimaciones-privadas-la-economia-tuvo-un-leve-crecimiento-en-septiembre-y-la-argentina-entro-en-recesion-tecnica/",
+     "imagen": "https://www.infobae.com/resizer/v2/HNNPXLNG2JBBZBZWFSUXBEXC4A.JPG?auth=6c358e0fca312694e729abc633b7ab26137f8a3cf5973ca921c68327c70a88ac&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:50",
+     "autor": "Matías Barbería",
+     "titulo_original": "Según estimaciones privadas, la economía tuvo un leve crecimiento en septiembre y la Argentina entró en recesión técnica"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Prat-Gay cuestionó que el boom de Vaca Muerta no derrame en el resto de la economía",
+     "resumen": "El exministro de Hacienda sostuvo que los datos oficiales del Indec muestran una marcada divergencia entre el desempeño del sector petrolero y minero, que crece a un ritmo de dos dígitos, y el resto de las actividades productivas, que permanecen estancadas. Afirmó que la información oficial confirma lo que todos los argentinos perciben, aunque las autoridades no lo terminen de aceptar.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/un-boom-que-no-arrastra-prat-gay-contra-todos-en-el-debate-por-el-derrame-en-vaca-muerta-nid27102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/B7NZMEG2QJA6PDWP525SYEFAVE.jpeg?auth=f5c27dec8089f9ce6d5174913938e4afa529c26b9660db156e0645bd1c134271&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:32",
+     "autor": "",
+     "titulo_original": "Un “boom que no arrastra”: Prat Gay contra todos en el debate por el “derrame” en Vaca Muerta"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "la Reserva Federal define este miércoles si mantiene o sube la tasa de interés",
+     "resumen": "La Fed anuncia si mantiene la tasa en el rango de 3,75% a 4% o la sube, tras el incremento de 25 puntos básicos de septiembre. El mercado también espera los balances de Microsoft, Google y Amazon y la elección de medio término en Estados Unidos del 3 de noviembre, que podría despejar incertidumbre política. Para una empresa: el rumbo de las tasas en Estados Unidos influye en el costo del financiamiento externo y en el apetito por activos emergentes.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-fed-decide-si-mantiene-o-sube-la-tasa-y-wall-street-entra-en-modo-electoral/",
+     "imagen": "https://www.cronista.com/resizer/v2/JPA5ETFN5ZEFBH646XFI7Y37HQ.JPG?auth=df7c79e36c079b7e90b047bb53da6b67ecddc0a72f5e396ec89698f5f37c3ca7&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:29",
+     "autor": "Leandro Dario",
+     "titulo_original": "La Fed decide si mantiene o sube la tasa y Wall Street entra en modo electoral"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "el dólar llegó a su máximo nominal pero es el más barato en términos reales desde 2016",
+     "resumen": "La cotización del dólar alcanzó su nivel máximo nominal, pero en términos reales se ubica en el punto más bajo de la última década. El dato contrasta con la percepción de atraso cambiario que circula en el mercado.",
+     "relacionadas": [
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar blue hoy: a cuánto cotiza el miércoles 28 de octubre con el MEP y el CCL",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-miercoles-28-de-octubre-con-el-mep-y-el-ccl/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/467618-el-dolar-sigue-al-alza-pero-esta-en-el-nivel-mas-bajo-en-10-anos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615945.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:17",
+     "autor": "",
+     "titulo_original": "El dólar sube pero nunca estuvo tan barato en términos reales en la última década"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Wall Street cerró en verde a la espera de la Fed y de los balances tecnológicos",
+     "resumen": "Los operadores mantuvieron el entusiasmo por el anuncio de la oferta pública inicial de Anthropic mientras esperan una intensa agenda de balances corporativos, la decisión de tasas de la Reserva Federal y las crecientes tensiones en Medio Oriente.",
+     "relacionadas": [
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La salida de Anthropic a la Bolsa será la prueba de fuego para poner valor al negocio de la IA en Wall Street",
+       "url": "https://www.ambito.com/negocios/la-salida-anthropic-la-bolsa-sera-la-prueba-fuego-poner-valor-al-negocio-la-ia-wall-street-n6338470"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-extienden-las-subas-la-mano-las-tecnologicas-n6338261",
+     "imagen": "https://media.ambito.com/p/77291fb58efeea246119f7a2cbadb072/adjuntos/239/imagenes/043/272/0043272153/wall-street.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:04",
+     "autor": "",
+     "titulo_original": "Wall Street cerró en verde a la espera de resultados de tecnológicas y la decisión de la Fed sobre tasas"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-24",
+     "titulo": "Stellantis paralizó su planta de El Palomar hasta enero por la caída de ventas",
+     "resumen": "La automotriz dueña de Fiat, Peugeot, Citroën, Jeep y Ram frenó la fábrica bonaerense, donde se producen los Peugeot 208 y 2008, hasta el 18 de enero de 2027, y adelantó las vacaciones de sus empleados. La medida también alcanza a la planta de Ferreyra, en Córdoba. En mayo la compañía ya había eliminado un turno de trabajo en El Palomar, con la salida de al menos 600 empleados por retiros voluntarios. Para una empresa: la retracción de la industria automotriz anticipa menor demanda de insumos y servicios conexos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-duena-de-fiat-y-peugeot-frena-una-de-sus-plantas-clave-se-empieza-a-cumplir-la-profecia-del-ceo-regional/",
+     "imagen": "https://www.cronista.com/resizer/v2/J6A3VXIBEFCRJA2MEY7C24UOAE.jpg?auth=743507213ed1f9bc79c1c2a4da4cc3a82c0f5795b08124ecb18bdc2e3bf8b1a1&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:56",
+     "autor": "Equipo Negocios",
+     "titulo_original": "La dueña de Fiat y Peugeot frena una de sus plantas clave: ¿se empieza a cumplir la “profecía” del CEO regional?"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Personal y Claro reclaman nuevas reglas frente al avance de Starlink en el país",
+     "resumen": "Las dos operadoras de telecomunicaciones cuestionan los costos del espectro y las obligaciones regulatorias que enfrentan, mientras crece la conectividad satelital de la empresa de Elon Musk en la Argentina.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467641-personal-y-claro-reclaman-nuevas-reglas-ante-avance-de-starlink-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/616288.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:20",
+     "autor": "",
+     "titulo_original": "Personal y Claro reclaman nuevas reglas ante el avance de Starlink en Argentina"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "mineras australianas ven potencial en litio y oro argentinos pero temen la volatilidad política",
+     "resumen": "Empresas de Australia, que ya lidera la producción mundial de mineral de hierro y litio, valoran la geología argentina, los grandes proyectos y el RIGI como atractivos de inversión. Según el informe, temen que la política local se quiera comer el postre antes del plato principal, en referencia a la volatilidad regulatoria.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/los-tres-imanes-que-atraen-a-las-mayores-mineras-a-argentina-y-el-fantasma-que-las-desvela/",
+     "imagen": "https://www.cronista.com/resizer/v2/XJI7JWJI7NDOPG63USDLYMR5VY.png?auth=0417eab64417745a6ec1bfd912a438552ff236aa90f8366ba2781387d41d9c10&smart=true&width=900&height=301",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Martín Bidegaray",
+     "titulo_original": "Los tres imanes que atraen a las mayores mineras a Argentina y el “fantasma” que las desvela"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Ethiopian Airlines suma un vuelo semanal de carga a la Argentina desde el 31 de octubre",
+     "resumen": "La Secretaría de Transporte autorizó mediante la Disposición 26/2026 a la aerolínea africana a operar servicios regulares de carga con derechos de hasta novena libertad. La compañía utiliza una flota de Boeing 777-200LRF, 767-300F y 737-800F de carga, lo que suma capacidad de bodega al mercado argentino en un contexto de efecto aspirador de Brasil.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/transport-cargo/cuanta-capacidad-de-bodega-gana-el-mercado-argentino-con-la-llegada-de-ethiopian-airlines-cargo/",
+     "imagen": "https://www.cronista.com/resizer/v2/FMFJSL2T4BGTPBMMS5QOXMDHWU.jpg?auth=289ae439b9a6464630b88e5bb7960615c96a0b1cfe1b5ce7a8e6c968ec4c4432&smart=true&width=900&height=577",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "Cuánta capacidad de bodega gana el mercado argentino con la llegada de Ethiopian Airlines Cargo"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "un empresario argentino vendió su unicornio de biotecnología por casi 1.400 millones de dólares",
+     "resumen": "La compañía desarrolló una solución que reduce el uso de hormonas en los tratamientos de reproducción asistida, un avance que el material describe como una revolución en alternativas de salud femenina y biotecnología.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467629-un-empresario-argentino-vendio-su-unicornio-de-biotecnologia-por-casi-us1400-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628528.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:48",
+     "autor": "",
+     "titulo_original": "Un empresario argentino vendió su unicornio de biotecnología por casi u$s1.400 millones"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "la salida a bolsa de Anthropic será la prueba de fuego para valuar el negocio de la inteligencia artificial",
+     "resumen": "Los inversores buscan determinar qué expectativas de crecimiento justifican una valuación de hasta US$ 1,5 billones para la compañía y cómo esa cifra se relaciona con los ingresos, la rentabilidad operativa y los compromisos de infraestructura.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street cerró en verde a la espera de resultados de tecnológicas y la decisión de la Fed sobre tasas",
+       "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-extienden-las-subas-la-mano-las-tecnologicas-n6338261"
+      }
+     ],
+     "url": "https://www.ambito.com/negocios/la-salida-anthropic-la-bolsa-sera-la-prueba-fuego-poner-valor-al-negocio-la-ia-wall-street-n6338470",
+     "imagen": "https://media.ambito.com/p/0bd30a8a355aa184bebb0b8914c8a2c4/adjuntos/239/imagenes/043/062/0043062424/anthropic201737213579.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:27",
+     "autor": "",
+     "titulo_original": "La salida de Anthropic a la Bolsa será la prueba de fuego para poner valor al negocio de la IA en Wall Street"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "empleados de comercio cerraron un aumento salarial hasta diciembre y un nuevo bono",
+     "resumen": "La Federación Argentina de Empleados de Comercio y Servicios acordó con las cámaras del sector una suba de 5,7% para octubre, noviembre y diciembre, más un bono de $ 50.000 dividido en dos tramos. En noviembre los trabajadores cobrarán una suba de 1,9% y la segunda cuota del bono, además de continuar el pago de los $ 120.000 acordados en la negociación anterior.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cuánto cobrarán los empleados de Comercio en noviembre de 2026",
+       "url": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-comercio-noviembre-2026-n6338567"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/467620-empleados-de-comercio-acordaron-aumento-salarial-hasta-diciembre-y-un-nuevo-bono",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628455.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "04:14",
+     "autor": "",
+     "titulo_original": "Empleados de comercio acordaron aumento salarial hasta diciembre y un nuevo bono"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "ARCA precisó cuándo hay que adherir, ratificar o convalidar el Régimen Simplificado de Ganancias",
+     "resumen": "El organismo aclaró los procedimientos de adhesión, convalidación y ratificación del régimen tras publicar la reglamentación de la Ley de Inocencia Fiscal II. Según precisó en su cuenta oficial, los contribuyentes que adhirieron al esquema simplificado, regularizaron el saldo y presentaron la Declaración Jurada Simplificada no deben repetir el trámite. La aclaración llega a días del vencimiento para presentar la declaración jurada.",
+     "relacionadas": [
+      {
+       "id": "CR-03",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Ganancias: ARCA despejó una duda clave sobre la reglamentación de Inocencia Fiscal II",
+       "url": "https://www.cronista.com/economia-politica/ganancias-arca-despejo-una-duda-clave-sobre-la-reglamentacion-de-inocencia-fiscal-ii/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/467591-ganancias-simplificada-arca-indica-cuando-se-debe-adherir-ratificar-o-convalidar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/586642.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "04:04",
+     "autor": "",
+     "titulo_original": "Ganancias Simplificada: ARCA indica cuándo se debe adherir, ratificar o convalidar"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "ANSES aumentó 1,93% las jubilaciones y la mínima llegará a $ 444.158,46 en noviembre",
+     "resumen": "La actualización, oficializada por la Resolución 304/2026, sigue la variación del Índice de Precios al Consumidor de septiembre y alcanza a jubilados, pensionados, titulares de la PUAM y beneficiarios de asignaciones familiares. Se trata de la aplicación mensual del mecanismo de movilidad vigente. Para una empresa: la suba de haberes impacta en el poder de compra de un segmento relevante de clientes minoristas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/28/el-gobierno-aumento-las-jubilaciones-y-asignaciones-de-cuanto-sera-la-minima-en-noviembre/",
+     "imagen": "https://www.infobae.com/resizer/v2/XCD3NPCODZBJ5MCX5IUYJ5LUEM.png?auth=9495ceaa054b3d78be38a443e8fe580c2be9dff3f305e86639853dc9359772ae&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:28",
+     "autor": "",
+     "titulo_original": "El Gobierno aumentó las jubilaciones y asignaciones: de cuánto será la mínima en noviembre"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "el Gobierno volvió a suspender el pago de pensiones por invalidez y revisa 20.000 registros",
+     "resumen": "La Secretaría Nacional de Discapacidad dejó sin efecto la Resolución 13901/2025, que había restablecido el cobro de las pensiones no contributivas por invalidez laboral, mediante la nueva Resolución 3695/2026. Los titulares deberán iniciar un trámite de rehabilitación y presentar documentación dentro de un plazo de 60 días para recuperar el cobro del beneficio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/28/el-gobierno-puso-bajo-revision-mas-de-20-mil-registros-y-volvio-a-suspender-el-pago-de-las-pensiones-por-invalidez/",
+     "imagen": "https://www.infobae.com/resizer/v2/RU2OBX3QBZG55AGR6SG6XUMYPI.png?auth=b8e6735fe4ac4b56ef29b1a3b2de363bb75c71a6550b156a92a34af2c2e4af42&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:38",
+     "autor": "",
+     "titulo_original": "El Gobierno puso bajo revisión más de 20 mil registros y volvió a suspender el pago de las pensiones por invalidez"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "oficializaron los nuevos cuadros tarifarios de gas con los descuentos de Zonas Frías",
+     "resumen": "El Ente Nacional Regulador del Gas y la Electricidad aprobó los cuadros que regirán para el gas, con el Precio Anual Uniforme expresado según cada subzona tarifaria. La bonificación del 50% sigue vigente en Patagones, mientras que los hogares de otros distritos bonaerenses deberán cumplir condiciones de ingresos, ubicación e inscripción para acceder al descuento adicional del 20%. Para una empresa: los cuadros tarifarios diferenciados por zona impactan de forma distinta en los costos de energía de cada sucursal.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/28/oficializaron-los-nuevos-cuadros-tarifarios-de-gas-con-los-descuentos-por-zonas-frias/",
+     "imagen": "https://www.infobae.com/resizer/v2/CO54NBWB4JAGJDBXE2EUDRCJEU.jpg?auth=1871dc88b442d877a3f6760704b6f2932144278bc3e4c52a4d1cce9dbf771283&smart=true&width=900&height=504",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:00",
+     "autor": "",
+     "titulo_original": "Oficializaron los nuevos cuadros tarifarios de gas con los descuentos por Zonas Frías"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-20",
+     "titulo": "Sinteplast invertirá US$ 44 millones para ampliar su producción regional de pinturas",
+     "resumen": "La fabricante, con 13 plantas industriales, destinará US$ 30 millones a ampliar en la Argentina la producción de pinturas para el hogar, la construcción y la industria, y construye además una fábrica en Ezeiza que estará terminada en 2027. El resto de la inversión se destinará a plantas en Brasil, Paraguay, Uruguay y Bolivia. La compañía busca agilizar procesos y reducir tiempos de respuesta al mercado, según explicó su gerente Marysol Rodríguez. Para una empresa: la expansión de un proveedor clave del sector construcción puede traducirse en mejor disponibilidad de producto y plazos de entrega.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-gigante-argentino-de-las-pinturas-desembolsara-us-44-millones-para-ampliar-su-produccion-en-la-region/",
+     "imagen": "https://www.cronista.com/resizer/v2/XM6A4GFCEJCZHP2KICSKKSDISA.jpeg?auth=618d39bcfb2eab0ee1936f71d98e76208110eaa0413d80f1bff9749bcd328270&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:27",
+     "autor": "Micaela Mura",
+     "titulo_original": "El imperio de las pinturas que nació como empresa familiar ahora acelera su apuesta en Brasil"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "los créditos hipotecarios crecen por tercer mes consecutivo con mejores tasas bancarias",
+     "resumen": "Según el economista Andrés Salinas, las altas de nuevos préstamos crecieron por tercer mes seguido y, de mantenerse el ritmo, 2026 podría cerrar con más de la mitad de los créditos otorgados durante 2025. Varias entidades redujeron sus tasas gracias a mayor fondeo de largo plazo, incluidos recursos del Fondo de Garantía de Sustentabilidad destinados al crédito hipotecario. Para una empresa: la reactivación del crédito para vivienda sostiene la demanda de materiales de construcción.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/creditos-hipotecarios-que-sueldo-necesitas-y-cuanto-cuesta-la-cuota-en-los-dos-bancos-con-mejores-tasas/",
+     "imagen": "https://www.cronista.com/resizer/v2/C4DS6E6SEBDPLAC6HMGO7QEDGM.jpg?auth=6c7e049d61b87f97b32cd2eb37566344cd6187836eb4b9d8a695ba8fd000096c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Créditos hipotecarios: qué sueldo necesitás y cuánto cuesta la cuota en los dos bancos con mejores tasas"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "el negocio de Halloween vende 30% más que el año pasado",
+     "resumen": "Los productos de cotillón, decoración y disfraces registran un aumento en las unidades vendidas respecto de 2025. Los precios congelados de estos productos contribuyeron a sostener el negocio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/crece-negocio-halloween-vende-30-ano-pasado_0_gND4pDqcf7.html",
+     "imagen": "https://www.clarin.com/img/2026/10/27/1b4oxHWKd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crece el negocio de Halloween y se vende un 30% más que el año pasado"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "la oferta de neumáticos se multiplicó con marcas chinas en el mercado argentino",
+     "resumen": "La ampliación de la oferta de neumáticos en la Argentina incluye nuevas marcas chinas, con diferencias de precio que pueden ser grandes entre modelos. Revisar medidas, fabricación y servicios evita sorpresas al momento de pagar, según el material.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/neumaticos-argentina-lista-precios-marcas-chinas-y-consejos-comprar-bien-2026-n6338302",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:00",
+     "autor": "",
+     "titulo_original": "Neumáticos en Argentina: lista de precios, marcas chinas y consejos para comprar bien en 2026"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "cuánto del sueldo se destina hoy a comprar leche en Buenos Aires",
+     "resumen": "Aunque parece un gasto menor, la compra semanal de leche puede representar una parte importante del presupuesto familiar, según el relevamiento difundido este miércoles.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/precio-la-leche-buenos-aires-cuanto-se-destina-hoy-del-sueldo-llenar-la-heladera-n6338347",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "Precio de la leche en Buenos Aires: ¿cuánto se destina hoy del sueldo para llenar la heladera?"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "Flávio Bolsonaro huyó de Brasil hacia Estados Unidos pese a la prohibición judicial",
+     "resumen": "Migraciones confirmó que el senador tomó un vuelo privado en Puerto Iguazú, Misiones, la noche del martes, después de perder las elecciones ante Lula da Silva y pese a que la Justicia brasileña le había cancelado los pasaportes por una causa de lavado de dinero. El avión, un Gulfstream G400 con ocho personas a bordo, hizo escala en Guayaquil, Ecuador, para cargar combustible antes de llegar a Opa-locka, cerca de Miami, por una ruta que evitó el territorio brasileño. El gobierno de Donald Trump le concedería una visa y el senador se reunió con su hermano Eduardo en Estados Unidos.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El comunicado de Migraciones que llegó después de dejar correr las versiones: cómo y con quién se fugó Flávio Bolsonaro",
+       "url": "https://www.clarin.com/mundo/comunicado-migraciones-llego-despues-dejar-correr-versiones-fugo-flavio-bolsonaro_0_OwDUB9uN1w.html"
+      },
+      {
+       "id": "CL-25",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El avión privado que esperó todo un día finalmente despegó con Bolsonaro y su familia desde Iguazú pasada la medianoche",
+       "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
+      },
+      {
+       "id": "IB-04",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El misterioso avión en el que viaja Flávio Bolsonaro hizo escala en Ecuador tras despegar de Argentina rumbo EEUU",
+       "url": "https://www.infobae.com/america/mundo/2026/10/28/el-misterioso-avion-en-el-que-viaja-flavio-bolsonaro-finalmente-despego-de-argentina-rumbo-a-estados-unidos/"
+      },
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Flávio Bolsonaro escapó hacia EE.UU. y el gobierno de Trump le concederá una visa",
+       "url": "https://www.iprofesional.com/politica/467607-flavio-bolsonaro-escapo-hacia-eeuu-y-el-gobierno-de-trump-le-concedera-una-visa"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Una fuga de película: cómo fue el escape Bolsonaro de Brasil rumbo a EE.UU.",
+       "url": "https://www.iprofesional.com/politica/467646-una-fuga-de-pelicula-como-fue-el-escape-bolsonaro-de-brasil-rumbo-a-eeuu"
+      },
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "No es por todo y para todos: en qué casos se puede pedir asilo en EE.UU., como Bolsonaro",
+       "url": "https://www.iprofesional.com/politica/467645-no-es-para-todos-en-que-casos-se-puede-pedir-asilo-en-estados-unidos-como-flavio-bolsonaro"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Afirman que Flávio Bolsonaro llegó a EEUU junto a su familia: encuentro con su hermano Eduardo y visas otorgadas por Donald Trump",
+       "url": "https://www.ambito.com/mundo/aseguran-que-flavio-bolsonaro-huyo-brasil-y-se-encuentra-un-vuelo-eeuu-n6338446"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/migraciones-confirmo-que-flavio-bolsonaro-vuela-desde-argentina-hacia-estados-unidos/",
+     "imagen": "https://www.cronista.com/resizer/v2/YQ23GOAOOVEGRBG4CY4XX66DYU.jpg?auth=16b8a55672226007f1847de7830a5528a1d7310bc789a722a6648a0363182762&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:00",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Migraciones confirmó que Flávio Bolsonaro salió de Brasil y viaja desde Argentina hacia EE.UU."
+    },
+    {
+     "id": "LN-20",
+     "titulo": "Lula calificó de vergonzosa la fuga de Bolsonaro y agradeció los saludos de Cristina Kirchner",
+     "resumen": "El presidente reelecto de Brasil dijo que Flavio Bolsonaro podría haberse quedado en el país para demostrar que las acusaciones en su contra son falsas y calificó de vergonzosa su salida hacia Estados Unidos. Durante la celebración de su cumpleaños número 81, Lula también agradeció los mensajes de felicitación de Cristina Kirchner, Sergio Massa y Alberto Fernández tras su triunfo en el balotaje, en el que superó el 51% de los votos y asumirá su cuarto mandato el 5 de enero de 2027.",
+     "relacionadas": [
+      {
+       "id": "LN-25",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Flavio Bolsonaro huyó de Brasil a EE.UU., pese a una prohibición de la Justicia tras su derrota electoral",
+       "url": "https://www.lanacion.com.ar/el-mundo/la-policia-federal-de-brasil-investiga-si-flavio-bolsonaro-huyo-de-brasil-a-la-argentina-para-viajar-nid27102026/"
+      },
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Lula agradeció los saludos de Cristina Kirchner y de otros dirigentes políticos tras su victoria",
+       "url": "https://www.lanacion.com.ar/politica/lula-le-agradecio-a-sergio-massa-y-a-alberto-fernandez-por-sus-felicitaciones-tras-la-victoria-nid27102026/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "En medio del silencio del Gobierno, Lula le agradeció a Cristina Kirchner y a Sergio Massa los mensajes tras el triunfo",
+       "url": "https://www.ambito.com/politica/en-medio-del-silencio-del-gobierno-lula-le-agradecio-cristina-kirchner-y-sergio-massa-los-mensajes-el-triunfo-n6338607"
+      },
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Lula da Silva calificó de \"vergonzosa\" la salida de Flávio Bolsonaro de Brasil hacia EEUU",
+       "url": "https://www.ambito.com/mundo/lula-da-silva-califico-vergonzosa-la-salida-flavio-bolsonaro-brasil-eeuu-n6338597"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/lula-dijo-que-una-fuga-de-flavio-bolsonaro-hacia-estados-unidos-seria-vergonzosa-nid27102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EENYB6V2N5DWBPOIUYBY6KTMSA.jpg?auth=153d119fcf3c1ca7a1bd669da274bc0b558dcc9a455f4d4c7c7324f7dc9da05c&smart=true&width=900&height=603",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:58",
+     "autor": "",
+     "titulo_original": "Lula dijo que la fuga de Flavio Bolsonaro hacia Estados Unidos es “vergonzosa”"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "las elecciones legislativas de Israel dejaron un resultado ajustado sin mayoría clara",
+     "resumen": "Con el 72,4% de las urnas escrutadas, el oficialismo de Likud contaba con 54 bancas y los partidarios del ex general Gadi Eisenkot con 48, por lo que los 18 lugares de los partidos árabes se perfilaban como decisivos para formar gobierno. La participación entre los militares israelíes alcanzó casi el 80%, la cifra más alta desde 1999, según las Fuerzas de Defensa de Israel.",
+     "relacionadas": [
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Ejército israelí informó que la participación electoral entre los militares alcanzó casi el 80%",
+       "url": "https://www.infobae.com/america/mundo/2026/10/28/el-ejercito-israeli-informo-que-la-participacion-electoral-entre-los-militares-alcanzo-casi-el-80/"
+      },
+      {
+       "id": "CR-25",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Israel, ante un escenario sin mayoría: el futuro gobierno dependerá de semanas de negociación",
+       "url": "https://www.cronista.com/financial-times/israel-ante-un-escenario-sin-mayoria-el-futuro-gobierno-dependera-de-semanas-de-negociacion/"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cerraron los comicios en Israel: los sondeos dan ventaja a la oposición, pero Netanyahu aún puede conservar el poder",
+       "url": "https://www.ambito.com/mundo/cerraron-los-comicios-israel-el-partido-netanyahu-se-perfila-como-el-mas-votado-pero-no-lograria-la-mayoria-gobernar-n6338547"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/elecciones-legislativas-israel-netanyahu-oposicion-alcanzan-numeros-gobernar-partidos-arabes-perfilan-decisivos_0_SslrYfdvdX.html",
+     "imagen": "https://www.clarin.com/img/2026/10/28/c_rmJ57TX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "02:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Elecciones legislativas en Israel: Netanyahu y la oposición no alcanzan los números para gobernar y los partidos árabes se perfilan como decisivos"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Trump aseguró que muy pronto se reunirán Putin y Zelensky por el fin de la guerra en Ucrania",
+     "resumen": "El presidente de Estados Unidos dijo a su llegada a la Base Conjunta Andrews que muy pronto se organizará un encuentro entre los mandatarios ruso y ucraniano y que podrían lograrse grandes avances. El anuncio se produjo después de que Zelensky afirmara que una reunión trilateral con Estados Unidos y Rusia se celebraría en noviembre.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/28/trump-aseguro-que-muy-pronto-se-organizara-una-reunion-entre-putin-y-zelensky-para-avanzar-hacia-el-fin-de-la-guerra-en-ucrania/",
+     "imagen": "https://www.infobae.com/resizer/v2/DHH54MVD4BEWLCMTYDNVEMYKFM.JPG?auth=9001d0810e460abecc0d8c69587c11cb801e47c0bf1a8e195060a2f7ddd93ec2&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:42",
+     "autor": "",
+     "titulo_original": "Trump aseguró que “muy pronto” se organizará una reunión entre Putin y Zelensky para avanzar hacia el fin de la guerra en Ucrania"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "al menos diez muertos por el choque de dos trenes de alta velocidad en Toledo, España",
+     "resumen": "Dos trenes de alta velocidad, un AVE de Renfe y un Iryo, colisionaron este miércoles en la línea Madrid-Sevilla, a la altura de Urda, e hicieron volcar dos vagones por un terraplén. Las autoridades confirmaron al menos 10 muertos y advirtieron que la cifra podría aumentar; Adif e Iryo activaron sus protocolos de emergencia y el servicio quedó suspendido entre Madrid, Ciudad Real y Andalucía. El presidente Pedro Sánchez y varios ministros suspendieron sus agendas para seguir de cerca el operativo.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Accidente de trenes en Toledo, en directo: al menos 10 muertos tras el choque entre un Iryo y un AVE en la línea de Madrid-Andalucía",
+       "url": "https://www.infobae.com/espana/2026/10/28/en-directo-accidente-ferroviario-en-toledo-numerosos-heridos-tras-el-choque-de-dos-trenes-en-la-linea-madrid-andalucia/"
+      },
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Efectivos de la UME se trasladan al lugar del accidente ferroviario de Urda (Toledo)",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/28/efectivos-de-la-ume-se-trasladan-al-lugar-del-accidente-ferroviario-de-urda-toledo/"
+      },
+      {
+       "id": "IB-08",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Sánchez y sus ministros suspenden agendas tras el accidente ferroviario de Toledo",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/28/sanchez-y-sus-ministros-suspenden-agendas-tras-el-accidente-ferroviario-de-toledo/"
+      },
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Iryo activa sus protocolos de emergencia y cancela sus servicios de Madrid al Corredor Sur",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/28/iryo-activa-sus-protocolos-de-emergencia-y-cancela-sus-servicios-de-madrid-al-corredor-sur/"
+      },
+      {
+       "id": "IB-10",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Adif analiza todos sus sistemas para identificar la causa del accidente",
+       "url": "https://www.infobae.com/espana/agencias/2026/10/28/adif-analiza-todos-sus-sistemas-para-identificar-la-causa-del-accidente/"
+      },
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Elecciones generales España 29-N, en directo | El choque de trenes en Toledo paraliza la precampaña electoral de todos los partidos excepto Vox",
+       "url": "https://www.infobae.com/espana/2026/10/28/elecciones-generales-espana-29-n-en-directo-ultima-hora-de-los-sondeos-la-ley-de-nietos-y-la-precampana/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/dos-trenes-de-alta-velocidad-chocaron-en-toledo-al-menos-10-muertos-nid28102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ODFG6UZP4FF5HGAXVSDC7FJXSQ.png?auth=43a78a12724660ebda8c14708070207cbbe979b18e14993ff6bbe7dbce07b2ae&smart=true&width=770&height=536",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:05",
+     "autor": "",
+     "titulo_original": "Dos trenes de alta velocidad chocaron en Toledo: al menos 10 muertos"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "el papa León XIV confirmó que mantiene su viaje a la Argentina, Uruguay y Perú",
+     "resumen": "El Pontífice ratificó en una publicación en X que realizará la gira prevista del 6 al 17 de noviembre, tras la cirugía a la que fue sometido por un cáncer de pulmón. La Santa Sede informó que su recuperación avanza y que el equipo médico no encontró contraindicaciones para el recorrido.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-mensaje-completo-del-papa-leon-xiv-para-confirmar-su-viaje-a-la-argentina-me-llena-de-alegria-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/QNQ4MDUXGRCFFA45X3M6SMPWIM.JPG?auth=1ffbcf9856496cc04e3afc44c90ee978b388ca8cf6667348a20b7bfd350dd74b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:46",
+     "autor": "",
+     "titulo_original": "El mensaje completo del papa León XIV para confirmar su viaje a la Argentina: “Me llena de alegría regresar”"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "la AFA prepara un nuevo torneo de 30 equipos con cambios proyectados hasta 2029",
+     "resumen": "Vuelve el formato de todos contra todos pero con 30 equipos, dos copas y un torneo anual. El formato se somete a votación este jueves, aunque todos los clubes ya habrían dado su aprobación, y el plan prevé aumentar los descensos en los próximos años.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/trama-detras-nuevo-torneo-cocina-afa-plan-cambios-proyectado-2029_0_P3JmtLqW3Y.html",
+     "imagen": "https://www.clarin.com/img/2026/10/27/fykv_vw5f_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La trama detrás del nuevo torneo que cocina la AFA y cuál es el plan de cambios proyectado hasta 2029"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "el VAR volvió a generar ruido en River con diez goles anulados antes del Superclásico",
+     "resumen": "Las anulaciones se dieron entre las temporadas 2025 y 2026 con distintos protagonistas. Para el Superclásico de esta semana se confirmó que Nicolás Ramírez será el árbitro y Silvio Trucco estará en el videoarbitraje.",
+     "relacionadas": [
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "River y Boca juegan otro Superclásico: quién tiene el plantel más caro y recauda más por sponsors",
+       "url": "https://www.ambito.com/negocios/river-y-boca-juegan-otro-superclasico-quien-tiene-el-plantel-mas-caro-y-recauda-mas-sponsors-n6338312"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/lupa-goles-anulados-river-intervenciones-var-hacen-ruido-millonario-superclasico-boca_0_SOMxB8TwLW.html",
+     "imagen": "https://www.clarin.com/img/2026/06/01/ZnJjIihXrJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La lupa en los diez goles anulados a River: las intervenciones del VAR que hacen ruido en el Millonario antes del Superclásico contra Boca"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Vignolo destacó la calma del Boca de Arruabarrena a una semana del Superclásico",
+     "resumen": "En su editorial en ESPN F90, el periodista remarcó que el equipo dirigido por Rodolfo Arruabarrena muestra una estructura sólida que trasciende la suerte, de cara al partido ante River.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/sebastian-vignolo-el-gran-merito-del-boca-de-arruabarrena-es-que-esta-en-calma-en-paz-nadie-grita-ni-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GFTUGHP5HVC3BCCYKZ3Y3HFVVQ.jpg?auth=5cd41a630cf0972c21ac93a7ea2272b7b1d0dbb8499917ac8e835ef274fef71f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:19",
+     "autor": "",
+     "titulo_original": "Sebastián Vignolo: “El gran mérito del Boca de Arruabarrena es que está en calma, en paz; nadie grita ni gesticula”"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Harry Kane ganó el Balón de Oro tras una temporada histórica en el Bayern Múnich",
+     "resumen": "El delantero marcó 73 goles en la temporada, se consagró campeón de la Bundesliga y la DFB-Pokal y conquistó la Bota de Oro europea por segunda vez. No todos coincidieron con la elección: Benjamín Agüero, hijo de Sergio Kun Agüero, lo cuestionó en redes, y el exjugador del Real Madrid Guti sostuvo que Lamine Yamal y Mbappé lo merecían más.",
+     "relacionadas": [
+      {
+       "id": "LN-17",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Se conocieron cuando eran compañeros de colegio, se casaron en una playa paradisíaca y hay pocas fotos juntos: la historia de amor de Harry Kane y Katie Goodland",
+       "url": "https://www.lanacion.com.ar/deportes/se-conocieron-cuando-eran-companeros-de-colegio-se-casaron-en-una-playa-paradisiaca-y-ahora-el-nid28052026/"
+      },
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Benjamín Agüero le tiró un palito a Harry Kane tras ganar el Balón de Oro: la foto que publicó",
+       "url": "https://www.lanacion.com.ar/deportes/benjamin-aguero-le-tiro-un-palito-a-harry-kane-tras-ganar-el-balon-de-oro-la-foto-que-publico-nid27102026/"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Una leyenda del Real Madrid criticó el Balón de Oro a Harry Kane: \"Lamine y Mbappé se lo merecían más\"",
+       "url": "https://www.ambito.com/deportes/una-leyenda-del-real-madrid-critico-el-balon-oro-harry-kane-lamine-y-mbappe-se-lo-merecian-mas-n6338588"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/katie-goodland-amor-incondicional-harry-kane-conocieron-colegio-escudo-haters-hoy-celebran-balon-oro_0_LdclwhlQyN.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/VW51BR0p1n_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Quién es Katie Goodland, el amor incondicional de Harry Kane: se conocieron en el colegio, fue su escudo contra los haters y hoy celebran el Balón de Oro"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Estudiantes quedó a un partido de clasificar al Mundial de Clubes 2029",
+     "resumen": "El Pincha se clasificará a la cita si vence a Palmeiras en la final de la Copa Libertadores, en una edición que repartirá seis plazas para Sudamérica. El técnico de Flamengo, Leonardo Jardim, advirtió que su equipo buscará una eliminación automática de Estudiantes por la vía de un reclamo de sus abogados.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El técnico de Flamengo advirtió que buscarán eliminar automáticamente a Estudiantes de la Copa Libertadores: \"Es posible\"",
+       "url": "https://www.ambito.com/deportes/el-tecnico-flamengo-advirtio-que-buscaran-eliminar-automaticamente-estudiantes-la-copa-libertadores-es-posible-n6338564"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/10/28/como-estan-los-clubes-argentinos-en-la-clasificacion-conmebol-rumbo-al-mundial-de-clubes-2029/",
+     "imagen": "https://www.infobae.com/resizer/v2/NXO72B3ZOFA77OKCSDSPKM6BJY.jpg?auth=19202c5a92fdfabe38544f3a7b4663c22d0e1577568a4bd26f492c7551a0fd42&smart=true&width=800&height=531",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:56",
+     "autor": "",
+     "titulo_original": "Cómo están los clubes argentinos en la clasificación Conmebol rumbo al Mundial de Clubes 2029"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "se cumplieron 75 años del primer título de Fangio en la Fórmula 1",
+     "resumen": "El 28 de octubre de 1951, Juan Manuel Fangio ganó el Gran Premio de España en el circuito callejero de Pedralbes con un Alfa Romeo 159 y se consagró campeón ante su rival y amigo Alberto Ascari. El triunfo, a sus 40 años, marcó el inicio de su camino de gloria en la categoría.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/28/a-75-anos-del-primer-titulo-de-fangio-en-la-formula-1-la-apuesta-con-su-rival-la-mentira-de-su-equipo-y-que-paso-con-el-auto-de-la-hazana/",
+     "imagen": "https://www.infobae.com/resizer/v2/PYOV5EXKXNFGFLY6RVH2GDXHGU.jpg?auth=08cba890414e11a42d44f7ba950777892d9e215c6b537fabbc972b91e0dcfb11&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:56",
+     "autor": "Darío Coronel",
+     "titulo_original": "A 75 años del primer título de Fangio en la Fórmula 1: la apuesta con su rival, la mentira de su equipo y qué pasó con el auto de la hazaña"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Wayne Rooney cuestionó al plantel del Manchester United y apuntó contra Lisandro Martínez",
+     "resumen": "El exdelantero criticó con dureza al equipo tras una nueva derrota en la Premier League que lo dejó en el puesto 16, a un punto del descenso, y dedicó una mención particular al defensor argentino. En el podcast The United Strand, Rooney resumió las falencias del plantel dirigido por Michael Carrick con una frase contundente sobre la falta de hambre y compromiso.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/28/un-historico-del-manchester-united-apunto-contra-el-plantel-por-el-mal-presente-y-fue-directo-con-lisandro-martinez-da-la-cara/",
+     "imagen": "https://www.infobae.com/resizer/v2/IX2CATBCCBGS7LKUES4LDTYGI4.JPG?auth=a31897d755abd0bc6bd524370b6d7e86996f1d985effe3e2fb67007753b28de7&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "23:45",
+     "autor": "",
+     "titulo_original": "Un histórico del Manchester United apuntó contra el plantel por el mal presente y fue directo con Lisandro Martínez: “Da la cara”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-07",
+     "titulo": "las vacaciones de verano en Brasil se disparan tras la devaluación del real",
+     "resumen": "Las reservas de paquetes turísticos a Brasil crecieron hasta 50% en las primeras horas posteriores al resultado electoral que consagró a Lula. La demanda de viajes a Camboriú trepó más de 100% y la de Búzios, 75%, con subas también en la búsqueda de aéreos y hoteles.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/vacaciones-verano-2027-brasil-dispararon-compras-paquetes-turisticos-devaluacion-real_0_d3SF3dcK5W.html",
+     "imagen": "https://www.clarin.com/img/2026/01/13/0b_LjdQQS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Vacaciones de verano 2027 en Brasil: se dispararon las compras de paquetes turísticos tras la devaluación del real"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-25",
+     "titulo": "identificaron a nueve desaparecidos más en el centro clandestino La Perla, en Córdoba",
+     "resumen": "Los trabajos del Equipo Argentino de Antropología Forense en la Guarnición Militar de La Calera permitieron identificar los restos de nueve personas secuestradas en 1976, entre ellas trabajadores, estudiantes, docentes y delegados sindicales. Con estas confirmaciones, ascienden a 38 las personas identificadas en el predio donde funcionó el centro clandestino de detención, tortura y exterminio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/28/quienes-son-los-nueve-desaparecidos-que-identificaron-en-el-centro-clandestino-de-detencion-la-perla/",
+     "imagen": "https://www.infobae.com/resizer/v2/GOR372CBLVDENNE3YKBPDCQDWQ.png?auth=6ee45cb3ee11e291fc0b1b21590fc5e6458bc6248edff2c8075ea1bd951a9e93&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:20",
+     "autor": "",
+     "titulo_original": "Quiénes son los nueve desaparecidos que identificaron en el centro clandestino de detención La Perla"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "cierra hoy la inscripción para la vigilia de jóvenes con el papa León XIV",
+     "resumen": "Pueden anotarse quienes tengan entre 15 y 35 años, que recibirán un código QR para acceder a los espacios más cercanos al Pontífice durante su visita. Los organizadores esperan a unos 200.000 chicos en el evento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/cierra-hoy-inscripcion-cerca-papa-leon-xiv-vigilia-jovenes-anotarse_0_ALyhaDscdX.html",
+     "imagen": "https://www.clarin.com/img/2026/10/19/xUYbOu1_3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cierra hoy la inscripción para estar cerca del Papa León XIV en la vigilia de los jóvenes: cómo anotarse"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "un ranking global ubicó a los médicos como la profesión más confiable para los argentinos",
+     "resumen": "El Índice de Confiabilidad Global 2026 de Ipsos midió la percepción en 31 países y encontró que, en la Argentina, los médicos generan la menor desconfianza. Los políticos y funcionarios de gobierno resultaron los más cuestionados por la sociedad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/profesiones-sospechadas-argentinos-revelo-ranking-global_0_fTp6PMEwDT.html",
+     "imagen": "https://www.clarin.com/img/2026/06/13/devC78NND_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cuáles son las profesiones más y menos sospechadas por los argentinos: lo que reveló un ranking global"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del miércoles 28 de octubre.\n\nLa fuga de Flávio Bolsonaro hacia Estados Unidos domina la agenda internacional y agrega tensión a los mercados que todavía procesan el triunfo de Lula da Silva en Brasil. En la Argentina, el riesgo país se acercó a los setecientos cincuenta puntos básicos y el Gobierno negoció con Washington los últimos cambios para destrabar la ley Malvinas en el Congreso. En España, el choque de dos trenes de alta velocidad en Toledo dejó al menos diez muertos y paralizó la agenda política. El dólar oficial se mantiene estable en mil quinientos sesenta pesos para la venta, el dólar blue cotiza en mil quinientos setenta y cinco pesos, el oro ronda los cuatro mil sesenta y ocho dólares la onza y el riesgo país cerró ayer en setecientos cincuenta y tres puntos básicos.\n\nEn política, el Gobierno cedió ante Estados Unidos y logró dictaminar en comisión el proyecto de ley Malvinas, aunque persisten dudas sobre el capítulo referido a las campañas de desinformación; la Libertad Avanza prevé llevarlo al recinto el doce de noviembre. El oficialismo también disolvió el Iosfa, la obra social de las Fuerzas Armadas, mediante un decreto publicado en el Boletín Oficial. El Ministerio de Seguridad creó un programa para priorizar la captura de los prófugos más peligrosos, y el proyecto de Defensa de la Soberanía Nacional creció de ciento treinta y tres a ciento cincuenta y cuatro artículos. Dos organizaciones pidieron que una fiscalía especializada reactive la investigación por el caso Libra, tras los sobreseimientos de Javier y Karina Milei. Máximo Kirchner encabezó un acto por los dieciséis años de la muerte de su padre y pidió la liberación de Cristina Kirchner, mientras una encuesta de CB Global Data midió a Patricia Bullrich en distintos escenarios presidenciales con resultados dispares.\n\nEn economía y mercados, el riesgo país retrocedió uno coma seis por ciento hasta los setecientos cincuenta y tres puntos básicos y los bonos en dólares subieron hasta uno coma cuarenta y cuatro por ciento, aunque el índice Merval bajó tanto en pesos como en dólares. Consultoras privadas como Equilibra y Orlando Ferreres estiman que la economía argentina entró en recesión técnica, con una leve mejora en septiembre que no alcanza a compensar la caída de julio. El exministro Alfonso Prat Gay cuestionó que el boom de Vaca Muerta no derrame todavía en el resto de la economía, según los datos del Indec. La Reserva Federal de Estados Unidos define hoy si mantiene la tasa de interés entre tres coma setenta y cinco y cuatro por ciento, en una semana marcada además por los balances de las grandes tecnológicas y la elección de medio término norteamericana. El dólar llegó a su máximo nominal, pero según iProfesional nunca estuvo tan barato en términos reales desde dos mil dieciséis. En Wall Street, las acciones cerraron en verde a la espera de la Fed, con el entusiasmo por el anuncio de la salida a bolsa de Anthropic todavía vigente.\n\nEn negocios y empresas, la automotriz Stellantis paralizó su planta de El Palomar hasta enero por la caída de las ventas, una medida que también alcanza a su fábrica de Ferreyra, en Córdoba. Personal y Claro reclaman nuevas reglas frente al avance de Starlink en el país. Mineras australianas ven potencial en litio y oro argentinos, aunque temen la volatilidad de la política local. Ethiopian Airlines suma desde el treinta y uno de octubre un vuelo semanal de carga a la Argentina, y un empresario argentino vendió su unicornio de biotecnología por casi mil cuatrocientos millones de dólares. La salida a bolsa de Anthropic será, según el mercado, la prueba de fuego para valuar el negocio de la inteligencia artificial.\n\nEn impuestos, laboral y normativa, los empleados de comercio cerraron un aumento del cinco coma siete por ciento para octubre, noviembre y diciembre, más un bono de cincuenta mil pesos. ARCA precisó cuándo hay que adherir, ratificar o convalidar el Régimen Simplificado de Ganancias, a días del vencimiento para presentar la declaración jurada. ANSES aumentó uno coma noventa y tres por ciento las jubilaciones y llevará la mínima a cuatrocientos cuarenta y cuatro mil ciento cincuenta y ocho pesos en noviembre. El Gobierno, en cambio, volvió a suspender el pago de las pensiones por invalidez y puso bajo revisión más de veinte mil registros. También se oficializaron los nuevos cuadros tarifarios de gas con los descuentos de Zonas Frías.\n\nEn consumo, construcción y retail, Sinteplast invertirá cuarenta y cuatro millones de dólares para ampliar su producción de pinturas para el hogar, la construcción y la industria, con una nueva fábrica en Ezeiza para dos mil veintisiete. Los créditos hipotecarios crecen por tercer mes consecutivo gracias a mejores tasas bancarias. El negocio de Halloween vende treinta por ciento más que el año pasado, la oferta de neumáticos se multiplicó con marcas chinas y un relevamiento repasó cuánto del sueldo se destina hoy a comprar leche en Buenos Aires.\n\nEn el mundo, Flávio Bolsonaro huyó de Brasil hacia Estados Unidos en un vuelo privado que partió de Puerto Iguazú, pese a que la Justicia brasileña le había cancelado los pasaportes por una causa de lavado de dinero; el avión hizo escala en Guayaquil y el Gobierno de Donald Trump le concedería una visa. Lula da Silva calificó de vergonzosa la fuga y agradeció los saludos de Cristina Kirchner, Sergio Massa y Alberto Fernández tras su triunfo en el balotaje. En Israel, las elecciones legislativas dejaron un resultado ajustado, sin mayoría clara entre el oficialismo de Likud y la oposición liderada por el ex general Gadi Eisenkot. Donald Trump aseguró que muy pronto se reunirán Vladimir Putin y Volodimir Zelensky para avanzar hacia el fin de la guerra en Ucrania. En España, el choque de dos trenes de alta velocidad en Toledo dejó al menos diez muertos y llevó al presidente Pedro Sánchez a suspender su agenda. El papa León catorce confirmó que mantiene su viaje a la Argentina, Uruguay y Perú, previsto del seis al diecisiete de noviembre.\n\nEn deportes, la AFA prepara un nuevo torneo de treinta equipos con dos copas y un campeonato anual, que se somete a votación este jueves. El VAR volvió a generar ruido en River con diez goles anulados antes del Superclásico, mientras Sebastián Vignolo destacó la calma del Boca de Arruabarrena de cara al partido. Harry Kane ganó el Balón de Oro tras una temporada histórica en el Bayern Múnich, aunque no todos coincidieron con la elección. Estudiantes de La Plata quedó a un partido de clasificar al Mundial de Clubes dos mil veintinueve si le gana la final de la Copa Libertadores a Palmeiras, mientras Flamengo amenaza con buscar su eliminación por la vía de los tribunales deportivos. Se cumplieron setenta y cinco años del primer título de Juan Manuel Fangio en la Fórmula uno, y Wayne Rooney cuestionó con dureza al plantel del Manchester United, con una mención particular al defensor argentino Lisandro Martínez.\n\nEn sociedad, el Equipo Argentino de Antropología Forense identificó a nueve desaparecidos más en el centro clandestino La Perla, en Córdoba, y ya suma treinta y ocho personas identificadas en ese predio. Hoy cierra la inscripción para la vigilia de jóvenes con el papa León catorce, y un ranking global de Ipsos ubicó a los médicos como la profesión más confiable para los argentinos.\n\nPara cerrar, en turismo las vacaciones de verano en Brasil se disparan tras la devaluación del real, con subas de más de cien por ciento en la demanda de viajes a Camboriú y de setenta y cinco por ciento a Búzios.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Fallaron las descargas de iProfesional/management e iProfesional/turismo (IncompleteRead), por lo que se omitió la sección de Management y finanzas corporativas y no hubo material propio de turismo argentino. En esta corrida no apareció ningún destino dentro de la Argentina en ninguna fuente; se usó como nota de turismo la de los paquetes a Brasil (CL-07), que fue la mejor disponible. Le Grand Continent no publicó notas en esta ventana, por lo que se omitió la sección Europa y geopolítica.",
+ "slug": "2026-10-28-manana",
+ "generado_ba": "28/10/2026 10:17"
+}
