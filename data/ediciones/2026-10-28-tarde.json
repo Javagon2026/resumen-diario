@@ -1,0 +1,836 @@
+{
+ "fecha": "2026-10-28",
+ "edicion": "tarde",
+ "titulo": "Bolsonaro se declara presidente electo y el riesgo país vuelve a subir",
+ "apertura": "Desde Miami, Flávio Bolsonaro se declaró presidente electo de Brasil y agradeció a Javier Milei y a Donald Trump, mientras en el Congreso crecen los pedidos de explicaciones por el rol del Gobierno argentino en su fuga. El riesgo país volvió a superar los 760 puntos básicos pese a que el Tesoro renovó el 107% de los vencimientos de deuda, y YPF y Vista Energy reportaron ganancias récord de la mano de Vaca Muerta. En España se confirmó la muerte de una argentina y la búsqueda de otro connacional desaparecido en el choque de trenes de Toledo.",
+ "claves": [
+  "Flávio Bolsonaro, desde Miami, se declaró presidente electo de Brasil, denunció un fraude electoral y agradeció a Javier Milei y a Donald Trump por su respaldo.",
+  "La salida de Bolsonaro a través de la Argentina generó pedidos de interpelación a los cancilleres Pablo Quirno y Diego Santilli en el Congreso.",
+  "El riesgo país argentino volvió a superar los 760 puntos básicos y los bonos en dólares borraron las subas que habían tenido durante la rueda.",
+  "El Tesoro logró renovar el 107% de los vencimientos de deuda en la licitación de este miércoles.",
+  "YPF y Vista Energy reportaron ganancias récord en el tercer trimestre, impulsadas por la producción de Vaca Muerta.",
+  "La Reserva Federal de Estados Unidos mantuvo la tasa de interés en el rango de 3,75% a 4% y dejó abierta la puerta a una suba en diciembre.",
+  "Confirmaron la muerte de una argentina y la búsqueda de otro connacional desaparecido en el choque de trenes de Toledo, España.",
+  "Franco Colapinto buscará recuperarse con Alpine en el Gran Premio de México de Fórmula 1, tras su abandono en Estados Unidos."
+ ],
+ "cifras": [
+  {
+   "nombre": "Ebitda ajustado de YPF (tercer trimestre)",
+   "valor": "US$ 2.503 millones",
+   "variacion": "+84% interanual",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Ebitda ajustado de Vista Energy (tercer trimestre)",
+   "valor": "US$ 841 millones",
+   "variacion": "+78% interanual",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Reservas brutas del Banco Central",
+   "valor": "US$ 50.601 millones",
+   "fuente": "IB-13"
+  },
+  {
+   "nombre": "Rollover de deuda del Tesoro en la licitación",
+   "valor": "107% de los vencimientos",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Aumento paritario UOCRA (trimestre septiembre-noviembre)",
+   "valor": "5,4%",
+   "fuente": "CR-06"
+  },
+  {
+   "nombre": "Jubilación mínima total en noviembre (con bono)",
+   "valor": "$ 514.027",
+   "fuente": "CR-24"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-23",
+     "titulo": "la salida de Bolsonaro genera pedidos de interpelación a Quirno y Santilli mientras Bullrich marca diferencias",
+     "resumen": "El peronismo reclama explicaciones del Gobierno por su intervención en el operativo que permitió la salida de Flávio Bolsonaro hacia Estados Unidos, y en el Senado el bloque Unión por la Patria pide que se presente el jefe de Gabinete. La titular del bloque oficialista en la Cámara alta, Patricia Bullrich, se refirió a la situación del senador brasileño y marcó distancia. La Justicia argentina, por su parte, ya ordenó pedidos de informes a organismos oficiales para esclarecer el ingreso y la posterior salida del país de Bolsonaro.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Fuga de Flávio Bolsonaro: la Justicia argentina ya investiga y ordena medidas",
+       "url": "https://www.ambito.com/politica/fuga-flavio-bolsonaro-la-justicia-argentina-ya-investiga-y-ordena-medidas-n6338971"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El PJ define la estrategia para arrinconar a Javier Milei por la fuga de Flávio Bolsonaro",
+       "url": "https://www.ambito.com/politica/el-pj-define-la-estrategia-arrinconar-javier-milei-la-fuga-flavio-bolsonaro-n6338998"
+      },
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dos comunicados y un avión en espera: la trama oficial de la fuga de Bolsonaro y quiénes formaron parte",
+       "url": "https://www.cronista.com/economia-politica/dos-comunicados-y-un-avion-en-espera-la-trama-oficial-de-la-fuga-de-bolsonaro-y-quienes-formaron-parte/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/salida-bolsonaro-provoca-pedidos-interpelacion-quirno-santilli-bullrich-marca-diferencia_0_C9KyUddQA3.html",
+     "imagen": "https://www.clarin.com/img/2026/10/28/mXqoCI3NO_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:03",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La salida de Bolsonaro provoca los pedidos de interpelación de Quirno y Santilli mientras Bullrich marca la diferencia"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "Bolsonaro se declaró presidente electo de Brasil y agradeció a Milei y a Trump por su respaldo",
+     "resumen": "Tras llegar a Miami mediante un operativo en el que participó el Gobierno argentino, Flávio Bolsonaro difundió una carta en la que se definió como el verdadero presidente electo de Brasil y denunció un fraude electoral en los comicios del domingo. En el texto agradeció a Javier Milei y calificó a Donald Trump como un defensor de la libertad de expresión.",
+     "relacionadas": [
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Flávio Bolsonaro se declaró \"presidente electo\" de Brasil y agradeció a Milei tras la fuga",
+       "url": "https://www.iprofesional.com/politica/467729-flavio-bolsonaro-se-declaro-presidente-electo-de-brasil-y-agradecio-a-milei-tras-la-fuga"
+      },
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Desde EEUU, Flávio Bolsonaro afirmó que es el \"presidente electo\" de Brasil y agradeció a Javier Milei y a Donald Trump",
+       "url": "https://www.ambito.com/desde-eeuu-flavio-bolsonaro-dijo-que-es-el-presidente-electo-brasil-y-agradecio-javier-milei-y-donald-trump-n6339044"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/hui-brasil-brasil-bolsonaro-publico-carta-llegada-eeuu-agradecio-milei_0_JG57Es9FXP.html",
+     "imagen": "https://www.clarin.com/img/2026/10/28/zcZ6Nsa_P_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"No huí de Brasil, me fui por Brasil\": Bolsonaro publicó una carta tras su llegada a EE.UU, dijo que es el \"verdadero presidente electo\" y le agradeció a Milei"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "el Gobierno revisa su estrategia electoral ante la posibilidad de que fracase la eliminación de las PASO",
+     "resumen": "En Casa Rosada crece la tensión con los gobernadores aliados mientras se evalúan escenarios para 2027 en los que se mantengan las primarias, lo que reconfiguraría el mapa electoral. El jefe de Gabinete, Diego Santilli, negocia los votos necesarios para aprobar la reforma, cuya viabilidad todavía genera dudas dentro del propio oficialismo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/28/el-gobierno-revisa-su-estrategia-y-crece-la-tension-con-los-aliados-por-la-eliminacion-de-las-paso/",
+     "imagen": "https://www.infobae.com/resizer/v2/2QLLU44BVVED3GMUHAOH7YYQQ4.jpg?auth=9a1bf429cab7a009eea497067e1a0358b20b441df03f6493cbebe890acbf1cac&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:24",
+     "autor": "Sofia Rojas",
+     "titulo_original": "El Gobierno revisa su estrategia y crece la tensión con los aliados por la eliminación de las PASO"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "el tratado de Patentes que reclama Estados Unidos quedó afuera del temario de la sesión del Senado del jueves",
+     "resumen": "Patricia Bullrich logró ordenar una sesión para este jueves con el Régimen de Incentivo para las Inversiones Regionales, el Mercado de Carbono y la reforma de la ley de Salud Mental, pero dejó afuera la modificación a la Ley de Patentes impulsada en el marco de los compromisos con Estados Unidos por falta de acuerdo con algunas provincias. En paralelo, otros bloques impulsarán que el jefe de Gabinete dé su informe de gestión en el recinto.",
+     "relacionadas": [
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Senado: habrá sesión mañana para votar la ley de salud mental y beneficios para inversiones desde USD 12 millones",
+       "url": "https://www.infobae.com/politica/2026/10/28/senado-habra-sesion-manana-para-votar-la-ley-de-salud-mental-y-beneficios-para-inversiones-desde-usd-12-millones/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/senado-por-que-quedo-afuera-del-temario-el-tratado-de-patentes-que-quiere-estados-unidos/",
+     "imagen": "https://www.cronista.com/resizer/v2/T34NB56ORRFMJL7SPEVBVP4CFA.jpg?auth=5d02234a59f15a524b8d17e7780295a5d55f011487e2c09bdc9257d62a7f9a6a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:24",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Senado: por qué quedó afuera del temario el tratado de Patentes que quiere Estados Unidos"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "la Justicia mantiene la cautelar que frena a las petroleras en Malvinas y suma a Tierra del Fuego a la causa",
+     "resumen": "La jueza federal de Río Grande admitió la intervención de la provincia de Tierra del Fuego en la demanda que impulsan excombatientes y abogados ambientalistas contra las petroleras Rockhopper y Navitas por la explotación de hidrocarburos en las islas. El tribunal rechazó convocar al Gobierno nacional al expediente, y la medida cautelar que frena las obras sigue vigente.",
+     "relacionadas": [
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Malvinas: Tierra del Fuego se suma a la causa de excombatientes contra las petroleras",
+       "url": "https://www.ambito.com/politica/tierra-del-fuego-se-suma-la-causa-excombatientes-malvinas-contra-las-petroleras-del-proyecto-sea-lion-n6338868"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/petroleras-malvinas-la-justicia-mantiene-la-cautelar-contra-las-empresas-n6338951",
+     "imagen": "https://media.ambito.com/p/0e50c0cdc29dc4cb6ef501e96181659c/adjuntos/239/imagenes/039/367/0039367449/1200x675/846x509:866x529/sea-lionwebp.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:00",
+     "autor": "",
+     "titulo_original": "Petroleras en Malvinas: la Justicia mantiene la cautelar contra las empresas"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "el ministro Caputo sufrió un cuadro de apunamiento durante la visita de Milei a una mina de litio en Catamarca",
+     "resumen": "Luis Caputo sufrió una descompensación por el mal de altura mientras acompañaba al presidente Javier Milei en la recorrida por instalaciones de Río Tinto a 4.000 metros de altura, y recibió hidratación. Desde la Casa Rosada informaron que el funcionario ya se encuentra en perfectas condiciones y retomó sus actividades con normalidad.",
+     "relacionadas": [
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Luis Caputo tuvo una leve descompensación por el mal de altura en Catamarca",
+       "url": "https://www.ambito.com/economia/luis-caputo-tuvo-una-leve-descompensacion-el-mal-altura-catamarca-n6339033"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Caputo se apunó en la visita a una mina de litio de Catamarca y recibió asistencia medica",
+       "url": "https://www.infobae.com/economia/2026/10/28/caputo-se-apuno-en-la-visita-a-una-mina-de-litio-de-catamarca-y-recibio-asistencia-medica/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/apuno-caputo-ministro-sufrio-descompensacion-visita-presidente-milei-catamarca_0_Do6UFzRIy6.html",
+     "imagen": "https://www.clarin.com/img/2026/09/09/5mC1WKZiu_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Se apunó Caputo: el ministro sufrió una descompensación durante la visita del presidente Milei a Catamarca"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "los bonos borraron sus subas y el riesgo país saltó por encima de los 760 puntos",
+     "resumen": "En medio de la volatilidad regional por las elecciones en Brasil, los bonos argentinos en dólares cerraron en baja tras haber operado en alza durante la rueda, mientras el riesgo país volvió a superar los 760 puntos básicos. El mercado también siguió de cerca la licitación del Tesoro, donde se buscaba renovar vencimientos por casi 11 billones de pesos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/bonos-dolares-extienden-el-repunte-y-baja-el-riesgo-pais-el-mercado-atento-brasil-y-la-licitacion-del-tesoro-n6338781",
+     "imagen": "https://media.ambito.com/p/60a21ba7d3a97d2b64f432033f788089/adjuntos/239/imagenes/043/384/0043384637/bolsa-caida-bonos-acciones-cedears.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:49",
+     "autor": "",
+     "titulo_original": "Los bonos en dólares borraron subas en el epílogo de la rueda y el riesgo país saltó por encima de los 760 puntos"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "el Tesoro logró renovar el 107% de los vencimientos de deuda en pesos",
+     "resumen": "El Ministerio de Economía recibió ofertas por 15,79 billones de pesos y adjudicó títulos por 11,56 billones, lo que implicó un rollover cercano al 107% sobre vencimientos que trepaban a 10,8 billones de pesos. El menú incluyó seis instrumentos, con la mayor parte de la colocación concentrada en un bono dual CER-TAMAR con vencimiento en diciembre de 2028. Para una empresa: la renovación total de los vencimientos reduce la presión sobre el financiamiento del Tesoro en el corto plazo.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Deuda: Economía logró renovar el 107% de los vencimientos a pesar del \"viento de frente\"",
+       "url": "https://www.ambito.com/deuda-economia-logro-renovar-el-107-los-vencimientos-pesar-del-viento-frente-n6339041"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-tesoro-renovo-los-vencimientos-de-deuda-y-capto-11-billones-mas-que-bonos-eligio-el-mercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/GELJATD6HVCZDAYDSKPTMY7OX4.png?auth=aad3d875027db60abbd17e3477a820ac338b532f0935f5cbe02aee046f175607&smart=true&width=900&height=498",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:54",
+     "autor": "Leandro Dario",
+     "titulo_original": "El Tesoro adjudicó más del 100% de los vencimientos de deuda: qué bonos eligió el mercado"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "el Banco Central no compró reservas por tercer día consecutivo",
+     "resumen": "La autoridad monetaria se mantuvo al margen del mercado de cambios en una rueda en la que el dólar mayorista subió a 1.541 pesos, algo que no se había dado en lo que va del año. Las reservas internacionales brutas cerraron en 50.601 millones de dólares, frente a los 50.580 millones del día anterior, un incremento explicado por pagos, depósitos y variaciones de valuación y no por compras oficiales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/28/efecto-brasil-por-tercer-dia-consecutivo-el-banco-central-no-compro-reservas-en-el-mercado-de-cambios/",
+     "imagen": "https://www.infobae.com/resizer/v2/FSUSGMFQ5ZFKXNBUSYORLFP62I.JPG?auth=4af3a0364d7352ee121e81182217183cb0154ea34580a33a38b8ef044f1e2ea0&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:15",
+     "autor": "",
+     "titulo_original": "Efecto Brasil: por tercer día consecutivo, el Banco Central no compró reservas en el mercado de cambios"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "la Reserva Federal mantuvo la tasa de interés en el rango de 3,75% a 4% y dejó dudas sobre diciembre",
+     "resumen": "La Fed decidió por diez votos contra dos mantener sin cambios la tasa de referencia, aunque admitió que la inflación sigue alta, en línea con lo que proyectaba el mercado. Tras conocerse la decisión, Wall Street subió levemente, con el Dow Jones, el S&P 500 y el Nasdaq en terreno positivo. Para una empresa: la pausa de la Fed mantiene por ahora el costo del financiamiento externo sin sobresaltos, aunque el mercado no descarta una nueva suba en diciembre.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street pasa a terreno positivo tras la decisión de la Fed de mantener las tasas de interés",
+       "url": "https://www.ambito.com/finanzas/las-bolsas-asiaticas-treparon-fuerte-y-el-dolar-toca-maximos-2-semanas-el-mundo-una-rueda-clave-las-tasas-n6338705"
+      },
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La Fed mantuvo las tasas y así impactará en la economía y las empresas argentinas",
+       "url": "https://www.iprofesional.com/economia/467719-la-fed-mantuvo-las-tasas-y-asi-impactara-en-la-economia-y-las-empresas-argentinas"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/la-fed-mantuvo-la-tasa-sin-cambios-pero-admitio-que-la-inflacion-en-eeuu-aun-es-elevada/",
+     "imagen": "https://www.cronista.com/resizer/v2/HS6T4HFIDREHXFAUCOQLIZUG6Y.jpg?auth=3267cde656a1a5cecb01d4bf2cb16208ee90cb234f3a36afb0d358eda5e254af&smart=true&width=900&height=559",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:56",
+     "autor": "Leandro Dario",
+     "titulo_original": "La Fed mantuvo la tasa sin cambios: ¿habrá una nueva suba en diciembre?"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Álvarez Agis advirtió sobre una maratón cambiaria y cuestionó la asimetría de los controles al dólar",
+     "resumen": "El exviceministro de Economía y director de la consultora PxQ, Emmanuel Álvarez Agis, cuestionó el diseño del esquema cambiario y la secuencia elegida para desarmar las restricciones. Señaló como uno de los puntos más críticos la asimetría de los controles cambiarios vigentes entre individuos y sectores productivos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/la-dura-respuesta-de-alvarez-agis-sobre-el-bcra-y-el-dolar-vamos-a-tener-una-maraton-cambiaria/",
+     "imagen": "https://www.cronista.com/resizer/v2/5AMPBBJBP5AV7LXP2ADRRQRFFA.jpeg?auth=fb0ef24082b1d325f6d72c9491f2a010d09a2aa0fa26f1829c66db1e7401040a&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:49",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "La dura respuesta de Álvarez Agis sobre el BCRA y el dólar: “Vamos a tener una maratón cambiaria”"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "el Tesoro de Estados Unidos deberá pagar 20 billones de dólares en intereses de deuda en la próxima década",
+     "resumen": "Estados Unidos acumula una deuda de aproximadamente 40 billones de dólares y enfrenta un déficit fiscal que amenaza con ampliarse en los próximos años, según el reporte difundido este miércoles.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-tesoro-eeuu-debera-gastar-us20-billones-intereses-deuda-la-proxima-decada-n6338972",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:51",
+     "autor": "",
+     "titulo_original": "El Tesoro de EEUU deberá gastar u$s20 billones en intereses de deuda durante la próxima década"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "YPF cerró otro trimestre con ganancias récord y prepara cinco proyectos por 44.000 millones de dólares para el RIGI",
+     "resumen": "La petrolera presentó un ebitda ajustado de 2.503 millones de dólares, el segundo mayor de su historia, con un crecimiento del 84% interanual impulsado por la producción de shale, la reducción de costos de extracción y niveles récord de procesamiento. YPF anunció que presentará en las próximas semanas la adhesión al RIGI de cinco proyectos por 44.000 millones de dólares de inversión en el área Norte de Vaca Muerta durante los próximos 26 años.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/ypf-cierra-otro-trimestre-record-y-prepara-cinco-proyectos-para-el-rigi/",
+     "imagen": "https://www.cronista.com/resizer/v2/TPFZEIXRSJGW3L6RUACHFBYVTI.jpeg?auth=7475de2914456bc880553106f23c05c95f37b2ba7c5ad93ea530d7d129d39ae7&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:56",
+     "autor": "Natalí Risso",
+     "titulo_original": "YPF cierra otro trimestre con récord de ganancias y prepara cinco proyectos para el RIGI"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "Vista Energy registró ganancias récord y se consolidó como el principal exportador de petróleo",
+     "resumen": "La compañía incrementó un 33% su producción en el tercer trimestre y exportó más del 70% del crudo que produce en Vaca Muerta. El ebitda ajustado fue de 841 millones de dólares, con un crecimiento interanual del 78%, mientras los ingresos totales treparon a 1.234 millones de dólares, un 75% más que un año atrás.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/por-la-suba-del-petroleo-vista-obtiene-ganancias-record-y-se-consolida-como-principal-exportador/",
+     "imagen": "https://www.cronista.com/resizer/v2/KOV4HSKSGFBILEYDAACVJCZNEY.jpeg?auth=b5ef69faf008956aeecafbaa7494d49bace8b561ea8eb2d4fa90eed8b45c6843&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:56",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Por la suba del petróleo, Vista obtiene ganancias récord y se consolida como principal exportador"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "Molinos, de la familia Pérez Companc, compró el grupo Ayudín y entró al negocio de la limpieza",
+     "resumen": "La alimenticia acordó la adquisición del 100% de Grupo Ayudín a sus actuales dueños, Apex Capital y Superior Brands, en una operación que incluye las marcas Ayudín, Poett, Trenet, Mortimer y Selton y las operaciones en la Argentina, Uruguay y Paraguay. Con esta compra, Molinos ingresa por primera vez a un mercado en el que buscaba desembarcar desde hacía más de dos años.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Molinos se mete de lleno en el negocio de la limpieza: compró las marcas Ayudín y Poett",
+       "url": "https://www.iprofesional.com/negocios/467728-molinos-se-mete-de-lleno-en-el-negocio-de-limpieza-compro-marcas-ayudin-y-poett"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/la-familia-perez-companc-se-expande-hacia-un-nuevo-rubro-compro-ayudin/",
+     "imagen": "https://www.cronista.com/resizer/v2/MB255IXG7ZG5FJWGHSEPNJX7EE.jpg?auth=3f9aea5ee2ab595d413a075e48cc1e4c541406c0504bce090fa8aa221421d5e8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:16",
+     "autor": "Micaela Mura",
+     "titulo_original": "La familia Perez Companc se expande hacia un nuevo rubro: compró Ayudín"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "Microsoft ofreció retiros voluntarios a 60.000 empleados en Estados Unidos y otros tres países",
+     "resumen": "El programa de la compañía tecnológica incluye apoyo económico y orientación profesional para quienes decidan dejar la empresa, aunque las condiciones varían según cada oferta.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/microsoft-ofrecio-retiros-voluntarios-60000-empleados-estados-unidos-y-otros-tres-paises-n6338987",
+     "imagen": "https://media.ambito.com/p/10da4a61a3620fdf2828f8665073bac0/adjuntos/239/imagenes/043/735/0043735586/1200x675/700x396:720x416/microsoft-1500-x-1000.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:50",
+     "autor": "",
+     "titulo_original": "Microsoft ofreció retiros voluntarios a 60.000 empleados en Estados Unidos y otros tres países"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "Río Tinto invertirá 4.400 millones de dólares para producir 200.000 toneladas de litio en 2028",
+     "resumen": "Tras inaugurar los proyectos Fénix 1B y Sal de Vida en Catamarca, el CEO global de la minera, Simon Trott, confirmó que la Argentina será central en la estrategia de expansión de la compañía, que prevé generar 7.000 empleos directos e indirectos y destinar cerca del 70% de la inversión a proveedores locales. Trott dijo además que la empresa analiza construir un proyecto adicional, Fénix 2. Para una empresa: una inversión minera de esta escala dinamiza la demanda de proveedores y servicios locales en las provincias del norte.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Río Tinto, la mayor productora de litio, anunció una tercera planta y busca desembarcar en el negocio del cobre",
+       "url": "https://www.clarin.com/economia/rio-tinto-mayor-productora-litio-anuncio-tercera-planta-busca-desembarcar-negocio-cobre_0_bNZZ7p7dng.html"
+      }
+     ],
+     "url": "https://www.ambito.com/energia/simon-trott-ceo-rio-tinto-invertiremos-us4400-millones-producir-200000-toneladas-litio-2028-n6338963",
+     "imagen": "https://media.ambito.com/p/8457a4eb03d709a3ef02c1f71e3a822b/adjuntos/239/imagenes/043/735/0043735684/simon-trott-ceo-rio-tinto-litio-mineria.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:39",
+     "autor": "",
+     "titulo_original": "Simon Trott, CEO de Rio Tinto: \"Invertiremos u$s4.400 millones para producir 200.000 toneladas de litio en 2028\""
+    },
+    {
+     "id": "IP-17",
+     "titulo": "la fábrica de tractores Pauny se paralizó y acumula 1.000 millones de pesos en cheques rechazados",
+     "resumen": "La empresa atraviesa graves problemas financieros que derivaron en la parálisis de su producción, mientras negocia con sus acreedores para sostener los salarios y evitar el cierre de la planta.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467714-fabrica-de-tractores-acumula-cheques-rebotados-por-1000-millones-de-pesos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612292.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:20",
+     "autor": "",
+     "titulo_original": "Se paraliza la fábrica de tractores Pauny: acumula $1.000 millones en cheques rechazados"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-25",
+     "titulo": "contadores piden a ARCA una nueva prórroga para presentar la declaración jurada de Ganancias",
+     "resumen": "El vencimiento para la presentación de la declaración jurada de Ganancias 2025 de personas humanas estaba fijado para el viernes 30 de octubre, y tributaristas y el Consejo Profesional de Ciencias Económicas de la Ciudad de Buenos Aires reclamaron más plazo. El pedido llega en la misma semana en que el organismo reglamentó los cambios de la Ley de Inocencia Fiscal II.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/prorroga-de-presentacion-de-ganancias-que-le-piden-los-contadores-a-arca-y-que-fecha-buscan/",
+     "imagen": "https://www.cronista.com/resizer/v2/XXAUHUWANZGNDDZLER3QKQO5OU.jpg?auth=993201fda081e3a22325a5f3d9da50a59eeb3ef46c2252230415dc1745b9daac&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:28",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Prórroga de presentación de Ganancias: qué le piden los contadores a ARCA y qué fecha buscan"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "la UOCRA cerró una paritaria con un aumento del 5,4% para el trimestre septiembre-noviembre",
+     "resumen": "El gremio de la construcción acordó con la Cámara Argentina de la Construcción y la Federación Argentina de Entidades de la Construcción subas escalonadas de 1,9% en septiembre, 1,8% en octubre y 1,7% en noviembre sobre los sueldos básicos del sector. Para una empresa: la recomposición salarial de la construcción impacta de manera directa en los costos de mano de obra de los proyectos y obras vinculados al sector.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/paritaria-uocra-con-nuevo-aumento-cuanto-cobro-en-noviembre-2026-y-como-quedan-las-escalas/",
+     "imagen": "https://www.cronista.com/resizer/v2/K4Y5WQBFBBBQJCGZRYUPPBYFRM.jpg?auth=d958c5efff3ee2a7cf52190e7011112512b433081169feae0e4b5e67cfcd6cdd&smart=true&width=900&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:40",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Paritaria UOCRA con nuevo aumento: cuánto cobro en noviembre 2026 y cómo quedan las escalas"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "ANSES confirmó que la jubilación mínima de noviembre, con el bono incluido, será de $ 514.027",
+     "resumen": "El organismo previsional aplicará un aumento del 1,9% a jubilaciones, pensiones y asignaciones familiares en noviembre, en línea con la inflación de septiembre informada por el Indec. Los titulares de la Asignación Universal por Hijo y del Sistema Único de Asignaciones Familiares también verán actualizados sus montos y topes de ingresos, y el pago se realizará de forma escalonada según la terminación del DNI.",
+     "relacionadas": [
+      {
+       "id": "CR-22",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "ANSES confirmó los nuevos montos de SUAF y AUH en noviembre 2026: cuánto cobro y cuándo, el calendario completo",
+       "url": "https://www.cronista.com/economia-politica/anses-confirmo-los-nuevos-montos-de-suaf-y-auh-en-noviembre-2026-cuanto-cobro-y-cuando-el-calendario-completo/"
+      },
+      {
+       "id": "CR-23",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Calendario de pagos AUH ANSES noviembre: fechas de cobro confirmadas",
+       "url": "https://www.cronista.com/economia-politica/calendario-de-pagos-auh-anses-noviembre-fechas-de-cobro-confirmadas/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/fecha-de-cobro-anses-jubilados-todo-el-calendario-de-noviembre-2026/",
+     "imagen": "https://www.cronista.com/resizer/v2/2OINDK4MHFFVPC6DXMFQTZOR2I.png?auth=1b396d5d202b302ed70379fdf5dcfb33c6c2f0ca2901f98b92b26f4079274724&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:30",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Fecha de cobro ANSES jubilados: todo el calendario de noviembre 2026"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "cierra la obra social de las Fuerzas Armadas y ATE marcha contra 1.450 despidos",
+     "resumen": "El gremio de empleados estatales se manifestó en contra de la disolución del Iosfa dispuesta por el Gobierno, denunció irregularidades en el proceso y amenazó con profundizar las protestas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/467725-cierra-la-obra-social-de-las-fuerzas-armadas-y-ate-marcha-contra-por-1-450-despidos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626184.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Cierra la obra social de las Fuerzas Armadas y ATE marcha contra por 1.450 despidos"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "con o sin testamento, una parte de la herencia es intocable en la Argentina",
+     "resumen": "El Código Civil y Comercial reserva una porción de la herencia, llamada legítima hereditaria, para descendientes, ascendientes y cónyuge, incluso cuando existe un testamento. Para los descendientes esa porción alcanza dos tercios de la base de cálculo, y para ascendientes y cónyuge, la mitad; el resto queda como porción disponible, sobre la que la persona puede decidir libremente.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/con-o-sin-testamento-una-parte-de-la-herencia-es-intocable-en-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/Z3ACQFEYO5DA7PVDVEZIW7NSEI.jpg?auth=ebd19e99685023ec34725210f4af6b86e75555b2285d3655415947a53bd3e793&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:42",
+     "autor": "Audiencias Member",
+     "titulo_original": "Con o sin testamento, una parte de la herencia es intocable en Argentina"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-06",
+     "titulo": "El Hogar Obrero confirmó la apertura de un nuevo supermercado en la Ciudad de Buenos Aires",
+     "resumen": "Será la tercera sucursal de la cadena cooperativa en la Capital, después de las aperturas en San Telmo y Caballito, dentro de su estrategia de expansión en el área metropolitana.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/467701-confirmado-cuando-abre-el-nuevo-supermercado-del-hogar-obrero-en-caba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628586.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:30",
+     "autor": "",
+     "titulo_original": "Ya tiene fecha confirmada la apertura del nuevo supermercado del Hogar Obrero en CABA"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "el CyberMonday 2026 se realizará del 2 al 4 de noviembre con un alza del 13,5% en las órdenes de compra online",
+     "resumen": "Según datos de la plataforma Tiendanube, que utiliza una de cada dos empresas argentinas que venden por internet, las marcas esperan para el evento un crecimiento similar al registrado en lo que va del año, con más órdenes de compra aunque sin un salto marcado en la facturación.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/cybermonday-2026-que-dato-marcara-la-maraton-de-descuentos-online-con-el-boom-del-e-commerce/",
+     "imagen": "https://www.cronista.com/resizer/v2/X5ADWED3ERCFRDFGDSKBHPPWHI.jpg?auth=ab5d56e7882a33ec7fa5908da49dd3084a29cc7f5dd733ecdbcd54712d4eb2c7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:44",
+     "autor": "Juliana Monferrán",
+     "titulo_original": "CyberMonday 2026: qué dato marcará la maratón de descuentos online con el boom del e-commerce"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "en Buenos Aires, uno de cada cinco departamentos en alquiler admite mascotas",
+     "resumen": "De los 11.178 avisos de departamentos para alquilar relevados en la ciudad, 2.498 aceptan perro o gato. Belgrano y Palermo son los barrios con más oferta para mascotas, y cuatro de cada diez de esos avisos se publican por hasta 800.000 pesos mensuales.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/propiedades/alquiler-departamentos-aceptan-mascotas-barrios-consiguen_0_vrODxE3sks.html",
+     "imagen": "https://www.clarin.com/img/2026/07/03/QpAT44TA-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:34",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alquiler de departamentos que aceptan mascotas: cuántos hay y en qué barrios se consiguen"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "cuatro de cada diez autos usados publicados ya tienen caja automática",
+     "resumen": "Entre los 90.429 autos usados publicados en Mercado Libre, 36.935 tienen caja automática, una proporción que sube a casi ocho de cada diez entre los modelos del año 2025. La Volkswagen Amarok encabeza el ranking de automáticos publicados, seguida por el Toyota Corolla, el Peugeot 208 y la Ford Ranger.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/autos/autos-automaticos-usados-ofrecen-ano-mayoria_0_MGn55EciTs.html",
+     "imagen": "https://www.clarin.com/img/2025/09/01/piP8E--Jx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Autos automáticos usados: cuántos se ofrecen y desde qué año son mayoría"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "confirman la muerte de una argentina y buscan a otro connacional desaparecido en el choque de trenes de Toledo",
+     "resumen": "La sanjuanina Martina Conte Grand murió en el accidente ferroviario que dejó al menos 68 muertos en España, y otro argentino, Agustín Randazzo, de 51 años, permanece desaparecido. La Cancillería argentina confirmó el fallecimiento y señaló que otros connacionales resultaron heridos, mientras mantiene contacto permanente con las autoridades españolas.",
+     "relacionadas": [
+      {
+       "id": "IB-02",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cancillería confirmó que hay al menos un argentino muerto tras el accidente de trenes en España",
+       "url": "https://www.infobae.com/sociedad/2026/10/28/cancilleria-confirmo-que-hay-al-menos-un-argentino-muerto-tras-el-accidente-de-trenes-en-espana/"
+      },
+      {
+       "id": "CL-04",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Quién era la joven argentina murió en el accidente ferroviario en España",
+       "url": "https://www.clarin.com/sociedad/joven-argentina-murio-accidente-ferroviario-espana_0_OPachCSz75.html"
+      },
+      {
+       "id": "CL-10",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Una joven argentina murió en el accidente ferroviario en España y buscan a un hombre de 51 años",
+       "url": "https://www.clarin.com/mundo/joven-argentina-murio-accidente-ferroviario-espana-buscan-hombre-51-anos_0_Lfgpxtyvuf.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/confirman-una-victima-argentina-en-el-choque-de-trenes-en-espana-y-otra-permanece-desaparecida-nid28102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JZXKCCA3PJENHFOIFVR3WFGKIE.JPG?auth=a4d4baa8239573e9bec541c8ea377f7b3d70e17b336d0b378580b6cd30669e4f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "Confirman una víctima argentina en el choque de trenes en España y otra permanece desaparecida"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Estados Unidos postergó el pedido de extradición de Nicolás Maduro que reclama la Justicia argentina",
+     "resumen": "El expresidente de Venezuela está acusado de delitos de lesa humanidad en una causa argentina, pero desde Estados Unidos informaron que priorizarán la causa en la que Maduro está detenido por narcoterrorismo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/eeuu-postergo-pedido-justicia-argentina-extraditar-nicolas-maduro_0_4ehFoFFfZH.html",
+     "imagen": "https://www.clarin.com/img/2026/02/26/4Q9CyOgvD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "EEUU postergó el pedido de la justicia argentina para extraditar a Nicolás Maduro"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Netanyahu seguirá como primer ministro en funciones tras unas elecciones en Israel sin resultado claro",
+     "resumen": "Con cerca del 86% de los votos escrutados, el bloque de Benjamín Netanyahu sumaría 53 de los 120 escaños del Parlamento, frente a 48 para la oposición liderada por el excomandante Gadi Eisenkot, sin que ninguno alcance la mayoría absoluta. Según el material, un gobierno en funciones conserva formalmente las mismas competencias que uno ordinario, aunque con menor margen de maniobra política.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/28/benjamin-netanyahu-seguira-como-primer-ministro-en-funciones-tras-unas-elecciones-en-israel-sin-resultado-claro/",
+     "imagen": "https://www.infobae.com/resizer/v2/YZ7MFL2TMJASXHOCAGKBZDP6DA.JPG?auth=760660f4cae981cea2629b75516095c1d636a123b578ea77d122a6269d68e2a9&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:37",
+     "autor": "",
+     "titulo_original": "Benjamin Netanyahu seguirá como primer ministro en funciones tras unas elecciones en Israel sin resultado claro"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "los hutíes atacaron nuevamente el aeropuerto de Adén y hubo civiles heridos",
+     "resumen": "Los rebeldes yemeníes respaldados por Irán lanzaron dos misiles balísticos contra la principal terminal aérea del sur de Yemen, el sexto ataque del mes contra ese aeropuerto, que quedó cerrado con los vuelos desviados a Yibuti. Horas antes, los hutíes habían acusado a la aviación saudita de matar a 14 personas en bombardeos contra un mercado y una estación de servicio en el norte del país.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/28/los-huties-hirieron-a-civiles-en-un-nuevo-ataque-contra-el-aeropuerto-de-aden/",
+     "imagen": "https://www.infobae.com/resizer/v2/4IUXMJ6UOVHIPARHL6KKDHCKZY.JPG?auth=e73c5bacabf7a3f02078d9a2841f96aaa6b914f76109cf6fb3b43e7743f317af&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:19",
+     "autor": "",
+     "titulo_original": "Los hutíes hirieron a civiles en un nuevo ataque contra el aeropuerto de Adén"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "la Bolsa de San Pablo encadenó otra jornada de caídas y cedió 2,68%",
+     "resumen": "El índice Ibovespa cerró en 171.006 puntos, arrastrado por sus principales valores y por la cautela de los inversores ante la incertidumbre sobre el rumbo del cuarto mandato de Luiz Inácio Lula da Silva. En los primeros tres días de la semana, el índice acumula una pérdida de más de 34.000 unidades respecto del viernes anterior.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/28/la-bolsa-de-sao-paulo-encadena-otra-jornada-de-caidas-y-cede-un-268/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "La Bolsa de São Paulo encadena otra jornada de caídas y cede un 2,68 %"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "Franco Colapinto buscará recuperarse con Alpine en el Gran Premio de México de Fórmula 1",
+     "resumen": "El piloto argentino intentará dejar atrás su abandono en el Gran Premio de Estados Unidos en un circuito que presenta desafíos particulares por su altitud. La actividad en México comenzará el viernes 30 de octubre, mientras Kimi Antonelli, que llega de ganar en Austin, buscará dar otro paso hacia el título.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/f1-gp-mexico-horarios-entrenamiento-clasificacion-ver-formula-1_0_40q6f5jpNH.html",
+     "imagen": "https://www.clarin.com/img/2025/10/25/R9iTkegT3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de México: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "la Conmebol rechazó el reclamo de Flamengo y Estudiantes jugará la final de la Copa Libertadores",
+     "resumen": "La Comisión Disciplinaria de la Conmebol desestimó la protesta del club brasileño por la inscripción de Marcos Rojo en la semifinal que Estudiantes le ganó por penales, y confirmó al equipo argentino como finalista. El Pincha enfrentará a Palmeiras el sábado 28 de noviembre en Montevideo.",
+     "relacionadas": [
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Estudiantes confirmó que jugará la final de la Copa Libertadores: Conmebol rechazó el reclamo de Flamengo sobre Marcos Rojo",
+       "url": "https://www.infobae.com/deportes/2026/10/28/estudiantes-confirmo-que-jugara-la-final-de-la-copa-libertadores-conmebol-rechazo-el-reclamo-de-flamengo-sobre-marcos-rojo/"
+      },
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Estudiantes jugará la final de la Copa Libertadores: la Conmebol rechazó el recurso de Flamengo sobre la inclusión de Marcos Rojo",
+       "url": "https://www.ambito.com/deportes/estudiantes-jugara-la-final-la-copa-libertadores-la-conmebol-rechazo-el-recurso-flamengo-la-inclusion-marcos-rojo-n6338982"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/conmebol-desestimo-pedido-flamengo-marcos-rojo-estudiantes-jugara-final-copa-libertadores_0_xe91WTJDDa.html",
+     "imagen": "https://www.clarin.com/img/2026/10/24/k8ndZLhzY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Conmebol desestimó el pedido de Flamengo por Marcos Rojo y Estudiantes jugará la final de la Copa Libertadores"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "murió la madre de Lionel Scaloni y la AFA tomó una decisión que afecta a todos los partidos del fútbol argentino",
+     "resumen": "Eulalia Marzetti murió en la madrugada del miércoles, una noticia que conmovió al mundo del fútbol y a Pujato, el pueblo de Santa Fe donde vivía. A través de una resolución de la Mesa Directiva del Comité Ejecutivo, la AFA oficializó una medida que impacta en todos los partidos del fútbol argentino en homenaje al entrenador de la Selección.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/murio-mama-lionel-scaloni-fuerte-decision-afa-afecta-partidos-futbol-argentino_0_t05EtCrpSR.html",
+     "imagen": "https://www.clarin.com/img/2026/07/20/7-s90M0-G_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Murió la mamá de Lionel Scaloni: la fuerte decisión de la AFA que afecta a todos los partidos del fútbol argentino"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "Cristiano Ronaldo ganó el Balón de Oro de todos los tiempos en una votación que incluyó a Lionel Messi",
+     "resumen": "El futbolista portugués se impuso en el denominado BOAT, un premio que France Football entregó por única vez entre todos los jugadores que alguna vez ganaron el Balón de Oro. Según el material, la votación permitía a los fanáticos pagar y elegir más de una vez, lo que generó polémica.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cristiano Ronaldo superó a Lionel Messi en las votaciones y se llevó el BOAT a mejor Balón de Oro de la historia",
+       "url": "https://www.ambito.com/deportes/cristiano-ronaldo-supero-lionel-messi-las-votaciones-y-se-llevo-el-boat-mejor-balon-oro-la-historia-n6339000"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/cristiano-ronaldo-gano-balon-oro-tiempos-lionel-messi-vencio-polemica-votacion-permitia-pagar-elegir-vez_0_LrZLvNGNVy.html",
+     "imagen": "https://www.clarin.com/img/2026/10/28/wjtQn9cY1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cristiano Ronaldo ganó el Balón de Oro \"de todos los tiempos\": a qué Lionel Messi venció en una polémica votación que permitía pagar y elegir más de una vez"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "comenzó la venta de entradas para la final de la Copa Sudamericana entre Boca y Atlético Mineiro",
+     "resumen": "La Conmebol confirmó que el partido se disputará el sábado 21 de noviembre en el estadio Metropolitano Roberto Meléndez de Barranquilla, Colombia. Desde este miércoles solo pueden comprar entradas de la categoría dos las personas con nacionalidad colombiana residentes en ese país, mientras que el público general podrá adquirir entradas de las categorías uno y dos desde el viernes 30 de octubre.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/venta-de-entradas-para-la-final-de-la-copa-sudamericana-2026-precios-y-como-comprar-nid28102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JMH6MIRHSNGCFMS4FGN7RF5OOE.jpg?auth=17dc8acfe03b6ae0f0ba28ebb1bfcbc8efe203eb49472263b7a979b42eb8c4dd&smart=true&width=900&height=591",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:50",
+     "autor": "",
+     "titulo_original": "Venta de entradas para la final de la Copa Sudamericana 2026: precios y cómo comprar"
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Boca y River usarán una pelota especial para jugar el Superclásico",
+     "resumen": "La pelota, llamada Argentum Gambeta Derbi, debutará el domingo primero de noviembre en la Bombonera, mientras que el balón tradicional se mantendrá para el resto de los partidos del campeonato.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/asi-es-la-pelota-especial-que-usaran-boca-y-river-jugar-el-superclasico-n6338958",
+     "imagen": "https://media.ambito.com/p/bde445ff69bfaba81746784371464efa/adjuntos/239/imagenes/043/735/0043735472/1200x675/1130x525:1150x545/futbol-1500-x-1000.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:17",
+     "autor": "",
+     "titulo_original": "Así es la pelota especial que usarán Boca y River para jugar el Superclásico"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Argentina perdió por penales con Ghana y quedó eliminada del Mundial Sub 17 femenino",
+     "resumen": "La selección argentina igualó uno a uno en los noventa minutos, pero no pudo imponerse en la definición desde los doce pasos y puso fin a su primera participación en el torneo. El equipo tuvo situaciones de peligro pero sufrió cada avance del seleccionado africano.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/28/en-un-partido-electrizante-argentina-perdio-por-penales-con-ghana-y-quedo-eliminada-del-mundial-sub-17-femenino/",
+     "imagen": "https://www.infobae.com/resizer/v2/DHJT4GAX6JHCJAETCAP24QYNRU.jpg?auth=04634c3c0b95772c07ee9abf3882f6677dde129e28a85f1e87c28c8ce9927a32&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:35",
+     "autor": "",
+     "titulo_original": "Argentina perdió por penales con Ghana y quedó eliminada del Mundial Sub 17 femenino"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "AM-10",
+     "titulo": "la devaluación del real dispara el interés por viajar a Brasil para el verano",
+     "resumen": "Tras la victoria de Lula en las elecciones y la depreciación del real, las búsquedas de paquetes turísticos hacia Brasil aumentaron 40%, según el relevamiento difundido este miércoles. El material señala que algunos gastos en destinos brasileños pueden resultar ahora más baratos para los turistas argentinos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/la-caida-del-real-dispara-el-interes-viajar-brasil-boom-consultas-el-verano-n6338936",
+     "imagen": "https://media.ambito.com/p/dd620f15c5212e976826dea400c4ee7d/adjuntos/239/imagenes/035/987/0035987713/1200x675/smart/buziosjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:25",
+     "autor": "",
+     "titulo_original": "La caída del real dispara el interés por viajar a Brasil: boom de consultas para el verano"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-04",
+     "titulo": "encontraron el cuerpo de la docente asesinada en Corrientes y hay cinco detenidos",
+     "resumen": "El cadáver de Nancy Godoy, de 51 años, desaparecida desde el 7 de octubre, fue hallado semisumergido en un potrero del departamento de Esquina tras 21 días de búsqueda. Por el femicidio hay cinco personas detenidas: cuatro imputadas por el crimen y una por falso testimonio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/10/28/encontraron-el-cuerpo-de-nancy-godoy-la-docente-asesinada-en-corrientes/",
+     "imagen": "https://www.infobae.com/resizer/v2/L5IP6ZLGB5AT3P6SMUMLO7REDQ.png?auth=2afa3cb2ef51a5589a6546139ee17e25fe4ee02c449fe3fa747052aed3933555&smart=true&width=763&height=505",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:03",
+     "autor": "Miguel Prieto Toledo",
+     "titulo_original": "Encontraron el cuerpo de Nancy Godoy, la docente asesinada en Corrientes"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "un brote de meningitis en un hospital de Mendoza dejó dos muertos entre cinco casos confirmados",
+     "resumen": "Los cinco pacientes contrajeron una infección por la bacteria Serratia marcescens tras ser sometidos a intervenciones quirúrgicas en el establecimiento, cuyo quirófano permanece cerrado mientras se investiga el origen de la contaminación. Las autoridades sanitarias también analizan otros dos fallecimientos que podrían estar vinculados al mismo microorganismo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/brote-de-meningitis-en-mendoza-que-es-la-bacteria-serratia-marcescens-como-se-transmite-y-por-que-es-nid28102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AB5FO3DC4ZAJPHLMKNVFQPPBL4.jpg?auth=57d8d51d6e773313d2e2dda6c2bd97e10b9f2992e17c6537f731402146bc79fb&smart=true&width=900&height=540",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:13",
+     "autor": "Alejandro Horvat",
+     "titulo_original": "Brote de meningitis en Mendoza: qué es la bacteria Serratia marcescens, cómo se transmite y por qué es tan peligrosa"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "buscan intensamente a dos hermanos desaparecidos en un río de Santa Cruz",
+     "resumen": "José, de 10 años, y Leo, de 12, no son vistos desde el domingo por la tarde, cuando se les perdió el rastro en una zona conocida como La Toma, en el paraje Palermo Aike, cerca de Río Gallegos. Ambos habían salido campeones en sus categorías del Club Talleres de Río Gallegos apenas dos semanas antes de desaparecer, lo que les abría la posibilidad de viajar a una prueba de fútbol.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/28/quienes-son-los-dos-hermanos-desaparecidos-en-un-rio-de-santa-cruz-iban-a-viajar-para-probarse-en-un-club-de-futbol/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZC57NUTVOZCPBENTJ4YR3SPOQM.png?auth=38bd33aa79a2862f022f97b96c0d86d4b623074089c28f2b03cffaac8b5c0a2f&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:05",
+     "autor": "",
+     "titulo_original": "Quiénes son los dos hermanos desaparecidos en un río de Santa Cruz: iban a viajar para probarse en un club de fútbol"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del miércoles veintiocho de octubre. El dólar oficial cerró la rueda en mil quinientos sesenta pesos, el dólar blue en mil quinientos sesenta y cinco pesos y el oro cotiza en cuatro mil ochenta y un dólares la onza. El riesgo país, que en las últimas ruedas rondaba los setecientos cincuenta puntos, volvió a subir esta tarde y superó los setecientos sesenta puntos básicos. La jornada estuvo marcada por el desenlace político de la fuga de Flávio Bolsonaro, que terminó con una carta del propio senador brasileño desde Miami. En el texto, Bolsonaro se definió como el verdadero presidente electo de Brasil, denunció un fraude electoral y agradeció tanto al presidente Javier Milei como a Donald Trump por su respaldo. La salida del dirigente hacia Estados Unidos, con una breve escala en la Argentina, generó pedidos de interpelación a los cancilleres Pablo Quirno y Diego Santilli en el Congreso, mientras la senadora Patricia Bullrich marcó diferencias y la Justicia argentina ya pidió informes a distintos organismos oficiales para esclarecer el episodio. En Catamarca, el ministro de Economía, Luis Caputo, sufrió un cuadro de apunamiento durante una visita a una mina de litio junto al presidente, aunque ya se recuperó. En política también quedó afuera del temario del Senado el tratado de Patentes que reclama Estados Unidos, y la Justicia de Tierra del Fuego se sumó a la causa que frena a las petroleras que operan en Malvinas. En economía y mercados, el Tesoro logró renovar el ciento siete por ciento de los vencimientos de deuda en la licitación de este miércoles, con ofertas por quince billones setecientos noventa mil millones de pesos y adjudicaciones por once billones quinientos sesenta mil millones. El Banco Central, mientras tanto, completó tres ruedas consecutivas sin comprar reservas, que cerraron en cincuenta mil seiscientos un millones de dólares. En Estados Unidos, la Reserva Federal mantuvo la tasa de interés en el rango de tres coma setenta y cinco a cuatro por ciento, aunque admitió que la inflación sigue alta, y el mercado ya mira la reunión de diciembre. El economista Emmanuel Álvarez Agis advirtió que se viene una maratón cambiaria y cuestionó la asimetría de los controles al dólar entre individuos y sectores productivos. Para una empresa, la pausa de la Fed mantiene por ahora estable el costo del financiamiento externo. Además, el Tesoro de Estados Unidos deberá pagar veinte billones de dólares en intereses de deuda en la próxima década, sobre un total de deuda de unos cuarenta billones de dólares. En negocios y empresas, YPF y Vista Energy reportaron ganancias récord en el tercer trimestre gracias al impulso de Vaca Muerta. YPF tuvo un resultado operativo de dos mil quinientos tres millones de dólares, un salto del ochenta y cuatro por ciento, y anunció que presentará cinco proyectos por cuarenta y cuatro mil millones de dólares para el régimen de incentivo a las grandes inversiones. Vista, por su parte, exportó más del setenta por ciento de su producción y mejoró su resultado un setenta y ocho por ciento. Molinos, de la familia Pérez Companc, compró el grupo Ayudín y entra así al negocio de la limpieza con marcas como Poett y Trenet. Microsoft ofreció retiros voluntarios a sesenta mil empleados en Estados Unidos y otros tres países. Y el CEO global de Río Tinto confirmó una inversión de cuatro mil cuatrocientos millones de dólares para producir doscientas mil toneladas de litio en Catamarca para el año dos mil veintiocho. En el capítulo de las dificultades, la fábrica de tractores Pauny paralizó su producción con mil millones de pesos en cheques rechazados. En impuestos y normativa, contadores y tributaristas le pidieron a la agencia de recaudación una nueva prórroga para presentar la declaración jurada de Ganancias de las personas humanas, cuyo vencimiento estaba fijado para este viernes. La Unión Obrera de la Construcción cerró una paritaria con un aumento del cinco coma cuatro por ciento para el trimestre que va de septiembre a noviembre. Para una empresa, esa recomposición impacta de forma directa en los costos de mano de obra de las obras en curso. ANSES confirmó que la jubilación mínima de noviembre, con el bono incluido, llegará a quinientos catorce mil veintisiete pesos. Y el gremio estatal ATE marchó contra mil cuatrocientos cincuenta despidos por el cierre de la obra social de las Fuerzas Armadas. En consumo, construcción y retail, El Hogar Obrero confirmó la apertura de un nuevo supermercado en la Ciudad de Buenos Aires, la tercera sucursal de la cooperativa en la Capital. El CyberMonday se realizará del dos al cuatro de noviembre, con un alza del trece coma cinco por ciento en las órdenes de compra respecto del año pasado. Y en el mercado inmobiliario porteño, uno de cada cinco departamentos en alquiler ya admite mascotas, con Belgrano y Palermo como los barrios con mayor oferta. En el mundo, la Cancillería argentina confirmó la muerte de la sanjuanina Martina Conte Grand en el choque de trenes de Toledo, España, mientras continúa la búsqueda de otro connacional desaparecido, Agustín Randazzo. El accidente ya deja al menos sesenta y ocho muertos. Estados Unidos postergó el pedido de extradición de Nicolás Maduro que reclama la Justicia argentina, para priorizar la causa que mantiene detenido al venezolano por narcoterrorismo. En Israel, Benjamín Netanyahu seguirá como primer ministro en funciones después de unas elecciones sin resultado claro, con su bloque y la oposición lejos de la mayoría absoluta. Los rebeldes hutíes de Yemen atacaron nuevamente el aeropuerto de Adén e hirieron a civiles. Y la bolsa de San Pablo encadenó otra jornada de caídas, con una baja del dos coma sesenta y ocho por ciento, en medio de la incertidumbre por el rumbo del nuevo gobierno de Lula da Silva. En deportes, Franco Colapinto buscará recuperarse con Alpine en el Gran Premio de México de Fórmula uno, que comienza el viernes, tras su abandono en Estados Unidos. La Conmebol rechazó el reclamo de Flamengo y confirmó a Estudiantes como finalista de la Copa Libertadores, que enfrentará a Palmeiras el veintiocho de noviembre en Montevideo. El fútbol argentino sigue de luto por la muerte de la madre de Lionel Scaloni, y la AFA tomó una decisión que afecta a todos los partidos del torneo en su homenaje. Cristiano Ronaldo se quedó con el Balón de Oro de todos los tiempos en una votación polémica que también incluyó a Lionel Messi. Ya se vende la entrada para la final de la Copa Sudamericana entre Boca y Atlético Mineiro, el veintiuno de noviembre en Barranquilla, y Boca y River estrenarán una pelota especial para el Superclásico del domingo. La selección argentina Sub diecisiete femenina quedó eliminada del Mundial de la categoría tras perder por penales con Ghana. En sociedad, encontraron el cuerpo de la docente Nancy Godoy, desaparecida en Corrientes desde principios de octubre, y hay cinco personas detenidas por el crimen. Un brote de meningitis en un hospital de Mendoza, causado por la bacteria Serratia marcescens, ya dejó dos muertos entre cinco casos confirmados. Y en Santa Cruz se busca intensamente a dos hermanos de diez y doce años que desaparecieron en un río cerca de Río Gallegos. Para cerrar, el interés por viajar a Brasil creció un cuarenta por ciento entre los turistas argentinos, favorecido por la devaluación del real tras el triunfo de Lula. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Le Grand Continent no publicó notas nuevas en esta corrida, por lo que se omite la sección Europa y geopolítica. En Turismo no apareció ningún destino puntual dentro de la Argentina en el material de esta corrida; se usó la nota disponible sobre el interés turístico hacia Brasil, como indica el protocolo para estos casos. No se registraron novedades sobre Club Atlético Tigre en el material de esta corrida.",
+ "slug": "2026-10-28-tarde",
+ "generado_ba": "28/10/2026 21:17"
+}
