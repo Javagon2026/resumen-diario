@@ -1,0 +1,970 @@
+{
+ "fecha": "2026-10-30",
+ "edicion": "manana",
+ "titulo": "Recesión técnica, RIIR en el Senado y el hackeo histórico a Binance",
+ "apertura": "El Senado le dio media sanción al RIIR y a la reforma de la Ley de Salud Mental, mientras crecen las tensiones internas del Gobierno entre el caputismo y Patricia Bullrich. La consultora Analytica confirmó que la actividad económica entró en recesión técnica, en la misma semana en que el FMI aclaró los alcances de la revisión del programa y Estados Unidos ofreció hasta US$ 30.000 millones para invertir en el país. En los mercados, el hackeo de US$ 6.300 millones a Binance y la caída de las tecnológicas en Wall Street por las dudas sobre la inteligencia artificial marcaron la jornada, mientras River y Boca llegan al Superclásico del domingo bajo alerta por tormentas.",
+ "claves": [
+  "El Senado dio media sanción al RIIR, un régimen de incentivos para inversiones medianas, y a la reforma de la Ley de Salud Mental.",
+  "La actividad económica argentina entró en recesión técnica, con una caída interanual del 1,7% en el EMAE de agosto.",
+  "Estados Unidos ofreció hasta US$ 30.000 millones en financiamiento para proyectos en la Argentina.",
+  "Binance sufrió un hackeo de US$ 6.300 millones, el mayor robo de la historia de las criptomonedas, y el bitcoin cayó a un mínimo de seis semanas.",
+  "Wall Street se sacudió por el menor gasto de Alphabet y Microsoft en inteligencia artificial, con el Nasdaq 100 cayendo 1,5%.",
+  "ARCA prorrogó por sexta vez el vencimiento de Ganancias hasta el 16 de noviembre y embargó a una de cada siete pymes industriales.",
+  "Franco Colapinto no girará el viernes en México, mientras River y Boca llegan al Superclásico del domingo bajo alerta por tormentas.",
+  "El papa León XIV visitará la Argentina del 8 al 11 de noviembre, con epicentro en Luján."
+ ],
+ "cifras": [
+  {
+   "nombre": "Actividad económica (EMAE, agosto)",
+   "valor": "-1,7% interanual",
+   "fuente": "CR-14"
+  },
+  {
+   "nombre": "PBI de Estados Unidos (3er trimestre)",
+   "valor": "+3,4%",
+   "fuente": "AM-24"
+  },
+  {
+   "nombre": "Nasdaq 100",
+   "valor": "-1,5%",
+   "fuente": "CR-24"
+  },
+  {
+   "nombre": "Bitcoin",
+   "valor": "US$ 76.355",
+   "fuente": "IB-15"
+  },
+  {
+   "nombre": "Hackeo a Binance",
+   "valor": "US$ 6.300 millones",
+   "fuente": "CR-01"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "Kicillof reunió a intendentes del MDF para discutir PASO y reelecciones",
+     "resumen": "Axel Kicillof convocó durante casi tres horas en La Plata a los intendentes del Movimiento Derecho al Futuro para fijar una postura ante las elecciones de 2027. Los jefes comunales pidieron la restitución de las reelecciones indefinidas y el gobernador se mostró a favor de aprobarla antes de fin de año. También se discutió la continuidad de las PASO a nivel nacional y provincial.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Cumbre de Axel Kicillof con intendentes del MDF: PASO, reelección de intendentes y críticas a Javier Milei",
+       "url": "https://www.ambito.com/politica/cumbre-axel-kicillof-intendentes-del-mdf-paso-reeleccion-intendentes-y-criticas-javier-milei-n6339571"
+      },
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Kicillof sigue con recorridas en clave electoral: desembarca en Jujuy y prepara su viaje a Santa Fe",
+       "url": "https://www.infobae.com/politica/2026/10/30/kicillof-sigue-con-recorridas-en-clave-electoral-desembarca-en-jujuy-y-prepara-su-viaje-a-santa-fe/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/30/reelecciones-paso-bonaerenses-y-construccion-propia-que-dejo-la-reunion-de-kicillof-con-sus-intendentes/",
+     "imagen": "https://www.infobae.com/resizer/v2/D7JSGW6GNNAJXHS5NRHGOLKUWE.png?auth=038b63b25465e6a8539a30ccc791ee54940a05fb014a056d899313520698fcc7&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:29",
+     "autor": "Facundo Cottet",
+     "titulo_original": "Reelecciones, PASO bonaerenses y construcción propia: qué dejó la reunión de Kicillof con sus intendentes"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "el Senado aprobó la reforma de la Ley de Salud Mental",
+     "resumen": "La Cámara alta dio media sanción a la reforma de la Ley Nacional de Salud Mental impulsada por el Gobierno, con 42 votos a favor, 21 en contra y ninguna abstención. El proyecto pasó a Diputados. La iniciativa generó debate por los cambios en el sistema de atención y por el financiamiento de su implementación en las provincias.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/senado-aprobo-reforma-ley-nacional-salud-mental-impulsada-gobierno_0_1FR3USonuI.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/ydpEQTJWQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Senado aprobó la reforma de la Ley Nacional de Salud Mental impulsada por el Gobierno"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Santilli evitó un pedido de interpelación y dará su informe de gestión en noviembre",
+     "resumen": "El jefe de Gabinete, Diego Santilli, se puso a disposición del Senado para brindar su primer informe de gestión antes de que la oposición lograra forzarlo con un proyecto propio. La Cámara alta sesionó con proyectos consensuados tras un mes sin debates, mientras la fuga de Flávio Bolsonaro se coló en la jornada.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Fuga de Flávio Bolsonaro: archivaron la denuncia en Iguazú, pero sigue la causa en Comodoro Py",
+       "url": "https://www.ambito.com/politica/fuga-flavio-bolsonaro-archivaron-la-denuncia-iguazu-pero-sigue-la-causa-comodoro-py-n6339515"
+      },
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Café en el ACA, chapa diplomática y un McDonald’s: las misteriosas horas de Santiago Caputo en Misiones durante el operativo Bolsonaro",
+       "url": "https://www.lanacion.com.ar/economia/cafe-en-el-aca-chapa-diplomatica-y-un-mcdonalds-las-misteriosas-horas-de-santiago-caputo-en-misiones-nid29102026/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/con-guino-aliados-el-senado-volvera-sesionar-proyectos-inversion-n6338993",
+     "imagen": "https://media.ambito.com/p/672385381481bf4ad5b425fce10591fe/adjuntos/239/imagenes/043/302/0043302132/1200x675/smart/santilli-amcham.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:49",
+     "autor": "",
+     "titulo_original": "Senado: Diego Santilli desactivó la jugada del PJ y brindará su informe de gestión el mes que viene"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "afloran diferencias internas por el malestar de Patricia Bullrich con el Gobierno",
+     "resumen": "Un sector del Gobierno vinculado a Santiago Caputo empezó a diferenciarse públicamente de Patricia Bullrich, a quien acusan de estar detrás del pedido para incluir al Ministerio de Seguridad en el Consejo de Seguridad Nacional durante el tratamiento del proyecto sobre Malvinas. En el entorno de Karina Milei optaron por no responder y minimizar el episodio, mientras en Diputados niegan una intervención de la senadora.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/30/nuevo-foco-de-malestar-con-bullrich-y-aparecen-diferencias-en-el-gobierno-sobre-como-lidiar-con-sus-desmarques/",
+     "imagen": "https://www.infobae.com/resizer/v2/JEDMMS7PC5CPTHUMZWT7OYEBZM.jpg?auth=59a256138a63b42f798e1d6013ceff96421c9872e7e2e267947aff22a24a2722&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:20",
+     "autor": "Brenda Struminger",
+     "titulo_original": "Nuevo foco de malestar con Bullrich y aparecen diferencias en el Gobierno sobre cómo lidiar con sus desmarques"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Macri dijo que no hubo avances en el acuerdo electoral entre el PRO y LLA",
+     "resumen": "El expresidente Mauricio Macri afirmó en un evento solidario organizado por María Eugenia Vidal que \"no se avanzó nada\" en las negociaciones entre el PRO y La Libertad Avanza para un acuerdo electoral de cara a 2027. Evitó referirse a la salida de Flávio Bolsonaro de Brasil, al señalar que \"no está en el tema\".",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/mauricio-macri-dijo-avanzo-negociaciones-libertad-avanza-lograr-acuerdo-electoral_0_Z0bafu33UV.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/9CXlVyN2s_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Mauricio Macri dijo que \"no se avanzó nada\" en las negociaciones con La Libertad Avanza para lograr un acuerdo electoral"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "una estafa virtual vació la cuenta de sueldos de un municipio de La Pampa",
+     "resumen": "El municipio de Santa Isabel, a 300 kilómetros de Santa Rosa, sufrió una estafa virtual que impidió pagar los salarios municipales, según confirmó la intendenta María Elizabet Cabral. El hecho se descubrió el lunes, cuando Tesorería detectó dos transferencias no autorizadas desde la cuenta destinada al pago de haberes en el sistema Pampa Digital del Banco de La Pampa.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/seguridad/hicieron-una-estafa-virtual-en-un-municipio-de-la-pampa-y-no-se-pudieron-pagar-los-sueldos-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RF6QNTZ455GYVDTDOECDYZCDXU.jpg?auth=e107858925127f818129f50ee55330989d3c24a6621e3b7d8ff1bd4080ca68eb&smart=true&width=900&height=508",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:18",
+     "autor": "",
+     "titulo_original": "Hicieron una estafa virtual en un municipio de La Pampa y no se pudieron pagar los sueldos"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "un peritaje no pudo confirmar la autenticidad de los audios de Spagnuolo",
+     "resumen": "Un estudio de Gendarmería sobre las grabaciones atribuidas a Diego Spagnuolo detectó cortes, discontinuidades y rasgos compatibles con una regrabación, pero no logró establecer el origen de las voces ni descartar una manipulación. Fuentes judiciales aclararon que el informe todavía no fue incorporado al expediente y que los audios no se usaron como prueba de cargo en los procesamientos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/andis-autenticidad-confirmada-que-dice-un-peritaje-los-audios-spagnuolo-n6339444",
+     "imagen": "https://media.ambito.com/p/b3b5044f49467daecf18de34adc78cdb/adjuntos/239/imagenes/042/759/0042759781/diego-spagnuolo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:40",
+     "autor": "",
+     "titulo_original": "ANDIS: sin autenticidad confirmada, qué dice un peritaje de los audios de Diego Spagnuolo"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-14",
+     "titulo": "la actividad económica entró en recesión técnica",
+     "resumen": "El Estimador Mensual de Actividad Económica de agosto mostró una caída interanual del 1,7%, la mayor contracción del año, según la consultora Analytica. El dato de septiembre también sería negativo, lo que confirmaría dos trimestres consecutivos de caída y una recesión técnica. Para una empresa: un consumo más débil y una actividad estancada presionan sobre las ventas y obligan a ajustar previsiones de volumen para lo que resta del año.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-economia-a-punto-de-cruzar-un-umbral-que-no-pisaba-desde-2024-que-anticipa-el-nuevo-dato-sobre-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/UJCUY4IU7FDAZERCMUJ363RJU4.jpg?auth=3c0534fee59017c070fb57a6573b9deb169fd72df8c46dbe2ac82c39fdd5af17&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:09",
+     "autor": "Nicolás Montenegro",
+     "titulo_original": "La economía, a punto de cruzar un umbral que no pisaba desde 2024: la señal que complica el escenario de Milei"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "el FMI aclaró los alcances de la tercera revisión del programa con Argentina",
+     "resumen": "La vocera del FMI, Julie Kozack, explicó que el organismo acordó con el Gobierno un paquete centrado en sostener la desinflación, fortalecer la resiliencia económica e impulsar el crecimiento, sin medidas específicas adicionales exigidas antes de la revisión del directorio. La aclaración buscó despejar dudas generadas por la redacción del comunicado original sobre el crédito, la flexibilización laboral y el RIGI.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-fmi-despejo-la-duda-sobre-las-medidas-restantes-hasta-la-revision-de-diciembre-y-marco-cuatro-ejes-para-crecer/",
+     "imagen": "https://www.cronista.com/resizer/v2/H7PH2GHNXBAALO6S4J6YQ726JQ.jpg?auth=f8ffd1cf0f847cae26fd09a7b4a34e7f63f1f1d5da0229783d48fb4453e98f04&smart=true&width=900&height=684",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:28",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "El FMI despejó una duda clave y marcó el camino para que Argentina vuelva a crecer"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Bausili descartó una proyección de corrida cambiaria para 2027",
+     "resumen": "El presidente del BCRA, Santiago Bausili, dijo no tener una \"proyección de corrida\" para el año electoral y afirmó que espera que la inflación ceda en el último trimestre. También se refirió al swap con China, con US$ 5.000 millones activados, y a la estrategia con el oro de las reservas.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Santiago Bausili dijo que no tiene una \"proyección de corrida\" para 2027, pero detalló herramientas del BCRA en caso de que ocurra",
+       "url": "https://www.ambito.com/finanzas/santiago-bausili-dijo-que-no-tiene-una-proyeccion-corrida-2027-pero-detallo-herramientas-del-bcra-caso-que-ocurra-n6339544"
+      }
+     ],
+     "url": "https://www.iprofesional.com/economia/467847-bausili-dio-detalles-de-la-operatoria-con-el-oro-de-las-reservas-del-bcra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628722.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:45",
+     "autor": "",
+     "titulo_original": "Bausili dijo que no tiene una \"proyección de corrida\" para 2027 y habló del oro del BCRA"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "el BCRA empieza a liberar pesos tras 14 meses de contracción monetaria",
+     "resumen": "El último Informe de Política Monetaria del Banco Central reveló el inicio de una remonetización gradual de la economía, bajo un esquema de control de agregados para evitar nuevas presiones inflacionarias. La estrategia combina esa mayor liquidez con la compra de reservas y una mayor canalización del ahorro hacia el crédito.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/tras-14-meses-de-contraccion-bcra-solto-algo-de-liquidez-arranca-la-remonetizacion-que-pasa-con-el-credito/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZFNNLF5RUZB5JELKPAJ2ZJVD7E.jpg?auth=1fccdf771de0487ba474a209f2f42f7ccae8d569766d86b490df6e4838adf0b6&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:17",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Ajuste monetario: ¿el BCRA abre una nueva etapa? Cuántos pesos libera y qué pasa con el crédito"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "Wall Street se sacudió por dudas sobre el gasto en inteligencia artificial",
+     "resumen": "El Nasdaq 100 cayó 1,5% y el S&P 500 bajó 0,5% después de que Alphabet y Microsoft informaran un gasto de capital menor al esperado en infraestructura de inteligencia artificial. Las acciones de Alphabet llegaron a caer 12,5% y la compañía gastó más de lo que ingresó por segundo trimestre consecutivo en ese negocio.",
+     "relacionadas": [
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Alphabet cae fuerte y pone en riesgo u$s 500.000 millones: Wall Street vuelve a cuestionarse negocio de la IA",
+       "url": "https://www.cronista.com/finanzas-mercados/alphabet-cae-fuerte-y-pone-en-riesgo-us-500000-millones-wall-street-vuelve-a-cuestionarse-negocio-de-la-ia/"
+      }
+     ],
+     "url": "https://www.cronista.com/financial-times/wall-street-se-sacude-las-tecnologicas-caen-y-crecen-las-dudas-sobre-el-boom-de-la-ia/",
+     "imagen": "https://www.cronista.com/resizer/v2/S3MRYMWU2ZFSZNQKYNL6V2AFLU.png?auth=90457f002f39fa77eb799adb5061093fe07f71fee610fd9de5adb283c89f7c43&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:25",
+     "autor": "Emily Herbert, Arjun Neil Alim",
+     "titulo_original": "Wall Street se sacude: las tecnológicas caen y crecen las dudas sobre el boom de la IA"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "la economía de Estados Unidos aceleró su crecimiento de la mano del consumo y la IA",
+     "resumen": "El PBI estadounidense creció 3,4% en el trimestre, impulsado por el consumo interno y la inversión en inteligencia artificial, su ritmo más rápido en un año. Las importaciones y los mayores costos hipotecarios moderaron parte de ese impulso.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/la-eeuu-crecio-su-ritmo-mas-rapido-un-ano-la-mano-del-consumo-interno-y-la-inversion-ia-n6339413",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:19",
+     "autor": "",
+     "titulo_original": "La economía de EEUU creció a su ritmo más rápido en un año de la mano del consumo interno y la inversión en IA"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "YPF anticipó una fuerte suba de la producción de Vaca Muerta para 2027",
+     "resumen": "El CEO de YPF, Horacio Marín, prometió ante inversores en Wall Street una \"sorpresa\" en la producción de Vaca Muerta para diciembre de 2027, sin precisar la cifra hasta que el directorio apruebe el presupuesto en abril. La producción de shale oil de la compañía llegó a 224.000 barriles diarios en el tercer trimestre, un 32% más que un año atrás, con proyectos por US$ 44.000 millones bajo el RIGI.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/argentina-al-palo-marin-defendio-el-buffer-de-ypf-y-anticipo-una-sorpresa-en-la-produccion-de-vaca-muerta-para-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/KLJCQBYCOZEING5HL2T636QB6I.jpg?auth=f469ec163c2c6b6b23f584562618bb03bc53276eff35e7ce1e8c81cf6b27adc9&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:48",
+     "autor": "Natalí Risso",
+     "titulo_original": "“Argentina al palo”: Marín defendió el buffer de YPF y anticipó una sorpresa en la producción de Vaca Muerta para 2027"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Estados Unidos ofrece hasta US$ 30.000 millones para invertir en Argentina",
+     "resumen": "El gobierno de Donald Trump transmitió a empresas estadounidenses su intención de ampliar el financiamiento para proyectos en el país, según relató Alejandro Díaz, de AmCham. La cifra combina hasta US$ 20.000 millones de la Corporación Financiera de Desarrollo Internacional y una posible ampliación del EXIM a US$ 10.000 millones, aunque los fondos todavía no tienen destino aprobado.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El gobierno de Trump confirmó a empresas de EE.UU. que habrá disponibles US$ 30.000 millones para invertir en la Argentina",
+       "url": "https://www.clarin.com/economia/gobierno-trump-confirmo-empresas-eeuu-disponibles-us-30000-millones-invertir-argentina_0_oYbVRSHfjM.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-de-trump-anticipo-a-empresas-estadounidenses-que-habra-mas-financiamiento-para-proyectos-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FWPTKQ3MAVD43MSYAOVF3BMA2Y.jpg?auth=cb6a1b289aaf06d0987d665bffd1ec7fc76b2e58bef8926a6ffdc0481786ae6f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:25",
+     "autor": "Agustín Maza",
+     "titulo_original": "El gobierno de Trump anticipó a empresas estadounidenses que habrá más financiamiento para proyectos en la Argentina"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "el Senado aprobó el RIIR, un régimen de incentivos para inversiones medianas",
+     "resumen": "La Cámara alta dio media sanción al Régimen de Incentivo para las Inversiones Relevantes, pensado para proyectos que no alcanzan la escala del RIGI, con beneficios fiscales similares. Apunta especialmente a agroindustria y transición energética en las economías regionales.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno cumplió un doble objetivo en el Senado: aprobó proyectos de promoción de inversiones y contentó a aliados",
+       "url": "https://www.ambito.com/politica/doble-objetivo-del-gobierno-el-senado-promover-inversiones-regionales-y-contentar-aliados-n6339528"
+      },
+      {
+       "id": "CR-19",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Ronda RIGI: gobernadores le ponen condiciones al boom minero, ¿qué le reclama cada provincia a Milei?",
+       "url": "https://www.cronista.com/economia-politica/los-gobernadores-le-ponen-condiciones-al-boom-minero-que-le-reclama-cada-provincia-al-gobierno/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/politica/467844-senado-aprobo-un-nuevo-rigi-para-inversiones-medianas-a-que-sectores-beneficia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614232.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:06",
+     "autor": "",
+     "titulo_original": "Senado aprobó un RIGI para inversiones medianas en economías regionales llamado RIIR"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "la fabricante de tractores Pauny suspendió a 500 trabajadores",
+     "resumen": "La empresa cordobesa, con sede en Las Varillas, suspendió temporalmente a unos 500 empleados por atrasos salariales y caída de la producción, y no operó los días 28, 29 y 30 de octubre. El gremio denunció adeudos de la segunda quincena de septiembre y la primera de octubre, además de incumplimientos en aportes jubilatorios y obra social.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-mal-paso-de-otro-titan-de-la-maquinaria-agricola-crisis-y-deuda-millonaria-en-solo-16-dias/",
+     "imagen": "https://www.cronista.com/resizer/v2/2XGM2S5IY5CUVNBMANZY75KYPE.jpg?auth=9e66105dfa7657245ba1ff43b9638468c16d0fab7e82aac718d36ca627cb5c0e&smart=true&width=900&height=473",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:21",
+     "autor": "Equipo Negocios",
+     "titulo_original": "El mal paso de otro titán de la maquinaria agrícola: crisis y deuda millonaria en solo 16 días"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "Mercado Pago quedó a un paso de convertirse en banco",
+     "resumen": "El BCRA aprobó la instancia técnica de la licencia bancaria solicitada por la fintech de Marcos Galperin, luego de que el superintendente Juan Curutchet confirmara que ya se cumplieron todas las revisiones técnicas. Resta un dictamen de legales y del directorio antes de la aprobación definitiva, un paso que podría reconfigurar la competencia con los bancos por las cuentas sueldo.",
+     "relacionadas": [
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Avanza la licencia bancaria de Mercado Pago: el BCRA dio un paso clave para aprobarla",
+       "url": "https://www.cronista.com/finanzas-mercados/avanza-la-licencia-bancaria-de-mercado-libre-el-bcra-dio-detalles-sobre-el-proceso-regulatorio/"
+      },
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Bancos en alerta: qué pasará si Mercado Pago gana la batalla por las cuentas sueldo",
+       "url": "https://www.iprofesional.com/finanzas/467854-alerta-bancos-que-pasara-si-mercado-pago-se-queda-con-cuentas-sueldo"
+      },
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Mercado Pago, a un paso de ser banco tras una autorización clave del BCRA",
+       "url": "https://www.iprofesional.com/finanzas/467843-mercado-pago-a-un-paso-de-ser-banco-tras-autorizacion-clave-del-banco-central-argentino"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/467849-que-cambiara-para-los-usuarios-si-mercado-pago-se-convierte-en-banco",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588438.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:22",
+     "autor": "",
+     "titulo_original": "Qué cambiará para los usuarios cuando Mercado Pago se convierta en banco"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "ARCA volvió a prorrogar el vencimiento de la declaración jurada de Ganancias",
+     "resumen": "La Agencia de Recaudación y Control Aduanero postergó por sexta vez la presentación de la declaración jurada de Ganancias para personas humanas y sucesiones indivisas, con nuevo plazo hasta el 16 de noviembre. Contadores y tributaristas habían advertido que faltaba tiempo para aplicar los cambios al régimen simplificado, mientras siguen pendientes normas de la UIF sobre fondos fuera del sistema financiero.",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólares del colchón: ARCA postergó por sexta vez la presentación de la DD.JJ. de Ganancias",
+       "url": "https://www.ambito.com/economia/dolares-del-colchon-arca-postergo-sexta-vez-la-presentacion-la-ddjj-ganancias-n6339476"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/467821-arca-prorroga-nuevamente-la-declaracion-jurada-de-ganancias-cual-es-la-fecha-limite",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618737.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "04:04",
+     "autor": "",
+     "titulo_original": "Ya es oficial la prórroga de la declaración jurada de Ganancias: cuál es la nueva fecha límite"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "uno de cada siete pymes industriales recibió embargos de ARCA",
+     "resumen": "El Observatorio Pyme informó que una de cada siete pymes industriales fue embargada por la Agencia de Recaudación y Control Aduanero en el tercer trimestre, la mitad por atraso en obligaciones corrientes, con notificaciones que llegan en general dentro de los 30 días del vencimiento. Un embargo puede paralizar el pago de salarios y otras operaciones de la empresa. Para una empresa: mantener al día las obligaciones impositivas corrientes evita que una cuenta quede inmovilizada en plena cadena de pagos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/embargos-de-arca-sobre-pymes-cuanto-presiona-el-fisco-mientras-cruje-la-cadena-de-pagos/",
+     "imagen": "https://www.cronista.com/resizer/v2/JNX7KVIGLBGFTGPHPFEL2GFU3Y.jpg?auth=995fefeec8c555708b6f62f1043631ef30e9a3e4a3b38ca0b59b97d7d5cfb996&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "Embargos de ARCA sobre pymes: cuánto presiona el fisco mientras cruje la cadena de pagos"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "ARCA controlará las transferencias bancarias de noviembre desde ciertos montos",
+     "resumen": "El organismo fijó umbrales mensuales a partir de los cuales las transferencias quedarán bajo control, con el objetivo de identificar movimientos significativos sin paralizar la operatoria habitual de usuarios y empresas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467865-arca-vigila-transferencias-noviembre-2026-a-partir-de-que-monto",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/609635.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:30",
+     "autor": "",
+     "titulo_original": "ARCA controla las transferencias en noviembre: desde qué monto y qué pasa si lo superás"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "ARCA deberá devolverle casi $ 9.400 millones a Enrique Piñeyro",
+     "resumen": "El director le ganó un juicio a la ex AFIP por el pago del Aporte Solidario y Extraordinario durante 2021, en el gobierno de Alberto Fernández, y donará lo recuperado al Hospital Garrahan.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/467871-arca-debera-devolverle-casi-9400-millones-pesos-a-enrique-pineyro-y-los-donara-al-garrahan",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/12/563606.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "21:03",
+     "autor": "",
+     "titulo_original": "ARCA deberá devolverle casi $9.400 millones a Enrique Piñeyro y los donará al Garrahan"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "el Gobierno volvió a postergar la suba de impuestos a los combustibles",
+     "resumen": "El Decreto 1305/2026, publicado este viernes en el Boletín Oficial, posterga al menos hasta el 1° de diciembre una parte de los aumentos pendientes en los impuestos que gravan a la nafta y el gasoil.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/gobierno-volvio-postergar-suba-impuestos-combustibles-pasara-nafta-gasoil_0_KIBdnL7tLr.html",
+     "imagen": "https://www.clarin.com/img/2026/03/21/R-V2RDvSx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "04:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno volvió a postergar la suba de impuestos a los combustibles: qué pasará con la nafta y el gasoil"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-06",
+     "titulo": "un nuevo desarrollo con terrazas escalonadas se suma al masterplan de la Costanera Sur",
+     "resumen": "Grupo 8.66 construirá VERA Cyma, un edificio de 55 unidades dentro de Ramblas del Plata, el proyecto que IRSA impulsa en la Costanera Sur, con precios de referencia desde US$ 4.500 por metro cuadrado. IRSA ya firmó 20 lotes en el masterplan por más de US$ 160 millones y 170.000 metros cuadrados construibles.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-desarrollo-top-con-terrazas-escalonadas-y-vistas-al-rio-busca-cambiarle-la-cara-un-barrio-entero/",
+     "imagen": "https://www.cronista.com/resizer/v2/QURHCBW62FFTBEZDSPZK65EOVA.jpg?auth=cdd314fb7427695f5754f70fa7fc5667ea8e05582a3029a142730f07c1e7141d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Un desarrollo top con terrazas escalonadas y vistas al río busca cambiarle la cara un barrio entero"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "el Gobierno proyecta vender más de 60.000 metros cuadrados del Parque de la Costa",
+     "resumen": "Avanza la desafectación de tierras públicas en una zona estratégica de Tigre que incluye el predio del Tren de la Costa, en medio de crecientes expectativas por futuros proyectos urbanísticos de alta gama en la zona.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467869-el-gobierno-proyecta-vender-mas-de-60000m2-del-parque-de-la-costa-y-el-tren-de-la-costa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628748.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:37",
+     "autor": "",
+     "titulo_original": "El Gobierno proyecta vender más de 60.000m2 del Parque de la Costa y el Tren de la Costa"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "Mendoza se consolida como uno de los mercados inmobiliarios más rentables del país",
+     "resumen": "Según el nuevo Index Mendoza de Zonaprop, comprar para alquilar en la provincia rinde una rentabilidad bruta anual del 7,05%, impulsada por el turismo, los viñedos y la calidad de vida. El relevamiento detalla cuánto cuesta comprar y alquilar una propiedad en los distintos barrios de la provincia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/cuanto-rinde-una-inversion-inmobiliaria-en-mendoza-y-que-zonas-son-las-mas-top/",
+     "imagen": "https://www.cronista.com/resizer/v2/LHWL3MZG3BCEDF2E77WKTWKL6U.jpg?auth=ae001cd646eacaf54e59594d19e6362e201f99f5cb4a6ad177894edca6897349&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:29",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Cuánto rinde una inversión inmobiliaria en Mendoza y qué zonas son las más top"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "la morosidad de las familias bajó por segundo mes consecutivo",
+     "resumen": "Según la consultora 1816, con datos de la Central de Deudores, la mora de los hogares mejoró levemente en septiembre, lo que mostraría una mejora en la capacidad de pago familiar. Para una empresa: una mora más baja habilita algo más de margen para sostener ventas financiadas y planes de cuotas en el consumo minorista.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467862-la-morosidad-en-las-familias-bajo-levemente-en-septiembre-por-segundo-mes-consecutivo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611579.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:08",
+     "autor": "",
+     "titulo_original": "La morosidad en las familias bajó levemente en septiembre por segundo mes consecutivo"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "el Gobierno ampliará los subsidios a los colectivos para frenar el boleto",
+     "resumen": "Desde el domingo, el Estado destinará más fondos a las 104 líneas nacionales de colectivos para evitar nuevos aumentos del boleto, luego de que las empresas reclamaran $ 150.000 millones adicionales. La Secretaría de Transporte acordó una actualización mensual de costos hasta enero y ofreció saldar en tres cuotas una deuda de $ 40.000 millones que reclamaba el sector. Para una empresa: sostener el costo del transporte público modera la presión sobre la logística urbana y el consumo en las sucursales.",
+     "relacionadas": [
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno aumentará los subsidios a los colectivos para evitar que suba el boleto",
+       "url": "https://www.iprofesional.com/economia/467870-el-gobierno-aumentara-los-subsidios-a-los-colectivos-para-evitar-que-suba-el-boleto"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno aumentará los subsidios a los colectivos para evitar subas del boleto",
+       "url": "https://www.ambito.com/informacion-general/el-gobierno-aumentara-los-subsidios-los-colectivos-evitar-subas-del-boleto-n6339584"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/gobierno-negocia-aumento-subsidios-colectivos-contener-precio-boleto_0_JiN0U5jRD3.html",
+     "imagen": "https://www.clarin.com/img/2026/07/04/7Y51VoiqL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sin aumentos del boleto de colectivos: desde el domingo el Gobierno dará más subsidios para evitar nuevos incrementos"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "esperar la certeza absoluta puede ser la decisión más costosa en los negocios",
+     "resumen": "Una columna de análisis sostiene que las empresas que esperan a que se despeje por completo la incertidumbre argentina terminan esperando siempre, y que las compañías referentes en comercio exterior tomaron sus decisiones más importantes en medio del ruido, sin esperar una señal verde definitiva.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-70-que-alcanza-cuando-esperar-la-certeza-absoluta-es-la-decision-mas-costosa-en-los-negocios/",
+     "imagen": "https://www.cronista.com/resizer/v2/I5AHJVISWRCGRHJGYM7E43FOLQ.jpg?auth=40f0151566ac3f1e1e122f48b0335e2fa13e351db746d53e6915c544740b69c5&smart=true&width=663&height=373",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:06",
+     "autor": "Santiago La Rosa Pedernera",
+     "titulo_original": "El 70% que alcanza: cuando esperar la certeza absoluta es la decisión más costosa en los negocios"
+    },
+    {
+     "id": "AM-08",
+     "titulo": "las fintech argentinas apuestan a la inteligencia artificial tras estabilizar la mora",
+     "resumen": "En el Argentina Fintech Forum 2026, referentes del sector analizaron señales de estabilización de la morosidad y definieron estrategias para ampliar el crédito, ganar escala e incorporar inteligencia artificial en un mercado cada vez más competitivo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/las-fintech-redefinen-su-hoja-ruta-estabilizacion-la-mora-reconversion-los-negocios-y-apuesta-la-ia-n6339542",
+     "imagen": "https://media.ambito.com/p/c5c9ac6408c1bac2dbc7fb9a1df98a64/adjuntos/239/imagenes/043/738/0043738906/1200x675/smart/das_8385-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:45",
+     "autor": "",
+     "titulo_original": "Las fintech redefinen su hoja de ruta: estabilización de la mora, reconversión de los negocios y apuesta por la IA"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "una startup argentina de IA para bancos ganó el Premio a la Innovación 2026",
+     "resumen": "N5, fundada por Julián Colombo y Lucas Tettamanti, fue elegida entre 550 participantes para el Premio a la Innovación con Impacto de la Fundación Banco Nación y Endeavor Argentina. La empresa desarrolla soluciones de inteligencia artificial para entidades financieras, opera en 18 países y recibirá US$ 15.000 para su expansión.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/n5-gano-el-premio-la-innovacion-impacto-2026-la-fundacion-banco-nacion-y-endeavor-argentina-n6339507",
+     "imagen": "https://media.ambito.com/p/13f3db6f3f98d53dc6fda5fde86a7a61/adjuntos/239/imagenes/043/738/0043738802/1200x675/smart/whatsapp-image-2026-10-29-at-172827.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:09",
+     "autor": "",
+     "titulo_original": "N5 ganó el Premio a la Innovación con Impacto 2026 de la Fundación Banco Nación y Endeavor Argentina"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "un analista explicó las claves de la remontada de Lula sobre Bolsonaro",
+     "resumen": "El analista internacional Andrés Repetto señaló en LN+ que el triunfo de Lula da Silva sobre Flavio Bolsonaro sorprendió pese a las dificultades de transporte durante la jornada y la decisión judicial de extender el horario de votación. El resultado volvió a poner en duda a las encuestadoras y reflotó cuestionamientos sobre el sistema electrónico de votación por parte del sector derrotado.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-explico-en-detalle-la-remontada-historica-de-lula-y-las-dudas-que-genero-nid26102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KMM5ITNJR5HDHHNCOMGW2N5TFY.jpg?auth=26f1e226390a26d67732ab4805f38bd2f6e3f6515fd8a505bce3b8f7830681bc&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:41",
+     "autor": "",
+     "titulo_original": "Un analista internacional explicó en detalle la remontada histórica de Lula y las dudas que generó el voto electrónico: “Llama la atención”"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Lula busca evitar un conflicto directo con Milei y Trump",
+     "resumen": "El gobierno brasileño decidió no profundizar sus críticas tras el operativo que permitió a Flavio Bolsonaro salir del país con apoyo de Argentina y Estados Unidos, para no darle mayor protagonismo al episodio. Con la Casa Blanca, Brasilia prefiere mantener el pragmatismo pese a la tensión política de fondo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/lula-apuesta-a-evitar-el-conflicto-y-no-confrontar-con-milei-y-trump-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VGVAZGIQ7BB6DEIYAGXIAKZVRU.jpg?auth=52d8a387bd034a2a82997217f53525141b5268276b57c348f67a62099b09ced3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:31",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "Lula apuesta a evitar el conflicto y no confrontar con Milei y Trump"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Israel confirmó el resultado electoral y Netanyahu buscará formar gobierno",
+     "resumen": "La coalición de Netanyahu volvió a ser la fuerza más votada en las elecciones a la Knéset, pero quedó lejos de los 61 escaños necesarios para gobernar sin aliados. El presidente Isaac Herzog recibirá el escrutinio definitivo y abrirá una ronda de consultas con los partidos para designar a quien intentará formar gobierno.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/israel-confirmo-resultados-finales-elecciones-netanyahu-oposicion-abren-nueva-instancia-formar-gobierno_0_SOJntvIcX7.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/zKJebC9jh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "02:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Israel confirmó los resultados finales de las elecciones: Netanyahu y la oposición abren una nueva instancia para formar gobierno"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "la ONU condenó un ataque ruso con drones contra un tren en Ucrania",
+     "resumen": "El bombardeo contra una estación en Dnipro dejó al menos 15 muertos y una decena de heridos, según la actualización del gobernador local. El organismo internacional alertó sobre los crecientes riesgos para pasajeros y trabajadores ferroviarios ante la llegada del invierno.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/30/la-onu-condeno-el-mortifero-ataque-ruso-contra-un-tren-en-ucrania-que-dejo-13-muertos-y-alerto-sobre-la-seguridad-de-civiles/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZU6W52J72ZFPTKE4UD6MQQZ7FU.JPG?auth=d58395c4f634df1447235e44d2ee70979ba0891807ff74033a285a5118d04f17&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:39",
+     "autor": "",
+     "titulo_original": "La ONU condenó el “mortífero” ataque ruso contra un tren en Ucrania que dejó 15 muertos y alertó sobre la seguridad de civiles"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Irán denunció el incendio de cuatro petroleros por minas en el estrecho de Ormuz",
+     "resumen": "La Guardia Revolucionaria iraní afirmó que tres de los buques habían apagado sus sistemas de radar y navegación e ignorado advertencias de la Armada antes de circular por una ruta sur no autorizada por Teherán. El episodio ocurrió un día después de que Estados Unidos anunciara que había despejado rutas clave en esa vía marítima.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/30/el-regimen-de-iran-afirmo-que-cuatro-petroleros-se-incendiaron-tras-chocar-con-minas-en-el-estrecho-de-ormuz/",
+     "imagen": "https://www.infobae.com/resizer/v2/OSCPUL4QSRA6ZJNHPYQY2WPCG4.JPG?auth=b7a7ec0738775e4b639c3693908ef78b43b60f1bd8c447f0cc20ba395fc2d80c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:08",
+     "autor": "",
+     "titulo_original": "El régimen de Irán afirmó que cuatro petroleros se incendiaron tras chocar con minas en el estrecho de Ormuz"
+    },
+    {
+     "id": "IB-03",
+     "titulo": "el operario que ordenó reanudar la marcha del AVE se niega a declarar",
+     "resumen": "El trabajador del centro de control de Adif que dio la orden de continuar con \"marcha normal\" antes del choque de trenes en Toledo, que dejó al menos 69 muertos, se acogió a su derecho a no declarar ante la Guardia Civil. Entre las víctimas se confirmó la del argentino Agustín Randazzo, de 51 años, hallado sin vida tras el accidente.",
+     "relacionadas": [
+      {
+       "id": "LN-08",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Quién era Ana Martina Conte Grand, la podóloga argentina de 32 años que murió en el accidente de trenes en España",
+       "url": "https://www.lanacion.com.ar/el-mundo/quien-era-ana-martina-conte-grand-la-podologa-argentina-de-32-anos-que-murio-en-el-accidente-de-nid28102026/"
+      },
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Encontraron el cuerpo del argentino que estaba desaparecido tras el choque de trenes",
+       "url": "https://www.iprofesional.com/actualidad/467864-encontraron-el-cuerpo-del-argentino-que-estaba-desaparecido-tras-el-choque-de-trenes"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/2026/10/30/el-trabajador-de-adif-que-ordeno-al-ave-continuar-con-marcha-normal-se-niega-a-declarar/",
+     "imagen": "https://www.infobae.com/resizer/v2/PLN5SAU3K5BKTIF62MXMKYEBYQ.jpg?auth=f76d3172c8c0c2608bd4277325a43af843358f61f8dd9942e16e5d615e015fc3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:08",
+     "autor": "Lydia Hernández Téllez",
+     "titulo_original": "El trabajador de Adif que ordenó al AVE continuar “con marcha normal” se niega a declarar"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza, en esta edición, el poder económico detrás de China y el costo creciente de la política en Estados Unidos.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "cómo el comunismo terminó construyendo una superpotencia capitalista en China",
+     "resumen": "Un análisis de Le Grand Continent repasa cómo, entre 1990 y 2008, cerca de 88 millones de campesinos chinos perdieron sus tierras y se sumaron a las filas de los \"campesinos desposeídos\", un proceso que el jurista Chun Peng, de la Universidad de Pekín, describe como una expropiación sin precedentes en la historia. La revista analiza esa desintegración de la clase obrera como una de las claves del despegue económico chino.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/30/como-el-comunismo-hizo-de-china-una-superpotencia-capitalista/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/001426_001-125x85.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Louis Puel",
+     "titulo_original": "Cómo el comunismo convirtió a China en una superpotencia capitalista"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "la campaña al Senado de Texas se volvió la más cara en la historia de Estados Unidos",
+     "resumen": "Según el análisis de Le Grand Continent, candidatos y comités gastaron US$ 559 millones en la carrera al Senado de Texas, US$ 362 millones del lado republicano y US$ 197 millones del demócrata. Elon Musk aportó solo de su bolsillo unos US$ 190 millones, una cifra cercana a todo el gasto demócrata, en un estado que el Partido Republicano no pierde en elecciones al Senado desde 1988.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/30/en-texas-elon-musk-ha-gastado-casi-tanto-dinero-en-la-campana-senatorial-como-todo-el-bando-democrata/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "En Texas, Elon Musk ha invertido casi tanto dinero en la campaña al Senado como todo el bando demócrata"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "el 55% de las mayores fortunas de China proviene hoy del sector tecnológico",
+     "resumen": "Según el instituto Hurun, citado por Le Grand Continent, 40 de las 73 personalidades chinas entre las 100 mayores fortunas del país obtienen su patrimonio de la tecnología, el automóvil o la electrónica, el doble que una década atrás. La revista destaca que esa proporción más que duplica a la de Estados Unidos, donde los multimillonarios tecnológicos representan el 24% de los 100 más ricos.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/29/en-china-55-de-las-grandes-fortunas-viene-de-la-tech/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:26",
+     "autor": "Marin Saillofest",
+     "titulo_original": "En China, el 55 % de las mayores fortunas provienen del sector tecnológico"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-17",
+     "titulo": "alerta amarilla por tormentas para el fin de semana del Superclásico",
+     "resumen": "El Servicio Meteorológico Nacional activó una alerta amarilla por tormentas para este viernes en una franja que va del norte bonaerense a La Plata, con extensión hacia el sur de Santa Fe y Entre Ríos. La inestabilidad también amenaza con llegar al domingo, cuando River y Boca disputen el Superclásico.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/10/29/hay-alerta-amarilla-por-tormentas-en-el-amba-para-este-viernes-como-estara-el-clima-para-el-superclasico/",
+     "imagen": "https://www.infobae.com/resizer/v2/AOPFUO55BRAC3PRMXJI33BELQ4.jpg?auth=5ecb49418fff6bdbf32fb9887f33224db673906db499b5a666b6693f76248c5e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:06",
+     "autor": "",
+     "titulo_original": "Rige una alerta amarilla por tormentas para el AMBA: cómo estará el clima para el Superclásico"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "River no mandará representantes a la conferencia previa al Superclásico y será multado",
+     "resumen": "El club decidió no participar de la habitual conferencia de prensa previa al partido ante Boca, por lo que la AFA resolvió suspender el evento y aplicar una multa a la institución.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/river-decidio-no-enviar-representantes-la-conferencia-previa-al-superclasico-y-recibira-una-multa-n6339553",
+     "imagen": "https://media.ambito.com/p/c90b2ace1bc7974a73b404daebadd679/adjuntos/239/imagenes/043/738/0043738933/1200x675/smart/river-boca-conferencia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:13",
+     "autor": "",
+     "titulo_original": "River decidió no enviar representantes a la conferencia previa al Superclásico y recibirá una multa"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "el historial del Superclásico antes de un nuevo Boca-River",
+     "resumen": "Boca lleva apenas seis partidos de ventaja sobre River después de 113 años de enfrentamientos, en 266 partidos jugados entre ambos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/historial-definitivo-superclasico-partidos-boca-river-maximas-goleadas-dominaron-decada_0_cK7qNT6Sw7.html",
+     "imagen": "https://www.clarin.com/img/2026/10/29/i3_IFzz8k_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El historial definitivo del Superclásico: todos los partidos de Boca - River, máximas goleadas y quiénes dominaron cada década"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Cristiano Ronaldo convirtió un hat-trick y se acerca a los mil goles",
+     "resumen": "El delantero portugués marcó tres goles en 15 minutos en una victoria en Arabia Saudita, tras ganar el premio BOAT (\"Balón de Oro de Todos los Tiempos\"), y sigue acortando distancia hacia la marca de los mil goles en su carrera.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/hat-trick-cristiano-ronaldo-despues-ganar-el-boat-cuanto-le-falta-llegar-los-1000-goles-n6339535",
+     "imagen": "https://media.ambito.com/p/34d039bbde6d55db539d7c8505c2ae62/adjuntos/239/imagenes/043/738/0043738881/1200x675/832x216:852x236/cristiano-ronaldo-al-nassr.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:38",
+     "autor": "",
+     "titulo_original": "Hat-trick de Cristiano Ronaldo después de ganar el BOAT: cuánto le falta para llegar a los 1.000 goles"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "el Mundial 2026 ya generó un récord de US$ 5.100 millones en entradas",
+     "resumen": "La FIFA multiplicó por cinco la recaudación por boletos respecto de Qatar 2022, que había dejado US$ 929 millones, con un negocio total que llegaría a US$ 15.000 millones entre venta de entradas, paquetes de hospitalidad y comisiones del mercado secundario.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/fifa-multiplico-cinco-la-recaudacion-entradas-del-mundial-2026-us5100-millones-y-un-negocio-record-us15000-millones-n6339245",
+     "imagen": "https://media.ambito.com/p/7c9ee915392eba74a052d945b79081ea/adjuntos/239/imagenes/043/737/0043737673/1200x675/smart/estadio-mundial-lleno.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:30",
+     "autor": "",
+     "titulo_original": "FIFA multiplicó por cinco la recaudación por entradas del Mundial 2026: u$s5.100 millones y un negocio récord de u$s15.000 millones"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Boca cerró un balance con ganancias y prepara una inversión en la Bombonera",
+     "resumen": "El club registró un superávit de $ 15.519 millones y proyecta destinar $ 41.767 millones a infraestructura en el próximo ejercicio, casi la mitad para la primera etapa de ampliación del estadio.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/boca-cerro-su-balance-ganancias-millonarias-y-prepara-una-fuerte-inversion-la-bombonera-n6339409",
+     "imagen": "https://media.ambito.com/p/c6af38f2597c3f4d6928539dbd20747b/adjuntos/239/imagenes/043/738/0043738075/1200x675/smart/asamblea-boca.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:18",
+     "autor": "",
+     "titulo_original": "Boca cerró su balance con ganancias millonarias y prepara una fuerte inversión en la Bombonera"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "Kimi Antonelli y Valtteri Bottas se bajaron de la jornada de prensa en México por enfermedad",
+     "resumen": "El líder del campeonato de pilotos, Kimi Antonelli, pidió descanso antes de las prácticas del viernes en el Gran Premio de México, y Valtteri Bottas tampoco se presentó ante los micrófonos por no sentirse en condiciones óptimas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/preocupacion-la-formula-1-kimi-antonelli-y-valtteri-bottas-se-enfermaron-y-no-estuvieron-presentes-la-jornada-prensa-n6339506",
+     "imagen": "https://media.ambito.com/p/acfd01f5e3c7b73a3a344ef8ecfc93db/adjuntos/239/imagenes/043/600/0043600169/1200x675/764x498:784x518/kimi-antonelli.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:59",
+     "autor": "",
+     "titulo_original": "Preocupación en la Fórmula 1: Kimi Antonelli y Valtteri Bottas se enfermaron y no estuvieron presentes en la jornada de prensa"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Franco Colapinto no girará el viernes en México y apuesta a que la altura lo favorezca el domingo",
+     "resumen": "El piloto argentino de Alpine no participará de la primera práctica libre del Gran Premio de México, tras una racha de tres abandonos en las últimas cuatro carreras que incluyó el Gran Premio de Estados Unidos. Colapinto también confirmó que Alpine dejó de desarrollar el auto de esta temporada para concentrar los recursos en el de 2027, y contó que Sergio \"Checo\" Pérez es el único piloto al que considera un amigo dentro de la parrilla.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Franco Colapinto se animó a otro deporte, reveló el plan de Alpine para 2027 y quién es su único amigo en la Fórmula 1",
+       "url": "https://www.infobae.com/deportes/2026/10/30/franco-colapinto-se-animo-a-otro-deporte-revelo-el-plan-de-alpine-para-2027-y-quien-es-su-unico-amigo-en-la-formula-1/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-ya-piensa-en-mejorar-como-cree-que-la-altura-puede-influir-en-la-carrera-del-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/H7GUQDK5XRD5NIHA3QRMPEF2HE.jpg?auth=43fdbaa9f8c5719744a645b03d508f6177eec98677a3ed5d6b805c258c903433&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:36",
+     "autor": "Orlando Ríos",
+     "titulo_original": "Franco Colapinto ya piensa en mejorar: cómo cree que la altura puede influir en la carrera del domingo"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-26",
+     "titulo": "Luján se prepara para recibir a León XIV con circuitos históricos y religiosos",
+     "resumen": "La ciudad bonaerense espera a más de un millón de visitantes para la misa que el Papa celebrará el 11 de noviembre, y ya tiene las reservas casi completas en sus hoteles para esa noche. Además de la basílica, Luján ofrece museos, abadías, pubs de campo y restaurantes para una estadía de más de un día, en una ciudad con más de 200 años de historia.",
+     "relacionadas": [
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cuándo llega el papa León XIV a la Argentina y cómo será su agenda en el país",
+       "url": "https://www.infobae.com/sociedad/2026/10/30/cuando-llega-el-papa-leon-xiv-a-la-argentina-y-como-sera-su-agenda-en-el-pais/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/salud/lujan-recibe-a-leon-xiv-los-circuitos-imperdibles-para-una-visita-historica-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MVFTMF3UW5HRZJLZ67YX5ADQGQ.jpg?auth=83ac15c31a8ff9d2e26e0c9b200c0ba58907fd4c7dfbc1a1bdd7426d011ff1ad&smart=true&width=900&height=581",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:31",
+     "autor": "María José Lucesole",
+     "titulo_original": "Luján recibe a León XIV: los circuitos imperdibles para una visita histórica"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "las ciudades europeas donde más tiempo se pierde haciendo cola",
+     "resumen": "Un estudio sobre 100 atracciones turísticas de Europa identificó las capitales que exigen mayor planificación por los extensos tiempos de espera, una referencia útil para quienes organizan un viaje al continente.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/ciudades-europa-pueden-perder-horas-haciendo-colas-evitarlas_0_51hSjwCXDY.html",
+     "imagen": "https://www.clarin.com/img/2026/10/29/lNVQhRiZr_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Las ciudades de Europa donde se pueden perder más horas haciendo colas (y cómo evitarlas)"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "hallaron sin vida a los dos hermanos que habían desaparecido en un río de Santa Cruz",
+     "resumen": "El gobierno provincial confirmó el hallazgo de Leo y José Virreira, de 12 y 10 años, arrastrados por la corriente el domingo pasado cerca de la Ruta Nacional 40. La búsqueda había movilizado a más de 120 agentes.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/hallaron-sin-vida-a-los-dos-hermanos-menores-de-edad-que-habian-desaparecido-en-santa-cruz-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TMFA5ALON5CY3HNCHWRMNCQZBU.png?auth=17c581c198d1050781230871cb94fe087d1214594b78d337587ac1f90a693b26&smart=true&width=784&height=620",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:55",
+     "autor": "",
+     "titulo_original": "Hallaron sin vida a los dos hermanos menores de edad que habían desaparecido en Santa Cruz"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "los alumnos de la Provincia perdieron 25 días de clase en lo que va del año",
+     "resumen": "Por protestas docentes, en octubre hubo apenas 10 jornadas de clase de las 20 previstas. El desgaste gremial se profundizó tras la salida en mayo del titular de Suteba de la conducción del sindicato, y la Provincia no lleva un relevamiento propio de los paros.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/chicos-perdieron-25-dias-clases-va-ano-provincia-efecto-baradel-dispersion-gremial-falta-controles_0_qdAQQRn2D3.html",
+     "imagen": "https://www.clarin.com/img/2024/05/01/4MFh3AmAE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los chicos perdieron 25 días de clases en lo que va del año en Provincia: efecto Baradel, dispersión gremial y falta de controles"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "el papa León XIV visitará la Argentina del 8 al 11 de noviembre",
+     "resumen": "La gira apostólica, que también incluye Uruguay y Perú, marcará el regreso de un Papa al país después de 39 años, con misas multitudinarias, encuentros con autoridades y actividades pastorales en distintas ciudades.",
+     "relacionadas": [
+      {
+       "id": "LN-26",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Luján recibe a León XIV: los circuitos imperdibles para una visita histórica",
+       "url": "https://www.lanacion.com.ar/salud/lujan-recibe-a-leon-xiv-los-circuitos-imperdibles-para-una-visita-historica-nid29102026/"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/10/30/cuando-llega-el-papa-leon-xiv-a-la-argentina-y-como-sera-su-agenda-en-el-pais/",
+     "imagen": "https://www.infobae.com/resizer/v2/QU7GNQQFAVCMBJNIVBOP6EGUY4.jpg?auth=73a5b44627504cb0e8cb7a82cc8cf66015fc60ce63e9b6edee82cda525984e48&smart=true&width=900&height=611",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:00",
+     "autor": "Constanza Almirón",
+     "titulo_original": "Cuándo llega el papa León XIV a la Argentina y cómo será su agenda en el país"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "la superficie con agua creció más de 50% en un mes en Corrientes",
+     "resumen": "Un monitoreo satelital del INTA detectó casi 69.100 hectáreas adicionales con agua libre en la provincia entre septiembre y octubre, en el marco del fenómeno de El Niño. En todo el valle de inundación del Paraná, la superficie cubierta por agua aumentó 20,8%.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/el-nino-en-un-mes-aumento-un-534-la-superficie-con-agua-en-corrientes-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DZGVW3EHEJEIHDG7B6WQLRY6QI.png?auth=5b0303e1f852ebf5d3e92da7824d67db864a2ca8112d576195c4c2cdedaec514&smart=true&width=900&height=537",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:18",
+     "autor": "",
+     "titulo_original": "El Niño: en un mes aumentó un 53,4% la superficie con agua en Corrientes"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del viernes 30 de octubre. La jornada arranca con el Senado dando media sanción a dos proyectos clave del Gobierno, la confirmación de una recesión técnica en la economía argentina, una oferta de financiamiento de Estados Unidos y un hackeo histórico en las criptomonedas que sacudió a los mercados globales. Además, este fin de semana llega el Superclásico entre River y Boca bajo alerta por tormentas, y Franco Colapinto corre en México. Vamos con los números del día. El dólar oficial cerró ayer en mil quinientos sesenta pesos para la venta, y el dólar blue en mil quinientos sesenta y cinco pesos. El oro cotiza en tres mil novecientos noventa y nueve dólares la onza. El riesgo país se ubica en setecientos cuarenta y un puntos básicos, y la inflación de septiembre fue del uno coma nueve por ciento mensual, con una variación interanual del treinta y tres coma cuatro por ciento. En política, el Senado aprobó la reforma de la Ley Nacional de Salud Mental, con cuarenta y dos votos a favor y veintiuno en contra, y el proyecto pasó a Diputados. También avanzó el Régimen de Incentivo para las Inversiones Relevantes, conocido como RIIR, pensado para proyectos medianos que no llegan a la escala del RIGI, con foco en agroindustria y transición energética. Axel Kicillof reunió durante casi tres horas en La Plata a los intendentes de su espacio para discutir la restitución de las reelecciones indefinidas y la continuidad de las PASO, de cara a las elecciones de dos mil veintisiete. En el oficialismo nacional, un sector vinculado a Santiago Caputo empezó a diferenciarse abiertamente de Patricia Bullrich, en medio de tensiones por el Consejo de Seguridad Nacional. El jefe de Gabinete, Diego Santilli, se puso a disposición del Senado para dar su informe de gestión antes de que la oposición lo forzara, en una jornada en la que también se coló la salida de Flavio Bolsonaro del país. Mauricio Macri, por su parte, dijo que no hubo avances en las negociaciones entre el PRO y La Libertad Avanza. En economía y mercados, la consultora Analytica confirmó que la actividad económica entró en recesión técnica, luego de que el indicador de agosto mostrara una caída interanual del uno coma siete por ciento, la mayor del año. El Fondo Monetario Internacional aclaró que el acuerdo con la Argentina apunta a sostener la desinflación, fortalecer la resiliencia económica e impulsar el crecimiento, sin exigir medidas adicionales antes de la revisión del directorio. El presidente del Banco Central, Santiago Bausili, dijo no tener una proyección de corrida cambiaria para el año que viene y espera que la inflación siga bajando, mientras la entidad empezó a liberar pesos después de catorce meses de contracción monetaria. En Estados Unidos, el producto bruto creció tres coma cuatro por ciento de la mano del consumo y la inversión en inteligencia artificial, mientras que en Wall Street el índice Nasdaq cien cayó uno coma cinco por ciento después de que Alphabet y Microsoft informaran un gasto menor al esperado en infraestructura de inteligencia artificial. En negocios y empresas, el gobierno de Donald Trump transmitió a empresas estadounidenses su intención de ofrecer hasta treinta mil millones de dólares en financiamiento para proyectos en la Argentina. YPF prometió una sorpresa en la producción de Vaca Muerta para diciembre de dos mil veintisiete, después de crecer treinta y dos por ciento interanual en el último trimestre. La fabricante de tractores Pauny, en cambio, suspendió a quinientos trabajadores en Las Varillas, Córdoba, por atrasos salariales y caída de la producción. Y Mercado Pago quedó a un paso de convertirse en banco, después de que el Banco Central diera por cumplidas todas las revisiones técnicas de su licencia. En impuestos y normativa, la Agencia de Recaudación y Control Aduanero volvió a postergar, por sexta vez, el vencimiento de la declaración jurada de Ganancias, ahora hasta el dieciséis de noviembre. El Observatorio Pyme reveló que una de cada siete pequeñas y medianas empresas industriales recibió embargos del fisco en el último trimestre, lo que puede paralizar el pago de salarios. Para una empresa, mantener al día sus obligaciones impositivas corrientes es clave para no quedar con una cuenta inmovilizada en plena cadena de pagos. Además, el Gobierno postergó hasta el primero de diciembre una parte de la suba de impuestos a los combustibles. En consumo y construcción, el Grupo ocho sesenta y seis anunció un nuevo desarrollo residencial dentro del proyecto Ramblas del Plata, que IRSA impulsa en la Costanera Sur. El Gobierno avanza además en la venta de más de sesenta mil metros cuadrados del Parque de la Costa, en Tigre. En Mendoza, un relevamiento mostró que comprar para alquilar rinde una rentabilidad bruta anual del siete por ciento. Y la morosidad de las familias bajó levemente en septiembre por segundo mes consecutivo, lo que da algo más de margen para sostener ventas financiadas en el consumo minorista. En gestión y finanzas corporativas, una columna de análisis sostuvo que esperar la certeza absoluta suele ser la decisión más costosa en los negocios, y que las empresas que mejor atravesaron los ciclos argentinos fueron las que decidieron en medio de la incertidumbre. En el Argentina Fintech Forum, el sector analizó la estabilización de la morosidad y su apuesta por la inteligencia artificial para ganar escala, y la startup argentina ene cinco ganó el Premio a la Innovación con Impacto de la Fundación Banco Nación y Endeavor Argentina. En el mundo, un analista explicó las claves de la remontada de Lula da Silva sobre Flavio Bolsonaro en Brasil, en una elección marcada por dudas sobre el sistema de votación electrónica, aunque el gobierno brasileño busca evitar un conflicto directo con Milei y con Trump. En Israel, la coalición de Benjamín Netanyahu volvió a ser la fuerza más votada, pero deberá negociar alianzas para formar gobierno. La Organización de las Naciones Unidas condenó un ataque ruso con drones contra un tren en Ucrania que dejó al menos quince muertos, e Irán denunció el incendio de cuatro petroleros por minas en el estrecho de Ormuz. Y en España, el operario que ordenó al tren AVE seguir con marcha normal antes del choque que dejó al menos sesenta y nueve muertos en Toledo se negó a declarar ante la Guardia Civil; entre las víctimas se confirmó la del argentino Agustín Randazzo. Le Grand Continent analiza esta semana el poder económico detrás de China, con un repaso de cómo, entre mil novecientos noventa y dos mil ocho, casi ochenta y ocho millones de campesinos chinos perdieron sus tierras en un proceso que la revista describe como una expropiación sin precedentes, lo que hoy explica que el cincuenta y cinco por ciento de las mayores fortunas del país provenga del sector tecnológico. También repasa cómo la campaña al Senado de Texas se convirtió en la más cara de la historia de Estados Unidos, financiada en gran parte por Elon Musk. En deportes, rige alerta amarilla por tormentas para el fin de semana del Superclásico, que además tendrá a River sin representantes en la conferencia de prensa previa, con la multa correspondiente de la AFA. Boca cerró su balance con ganancias y prepara una inversión fuerte para ampliar la Bombonera. Cristiano Ronaldo convirtió un hat-trick en Arabia Saudita y sigue acercándose a los mil goles en su carrera, mientras la FIFA confirmó que el Mundial dos mil veintiséis ya generó un récord de cinco mil cien millones de dólares solo en venta de entradas. En la Fórmula Uno, Kimi Antonelli y Valtteri Bottas se bajaron de la jornada de prensa en México por enfermedad, y Franco Colapinto no participará de la primera práctica libre del viernes: el argentino apuesta a que la altura de la ciudad de México lo favorezca el domingo, después de una racha de tres abandonos en las últimas cuatro carreras, y contó que Checo Pérez es el único piloto al que considera un amigo dentro de la parrilla. Para cerrar, en turismo, Luján se prepara para recibir a más de un millón de visitantes que llegarán para la misa que el papa León Catorce celebrará allí el once de noviembre, dentro de su visita a la Argentina entre el ocho y el once de ese mes. La ciudad bonaerense ofrece, además de la basílica, museos, abadías y restaurantes para quienes quieran extender su estadía. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-10-30-manana",
+ "generado_ba": "30/10/2026 10:24"
+}
