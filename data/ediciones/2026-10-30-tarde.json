@@ -1,0 +1,858 @@
+{
+ "fecha": "2026-10-30",
+ "edicion": "tarde",
+ "titulo": "Riesgo país en máximo anual, desplome en Wall Street y tensión en el Gobierno",
+ "apertura": "El riesgo país trepó a su nivel más alto en un año y los mercados globales sufrieron una fuerte caída por el temor al gasto en inteligencia artificial, con Intel desplomándose 31 por ciento y el bitcoin cayendo por debajo de los 77.000 dólares tras el hackeo a Binance. En el plano político, una fiscalía especializada se sumó a la causa Libra para apelar los sobreseimientos de Milei, crecen las tensiones internas en La Libertad Avanza entre Patricia Bullrich y el entorno de Santiago Caputo, y Brasil convocó a la diplomática argentina por la fuga de Flávio Bolsonaro. En el resto del mundo, el petróleo tocó su precio más alto en cuatro meses por la escalada en el Estrecho de Ormuz, hubo huelga general en Italia contra el gobierno de Meloni y cerró uno de los últimos bastiones del periodismo independiente ruso, mientras en el fútbol local se juega la fecha 15 del Clausura antes del Superclásico del domingo.",
+ "claves": [
+  "El riesgo país trepó a 790 puntos, su nivel más alto en un año, en medio de un desplome bursátil global.",
+  "Wall Street se hundió hasta 3,8% por el temor al gasto en inteligencia artificial; Intel cayó 31% y el Nasdaq 100 se acerca a una corrección técnica.",
+  "El bitcoin cayó por debajo de los 77.000 dólares tras el hackeo a Binance, que ahora investiga el FBI con sospechas sobre un grupo vinculado a Corea del Norte.",
+  "Una fiscalía especializada en corrupción, la PIA, se sumó a la causa Libra y apeló los sobreseimientos de Milei y su hermana Karina.",
+  "Crecen las tensiones en el Gobierno: Martín Menem rechazó un \"plan B\" de Patricia Bullrich y descartó internas en La Libertad Avanza.",
+  "Brasil convocó a la encargada de negocios argentina para pedir explicaciones por la fuga de Flávio Bolsonaro a Estados Unidos.",
+  "El petróleo tocó su precio más alto en cuatro meses, en 117,64 dólares, tras nuevos ataques de Irán en el Estrecho de Ormuz.",
+  "Boca y River juegan el Superclásico el domingo a las 15, mientras este viernes se disputa la fecha 15 del Torneo Clausura."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo (Brent)",
+   "valor": "US$ 117,64",
+   "variacion": "+2,4%",
+   "fuente": "IB-12"
+  },
+  {
+   "nombre": "Bitcoin",
+   "valor": "US$ 76.300",
+   "fuente": "IP-16"
+  },
+  {
+   "nombre": "Nasdaq 100 (intradía)",
+   "valor": "-3,8%",
+   "fuente": "AM-13"
+  },
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "-US$ 1.600 millones",
+   "fuente": "IP-03"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-26",
+     "titulo": "una fiscalía especializada se sumó a la causa Libra y apeló los sobreseimientos de Milei",
+     "resumen": "La Procuraduría de Investigaciones Administrativas se presentó formalmente en el expediente de la causa Libra, asumió el ejercicio de la acción que había abandonado el fiscal Eduardo Taiano y apeló los sobreseimientos del presidente Javier Milei, su hermana Karina y los otros nueve acusados, dispuestos la semana pasada por el juez Marcelo Martínez de Giorgi. La fiscalía, encabezada por Sergio Rodríguez, sostuvo que el expediente debe seguir abierto para esclarecer aspectos centrales del colapso de la criptomoneda.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Caso $LIBRA: una fiscalía especializada en corrupción apeló los sobreseimientos y afirma que hay \"señales de una defraudación\"",
+       "url": "https://www.clarin.com/politica/caso-libra-fiscalia-especializada-corrupccion-apelo-sobreseimientos-afirma-senales-defraudacion_0_OBrFt6Judc.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/caso-libra-una-fiscalia-especializada-se-involucro-en-reemplazo-del-fiscal-taiano-y-apelo-el-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/QBAAQSIGNBCIPG7ZJ7JXMDE33M.jpg?auth=89567e2352c15cd14461385fae8cf2bc958c2e7908789314c0e2c6cb2f7cb040&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:24",
+     "autor": "Hugo Alconada Mon",
+     "titulo_original": "Caso LIBRA: una fiscalía especializada se involucró en reemplazo del fiscal Taiano y apeló el sobreseimiento de Milei"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "el PRO le pide siete cambios a Milei para apoyar el Presupuesto",
+     "resumen": "En medio de la tensión con los libertarios, el jefe de los diputados del PRO, Cristian Ritondo, remitió una nota con siete modificaciones que el bloque pide para respaldar el Presupuesto, entre ellas baja de impuestos y crédito para la Ciudad. El expresidente Mauricio Macri continúa diferenciándose públicamente de su sucesor.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/medio-tension-libertarios-pro-pide-milei-cambios-clave-presupuesto_0_EpHXdP2Lzo.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/oNHrKt6dx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "En medio de la tensión con los libertarios, el PRO le pide siete cambios a Milei para apoyar el Presupuesto"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Milei confirmó su regreso a Madrid para la Cumbre Iberoamericana",
+     "resumen": "El presidente Javier Milei participará de la Cumbre Iberoamericana del 4 y 5 de noviembre en Madrid, a pocos días de haber llamado \"dictador\" a Pedro Sánchez durante su visita anterior a la capital española. Será su viaje número 48 al exterior desde que asumió, según fuentes de la Casa Rosada.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei volverá a España a dos semanas de su enfrentamiento con Pedro Sánchez",
+       "url": "https://www.ambito.com/politica/javier-milei-volvera-espana-dos-semanas-su-enfrentamiento-pedro-sanchez-n6339914"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/javier-milei-volvera-madrid-participar-cumbre-iberoamericana-pocos-dias-insultar-llamado-dictador-pedro-sanchez_0_tOA796LVBC.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/IvJgqnQPu_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei volverá a Madrid para participar en la Cumbre Iberoamericana, a pocos días de insultar y haber llamado \"dictador\" a Pedro Sánchez"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Martín Menem rechazó el \"plan B\" de Bullrich y descartó internas en LLA",
+     "resumen": "El presidente de la Cámara de Diputados, Martín Menem, afirmó que \"no hay dos candidatos en La Libertad Avanza a la Presidencia\", en respuesta a versiones sobre las intenciones de Patricia Bullrich. La senadora marcó en los últimos días diferencias con la conducción presidencial, entre ellas por el tono de Milei hacia los periodistas y por el reconocimiento de la victoria de Lula en Brasil.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/10/30/crece-la-tension-en-el-gobierno-martin-menem-rechazo-el-plan-b-de-bullrich-y-dijo-que-no-habra-internas/",
+     "imagen": "https://www.infobae.com/resizer/v2/CEPZSZZKUNCZ3IXX47NS7AL5TM.jpg?auth=d130750861fb8c3f174c16612353bbe14334e971524b2443370b27959ede5187&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:21",
+     "autor": "Julián Alvez",
+     "titulo_original": "Crece la tensión en el Gobierno: Martín Menem rechazó el \"Plan B\" de Bullrich y dijo que no habrá internas"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Kicillof pidió una PASO en el peronismo para definir candidaturas",
+     "resumen": "El gobernador bonaerense, Axel Kicillof, defendió la continuidad de las primarias para resolver las candidaturas del peronismo y planteó que las diferencias internas deben dirimirse en las urnas, durante una visita a Jujuy junto al gobernador radical Carlos Sadir. En paralelo, Kicillof, Sergio Massa y Máximo Kirchner negocian un pacto para bajar la tensión en el PJ bonaerense sobre la Corte, las PASO y las reelecciones de intendentes.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El pacto que negocia el peronismo para frenar la interna: Corte, PASO y reelecciones en juego",
+       "url": "https://www.cronista.com/economia-politica/el-pacto-que-negocia-el-peronismo-para-frenar-la-interna-corte-paso-y-reelecciones-en-juego/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/30/kicillof-pidio-ir-a-una-paso-en-el-peronismo-para-definir-candidaturas-que-lo-decida-la-gente/",
+     "imagen": "https://www.infobae.com/resizer/v2/D2ZDZF3KMNFWJLAC6SS6I5DODI.jpg?auth=6cf499dcd812dcef7c1a0291f6301873b9a736526e736ccd5aafbad258ce2e0f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:06",
+     "autor": "Facundo Cottet",
+     "titulo_original": "Kicillof pidió ir a una PASO en el peronismo para definir candidaturas: “Que lo decida la gente”"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "renunció el subsecretario de Ciencia y Tecnología con críticas al Gobierno",
+     "resumen": "El funcionario dejó el cargo tras poco más de un mes de gestión y, en una carta dirigida a la titular del área, Adriana Baravalle, denunció destrato y falta de respaldo por parte de las autoridades.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/renuncio-el-subsecretario-ciencia-y-tecnologia-criticas-al-gobierno-denuncio-destrato-y-falta-respaldo-n6339939",
+     "imagen": "https://media.ambito.com/p/5fabb1f9ab0271fcd1099eb691aced82/adjuntos/239/imagenes/043/740/0043740495/1200x675/smart/lencina.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:31",
+     "autor": "",
+     "titulo_original": "Renunció el subsecretario de Ciencia y Tecnología con críticas al Gobierno: denunció destrato y falta de respaldo"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "el riesgo país trepó a 790 puntos, su máximo en un año",
+     "resumen": "El riesgo país saltó este viernes a 790 puntos básicos, su nivel más alto desde las elecciones legislativas de octubre de 2025, en medio de un desplome generalizado de los mercados globales. En lo que va de octubre acumula una suba cercana al 30 por ciento, desde los 607 puntos con que había arrancado el mes, mientras los ADR argentinos caen hasta 6 por ciento en Wall Street. Para una empresa: un riesgo país en máximos anuales encarece el financiamiento externo y posterga el acceso al crédito en dólares para proyectos de expansión.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los factores que hacen subir el riesgo país y hasta qué nivel puede trepar, según la City",
+       "url": "https://www.iprofesional.com/finanzas/467950-los-factores-detras-del-salto-del-riesgo-pais-y-hasta-donde-puede-escalar"
+      },
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país se disparó, se acercó a los 800 puntos y tocó su nivel más alto en un año",
+       "url": "https://www.iprofesional.com/finanzas/467930-riesgo-pais-vuelve-a-subir-a-787-puntos-y-caen-los-bonos-argentinos"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Riesgo país en 787 puntos: qué significa y cómo afecta a la economía argentina",
+       "url": "https://www.iprofesional.com/finanzas/466925-riesgo-pais-en-787-puntos-que-significa-y-como-afecta-a-la-economia-argentina"
+      },
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "En medio de un desplome global de los mercados, el riesgo país vuelve a trepar y quedó cerca de los 800 puntos",
+       "url": "https://www.clarin.com/economia/medio-desplome-global-mercados-riesgo-pais-vuelve-trepar-quedo-cerca-800-puntos_0_XAw13IUT0Y.html"
+      },
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país escala fuerte y llega a 790 puntos, arrastrado por un colapso en los mercados globales",
+       "url": "https://www.ambito.com/finanzas/el-riesgo-pais-se-somete-la-ultima-rueda-semanal-el-respiro-que-se-tomaron-los-bonos-dolares-n6339658"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-se-dispara-a-777-puntos-y-toca-maximos-en-un-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:28",
+     "autor": "Leandro Dario",
+     "titulo_original": "Riesgo país se dispara a 787 puntos y toca máximos en un año"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Wall Street se hundió hasta 3,8% por el temor al gasto en inteligencia artificial",
+     "resumen": "Wall Street se hundió hasta 3,8 por ciento este viernes por el temor al elevado gasto de las grandes tecnológicas en inteligencia artificial: Intel se desplomó 31 por ciento y el Nasdaq 100 se acerca a una corrección técnica. Amazon y Microsoft profundizaron las pérdidas tras advertir sobre sus inversiones, mientras Amazon, Google, Meta y Microsoft prevén desembolsar en conjunto más de 720.000 millones de dólares este año en desarrollos tecnológicos. Para una empresa: la volatilidad en Wall Street repercute en el humor inversor hacia los mercados emergentes, entre ellos la Argentina.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Wall Street se desploma por el temor a la IA y dos gigantes tecnológicos están en la mira",
+       "url": "https://www.iprofesional.com/finanzas/467947-wall-street-se-desploma-por-el-temor-a-la-ia-y-dos-gigantes-tecnologicos-estan-en-la-mira"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El tumulto tecnológico sacude a Wall Street",
+       "url": "https://www.ambito.com/finanzas/el-tumulto-tecnologico-sacude-wall-street-n6339946"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/los-futuros-wall-street-adelantan-un-desplome-mas-2-el-nasdaq-los-malos-datos-amazon-e-intel-n6339618",
+     "imagen": "https://media.ambito.com/p/0f13d46b48d7f9c69280b5238381fb0a/adjuntos/239/imagenes/041/318/0041318161/mercados-wall-street-acciones-bolsas-inversiones-finanzas.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:58",
+     "autor": "",
+     "titulo_original": "Desplome bursátil: Wall Street se hunde hasta 3,8% ante el renovado temor por las inversiones en IA"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "el bitcoin se hundió por debajo de los 77.000 dólares",
+     "resumen": "El bitcoin cayó por debajo de los 77.000 dólares, su nivel más bajo desde septiembre, tras el hackeo de 6.300 millones de dólares a Binance, el mayor robo de la historia de las criptomonedas. Se liquidaron posiciones alcistas por 1.300 millones de dólares, mientras el FBI y el Servicio Secreto estadounidense se sumaron a la investigación y las sospechas apuntan a un grupo de hackers vinculado con Corea del Norte.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Se derrumba Bitcoin tras hackeo multimillonario a Binance y crecen las dudas sobre la industria cripto",
+       "url": "https://www.cronista.com/finanzas-mercados/se-derrumba-bitcoin-tras-hackeo-multimillonario-a-binance-y-crecen-las-dudas-sobre-la-industria-cripto/"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Caso Binance: cómo Corea del Norte se convirtió en una superpotencia del hackeo",
+       "url": "https://www.cronista.com/financial-times/como-corea-del-norte-se-convirtio-en-una-superpotencia-del-hackeo/"
+      },
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El robo de USD 6.000 millones a Binance sacude el mundo de las criptomonedas y atrae la atención del FBI",
+       "url": "https://www.infobae.com/america/mundo/2026/10/30/el-robo-de-usd-6000-millones-a-binance-sacude-el-mundo-de-las-criptomonedas-y-atrae-la-atencion-del-fbi/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/criptomonedas/467914-bitcoin-cayo-a-us76300-tras-el-hackeo-record-a-binance",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626532.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "El Bitcoin se hunde por debajo de los u$s77.000 tras el hackeo a Binance"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "el dólar oficial y el blue cerraron octubre casi sin cambios",
+     "resumen": "El dólar oficial cerró octubre sin cambios en la última rueda del mes, en 1.510 pesos para la compra y 1.560 para la venta, con un alza mensual de 20 pesos (1,3 por ciento) respecto de septiembre. El dólar blue también terminó estable, en 1.545 y 1.565 pesos, muy por debajo de la suba acumulada por el oficial y los dólares financieros en lo que va del año.",
+     "relacionadas": [
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El dólar blue se mantuvo estable en la última rueda de octubre y cerró el mes con una variación mínima",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-30-de-octubre-con-el-mep-y-el-ccl/"
+      },
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar oficial subió por tercera semana al hilo, aunque cerró octubre con un avance menor a la inflación",
+       "url": "https://www.ambito.com/finanzas/el-dolar-mayorista-encadena-su-tercera-suba-semanal-y-el-mercado-sigue-cerca-la-demanda-cobertura-n6339634"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-viernes-30-de-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/XYVW56KOEBDXRMLUSVU3MA5DTY.jpg?auth=bf1f32854f1a5015c9b7837a6b2d60b43e0f74223efd1edf9eeece9be48e5f08&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:18",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El dólar oficial no tuvo cambios en la última rueda del mes, pero cerró octubre con un aumento de $ 20"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "las reservas del BCRA cayeron casi 1.600 millones de dólares pese a las compras",
+     "resumen": "El Banco Central compró divisas por segunda rueda consecutiva, pero las reservas cayeron casi 1.600 millones de dólares, afectadas por la baja del oro y por movimientos propios del cierre de mes.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467957-cedio-el-dolar-y-las-reservas-cayeron-casi-us1-600-millones-pese-a-compras-del-bcra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614110.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:22",
+     "autor": "",
+     "titulo_original": "Cedió el dólar y las reservas cayeron casi u$s1.600 millones, pese a compras del BCRA"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Bausili dijo que no hay \"overhang monetario\" de cara a una mayor presión cambiaria",
+     "resumen": "El presidente del BCRA, Santiago Bausili, aseguró que la Argentina afronta una eventual nueva etapa de presión cambiaria en una posición distinta a la de 2024, gracias a la acumulación de dólares y a la ausencia de un excedente monetario relevante. Remarcó que la cantidad de pesos en la economía y la fortaleza del sector externo son las dos variables centrales que sigue el Central.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/bausili-explico-como-se-prepara-el-bcra-para-una-mayor-presion-cambiaria-y-destaco-no-hay-overhang-monetario/",
+     "imagen": "https://www.cronista.com/resizer/v2/XIY72HD5WFFPPJ6SITEQWS3IVY.jpg?auth=2a9300671035ccbeb24e9c9821ee90eef1bc4c6425809669b99ab37b8d06f0bb&smart=true&width=900&height=509",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:38",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Bausili explicó cómo se prepara el BCRA para una mayor presión cambiaria y destacó “No hay overhang monetario”"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-13",
+     "titulo": "cerró la fábrica de maquinaria agrícola Plantium y dejó sin trabajo a más de 100 personas",
+     "resumen": "La fabricante de pilotos automáticos para maquinaria agrícola Plantium cerró sus puertas y dejó sin trabajo a más de 100 personas, que se enteraron del cierre al llegar a la planta. El caso se suma a las dificultades que atraviesa el sector de maquinaria agrícola, golpeado por la caída de la demanda y las trabas de financiamiento.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467945-cerro-fabrica-de-maquinaria-agricola-plantium-y-dejo-sin-trabajo-a-mas-de-100-personas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628823.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:01",
+     "autor": "",
+     "titulo_original": "Cerró fábrica de maquinaria agrícola Plantium y dejó sin trabajo a más de 100 personas"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Japón desembarca en San Juan con camiones gigantes para una mina millonaria",
+     "resumen": "Las mineras BHP y Lundin Mining comenzaron a trasladar a San Juan camiones gigantes capaces de cargar 142 toneladas por viaje, con un total de 36 unidades previstas para avanzar con un megaproyecto minero. La operación forma parte de la ola de inversiones que impulsa el RIGI en el sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467942-japon-desembarca-en-san-juan-con-camiones-gigantes-para-mina-millonaria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628825.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:05",
+     "autor": "",
+     "titulo_original": "Japón desembarca en San Juan con camiones gigantes para una mina millonaria"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "las exportaciones de carne ya rompieron el récord anual",
+     "resumen": "Las exportaciones de carne vacuna argentina crecieron 37 por ciento entre enero y septiembre y ya superaron todo lo exportado en 2025, acercándose a los 4.000 millones de dólares en nueve meses. China volvió a ser el principal destino de las ventas externas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/exportaciones-carne-rompieron-record-9-meses-superaron-exportado-2025-acercan-us-4000-millones_0_bwUa8qwBqU.html",
+     "imagen": "https://www.clarin.com/img/2019/11/29/m7G0Q_Bw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Las exportaciones de carne ya rompieron el récord: en 9 meses superaron todo lo exportado en 2025 y se acercan a los US$ 4.000 millones"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "el carpooling crece como negocio en la Argentina",
+     "resumen": "El encarecimiento del combustible impulsa el crecimiento del carpooling en el país, con plataformas tecnológicas que buscan convertir en un negocio rentable un hábito de transporte compartido entre ciudades que hasta ahora era mayormente informal.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/viajes-compartidos-un-negocio-que-crece-el-pais-y-busca-transformar-la-forma-moverse-ciudades-n6339824",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:21",
+     "autor": "",
+     "titulo_original": "Viajes compartidos: un negocio que crece en el país y busca transformar la forma de moverse entre ciudades"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "ARCA apelará a la Corte y Piñeyro no cobrará el reintegro millonario por varios años",
+     "resumen": "ARCA anunció que apelará ante la Corte Suprema el fallo que había ordenado devolverle a Enrique Piñeyro casi 9.400 millones de pesos del Aporte Solidario y Extraordinario pagado en 2021, lo que posterga por varios años el cobro del reintegro que el cineasta había prometido donar al Hospital Garrahan.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Enrique Piñeyro ganó un juicio contra el Estado y donará una cifra millonaria al Garrahan",
+       "url": "https://www.cronista.com/economia-politica/enrique-pineyro-gano-un-juicio-contra-el-estado-y-donara-una-cifra-millonaria-al-garrahan/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/467951-arca-apelara-corte-pineyro-no-cobrara-reintegro-millonario",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628830.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "ARCA apelará a la Corte y Piñeyro no cobrará el reintegro millonario por varios años"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "cambian las reglas para importar autos híbridos y eléctricos",
+     "resumen": "El Gobierno modificó mediante la Resolución 438/2026 el mecanismo para repartir el cupo anual de 50.000 vehículos híbridos y eléctricos que pueden importarse sin pagar el arancel extrazona del 35 por ciento. La medida no amplía el cupo, pero cambia los criterios de asignación y los topes de valor vigentes, lo que podría ampliar la oferta de modelos disponibles en el país.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/autos-hibridos-y-electricos-cambian-las-reglas-para-importar-y-se-abre-la-puerta-a-nuevos-modelos/",
+     "imagen": "https://www.cronista.com/resizer/v2/BCXAAUJACRD3NDFEQA3UJYRUEQ.jpg?auth=71666cb4de3a4b0901bc4045e5988dc18ff06ae433831294b5deb078222bd678&smart=true&width=612&height=344",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:18",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "Autos híbridos y eléctricos: cambian las reglas para importar y se abre la puerta a nuevos modelos"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "la Corte Suprema rechazó una demanda colectiva contra YPF por sobreprecios",
+     "resumen": "La Corte Suprema rechazó una demanda colectiva contra YPF por el cobro de sobreprecios, luego de que la Cámara Federal de La Plata había fallado a favor de los demandantes y reconocido daños por más de 173 millones de pesos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/la-corte-suprema-rechazo-una-demanda-colectiva-contra-ypf-cobrar-sobreprecios-n6339740",
+     "imagen": "https://media.ambito.com/p/21c02112705cd71634bc0b1cf21eb8c9/adjuntos/239/imagenes/043/636/0043636399/1200x675/601x458:621x478/jueces-la-corte-suprema.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:54",
+     "autor": "",
+     "titulo_original": "La Corte Suprema rechazó una demanda colectiva contra YPF por cobrar sobreprecios"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "Costantini construirá 76 viviendas de lujo en Las Cañitas",
+     "resumen": "El desarrollador Costantini construirá 76 viviendas de lujo en Las Cañitas, cerca del Campo de Polo, con una inversión de 80 millones de dólares. El proyecto incluirá departamentos de hasta 536 metros cuadrados con terrazas y piscinas privadas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467932-costantini-hara-76-viviendas-de-lujo-en-las-canitas-por-us80-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628798.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Costantini construirá 76 viviendas de lujo en Las Cañitas con u$s80 millones de inversión"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "la marca italiana Kiko Milano prepara su llegada a la región con la mira en la Argentina",
+     "resumen": "La marca italiana de cosmética Kiko Milano prepara su desembarco en Uruguay de la mano de Grupo One, que ya trae a la región cadenas como Decathlon, y evalúa un desembarco posterior en la Argentina. El primer local abrirá en Montevideo Shopping a fines de octubre, con un plan de cuatro tiendas y canal de comercio electrónico durante el primer año.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-marca-italiana-oculta-que-manuel-antelo-quiere-traer-a-la-argentina-y-no-es-de-indumentaria/",
+     "imagen": "https://www.cronista.com/resizer/v2/6LZ56BHP4BBADG54V5KNWKHOAI.jpg?auth=2269e21cb695ec55ca740b55d969e8ff48e66b99fb818f00684605adca40d49e&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:28",
+     "autor": "Ricardo Quesada",
+     "titulo_original": "La marca italiana “secreta” que Manuel Antelo quiere traer a la Argentina y no es de indumentaria"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Renault se aliaría con Chery para fabricar el primer auto de marca china en el país",
+     "resumen": "Renault evalúa aliarse con la automotriz china Chery para fabricar en la Argentina el primer vehículo de marca china producido en el país, replicando un esquema que ambas empresas ya desarrollan en Brasil.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/467954-renault-podria-fabricar-el-primer-vehiculo-de-marca-china-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/583368.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:57",
+     "autor": "",
+     "titulo_original": "Renault se aliaría con Chery para fabricar el primer vehículo de marca china en Argentina"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-24",
+     "titulo": "Banco Macro lanzó su banca privada para competir por los grandes patrimonios",
+     "resumen": "Banco Macro lanzó su división de banca privada, Macro Private Bank, dirigida a clientes con más de 300.000 dólares para administrar y a los de muy alto patrimonio, con más de un millón de dólares. La entidad busca competir con JP Morgan, Bank of America y Morgan Stanley por los grandes patrimonios argentinos, hasta ahora atendidos mayormente por bancos extranjeros.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/altos-patrimonios-argentinos-nace-la-competencia-local-para-jp-morgan-bofa-y-morgan-stanley/",
+     "imagen": "https://www.cronista.com/resizer/v2/3OVQFHPEKJGXXKLUM2SIQFGPUI.jpg?auth=8000f2280758f981a386b1620d4ee8c648b6244320002e05a08452d5c4758776&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:21",
+     "autor": "Ariel Cohen",
+     "titulo_original": "Altos patrimonios argentinos: nace la competencia local para JP Morgan, BofA y Morgan Stanley"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "un fundador de cinco unicornios apuesta por la inteligencia artificial en la salud",
+     "resumen": "El emprendedor argentino-español Martín Varsavsky, creador de cinco unicornios, fundó Certuma, una compañía de inteligencia artificial que desarrolla un \"copiloto\" clínico para reducir el papeleo médico. La startup, creada en diciembre de 2025 con 10 millones de dólares de inversión, ya prueba su producto en cinco hospitales del país.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/it-business/fundador-de-cinco-unicornios-apuesta-por-la-ia-en-la-salud-con-un-copiloto-clinico/",
+     "imagen": "https://www.cronista.com/resizer/v2/XC2ICMCHDJGIJHFOTP5BBMAN7A.jpg?auth=5ad4e2ac55108e3ade298126f025f865121b2414b64aa6325b862930338718d4&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:57",
+     "autor": "Lucía Sánchez Villegas",
+     "titulo_original": "Fundador de cinco unicornios apuesta por la IA en la salud con un “copiloto” clínico"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "tres amigos de 19 años lanzaron una legaltech que ya usan más de 150 estudios jurídicos",
+     "resumen": "Tres emprendedores de 19 años lanzaron RivoLegal, una plataforma legaltech que ya usan más de 150 estudios jurídicos, después de detectar que distintos estudios enfrentaban problemas de gestión similares.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467499-que-es-rivolegal-la-plataforma-argentina-con-ia-especial-para-abogados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628410.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:49",
+     "autor": "",
+     "titulo_original": "Tres amigos de 19 años lanzaron una legaltech que ya usan más de 150 estudios jurídicos"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-12",
+     "titulo": "el petróleo tocó su precio más alto en cuatro meses",
+     "resumen": "El petróleo cerró octubre con su cuarto mes consecutivo de alzas y tocó su nivel más alto desde mayo, después de que un petrolero fuera alcanzado por explosivos en el Estrecho de Ormuz. El Brent subió 2,4 por ciento hasta 117,64 dólares y el WTI avanzó 2,08 por ciento hasta 104,12 dólares, en medio de la tensión entre Estados Unidos e Irán. Para una empresa: una escalada sostenida en el precio del petróleo encarece de forma directa el flete, la logística y los insumos derivados del crudo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/30/el-petroleo-suma-cuatro-meses-de-alzas-y-alcanzo-su-mayor-cierre-desde-mayo/",
+     "imagen": "https://www.infobae.com/resizer/v2/DESKDAQVI5HLTKLQ73Z2JOAPNY.jpg?auth=70ddf6cade74a1746d819ecd8de58994fa03c9f7ab4329668a102080f7528d1a&smart=true&width=900&height=623",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:07",
+     "autor": "",
+     "titulo_original": "El petróleo suma cuatro meses de alzas y alcanzó su mayor cierre desde mayo"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Brasil convocó a la diplomática argentina por la fuga de Bolsonaro",
+     "resumen": "El gobierno de Brasil convocó a la encargada de negocios de la Argentina en Brasilia, María Emilia Cortés, para pedirle explicaciones por la fuga del senador Flávio Bolsonaro a Estados Unidos tras perder las elecciones. El encuentro, realizado en el Palacio Itamaraty, fue breve, y las autoridades brasileñas aclararon que no hubo un pedido formal de explicaciones sobre la participación de funcionarios argentinos.",
+     "relacionadas": [
+      {
+       "id": "CR-02",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Brasil confirmó la reunión con la encargada de negocios de Argentina por la salida de Flávio Bolsonaro, pese a la desmentida de Quirno",
+       "url": "https://www.cronista.com/economia-politica/brasil-cito-a-la-representante-diplomatica-argentina-y-exigio-explicaciones-por-la-fuga-de-flavio-bolsonaro/"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Brasil convocó a la encargada de negocios argentina para pedir explicaciones por la salida de Flávio Bolsonaro",
+       "url": "https://www.ambito.com/politica/brasil-convoco-la-encargada-negocios-argentina-pedir-explicaciones-la-salida-flavio-bolsonaro-n6339846"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-brasil-cito-a-la-encargada-de-negocios-de-la-argentina-para-pedirle-explicaciones-por-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LQUNL6FWM5G4ZPWKM43NDXHNEQ.jpg?auth=b9dc741c7c328710616bf2677b56bb9345ae3b1df39999faca7ad71807f43335&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:37",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "El gobierno de Brasil citó a la encargada de negocios de la Argentina por la huida de Bolsonaro"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "huelga general y protestas en toda Italia contra el gobierno de Meloni",
+     "resumen": "Una huelga general convocada contra el ajuste y el gobierno de Giorgia Meloni derivó en protestas y enfrentamientos con la policía en Roma, Turín y otras ciudades italianas. Las movilizaciones, que reunieron a estudiantes y trabajadores, se dan en medio de un fuerte operativo de seguridad de cara a las elecciones de 2027, en las que Meloni buscará la reelección.",
+     "relacionadas": [
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Nuevas protestas en Italia: manifestantes se enfrentaron con la policía en Roma y Turín",
+       "url": "https://www.infobae.com/america/mundo/2026/10/30/nuevas-protestas-en-italia-manifestantes-se-enfrentaron-con-la-policia-en-roma-y-turin/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/huelga-general-protestas-toda-italia-ajuste-gobierno-giorgia-meloni_0_zueDpDO9d9.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/KhfJX_fm8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:06",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Huelga general y protestas en toda Italia contra el ajuste y el gobierno de Giorgia Meloni"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "cierra uno de los últimos grandes bastiones del periodismo independiente ruso",
+     "resumen": "El diario Novaya Gazeta, uno de los últimos grandes bastiones del periodismo independiente ruso, anunció su cierre tras más de 30 años de historia por la presión de las autoridades. El medio, fundado con apoyo de Mijaíl Gorbachov y que sufrió el asesinato de seis de sus colaboradores, dejará de operar el 9 de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/cierra-uno-de-los-ultimos-grandes-bastiones-del-periodismo-independiente-ruso-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/OCWTU4HJ3ZBSPPFE5YHOQZ2ZL4.JPG?auth=4e2f56ec2a31f3082d1c6b743d0fc1dbd83f515294b32bc8b94ae7e99643381d&smart=true&width=900&height=555",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:25",
+     "autor": "",
+     "titulo_original": "Cierra uno de los últimos grandes bastiones del periodismo independiente ruso"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Bukele desplegó más de 2.000 militares en Haití para rescatar a soldados secuestrados",
+     "resumen": "El Salvador desplegó más de 2.000 militares en Haití, con helicópteros artillados y vehículos blindados, para rescatar a cuatro soldados salvadoreños secuestrados. El operativo, ordenado por Nayib Bukele, abre interrogantes sobre una eventual ofensiva más amplia contra las pandillas que controlan sectores de Puerto Príncipe.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/30/bukele-desplego-mas-de-2000-militares-en-haiti-para-rescatar-a-cuatro-soldados-secuestrados-que-hay-detras-del-operativo/",
+     "imagen": "https://www.infobae.com/resizer/v2/25V3L6XJN5CJNKSYYAWOEMWK5Q.jpg?auth=9601e16f90207afffefd6e74c5ad6bf2430aa03b1f4cb0da87d20ac186840f42&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:37",
+     "autor": "Nicolás Sturtz",
+     "titulo_original": "Bukele desplegó más de 2.000 militares en Haití para rescatar a cuatro soldados secuestrados: qué hay detrás del operativo"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "el argentino Rafael Grossi logró su mejor votación para secretario general de la ONU",
+     "resumen": "El argentino Rafael Grossi, director del Organismo Internacional de Energía Atómica, logró su mejor votación en la carrera por convertirse en el próximo secretario general de la ONU. En la séptima ronda sumó nueve apoyos, cuatro rechazos y dos abstenciones entre los miembros del Consejo de Seguridad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/argentino-rafael-grossi-mejor-votacion-renovo-ilusion-proximo-secretario-onu_0_cdLRCDkw2O.html",
+     "imagen": "https://www.clarin.com/img/2026/08/26/3c47jHBEy_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:42",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El argentino Rafael Grossi tuvo su mejor votación y renovó su ilusión de ser el próximo secretario de la ONU"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza la inflación detrás de las elecciones de mitad de mandato en Estados Unidos y la crisis agrícola rusa.",
+   "notas": [
+    {
+     "id": "GC-02",
+     "titulo": "la \"trumpflación\" reaparece a cuatro días de las elecciones de mitad de mandato",
+     "resumen": "A cuatro días de las elecciones de mitad de mandato, la Oficina de Análisis Económico de Estados Unidos difundió datos que muestran una reaceleración de la inflación: el índice de precios del gasto en consumo subió 3,6 por ciento interanual en septiembre. Le Grand Continent señala que el economista Paul Krugman habla directamente de \"trumpflación\", atribuida a los aranceles de la administración Trump y a la guerra con Irán.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/30/trumplacion-como-trump-ha-reavivado-inflacion-estadounidense/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "13:56",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Trumplación: cómo Trump ha reavivado la inflación estadounidense"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "las elecciones de mitad de mandato ya son la campaña más cara de la historia de Estados Unidos",
+     "resumen": "Las elecciones de mitad de mandato del 3 de noviembre ya son la campaña más cara de la historia de Estados Unidos, con una previsión de gasto publicitario de 11.600 millones de dólares, un 30 por ciento más que en 2022. Por primera vez, la contienda más cara es la del Senado de Texas, con más de 440 millones de dólares, impulsada en parte por aportes de Elon Musk.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/30/los-7-mejores-anuncios-en-midterms-con-dos-bonus/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "13:41",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Los 7 mejores anuncios de las elecciones de mitad de legislatura (con dos extra)"
+    },
+    {
+     "id": "GC-01",
+     "titulo": "la cosecha de papas en Rusia podría caer a su nivel más bajo en 25 años",
+     "resumen": "La cosecha de papas en Rusia podría caer este año a su nivel más bajo en al menos 25 años, con una baja del 13,8 por ciento en las grandes explotaciones agrícolas respecto de 2025. El precio del tubérculo ya subió 29 por ciento en el último año, según el análisis de Le Grand Continent.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/30/economia-rusa-la-cosecha-de-patata-podria-caer-a-su-nivel-mas-bajo-en-25-anos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:11",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Economía rusa: la cosecha de patatas podría caer a su nivel más bajo en al menos 25 años"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-21",
+     "titulo": "Boca y River juegan el Superclásico el domingo a las 15 en la Bombonera",
+     "resumen": "Boca y River se enfrentarán este domingo a las 15 en la Bombonera por la fecha 15 del Torneo Clausura 2026, con arbitraje de Nicolás Ramírez y el VAR a cargo de Silvio Trucco. Será el cruce número 267 entre ambos: en los últimos cinco enfrentamientos hubo tres victorias del Xeneize y dos del Millonario.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/historial-de-boca-vs-river-en-el-superclasico-todos-los-numeros-y-resultados-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SW4JU7YYQJHXVEE4QJDTJYUTMQ.jpg?auth=7b222812743437f93ea6eb7312e3c8a444e20031eeada69ae682527fc4353a58&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:29",
+     "autor": "",
+     "titulo_original": "Historial de Boca vs. River en el Superclásico: todos los números y resultados"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "la Selección confirmó estadios para sus amistosos de noviembre ante Uruguay y Costa Rica",
+     "resumen": "La AFA confirmó los estadios para los amistosos de la selección argentina en la próxima fecha FIFA: el viernes 13 de noviembre ante Uruguay en la Bombonera y el martes 17 ante Costa Rica en el estadio Mario Alberto Kempes de Córdoba. Los rivales reemplazan a la gira por Asia que se había evaluado inicialmente.",
+     "relacionadas": [
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Selección argentina ya tiene estadios para sus amistosos de noviembre ante Uruguay y Costa Rica",
+       "url": "https://www.ambito.com/deportes/la-seleccion-argentina-ya-tiene-estadios-sus-amistosos-noviembre-uruguay-y-costa-rica-n6339830"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-jugara-con-uruguay-en-la-bombonera-y-ante-costa-rica-en-el-estadio-mario-alberto-kempes-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4R5OF652ZVD65GMF4Y3VKPAL5M.JPG?auth=f58615f68346f2bc5bf3b5ca73daebed638cf6733ed070f67d95f1e0d2f1dd36&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:29",
+     "autor": "",
+     "titulo_original": "Argentina jugará con Uruguay en la Bombonera y ante Costa Rica en el estadio Mario Alberto Kempes"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Alexander Zverev será el nuevo número uno del mundo desde el lunes",
+     "resumen": "Alexander Zverev será el nuevo número uno del mundo desde el lunes 2 de noviembre, tras clasificarse a los cuartos de final del ATP 500 de Viena al vencer al neerlandés Tallon Griekspoor. El alemán desplaza a Jannik Sinner de la cima y se convierte en el primer tenista de su país en llegar al número uno desde Boris Becker en 1991.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/30/alexander-zverev-sera-el-nuevo-n1-desde-el-lunes-y-escribira-su-nombre-en-la-historia-del-tenis-la-lista-con-los-30-tenistas-que-llegaron-a-la-cima/",
+     "imagen": "https://www.infobae.com/resizer/v2/S3KAH5DMLBC7HMYL2WLXAE53CM.JPG?auth=1c3b5ddddad9d999fa42274fa5b6e26117da0b2ab6833b59fba69827ff2f5b21&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:57",
+     "autor": "",
+     "titulo_original": "Alexander Zverev será el nuevo N°1 desde el lunes y escribirá su nombre en la historia del tenis: la lista con los 30 tenistas que llegaron a la cima"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Gerónimo Rulli es una pieza clave pero poco visible en el arco del Manchester City",
+     "resumen": "Gerónimo Rulli, arquero nacido en La Plata y surgido en Estudiantes, es una pieza clave pero poco visible en el Manchester City, donde el técnico Enzo Maresca destacó su buen nivel tras dos penales atajados. A los 34 años, el arquero se perfila además como candidato a ocupar el puesto de Dibu Martínez en la selección argentina.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/geronimo-rulli-la-figura-invisible-del-arco-que-le-sirve-mates-a-haaland-es-especialista-en-penales-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4G37ZYBMSRGSHGL3G6GXNWEFVY.JPG?auth=1fbb8ef8af45e5cfc47a1c0a58c2da94c617c5dc53177567526f1e989f7d410a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:02",
+     "autor": "Ariel Ruya",
+     "titulo_original": "Gerónimo Rulli, la figura invisible del arco que le sirve mates a Haaland, es especialista en penales y hace historia en silencio"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "se juega la fecha 15 del Torneo Clausura, con Huracán y Tigre entre los protagonistas",
+     "resumen": "Este viernes se juega la fecha 15 del Torneo Clausura 2026: a las 19 horas Huracán recibe a Tigre en Parque Patricios y Estudiantes de Río Cuarto enfrenta a Gimnasia en Córdoba, mientras a las 21.15 juegan Racing ante Aldosivi y Sarmiento de Junín ante Rosario Central. Todos los partidos se transmiten por ESPN Premium y TNT Sports Premium.",
+     "relacionadas": [
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Racing vs Aldosivi, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
+       "url": "https://www.clarin.com/deportes/racing-vs-aldosivi-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_zB0GwVs42y.html"
+      },
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Sarmiento vs Rosario Central, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver en vivo",
+       "url": "https://www.clarin.com/deportes/sarmiento-vs-rosario-central-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-vivo_0_0PInvO5Xup.html"
+      },
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Estudiantes de Río Cuarto vs. Gimnasia y Esgrima La Plata, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y cómo ver el partido",
+       "url": "https://www.clarin.com/deportes/estudiantes-rio-cuarto-vs-gimnasia-esgrima-plata-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_t9EZexY1SR.html"
+      },
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Gimnasia visitará a Estudiantes de Río Cuarto en busca de ser líder de la Zona B del Torneo Clausura: hora, TV y formaciones",
+       "url": "https://www.infobae.com/deportes/2026/10/30/gimnasia-visitara-a-estudiantes-de-rio-cuarto-en-busca-de-ser-lider-de-la-zona-b-del-torneo-clausura-hora-tv-y-formaciones/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/huracan-vs-tigre-vivo-torneo-clausura-2026-hora-juegan-formaciones-ver-partido_0_YRofZT3dgN.html",
+     "imagen": "https://www.clarin.com/img/2026/10/09/LlkKtcqbj_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Huracán vs. Tigre, EN VIVO, por el Torneo Clausura 2026: a qué hora juegan, formaciones y dónde ver el partido"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "clubes argentinos y europeos homenajearon a Maradona a 66 años de su nacimiento",
+     "resumen": "Clubes argentinos y europeos recordaron a Diego Armando Maradona a 66 años de su nacimiento, con videos y mensajes en redes sociales que destacaron su vínculo con cada institución. Boca Juniors, el club donde Maradona ganó el Torneo Apertura 1981, publicó un homenaje especial, al igual que Gimnasia y Esgrima La Plata.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/10/30/videos-saludos-y-homenajes-de-los-clubes-a-diego-armando-maradona-a-66-anos-de-su-nacimiento/",
+     "imagen": "https://www.infobae.com/resizer/v2/GQHDT57TMNGHBBWMKBQMJCS7OM.jpg?auth=869592918bc9b9b54768247f45e7f55a4ca39587e90bec572be9f26ffbd8e9fa&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:53",
+     "autor": "",
+     "titulo_original": "Videos, saludos y homenajes de los clubes a Diego Armando Maradona a 66 años de su nacimiento"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "el Dibu Martínez mostró cómo quedó su dedo tras la operación",
+     "resumen": "El arquero Emiliano \"Dibu\" Martínez mostró cómo quedó su dedo luego de la operación por la lesión que sufrió, y explicó que ya no podrá cerrar el puño por completo \"de por vida\". Durante el Mundial había debido jugar con una protección especial.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/de-vida-el-dibu-martinez-mostro-como-le-quedo-el-dedo-su-mano-lesionada-luego-la-operacion-n6339784",
+     "imagen": "https://media.ambito.com/p/3769ec9c4a96bd3fe64d90dd45e71012/adjuntos/239/imagenes/043/739/0043739986/dibu-martinez-dedo.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:56",
+     "autor": "",
+     "titulo_original": "\"De por vida\": el Dibu Martínez mostró cómo le quedó el dedo de su mano lesionada luego de la operación"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "extendieron el plazo para postularse al Premio Papa Francisco 2026",
+     "resumen": "Cáritas Argentina y otras tres organizaciones de la Iglesia extendieron hasta el 20 de noviembre el plazo para postularse al Premio Papa Francisco 2026, que distingue a los \"artesanos de la paz\". La primera edición del galardón coincide con la visita del papa León XIV y la entrega será el 17 de diciembre en el Teatro Argentino de La Plata.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/premio-papa-francisco-2026-extienden-plazo-postular-artesanos-paz_0_NzIMivdh1F.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/IJlsbomXH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Premio Papa Francisco 2026: extienden el plazo para postular a los “artesanos de la paz”"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "el Paseo del Bajo permitirá autos livianos de noche desde el lunes",
+     "resumen": "Desde el próximo lunes, autos y vehículos livianos podrán circular por el Paseo del Bajo de lunes a viernes entre las 22 y las 5, en una prueba experimental de 90 días impulsada por el Gobierno porteño y AUSA. Quienes usen el corredor deberán contar con TelePASE y pagar una tarifa de 10.978,49 pesos por tramo, con un límite de velocidad de 60 kilómetros por hora.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/la-ciudad-pondra-a-prueba-un-cambio-en-una-de-sus-principales-autopistas-que-vehiculos-podran-usarla-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/P5KZ6TA6LZF47E6U3CIQB2GSTA.jpeg?auth=4ee2bd2d71da870c7c307697b671910971e37596fa9153073a554862a17a8ee5&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:29",
+     "autor": "",
+     "titulo_original": "La Ciudad pondrá a prueba un cambio en una de sus principales autopistas: qué vehículos podrán usarla"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "la Corte Suprema avaló la prisión preventiva de un exjefe de la SIDE ligado a Los Monos",
+     "resumen": "La Corte Suprema avaló la prisión preventiva de un exjefe de la SIDE vinculado a la banda narco Los Monos, con la firma de los jueces Rosatti, Rosenkrantz y Lorenzetti. El máximo tribunal desestimó un recurso presentado por Iván Jokanovich, procesado por encubrimiento agravado.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/corte-suprema-avalo-prision-preventiva-exjefe-side-ligado-monos_0_cMltBuiDKO.html",
+     "imagen": "https://www.clarin.com/img/2025/03/11/vlQsuAQLI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Corte Suprema avaló la prisión preventiva de un exjefe de la SIDE ligado a Los Monos"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del viernes 30 de octubre. El dólar oficial cerró en mil quinientos sesenta pesos, el dólar blue en mil quinientos sesenta y cinco, y el oro cotiza en tres mil ochocientos ochenta y cinco dólares la onza. La jornada estuvo marcada por un fuerte sacudón en los mercados financieros, con el riesgo país argentino trepando a su nivel más alto en un año y un desplome generalizado de las bolsas globales por el temor al gasto de las grandes tecnológicas en inteligencia artificial. En paralelo, creció la tensión política dentro del Gobierno y Brasil convocó a la diplomacia argentina por la fuga del senador Flávio Bolsonaro, mientras el petróleo llegó a su precio más alto en cuatro meses.\n\nEn política, una fiscalía especializada en delitos de funcionarios públicos, la Procuraduría de Investigaciones Administrativas, se sumó a la causa Libra y apeló los sobreseimientos del presidente Javier Milei, su hermana Karina y los demás acusados, en reemplazo del fiscal que había abandonado la acción. El PRO, por su parte, le pidió siete cambios al Gobierno para respaldar el Presupuesto, entre ellos baja de impuestos y crédito para la Ciudad, mientras Mauricio Macri sigue marcando distancia con Milei. El Presidente confirmó que volverá a Madrid la semana próxima para la Cumbre Iberoamericana, a pocos días de haber llamado dictador a Pedro Sánchez. Puertas adentro de la Casa Rosada crecen las diferencias: el diputado Martín Menem rechazó un supuesto plan B de Patricia Bullrich y descartó internas en La Libertad Avanza, en momentos en que la senadora marcó distancia con la conducción presidencial. En la provincia de Buenos Aires, Axel Kicillof pidió que las candidaturas del peronismo se definan con una PASO, mientras negocia en paralelo con Sergio Massa y Máximo Kirchner una salida ordenada a la interna bonaerense. Además, renunció el subsecretario de Ciencia y Tecnología con duras críticas al Gobierno por falta de respaldo.\n\nEn economía y mercados, la noticia central fue el salto del riesgo país a 790 puntos, su nivel más alto desde las elecciones legislativas de octubre del año pasado, con una suba acumulada cercana al 30 por ciento solo en octubre. Los ADR argentinos cayeron hasta 6 por ciento, arrastrados por un desplome de Wall Street que llegó a ser de 3,8 por ciento: Intel se hundió 31 por ciento y el Nasdaq ya roza una corrección técnica, en medio de dudas sobre la rentabilidad de las inversiones multimillonarias en inteligencia artificial de Amazon, Google, Meta y Microsoft. El bitcoin, mientras tanto, cayó por debajo de los 77.000 dólares tras el hackeo de 6.300 millones de dólares a Binance, el mayor robo de la historia de las criptomonedas; el FBI y el Servicio Secreto estadounidense se sumaron a la investigación, con sospechas sobre un grupo de hackers vinculado a Corea del Norte. En el plano local, las reservas del Banco Central cayeron casi 1.600 millones de dólares pese a que la entidad compró divisas por segunda rueda consecutiva, y su presidente, Santiago Bausili, aseguró que no hay un exceso de pesos en la economía de cara a una eventual mayor presión cambiaria.\n\nEn negocios y empresas, cerró la fábrica de maquinaria agrícola Plantium y dejó sin trabajo a más de cien personas, en un sector golpeado por la caída de la demanda. En San Juan, las mineras BHP y Lundin Mining comenzaron a trasladar camiones gigantes para avanzar con un megaproyecto minero, mientras las exportaciones de carne vacuna ya rompieron el récord anual, cerca de los cuatro mil millones de dólares en nueve meses, con China como principal comprador. También crece en el país el negocio del transporte compartido entre ciudades, impulsado por el encarecimiento del combustible.\n\nEn impuestos y normativa, ARCA anunció que apelará ante la Corte Suprema el fallo que ordenaba devolverle al empresario Enrique Piñeyro casi nueve mil cuatrocientos millones de pesos, lo que posterga el cobro de un reintegro que pensaba donar al Hospital Garrahan. El Gobierno también cambió el mecanismo para repartir el cupo de autos híbridos y eléctricos que pueden importarse sin pagar el arancel extrazona, y la Corte Suprema rechazó una demanda colectiva contra YPF por el cobro de sobreprecios.\n\nEn consumo, construcción y retail, el desarrollador Costantini construirá setenta y seis viviendas de lujo en Las Cañitas con una inversión de ochenta millones de dólares, la marca italiana de cosmética Kiko Milano prepara su llegada a la región con la mira puesta en la Argentina, y Renault evalúa aliarse con la automotriz china Chery para fabricar en el país el primer auto de esa marca producido localmente.\n\nEn management y finanzas corporativas, el Banco Macro lanzó una división de banca privada para disputarle a los bancos extranjeros los grandes patrimonios argentinos, mientras el emprendedor Martín Varsavsky apuesta por la inteligencia artificial aplicada a la salud con un copiloto clínico que ya se prueba en cinco hospitales del país.\n\nEn el mundo, el petróleo cerró octubre con su cuarto mes consecutivo de alzas y tocó su precio más alto desde mayo, después de que un petrolero fuera alcanzado por explosivos en el Estrecho de Ormuz. Brasil convocó a la encargada de negocios de la Argentina para pedirle explicaciones por la fuga a Estados Unidos del senador Flávio Bolsonaro tras perder las elecciones. En Italia, una huelga general contra el gobierno de Giorgia Meloni derivó en protestas y enfrentamientos con la policía en varias ciudades. En Rusia cerró Novaya Gazeta, uno de los últimos grandes bastiones del periodismo independiente, tras más de treinta años de historia y la presión de las autoridades. El Salvador desplegó más de dos mil militares en Haití para rescatar a soldados secuestrados, y el argentino Rafael Grossi logró su mejor votación hasta ahora en la carrera por convertirse en el próximo secretario general de las Naciones Unidas.\n\nLe Grand Continent analiza la inflación en Estados Unidos a días de las elecciones de mitad de mandato: los precios del consumo subieron 3,6 por ciento interanual en septiembre, lo que el economista Paul Krugman describió como una verdadera trumpflación, generada por los aranceles y la guerra con Irán. La revista también destaca que esta elección ya es la campaña más cara de la historia estadounidense, con un gasto publicitario previsto de once mil seiscientos millones de dólares, y repasa cómo la cosecha de papas en Rusia podría caer a su nivel más bajo en veinticinco años.\n\nEn deportes, el plato fuerte de la semana llega el domingo a las tres de la tarde, cuando Boca y River se midan en la Bombonera por el Superclásico número doscientos sesenta y siete entre ambos. Antes, este viernes se juega la fecha quince del Torneo Clausura, con Huracán recibiendo a Tigre, Estudiantes de Río Cuarto ante Gimnasia, y los cruces entre Racing y Aldosivi y entre Sarmiento y Rosario Central. La selección argentina ya tiene estadios confirmados para sus amistosos de noviembre: jugará con Uruguay en la Bombonera y con Costa Rica en el estadio Mario Alberto Kempes de Córdoba. En el tenis, Alexander Zverev será desde el lunes el nuevo número uno del mundo, el primer alemán en lograrlo desde Boris Becker en 1991. Y en Manchester, el arquero platense Gerónimo Rulli sigue ganándose un lugar de a poco, mientras clubes de todo el mundo recordaron este viernes a Diego Maradona a 66 años de su nacimiento.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "No se consiguió ninguna nota sobre un destino turístico puntual en esta corrida, ni en la Argentina ni en el exterior, por lo que se omitió la sección de Turismo. No hubo fallas en la descarga de fuentes ni en la actualización del panel de mercados.",
+ "slug": "2026-10-30-tarde",
+ "generado_ba": "30/10/2026 21:17"
+}
