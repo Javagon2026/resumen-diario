@@ -1,0 +1,924 @@
+{
+ "fecha": "2026-10-31",
+ "edicion": "manana",
+ "titulo": "Riesgo país en máximo anual, hackeo millonario a Binance y Superclásico en Núñez",
+ "apertura": "El viernes cerró con una jornada negra en los mercados: el riesgo país argentino saltó a 787 puntos, su nivel más alto en un año, arrastrado por un desplome global de Wall Street que golpeó en especial a las tecnológicas. En paralelo, un hackeo de 6.300 millones de dólares a Binance sacudió al mundo cripto y el Gobierno sigue envuelto en la interna con el PRO y las tensiones por la visita del Papa León XIV, que empieza en poco más de una semana. En la agenda del día sobresalen el Superclásico Boca-River, la clasificación de Franco Colapinto en México y el Día Mundial del Ahorro.",
+ "claves": [
+  "El riesgo país trepó a 787 puntos básicos, suba de 28% en octubre y máximo desde las legislativas de 2025, en una rueda negra para Wall Street.",
+  "Binance sufrió un hackeo de 6.300 millones de dólares, el mayor de la historia cripto; la empresa dijo que cubrirá las pérdidas con fondos propios.",
+  "El dólar oficial cerró octubre en 1.560 pesos para la venta, con una suba mensual de 20 pesos; el BCRA compró 1.395 millones de dólares en el mes.",
+  "ARCA extendió hasta el 16 de noviembre el vencimiento de la declaración jurada de Ganancias 2025, la sexta prórroga del organismo.",
+  "El Gobierno prepara un cambio en el régimen de ART para facilitar el autoaseguro de las empresas, en medio de 500.000 juicios laborales activos.",
+  "Luján se prepara para recibir al papa León XIV el 11 de noviembre, con un operativo de 11.000 policías y expectativa de hasta 1,7 millones de personas.",
+  "Boca y River juegan el Superclásico número 267 del fútbol argentino, con al menos ocho debutantes en el historial del clásico.",
+  "YPF presentó ante el RIGI un proyecto de 8.729 millones de dólares para Bajo del Toro, en sociedad con Vista Energy, en el norte de Vaca Muerta."
+ ],
+ "cifras": [
+  {
+   "nombre": "Riesgo país",
+   "valor": "787 puntos básicos",
+   "variacion": "+28% en octubre",
+   "fuente": "CR-11"
+  },
+  {
+   "nombre": "Compras de dólar ahorro (BCRA, octubre)",
+   "valor": "US$ 2.500 millones",
+   "fuente": "IP-12"
+  },
+  {
+   "nombre": "Compras netas del BCRA en octubre",
+   "valor": "US$ 1.395 millones",
+   "fuente": "LN-26"
+  },
+  {
+   "nombre": "Pérdida de Binance por el hackeo",
+   "valor": "US$ 6.300 millones",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Proyecto YPF-Vista en el RIGI (Bajo del Toro)",
+   "valor": "US$ 8.729 millones",
+   "fuente": "IP-08"
+  },
+  {
+   "nombre": "Caída del Bitcoin tras el hackeo",
+   "valor": "-5%",
+   "fuente": "CR-20"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "el acuerdo entre LLA y el PRO sigue trabado en el Congreso",
+     "resumen": "Mauricio Macri afirmó que \"no se avanzó en nada\" en la alianza electoral con La Libertad Avanza, luego de que el PRO frenara varias iniciativas oficialistas esta semana en el Congreso. De fondo hay una disputa interna por las candidaturas en la Ciudad de Buenos Aires.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/se-estanco-el-acuerdo-lla-pro-frenos-en-el-congreso-internas-por-la-ciudad-y-que-dicen-en-gobierno/",
+     "imagen": "https://www.cronista.com/resizer/v2/5DJVUGELO5BOLAVWQ4KHZBIBSM.jpeg?auth=9db95e8df953b3e6a02abb57eafbb1934cf66638185a5676d2a517fe7f0ced43&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:05",
+     "autor": "Daniela Romero",
+     "titulo_original": "¿Se estancó el acuerdo LLA-PRO? Frenos en el Congreso, internas por la Ciudad y qué dicen en Gobierno"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "Martín Menem reafirmó a Milei como candidato único de LLA para 2027",
+     "resumen": "El titular de la Cámara de Diputados dijo que la postura de respaldar a Javier Milei como candidato \"es unánime\" dentro del espacio libertario. El comentario llega en medio de la tensión entre Patricia Bullrich y el Presidente.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "En una universidad privada, Javier Milei criticó a Domingo Cavallo, promocionó su libro y prometió devolver impuestos por u$s500 millones",
+       "url": "https://www.ambito.com/politica/javier-milei-visita-una-universidad-privada-y-respondera-preguntas-estudiantes-n6339626"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/en-medio-la-interna-del-congreso-martin-menem-marca-la-cancha-el-unico-candidato-es-javier-milei-n6339996",
+     "imagen": "https://media.ambito.com/p/33b12e2ad9410121d3945d481d7545db/adjuntos/239/imagenes/043/382/0043382496/1200x675/smart/javier-milei-martin-menem-gorra-las-fuerzas-del-cielo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:46",
+     "autor": "",
+     "titulo_original": "En medio de la interna del Congreso, Martín Menem marca la cancha: \"El único candidato es Javier Milei\""
+    },
+    {
+     "id": "CL-17",
+     "titulo": "una encuesta midió balotajes 2027 entre Milei, Bullrich, Kicillof y Massa",
+     "resumen": "La consultora Synopsis difundió su último estudio nacional con tres hipótesis de segunda vuelta para las presidenciales de 2027, incorporando la proyección de los indecisos, además de cifras de intención de voto por espacio.",
+     "relacionadas": [
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Nueva encuesta da a Milei como favorito, pero Bullrich es más competitiva en balotaje",
+       "url": "https://www.iprofesional.com/politica/467943-nueva-encuesta-da-a-milei-como-favorito-pero-bullrich-es-mas-competitiva-en-balotaje"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/nueva-encuesta-midio-balotajes-2027-dejo-sorpresas-milei-bullrich-vs-kicillof-massa_0_rD6rtCvD6x.html",
+     "imagen": "https://www.clarin.com/img/2026/10/29/nM3syppFl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una nueva encuesta midió balotajes para 2027 y dejó sorpresas: Milei y Bullrich vs. Kicillof y Massa"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "el peronismo bonaerense negocia un pacto para frenar su interna",
+     "resumen": "Axel Kicillof, Sergio Massa y Máximo Kirchner buscan bajar la tensión dentro del PJ bonaerense en medio de discusiones sobre la Corte, las PASO y las reelecciones de intendentes, con la vista puesta en 2027.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El PJ rumbo al 2027: la reunión de un sector con intendentes, la fecha clave de Uñac y una interna en suspenso",
+       "url": "https://www.infobae.com/politica/2026/10/31/el-pj-rumbo-al-2027-la-reunion-de-un-sector-con-intendentes-la-fecha-clave-de-unac-y-una-interna-en-suspenso/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-pacto-que-negocia-el-peronismo-para-frenar-la-interna-corte-paso-y-reelecciones-en-juego/",
+     "imagen": "https://www.cronista.com/resizer/v2/FGNYSOLTFRD4FJNBLAD54TNJNE.jpg?auth=b9aa1618b9b0f6e6ee4b54fdd1e9284f537731744e2d179b27eba23901fb7b51&smart=true&width=767&height=432",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:19",
+     "autor": "Alejandro Cancelare",
+     "titulo_original": "El pacto que negocia el peronismo para frenar la interna: Corte, PASO y reelecciones en juego"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Máximo Kirchner volvió a cuestionar el RIGI y chocó con gobernadores aliados",
+     "resumen": "El jefe de La Cámpora sostuvo que no cuestiona la producción de las inversiones mineras y energéticas, sino \"el para qué y por qué\" del régimen, y dijo que algunos gobernadores \"se ponen muy nerviosos\" con el planteo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/maximo-kirchner-volvio-a-criticar-el-rigi-y-cruzo-a-los-gobernadores-se-ponen-muy-nerviosos-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WYASPZ5RNFBX5KUHAHOEUTJJRU.jpeg?auth=829b739303bdf61c26028944f80a14e685675e243c83c9156703df63b9b4db72&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:54",
+     "autor": "",
+     "titulo_original": "Máximo Kirchner volvió a criticar el RIGI y cruzó a los gobernadores aliados: “Se ponen muy nerviosos”"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Villarruel volvió a despegarse de Milei con un beneficio para empleados del Senado",
+     "resumen": "La vicepresidenta otorgó un programa de créditos a tasa cero para trabajadores de la Cámara Alta, una decisión que calificó de \"alivio financiero\" y que va a contramano de las políticas del Presidente.",
+     "relacionadas": [
+      {
+       "id": "LN-25",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Villarruel invitó al Papa al Senado e impulsó una resolución para que Milei la sume a uno de los actos oficiales",
+       "url": "https://www.lanacion.com.ar/politica/villarruel-invito-al-papa-al-senado-e-impulso-una-resolucion-para-que-milei-la-sume-a-uno-de-los-nid30102026/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/victoria-villarruel-despega-vez-milei-otorgo-programa-creditos-tasa-cero-empleados-senado_0_ggumXB4XJR.html",
+     "imagen": "https://www.clarin.com/img/2026/10/31/8Ah3juNCC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "22:38",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Victoria Villarruel se despega otra vez de Milei: otorgó un programa de créditos a tasa cero para empleados del Senado"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Luján ultima el operativo para la visita del papa León XIV",
+     "resumen": "El Papa llegará a la Argentina el domingo 8 de noviembre y cerrará su visita con una misa en Luján el miércoles 11, con un operativo de 11.000 policías y corte del Acceso Oeste. El intendente Leonardo Botto recomendó ir el martes para evitar complicaciones.",
+     "relacionadas": [
+      {
+       "id": "CR-02",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Cuenta regresiva para León XIV en Luján: el día D, cuánta gente se espera y quién paga el operativo histórico",
+       "url": "https://www.cronista.com/economia-politica/cuenta-regresiva-para-leon-xiv-en-lujan-el-dia-d-cuanta-gente-se-espera-y-quien-paga-el-operativo-historico/"
+      },
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Durante la visita a la Argentina, León XIV expondrá su mirada sobre la pobreza, el desarrollo y la educación, que cuestiona los planes de ajuste",
+       "url": "https://www.infobae.com/politica/2026/10/31/durante-la-visita-a-la-argentina-leon-xiv-expondra-su-mirada-sobre-la-pobreza-el-desarrollo-y-la-educacion-que-cuestiona-los-planes-de-ajuste/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/prepara-lujan-recibir-papa-zona-cero-11-mil-policias-corte-total-acceso-oeste-general-paz-dia_0_SIurziKRXi.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/0zMftUlsC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cómo se prepara Luján para recibir al Papa: \"zona cero\", 11 mil policías y corte total del Acceso Oeste desde General Paz casi todo un día"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "el riesgo país tocó máximos de un año en una jornada negra para los mercados",
+     "resumen": "El riesgo país trepó a 787 puntos básicos, su nivel más alto desde octubre de 2025, con una suba acumulada de 28% en el mes. La suba coincidió con un derrumbe de Wall Street: el Nasdaq cayó 2,86%, el S&P 500 un 1,82% y el Dow Jones un 1,09%, lo que arrastró a los ADR argentinos hasta un 6%.",
+     "relacionadas": [
+      {
+       "id": "IP-21",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los factores que hacen subir el riesgo país y hasta qué nivel puede trepar, según la City",
+       "url": "https://www.iprofesional.com/finanzas/467950-los-factores-detras-del-salto-del-riesgo-pais-y-hasta-donde-puede-escalar"
+      },
+      {
+       "id": "IP-26",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país se disparó, se acercó a los 800 puntos y tocó su nivel más alto en un año",
+       "url": "https://www.iprofesional.com/finanzas/467930-riesgo-pais-vuelve-a-subir-a-787-puntos-y-caen-los-bonos-argentinos"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El mercado argentino ya empezó a ponerle precio a 2027",
+       "url": "https://www.ambito.com/opiniones/el-mercado-argentino-ya-empezo-ponerle-precio-2027-n6339919"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-se-dispara-a-777-puntos-y-toca-maximos-en-un-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:04",
+     "autor": "Leandro Dario",
+     "titulo_original": "Riesgo país se disparó a 787 puntos y tocó máximos en un año"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "el dólar oficial cerró octubre en 1.560 pesos, con una suba mensual de 20 pesos",
+     "resumen": "El dólar oficial terminó la última rueda del mes sin cambios, en 1.510 pesos para la compra y 1.560 para la venta, un alza de 1,3% respecto de septiembre. El dólar mayorista cerró en 1.556,90 pesos, lejos del techo de la banda cambiaria, fijado por el BCRA en 1.950,97 pesos.",
+     "relacionadas": [
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar hoy: a cuánto cotiza este sábado 31 de octubre",
+       "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-sabado-31-octubre-n6340018"
+      },
+      {
+       "id": "CR-24",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El dólar blue se mantuvo estable en la última rueda de octubre y cerró el mes con una variación mínima",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-30-de-octubre-con-el-mep-y-el-ccl/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-viernes-30-de-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/XYVW56KOEBDXRMLUSVU3MA5DTY.jpg?auth=bf1f32854f1a5015c9b7837a6b2d60b43e0f74223efd1edf9eeece9be48e5f08&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:18",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El dólar oficial no tuvo cambios en la última rueda del mes, pero cerró octubre con un aumento de $ 20"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "el Banco Central compró 1.395 millones de dólares en octubre, el mejor mes en tres meses",
+     "resumen": "El BCRA sumó 96 millones de dólares en la última rueda del mes y acumuló compras por 1.395 millones de dólares en octubre, lo que eleva a casi 16.000 millones de dólares el total comprado en el año, cerca de la proyección más optimista de 17.000 millones.",
+     "relacionadas": [
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El BCRA volvió a comprar y en octubre sumó casi tres veces más dólares que el mes pasado",
+       "url": "https://www.iprofesional.com/economia/467957-bcra-volvio-a-comprar-y-en-octubre-sumo-casi-tres-veces-mas-de-dolares-que-en-septiembre"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-banco-central-compro-us1395-millones-en-octubre-el-mayor-monto-de-los-ultimos-tres-meses-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NLMFH6PJUZA3RGGXLU2Y6Y2C24.JPG?auth=5845c119b51c9d493abc5e936674c3b58e361247361901f8c8384fe5901f7865&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:21",
+     "autor": "Javier Blanco",
+     "titulo_original": "El Banco Central compró US$1395 millones en octubre, el mayor monto de los últimos tres meses"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "los ahorristas compraron 3.400 millones de dólares en septiembre, la mitad que antes de las legislativas",
+     "resumen": "Según el Banco Central, los argentinos adquirieron moneda extranjera por 3.410 millones de dólares en septiembre, la mitad de los 6.857 millones registrados un año atrás. De ese total, 2.471 millones de dólares correspondieron a compra de billetes y 1,6 millones de personas participaron de las operaciones.",
+     "relacionadas": [
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La demanda de dólar ahorro sigue elevada y las compras llegaron a los u$s2.500 millones",
+       "url": "https://www.iprofesional.com/finanzas/467963-ahorristas-le-arrebataron-al-bcra-casi-2500-millones-de-dolares"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/los-ahorristas-compraron-us-3400-millones-la-mitad-que-en-la-previa-de-las-ultimas-elecciones/",
+     "imagen": "https://www.cronista.com/resizer/v2/RILGXWT54NHAXNVP7VPGZYYIW4.jpg?auth=0afa3d8e560e963860476b916606cdc79bd857b3b6add4bb66029e2cec5f413f&smart=true&width=740&height=492",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "Los ahorristas compraron u$s 3400 millones, la mitad que antes de las últimas elecciones"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "un hackeo de 6.300 millones de dólares a Binance desplomó al Bitcoin y sacudió al mundo cripto",
+     "resumen": "Binance, la mayor exchange del mundo, sufrió el robo más grande en la historia de las criptomonedas. El Bitcoin cayó 5% y operó en torno a los 76.000 dólares, su nivel más bajo desde septiembre. La empresa aseguró que cubrirá las pérdidas con su fondo de reserva y fondos propios, y que los fondos de los clientes no se vieron afectados.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El mensaje de Binance a usuarios en Argentina tras el hackeo: \"Tus fondos están seguros\"",
+       "url": "https://www.iprofesional.com/criptomonedas/467978-el-mensaje-de-binance-a-usuarios-en-argentina-tras-el-hackeo-tus-fondos-estan-seguros"
+      },
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Habló el CEO de Binance tras el hackeo millonario: \"Cubriremos todas las pérdidas\"",
+       "url": "https://www.iprofesional.com/criptomonedas/467964-hablo-el-ceo-de-binance-tras-el-hackeo-millonario-cubriremos-todas-las-perdidas"
+      },
+      {
+       "id": "CR-22",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Caso Binance: cómo Corea del Norte se convirtió en una superpotencia del hackeo",
+       "url": "https://www.cronista.com/financial-times/como-corea-del-norte-se-convirtio-en-una-superpotencia-del-hackeo/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/se-derrumba-bitcoin-tras-hackeo-multimillonario-a-binance-y-crecen-las-dudas-sobre-la-industria-cripto/",
+     "imagen": "https://www.cronista.com/resizer/v2/QGEKFYNVI5CEREIBOJGKZ4SNI4.jpg?auth=fec9e4bf44ee3677cc838e9f06d801fac052dd65938615ac514b8606c0301f90&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:21",
+     "autor": "Leandro Dario",
+     "titulo_original": "Se derrumba Bitcoin tras hackeo multimillonario a Binance y crecen las dudas sobre la industria cripto"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Wall Street se desplomó por el temor a la inteligencia artificial, con Amazon e Intel en la mira",
+     "resumen": "Amazon e Intel profundizaron sus pérdidas en Nueva York tras advertir sobre sus gastos e inversiones en inteligencia artificial, lo que provocó una fuerte caída del Nasdaq. Intel se hundió casi 30% por la menor demanda de chips y problemas de producción.",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Duro golpe para Intel en Wall Street: se hundió casi 30% ante la caída de ingresos y la menor demanda de chips",
+       "url": "https://www.ambito.com/finanzas/duro-golpe-intel-wall-street-cae-mas-20-la-caida-ingresos-y-la-menor-demanda-chips-n6339648"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Financiamiento circular de la IA: qué es, por qué preocupa a Wall Street y cuáles son los riesgos para los mercados",
+       "url": "https://www.ambito.com/finanzas/financiamiento-circular-la-ia-que-es-que-preocupa-wall-street-y-cuales-son-los-riesgos-los-mercados-n6339902"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/467947-wall-street-se-desploma-por-el-temor-a-la-ia-y-dos-gigantes-tecnologicos-estan-en-la-mira",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/612972.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Wall Street se desploma por el temor a la IA y dos gigantes tecnológicos están en la mira"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "YPF presentó ante el RIGI un proyecto de 8.729 millones de dólares en Vaca Muerta",
+     "resumen": "La petrolera, junto con Vista Energy, solicitó la adhesión al régimen de incentivo para grandes inversiones para desarrollar el bloque Bajo del Toro, al norte de Vaca Muerta, con una meseta prevista de 80.000 barriles diarios de petróleo y exportaciones por 25.000 millones de dólares. YPF tendrá el 65% del proyecto y Vista el 35% restante.",
+     "relacionadas": [
+      {
+       "id": "CR-09",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La gran apuesta de YPF por el norte de Vaca Muerta ya llegó al RIGI",
+       "url": "https://www.cronista.com/economia-politica/ypf-presento-al-rigi-otro-proyecto-millonario-en-el-norte-de-vaca-muerta/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/energia/467972-ypf-presenta-un-nuevo-rigi-para-vaca-muerta-por-us8729-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610510.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:00",
+     "autor": "",
+     "titulo_original": "YPF presentó un RIGI de u$s8.729 millones para un bloque de crudo y gas en Vaca Muerta"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "Renault evalúa aliarse con Chery para fabricar el primer auto chino en Argentina",
+     "resumen": "Según iProfesional, un nuevo proyecto convertiría a la Argentina en el primer país de la región, junto con Brasil, en producir un vehículo de marca china de la mano de Renault. Manuel Antelo había señalado que el país no tiene escala para competir en autos frente a China, aunque destacó la producción de pick-ups y a Toyota.",
+     "relacionadas": [
+      {
+       "id": "IP-16",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Manuel Antelo explicó por qué Argentina no puede competir en la industria de los autos",
+       "url": "https://www.iprofesional.com/autos/467959-manuel-antelo-explico-por-que-argentina-no-puede-competir-en-industria-de-autos"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/467608-pareja-hace-mochilas-con-botellas-recicladas-y-ya-reutilizo-mas-de-5-toneladas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628504.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:27",
+     "autor": "",
+     "titulo_original": "Una pareja hace mochilas con botellas recicladas y ya reutilizó más de 5 toneladas"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Plantium-Gentec despidió a casi 100 empleados en Santa Fe por dificultades de cobro",
+     "resumen": "El empresario Jorge Gentili, referente de la agricultura de precisión, despidió sin causa a casi 100 trabajadores de su firma de Villa Constitución por problemas para cobrarle a compradores como Metalfor y Pauny, y porque la multinacional Agco dejó de adquirirle productos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/no-puedo-mas-una-reconocida-empresa-de-innovacion-del-agro-despidio-a-casi-100-empleados-y-se-achica-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/77YAADF4HRBMZGCK3NG7KZPWWU.jpg?auth=0f8a2f6fb09cebcff2c4a654c8a02a81ec82d42e47f36946b2af28c3fd4cd217&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:55",
+     "autor": "",
+     "titulo_original": "Plantium-Gentec, un ícono de la innovación en el agro, despidió a casi 100 empleados y se achica"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "un frigorífico de Santa Fe no renovó 80 contratos por la competencia de Brasil",
+     "resumen": "Tutto Porky's, de Reconquista, eliminó el turno de despostada de la tarde en carne de cerdo y frenó un proyecto de expansión. Su gerente general atribuyó la decisión a precios de venta que no cubren costos, al aumento de las importaciones desde Brasil y a dificultades para exportar.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/basta-de-inversiones-un-frigorifico-no-renovo-80-contratados-su-gerente-lo-lamento-y-hablo-de-las-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JNO6Y5RJL5AMLIT5AFWXA67Y5A.JPG?auth=866669e2cb62cc41b184bf3be75cdf3156d4643a3d8da049b7c1516c1717f06a&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:44",
+     "autor": "Belkis Martínez",
+     "titulo_original": "“Basta de inversiones”: un frigorífico no renovó 80 contratados, su gerente lo lamentó y habló de las importaciones desde Brasil"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "la reelección de Lula y la devaluación del real generan ganadores y perdedores para la industria argentina",
+     "resumen": "El índice Bovespa cayó 13,9% en la primera jornada tras el balotaje brasileño. Especialistas anticipan que algunos sectores argentinos perderán mercados y rentabilidad frente a Brasil, mientras otros podrían encontrar oportunidades para reducir costos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/10/31/ganadores-y-perdedores-del-efecto-brasil-los-tres-sectores-argentinos-mas-amenazados-y-los-que-podrian-salir-favorecidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/MR2KKYC2JVEODJNSQCYMYR2V6A.png?auth=aa50d2bf1943737a101db6c76d63c52ac0ee805008151d28393df94b831bfd2c&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:09",
+     "autor": "Natalia Donato",
+     "titulo_original": "Ganadores y perdedores del efecto Brasil: los tres sectores argentinos más amenazados y los que podrían salir favorecidos"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "ARCA extendió hasta el 16 de noviembre el vencimiento de Ganancias 2025",
+     "resumen": "La Agencia de Recaudación y Control Aduanero prorrogó el plazo para presentar la declaración jurada de Ganancias del período fiscal 2025, con diez días hábiles adicionales. Es la sexta vez que el organismo extiende esta fecha límite, luego de reglamentar el Régimen Simplificado de Ganancias de la Ley de Inocencia Fiscal II. Para una empresa: conviene reprogramar los plazos internos de liquidación y revisar si corresponde ajustar anticipos antes de la nueva fecha.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/arca-extendio-el-vencimiento-de-ganancias-cual-es-la-nueva-fecha/",
+     "imagen": "https://www.cronista.com/resizer/v2/LVHNQ2ARPZGMPLL6L4BWGD4EZ4.jpg?auth=ac457488549f4f99743577f0a32bb75cc9e8a35b9321ddf5a05db7b56b025ee2&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:48",
+     "autor": "Matías Rufino",
+     "titulo_original": "ARCA extendió el vencimiento de Ganancias: cuánto tiempo queda para presentar la declaración jurada"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "el FAL entra en vigencia el 1° de diciembre: cuánto aportarán las empresas",
+     "resumen": "ARCA reglamentó el Fondo de Asistencia Laboral, creado por la Ley 27.802 de Modernización Laboral, que exigirá a las empresas un aporte mensual de entre 1% y 2,5% de su masa salarial para financiar indemnizaciones, compensado con una reducción equivalente de contribuciones patronales. Para una empresa: conviene empezar ya a elegir la entidad administradora antes de la entrada en vigencia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/fal-cuanto-le-cuesta-a-una-empresa-el-aporte-mensual-y-como-se-compensa-con-las-contribuciones-patronales/",
+     "imagen": "https://www.cronista.com/resizer/v2/FMPUBY6HFRAWVCEDOSTAJOQP64.png?auth=605212c283cc5f48a49a72c370cc09d481baf5bd61c910f4ffc8a6da6a63702a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "FAL: cuánto le cuesta a una empresa el aporte mensual y cómo se compensa con las contribuciones patronales"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "el Gobierno prepara un cambio en el régimen de ART para facilitar el autoaseguro",
+     "resumen": "Federico Sturzenegger anunció que el Ejecutivo trabaja en una modificación del régimen de riesgos del trabajo para que más empresas puedan prescindir de las ART, en un contexto de unos 500.000 juicios laborales activos. Todavía no hay detalles ni plazos definidos. Para una empresa: es una reforma a seguir de cerca porque podría cambiar la estructura de costos de la cobertura de riesgos del trabajo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-busca-modificar-el-regimen-de-art-que-cambiara-y-que-podran-hacer-las-empresas/",
+     "imagen": "https://www.cronista.com/resizer/v2/CLYSI663BRFP7C4KCR45OBSSO4.jpg?auth=decc7afc46776855a704fd9f798f2efa04093983bf32914809fc7ddf226e6789&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:43",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "El nuevo esquema de ART que prepara el Gobierno: cómo cambiaría el autoaseguro para las empresas"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "paritaria de concesionarias: Smata acordó un aumento trimestral del 5,06%",
+     "resumen": "Los salarios básicos del sector irán desde 1.073.088 hasta 2.199.799 pesos según la categoría, con el incremento dividido en dos tramos: el primero entre octubre y noviembre, y el segundo en diciembre.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/paritarias-concesionarias-smata-acordo-un-aumento-trimestral-del-506-n6339986",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:00",
+     "autor": "",
+     "titulo_original": "Paritarias en concesionarias: Smata acordó un aumento trimestral del 5,06%"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-19",
+     "titulo": "Costantini construirá 76 viviendas de lujo en Las Cañitas con una inversión de 80 millones de dólares",
+     "resumen": "El desarrollo se ubicará cerca del Campo de Polo, con departamentos de hasta 536 metros cuadrados, terrazas y piscinas privadas. Para una empresa: confirma que la inversión en real estate de alta gama sigue firme pese al contexto financiero más volátil.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467932-costantini-hara-76-viviendas-de-lujo-en-las-canitas-por-us80-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628798.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Costantini construirá 76 viviendas de lujo en Las Cañitas con u$s80 millones de inversión"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "la CACE confirmó las fechas del CyberMonday 2026, con casi 800 empresas",
+     "resumen": "El evento de comercio electrónico se realizará el 2, 3 y 4 de noviembre con descuentos, cuotas y un asistente de inteligencia artificial para los compradores, según la Cámara Argentina de Comercio Electrónico. La Nación precisó que participarán más de 900 firmas. Para una empresa: es una ventana relevante para planificar stock y financiación de cara al cierre de año.",
+     "relacionadas": [
+      {
+       "id": "LN-24",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Cuándo es el Cyber Monday en Argentina 2026",
+       "url": "https://www.lanacion.com.ar/economia/cuando-es-el-cyber-monday-en-argentina-2026-nid30102026/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/467835-cybermonday-2026-cuando-es-que-marcas-participan-y-como-aprovechar-las-ofertas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/586367.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:25",
+     "autor": "",
+     "titulo_original": "CyberMonday 2026: cuándo es, qué marcas participan y cómo aprovechar las ofertas"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "el maíz tardío gana terreno con nuevas zonas de siembra y mejor genética",
+     "resumen": "El cultivo avanza hacia nuevas regiones productivas gracias a híbridos de mejor genética, con potencial para transformarse en proteínas animales, alimentos, bebidas y energía, además de generar actividad económica en localidades del interior.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/maiz-tardio-el-cultivo-que-desafia-los-limites-y-apuesta-por-la-tecnologia-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VB7HEP5RGBBRRLD2GJ744AGQIU.jpg?auth=6161b724f2b5d608eafc90b50786d3c51ce0fed1f5f6c128d364150a84d5749d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "Luis Urriza",
+     "titulo_original": "Maíz tardío: el cultivo que desafía los límites y apuesta por la tecnología"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "los precios locales de la soja y el maíz no replicaron la baja de Chicago",
+     "resumen": "Pese al fuerte derrumbe de las cotizaciones de soja y maíz en Chicago desde principios de octubre, el mercado local A3 mostró caídas más moderadas: el maíz a abril 2027 bajó 13,5 dólares por tonelada, frente a una merma de 22,44 dólares por tonelada en la plaza de Chicago.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/la-argentina-se-divorcia-de-la-tendencia-bajista-de-chicago-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JVDACKWJQRG2FH6DTFPT5LRL6Q.jpg?auth=768a635819cd7f8cec123630315bfacc43a74b360d5aa57bcf5200718e6e15dc&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:45",
+     "autor": "Pablo Adreani",
+     "titulo_original": "La Argentina se divorcia de la tendencia bajista de Chicago"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-25",
+     "titulo": "dos emprendedores escalan un negocio de mochilas con botellas recicladas",
+     "resumen": "Una pareja detrás del proyecto Botela ya reutilizó más de 5 toneladas de botellas plásticas para fabricar bandoleras y mochilas, con operaciones entre Chile y la Argentina, un caso de modelo de negocio sustentable con escalabilidad regional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467608-pareja-hace-mochilas-con-botellas-recicladas-y-ya-reutilizo-mas-de-5-toneladas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628504.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:27",
+     "autor": "",
+     "titulo_original": "Una pareja hace mochilas con botellas recicladas y ya reutilizó más de 5 toneladas"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "tres jóvenes de 19 años crearon una legaltech que ya usan más de 150 estudios jurídicos",
+     "resumen": "RivoLegal nació después de que cinco estudios les plantearan problemas similares de gestión a sus fundadores, quienes diseñaron una plataforma de software que hoy utilizan más de 150 estudios jurídicos del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467499-que-es-rivolegal-la-plataforma-argentina-con-ia-especial-para-abogados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628410.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:49",
+     "autor": "",
+     "titulo_original": "Tres amigos de 19 años lanzaron una legaltech que ya usan más de 150 estudios jurídicos"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-17",
+     "titulo": "el choque de trenes en Toledo dejó al menos 69 muertos y más de 150 heridos",
+     "resumen": "Dos trenes de alta velocidad chocaron cerca de la estación de Urda, en Toledo, España, en uno de los peores accidentes ferroviarios recientes de Europa. El presidente del gobierno español, Pedro Sánchez, reconoció que \"hay una confianza quebrada\" en el sistema de alta velocidad tras el segundo siniestro mortal en esa línea en menos de un año.",
+     "relacionadas": [
+      {
+       "id": "CL-25",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El choque de trenes en España se mete en la campaña para las elecciones y complica los planes de Pedro Sánchez",
+       "url": "https://www.clarin.com/mundo/choque-trenes-espana-mete-campana-elecciones-complica-planes-pedro-sanchez_0_OStTsnqMRq.html"
+      },
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tragedia en Toledo: advierten que la cifra de muertos por el choque de trenes podría ser mayor",
+       "url": "https://www.clarin.com/mundo/tragedia-toledo-advierten-cifra-muertos-choque-trenes-podria-mayor_0_PGCweeQEsS.html"
+      },
+      {
+       "id": "LN-23",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Quién era Ana Martina Conte Grand, la podóloga argentina de 32 años que murió en el accidente de trenes en España",
+       "url": "https://www.lanacion.com.ar/el-mundo/quien-era-ana-martina-conte-grand-la-podologa-argentina-de-32-anos-que-murio-en-el-accidente-de-nid28102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-en-vivo-que-paso-en-toledo-y-las-ultimas-noticias-del-accidente-mientras-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YOG3U77V2ZDFPGCMIISWUVB73Q.JPG?auth=c4e02871013f589d6e1d30cffc547392e5cfd28c3564bc4757557e0860fc04c0&smart=true&width=900&height=581",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:59",
+     "autor": "",
+     "titulo_original": "Choque de trenes en España: qué pasó en Toledo y las últimas noticias del accidente mientras sigue la búsqueda de víctimas"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "crisis política en Polonia por una acusación de intento de golpe",
+     "resumen": "El presidente Karol Nawrocki acusó al primer ministro Donald Tusk de un intento de golpe e interrumpió un viaje a África para regresar al país, en medio de un fuerte operativo policial frente al Tribunal Constitucional y crecientes tensiones en las calles.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/crisis-polonia-presidente-acusa-primer-ministro-intento-golpe-fuerte-operativo-policial-frente-tribunal-constitucional_0_tOR9ZXwkCC.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/WyWeR2G1x_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:42",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crisis en Polonia: el Presidente acusa al Primer Ministro de un intento de Golpe y hay un fuerte operativo policial frente al Tribunal Constitucional"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "El Salvador enviará 2.000 soldados a Haití en una misión que genera dudas",
+     "resumen": "Nayib Bukele justificó el envío de tropas como un operativo para rescatar a cuatro técnicos salvadoreños desaparecidos tras una emboscada de pandillas, pero no precisó cuánto tiempo permanecerán los soldados en Haití ni cuáles serán sus funciones exactas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/bukele-exporta-su-modelo-a-haiti-el-envio-de-2000-soldados-para-una-mision-despierta-dudas-y-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C6XMDUKBXNEOXFYCA3XVW5MWUE.JPG?auth=af5a21eef43e3171d14a15e4b53da44eb4ea3146b4339b4e5e5e37be63a9ea50&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:09",
+     "autor": "",
+     "titulo_original": "¿Bukele exporta su modelo a Haití? El envío de 2000 soldados para una misión despierta dudas y cuestionamientos"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Estados Unidos, Corea del Sur y Japón reafirmaron su compromiso con la desnuclearización de Corea del Norte",
+     "resumen": "Los cancilleres de los tres países acordaron impulsar la aplicación plena de las sanciones contra Pyongyang durante un encuentro paralelo a la cumbre del G20 en Atlanta, en medio de especulaciones sobre un posible encuentro entre Donald Trump y Kim Jong-un.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/31/eeuu-corea-del-sur-y-japon-acordaron-alcanzar-la-desnuclearizacion-completa-del-regimen-norcoreano/",
+     "imagen": "https://www.infobae.com/resizer/v2/SCDSVAUDPJBWTCFPMKIXYS2E2U.JPG?auth=c2688ba2d0437459432303b1f2a61e8cf6a2f1f9a2d8917c3f4e51c2f6c1b05b&smart=true&width=900&height=596",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:08",
+     "autor": "",
+     "titulo_original": "EEUU, Corea del Sur y Japón reafirmaron su compromiso con la desnuclearización completa del régimen norcoreano"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "un líder clave de Israel descartó aliarse con listas árabes para desplazar a Netanyahu",
+     "resumen": "Avigdor Líberman, cuyo partido obtuvo siete bancas en las últimas elecciones, rechazó un pacto con legisladores árabes por el respaldo de uno de ellos a la denuncia de genocidio contra Israel presentada ante la Corte Internacional de Justicia.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/10/31/el-lider-de-un-partido-clave-en-israel-descarto-aliarse-con-las-listas-arabes-para-desalojar-a-benjamin-netanyahu/",
+     "imagen": "https://www.infobae.com/resizer/v2/G46GHY43UJA2XEIHINKOUJEKDI.JPG?auth=3c114a3727f54430b2d40087607fe7617f1f8926285a7fc72639db68a1e447bc&smart=true&width=900&height=602",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "21:38",
+     "autor": "",
+     "titulo_original": "El líder de un partido clave en Israel descartó aliarse con las listas árabes para desalojar a Benjamin Netanyahu"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza esta semana el debate sobre inteligencia artificial en la ONU y la caída de la cosecha de papa en Rusia.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "el Consejo de Seguridad de la ONU discutió por primera vez los riesgos de la inteligencia artificial",
+     "resumen": "La reunión, convocada a pedido de Francia el 23 de septiembre de 2026, se produjo después de incidentes graves con modelos de OpenAI y Anthropic durante julio de 2026, pese a los compromisos de seguridad asumidos por esas empresas. La revista analiza qué implica que la gobernanza de la inteligencia artificial llegue por primera vez a ese organismo.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/31/las-naciones-unidas-frente-a-potencias-de-inteligencia-artificial/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/10/SIPA_01300557_000021-125x83.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Louis Puel",
+     "titulo_original": "Las Naciones Unidas frente a las potencias de la inteligencia artificial"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "la guía de Le Grand Continent para seguir las elecciones de medio término en Estados Unidos",
+     "resumen": "El martes 3 de noviembre se renueva por completo la Cámara de Representantes y un tercio del Senado. La publicación identifica siete estados clave para el Senado -Texas, Alaska, Kansas, Iowa, Michigan, Ohio y Maine- como los más disputados según el Cook Political Report.",
+     "relacionadas": [
+      {
+       "id": "CR-04",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Respaldo de EE.UU.: cómo afectaría al Gobierno de Milei si Trump pierde las elecciones de medio término",
+       "url": "https://www.cronista.com/economia-politica/respaldo-de-eeuu-como-afectaria-al-gobierno-de-milei-si-trump-pierde-las-elecciones-de-medio-termino/"
+      }
+     ],
+     "url": "https://legrandcontinent.eu/es/2026/10/31/que-comicios-a-seguir-en-las-elecciones-intermedias/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "¿Qué comicios hay que seguir en las elecciones de mitad de mandato?"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "la cosecha de papa en Rusia caería a su nivel más bajo en 25 años",
+     "resumen": "La producción de las grandes explotaciones agrícolas rusas bajó 13,8% respecto de 2025 y la de productores individuales, 5,9%, con una caída total proyectada a 17,8 millones de toneladas. El precio del tubérculo subió 29% en el último año, según la revista.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/10/30/economia-rusa-la-cosecha-de-patata-podria-caer-a-su-nivel-mas-bajo-en-25-anos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:11",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Economía rusa: la cosecha de patatas podría caer a su nivel más bajo en al menos 25 años"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "Boca y River juegan el Superclásico número 267, con al menos ocho debutantes",
+     "resumen": "El clásico argentino reunirá a varios futbolistas que disputarán por primera vez un Boca-River, aunque algunos ya enfrentaron al rival con otras camisetas. Dos de los tres jugadores con más presencias en el clásico podrían arrancar en el banco de suplentes.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/boca-vs-river-historias-minimas-detras-superclasico-debutantes-goleadores-saben-ganarlo_0_UDgYSDL3fW.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/5W8Q3erMn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca vs River y las historias mínimas detrás del Superclásico: los debutantes, los goleadores y los que ya saben cómo ganarlo"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Rosario Central venció 2 a 1 a Sarmiento en un partido con polémico arbitraje",
+     "resumen": "El equipo rosarino se impuso con dos goles de Avila y llegó a la cima de la Tabla Anual del fútbol argentino. El árbitro Andrés Merlos expulsó a dos jugadores de Sarmiento en los últimos 25 minutos, lo que generó fuertes críticas por un supuesto favoritismo hacia Central.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/otro-escandaloso-arbitraje-favorecio-a-rosario-central-merlos-condiciono-a-sarmiento-que-termino-con-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DKKPCWXQDVAIBNFXOLEF5RZSRM.JPG?auth=bed3a749aff8f24a20a67d2d35e5d5e83ce9f1562d16820a1424d6b145b04d5c&smart=true&width=900&height=592",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "23:53",
+     "autor": "",
+     "titulo_original": "Otro escandaloso arbitraje favoreció a Rosario Central: Merlos condicionó a Sarmiento, que terminó con 9"
+    },
+    {
+     "id": "IB-10",
+     "titulo": "Pedro Acosta ganó el esprint de Sepang y Marc Márquez amplía su ventaja en el Mundial de motociclismo",
+     "resumen": "El piloto español de KTM se impuso en la carrera corta del Gran Premio de Malasia, por delante del líder Marc Márquez, en una jornada con condiciones cambiantes en la que Alex Márquez se cayó tras perder el control de la moto.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/10/31/pedro-acosta-se-lleva-la-esprint-de-sepang-y-marc-marquez-se-escapa-en-el-mundial/",
+     "imagen": "https://www.infobae.com/resizer/v2/XBHVNXMHHJELVCI6F27Q7AJ7LI.jpg?auth=4183cd46dd6efed27e1f82b6982c86cfc28b90d1627bb185b49338a2ec23c824&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Pedro Acosta se lleva la esprint de Sepang y Marc Márquez se escapa en el Mundial"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Harry Kane ganó el Balón de Oro a Kylian Mbappé por escasa diferencia de votos",
+     "resumen": "La organización del premio difundió el detalle de la votación tras las dudas que generó el resultado, que coronó al delantero del Bayern Múnich por sobre el delantero francés del Real Madrid.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/se-revelo-la-escasa-diferencia-votos-la-que-harry-kane-vencio-kylian-mbappe-el-balon-oro-n6339974",
+     "imagen": "https://media.ambito.com/p/08091e73b3ed6da003c86c6d4755cb82/adjuntos/239/imagenes/043/730/0043730109/1200x675/1042x421:1062x441/harry-kane-ceremonia-balon-oro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:21",
+     "autor": "",
+     "titulo_original": "Se reveló la escasa diferencia de votos por la que Harry Kane venció a Kylian Mbappé en el Balón de Oro"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "dos titulares de Atlético Mineiro se lesionaron a tres semanas de la final de la Copa Sudamericana ante Boca",
+     "resumen": "El equipo brasileño debió hacer dos cambios forzados en su último partido y uno de los lesionados llegaría justo para la definición del torneo continental frente al equipo argentino.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/atencion-boca-dos-titulares-atletico-mineiro-se-lesionaron-tres-semanas-la-final-la-copa-sudamericana-n6339933",
+     "imagen": "https://media.ambito.com/p/75aab5b7cba7ef374998178345802a73/adjuntos/239/imagenes/043/740/0043740537/1200x675/635x499:655x519/atletico-mineiro-lesiones.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:23",
+     "autor": "",
+     "titulo_original": "Atención Boca: dos titulares de Atlético Mineiro se lesionaron a tres semanas de la final de la Copa Sudamericana"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "una regla especial de la MLS evitó la suspensión de Lionel Messi pese a su quinta amarilla",
+     "resumen": "El capitán de la Selección argentina llegó al límite de amonestaciones en el último partido de Inter Miami, pero una norma particular de la liga estadounidense le permitirá jugar una fecha clave del campeonato.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/la-curiosa-regla-la-mls-la-que-lionel-messi-no-fue-suspendido-su-quinta-tarjeta-amarilla-n6339906",
+     "imagen": "https://media.ambito.com/p/70730b67b3dcc0e59594040b41559801/adjuntos/239/imagenes/043/648/0043648061/1200x675/647x356:667x376/messi-inter-miami.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:13",
+     "autor": "",
+     "titulo_original": "La curiosa regla de la MLS por la que Lionel Messi no fue suspendido tras su quinta tarjeta amarilla"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Franco Colapinto corre hoy la práctica 3 y la clasificación del Gran Premio de Ciudad de México",
+     "resumen": "Según la agenda de TV del sábado, la práctica 3 de Fórmula 1 se corre a las 14.30 y la clasificación a las 18, ambas por Fox Sports y Disney+, antes de la carrera del Gran Premio de México que se disputa el domingo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/agenda-de-tv-y-streaming-del-sabado-colapinto-la-semifinal-casi-hindu-san-lorenzo-y-tortugas-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3VZ26ZSWBBHCLJHWGT4X7AYKFY.jpg?auth=e8e5340648f13617c4877b06ef847dbfcf9d180ca14167ac984a898a0e91ff6c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Agenda de TV y streaming del sábado: Colapinto, la semifinal CASI - Hindú, San Lorenzo y Tortugas"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-07",
+     "titulo": "aficionados a la astronomía encuentran en Sierra de la Ventana un destino para observar el cielo nocturno",
+     "resumen": "Tres jubilados apasionados por la astronomía cuentan cómo el retiro les dio tiempo para profundizar su afición; uno de ellos compró un campo en Sierra de la Ventana, provincia de Buenos Aires, para tener acceso directo a cielos despejados y sin contaminación lumínica.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/historias/locos-astronomia-despues-jubilacion-universo-entero-descubrir_0_oX1KqLeMPf.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/f_Sztathg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:03",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Locos por la astronomía: después de la jubilación, un universo entero por descubrir"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "Gustave, el cocodrilo que aterrorizó las costas del lago Tanganica en África",
+     "resumen": "El animal, que se estima mató a más de 300 personas desde la década del 90, pesaba alrededor de 900 kilos y medía seis metros. Nunca fue capturado y podría seguir merodeando las costas del río Ruzizi, aunque un rumor sostiene que murió en 2019.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/lifestyle/gustave-el-cocodrilo-mas-letal-del-mundo-que-se-estima-que-mato-a-mas-de-300-personas-nid30102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PVTU66G76RFDTAXPT3IJZCIJVY.webp?auth=ef4c6396983908ee2c045c4fa7b10ff65563d561657151732a540ad837ef758e&smart=true&width=665&height=400",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:59",
+     "autor": "",
+     "titulo_original": "Gustave, el cocodrilo más letal del mundo que se estima que mató a más de 300 personas"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-15",
+     "titulo": "la Prefectura mantiene en alerta a los ríos Paraná, Iguazú y Paraguay",
+     "resumen": "Distintas estaciones de medición permanecen por encima de los umbrales hidrométricos de evacuación, aunque con comportamientos dispares: algunas muestran descensos y otras se mantienen estacionarias o en crecimiento, según el último parte de la Prefectura Naval Argentina.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-y-los-niveles-de-alerta-hoy-nid29102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2DIYN75ZFZFHJACZOYLQBLIDRI.png?auth=9399691ed6061e3a91ced4f33df3693b5ac60d197970232f97f325deeaf3c944&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "22:59",
+     "autor": "",
+     "titulo_original": "Altura de los ríos en la Argentina, según Prefectura: esta es la situación y los niveles de alerta hoy, viernes 30 de octubre"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "un intento de usurpación de viviendas en Santa Fe terminó en enfrentamiento con la Policía",
+     "resumen": "Varias familias con menores irrumpieron en viviendas de la Villa Olímpica de Santa Fe con intención de ocuparlas. Hubo al menos ocho detenidos y se investiga si organizaciones políticas estuvieron detrás del intento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/violento-intento-usurpacion-viviendas-villa-olimpica-santa-fe-termino-duro-enfrentamiento-policia_0_xEuz2bOJT6.html",
+     "imagen": "https://www.clarin.com/img/2026/10/31/Sqkt2ry4M_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "02:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un violento intento de usurpación de viviendas en la Villa Olímpica de Santa Fe terminó con un enfrentamiento con la Policía"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del sábado 31 de octubre. El dólar oficial cerró el mes en mil quinientos sesenta pesos para la venta, el blue en mil quinientos sesenta y cinco pesos, el dólar mep en mil quinientos setenta y cinco pesos y el oro cotiza cerca de tres mil novecientos dólares la onza. El riesgo país, en cambio, es la noticia financiera del día: trepó a setecientos ochenta y siete puntos básicos, su nivel más alto en un año, con una suba acumulada de veintiocho por ciento durante octubre. La inflación mensual de septiembre quedó en uno con nueve por ciento y la interanual en treinta y tres con cuatro por ciento. El panorama del día combina una jornada negra para los mercados globales, un hackeo millonario al mundo cripto y la previa del Superclásico de la tarde entre Boca y River.\n\nEn política, el acuerdo electoral entre La Libertad Avanza y el PRO sigue trabado en el Congreso. Mauricio Macri dijo que no se avanzó en nada en la alianza, después de que el partido amarillo frenara varias iniciativas oficialistas esta semana, en medio de una interna por las candidaturas en la Ciudad de Buenos Aires. Martín Menem, el titular de Diputados, reafirmó que Javier Milei es el candidato único del espacio libertario para 2027, mientras la tensión entre Patricia Bullrich y el Presidente sigue latente. Dentro del peronismo, Kicillof, Massa y Máximo Kirchner negocian un pacto para bajar la tensión en el PJ bonaerense, mientras discuten la composición de la Corte, el futuro de las PASO y las reelecciones de intendentes. El propio Kirchner volvió a cuestionar el RIGI, el régimen de incentivo para las grandes inversiones, y chocó con gobernadores aliados que, según dijo, se ponen muy nerviosos con el planteo. Y en Luján, a diez días de la llegada del papa León catorce, ya se arma el operativo histórico: se esperan hasta un millón setecientos mil peregrinos y un despliegue de once mil policías para la misa del miércoles once de noviembre.\n\nEn economía y mercados, la gran noticia es la disparada del riesgo país, que llegó a su nivel más alto en un año en una jornada negra para Wall Street: el índice Nasdaq cayó casi tres por ciento y los bonos y acciones argentinas sintieron el golpe, con caídas de hasta seis por ciento en los certificados que cotizan en Nueva York. El dólar oficial cerró octubre con una suba mensual del uno coma tres por ciento, mientras el Banco Central logró comprar casi mil cuatrocientos millones de dólares en el mes, el mejor resultado en tres meses. Según el propio Banco Central, los ahorristas compraron en septiembre tres mil cuatrocientos millones de dólares, la mitad de lo registrado un año atrás, previo a las elecciones legislativas. En el plano cripto, Binance, la mayor casa de cambio de criptomonedas del mundo, sufrió el robo más grande de la historia del sector: seis mil trescientos millones de dólares. La empresa aseguró que cubrirá las pérdidas con fondos propios, aunque el Bitcoin cayó cinco por ciento tras el hecho. Para una empresa, estos movimientos son relevantes porque la suba del riesgo país encarece el financiamiento externo y la volatilidad cambiaria complica la planificación de precios y pagos a proveedores del exterior.\n\nEn negocios y empresas, YPF presentó ante el régimen de incentivo para grandes inversiones un proyecto de ocho mil setecientos millones de dólares para desarrollar, junto con Vista Energy, el bloque Bajo del Toro en el norte de Vaca Muerta. Renault evalúa aliarse con la automotriz china Chery para fabricar en la Argentina el primer vehículo de marca china producido en el país. Del lado de las malas noticias, una empresa de agricultura de precisión de Villa Constitución, en Santa Fe, despidió a casi cien empleados por dificultades para cobrarle a sus clientes, y un frigorífico de Reconquista no renovó ochenta contratos por la competencia de las importaciones porcinas desde Brasil.\n\nEn impuestos, laboral y normativa, ARCA extendió hasta el dieciséis de noviembre el vencimiento para presentar la declaración jurada de Ganancias del año pasado, la sexta prórroga que otorga el organismo. Además, reglamentó el nuevo Fondo de Asistencia Laboral, que entrará en vigencia el primero de diciembre y exigirá a las empresas un aporte de entre uno y dos coma cinco por ciento de su masa salarial, compensado con una reducción equivalente de las contribuciones patronales. El Gobierno, por su parte, prepara cambios en el régimen de aseguradoras de riesgos del trabajo para que más empresas puedan optar por el autoaseguro, en un contexto de medio millón de juicios laborales activos.\n\nEn consumo, construcción y retail, la Cámara Argentina de Comercio Electrónico confirmó que el Cyber Monday se realizará los días dos, tres y cuatro de noviembre, con la participación de casi ochocientas empresas. El desarrollador Eduardo Costantini anunció la construcción de setenta y seis viviendas de lujo en el barrio porteño de Las Cañitas, con una inversión de ochenta millones de dólares. En el campo, el maíz tardío gana terreno con nuevas zonas de siembra e híbridos de mejor genética, mientras los precios locales de la soja y el maíz resistieron mejor que Chicago la fuerte baja de octubre.\n\nEn management y finanzas corporativas, dos historias de emprendedores argentinos: tres jóvenes de diecinueve años crearon la legaltech RivoLegal, que ya utilizan más de ciento cincuenta estudios jurídicos del país, y una pareja detrás del proyecto Botela construyó un negocio de mochilas hechas con botellas recicladas entre Chile y la Argentina.\n\nEn el mundo, el choque de dos trenes de alta velocidad en Toledo, España, dejó al menos sesenta y nueve muertos y más de ciento cincuenta heridos; el presidente del gobierno español, Pedro Sánchez, admitió que hay una confianza quebrada en el sistema ferroviario tras el segundo siniestro mortal en esa línea en menos de un año. En Polonia, el presidente Karol Nawrocki acusó al primer ministro Donald Tusk de un intento de golpe, lo que generó un fuerte operativo policial. El Salvador anunció el envío de dos mil soldados a Haití para rescatar a técnicos desaparecidos tras una emboscada de pandillas. Y Estados Unidos, Corea del Sur y Japón reafirmaron su compromiso con la desnuclearización completa de Corea del Norte en un encuentro paralelo a la cumbre del Grupo de los Veinte en Atlanta.\n\nLe Grand Continent analiza el debate inédito que tuvo el Consejo de Seguridad de las Naciones Unidas sobre los riesgos de la inteligencia artificial, a partir de incidentes ocurridos en julio con modelos de OpenAI y Anthropic, además de una guía para las elecciones de medio término en Estados Unidos del próximo martes y un análisis sobre la caída de la cosecha de papa en Rusia, que podría tocar su nivel más bajo en veinticinco años.\n\nEn deportes, la gran cita del día es el Superclásico número doscientos sesenta y siete entre Boca y River, con al menos ocho futbolistas que debutarán en el clásico. En el torneo local, Rosario Central venció dos a uno a Sarmiento en un partido marcado por un arbitraje polémico. En el Mundial de motociclismo, el español Pedro Acosta ganó la carrera al esprint en Malasia, mientras Marc Márquez amplía su ventaja en el campeonato. La organización del Balón de Oro difundió los votos que le dieron el premio a Harry Kane por sobre Kylian Mbappé. En la previa de la final de la Copa Sudamericana, dos titulares de Atlético Mineiro se lesionaron a tres semanas del partido ante Boca. Y Lionel Messi evitará la suspensión en la MLS pese a su quinta tarjeta amarilla, gracias a una regla especial de la liga estadounidense. En Fórmula uno, Franco Colapinto corre hoy la práctica tres a las dos y media de la tarde y la clasificación a las seis de la tarde, de cara al Gran Premio de Ciudad de México que se disputa mañana domingo.\n\nPara cerrar, en turismo recomendamos Sierra de la Ventana, en la provincia de Buenos Aires, un destino elegido por aficionados a la astronomía por sus cielos despejados y sin contaminación lumínica.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Todas las fuentes se descargaron correctamente. No se encontraron novedades de Club Atlético Tigre en esta corrida; el destino argentino de turismo se tomó de una nota de Clarín sobre astronomía en Sierra de la Ventana, no del feed de viajes.",
+ "slug": "2026-10-31-manana",
+ "generado_ba": "31/10/2026 10:13"
+}
