@@ -1,0 +1,792 @@
+{
+ "fecha": "2026-11-01",
+ "edicion": "manana",
+ "titulo": "Milei endurece el discurso electoral en una semana negra para los mercados",
+ "apertura": "Octubre terminó con el riesgo país en su nivel más alto del año y el Merval en baja, mientras Javier Milei afiló su discurso contra la política tradicional a días de la llegada del papa León XIV y la fuga de Flavio Bolsonaro a Miami lo dejó sin aliados cercanos en Brasil. En el plano deportivo, Boca y River juegan esta tarde el Superclásico en la Bombonera y Franco Colapinto corre el Gran Premio de México.",
+ "claves": [
+  "El dólar oficial cerró octubre en $ 1.560 y el riesgo país terminó el mes en 787 puntos, su nivel más alto del año.",
+  "El Merval acumuló en octubre una caída de 4,9% en pesos y de cerca de 8% medido en dólares.",
+  "Javier Milei inauguró un templo evangélico en Neuquén y endureció el discurso contra \"la política tradicional\" a ocho días de la llegada del papa León XIV.",
+  "Tras la fuga de Flavio Bolsonaro a Miami, Milei quedó sin aliados cercanos en Brasil, según un politólogo citado por La Nación.",
+  "Domingo Cavallo volvió a cruzar a Milei y pidió que el Banco Central acumule reservas por al menos US$ 15.000 millones en doce meses.",
+  "Desde hoy suben el boleto de colectivos y subte en el AMBA, los peajes porteños y otros gastos fijos de los hogares.",
+  "Boca y River juegan el Superclásico esta tarde en la Bombonera; Franco Colapinto largará 11° en el Gran Premio de México.",
+  "Binance confirmó un robo de US$ 6.300 millones en criptomonedas, atribuido por el FBI a un grupo vinculado a Corea del Norte."
+ ],
+ "cifras": [
+  {
+   "nombre": "Merval (índice MSCI, Bolsa porteña)",
+   "valor": "92.080 puntos",
+   "variacion": "-4,9% en octubre",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Índice General de Actividad (Ferreres)",
+   "valor": "-0,8% interanual (septiembre)",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Índice de precios de commodities (Banco Mundial)",
+   "valor": "+23% proyectado en 2026",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Boleto mínimo de colectivo (CABA)",
+   "valor": "$ 956,38",
+   "fuente": "LN-26"
+  },
+  {
+   "nombre": "Monto robado en el hackeo a Binance",
+   "valor": "US$ 6.300 millones",
+   "fuente": "IB-26"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-16",
+     "titulo": "Milei inauguró una iglesia evangélica en Neuquén y afiló el discurso de cara a 2027",
+     "resumen": "Javier Milei encabezó la inauguración del nuevo templo de la Iglesia Bautista Jesús es Rey en Neuquén, conducida por el pastor Hugo Márquez, padre de la senadora libertaria Nadia Márquez. El presidente dijo que su gobierno no responderá al populismo con nuevas promesas de corto plazo sino con equilibrio fiscal y valores judeocristianos, y afirmó que \"el infierno en términos económicos es una sociedad sin industria ni comercio\". El edificio, financiado por la congregación, tiene capacidad para 4.000 personas y fue presentado como el más grande de la Patagonia.",
+     "relacionadas": [
+      {
+       "id": "LN-19",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Milei mostró su alegría por la visita del Papa y dijo que ceder en el programa sería conducir a la Argentina “al infierno”",
+       "url": "https://www.lanacion.com.ar/politica/milei-mostro-su-alegria-por-la-visita-del-papa-y-dijo-que-ceder-en-el-programa-seria-conducir-a-la-nid31102026/"
+      },
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "En clave electoral, Milei apuntó contra la política tradicional: “Culmina siempre en un desastre”",
+       "url": "https://www.cronista.com/economia-politica/en-clave-electoral-milei-apunto-contra-la-politica-tradicional-culmina-siempre-en-un-desastre/"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei, en la inauguración de un templo en Neuquén: \"El infierno en términos económicos es una sociedad sin industria ni comercio\"",
+       "url": "https://www.ambito.com/politica/javier-milei-viaja-neuquen-participar-la-inauguracion-un-templo-evangelico-n6339670"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/10/31/javier-milei-inauguro-una-iglesia-evangelica-y-hablo-en-clave-electoral-no-creemos-en-combatir-el-populismo-con-mas-populismo/",
+     "imagen": "https://www.infobae.com/resizer/v2/IIITZNE6VZEDBJGEX5TLQTPRJU.png?auth=44b6a7820a3dd27755a15deec389a15ec1474c912761b1fca720d8113c6ef471&smart=true&width=900&height=602",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:33",
+     "autor": "",
+     "titulo_original": "Javier Milei inauguró una iglesia evangélica y habló en clave electoral: “No creemos en combatir el populismo con más populismo”"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "La fuga de Bolsonaro y la noche que alteró al Gobierno",
+     "resumen": "Según Clarín, Estados Unidos dio la orden de ayudar a la salida de Flavio Bolsonaro de Brasil y Javier Milei se puso a disposición. La nota detalla el rol de Santiago Caputo y la SIDE en el operativo, y el desafío que representan Patricia Bullrich y los movimientos de Cristina Kirchner y Axel Kicillof dentro del tablero político.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/pecados-javier-milei-noche-fuga-altero-gobierno_0_GxBnXG0Tqu.html",
+     "imagen": "https://www.clarin.com/img/2026/10/29/U-xWmaVon_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los pecados de Javier Milei y la noche de fuga que alteró a todo el Gobierno"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Tras la fuga de Flavio Bolsonaro, Milei quedó sin aliados cercanos en Brasil",
+     "resumen": "Después de que su candidato Flavio Bolsonaro perdiera el balotaje con Lula da Silva y escapara a Miami vía Argentina, Javier Milei quedó, según el politólogo brasileño Mauricio Santoro, \"entre los grandes derrotados externos\" de la elección. El mandatario conservará como aliados a los gobernadores opositores a Lula, mientras que sus pares de Chile y Colombia felicitaron rápidamente al ganador.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "De verdugo de los Bolsonaro a dolor de cabeza para Lula: el juez que sacude la política brasileña",
+       "url": "https://www.lanacion.com.ar/el-mundo/de-verdugo-de-los-bolsonaro-a-dolor-de-cabeza-para-lula-el-juez-que-sacude-la-politica-brasilena-nid31102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/tras-la-derrota-y-huida-de-flavio-bolsonaro-el-presidente-milei-quedo-sin-socios-en-brasil-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DM4ZHVYUVZDOFA2NWZMVW7GFQA.JPG?auth=4175671323b6955510cf4dff5137d5194113ff5b13bdb1944cdb2d02eff9565a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:20",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "Tras la derrota y huida de Flavio Bolsonaro, el presidente Milei quedó sin socios en Brasil"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Nuevas encuestas en CABA, Santa Fe y Mendoza miden la pelea rumbo a 2027",
+     "resumen": "Una medición de la consultora DC, que suele dar buenos números a La Libertad Avanza, relevó los escenarios locales para jefe de Gobierno porteño y gobernador en Santa Fe y Mendoza de cara a 2027, con cifras por espacios y candidatos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/nuevas-encuestas-electorales-caba-santa-fe-mendoza-viene-pelea-2027_0_4yQvZBU9zZ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/MXN0PazD4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Nuevas encuestas electorales en CABA, Santa Fe y Mendoza: cómo viene la pelea para el 2027"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "La campaña bonaerense se ordena entre La Libertad Avanza, el PRO, el peronismo y la UCR",
+     "resumen": "En la provincia de Buenos Aires la oposición levantó la bandera de la reducción de impuestos, el PJ definió una reunión de dirigentes y el radicalismo busca saldar su interna de cara a la carrera electoral, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/provincia-buenos-aires-modo-campana-definiciones-la-libertad-avanza-el-pro-el-peronismo-y-la-ucr-n6340128",
+     "imagen": "https://media.ambito.com/p/e7f9767938c6089600ca1b26d9eb2423/adjuntos/239/imagenes/043/741/0043741609/1200x675/smart/provincia-buenos-aires-elecciones-2027.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:59",
+     "autor": "",
+     "titulo_original": "Provincia de Buenos Aires en modo campaña: definiciones de La Libertad Avanza, el PRO, el peronismo y la UCR"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Milei pidió celeridad a su Gabinete en medio de la discusión por el Senado",
+     "resumen": "El presidente reclamó a sus funcionarios avanzar con mayor rapidez en los proyectos pendientes, en un contexto de oposición dispuesta a negociar a cambio de concesiones y de internas que complican la gestión, según Infobae. La nota vincula el clima económico de corto plazo con la disputa por cargos en el Senado que inciden en las designaciones judiciales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/01/el-pedido-urgente-de-milei-a-su-gabinete-y-la-discusion-interna-que-impacta-en-el-senado/",
+     "imagen": "https://www.infobae.com/resizer/v2/Y357MXXVH5CV7KEHHHPY7VBQWU.JPG?auth=4d828d8ba48b04dbef5cd19492c764cd274f117e221bfb0abcb782a0b657d86a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:36",
+     "autor": "Julián Alvez",
+     "titulo_original": "El pedido urgente de Milei a su Gabinete y la discusión interna que impacta en el Senado"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "Desde 2022 la Justicia destituyó a cuatro jueces federales y un quinto renunció antes del jury",
+     "resumen": "El Consejo de la Magistratura removió por mal desempeño a Walter Bento (Mendoza), Martín Poderti y Alfredo López (Mar del Plata) y Gastón Salmain (Rosario); Marcelo Bailaque, también de Rosario, renunció antes de ser enjuiciado.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/2022-consejo-magistratura-destituyo-jueces-quinto-renuncio-jury_0_JcqmCsFgxr.html",
+     "imagen": "https://www.clarin.com/img/2026/10/31/HdiLrTtrl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Desde 2022, el Consejo de la Magistratura destituyó cuatro jueces y y un quinto renunció antes del jury"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "Octubre cerró con el riesgo país en 787 puntos y el Merval en baja",
+     "resumen": "El riesgo país pasó de 607 puntos a fines de septiembre a 787 puntos al cierre de octubre, una suba de 180 puntos (cerca de 30%), según El Cronista. El índice bursátil porteño MSCI terminó en 92.080 puntos, con una caída de 2,6% en la última rueda y un retroceso acumulado de 4,9% en el mes, cerca de 8% medido en dólares. Para una empresa: el salto del riesgo país encarece el financiamiento en dólares y puede presionar sobre los instrumentos atados a la brecha cambiaria.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/mes-negro-para-los-mercados-el-riesgo-pais-salto-180-puntos-y-la-bolsa-termino-en-rojo-como-sigue/",
+     "imagen": "https://www.cronista.com/resizer/v2/CKYUPOQ6BFDE3HBF2EQLQ3N7WM.jpg?auth=e1ac596a503426637d22b0026c195e5c0a5660cdd818d409457de95a1767830f&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Mes negro para los mercados: el riesgo país saltó 180 puntos y la Bolsa terminó en rojo, ¿cómo sigue?"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "El boom de los commodities le dio un respiro a la Argentina en 2026",
+     "resumen": "El Banco Mundial proyecta que los precios de las materias primas subirán 23% este año tras tres años a la baja, impulsados por energía, alimentos y metales; una buena cosecha y Vaca Muerta a pleno permitieron a la Argentina acumular reservas. El Cronista advierte que el escenario podría cambiar en los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-boom-de-los-commodities-le-dio-aire-a-argentina-en-2026-pero-el-escenario-puede-cambiar-el-ano-proximo/",
+     "imagen": "https://www.cronista.com/resizer/v2/L2WA4GSTNVCABN2VBZMH4RCB3A.jpg?auth=550f5eddc43bec5c78da308c92322a65f1783ed1a0f04000ee7f023053ebe48b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "El boom de los commodities le dio aire a Argentina en 2026, pero el escenario puede cambiar el año próximo"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "Cavallo volvió a cruzar a Milei y pidió comprar US$ 15.000 millones de reservas",
+     "resumen": "Tras ser calificado de \"impresentable\" por Javier Milei, Domingo Cavallo insistió en que el Banco Central debería acumular reservas a un ritmo de al menos US$ 15.000 millones en los próximos doce meses, cuestionó el esquema cambiario vigente y reclamó eliminar el cepo para las empresas. El economista advirtió sobre riesgos externos de cara a 2027, como una eventual crisis fiscal en Estados Unidos y Europa y la depreciación del real brasileño.",
+     "relacionadas": [
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Tras las críticas de Milei, Cavallo advirtió sobre un “traspié” electoral en 2027: “Es más peligroso”",
+       "url": "https://www.cronista.com/economia-politica/tras-las-criticas-de-milei-cavallo-advirtio-sobre-un-traspie-en-2027-es-mas-peligroso/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/tras-las-criticas-javier-milei-domingo-cavallo-insistio-la-necesidad-acumular-reservas-y-pidio-compras-us15000-millones-n6340188",
+     "imagen": "https://media.ambito.com/p/802764714b744e7080af209b8a185565/adjuntos/239/imagenes/039/789/0039789438/domingo-cavallo-ex-ministro-relaciones-exteriores-la-nacion-argentina.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:05",
+     "autor": "",
+     "titulo_original": "Tras las críticas de Javier Milei, Domingo Cavallo insistió con la necesidad de acumular reservas y pidió compras por u$s15.000 millones"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "La actividad económica se mueve a dos velocidades",
+     "resumen": "El Índice General de Actividad de Orlando Ferreres registró en septiembre una caída interanual de 0,8%, aunque avanzó 0,1% desestacionalizado frente a agosto; en los primeros nueve meses el acumulado es de 0,3%. El retroceso interanual estuvo impulsado por agro, sector financiero, construcción e industria, mientras minería y energía crecieron. Para una empresa: el dato confirma una recuperación despareja por sector, relevante para planificar ventas según el rubro.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/las-distintas-caras-de-una-actividad-economica-que-no-despega-que-sectores-crecen-y-cuales-caen/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZHEAEXYN6FAZNIYEWA3DZEGLFA.jpg?auth=5b61542a692f88c36638948436e51236b241386b0ae2e90a8db405ea16c13182&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:41",
+     "autor": "Kiara Calvert de Bohun",
+     "titulo_original": "La economía se mueve a dos velocidades: los sectores que sostienen la actividad y los que todavía retroceden"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "El Gobierno apuesta a ingresos, crédito y freno tarifario para llegar bien a las elecciones",
+     "resumen": "Según Infobae, el cuarto trimestre mostraría una reactivación que permitiría cerrar el PBI anual en terreno positivo, aunque las proyecciones ubican la intención de voto de Milei en torno al 38%, sin asegurar un triunfo en primera vuelta. El Gobierno apunta a aprovechar los próximos seis meses antes de que arranque de lleno el \"trade electoral\".",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/01/recuperacion-de-ingresos-mas-credito-y-freno-tarifario-los-pilares-del-plan-para-llegar-lo-mejor-posible-a-las-elecciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/MYY5NJYWA5ERLMUOFPZXAOZ6AQ.jpg?auth=47a6eceb6421240c7a78499a66db00c9e030de0355cc2a97bf9e2fa97a9354de&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:28",
+     "autor": "Pablo Wende",
+     "titulo_original": "Recuperación de ingresos, más crédito y freno tarifario: los pilares del plan para llegar lo mejor posible a las elecciones"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "En la City advierten que el Gobierno tiene menos dólares de los que dice",
+     "resumen": "Un informe citado por iProfesional sostiene que el verdadero límite para enfrentar una corrida cambiaria depende de la liquidez disponible y del acceso real a las herramientas en poder del sector oficial, más que de las cifras brutas de reservas difundidas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467976-bancos-alertan-por-los-dolares-que-tiene-el-gobierno-para-frenar-corrida",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619728.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:20",
+     "autor": "",
+     "titulo_original": "La City alerta que el Gobierno tiene menos dólares de lo que dice para frenar una corrida"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "La compra de dólares de los argentinos fue en septiembre la segunda más alta del año",
+     "resumen": "El flujo hacia activos en moneda extranjera marcó un récord en los bancos locales durante septiembre, según iProfesional, mientras el saldo de turismo exterior mostró cifras negativas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467984-1-dolares-cuanto-compraron-los-argentinos-y-que-paso-con-las-reservas-del-bcra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611155.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:17",
+     "autor": "",
+     "titulo_original": "En septiembre, la compra de dólares de los argentinos fue la segunda más alta del año"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-07",
+     "titulo": "Omoda y Jaecoo evalúan instalar una planta en la Argentina",
+     "resumen": "Las marcas chinas del grupo Chery, que ya desembarcan de forma directa en el país, están interesadas en el litio y mantuvieron reuniones con el Gobierno; evalúan comprar una planta existente o construir una desde cero, aunque esta última opción tardaría más tiempo.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Autos voladores o sin conductor y coches como generadores de energía portátil: cómo ve el futuro una de las mayores automotrices de China",
+       "url": "https://www.clarin.com/economia/autos-voladores-conductor-coches-generadores-energia-portatil-ve-futuro-mayores-automotrices-china_0_iQcdAYq0b1.html"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/planes-automotriz-china-omodajaecoo-argentina-podriamos-comprar-planta-existente-hacer-cero-tardariamos_0_753hE1SuTM.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/VLe8sV69C_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los planes de la automotriz china Omoda&Jaecoo para la Argentina: \"Podríamos comprar una planta existente o hacer una de cero, pero tardaríamos más\""
+    },
+    {
+     "id": "IB-25",
+     "titulo": "BYD apuesta a liderar el mercado argentino de autos en pocos años",
+     "resumen": "La automotriz china, que llegó al país hace un año y ya entró al top 10 de ventas, no pone fecha pero busca convertirse rápido en la marca número uno, según Infobae. La nota menciona tensiones por el cupo con arancel cero para autos eléctricos e híbridos y por el origen chino de la marca, en un contexto de acercamiento entre Argentina y Estados Unidos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/01/clima-de-negocios-los-planes-de-la-automotriz-que-llego-al-pais-hace-un-ano-ya-entro-al-top-10-de-ventas-y-apuesta-a-ser-lider/",
+     "imagen": "https://www.infobae.com/resizer/v2/S6RJZ4VB45DY7JPLTJVTP6TYVM.JPG?auth=a45d5ac4304fdcc6d89d8205b407f177126dfd6c6f6dd2f2df22a04704849503&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:27",
+     "autor": "Sebastián Catalano",
+     "titulo_original": "Clima de Negocios: los planes de la automotriz que llegó al país hace un año, ya entró al top 10 de ventas y apuesta a ser líder"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "La infraestructura de carga sigue siendo el techo para los autos eléctricos",
+     "resumen": "Clarín señala que hay menos de 400 puntos de carga públicos para un parque de 30.000 vehículos eléctricos que sigue creciendo, lo que limita la expansión del segmento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/infraestructura-gran-tema-pendiente-autos-electricos-pais_0_GMsJcQxz0A.html",
+     "imagen": "https://www.clarin.com/img/2023/06/30/wtd4L4_-8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La infraestructura, el gran tema pendiente para los autos eléctricos en el país"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Binance confirmó un robo de US$ 6.300 millones y busca contener el impacto",
+     "resumen": "La plataforma de criptomonedas sufrió el 29 de octubre el mayor robo de la historia del sector, atribuido por el FBI al grupo norcoreano TraderTraitor. Binance inició la recompra de los activos robados y acordó con Tether, Circle y otros actores congelar parte de los fondos; la empresa dice tener 335 millones de billeteras activas en el mundo, sin discriminar cuántas operan en la Argentina.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Binance asegura que recuperó un enorme porcentaje de las criptomonedas del hackeo",
+       "url": "https://www.iprofesional.com/criptomonedas/467996-binance-asegura-que-recupero-un-enorme-porcentaje-de-las-criptomonedas-del-hackeo"
+      },
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Quiénes son los hackers norcoreanos de TraderTraitor, acusados de orquestar el ciberataque millonario a Binance",
+       "url": "https://www.infobae.com/america/mundo/2026/11/01/quienes-son-los-hackers-norcoreanos-de-tradertraitor-acusados-de-orquestar-el-ciberataque-millonario-a-binance/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/01/hackeo-en-binance-tres-claves-que-deben-tener-en-cuenta-los-usuarios-argentinos-de-la-plataforma-cripto/",
+     "imagen": "https://www.infobae.com/resizer/v2/THE6GTMUVBE3TKQYC6EDN35Q5Q.png?auth=df4dc16bf80f4e93fad7d90960b14567e5e8d3b759c25179c00d0a791d324e95&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:27",
+     "autor": "Fernando Meaños",
+     "titulo_original": "Hackeo en Binance: tres claves que deben tener en cuenta los usuarios argentinos de la plataforma cripto"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "ANSES pagará en noviembre $ 556.217 por la Asignación por Adopción",
+     "resumen": "La Administración Nacional de la Seguridad Social actualizó 1,93% el monto de la Asignación de Pago Único por Adopción mediante la Resolución 303/2026; la prestación, que en octubre fue de $ 545.685, pasa a $ 556.217 desde noviembre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/informacion-gral/confirmado-por-anses-pagan-un-bono-de-mas-de-545000-en-noviembre-a-todas-las-personas-que-cumplan-este-unico-requisito-como-acceder/",
+     "imagen": "https://www.cronista.com/resizer/v2/OSG72NUTKVDERB4G6WHQIWXA4E.jpg?auth=4e6f221905f26aa389f65b58fc29e2405096410c12c0ba5abe6ad8c55496ab42&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:32",
+     "autor": "Equipo Audiencias Argentina",
+     "titulo_original": "Confirmado por ANSES | Pagan un bono de más de $ 545.000 en noviembre a todas las personas que cumplan este único requisito: cómo acceder"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Proponen devolver el IVA en pagos electrónicos para incentivar el consumo sin sumar déficit",
+     "resumen": "Un tributarista consultado por Ámbito planteó un esquema de devolución del Impuesto al Valor Agregado en operaciones pagadas por medios electrónicos como forma de estimular el consumo sin generar inflación ni mayor déficit fiscal. Para una empresa: un esquema de este tipo podría mover ventas hacia medios de pago trazables y reforzar los controles de facturación.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/opiniones/como-incentivar-el-consumo-generar-inflacion-ni-deficit-fiscal-n6339828",
+     "imagen": "https://media.ambito.com/p/5a53c96deb6801484aaa8937607b8aa9/adjuntos/239/imagenes/042/960/0042960286/supermercados-consumo-gondolas-precios-inflacion.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Cómo incentivar el consumo sin generar inflación ni déficit fiscal"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "El Gobierno cuestionó los cobros de los colegios profesionales a la matrícula",
+     "resumen": "El ministro de Salud, Mario Lugones, llamó \"gerentes de la matrícula\" a los colegios profesionales y sostuvo que nadie debería pagar para poder trabajar, al tiempo que instó a las provincias a replicar el camino adoptado por Nación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/468004-el-gobierno-cuestiono-los-cobros-de-colegios-profesionales-los-gerentes-de-la-matricula",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/png/2024/04/571289.png",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "21:01",
+     "autor": "",
+     "titulo_original": "El Gobierno cuestionó los cobros de colegios profesionales: \"Los gerentes de la matrícula\""
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "Suben en noviembre colectivos, prepagas, alquileres, peajes y tarifas de luz y gas",
+     "resumen": "Desde el primer día del mes habrá incrementos en varios gastos fijos de los hogares, la mayoría por encima del 1,7% de inflación registrado en septiembre, según Clarín. Para una empresa: la suba simultánea de servicios y transporte presiona sobre el poder de compra y puede frenar el consumo de bienes durables, entre ellos materiales de construcción.",
+     "relacionadas": [
+      {
+       "id": "LN-26",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Aumenta el transporte público: cómo queda el boleto de colectivos y subte a partir del 1° de noviembre",
+       "url": "https://www.lanacion.com.ar/economia/aumenta-el-transporte-publico-como-queda-el-boleto-de-colectivos-y-subte-a-partir-del-1-de-noviembre-nid31102026/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Aumentan el subte, los colectivos y los peajes en el AMBA: cuánto costarán desde este domingo",
+       "url": "https://www.ambito.com/informacion-general/aumentan-el-subte-los-colectivos-y-los-peajes-el-amba-cuanto-costaran-este-domingo-n6340173"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/aumentos-vienen-noviembre-suben-colectivos-prepagas-alquileres-peajes-tarifas-luz-gas_0_dloOD89Cnf.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/DXxy6yezs_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los aumentos que se vienen en noviembre: suben colectivos, prepagas, alquileres, peajes y tarifas de luz y gas"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "El boleto de colectivos porteños sube a $ 956,38 y el subte a $ 1.887,86",
+     "resumen": "El Gobierno porteño aplicó desde este domingo un incremento de 3,9% en colectivos, subte y peajes de autopistas, en el marco del esquema de actualización mensual atado a la inflación del Indec; las líneas bonaerenses tendrán una suba similar, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/aumenta-el-transporte-publico-como-queda-el-boleto-de-colectivos-y-subte-a-partir-del-1-de-noviembre-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UQS7LWTSWBDJFDE36ULPKGELZM.JPG?auth=0b1ac0fc1f7496253e89b9e6f5f3ff43d58a93ec2684f27fbe02585df9630a7a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:09",
+     "autor": "",
+     "titulo_original": "Aumenta el transporte público: cómo queda el boleto de colectivos y subte a partir del 1° de noviembre"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Un estudio de la UBA ordenó los mejores y peores municipios del Conurbano para vivir",
+     "resumen": "Un informe de la Facultad de Ciencias Económicas de la UBA clasificó a los 31 distritos del AMBA de mejor a peor según distintos criterios de calidad de vida, de acuerdo con iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468006-estos-son-los-mejores-tres-municipios-del-conurbano-para-vivir-segun-estudio-de-la-uba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596550.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "00:13",
+     "autor": "",
+     "titulo_original": "Estos son los mejores tres municipios del Conurbano para vivir según estudio de la UBA"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "Cuánto cuesta abrir una franquicia low cost de artículos de limpieza y perfumería",
+     "resumen": "La cadena Agranel ofrece franquicias de bajo costo de productos de limpieza y perfumería; iProfesional detalla cuánto implica la inversión inicial y cuánto estima facturar cada local para sumar ventas a comercios ya instalados.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/467706-cuanto-cuesta-una-franquicia-low-cost-de-articulos-de-limpieza-y-perfumeria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628598.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:30",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta una franquicia low cost de artículos de limpieza y perfumería"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-04",
+     "titulo": "Bajan a 31 los heridos internados tras el choque de trenes en Urda, España",
+     "resumen": "Treinta y una personas continúan hospitalizadas en cuatro centros de Castilla-La Mancha tras el accidente ferroviario de Urda, Toledo, trece de ellas en terapia intensiva; la cifra de fallecidos se mantiene estable en 69 desde hace 48 horas y ya recibieron el alta 79 de los heridos atendidos, según Infobae.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"Tu entusiasmo andaluz para mi austera alma castellana\": la conmovedora despedida a una exministra que murió en el choque de trenes",
+       "url": "https://www.clarin.com/mundo/entusiasmo-andaluz-austera-alma-castellana-conmovedora-despedida-exvicepresidenta-soraya-saenz-santamaria-amiga-murio-choque-trenes-espana_0_zDUpkUrwqw.html"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/2026/11/01/accidente-ferroviario-de-urda-bajan-a-31-los-heridos-hospitalizados-mientras-se-mantiene-en-69-la-cifra-de-fallecidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/I7KS3YGFDJF73EEXSK77K3XWRM.jpg?auth=5a90170710b652c39092a84d8ec7be11da76b7b2d26e511584562b27072f2a18&smart=true&width=900&height=675",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:01",
+     "autor": "Andrea de Lucas",
+     "titulo_original": "Accidente ferroviario en Urda, Toledo: bajan a 31 los heridos hospitalizados mientras se mantiene en 69 la cifra de fallecidos"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "El juez Alexandre de Moraes, en el centro de la tensión política en Brasil tras la fuga de Flavio Bolsonaro",
+     "resumen": "Siete minutos después de confirmarse la reelección de Lula da Silva, la Policía Federal pidió retener los pasaportes de Flavio Bolsonaro y el juez Alexandre de Moraes lo ordenó esa misma noche; la medida no impidió la fuga del hijo del expresidente, que cruzó a la Argentina y voló a Miami, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/de-verdugo-de-los-bolsonaro-a-dolor-de-cabeza-para-lula-el-juez-que-sacude-la-politica-brasilena-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BYKMBZLLDNEGPMTBZZTQLI7DLU.JPG?auth=04b5ff14d205bfeccf48932f93afd585667ea76d803621c0344a44842952dde3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:54",
+     "autor": "Marcelo Silva de Sousa",
+     "titulo_original": "De verdugo de los Bolsonaro a dolor de cabeza para Lula: el juez que sacude la política brasileña"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Erdogan cuestionó a Rusia por los ataques a buques civiles en el Mar Negro",
+     "resumen": "Tras reunirse con Volodimir Zelensky en Estambul, el presidente turco Recep Tayyip Erdogan calificó de inaceptables los ataques contra buques civiles en el Mar Negro y pidió a Rusia y Ucrania evitar una escalada, al considerar que un acuerdo en ese punto daría impulso a la búsqueda de una paz duradera en Ucrania.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/01/erdogan-critico-a-rusia-por-los-ataques-contra-buques-civiles-en-el-mar-negro-tras-su-reunion-con-zelensky/",
+     "imagen": "https://www.infobae.com/resizer/v2/I7I4YZIRYZEG5OS3L3WOWSB3G4.JPG?auth=e4a4c5c7e09a45e5fc5fd2c499e274031d8ca3504f1c3caea8308b536ba65ef0&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:04",
+     "autor": "",
+     "titulo_original": "Erdogan criticó a Rusia por los ataques contra buques civiles en el Mar Negro tras su reunión con Zelensky"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Corea del Norte probó bombas de racimo acopladas a misiles balísticos",
+     "resumen": "El régimen de Kim Jong-un realizó un ensayo con ojivas de dispersión que, según sus institutos de misiles, pueden \"reducir a cenizas\" un área de 12 a 13 hectáreas; Pyongyang anunció que sus unidades contarán con varios tipos de estas ojivas antes de fin de año, de acuerdo con la agencia estatal KCNA.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/01/en-un-nuevo-ejercicio-militar-el-regimen-de-kim-jong-un-lanzo-bombas-de-racimo-acopladas-en-misiles-balisticos/",
+     "imagen": "https://www.infobae.com/resizer/v2/M4XV662AVZGR7AFEHSQTDIPJA4.jpg?auth=4a7eb23e215c54dcb9bd7aaf958b5810bb7c5777b7415305a95408c293227543&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:56",
+     "autor": "",
+     "titulo_original": "En un nuevo ejercicio militar, el régimen de Kim Jong-un lanzó bombas de racimo acopladas en misiles balísticos"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Quiénes son los hackers norcoreanos señalados por el robo a Binance",
+     "resumen": "Las autoridades de Estados Unidos atribuyeron al grupo TraderTraitor, vinculado a Corea del Norte, el robo de más de US$ 6.000 millones a Binance el 29 de octubre, el mayor de la historia de las criptomonedas. Según organismos internacionales citados por Infobae, los fondos obtenidos por esta rama de Lazarus Group podrían financiar el programa de armas de Pyongyang.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Hackeo en Binance: tres claves que deben tener en cuenta los usuarios argentinos de la plataforma cripto",
+       "url": "https://www.infobae.com/economia/2026/11/01/hackeo-en-binance-tres-claves-que-deben-tener-en-cuenta-los-usuarios-argentinos-de-la-plataforma-cripto/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/11/01/quienes-son-los-hackers-norcoreanos-de-tradertraitor-acusados-de-orquestar-el-ciberataque-millonario-a-binance/",
+     "imagen": "https://www.infobae.com/resizer/v2/QL7JAQDBONGN5ISAJ7FUUEU2FU.JPG?auth=b2c6c5c52f8028975617846e1a469fa3310b71807e9766f94879380720fcda2f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:56",
+     "autor": "",
+     "titulo_original": "Quiénes son los hackers norcoreanos de TraderTraitor, acusados de orquestar el ciberataque millonario a Binance"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Francia vive su tercer sábado consecutivo de protestas de cara a una semana clave",
+     "resumen": "Francia volvió a manifestarse contra el alto costo de vida con una convocatoria menor a la de la semana previa pero bajo un fuerte despliegue policial, en vísperas de lo que se perfila como una de las semanas más difíciles para el gobierno de Emmanuel Macron, afectado además por una ola de huelgas, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/francia-vive-otra-jornada-de-colera-y-se-prepara-para-su-semana-mas-peligrosa-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IMUXFVCJ6NBWZJMPIRWSREZWQI.JPG?auth=cf3639d3595e6f87789df55f71b98b40ba5e11633bccfcfae7641f3919292d81&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:14",
+     "autor": "Luisa Corradini",
+     "titulo_original": "Francia vive otra jornada de cólera y se prepara para su semana más peligrosa"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Esta corrida trajo una sola nota del feed de Le Grand Continent.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent: Francia se queda atrás del crecimiento europeo",
+     "resumen": "La revista señala que Francia es el único país de la zona euro cuyo PBI cae en el tercer trimestre de 2026 frente a igual período de 2025, mientras el resto de la Unión Europea resiste mejor la crisis derivada de la guerra con Irán. El análisis atribuye la caída al encarecimiento de los combustibles por el conflicto, el impacto de las olas de calor en turismo y agricultura, y la incertidumbre de la crisis política interna francesa.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/01/crecimiento-economico-francia-se-queda-atras/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Crecimiento económico: Francia se queda atrás"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-05",
+     "titulo": "Boca y River juegan el Superclásico esta tarde en la Bombonera",
+     "resumen": "El equipo de Fernando Arruabarrena necesita ganar para recuperar la punta del Torneo Clausura, mientras que el de Leonardo Ponzio no puede descuidar la clasificación a la Copa Libertadores 2027. El partido se juega desde las 15 en la Bombonera, según Clarín.",
+     "relacionadas": [
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Quién es Lucas Silva, el pibe de un pueblo de 2.000 habitantes al que apostaría Leo Ponzio en River Plate para jugar el Superclásico",
+       "url": "https://www.infobae.com/deportes/2026/11/01/quien-es-lucas-silva-el-pibe-de-un-pueblo-de-2000-habitantes-al-que-apostaria-leo-ponzio-en-river-plate-para-jugar-el-superclasico/"
+      },
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Las cinco virtudes de Arruabarrena que llevaron a Boca Juniors a pelear en todos los frentes",
+       "url": "https://www.infobae.com/deportes/2026/11/01/las-cinco-virtudes-de-arruabarrena-que-llevaron-a-boca-juniors-a-pelear-en-todos-los-frentes/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/boca-vs-river-vivo-hora-juegan-ver-superclasico-torneo-clausura_0_SaDE0nmOmH.html",
+     "imagen": "https://www.clarin.com/img/2025/11/09/eDMiOcC8y_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca vs. River, EN VIVO: a qué hora juegan y cómo ver el Superclásico por el Torneo Clausura"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Franco Colapinto largará 11° en México tras la sanción a Liam Lawson",
+     "resumen": "Colapinto quedó eliminado en la Q2 y clasificó 12° para el Gran Premio de México, pero largará desde el puesto 11 tras la descalificación de Liam Lawson, sancionado por la FIA por una infracción técnica en el MGU-K de su Racing Bulls, según Clarín y Ámbito. La sanción a Lawson beneficia además a los Alpine de Pierre Gasly y Colapinto en la pelea por el quinto puesto del Campeonato de Constructores; la carrera se corre este domingo a las 17 y Kimi Antonelli está a un paso de ser campeón.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto clasificó 12° en el GP de México y buscará volver a sumar puntos",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-afronta-la-ultima-practica-libre-y-la-clasificacion-del-gp-mexico-f1-horario-como-y-donde-ver-vivo-n6340069"
+      },
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Liam Lawson, descalificado de la qualy del GP de México: qué dice la sanción y por qué beneficia a los Alpine de Gasly y Colapinto",
+       "url": "https://www.clarin.com/deportes/liam-lawson-descalificado-clasificacion-gp-mexico-largara-ultimo-sancion-beneficia-alpine-gasly-colapinto_0_gbg6xzGd2w.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/f1-gp-mexico-franco-colapinto-vivo-horario-carrera-ver-formula-1-hoy_0_AkdHg6ugOP.html",
+     "imagen": "https://www.clarin.com/img/2026/11/01/uJzpm0mee_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de México con Franco Colapinto, EN VIVO: horario de la carrera y cómo ver la Fórmula 1 hoy"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Bayern Múnich homenajeó a Harry Kane por su Balón de Oro, pero Dortmund igualó sobre la hora",
+     "resumen": "El club bávaro distinguió al delantero inglés antes del partido por su Balón de Oro, pero Kane erró un penal y Borussia Dortmund empató sobre la hora en la Bundesliga, impidiendo que el Bayern fuera líder en solitario, según La Nación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/bayern-munich-homenajeo-a-harry-kane-por-su-balon-de-oro-pero-erro-un-penal-y-borussia-dortmund-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BFHEUEJBCZCRFMUG7L5XLXHJNU.jpg?auth=8d2ce03aa732fcb6972f8e112b801a4d45dda09656b080b2c2019a228d66ec44&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:02",
+     "autor": "",
+     "titulo_original": "Bayern Múnich homenajeó a Harry Kane por su Balón de Oro, pero erró un penal y Borussia Dortmund igualó sobre la hora"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "Se confirmaron los horarios de las finales de la Libertadores y la Sudamericana",
+     "resumen": "Boca Juniors enfrentará a Atlético Mineiro el 21 de noviembre en Barranquilla por la final de la Copa Libertadores, mientras que Estudiantes se medirá con Palmeiras una semana después en Montevideo por la Sudamericana, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/se-confirmaron-los-horarios-las-finales-la-libertadores-y-la-sudamericana-n6340133",
+     "imagen": "https://media.ambito.com/p/87b3bb0536b9ed22f106ed0da5c53a95/adjuntos/239/imagenes/043/741/0043741617/1200x675/smart/libertadores-sudamericana-finales.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:58",
+     "autor": "",
+     "titulo_original": "Se confirmaron los horarios de las finales de la Libertadores y la Sudamericana"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "San Lorenzo amargó a Vélez con un empate que acomoda la tabla anual",
+     "resumen": "El Fortín ganaba 2 a 0 pero terminó igualando 2-2 con el Ciclón en Liniers y quedó a tres puntos de Rosario Central en la tabla anual; Estudiantes perdía 3-0 con un jugador menos pero empató con Instituto, que buscaba meterse en zona de Libertadores 2027, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/quedo-tabla-anual-liga-profesional-san-lorenzo-empato-velez-sirve-incluido-river_0_T6NDTC67Zm.html",
+     "imagen": "https://www.clarin.com/img/2026/11/01/Ry3t9meSw_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Así quedó la tabla anual de la Liga Profesional: San Lorenzo amargó a Vélez y el empate les sirve a todos, incluido River"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Godoy Cruz venció a Almirante Brown y definirá el ascenso ante Tristán Suárez",
+     "resumen": "El Tomba ganó 2-1 sobre la hora y dejó a Ferro sin la final, mientras que Tristán Suárez (el Lechero) ganó la Zona B y buscará el ascenso a Primera, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/godoy-cruz-gano-la-hora-dejo-ferro-final-y-definira-el-ascenso-tristan-suarez-n6340143",
+     "imagen": "https://media.ambito.com/p/a3baf06ebb7c9e7ce2a3550776236ef3/adjuntos/239/imagenes/043/741/0043741694/1200x675/smart/godoy-cruz-.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:40",
+     "autor": "",
+     "titulo_original": "Godoy Cruz ganó sobre la hora, dejó a Ferro sin final y definirá el ascenso ante Tristán Suárez"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "Marc Márquez ganó en Malasia y quedó más cerca del título de MotoGP",
+     "resumen": "El español sumó su séptima victoria de la temporada y es más líder del campeonato, aunque aclaró que todavía ve lejos la \"bola de partido\" para consagrarse, con pocas carreras restantes, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/agencias/2026/11/01/marc-marquez-muy-contento-con-la-victoria-pero-no-ve-la-bola-de-partido/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Marc Márquez, \"muy contento\" con la victoria, pero no ve la \"bola de partido\""
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-17",
+     "titulo": "Bariloche se reinventa como capital de la cerveza artesanal",
+     "resumen": "La cerveza artesanal se convirtió en un producto distintivo de la ciudad patagónica y en un motor turístico, con un instituto del Conicet que investiga levaduras para nuevas variedades, según Clarín. De los pioneros que empezaron a elaborarla por el aislamiento a los platos gourmet que hoy acompañan la experiencia, la ciudad redefine su perfil gastronómico.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/viaje-kilometro-cero-cerveza-ciencia-aventura-gastronomia-redefinen-perfil-bariloche_0_Ezv9VcZKI5.html",
+     "imagen": "https://www.clarin.com/img/2022/02/28/eRLZqn252_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Viaje al kilómetro cero de la cerveza: ciencia, aventura y gastronomía redefinen el perfil de Bariloche"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Aruba se posiciona como nueva meca gastronómica del Caribe",
+     "resumen": "La isla, fuera de la franja de huracanes y sin sargazo, apuesta al turismo gastronómico con su Festival Culinario Auténtico Aruba, degustaciones y salidas de snorkel, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/playas-aruba-isla-feliz-posiciona-nueva-meca-gastronomica-caribe_0_gbMniRiu7H.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/sCsEircWI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Mucho más que playas: Aruba, \"la isla feliz\" que se posiciona como nueva meca gastronómica del Caribe"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-17",
+     "titulo": "Un temporal de viento y granizo dejó daños en Río Negro y Córdoba",
+     "resumen": "Las tormentas de este sábado provocaron árboles caídos, techos volados y el derrumbe de un paredón en una cancha de tenis en Choele Choel, además de una persona herida por la caída de un árbol; también hubo pérdidas en la producción frutícola y alertas activas para este domingo en gran parte del país, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/01/destrozos-heridos-y-granizo-asi-quedaron-rio-negro-y-cordoba-tras-el-paso-de-un-temporal/",
+     "imagen": "https://www.infobae.com/resizer/v2/UK2JK5ICI5DPXHJ7VDM6S5CPNI.jpg?auth=6b317853fe8702ec64bc3b672a252a563a2bc127dc4e31f698d7d4a6875fbc5f&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:00",
+     "autor": "",
+     "titulo_original": "Destrozos, heridos y granizo: así quedaron Río Negro y Córdoba tras el paso de un temporal"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "El Niño prolongará sus efectos más de lo previsto, según distintos modelos climáticos",
+     "resumen": "De acuerdo a Clarín, varios modelos climáticos indican que el impacto del fenómeno El Niño podría extenderse más de lo estimado inicialmente, con consecuencias diferenciadas según la región del país.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/impacto-super-nino-efecto-prolongado-pico-fenomeno-duraran-consecuencias_0_NopET8xSBw.html",
+     "imagen": "https://www.clarin.com/img/2026/10/24/-tnX3NwQf_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El impacto del Súper Niño: el efecto \"prolongado\" del pico del fenómeno y hasta cuando durarán las consecuencias"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del domingo primero de noviembre. El panorama de esta edición está marcado por el clima electoral en la previa de la visita del papa León Catorce a la Argentina, un mes de octubre duro para los mercados locales, el Superclásico entre Boca y River esta tarde y la carrera de Franco Colapinto en el Gran Premio de México. En el fondo, las elecciones de medio término en Estados Unidos del martes y la salida de Flavio Bolsonaro de Brasil hacia Miami siguen moviendo la política regional. En cuanto a los números del día, el dólar oficial cerró en mil quinientos sesenta pesos y el dólar blue en mil quinientos sesenta y cinco pesos. El oro cotiza cerca de tres mil ochocientos noventa y nueve dólares la onza. El riesgo país terminó octubre en setecientos ochenta y siete puntos, su nivel más alto del año, y la inflación de septiembre fue de uno coma nueve por ciento mensual y treinta y tres coma cuatro por ciento interanual. En política, Javier Milei inauguró un templo evangélico en Neuquén, conducido por el pastor Hugo Márquez, padre de la senadora libertaria Nadia Márquez, y volvió a cargar contra la política tradicional a ocho días de la llegada del Papa. El presidente dijo que su gobierno no va a responder al populismo con nuevas promesas de corto plazo sino con equilibrio fiscal. Mientras tanto, tras la derrota y la fuga de Flavio Bolsonaro a Miami, Milei quedó, según un politólogo brasileño citado por La Nación, entre los grandes derrotados externos de esa elección, aunque conserva como aliados a gobernadores opositores a Lula da Silva. Clarín reconstruyó además la noche en que Estados Unidos ayudó a organizar esa fuga y el rol que tuvieron Santiago Caputo y la SIDE. En el plano electoral, nuevas encuestas en la ciudad de Buenos Aires, Santa Fe y Mendoza midieron el escenario rumbo a dos mil veintisiete, y en la provincia de Buenos Aires la oposición ya discute su estrategia de cara a esa carrera. También el presidente le pidió celeridad a su gabinete para destrabar proyectos en el Senado, y la Justicia recordó que desde dos mil veintidós el Consejo de la Magistratura destituyó a cuatro jueces federales. En economía y mercados, octubre cerró con el riesgo país en setecientos ochenta y siete puntos, una suba de ciento ochenta puntos en el mes, y con el índice bursátil Merval retrocediendo casi cinco por ciento en pesos y cerca de ocho por ciento en dólares, según El Cronista. El economista Domingo Cavallo volvió a cruzar a Milei y pidió que el Banco Central compre al menos quince mil millones de dólares de reservas en los próximos doce meses. El Banco Mundial proyecta que los precios de los commodities subirán veintitrés por ciento este año, lo que le dio a la Argentina un respiro de dólares que podría no repetirse en dos mil veintisiete. La actividad económica, medida por el índice de Orlando Ferreres, cayó cero coma ocho por ciento interanual en septiembre, con el agro, la construcción y la industria entre los sectores más golpeados. En la City advierten además que el Gobierno tendría menos dólares disponibles de los que dice para frenar una eventual corrida, y en septiembre la compra de dólares de los argentinos fue la segunda más alta del año. En negocios y empresas, las automotrices chinas siguen apostando fuerte al país: Omoda y Jaecoo, del grupo Chery, evalúan comprar una planta existente o construir una nueva, y BYD, que ya entró al top diez de ventas locales, busca convertirse rápido en la marca número uno del mercado. Clarín recuerda que la infraestructura sigue siendo un freno, con menos de cuatrocientos puntos de carga pública para un parque de treinta mil autos eléctricos. Y Binance confirmó el robo de más de seis mil trescientos millones de dólares en criptomonedas, el mayor de la historia del sector, atribuido por el FBI a un grupo de hackers vinculado a Corea del Norte. En impuestos y normativa, la ANSES pagará en noviembre quinientos cincuenta y seis mil doscientos diecisiete pesos por la Asignación de Pago Único por Adopción, con un aumento de uno coma noventa y tres por ciento. El Gobierno además cuestionó los cobros de los colegios profesionales a la matrícula, calificándolos de gerentes de la matrícula, e instó a las provincias a seguir el camino de la Nación. Y un tributarista propuso devolver el Impuesto al Valor Agregado en pagos electrónicos para estimular el consumo sin sumar déficit. En consumo y construcción, desde hoy suben los colectivos, el subte, los peajes, las prepagas, los alquileres y las tarifas de luz y gas, la mayoría por encima del uno coma siete por ciento de inflación de septiembre. El boleto mínimo de colectivo en la ciudad de Buenos Aires pasa a novecientos cincuenta y seis pesos con treinta y ocho centavos y el subte a mil ochocientos ochenta y siete pesos con ochenta y seis centavos. Un estudio de la Universidad de Buenos Aires ordenó, además, los mejores y peores municipios del conurbano para vivir, y en el rubro de las franquicias se destaca una cadena de artículos de limpieza y perfumería de bajo costo. En el mundo, en España se mantiene en sesenta y nueve la cifra de fallecidos por el choque de trenes en Urda, Toledo, aunque bajó a treinta y uno la cantidad de heridos todavía internados. En Brasil, el juez Alexandre de Moraes quedó en el centro de la escena después de que su orden de retener los pasaportes de Flavio Bolsonaro no impidiera la fuga del hijo del expresidente. El presidente turco Recep Tayyip Erdogan cuestionó a Rusia por los ataques contra buques civiles en el Mar Negro tras reunirse con Volodimir Zelensky, y Corea del Norte probó bombas de racimo acopladas a misiles balísticos, en momentos en que crece la preocupación internacional por el rol de hackers norcoreanos en el robo a Binance. En Francia, miles de personas volvieron a manifestarse por tercer sábado consecutivo contra el costo de vida, en la previa de lo que se perfila como una semana muy difícil para el gobierno de Emmanuel Macron. Le Grand Continent analiza que Francia es el único país de la zona euro cuyo producto bruto cae en el tercer trimestre de este año, afectado por el encarecimiento de los combustibles por la guerra con Irán, el impacto de las olas de calor en el turismo y la agricultura, y la crisis política interna. En deportes, Boca y River juegan esta tarde el Superclásico en la Bombonera, con el equipo de Arruabarrena necesitando ganar para recuperar la punta y el de Ponzio cuidando la clasificación a la Copa Libertadores de dos mil veintisiete. Franco Colapinto clasificó duodécimo para el Gran Premio de México, pero largará desde el puesto once gracias a la descalificación de Liam Lawson, sancionado por la FIA por una infracción técnica; la sanción además beneficia a los Alpine en la pelea por el quinto puesto del campeonato de constructores, y la carrera se corre hoy a las diecisiete horas. En la Bundesliga, el Bayern Múnich homenajeó a Harry Kane por su Balón de Oro, pero erró un penal y el Borussia Dortmund empató sobre la hora. Ya se confirmaron además los horarios de las finales continentales: Boca enfrentará a Atlético Mineiro el veintiuno de noviembre en Barranquilla por la Libertadores, y Estudiantes se medirá con Palmeiras una semana después en Montevideo por la Sudamericana. En el campeonato local, San Lorenzo igualó dos a dos con Vélez tras ir ganando dos a cero, y Godoy Cruz venció a Almirante Brown y definirá el ascenso ante Tristán Suárez. En moto GP, el español Marc Márquez ganó en Malasia y se acerca más al título. Para cerrar, en turismo, Bariloche se reinventa como un polo de cerveza artesanal, con un instituto del Conicet que investiga nuevas levaduras, mientras que en el Caribe, Aruba se posiciona como una nueva meca gastronómica con su festival culinario. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "El feed de Le Grand Continent trajo una sola nota en esta corrida, por lo que la sección Europa y geopolítica quedó con una única noticia. No hubo material específico de materiales de construcción en esta edición; se priorizó lo más cercano (retail, franquicias, transporte) en la sección de consumo y construcción. No se registraron novedades sobre Franco Colapinto en Fórmula 1 más allá de la clasificación y la sanción a Lawson, ni ninguna noticia sobre Club Atlético Tigre en esta corrida.",
+ "slug": "2026-11-01-manana",
+ "generado_ba": "01/11/2026 10:14"
+}
