@@ -1,0 +1,794 @@
+{
+ "fecha": "2026-11-01",
+ "edicion": "mediodia",
+ "titulo": "El Congreso debate reformas clave mientras crece la pobreza y Argentina vive el Superclásico",
+ "apertura": "El Gobierno buscó avanzar en el Congreso con la reforma del Banco Central y el proyecto sobre Malvinas, mientras un informe de la Universidad Di Tella mostró que la pobreza volvió a crecer y ya alcanza a uno de cada tres argentinos. Washington y Teherán escalaron el cruce verbal por la crisis con Irán, en Europa hubo nuevos incidentes en las protestas de Francia y Alemania, y en Buenos Aires la tarde quedó para el Superclásico entre Boca y River con amenaza de lluvia, mientras Franco Colapinto corre a las cinco de la tarde el Gran Premio de México.",
+ "claves": [
+  "El oficialismo impulsa en el Congreso la reforma de la Carta Orgánica del Banco Central, el proyecto sobre Malvinas y la eliminación de las PASO antes de fin de año.",
+  "Un relevamiento de la Universidad Di Tella mostró que la pobreza volvió a crecer en la Argentina y ya afecta a uno de cada tres habitantes.",
+  "Según una encuesta citada por iProfesional, la aprobación de Milei subió a 36,2%, aunque el 55,5% rechaza su gestión y crecen las preocupaciones por salarios y empleo.",
+  "Un pedido protocolar de Milei para recibir al papa León XIV generó tensión con el Vaticano a una semana de su llegada a la Argentina.",
+  "Stellantis frenó sus plantas de Córdoba y El Palomar por la caída de la demanda, en medio de un plan global de ajuste de la automotriz.",
+  "Boca y River juegan el Superclásico esta tarde a las 15 en la Bombonera, con riesgo de lluvia según el Servicio Meteorológico Nacional.",
+  "Franco Colapinto larga 11° y corre a las 17 el Gran Premio de México; la Fórmula 1 avisó que todos los autos serán \"atacantes y defensores\" en las primeras curvas.",
+  "Estados Unidos acusó a un grupo norcoreano de quedarse con los US$ 6.300 millones robados a Binance; la plataforma ya reabrió los retiros con 95% de los fondos cubiertos."
+ ],
+ "cifras": [
+  {
+   "nombre": "Pobreza (Universidad Di Tella)",
+   "valor": "alcanza a 1 de cada 3 habitantes",
+   "fuente": "IP-02"
+  },
+  {
+   "nombre": "Aportes fiscales de monotributistas vs. asalariados formales",
+   "valor": "casi 10 veces menores",
+   "fuente": "CR-12"
+  },
+  {
+   "nombre": "Aumento salarial UOCRA (construcción, noviembre)",
+   "valor": "+1,7% sobre los básicos de octubre",
+   "fuente": "AM-16"
+  },
+  {
+   "nombre": "Inversión inmobiliaria en Canning (zona sur del GBA)",
+   "valor": "US$ 230 millones",
+   "fuente": "CR-11"
+  },
+  {
+   "nombre": "Alquileres turísticos en Luján por la visita del Papa",
+   "valor": "hasta US$ 6.000 por noche",
+   "variacion": "búsquedas +1.803%",
+   "fuente": "AM-13"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "Arranca un mes clave para el Gobierno en el Congreso",
+     "resumen": "La Libertad Avanza insistirá en Diputados con la reforma de la Carta Orgánica del Banco Central y buscará darle impulso al proyecto sobre Malvinas, según Clarín. En paralelo continúan las negociaciones para eliminar las PASO y para avanzar con el Presupuesto 2027.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/javier-milei-vivo-arranca-mes-clave-gobierno-congreso-debate-banco-central-defensa-soberania_0_ciI5DpdxfR.html",
+     "imagen": "https://www.clarin.com/img/2026/10/25/5iNGnjs8k_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei, EN VIVO: arranca un mes clave para el Gobierno en el Congreso con los debate sobre el Banco Central y soberanía"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "La Casa Rosada y el Vaticano protagonizan un tironeo protocolar por la llegada del Papa",
+     "resumen": "A una semana de la llegada de León XIV a la Argentina, un pedido formal de Javier Milei para saludarlo dentro del avión y bajar junto a él por la escalerilla generó fricciones con el protocolo vaticano, según Infobae. La primera escala del Papa será en Uruguay antes de aterrizar en Aeroparque.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/01/el-extrano-pedido-de-milei-que-incomodo-al-vaticano-y-la-decision-politica-de-leon-xiv-que-descoloco-a-la-casa-rosada/",
+     "imagen": "https://www.infobae.com/resizer/v2/UXD3QR4KZFHWDIYABRWFE73OEU.jpg?auth=72638c26791c034e887d067c6906e73417655fbd6449251b6b25cb9fdfbe8f6a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "08:29",
+     "autor": "Román Lejtman",
+     "titulo_original": "El extraño pedido de Milei que incomodó al Vaticano y la decisión política de León XIV que descolocó a la Casa Rosada"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "A un año de las elecciones de 2027, varias consultoras miden el escenario político",
+     "resumen": "Distintas encuestadoras relevaron imagen, intención de voto y escenarios de balotaje de cara a 2027, identificando a los candidatos más competitivos y a los de peor imagen, según Ámbito. Los sondeos coinciden en que los salarios, el empleo y la incertidumbre económica son las principales preocupaciones de los argentinos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/a-un-ano-las-elecciones-2027-quien-lidera-las-encuestas-el-candidato-mas-potencial-y-que-temas-preocupan-los-argentinos-n6340220",
+     "imagen": "https://media.ambito.com/p/c2ed617b4ece15f74f0cdef3d5cd26e4/adjuntos/239/imagenes/043/628/0043628716/milei-cristina-bullrich-kicillof.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:51",
+     "autor": "",
+     "titulo_original": "A un año de las elecciones 2027: quién lidera las encuestas, el candidato con más potencial y qué temas preocupan a los argentinos"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Milei se prepara para la visita del Papa con presión de Villarruel y oposición en guardia",
+     "resumen": "El Gobierno planea marcar presencia en cada actividad de la agenda de León XIV en la Argentina, mientras la vicepresidenta Victoria Villarruel genera un primer foco de tensión interna, según iProfesional. El peronismo se mantiene atento al impacto político que pueda tener el mensaje del Papa.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/467993-como-se-preparan-milei-villarruel-y-la-oposicion-para-la-visita-del-papa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/597557.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:17",
+     "autor": "",
+     "titulo_original": "Milei se prepara para la visita del Papa, con presión de Villarruel y oposición en guardia"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "La mayoría de los argentinos no espera cambios en el clima social por la visita del Papa",
+     "resumen": "Un relevamiento de Management & Fit, citado por Ámbito, midió las expectativas de la sociedad a poco más de una semana de la llegada de León XIV. El 42,4% de los consultados tiene una imagen positiva del Pontífice.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/la-mayoria-los-argentinos-no-espera-cambios-el-clima-social-la-visita-del-papa-n6339799",
+     "imagen": "https://media.ambito.com/p/73c09090bbd6aec0eac8edbbdaf53f27/adjuntos/239/imagenes/043/657/0043657094/1200x675/528x300:548x320/papa-leon-xiv.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:11",
+     "autor": "",
+     "titulo_original": "La mayoría de los argentinos no espera cambios en el clima social por la visita del Papa"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "La última vez que un Papa visitó la Argentina fue en 1987, con Juan Pablo II",
+     "resumen": "León XIV llegará el 8 de noviembre y recorrerá Buenos Aires, Córdoba y Luján, según Ámbito. La única visita papal previa a la Argentina ocurrió en 1987, cuando Juan Pablo II se reunió con Raúl Alfonsín y encabezó una misa frente a un millón de fieles en la avenida 9 de Julio.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/cuando-fue-la-ultima-visita-un-papa-la-argentina-un-viaje-10-ciudades-y-una-misa-frente-1-millon-fieles-n6307250",
+     "imagen": "https://media.ambito.com/p/ba9fae91b6f6ed6ef8fa6b0f1013cdcf/adjuntos/239/imagenes/043/563/0043563508/visita-la-argentina-juan-pablo-ii.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:18",
+     "autor": "",
+     "titulo_original": "Cuándo fue la última visita de un Papa a la Argentina: un viaje por 10 ciudades y una misa frente a 1 millón de fieles"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "Mauricio Macri reapareció en público en una gala benéfica en el Hipódromo de Palermo",
+     "resumen": "El expresidente asistió a un evento de la ONG Hacemos, que preside María Eugenia Vidal, en medio de un clima de tensión política con otros referentes del PRO, según El Cronista. Antes de su llegada también estuvo presente el jefe de Gobierno porteño, Jorge Macri.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/ovacion-para-un-ex-yeguas-indomables-y-un-inesperado-amante-del-rugby/",
+     "imagen": "https://www.cronista.com/resizer/v2/JGZBI4A3D5BTPNBYMLMX6ZSV5U.jpeg?auth=03c8b97817e997b97d91e2db3685168fbcbe87c0ad8f9cd85e5618d268afdb70&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:27",
+     "autor": "Nicolás Gallardo",
+     "titulo_original": "Ovación para un ex, yeguas indomables y un inesperado amante del rugby"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "La pobreza volvió a crecer en la Argentina y ya alcanza a uno de cada tres habitantes",
+     "resumen": "Un informe de la Universidad Di Tella mostró un fuerte golpe en los hogares por la pérdida de ingresos y el aumento del costo de vida durante 2026, según iProfesional. Para una empresa: el deterioro del ingreso disponible es una señal de alerta sobre la capacidad de consumo de los hogares de menores recursos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/468024-la-pobreza-volvio-a-subir-en-argentina-y-ya-afecta-a-casi-10-millones-de-personas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623131.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:26",
+     "autor": "",
+     "titulo_original": "Alerta por la pobreza en Argentina: volvió a crecer y ya alcanza a uno de cada tres habitantes"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "Se enciende el debate sobre el cepo y amenaza con reavivar la discusión por la dolarización",
+     "resumen": "El Gobierno recibe críticas desde dos frentes opuestos: quienes piden volver a endurecer los controles cambiarios y quienes reclaman eliminar las restricciones vigentes para las empresas, según iProfesional. La discusión se da en la previa electoral, con riesgo de ganar protagonismo en la campaña.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/467859-debate-sobre-el-cepo-acelera-la-dolarizacion-preelectoral",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605407.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Se enciende el debate sobre el cepo y amenaza con fogonear la dolarización preelectoral"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "El Gobierno evalúa destinar más fondos a los bancos para impulsar el crédito hipotecario",
+     "resumen": "El viceministro de Economía, José Luis Daza, dijo que las dos licitaciones del Fondo de Garantía de Sustentabilidad mostraron una fuerte concentración de ofertas en el segmento de mayor plazo, según Infobae. El equipo económico analiza estirar los plazos de colocación y avanzar con nuevas líneas junto con organismos internacionales. Para una empresa: una mayor oferta de crédito hipotecario puede traducirse en más demanda de materiales de construcción.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/01/el-gobierno-analiza-destinar-mas-fondos-a-los-bancos-para-impulsar-el-credito-hipotecario/",
+     "imagen": "https://www.infobae.com/resizer/v2/4TZIMQ3BTBD7RHULEVCJ3LUXZA.jpg?auth=aeea57a5bec65cca7b0830ddbe929f85c13ed0ad26aa0ed3dfcb221e91f2208f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:16",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "El Gobierno analiza destinar más fondos a los bancos para impulsar el crédito hipotecario"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Cuatro informes privados anticipan una nueva caída interanual de la industria en septiembre",
+     "resumen": "Relevamientos de la Unión Industrial Argentina, FIEL y la consultora Ferreres coinciden en marcar un retroceso interanual del sector manufacturero en septiembre, aunque difieren en la variación mensual, según El Cronista. El dato se conoce después de que Milei reconociera que la economía no evolucionó tan positivamente como esperaba el Gobierno.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/industria-cuatro-informes-anticipan-el-dato-de-septiembre-y-que-paso-en-cada-sector/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZIOACS3UCND5NHJE72ZKLUJQXE.jpg?auth=693f23191c5123bf2f2a1cb616318b66da665c4a40d8889990d5238b63dd30b2&smart=true&width=798&height=449",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:28",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "Industria: cuatro informes anticipan el dato de septiembre y qué pasó en cada sector"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "La aprobación de Milei subió a 36,2%, pero crece la preocupación por salarios y empleo",
+     "resumen": "Una encuesta citada por iProfesional mostró que la imagen positiva del presidente mejoró, aunque el 55,5% de los consultados rechaza su gestión. Los salarios, el empleo y la incertidumbre económica encabezan las preocupaciones de los argentinos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/468016-milei-recupera-apoyo-pero-crece-preocupacion-por-salarios-empleo-y-economia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628866.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:32",
+     "autor": "",
+     "titulo_original": "Milei recupera apoyo, pero crece la preocupación por los salarios, el empleo y la economía"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-09",
+     "titulo": "Stellantis frenó sus plantas de Córdoba y El Palomar por la caída de la demanda",
+     "resumen": "La automotriz dueña de Fiat, Peugeot y Jeep detuvo la producción en sus dos plantas argentinas en medio de un plan global de ajuste que puso bajo revisión todas sus fábricas en el mundo, según El Cronista. El \"costo argentino\" complica además la competitividad de la filial local.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-desafio-de-stellantis-en-la-argentina-que-la-advertencia-no-sea-una-profecia/",
+     "imagen": "https://www.cronista.com/resizer/v2/3XHIHWKSKZFHHGW7P6SWIVFHTQ.jpg?auth=9c5f1b4ce78a99cea64377458c88b90261ec58386b03933043e6baef648ada5d&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:00",
+     "autor": "Juan Manuel Compte",
+     "titulo_original": "El desafío de Stellantis en la Argentina: que la advertencia no sea una profecía"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "Martín Varsavsky vendió Gameto y sumó su sexto unicornio",
+     "resumen": "El empresario argentino anunció la venta de su compañía de biotecnología, nacida de una beca en homenaje a su padre, por hasta US$ 1.380 millones, según El Cronista. A lo largo de cuatro décadas, Varsavsky fundó empresas de telecomunicaciones, energía renovable, internet y salud.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/varsavksy-lo-hizo-de-nuevo-de-una-beca-en-harvard-y-un-dolor-familiar-a-la-venta-de-su-sexto-unicornio-por-us-1380-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/R3M4M6F4DBEILJ2ORSWFQDXDXA.png?auth=92695cfb759138f2dcd58e1c40aa3aa8221b969300f7e73e5a0f97993c908185&smart=true&width=900&height=1349",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Varsavksy lo hizo de nuevo: una beca en Harvard, un duelo familiar y la venta de su sexto unicornio"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "Aramco compró el 49% de la tecnológica Humain por US$ 2.600 millones",
+     "resumen": "La mayor petrolera saudita amplió su apuesta en inteligencia artificial con una participación millonaria en la compañía tecnológica, según Ámbito. El acuerdo combina inversiones, infraestructura informática y desarrollo de modelos avanzados de IA.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/del-petroleo-la-inteligencia-artificial-aramco-compra-el-49-la-empresa-tecnologica-humain-n6340201",
+     "imagen": "https://media.ambito.com/p/34ba46edc1d71f58fa45d2ce4d705da8/adjuntos/239/imagenes/043/741/0043741981/1200x675/827x347:847x367/petroleo-energia-inteligencia-artificial-tecnologia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:17",
+     "autor": "",
+     "titulo_original": "Del petróleo a la inteligencia artificial: Aramco compra el 49% de la empresa tecnológica Humain por u$s2.600 millones"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Un ranking mide qué municipios argentinos tienen menos burocracia para abrir un negocio",
+     "resumen": "El Índice FÁCIL Productivo, elaborado por IDESA con financiamiento del BID, evaluó las condiciones para habilitar un comercio en 30 jurisdicciones del país, según El Cronista. El informe encontró brechas marcadas: en algunos municipios buena parte de los trámites se inicia por internet, mientras en otros resulta difícil saber qué papeles se necesitan.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/abrir-un-negocio-en-la-argentina-el-ranking-de-los-municipios-con-menos-burocracia-y-como-quedan-frente-a-america-latina/",
+     "imagen": "https://www.cronista.com/resizer/v2/HUBEZWEP2JGMVN6CJPW2C545VE.jpg?auth=e9ee539f4ccb88399610a1257e733c8e23a15f7499af83b6979eb444f0efa991&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:31",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Abrir un negocio en la Argentina: el ranking de los municipios con menos burocracia y cómo quedan frente a América Latina"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "Binance reanudó los retiros y elevó al 95% la cobertura de los fondos robados",
+     "resumen": "El mayor exchange de criptomonedas del mundo comenzó a normalizar sus operaciones tras el robo de US$ 6.300 millones atribuido por el FBI a un grupo vinculado a Corea del Norte, según El Cronista. El restablecimiento de los retiros se realiza de forma gradual y con controles de seguridad reforzados.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Binance reabrió los retiros tras el millonario hackeo atribuido a Corea del Norte",
+       "url": "https://www.iprofesional.com/criptomonedas/468017-binance-reabrio-retiros-tras-millonario-hackeo-atribuido-a-corea-del-norte"
+      },
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "EEUU acusó a Corea del Norte de quedarse con u$s6.300 millones del hackeo récord a Binance",
+       "url": "https://www.ambito.com/mundo/eeuu-acuso-corea-del-norte-quedarse-us6300-millones-del-hackeo-record-binance-n6340195"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/ciberataque-a-binance-la-plataforma-reanudo-los-retiros-y-elevo-al-95-la-cobertura-de-los-fondos-afectados/",
+     "imagen": "https://www.cronista.com/resizer/v2/AH3QNIR5FNCW7OKINE3ZX4EHHE.jpg?auth=9295bef502ee3a9e3349fb2193bdfc2f846f903d38ca695b97c6ebad2781b830&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:43",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Ciberataque a Binance: la plataforma reanudó los retiros y elevó al 95% la cobertura de los fondos afectados"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "El Baic BJ30 es el único SUV de marca china entre los diez modelos más vendidos del mes",
+     "resumen": "El Ford Territory, fabricado en China pero de marca estadounidense, lidera el ranking de ventas, según iProfesional. Solo un modelo de una automotriz asiática logró meterse entre los diez más vendidos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/468010-cual-es-el-unico-suv-de-marca-china-que-se-metio-entre-los-10-mas-vendidos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/628887.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:44",
+     "autor": "",
+     "titulo_original": "El Baic BJ30 es el único SUV de marca china entre los 10 más vendidos del mes"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-12",
+     "titulo": "El empleo que más crece aporta casi diez veces menos al fisco",
+     "resumen": "Entre el cuarto trimestre de 2023 y el segundo trimestre de 2026 se perdieron 260.000 empleos asalariados privados formales, que en julio cobraban en promedio casi $ 1.860.000, según un estudio del IERAL citado por El Cronista. En el mismo período se sumaron 490.000 cuentapropistas informales, que ganan en promedio $ 700.000 y aportan muchos menos fondos a la seguridad social. Para una empresa: la informalización del empleo erosiona la base de aportes que financia el sistema previsional.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-empleo-que-crece-aporta-menos-que-impacto-tiene-en-el-fisco/",
+     "imagen": "https://www.cronista.com/resizer/v2/EVQ53U4ONNC77MEX6B3KQW3XS4.jpg?auth=7880eec52bf1acd08296e65b0731144effce579829445116d9068168387397c3&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "El empleo que crece aporta menos: qué impacto tiene en el fisco"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Los trabajadores de la construcción cobrarán en noviembre un aumento del 1,7%",
+     "resumen": "La paritaria de UOCRA fijó una suba del 1,7% sobre los básicos de octubre para los empleados del sector, según Ámbito. Para una empresa: el ajuste impacta directamente en el costo de mano de obra de cualquier obra o proyecto en curso.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-la-construccion-noviembre-2026-n6338551",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:19",
+     "autor": "",
+     "titulo_original": "Salarios: cuánto cobrarán los empleados de la construcción en noviembre de 2026"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Los empleados de Comercio cobrarán en noviembre un aumento del 1,9% más una cuota de bono",
+     "resumen": "Los trabajadores mercantiles recibirán además la segunda cuota de un bono extraordinario y continuará el pago de los $ 120.000 acordados en la negociación anterior, según Ámbito. Para una empresa de retail, estos ajustes se trasladan de manera directa a la masa salarial del mes.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/cuanto-cobraran-los-empleados-comercio-noviembre-2026-n6338567",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:43",
+     "autor": "",
+     "titulo_original": "Salarios: cuánto cobrarán los empleados de Comercio en noviembre de 2026"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Qué gremios cobrarán aumento de sueldo en noviembre de 2026",
+     "resumen": "Varios sindicatos importantes cerraron en octubre sus paritarias para el último trimestre del año, según iProfesional. La nota repasa gremio por gremio si los nuevos salarios lograrán empatarle a la inflación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/467918-uno-por-uno-los-gremios-que-cobraran-aumento-de-sueldo-en-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614012.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:19",
+     "autor": "",
+     "titulo_original": "Uno por uno, los gremios que cobrarán aumento de sueldo en noviembre 2026"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "Las empleadas domésticas tendrán en noviembre un aumento del 1,6%",
+     "resumen": "El nuevo valor por hora y los adicionales que deben percibir según cada categoría fueron detallados por iProfesional. El ajuste se suma a la serie de paritarias cerradas para el último trimestre del año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468011-sueldo-de-empleada-domestica-cuanto-cobra-por-hora-y-que-aumento-habra-en-diciembre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/588783.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:33",
+     "autor": "",
+     "titulo_original": "Aumentan los sueldos de empleadas domésticas: cuánto cobran según cada categoría"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "Canning compite por ser el \"nuevo Pilar\" con US$ 230 millones en desarrollos inmobiliarios",
+     "resumen": "La zona sur del Gran Buenos Aires sumó barrios privados, edificios residenciales, oficinas y paseos comerciales, con inversiones anunciadas que superan los US$ 230 millones, según El Cronista. La construcción se concentra sobre la Ruta 58 y en el corredor hacia San Vicente. Para una empresa de materiales de construcción: la expansión de estos corredores suburbanos sostiene la demanda de insumos para obra privada.",
+     "relacionadas": [
+      {
+       "id": "LN-11",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La zona de Buenos Aires a la que más gente se muda suma proyectos de lujo",
+       "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/la-zona-de-buenos-aires-a-la-que-mas-gente-se-muda-suma-proyectos-de-lujo-nid31102026/"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/la-zona-sur-que-compite-por-ser-el-nuevo-pilar-ya-suma-us-230-millones-en-barrios-privados-y-paseos-comerciales/",
+     "imagen": "https://www.cronista.com/resizer/v2/KC5E7LT5WREJFC6QBO3YZSXCHM.png?auth=ca83668f55dee30f3652fc32b2d1be0802f3fb01e201332dd9b2ffe0bb50d77f&smart=true&width=900&height=1200",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Micaela Mura",
+     "titulo_original": "La zona sur que compite por ser el “nuevo Pilar” ya suma u$s 230 millones en barrios privados y paseos comerciales"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Las ventas de motos crecieron 26% en octubre y Honda sigue como líder",
+     "resumen": "El segmento de las dos ruedas mantiene una dinámica distinta a la de los autos y mes a mes vuelve a superar sus propios récords, según iProfesional. La nota detalla qué marcas y modelos lideran el crecimiento.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/467994-las-ventas-de-motos-crecen-26-en-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625849.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:34",
+     "autor": "",
+     "titulo_original": "Las ventas de motos crecen 26% en octubre y Honda sigue siendo líder"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Cuenta DNI lanzó sus promociones de noviembre con descuentos de hasta 40%",
+     "resumen": "La billetera virtual bonaerense ofrecerá reintegros de $ 15.000 y descuentos en supermercados, gastronomía y comercios de la provincia de Buenos Aires, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/468012-cuenta-dni-en-noviembre-todos-los-descuentos-reintegros-y-dias-para-ahorrar-hasta-40-por-ciento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/628890.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:50",
+     "autor": "",
+     "titulo_original": "Cuenta DNI lanzó sus promociones de noviembre: supermercados, gastronomía y descuentos de hasta 40%"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "Los alquileres turísticos en Luján llegan a US$ 6.000 por noche por la visita del Papa",
+     "resumen": "Las búsquedas de alojamiento en la ciudad bonaerense se dispararon 1.803% y la tarifa típica para la víspera de la misa de León XIV alcanza los US$ 1.500, según Ámbito. Córdoba registra poca disponibilidad hotelera, mientras los hoteles porteños descartan por ahora aumentos generalizados.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/real-estate/efecto-leon-xiv-los-alquileres-lujan-llegan-us6000-noche-la-visita-del-papa-n6338891",
+     "imagen": "https://media.ambito.com/p/64aa139de4bdc8ab8b02aa67b73a1056/adjuntos/239/imagenes/043/735/0043735197/1200x675/825x801:845x821/lujan-propiedades-papa.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:15",
+     "autor": "",
+     "titulo_original": "Efecto León XIV: los alquileres en Luján llegan a u$s6.000 por noche ante la visita del Papa"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "La inteligencia artificial empieza a automatizar áreas clave dentro de las empresas",
+     "resumen": "Más del 75% de las tareas que realiza un comprador o un ejecutivo de pagos a proveedores podría ejecutarse mediante herramientas de inteligencia artificial, según un relevamiento de Intiza citado por El Cronista. El cambio ya no se limita a asistir a los empleados, sino que permite ejecutar tareas y activar procedimientos de manera autónoma en la administración corporativa.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/innovacion-it/la-ia-empieza-a-cambiar-el-trabajo-dentro-de-las-empresas-que-areas-claves-empiezan-a-automatizarse-y-como-cambia-su-funcionamiento/",
+     "imagen": "https://www.cronista.com/resizer/v2/YBLIJ64ZNVAYVLANWLFR63CBAY.jpg?auth=62f2fe6c4e3712864d66d85ad3b4a8d861d2c0ab0f3fd53b8f374966b9c40f2d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:08",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "La IA empieza a cambiar el trabajo dentro de las empresas: qué áreas claves empiezan a automatizarse y cómo cambia su funcionamiento"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Cada vez más personas usan inteligencia artificial para resolver problemas legales sin un abogado",
+     "resumen": "El uso de chatbots de inteligencia artificial en consultas legales crece sin el respaldo de un profesional, lo que puede derivar en la pérdida de derechos sin que el usuario lo advierta, según iProfesional. La nota explica en qué casos ese atajo puede terminar costando un juicio.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/467833-iadiccion-legal-cuando-chatgpt-reemplaza-al-abogado-y-se-pierden-derechos-sin-saberlo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628712.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:28",
+     "autor": "",
+     "titulo_original": "IAdicción legal: cuando ChatGPT reemplaza al abogado y se pierden derechos sin saberlo"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-07",
+     "titulo": "Estados Unidos ya registra más de 52 millones de votos anticipados antes de las elecciones de medio término",
+     "resumen": "El martes 3 de noviembre se celebran las elecciones legislativas de 2026, que definirán la composición del Congreso y cargos en varios estados, según La Nación. Entre los votos ya emitidos, los afiliados demócratas representan el 46% y los republicanos el 35%, según datos de NBC News.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/washington/como-van-las-elecciones-en-usa-2026-resultados-en-vivo-del-voto-anticipado-y-las-midterms-entre-nid01112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/M2ZMSJ7JJRC6ZOS5CUKGXGL5I4.jpg?auth=678a860071d815ba51158e1b83c1b71b5632a43d5af5699afebb008a7ed683e1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:55",
+     "autor": "",
+     "titulo_original": "Cómo van las elecciones en USA 2026: resultados en vivo del voto anticipado y las midterms entre republicanos vs. demócratas hoy"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Greg Abbott busca en Texas el récord de permanencia como gobernador",
+     "resumen": "Si es reelecto el martes, Abbott superaría la marca de Rick Perry y se convertiría en el gobernador con más tiempo en el cargo en la historia del estado, según La Nación. Lo enfrenta la demócrata Gina Hinojosa, en una entidad donde ningún candidato de ese partido ganó una elección estatal en más de tres décadas.",
+     "relacionadas": [
+      {
+       "id": "LN-16",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Demócratas vs. republicanos: actualización de las encuestas en EE.UU. y quién va ganando las elecciones en Texas hoy",
+       "url": "https://www.lanacion.com.ar/estados-unidos/texas/democratas-vs-republicanos-actualizacion-de-las-encuestas-en-eeuu-y-quien-va-ganando-las-elecciones-nid29102026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/estados-unidos/texas/elecciones-en-texas-2026-el-record-historico-que-lograria-greg-abbott-si-es-reelecto-gobernador-nid01112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YJQVOY53XNEIREYKW677OHKILQ.jpg?auth=9ef4d43faaf47d7d8acb8131eaf395fd693690b81002e5848d8a442b76b8e59c&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:43",
+     "autor": "",
+     "titulo_original": "Elecciones en Texas 2026: el récord histórico que lograría Greg Abbott si es reelecto gobernador"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "El presidente de Israel pidió flexibilidad a los líderes políticos para evitar una nueva elección",
+     "resumen": "Isaac Herzog instó a los dirigentes a aceptar los resultados electorales y negociar una coalición, ante el riesgo de que el bloqueo parlamentario derive en nuevos comicios, según Infobae. El cómputo oficial de las elecciones se conocerá el próximo miércoles.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/01/el-presidente-de-israel-pidio-a-los-lideres-politicos-mostrar-flexibilidad-de-cara-a-las-negociaciones-para-formar-gobierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/RILHEYLPYRDCPFC5FTTR7BHCRM.JPG?auth=1a5a491025c402f7ee3884c44d69bb00946df08f2a050d7cfc1c0dda7372def5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:45",
+     "autor": "",
+     "titulo_original": "El presidente de Israel pidió a los líderes políticos mostrar flexibilidad de cara a las negociaciones para formar gobierno"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "Las protestas contra el costo de vida en Alemania terminaron con saqueos en Fráncfort",
+     "resumen": "Miles de personas se movilizaron el sábado en 34 ciudades alemanas, incluidas Berlín, Múnich y Fráncfort, para reclamar mejoras educativas, menor costo de vida y el fin del servicio militar obligatorio, según La Nación. En Fráncfort, el principal centro financiero del país, grupos encapuchados saquearon comercios y se enfrentaron con la policía.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/saquean-tiendas-en-francfort-mientras-las-protestas-en-alemania-se-vuelven-violentas-nid01112026/",
+     "imagen": null,
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:58",
+     "autor": "",
+     "titulo_original": "Saquean negocios en Francfurt mientras las protestas en Alemania se vuelven violentas"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "La Justicia francesa investiga como tentativa de homicidio un ataque con cóctel molotov contra la policía en París",
+     "resumen": "El artefacto incendiario prendió fuego a un gendarme durante una protesta del sábado en París, que dejó 779 detenidos en todo el país, según Infobae. El ministro del Interior, Laurent Nuñez, calificó el ataque como una tentativa de homicidio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/01/protestas-en-francia-investigan-como-tentativa-de-asesinato-el-ataque-con-coctel-molotov-contra-gendarmes-en-paris/",
+     "imagen": "https://www.infobae.com/resizer/v2/VL5TAXVARRCMHIMSJVPX64PUSI.jpg?auth=7edcd65503009478e79e10ecbb18fa1615175f2982c0e5140b0a961a8263d226&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:20",
+     "autor": "",
+     "titulo_original": "Protestas en Francia: investigan como “tentativa de asesinato” el ataque con cóctel molotov contra gendarmes en París"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "Irán amenazó a Estados Unidos con una guerra más prolongada en caso de un nuevo enfrentamiento",
+     "resumen": "Un portavoz militar iraní cuestionó la capacidad de Washington para controlar el desarrollo de un eventual conflicto y recordó los ataques que dieron inicio a la última ofensiva contra la República Islámica, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/mundo/la-tension-iran-y-eeuu-no-para-ahora-teheran-amenaza-donald-trump-una-guerra-mas-prolongada-n6340216",
+     "imagen": "https://media.ambito.com/p/78502a0c6572f6c0347ae4a905e61a34/adjuntos/239/imagenes/043/522/0043522446/1200x675/1089x295:1109x315/iran-eeuu.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:15",
+     "autor": "",
+     "titulo_original": "La tensión entre Irán y EEUU no para: ahora Teherán amenaza a Donald Trump una guerra más prolongada"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-18",
+     "titulo": "Boca y River juegan esta tarde el Superclásico por el honor y los puntos",
+     "resumen": "El equipo de Fernando Arruabarrena busca no perderle pisada a Rosario Central en la tabla anual, mientras que el de Leonardo Ponzio se juega más porque corre desde atrás en la clasificación, según Clarín. El partido se disputa desde las 15 en la Bombonera, con arbitraje de Nicolás Ramírez, y el Servicio Meteorológico Nacional no descarta tormentas durante la tarde.",
+     "relacionadas": [
+      {
+       "id": "LN-02",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Boca vs. River, en vivo: horario, TV y formaciones",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-river-en-vivo-nid01112026/"
+      },
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Superclásico 2026: a qué hora juegan Boca-River por la Liga Profesional este domingo 1 de noviembre y cómo verlo en vivo",
+       "url": "https://www.ambito.com/deportes/superclasico-2026-que-hora-juegan-boca-river-la-liga-profesional-este-domingo-1-noviembre-y-como-verlo-vivo-n6337892"
+      },
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Así es la pelota especial que usarán Boca y River para jugar el Superclásico",
+       "url": "https://www.ambito.com/deportes/asi-es-la-pelota-especial-que-usaran-boca-y-river-jugar-el-superclasico-n6338958"
+      },
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Nicolás Ramírez será el árbitro del Superclásico: qué opinan en Boca y en River de la designación de AFA",
+       "url": "https://www.ambito.com/deportes/nicolas-ramirez-sera-el-arbitro-del-superclasico-que-opinan-boca-y-river-la-designacion-afa-n6338689"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Superclásico Boca vs River: cómo llegan Rodolfo Arruabarrena y Leonardo Ponzio al duelo y qué dicen sus historiales",
+       "url": "https://www.ambito.com/deportes/superclasico-boca-vs-river-como-llegan-rodolfo-arruabarrena-y-leonardo-ponzio-al-duelo-y-que-dicen-sus-historiales-n6340208"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/boca-river-juegan-superclasico-honor-puntos-valen-oro-sirve-empate_0_rXt64AwbVc.html",
+     "imagen": "https://www.clarin.com/img/2026/10/08/4bi-JakOV_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca y River juegan el Superclásico por el honor y por puntos que valen oro: a ninguno le sirve el empate"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Ocho equipos ya están clasificados a los octavos de final del Torneo Clausura",
+     "resumen": "Instituto, Vélez, Boca, Defensa y Justicia, Lanús, Rosario Central, Argentinos Juniors y Gimnasia de La Plata ya aseguraron su lugar en la próxima instancia, según La Nación. Restan definirse los otros ocho cupos a falta de dos fechas para el cierre de la fase regular.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/octavos-de-final-del-torneo-clausura-2026-en-vivo-asi-estan-los-cruces-de-playoffs-mientras-se-juega-nid31102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/6MMXBG5JMNGFFBY5UUCMEPFHZA.jpg?auth=66a5e7e3c453343b840ae9a223ac1aa19b5a56573e45b153f2f7c64caf9c9f63&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:31",
+     "autor": "",
+     "titulo_original": "Octavos de final del Torneo Clausura 2026, en vivo: así están los cruces de playoffs mientras se juega la fecha 15"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Franco Colapinto larga 11° y corre a las cinco de la tarde el Gran Premio de México",
+     "resumen": "El argentino buscará cortar una racha negativa después de abandonar en tres de sus últimas cuatro carreras, según La Nación. La carrera se puede ver por televisión en Fox Sports y por streaming en Disney+ y F1 TV Pro; los comisarios deportivos advirtieron que todos los autos serán considerados atacantes y defensores entre las curvas uno y tres, y cuatro y seis, en la largada.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La advertencia de la Fórmula 1 para los pilotos y equipos para la largada del GP de México: “Todos serán atacantes y defensores”",
+       "url": "https://www.infobae.com/deportes/2026/11/01/la-advertencia-de-la-formula-1-para-los-pilotos-y-equipos-para-la-largada-del-gp-de-mexico-todos-seran-atacantes-y-defendores/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/en-que-canal-pasan-el-gp-de-mexico-de-la-formula-1-2026-nid01112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RG4YT44CZJAQVIBGZ5TUS77XTQ.jpg?auth=5d1359f538406af66a98f1012ab1d5c941ea8837bf13f5b7e978ab4196f1911d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:26",
+     "autor": "",
+     "titulo_original": "F1: A qué hora corre Franco Colapinto en el GP de México 2026 y por dónde se puede ver"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "River juega hoy la final de la Messi Cup ante Palmeiras",
+     "resumen": "El equipo de las inferiores de River buscará defender el título que ganó el año pasado ante Atlético de Madrid, tras eliminar ahora al Colchonero por penales en semifinales, según La Nación. El partido se juega desde las 19 en el Chase Stadium de Miami y se puede ver por ESPN 3 y por streaming en Disney+ Premium.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-vs-palmeiras-por-la-final-de-la-messi-cup-2026-y-que-canal-lo-transmite-en-nid01112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JPRKPDVQSZG5RGC2RWZQV35HBE.jpg?auth=e249277fb983d204cd3ada46f44ef4fb3c3de7c28389af3317d4fa883bdbf77b&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:10",
+     "autor": "",
+     "titulo_original": "A qué hora juega River vs. Palmeiras por la final de la Messi Cup 2026 y qué canal lo transmite en vivo"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Carlos Alcaraz ganó por primera vez el torneo de Viena",
+     "resumen": "El tenista español venció al australiano Alex de Miñaur por 6-1 y 6-4 y recuperó sensaciones de cara al cierre de la temporada, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/deportes/2026/11/01/carlos-alcaraz-se-pone-la-corona-en-viena-por-primera-vez-tras-acabar-con-de-minaur-y-firmar-un-impecable-torneo-con-el-que-recupera-sensaciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/KYCK7X4PHVH3XMKFBWA47T4CTI.JPG?auth=e761add9d03a88a08257cdec431aa0f7c3be1e469f7da9dd9618f88bd819c5f2&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:08",
+     "autor": "Ana Pérez Navarro",
+     "titulo_original": "Carlos Alcaraz se pone la corona en Viena por primera vez tras acabar con De Miñaur y firmar un impecable torneo con el que recupera sensaciones"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Yamaha no correrá el Gran Premio de Qatar de MotoGP por la guerra en Medio Oriente",
+     "resumen": "La escudería japonesa decidió no viajar a Lusail por motivos de seguridad, pese a que la carrera sigue programada para el próximo fin de semana, según Clarín. La organización de MotoGP cuestionó la decisión, aseguró que existen garantías para competir y advirtió sobre posibles sanciones.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/motogp-yamaha-correra-gran-premio-qatar-guerra-medio-oriente-desato-conflicto-organizadores_0_L1tbLz7q52.html",
+     "imagen": "https://www.clarin.com/img/2026/11/01/xddfnNNoS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "MotoGP: Yamaha no correrá el Gran Premio de Qatar por la guerra en Medio Oriente y desató un conflicto con los organizadores"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Morena Beltrán denunció amenazas de hinchas de Estudiantes durante una transmisión",
+     "resumen": "La periodista recibió insultos mientras comentaba el empate 3 a 3 entre Estudiantes e Instituto en La Plata y debió interrumpir la transmisión por unos minutos, según Clarín. En sus redes sociales relató su angustia y cuestionó el clima de intolerancia en el fútbol argentino.",
+     "relacionadas": [
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Morena Beltrán, tras los insultos de hinchas de Estudiantes: “Me dijeron que me iban a matar”",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/morena-beltran-tras-los-insultos-de-hinchas-de-estudiantes-me-dijeron-que-me-iban-a-matar-nid01112026/"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Morena Beltrán recibió insultos de hinchas de Estudiantes en la transmisión y publicó un duro descargo: “Me hablaron de que me iban a matar”",
+       "url": "https://www.infobae.com/deportes/2026/11/01/morena-beltran-recibio-insultos-de-hinchas-de-estudiantes-en-la-transmision-y-publico-un-duro-descargo-me-hablaron-de-que-me-iban-a-matar/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/morena-beltran-conto-violento-episodio-sufrio-hinchas-estudiantes-dijeron-iban-matar_0_Njss2B7tWs.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/aF5pscpSV_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:25",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Morena Beltrán contó el violento episodio que sufrió con hinchas de Estudiantes: “Me dijeron que me iban a matar”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-12",
+     "titulo": "Cuánto cuesta alquilar o comprar una vivienda de lujo en Punta del Este y Cariló",
+     "resumen": "El mercado inmobiliario de alta gama en ambos destinos combina opciones de viviendas premium, inversiones en auge y alquileres exclusivos, según iProfesional. Cariló, sobre la costa atlántica bonaerense, se consolida como uno de los puntos de referencia del segmento de lujo en la Argentina.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467578-mercado-inmobiliario-lujo-cuanto-cuesta-alquilar-comprar-punta-del-este-carilo-octubre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628482.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:18",
+     "autor": "",
+     "titulo_original": "Mercado inmobiliario de lujo: cuánto cuesta alquilar o comprar en Punta del Este y Cariló"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "AM-14",
+     "titulo": "Alertan por tormentas fuertes, granizo y ráfagas de hasta 90 km/h en 13 provincias",
+     "resumen": "El Servicio Meteorológico Nacional anticipó precipitaciones intensas y actividad eléctrica para este domingo; en el AMBA las lluvias comenzarán cerca del mediodía y se extenderán hasta la noche, según Ámbito. El organismo no descarta que el Superclásico entre Boca y River se dispute bajo lluvia.",
+     "relacionadas": [
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Súper Niño 2026 en Argentina, EN VIVO: llegan las tormentas al AMBA y rige alerta amarilla hasta la noche",
+       "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegan-tormentas-amba-rige-alerta-amarilla-noche_0_k3QtG05aRh.html"
+      },
+      {
+       "id": "LN-04",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El Niño: anticipan focos de 200 milímetros en una región del país",
+       "url": "https://www.lanacion.com.ar/economia/campo/el-nino-anticipan-focos-de-200-milimetros-en-una-region-del-pais-nid01112026/"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Hay alerta amarilla por tormentas para el AMBA y 8 provincias: cómo estará el tiempo a la hora del Superclásico",
+       "url": "https://www.infobae.com/sociedad/2026/11/01/hay-alerta-amarilla-por-tormentas-para-el-amba-y-8-provincias-como-estara-el-tiempo-a-la-hora-del-superclasico/"
+      }
+     ],
+     "url": "https://www.ambito.com/informacion-general/alerta-meteorologica-tormentas-fuertes-granizo-y-rafagas-90-kmh-13-provincias-n6340196",
+     "imagen": "https://media.ambito.com/p/f74266a549102b8527166ee9a3ec41b9/adjuntos/239/imagenes/043/554/0043554196/1200x675/1618x958:1638x978/lluvia.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:58",
+     "autor": "",
+     "titulo_original": "Alerta meteorológica por tormentas fuertes, granizo y ráfagas de hasta 90 km/h en 13 provincias"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del domingo primero de noviembre. El dólar oficial cerró el viernes en mil quinientos sesenta pesos y el dólar blue operaba en mil quinientos sesenta y cinco pesos. El riesgo país terminó octubre en setecientos ochenta y siete puntos, su nivel más alto del año, y el oro cotiza cerca de tres mil ochocientos noventa y nueve dólares la onza. La inflación de septiembre fue de uno coma nueve por ciento mensual y treinta y tres coma cuatro por ciento interanual. El panorama del día combina la actividad legislativa, nuevos datos sociales preocupantes y la previa del Superclásico. En el Congreso, el oficialismo avanza con la reforma de la Carta Orgánica del Banco Central y con el proyecto sobre Malvinas, mientras continúan las negociaciones para eliminar las PASO y aprobar el Presupuesto del año que viene. En paralelo, un informe de la Universidad Di Tella mostró que la pobreza volvió a crecer en la Argentina y ya afecta a uno de cada tres habitantes, golpeada por la pérdida de ingresos y el aumento del costo de vida durante este año. En política, a una semana de la llegada del papa León Catorce a la Argentina, un pedido formal de Javier Milei para saludarlo dentro del avión y bajar junto a él por la escalerilla generó roces con el protocolo vaticano. El Gobierno planea marcar presencia en cada actividad de la visita papal, aunque la vicepresidenta Victoria Villarruel genera un primer foco de tensión interna, según iProfesional. Una encuesta mostró que la mayoría de los argentinos no espera cambios en el clima social por la visita del Papa, aunque el cuarenta y dos coma cuatro por ciento tiene una imagen positiva del Pontífice, que llegará el ocho de noviembre y visitará Buenos Aires, Córdoba y Luján. También reapareció en público Mauricio Macri, en una gala benéfica en el Hipódromo de Palermo. En economía, además del dato de pobreza, el Gobierno enfrenta críticas desde dos frentes opuestos sobre el cepo cambiario: hay quienes piden endurecerlo y quienes reclaman eliminarlo para las empresas, en medio de la previa electoral. El viceministro de Economía, José Luis Daza, dijo que evalúan destinar más fondos a los bancos para impulsar el crédito hipotecario, después de que las dos licitaciones del Fondo de Garantía de Sustentabilidad mostraran una fuerte demanda concentrada en los plazos más largos. Cuatro informes privados, entre ellos los de la Unión Industrial Argentina y la consultora Ferreres, coinciden en anticipar una nueva caída interanual de la industria en septiembre. Y una encuesta mostró que la aprobación de Milei subió a treinta y seis coma dos por ciento, aunque más de la mitad de los consultados rechaza su gestión y crecen las preocupaciones por los salarios y el empleo. En negocios y empresas, Stellantis frenó la producción en sus plantas de Córdoba y El Palomar por la caída de la demanda, en medio de un plan global de ajuste de la automotriz dueña de Fiat, Peugeot y Jeep. El empresario argentino Martín Varsavsky vendió su compañía de biotecnología Gameto por hasta mil trescientos ochenta millones de dólares y sumó así su sexto unicornio. La petrolera saudita Aramco compró el cuarenta y nueve por ciento de la tecnológica Humain por dos mil seiscientos millones de dólares, para ampliar su apuesta en inteligencia artificial. Un nuevo índice mide qué municipios argentinos exigen menos trámites para abrir un negocio, con diferencias marcadas entre jurisdicciones. Y Binance reanudó los retiros y elevó al noventa y cinco por ciento la cobertura de los fondos robados en el hackeo de seis mil trescientos millones de dólares que Estados Unidos atribuyó a un grupo vinculado a Corea del Norte. En impuestos y normativa laboral, un estudio citado por El Cronista mostró que el empleo que más crece en la Argentina es también el que menos aporta al fisco: los nuevos cuentapropistas informales ganan en promedio un tercio de lo que cobra un asalariado formal y aportan muchos menos fondos a la seguridad social. Varios gremios cerraron en octubre sus paritarias para el último trimestre: los trabajadores de la construcción cobrarán en noviembre un aumento de uno coma siete por ciento, los empleados de comercio un uno coma nueve por ciento más una cuota de bono, y las empleadas domésticas un uno coma seis por ciento. En consumo, construcción y retail, la zona de Canning, en el sur del conurbano bonaerense, compite por convertirse en el nuevo Pilar con inversiones que ya superan los doscientos treinta millones de dólares en barrios privados, oficinas y paseos comerciales. Las ventas de motos crecieron veintiséis por ciento en octubre y Honda sigue como marca líder. Cuenta DNI lanzó sus promociones de noviembre, con descuentos de hasta cuarenta por ciento en supermercados y gastronomía bonaerense. Y los alquileres turísticos en Luján llegan a seis mil dólares por noche por la visita del Papa, con búsquedas de alojamiento que se dispararon más de mil ochocientos por ciento. En management y finanzas corporativas, un relevamiento de la empresa Intiza mostró que más del setenta y cinco por ciento de las tareas de un comprador o un ejecutivo de pagos a proveedores ya podría automatizarse con inteligencia artificial. Y cada vez más personas recurren a chatbots de inteligencia artificial para resolver problemas legales sin consultar a un abogado, un atajo que puede terminar costando un juicio. En el mundo, Estados Unidos ya registra más de cincuenta y dos millones de votos anticipados antes de las elecciones legislativas del martes, con los demócratas por delante entre los votos ya emitidos. En Texas, el gobernador Greg Abbott busca el récord de permanencia en el cargo frente a la demócrata Gina Hinojosa. El presidente de Israel, Isaac Herzog, pidió a los líderes políticos flexibilidad para formar gobierno y evitar una nueva elección. En Alemania, las protestas contra el costo de vida terminaron con saqueos a comercios en Fráncfort. En Francia, la Justicia investiga como tentativa de homicidio un ataque con cóctel molotov contra la policía en París, en una jornada que dejó setecientos setenta y nueve detenidos en todo el país. E Irán amenazó a Estados Unidos con una guerra más prolongada ante un eventual nuevo enfrentamiento. En deportes, Boca y River juegan esta tarde a las tres el Superclásico en la Bombonera, con arbitraje de Nicolás Ramírez y riesgo de lluvia según el Servicio Meteorológico Nacional. Ya hay ocho equipos clasificados a los octavos de final del Torneo Clausura, entre ellos Boca, Rosario Central y Vélez. Franco Colapinto larga undécimo y corre a las cinco de la tarde el Gran Premio de México, donde buscará cortar una racha de tres abandonos en las últimas cuatro carreras. River juega esta noche la final de la Messi Cup ante Palmeiras, en Miami. Carlos Alcaraz ganó por primera vez el torneo de Viena. Yamaha decidió no correr el Gran Premio de Qatar de MotoGP por la guerra en Medio Oriente. Y la periodista Morena Beltrán denunció amenazas de hinchas de Estudiantes mientras comentaba un partido en La Plata. Para cerrar, en turismo, Cariló y Punta del Este se consolidan como destinos del segmento inmobiliario de lujo, con alquileres exclusivos y nuevas inversiones en ambos balnearios. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Esta corrida no trajo material analítico de Le Grand Continent (solo una recomendación de libros y una nota breve sobre el voto del Papa), así que se omitió la sección Europa y geopolítica. No apareció novedad sobre Club Atlético Tigre en esta corrida.",
+ "slug": "2026-11-01-mediodia",
+ "generado_ba": "01/11/2026 15:18"
+}
