@@ -1,0 +1,814 @@
+{
+ "fecha": "2026-11-02",
+ "edicion": "mediodia",
+ "titulo": "Dólar en máximo nominal, riesgo país mejora y Milei rumbo a España",
+ "apertura": "El dólar oficial tocó hoy el valor nominal más alto del año en el Banco Nación, mientras el riesgo país mejora y perfora los 780 puntos básicos en la previa de las elecciones de medio término en Estados Unidos. Cristina Kirchner reafirmó en una entrevista con The Washington Post que no descarta ser candidata en 2027, Javier Milei viaja mañana a España en medio de un cruce con Pedro Sánchez, y el retail sigue mostrando ajustes, con el cierre de otra sucursal de Megatone y la reducción de producción de BASF en Santa Fe.",
+ "claves": [
+  "El dólar oficial minorista tocó los $ 1.565 en el Banco Nación, el valor nominal más alto del año, aunque en 2026 avanzó muy por debajo de la inflación acumulada.",
+  "El riesgo país perforó los 780 puntos básicos y las acciones argentinas suben hasta 4% en Wall Street, en la previa de las elecciones de medio término en Estados Unidos.",
+  "El superávit energético se duplicó en septiembre y, junto con una liquidación récord del agro de US$ 2.880 millones en octubre, ayuda a sostener la oferta de dólares, aunque las reservas del BCRA cayeron más de US$ 2.100 millones en septiembre.",
+  "Cristina Kirchner, en una entrevista con The Washington Post, no descartó ser candidata en 2027 y vaticinó una derrota de Donald Trump en las elecciones de mañana.",
+  "Javier Milei viaja mañana a España para la Cumbre Iberoamericana, en medio de un nuevo cruce verbal con el presidente Pedro Sánchez.",
+  "ATE anunció una protesta en 27 aeropuertos para el viernes 6 de noviembre, dos días antes de la llegada del papa León XIV a la Argentina.",
+  "Megatone cerró su tercera sucursal en menos de dos meses y BASF redujo su producción en Santa Fe, en un contexto de ajuste en el retail y la industria.",
+  "Franco Colapinto fue sancionado con diez segundos de penalización y cayó del octavo al puesto 15 en el Gran Premio de México, perdiendo los puntos que había sumado para Alpine."
+ ],
+ "cifras": [
+  {
+   "nombre": "Liquidación del agro",
+   "valor": "US$ 2.880 millones en octubre",
+   "variacion": "mejor octubre en 25 años",
+   "fuente": "IB-19"
+  },
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "-US$ 2.100 millones en septiembre",
+   "fuente": "AM-10"
+  },
+  {
+   "nombre": "Índice Merval (MSCI, en dólares)",
+   "valor": "92.080 puntos",
+   "variacion": "-4,9% en octubre",
+   "fuente": "CR-11"
+  },
+  {
+   "nombre": "Emisiones de deuda corporativa",
+   "valor": "US$ 1.074 millones en octubre",
+   "variacion": "-67% vs. septiembre",
+   "fuente": "CR-13"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-07",
+     "titulo": "Pedro Sánchez responde a Milei en la previa de la Cumbre Iberoamericana",
+     "resumen": "El presidente del Gobierno español dijo, sin nombrarlo, que España se gobierna desde España y no desde Buenos Aires, días después de que Milei lo llamara dictador en Madrid. El mandatario argentino viaja este martes a España para participar de la XXX Cumbre Iberoamericana.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/espana-gobierna-espana-buenos-aires-frase-pedro-sanchez-milei-previa-nuevo-viaje-libertario_0_P63KuzuPw5.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/Oaga4E383o_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"España se gobierna desde España, no desde Buenos Aires\", la frase de Pedro Sánchez contra Milei en la previa de un nuevo viaje del libertario"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "Cristina Kirchner no descarta ser candidata en 2027 y vaticina una derrota de Trump",
+     "resumen": "En su primera entrevista a un medio extranjero desde su condena por corrupción, la expresidenta dijo a The Washington Post que, si recupera sus derechos políticos, no descarta postularse en 2027. También auguró una derrota de Donald Trump y del Partido Republicano en las elecciones de medio término de mañana.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Cristina Kirchner confirmó que quiere ser candidata en las elecciones 2027: “Cuando recupere mis derechos políticos, ¿por qué no?”",
+       "url": "https://www.clarin.com/politica/cristina-kirchner-dijo-quiere-candidata-2027-recupere-derechos-politicos_0_7NQj1a4Rh3.html"
+      },
+      {
+       "id": "LN-01",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Cristina Kirchner, 73 años, sobre su rutina en prisión domiciliaria: “Hago ejercicio cuatro o cinco veces por semana y estudio inglés y chino para evitar que mis neuronas envejezcan”",
+       "url": "https://www.lanacion.com.ar/salud/vida_sana/cristina-kirchner-73-anos-sobre-su-rutina-en-prision-domiciliaria-hago-ejercicio-cuatro-o-cinco-nid02112026/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/cristina-kirchner-hablo-de-una-eventual-candidatura-para-2027-y-vaticino-una-caida-de-trump/",
+     "imagen": "https://www.cronista.com/resizer/v2/2ASGGWTQ65GKZL7QCRMMUDFVRU.JPG?auth=73ba87170a1893cd69bddc47ae80ce90cdc32082d664c4e2f512e7bba0d80558&smart=true&width=900&height=587",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:40",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Cristina Kirchner habló de una eventual candidatura para 2027 y vaticinó una caída de Trump"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Comenzó la tercera audiencia del juicio por Hotesur y Los Sauces",
+     "resumen": "El Tribunal Oral Federal N° 5 reanudó la lectura de los cargos contra Cristina Kirchner, su hijo Máximo Kirchner y otros 17 imputados, acusados de lavar fondos de la corrupción a través de la inmobiliaria familiar en Río Gallegos. Los fiscales identificaron tres grandes fuentes de financiamiento irregular.",
+     "relacionadas": [
+      {
+       "id": "IB-10",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Hotesur - Los Sauces, el juicio: cómo los empresarios habrían transferido el dinero de la corrupción a la familia Kirchner",
+       "url": "https://www.infobae.com/judiciales/2026/11/02/hotesur-los-sauces-el-juicio-retoman-la-lectura-de-la-acusacion-contra-cristina-kirchner-por-lavado-de-dinero/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/juicio-a-cristina-kirchner-en-vivo-la-lectura-de-las-acusaciones-de-las-causas-de-hotesur-y-los-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/I7P67BWMWFCHBKFBL6PRGM73UY.png?auth=02aec7108cb0188ae05683255c0cd3a5eb4299c47bdd054b6a244d3cf0bcf614&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:38",
+     "autor": "",
+     "titulo_original": "Juicio a Cristina Kirchner, EN VIVO: la lectura de las acusaciones de las causas de Hotesur y Los Sauces, y las última noticias"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "La Justicia Electoral habilitó la consulta del padrón provisorio para 2027",
+     "resumen": "La Cámara Nacional Electoral abrió la consulta del padrón provisorio para las elecciones presidenciales de 2027, disponible hasta el 30 de noviembre. Los ciudadanos pueden verificar sus datos y reclamar por errores u omisiones, y por primera vez se incluye a los jóvenes de entre 16 y 18 años.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Publicaron el padrón provisorio para las elecciones 2027: cómo y hasta cuándo se puede consultar para detectar errores u omisiones",
+       "url": "https://www.clarin.com/politica/publicaron-padron-provisorio-elecciones-2027-puede-consultar-detectar-errores-omisiones_0_A3SMWpqH0p.html"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Cámara Nacional Electoral habilitó la consulta del padrón provisorio para los comicios de 2027",
+       "url": "https://www.ambito.com/politica/la-camara-nacional-electoral-habilito-la-consulta-del-padron-provisorio-los-comicios-2027-n6340510"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/02/donde-voto-la-camara-electoral-habilito-el-padron-electoral-provisorio-para-las-elecciones-presidenciales-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/KXEGJH2QLJFY3ASZELRCAW4HFQ.png?auth=d8554c20fb810f6eca39397f7341ebbdf7b3abe77d0d1b3fa67905461c99ec36&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:54",
+     "autor": "Facundo Chaves",
+     "titulo_original": "Dónde voto: la Cámara Electoral habilitó el padrón electoral provisorio para las elecciones presidenciales 2027"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "ATE anunció una protesta en 27 aeropuertos dos días antes de la llegada del Papa",
+     "resumen": "El sindicato convocó a una medida de fuerza en todos los aeropuertos del país desde el viernes 6 de noviembre, en reclamo por supuestos incumplimientos en seguridad aeroportuaria. La protesta podría generar demoras y cancelaciones, a dos días de la llegada de León XIV, prevista para el domingo 8.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "ATE anunció protestas en 27 aeropuertos para el viernes y podrían registrarse demoras y cancelaciones en vuelos",
+       "url": "https://www.lanacion.com.ar/politica/ate-anuncio-protestas-en-27-aeropuertos-para-el-viernes-y-podrian-registrarse-demoras-y-nid02112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/protesta-27-aeropuertos-podria-generar-demoras-cancelaciones-dias-llegada-papa_0_T5SBtXd9Pc.html",
+     "imagen": "https://www.clarin.com/img/2025/06/04/qFqfjoAos_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:55",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una protesta en 27 aeropuertos podría generar demoras y cancelaciones dos días antes de la llegada del Papa"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Milei retoma la agenda internacional mientras el Gobierno hace la primera advertencia a Bullrich",
+     "resumen": "El Presidente tendrá reuniones con representantes de Israel y Estados Unidos antes de viajar a España. La mesa política de La Libertad Avanza se reúne este martes en Casa Rosada, en el primer encuentro cara a cara entre Patricia Bullrich y Karina Milei desde que la senadora volvió a chocar con el oficialismo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/02/javier-milei-vuelve-a-la-agenda-internacional-mientras-el-gobierno-le-hizo-la-primera-advertencia-a-patricia-bullrich/",
+     "imagen": "https://www.infobae.com/resizer/v2/MYY5NJYWA5ERLMUOFPZXAOZ6AQ.jpg?auth=47a6eceb6421240c7a78499a66db00c9e030de0355cc2a97bf9e2fa97a9354de&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:20",
+     "autor": "Federico Galligani",
+     "titulo_original": "Javier Milei vuelve a la agenda internacional, mientras el Gobierno le hizo la primera advertencia a Patricia Bullrich"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "La derrota de La Libertad Avanza en Bariloche replantea la estrategia con los gobernadores",
+     "resumen": "El mileísmo quedó tercero en la localidad rionegrina, a más de 25 puntos de la alianza del gobernador Alberto Weretilneck y el intendente Walter Cortés. El resultado expuso los límites de competir con listas propias y reavivó la discusión interna sobre los acuerdos electorales de cara a 2027.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/una-derrota-la-libertad-avanza-que-replantea-la-estrategia-los-gobernadores-2027-n6340436",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:38",
+     "autor": "Ezequiel Rudman",
+     "titulo_original": "Una derrota de La Libertad Avanza que replantea la estrategia con los gobernadores para 2027"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-07",
+     "titulo": "El dólar oficial tocó el valor nominal más alto del año",
+     "resumen": "La cotización minorista subió $ 5 y llegó a $ 1.565 en el Banco Nación, el valor nominal más alto registrado. Sin embargo, en lo que va del año el oficial avanzó muy por debajo de la inflación acumulada, por lo que se ubica en uno de los niveles reales más bajos de la última década.",
+     "relacionadas": [
+      {
+       "id": "CR-03",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar blue hoy: a cuánto cotiza el lunes 2 de noviembre con el MEP y el CCL",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-lunes-2-de-noviembre-con-el-mep-y-el-ccl/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/mercados-el-dolar-oficial-toca-el-valor-mas-alto-del-ano-aunque-avanzo-menos-que-la-inflacion-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:45",
+     "autor": "",
+     "titulo_original": "Mercados: el dólar oficial toca el valor más alto del año, aunque avanzó menos que la inflación"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "El riesgo país mejora y perfora los 780 puntos",
+     "resumen": "El indicador, que había cerrado octubre en su nivel más alto desde las elecciones de 2025, retrocede hoy y perfora los 780 puntos básicos, mientras las acciones argentinas suben hasta 4% en Wall Street. El mercado busca catalizadores para revertir la mala performance de las últimas semanas, en una jornada marcada por la expectativa ante las elecciones de medio término en Estados Unidos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/los-bonos-dolares-cotizan-mixtos-pero-el-riesgo-pais-permanece-cerca-los-790-puntos-n6340466",
+     "imagen": "https://media.ambito.com/p/69cbe80c3a77da15a58e4cc5e9fdc373/adjuntos/239/imagenes/043/657/0043657172/1200x675/875x288:895x308/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:43",
+     "autor": "",
+     "titulo_original": "El riesgo país mejora y perfora los 780 puntos, mientras las acciones argentinas avanzan hasta 4% en Wall Street"
+    },
+    {
+     "id": "AM-01",
+     "titulo": "El superávit energético se duplicó en septiembre y ayuda a blindar el dólar",
+     "resumen": "El crecimiento de las exportaciones de energía, junto con las emisiones de deuda corporativa y las perspectivas de Vaca Muerta, fortalece la oferta de divisas y contribuye a moderar la presión sobre el tipo de cambio. Para una empresa: una mayor oferta genuina de dólares reduce el riesgo de saltos bruscos en el tipo de cambio que encarezcan insumos importados.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/el-superavit-energetico-se-duplico-septiembre-y-junto-el-agro-ayudan-al-gobierno-blindar-el-dolar-n6340463",
+     "imagen": "https://media.ambito.com/p/3ae04937776acd93277fbddd4b150d99/adjuntos/239/imagenes/043/416/0043416983/1200x675/767x596:787x616/dolar-banco-central-bcra.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:48",
+     "autor": "",
+     "titulo_original": "El superávit energético se duplicó en septiembre y junto con el agro ayudan al Gobierno a \"blindar\" el dólar"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "El agro liquidó US$ 2.880 millones en octubre, el mejor registro en 25 años",
+     "resumen": "Según CIARA y el Centro de Exportadores de Cereales, el complejo agroexportador liquidó US$ 2.880 millones el mes pasado, un 157% más que en octubre de 2025. En lo que va del año acumula US$ 25.156 millones, en una campaña 2025/26 que ya es la mejor de la historia en volumen productivo.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"El mejor octubre de los últimos 25 años\": el agro ingresó US$ 2.880 millones el mes pasado y en lo que va del año liquidó más de US$ 25.100 millones",
+       "url": "https://www.clarin.com/rural/mejor-ultimos-25-anos-agro-ingreso-us-2880-millones-octubre-va-ano-liquido-us-25100-millones_0_Jt653Gl30P.html"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/02/el-agro-liquido-usd-2880-millones-en-octubre-el-mejor-registro-para-ese-mes-en-25-anos/",
+     "imagen": "https://www.infobae.com/resizer/v2/NRWZORZGHZBUZNHHBM6S2WLMOU.JPG?auth=a9b1be78dd8a1609e2e12d3d92a42a08a6ef9cfb40f57f7f674f8c9cefb88b5a&smart=true&width=900&height=615",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:03",
+     "autor": "",
+     "titulo_original": "El agro liquidó USD 2.880 millones en octubre, el mejor registro para ese mes en 25 años"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Bank of America recomienda comprar deuda argentina, pero la demanda todavía no aparece",
+     "resumen": "El banco mantiene la sobreponderación de la deuda externa argentina y define la baja reciente como una oportunidad de compra, con mirada hasta fines de 2027. El viernes el riesgo país había trepado 5,5% hasta 787 puntos, en una jornada con malas señales desde el exterior. Para una empresa: la persistencia de spreads elevados sigue encareciendo cualquier financiamiento externo en dólares.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/bancos-de-wall-street-recomiendan-comprar-argentina-pero-la-demanda-aun-no-aparece-que-pasa/",
+     "imagen": "https://www.cronista.com/resizer/v2/HPYT6VZ2VFGNZOGI3X65M3HLR4.png?auth=79fcc650bd7b5ee4510e4f1cfe2d610ed177ba8de92e56e37564c3c36f9c35ed&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:21",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Los bancos de Wall Street recomiendan comprar Argentina, pero la demanda aún no aparece: ¿qué pasa?"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Wall Street cambió de horario y la Bolsa porteña extiende su operatoria",
+     "resumen": "Tras el fin del horario de verano en Estados Unidos, la rueda regular de Nueva York pasó a operar de 11:30 a 18:00 hora argentina. El ajuste también se trasladó a BYMA, que además tendrá un cronograma especial entre el 6 y el 11 de noviembre por los feriados.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/02/wall-street-cambia-de-horario-como-afecta-a-las-operaciones-de-la-bolsa-en-la-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/6QOUOZTY4REYXOYM4O7BGTSB4A.JPG?auth=49d4dd5d5a6fe2c8c546ee4af069341e7b3cc2ef127796de2246e80d65d91c89&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:34",
+     "autor": "",
+     "titulo_original": "Wall Street cambia de horario: cómo afecta a las operaciones de la Bolsa en la Argentina"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-06",
+     "titulo": "Los socios de Adecoagro compraron las tierras del Grupo Benetton en la Argentina",
+     "resumen": "La operación incluyó la adquisición de Compañía de Tierras Sud y Ganadera Cóndor, firmas con terrenos en Buenos Aires, Chubut, Santa Cruz y Río Negro. La venta marca la salida del holding italiano de uno de sus negocios agropecuarios históricos en el país.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/socios-adecoagro-compraron-tierras-grupo-benetton-argentina_0_J6tZ8KFElP.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/MecFfKfAF_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los socios de Adecoagro compraron las tierras del Grupo Benetton en la Argentina"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "El Gobierno porteño prepara la adjudicación de la línea F del subte",
+     "resumen": "La gestión de Jorge Macri busca adjudicar en diciembre la construcción de la línea F y comenzar los trabajos a principios de 2027. Todavía restan definiciones técnicas y financieras antes del llamado formal.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468087-el-gobierno-porteno-entra-en-la-definicion-de-la-linea-f-quien-hara-la-obra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2025/10/605195.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:04",
+     "autor": "",
+     "titulo_original": "El gobierno porteño prepara la adjudicación de la línea F: qué falta para empezar la obra"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Telecom ofrece retiros voluntarios a empleados tras la compra de Movistar",
+     "resumen": "La propuesta de desvinculación incluye un plus del 30% sobre la indemnización y forma parte del proceso de integración de clientes y activos exigido por el Gobierno tras la adquisición. La compañía busca ordenar su estructura de personal en la transición.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468076-telecom-ofrece-retiros-voluntarios-para-achicar-su-estructura-tras-comprar-movistar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/592158.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:03",
+     "autor": "",
+     "titulo_original": "Tras comprar Movistar, Telecom ofrece incentivos a empleados para dejar la empresa"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Otro fabricante de maquinaria agrícola entra en crisis financiera",
+     "resumen": "El Grupo Plantium, del empresario Jorge Gentili, cerró temporalmente su planta de Villa Constitución, en Santa Fe, y despidió a más de 100 trabajadores, además de 20 empleados de su centro de desarrollo en Rosario. La compañía acumula una deuda de $ 13.700 millones y se suma a los casos de Metalfor y Pauny.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/otro-titan-de-la-maquinaria-agricola-pierde-la-pelea-contra-los-chinos-y-acumula-13700-millones-de-deuda/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZINM4QMUDRDRLIL7ZDATDHB5DE.png?auth=11fa00dfbe1c53810ec4e86e5233de886aec5841fab9688c37435fdc61e685ac&smart=true&width=900&height=900",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:47",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Otro titán de la maquinaria agrícola pierde la pelea contra los “rojos” y acumula $13.700 millones de deuda"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Los negocios de servicios crecen alrededor de Vaca Muerta",
+     "resumen": "Las exportaciones de combustibles y energía crecieron 48,9% interanual en los primeros ocho meses de 2026, más del doble que el promedio de las ventas externas del país. Un informe de la Universidad Austral señala que el desafío para la Argentina es generar más negocio más allá del petróleo crudo, como hicieron Noruega y Australia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/los-negocios-que-crecen-alrededor-de-vaca-muerta-demandan-mas-servicios-y-son-una-oportunidad-de-inversion/",
+     "imagen": "https://www.cronista.com/resizer/v2/MK4AM64PDNGMXEZIDU6L6XLK7I.jpg?auth=5eb2bcf867b0594459b7ccbe5d9543c8b9cb241bf0e7dabbf9db351b41128d5d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:28",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Los negocios que crecen alrededor de Vaca Muerta: demandan más servicios y son una oportunidad de inversión"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-20",
+     "titulo": "Un fallo habilita el ajuste por inflación de los quebrantos en Ganancias",
+     "resumen": "La Justicia ordenó aplicar el ajuste por inflación integral en el impuesto a las Ganancias, tomando en cuenta también los quebrantos impositivos de ejercicios anteriores. Para una empresa: el antecedente puede ampliar el monto de pérdidas computables contra ganancias futuras.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468056-ganancias-via-libre-actualizacion-quebrantos-justicia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/628908.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:21",
+     "autor": "",
+     "titulo_original": "Ganancias: vía libre al ajuste por inflación de los quebrantos en la Justicia"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Cómo queda el recibo de sueldo de octubre para empleados de comercio",
+     "resumen": "Tras el nuevo aumento salarial acordado la semana pasada entre el sindicato y las cámaras empresarias, la liquidación de haberes de octubre para Empleados de Comercio debe incorporar los nuevos valores. El ajuste impacta en la base de cálculo de aportes y contribuciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468049-luego-del-nuevo-aumento-como-se-arma-el-recibo-de-sueldo-de-octubre-para-comercio",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/583326.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:55",
+     "autor": "",
+     "titulo_original": "Luego del nuevo aumento, cómo se arma el recibo de sueldo de octubre para comercio"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "El bono del Día del Bancario es de $ 2,27 millones",
+     "resumen": "La compensación anual por el Día del Bancario se cobra antes del 6 de noviembre y se liquida como una suma no remunerativa equivalente a un feriado nacional. El monto surge de la paritaria del sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468051-dia-bancario-bono-2270000-pesos-cobra-noviembre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/628906.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:17",
+     "autor": "",
+     "titulo_original": "Día del Bancario: el bono es de $2,27 millones y se cobra la primera semana de noviembre"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "Comenzaron los despidos en el IOSFA en todo el país",
+     "resumen": "Tras un decreto del Gobierno nacional, empezaron a llegar telegramas de desvinculación a trabajadores de la obra social de las Fuerzas Armadas en distintas dependencias del país, en el marco del proceso de achicamiento y reconversión en OSFA. ATE advirtió por el impacto sobre el personal y la atención de los afiliados.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/iosfa-comenzaron-los-despidos-en-todo-el-pais-y-ya-llegan-los-primeros-telegramas-a-los-trabajadores/",
+     "imagen": "https://www.cronista.com/resizer/v2/2CRHGHTEXFGZDK7VDV6WKYQCVI.jpg?auth=91c3d1f462a300f4767ba134b2dd37bbe1605eb57fc716197557467c2d277d75&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:23",
+     "autor": "Amparo Beraza",
+     "titulo_original": "IOSFA: comenzaron los despidos en todo el país y ya llegan los primeros telegramas"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-15",
+     "titulo": "Megatone cerró su tercera sucursal en menos de dos meses",
+     "resumen": "La cadena de electrodomésticos desvinculó personal en Córdoba, Entre Ríos y Misiones y apuesta a concentrar sus ventas en plataformas digitales. El cierre se suma a una serie de ajustes de personal en el sector retail. Para una empresa: la reducción de puntos físicos frente al canal digital redefine la estructura de costos del sector.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468070-megatone-cerro-su-tercera-sucursal-en-solo-dos-meses-y-cae-empleo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/628911.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:25",
+     "autor": "",
+     "titulo_original": "Megatone cerró su tercera sucursal en menos de dos meses y cae el empleo en el retail"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "BASF redujo su producción en Santa Fe y el gremio reclama por los empleos",
+     "resumen": "La menor demanda y el aumento de costos llevaron al grupo alemán a achicar su operación local, lo que generó el reclamo sindical por las desvinculaciones. La planta es uno de los principales empleadores industriales de la zona.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468069-basf-arranca-noviembre-con-un-fuerte-ajuste-por-la-caida-de-la-demanda",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601299.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:25",
+     "autor": "",
+     "titulo_original": "BASF achica su producción en Santa Fe y el gremio reclama por los empleos"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Construyen cuatro nuevos shoppings en Escobar",
+     "resumen": "Los nuevos centros comerciales tendrán locales, gastronomía, cines y servicios, y se suman a la expansión de este formato en el conurbano bonaerense. Todavía no se confirmaron las fechas de apertura de cada proyecto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468086-construyen-4-nuevos-shoppings-en-buenos-aires-que-tendran",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/628932.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:25",
+     "autor": "",
+     "titulo_original": "Construyen 4 nuevos shoppings en Buenos Aires: qué tendrán"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "Todos los aumentos de noviembre: colectivos, subte, prepagas y alquileres",
+     "resumen": "Desde el 1° de noviembre rigen nuevas subas en transporte público, peajes, luz, gas, agua, colegios privados y algunos alquileres, en su mayoría por encima de la inflación de septiembre, de 1,9% según el INDEC. En la Ciudad ya se aplicó una suba de 3,9% en colectivos, subte y peajes. Para una empresa: la acumulación de aumentos en servicios presiona sobre los costos operativos y la capacidad de consumo de los hogares.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/todos-los-aumentos-de-noviembre-2026-colectivos-subte-prepagas-alquileres-y-servicios-con-subas/",
+     "imagen": "https://www.cronista.com/resizer/v2/7SQ7HQV26NGFLBG7KKC4I533HI.jpeg?auth=4ec196eb049a83e504a3d73f2fd9896cbc86918e57d1782d818e9eb42ed794cf&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:12",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Todos los aumentos de noviembre 2026: colectivos, subte, prepagas, alquileres y servicios con subas"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "El Gobierno porteño habilitó la última rampa del Puente Labruna",
+     "resumen": "La obra completa las conexiones viales entre Cantilo, Lugones, Ciudad Universitaria y el Parque de Innovación, en una zona por la que circulan más de 350.000 personas por día. Con la apertura, se habilitan nuevos cruces entre ambas avenidas y el entorno del estadio Monumental.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/02/el-gobierno-porteno-habilito-la-ultima-rampa-del-puente-labruna-y-amplio-las-conexiones-en-nunez/",
+     "imagen": "https://www.infobae.com/resizer/v2/J5Q7AGRF2VG5BHW7X73NJGTCOA.jpeg?auth=56dd4dddaa3eec36b8ed87da110bdd3aaccf4f87e755e122ea99493dc2d1cc21&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:42",
+     "autor": "",
+     "titulo_original": "El Gobierno porteño habilitó la última rampa del Puente Labruna y amplió las conexiones en Núñez"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-26",
+     "titulo": "Las multinacionales en la Argentina priorizan perfiles de contabilidad, finanzas y tecnología",
+     "resumen": "Un relevamiento entre empresas multinacionales con operaciones locales mostró que los puestos de contabilidad y finanzas siguen entre los más buscados, mientras crece la demanda de perfiles vinculados con automatización y tecnología aplicada a la gestión.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/467995-multinacionales-en-argentina-buscan-nuevos-perfiles-y-hay-dos-areas-que-ganan-terreno",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608960.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:58",
+     "autor": "",
+     "titulo_original": "Multinacionales en Argentina buscan nuevos perfiles y hay dos áreas que ganan terreno"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Fernando Broder, contador público, lidera la tecnología global de Assist Card",
+     "resumen": "El CIO de la compañía de asistencia al viajero, contador público y licenciado en administración de empresas por la UBA, construyó su carrera en tecnología desde una mirada de negocio. Su estrategia se apoya en la omnicanalidad, la autogestión y la inteligencia artificial para mejorar la experiencia del viajero.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/mundo-cio/fernando-broder-de-assist-card-la-tecnologia-al-servicio-del-viajero/",
+     "imagen": "https://www.cronista.com/resizer/v2/2H7S4UCSWBCGLOR6L2CDTIQ4E4.jpg?auth=f1a9f697880d3f4535bc330f8f6701267e90ef43a8fbb89bf8f0257a55d92352&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:59",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "Fernando Broder, de Assist Card: la tecnología al servicio del viajero"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "Banco Macro ya empezó a recomprar acciones por hasta $ 160.000 millones",
+     "resumen": "La entidad adquirirá hasta 20 millones de títulos propios durante 45 días. En la primera jornada del programa informó compras por más de $ 5.000 millones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/467998-banco-macro-ya-empezo-a-recomprar-acciones-y-destinara-hasta-160-000-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/05/616224.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:58",
+     "autor": "",
+     "titulo_original": "Banco Macro ya empezó a recomprar acciones y destinará hasta $160.000 millones"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "Cinco decisiones empresariales que terminaron en pérdidas millonarias",
+     "resumen": "Un repaso de operaciones de fusiones y adquisiciones mostró casos de grandes compañías que pagaron fortunas por otras empresas y terminaron registrando pérdidas millonarias. El informe repasa los errores de diagnóstico y de integración más comunes detrás de esos fracasos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/468000-cinco-decisiones-empresariales-que-terminaron-en-perdidas-millonarias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628872.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:58",
+     "autor": "",
+     "titulo_original": "Cinco decisiones empresariales que terminaron en pérdidas millonarias"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "Las encuestas auguran una debacle legislativa para los republicanos y Trump",
+     "resumen": "Los sondeos previos a los comicios de medio término en Estados Unidos anticipan un avance demócrata en el Congreso, con posibles sorpresas en territorios tradicionalmente conservadores. El Partido Republicano enfrenta el desgaste de la impopularidad de Trump y problemas económicos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/las-ultimas-encuestas-auguran-una-debacle-legislativa-para-los-republicanos-y-trump_0_vDHwOpoI99.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Las últimas encuestas auguran una debacle legislativa para los republicanos y Trump"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "Elecciones de medio término en Estados Unidos: avanza el voto anticipado",
+     "resumen": "Más de 54,8 millones de estadounidenses ya votaron de manera anticipada antes de los comicios de mañana. Según una encuesta de la empresa Leger, entre los votantes decididos el 52% apoya al candidato demócrata frente a un 45% que respalda al republicano.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/washington/elecciones-estados-unidos-2026-en-vivo-que-se-sabe-de-las-midterms-y-resultados-entre-republicanos-y-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5ZD2SB57QNFVVBCETOPM5GCFGA.JPG?auth=5562443911c1131b647809ad7ae90643e42cf7bf39b304ee33ab2ca589a34353&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:42",
+     "autor": "Vanessa Castillo",
+     "titulo_original": "Elecciones USA 2026: cómo avanzan las midterms y resultados entre republicanos y demócratas hoy lunes 2 de noviembre"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Giro inesperado en Michigan: una demócrata apoya al candidato republicano al Senado",
+     "resumen": "La congresista Haley Stevens, que quedó afuera de la carrera electoral tras perder las primarias, expresó su respaldo a Mike Rogers en la definición clave por una banca del Senado. El anuncio profundizó las divisiones dentro de su espacio político.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/mundo/giro-inesperado-michigan-un-democrata-apoya-un-republicano-una-batalla-clave-el-senado-las-elecciones-eeuu-n6340470",
+     "imagen": "https://media.ambito.com/p/71f517c915b6c358da1d22d64c5f9c5f/adjuntos/239/imagenes/043/428/0043428127/elecciones-eeuu.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:53",
+     "autor": "",
+     "titulo_original": "Giro inesperado en Michigan: una demócrata apoya al Partido Republicano en la batalla clave por el Senado de las elecciones en EEUU"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "El precio de la nafta marca un récord en Estados Unidos en la previa electoral",
+     "resumen": "Según un análisis del Financial Times, el precio promedio del galón durante el segundo mandato de Trump superará los US$ 3,46, por encima del máximo registrado bajo la administración Biden. El costo de vida y del combustible domina la agenda de las elecciones de medio término.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/nafta-record-los-precios-se-disparan-bajo-trump-en-la-previa-de-las-elecciones-de-eeuu/",
+     "imagen": "https://www.cronista.com/resizer/v2/RBCLCPUDBBF6NOACHBPQ2TINNQ.jpg?auth=6b9a06d5880fc9b1360007f7f80bb5b5df6400d2275332f70f9238b63769161c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:36",
+     "autor": "Myles Mccormick, Jamie Smyth",
+     "titulo_original": "Nafta récord: los precios se disparan bajo Trump en la previa de las elecciones de EE.UU."
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Estados Unidos y Canadá se acercan a un acuerdo para terminar la guerra de aranceles",
+     "resumen": "Tras la ruptura de las negociaciones en agosto, ambos gobiernos reanudaron el diálogo para eliminar barreras comerciales. El encarecimiento de insumos clave había afectado la logística interna en Estados Unidos y la campaña electoral republicana en estados fronterizos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/eeuu-y-canada-se-acercan-un-acuerdo-poner-fin-la-guerra-aranceles-n6340408",
+     "imagen": "https://media.ambito.com/p/ca15624272455485fb85ed2b3ad281e7/adjuntos/239/imagenes/043/721/0043721161/donald-trump.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:27",
+     "autor": "",
+     "titulo_original": "EEUU y Canadá se acercan a un acuerdo para poner fin a la guerra de aranceles"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Francia probó un robot albañil capaz de construir 60 metros cuadrados de muro por día",
+     "resumen": "El dispositivo, llamado WLTR, operó durante una semana de demostraciones en Chilly-Mazarin, cerca de París, desarrollado por Bouygues Construction. La compañía planea aplicar un modelo de alquiler con operador especializado y espera llevarlo a obras reales en 2027, ante la escasez de mano de obra calificada en el sector.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/02/francia-prueba-un-robot-albanil-capaz-de-construir-60-metros-cuadrados-de-muro-en-un-dia-llegaria-a-las-obras-en-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/O7KDVBVFUVC7TI67K6COTC4HGI.png?auth=55adfc17bdffd464865a59716aadba6d38abbbeb771d590204047bd94e6913a5&smart=true&width=618&height=348",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:15",
+     "autor": "Ismael Yasnikowski",
+     "titulo_original": "Francia prueba un robot albañil capaz de construir 60 metros cuadrados de muro en un día: llegaría a las obras en 2027"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-23",
+     "titulo": "Franco Colapinto fue sancionado y cayó al puesto 15 en el Gran Premio de México",
+     "resumen": "El piloto argentino recibió una penalización de diez segundos que lo hizo caer del octavo al puesto 15, perdiendo los puntos que había sumado para Alpine. El equipo destacó su rendimiento en pista pero lamentó el resultado final tras la sanción.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/franco-colapinto-sancionado-cayo-al-puesto-15-y-perdio-los-puntos-una-penalizacion-el-gp-mexico-n6340451",
+     "imagen": "https://media.ambito.com/p/33291f76cefc7b437b192ae1098b6bae/adjuntos/239/imagenes/043/723/0043723328/1200x675/359x137:379x157/franco-colapinto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:18",
+     "autor": "",
+     "titulo_original": "Franco Colapinto sancionado: cayó al puesto 15 y perdió los puntos por una penalización en el GP de México"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Las polémicas del superclásico siguen vivas tras el arbitraje de Nicolás Ramírez",
+     "resumen": "El árbitro expulsó a Lucas Martínez Quarta a los 10 minutos del primer tiempo y a Gonzalo Montiel a los 34 del segundo, en el triunfo de Boca por 1 a 0 ante River en la Bombonera. El repaso de las acciones muestra criterios dispares para sancionar a ambos equipos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/todas-las-polemicas-del-superclasico-entre-boca-y-river-con-nicolas-ramirez-en-el-centro-de-la-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SGFFXIQPXVE4XHBSRHVFM6I3LU.jpg?auth=3bfcfb3475e3d40568310479a95bf161cbcbc54899cd457b60b240c6c508b496&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:30",
+     "autor": "",
+     "titulo_original": "Todas las polémicas del superclásico entre Boca y River, con Nicolás Ramírez en el centro de la escena"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Ten Hag asegura que el declive de Cristiano Ronaldo empezó hace ocho años",
+     "resumen": "El exentrenador del Manchester United volvió a cuestionar el compromiso físico y el aporte del delantero portugués al equipo. También elogió al Real Madrid por haberlo vendido en el momento justo, en declaraciones que reavivan una vieja disputa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/erik-ten-hag-destrozo-cristiano-ronaldo-aseguro-declive-comenzo-hace-anos-juventus-termino_0_XySunKYLox.html",
+     "imagen": "https://www.clarin.com/img/2026/10/20/QZ4SovcoIt_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Erik Ten Hag destrozó a Cristiano Ronaldo y aseguró que su declive comenzó hace ocho años: \"Desde Juventus, se terminó\""
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Alexander Zverev se convirtió en el número uno del ranking ATP",
+     "resumen": "El alemán se ubicó este lunes en la cima del tenis mundial, el segundo jugador alemán en lograrlo después de Boris Becker. El español Rafa Jódar se metió en el Top 10 y rompió un récord de Guga Kuerten.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/alexander-zverev-estreno-1-ranking-atp-segundo-aleman-historia-inesperado-entrometido-sinner-alcaraz_0_jsVpQT2M1a.html",
+     "imagen": "https://www.clarin.com/img/2026/10/30/qvC30tb6Wf_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alexander Zverev estrenó el \"1\" del ranking ATP: el segundo alemán de la historia y el inesperado entrometido entre Sinner y Alcaraz"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Arde la interna en Ferrari tras el incidente entre Hamilton y Leclerc en México",
+     "resumen": "El director de la escudería, Fred Vasseur, cuestionó a ambos pilotos tras el Gran Premio de México, donde el duelo entre ellos en la largada dejó a Ferrari sin la victoria y abrió el camino para el triunfo de Max Verstappen.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/02/arde-la-interna-en-ferrari-tras-el-incidente-entre-hamilton-y-leclerc-en-la-largada-del-gp-de-mexico-de-formula-1-una-falta-de-respeto-a-la-marca/",
+     "imagen": "https://www.infobae.com/resizer/v2/BBFPPYLEDNA57B5HRDJE3VET4Q.JPG?auth=105d9e2e36a6cdfc2a9052184100a02c0b69329df175c9b34e69c9bf10c83230&smart=true&width=900&height=542",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:11",
+     "autor": "",
+     "titulo_original": "Arde la interna en Ferrari tras el incidente entre Hamilton y Leclerc en la largada del GP de México de Fórmula 1: \"Una falta de respeto a la marca\""
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Comenzó el Mundial de pádel en Qatar con la Argentina defendiendo la corona",
+     "resumen": "La selección argentina se midió este lunes con Chile en mujeres y con Australia en varones, en la cita que reúne a los 32 mejores equipos del mundo en Doha. El equipo nacional busca retener el título que ganó en 2024, también en Qatar.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/padel/comienza-el-mundial-de-padel-en-qatar-la-seleccion-argentina-defiende-la-corona-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WB2N4MSPB5FIHHKCWHTBYOMAYI.jpeg?auth=2ae17718d82fd74c502d1641cd9c961dd9bf139fdb0e1a721f7547941dd1a137&smart=true&width=900&height=529",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:22",
+     "autor": "",
+     "titulo_original": "Comienza el Mundial de pádel en Qatar: la selección argentina defiende la corona"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Jack Grealish fue apartado de Everton tras incumplir la disciplina del club",
+     "resumen": "El delantero inglés, cedido por Manchester City, no fue convocado para el último partido de la Carabao Cup luego de que trascendieran dos salidas nocturnas en Londres y Cheshire. El club no detalló públicamente las razones de la sanción.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/02/una-figura-de-la-premier-league-paso-dos-noches-de-fiesta-y-recibio-una-sancion-de-su-club-todos-bebieron-bastante/",
+     "imagen": "https://www.infobae.com/resizer/v2/S2JUSTDFIZEAFNIBUVFM24XXWI.jfif?auth=784cecc889278f02f6aef7a4febea7c8da136cb5b855eeebc99458eeea3a4db1&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:37",
+     "autor": "",
+     "titulo_original": "Una figura de la Premier League pasó “dos noches de fiesta” y recibió una sanción de su club: “Todos bebieron bastante”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-21",
+     "titulo": "Buscan voluntarios para una huerta orgánica en Villa Meliquina, Neuquén",
+     "resumen": "Una familia argentina ofrece alojamiento a cambio de colaborar en tareas domésticas y en una huerta orgánica, en este pueblo de montaña a 40 kilómetros de San Martín de los Andes. La convocatoria se realiza a través de la plataforma Workaway.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-en-un-pueblito-cerca-de-san-martin-de-los-andes-ofrecen-alojamiento-a-cambio-de-ayudar-en-una-huerta-organica/",
+     "imagen": "https://www.cronista.com/resizer/v2/TXV3LIGSDRFZDPV4BKU3DAB7BU.jpg?auth=28476844726fce25261330cf2f7a368bb37a26a900c47e02ad47784e43cf70b2&smart=true&width=900&height=445",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:51",
+     "autor": "María Laura Ruberto",
+     "titulo_original": "Buscan voluntarios en un pueblito cerca de San Martín de los Andes: ofrecen alojamiento a cambio de ayudar en una huerta orgánica"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Por qué se agotan las reservas para alquilar en Punta del Este",
+     "resumen": "Las consultas y reservas para la próxima temporada de verano crecen desde el invierno, lo que impulsa valores altos en las zonas más exclusivas del balneario uruguayo. La demanda anticipada se da pese a la incertidumbre cambiaria regional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/468053-cuanto-cuesta-alquilar-punta-del-este-agotan-reservas-fin-ano-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608601.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:18",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta alquilar en Punta del Este y por qué se agotan las reservas para fin de año"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CR-23",
+     "titulo": "Argentina sumará la vacuna séxtuple acelular al calendario obligatorio",
+     "resumen": "La medida, dispuesta por el Ministerio de Salud, alcanzará a la población nacida a partir del 1° de enero de 2028 y previene difteria, tétanos, tos convulsa, hepatitis B, poliomielitis e infecciones por Haemophilus influenzae tipo b. Se aplicará en un esquema de tres dosis.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Sumarán la vacuna hexavalente al calendario oficial: qué porcentaje de cobertura tiene y cómo se aplicará",
+       "url": "https://www.clarin.com/sociedad/sumaran-vacuna-hexavalente-calendario-oficial-porcentaje-cobertura-aplicara_0_wpx6LNAZ1R.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/argentina-sumara-una-nueva-vacuna-al-calendario-obligatorio-cual-es-y-a-quienes-alcanzara/",
+     "imagen": "https://www.cronista.com/resizer/v2/YXEJSHJ33BF6PPSF64C4UYYUQY.jpg?auth=c2a4326480f0a532d4a8c98e40845ca5c4f2964d8b62d2850c37f852d0315e78&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:50",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Argentina sumará una nueva vacuna al calendario obligatorio: cuál es y a quiénes alcanzará"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "El SMN prevé un verano más lluvioso y con temperaturas más bajas por el Súper Niño",
+     "resumen": "El pronóstico trimestral para noviembre, diciembre y enero anticipa mayores probabilidades de precipitaciones en Córdoba, el oeste de Santa Fe, el Litoral, La Pampa y buena parte de la provincia de Buenos Aires. El fenómeno podría condicionar los planes de vacaciones de verano en esas zonas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/verano-con-mas-lluvias-y-menos-calor-que-preve-el-smn-para-los-proximos-tres-meses-y-las-provincias-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EXRNYWIT6RAJLHW2332J6BYXGU.JPG?auth=09f7bd7d19a16f0f25857bc2a82b13a195e175365eff69c913fabfa65ce08eec&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:06",
+     "autor": "",
+     "titulo_original": "Verano con más lluvias y menos calor: qué prevé el SMN para los próximos tres meses y las provincias donde se sentirá más el Súper Niño"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Condenaron a un exespía rosarino por filtrar información a Los Monos",
+     "resumen": "Un exagente de la Secretaría de Inteligencia del Estado en Rosario recibió una pena de un año y seis meses de prisión por filtrar datos sensibles a la organización narcocriminal a través de un policía exonerado. Recuperó la libertad por el tiempo que estuvo detenido en Ezeiza.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/11/02/condenaron-a-un-exespia-rosarino-por-filtrarle-informacion-a-los-monos/",
+     "imagen": "https://www.infobae.com/resizer/v2/I5ANBCOCGNBELJKNE7HMP4RBWI.jpg?auth=ab60256eb501443aaaf7af746ed3c704ee926e6b530c18e7d813c44f9aea218f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:57",
+     "autor": "Iago Vieyra",
+     "titulo_original": "Condenaron a un exespía rosarino por filtrarle información a Los Monos"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen del mediodía del lunes 2 de noviembre. El dólar oficial tocó hoy el valor nominal más alto del año, mientras el riesgo país mejora y perfora los setecientos ochenta puntos en la previa de las elecciones de medio término en Estados Unidos. Cristina Kirchner reafirmó en una entrevista que no descarta ser candidata en 2027, Javier Milei viaja mañana a España en medio de un cruce con Pedro Sánchez, y el retail sigue con ajustes, con el cierre de otra sucursal de Megatone y la reducción de producción de BASF en Santa Fe. El dólar oficial cerró en mil quinientos sesenta y cinco pesos para la venta en el Banco Nación, el blue también en mil quinientos sesenta y cinco, el oro cotiza en tres mil novecientos sesenta y nueve dólares la onza, y el riesgo país ronda los setecientos ochenta puntos básicos.\n\nEn política, Milei viaja mañana a España para la Cumbre Iberoamericana, en medio de un nuevo cruce con Pedro Sánchez, que sin nombrarlo dijo que España se gobierna desde España y no desde Buenos Aires, días después de que el Presidente lo llamara dictador en Madrid. Cristina Kirchner, en su primera entrevista a un medio extranjero desde su condena por corrupción, contó cómo es su rutina en prisión domiciliaria, no descartó una candidatura para 2027 y vaticinó una derrota de Trump mañana. En los tribunales comenzó la tercera audiencia del juicio Hotesur y Los Sauces, que investiga el presunto lavado de dinero de la familia Kirchner. La Cámara Nacional Electoral habilitó la consulta del padrón provisorio para las elecciones de 2027, disponible hasta el 30 de noviembre. ATE anunció una protesta en 27 aeropuertos para el viernes 6 de noviembre, que podría generar demoras dos días antes de la llegada del papa León XIV. Y en Río Negro, el tercer puesto de La Libertad Avanza en Bariloche llevó a los libertarios a replantear su estrategia con los gobernadores de cara a 2027.\n\nEn economía y mercados, el dólar oficial minorista subió cinco pesos y llegó a mil quinientos sesenta y cinco pesos en el Banco Nación, el valor nominal más alto del que se tenga registro, aunque en el año avanzó muy por debajo de la inflación acumulada. El riesgo país, que había cerrado octubre en su nivel más alto desde las elecciones de 2025, mejora hoy y perfora los setecientos ochenta puntos, mientras las acciones argentinas suben hasta cuatro por ciento en Wall Street. El superávit energético se duplicó en septiembre y, junto con una liquidación del agro de dos mil ochocientos ochenta millones de dólares en octubre, el mejor registro para ese mes en veinticinco años, ayuda al Gobierno a sostener la oferta de divisas, aunque las reservas del Banco Central cayeron más de dos mil cien millones de dólares en septiembre. Y el Bank of America mantiene su recomendación de comprar deuda argentina pensando en el horizonte de 2027, aunque reconoce que la demanda todavía no acompaña esa visión.\n\nEn negocios y empresas, los socios que controlan Adecoagro compraron al Grupo Benetton sus compañías de tierras en la Argentina, con campos en Buenos Aires, Chubut, Santa Cruz y Río Negro. El Gobierno porteño avanza en la adjudicación de la línea F del subte, que buscaría otorgarse en diciembre para iniciar obras a comienzos de 2027. Telecom, que compró Movistar, ofrece a sus empleados una indemnización voluntaria con un plus del treinta por ciento. El Grupo Plantium, fabricante de maquinaria agrícola, cerró temporalmente su planta en Villa Constitución, Santa Fe, con más de cien despidos y una deuda de trece mil setecientos millones de pesos. Y crece el negocio de servicios alrededor de Vaca Muerta, con las exportaciones de combustibles y energía subiendo casi un cuarenta y nueve por ciento interanual.\n\nEn impuestos, laboral y normativa, un fallo judicial habilitó el ajuste por inflación integral en Ganancias, incluyendo los quebrantos de años anteriores, un antecedente relevante para empresas con pérdidas impositivas acumuladas. Los bancarios cobrarán antes del 6 de noviembre el bono por su día, de dos millones doscientos setenta mil pesos. Y comenzaron a llegar los primeros telegramas de despido a trabajadores del IOSFA, la obra social de las Fuerzas Armadas, en el marco del achicamiento dispuesto por el Ministerio de Defensa.\n\nEn consumo, construcción y retail, Megatone cerró su tercera sucursal en menos de dos meses, en Córdoba, Entre Ríos y Misiones, y apuesta a concentrar ventas en plataformas digitales, en un contexto de caída del empleo en el sector. El grupo alemán BASF redujo su producción en Santa Fe por la menor demanda y el aumento de costos, lo que generó el reclamo del gremio. En Escobar se construyen cuatro nuevos shoppings con locales, gastronomía y cines. Noviembre llegó con una serie de aumentos para los hogares, que ya afectan a los colectivos, el subte y las prepagas, y que en los próximos días alcanzarán también a peajes, luz, gas, agua y algunos alquileres, la mayoría por encima de la inflación de septiembre. Para una empresa del sector, estos ajustes de costos y la caída del empleo en cadenas como Megatone son una señal de un consumo que sigue exigiendo atención en precios y financiación. Por otro lado, el Gobierno porteño habilitó la última rampa del Puente Labruna, que completa las conexiones viales en Núñez, por donde circulan más de trescientas cincuenta mil personas por día.\n\nEn management y finanzas corporativas, entre los perfiles que más buscan las multinacionales instaladas en la Argentina, la contabilidad y las finanzas siguen destacándose, junto con los puestos vinculados a la automatización y la tecnología. Banco Macro comenzó a recomprar sus propias acciones, por hasta ciento sesenta mil millones de pesos durante cuarenta y cinco días. Y Fernando Broder, contador público y licenciado en administración de empresas por la Universidad de Buenos Aires, contó cómo llegó a liderar la tecnología de Assist Card a nivel global, con la omnicanalidad, la autogestión y la inteligencia artificial como ejes de su estrategia.\n\nEn el mundo, las encuestas previas a las elecciones de medio término en Estados Unidos anticipan un avance demócrata en el Congreso, en un contexto de impopularidad de Trump y problemas económicos; según una encuesta de la empresa Leger, el cincuenta y dos por ciento de los votantes decididos apoya al candidato demócrata frente a un cuarenta y cinco por ciento que respalda al republicano. En un giro inesperado, la congresista demócrata Haley Stevens, que quedó afuera de la carrera electoral en las primarias de Michigan, expresó su respaldo al republicano Mike Rogers por una banca clave en el Senado. Estados Unidos y Canadá se acercan a un acuerdo para terminar con la guerra de aranceles que afectó la logística y el comercio entre ambos países. Y en Francia, una empresa constructora probó por primera vez un robot albañil capaz de levantar hasta sesenta metros cuadrados de pared por día, que llegaría a las obras reales en 2027 ante la escasez de mano de obra calificada.\n\nEn deportes, Franco Colapinto fue sancionado con diez segundos de penalización en el Gran Premio de México y cayó del octavo al puesto quince, perdiendo los puntos que había sumado para Alpine. El superclásico entre Boca y River sigue dando que hablar por el arbitraje de Nicolás Ramírez, que expulsó a Lucas Martínez Quarta en el primer tiempo y a Gonzalo Montiel en el segundo, en el triunfo de Boca por uno a cero. Erik Ten Hag volvió a cargar contra Cristiano Ronaldo y aseguró que su declive comenzó hace ocho años, cuando dejó la Juventus. El alemán Alexander Zverev se convirtió en el número uno del ranking de la ATP, el segundo tenista alemán en lograrlo después de Boris Becker. En la Fórmula 1, el director de Ferrari, Fred Vasseur, cuestionó a Charles Leclerc y Lewis Hamilton por el incidente entre ambos en la largada del Gran Premio de México. Y comenzó en Qatar el Mundial de pádel, con la selección argentina defendiendo la corona que ganó en 2024.\n\nEn turismo, Villa Meliquina, un pueblo de montaña a cuarenta kilómetros de San Martín de los Andes, en Neuquén, ofrece una propuesta distinta para quienes buscan contacto con la naturaleza: una familia local busca voluntarios que colaboren en una huerta orgánica a cambio de alojamiento. Y en Punta del Este, las consultas y reservas para la temporada de verano crecen desde el invierno, lo que impulsa valores altos en las zonas más exclusivas del balneario uruguayo.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Le Grand Continent no publicó notas nuevas desde la edición de la mañana (sigue disponible la nota sobre el despliegue militar de Bukele en Haití), por lo que se omitió la sección Europa y geopolítica en esta edición. No se detectaron fallas de descarga en las demás fuentes.",
+ "slug": "2026-11-02-mediodia",
+ "generado_ba": "02/11/2026 16:01"
+}
