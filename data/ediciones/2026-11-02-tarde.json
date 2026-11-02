@@ -1,0 +1,833 @@
+{
+ "fecha": "2026-11-02",
+ "edicion": "tarde",
+ "titulo": "El riesgo país supera los 800 puntos, el petróleo se desploma y Chacarita salva la categoría",
+ "apertura": "El cierre de la rueda trajo el dato más duro de la jornada: el riesgo país volvió a dispararse y superó los 800 puntos básicos, con los ADR argentinos cayendo hasta 13% en Wall Street, mientras el dólar oficial y el mayorista marcaron nuevos máximos nominales. A nivel internacional, el petróleo se desplomó más de 7% tras señales de que Irán y Estados Unidos podrían reanudar el diálogo para reabrir el estrecho de Ormuz, a un día de las elecciones de medio término que definen el control del Congreso norteamericano. En la agenda local, Javier Milei recibió en la Casa Rosada al enviado especial de Trump contra el antisemitismo, continuó el juicio por Hotesur y Los Sauces, y en el fútbol de ascenso Chacarita venció a Nueva Chicago y lo mandó a la B Metropolitana.",
+ "claves": [
+  "El riesgo país volvió a dispararse esta tarde: El Cronista lo ubicó en 803 puntos básicos, con ADR cayendo hasta 13%, mientras Ámbito e Infobae reportaron valores algo más moderados, entre 790 y 797 puntos.",
+  "El dólar oficial y el mayorista cerraron en nuevos máximos nominales, en $ 1.565 y $ 1.545,50 para la venta respectivamente, con la brecha con el blue en su nivel más bajo en cuatro meses.",
+  "El petróleo (Brent y WTI) se desplomó más de 7%, y según algunas fuentes cerca de 10%, tras señales de que Irán podría negociar con Estados Unidos la reapertura del estrecho de Ormuz.",
+  "El BCRA acumula reservas por US$ 15.963 millones en el año y sobrecumplió en US$ 4.000 millones la meta con el FMI, aunque todavía resta camino para los US$ 19.500 millones que proyectó Caputo.",
+  "Javier Milei recibió en la Casa Rosada al enviado especial de Donald Trump contra el antisemitismo, en la previa de las elecciones legislativas estadounidenses de mañana.",
+  "En el juicio por Hotesur y Los Sauces, la fiscalía detalló cómo los Kirchner habrían extraído más de 10 millones de pesos del dinero lavado mediante préstamos simulados a su inmobiliaria familiar.",
+  "Chacarita venció 2 a 0 a Nueva Chicago en San Martín y se quedó en la Primera Nacional; el descendido a la B Metropolitana es Nueva Chicago.",
+  "Un turista argentino murió junto a su instructor al accidentarse en un vuelo de bautismo en ala delta en la playa de São Conrado, en Río de Janeiro."
+ ],
+ "cifras": [
+  {
+   "nombre": "Índice Merval (MSCI, en pesos)",
+   "valor": "89.070,13 puntos",
+   "variacion": "-3,27%",
+   "fuente": "IB-07"
+  },
+  {
+   "nombre": "Petróleo (Brent y WTI)",
+   "valor": "cae más de 7%",
+   "fuente": "CL-02"
+  },
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "US$ 15.963 millones acumulados en el año",
+   "fuente": "LN-01"
+  },
+  {
+   "nombre": "Nafta y gasoil en Argentina",
+   "valor": "+16% en dólares entre febrero y septiembre",
+   "variacion": "vs. +9% promedio regional",
+   "fuente": "CL-19"
+  },
+  {
+   "nombre": "Liquidación de cerealeras en 2026",
+   "valor": "US$ 28.200 millones",
+   "variacion": "-10% vs. 2025",
+   "fuente": "LN-02"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "Quirno negó preocupación por eventuales críticas del Papa durante su visita",
+     "resumen": "El canciller aseguró que el Gobierno no teme los mensajes que pueda expresar León XIV y que la agenda de la visita, prevista del 8 al 11 de noviembre, no se modificó pese a la recuperación médica del Pontífice. Confirmó además que la vicepresidenta Victoria Villarruel participará del encuentro en el Palacio Libertad.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/02/quirno-nego-que-haya-preocupacion-por-criticas-del-papa-en-su-visita-lo-que-tenga-que-decir-lo-dira-y-esta-perfecto/",
+     "imagen": "https://www.infobae.com/resizer/v2/5SP6WNBETBD73N2YSJHGKOKFHE.jpg?auth=41c385a413c990dfc9c9cb94b9635cf3cecfea9b9949bbbaaddacb7172473a45&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:06",
+     "autor": "",
+     "titulo_original": "Quirno negó que haya preocupación por críticas del Papa en su visita: “Lo que tenga que decir lo dirá y está perfecto”"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Milei se reunió con el enviado especial de Trump contra el antisemitismo",
+     "resumen": "Del encuentro en la Casa Rosada participaron el canciller Pablo Quirno y el embajador Peter Lamelas. El rabino Yehuda Kaploun analizó con el Presidente la situación posterior a los atentados de Hamas del 7 de octubre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/javier-milei-reunio-casa-rosada-enviado-especial-donald-trump-antisemitismo_0_SVrHnBNGSC.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/yXmS-IZrx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:58",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei se reunió en la Casa Rosada con el enviado especial de Donald Trump contra el antisemitismo"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "El Tribunal del Mar escuchará en noviembre el reclamo argentino contra Gran Bretaña por Malvinas",
+     "resumen": "El Tribunal Internacional de Derechos del Mar, con 21 jueces y la argentina Frida Armas en la vicepresidencia, desarrollará el 10 y 11 de noviembre las audiencias por la demanda del Gobierno contra la explotación petrolera del proyecto Sea Lion en aguas cercanas a las islas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/que-es-y-como-funciona-el-tribunal-del-mar-que-escuchara-el-reclamo-argentino-por-la-explotacion-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NELQ6UP535E6XPGPB4NM4GVD4E.jpg?auth=e873303149943dac31c3223292ff4448809a95681658305aeb181216dc6ea372&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:08",
+     "autor": "Jaime Rosemberg",
+     "titulo_original": "Qué es y cómo funciona el Tribunal del Mar, que escuchará el reclamo argentino por la explotación petrolera en Malvinas"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Juicio Hotesur-Los Sauces: la fiscalía detalló cómo los Kirchner \"extrajeron\" más de 10 millones de pesos",
+     "resumen": "En la tercera audiencia del proceso oral, los fiscales explicaron el mecanismo de préstamos simulados a la inmobiliaria familiar que habría permitido justificar la salida de fondos originados en contratos con el Estado hacia gastos particulares y honorarios de la familia.",
+     "relacionadas": [
+      {
+       "id": "LN-06",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Javier Milei y sus medidas, en vivo: “Los que prometieron el paraíso nos terminaron conduciendo al infierno”, dijo el Presidente",
+       "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-que-prometieron-el-paraiso-nos-terminaron-conduciendo-al-nid02112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/juicio-hotesur-los-sauces-revelaron-kirchner-extrajeron-10-millones-dinero-lavado_0_W2FAfE78Ix.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/EQp-8DC4m_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juicio por Hotesur-Los Sauces: revelaron cómo los Kirchner \"extrajeron más de $ 10 millones del dinero lavado\""
+    },
+    {
+     "id": "CL-12",
+     "titulo": "El creador del \"ejército digital\" de Lula se reunió con Cristina Kirchner y Sergio Massa",
+     "resumen": "El diputado brasileño André Janones, estratega de comunicación digital de la reelección de Lula, mantuvo encuentros por separado con el Frente Renovador y con la expresidenta en San José 1111, en momentos en que el peronismo evalúa replicar esa estrategia para 2027.",
+     "relacionadas": [
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Tras reunirse con Massa, el “general” digital de Lula visita a CFK: cómo es el “ejército” que arma el peronismo",
+       "url": "https://www.cronista.com/economia-politica/massa-se-reunio-con-el-general-digital-de-lula-y-el-peronismo-ya-arma-su-propio-ejercito/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/foco-2027-massa-recibio-andre-janones-creador-ejercito-digital-lula_0_uKUTqDKpGQ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/zFzazuf5V_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Con foco en 2027, el creador del \"ejército digital\" de Lula se reunió con Cristina y con Massa"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "El Senado tiene poca actividad esta semana, aunque podría haber dictamen de discapacidad",
+     "resumen": "Un sector del oficialismo busca emitir dictamen este miércoles al proyecto de ley de discapacidad tal como lo aprobó Diputados, pero el quórum está en duda por el viaje de varios senadores a observar las elecciones en Estados Unidos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-senado-con-poca-actividad-sin-sesion-esta-semana-podria-haber-dictamen-de-discapacidad-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NZ3M3P2ZUFGW3BULDVEI7FCY3I.jpg?auth=8a7c55e765a7076ba12e93d759755a2a6a6276cf08b8ddeffefc697bf7e861ad&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:49",
+     "autor": "Gustavo Ybarra",
+     "titulo_original": "El Senado con poca actividad: sin sesión esta semana, podría haber dictamen de discapacidad"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "El riesgo país superó los 800 puntos y los ADR cayeron hasta 13%",
+     "resumen": "El indicador subió hasta los 803 puntos básicos, un nuevo máximo en el último año, y ya acumula una suba de 40% en lo que va de 2026. Entre los ADR más golpeados estuvieron Irsa, Cresud (-7,9%) e YPF (-6,7%), mientras Mercado Libre y Globant fueron las únicas acciones que subieron. Para una empresa: la persistencia de spreads tan elevados sigue encareciendo cualquier financiamiento externo en dólares.",
+     "relacionadas": [
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Caen las acciones argentinas en Wall Street y el riesgo país se acerca a los 800 puntos",
+       "url": "https://www.iprofesional.com/finanzas/468114-caen-las-acciones-argentinas-en-wall-street-y-el-riesgo-pais-se-acerca-a-los-800-puntos"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los ADRs se hunden hasta casi 7% y el riesgo país esta a un paso de superar los 800 puntos",
+       "url": "https://www.ambito.com/finanzas/los-bonos-dolares-cotizan-mixtos-pero-el-riesgo-pais-permanece-cerca-los-790-puntos-n6340466"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-riesgo-pais-roza-los-800-puntos-y-los-adr-caen-hasta-13/",
+     "imagen": "https://www.cronista.com/resizer/v2/JOYXWZQLIBCUTAQ6FM7TB2HPFY.jpg?auth=28099dd564846e884cf7b3f0afdb532cdab870d23d9bdfa7e41fdce532288a1f&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:49",
+     "autor": "Leandro Dario",
+     "titulo_original": "El riesgo país superó los 800 puntos y los ADR cayeron hasta 13%"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "El BCRA sobrecumplió la meta con el FMI, pero aún falta para la cifra que proyectó Caputo",
+     "resumen": "La entidad acumula US$ 15.963 millones en el año y el Fondo destacó que se superó en US$ 4.000 millones el objetivo pactado. Para llegar a los US$ 19.500 millones que estimó el ministro de Economía, el Central debería comprar en promedio US$ 90 millones por rueda hasta diciembre, un ritmo que solo superó en tres meses del año.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/reservas-el-bcra-sobrecumplio-la-meta-con-el-fmi-pero-aun-falta-para-alcanzar-la-cifra-que-proyecto-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BARCXNG22ZGTTIEDUQ6EI2BRFA.png?auth=ab75931da4676dcb7e1a7f252d4130b8afbd11a8f250522a9f785de03c9c4422&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:05",
+     "autor": "Sofía Diamante",
+     "titulo_original": "Reservas: el BCRA sobrecumplió la meta con el FMI, pero aún falta para alcanzar la cifra que proyectó Caputo"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Pese al récord de octubre, las cerealeras ingresarían 10% menos divisas que el año pasado",
+     "resumen": "La agroexportación aportaría unos US$ 28.200 millones en 2026, frente a los US$ 31.400 millones de 2025. La baja de los precios internacionales y la evolución del conflicto en el Mar Negro explican buena parte de la caída proyectada, pese al fuerte ingreso de octubre.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/dolares-pese-al-record-de-octubre-en-2026-las-cerealeras-ingresarian-con-us28200-millones-un-10-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XCXH6IPTTBHVLKU5OWQXCWW4BA.jpg?auth=4bdadc4ea3a1522dbf02ac0678c4078a5f10a5f1994427b80773ce22550d26fa&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:05",
+     "autor": "Mariana Reinke",
+     "titulo_original": "Dólares: pese al récord de octubre, en 2026 las cerealeras ingresarían, con US$28.200 millones, un 10% menos que el año pasado"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Irán afirmó que su líder supremo habilitó negociar con Estados Unidos y el petróleo se desplomó",
+     "resumen": "El presidente iraní Masoud Pezeshkian dijo que Jamenei dio al Gobierno una \"cierta capacidad\" para dialogar sobre el fin de la guerra. La noticia hizo caer al Brent cerca de 10%, a un día de las elecciones de medio término en Estados Unidos, tras las cuales Trump amenazó con retomar los bombardeos si no hay acuerdo.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Brusca caída del petróleo por posible reanudación de negociaciones en Oriente Medio",
+       "url": "https://www.clarin.com/estados-unidos/brusca-caida-del-petroleo-por-posible-reanudacion-de-negociaciones-en-oriente-medio_0_z33rYnZ6ot.html"
+      },
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Los Pumas 7's le dieron la tercera medalla a la Argentina en Dakar 2026: se le escapó la semifinal pero ganaron el bronce contra Canadá",
+       "url": "https://www.clarin.com/deportes/pumas-7s-dieron-tercera-medalla-argentina-dakar-2026-escapo-semifinal-ganaron-bronce-canada_0_9pXGwsghhW.html"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/11/02/el-presidente-de-iran-afirmo-que-el-lider-supremo-dio-al-gobierno-facultades-para-negociar-con-estados-unidos/",
+     "imagen": "https://www.infobae.com/resizer/v2/VXJULAXHZRCYZMGH4XSFMF3ZNA.JPG?auth=f7554f83850a62692075614ecfed877b0ced2f40093f2c24c0f80e7ecf1122e7&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:57",
+     "autor": "",
+     "titulo_original": "El presidente de Irán afirmó que el líder supremo dio al Gobierno facultades para negociar con Estados Unidos"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "Estiman que el Estado perderá cerca de US$ 3.000 millones por contrabando y subfacturación en 2026",
+     "resumen": "Un cálculo privado sobre 15 sectores de la economía proyectó una pérdida de US$ 2.855 millones (0,4% del PBI) y la no generación de 11.300 empleos formales. El tema se debatirá en la 32ª Conferencia Industrial de la UIA. Para una empresa: la competencia desleal del contrabando presiona los márgenes de los operadores que sí compiten en el circuito formal.",
+     "relacionadas": [
+      {
+       "id": "CR-02",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Contrabando: la recaudación multimillonaria que pierde el Gobierno y los empleos en riesgo",
+       "url": "https://www.cronista.com/economia-politica/contrabando-la-recaudacion-multimillonaria-que-pierde-el-gobierno-y-los-empleos-en-riesgo/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/estiman-que-el-estado-perdera-cerca-de-us3000-millones-por-el-impacto-del-contrabando-y-la-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XXE2LXVGP5DJJDSSNCQZBSVMOY.jpg?auth=9a7c1c4dc82d50cf2148ad0af6644cac7192a2e166a1a63b26c461abaab4ef23&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "Francisco Jueguen",
+     "titulo_original": "Estiman que el Estado perderá cerca de US$3000 millones por el impacto del contrabando y la subfacturación en 2026"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "El REM del Banco Central estima una caída del PBI de 1% en el tercer trimestre",
+     "resumen": "De confirmarse, junto con la contracción desestacionalizada de 0,6% del segundo trimestre, se configuraría una recesión técnica, aunque todavía se trata de una proyección privada y no de un dato oficial confirmado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/entre-la-recesion-y-el-rebote-las-senales-que-anticipan-un-cambio-de-ciclo-en-la-economia/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZIOACS3UCND5NHJE72ZKLUJQXE.jpg?auth=693f23191c5123bf2f2a1cb616318b66da665c4a40d8889990d5238b63dd30b2&smart=true&width=798&height=449",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:20",
+     "autor": "Federico Pablo Vacalebre",
+     "titulo_original": "Entre la recesión y el rebote: las señales que anticipan un cambio de ciclo en la economía"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "La AFA habría pagado vuelos privados y yates que usó Chiqui Tapia con fondos de un empresario en Estados Unidos",
+     "resumen": "Facturas, correos y documentos secuestrados por la Justicia en la sede porteña de la AFA, analizados por La Nación, reflejan un circuito de pagos vinculado a la empresa TourProdenter que vuelve a poner bajo la lupa los gastos del titular del fútbol argentino.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/afa-pagaba-vuelos-privados-yates-usado-chiqui-tapia-plata-cobraba-empresario-faroni-estados-unidos_0_2Z7nthsGaC.html",
+     "imagen": "https://www.clarin.com/img/2025/12/30/-AYJkC0w6_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:16",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La AFA pagaba vuelos privados y yates que habría usado Chiqui Tapia con la plata que cobraba el empresario Faroni en Estados Unidos"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Una empresa polaca con el Estado como accionista busca cobre en San Juan",
+     "resumen": "KGHM, que explora proyectos de cobre fuera de China, tiene sus gestiones más avanzadas en San Juan. Una delegación del proyecto Los Azules ya visitó una de las minas de la compañía en Estados Unidos para conocer sus procesos productivos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/empresa-polaca-busca-minerales-china-suma-interes-cobre-san-juan_0_X0Z5WlEgaN.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/sUjRTXlTg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una empresa polaca busca minerales fuera de China y suma interés el cobre de San Juan"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "La Justicia le dio a Flybondi un ultimátum de días para evitar la quiebra",
+     "resumen": "La aerolínea, en concurso preventivo desde octubre tras paralizar sus operaciones, deberá regularizar en cinco días hábiles inconsistencias detectadas en su presentación judicial. Acumula pasivos por $ 609.589 millones frente a activos por $ 176.103 millones, un patrimonio neto negativo de unos $ 433.500 millones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/ultimatum-a-flybondi-los-dias-contados-para-evitar-su-quiebra-y-la-deuda-que-arrastra/",
+     "imagen": "https://www.cronista.com/resizer/v2/PYZ2BFITDFHG7EUZDR3Q7YULXI.jpg?auth=e53e393eb5b7fc6739cc1580d7ae6d2e89b02ca74734f116788ff9c1b7dd84e6&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:42",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Ultimátum a Flybondi: los días “contados” para evitar su quiebra y la deuda que arrastra"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "El RIGI ya suma 29 proyectos avalados por casi US$ 79.000 millones",
+     "resumen": "El Comité Evaluador dio luz verde a dos nuevas iniciativas; 27 de los proyectos ya fueron publicados en el Boletín Oficial y otros dos, de Transportadora de Gas del Sur, esperan su oficialización. Los proyectos se concentran en diez provincias, con fuerte peso de Vaca Muerta y la minería.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-mapa-de-las-inversiones-del-rigi-cuales-son-los-27-proyectos-que-ya-tienen-luz-verde/",
+     "imagen": "https://www.cronista.com/resizer/v2/ML3TM6XU4NGF7OU5R5276XYROI.jpg?auth=b8403b24cb4f7a3c1cb665cb943096710ad11244d16e2b4ac52ff868eddbc6f5&smart=true&width=900&height=504",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:45",
+     "autor": "Rosario Sabato",
+     "titulo_original": "El mapa de las inversiones del RIGI: cuáles son los 27 proyectos que ya tienen luz verde"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IB-19",
+     "titulo": "La UIF reglamentó Inocencia Fiscal II y fijó desde qué monto se pueden pedir más datos por los dólares del colchón",
+     "resumen": "La Resolución UIF N° 144/2026, que se publicará mañana en el Boletín Oficial, fija un umbral anual de operaciones cuyo excedente puede motivar pedidos de información adicional a bancos y sociedades de bolsa. También define cómo deben valorar las entidades la adhesión al Régimen Simplificado de Ganancias.",
+     "relacionadas": [
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La UIF reglamentó Inocencia Fiscal: ahora falta animarse a la discusión de fondo",
+       "url": "https://www.iprofesional.com/impuestos/468103-la-uif-reglamento-inocencia-fiscal-ahora-falta-animarse-a-la-discusion-de-fondo"
+      },
+      {
+       "id": "IP-26",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La UIF reglamentó Inocencia Fiscal: qué tener en cuenta al sacar los dólares del colchón",
+       "url": "https://www.iprofesional.com/impuestos/468093-la-uif-reglamento-inocencia-fiscal-que-tener-en-cuenta-al-sacar-los-dolares-del-colchon"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/02/la-uif-aprobo-una-norma-clave-de-inocencia-fiscal-ii-desde-que-monto-se-pueden-pedir-mas-datos-por-sacar-los-dolares-del-colchon/",
+     "imagen": "https://www.infobae.com/resizer/v2/ADGUI7ISQZCZ3ERA46TIJMUOCA.JPG?auth=94fb8bcddf5f0fa245e6b3eeb38f298655665b38ca27ae8c5cb2ce2563112796&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:16",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "La UIF aprobó una norma clave de Inocencia Fiscal II: desde qué monto se pueden pedir más datos por sacar los dólares del colchón"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "La Provincia de Buenos Aires modificó la prioridad de paso en la Ley de Tránsito",
+     "resumen": "La actualización establece en qué maniobras los automovilistas deben detenerse y aclara quién tiene preferencia en esquinas conflictivas, un cambio que alcanza a empresas con flotas propias que circulan en el conurbano.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/468102-prioridad-paso-avenidas-bonaerenses-cambio-conductores",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/591752.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:47",
+     "autor": "",
+     "titulo_original": "¿Se termina la prioridad por la derecha? Qué cambia en la Ley de Tránsito bonaerense"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "SMATA y ACARA cerraron la paritaria de concesionarias de autos para el último trimestre",
+     "resumen": "El acuerdo fija un aumento nominal escalonado por categoría salarial para lo que resta del año, con la reapertura de las negociaciones prevista para enero.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/468005-paritaria-para-empleados-de-concesionarias-de-autos-como-quedo-la-escala-salarial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/06/555886.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:41",
+     "autor": "",
+     "titulo_original": "Paritaria para empleados de concesionarias de autos: cómo quedó la escala salarial"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CL-19",
+     "titulo": "La nafta y el gasoil subieron en dólares en Argentina por encima del promedio regional",
+     "resumen": "Entre febrero y septiembre, los combustibles aumentaron 16% en dólares en el país, frente al 9% del promedio de América Latina; otros países de la región aplicaron mayor intervención para contener las subas. YPF ganó participación en el mercado local. Para una empresa: el encarecimiento del combustible en dólares presiona los costos de logística y distribución.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/nafta-gasoil-argentina-subio-dolares-encima-promedio-america-latina_0_FJSEYbaTj9.html",
+     "imagen": "https://www.clarin.com/img/2026/07/21/Dk9tKRueo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:24",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La nafta y el gasoil en Argentina subió en dólares por encima del promedio de América Latina"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Crece la vacancia de locales comerciales en CABA, con barrios y avenidas más golpeados",
+     "resumen": "Cifras oficiales de la Ciudad de Buenos Aires muestran un aumento de los locales cerrados en varias comunas porteñas, en un contexto de ajuste del consumo y recambio hacia el canal digital.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/468101-locales-cerrados-en-caba-los-barrios-y-las-avenidas-donde-mas-golpea-la-crisis-comercial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614111.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:38",
+     "autor": "",
+     "titulo_original": "Locales cerrados en CABA: los barrios y las avenidas donde más golpea la crisis comercial"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "El Cyber Monday 2026 creció 38% en ventas, pero los consumidores compran menos unidades y buscan más cuotas",
+     "resumen": "La facturación superó los $ 10.100 millones en las primeras 12 horas del evento; las visitas subieron 30%, pero los pedidos avanzaron apenas 6%. El rubro hogar lideró el crecimiento, en línea con la tendencia a priorizar el financiamiento en cuotas.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Las visitas crecieron 30% en el inicio del CyberMonday 2026: cómo compran los argentinos",
+       "url": "https://www.iprofesional.com/iproup/468118-cyber-monday-record-ventas-bolsillo-perdio-poder-crecen-dudas-noviembre-2026"
+      }
+     ],
+     "url": "https://www.ambito.com/negocios/cyber-monday-2026-las-ventas-crecen-38-pero-los-consumidores-compran-menos-productos-y-buscan-mas-cuotas-n6340628",
+     "imagen": "https://media.ambito.com/p/e3c533eceeb066fb0f171e24faa1a52e/adjuntos/239/imagenes/039/952/0039952868/1200x675/smart/ecommerce-comercio-electronico-1200jpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:49",
+     "autor": "",
+     "titulo_original": "Cyber Monday 2026: las ventas crecen 38%, pero los consumidores compran menos productos y buscan más cuotas"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Un productor salteño invirtió US$ 40.000 para hacer harina de banana verde y sumar valor agregado",
+     "resumen": "Fernando Ortiz, en Colonia Santa Rosa, Salta, reconvirtió parte de su producción ante la baja de precios de la banana, tras una flexibilización fitosanitaria. Apunta a dietéticas y comercios de alimentos saludables y procesa entre 1.500 y 1.800 kilos de banana verde por tanda.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/fernando-ortiz-invirtio-us40000-para-hacer-harina-de-banana-sortear-un-problema-y-lo-logro-nos-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MGM2ARVDYZGX3MNL5E4Y53TBZM.png?auth=c8d6ac45ae295b44fe07850b58641f603ef4fa7e1df8715f1602f3c75f7f9c87&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:29",
+     "autor": "Belkis Martínez",
+     "titulo_original": "Fernando Ortiz invirtió US$40.000 para hacer harina de banana, evitar un problema y sorprendió: “Nos estamos reconvirtiendo”"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Alquiler de balcones a US$ 500 y otros negocios que surgen con la visita del Papa",
+     "resumen": "Vecinos de las zonas por donde pasará León XIV ofrecen vistas privilegiadas, souvenirs y alquileres temporarios, un rebusque informal que crece a medida que se acerca la visita apostólica del 8 al 11 de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468106-alquiler-de-balcones-por-us500-y-otros-negocios-que-surgen-con-la-visita-del-papa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/628946.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:25",
+     "autor": "",
+     "titulo_original": "Alquiler de balcones por u$s500 y otros negocios que surgen con la visita del papa"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "AM-23",
+     "titulo": "Endeavor Argentina seleccionó a 11 startups para acelerar su expansión",
+     "resumen": "Los perfiles elegidos pertenecen a fintech, inteligencia artificial aplicada, química verde, construcción y beneficios corporativos, y recibirán mentorías, networking y acceso a inversores durante el programa de aceleración.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/endeavor-argentina-selecciono-11-startups-tecnologicas-cinco-rubros-acelerar-su-expansion-n6340543",
+     "imagen": "https://media.ambito.com/p/6a8e4f638840966d5516abf653905bc9/adjuntos/239/imagenes/043/743/0043743084/1200x675/smart/scaleup-2026-empresas-seleccionadas.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "14:37",
+     "autor": "",
+     "titulo_original": "Endeavor Argentina seleccionó a 11 startups tecnológicas de cinco rubros para acelerar su expansión"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "Un analista financiero cuestionó que la inversión privada dependa del crédito",
+     "resumen": "Salvador Di Stefano sostuvo que la Argentina necesita inversión privada y no \"magia del Estado\", y vinculó la caída de la rentabilidad empresaria con la suba del gasoil más que con la disponibilidad de crédito.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/falsedad-absoluta-salvador-di-stefano-cuestiono-una-de-las-ideas-mas-instaladas-sobre-la-inversion/",
+     "imagen": "https://www.cronista.com/resizer/v2/OFKUE22IEBEFBN5LSNC4G65ERE.png?auth=d09b8db0977f48081a6c0e8ee37218aeb16ba130ed2fc3f250991efd7fc3306d&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:11",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“Falsedad absoluta”: Salvador Di Stefano cuestionó una de las ideas más instaladas sobre la inversión"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-03",
+     "titulo": "Investigan si el avión que cayó en Florida \"se estaba rompiendo\" en el aire antes del impacto",
+     "resumen": "Las autoridades investigan la desintegración en vuelo de la aeronave que cayó en Palm Beach y dejó nueve muertos, en un hecho que desplazó a 400 personas y afectó a una comunidad hispana. Se pidió declarar la emergencia en la zona mientras continúan las pericias.",
+     "relacionadas": [
+      {
+       "id": "LN-26",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El dramático pedido de auxilio de la tripulación del avión privado que cayó en Palm Beach: “Vamos a estrellarnos”",
+       "url": "https://www.lanacion.com.ar/estados-unidos/el-dramatico-pedido-de-auxilio-de-la-tripulacion-del-avion-privado-que-cayo-en-palm-beach-vamos-a-nid01112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/avion-de-accidente-en-eeuu-que-dejo-9-muertos-estaba-rompiendose-en-el-aire-autoridades_0_fuBttoI5Vd.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Avión de accidente en EEUU que dejó 9 muertos \"estaba rompiéndose\" en el aire: Autoridades"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Escala la tensión institucional en Polonia por el Tribunal Constitucional",
+     "resumen": "El primer ministro Donald Tusk exigió al presidente Karol Nawrocki que reconozca a los jueces designados por el Parlamento, tras la suspensión del titular del tribunal y su vicepresidente. La Comisión Europea respaldó la postura de Tusk en el conflicto.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/02/sigue-la-tension-en-polonia-el-primer-ministro-exigio-al-presidente-que-confirme-a-los-jueces-designados-por-el-parlamento/",
+     "imagen": "https://www.infobae.com/resizer/v2/V4ZUR6GOIFDXZOPBLZPFFADJ4Q.JPG?auth=8dc4d48c6add44ed38348c92efb56571642919e802e4986883beaabe0ac7ff17&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:00",
+     "autor": "",
+     "titulo_original": "Sigue la tensión en Polonia: el primer ministro exigió al presidente que confirme a los jueces designados por el Parlamento"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Ciberataques remotos elevaron 50 grados la temperatura de heladeras de supermercados europeos",
+     "resumen": "Ciberdelincuentes manipularon sistemas centralizados que supervisan cámaras frigoríficas industriales en varios países de Europa, provocando pérdidas masivas de alimentos perecederos. Los hechos se suman a ataques similares registrados en Francia el 12 de octubre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/misterio-detras-ciberataques-supermercados-elevan-50-grados-temperatura-heladera_0_fLuI9jy8U7.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/YGGV0ZMr8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El misterio detrás de los ciberataques contra supermercados que elevan 50 grados la temperatura de las heladera"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "El hijo de la reina de Noruega, condenado por violación, podría esperar en libertad un nuevo juicio",
+     "resumen": "Marius Borg Høiby cumple prisión domiciliaria por dos casos de violación y maltrato. Un juzgado lo habilitó a esperar el resultado de su apelación en libertad, pero la fiscalía apeló esa decisión y, por ahora, seguirá en su domicilio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/hijo-reina-mette-marit-noruega-condenado-violacion-podria-quedar-libertad-aguarda-nuevo-juicio_0_j7TRBKBNDN.html",
+     "imagen": "https://www.clarin.com/img/2026/09/10/kbYN0qn6M_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:06",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El hijo de la reina Mette-Marit de Noruega, condenado por violación, podría quedar en libertad mientras aguarda un nuevo juicio"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "Un informe analiza qué pasaría con Argentina si Trump pierde las elecciones de medio término",
+     "resumen": "Según el Centro de Economía Política Argentina, el resultado de los comicios de mañana puede incidir en la guerra con Irán, las tasas de interés y los aranceles, con derivaciones directas sobre la economía local y el respaldo político a Javier Milei.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-paradoja-financiera-y-politica-acecha-a-milei-cuales-serian-las-consecuencias-de-una-derrota-de-trump-para-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/RDRNAUNCA5F7RNE4TIIBOIKZFE.png?auth=7f9c7a8c94be99c9b7f447a69a6dc317b0864ad6b320ac9771a10a1e5ec3dc37&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:34",
+     "autor": "Nacho Barrios",
+     "titulo_original": "La paradoja financiera y política acecha a Milei: cuáles serían las consecuencias de una derrota de Trump para la Argentina"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Estados Unidos aprobó la versión genérica de la inyección que previene la transmisión del VIH",
+     "resumen": "La FDA avaló el lenacapavir genérico, que tendrá un costo de 40 dólares al año en 120 países de bajos recursos. Los especialistas lo consideran una herramienta clave para reducir nuevas infecciones y muertes en esos países.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/estados-unidos-aprobo-version-generica-inyeccion-prevenir-vih_0_bGY117qNoy.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/pOg7ip13n_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Estados Unidos aprobó la versión genérica de la inyección para prevenir la transmisión del VIH"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el retroceso militar ruso en Ucrania, los escenarios posibles tras las elecciones legislativas en Estados Unidos y el think tank que moldeó la doctrina del trumpismo.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "El ejército ruso sufre en octubre sus mayores pérdidas territoriales desde 2022",
+     "resumen": "Según datos del Institute for the Study of War, Moscú retrocedió 27,3 kilómetros cuadrados en el frente ucraniano durante octubre, el segundo mes consecutivo en que pierde más terreno del que gana. Contando las incursiones en zonas no controladas, la pérdida neta asciende a 57,6 kilómetros cuadrados, concentrada sobre todo en Donetsk.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/02/ejercito-ruso-retrocede-en-ucrania-y-sufre-mayores-perdidas-desde-2022/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "17:17",
+     "autor": "Marin Saillofest",
+     "titulo_original": "El ejército ruso retrocede en Ucrania y sufre sus mayores pérdidas desde 2022"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent traza cuatro escenarios posibles para una victoria demócrata en las elecciones de mitad de mandato",
+     "resumen": "El analista Nate Cohn plantea distintos márgenes posibles de una eventual \"ola azul\", según las encuestas que daban a los demócratas en cabeza o empatados en los siete estados que definirán el control del Senado. La revista repasa tres perspectivas para interpretar el resultado una vez conocido.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/02/que-constituiria-una-victoria-democrata-en-las-intermedias/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "14:42",
+     "autor": "Marin Saillofest",
+     "titulo_original": "¿Qué se consideraría una victoria demócrata en las elecciones de mitad de mandato?"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "Cómo el instituto Claremont pasó de think tank académico a bastión doctrinal del trumpismo",
+     "resumen": "Le Grand Continent reconstruye la transformación de un círculo de discípulos del filósofo Leo Strauss, antes dedicado a la defensa de la Constitución, en uno de los principales articuladores intelectuales de la derecha MAGA contemporánea.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/02/claremont-el-taller-del-trumpismo-contrarrevolucionario/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "14:27",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Claremont y el taller del trumpismo contrarrevolucionario"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-04",
+     "titulo": "Chacarita venció a Nueva Chicago y lo mandó a la B Metropolitana",
+     "resumen": "En un partido definitorio por la última fecha de la Primera Nacional, el Funebrero derrotó 2 a 0 a Nueva Chicago en San Martín y se aseguró la permanencia en la categoría, catorce años después de haber caído con el mismo rival en un repechaje por el descenso.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Chacarita vs Nueva Chicago, EN VIVO: cómo va, resultado y minuto a minuto de la definición del descenso en la Primera Nacional",
+       "url": "https://www.clarin.com/deportes/chacarita-vs-nueva-chicago-vivo-va-resultado-minuto-minuto-definicion-descenso-primera-nacional_0_vzfyQUzlgA.html"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Nueva Chicago descendió a la B Metropolitana, luego de perder frente a Chacarita",
+       "url": "https://www.ambito.com/deportes/nueva-chicago-descendio-la-b-metropolitana-luego-perder-frente-chacarita-n6340689"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/chacarita-se-tomo-revancha-14-anos-mas-tarde-le-gano-a-nueva-chicago-y-lo-mando-a-la-b-metropolitana-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WJ7SCLGOGFB6VECOY7F5AYZSMQ.jpg?auth=e2162236a2ee1ce7c5dd83367c1f7914b09150db3463bb7613c185ac108d3ee3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "Andrés Fernández Ré",
+     "titulo_original": "Chacarita se tomó revancha 14 años más tarde: le ganó a Nueva Chicago y lo mandó a la B Metropolitana"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "Briatore calificó de \"frustrante\" la sanción que le costó los puntos a Colapinto en el GP de México",
+     "resumen": "El asesor ejecutivo de Alpine se refirió al castigo que recibieron Franco Colapinto y Pierre Gasly tras la carrera del fin de semana, que le impidió al argentino sumar puntos pese a un buen desempeño en pista. Felicitó además al nuevo campeón del mundo, Andrea Kimi Antonelli.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El polémico lugar que un medio inglés le dio a Franco Colapinto en su ranking del GP Ciudad de México de Fórmula 1",
+       "url": "https://www.infobae.com/deportes/2026/11/02/el-polemico-lugar-que-un-medio-ingles-le-dio-a-franco-colapinto-en-su-ranking-del-gp-ciudad-de-mexico-de-formula-1/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/flavio-briatore-la-sancion-franco-colapinto-el-gp-mexico-fue-un-resultado-frustrante-n6340660",
+     "imagen": "https://media.ambito.com/p/28c1851ded5b5d2ce4cd3e6a293cd5ab/adjuntos/239/imagenes/043/743/0043743505/1200x675/722x233:742x253/briatore-colapinto-alpine.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:48",
+     "autor": "",
+     "titulo_original": "Flavio Briatore, tras la sanción a Franco Colapinto en el GP de México: \"Fue un resultado frustrante\""
+    },
+    {
+     "id": "LN-25",
+     "titulo": "El presidente de River cuestionó los arbitrajes tras la derrota ante Boca en el Superclásico",
+     "resumen": "Stefano Di Carlo apuntó en redes sociales contra la AFA y el árbitro Nicolás Ramírez tras la caída 1 a 0 en la Bombonera, partido en el que River terminó con dos expulsados, Lucas Martínez Quarta y Gonzalo Montiel.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/el-descargo-de-stefano-di-carlo-tras-la-derrota-de-river-ante-boca-en-el-superclasico-nid01112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EXCZVTIXNBBAVD4X5EBM54BH2A.jpeg?auth=1e82ed1aa7297e7830e261a0a28f75f153178d02ea4aabd83ed201d7310ac3c9&smart=true&width=832&height=624",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:01",
+     "autor": "",
+     "titulo_original": "El descargo de Stefano Di Carlo tras la derrota de River ante Boca en el Superclásico"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Suspendieron un partido de la segunda división española tras el desplome de un jugador",
+     "resumen": "El encuentro entre Tenerife y Andorra se detuvo cuando Jesús De Miguel cayó al césped tras un choque con el arquero rival Jesús Owono. Los servicios médicos ingresaron de inmediato para asistirlo ante la preocupación de jugadores y público.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/el-futbol-espanol-en-vilo-suspendieron-tenerife-andorra-tras-el-dramatico-desplome-de-un-jugador-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/L5DGHS7XSNE3ZEJXIQP3YEBF7Y.jpg?auth=ebdcf60cb25243df2f76ea35fffb79a72027d4e042c5f4e387f6d26c2c4b5feb&smart=true&width=900&height=598",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "15:00",
+     "autor": "",
+     "titulo_original": "El fútbol español, en vilo: suspendieron Tenerife-Andorra tras el dramático desplome de un jugador después de un choque"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Djokovic, Cerúndolo y Etcheverry debutan en el Masters 1000 de París",
+     "resumen": "Francisco Cerúndolo y Tomás Etcheverry, los argentinos mejor ubicados del ranking, juegan este martes en el último Masters 1000 de la temporada, disputado en canchas rápidas bajo techo en La Défense Arena. Este lunes ya habían caído Navone, Báez y Juan Manuel Cerúndolo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/02/novak-djokovic-francisco-cerundolo-y-tomas-etcheverry-debutan-en-el-masters-1000-de-paris-hora-rivales-y-todo-lo-que-hay-que-saber/",
+     "imagen": "https://www.infobae.com/resizer/v2/VINH4AZMIZDCXDN5H43UN2DFDA.jpg?auth=43754822c009bd44e7abc0ab47dd79c9542701e87c935685ab937244a9358e52&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Novak Djokovic, Francisco Cerúndolo y Tomás Etcheverry debutan en el Masters 1000 de París: hora, rivales y todo lo que hay que saber"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Los Pumas 7's ganaron el bronce en Dakar 2026, la tercera medalla argentina en la cita",
+     "resumen": "El seleccionado de rugby seven se quedó con el bronce tras vencer a Canadá, después de perder la chance de pelear la semifinal. La delegación argentina ya había sumado el oro de la nadadora Cecilia Dieleke y el bronce del judoca Thiago Carvallo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/pumas-7s-dieron-tercera-medalla-argentina-dakar-2026-escapo-semifinal-ganaron-bronce-canada_0_9pXGwsghhW.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/ZaCdvEu0O_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los Pumas 7's le dieron la tercera medalla a la Argentina en Dakar 2026: se le escapó la semifinal pero ganaron el bronce contra Canadá"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-20",
+     "titulo": "Punta Médanos, la playa a 350 kilómetros de Buenos Aires con médanos de 30 metros y un faro traído de Francia",
+     "resumen": "El destino bonaerense no figura en las listas habituales de la costa atlántica y ofrece playas amplias y poco pobladas, sin grandes desarrollos urbanos. Sus médanos alcanzan unos 30 metros de altura y se extienden hasta cinco kilómetros de ancho, modelados por la acción del mar y el viento.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/esta-a-350-kilometros-de-buenos-aires-tiene-medanos-de-30-metros-de-alto-y-un-faro-traido-de-francia-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YVGUJZPLTRDAVMXU2Q647UXAM4.jpg?auth=6da6f9dfb0978459c3cc89342d4e9aa1ab038e7ac41d63e9341a432222336063&smart=true&width=900&height=578",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:43",
+     "autor": "Cecilia Acuña",
+     "titulo_original": "Está a 350 kilómetros de Buenos Aires, tiene médanos de 30 metros de alto y un faro traído de Francia: la playa secreta que no figura en ninguna lista"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "La Cueva de las Manos, el sitio patagónico de más de 9.000 años declarado Patrimonio de la Humanidad",
+     "resumen": "En el cañadón del río Pinturas, en Santa Cruz, se conservan pinturas rupestres y estarcidos de manos en negativo que testimonian los primeros asentamientos humanos en la Patagonia, uno de los sitios arqueológicos más relevantes de América del Sur.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/tiene-mas-de-9000-anos-y-es-patrimonio-de-la-humanidad-el-rincon-secreto-de-la-patagonia-que-guarda-el-legado-de-los-primeros-humanos-que-se-asentaron-en-la-region/",
+     "imagen": "https://www.cronista.com/resizer/v2/VOQA6SJYEVH4XFMXI6DPNN45ZE.jpg?auth=dfc0fe326c0c83eb0def214d0e168537cd1bd561a52ffd56dabd3cc5ab5ac32d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:22",
+     "autor": "Abel Iranzi",
+     "titulo_original": "Tiene más de 9.000 años y es Patrimonio de la Humanidad: el rincón secreto de la Patagonia que guarda el legado de los primeros humanos que se asentaron en la región"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-20",
+     "titulo": "Murió un turista argentino tras accidentarse con un ala delta en Río de Janeiro",
+     "resumen": "Adrián Guillermo Arismendi, de 26 años, falleció junto al instructor brasileño que lo acompañaba cuando intentaban aterrizar en la playa de São Conrado, tras despegar desde la rampa de Pedra Bonita. Las autoridades investigan el hecho.",
+     "relacionadas": [
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Un turista argentino murió en Río de Janeiro al accidentarse en su vuelo de bautismo en ala delta",
+       "url": "https://www.clarin.com/sociedad/turista-argentino-murio-rio-janeiro-accidentarse-vuelo-bautismo-ala-delta_0_zrM1SVsgO4.html"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/11/02/tragedia-en-rio-de-janeiro-un-turista-argentino-murio-tras-estrellarse-con-un-ala-delta/",
+     "imagen": "https://www.infobae.com/resizer/v2/6SO5BLNHGFH43L3IY3YR2M3WVE.jpg?auth=b6a91a520371cf979bce2ce2ab22d01284b1268561650daabe61f1641a4e70b6&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:09",
+     "autor": "",
+     "titulo_original": "Tragedia en Río de Janeiro: un turista argentino murió tras estrellarse con un ala delta"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Se aproxima un frente con tormentas fuertes, lluvias abundantes y ráfagas de hasta 85 kilómetros por hora",
+     "resumen": "Un frente estacionario sobre el norte del Litoral y una zona de baja presión en el noroeste favorecerán nuevos episodios de inestabilidad en el centro y norte del país, mientras la Patagonia registrará un fuerte aumento del viento hacia mitad de semana, con ráfagas que podrían superar los 85 kilómetros por hora en Chubut.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-frente-de-baja-presion-que-traera-tormentas-fuertes-lluvias-abundantes-humedad-y-nid02112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4RHASQXLJBBPRPLRHG4HMRFYL4.png?auth=92b1f24bf757d7ec99bf77590cf5f067136b3f13f86ed069729aeda124423e2e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:54",
+     "autor": "",
+     "titulo_original": "Se aproxima un frente de baja presión que traerá tormentas fuertes, lluvias abundantes, humedad y ráfagas de hasta 85 km: las zonas afectadas"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Un relevamiento expone los riesgos digitales entre los adolescentes porteños",
+     "resumen": "El estudio, entre jóvenes de 13 a 19 años en la Ciudad de Buenos Aires, encontró que el 18,2% apostó online, una de cada cuatro adolescentes recibió material sexual sin consentimiento y crece el uso de inteligencia artificial como compañía.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/02/apuestas-online-inteligencia-artificial-y-acoso-sexual-las-cifras-que-exponen-los-riesgos-digitales-entre-los-adolescentes/",
+     "imagen": "https://www.infobae.com/resizer/v2/YBB7X4ZGVBH2NBB6DDBG5YUC6I.png?auth=ec631fd163b2a4f5880f0faa55c8da30bc0ce2180d8eac53b1300a3832fcff94&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:32",
+     "autor": "Brisa Bujakiewicz",
+     "titulo_original": "Apuestas online, inteligencia artificial y acoso sexual: las cifras que exponen los riesgos digitales entre los adolescentes"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del lunes 2 de noviembre. El dato más duro de la jornada llegó por el lado financiero: el riesgo país volvió a dispararse y superó los ochocientos puntos básicos, con los certificados argentinos cayendo hasta trece por ciento en Wall Street, mientras el dólar oficial y el mayorista marcaron nuevos máximos nominales en mil quinientos sesenta y cinco y mil quinientos cuarenta y cinco pesos con cincuenta centavos para la venta. A nivel internacional, el petróleo se desplomó más de siete por ciento, y según algunas fuentes cerca de diez por ciento, después de que Irán dijera que su líder supremo habilitó al Gobierno a negociar con Estados Unidos la reapertura del estrecho de Ormuz, a un día de las elecciones de medio término que definirán el control del Congreso norteamericano. El Banco Central, por su parte, acumula reservas por quince mil novecientos sesenta y tres millones de dólares en el año y sobrecumplió en cuatro mil millones la meta pactada con el Fondo Monetario, aunque todavía resta camino para los diecinueve mil quinientos millones que proyectó el ministro Caputo. El panorama internacional, de todos modos, mantiene en vilo al mercado antes de la votación de mañana en Estados Unidos. En política, Javier Milei recibió en la Casa Rosada al enviado especial de Donald Trump contra el antisemitismo, el rabino Yehuda Kaploun, en un encuentro del que participaron el canciller Pablo Quirno y el embajador Peter Lamelas. El canciller, además, negó que haya preocupación en el Gobierno por eventuales críticas que pueda expresar el papa León Catorce durante su visita, que sigue prevista del ocho al once de noviembre. En el plano judicial, continuó el juicio por las causas Hotesur y Los Sauces, donde la fiscalía detalló en la tercera audiencia cómo la familia Kirchner habría extraído más de diez millones de pesos del dinero lavado mediante préstamos simulados a su inmobiliaria familiar. También en la agenda política, el creador del llamado ejército digital que ayudó a la reelección de Lula da Silva en Brasil, el diputado André Janones, se reunió por separado con el Frente Renovador y con Cristina Kirchner, mientras el peronismo evalúa replicar esa estrategia de cara a 2027. Y la Argentina espera entre el diez y el once de noviembre las audiencias del Tribunal Internacional del Mar por el reclamo contra Gran Bretaña por la explotación petrolera cerca de las islas Malvinas. En economía y mercados, además de los datos ya mencionados sobre riesgo país, dólar y petróleo, un cálculo privado estimó que el Estado perderá este año cerca de tres mil millones de dólares por contrabando y subfacturación, lo que equivale a cuatro décimas del producto bruto y a la pérdida de unos once mil trescientos empleos formales. Un informe privado proyectó además una caída del producto bruto interno de uno por ciento en el tercer trimestre, lo que configuraría una recesión técnica si se confirma. Y pese al fuerte ingreso de octubre, las cerealeras cerrarían el año con una liquidación de veintiocho mil doscientos millones de dólares, diez por ciento menos que en 2025. En negocios y empresas, trascendió que la AFA habría pagado vuelos privados y yates que usó su presidente Claudio Tapia con fondos vinculados a un empresario en Estados Unidos. La empresa polaca KGHM avanza en sus gestiones para explotar cobre en San Juan, mientras la Justicia le dio a la aerolínea Flybondi un plazo de días para evitar la quiebra. El régimen de incentivo para grandes inversiones, el RIGI, ya suma veintinueve proyectos avalados por casi setenta y nueve mil millones de dólares, concentrados en Vaca Muerta y la minería. En impuestos y normativa, la Unidad de Información Financiera reglamentó la segunda ley de Inocencia Fiscal y fijó desde qué monto se puede pedir información adicional a quienes saquen dólares del colchón. La Provincia de Buenos Aires, por su parte, modificó la prioridad de paso en la ley de tránsito. En consumo, construcción y retail, un dato relevante para la actividad de una empresa: entre febrero y septiembre, la nafta y el gasoil subieron dieciséis por ciento en dólares en el país, muy por encima del nueve por ciento del promedio regional, lo que presiona los costos de logística. También creció la vacancia de locales comerciales en varios barrios porteños, mientras el Cyber Monday mostró ventas en alza de treinta y ocho por ciento, aunque con menos unidades por pedido y más cuotas. En management y finanzas corporativas, Endeavor Argentina seleccionó a once startups de fintech, inteligencia artificial, química verde, construcción y beneficios corporativos para un programa de aceleración. En el mundo, se investiga si el avión que cayó el domingo en Florida se estaba rompiendo en el aire antes del impacto, que dejó nueve muertos. En Polonia escaló la tensión institucional entre el primer ministro Donald Tusk y el presidente por el Tribunal Constitucional, con respaldo de la Comisión Europea a Tusk. En Europa, ciberataques remotos elevaron cincuenta grados la temperatura de heladeras de supermercados, provocando pérdidas masivas de alimentos. Y Estados Unidos aprobó la versión genérica de una inyección que previene la transmisión del VIH, que costará apenas cuarenta dólares al año en ciento veinte países de bajos recursos. Le Grand Continent analiza tres frentes: el ejército ruso sufrió en octubre sus mayores pérdidas territoriales desde 2022, retrocediendo más de veintisiete kilómetros cuadrados en el frente ucraniano; la revista traza cuatro escenarios posibles para una eventual ola demócrata en las elecciones de mañana; y reconstruye cómo el instituto Claremont pasó de ser un think tank académico a convertirse en el principal articulador intelectual del trumpismo. En deportes, Chacarita venció dos a cero a Nueva Chicago en San Martín y se quedó en la Primera Nacional, mientras el descendido a la B Metropolitana es justamente Nueva Chicago. El presidente de River, Stefano Di Carlo, cuestionó duramente los arbitrajes tras la derrota ante Boca en el Superclásico del fin de semana. En el tenis, Cerúndolo y Etcheverry debutan mañana en el Masters mil de París, el último de la temporada, donde también juega Novak Djokovic. En Fórmula Uno, Flavio Briatore calificó de frustrante la sanción que le costó los puntos a Franco Colapinto en el Gran Premio de México, aunque destacó su buen desempeño en pista. Y los Pumas siete lograron la medalla de bronce en Dakar 2026, la tercera presea argentina en esa cita, tras el oro de la nadadora Cecilia Dieleke y el bronce del judoca Thiago Carvallo. Para cerrar, dos propuestas de turismo dentro del país: Punta Médanos, una playa a trescientos cincuenta kilómetros de Buenos Aires con médanos de treinta metros de altura y un faro traído de Francia, poco conocida y alejada de los circuitos habituales; y la Cueva de las Manos, en Santa Cruz, un sitio patagónico de más de nueve mil años de antigüedad declarado Patrimonio de la Humanidad por sus pinturas rupestres. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Todas las fuentes (Clarín, La Nación, Infobae, iProfesional, El Cronista, Ámbito y Le Grand Continent) se descargaron correctamente en esta corrida. No se encontró material sobre Franco Colapinto además de lo citado ni sobre Club Atlético Tigre en esta edición, por lo que no se incluyó ninguna otra mención.",
+ "slug": "2026-11-02-tarde",
+ "generado_ba": "02/11/2026 21:15"
+}
