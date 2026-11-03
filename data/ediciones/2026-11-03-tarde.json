@@ -1,0 +1,990 @@
+{
+ "fecha": "2026-11-03",
+ "edicion": "tarde",
+ "titulo": "El dólar y el riesgo país vuelven a subir mientras Estados Unidos vota en las midterms",
+ "apertura": "La city porteña cerró otra rueda negativa, con el dólar mayorista en un nuevo récord nominal y el riesgo país trepando por encima de los 800 puntos, mientras el Gobierno envió al Congreso una reforma financiera que grava con Ganancias a los CEDEARs. En paralelo, Estados Unidos vota en elecciones de medio término que pueden redefinir el margen de Donald Trump para sostener a Javier Milei, y en Paraguay estalló una crisis bancaria que terminó con la salida del titular del Banco Central. El fútbol sigue de luto por la muerte de Jesús de Miguel, mientras Franco Colapinto se prepara para correr en Interlagos.",
+ "claves": [
+  "El dólar mayorista cerró en 1.551 pesos, un nuevo récord nominal, y el riesgo país subió hasta una franja de 821 a 834 puntos según la fuente, su nivel más alto en más de un año.",
+  "El Gobierno envió al Congreso una reforma financiera de 240 artículos que, entre otros cambios, grava con el impuesto a las Ganancias a la compraventa de CEDEARs desde el 31 de octubre.",
+  "El BCRA no compró dólares en cinco de las últimas siete ruedas y las reservas cayeron 148 millones de dólares en la jornada.",
+  "Estados Unidos vota en elecciones legislativas de medio término; fallas en máquinas de votación en Nueva York generaron denuncias de fraude sin sustento.",
+  "Trump anunció que desde 2027 Estados Unidos dejará de darle 4.000 millones de dólares anuales en ayuda militar a Israel y en su lugar le venderá armas.",
+  "Paraguay intervino el banco digital Ueno, con 3 millones de clientes, y el presidente Santiago Peña pidió la renuncia del titular del Banco Central.",
+  "Scaloni convocó a la Selección para los amistosos ante Uruguay y Costa Rica con bajas de Cuti Romero, Lautaro Martínez, Nico González, Lo Celso y De Paul.",
+  "Franco Colapinto llega a Interlagos para el Gran Premio de San Pablo buscando sumar puntos tras su actuación en México."
+ ],
+ "cifras": [
+  {
+   "nombre": "Reservas del BCRA",
+   "valor": "bajaron US$ 148 millones en la rueda",
+   "fuente": "AM-02"
+  },
+  {
+   "nombre": "Merval",
+   "valor": "sube 1,7% en pesos y en dólares",
+   "fuente": "CR-04"
+  },
+  {
+   "nombre": "TIR del bono GD35",
+   "valor": "12,3%",
+   "fuente": "CR-17"
+  },
+  {
+   "nombre": "Precios de exportación (3er trimestre)",
+   "valor": "+15,2% interanual",
+   "variacion": "cantidades exportadas +1,3%",
+   "fuente": "CR-16"
+  },
+  {
+   "nombre": "ETF Merval (debut)",
+   "valor": "se espera que mueva $ 500.000 millones en 6 a 12 meses",
+   "fuente": "CR-20"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "Cristina Kirchner dejó abierta su candidatura de 2027 en una entrevista con The Washington Post",
+     "resumen": "La expresidenta dijo que podría competir en 2027 si recupera sus derechos políticos. En el cristinismo interpretan que la definición va más allá del reclamo judicial: hoy no hay otro dirigente que represente ese espacio del peronismo, según voces del entorno de la expresidenta.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/cristina-kirchner-volvio-a-ponerse-en-carrera-que-busca-con-su-definicion-sobre-una-candidatura/",
+     "imagen": "https://www.cronista.com/resizer/v2/CMLXNI2ZQNERTIWC45W2KSBZJI.jpg?auth=81a700d7bc6d30ab459008fa3633cad940c6aff815cdd619da4cda8da19141ca&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:20",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Cristina Kirchner volvió a ponerse en carrera: qué busca con su definición sobre una candidatura"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "El Gobierno envió al Senado el pliego de Rafecas para la Cámara de Casación",
+     "resumen": "Milei pidió acuerdo para que el juez federal Daniel Rafecas ocupe una vocalía en la Cámara Nacional de Casación Penal. El expediente ingresó este martes y debe atravesar audiencias, observaciones y dictamen antes del cierre del período ordinario, fijado para el 30 de noviembre, lo que deja poco margen de tiempo.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Milei mandó al Senado el pliego de Rafecas para Casación y Mahiques sigue con su renovación en Comodoro Py",
+       "url": "https://www.clarin.com/politica/milei-mando-senado-pliego-rafecas-casacion-mahiques-sigue-renovacion-comodoro-py_0_Nu43AyS3kx.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/milei-mando-a-el-pliego-de-rafecas-para-casacion-el-tramite-que-pone-a-prueba-los-tiempos-del-senado/",
+     "imagen": "https://www.cronista.com/resizer/v2/OTA2VINPOFADJFTP7QNC54IMXI.jpg?auth=8f8281d8740d1c29960d0d85c75a83e2cea227e65369bd943f36bc9d8c1f9db4&smart=true&width=900&height=732",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:49",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "Milei mandó el pliego de Rafecas para Casación: el trámite que pone a prueba los tiempos del Senado"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Bullrich se adjudicó el alivio de Caputo a las pymes en medio de la Mesa Política suspendida",
+     "resumen": "Tras el anuncio de Caputo para frenar los embargos de ARCA a pymes, la senadora Patricia Bullrich reivindicó el pedido como propio y reunió a su equipo de confianza. La Mesa Política del oficialismo lleva dos semanas suspendida, en medio de versiones -desmentidas por su entorno- sobre una salida de Bullrich del bloque en el Senado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/bullrich-celebro-el-alivio-a-las-pymes-de-caputo-en-medio-de-rumores-sobre-su-continuidad-en-el-bloque/",
+     "imagen": "https://www.cronista.com/resizer/v2/MII7YRQJA5HUFDOUN6CYTYUK5M.jpeg?auth=dca25f3709a48d388a13b95993c0b6f77c42f7a15251e15f6d590ee987936dd2&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:21",
+     "autor": "Daniela Romero",
+     "titulo_original": "Bullrich se adjudicó el alivio de Caputo a las PyMES y reunió a su equipo de confianza"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "El Vaticano detalló el operativo de salud del Papa para la gira tras su cirugía de pulmón",
+     "resumen": "El vocero vaticano Matteo Bruni confirmó que León XIV hará la gira de once días por Uruguay, Argentina y Perú con su equipo médico habitual, sin equipamiento especial en el avión. Las evaluaciones posteriores a la extracción de un tumor maligno en el pulmón descartaron tratamientos adicionales, lo que permitió mantener la agenda de catorce vuelos.",
+     "relacionadas": [
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cómo funcionará el transporte en la Ciudad de Buenos Aires durante la visita del papa León XIV",
+       "url": "https://www.infobae.com/sociedad/2026/11/03/como-funcionara-el-transporte-en-la-ciudad-de-buenos-aires-durante-la-visita-del-papa-leon-xiv/"
+      },
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cómo funcionará el trasporte por la visita del Papa: trenes, colectivos y vuelos",
+       "url": "https://www.iprofesional.com/actualidad/468227-como-funcionara-trasporte-por-visita-papa-leon-xiv-trenes-colectivos-y-vuelos"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/viaje-papa-leon-xiv-sudamerica-operativo-salud-extraccion-tumor-maligno-pulmon_0_55r8RBkKWK.html",
+     "imagen": "https://www.clarin.com/img/2026/11/03/SDvCyPmIt_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Viaje del papa León XIV a Sudamérica: cómo será el operativo de salud tras la extracción de un tumor maligno en el pulmón"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "La Iglesia y la oposición presionan al Senado para salvar la ley contra la publicidad de apuestas online",
+     "resumen": "A días de la llegada del Papa, el Episcopado lanzó una campaña y un grupo de diputados pidió reactivar el proyecto que restringe las apuestas online y su publicidad en el fútbol. La iniciativa tiene media sanción desde fines de 2024 y está cerca de perder estado parlamentario en el Senado.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/la-iglesia-y-la-oposicion-presionan-para-salvar-la-ley-que-prohibe-la-publicidad-de-apuestas-online-nid03112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4637IR4MDJCUPCK5NUOCNW6GXQ.jpeg?auth=d6c49f1331ead2cdc86b9c6afa9ed2cda4070842cbdd13b4a1000461ee3c2bc4&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:48",
+     "autor": "Delfina Celichini",
+     "titulo_original": "La Iglesia y la oposición presionan para salvar la ley que prohíbe la publicidad de apuestas online"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Una amplia coalición reclama reducir la discrecionalidad en la selección de jueces",
+     "resumen": "Abogados, empresarios, juristas y dirigentes de distintos espacios firmaron una declaración para pedir cambios en el sistema de concursos del Consejo de la Magistratura. El reclamo apunta a limitar el peso de la entrevista personal y a que el orden de mérito por antecedentes tenga un peso determinante.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/concursos-judiciales-reclamo-transversal-en-contra-de-la-discrecionalidad-en-la-seleccion-de-jueces/",
+     "imagen": "https://www.cronista.com/resizer/v2/CKOPJYT6NZDXDGRDHQ3EX2ZFJM.jpeg?auth=80ca0381b69cb1a398b0bed6889bcabbe183f930b5d17eefd9c7d32aec037bfd&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:35",
+     "autor": "Daniela Mozetic",
+     "titulo_original": "Concursos judiciales: reclamo transversal en contra de la discrecionalidad en la selección de jueces"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "El riesgo país trepó hasta los 834 puntos y acumula una suba de 46% en el año",
+     "resumen": "Con los inversores a la espera del resultado de las elecciones de medio término en Estados Unidos, los bonos argentinos volvieron a operar en rojo. Según la fuente, el riesgo país se ubicó entre 821 y 834 puntos, su nivel más alto desde las elecciones legislativas de 2025, mientras el Merval subía 1,7% en pesos y en dólares.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país saltó hasta los 829 puntos y alcanzó un nuevo máximo en más de un año",
+       "url": "https://www.iprofesional.com/finanzas/468206-el-riesgo-pais-salto-hasta-los-829-puntos-y-alcanzo-un-nuevo-maximo-en-mas-de-un-ano"
+      },
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El dólar toca su valor más alto y el riesgo país alcanza máximos desde las elecciones del año pasado",
+       "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-se-mantiene-e-los-niveles-de-tension-previos-a-las-elecciones-de-2025-nid03112026/"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El dólar subió por segundo día y volvió a marcar un récord nominal",
+       "url": "https://www.infobae.com/economia/2026/11/03/el-dolar-subio-por-segundo-dia-y-volvio-a-marcar-un-record-nominal/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-mercado-no-levanta-cabeza-caen-las-acciones-y-los-bonos-argentinos/",
+     "imagen": "https://www.cronista.com/resizer/v2/GXXXXH5NHNH5NPZT3ZRLNRQMF4.png?auth=d2065fd01a34dabfefd4686250513ca7dcf5317edbf17c6f4cd74df71ad9819a&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:52",
+     "autor": "Leandro Dario",
+     "titulo_original": "El mercado no levanta cabeza: el riesgo país trepó a los 834 puntos"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "El BCRA completó la quinta rueda sin comprar dólares en siete días y el dólar mayorista marcó otro récord",
+     "resumen": "El Banco Central no intervino en el mercado oficial por segunda jornada consecutiva y las reservas cayeron 148 millones de dólares. El dólar mayorista cerró en 1.551 pesos, con una suba acumulada de 17 pesos en los dos primeros días de noviembre, el doble que en igual lapso de octubre. Para una empresa: la pausa en las compras del Central y la suba del mayorista encarecen la cobertura cambiaria para pagos de importaciones.",
+     "relacionadas": [
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El BCRA no compró dólares en 5 de las últimas 7 ruedas y las reservas bajaron u$s148 millones",
+       "url": "https://www.ambito.com/finanzas/el-bcra-no-compro-dolares-5-las-ultimas-7-ruedas-y-las-reservas-bajaron-us148-millones-n6341129"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El dólar subió por segundo día y volvió a marcar un récord nominal",
+       "url": "https://www.infobae.com/economia/2026/11/03/el-dolar-subio-por-segundo-dia-y-volvio-a-marcar-un-record-nominal/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/economia/468228-el-bcra-sumo-la-quinta-rueda-en-siete-dias-sin-comprar-reservas-y-el-dolar-volvio-a-subir",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/09/603258.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:02",
+     "autor": "",
+     "titulo_original": "El BCRA sumó la quinta rueda en siete días sin comprar reservas y el dólar volvió a subir"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "El Gobierno envió al Congreso una reforma de 240 artículos que grava con Ganancias a los CEDEARs",
+     "resumen": "La Ley de Competitividad Financiera, remitida por Milei, Santilli, Caputo y Sturzenegger, elimina la exención del impuesto a las Ganancias para la compraventa de CEDEARs adquiridos desde el 31 de octubre. El proyecto también habilita la negociación de plazos fijos de largo plazo y cobros pendientes de tarjetas y amplía las garantías para acceder al crédito. Para una empresa: la ampliación de instrumentos de garantía puede abrir alternativas de financiamiento de corto plazo.",
+     "relacionadas": [
+      {
+       "id": "LN-10",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El Gobierno impulsa una reforma clave del mercado de capitales que incluye cobrar Ganancias por la venta de Cedears",
+       "url": "https://www.lanacion.com.ar/economia/el-gobierno-impulsa-una-reforma-clave-del-mercado-de-capitales-que-incluye-cobrar-ganancias-por-la-nid03112026/"
+      },
+      {
+       "id": "IB-06",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno busca que paguen Ganancias las inversiones en CEDEARs, uno de los instrumentos más populares del mercado",
+       "url": "https://www.infobae.com/economia/2026/11/03/el-gobierno-propone-que-paguen-ganancias-las-inversiones-en-cedear-uno-de-los-instrumentos-mas-populares-del-mercado/"
+      },
+      {
+       "id": "CL-10",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El Gobierno busca cobrar Ganancias a quienes inviertan en acciones de empresas extranjeras: qué cambia para los ahorristas",
+       "url": "https://www.clarin.com/economia/gobierno-busca-cobrar-ganancias-inviertan-acciones-empresas-extranjeras-cambia-ahorristas_0_9oa7iXNEdc.html"
+      },
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno envió al Congreso una reforma financiera que habilita nuevos instrumentos y relaja reglas para el mercado de capitales",
+       "url": "https://www.infobae.com/economia/2026/11/03/el-gobierno-envio-al-congreso-la-reforma-financiera-que-milei-anuncio-en-julio-pasado/"
+      }
+     ],
+     "url": "https://www.cronista.com/infotechnology/it-business/por-que-la-empresa-detras-de-claude-gana-miles-de-millones-pero-enfrenta-una-deuda-gigante/",
+     "imagen": "https://www.cronista.com/resizer/v2/5MBQMR3QJNDKTJGKN4CV7WZQ7M.jpg?auth=3c99f154b134702d1aa0131c4d3ce14f3862357a3410e499c0679b4cb23f08d9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "Por qué la empresa detrás de Claude gana miles de millones, pero enfrenta una deuda gigante"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "Los precios de exportación subieron 15,2% interanual en el tercer trimestre",
+     "resumen": "Según el INDEC, el petróleo crudo, las carnes, los aceites y los productos químicos impulsaron la suba de precios de las exportaciones argentinas, mientras las cantidades vendidas al exterior avanzaron apenas 1,3%. Las cantidades importadas cayeron 9,5%, aunque sus precios subieron 10,5%.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-superavit-comercial-acumulo-mas-de-us-21100-millones-a-septiembre-con-precios-record-y-freno-importador/",
+     "imagen": "https://www.cronista.com/resizer/v2/XK2CRJUIKJHX7GOSPSGAZDUGDA.jpg?auth=4b22968bb89d0ab639d28021c0ec566fc3ab295f1c8c89ba98701c4fa3628b97&smart=true&width=900&height=500",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:19",
+     "autor": "Nacho Barrios",
+     "titulo_original": "Los precios de exportación subieron 15,2%: qué productos argentinos se encarecieron más"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Los bonos argentinos rinden más que sus pares emergentes pese a la suba del riesgo país",
+     "resumen": "La tasa interna de retorno del bono GD35 trepó más de 300 puntos básicos desde mediados de año y alcanzó 12,3% en octubre, el mayor desplazamiento entre bonos emergentes de duración y crédito similares. El deterioro de precios es incluso mayor que el de la deuda brasileña, afectada por su propio resultado electoral a fin de octubre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-bonos-argentinos-muestran-un-peor-desempeno-que-sus-pares-una-oportunidad-de-inversion/",
+     "imagen": "https://www.cronista.com/resizer/v2/AWZBZNVO2FCLXK67E3QVFCZF64.jpg?auth=ec3a532a0f7cc04ef667642d6e1fc0b7f6061877a351f4e89da2615ce6b99087&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:03",
+     "autor": "Julián Yosovitch",
+     "titulo_original": "Los bonos argentinos muestran un peor desempeño que sus pares: ¿una oportunidad de inversión?"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "Debutó el primer ETF argentino y esperan que mueva 500.000 millones de pesos",
+     "resumen": "El instrumento, administrado por Galicia Asset Management y lanzado por BYMA, replica el índice MSCI Merval de 19 acciones líderes y comenzó a cotizar bajo el ticker MERV. Desde la administradora proyectan un volumen de 500.000 millones de pesos en los próximos seis a doce meses, en un escenario conservador, y planean lanzar nuevos productos.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Arrancó el índice ETF Merval, que reúne 19 acciones líderes: con cuánto se puede entrar",
+       "url": "https://www.iprofesional.com/finanzas/468221-debuto-el-indice-etf-merval-que-reune-19-acciones-lideres"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/debuto-el-primer-etf-argentino-esperan-que-mueva-500000-millones-y-planean-nuevos-productos/",
+     "imagen": "https://www.cronista.com/resizer/v2/GVXCB3PBGBBS7D2UNY4RBJIQJU.jpg?auth=c035ffc1d0c7cff6e6c621ce1eb882027dbf595216353fa02612c00916503998&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:01",
+     "autor": "Leandro Dario",
+     "titulo_original": "Debutó el primer ETF argentino: esperan que mueva $ 500.000 millones y planean nuevos productos"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "Qué puede cambiar para Milei si los demócratas se quedan con el Congreso de Estados Unidos",
+     "resumen": "Con el resultado de las elecciones de medio término, puede modificarse el margen de Donald Trump para sostener su respaldo a Javier Milei, que incluyó casi 20 visitas presidenciales en menos de tres años. Hoy los republicanos controlan ambas cámaras por poco margen: a los demócratas les alcanzaría con ganar cuatro bancas en Diputados para quedarse con esa cámara.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/respaldo-de-eeuu-como-afectaria-al-gobierno-de-milei-si-trump-pierde-las-elecciones-de-medio-termino/",
+     "imagen": "https://www.cronista.com/resizer/v2/SBVX6ZPTTZB7NDS4CYO4SAHWAQ.jpeg?auth=93cf99c4ce6d890c6c7763d75cb0d5b566fba35b2aefae42f67226e5e42d384b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:25",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Respaldo de EE.UU.: cómo afectaría al gobierno de Milei si Trump pierde las midterms"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "Pampa Energía llevó a un récord su producción de petróleo y lanzó un proyecto agro de 2.700 millones de dólares",
+     "resumen": "La compañía que lidera Marcelo Mindlin alcanzó un EBITDA ajustado de 398 millones de dólares en el tercer trimestre, 23% más que un año atrás, y una facturación de 790 millones de dólares, 34% más. En Rincón de Aranda llegó a 26.000 barriles diarios y arrancó la construcción de una planta de fertilizantes por 2.700 millones de dólares.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Arrancó el índice ETF Merval, que reúne 19 acciones líderes: con cuánto se puede entrar",
+       "url": "https://www.iprofesional.com/finanzas/468221-debuto-el-indice-etf-merval-que-reune-19-acciones-lideres"
+      },
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Pampa Energía inicia la construcción de su planta de fertilizantes por u$s2.700 millones",
+       "url": "https://www.iprofesional.com/energia/468229-pampa-energia-inicia-la-construccion-de-su-planta-de-fertilizantes-por-us2-700-millones"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/pampa-energia-llevo-a-nuevos-maximos-su-produccion-de-petroleo-en-vaca-muerta-y-activo-un-proyecto-agro-de-us-2700-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/I3ABO5FA5JATZOU5QAAEBDYCFM.jpeg?auth=f844139a3b60cbc7268971344d20d195742bc1184ca27513f0cb127f12c3ff51&smart=true&width=900&height=505",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:11",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Pampa Energía llevó a nuevos máximos su producción de petróleo en Vaca Muerta y activó un proyecto agro de u$s 2700 millones"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Se agrava la crisis de Pauny: los trabajadores tomaron la fábrica de tractores",
+     "resumen": "Unos 450 empleados de la fabricante de tractores reclaman tres quincenas impagas. La compañía acumula deudas bancarias por más de 30.000 millones de pesos y busca inversores para sostener su actividad.",
+     "relacionadas": [
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cómo funcionará el trasporte por la visita del Papa: trenes, colectivos y vuelos",
+       "url": "https://www.iprofesional.com/actualidad/468227-como-funcionara-trasporte-por-visita-papa-leon-xiv-trenes-colectivos-y-vuelos"
+      }
+     ],
+     "url": "https://www.ambito.com/negocios/se-agrava-la-crisis-pauny-trabajadores-tomaron-la-fabrica-tractores-n6341066",
+     "imagen": "https://media.ambito.com/p/36ee98b1c6492c8574345014fd728fed/adjuntos/239/imagenes/041/472/0041472334/tractorazochaco-1jpeg.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:59",
+     "autor": "",
+     "titulo_original": "Se agrava la crisis de Pauny: trabajadores tomaron la fábrica de tractores"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "Una marca argentina de zapatos entró en concurso con una deuda de más de 415 millones de pesos",
+     "resumen": "Clara Barceló, fabricante nacional de calzado, busca llegar a un acuerdo con sus acreedores para sostener su estructura productiva mientras enfrenta reclamos judiciales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468219-marca-de-zapatos-premium-entro-en-concurso-con-deuda-de-415-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629036.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:04",
+     "autor": "",
+     "titulo_original": "La marca de zapatos Clara Barceló entró en concurso con una deuda de más de $415 millones"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "Cómo fue el hackeo a Binance: una falsa entrevista laboral y una IA comprometida",
+     "resumen": "Según la reconstrucción preliminar de la compañía, el ciberataque del 29 de octubre a uno de los mayores exchanges del mundo comprometió activos digitales por unos 6.340 millones de dólares. La operación combinó una oferta laboral falsa, software malicioso y la manipulación de un sistema de inteligencia artificial interno.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/una-falsa-entrevista-laboral-software-malicioso-y-una-ia-comprometida-paso-a-paso-como-fue-el-hackeo-a-binance/",
+     "imagen": "https://www.cronista.com/resizer/v2/W72TKGAEB5EYZG4W6A2K676YJU.png?auth=eb53a4ba710ff160f14f6b659ff5c0e727e252f8e5a56a7cc0675fccd2184ef0&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:56",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "Una falsa entrevista laboral, software malicioso y una IA comprometida: paso a paso, cómo fue el hackeo a Binance"
+    },
+    {
+     "id": "CR-19",
+     "titulo": "Pinterest abrió oficina en la Argentina y manejará desde acá sus operaciones en Chile y Colombia",
+     "resumen": "La plataforma, que busca posicionarse como un sitio de compras además de inspiración, formalizó la apertura de un hub regional en el país, donde tiene 13 millones de usuarios activos, frente a 40 millones en Brasil.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/pinterest-se-instala-en-la-argentina-por-que-eligio-al-pais-para-poner-su-hub-regional/",
+     "imagen": "https://www.cronista.com/resizer/v2/ESGR7H6GNJBY7HN6E6ZY3D3LLM.png?auth=2a8105e84b25942a18a5a73cea84eadd904b09f0bd930be27e8c18544666dd76&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:27",
+     "autor": "Juliana Monferrán",
+     "titulo_original": "Pinterest apuesta al ‘dreamscrolling’ en la Argentina, por qué eligió al país para poner su hub regional"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "Emepa y Olgas crearon una sociedad conjunta para invertir en participaciones accionarias",
+     "resumen": "Las dos compañías constituyeron Alfa Participaciones, con partes iguales entre ambas, con facultades para financiar proyectos y tomar posiciones en otras empresas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468183-gabriel-romero-y-juan-manuel-ondarcuhu-se-asocian-en-alfa-participaciones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/01/610841.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:35",
+     "autor": "",
+     "titulo_original": "Emepa y Olgas crearon Alfa Participaciones para invertir y adquirir acciones de empresas"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "ARCA confirmó cuánto hay que pagar de monotributo en noviembre, categoría por categoría",
+     "resumen": "El organismo publicó los topes de facturación vigentes y el costo de la cuota mensual para servicios y venta de productos en cada categoría, de cara al próximo vencimiento de la recategorización.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468222-arca-confirmo-cuanto-hay-que-pagar-monotributo-noviembre-2026-categoria-por-categoria",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629003.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:39",
+     "autor": "",
+     "titulo_original": "ARCA confirmó cuánto hay que pagar de monotributo en noviembre, categoría por categoría"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Un fallo judicial amplía la posibilidad de reclamos contra el Aporte Solidario",
+     "resumen": "La Cámara Contencioso Administrativo Federal, sin sentencia firme, ordenó a ARCA devolver a Enrique Piñeyro casi 5.000 millones de pesos del Aporte Solidario y Extraordinario, al considerar que no correspondía aplicar de forma retroactiva el criterio de residencia fiscal. El tributo, creado por la Ley 27.605, alcanzó a quienes tenían bienes valuados en más de 200 millones de pesos en 2020.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/aporte-solidario-tras-el-fallo-que-cuestiono-el-criterio-de-arca-se-amplia-la-posibilidad-de-reclamos/",
+     "imagen": "https://www.cronista.com/resizer/v2/3FAF6BQKXFDN5JDCN4BWZ24Y5Y.jpg?auth=8afa8627268a9855458c3e353ea9e9498951777f39cd6ce9ccdde2e056ad82e0&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:54",
+     "autor": "Matías Rufino",
+     "titulo_original": "Aporte Solidario: tras el fallo que cuestionó el criterio de ARCA, se amplía la posibilidad de reclamos"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Cuándo un empleado puede ser despedido con causa por competencia desleal",
+     "resumen": "Preparar un emprendimiento propio no constituye en sí mismo una falta, pero usar clientes, información confidencial o recursos de la empresa actual para esa actividad puede justificar un despido con causa, según especialistas en derecho laboral.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/468194-cuando-un-empleado-puede-ser-despedido-por-competencia-desleal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629035.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:30",
+     "autor": "",
+     "titulo_original": "Cuándo un empleado puede ser despedido por competencia desleal"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "La UIA le reclamó al Gobierno bajar la presión tributaria en su conferencia anual",
+     "resumen": "Caputo confirmó ante los industriales que el Gobierno suspenderá hasta mayo de 2027 los embargos de ARCA sobre las pymes y propuso eliminar el impuesto a los Sellos, aunque esa baja requiere aprobación legislativa. El vicepresidente del Ieral, Marcelo Capello, remarcó que las medidas no constituyen un nuevo \"plan platita\" sino cambios de fondo en los planes de regularización de deudas.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Marcelo Capello analizó las medidas anunciadas por Caputo: por qué no son un “plan platita” para la industria",
+       "url": "https://www.cronista.com/economia-politica/marcelo-capello-analizo-las-medidas-anunciadas-por-caputo-por-que-no-son-un-plan-platita-para-la-industria/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/atrevanse-el-reclamo-de-la-uia-al-gobierno-para-bajar-la-presion-tributaria/",
+     "imagen": "https://www.cronista.com/resizer/v2/B246KTVNYJFJFJAWW3A4KK557I.JPG?auth=9be68d401d0b6a63af6e91157b5e0bc0c67d806f7a807d60224aac5f0ecec932&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:46",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "“Atrévanse”: el reclamo de la UIA al Gobierno para bajar la presión tributaria"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "El mal estado de las rutas funciona como un \"impuesto invisible\" para el transporte de cargas",
+     "resumen": "Un relevamiento de Focus Market y la Primera Asociación de Empresarios de Transporte identificó 37 tramos en mal estado en 21 provincias, que suman 4.625 kilómetros. El Gobierno apunta a un nuevo esquema de concesiones para que parte de ese costo se transforme en inversión privada y mantenimiento de largo plazo. Para una empresa con sucursales en el interior, el estado de las rutas incide directamente en los costos de distribución y en los plazos de entrega de mercadería.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-impuesto-invisible-que-acarrean-las-rutas-en-mal-estado-y-el-plan-del-gobierno-para-reducirlo/",
+     "imagen": "https://www.cronista.com/resizer/v2/NIBLPDJTG5FUJIQHO6MGS7NQUQ.jpg?auth=68b0a6f8a380e31fea1a7878e5d8cfd5c6a152534e01297c077225fb31da28b4&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:05",
+     "autor": "Audiencias Member",
+     "titulo_original": "El “impuesto invisible” que acarrean las rutas en mal estado y el plan del Gobierno para reducirlo"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-26",
+     "titulo": "Una marca global de electrodomésticos inteligentes desembarcó en la Argentina",
+     "resumen": "Dreame Technology, con presencia en más de 100 países, llega al país de la mano del importador AIMG con robots aspiradores, freidoras de aire, purificadores y productos de cuidado personal conectados bajo una misma plataforma. Para una empresa de materiales para el hogar, la llegada de más jugadores de electro conectado anticipa mayor competencia en la categoría de electrodomésticos inteligentes.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/gadgets/una-marca-global-de-electro-desembarca-en-la-argentina-con-un-ecosistema-de-hogar-inteligente/",
+     "imagen": "https://www.cronista.com/resizer/v2/3YDIFCE3QJBGBIFRLKVELKHB3A.jpg?auth=859ff59a1d9271b2172eebbc783529faef7de8633aba1a6bee94e891092e6abe&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:47",
+     "autor": "",
+     "titulo_original": "Una marca global de electro desembarca en la Argentina con un ecosistema de hogar inteligente"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "Un nuevo edificio de lujo en Ramblas del Plata ofrecerá terrazas escalonadas y vista al río",
+     "resumen": "La torre, ubicada en Costanera Sur, tendrá departamentos desde 62 metros cuadrados con vista a la Reserva Ecológica, en el marco del desarrollo urbanístico que impulsa el Gobierno porteño en la zona.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/467803-ramblas-del-plata-cuanto-cuesta-vivir-torre-lujo-costanera-sur",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628690.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:43",
+     "autor": "",
+     "titulo_original": "Terrazas escalonadas, vista al río y espacio verde: así será un nuevo edificio en Ramblas del Plata"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "El Estado subasta dos departamentos en Villa Urquiza y Villa Pueyrredón desde 74.000 dólares",
+     "resumen": "Las propiedades se rematarán próximamente y los interesados deberán sumar al precio de base los gastos administrativos y de comisión habituales de este tipo de operaciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/468212-como-participar-de-las-subastas-de-departamentos-desde-74000-dolares",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629028.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:25",
+     "autor": "",
+     "titulo_original": "El Estado subasta dos departamentos en Villa Urquiza y Villa Pueyrredón desde u$s74.000"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Cómo donar una propiedad en vida y evitar el trámite de sucesión",
+     "resumen": "En la Argentina se inician cada año unas 90.000 sucesiones, según el Ministerio de Justicia, procesos que suelen derivar en demoras y desacuerdos familiares. La donación con reserva de usufructo permite transferir la titularidad de un inmueble a hijos u otras personas sin perder el derecho a seguir usándolo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/como-donar-una-propiedad-en-vida-y-evitar-el-tramite-de-sucesion/",
+     "imagen": "https://www.cronista.com/resizer/v2/O2A3FSWQ6JFP5MNKRJLYIU3ZTA.jpg?auth=972c3bb15cacdcb81621a788ce83680b5c96442b24da2e2cef31a01c0d47bd0f&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Cómo donar una propiedad en vida y evitar el trámite de sucesión"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "Anthropic factura 17.000 millones de dólares, pero acumula pérdidas operativas y una deuda creciente",
+     "resumen": "La creadora de Claude facturó 16.956 millones de dólares en el tercer trimestre, un alza interanual de 1.127%, según su actualización del formulario S-1 ante la SEC de cara a su salida a bolsa. Pese al salto en ingresos, la compañía registró una pérdida operativa de 567 millones de dólares, frente a una ganancia de 974 millones en el trimestre anterior, por los fuertes compromisos para asegurarse capacidad de cómputo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/it-business/por-que-la-empresa-detras-de-claude-gana-miles-de-millones-pero-enfrenta-una-deuda-gigante/",
+     "imagen": "https://www.cronista.com/resizer/v2/5MBQMR3QJNDKTJGKN4CV7WZQ7M.jpg?auth=3c99f154b134702d1aa0131c4d3ce14f3862357a3410e499c0679b4cb23f08d9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "Por qué la empresa detrás de Claude gana miles de millones, pero enfrenta una deuda gigante"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "Las empresas no logran definir reglas de uso de la inteligencia artificial al ritmo en que la adoptan sus empleados",
+     "resumen": "Según un estudio de Seeds e IDEA sobre 1.907 profesionales y 111 organizaciones, el 88% del talento encuestado ya usa inteligencia artificial en su trabajo y casi la mitad se capacita por cuenta propia, mientras apenas 16% de las empresas definió políticas claras de uso.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-batalla-que-estan-perdiendo-las-empresas-con-la-ia-y-que-los-empleados-le-reclaman/",
+     "imagen": "https://www.cronista.com/resizer/v2/L6EYPJR6VZCTRMJNNQWACTVLH4.jpg?auth=5ef8099dfb648516b391af0f4e5deb2872f5fe392d0f40176b9b61de66169120&smart=true&width=900&height=541",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "La batalla que están perdiendo las empresas con la IA y que los empleados le reclaman"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "El responsable de tecnología del Gobierno porteño lidera la integración de inteligencia artificial en los servicios al ciudadano",
+     "resumen": "Raúl Piola, con más de 30 años en tecnología y gestión pública, conduce la transformación digital de la Ciudad de Buenos Aires, con foco en la integración de sistemas y servicios digitales para simplificar la relación entre el Estado y los ciudadanos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/infotechnology/mundo-cio/raul-piola-de-tecba-hacia-una-ciudad-mas-conectada-y-capaz-de-anticiparse/",
+     "imagen": "https://www.cronista.com/resizer/v2/ACKXIIJNORBF7MSWHXNGD5XTGA.jpg?auth=a65c43484a6c2b3ffb33d1e4b885e45da2439546a821630414ad6be009ec3540&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:58",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "Raúl Piola, de TecBA: hacia una ciudad más conectada y capaz de anticiparse"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "AM-11",
+     "titulo": "Paraguay intervino el banco digital Ueno y congeló los depósitos de jubilados, el Estado y ahorristas",
+     "resumen": "El Banco Central de Paraguay inició un proceso de resolución por el deterioro de solvencia de la entidad, que tiene unos 3 millones de clientes y administraba unos 850 millones de dólares en fondos públicos. El presidente Santiago Peña pidió la renuncia del titular del Banco Central, Carlos Carvallo, que terminó renunciando, mientras la oposición impulsa un juicio político.",
+     "relacionadas": [
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Peña desplaza al presidente del Banco Central de Paraguay por la crisis de Ueno Bank",
+       "url": "https://www.cronista.com/finanzas-mercados/pena-pide-la-renuncia-del-presidente-del-banco-central-de-paraguay-por-la-crisis-de-ueno-bank/"
+      },
+      {
+       "id": "LN-01",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El escándalo de un banco digital ligado al presidente amenaza la reputación de Paraguay como polo de inversiones",
+       "url": "https://www.lanacion.com.ar/el-mundo/el-escandalo-de-un-banco-digital-ligado-al-presidente-amenaza-la-reputacion-de-paraguay-como-polo-de-nid03112026/"
+      }
+     ],
+     "url": "https://www.ambito.com/mundo/alerta-financiera-paraguay-intervinieron-ueno-bank-y-congelaron-los-depositos-del-estado-jubilados-y-ahorristas-n6341084",
+     "imagen": "https://media.ambito.com/p/ff8b9e43e10fbece7e332345b7f4387e/adjuntos/239/imagenes/043/746/0043746028/1200x675/smart/ueno-bank.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Alerta financiera en Paraguay: intervinieron Ueno Bank y congelaron los depósitos del Estado, jubilados y ahorristas"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Trump anunció que Estados Unidos dejará de darle a Israel 4.000 millones de dólares anuales en ayuda militar",
+     "resumen": "El presidente norteamericano dijo que la decisión, que regirá desde 2027, fue consensuada con Netanyahu y que en su lugar Washington le venderá armas a su aliado. El programa de asistencia en seguridad había comenzado en 2019.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/en-plenas-elecciones-en-eeuu-trump-anuncia-que-dejara-de-enviarle-4000-millones-de-dolares-a-israel-nid03112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4PHBDPITLZDHNNICZTLDSHTRLQ.jpg?auth=ea139cfc7b063507a5049a51cbc6e8e92dd2b7815d9a3ab921e7dd48ea7b3ef5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:05",
+     "autor": "",
+     "titulo_original": "En plenas elecciones en EE.UU., Trump anuncia que dejará de enviarle 4000 millones de dólares a Israel"
+    },
+    {
+     "id": "CL-04",
+     "titulo": "Fallas en máquinas de votación en Nueva York generaron denuncias de fraude sin sustento en las elecciones de EE.UU.",
+     "resumen": "Las autoridades aseguraron que todas las papeletas serán contadas e implementaron procedimientos de emergencia para garantizar el escrutinio. Trump encabezó más de 20 actos de campaña y dijo que a los republicanos les irá \"mejor de lo esperado\", mientras seguirá la jornada desde la Casa Blanca.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Elecciones en Estados Unidos: Trump dice que a los republicanos les irá \"mejor de lo esperado\"",
+       "url": "https://www.clarin.com/mundo/elecciones-estados-unidos-trump-dice-republicanos-ira-mejor-esperado_0_xVljmfQJpj.html"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Elecciones en EEUU 2026 EN VIVO: cómo se vota, cuándo se conocen los resultados y qué se juega Donald Trump en los comicios de este 3 de noviembre",
+       "url": "https://www.ambito.com/mundo/elecciones-estados-unidos-2026-medio-termino-legislativas-donald-trump-congreso-partido-republicano-democratas-3-noviembre"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/fallo-en-maquinas-electorales-de-estado-de-nueva-york-en-medio-de-renidas-legislativas-de-eeuu_0_MPAiFUFBOv.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Fallo en máquinas electorales de estado de Nueva York en medio de reñidas legislativas de EEUU"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Polonia reforzó su frontera con Kaliningrado ante una amenaza de sabotaje ruso",
+     "resumen": "El primer ministro Donald Tusk confirmó el despliegue de seguridad luego de que guardias fronterizos reportaran movimientos sospechosos con linternas cerca del límite con el enclave ruso durante la madrugada del martes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/03/polonia-confirmo-un-despliegue-de-seguridad-en-la-frontera-con-kaliningrado-ante-amenaza-de-sabotaje/",
+     "imagen": "https://www.infobae.com/resizer/v2/GL5K2ONWZZE4NJGTJTIS6OR3GE?auth=2f30b597817f95064e494eb865b04abf09b67b59bb175a0cc04961c075e6c486&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:50",
+     "autor": "",
+     "titulo_original": "Polonia confirmó un despliegue de seguridad en la frontera con Kaliningrado ante amenaza de sabotaje"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "El líder opositor israelí Eisenkot prometió acelerar las negociaciones para un gobierno de emergencia",
+     "resumen": "Gadi Eisenkot, que suma 48 escaños y necesita a las listas árabes para alcanzar la mayoría de 61 en la Knéset, fijó como objetivos formar ese gobierno y derogar leyes que considera una amenaza a la democracia israelí. El presidente Isaac Herzog inicia el miércoles las consultas para designar a quien forme coalición.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/03/eisenkot-promete-acelerar-las-negociaciones-para-formar-un-gobierno-de-emergencia-nacional/",
+     "imagen": "https://www.infobae.com/resizer/v2/OTVYGIB5B5HMRDRO7KWV46SMS4.jpg?auth=78453e120e2b2c0077817a358247d66c4f77cfb9dc9f25a939af0580b1ae95d4&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:48",
+     "autor": "",
+     "titulo_original": "Eisenkot promete acelerar las negociaciones para formar un Gobierno de emergencia nacional"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Renunció el ministro de Transportes de España a una semana del choque de trenes que dejó 69 muertos",
+     "resumen": "El funcionario estaba en el centro de la polémica por la segunda gran tragedia ferroviaria del año y también renunció a ser candidato en las elecciones generales del 29 de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/choque-trenes-espana-renuncio-ministro-transportes_0_OniGnH9qct.html",
+     "imagen": "https://www.clarin.com/img/2026/10/29/e5ZVipi3V_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:27",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Choque de trenes en España: renunció el ministro Transportes a una semana del choque que dejó 69 muertos"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent explica qué circunscripciones hay que mirar para anticipar una ola demócrata en EE.UU.",
+     "resumen": "La revista francesa propone seguir un puñado de distritos clave durante la noche electoral para anticipar la tendencia general: si el Partido Republicano tiene peores resultados de lo previsto temprano en la costa este, es probable que esa tendencia continúe a medida que avanza el escrutinio, según la lectura de analistas políticos estadounidenses citados por la publicación.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/03/midterms-que-circunscripciones-anunciaran-oleada-democrata/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:06",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Midterms: ¿qué circunscripciones anunciarán una oleada demócrata?"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent analiza la inteligencia artificial como el nuevo campo de batalla geopolítico",
+     "resumen": "La publicación describe cómo las tecnologías de inteligencia artificial objetivan y automatizan el discurso humano a una escala inédita, en un ensayo que vincula esa transformación con disputas de poder y control entre Estados y grandes corporaciones tecnológicas.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/03/la-burbuja-y-el-control/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/11/iuGnxw-125x158.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:52",
+     "autor": "Louis Puel",
+     "titulo_original": "La burbuja y el control"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-02",
+     "titulo": "PSG goleó 4-0 a Villarreal y Barcelona ganó con un gol de Lamine Yamal en la cuarta fecha de la Champions",
+     "resumen": "PSG marcó sus cuatro goles en apenas ocho minutos y rompió un récord del Real Madrid. Roma venció 2-0 a Manchester United con un tanto del argentino Matías Soulé, Inter superó 2-0 a Feyenoord y LASK le ganó 3-0 a Slovan Bratislava. Barcelona se impuso 1-0 a Aston Villa con gol de Lamine Yamal, mientras Atlético de Madrid y Bayern Múnich igualaban sin goles.",
+     "relacionadas": [
+      {
+       "id": "CL-03",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "PSG hizo cuatro goles en los primeros 17 minutos contra el Villarreal y rompió un récord del Real Madrid en la Champions League",
+       "url": "https://www.clarin.com/deportes/psg-hizo-goles-primeros-17-minutos-villarreal-rompio-record-real-madrid-champions-league_0_M4CXeLvGc2.html"
+      },
+      {
+       "id": "IB-10",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "FC Barcelona - Aston Villa, en directo: Lamine Yamal adelanta a los suyos en el marcador tras un gran robo de balón",
+       "url": "https://www.infobae.com/espana/deportes/2026/11/03/fc-barcelona-aston-villa-en-directo-previa-y-ultima-hora-del-partido-de-champions/"
+      },
+      {
+       "id": "IB-02",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Atlético de Madrid - Bayern de Múnich, en directo: las ocasiones más claras, para Julián Álvarez, Sorloth y Harry Kane",
+       "url": "https://www.infobae.com/espana/deportes/2026/11/03/atletico-de-madrid-bayern-de-munich-en-directo-harry-kane-se-estrena-como-visitante-en-un-feudo-maldito-para-los-alemanes/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid03112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AE6ZEF25HVA4DFPNTZJGC4KEFI.JPG?auth=042e05aa09301e529285955e0f5b38bf9634e82b02023805fe11855d59e674da&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "Champions League, EN VIVO: el minuto a minuto de la jornada"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Scaloni convocó a la Selección para los amistosos ante Uruguay y Costa Rica sin Cuti Romero, Lautaro ni De Paul",
+     "resumen": "En la primera lista posterior al retiro de Lionel Messi, el entrenador citó a Gonzalo Montiel entre los regresos, mientras Cristian Romero y Nicolás González quedaron afuera por lesiones musculares y Lautaro Martínez, del Inter, estará entre cuatro y seis semanas sin jugar. La Selección enfrentará a Uruguay el 13 de noviembre en la cancha de Boca y a Costa Rica el 17 en el estadio Kempes de Córdoba.",
+     "relacionadas": [
+      {
+       "id": "LN-03",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Quiénes son los jugadores que quedaron fuera de la lista de convocados para los próximos amistosos de la selección",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/quienes-son-los-jugadores-que-quedaron-fuera-de-la-lista-de-convocados-para-los-proximos-amistosos-nid03112026/"
+      }
+     ],
+     "url": "https://www.infobae.com/deportes/2026/11/03/las-razones-detras-de-las-ausencias-de-lo-celso-y-de-paul-cuti-romero-y-lisandro-martinez-en-la-lista-de-la-seleccion/",
+     "imagen": "https://www.infobae.com/resizer/v2/G3L4KPHNO5HHDDPSWMJZF24LRY.JPG?auth=14d98650a12c35416d6ca636288050b81a5a5c14c59e9fe13ce653a530909dd3&smart=true&width=900&height=596",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:12",
+     "autor": "Gustavo Yarroch",
+     "titulo_original": "Las razones detrás de las ausencias de Lo Celso, De Paul, Cuti Romero y Lautaro Martínez en la lista de la Selección"
+    },
+    {
+     "id": "CL-01",
+     "titulo": "La muerte de Jesús de Miguel abre en España el debate sobre si el arquero Owono puede enfrentar una causa penal",
+     "resumen": "El futbolista del Tenerife murió tras sufrir un paro cardíaco luego de que el arquero del Andorra impactara con su rodilla sobre su pecho. La nota repasa qué dice la legislación española al respecto y a qué penas podría exponerse el jugador ecuatoguineano.",
+     "relacionadas": [
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Jorge Valdano habló de la muerte de Jesús de Miguel y pidió no buscar culpables: “Para tanto dolor, es suficiente con una víctima”",
+       "url": "https://www.clarin.com/deportes/jorge-valdano-hablo-muerte-jesus-miguel-pidio-buscar-culpables-dolor-suficiente-victima_0_5R40XSQ5PV.html"
+      },
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La muerte de Jesús de Miguel: por qué un golpe en el pecho puede producir un paro cardíaco",
+       "url": "https://www.clarin.com/sociedad/muerte-jesus-miguel-puede-golpe-pecho-producir-paro-cardiaco_0_PF4G9psdgU.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/muerte-jesus-miguel-abre-debate-espana-arquero-owono-puede-enfrentar-causa-penal_0_nBarFj1Hkg.html",
+     "imagen": "https://www.clarin.com/img/2026/11/03/sDclbIcmd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La muerte de Jesús de Miguel abre un debate en España: ¿el arquero Owono puede enfrentar una causa penal?"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Jorge Valdano pidió no buscar culpables por la muerte de Jesús de Miguel",
+     "resumen": "El campeón del mundo le dedicó una columna al delantero del Tenerife, con quien tuvo un vínculo sentimental por su paso por el club canario, y describió el choque con el arquero rival como una acción accidental: \"El fútbol es todo lo contrario a la muerte\".",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/jorge-valdano-hablo-muerte-jesus-miguel-pidio-buscar-culpables-dolor-suficiente-victima_0_5R40XSQ5PV.html",
+     "imagen": "https://www.clarin.com/img/2026/11/03/GOpnqg2LD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:48",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Jorge Valdano habló de la muerte de Jesús de Miguel y pidió no buscar culpables: “Para tanto dolor, es suficiente con una víctima”"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Franco Colapinto llega a Interlagos con la ilusión de sumar puntos tras su buen ritmo en México",
+     "resumen": "San Pablo se prepara para recibir a la Fórmula 1 con una presencia argentina cada vez más numerosa en las tribunas. Pechito López, amigo del piloto, señaló que la clasificación sigue siendo la principal materia pendiente de Colapinto frente a su compañero Pierre Gasly, aunque destacó su firmeza en carrera.",
+     "relacionadas": [
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Pechito López señaló qué le falta mejorar a Franco Colapinto en la Fórmula 1: “Es donde le está costando”",
+       "url": "https://www.infobae.com/deportes/2026/11/03/pechito-lopez-senalo-que-le-falta-mejorar-a-franco-colapinto-en-la-formula-1-es-donde-le-esta-costando/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/franco-colapinto-vuelve-interlagos-apoyo-argentinos-ilusion-alpine-circuito-invita-sonar_0_gPieC8q52P.html",
+     "imagen": "https://www.clarin.com/img/2025/11/09/yc-QShgwg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:09",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Franco Colapinto vuelve a Interlagos: el apoyo de los argentinos, la ilusión de Alpine y un circuito que invita a soñar"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Conmoción por la muerte del exrugbier cordobés Fernando Villarnovo en Australia",
+     "resumen": "Villarnovo, de 34 años, había jugado en el club La Tablada y se encontraba trabajando en Oceanía. Sus amigos organizan una colecta para reunir fondos y poder repatriar sus restos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/conmocion-muerte-exrugbier-argentino-australia-amigos-hacen-colecta-repatriar-restos_0_cr7hXXv5Sg.html",
+     "imagen": "https://www.clarin.com/img/2026/11/03/RKfJ6rzFL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Conmoción por la muerte de un exrugbier argentino en Australia: sus amigos hacen una colecta para repatriar sus restos"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Seis futbolistas argentinos denunciaron una megaestafa inmobiliaria en Estados Unidos por más de 2 millones de dólares",
+     "resumen": "Leonardo Jara, Ezequiel Cerutti, Juan Brunetta, Gonzalo Maroni, Lucas \"Tití\" Rodríguez y Alejandro Mena denunciaron una presunta estafa con propiedades en Baltimore. La causa tramita en la Justicia de La Plata.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/megaestafa-inmobiliaria-seis-futbolistas-argentinos-denunciaron-perdidas-mas-us2-millones-n6341065",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:01",
+     "autor": "",
+     "titulo_original": "Megaestafa inmobiliaria: seis futbolistas argentinos denunciaron pérdidas por más de u$s2 millones"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "La bebida energizante de Rodrigo De Paul trasladó toda su producción a la Argentina",
+     "resumen": "SH!, la marca que tiene al campeón del mundo como socio estratégico, pasó de producir en Italia a trabajar con dos fabricantes en Buenos Aires y Mendoza. La empresa avanza en una ronda de inversión superior a 10 millones de dólares para su expansión regional, en una categoría que mueve unos 400 millones de dólares anuales en el país.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-bebida-energetica-de-rodrigo-de-paul-se-empieza-a-producir-en-argentina-para-competir-con-las-lideres/",
+     "imagen": "https://www.cronista.com/resizer/v2/5F5PZHS7XFE75LUWZOTPQIDAYM.jpg?auth=767d6f4d763d0e1c020ef2ea6c442af7c4dda4a5ead36d2c567688d9bcd99035&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:52",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "La bebida energética de Rodrigo De Paul se empieza a producir en Argentina para competir con las líderes"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "Un olivar de San Luis busca voluntarios: alojamiento y comida gratis a cambio de cinco horas de trabajo diarias",
+     "resumen": "La propuesta, publicada en la plataforma Workaway, ofrece hospedaje en un olivar de 70 años que busca convertirse en una granja de permacultura, con disponibilidad para noviembre y diciembre. Los viajeros deben cubrir algunos gastos por su cuenta.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-un-olivar-en-san-luis-ofrecen-alojamiento-gratis-y-comida-a-cambio-de-5-horas-por-dia-durante-5-dias-a-la-semana/",
+     "imagen": "https://www.cronista.com/resizer/v2/6WEUXLGUURC43E2IZRJZE2IQEQ.jpg?auth=729ae14f41f8ce829770d0ec81ed0eee5768fe1e38b95a9263d723df22a876d6&smart=true&width=900&height=475",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:29",
+     "autor": "Equipo Audiencias Argentina",
+     "titulo_original": "Buscan voluntarios para vivir en un olivar en San Luis: ofrecen alojamiento gratis y comida a cambio de 5 horas por día durante 5 días a la semana"
+    },
+    {
+     "id": "CR-25",
+     "titulo": "Un complejo de departamentos en Tigre ofrece alojamiento gratis a cambio de tareas de mantenimiento",
+     "resumen": "La búsqueda, también publicada en Workaway, es para colaborar en tareas de limpieza y mantenimiento de un conjunto residencial a 50 metros del río y 150 metros de la estación de trenes, en pleno centro de Tigre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-una-de-las-zonas-mas-lindas-de-tigre-ofrecen-alojamiento-y-comida-gratis-a-cambio-de-trabajar-en-la-limpieza-y-mantenimiento-de-un-conjunto-de-apartamentos/",
+     "imagen": "https://www.cronista.com/resizer/v2/DYSUT2BC75AY5JR6UQOPE62NDY.jpg?auth=f509293cc4c707c8164db713c3dac47db6ebef5abf5d5518586c19b0c4f184da&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:52",
+     "autor": "Abel Iranzi",
+     "titulo_original": "Buscan voluntarios para vivir en una de las zonas más lindas de Tigre: ofrecen alojamiento y comida gratis a cambio de trabajar en la limpieza y mantenimiento de un conjunto de apartamentos"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-19",
+     "titulo": "Encontraron muerta a una vicedirectora en Santa Fe e investigan un femicidio seguido de suicidio",
+     "resumen": "María Itatí Yossen, de 51 años, vicedirectora de la Escuela Especial N° 2009, fue hallada sin vida en el departamento de su expareja, Fabio Firmapaz, de 50 años, quien también fue encontrado muerto en la planta baja de la vivienda, en el barrio Sur de la capital provincial.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/11/03/encontraron-muerta-a-una-docente-en-santa-fe-e-investigan-un-femicidio-seguido-de-suicidio/",
+     "imagen": "https://www.infobae.com/resizer/v2/GLIW4I6QE5FMBDN6W5OBCXCBRY.jpg?auth=89af62b6a7eab68199d66e12eaeb8fbde5414ff8a0acb30c4e68c55d6f2fa211&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:43",
+     "autor": "",
+     "titulo_original": "Encontraron muerta a una docente en Santa Fe e investigan un femicidio seguido de suicidio"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Colocaron un vallado permanente en la estatua de Roca en Bariloche tras años de polémica",
+     "resumen": "El Instituto Rocaniano impulsó la instalación de una estructura metálica en el Centro Cívico para proteger de nuevos actos de vandalismo al monumento ecuestre al expresidente Julio Argentino Roca y permitir su restauración, en un debate que enfrenta desde hace años a quienes piden su traslado con quienes defienden su permanencia.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/03/el-vallado-a-la-estatua-de-roca-en-bariloche-abre-un-nuevo-capitulo-de-la-polemica-por-su-permanencia-en-el-centro-civico/",
+     "imagen": "https://www.infobae.com/resizer/v2/2QHZUMH4MZBPRP4RFP6JDHBYDE.jpg?auth=cbc7a3bc61bc01543f795d41d919b89c7237997b1ebfdce84e79f3ce9ca6511c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:20",
+     "autor": "Francisco Poppe",
+     "titulo_original": "El vallado a la estatua de Roca en Bariloche abre un nuevo capítulo de la polémica por su permanencia en el Centro Cívico"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del martes 3 de noviembre. El dólar mayorista cerró en mil quinientos cincuenta y un pesos, un nuevo récord nominal, y el riesgo país volvió a subir, en una franja de entre ochocientos veinte y ochocientos treinta y cuatro puntos según la fuente, su nivel más alto en más de un año. El Banco Central no compró dólares en cinco de las últimas siete ruedas y las reservas bajaron ciento cuarenta y ocho millones de dólares en la jornada. En medio de ese clima, el Gobierno envió al Congreso una reforma financiera de doscientos cuarenta artículos que, entre otros cambios, elimina la exención de Ganancias para la compra y venta de cedears adquiridos desde fin de octubre.\n\nEn política, Cristina Kirchner dejó abierta la puerta a una candidatura en dos mil veintisiete en una entrevista con el diario The Washington Post, y en su entorno interpretan que hoy no hay otro dirigente que represente ese espacio del peronismo. El Gobierno envió al Senado el pliego del juez Daniel Rafecas para la Cámara de Casación Penal, con un calendario ajustado antes del cierre del período ordinario a fin de mes. La senadora Patricia Bullrich se adjudicó el alivio impositivo anunciado por Caputo para las pymes, en medio de una Mesa Política del oficialismo que lleva dos semanas suspendida. El Vaticano confirmó que el papa León XIV hará la gira por Uruguay, Argentina y Perú con su equipo médico habitual, sin equipamiento especial, después de que los controles posteriores a la extracción de un tumor en el pulmón descartaran tratamientos adicionales. La Iglesia y un grupo de diputados opositores presionan al Senado para evitar que se archive el proyecto que restringe la publicidad de apuestas online.\n\nEn economía, además de la reforma sobre los cedears, el INDEC informó que los precios de exportación subieron quince coma dos por ciento interanual en el tercer trimestre, impulsados por el petróleo, las carnes y los aceites. La tasa de retorno del bono GD35 llegó a doce coma tres por ciento en octubre, el mayor salto entre los bonos emergentes comparables, y debutó el primer ETF argentino, que replica el índice Merval y en el que sus administradores esperan mover quinientos mil millones de pesos en los próximos seis a doce meses. Un análisis señaló que el resultado de las elecciones legislativas de Estados Unidos puede modificar el margen de Donald Trump para sostener su respaldo a Javier Milei.\n\nEn negocios, Pampa Energía llevó a un récord su producción de petróleo en Vaca Muerta, con veintiséis mil barriles diarios en Rincón de Aranda, y arrancó la construcción de una planta de fertilizantes por dos mil setecientos millones de dólares. La crisis de la fabricante de tractores Pauny se agravó: unos cuatrocientos cincuenta trabajadores tomaron la fábrica por tres quincenas impagas. La marca de calzado Clara Barceló entró en concurso con una deuda de más de cuatrocientos quince millones de pesos. Se conocieron además los detalles del ciberataque a Binance, que comprometió activos por unos seis mil trescientos cuarenta millones de dólares a través de una falsa entrevista laboral, y Pinterest abrió una oficina en la Argentina desde donde manejará también sus operaciones en Chile y Colombia.\n\nEn impuestos y normativa, ARCA confirmó los montos de monotributo para noviembre según cada categoría. Un fallo judicial, todavía sin sentencia firme, ordenó devolverle al empresario Enrique Piñeyro casi cinco mil millones de pesos del Aporte Solidario, lo que podría abrir la puerta a nuevos reclamos. Especialistas en derecho laboral explicaron cuándo un empleado puede ser despedido con causa por competencia desleal. En la conferencia de la Unión Industrial Argentina, Caputo confirmó la suspensión de los embargos de ARCA a las pymes hasta mayo de dos mil veintisiete y propuso eliminar el impuesto a los Sellos, aunque esa baja todavía necesita aprobación del Congreso. Un relevamiento privado identificó treinta y siete tramos de rutas en mal estado en veintiún provincias, que suman cuatro mil seiscientos veinticinco kilómetros, lo que encarece el transporte de cargas en todo el país.\n\nEn consumo y construcción, la marca china Dreame desembarcó en la Argentina con una línea de electrodomésticos inteligentes conectados. En Costanera Sur avanza un nuevo edificio de lujo con vista a la Reserva Ecológica, y el Estado subasta dos departamentos en Villa Urquiza y Villa Pueyrredón desde setenta y cuatro mil dólares. También se explicó cómo funciona la donación de una propiedad en vida como alternativa para evitar los costos y las demoras de una sucesión.\n\nEn management, un informe de Seeds e IDEA mostró que el ochenta y ocho por ciento de los profesionales argentinos ya usa inteligencia artificial en su trabajo, pero apenas el dieciséis por ciento de las empresas definió reglas claras para su uso. Anthropic, la empresa detrás de Claude, facturó casi diecisiete mil millones de dólares en el tercer trimestre, pero igual registró pérdidas operativas por los fuertes compromisos que asumió para asegurarse capacidad de cómputo.\n\nEn el mundo, Paraguay intervino el banco digital Ueno, que tiene tres millones de clientes, y el presidente Santiago Peña pidió la renuncia del titular del Banco Central, que terminó renunciando en medio de una crisis que también salpica al propio mandatario. Donald Trump anunció que, a partir de dos mil veintisiete, Estados Unidos dejará de darle a Israel cuatro mil millones de dólares anuales en ayuda militar y que en su lugar le venderá armas. En Nueva York hubo fallas en máquinas de votación que generaron denuncias de fraude sin sustento, mientras las autoridades aseguraron que todas las papeletas serán contadas. Polonia reforzó su frontera con el enclave ruso de Kaliningrado ante una amenaza de sabotaje, y en Israel el líder opositor Gadi Eisenkot prometió acelerar las negociaciones para formar un gobierno de emergencia nacional. En España renunció el ministro de Transportes a una semana del choque de trenes que dejó sesenta y nueve muertos.\n\nLe Grand Continent analiza la noche electoral de Estados Unidos y propone seguir un puñado de distritos clave para anticipar la tendencia general del resultado. En otro artículo, la revista francesa describe a la inteligencia artificial como el nuevo campo de batalla geopolítico entre Estados y grandes corporaciones tecnológicas.\n\nEn deportes, hubo una noche cargada de Champions League: Paris Saint Germain goleó cuatro a cero a Villarreal y marcó sus goles en apenas ocho minutos, un récord. Roma venció dos a cero a Manchester United con un gol del argentino Matías Soulé, y Barcelona ganó uno a cero a Aston Villa con un tanto de Lamine Yamal, mientras Atlético de Madrid y Bayern Múnich empataban sin goles. Lionel Scaloni convocó a la Selección para los amistosos ante Uruguay, el trece de noviembre, y Costa Rica, el diecisiete, con el regreso de Gonzalo Montiel y las bajas de Cuti Romero, Lautaro Martínez, Nicolás González y Rodrigo de Paul por lesiones. El fútbol español sigue conmovido por la muerte de Jesús de Miguel, del Tenerife, tras el choque con el arquero del Andorra: se debate si el arquero puede enfrentar una causa penal, y Jorge Valdano pidió no buscar culpables. Franco Colapinto llega a Interlagos, en San Pablo, con la ilusión de sumar puntos tras su buen ritmo en México; su amigo Pechito López señaló que la clasificación sigue siendo su materia pendiente frente a Pierre Gasly. También hubo conmoción por la muerte del exrugbier cordobés Fernando Villarnovo en Australia, y seis futbolistas argentinos denunciaron una megaestafa inmobiliaria en Estados Unidos por más de dos millones de dólares.\n\nPara cerrar, dos propuestas de turismo rural dentro del país: un olivar de San Luis y un complejo de departamentos en Tigre ofrecen alojamiento y comida gratis a cambio de colaborar unas horas por día en tareas de mantenimiento, una alternativa para viajar más barato dentro de la Argentina.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "El riesgo país se cita con valores distintos según la fuente (entre 790 y 834 puntos en las notas de la tarde); se optó por reflejar esa dispersión en vez de promediar o elegir un único dato. No hubo caídas de fuentes en esta corrida.",
+ "slug": "2026-11-03-tarde",
+ "generado_ba": "03/11/2026 21:17"
+}
