@@ -1,0 +1,931 @@
+{
+ "fecha": "2026-11-06",
+ "edicion": "manana",
+ "titulo": "Bullrich se distancia de Milei mientras el riesgo país supera los 920 puntos",
+ "apertura": "La jornada arranca con una interna libertaria que se profundiza: Patricia Bullrich volvió a diferenciarse de Javier Milei y ofreció al peronismo un acuerdo por el Consejo de la Magistratura, mientras en el oficialismo preparan represalias. En los mercados, el riesgo país saltó a 925 puntos en medio de una jornada negra para Wall Street y el REM recortó a 0,7% la proyección de crecimiento del PBI para este año. En el plano internacional, el presidente paraguayo Santiago Peña renunció pero deberá enfrentar un juicio político por la crisis del banco Ueno, y el país se prepara para la llegada del papa León XIV el domingo.",
+ "claves": [
+  "Patricia Bullrich profundiza su distancia de Milei: ofreció al peronismo repartir el Consejo de la Magistratura y en el oficialismo preparan represalias.",
+  "El riesgo país saltó 8,57% hasta 925 puntos y arrastró a los bonos y las acciones argentinas en una jornada de fuerte caída global.",
+  "El REM recortó a 0,7% la proyección de crecimiento del PBI para 2026 y AmCham advirtió que la derrota de Trump puede condicionar el auxilio financiero a la Argentina.",
+  "Economía reconoció que el impuesto al cheque es su \"gran deuda\" pendiente y abrió la discusión sobre Ingresos Brutos con los gobernadores.",
+  "Los créditos hipotecarios treparon a $ 9,6 billones, con el fondeo del FGS como motor de la reactivación.",
+  "El presidente paraguayo Santiago Peña renunció pero deberá enfrentar un juicio político por la crisis del banco Ueno, que dejó a millones de ahorristas sin acceso a sus fondos.",
+  "Franco Colapinto corre este fin de semana el GP de Brasil de Fórmula 1 buscando sumar puntos tras la sanción en México.",
+  "El Gobierno dispuso asuetos administrativos por la visita del papa León XIV, que llega el domingo a la Argentina."
+ ],
+ "cifras": [
+  {
+   "nombre": "Crecimiento del PBI 2026 (REM del BCRA)",
+   "valor": "0,7%",
+   "fuente": "CR-18"
+  },
+  {
+   "nombre": "Saldo de créditos hipotecarios",
+   "valor": "$ 9,6 billones",
+   "variacion": "+$ 481.677 millones en octubre",
+   "fuente": "IP-15"
+  },
+  {
+   "nombre": "Índice Merval",
+   "valor": "-4,13%",
+   "fuente": "CR-20"
+  },
+  {
+   "nombre": "Impacto económico de la visita del Papa en Buenos Aires",
+   "valor": "más de US$ 88 millones",
+   "fuente": "AM-12"
+  },
+  {
+   "nombre": "Capacidad instalada de data centers en Argentina",
+   "valor": "32 MW",
+   "fuente": "CR-12"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-14",
+     "titulo": "Bullrich ofrece a Milei un acuerdo por el Consejo de la Magistratura",
+     "resumen": "En el cierre de las Jornadas del Colegio de Abogados porteño, Patricia Bullrich defendió la libertad de prensa y propuso repartir las bancas del Senado en el Consejo de la Magistratura para evitar que la disputa con el peronismo llegue a la Corte Suprema. También pidió eliminar las entrevistas en los concursos de jueces. El discurso estaba originalmente reservado para Javier Milei, que no pudo asistir por su viaje a España.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"Defender la libertad es defender a quienes nos cuestionan\": Bullrich se volvió a desmarcar de Milei y defendió la libertad de prensa",
+       "url": "https://www.clarin.com/politica/defender-libertad-defender-cuestionan-bullrich-volvio-desmarcar-milei-defendio-libertad-prensa_0_8axplbrIAM.html"
+      },
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "En plena interna con el Gobierno, Bullrich defendió la libertad de prensa y pidió completar la Corte",
+       "url": "https://www.lanacion.com.ar/politica/en-plena-interna-con-el-gobierno-bullrich-defendio-la-libertad-de-prensa-y-pidio-completar-la-corte-nid05112026/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/bullrich-defendio-a-la-prensa-y-ofrecio-un-acuerdo-con-el-peronismo-para-el-consejo-de-la-magistratura/",
+     "imagen": "https://www.cronista.com/resizer/v2/VFTZPYPDVVFRZAORKHQHICAO4M.jpeg?auth=cbd12b53a1a7dc29ec831d5385ecc693ed16c1008acc112f03fa95381127a0b6&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:17",
+     "autor": "Daniela Romero",
+     "titulo_original": "Bullrich defendió a la prensa y ofreció un acuerdo con el peronismo para el Consejo de la Magistratura"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "Karina Milei prepara represalias contra Bullrich",
+     "resumen": "Según Ámbito, Karina Milei se hartó de la actitud de Patricia Bullrich, a la que en el entorno oficialista calificaron de \"cuasi mafiosa\". El plan es tomar medidas para acotar a la ex ministra de Seguridad una vez que termine la gira del papa León XIV por el país.",
+     "url": "https://www.ambito.com/politica/karina-milei-se-harto-patricia-bullrich-y-lla-prepara-represalias-tiene-una-actitud-cuasi-mafiosa-n6341985",
+     "imagen": "https://media.ambito.com/p/91174414d4630d51d5aa57277b6653d3/adjuntos/239/imagenes/041/137/0041137965/1200x675/smart/karina-mileijpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Karina Milei se hartó de Patricia Bullrich y LLA prepara represalias: \"Tiene una actitud cuasi mafiosa\"",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-13",
+     "titulo": "El faltazo de Macri a la misa del Papa y la tregua política que se agota",
+     "resumen": "Mientras Karina Milei coordina los últimos preparativos de la visita del papa León XIV, crecen las tensiones entre Milei y Bullrich y la incertidumbre sobre el futuro del PRO. Mauricio Macri no asistirá a la misa en el Monumento a los Españoles. Infobae señala que la tregua institucional por la llegada del pontífice contrasta con las disputas que esperan al sistema político apenas termine la visita.",
+     "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/",
+     "imagen": "https://www.infobae.com/resizer/v2/MCSKXIFQWBBPRHCLLEG6CACZII.jpeg?auth=5ee63d2af4d43fd15ae80c4e265b1e8af03eb4e249802c8c7c0940bf9f5c3d67&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:28",
+     "autor": "Nacho Girón",
+     "titulo_original": "La Argentina que recibe al Papa: nuevas tensiones entre Milei y Bullrich, el faltazo de Macri y la pausa obligada del Congreso",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Dos encuestas miden si la visita del Papa beneficia o perjudica a Milei",
+     "resumen": "Los estudios de las consultoras Opina Argentina y Opinaia midieron la imagen de León XIV y el carácter político y religioso de su llegada al país. Buscan establecer qué sentimientos provoca la visita y cómo puede impactar en la figura del Presidente.",
+     "url": "https://www.clarin.com/politica/nuevas-encuestas-midieron-puede-impactar-visita-papa-beneficia-perjudica-milei_0_pQ7TtpB4Ng.html",
+     "imagen": "https://www.clarin.com/img/2025/06/07/xM0bXrlur_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Dos nuevas encuestas midieron cómo puede impactar la visita del Papa: ¿beneficia o perjudica a Milei?",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Economía pasó a disponibilidad a más de diez empleados tras eliminar la ex Subsecretaría de Puertos",
+     "resumen": "El Ministerio de Economía, mediante la Resolución 1942/2026 firmada por Luis Caputo, puso en situación de disponibilidad a 16 agentes de planta permanente de la ex Subsecretaría de Puertos y Vías Navegables, eliminada de la estructura estatal en enero de 2025. La medida se justificó en la falta de tareas compatibles para ese personal.",
+     "url": "https://www.infobae.com/politica/2026/11/06/el-ministerio-de-economia-paso-a-disponibilidad-a-mas-de-diez-empleados-de-planta-permanente/",
+     "imagen": "https://www.infobae.com/resizer/v2/CLTIMNOZEVB4NC2UWBLMCAWV7I.jpg?auth=a20add2d01553be0e48566e774c895b64af78f9988356b1a4e884d11ce9dc03f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:51",
+     "autor": "",
+     "titulo_original": "El Ministerio de Economía pasó a disponibilidad a más de diez empleados de planta permanente",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-20",
+     "titulo": "Renunció el coordinador de la Unidad Médica Presidencial",
+     "resumen": "Karina Milei oficializó mediante el Boletín Oficial la salida de Diego Hoffmann como coordinador de la Unidad Médica Presidencial. El médico dejó el cargo desde el 1° de octubre y todavía no tiene reemplazante.",
+     "url": "https://www.ambito.com/politica/renuncio-diego-hoffmann-coordinador-la-unidad-medica-presidencial-n6342151",
+     "imagen": "https://media.ambito.com/p/fe615f538b9850ff39636b72a7975d78/adjuntos/239/imagenes/043/750/0043750896/1200x675/smart/diego-hoffmann.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:21",
+     "autor": "",
+     "titulo_original": "Renunció Diego Hoffmann, coordinador de la Unidad Médica Presidencial",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-15",
+     "titulo": "El Senado bonaerense aprobó el laboratorio estatal de medicamentos",
+     "resumen": "La Cámara alta de la provincia de Buenos Aires dio luz verde al proyecto con votos peronistas y rechazo de la oposición, y dejó afuera la denominada \"ley Rappi\". También se sancionaron cambios en el fondo municipal, mientras el proyecto del SIPBA volvió a comisiones.",
+     "url": "https://www.ambito.com/politica/el-senado-bonaerense-aprobo-el-laboratorio-estatal-medicamentos-y-dejo-afuera-la-ley-rappi-n6342181",
+     "imagen": "https://media.ambito.com/p/b1818a53bbe5de3f9cb7c2d634b47ef8/adjuntos/239/imagenes/043/197/0043197026/1200x675/smart/senado-bonaerense.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:19",
+     "autor": "",
+     "titulo_original": "El Senado bonaerense aprobó el laboratorio estatal de medicamentos y dejó afuera la \"ley Rappi\"",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-20",
+     "titulo": "El riesgo país saltó a 925 puntos y arrastró a los bonos y las acciones",
+     "resumen": "El riesgo país escaló 8,57% y cerró en 925 puntos básicos, 73 unidades por encima de la rueda previa, en una jornada de fuerte aversión al riesgo global. El Merval cayó 4,13% y YPF fue la acción más castigada, con una baja de 7,14%. Para una empresa: el salto del riesgo país encarece el financiamiento en dólares y presiona el costo de reposición de insumos importados.",
+     "relacionadas": [
+      {
+       "id": "CR-19",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Vuela el riesgo país: por qué sube y qué preocupa al mercado",
+       "url": "https://www.cronista.com/finanzas-mercados/vuela-el-riesgo-pais-por-que-sube-y-que-preocupa-al-mercado/"
+      },
+      {
+       "id": "IP-22",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Se disparó el riesgo país y superó los 920 puntos en otra jornada negativa en los mercados",
+       "url": "https://www.iprofesional.com/finanzas/468436-bonos-argentinos-caen-hasta-3-por-ciento-y-el-riesgo-pais-llega-a-982-puntos"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/bonos-argentinos-vuelven-a-caer-pese-al-alivio-global-y-el-riesgo-pais-se-ubica-arriba-de-los-850-puntos/",
+     "imagen": "https://www.cronista.com/resizer/v2/DUAJWWV3Y5FXHNG5L4CJH3ZYOY.jpg?auth=e5c40c39b5d8546e47548104b8734e14fa31cd656afdd17bb70801929bc29b55&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:22",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El riesgo país se disparó a 925 puntos y los bonos argentinos profundizaron la caída"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "El REM recortó a 0,7% la proyección de crecimiento del PBI para 2026",
+     "resumen": "El Relevamiento de Expectativas de Mercado del BCRA, con 45 participantes entre consultoras y entidades financieras, ajustó a la baja la proyección de actividad tras un débil tercer trimestre. Los analistas también bajaron sus pronósticos para el tipo de cambio de los próximos meses.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Encuesta entre economistas refleja pesimismo y acota crecimiento del PBI a solo 0,7%",
+       "url": "https://www.iprofesional.com/economia/468491-economistas-son-pesimistas-y-recortan-crecimiento-del-pbi-a-07-por-ciento"
+      },
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "En plena suba del riesgo país, el BCRA reveló el precio del dólar que prevén 45 analistas",
+       "url": "https://www.iprofesional.com/finanzas/468485-el-bcra-revelo-que-esperan-45-economistas-para-el-dolar-en-argentina"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/rem-a-cuanto-llegara-el-dolar-y-cual-sera-la-inflacion-para-fin-de-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/UJCUY4IU7FDAZERCMUJ363RJU4.jpg?auth=3c0534fee59017c070fb57a6573b9deb169fd72df8c46dbe2ac82c39fdd5af17&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:45",
+     "autor": "Nacho Barrios",
+     "titulo_original": "El REM anticipa una fuerte caída de la actividad y recorta la proyección de crecimiento para 2026"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Empresas de EE.UU. advierten que la derrota de Trump puede condicionar el auxilio a la Argentina",
+     "resumen": "La Cámara de Comercio Estadounidense en la Argentina (AmCham) señaló que el nuevo equilibrio de poder en Washington, tras la derrota republicana en las elecciones de medio término, puede afectar el respaldo financiero al país, incluido el swap de monedas de 2025 y el apoyo ante el FMI. El Gobierno de Estados Unidos ratificó su apoyo a la Argentina. Para una empresa: un recorte del respaldo externo aumenta la incertidumbre cambiaria y el riesgo de financiamiento en dólares.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Advertencia de la Cámara de Comercio de EEUU: \"La posibilidad de rescatar a la Argentina se reduce con un gobierno dividido\"",
+       "url": "https://www.ambito.com/economia/advertencia-la-camara-comercio-eeuu-la-posibilidad-rescatar-la-argentina-se-reduce-un-gobierno-dividido-n6342094"
+      },
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "AmCham advirtió que un cambio de gobierno en EEUU podría restarle prioridad al vínculo con la Argentina",
+       "url": "https://www.ambito.com/economia/amcham-advirtio-que-un-cambio-gobierno-eeuu-podria-restarle-prioridad-al-vinculo-la-argentina-n6342069"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/las-empresas-estadounidenses-alertaron-que-la-derrota-de-trump-puede-condicionar-la-ayuda-financiera-nid05112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CRN4MF2RFRELHPHND5AR3PJLHA.jpg?auth=8056fdf905a01ed20558ba126755b32b50df265ae4fe7a6e94589b10f10e48d5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:51",
+     "autor": "Francisco Jueguen",
+     "titulo_original": "Las empresas estadounidenses alertaron que la derrota de Trump puede condicionar el auxilio financiero a la Argentina"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Un día negro en Wall Street profundizó la caída de los bonos argentinos",
+     "resumen": "El Nasdaq cayó 6,5% y el S&P 500 perdió 4,4% en la jornada más dura del año para Wall Street, lo que golpeó a todos los activos de riesgo. Los bonos argentinos en dólares cayeron más de 2% y marcaron mínimos anuales, mientras los inversores se mantienen cautelosos de cara al escenario electoral de 2027.",
+     "url": "https://www.infobae.com/economia/2026/11/06/la-tormenta-global-volvio-a-impactar-en-el-riesgo-pais-argentino-y-suma-mas-complicaciones-para-el-ano-electoral/",
+     "imagen": "https://www.infobae.com/resizer/v2/QMR3W7MAK5CXBGU4YHVJK2UKXM.jpg?auth=7913c645f77b6729fdc927b150ac97698f828770368546632ad1f427685c00ef&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:50",
+     "autor": "Pablo Wende",
+     "titulo_original": "La tormenta global volvió a impactar en el riesgo país argentino y suma más complicaciones para el año electoral",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Sospechan que el Gobierno inyectó $ 2 billones para frenar la suba de tasas",
+     "resumen": "En el mercado creen que un organismo oficial compró bonos CER y Duales en una operación inusual concentrada sobre el cierre de la rueda del miércoles. La maniobra habría buscado sostener los precios y ponerle un techo a las tasas de interés.",
+     "url": "https://www.clarin.com/economia/deuda-pesos-sospechan-gobierno-inyecto-2-billones-frenar-suba-tasas_0_1H3HVfuKeX.html",
+     "imagen": "https://www.clarin.com/img/2026/05/27/m-mUM55kb_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Deuda en pesos: sospechan que el Gobierno inyectó $ 2 billones para frenar la suba de tasas",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-16",
+     "titulo": "El Tesoro ofrece un menú de bonos para renovar $ 10,5 billones de deuda",
+     "resumen": "El secretario de Finanzas, Federico Furiase, anunció que la licitación del próximo miércoles incluirá dos Lecap, un bono CER y un instrumento que ajusta por Tamar, además de cobertura cambiaria. El Tesoro enfrenta vencimientos por alrededor de $ 66 billones en las dos semanas siguientes.",
+     "url": "https://www.cronista.com/finanzas-mercados/cuales-son-los-bonos-que-ofrece-el-gobierno-para-renovar-10-billones-de-deuda/",
+     "imagen": "https://www.cronista.com/resizer/v2/QQSBA4VHZZBL3H6WH2CBQ6WTZM.jpeg?auth=db6548a15768debefaa5cb62e5ef739f859aa0eee29dd694a858bf0e127d36b0&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:55",
+     "autor": "Leandro Dario",
+     "titulo_original": "Cuáles son los bonos que ofrece el Gobierno para renovar $ 10 billones de deuda",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-22",
+     "titulo": "Ferreres anticipó una desaceleración de la inflación en octubre",
+     "resumen": "El relevamiento de Orlando J. Ferreres & Asociados ubicó el aumento mensual de precios de octubre por debajo del 1,9% registrado por el INDEC en septiembre y también por debajo del rango que manejan otras consultoras privadas. La inflación núcleo se mantuvo estable respecto de septiembre. El dato oficial del INDEC se conocerá a mediados de noviembre.",
+     "url": "https://www.cronista.com/economia-politica/inflacion-ferreres-anticipo-una-desaceleracion-en-octubre-y-un-dato-clave-detras-de-la-baja/",
+     "imagen": "https://www.cronista.com/resizer/v2/O745DQGB4RCG5GUOL4LA3CUEDQ.jpg?auth=dd1b2574f8472eeecbd29a79965d25f838a7b59d5bbed51eec8b2513d3f98c1a&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:47",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "Inflación: Ferreres anticipó una desaceleración en octubre y un dato clave detrás de la baja",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-21",
+     "titulo": "Mercado Libre se desplomó 14% en Wall Street pese a mejorar su facturación",
+     "resumen": "El gigante del comercio electrónico presentó los resultados del tercer trimestre con un incremento en la facturación, pero sus acciones se hundieron igual en la bolsa neoyorquina. Pese a la caída, la consultora SBS calcula una suba potencial del 74% para el papel y sostiene su apuesta a 2027.",
+     "relacionadas": [
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Mercado Libre se hundió en Wall Street y una consultora avisa que es momento de comprar",
+       "url": "https://www.iprofesional.com/finanzas/468486-consultora-recomienda-comprar-acciones-de-mercado-libre-tras-desplome"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/468371-las-acciones-de-mercado-libre-se-desploman-un-13-en-wall-street-tras-presentar-su-balance",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612345.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:30",
+     "autor": "",
+     "titulo_original": "Las acciones de Mercado Libre se desploman 14% en Wall Street tras presentar su balance"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Los data centers de inteligencia artificial ponen al sur argentino en la mira internacional",
+     "resumen": "La capacidad instalada de centros de datos en la Argentina es de apenas 32 megavatios, muy por debajo de los 800 megavatios de Brasil y los 260 de Chile, según un informe de Cushman & Wakefield. Especialistas señalan que la combinación de energía, conectividad e infraestructura ubica a la Patagonia como una oportunidad para este tipo de inversiones.",
+     "url": "https://www.cronista.com/negocios/data-centers-la-oportunidad-que-abre-la-inteligencia-artificial-y-por-que-el-sur-argentino-gana-protagonismo/",
+     "imagen": "https://www.cronista.com/resizer/v2/CCBGQMDBT5AANBBWRCZ5UGLZMA.jpg?auth=0438b37a303d7fad6b5865c1f4dd3782fe60596ec4472b550cdfe39f7ff332cf&smart=true&width=900&height=595",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:53",
+     "autor": "Juan Peyret",
+     "titulo_original": "Data centers: la oportunidad que abre la inteligencia artificial y por qué el sur argentino gana protagonismo",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Lundin Mining acelera su apuesta por el cobre en Vicuña",
+     "resumen": "La minera avanza con el megaproyecto de cobre y oro que comparte con BHP y busca definir una inversión récord antes de 2027.",
+     "url": "https://www.iprofesional.com/negocios/468483-minera-lundin-mining-acelera-apuesta-por-el-cobre-y-prepara-inversion-record",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626579.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:27",
+     "autor": "",
+     "titulo_original": "Lundin Mining acelera su apuesta por el cobre y prepara una inversión récord",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Adecoagro presentó una oferta para operar plantas de SanCor",
+     "resumen": "L3N S.A., la sociedad láctea de Adecoagro, propuso producir a fasón en las plantas de Devoto (Córdoba) y Gálvez (Santa Fe) de la cooperativa SanCor y solicitó una licencia para operar sus marcas. La presentación se dio dos meses después de que la Justicia de Rafaela ordenara reactivar la venta de la histórica láctea.",
+     "url": "https://www.cronista.com/negocios/los-nuevos-duenos-de-benetton-se-preparan-para-dar-el-zarpazo-en-la-lactea-mas-querida-del-interior/",
+     "imagen": "https://www.cronista.com/resizer/v2/2BYKUMA7HFGGXJJNNKJEVF5U3Y.png?auth=a34ee55497b7d836122b9222fa2616c594cef4e2715238810c3fb39cf0af46a8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Los nuevos dueños de Benetton se preparan para mover la primera ficha en la láctea más querida del interior",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Sidra Rama Caída entró en concurso de acreedores",
+     "resumen": "La histórica sidrera mendocina acumula 800 cheques rechazados por más de $ 2.100 millones. La Justicia de Mendoza abrió el proceso tras la presentación de su presidente, Marcos Martínez, y los acreedores tendrán plazo hasta febrero de 2027 para verificar sus créditos.",
+     "url": "https://www.ambito.com/negocios/sidra-rama-caida-entro-concurso-acreedores-acumula-800-cheques-rechazados-mas-2100-millones-n6342055",
+     "imagen": "https://media.ambito.com/p/78ab82ae308184670fda7ae1254585a8/adjuntos/239/imagenes/043/750/0043750808/1200x675/smart/rama-caida.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:44",
+     "autor": "",
+     "titulo_original": "Sidra Rama Caída entró en concurso de acreedores: acumula 800 cheques rechazados por más de $2.100 millones",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Noruega vuelve a buscar petróleo en el Mar Argentino",
+     "resumen": "La petrolera estatal noruega Equinor anunció que retomará en 2028 la exploración de petróleo y gas junto con YPF y una empresa de la familia Eurnekian. Las exploraciones se realizarán a unos 26 kilómetros de Río Grande, Tierra del Fuego.",
+     "url": "https://www.clarin.com/energia-y-mineria/noruega-vuelve-buscar-petroleo-mar-argentino_0_L8ENk3QZCO.html",
+     "imagen": "https://www.clarin.com/img/2024/09/21/5PMZwMjqc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Noruega vuelve a buscar petróleo en el Mar Argentino",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "Economía reconoce al impuesto al cheque como su \"gran deuda\" pendiente",
+     "resumen": "El secretario de Hacienda, Carlos Guberman, admitió que el impuesto a los débitos y créditos bancarios es una asignatura pendiente del Gobierno y señaló que los gobernadores están dispuestos a discutir el peso de Ingresos Brutos por su efecto cascada en la producción. Lo dijo en las Jornadas Iberoamericanas de Financiación Local de la UCEMA. Para una empresa: una eventual reforma del impuesto al cheque y de Ingresos Brutos impactaría directamente en los costos financieros y de facturación.",
+     "url": "https://www.cronista.com/economia-politica/iva-unico-impuesto-al-cheque-e-ingresos-brutos-las-senales-de-economia-sobre-reforma-tributaria/",
+     "imagen": "https://www.cronista.com/resizer/v2/MFUQ4IOHJFGKPPJHGTREF2S4HY.jpg?auth=1c68321af754e9349cb629a0802901a9eea4c2f97c04a89c1e9474a357b77f80&smart=true&width=900&height=720",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:31",
+     "autor": "Matías Rufino",
+     "titulo_original": "IVA único, impuesto al cheque e Ingresos Brutos: las señales de Economía sobre una reforma tributaria",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-02",
+     "titulo": "ARCA reglamentó la devolución del IVA para el RIMI",
+     "resumen": "El organismo fijó los pasos para el recupero de créditos fiscales en el IVA dentro del Régimen de Incentivo para Medianas Inversiones. Para una empresa: el procedimiento agiliza la recuperación de crédito fiscal para proyectos de inversión que califiquen en el régimen.",
+     "url": "https://www.iprofesional.com/impuestos/468500-arca-reglamento-los-pasos-a-seguir-para-la-devolucion-del-iva-en-el-rimi",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/611968.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "05:53",
+     "autor": "",
+     "titulo_original": "ARCA reglamentó los pasos a seguir para la devolución del IVA en el RIMI",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-22",
+     "titulo": "La Corte definió que las indemnizaciones laborales se actualicen con la nueva ley de Modernización Laboral",
+     "resumen": "El máximo tribunal dejó sin efecto fallos de la Cámara Laboral que ordenaban actualizar las deudas con trabajadores según el índice de inflación más un 3% anual, y estableció que deben calcularse con los criterios de la nueva ley laboral. Con las firmas de Rosatti, Rosenkrantz y Lorenzetti, el fallo implica que los trabajadores cobrarán menos que con el criterio anterior de la Cámara. Para una empresa: el cambio reduce el costo de las indemnizaciones en los juicios laborales en trámite.",
+     "relacionadas": [
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La Corte ordenó aplicar la reforma laboral para actualizar indemnizaciones en juicios en trámite",
+       "url": "https://www.cronista.com/economia-politica/la-corte-ordeno-aplicar-la-reforma-laboral-para-actualizar-indemnizaciones-en-juicios-en-tramite/"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La Corte definió cómo se actualizarán las indemnizaciones en juicios laborales abiertos",
+       "url": "https://www.iprofesional.com/legales/468482-corte-suprema-cambio-juicios-laborales-recorta-calculo-indemnizaciones-noviembre-2026"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/la-corte-aplico-la-nueva-ley-laboral-y-unifico-criterios-para-calcular-la-actualizacion-los-juicios-nid05112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/57NUSR3IVBHRTESX7KWER5FWPM.JPG?auth=a57adc22cb4bc58f7736d96b975c1e32e98390455b32f9dfbceaab341dc2eb39&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:04",
+     "autor": "Hernán Cappiello",
+     "titulo_original": "La Corte aplicó la nueva ley laboral y unificó criterios para calcular la actualización de los juicios"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "La UIF reglamentó cómo justificar el origen de los fondos para el blanqueo simplificado de Ganancias",
+     "resumen": "La Unidad de Información Financiera publicó la Resolución 144/2026 con nuevas pautas para que bancos y escribanos evalúen las operaciones de los contribuyentes adheridos al Régimen de Declaración Jurada Simplificada de Ganancias. La medida busca reducir las exigencias documentales para quienes reincorporen ahorros al sistema financiero formal.",
+     "url": "https://www.cronista.com/economia-politica/inocencia-fiscal-cuando-hay-que-justificar-el-origen-de-los-fondos-y-que-documentacion-solicitan/",
+     "imagen": "https://www.cronista.com/resizer/v2/IASGAUCZVJAZ7JVKVHGPGRTYWA.jpg?auth=39310bad5ab58d967aa508f860222c71b4b48d2148935bddc80d8c9e6dc3b128&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Inocencia Fiscal: cuándo hay que justificar el origen de los fondos y qué documentación solicitan",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-21",
+     "titulo": "Piden explicaciones a Caputo por las medidas de alivio fiscal a las pymes",
+     "resumen": "Una diputada presentó un pedido de informes con 30 requerimientos sobre la suspensión de embargos de ARCA, los planes de pago y los créditos anunciados para la industria. Para una empresa: las dudas sobre el alcance real de estos beneficios pueden demorar su aplicación efectiva.",
+     "url": "https://www.ambito.com/politica/pymes-exigen-explicaciones-luis-caputo-las-medidas-alivio-fiscal-y-financiero-n6342128",
+     "imagen": "https://media.ambito.com/p/2f6b4b9e31e1607d0a76f46bb300a86c/adjuntos/239/imagenes/043/744/0043744646/1200x675/1157x594:1177x614/luis-caputo-uia-2026-7.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "Pymes: exigen explicaciones a Luis Caputo por las medidas de alivio fiscal y financiero",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-23",
+     "titulo": "ANSES cambió el trámite para cobrar el 20% retenido de las asignaciones",
+     "resumen": "El organismo modificó desde el 1° de noviembre el procedimiento para acreditar controles médicos y cobrar el porcentaje retenido de la Asignación por Embarazo, mediante un intercambio automático de datos con el Ministerio de Salud. La medida se oficializó con la Resolución 297/2026, publicada el 15 de octubre.",
+     "url": "https://www.cronista.com/economia-politica/por-orden-de-la-resolucion-2972026-anses-modifico-el-tramite-para-cobrar-el-20-retenido-de-las-asignaciones/",
+     "imagen": "https://www.cronista.com/resizer/v2/GADQ46EOWNBZXB2S3Z5C4GZNXY.png?auth=a69dfe6ad1a77cd18afe46028a5bf0466ca5b44e0f65a121ec2cad73b688d47d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:37",
+     "autor": "Florencia Ojeda",
+     "titulo_original": "Por orden de la Resolución 297/2026, ANSES modificó el trámite para cobrar el 20% retenido de las asignaciones",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-15",
+     "titulo": "Los créditos hipotecarios treparon a $ 9,6 billones",
+     "resumen": "El saldo de créditos hipotecarios sumó $ 481.677 millones en octubre, impulsado por el fondeo del FGS que ayudó a bajar las tasas y dinamizó las ventas. El crecimiento del financiamiento amplió el tipo de departamentos a los que pueden acceder los compradores. Para una empresa de materiales de construcción, la reactivación del crédito hipotecario es una señal favorable para la demanda de insumos.",
+     "url": "https://www.iprofesional.com/realestate/468476-fuerte-crecimiento-de-creditos-hipotecarios-que-departamentos-se-pueden-comprar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613761.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:15",
+     "autor": "",
+     "titulo_original": "Fuerte crecimiento de créditos hipotecarios: qué tipo de departamentos se pueden comprar",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-18",
+     "titulo": "Clausuraron tres concesionarias de autos en Córdoba por prácticas abusivas",
+     "resumen": "Defensa del Consumidor de Córdoba sancionó a tres locales de venta de vehículos multimarcas por conductas consideradas abusivas hacia los compradores.",
+     "url": "https://www.iprofesional.com/autos/468479-clausuran-concesionarias-de-autos-por-practicas-abusivas-los-argumentos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/02/592202.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:31",
+     "autor": "",
+     "titulo_original": "Clausuran concesionarias de autos por prácticas abusivas: los argumentos",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-25",
+     "titulo": "El Banco Nación bajó la tasa del préstamo para autos 0 km y usados",
+     "resumen": "La entidad amplió los beneficios para quienes busquen financiar vehículos a largo plazo, con tasas más bajas y préstamos a mayor plazo.",
+     "url": "https://www.iprofesional.com/autos/468468-el-banco-nacion-bajo-la-tasa-del-prestamo-para-autos-0km-y-usados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627986.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "El Banco Nación bajó la tasa del préstamo para autos 0km y usados",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-17",
+     "titulo": "Qué marcas recomendó más la inteligencia artificial durante el CyberMonday",
+     "resumen": "Un estudio con más de 10.000 respuestas de inteligencia artificial entre Argentina y Uruguay midió qué marcas aparecen más recomendadas, aunque aclaró que figurar en esas respuestas no equivale a vender más.",
+     "url": "https://www.iprofesional.com/negocios/468459-que-marcas-recomendo-mas-la-ia-durante-el-cybermonday-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629211.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:40",
+     "autor": "",
+     "titulo_original": "Qué marcas recomendó más la IA durante el CyberMonday 2026",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Cerró una histórica papelera en Tornquist y despidió a 160 empleados",
+     "resumen": "La empresa arrastraba problemas financieros desde hacía dos años y medio y sus dueños optaron por dejar de producir cartulina para importar ese insumo, en un contexto de mayores importaciones. Para una empresa del sector, el caso ilustra la presión que enfrentan los productores locales de insumos frente a la competencia importada.",
+     "url": "https://www.iprofesional.com/economia/468493-por-importaciones-cierra-historica-papelera-y-despide-a-160-empleados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629232.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:35",
+     "autor": "",
+     "titulo_original": "Por lluvia de importaciones, cierra una histórica papelera y despide a 160 empleados",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "Supervielle relanzó su SuperApp con inversiones y banca como servicio",
+     "resumen": "El banco integró IOL Inversiones, sumó la funcionalidad SuperFamilia y atención con inteligencia artificial, en una estrategia que su CEO, Gustavo Manríquez, definió como \"totalmente ofensiva\" para no perder clientes. El relanzamiento se da mientras Mercado Pago tramita una licencia bancaria y Revolut se prepara para desembarcar en el país.",
+     "url": "https://www.cronista.com/finanzas-mercados/superapp-inversiones-y-banking-as-a-service-como-es-el-nuevo-plan-de-un-banco-de-la-city/",
+     "imagen": "https://www.cronista.com/resizer/v2/GQCFYSHB2RBWZIT4XZY4DUGMII.jpeg?auth=1a7f5c312e4c500f1ede68d807c1381054407dc15f148fc5eb674490e95735c4&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "SuperApp, inversiones y banking as a service: cómo es el nuevo plan de un banco de la City",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Las obligaciones negociables ganan espacio entre los especialistas en renta fija",
+     "resumen": "Un reporte trimestral de Criteria que cubre unas 90 emisiones destacó a YPF, Vista, TGS, Tecpetrol, Pluspetrol y Pampa Energía entre los principales emisores vinculados a Vaca Muerta. Los especialistas remarcan que la exposición de los inversores depende fuertemente del perfil de riesgo de cada bono y de la empresa emisora.",
+     "url": "https://www.cronista.com/finanzas-mercados/cuanto-rinden-en-dolares-las-obligaciones-negociables-que-estan-recomendando-hoy-los-especialistas/",
+     "imagen": "https://www.cronista.com/resizer/v2/Y2MIJDXDYZEOZKWPEBXWM6AHKM.jpg?auth=f79f626a0a3ab538f799ad0e436be205b8f4e878fb7df365ede9c15ad95e868e&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "Cuánto rinden en dólares: las obligaciones negociables que están recomendando hoy los especialistas",
+     "relacionadas": []
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-26",
+     "titulo": "Paraguay rechazó la renuncia de Peña y deberá enfrentar un juicio político",
+     "resumen": "El presidente Santiago Peña presentó su renuncia para mantener fueros como senador vitalicio, pero el Parlamento le negó ese beneficio y deberá enfrentar un impeachment en el Senado. La crisis surgió por la quiebra del banco Ueno, ligado al Gobierno, que dejó a millones de ahorristas sin acceso a sus fondos. El vicepresidente Pedro Alliana debe asumir el cargo para completar el mandato hasta 2028. Javier Milei negó que Peña haya ingresado a la Argentina tras su salida del poder.",
+     "relacionadas": [
+      {
+       "id": "LN-17",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
+       "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-renuncia-del-presidente-de-paraguay-santiago-pena-nid05112026/"
+      },
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Avanza el juicio político pese a la renuncia de Peña: “Me presentaré y defenderé”",
+       "url": "https://www.cronista.com/finanzas-mercados/por-que-la-crisis-de-ueno-aun-no-termino-avanza-el-juicio-politico-pese-a-la-renuncia-de-pena/"
+      },
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Santiago Peña aseguró que afrontará el juicio político tras su renuncia como presidente",
+       "url": "https://www.iprofesional.com/politica/468487-santiago-pena-aseguro-que-afrontara-el-juicio-politico-tras-su-renuncia-como-presidente"
+      },
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Renunció el presidente Peña, pero el riesgo país subió más en Argentina que en Paraguay",
+       "url": "https://www.iprofesional.com/economia/468469-renuncio-el-presidente-pena-pero-el-riesgo-pais-subio-mas-en-argentina-que-en-paraguay"
+      },
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei negó que Santiago Peña haya escapado a la Argentina tras su renuncia",
+       "url": "https://www.ambito.com/politica/javier-milei-nego-que-santiago-pena-haya-escapado-la-argentina-su-renuncia-n6342207"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/crisis-paraguay-rechazaron-renuncia-presidente-santiago-pena-escandalo-bancario-debera-enfrentar-juicio-politico_0_zFuBYvwp1H.html",
+     "imagen": "https://www.clarin.com/img/2026/11/05/WKIagmg_s_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crisis en Paraguay: rechazaron la renuncia del presidente Santiago Peña por el escándalo bancario y deberá enfrentar un juicio político"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "La ruptura con Horacio Cartes, detrás del escándalo bancario que acorraló a Peña",
+     "resumen": "La ruptura interna entre el entonces presidente paraguayo y el empresario y expresidente Horacio Cartes desencadenó los pedidos de informes sobre el banco Ueno. Registros oficiales expusieron millonarios depósitos de fondos públicos e irregularidades en la concesión de créditos a allegados del poder. La intervención dejó a casi tres millones de ahorristas sin acceso a su dinero y derivó en 27 imputados.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Una por una, las claves para entender el escándalo del Ueno Bank en Paraguay que derivó en una fuerte crisis política",
+       "url": "https://www.infobae.com/economia/2026/11/06/una-por-una-las-claves-para-entender-el-escandalo-del-ueno-bank-en-paraguay-que-derivo-en-una-fuerte-crisis-politica/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/crisis-paraguay-ruptura-horacio-cartes-detras-escandalo-bancario-acorrala-todavia-presidente-santiago-pena_0_I4OOJp9h5Q.html",
+     "imagen": "https://www.clarin.com/img/2026/11/05/jCn_v1x2b_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "22:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crisis en Paraguay: la ruptura con Horacio Cartes, detrás del escándalo bancario que acorrala al todavía presidente Santiago Peña"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Más de 600.000 personas marcharon en Francia contra el costo de vida",
+     "resumen": "Según el Ministerio del Interior, 575.000 personas salieron a las calles en una huelga general, mientras el sindicato CGT elevó la cifra a 1,6 millones de manifestantes. Las movilizaciones, que se extendieron por más de 200 localidades, dejaron 448 detenidos y 53 agentes heridos, y reclamaron aumentos salariales tras semanas de protestas estudiantiles.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/06/protestas-en-francia-mas-de-600000-personas-marcharon-contra-el-costo-de-vida-y-exigieron-aumentos-salariales/",
+     "imagen": "https://www.infobae.com/resizer/v2/ITL4R2AJU5BMPPT3XEEY4LC4PQ.jpg?auth=0395b9d3fe2823aad0fd84838df3f9720d48a2ea3134a7acccee7cc76f370b85&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:08",
+     "autor": "",
+     "titulo_original": "Protestas en Francia: más de 600.000 personas marcharon contra el costo de vida y exigieron aumentos salariales",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Rebeca Grynspan amplía su ventaja para liderar la ONU",
+     "resumen": "La candidata costarricense obtuvo 12 votos a favor y tres en contra en el octavo sondeo no vinculante del Consejo de Seguridad, mientras el argentino Rafael Grossi se mantuvo en segundo lugar con nueve apoyos. El turco Feridun Sinirlioğlu quedó rezagado con apenas tres votos en su primera participación. El mandato del portugués António Guterres al frente del organismo concluye a fin de año.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/06/la-costarricense-rebeca-grynspan-sigue-sumando-apoyos-para-liderar-la-onu-y-amplia-su-ventaja-en-un-nuevo-sondeo/",
+     "imagen": "https://www.infobae.com/resizer/v2/GNYKXLLPV5HOVIJVSUWEZQTWTE?auth=35f6ec7b0f5414e8410f5ccd989dca14eae971e38edc48cf3bdaf4d0d9b524bb&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:38",
+     "autor": "",
+     "titulo_original": "La costarricense Rebeca Grynspan sigue sumando apoyos para liderar la ONU y amplía su ventaja en un nuevo sondeo",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-10",
+     "titulo": "Trump advirtió que Irán necesitará 25 años para reconstruirse y no descartó \"destruir el resto\" del país",
+     "resumen": "El presidente estadounidense aseguró desde la Casa Blanca que Irán necesitará un cuarto de siglo para recuperarse de la ofensiva lanzada en febrero por Estados Unidos e Israel. Dijo que \"pronto\" decidirá si avanza con nuevos ataques, en medio de especulaciones sobre un posible reinicio de la ofensiva.",
+     "url": "https://www.infobae.com/america/agencias/2026/11/06/trump-afirma-que-iran-necesitara-25-anos-para-su-reconstruccion-y-que-pronto-decidira-si-destruye-el-resto/",
+     "imagen": "https://www.infobae.com/resizer/v2/CEALIN5QVZG2ZK2LBDMV3B4ZQQ.jpg?auth=e90193ca10ac8b020c3cb72e4368ffdaacd3c7cb36822ac73ad1af8960d2a621&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Trump afirma que Irán necesitará 25 años para su \"reconstrucción\" y que \"pronto\" decidirá si \"destruye el resto\"",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza la semana desde su mirada académica sobre la geopolítica europea.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Las midterms abren una ventana para las relaciones transatlánticas",
+     "resumen": "Le Grand Continent analiza que la recuperación demócrata del Congreso estadounidense, tras un resultado histórico en las elecciones de mitad de mandato, debilita a Donald Trump en el plano interno y abre una nueva etapa para el resto de su mandato. La revista señala que las consecuencias serán duraderas, ya que los nuevos senadores ocuparán sus bancas por seis años, y examina qué margen de maniobra puede ganar Europa frente a Washington en ese nuevo escenario.",
+     "url": "https://legrandcontinent.eu/es/2026/11/06/tras-las-midterms-una-ventana-para-la-relacion-transatlantica/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Louis Puel",
+     "titulo_original": "Tras las midterms, ¿se abre una ventana para las relaciones transatlánticas?",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-02",
+     "titulo": "China publica siete veces menos series estadísticas que hace diez años",
+     "resumen": "La Oficina Nacional de Estadística china pasó de publicar más de 80.000 series en 2012 a solo 11.000 en 2022. Le Grand Continent interpreta esta creciente opacidad como un reflejo de las debilidades del régimen, que busca limitar el acceso de actores extranjeros a los indicadores usados para medir su desarrollo y prosperidad.",
+     "url": "https://legrandcontinent.eu/es/2026/11/06/por-que-china-publica-7-veces-menos-estadisticas-que-hace-diez-anos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Marin Saillofest",
+     "titulo_original": "¿Por qué China publica siete veces menos series estadísticas que hace diez años?",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-03",
+     "titulo": "Irán no logra bloquear las exportaciones de petróleo del Golfo pese a la presión de los Guardianes de la Revolución",
+     "resumen": "Arabia Saudita y Kuwait exportaron en octubre más del 99% del volumen de crudo que enviaban antes de la guerra, pese a los ataques iraníes. Según la UKMTO, en octubre fueron atacados 35 buques, el número más alto desde el inicio del conflicto, y los Guardianes de la Revolución afirmaron haber destruido cuatro petroleros al sur del estrecho.",
+     "url": "https://legrandcontinent.eu/es/2026/11/05/teheran-no-logra-bloquear-las-exportaciones-de-petroleo-del-golfo/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:59",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Teherán tiene dificultades para bloquear las exportaciones de petróleo del Golfo",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-14",
+     "titulo": "Colapinto busca sumar puntos en el GP de Brasil tras la sanción en México",
+     "resumen": "La Fórmula 1 pone en marcha una nueva fecha en San Pablo, con Kimi Antonelli ya consagrado campeón de la temporada. En la previa, Colapinto compartió una conferencia con los brasileños Bortoleto y Cámara, donde hablaron de los sacrificios para llegar a la Máxima y de la necesidad de más apoyo para el talento sudamericano. Con Checo Pérez, completan el cuarteto de pilotos latinos de la categoría.",
+     "relacionadas": [
+      {
+       "id": "CL-10",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Colapinto, Bortoleto y Cámara: la nueva generación sudamericana que busca cambiar la historia de la Fórmula 1",
+       "url": "https://www.clarin.com/deportes/colapinto-bortoleto-camara-nueva-generacion-sudamericana-busca-cambiar-historia-formula-1_0_F762y8a0ZX.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/f1-gp-brasil-franco-colapinto-horarios-primeros-entrenamientos-libres-ver-formula-1_0_zcqiVmvClw.html",
+     "imagen": "https://www.clarin.com/img/2026/11/01/usmY4W4oY_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de Brasil con Franco Colapinto: horarios de los primeros entrenamientos libres, cómo y dónde ver la Fórmula 1"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "La AFA suspendió tres fechas a Gonzalo Montiel",
+     "resumen": "El Tribunal de Disciplina sancionó al lateral de River por su expulsión en el superclásico, tras calificar como \"juego brusco grave\" la patada que le hizo a Lautaro Blanco. Montiel se perderá los octavos y los cuartos de final de la Liga Profesional y recién podrá volver, si River avanza, para la semifinal.",
+     "relacionadas": [
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Malas noticias para River: el Tribunal de Disciplina de AFA le dio tres fechas de suspensión a Gonzalo Montiel",
+       "url": "https://www.ambito.com/deportes/malas-noticias-river-el-tribunal-disciplina-afa-le-dio-tres-fechas-suspension-gonzalo-montiel-n6342162"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/river-plate/la-afa-sanciono-por-tres-fechas-a-gonzalo-montiel-que-recien-podra-regresar-para-la-semifinal-del-nid05112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ES7B4UQL3NAMHCMUYT5Y5IXEZU.jpg?auth=5fd30d87e51ac12e102bde7a47699b6e323c878e80ad391da3b7c6e93c793a63&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:01",
+     "autor": "",
+     "titulo_original": "La AFA sancionó por tres fechas a Gonzalo Montiel, que recién podrá regresar para la semifinal del Clausura"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "River venció a Aldosivi con la ayuda del VAR",
+     "resumen": "El equipo dirigido por Leonardo Ponzio ganó en Mar del Plata y volvió rápido a la victoria tras la polémica derrota en el superclásico. El VAR benefició a River en dos oportunidades durante el encuentro.",
+     "url": "https://www.ambito.com/deportes/con-ayuda-del-var-river-le-gano-aldosivi-despues-la-polemica-derrota-el-superclasico-n6342134",
+     "imagen": "https://media.ambito.com/p/e168395e0b3294cc00442113fb405603/adjuntos/239/imagenes/043/750/0043750921/1200x675/737x173:757x193/river-aldosivi.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:03",
+     "autor": "",
+     "titulo_original": "Con ayuda del VAR, River le ganó a Aldosivi después de la polémica derrota en el Superclásico",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Cristiano Ronaldo anunció su retiro de la selección de Portugal",
+     "resumen": "A los 41 años, el futbolista confirmó la noticia en un video de casi cinco minutos en sus redes sociales, tras 23 años en la selección portuguesa. Carlos Alcaraz y Neymar fueron algunos de los primeros en dejarle mensajes de apoyo.",
+     "url": "https://www.lanacion.com.ar/deportes/de-neymar-a-alcaraz-los-mensajes-para-cristiano-ronaldo-tras-anunciar-su-renuncia-a-la-seleccion-de-nid05112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FFWSWYS2BRECDPCLJ3GNATIMY4.jpg?auth=ff701f3de3e373fea33849f3b30a6c519a1bc76364a2ba2735bed1bcf4d3d214&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:30",
+     "autor": "",
+     "titulo_original": "De Neymar a Alcaraz: los mensajes para Cristiano Ronaldo tras anunciar su retiro de la selección de Portugal",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Nico Paz asoma como el heredero de la camiseta número 10 de Messi",
+     "resumen": "Antes de los dos primeros partidos de la selección argentina sin Lionel Messi, todo indica que Lionel Scaloni ya eligió internamente a Nico Paz para llevar el dorsal, aunque el entrenador evitó confirmarlo y la 10 podría seguir vacante en esta fecha FIFA.",
+     "url": "https://www.infobae.com/deportes/2026/11/06/las-pistas-que-indican-quien-sera-el-heredero-de-la-10-de-lionel-messi-en-la-seleccion-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/SBL66DB2YZFTBGN7KJAVMCUFGU.jpg?auth=ef57be6cbc9f656ebc045c87fe895222f6f15c0716ae71b3bb39d944477f4a8b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:15",
+     "autor": "",
+     "titulo_original": "Las pistas que indican quién será el heredero de la 10 de Lionel Messi en la selección argentina",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-16",
+     "titulo": "La autopsia de Jesús de Miguel señaló un traumatismo torácico accidental",
+     "resumen": "El informe preliminar sobre la muerte del delantero del Tenerife, tras chocar con el arquero Jesús Owono en un partido de la Segunda División española, estableció un \"traumatismo torácico de carácter accidental\" como causa compatible con el fallecimiento. Todavía restan los resultados del resto de los análisis.",
+     "url": "https://www.lanacion.com.ar/deportes/que-revelo-el-informe-preliminar-de-la-autopsia-de-jesus-de-miguel-tras-el-choque-que-derivo-en-su-nid05112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/S2SSHU6PEFGZPKJFXE4BMKJVTM.jpg?auth=9867c91585859eaf81e3ab52e49d04c4b71b27891d766ef24a0f59b0010aa908&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:02",
+     "autor": "",
+     "titulo_original": "Qué reveló el informe preliminar de la autopsia de Jesús de Miguel tras el choque que derivó en su muerte",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-21",
+     "titulo": "La Pampa del Leoncito, el paisaje lunar de San Juan donde se practica carrovelismo",
+     "resumen": "En el departamento de Calingasta, frente a la Cordillera de los Andes, se extiende una planicie de 12 kilómetros de largo por 5 de ancho a 1.900 metros sobre el nivel del mar, conocida como Barreal Blanco. Su fisonomía desértica la convirtió en el escenario elegido para la práctica del carrovelismo en el país.",
+     "url": "https://www.cronista.com/clase/break/parece-la-luna-pero-queda-en-argentina-la-gigantesca-planicie-agrietada-donde-se-practica-un-deporte-unico-en-el-pais/",
+     "imagen": "https://www.cronista.com/resizer/v2/4YBWRO2Z75GZDOWFAI2PL3UA2Y.jpg?auth=03778207634337fd208b7ccd5f6e3079bb835d8b1df8719038b00c96cec97877&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:03",
+     "autor": "Abel Iranzi",
+     "titulo_original": "Parece la Luna pero queda en Argentina: la gigantesca planicie agrietada donde se practica un deporte único en el país",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-19",
+     "titulo": "Concepción del Uruguay: termas, circuitos secretos y el palacio que mandó construir Urquiza",
+     "resumen": "La ciudad costera de Entre Ríos ofrece nuevos senderos para recorrer sus sitios históricos, además de un complejo termal y platos típicos de la zona.",
+     "url": "https://www.clarin.com/viajes/escapada-concepcion-uruguay-circuitos-secretos-termas-palacio-lujo-mando-construir-urquiza_0_oXCxkUWqij.html",
+     "imagen": "https://www.clarin.com/img/2026/11/04/PW7vMNVON_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Escapada a Concepción del Uruguay: circuitos secretos, termas y el palacio de lujo que mandó a construir Urquiza",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-04",
+     "titulo": "Qué feriados y asuetos rigen por la visita del papa León XIV",
+     "resumen": "El Gobierno dispuso jornadas de asueto administrativo y laboral en distintos puntos del país para facilitar la participación de los fieles durante la estadía del Papa, que llega el domingo 8 de noviembre y parte el miércoles 11, con paso por Buenos Aires, Córdoba y Luján. Este viernes además es el Día del Bancario, por lo que las sucursales bancarias permanecen cerradas por 24 horas.",
+     "relacionadas": [
+      {
+       "id": "LN-03",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Día del Bancario: por qué se celebra hoy en la Argentina",
+       "url": "https://www.lanacion.com.ar/economia/dia-del-bancario-por-que-se-celebra-hoy-en-la-argentina-nid06112026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/es-feriado-el-lunes-9-de-noviembre-por-la-visita-del-papa-leon-xiv-a-la-argentina-nid06112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/6G3J2FYYFFDIVFG5H54F4ZPSQM.JPG?auth=9a765d452ae8182402e21d1778c902eb4f4c33c4bc2761f85656f1ff3f01099f&smart=true&width=900&height=593",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:51",
+     "autor": "",
+     "titulo_original": "¿Es feriado el lunes 9 de noviembre por la visita del papa León XIV a la Argentina?"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Confirmaron el recorrido del papamóvil en Luján para el cierre de la visita",
+     "resumen": "El Municipio de Luján informó que el papa León XIV recorrerá en el papamóvil la avenida Nuestra Señora de Luján, desde la rotonda de acceso hasta la Plaza Belgrano, frente a la Basílica, el miércoles 11 de noviembre. Esa jornada marcará la despedida del pontífice tras cuatro días de visita al país.",
+     "url": "https://www.infobae.com/sociedad/2026/11/06/visita-del-papa-leon-xiv-como-sera-el-recorrido-del-papamovil-en-lujan/",
+     "imagen": "https://www.infobae.com/resizer/v2/KKYFYE7EEBH6RPTHS47TATXBKE.jpg?auth=84f6025cc46036011bae64cd4d750db8d15c4965fc2f45fc953be4488d9ac763&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "06:00",
+     "autor": "Constanza Almirón",
+     "titulo_original": "Visita del papa León XIV: cómo será el recorrido del papamóvil en Luján",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del viernes seis de noviembre. La jornada arranca con una interna libertaria que se profundiza y con los mercados otra vez en alerta. Patricia Bullrich volvió a marcar distancia de Javier Milei, el riesgo país volvió a dispararse y la Argentina se prepara para la llegada del papa León Décimo Cuarto, que aterriza el domingo en el país. El dólar oficial cerró ayer en mil quinientos setenta pesos, el dólar blue en mil quinientos cincuenta y cinco pesos, y el riesgo país trepó hasta los novecientos veinticinco puntos, el valor más alto desde las elecciones legislativas del año pasado. En política, Patricia Bullrich cerró la jornada del Colegio de Abogados porteño con un discurso que originalmente estaba reservado para Javier Milei, que no pudo asistir por su viaje a España. La jefa de los senadores libertarios defendió la libertad de prensa, pidió completar la Corte Suprema y ofreció al peronismo repartir las bancas del Senado en el Consejo de la Magistratura para evitar que la disputa llegue al máximo tribunal. Según Ámbito, en el entorno de Karina Milei la actitud de Bullrich generó malestar, al punto de calificarla de cuasi mafiosa, y se preparan represalias para después de que termine la visita papal. Infobae agrega que crece la incertidumbre sobre el futuro del PRO, después de que Mauricio Macri confirmara que no asistirá a la misa del papa en el Monumento a los Españoles. Dos encuestas de las consultoras Opina Argentina y Opinaia buscaron medir si la visita de León Décimo Cuarto beneficia o perjudica la imagen del Presidente. Por otro lado, el Ministerio de Economía puso en situación de disponibilidad a dieciséis empleados de planta permanente de la ex Subsecretaría de Puertos y Vías Navegables, eliminada en enero del año pasado. En economía y mercados, el dato saliente fue el salto del riesgo país, que escaló más de ocho por ciento y cerró en novecientos veinticinco puntos, arrastrado por una jornada muy negativa para los mercados globales, con caídas de más de seis por ciento en el Nasdaq y de más de cuatro por ciento en el Standard and Poor's. El índice Merval cayó más de cuatro por ciento y YPF fue la acción más golpeada, con una baja superior al siete por ciento. El Relevamiento de Expectativas de Mercado del Banco Central recortó a cero coma siete por ciento la proyección de crecimiento del producto bruto interno para este año, y la Cámara de Comercio de Estados Unidos advirtió que la derrota de Donald Trump en las elecciones de medio término puede condicionar el respaldo financiero a la Argentina, incluido el auxilio del Fondo Monetario. En el mercado también sospechan que un organismo oficial compró bonos para frenar la suba de tasas, mientras el Tesoro ofrecerá esta semana un menú de instrumentos para renovar diez billones y medio de pesos de deuda. Una buena noticia llegó por el lado de la inflación: el relevamiento de Ferreres anticipó una desaceleración en octubre, por debajo del uno coma nueve por ciento de septiembre. En impuestos y normativa, el secretario de Hacienda, Carlos Guberman, reconoció que el impuesto al cheque sigue siendo la gran deuda pendiente del Gobierno y dijo que los gobernadores están dispuestos a discutir el peso de Ingresos Brutos. La agencia de recaudación reglamentó la devolución del impuesto al valor agregado para el régimen de incentivo a medianas inversiones, y la Unidad de Información Financiera estableció nuevas pautas para justificar el origen de fondos de quienes se suman al blanqueo simplificado de Ganancias. Además, la Corte Suprema definió que las indemnizaciones laborales en juicios que todavía no tienen sentencia se actualicen con los criterios de la nueva ley de modernización laboral, lo que implica que los trabajadores cobrarán montos menores a los que fijaba el criterio anterior de la Cámara Laboral. En consumo, construcción y retail, el dato más relevante para el sector es que el saldo de créditos hipotecarios trepó a nueve billones seiscientos mil millones de pesos, después de sumar cuatrocientos ochenta y un mil seiscientos setenta y siete millones de pesos solo en octubre, impulsado por el fondeo del Fondo de Garantía de Sustentabilidad. En Córdoba, Defensa del Consumidor clausuró tres concesionarias de autos por prácticas abusivas, y el Banco Nación bajó la tasa de los préstamos para vehículos cero kilómetro y usados. En el sector industrial, cerró una histórica papelera en Tornquist y despidió a ciento sesenta empleados, después de que sus dueños dejaran de producir cartulina para importarla, en un contexto de mayores importaciones. En negocios, Mercado Libre se desplomó catorce por ciento en Wall Street pese a mejorar su facturación en el tercer trimestre, aunque una consultora calcula una suba potencial de setenta y cuatro por ciento para el papel. La capacidad de centros de datos en la Argentina es de apenas treinta y dos megavatios, muy por debajo de los ochocientos de Brasil, lo que según especialistas abre una oportunidad de inversión para la Patagonia. Lundin Mining avanza con el proyecto de cobre Vicuña, que comparte con BHP, y Adecoagro presentó una propuesta para operar plantas de la cooperativa SanCor. En el mundo, la noticia central viene de Paraguay. El presidente Santiago Peña presentó su renuncia para mantener fueros como senador, pero el Parlamento se la rechazó y ahora deberá enfrentar un juicio político en el Senado. La crisis estalló por la intervención del banco Ueno, que dejó a casi tres millones de ahorristas sin acceso a su dinero, y se profundizó por una ruptura interna entre Peña y el expresidente Horacio Cartes. El vicepresidente Pedro Alliana asumirá para completar el mandato hasta dos mil veintiocho, y Javier Milei negó que Peña haya ingresado a la Argentina tras su salida del poder. En Francia, más de seiscientas mil personas marcharon en una huelga general contra el costo de vida y en reclamo de aumentos salariales, con más de cuatrocientos detenidos. En la carrera por la secretaría general de las Naciones Unidas, la costarricense Rebeca Grynspan amplió su ventaja, mientras el argentino Rafael Grossi se mantiene en el segundo lugar. Y Donald Trump advirtió que Irán necesitará veinticinco años para reconstruirse y que pronto decidirá si avanza con nuevos ataques. Le Grand Continent analiza que la recuperación demócrata del Congreso estadounidense debilita a Trump puertas adentro y podría abrir una ventana para que Europa gane margen de maniobra frente a Washington. La revista también señala que China publica hoy siete veces menos series estadísticas que hace diez años, lo que interpreta como una muestra de la creciente opacidad del régimen, y describe cómo Arabia Saudita y Kuwait lograron sostener sus exportaciones de petróleo pese a la presión de los Guardianes de la Revolución iraníes. En deportes, la Fórmula uno llega a San Pablo con Franco Colapinto buscando sumar puntos después de la sanción que recibió en México, en una temporada que Kimi Antonelli ya se aseguró como campeón. En el fútbol argentino, la AFA suspendió por tres fechas a Gonzalo Montiel, de River, por una patada considerada juego brusco grave en el superclásico, mientras el propio River venció a Aldosivi con la ayuda del VAR. En Europa, Cristiano Ronaldo anunció su retiro de la selección de Portugal después de veintitrés años, y en la selección argentina crecen las versiones de que Nico Paz sería el elegido para heredar la camiseta número diez que dejó Lionel Messi. También se conoció el informe preliminar de la autopsia de Jesús de Miguel, el delantero del Tenerife que murió tras un choque con el arquero rival, que señaló un traumatismo torácico de carácter accidental. Para cerrar, una recomendación de turismo dentro del país: en pleno valle sanjuanino, frente a la Cordillera de los Andes, está la Pampa del Leoncito, una planicie de doce kilómetros conocida como el Barreal Blanco, con un paisaje que recuerda a la superficie lunar y que es el escenario elegido en la Argentina para la práctica del carrovelismo. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "",
+ "slug": "2026-11-06-manana",
+ "generado_ba": "06/11/2026 10:16"
+}
