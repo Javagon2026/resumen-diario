@@ -1,0 +1,842 @@
+{
+ "fecha": "2026-11-08",
+ "edicion": "mediodia",
+ "titulo": "León XIV llega a Buenos Aires con el Gobierno bajo nueva presión financiera",
+ "apertura": "El papa León XIV aterriza esta tarde en el Aeroparque Jorge Newbery, recibido por Javier Milei, para iniciar su gira de cuatro días por la Argentina. En paralelo, el riesgo país se mantiene por encima de los 900 puntos básicos y el equipo económico identificó tres amenazas globales para 2027, mientras un nuevo informe mostró que las ventas minoristas pyme cayeron 1,6% interanual en octubre. En el plano internacional, la policía polaca confirmó que los tres cuerpos hallados en la casa del atacante de Cracovia pertenecían a su familia, e Israel advirtió que su ofensiva contra Irán todavía no terminó.",
+ "claves": [
+  "El papa León XIV aterriza a las 16:30 en el Aeroparque Jorge Newbery, recibido por Javier Milei, tras cerrar su gira en Uruguay con una misa en Florida.",
+  "El riesgo país se mantiene por encima de los 900 puntos básicos; el Banco Central identificó la guerra, las tasas internacionales y el déficit fiscal global como las principales amenazas para 2027.",
+  "Las ventas minoristas pyme cayeron 1,6% interanual en octubre, según CAME, con una leve mejora mensual del 0,3% frente a septiembre.",
+  "FocusEconomics proyecta una inflación promedio de 23,3% para 2027 y una tasa BADLAR de 19,64%, en un relevamiento de más de 40 consultoras y bancos.",
+  "La policía polaca confirmó que los tres cuerpos hallados en la vivienda del atacante de Cracovia pertenecían a sus padres y su hermana, y el Gobierno calificó el tiroteo de acto de terrorismo.",
+  "Israel advirtió que su ofensiva contra el régimen de Irán \"aún no está completa\" y Estados Unidos reforzó el bloqueo de rutas terrestres hacia Teherán.",
+  "La Fiscalía paraguaya estimó en más de 809 millones de dólares el perjuicio del colapso de Ueno Bank, que mantiene preso al expresidente Santiago Peña.",
+  "Messi ganó el Botín de Oro de la MLS por segundo año consecutivo y Elena Rybakina se bajó de las WTA Finals por motivos médicos."
+ ],
+ "cifras": [
+  {
+   "nombre": "Ventas minoristas pyme (CAME), octubre",
+   "valor": "-1,6% interanual",
+   "fuente": "IB-01"
+  },
+  {
+   "nombre": "Tasa BADLAR proyectada para fin de 2027",
+   "valor": "19,64%",
+   "fuente": "CR-09"
+  },
+  {
+   "nombre": "Importaciones acumuladas de proyectos RIGI",
+   "valor": "US$ 542,2 millones",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Inversión inmobiliaria en Bajo Belgrano",
+   "valor": "US$ 240 millones",
+   "fuente": "CR-13"
+  },
+  {
+   "nombre": "Perjuicio estimado del caso Ueno Bank",
+   "valor": "US$ 809 millones",
+   "fuente": "AM-07"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "León XIV aterriza hoy a las cuatro y media de la tarde en Buenos Aires",
+     "resumen": "El papa León XIV tiene previsto aterrizar a las 16:30 en el Aeroparque Jorge Newbery, donde será recibido por Javier Milei. Su primera actividad será una visita al Monumento al General San Martín, antes de un encuentro oficial en la Casa Rosada. Tras su paso por la Argentina, el Sumo Pontífice continuará su gira hacia Perú.",
+     "relacionadas": [
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Papa León XIV EN VIVO: cierre de la visita a Uruguay, arribo a la Argentina, últimas noticias y novedades",
+       "url": "https://www.ambito.com/politica/papa-leon-XIV-argentina-gobierno-javier-milei-iglesia-vaticano-caba-lujan-cordoba-uruguay-en-vivo-minuto-a-minuto-8-noviembre"
+      },
+      {
+       "id": "CL-21",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Javier Milei y sus medidas, EN VIVO: el Presidente recibe al papa León XIV en Aeroparque y luego se reúnen en el Casa Rosada",
+       "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-recibe-papa-leon-xiv-aeroparque-luego-reunen-casa-rosada_0_rTrJMuM4NP.html"
+      },
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Papa oficia una misa en la ciudad de Florida, su última actividad en Uruguay antes de venir a la Argentina",
+       "url": "https://www.cronista.com/economia-politica/visita-del-papa-leon-xiv-en-vivo-el-minuto-a-minuto-de-su-paso-por-uruguay-antes-de-llegar-a-argentina/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-llegada-a-la-argentina-y-las-ultimas-noticias-de-su-agenda-en-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/A7NRQK43XRCHZHNJLPPFFWN6JA.JPG?auth=dfd4f7385415fe741684d094d7a6b602bb7785e536694dffedb5315d95f330aa&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:04",
+     "autor": "",
+     "titulo_original": "Papa León XIV en la Argentina, EN VIVO: a qué hora llega, la agenda del domingo y las últimas noticias hoy"
+    },
+    {
+     "id": "IB-05",
+     "titulo": "El Papa cerró su etapa en Uruguay con una misa en Florida",
+     "resumen": "León XIV celebró su última misa en Uruguay en la ciudad de Florida, ante miles de fieles reunidos por el día de la Virgen de los Treinta y Tres, patrona del país. Antes de viajar a Buenos Aires pidió al Gobierno uruguayo que \"se busque con rectitud el bien de todos\". Fue su despedida tras pasar por Montevideo y Paysandú desde su llegada el viernes.",
+     "relacionadas": [
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Papa oficia una misa en la ciudad de Florida, su última actividad en Uruguay antes de venir a la Argentina",
+       "url": "https://www.cronista.com/economia-politica/visita-del-papa-leon-xiv-en-vivo-el-minuto-a-minuto-de-su-paso-por-uruguay-antes-de-llegar-a-argentina/"
+      },
+      {
+       "id": "IB-08",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "EN VIVO | León XIV animó a los uruguayos a transmitir la fe: “No podemos esperar a que quienes se alejaron regresen por sí solos”",
+       "url": "https://www.infobae.com/america/america-latina/2026/11/08/papa-leon-xiv-en-vivo-las-ultimas-noticias-de-su-gira-sudamericana-hoy-8-de-noviembre/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/america-latina/2026/11/08/tras-celebrar-su-ultima-misa-en-uruguay-leon-xiv-viajara-a-la-argentina-para-desplegar-su-agenda-social-y-religiosa/",
+     "imagen": "https://www.infobae.com/resizer/v2/OPB4253P5NGN5O6Z335AKK7S4A.JPG?auth=2622f9b69739be3fc2ec01c17e883e8b96fa8700b497c3281e3dd11a0afd3cc2&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:03",
+     "autor": "Román Lejtman",
+     "titulo_original": "Tras celebrar su última misa en Uruguay, León XIV viajará a la Argentina para desplegar su agenda social y religiosa"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "La encíclica de León XIV sobre la inteligencia artificial llega al top diez de ventas",
+     "resumen": "La encíclica Magnifica Humanitas, centrada en la custodia de la persona humana en tiempos de la inteligencia artificial, se ubica entre los diez libros más vendidos de la semana según la editorial Cúspide. El Cronista señala que varios de sus planteos contrastan en tiempo real con políticas del Gobierno de Javier Milei y con posiciones públicas del Presidente.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los conceptos del Papa a propósito de la IA, la economía, el “poder tecnológico” y la búsqueda de la verdad",
+       "url": "https://www.infobae.com/economia/2026/11/08/los-conceptos-del-papa-a-proposito-de-la-ia-la-economia-el-poder-tecnologico-y-la-busqueda-de-la-verdad/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/llega-el-papa-de-las-piedras-desechadas-con-diferencias-en-tiempo-real-con-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/G4ZCK6O3XNGUBFPBFRJJ472CJI.jpeg?auth=caceb0ac29f6c2c9f00e059469d8a9e719fc0bfe76702368f5f933d0e6062624&smart=true&width=750&height=422",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:05",
+     "autor": "Jairo Straccia",
+     "titulo_original": "Llega el Papa de “las piedras desechadas”, con diferencias en tiempo real con Milei"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Karina Milei coordina la logística de la visita papal en medio de internas en el Gabinete",
+     "resumen": "La secretaria general de la Presidencia, Karina Milei, se puso al frente de la coordinación entre los distintos ministerios durante los cuatro días de visita del Papa, según Ámbito. El medio también describe tensiones internas en el Gabinete y cierto \"cholulismo\" entre funcionarios por la llegada del Sumo Pontífice.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/entretelones-la-visita-del-papa-leon-xiv-n6340320",
+     "imagen": "https://media.ambito.com/p/17ffd2b9c8030d4424d115f7fc5fa6b0/adjuntos/239/imagenes/042/488/0042488446/milei-y-el-papa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:06",
+     "autor": "",
+     "titulo_original": "Entretelones de la visita del papa León XIV: internas en el Gabinete, \"cholulismo\" y Karina en todas las actividades"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "Mauricio y Jorge Macri volvieron a mostrar distancia en una cena empresarial",
+     "resumen": "En la apertura del Foro Abeceb, con la presencia del expresidente español Mariano Rajoy, Mauricio y Jorge Macri mantuvieron un saludo frío y no compartieron mesa, según El Cronista. En paralelo, la vicepresidenta Victoria Villarruel vivió como hincha su debut en el estadio de Rosario Central.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/macri-y-macri-cada-uno-por-su-lado-y-una-vice-fanatica/",
+     "imagen": "https://www.cronista.com/resizer/v2/S5A6AFY5QFCJVJATEUUJ2YMC4M.jpg?auth=8f238df20686da8fd669b64ae72cf66cf2d130f23466b08731ee3a4e1d6c8d8f&smart=true&width=900&height=614",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:04",
+     "autor": "Nicolás Gallardo",
+     "titulo_original": "Macri y Macri, cada uno por su lado y una vice fanática"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "La estrategia internacional de Milei pierde impulso en las redes",
+     "resumen": "Según El Cronista, los viajes que Javier Milei realizó en octubre a Estados Unidos, París, Brasil y España buscaban reforzar su perfil de referente de la derecha mundial, pero generaron una discusión intensa y mayormente negativa en redes sociales, de acuerdo con un informe de Ad Hoc. El diario sostiene que el \"refugio\" de la agenda internacional, usado por el Gobierno para correr el foco de los problemas domésticos, ya no logra el mismo efecto.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-refugio-que-se-termino-la-estrategia-internacional-de-milei-ya-no-logra-escapar-del-desgaste/",
+     "imagen": "https://www.cronista.com/resizer/v2/ITRHRY5LUJAODEQFADK6A6C6QI.jpg?auth=7fc654fab96b3650ca083a19288a3db55bbbffd3a1c6bb0a4fab143b7ce3ce40&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:28",
+     "autor": "Kiara Calvert de Bohun",
+     "titulo_original": "El refugio que se terminó: la estrategia internacional de Milei ya no logra escapar del desgaste"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "La mayoría de los argentinos no espera cambios en el clima social por la visita del Papa",
+     "resumen": "Un relevamiento de Management and Fit citado por Ámbito muestra que el 42,4% de los encuestados tiene una imagen positiva del papa León XIV, aunque la mayoría no anticipa que su visita modifique el clima social del país.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/la-mayoria-los-argentinos-no-espera-cambios-el-clima-social-la-visita-del-papa-n6339799",
+     "imagen": "https://media.ambito.com/p/73c09090bbd6aec0eac8edbbdaf53f27/adjuntos/239/imagenes/043/657/0043657094/1200x675/528x300:548x320/papa-leon-xiv.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:28",
+     "autor": "",
+     "titulo_original": "La mayoría de los argentinos no espera cambios en el clima social por la visita del Papa"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CL-08",
+     "titulo": "El mercado vuelve a mirar con desconfianza a la Argentina",
+     "resumen": "Clarín señala que los inversores centran su atención en los dólares que el país necesitará para afrontar vencimientos de deuda en 2027 y en la continuidad del programa económico después de las elecciones. El equilibrio fiscal que exhibe el Gobierno de Javier Milei ya no alcanza por sí solo para mejorar el precio de los bonos. Para una empresa: el deterioro en la percepción de riesgo encarece el crédito externo y presiona sobre el tipo de cambio.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Con el riesgo país en alza, el Gobierno identificó tres amenazas globales: qué factores preocupan al equipo económico",
+       "url": "https://www.infobae.com/economia/2026/11/08/con-el-riesgo-pais-en-alza-el-gobierno-identifico-tres-amenazas-globales-que-factores-preocupan-al-equipo-economico/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/riesgo-pais-mercado-vuelve-mirar-desconfianza-argentina_0_W0DKzqJfVc.html",
+     "imagen": "https://www.clarin.com/img/2026/11/05/_9lNm8Zv4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Riesgo país: por qué el mercado vuelve a mirar con desconfianza a la Argentina"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "El Gobierno identificó tres amenazas globales para la economía",
+     "resumen": "Con el riesgo país por encima de los 900 puntos básicos, el vicepresidente del Banco Central, Vladimir Werning, señaló en el Foro Abeceb 2026 tres factores externos que preocupan al equipo económico: un shock energético por la guerra y el precio del petróleo, el efecto de la inflación y las tasas internacionales sobre el crecimiento, y los déficits fiscales globales. Para una empresa: un contexto externo más adverso eleva el costo de financiamiento justo cuando el país necesita renovar deuda.",
+     "relacionadas": [
+      {
+       "id": "CL-08",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Riesgo país: por qué el mercado vuelve a mirar con desconfianza a la Argentina",
+       "url": "https://www.clarin.com/economia/riesgo-pais-mercado-vuelve-mirar-desconfianza-argentina_0_W0DKzqJfVc.html"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/08/con-el-riesgo-pais-en-alza-el-gobierno-identifico-tres-amenazas-globales-que-factores-preocupan-al-equipo-economico/",
+     "imagen": "https://www.infobae.com/resizer/v2/CLTIMNOZEVB4NC2UWBLMCAWV7I.jpg?auth=a20add2d01553be0e48566e774c895b64af78f9988356b1a4e884d11ce9dc03f&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:46",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "Con el riesgo país en alza, el Gobierno identificó tres amenazas globales: qué factores preocupan al equipo económico"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Las ventas minoristas pyme cayeron 1,6% interanual en octubre",
+     "resumen": "Según la Confederación Argentina de la Mediana Empresa, las ventas minoristas pyme retrocedieron 1,6% interanual en octubre, aunque mostraron una mejora del 0,3% frente a septiembre. El acumulado del año muestra una caída del 2%, con un consumo concentrado en compras esenciales de ticket reducido. La encuesta de CAME marca además un fuerte contraste entre la percepción negativa sobre la situación actual y la expectativa positiva para dentro de un año.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las ventas minoristas pyme cayeron 1,6% interanual en octubre y el consumo no repunta",
+       "url": "https://www.ambito.com/economia/las-ventas-minoristas-pyme-cayeron-16-interanual-octubre-y-el-consumo-no-repunta-n6342900"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/08/las-ventas-minoristas-del-comercio-pyme-bajaron-16-interanual-en-octubre/",
+     "imagen": "https://www.infobae.com/resizer/v2/TM76QUY55ZCXLB5J4XEZ7XHIOA.png?auth=9f7f7041db795234d2c123b88c9da0a3a056b7536a8dd6c1dc3646e18a49ea13&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:06",
+     "autor": "",
+     "titulo_original": "Las ventas minoristas del comercio pyme bajaron 1,6% interanual en octubre"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "El mercado espera una inflación de 23,3% para 2027",
+     "resumen": "El último relevamiento de FocusEconomics, que consolida previsiones de más de 40 bancos y consultoras, proyecta una inflación promedio de 23,3% para 2027, una estimación que subió 0,2 puntos porcentuales respecto del informe anterior. Para 2028 el consenso espera una inflación promedio de 17,1%, con una variación interanual a diciembre de 21,1% y 14% respectivamente.",
+     "relacionadas": [
+      {
+       "id": "CR-09",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Con el riesgo electoral de fondo: ¿qué tasas de interés proyecta el mercado para 2027?",
+       "url": "https://www.cronista.com/finanzas-mercados/con-el-riesgo-electoral-de-fondo-que-tasas-de-interes-proyecta-el-mercado-para-2027/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/inflacion-que-espera-el-mercado-para-los-precios-en-ano-electoral-y-el-riesgo-latente-para-el-ipc/",
+     "imagen": "https://www.cronista.com/resizer/v2/EGR5DCARVNBOXPX3DDZWCOYCIQ.jpg?auth=4af9609f279230b34b92eb473523412dc5b2cd15bbe508f9c766dd8fa5a99813&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:29",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Inflación: qué espera el mercado para los precios en año electoral y el riesgo latente para el IPC"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "El mercado proyecta una tasa BADLAR de 19,64% para fines de 2027",
+     "resumen": "Según FocusEconomics, la tasa BADLAR que pagan los bancos privados por depósitos a plazo fijo de un millón de pesos o más podría cerrar 2027 en 19,64%, frente al 16,36% previsto para fines de 2028. El informe advierte que el sendero descendente de las tasas, que se movieron entre 20% y 25% desde abril, podría verse interrumpido por el calendario electoral.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Inflación: qué espera el mercado para los precios en año electoral y el riesgo latente para el IPC",
+       "url": "https://www.cronista.com/economia-politica/inflacion-que-espera-el-mercado-para-los-precios-en-ano-electoral-y-el-riesgo-latente-para-el-ipc/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/con-el-riesgo-electoral-de-fondo-que-tasas-de-interes-proyecta-el-mercado-para-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/W45GBV2CJFFLFERDH3C6LXOIZ4.png?auth=6de69525a20e5e688fbebaeddff1a375e8c67111fd10ca77dec37204b05ac645&smart=true&width=900&height=543",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:27",
+     "autor": "",
+     "titulo_original": "Con el riesgo electoral de fondo: ¿qué tasas de interés proyecta el mercado para 2027?"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "La City ajusta sus estrategias de inversión ante una inflación que no cede",
+     "resumen": "Economistas consultados por iProfesional sostienen que la inflación se resiste a bajar y que los inversores están actualizando sus carteras en pesos y dólares para cubrirse de la variación de precios. La nota repasa los instrumentos que ganan terreno entre los operadores de la City en este contexto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/468619-inflacion-proteger-ahorros-pesos-dolares-opciones-clave-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615600.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:57",
+     "autor": "",
+     "titulo_original": "Qué inversiones en pesos y dólares elige la City ante una inflación que se resiste a bajar"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "Los proyectos RIGI importan más de lo que la industria argentina podría fabricar",
+     "resumen": "Un informe de la Cámara de Industriales de Proyectos e Ingeniería de Bienes de Capital detectó que, de los US$ 542,2 millones en importaciones acumuladas hasta septiembre por proyectos del Régimen de Incentivo para Grandes Inversiones, US$ 362,7 millones corresponden a rubros donde ya existe producción nacional. El Cronista advierte que esto limita el derrame de las inversiones del RIGI sobre la industria local. Para una empresa: señala una oportunidad de sustitución de importaciones si se logra previsibilidad y competitividad de costos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/que-compran-afuera-los-proyectos-rigi-y-cuanto-podria-fabricar-la-industria-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/TQSCZQTDEREHNJXRJXRL3DORM4.jpg?auth=c1edf015b81c534a629e5082db7ec4568133e1935d675ae113d6260df556e9d1&smart=true&width=900&height=484",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:27",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "Qué compran afuera los proyectos RIGI y cuánto podría fabricar la industria argentina"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Este lunes se define el ganador de una licitación clave de Argentina LNG",
+     "resumen": "El consorcio Argentina LNG definirá el lunes 9 de noviembre al ganador de la licitación de los tubos para el gasoducto de 48 pulgadas que llevará gas de Vaca Muerta hasta la costa de Río Negro, además de un poliducto de 24 pulgadas. El Cronista señala que YPF prefiere mantener una ventana más amplia, entre el 9 y el 11 de noviembre, dada la complejidad del proceso.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/canos-y-gnl-este-lunes-se-define-al-ganador-de-un-contrato-clave-de-argentina-lng/",
+     "imagen": "https://www.cronista.com/resizer/v2/VLB3C2NCJVC33KLSEIXWBT7HPY.jpg?auth=5df874729d49a6d64db7e4ad3d74013335e6c723196728a2bbe0c1d940b202c1&smart=true&width=468&height=206",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:02",
+     "autor": "Natalí Risso",
+     "titulo_original": "Caños y GNL: este lunes se define al ganador de un contrato clave de Argentina LNG"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "De soñar con Wimbledon a transformar YPF: el recorrido de Horacio Marín",
+     "resumen": "iProfesional repasa la trayectoria de Horacio Marín, ingeniero nacido en La Plata que jugó tenis de alto rendimiento antes de dedicarse a la industria energética y liderar la transformación de YPF. La nota recorre las decisiones profesionales y familiares que marcaron su carrera.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468593-la-vida-de-horacio-marin-del-sueno-de-ganar-wimbledon-a-transformar-ypf",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629327.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:01",
+     "autor": "",
+     "titulo_original": "La vida de Horacio Marín, del sueño de ganar Wimbledon a la transformación de YPF"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Los fondos de venture capital apuestan a startups con 90% de riesgo",
+     "resumen": "Mariano Mayer, presidente de ARCAP y cofundador del fondo Newtopia, explicó a El Cronista que los fondos de capital de riesgo invierten en startups en etapa temprana con tickets de hasta un millón de dólares y horizontes de diez años, sabiendo que la mayoría de esas apuestas no va a prosperar. El fondo tiene más de 80 compañías en su portfolio en etapas pre-semilla y semilla.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-proxima-mercado-libre-el-negocio-de-invertir-en-startups-sin-clientes-sin-ganancias-y-con-90-de-riesgo/",
+     "imagen": "https://www.cronista.com/resizer/v2/EDS2JGMHFVCPVA2UQFTP64SZGM.jpg?auth=bc4d3040beadb9b1b4a39f24dc921bc33ed191cce7de6d9a633459d6aa590039&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "¿La próxima Mercado Libre? El negocio de invertir en startups sin clientes, sin ganancias y con 90% de riesgo"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "La visita del Papa mueve un negocio estimado en 400 millones de dólares",
+     "resumen": "Ámbito estima que la llegada de León XIV activa las ventas de artículos religiosos y dispara la demanda turística y hotelera, con un movimiento económico que podría llegar a los US$ 400 millones. Para una empresa: es un ejemplo de cómo un evento puntual puede generar un pico de consumo transitorio en comercios y servicios.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El papa León XIV en Argentina: cuánto cuesta viajar a Córdoba y el hospedaje",
+       "url": "https://www.ambito.com/negocios/el-papa-leon-xiv-argentina-cuanto-cuesta-viajar-cordoba-y-el-hospedaje-n6324856"
+      }
+     ],
+     "url": "https://www.ambito.com/negocios/efecto-leon-xiv-el-millonario-negocio-que-se-mueve-detras-la-visita-del-papa-n6338467",
+     "imagen": "https://media.ambito.com/p/a71371ee3d76ce90f1d5e251bed9ccbf/adjuntos/239/imagenes/043/700/0043700884/1200x675/204x335:224x355/papa-leon-xiv-gemelli-1-vatican-news-2.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:41",
+     "autor": "",
+     "titulo_original": "Efecto León XIV: el millonario negocio que se mueve detrás de la visita del Papa"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "Acceder a la vivienda propia se volvió casi imposible, según el mercado de créditos hipotecarios",
+     "resumen": "iProfesional detalla cómo las condiciones actuales del mercado crediticio complican el acceso a la casa propia: los salarios, las tasas y los requisitos exigidos limitan cada vez más las posibilidades de calificar para un crédito hipotecario. Para una empresa: una demanda de vivienda más restringida impacta de manera directa en el ritmo de ventas de materiales de construcción y terminaciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/468382-creditos-hipotecarios-motivo-mision-imposible-casa-propia-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614010.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:58",
+     "autor": "",
+     "titulo_original": "Créditos hipotecarios: el dato que revela por qué acceder a una casa propia se volvió casi imposible"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "Bajo Belgrano suma un nuevo edificio de lujo con inversiones por 240 millones de dólares",
+     "resumen": "El corredor norte de la Ciudad de Buenos Aires sigue ganando peso en el mercado inmobiliario de lujo, con Bajo Belgrano como una de las zonas más buscadas por su cercanía a los Bosques de Palermo y a la avenida del Libertador. El Cronista detalla que las inversiones en los desarrollos de la zona superan los US$ 240 millones, con un edificio que estará terminado a fines de noviembre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-nueva-isla-residencial-de-buenos-aires-suma-otro-edificio-exclusivo-cerca-del-rio/",
+     "imagen": "https://www.cronista.com/resizer/v2/W33E4OD73JG7JJHXW7MC5NOCSA.png?auth=f416fe398f5f1d26939063d494eb64f54ebad5ecaa9558afa68937cbcbea2729&smart=true&width=900&height=1153",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Micaela Mura",
+     "titulo_original": "La nueva “isla” residencial de Buenos Aires suma otro edificio exclusivo cerca del río"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Abre un nuevo shopping con 42 locales en Buenos Aires",
+     "resumen": "iProfesional adelanta la apertura de un nuevo centro comercial en Buenos Aires que contará con 42 locales, supermercado y marcas gastronómicas reconocidas. La nota detalla la ubicación prevista y la fecha estimada de inauguración.",
+     "relacionadas": [
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Un shopping argentino abrirá 5 tiendas internacionales el mismo día",
+       "url": "https://www.iprofesional.com/actualidad/468534-un-shopping-argentino-abrira-5-tiendas-internacionales-el-mismo-dia"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Unicenter se transforma: cómo será el nuevo shopping de Martínez",
+       "url": "https://www.iprofesional.com/negocios/468419-unicenter-se-transforma-como-sera-el-nuevo-shopping-de-martinez"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/468410-abre-un-nuevo-shopping-en-buenos-aires-donde-esta-y-que-marcas-tendra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629185.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:55",
+     "autor": "",
+     "titulo_original": "Abre un nuevo shopping en Buenos Aires: dónde está y qué marcas tendrá"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Un shopping argentino abrirá cinco tiendas internacionales el mismo día",
+     "resumen": "Un reconocido centro comercial argentino prepara la apertura simultánea de cinco tiendas internacionales, según iProfesional. La nota repasa qué marcas llegan y qué ofrecerán a los visitantes.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Abre un nuevo shopping en Buenos Aires: dónde está y qué marcas tendrá",
+       "url": "https://www.iprofesional.com/negocios/468410-abre-un-nuevo-shopping-en-buenos-aires-donde-esta-y-que-marcas-tendra"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/468534-un-shopping-argentino-abrira-5-tiendas-internacionales-el-mismo-dia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619163.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Un shopping argentino abrirá 5 tiendas internacionales el mismo día"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "Unicenter inicia una ampliación millonaria en Martínez",
+     "resumen": "El shopping de Martínez comenzó una ampliación que incluirá nuevas marcas, servicios de salud y oferta gastronómica, según iProfesional. La nota detalla los plazos estimados para la finalización de las obras.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468419-unicenter-se-transforma-como-sera-el-nuevo-shopping-de-martinez",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618665.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:40",
+     "autor": "",
+     "titulo_original": "Unicenter se transforma: cómo será el nuevo shopping de Martínez"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-04",
+     "titulo": "El 71% de las pymes argentinas tiene dificultades para cubrir puestos",
+     "resumen": "Una encuesta 2026 del IAE Business School, citada por El Cronista, muestra que siete de cada diez pymes argentinas tienen dificultades para cubrir vacantes. La nota plantea que, incluso cuando se consigue el talento, muchas empresas familiares no logran darle lugar real de decisión, lo que termina licuando el valor de esas incorporaciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/talento-en-las-pymes-por-que-contratar-buenos-profesionales-no-alcanza/",
+     "imagen": "https://www.cronista.com/resizer/v2/EUSA5OELVVCO3FZUYBYGBJD4FU.jpg?auth=ce5a2acf14d82cc0565d4db0c87bb5e054740edc42f123c7fcad7d314aa12a32&smart=true&width=900&height=475",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:07",
+     "autor": "",
+     "titulo_original": "Talento en las PyMEs: por qué contratar buenos profesionales no alcanza"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "A las mujeres les cuesta más llegar a jefas y lideran equipos más chicos",
+     "resumen": "Un estudio sobre 17.277 empleados en la Argentina, citado por iProfesional, muestra que las jefas tienen a cargo en promedio a 13,2 personas, frente a las 30 que lidera en promedio un jefe varón. El trabajo expone una brecha tanto en el acceso a posiciones de conducción como en el tamaño de los equipos asignados a mujeres.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/468517-a-las-mujeres-les-cuesta-mas-llegar-a-jefas-y-ademas-lideran-equipos-mas-chicos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629267.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:16",
+     "autor": "",
+     "titulo_original": "A las mujeres les cuesta más llegar a jefas y cuando lo hacen, lideran equipos más chicos"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "Qué puede aprender la gestión de logística y comercio exterior del alto rendimiento deportivo",
+     "resumen": "La especialista en medicina del deporte Sandra Rossi advierte sobre el costo del multitasking y la pérdida de descanso en profesionales de logística y comercio exterior, un área donde los horarios de proveedores en otros husos horarios condicionan la rutina diaria. Según Infobae, entrenar el foco y la gestión del estrés, igual que en el deporte de alto rendimiento, mejora la toma de decisiones bajo presión.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/movant/2026/11/06/el-alto-rendimiento-como-escuela-para-navegar-la-incertidumbre-de-logistica-y-comercio-exterior/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZKVSPV72NBE7RENMU6YDK5IE6Q.jpg?auth=a17fa84b8410b18e26b4d20599c8c264691580773cab2cf6d3a3bd7c2eadc31c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:03",
+     "autor": "Redacción Movant",
+     "titulo_original": "El alto rendimiento como escuela para navegar la incertidumbre de logística y comercio exterior"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "La policía polaca confirmó que los tres cuerpos hallados eran la familia del atacante de Cracovia",
+     "resumen": "Los cadáveres de los padres y la hermana del presunto autor del tiroteo de Cracovia, que presentaban heridas de bala, fueron hallados durante un operativo nocturno en Ostrowiec Swietokrzyski, a dos horas de la ciudad. La investigación busca establecer si esas muertes están vinculadas al ataque que dejó seis víctimas fatales en la Plaza Mayor, donde participaron más de 1.100 agentes policiales.",
+     "relacionadas": [
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Polonia considera un acto de terrorismo el tiroteo que dejó seis muertos en Cracovia",
+       "url": "https://www.clarin.com/mundo/polonia-considera-acto-terrorismo-tiroteo-dejo-muertos-cracovia_0_g3m7JWzUIZ.html"
+      },
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los pronósticos para el dólar y el riesgo en la semana posterior a la visita del Papa",
+       "url": "https://www.iprofesional.com/economia/468623-que-se-espera-para-el-dolar-y-el-riesgo-despues-de-la-visita-del-papa"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/11/08/la-policia-polaca-confirmo-que-los-tres-cuerpos-hallados-en-la-vivienda-del-presunto-tirador-de-cracovia-pertenecian-a-su-familia/",
+     "imagen": "https://www.infobae.com/resizer/v2/R3DUI6E2CZAB7LD6P522Z5G344.JPG?auth=d7860aff1812f99e825cb6a7db8a44f1bd9f21f5dd322b9e0872d4724a366acd&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "08:50",
+     "autor": "",
+     "titulo_original": "La Policía polaca confirmó que los tres cuerpos hallados en la vivienda del presunto tirador de Cracovia pertenecían a su familia"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Polonia considera un acto de terrorismo el tiroteo de Cracovia",
+     "resumen": "El atacante, un polaco de 24 años detenido y herido de gravedad, abrió fuego en forma indiscriminada en la plaza del Mercado de Cracovia y dejó seis muertos y quince heridos, cinco de ellos extranjeros, según Clarín.",
+     "relacionadas": [
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La Policía polaca confirmó que los tres cuerpos hallados en la vivienda del presunto tirador de Cracovia pertenecían a su familia",
+       "url": "https://www.infobae.com/america/mundo/2026/11/08/la-policia-polaca-confirmo-que-los-tres-cuerpos-hallados-en-la-vivienda-del-presunto-tirador-de-cracovia-pertenecian-a-su-familia/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/polonia-considera-acto-terrorismo-tiroteo-dejo-muertos-cracovia_0_g3m7JWzUIZ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/08/uDplrgouQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Polonia considera un acto de terrorismo el tiroteo que dejó seis muertos en Cracovia"
+    },
+    {
+     "id": "AM-07",
+     "titulo": "La Fiscalía paraguaya estima en 809 millones de dólares el perjuicio del caso Ueno Bank",
+     "resumen": "La imputación por el colapso de Ueno Bank alcanza también al extitular del Banco Central paraguayo, Carlos Carvallo, y detalla presuntas irregularidades en depósitos estatales, acciones y préstamos. El escándalo ya derivó en la prisión preventiva del expresidente Santiago Peña.",
+     "relacionadas": [
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Iglesia paraguaya exige devolución de ahorros a afectados por \"fraude monumental\" de Ueno",
+       "url": "https://www.infobae.com/america/agencias/2026/11/08/iglesia-paraguaya-exige-devolucion-de-ahorros-a-afectados-por-fraude-monumental-de-ueno/"
+      }
+     ],
+     "url": "https://www.ambito.com/mundo/escandalo-ueno-bank-paraguay-la-fiscalia-estima-un-perjuicio-mas-us809-millones-y-complica-santiago-pena-n6342893",
+     "imagen": "https://media.ambito.com/p/d7981f7dcd5a7f8ce336911ab2c71f0a/adjuntos/239/imagenes/043/748/0043748046/santiago-pena-ueno-bank.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:37",
+     "autor": "",
+     "titulo_original": "Escándalo de Ueno Bank en Paraguay: la Fiscalía estima un perjuicio de más de u$s809 millones y complica a Santiago Peña"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "La Iglesia paraguaya exige la devolución de los ahorros estafados por Ueno Bank",
+     "resumen": "El obispo Ricardo Valenzuela reclamó en la Basílica de Caacupé la \"urgente\" devolución del dinero de todas las personas afectadas por lo que calificó de \"fraude monumental\", y pidió sanciones ejemplares para los responsables del cierre de Ueno Bank.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Escándalo de Ueno Bank en Paraguay: la Fiscalía estima un perjuicio de más de u$s809 millones y complica a Santiago Peña",
+       "url": "https://www.ambito.com/mundo/escandalo-ueno-bank-paraguay-la-fiscalia-estima-un-perjuicio-mas-us809-millones-y-complica-santiago-pena-n6342893"
+      }
+     ],
+     "url": "https://www.infobae.com/america/agencias/2026/11/08/iglesia-paraguaya-exige-devolucion-de-ahorros-a-afectados-por-fraude-monumental-de-ueno/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Iglesia paraguaya exige devolución de ahorros a afectados por \"fraude monumental\" de Ueno"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Israel advirtió que su ofensiva contra Irán todavía no terminó",
+     "resumen": "El ministro de Defensa israelí, Israel Katz, acusó a Teherán de intentar reanudar su programa nuclear y advirtió a Hezbollah que su país está preparado para actuar. La declaración llega después de que Estados Unidos realizara nuevos ataques limitados contra defensas antiaéreas iraníes en la isla de Qeshm.",
+     "relacionadas": [
+      {
+       "id": "CL-05",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "EEUU crea grupo de trabajo para bloquear rutas terrestres hacia Irán",
+       "url": "https://www.clarin.com/estados-unidos/eeuu-crea-grupo-de-trabajo-para-bloquear-rutas-terrestres-hacia-iran_0_e0Xmt2YGWP.html"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/11/08/israel-afirmo-que-la-mision-contra-el-regimen-de-iran-aun-no-esta-completa-y-advirtio-a-hezbollah/",
+     "imagen": "https://www.infobae.com/resizer/v2/V5IG6UF6RNEZRB64ZZMIHASS6E.jpg?auth=d5ccbcd16e20b8033405638df54f45a1b96817dce1c171a874d3acf48d7b4e8d&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:27",
+     "autor": "",
+     "titulo_original": "Israel afirmó que la misión contra el régimen de Irán “aún no está completa” y advirtió a Hezbollah"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "Estados Unidos crea un grupo de trabajo para bloquear rutas terrestres hacia Irán",
+     "resumen": "El nuevo equipo buscará interceptar el tráfico de armas y mercancías ilegales por tierra hacia Irán, como complemento del bloqueo naval ya existente, según el Comando Central estadounidense. La medida apunta a limitar el financiamiento del terrorismo y la reconstrucción militar iraní.",
+     "relacionadas": [
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Israel afirmó que la misión contra el régimen de Irán “aún no está completa” y advirtió a Hezbollah",
+       "url": "https://www.infobae.com/america/mundo/2026/11/08/israel-afirmo-que-la-mision-contra-el-regimen-de-iran-aun-no-esta-completa-y-advirtio-a-hezbollah/"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/eeuu-crea-grupo-de-trabajo-para-bloquear-rutas-terrestres-hacia-iran_0_e0Xmt2YGWP.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "EEUU crea grupo de trabajo para bloquear rutas terrestres hacia Irán"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Un candidato rumano propone una geopolítica de la Francofonía",
+     "resumen": "Le Grand Continent analiza la propuesta de un candidato rumano a la Organización Internacional de la Francofonía, que busca convertir el peso de una lengua compartida en una herramienta geopolítica frente a la crisis del multilateralismo. La revista sitúa el planteo en un contexto de fragmentación global y de reclamos por reconstruir espacios de diálogo basados en la confianza entre socios.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/08/por-una-geopolitca-de-la-francofonia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:42",
+     "autor": "Louis Puel",
+     "titulo_original": "Por una geopolítica de la Francofonía"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-01",
+     "titulo": "La frase de su psicóloga que motivó a Leandro Paredes hacia el título con Boca",
+     "resumen": "Según La Nación, poco antes de la final el capitán de Boca recibió de su psicóloga un mensaje que lo ayudó a vivir el partido con otra perspectiva. Tras volver desde Europa para liderar la reconstrucción del equipo, Paredes levantó el trofeo del Torneo Anual 2026 dieciocho meses después de su regreso al club.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Leandro Paredes y el efecto cumplido más allá de ser campeón con Boca: \"Lo que quería era que la gente esté identificada con este equipo\"",
+       "url": "https://www.clarin.com/deportes/leandro-paredes-efecto-cumplido-alla-campeon-boca-queria-gente-identificada-equipo_0_Hq1YpKaRFp.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/la-frase-que-leandro-paredes-recibio-de-su-psicologa-y-que-lo-motivo-hacia-el-titulo-de-boca-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/R2PVLKI6HRA2HOMOJUOB6AZLAU.jpg?auth=1f649cf46934c62da1b9a817592b5a2d2302be663e10a00786aafce85e0ce7d9&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:07",
+     "autor": "",
+     "titulo_original": "La frase que Leandro Paredes recibió de su psicóloga y que lo motivó hacia el título de Boca"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Lionel Messi ganó el Botín de Oro de la MLS por segundo año consecutivo",
+     "resumen": "El delantero del Inter Miami marcó 26 goles en su cuarta temporada en la Major League Soccer y se convirtió en el primer jugador que lidera la tabla de artilleros durante dos campañas seguidas. Messi terminó por delante del croata Petar Musa, de Dallas, con 22 goles, y de Sam Surridge, de Nashville, con 21.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/08/lionel-messi-logro-un-nuevo-record-en-su-carrera-en-el-futbol-tras-marcar-26-goles-para-el-inter-miami-en-la-mls/",
+     "imagen": "https://www.infobae.com/resizer/v2/PB4QLEQDA5BX5BCJ6OTO6DHBVY.JPG?auth=8ae01cebaa80b47b47915410dd02b5756f5929b1da3647867aa87e7e52e60f29&smart=true&width=900&height=638",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "08:45",
+     "autor": "",
+     "titulo_original": "Lionel Messi logró un nuevo récord en su carrera en el fútbol tras marcar 26 goles para el Inter Miami en la MLS"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Elena Rybakina se bajó de las WTA Finals por motivos médicos",
+     "resumen": "La número uno del mundo abandonó una entrevista en vivo en Indian Wells tras admitir que no se sentía bien, y horas después confirmó su baja del torneo que reúne a las ocho mejores jugadoras de la temporada. La ucraniana Marta Kostyuk ocupará su lugar y debutará ante la checa Linda Noskova.",
+     "relacionadas": [
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“No me siento bien”: el momento en que la número 1 del mundo del tenis Elena Rybakina abandonó una entrevista de TV en vivo",
+       "url": "https://www.infobae.com/deportes/2026/11/08/no-me-siento-bien-el-momento-en-que-la-numero-1-del-mundo-del-tenis-elena-rybakina-abandono-una-entrevista-de-tv-en-vivo/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/elena-rybakina-encendio-las-alarmas-en-vivo-y-horas-despues-se-bajo-de-las-wta-finals-no-me-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LEY7OWKFMNDCBK3YGWCHDOFA5M.png?auth=c80757bd4344e160749e9d705cb068412591bf25f04697fdf5e51d832191c1a7&smart=true&width=900&height=528",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:28",
+     "autor": "",
+     "titulo_original": "Elena Rybakina encendió las alarmas en vivo y horas después se bajó de las WTA Finals: “No me encuentro bien”"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "Atlético de Madrid recibe a Barcelona por la Liga de España",
+     "resumen": "El equipo Colchonero no contará con Cuti Romero, lesionado, pero sí con Julián Álvarez, que se reencuentra con un club al que había sonado como posible fichaje, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/atletico-madrid-vs-barcelona-vivo-hora-formaciones-ver-partido-liga-espana_0_rTskUYmp76.html",
+     "imagen": "https://www.clarin.com/img/2026/11/08/IlKpBud3Z_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Atlético de Madrid vs Barcelona, EN VIVO: a qué hora es, formaciones y cómo ver el partido por la Liga de España"
+    },
+    {
+     "id": "LN-04",
+     "titulo": "Quedó definida la tabla de posiciones tras la fecha 16 del Torneo Clausura",
+     "resumen": "Con el empate de Instituto y Newell's y el triunfo de Boca sobre Defensa y Justicia, quedaron confirmados los 16 equipos que avanzan a octavos de final del Torneo Clausura 2026. Instituto terminó primero en el Grupo A con 34 puntos, uno más que Boca, que se quedó con el título de la Tabla Anual.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedaron-las-tablas-de-posiciones-del-torneo-clausura-2026-tras-la-fecha-16-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WVEI5FHV7VBBFFZ2KJ3RO4PRG4.png?auth=3920947615065104b93df606cdbaf86b64f6d6b30a63a00853ea2cb1b1a47838&smart=true&width=698&height=545",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:04",
+     "autor": "",
+     "titulo_original": "Así quedaron las tablas de posiciones del Torneo Clausura 2026, tras la fecha 16"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Federico Coria repasa 16 años de carrera y su nueva faceta en redes",
+     "resumen": "El tenista argentino, que fue Top 50 y jugó Juegos Olímpicos y Copa Davis junto a su hermano Guillermo, contó a Infobae cómo encontró en la creación de contenido una nueva forma de vincularse con el circuito. Entre sus próximos objetivos aparece el sueño de grabar un video junto a Lionel Messi.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/08/federico-coria-intimo-su-ultima-ilusion-en-el-tenis-por-que-le-gano-la-guerra-a-su-cabeza-y-el-sueno-de-una-clase-con-messi/",
+     "imagen": "https://www.infobae.com/resizer/v2/7IDEB7U4JJAZLGEUZIJONKOW5I.jpg?auth=9be096362be8adea2cd68c609e605811235bc954d4a5df27584069d1d751c03c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "Federico Coria, íntimo: su última ilusión en el tenis, por qué le ganó “la guerra a la cabeza” y el sueño de una clase con Messi"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-05",
+     "titulo": "Los feriados por la visita del Papa impulsaron las reservas en la Costa Atlántica",
+     "resumen": "El fin de semana extralargo decretado por el Gobierno no logró el impacto esperado en la ocupación hotelera de Buenos Aires, Córdoba y Luján, las sedes de la gira papal. En cambio, El Cronista señala que la Costa Atlántica captó una demanda inédita respecto de 2026, con miles de argentinos que aprovecharon los tres días no laborables para viajar a destinos turísticos del país.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-visita-de-leon-xiv-no-cumple-con-la-expectativa-hotelera-pero-los-feriados-bendicen-a-la-costa/",
+     "imagen": "https://www.cronista.com/resizer/v2/H2JE6KIFEVDR3P3WY24XZ67C5A.jpg?auth=cb237c847d2053469bea64d8b3b19b6e4df327b8d69611427d669ef60863916d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:20",
+     "autor": "Joaquin Escolar",
+     "titulo_original": "La visita de León XIV no cumple con la expectativa hotelera en las sedes, pero los feriados bendicen a la Costa"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-25",
+     "titulo": "La historia del Monumento de los Españoles, escenario de la vigilia con el Papa",
+     "resumen": "El monumento, donado por la colectividad española en 1910 para el Centenario, tardó casi veinte años en construirse e inaugurarse, y fue escenario de misas y celebraciones multitudinarias a lo largo del siglo veinte. Infobae recuerda su historia a días de que reciba la vigilia con jóvenes que encabezará León XIV el martes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/08/la-historia-del-monumento-a-los-espanoles-su-verdadero-nombre-lo-que-se-demoro-en-levantarlo-y-el-recuerdo-de-dos-pontifices/",
+     "imagen": "https://www.infobae.com/resizer/v2/4UTLEFBMHFDD3IZTRQISU2KCCE.jpg?auth=83f61468fab7e53b608aca9847dc28e5f59a949274bcbe8458fc717a428488ba&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "08:36",
+     "autor": "Adrián Pignatelli",
+     "titulo_original": "La historia del Monumento de los Españoles: su verdadero nombre, lo que se demoró en levantarlo y el recuerdo de dos Pontífices"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Alerta por tormentas fuertes en el centro y este del país por el fenómeno del Niño",
+     "resumen": "El Servicio Meteorológico Nacional anticipó tormentas fuertes a muy fuertes en el centro-este argentino para este 8 de noviembre, en el marco del fenómeno conocido como Súper Niño 2026, y varias provincias se encuentran en alerta, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-tormentas-fuertes-provincias-alerta-8-noviembre_0_c7utru9xEv.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/89nd0buB5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: dónde habrá tormentas fuertes y qué provincias están en alerta este 8 de noviembre"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del domingo 8 de noviembre.\n\nEl papa León XIV aterriza esta tarde en la Argentina para dar inicio a una gira de cuatro días, mientras el Gobierno enfrenta un cuadro financiero cada vez más exigente y el consumo pyme sigue sin repuntar. El dólar oficial cerró en mil quinientos setenta pesos, el dólar blue operó en mil quinientos cincuenta y cinco pesos y el oro cotiza en cuatro mil setenta y cinco dólares la onza. El riesgo país se mantiene en novecientos treinta y nueve puntos básicos, por encima de los novecientos que ya preocupan al equipo económico, y la inflación de septiembre fue de uno coma nueve por ciento mensual, con un acumulado interanual de treinta y tres coma cuatro por ciento.\n\nEn política, todo gira hoy en torno a la llegada del papa León XIV, que según La Nación tiene previsto aterrizar a las cuatro y media de la tarde en el Aeroparque Jorge Newbery, donde será recibido por Javier Milei antes de un encuentro en la Casa Rosada. El Pontífice cerró su etapa en Uruguay con una misa en la ciudad de Florida, según Infobae, antes de volar hacia Buenos Aires y continuar luego su gira hacia Perú. El Cronista cuenta que la encíclica Magnifica Humanitas, centrada en la inteligencia artificial, ya está entre los diez libros más vendidos de la semana y que varios de sus planteos contrastan en tiempo real con políticas del Gobierno. Ámbito informa que Karina Milei coordina la logística de toda la visita entre los distintos ministerios, en medio de ciertas tensiones internas en el gabinete. El Cronista también relata que Mauricio y Jorge Macri volvieron a mostrar distancia en una cena empresarial, con un saludo frío y mesas separadas, mientras la vicepresidenta Victoria Villarruel vivió como hincha su debut en la cancha de Rosario Central. El mismo medio sostiene que la estrategia internacional de Javier Milei, con viajes a Estados Unidos, París, Brasil y España en octubre, generó una discusión mayormente negativa en las redes sociales y ya no logra el efecto político que buscaba el Gobierno. Y una encuesta de Management and Fit muestra que apenas el cuarenta y dos coma cuatro por ciento de los argentinos tiene una imagen positiva del Papa, aunque la mayoría no espera que su visita cambie el clima social del país.\n\nEn economía, Clarín advierte que el mercado vuelve a mirar con desconfianza a la Argentina, con los inversores atentos a los dólares que hacen falta para afrontar la deuda de 2027 y a la continuidad del programa económico después de las elecciones. El vicepresidente del Banco Central, Vladimir Werning, señaló en el Foro Abeceb que con el riesgo país por encima de los novecientos puntos básicos, el equipo económico mira con preocupación tres amenazas externas: un shock energético por la guerra y el petróleo, el efecto de la inflación y las tasas internacionales sobre el crecimiento, y los déficits fiscales globales. Para una empresa, este combo externo encarece el financiamiento justo cuando el país necesita renovar deuda. La Confederación Argentina de la Mediana Empresa informó que las ventas minoristas pyme cayeron uno coma seis por ciento interanual en octubre, aunque mejoraron cero coma tres por ciento frente a septiembre, en un consumo concentrado en compras esenciales. Y el último relevamiento de FocusEconomics, que reúne a más de cuarenta bancos y consultoras, proyecta una inflación promedio de veintitrés coma tres por ciento para 2027 y una tasa BADLAR de diecinueve coma sesenta y cuatro por ciento hacia fin de ese año, con el calendario electoral como principal riesgo para ese sendero descendente.\n\nEn negocios, El Cronista detalla que de los quinientos cuarenta y dos millones de dólares que importaron hasta septiembre los proyectos del Régimen de Incentivo para Grandes Inversiones, trescientos sesenta y dos millones de dólares corresponden a rubros donde ya existe producción nacional, lo que limita el derrame de esas inversiones sobre la industria argentina. El consorcio Argentina LNG define este lunes al ganador de una licitación clave de tubos para el gasoducto que llevará gas de Vaca Muerta hasta la costa de Río Negro. iProfesional repasa la historia de Horacio Marín, el ingeniero que soñaba con jugar Wimbledon y hoy lidera la transformación de YPF, y cuenta además cómo los fondos de capital de riesgo, según el empresario Mariano Mayer, apuestan a startups que en el noventa por ciento de los casos no van a prosperar. Y Ámbito estima que la visita papal mueve un negocio de hasta cuatrocientos millones de dólares entre artículos religiosos, hotelería y turismo.\n\nEn consumo y construcción, iProfesional advierte que las condiciones actuales del crédito hipotecario, entre salarios, tasas y requisitos, volvieron casi imposible acceder a la casa propia, algo que repercute de manera directa en la demanda de materiales de construcción. El Cronista cuenta que Bajo Belgrano suma un nuevo edificio de lujo con inversiones por doscientos cuarenta millones de dólares, en una zona que sigue ganando peso en el mercado inmobiliario porteño. Y en el rubro shoppings, iProfesional reporta la apertura de un nuevo centro comercial con cuarenta y dos locales, otro que abrirá cinco tiendas internacionales el mismo día, y una ampliación millonaria en Unicenter, en Martínez, que sumará nuevas marcas y servicios de salud.\n\nEn management y finanzas corporativas, una encuesta del IAE Business School encontró que setenta y uno por ciento de las pymes argentinas tiene dificultades para cubrir puestos, y que incluso cuando consiguen el talento, muchas empresas familiares no logran darle lugar real de decisión. Un estudio sobre diecisiete mil doscientos setenta y siete empleados mostró además que las mujeres llegan con más dificultad a jefaturas y, cuando lo logran, lideran equipos de en promedio trece coma dos personas, frente a las treinta personas que lidera en promedio un jefe varón. Y la especialista en medicina del deporte Sandra Rossi planteó a Infobae un paralelo entre el alto rendimiento deportivo y la gestión de logística y comercio exterior, dos actividades donde entrenar el foco y el manejo del estrés resulta clave para decidir bajo presión.\n\nEn el mundo, la policía polaca confirmó que los tres cuerpos hallados en la vivienda del atacante de Cracovia pertenecían a sus padres y a su hermana, mientras el Gobierno de Polonia calificó el tiroteo, que dejó seis muertos y quince heridos, como un acto de terrorismo. En Paraguay, la Fiscalía estimó en ochocientos nueve millones de dólares el perjuicio del colapso de Ueno Bank, y la Iglesia católica reclamó la urgente devolución del dinero a todos los ahorristas estafados. El ministro de Defensa israelí advirtió que la ofensiva de su país contra Irán todavía no terminó, en momentos en que Estados Unidos crea un nuevo grupo de trabajo para bloquear las rutas terrestres hacia territorio iraní y así frenar el tráfico de armas.\n\nLe Grand Continent analiza la propuesta de un candidato rumano a la Organización Internacional de la Francofonía, que busca convertir el peso de una lengua compartida en una herramienta geopolítica en medio de la crisis del multilateralismo.\n\nEn deportes, La Nación cuenta que, antes de la final, la psicóloga de Leandro Paredes le envió un mensaje que lo ayudó a vivir con otra perspectiva el partido que terminó con Boca campeón del Torneo Anual. Lionel Messi ganó el Botín de Oro de la Major League Soccer por segundo año consecutivo, con veintiséis goles para el Inter Miami, por delante del croata Petar Musa. En tenis, la número uno del mundo, Elena Rybakina, se bajó de las WTA Finals por motivos médicos tras un confuso episodio en una entrevista en vivo, y será reemplazada por la ucraniana Marta Kostyuk. Atlético de Madrid recibe hoy a Barcelona por la Liga española, sin Cuti Romero por lesión pero con Julián Álvarez, y en el Torneo Clausura argentino ya quedó confirmada la tabla que define a los dieciséis equipos clasificados a octavos de final. Y el tenista argentino Federico Coria repasó sus dieciséis años de carrera y contó a Infobae su sueño de grabar un video junto a Lionel Messi.\n\nPara cerrar, una recomendación de viaje: El Cronista cuenta que, aunque los feriados por la visita papal no cumplieron con la expectativa hotelera en Buenos Aires, Córdoba y Luján, la Costa Atlántica sí captó una demanda inédita de argentinos que aprovecharon el fin de semana largo para viajar.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Le Grand Continent volvió a aportar una sola nota en esta ventana horaria; no se detectó caída de fuente. Se omitió la sección de Impuestos, laboral y normativa porque no apareció material nuevo en esta corrida respecto de la edición de la mañana. No hubo novedades sobre Franco Colapinto (la carrera en Brasil larga a las 14 horas, después del cierre de esta ventana) ni sobre Club Atlético Tigre.",
+ "slug": "2026-11-08-mediodia",
+ "generado_ba": "08/11/2026 15:18"
+}
