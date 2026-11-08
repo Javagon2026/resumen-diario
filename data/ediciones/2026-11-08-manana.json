@@ -1,0 +1,792 @@
+{
+ "fecha": "2026-11-08",
+ "edicion": "manana",
+ "titulo": "León XIV llega a la Argentina con el Gobierno bajo presión política y financiera",
+ "apertura": "El papa León XIV aterriza esta tarde en Buenos Aires para una gira de cuatro días, en medio de una semana marcada por la interna entre Patricia Bullrich y Karina Milei, las derrotas electorales de aliados internacionales del Gobierno y una fuerte suba del riesgo país que golpeó a los bonos en dólares. En paralelo, Boca Juniors se consagró campeón de la Tabla Anual, Franco Colapinto correrá este domingo en el Gran Premio de Brasil y el expresidente paraguayo Santiago Peña quedó preso tras el escándalo del Ueno Bank.",
+ "claves": [
+  "El papa León XIV llegó esta tarde a Buenos Aires para una gira de cuatro días por Argentina, con paradas en Córdoba y Luján; el lunes 9 de noviembre es feriado nacional.",
+  "El Gobierno afronta la visita en medio de la interna entre Patricia Bullrich y Karina Milei en el Senado y las derrotas electorales de aliados como Bolsonaro y Trump.",
+  "El riesgo país superó los 900 puntos básicos esta semana y los bonos en dólares cayeron cerca de 20% desde sus máximos; el dólar oficial cerró en 1.570 pesos.",
+  "ARCA suspendió hasta junio de 2027 el inicio de juicios de ejecución fiscal y la traba de embargos para pymes y pequeños contribuyentes.",
+  "Axel Kicillof le pide a la Nación una deuda de 20 billones de pesos para cerrar el Presupuesto bonaerense 2027, que prevé un gasto de 58,6 billones.",
+  "El expresidente paraguayo Santiago Peña quedó imputado y en prisión preventiva tras la caída del Ueno Bank.",
+  "Boca Juniors se consagró campeón de la Tabla Anual con un gol agónico de Enner Valencia sobre Defensa y Justicia.",
+  "Franco Colapinto largará 15° en el Gran Premio de Brasil de Fórmula 1; Lando Norris saldrá desde la pole."
+ ],
+ "cifras": [
+  {
+   "nombre": "Bonos en dólares argentinos",
+   "valor": "-20% desde sus máximos",
+   "fuente": "IB-23"
+  },
+  {
+   "nombre": "Presupuesto bonaerense 2027 (gasto total)",
+   "valor": "$ 58,6 billones",
+   "fuente": "IB-21"
+  },
+  {
+   "nombre": "Logística en la industria láctea",
+   "valor": "30% de los costos productivos",
+   "fuente": "CL-01"
+  },
+  {
+   "nombre": "Hectáreas dañadas por granizo (región núcleo)",
+   "valor": "16.000 ha",
+   "fuente": "LN-23"
+  },
+  {
+   "nombre": "Potencial de minerales críticos en América Latina",
+   "valor": "US$ 185.000 millones",
+   "fuente": "CR-10"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-20",
+     "titulo": "León XIV llega a la Argentina para una gira de cuatro días",
+     "resumen": "El papa León XIV aterriza este domingo a las 16:30 en el Aeroparque Jorge Newbery, procedente de Montevideo, para una visita de cuatro días por Buenos Aires, Córdoba y Luján. Es la primera visita de un pontífice al país en 39 años; Javier Milei lo recibirá en la Casa Rosada y, según Infobae, el Papa llevará una agenda centrada en la pobreza, el desempleo y la inclusión social.",
+     "relacionadas": [
+      {
+       "id": "IB-02",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Papa León XIV en Argentina, en vivo: agenda, misas, cortes de calle y las últimas noticias de hoy, domingo 8 de noviembre",
+       "url": "https://www.infobae.com/sociedad/2026/11/08/papa-leon-xiv-en-argentina-en-vivo-agenda-misas-cortes-de-calle-y-las-ultimas-noticias-de-hoy-domingo-8-de-noviembre/"
+      },
+      {
+       "id": "IB-13",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La agenda del papa León XIV en CABA hoy, 8 de noviembre",
+       "url": "https://www.infobae.com/sociedad/2026/11/08/la-agenda-del-papa-leon-xiv-en-caba-hoy-8-de-noviembre/"
+      },
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La visita del Papa a la Argentina: Gestos y estilo en más de un año de pontificado",
+       "url": "https://www.clarin.com/mundo/visita-papa-argentina-gestos-estilo-ano-pontificado_0_KAWr1RCHL6.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-llega-a-la-argentina-una-visita-historica-que-moviliza-al-pais-nid07112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4TQFXYPKRFAKRHZ25PNYOL5MWY.JPG?auth=6713ca1a7a538aedeb3f88b31c62c32e3c79e599e839bd24dcdafd451858d9b3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:03",
+     "autor": "Mariano De Vedia, Matías Moreno",
+     "titulo_original": "El papa León XIV llega a la Argentina, una visita histórica que moviliza al país"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Los puntos más sensibles de la visita papal para el Gobierno",
+     "resumen": "La Nación señala que la parada del Papa en el Cottolengo Don Orione, dedicado a personas con discapacidad, y sus apariciones en el conurbano son los tramos más delicados de la agenda para la Casa Rosada. También pesa la misa en Luján, donde se espera una presencia mayoritariamente peronista, en un momento de alta exposición pública para el Gobierno.",
+     "relacionadas": [
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei, entre la paz papal y la tormenta política: Patricia Bullrich, Donald Trump y los gobernadores",
+       "url": "https://www.ambito.com/politica/javier-milei-la-paz-papal-y-la-tormenta-patricia-bullrich-donald-trump-y-los-gobernadores-n6342848"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/uno-a-uno-los-puntos-sensibles-de-la-visita-del-papa-para-el-gobierno-de-javier-milei-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3YHWBVANXFFARK6CW4F3WVOTPQ.jpg?auth=4d981140ff581e34fd83768ea066bc9822a52f3a2c02a69a662eadf45dec85a0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:03",
+     "autor": "Paula Rossi",
+     "titulo_original": "Uno a uno, los puntos sensibles de la visita del Papa para el gobierno de Javier Milei"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "Una sucesión de golpes políticos y económicos complica a Milei",
+     "resumen": "Clarín describe cómo se acumulan las dificultades para Javier Milei: a los reclamos por la economía se suman las derrotas electorales de sus aliados internacionales Donald Trump y Jair Bolsonaro, y una creciente tensión con la senadora Patricia Bullrich. El propio pedido del Presidente sobre esa relación está, según el diario, en estudio dentro del Gobierno.",
+     "relacionadas": [
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El abrupto derrumbe del mundo donde Milei era feliz",
+       "url": "https://www.infobae.com/politica/2026/11/08/el-abrupto-derrumbe-del-mundo-donde-milei-era-feliz/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/sucesion-impactos-javier-milei-llegada-papa-leon-xiv-frenan-criticas-ruido-gobierno_0_usw9O9zbFp.html",
+     "imagen": "https://www.clarin.com/img/2026/11/07/XBucXTRRW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sucesión de impactos para Javier Milei: ni la llegada del Papa León XIV frenan las críticas y el ruido en el Gobierno"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "La interna entre Bullrich y Karina Milei inquieta a los aliados del Senado",
+     "resumen": "A tres semanas del cierre de las sesiones ordinarias, la disputa entre la jefa de bloque libertaria Patricia Bullrich y la secretaria general de la Casa Rosada, Karina Milei, atomiza la agenda legislativa, según Infobae. Senadores dialoguistas reclaman que el Gobierno cumpla compromisos previos a firmar dictámenes, por lo que varios temas no llegarán a discutirse este año.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Congreso: se viene otra semana de parálisis, pero con nuevo capítulo de la interna libertaria en puerta",
+       "url": "https://www.ambito.com/politica/congreso-se-viene-otra-semana-paralisis-pero-nuevo-capitulo-la-interna-libertaria-puerta-n6342433"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/08/la-interna-entre-bullrich-y-el-gobierno-preocupa-a-los-aliados-del-senado-de-cara-al-fin-del-periodo-ordinario/",
+     "imagen": "https://www.infobae.com/resizer/v2/GLC5TMRXSJFSVAEZ4X42J4BBE4.jpg?auth=98454b18da52f2bce038898fd15075e75baeecd10f3a5aa8a5a152c212835354&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:00",
+     "autor": "Mariano Casal",
+     "titulo_original": "La interna entre Bullrich y el Gobierno preocupa a los aliados del Senado de cara al fin del período ordinario"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Los aumentos de tarifas eléctricas tensan a Kicillof con La Cámpora",
+     "resumen": "La resolución 585/2026 del Ministerio de Infraestructura bonaerense aprobó nuevos cuadros tarifarios de electricidad según categoría de consumo y distribuidora. La Cámpora respalda un pedido de medida cautelar del defensor del Pueblo bonaerense, Guido Lorenzino, para frenar la suba, lo que expone diferencias internas en el espacio que conduce Axel Kicillof.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/los-aumentos-en-las-tarifas-electricas-bonaerenses-alimentan-la-tension-entre-kicillof-y-la-campora-nid07112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GLTGCPBPYBDTJJGA7WY57GTJNM.jpg?auth=903944dca2eacb8ad3fb10d3c71bdfff87f216d14e5fc6b59b983548a8dbf95c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:21",
+     "autor": "Manuel Casado",
+     "titulo_original": "Los aumentos en las tarifas eléctricas bonaerenses alimentan la tensión entre Kicillof y La Cámpora"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "La mayoría acompaña las reformas pero pide una señal en el bolsillo",
+     "resumen": "Un relevamiento de DC Consultores, citado por El Cronista, muestra que la sociedad sostiene en general el rumbo de las reformas del Gobierno, pero exige un resultado concreto en los ingresos para los próximos seis meses. El sondeo se da en paralelo al impulso oficial para eliminar las PASO antes de las presidenciales de 2027.",
+     "relacionadas": [
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Midieron a Milei, Kicillof y Bullrich en el Conurbano y uno arrasa en el mapa electoral de 2027",
+       "url": "https://www.cronista.com/economia-politica/midieron-a-milei-kicillof-y-bullrich-en-el-conurbano-y-uno-arrasa-en-el-mapa-electoral-de-2027/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/el-dilema-de-milei-el-68-respalda-el-rumbo-pero-exige-un-cambio-inmediato-que-se-sienta-en-el-bolsillo/",
+     "imagen": "https://www.cronista.com/resizer/v2/3OVNX4E6S5FLPKGORF2AR2P3CE.jpg?auth=3a26af17862585c1eb4f8bde7801c4363d1bda3f507349e7b690311fdfc60add&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:07",
+     "autor": "Nacho Barrios",
+     "titulo_original": "El límite del respaldo a Milei: la mayoría acompaña las reformas, pero reclama una señal concreta en el bolsillo"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "El Gobierno busca contener la suba del riesgo país",
+     "resumen": "El riesgo país superó los 900 puntos básicos esta semana y los bonos en dólares argentinos cayeron alrededor de 20% desde sus máximos, según Infobae. El mercado también redujo las chances implícitas de reelección de Javier Milei a partir de los precios de los activos. Para una empresa: un riesgo país más alto encarece el financiamiento en dólares y presiona sobre el tipo de cambio.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/08/el-gobierno-busca-encapsular-la-suba-del-riesgo-pais-para-evitar-un-impacto-en-el-dolar-y-la-actividad/",
+     "imagen": "https://www.infobae.com/resizer/v2/LYVOOHMWPVBAXMKUA6BKOIS4GU.png?auth=159693c074dd14fb41c1f14f88693f66ccbfa0cfddf9af4e8cb86bd598c31c95&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:51",
+     "autor": "Pablo Wende",
+     "titulo_original": "El Gobierno busca encapsular la suba del riesgo país para evitar un impacto en el dólar y la actividad"
+    },
+    {
+     "id": "AM-05",
+     "titulo": "Para el economista Martín Polo, pedir ayuda a Estados Unidos sería lo peor para 2027",
+     "resumen": "El economista advirtió en Ámbito que recurrir a la asistencia de Estados Unidos sería el escenario más negativo para la Argentina el año próximo, en un contexto de actividad estancada e inflación que no cede. También analizó la suba del riesgo país y el rol de las reservas del Banco Central de cara a las elecciones presidenciales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/martin-polo-lo-peor-que-le-podria-pasar-la-argentina-2027-es-acudir-la-ayuda-eeuu-n6342805",
+     "imagen": "https://media.ambito.com/p/d1484a61ec024716f554823265211bb1/adjuntos/239/imagenes/043/754/0043754272/1200x675/smart/martin-polo.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Martín Polo: “Lo peor que le podría pasar a la Argentina en 2027 es acudir a la ayuda de EEUU”"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Los analistas ven al dólar acercándose a los 2.000 pesos",
+     "resumen": "El Relevamiento de Expectativas de Mercado del Banco Central, citado por El Cronista, proyecta que el ritmo de depreciación del tipo de cambio continuará en los próximos meses. Más de 40 consultoras y entidades financieras participan del sondeo oficial que traza el sendero esperado para la divisa.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-dolar-rumbo-a-2000-cuando-lo-espera-el-mercado-y-que-dicen-los-analistas-locales-y-wall-street/",
+     "imagen": "https://www.cronista.com/resizer/v2/PCQMMEZSANBMBNPHQ6BEFIPNAI.jpg?auth=19618b607faf6b61176ce2db202086a5774786b09e27c288db322acb5fb72160&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:49",
+     "autor": "Fernando Garcia",
+     "titulo_original": "El dólar rumbo a $ 2000: cuándo lo espera el mercado y qué dicen los analistas locales y Wall Street"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Kicillof le pide a Milei una deuda de 20 billones de pesos para el Presupuesto 2027",
+     "resumen": "El proyecto de Presupuesto bonaerense 2027 prevé un gasto total de 58,6 billones de pesos y un endeudamiento de 1.000 millones de dólares, más otros 500 millones en Letras. El ministro de Economía provincial, Pablo López, reclamó a la Nación que cubra deudas pendientes con la provincia. Para una empresa: el nivel de gasto y endeudamiento provincial incide en la presión tributaria futura sobre las firmas radicadas en Buenos Aires.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/08/kicillof-quiere-aprobar-su-ultimo-presupuesto-como-gobernador-y-le-exige-a-milei-una-deuda-de-20-billones/",
+     "imagen": "https://www.infobae.com/resizer/v2/EURI5PY56JBHJO74PFV4LNRUFI.jpg?auth=2198177390778a8380a66bbd35c0107a3b7c4f2bace787feeeb54002e9959071&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:00",
+     "autor": "Facundo Cottet",
+     "titulo_original": "Kicillof quiere aprobar su último Presupuesto como gobernador y le exige a Milei una deuda de $20 billones"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "Hacia 2040, Argentina tendrá más adultos mayores que niños",
+     "resumen": "Los nacimientos cayeron 47% en una década y, según Ámbito, para 2040 habrá más personas de 65 años o más que menores de 15. El cambio demográfico impactará sobre el sistema jubilatorio, el mercado laboral y las decisiones de inversión de largo plazo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/argentina-tendra-mas-adultos-mayores-que-ninos-2040-como-impactara-la-y-las-jubilaciones-n6341616",
+     "imagen": "https://media.ambito.com/p/08edeefeadac577296990ba4af041740/adjuntos/239/imagenes/043/748/0043748422/1200x675/smart/piramide-poblacional-invertida-marcha.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Argentina tendrá más adultos mayores que niños hacia 2040: cómo impactará en la economía y las jubilaciones"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Caputo dijo que Milei es la única garantía de orden económico",
+     "resumen": "El ministro de Economía habló en un evento de la Sociedad Rural Argentina y sostuvo que el Gobierno sacó a 12 millones de personas de la pobreza. El respaldo de Caputo llega en una semana marcada por la suba del riesgo país y las dudas de los inversores sobre el rumbo económico.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/468617-caputo-y-las-elecciones-2027-la-unica-persona-que-garantiza-el-orden-economico-es-milei",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629340.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:40",
+     "autor": "",
+     "titulo_original": "Caputo y las elecciones 2027: \"La única persona que garantiza el orden económico es Milei\""
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-24",
+     "titulo": "Adecoagro y De Narváez lideran una ola de argentinización de negocios",
+     "resumen": "Adecoagro compró casi un millón de hectáreas que tenía el Grupo Benetton en el país desde hacía más de 30 años, mientras que Francisco de Narváez, dueño de la cadena ChangoMás, se quedó con el supermercado español Día. Infobae enmarca ambas operaciones en una tendencia de grupos locales que ganan protagonismo en fusiones y adquisiciones, en un contexto de salida de multinacionales y privatizaciones.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/08/clima-de-negocios-en-medio-del-ruido-financiero-los-empresarios-locales-siguen-de-compras-y-miran-atentos-una-norma-del-gobierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/UJDLWGRIHJEX3CF5LEQRZY3ITY.png?auth=04dedc5c23201f015afe830a67148c2ecbce6c70f29f122bc69343e6108d506c&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:50",
+     "autor": "Sebastián Catalano",
+     "titulo_original": "Clima de Negocios: en medio del ruido financiero, los empresarios locales siguen de compras y miran atentos una norma del Gobierno"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "El Gobierno redefine el cupo de autos híbridos y eléctricos para 2027",
+     "resumen": "El nuevo régimen de importación sin arancel para 2027 establece reglas distintas para fabricantes e importadores, con una porción fija del 10% reservada para Tesla. Según Infobae, el cambio afecta de manera desigual a las automotrices nucleadas en Adefa y a las marcas importadas que dependen más del cupo para sus ventas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/08/habra-menos-autos-chinos-todo-lo-que-hay-que-saber-del-cupo-de-autos-hibridos-y-electricos-de-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/ICTCVOZTCZCXDYY55RWAOYO4UQ.jpg?auth=5e45c95abf8c646a084bd2638083f78d3bc4ded81e32b65e8e834209acb5512c&smart=true&width=800&height=520",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:50",
+     "autor": "Diego Zorrero",
+     "titulo_original": "¿Habrá menos autos chinos?: todo lo que hay que saber del cupo de autos híbridos y eléctricos de 2027"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "América Latina podría captar 185.000 millones de dólares con minerales críticos",
+     "resumen": "Según la Agencia Internacional de la Energía, la región podría generar hasta 185.000 millones de dólares de valor económico a partir de litio y cobre hasta 2035. El Cronista sostiene que la Argentina puede captar una porción relevante de ese negocio si garantiza previsibilidad al sector privado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-mundo-necesita-lo-que-la-argentina-posee/",
+     "imagen": "https://www.cronista.com/resizer/v2/3334C26GFJBILGIE4RGE33AXZI.png?auth=068f4ae65b8bfd33a0cde574e63af5f34b0219aaa367a832e8ec88521c1a4771&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:22",
+     "autor": "Oscar Moscariello",
+     "titulo_original": "El mundo necesita lo que la Argentina posee"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "Un argentino de 26 años creó un comparador de geriátricos online",
+     "resumen": "Guido Marshall retomó un proyecto de su abuelo y desarrolló una plataforma gratuita para comparar precios, fotos y reseñas de residencias para adultos mayores. Según iProfesional, el sitio ya reúne más de 120 residencias.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468120-un-argentino-creo-un-booking-de-geriatricos-para-comparar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/628960.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Un argentino creó un \"Booking de geriátricos\" para comparar precios, fotos y reseñas"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "ARCA suspende embargos y juicios de ejecución fiscal para pymes hasta junio de 2027",
+     "resumen": "La Resolución General 5923/2026 suspendió hasta el 30 de junio de 2027 el inicio de juicios de ejecución fiscal y la traba de embargos para pymes y pequeños contribuyentes. La medida se completó con la Resolución General 5924/2026, que amplió el plan de facilidades de pago a deudas vencidas hasta el 31 de octubre de 2026, en el marco del esquema de alivio anunciado por Luis Caputo en la 32° Conferencia de la UIA. Para una empresa: la suspensión no levanta de forma automática los embargos ya trabados, por lo que conviene revisar cada caso puntual.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/embargos-trabados-que-debe-hacer-un-pyme-que-tiene-uno-y-lo-considera-indebido/",
+     "imagen": "https://www.cronista.com/resizer/v2/GP6SOURZPVCSVF3DKLVBVI4KUE.jpg?auth=fdc5c0c9622ac0d5f44353656222d9bcde2b87de5d1183a0b1145e068963d8ae&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:12",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Embargos trabados: qué debe hacer una pyme que tiene uno y lo considera indebido"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "Once claves de la nueva reglamentación del régimen simplificado de Ganancias",
+     "resumen": "Clarín detalla los puntos principales de la nueva normativa que regula el régimen simplificado del impuesto a las Ganancias. La nota ordena los cambios operativos que deben conocer los contribuyentes alcanzados por la reglamentación.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/11-claves-nueva-reglamentacion-regimen-simplificado-ganancias_0_LkQSkZF2jz.html",
+     "imagen": "https://www.clarin.com/img/2026/09/24/cxVDrb3_x_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "11 claves de la nueva reglamentación del régimen simplificado de ganancias"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "Cómo se calcula el aguinaldo de diciembre",
+     "resumen": "El sueldo anual complementario del segundo semestre se calcula sobre el mejor sueldo del período que termina en diciembre. iProfesional recuerda la fecha límite de pago que deben respetar los empleadores. Para una empresa: es un desembolso a presupuestar con anticipación en la caja de fin de año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468369-aguinaldo-de-diciembre-cuanto-se-cobra-segun-el-sueldo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614830.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:25",
+     "autor": "",
+     "titulo_original": "Aguinaldo de diciembre: cuánto se cobra según el sueldo"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "El lunes 9 de noviembre es feriado nacional por la visita del Papa",
+     "resumen": "El Gobierno decretó feriado nacional el lunes 9 de noviembre por la llegada del papa León XIV, con alcance a todos los habitantes del país. La Ley de Contrato de Trabajo, en su artículo 181, establece que en los feriados nacionales rigen las normas del descanso dominical. A esto se suman asuetos el martes 10 en Córdoba y la Ciudad de Buenos Aires, y el miércoles 11 en la provincia de Buenos Aires. Para una empresa: son hasta tres jornadas con régimen especial de asistencia y pago que conviene planificar con recursos humanos.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Feriados por la visita del papa León XIV: uno por uno, estos son los días de noviembre afectados",
+       "url": "https://www.lanacion.com.ar/sociedad/feriados-por-la-visita-del-papa-leon-xiv-uno-por-uno-estos-son-los-dias-de-noviembre-afectados-nid05112026/"
+      },
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Confirmación oficial: el próximo fin de semana es largo con un feriado nacional",
+       "url": "https://www.lanacion.com.ar/sociedad/confirmacion-oficial-el-proximo-fin-de-semana-es-largo-con-un-feriado-nacional-nid04112026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/es-feriado-manana-lunes-9-de-noviembre-en-la-argentina-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5LYBC3WHGBDDJG4EUZVBGYXQ5Y.JPG?auth=fa51004fbde60afe552858020dc0ad3456ad080474f610553451f89a09846e55&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:08",
+     "autor": "",
+     "titulo_original": "¿Es feriado mañana, lunes 9 de noviembre, en la Argentina?"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "Departamento para alquilar o acciones: qué rinde más como inversión",
+     "resumen": "El Cronista compara la renta de un departamento de dos ambientes de unos 50 metros cuadrados con la inversión en el índice Standard and Poor's 500. La nota advierte que mirar solo la renta bruta, de alrededor de 5,7%, puede llevar a conclusiones equivocadas, ya que un inmueble ofrece menor volatilidad pero también costos y liquidez distintos a los de un activo financiero.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/sp-500-vs-inversion-en-ladrillos-en-cual-conviene-meterse-y-cual-le-gana-por-goleada-a-la-otra/",
+     "imagen": "https://www.cronista.com/resizer/v2/B6JRZINZVFCFFCLFYVQYYOXRIA.png?auth=e82a6ca0c3ca57ece25fd1800c8e8ef7d97c2b821362c30eaa36071256c1d3b4&smart=true&width=900&height=454",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "S&P 500 vs. “inversión en ladrillos”: en cual conviene meterse y cuál le gana por goleada a la otra"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Reabre el histórico shopping outlet Showcenter de Haedo",
+     "resumen": "El centro comercial de Haedo vuelve a recibir visitantes con marcas reconocidas, gastronomía y entretenimiento, según iProfesional. Se suma a la oferta de outlets del conurbano bonaerense.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468558-cuando-abre-el-nuevo-shopping-outlet-de-buenos-aires",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619975.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:25",
+     "autor": "",
+     "titulo_original": "Cuándo abre el nuevo shopping outlet de Buenos Aires"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Jubilados pueden ahorrar hasta 35% en supermercados en noviembre",
+     "resumen": "ANSES y distintos bancos ofrecen descuentos y reintegros para jubilados durante noviembre. iProfesional detalla qué cadenas de supermercados participan de los beneficios.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468611-jubilados-como-ahorrar-hasta-35-en-supermercados-en-noviembre",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/604691.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:25",
+     "autor": "",
+     "titulo_original": "Jubilados: cómo ahorrar hasta 35% en supermercados en noviembre"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Crece en Argentina el negocio de la ropa vintage y por kilo",
+     "resumen": "Tres empresas consultadas por Ámbito revelan cuánto cuesta renovar el guardarropa a través de reventa y ropa por kilo, desde carteras de lujo hasta prendas de uso diario. El sector describe un interés creciente de los consumidores por la ropa usada.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/de-las-carteras-louis-vuitton-la-ropa-kilo-como-funciona-el-negocio-vintage-argentina-n6340598",
+     "imagen": "https://media.ambito.com/p/72f0160764e17dceff6282f35fab1a03/adjuntos/239/imagenes/043/743/0043743650/1200x675/smart/imagen_vintage_2x.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "De las carteras Louis Vuitton a la ropa por kilo: cómo funciona el negocio vintage en Argentina"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Las pymes argentinas enfrentan un triángulo de las Bermudas en 2026",
+     "resumen": "Ámbito identifica tres grandes amenazas que atraviesan a las pequeñas y medianas empresas este año y sostiene que la eficiencia se volvió la clave central para sobrevivir al escenario actual. Para una empresa: el diagnóstico refuerza la necesidad de revisar costos fijos y productividad antes de fin de año.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/opiniones/el-triangulo-las-bermudas-las-pymes-argentinas-2026-n6342603",
+     "imagen": "https://media.ambito.com/p/623e47ba765c11a74b1bd36bcf5f35ed/adjuntos/239/imagenes/043/752/0043752607/1200x675/685x441:705x461/barco-pymes-undiendose.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "El \"Triángulo de las Bermudas\" de las pymes argentinas en 2026"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-08",
+     "titulo": "Una ola de ciberataques paraliza a Europa y pone la mira en Rusia",
+     "resumen": "Falsas amenazas de bomba, vuelos desviados y sabotajes a infraestructuras críticas generaron caos en al menos 14 países europeos, según La Nación. Los servicios de inteligencia investigan si se trata de una campaña de guerra híbrida, con sospechas que apuntan hacia Rusia; entre los hechos figuran cámaras frigoríficas de supermercados franceses saboteadas a distancia.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-inquietante-ola-de-ciberataques-que-paraliza-a-europa-y-pone-a-rusia-en-el-centro-de-las-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NRQ57X7VQJGBLB23WYXTQXI7R4.JPG?auth=44581a64adcc30c741bc9f32fb0011d6c21ebce7e70a9e24c4eba12c6dd0e55f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:00",
+     "autor": "Luisa Corradini",
+     "titulo_original": "La inquietante ola de ciberataques que paraliza a Europa y pone a Rusia en el centro de las sospechas"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "El expresidente paraguayo Santiago Peña quedó imputado y preso",
+     "resumen": "Peña fue imputado por lesión de confianza y administración en provecho propio tras la caída del Ueno Bank, y un juez ordenó su prisión preventiva en el Regimiento Escolta Presidencial. La Nación relata que el expresidente fue detenido entre insultos de una multitud que reclamaba enviarlo a una cárcel común.",
+     "relacionadas": [
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Peña detenido y custodiado por su propia guardia, con la cárcel de Tacumbú en el horizonte",
+       "url": "https://www.lanacion.com.ar/el-mundo/pena-detenido-y-custodiado-por-su-propia-guardia-con-la-carcel-de-tacumbu-en-el-horizonte-nid07112026/"
+      },
+      {
+       "id": "LN-10",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Cartes, el titiritero del poder guaraní que disputaba la sucesión con Peña",
+       "url": "https://www.lanacion.com.ar/el-mundo/cartes-el-titiritero-del-poder-guarani-que-disputaba-la-sucesion-con-pena-nid08112026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/el-expresidente-santiago-pena-declara-en-la-fiscalia-por-el-colapso-de-ueno-bank-nid07112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/U4E3LOWL2RAXLNXXHZVWFPVBLY.jpeg?auth=02b406a2a6b047ec96e32c413a7bcc7aa621bce2fa1ccc8b0450e42eb0996ae5&smart=true&width=900&height=583",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:23",
+     "autor": "Diego Cabot",
+     "titulo_original": "El expresidente Santiago Peña fue imputado por “lesión de confianza” y “administración en provecho propio”"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Estados Unidos inutilizó un buque por violar el bloqueo contra Irán",
+     "resumen": "El Comando Central estadounidense atacó con munición de precisión al buque comercial M/V Huda, con bandera de San Cristóbal y Nieves, en el golfo de Omán. Según Infobae, la tripulación ignoró advertencias reiteradas tras hacer escala en un puerto iraní.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/08/estados-unidos-inutilizo-un-buque-comercial-por-violar-el-bloqueo-contra-iran-en-plena-tension-regional/",
+     "imagen": "https://www.infobae.com/resizer/v2/25ICFECYQJHVTNEE3NMIGVEYQ4.jpg?auth=bec0c7a25194d86a1a035c63b7f24b37e84d0580ea43e80df5574a346070b10a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:24",
+     "autor": "",
+     "titulo_original": "Estados Unidos inutilizó un buque comercial por violar el bloqueo contra Irán"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Designan a Gadi Eisenkot para formar nuevo gobierno en Israel",
+     "resumen": "El presidente israelí, Isaac Herzog, encargó al líder opositor Gadi Eisenkot formar gobierno tras superar al primer ministro Benjamin Netanyahu en las recomendaciones surgidas de las elecciones del 27 de octubre. Eisenkot llamó a crear un gobierno nacional de emergencia y tendrá 28 días para negociar una coalición.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Se va Benjamín Netanyahu: designan al líder opositor de Israel para formar nuevo gobierno",
+       "url": "https://www.ambito.com/mundo/adios-benjamin-netanyahu-designan-al-lider-opositor-israel-formar-nuevo-gobierno-n6342865"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/11/08/a-horas-de-su-designacion-gadi-eisenkot-llamo-a-formar-un-gobierno-nacional-de-emergencia-para-israel/",
+     "imagen": "https://www.infobae.com/resizer/v2/YQSPSB3R4RBKTERLKXCGQH36QM.JPG?auth=fc5079af4ad39c12e6572263b34b7089c8b242dbbe3f1b6c495cd5cd1d25424a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:40",
+     "autor": "",
+     "titulo_original": "A horas de su designación, Gadi Eisenkot llamó a formar un “gobierno nacional de emergencia” para Israel"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Trece muertos en un choque múltiple en Chile",
+     "resumen": "Un camión, un micro y un auto colisionaron en la llamada Ruta de la Fruta, en la comuna de Santo Domingo, región de Valparaíso. El accidente dejó 13 muertos y 15 heridos, entre ellos dos menores de edad, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/tragico-accidente-multiple-chile-chocaron-camion-micro-auto-13-muertos-15-heridos_0_RQzyfrfySS.html",
+     "imagen": "https://www.clarin.com/img/2026/11/08/YrcYovJYM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Trágico accidente múltiple en Chile: chocaron un camión, un micro y un auto, hay 13 muertos y 15 heridos"
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Un tiroteo en Polonia terminó con al menos seis muertos",
+     "resumen": "Infobae informó que un atacante de 24 años mató a seis personas y que la policía encontró otros tres cadáveres en su casa al intentar detenerlo, resultando herido. Clarín, en cambio, centró su cobertura en Cracovia y relató que un agente policial recibió tres balazos durante el operativo para reducir al agresor; ambos medios podrían estar describiendo distintos momentos de un mismo episodio confuso.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tiroteo en Cracovia: la rápida reacción policial que permitió detener al agresor armado y el impactante video del agente herido",
+       "url": "https://www.clarin.com/mundo/tiroteo-cracovia-rapida-reaccion-policial-permitio-detener-agresor-armado-impactante-video-agente-herido_0_lpO7rrSuYP.html"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/468618-conmocion-en-polonia-un-atacante-asesino-a-seis-personas-en-un-tiroteo-en-la-plaza-mayor",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629341.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:42",
+     "autor": "",
+     "titulo_original": "Conmoción en Polonia: un atacante asesinó a seis personas en un tiroteo en la plaza mayor"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Las bajas en Ucrania ya golpean los presupuestos regionales de Rusia",
+     "resumen": "Le Grand Continent detalla que al menos diez regiones rusas redujeron, aplazaron o suprimieron este año la indemnización a familias de soldados caídos en el frente. En Belgorod, el pago bajó de unos 33.000 euros a 11.000 euros, según el economista Janis Kluge, lo que revela el costo fiscal creciente de la guerra para las administraciones locales.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/08/economia-rusa-perdidas-elevadas-en-ucrania-lastran-presupuesto/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "Economía rusa: las elevadas pérdidas en Ucrania lastran el presupuesto del Estado y de las regiones"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "La revista advierte señales de QAnon en la nueva Casa Blanca",
+     "resumen": "Le Grand Continent analiza mensajes de funcionarios del Gobierno de Donald Trump, como el secretario de Guerra Pete Hegseth, que varios especialistas interpretan como códigos del movimiento conspirativo QAnon. La publicación vincula esas señales con el reciente nombramiento de Stephen Miller como jefe de gabinete de la Casa Blanca.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/07/administracion-trump-reactiva-redes-conspiracionistas-6-enero/",
+     "imagen": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f64f.png",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "18:19",
+     "autor": "Ramona Bloj",
+     "titulo_original": "¿Está la administración Trump reactivando las redes conspiracionistas del 6 de enero?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-19",
+     "titulo": "Boca Juniors se consagró campeón de la Tabla Anual",
+     "resumen": "El equipo venció 1 a 0 a Defensa y Justicia con un gol de Enner Valencia en el minuto 50 del segundo tiempo y quedó por encima de Argentinos Juniors y Rosario Central en la Tabla Anual de la Liga Profesional. Rosario Central, que le había ganado 2 a 0 a Estudiantes de Río Cuarto, llegó a festejar por una confusión en las tribunas antes de conocerse el resultado final de Boca.",
+     "relacionadas": [
+      {
+       "id": "LN-17",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Los jugadores de Boca mojaron a Arruabarrena mientras hacía la conferencia de prensa",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/los-jugadores-de-boca-mojaron-a-arruabarrena-mientras-hacia-la-conferencia-de-prensa-nid07112026/"
+      },
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Central ganó y el Gigante era una fiesta, pero el gol agónico de Boca llenó de confusión a su gente: terminó segundo",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/rosario-central/central-gano-y-rosario-era-una-fiesta-pero-el-gol-agonico-de-boca-lleno-de-confusion-a-su-gente-nid07112026/"
+      },
+      {
+       "id": "LN-15",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La insólita invasión de los hinchas de Rosario Central por un título que no fue",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/la-insolita-invasion-de-los-hinchas-de-rosario-central-por-un-titulo-que-no-fue-nid07112026/"
+      },
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Boca y la costumbre de sufrir: las últimas tres vueltas olímpicas se definieron con el corazón en la Bombonera y los ojos en otra cancha",
+       "url": "https://www.clarin.com/deportes/boca-costumbre-sufrir-ultimas-vueltas-olimpicas-definieron-corazon-bombonera-ojos-cancha_0_QQW8fKNvw9.html"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/en-la-ultima-fecha-boca-argentinos-juniors-y-rosario-central-se-disputan-la-copa-la-liga-n6342830",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:37",
+     "autor": "",
+     "titulo_original": "Boca Juniors quedó por encima de Argentinos Juniors y Rosario Central y es el campeón de la Tabla Anual"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Colapinto largará 15° en el Gran Premio de Brasil",
+     "resumen": "El piloto argentino tuvo una clasificación complicada bajo la lluvia en Interlagos y ganó un par de posiciones hasta ubicarse 15° en la grilla. Lando Norris saldrá desde la pole, mientras que Max Verstappen y Lewis Hamilton largarán desde el fondo.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Franco Colapinto largará desde el puesto 15 el Gran Premio de Brasil de la Fórmula 1: todo lo que hay que saber",
+       "url": "https://www.infobae.com/deportes/2026/11/08/franco-colapinto-largara-desde-el-puesto-15-el-gran-premio-de-brasil-de-la-formula-1-todo-lo-que-hay-que-saber/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/f1-gp-brasil-franco-colapinto-vivo-horario-carrera-interlagos-ver-formula-1-hoy_0_uQvR7yNPG4.html",
+     "imagen": "https://www.clarin.com/img/2026/11/08/fw5uf_KEo_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de Brasil con Franco Colapinto, EN VIVO: horario de la carrera en Interlagos y cómo ver la Fórmula 1 hoy"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Cesc Fábregas revoluciona al Como y potencia a Nico Paz",
+     "resumen": "El técnico español transformó a un equipo de la Serie B italiana en protagonista de la Champions League con una propuesta ofensiva. Formado en la cantera del Barcelona, combina enseñanzas de Arsène Wenger y Pep Guardiola y envía informes tácticos a los dueños del club antes y después de cada partido.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/cesc-fabregas-tecnico-revoluciono-amigo-messi-potencia-nico-paz-ensena-futbol-duenos-club_0_CMsfBIOvqO.html",
+     "imagen": "https://www.clarin.com/img/2026/08/31/OoawGSahJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cesc Fábregas, el técnico que revolucionó al Como: el amigo de Messi que potencia a Nico Paz y les enseña fútbol hasta a los dueños del club"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Instituto y Newell's empataron 2 a 2 y los dos clasificaron a playoffs",
+     "resumen": "En la última fecha de la fase regular del Torneo Clausura, Instituto de Córdoba igualó 2 a 2 con Newell's gracias a un gol de Matías Tissera en el último minuto. Ambos equipos se clasificaron a los playoffs tras el encuentro disputado en el estadio Monumental de Córdoba.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/07/instituto-recibira-a-newells-en-cordoba-por-la-fecha-16-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
+     "imagen": "https://www.infobae.com/resizer/v2/IPKMJVQGBZC43BK3FG6R3X77YY.JPG?auth=e56b74841f28e67697ad137c0496c049d13a289e3ed7c0900d22f5ce7e3c182f&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:08",
+     "autor": "",
+     "titulo_original": "Instituto y Newell’s empataron 2-2 en Córdoba por la última fecha de la fase regular del Torneo Clausura"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Qué pasaba en el deporte argentino en las visitas papales anteriores",
+     "resumen": "Infobae repasa el contexto deportivo de las dos visitas previas de un papa a la Argentina, protagonizadas por Juan Pablo II en 1982 y 1987: el debut argentino en el Mundial de ese año y la consagración de Rosario Central como campeón, entre otros hitos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/08/el-debut-en-el-mundial-82-un-gran-vilas-y-rosario-central-campeon-que-pasaba-en-el-deporte-argentino-en-las-otras-visitas-papales/",
+     "imagen": "https://www.infobae.com/resizer/v2/TQLJPOADNNHZHFLKTZIFGM6BLI.jpg?auth=4f6f44d8902e1e3e714421f86dbc8748cf2eca58382641278ac9ccc2e115efad&smart=true&width=900&height=598",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:31",
+     "autor": "Eduardo Bolaños",
+     "titulo_original": "El debut en el Mundial ‘82, un gran Vilas y Rosario Central campeón: qué pasaba en el deporte argentino en las otras visitas papales"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "El tenis es la pasión deportiva del papa León XIV",
+     "resumen": "Robert Prevost jugó béisbol y fútbol americano de joven en Chicago y, ya como cardenal, practicaba tenis en la Curia Generalicia de la Orden de San Agustín en Roma. Según Infobae, también jugó al fútbol con sacerdotes y seminaristas durante su misión en Perú.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/08/tengo-muchas-ganas-de-volver-a-la-pista-el-deporte-que-apasiona-al-papa-leon-xiv-y-el-debate-alrededor-de-que-club-es-hincha/",
+     "imagen": "https://www.infobae.com/resizer/v2/XPFXFSX4MFFW7DEI4ONQYU3URU.com?auth=c97d5d0ce4ffbba41b608aa5f52ac82f7aef1f637d774dd1b536a6e67f97f72f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:30",
+     "autor": "",
+     "titulo_original": "“Tengo muchas ganas de volver a la pista”: el deporte que apasiona al papa León XIV y el debate alrededor de qué club es hincha"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-22",
+     "titulo": "Un viaje de más de 3.000 kilómetros por la ruta 3, de Buenos Aires al fin del mundo",
+     "resumen": "La ruta recorre cinco provincias argentinas desde la Capital Federal hasta Bahía Lapataia, en Tierra del Fuego, bordeando el océano Atlántico y atravesando reservas naturales y pueblos históricos. Clarín destaca que el recorrido exige cruzar el Estrecho de Magallanes en ferry para completar el trayecto hacia la Patagonia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/gran-viaje-ruta-3-3000-kilometros-buenos-aires-fin-mundo_0_cmui5ekTgu.html",
+     "imagen": "https://www.clarin.com/img/2026/11/02/qOKVqtNfi_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un gran viaje por la ruta 3: más de 3.000 kilómetros de Buenos Aires al fin del mundo"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-13",
+     "titulo": "La agenda del papa León XIV en Buenos Aires para hoy",
+     "resumen": "El Sumo Pontífice aterriza esta tarde en Aeroparque y tendrá sus primeros compromisos con autoridades nacionales antes de iniciar la agenda pastoral. Es el regreso de un pontífice a la Argentina después de 39 años, ya que Juan Pablo II visitó el país por última vez en abril de 1987.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/08/la-agenda-del-papa-leon-xiv-en-caba-hoy-8-de-noviembre/",
+     "imagen": "https://www.infobae.com/resizer/v2/7GGS6O2YXRDOHH7MFFHACENRDI.JPG?auth=c9979d8fb076e60e9c6d316d7718fd80da98da1edb1adb6aee99b71b20ed6769&smart=true&width=800&height=450",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:00",
+     "autor": "Faustino Cuomo",
+     "titulo_original": "La agenda del papa León XIV en CABA hoy, 8 de noviembre"
+    },
+    {
+     "id": "CL-04",
+     "titulo": "El Día de los Afroargentinos recupera una historia poco contada",
+     "resumen": "Clarín repasa las figuras de Remedios del Valle, el sargento Cabral y María Angélica Barreda dentro de la historia afroargentina. Investigaciones y publicaciones recientes reconstruyen la esclavitud, las luchas por la emancipación y el legado cultural africano en el país.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/cultura/dia-afroargentinos-protagonistas-historia-olvidada_0_h0f2jL9uNl.html",
+     "imagen": "https://www.clarin.com/img/2024/02/26/gJJzXHwq4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:09",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Día de los Afroargentinos: protagonistas de una historia olvidada"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del domingo 8 de noviembre.\n\nEl papa León XIV llega hoy a la Argentina para una gira de cuatro días, en medio de una semana de fuerte tensión política y financiera para el Gobierno de Javier Milei. El dólar oficial cerró en mil quinientos setenta pesos, el dólar blue operó en mil quinientos cincuenta y cinco pesos y el oro cotiza en cuatro mil setenta y cinco dólares la onza. El riesgo país se ubica en novecientos treinta y nueve puntos básicos y la inflación de septiembre fue de uno coma nueve por ciento mensual, con un acumulado interanual de treinta y tres coma cuatro por ciento.\n\nEn política, la visita papal se da en un clima complicado para la Casa Rosada. Según La Nación, la llegada del Sumo Pontífice pone en agenda temas incómodos para el Gobierno, como la discapacidad y las apariciones en el conurbano, en una gira que incluirá una misa en Luján donde predominará el peronismo. Clarín describe una sucesión de impactos para Javier Milei, que además de la llegada del Papa enfrenta las derrotas electorales de sus aliados internacionales, Donald Trump y Jair Bolsonaro, y una creciente tensión con la senadora Patricia Bullrich. Infobae informa que esa interna entre Bullrich y la secretaria general de la Casa Rosada, Karina Milei, preocupa a los aliados del Senado a tres semanas del cierre de las sesiones ordinarias, con varios dictámenes que no se van a firmar. En la provincia de Buenos Aires, La Nación cuenta que los aumentos en las tarifas eléctricas tensan la relación entre el gobernador Axel Kicillof y La Cámpora, que respalda un pedido judicial para frenarlos. Y un relevamiento de DC Consultores, citado por El Cronista, muestra que la mayoría de la sociedad acompaña el rumbo de las reformas, pero reclama una señal concreta en el bolsillo para los próximos seis meses.\n\nEn economía, el Gobierno busca, según Infobae, encapsular la suba del riesgo país para que no golpee al dólar ni a la actividad: los bonos en dólares ya cayeron alrededor de veinte por ciento desde sus máximos. El economista Martín Polo advirtió en Ámbito que lo peor que le podría pasar a la Argentina en 2027 sería tener que recurrir a la ayuda de Estados Unidos. El Cronista repasa las proyecciones del Relevamiento de Expectativas de Mercado del Banco Central, que ven al dólar acercándose a los dos mil pesos en los próximos meses. En la provincia, Axel Kicillof busca aprobar su último Presupuesto como gobernador, con un gasto total de cincuenta y ocho billones seiscientos mil millones de pesos, y le reclama a la Nación una deuda de veinte billones de pesos. Ámbito también advierte que, hacia 2040, la Argentina tendrá más adultos mayores que niños, un cambio demográfico que impactará de lleno en las jubilaciones y el mercado laboral. Y el ministro Luis Caputo, en un acto de la Sociedad Rural, remarcó que el Gobierno sacó a doce millones de personas de la pobreza y que él es la única garantía de orden económico.\n\nEn el plano de los negocios, Infobae destaca una ola de argentinización: el grupo Adecoagro compró casi un millón de hectáreas que tenía el grupo Benetton en el país, mientras que Francisco de Narváez, dueño de la cadena ChangoMás, se quedó con el supermercado español Día. El Gobierno además redefinió para 2027 el cupo de autos híbridos y eléctricos sin arancel de importación, con una porción fija del diez por ciento para Tesla. El Cronista sostiene que, según la Agencia Internacional de la Energía, América Latina podría generar hasta ciento ochenta y cinco mil millones de dólares a partir de sus minerales críticos, y que la Argentina está en condiciones de captar una parte importante de ese negocio si garantiza previsibilidad.\n\nEn impuestos y normativa, ARCA suspendió hasta el treinta de junio de 2027 el inicio de juicios de ejecución fiscal y la traba de embargos para pymes y pequeños contribuyentes, una medida que según El Cronista busca aliviar el pago de salarios y de proveedores en las empresas más chicas. Clarín repasa once claves de la nueva reglamentación del régimen simplificado de Ganancias. E iProfesional recuerda cómo se calcula el aguinaldo de diciembre, que toma como base el mejor sueldo del semestre. Además, por la visita papal, el lunes nueve de noviembre será feriado nacional en todo el país, según lo establece la Ley de Contrato de Trabajo, mientras que el martes diez habrá asueto en Córdoba y en la Ciudad de Buenos Aires, y el miércoles once en la provincia de Buenos Aires.\n\nEn consumo y construcción, El Cronista compara la inversión en un departamento para alquilar con el índice Standard and Poor's quinientos, y advierte que mirar solo la renta bruta puede llevar a conclusiones equivocadas sobre cuál conviene más. En Buenos Aires, iProfesional cuenta que el histórico Showcenter de Haedo se prepara para reabrir como shopping outlet, con marcas, gastronomía y entretenimiento, y que distintos bancos y la ANSES ofrecen descuentos de hasta treinta y cinco por ciento en supermercados para jubilados durante noviembre. Ámbito, por su parte, describe cómo crece en el país el negocio de la ropa usada y vintage, y advierte que las pequeñas y medianas empresas argentinas enfrentan en 2026 lo que llama un triángulo de las Bermudas, con la eficiencia como única clave para sobrevivir.\n\nEn el mundo, La Nación reporta una ola de ciberataques que paralizó a varios países europeos, con amenazas de bomba, vuelos desviados y sabotajes a infraestructuras críticas, en lo que las autoridades investigan como una posible campaña de guerra híbrida vinculada a Rusia. En Paraguay, el expresidente Santiago Peña quedó imputado por lesión de confianza y administración en provecho propio tras la caída del banco Ueno, y permanece en prisión preventiva en el Regimiento Escolta Presidencial. Estados Unidos inutilizó un buque comercial que, según el Comando Central, intentaba violar el bloqueo contra Irán. Y en Israel, el líder opositor Gadi Eisenkot recibió el encargo de formar un nuevo gobierno, tras superar al primer ministro Benjamin Netanyahu en las recomendaciones surgidas de las últimas elecciones. En Chile, un choque múltiple en la llamada Ruta de la Fruta dejó trece muertos y quince heridos. Y en Polonia, Infobae informó que un atacante de veinticuatro años mató a seis personas en un tiroteo, mientras que Clarín, con datos algo distintos, relató un confuso enfrentamiento en Cracovia en el que un agente policial resultó herido de gravedad.\n\nLe Grand Continent analiza dos frentes de la geopolítica actual. Por un lado, cómo las elevadas pérdidas humanas de Rusia en la guerra de Ucrania ya impactan en los presupuestos regionales, con al menos diez regiones que redujeron o directamente suspendieron las indemnizaciones a las familias de los soldados caídos. Por otro lado, la revista advierte que el nombramiento de Stephen Miller como jefe de gabinete en la Casa Blanca vino acompañado de mensajes que varios especialistas interpretan como señales codificadas dirigidas al movimiento conspirativo QAnon.\n\nEn deportes, Boca Juniors se consagró campeón de la Tabla Anual con un gol agónico de Enner Valencia sobre Defensa y Justicia, en una definición que generó una insólita invasión de cancha en Rosario, donde los hinchas de Central creyeron por un momento que habían salido campeones. Franco Colapinto largará este domingo quince en el Gran Premio de Brasil de Fórmula uno, después de una clasificación complicada bajo la lluvia; la pole la tiene Lando Norris. En el fútbol italiano, Cesc Fábregas sigue sorprendiendo al frente del Como, el equipo donde juega Nico Paz, con una propuesta ofensiva que lo metió en zona de Champions League. Y en el torneo local, Instituto de Córdoba empató dos a dos con Newell's en la última fecha de la fase regular, resultado que clasificó a ambos a los playoffs.\n\nPara cerrar, una recomendación de viaje bien argentina: Clarín propone recorrer la ruta tres, los más de tres mil kilómetros que unen Buenos Aires con Bahía Lapataia, en Tierra del Fuego, un recorrido que cruza cinco provincias, bordea el Atlántico y exige cruzar en ferry el Estrecho de Magallanes para llegar al fin del mundo.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Le Grand Continent aportó solo dos piezas en esta ventana horaria, por debajo del rango habitual de la sección; no se detectó caída de ninguna fuente. En Deportes no apareció material sobre Club Atlético Tigre en esta corrida.",
+ "slug": "2026-11-08-manana",
+ "generado_ba": "08/11/2026 10:15"
+}
