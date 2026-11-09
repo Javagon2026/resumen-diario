@@ -1,0 +1,842 @@
+{
+ "fecha": "2026-11-09",
+ "edicion": "tarde",
+ "titulo": "Rebote de bonos y acciones argentinas en el segundo día de León XIV",
+ "apertura": "El riesgo país perforó los 900 puntos y las acciones argentinas rebotaron hasta 4% en Wall Street, en una jornada sin operaciones en la plaza local por el feriado y marcada por la segunda jornada de León XIV en el país, con un encuentro en la Universidad Católica Argentina sobre trabajo y economía y una reunión interreligiosa en la Cancillería. En paralelo, el escándalo que salpica al CEO de Nvidia volvió a golpear a la acción en Wall Street y el petróleo cayó a su valor más bajo en dos meses ante la posibilidad de un diálogo entre Estados Unidos e Irán.",
+ "claves": [
+  "El riesgo país perforó los 900 puntos y cerró en 872 puntos básicos, mientras las acciones argentinas rebotaron hasta 4% en Wall Street en una jornada sin operaciones en la plaza local por el feriado.",
+  "El petróleo cayó a su valor más bajo en dos meses ante la expectativa de que Estados Unidos e Irán retomen el diálogo, mientras la producción de la OPEP llegó al 90% del nivel previo a la guerra.",
+  "Las acciones de Nvidia cerraron con una baja de 4,3% en Wall Street, mientras sigue la investigación interna por el vínculo de su CEO con una empresaria china señalada por espionaje.",
+  "León XIV cerró su segundo día en el país con un encuentro en la UCA sobre trabajo y economía, una reunión interreligiosa en la Cancillería y un pedido de reparación a víctimas de abusos del clero.",
+  "Neuquén se convirtió en la primera provincia en confirmar elecciones para 2027: votará gobernador el 14 de febrero.",
+  "El Gobierno acelera en el Congreso antes de las extraordinarias, con el Presupuesto 2027, la reforma de la Carta Orgánica del Banco Central y la suspensión de las PASO como temas pendientes.",
+  "Boca Juniors suma repercusiones tras el título: un gol anulado de Defensa y Justicia y una chicana del cuerpo técnico sobre River.",
+  "Franco Colapinto volvió a terminar 13° en el Gran Premio de Brasil y Alpine fue calificado como uno de los \"perdedores\" del fin de semana en la Fórmula 1."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 94 por barril",
+   "variacion": "mínimo en dos meses",
+   "fuente": "IP-18"
+  },
+  {
+   "nombre": "Producción de petróleo de la OPEP",
+   "valor": "22,87 millones de barriles diarios",
+   "variacion": "+1,38 millones vs. mes anterior",
+   "fuente": "AM-17"
+  },
+  {
+   "nombre": "Inversiones en Vaca Muerta y minería a definirse en 90 días",
+   "valor": "US$ 38.000 millones",
+   "fuente": "CL-25"
+  },
+  {
+   "nombre": "Exportación de cebada y malta de Quilmes en 2025",
+   "valor": "US$ 370 millones",
+   "fuente": "CL-16"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-05",
+     "titulo": "Neuquén será la primera provincia en votar gobernador en 2027",
+     "resumen": "El gobernador de Neuquén, Rolando Figueroa, convocó por decreto a elecciones provinciales y municipales para el 14 de febrero de 2027, lo que confirma a esa provincia como la primera en ir a las urnas el año próximo. El intendente de la capital neuquina, Mariano Gaido, fijó la misma fecha para los comicios municipales.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Neuquén confirmó desdoblamiento y se anticipa el 2027: elegirá gobernador en febrero",
+       "url": "https://www.ambito.com/neuquen-confirmo-desdoblamiento-y-se-anticipa-el-2027-elegira-gobernador-febrero-n6343162"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/neuquen-sera-la-primera-provincia-en-votar-elegira-gobernador-el-14-de-febrero/",
+     "imagen": "https://www.cronista.com/resizer/v2/NVVG2VPQQBGZTKR2XHZIZZOYWI.jpeg?auth=988c44724e1f00272c1454f56c7a512bb3bc1552f2aeed5b997d7afa100f11de&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:29",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Neuquén será la primera provincia en votar: elegirá gobernador el 14 de febrero"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "el Gobierno acelera en el Congreso antes de las extraordinarias",
+     "resumen": "El oficialismo busca avanzar en el Congreso antes del receso, con la mirada puesta en una convocatoria a sesiones extraordinarias. Entre los temas prioritarios figuran el Presupuesto 2027, modificaciones a la Carta Orgánica del Banco Central y la suspensión de las PASO, mientras la Ley Malvinas y la de Inviolabilidad de la Propiedad Privada enfrentan trabas por falta de firmas en comisión.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/gobierno-acelera-congreso-prepara-extraordinarias-proyectos-pendientes_0_yZan9vH5Uk.html",
+     "imagen": "https://www.clarin.com/img/2026/05/20/HcfGMOQTL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:36",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El Gobierno acelera en el Congreso, pero ya se prepara para las extraordinarias: los proyectos pendientes"
+    },
+    {
+     "id": "CL-02",
+     "titulo": "la disputa entre Karina Milei y Bullrich llega al bloque libertario del Senado",
+     "resumen": "La tensión entre Karina Milei y Patricia Bullrich repercute en el bloque libertario del Senado: la hermana del Presidente impulsa a la neuquina Nadia Márquez para ocupar espacios clave en la Cámara alta, mientras la ex ministra resiste el avance.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/tension-karina-milei-patricia-bullrich-impacta-bloque-libertario-senado_0_rFkNHVRGiB.html",
+     "imagen": "https://www.clarin.com/img/2025/11/05/Gn2Uf8x2P_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La tensión entre Karina Milei y Patricia Bullrich ya impacta en el bloque libertario del Senado"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "el intendente de Rafaela debió explicar un video en el que echó a un hombre de una plaza",
+     "resumen": "El intendente de Rafaela, Leonardo Viotti (UCR), debió dar explicaciones después de difundir un video en el que le pidió a un hombre que dormía en una plaza que se retirara del lugar. Pese a las críticas, el funcionario ratificó que seguirá con ese tipo de intervenciones.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-intendente-de-rafaela-se-filmo-echando-a-un-indigente-de-una-plaza-y-tuvo-que-salir-a-dar-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FGBMQ3IXFJE4RAJI5US7HKUWHU.jpg?auth=7ab1fca40b258ed8006ba2ce2ef66462b2f0f371afc35a668cc9d39076982f26&smart=true&width=288&height=201",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:02",
+     "autor": "",
+     "titulo_original": "El intendente de Rafaela se filmó echando a un lavacoches de una plaza y tuvo que salir a dar explicaciones"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Villarruel confirmó que no fue invitada a la misa de León XIV",
+     "resumen": "La vicepresidenta Victoria Villarruel confirmó que no fue invitada a la misa de León XIV en el Monumento de los Españoles y explicó que nunca recibió el código QR para acceder a los controles de seguridad. En su lugar asistió el presidente provisional del Senado, Bartolomé Abdala.",
+     "relacionadas": [
+      {
+       "id": "CR-03",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Victoria Villarruel confirmó que no fue invitada a la misa de León XIV en el Monumento a los Españoles",
+       "url": "https://www.cronista.com/economia-politica/victoria-villarruel-confirmo-que-no-fue-invitada-a-la-misa-de-leon-xiv-en-el-monumento-a-los-espanoles/"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Victoria Villarruel explicó por qué no asistió a la misa del papa León XIV: \"Nunca recibimos el QR\"",
+       "url": "https://www.ambito.com/politica/victoria-villarruel-explico-que-no-asistio-la-misa-del-papa-leon-xiv-nunca-recibimos-el-qr-n6343296"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/victoria-villarruel-confirmo-invitada-misa-papa-compartio-sugestivo-mensaje-visita-cottolengo_0_4Eu1wIB1uV.html",
+     "imagen": "https://www.clarin.com/img/2026/11/09/JKSKSJRh7_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Victoria Villarruel confirmó que no fue invitada a la misa del Papa y compartió un sugestivo mensaje sobre la visita al Cottolengo"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "León XIV pidió en la UCA que el acceso al trabajo sea prioritario",
+     "resumen": "Durante su encuentro con el mundo del trabajo en la Universidad Católica Argentina, León XIV sostuvo que privar a una persona de su empleo \"es herir gravemente su dignidad\" y pidió que el acceso al trabajo sea prioritario en las políticas públicas. El Papa también se refirió a los riesgos de la inteligencia artificial y reivindicó una economía al servicio de las personas, ante empresarios, sindicalistas y movimientos sociales.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "León XIV en la UCA: las frases más fuertes sobre trabajo, economía y dignidad humana",
+       "url": "https://www.ambito.com/informacion-general/leon-xiv-la-uca-las-frases-mas-fuertes-trabajo-economia-y-dignidad-humana-n6343328"
+      },
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "León XIV en la UCA: \"El acceso al trabajo debe ser prioritario en las políticas públicas\"",
+       "url": "https://www.iprofesional.com/politica/468676-el-papa-leon-xiv-en-la-uca-el-trabajo-contribuye-a-construir-la-realidad-social"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "León XIV retomó en la UCA una agenda incómoda para el Gobierno: recordó a Francisco y se refirió a la justicia social, el desempleo y los trabajadores informales",
+       "url": "https://www.ambito.com/politica/leon-xiv-retomo-la-uca-una-agenda-incomoda-el-gobierno-recordo-francisco-y-se-refirio-la-justicia-social-el-desempleo-y-los-trabajadores-informales-n6343323"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/privar-persona-trabajo-herir-gravemente-dignidad-definiciones-leon-xiv-encuentro-trabajadores-empresarios_0_Tfyfb8DstV.html",
+     "imagen": "https://www.clarin.com/img/2026/11/09/RJXpcVfHi_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Privar a una persona de su trabajo es herir gravemente su dignidad\": las definiciones de León XIV durante su encuentro con trabajadores y empresarios"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "sin Villarruel, el resto del arco político acompañó la misa del Papa",
+     "resumen": "Con la ausencia de Victoria Villarruel, el resto del arco político participó de la misa de León XIV en el Monumento de los Españoles: el presidente Javier Milei siguió la ceremonia junto al jefe de gobierno porteño Jorge Macri, mientras el gobernador bonaerense Axel Kicillof encabezó antes la recepción del Papa en el Cottolengo Don Orione, donde le regaló un mate.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El detrás de escena del primer encuentro de León XIV con Kicillof y sus ministros",
+       "url": "https://www.infobae.com/politica/2026/11/09/el-detras-de-escena-del-primer-encuentro-de-leon-xiv-con-kicillof-y-sus-ministros/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/09/sin-la-presencia-de-victoria-villarruel-el-arco-politico-participo-de-la-historica-misa-de-leon-xiv-en-el-monumento-de-los-espanoles/",
+     "imagen": "https://www.infobae.com/resizer/v2/LSOQ7PD46ZH33FD3EAZVNFWWNM.jpeg?auth=a9923c21626838991eb6cf96cb2750956911493c1360a4b1be0c33d513202f47&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:33",
+     "autor": "Sofia Rojas",
+     "titulo_original": "Sin la presencia de Victoria Villarruel, el arco político participó de la histórica misa de León XIV en el Monumento de los Españoles"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "el riesgo país perforó los 900 puntos y las acciones argentinas rebotaron 4%",
+     "resumen": "El riesgo país perforó la barrera de los 900 puntos básicos y cerró en 872 puntos, una caída de 67 unidades, en una jornada sin operaciones en la Bolsa porteña por el feriado nacional. Los bonos soberanos en dólares rebotaron hasta 3,3% en el exterior, liderados por el GD41, y las acciones argentinas que cotizan en Nueva York avanzaron hasta 4% de la mano del optimismo de Wall Street. Para una empresa: la baja del riesgo país, si se sostiene, podría traducirse en mejores condiciones de financiamiento en los próximos meses.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El riesgo país cae debajo de los 900 puntos, en una sesión positiva para los mercados internacionales",
+       "url": "https://www.infobae.com/economia/2026/11/09/cae-el-riesgo-pais-argentino-en-una-sesion-positiva-para-los-mercados-internacionales/"
+      },
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Riesgo país: los bonos argentinos rebotan hasta 3,3% en una jornada sin actividad en la plaza local",
+       "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-los-bonos-argentinos-rebotan-hasta-33-en-una-jornada-sin-actividad-en-la-plaza-local/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/alivio-en-el-exterior-el-riesgo-pais-perfora-los-900-puntos-y-las-acciones-argentinas-rebotan-3-en-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/E6PNZYSWKNCSRKE22TMGELQBLM.jpg?auth=4c9907139e53e2786dc4b0600409c359dc9216a1a5dce3a6bb672948176021b4&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:06",
+     "autor": "Melisa Reinhold",
+     "titulo_original": "Alivio en el exterior: el riesgo país perforó los 900 puntos y las acciones argentinas rebotaron 4% en Wall Street"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "el petróleo cayó a su valor más bajo en dos meses",
+     "resumen": "El petróleo volvió a caer con fuerza y alcanzó su precio más bajo en dos meses: el Brent perforó los 94 dólares por barril ante la posibilidad de que Estados Unidos e Irán retomen el diálogo oficial para poner fin al conflicto en el Golfo Pérsico. La producción de crudo de los once miembros de la OPEP aumentó 1,38 millones de barriles diarios respecto del mes anterior, hasta 22,87 millones de barriles por día, el 90% del nivel previo a la guerra.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Aumentó la producción de petróleo de la OPEP: está al 90% del nivel anterior a la guerra",
+       "url": "https://www.ambito.com/finanzas/aumento-la-produccion-petroleo-la-opep-esta-al-90-del-nivel-anterior-la-guerra-n6343259"
+      },
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El petróleo cae tras una declaración clave de Donald Trump sobre Irán",
+       "url": "https://www.iprofesional.com/economia/468664-petroleo-cae-tras-senales-de-calma-en-medio-oriente-y-giro-de-donald-trump-sobre-iran"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/guerra-medio-oriente-petroleo-vuelve-caer-fuerte-alcanza-precio-meses_0_xcQoYYvOlU.html",
+     "imagen": "https://www.clarin.com/img/2026/07/15/S6fKLOzDB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:38",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Guerra en Medio Oriente: el petróleo vuelve a caer fuerte y alcanza su precio más bajo en dos meses"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "crecen las dudas sobre la capacidad oficial de contener una turbulencia cambiaria en 2027",
+     "resumen": "El llamado \"efecto Trump\" profundizó las sospechas del mercado sobre la capacidad del Gobierno para contener la volatilidad cambiaria durante 2027, en momentos en que la intervención del Banco Central para sostener al dólar oficial redujo el colchón de reservas disponible. Para una empresa: una menor capacidad de intervención oficial aumenta el riesgo de saltos bruscos en el tipo de cambio.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/468583-cuanto-mermo-la-bazuka-de-dolares-que-dice-tener-milei",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606146.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:10",
+     "autor": "",
+     "titulo_original": "Cuánto mermó la \"bazuka de dólares\" de Milei en plena suba del riesgo país"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "las expectativas de desempleo en Estados Unidos subieron a niveles de 2020",
+     "resumen": "Una encuesta de la Reserva Federal de Nueva York mostró que las expectativas de desempleo en Estados Unidos subieron a niveles no vistos desde 2020, lo que refleja una creciente preocupación de los consumidores por el mercado laboral.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/las-expectativas-desempleo-estados-unidos-subieron-niveles-2020-revelo-la-fed-n6343271",
+     "imagen": "https://media.ambito.com/p/7bee0b91d4a5ba8c38052ed5578a7f47/adjuntos/239/imagenes/029/974/0029974403/1200x675/573x149:593x169/eeuu-se-contrajo-el-empleo-primera-vez-7-anos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:57",
+     "autor": "",
+     "titulo_original": "Las expectativas de desempleo en Estados Unidos subieron a niveles 2020, reveló la Fed"
+    },
+    {
+     "id": "AM-24",
+     "titulo": "el Bitcoin cotiza debajo de los 75.000 dólares",
+     "resumen": "El Bitcoin cotiza por debajo de los 75.000 dólares y no logra recuperar su sendero alcista, todavía afectado por el escándalo que involucra al CEO de Nvidia, aunque la baja del petróleo podría darle algo de aire a las criptomonedas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/bitcoin-se-hunde-mas-5-y-vuelve-us76000-el-peor-dia-wall-street-la-guerra-arancelaria-n6342295",
+     "imagen": "https://media.ambito.com/p/35134ed84cc270c7876a3a3a59ce5f75/adjuntos/239/imagenes/043/747/0043747107/1200x675/smart/bitcoin-mercados-cripto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "13:57",
+     "autor": "",
+     "titulo_original": "Bitcoin baja y cotiza debajo de los u$s75.000 pese al repunte de Wall Street"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Nvidia cerró con una baja de 4,3% mientras sus competidores escalaron hasta 9%",
+     "resumen": "Las acciones de Nvidia cerraron con una baja de 4,3% en Wall Street, luego de haber llegado a caer 8% en los primeros negocios, después de que el directorio de la compañía confirmara que investigará la relación entre su CEO, Jensen Huang, y una mujer que la inteligencia de Estados Unidos sospecha que podría ser una espía china. En contraste, las acciones de empresas competidoras subieron hasta 9% en la misma rueda.",
+     "relacionadas": [
+      {
+       "id": "IB-02",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Quién es quién y qué pasó cuándo: la guía para entender el escándalo que sacude a Nvidia",
+       "url": "https://www.infobae.com/estados-unidos/2026/11/09/quien-es-quien-y-que-paso-cuando-la-guia-para-entender-el-escandalo-que-sacude-a-nvidia/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/09/las-acciones-de-nvidia-caen-5-en-wall-street-y-se-disparan-las-de-sus-competidores-mientras-avanza-la-investigacion/",
+     "imagen": "https://www.infobae.com/resizer/v2/PITZRMKOWVD73OXVXNTMVKXDGA.JPG?auth=ca4cf0e9f81baa64ecff9300df8abe7745fcfd76cfba6a69e66c2d5eaa02ac4e&smart=true&width=900&height=644",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:08",
+     "autor": "",
+     "titulo_original": "Las acciones de Nvidia perdieron 4% en Wall Street y se dispararon las de sus competidores mientras avanza la investigación"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-25",
+     "titulo": "YPF y Vicuña definen en 90 días inversiones por 38.000 millones de dólares",
+     "resumen": "YPF definirá antes de fin de mes la decisión final de inversión para su proyecto de gas natural licuado, que implicaría un desembolso inicial cercano a los 30.000 millones de dólares, mientras el proyecto Vicuña de cobre, oro y plata espera avanzar antes de fin de año. En conjunto, las inversiones en Vaca Muerta y minería que se definirán en los próximos 90 días suman unos 38.000 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/us-38000-millones-juego-inversiones-grandes-vaca-muerta-mineria-definen-proximos-90-dias_0_KlyIG4DHiG.html",
+     "imagen": "https://www.clarin.com/img/2025/10/10/jvS8_rTUZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:42",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "US$ 38.000 millones en juego: las inversiones más grandes en Vaca Muerta y la minería se definen en los próximos 90 días"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Quilmes exportó 370 millones de dólares en cebada y suma envíos a India",
+     "resumen": "Quilmes exportó casi un millón de toneladas de cebada y malta durante 2025 por 370 millones de dólares, con destinos en Brasil, Perú, Ecuador, Colombia y Chile, y sumó este año dos embarques hacia India, en un contexto de expansión de las exportaciones argentinas del complejo cebadero.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/cebada-argentina-pais-poblado-mundo-quilmes-exporto-us-370-millones-cereal-hacer-cerveza-expande-india_0_wlJ3asWp2k.html",
+     "imagen": "https://www.clarin.com/img/2026/11/09/OgKJMItMJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Cebada argentina en el país más poblado del mundo: Quilmes exportó US$ 370 millones del cereal para hacer cerveza y se expande a India"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "eToro compró una fintech argentina para operar como hub regional",
+     "resumen": "La plataforma de inversiones eToro, que cotiza en el Nasdaq y opera en 75 países, compró la fintech argentina LB Finanzas con el objetivo de convertir al país en un hub regional para sus operaciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/468351-plataforma-de-inversiones-etoro-compro-fintech-argentina-y-desembarca-en-el-pais",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629143.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:51",
+     "autor": "",
+     "titulo_original": "Plataforma de inversiones eToro compró una fintech para operar en Argentina"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Edenor busca sumar activos en refinación y transporte eléctrico",
+     "resumen": "Edenor avanza en su plan de diversificación tras el acuerdo por Metrogas: la distribuidora eléctrica creó una sociedad para invertir en otras compañías y busca sumar activos en refinación, combustibles y transporte eléctrico.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468656-edenor-busca-nuevas-compras-tras-metrogas-y-apunta-al-petroleo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627872.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:13",
+     "autor": "",
+     "titulo_original": "El plan de Edenor tras el acuerdo por Metrogas para crecer en petróleo, gas y electricidad"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "ANSES pagará 139.300 pesos por matrimonio en noviembre",
+     "resumen": "ANSES pagará en noviembre una Asignación de Pago Único por Matrimonio de 139.300 pesos, con un incremento del 1,93% según la fórmula de movilidad. El beneficio, que forma parte del Sistema Único de Asignaciones Familiares, se abona por única vez a trabajadores y beneficiarios que confirmen su matrimonio durante el mes.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/anses-pagara-mas-de-139000-a-las-personas-que-se-casen-en-noviembre-y-confirmen-su-matrimonio-solo-se-necesitan-estos-requisitos/",
+     "imagen": "https://www.cronista.com/resizer/v2/7EQ6BHOQEJFV3OTERDKY7QOS5Q.jpg?auth=466dcbeb324348d89c212a2673843ac23324869888f9649c1eaaa118158dce56&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:25",
+     "autor": "Equipo Audiencias Argentina",
+     "titulo_original": "ANSES pagará más de $ 139.000 a las personas que se casen en noviembre y confirmen su matrimonio: solo se necesitan estos requisitos"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "las cooperativas de internet piden debatir el veto a la tecnología china",
+     "resumen": "Las cooperativas de internet se sumaron a los grandes operadores para pedir que se debata una regla de seguridad que vetaría el uso de tecnología china en las redes del país, por su impacto en la forma en que sostienen la infraestructura.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468658-veto-a-tecnologia-china-cooperativas-de-internet-piden-abrir-dialogo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/06/577392.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:27",
+     "autor": "",
+     "titulo_original": "Veto a la tecnología china en Argentina: qué reclaman las cooperativas de Internet"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "cuánto cuesta construir una casa y dónde se puede ahorrar sin perder calidad",
+     "resumen": "La elección de materiales, el sistema constructivo y una planificación adecuada son las claves para ajustar el presupuesto de una vivienda sin resignar calidad ni durabilidad, según un relevamiento sobre los costos de construcción en el país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/466407-cuanto-cuesta-construir-una-casa-de-100-m2-y-como-ahorrar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625578.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:18",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta construir una casa y dónde se puede ahorrar sin perder calidad"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "devolver una compra online está dejando de ser gratis",
+     "resumen": "Cada vez más empresas de comercio electrónico cobran por las devoluciones de productos y acortan los plazos de reembolso. Un estudio reveló que el 5% de los compradores online devuelve más del 80% de lo que compra, lo que presiona a las compañías a cambiar sus políticas. Para una empresa: encarecer o acortar las devoluciones reduce costos logísticos pero puede afectar la conversión de ventas online.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/devolver-compras-online-dejando-gratis_0_PJ3j8oHOAh.html",
+     "imagen": "https://www.clarin.com/img/2026/11/03/TsHK94px7_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Por qué devolver tus compras online está dejando de ser gratis"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "abre un nuevo shopping en Buenos Aires con 42 locales",
+     "resumen": "Un nuevo shopping porteño abrirá con 42 locales, supermercado y marcas de gastronomía reconocidas, según trascendió, aunque todavía no se confirmó la fecha exacta de inauguración.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468410-abre-un-nuevo-shopping-en-buenos-aires-donde-esta-y-que-marcas-tendra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629185.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:25",
+     "autor": "",
+     "titulo_original": "Abre un nuevo shopping en Buenos Aires: dónde está y qué marcas tendrá"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "un shopping argentino abrirá cinco tiendas internacionales el mismo día",
+     "resumen": "Un shopping argentino prepara la apertura simultánea de cinco tiendas internacionales el mismo día, en una señal de la expansión de marcas globales en el país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468534-un-shopping-argentino-abrira-5-tiendas-internacionales-el-mismo-dia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619163.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:00",
+     "autor": "",
+     "titulo_original": "Un shopping argentino abrirá 5 tiendas internacionales el mismo día"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "cuánto valían el dólar y la carne la última vez que un Papa visitó la Argentina",
+     "resumen": "Un repaso histórico comparó cuánto valían el dólar y la carne la última vez que un Papa visitó la Argentina, en 1987, con los valores actuales: en las últimas décadas el costo de bienes básicos y de las viviendas creció muy por encima del salario mínimo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/468666-cuanto-valian-el-dolar-y-la-carne-la-ultima-vez-que-un-papa-visito-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629385.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:09",
+     "autor": "",
+     "titulo_original": "Cuánto valían el dólar y la carne la última vez que un Papa visitó Argentina"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "LN-26",
+     "titulo": "el manual de gestión de Marcos Galperin para construir Mercado Libre",
+     "resumen": "Marcos Galperin construyó Mercado Libre, hoy líder del comercio electrónico y las finanzas en América Latina, a partir de un modelo de gestión basado en la escalabilidad, la mejora continua y una cultura empresarial exigente, con foco en la ejecución más que en la idea original.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/negocios/el-manual-de-marcos-galperin-para-construir-su-sueno-llamado-mercado-libre-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4UDKMHRGBZDZXIHDYVZWGY2BTI.jpg?auth=52acc28392fa82a2e5f28f66927af85b1a8ae2f6e5ad42d67f0b65bd143e36fa&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:29",
+     "autor": "Jairo Straccia (*)",
+     "titulo_original": "El manual de Marcos Galperin para construir su sueño llamado Mercado Libre"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "León XIV citó a Enrique Shaw como ejemplo de empresario",
+     "resumen": "Durante su paso por la UCA, León XIV reivindicó la figura de Enrique Shaw, empresario argentino próximo a ser beatificado y fundador de ACDE, al que presentó como ejemplo de una industria concebida como comunidad de personas y no solo como espacio de ganancias, en línea con la Doctrina Social de la Iglesia.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/09/quien-fue-enrique-shaw-el-empresario-argentino-que-el-papa-leon-xiv-puso-como-ejemplo-y-que-sera-beatificado/",
+     "imagen": "https://www.infobae.com/resizer/v2/GRSA5EDMCZDTTOQUUVUPKUPXPM.jpg?auth=b0f83c61497063e082c6c14cb3385f9b691b2a08029ef8e8ffeb5ed1e337c0c6&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:59",
+     "autor": "",
+     "titulo_original": "Quién fue Enrique Shaw, el empresario argentino que el papa León XIV puso como ejemplo y que será beatificado"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-06",
+     "titulo": "enviados de Trump buscan sumar a Europa a las negociaciones por Ucrania",
+     "resumen": "Enviados de Donald Trump buscan persuadir a Rusia de incluir a Europa en las negociaciones de paz para Ucrania, pese a la resistencia de Moscú, de cara a un diálogo clave previsto en Abu Dabi. Rusia y Ucrania continúan los ataques mutuos contra infraestructura crítica mientras la diplomacia enfrenta grandes obstáculos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/enviados-de-trump-buscan-persuadir-a-rusia-de-que-incluya-a-europa-en-negociaciones_0_S1GZODA0Ea.html",
+     "imagen": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Enviados de Trump buscan persuadir a Rusia de que incluya a Europa en negociaciones"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "un juez ordenó a Nueva York informar al ICE sobre un albergue en el Bronx",
+     "resumen": "Un juez ordenó a la ciudad de Nueva York informar al ICE sobre los residentes de un albergue en el Bronx, mientras el alcalde Zohran Mamdani exigió a las autoridades migratorias que dejen de usar propiedad municipal para preparar operativos y advirtió que recurrirá a la Justicia si los agentes regresan.",
+     "relacionadas": [
+      {
+       "id": "LN-02",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Zohran Mamdani, alcalde de Nueva York: “El ICE no tiene derecho a usar nuestra propiedad como base para separar a las familias”",
+       "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/zohran-mamdani-alcalde-de-nueva-york-el-ice-no-tiene-derecho-a-usar-nuestra-propiedad-como-base-para-nid09112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/un-juez-ordena-a-nueva-york-informar-a-ice-sobre-los-residentes-de-un-albergue-en-el-bronx_0_aMVA2koZFJ.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un juez ordena a Nueva York informar a ICE sobre los residentes de un albergue en el Bronx"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "España inicia una semana de huelgas a 20 días de las elecciones",
+     "resumen": "España inicia una semana de paros ferroviarios, movilizaciones y una huelga general, la primera en 14 años, a 20 días de las elecciones del 29 de noviembre, en coincidencia con el funeral por las víctimas del accidente de trenes en la Catedral de Toledo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/espana-comienza-semana-paros-ferroviarios-movilizaciones-huelga-general-20-dias-elecciones_0_ciQhGV5ncz.html",
+     "imagen": "https://www.clarin.com/img/2026/11/05/XcAKjJtXx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:23",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "España comienza una semana de paros de ferroviarios, movilizaciones y una huelga general a 20 días de las elecciones"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "camioneros bloquean rutas en el sur de Chile por el aumento de combustibles",
+     "resumen": "Camioneros bloquean rutas clave del sur de Chile, como la Ruta 5, en rechazo al aumento de los combustibles. La Confederación de Camioneros Centro-Sur pidió congelar las tarifas por cuatro meses y eliminar de forma retroactiva los tributos aplicados a las últimas subas, en la antesala de la temporada de cosechas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/camioneros-bloquean-varias-rutas-sur-chile-rechazo-aumento-combustibles_0_5suwaIXH1i.html",
+     "imagen": "https://www.clarin.com/img/2026/11/09/z2izupwcH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Camioneros bloquean varias rutas en el sur de Chile, en rechazo al aumento de los combustibles"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "la Junta de Paz para Gaza pide a Israel más ayuda humanitaria ante el invierno",
+     "resumen": "La Junta de Paz para Gaza, creada en el marco del plan de paz impulsado por Estados Unidos, pidió a Israel que autorice el ingreso de más ayuda humanitaria ante la llegada del invierno, que podría agravar la situación de la población palestina.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/09/la-junta-de-paz-para-gaza-pide-a-israel-que-permita-la-entrada-de-mas-ayuda-humanitaria-ante-el-invierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/RB2Z3V6ID5EURJ5NTWUGJOZRSU.jpg?auth=9adae0a3171f3f507ba1c0b1a39982efab14b3f354b594aa8fe3a50cce5e67f6&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "La Junta de Paz para Gaza pide a Israel que permita la entrada de más ayuda humanitaria ante el invierno"
+    },
+    {
+     "id": "IB-08",
+     "titulo": "Paraguay descarta que la crisis del Ueno Bank afecte al resto del sistema",
+     "resumen": "El canciller de Paraguay, Rubén Ramírez, descartó que la crisis del Ueno Bank, intervenido por problemas de insolvencia, haya afectado al resto del sistema financiero paraguayo. El nuevo presidente, Pedro Alliana, asumió el cargo tras la destitución de Santiago Peña por el escándalo bancario y recibió los saludos de gobiernos de la región.",
+     "relacionadas": [
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Costa Rica felicita al nuevo presidente de Paraguay tras la destitución de Santiago Peña por escándalo financiero",
+       "url": "https://www.infobae.com/costa-rica/2026/11/09/costa-rica-felicita-al-nuevo-presidente-de-paraguay-tras-la-destitucion-de-santiago-pena-por-escandalo-financiero/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/agencias/2026/11/09/canciller-paraguayo-descarta-que-la-crisis-de-ueno-bank-haya-afectado-al-resto-del-sistema/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Canciller paraguayo descarta que la crisis de Ueno bank haya afectado al resto del sistema"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza las negociaciones entre Rusia y Ucrania y los debates políticos que atraviesan a Francia.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "qué revela la delegación rusa que negociará con Ucrania en Abu Dabi",
+     "resumen": "Le Grand Continent analiza que la composición de la delegación rusa que negociará con Ucrania en Abu Dabi, a cargo de un ideólogo y un militar en lugar de un diplomático, no muestra indicios de que Vladimir Putin tenga intención real de poner fin a la guerra. A la ronda de conversaciones del 10 y 11 de noviembre asistirán también representantes de Estados Unidos, cuatro países europeos, la OTAN y la Unión Europea.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/09/negociaciones-ucrania-rusia-en-abu-dabi-composicion-delegacion-rusa/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:41",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Negociaciones entre Ucrania y Rusia en Abu Dabi: ¿qué revela la composición de la delegación rusa?"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "la candidata ecologista francesa plantea una potencia de paz europea",
+     "resumen": "En la serie sobre las doctrinas de los candidatos a la presidencia francesa, la revista publicó la visión de la candidata de Los Ecologistas, para quien construir una potencia de paz europea exige un salto cualitativo frente a siglos de guerras que marcaron al continente.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/09/la-europa-que-necesitamos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:29",
+     "autor": "Louis Puel",
+     "titulo_original": "La Europa que necesitamos"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-26",
+     "titulo": "Messi podría volver al Monumental para enfrentar a River",
+     "resumen": "Lionel Messi podría volver a jugar en el estadio Monumental, esta vez enfrentando a River con la camiseta de Inter Miami, en un amistoso que se negocia para el 19 de enero durante la pretemporada del equipo estadounidense. Sería el primer partido de Messi con un club en la Argentina desde su despedida de la Selección en el mismo estadio.",
+     "relacionadas": [
+      {
+       "id": "LN-05",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Messi, de vuelta en el Monumental: River e Inter Miami tienen encaminado un amistoso para enero",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/messi-de-vuelta-en-el-monumental-river-e-inter-miami-tienen-encaminado-un-amistoso-para-enero-nid09112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/messi-podria-volver-monumental-enfrentar-river-amistoso-prepara-inter-miami-senales-kily-gonzalez_0_985NnIjrN8.html",
+     "imagen": "https://www.clarin.com/img/2020/01/14/k1LMlds5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Messi podría volver al Monumental para enfrentar a River: el amistoso que prepara Inter Miami y las señales del Kily González"
+    },
+    {
+     "id": "LN-08",
+     "titulo": "el gol fantasma de Defensa y Justicia tras el título de Boca",
+     "resumen": "Tras el gol de Enner Valencia que le dio a Boca Juniors el título de la tabla anual ante Defensa y Justicia, el equipo visitante sacó rápido del medio y llegó a convertir un segundo tanto que no fue convalidado, en una jugada insólita que generó sorpresa en La Bombonera.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/el-gol-fantasma-de-defensa-y-justicia-despues-de-que-enner-valencia-puso-a-boca-1-0-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VCWVRL67RFCSXHH7JQXUGYHSJ4.png?auth=71ffda0bb07816dcd535ad1c4e556b0b171f27a461215abb948f557cfc4bda55&smart=true&width=900&height=332",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:54",
+     "autor": "",
+     "titulo_original": "El gol fantasma de Defensa y Justicia después de que Enner Valencia puso a Boca 1-0"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "la chicana del ayudante de Arruabarrena a River tras el título de Boca",
+     "resumen": "Amr Mokhtar, analista egipcio del cuerpo técnico de Rodolfo Arruabarrena, lanzó una chicana a River Plate tras el título de Boca Juniors al describir el efecto que, según él, produce La Bombonera en los rivales.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/09/el-dardo-del-ayudante-egipicio-del-vasco-arruabarrena-a-river-plate-tras-el-titulo-de-boca-juniors/",
+     "imagen": "https://www.infobae.com/resizer/v2/Q4TIVV6TVZGH3NOEBQA2RBFSQY.jpg?auth=94c935d48d67fd0cb361a372da21ca5e9d8ffb5f5a183b685ad1bc5fdaa7fc09&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:18",
+     "autor": "",
+     "titulo_original": "El dardo del ayudante egipicio del Vasco Arruabarrena a River Plate tras el título de Boca Juniors"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Pau Cubarsí ganó el Golden Boy 2026",
+     "resumen": "El defensor del Barcelona Pau Cubarsí, de 19 años, ganó el Golden Boy 2026 al mejor futbolista Sub 21 de Europa, formado en La Masía. Mastantuono y Prestianni habían estado entre los 100 candidatos al premio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/pau-cubarsi-campeon-mundo-19-anos-gano-golden-boy-2026-metio-historia-junto-messi-aguero_0_8z8yZmKiOW.html",
+     "imagen": "https://www.clarin.com/img/2026/11/09/mdy2XyBuO_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Pau Cubarsí, el campeón del mundo de 19 años que ganó el Golden Boy 2026 y se metió en la historia junto a Messi y Agüero"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Messi fue elegido por 18a vez en el 11 ideal del FIFpro",
+     "resumen": "Lionel Messi fue incluido por 18a vez en el 11 ideal del FIFpro, el sindicato mundial de futbolistas, tras una votación de 19.806 jugadores de 73 países. Es un récord y vuelve a figurar después de su última presencia en 2023.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-fue-elegido-por-los-jugadores-e-integra-el-11-ideal-del-fifpro-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3D3GXT7VZBE5RB7GNIM33LJ5NM.jpg?auth=1ec75f016ab2fe11b8f8ef3bf22d733389efdac7139eefd11f3f79dcc7e2d7b3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:48",
+     "autor": "",
+     "titulo_original": "Lionel Messi fue elegido por los jugadores e integra el 11 ideal del FIFpro"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "los horarios de la Selección ante Uruguay y Costa Rica",
+     "resumen": "La selección argentina cerrará el año con dos amistosos de la fecha FIFA: el viernes 13 de noviembre a las 20 ante Uruguay en la Bombonera, y el martes 17 ante Costa Rica en el estadio Mario Alberto Kempes de Córdoba, sin jugar en el Monumental por las diferencias entre la AFA y River.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/horarios-de-los-partidos-de-la-seleccion-argentina-contra-uruguay-y-costa-rica-por-la-nueva-fecha-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/I44SQ7VZZNGL3EN3N3Y3JD6PO4.JPG?auth=01c544c04919cfeca1788f69ea39e8d31b1a35bc5542257dfb7bf4990ff3bc03&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:24",
+     "autor": "",
+     "titulo_original": "Horarios de los partidos de la selección argentina contra Uruguay y Costa Rica, por la nueva fecha FIFA"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "Los Pumas pierden a Mallía y recuperan a Bosch tras cinco años",
+     "resumen": "Los Pumas sufrieron la baja de Juan Cruz Mallía por un esguince de rodilla de cara al partido del sábado ante Italia en Génova, mientras el capitán Julián Montoya sigue en duda por el protocolo de conmoción cerebral. En la emergencia regresó Facundo Bosch, ausente desde 2021, y se sumaron Facundo Isa, Bautista Bernasconi y Matías Medrano.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Cambios en Los Pumas: se lesionó Juan Cruz Mallía, se aguarda por Julián Montoya y se suman varios nombres para el duelo con Italia",
+       "url": "https://www.lanacion.com.ar/deportes/rugby/cambios-en-los-pumas-se-lesiono-juan-cruz-mallia-se-aguarda-por-julian-montoya-y-se-suman-varios-nid09112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/pumas-lesiones-regresos-mallia-baja-bosch-vuelve-despues-anos-esperan-montoya_0_QqMx4fEArZ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/V_sNnvXf0_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los Pumas, entre las lesiones y los regresos: Mallía es baja, Bosch vuelve después de cinco años y esperan por Montoya"
+    },
+    {
+     "id": "CL-05",
+     "titulo": "Colapinto terminó 13° en Brasil y Alpine quedó entre los perdedores del fin de semana",
+     "resumen": "Franco Colapinto terminó 13° en el Gran Premio de Brasil de Fórmula 1, aunque llegó a marcar el séptimo mejor tiempo de carrera con la pista seca. El director de Alpine, Flavio Briatore, calificó de decepcionante el fin de semana del equipo, que sigue sin encontrar respuestas para su rendimiento bajo lluvia de cara a Las Vegas.",
+     "relacionadas": [
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“Profundamente decepcionante”: el duro análisis que ubicó a Alpine entre los “perdedores” del Gran Premio de Brasil",
+       "url": "https://www.infobae.com/deportes/2026/11/09/profundamente-decepcionante-el-duro-analisis-que-ubico-a-alpine-entre-los-perdedores-del-gran-premio-de-brasil/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/alpine-puede-salir-pozo-briatore-califico-decepcionante-gp-brasil-admitio-problemas-auto-lluvia_0_ipP92bcwah.html",
+     "imagen": "https://www.clarin.com/img/2026/11/07/kJWSy_uDa_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alpine no puede salir del pozo: Briatore calificó de “decepcionante” el GP de Brasil y admitió los problemas del auto bajo la lluvia"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-06",
+     "titulo": "tres sitios argentinos fueron declarados Patrimonio Geológico Mundial",
+     "resumen": "Tres paisajes argentinos fueron incluidos en un listado mundial de 100 territorios declarados Patrimonio Geológico por su alto valor geológico, una distinción que busca promover su conservación y su interés turístico.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468674-cuales-son-los-tres-sitios-argentinos-declarados-como-patrimonio-geologico-mundial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629398.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:36",
+     "autor": "",
+     "titulo_original": "Cuáles son los tres sitios argentinos declarados como Patrimonio Geológico Mundial"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-22",
+     "titulo": "indagarán al detenido que amenazó de muerte al Papa",
+     "resumen": "El hombre detenido en Pilar por amenazar de muerte al papa León XIV a través de un llamado anónimo al 911 será indagado este martes en la Justicia federal de Campana. En su casa, los investigadores encontraron un dron que llamó la atención de la causa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/voy-matar-papa-indagan-detenido-amenazar-leon-xiv-analizan-dron_0_k63ZT4WAn1.html",
+     "imagen": "https://www.clarin.com/img/2026/11/09/zTHV7NdCH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Voy a matar al Papa\": indagan a un detenido por amenazar a León XIV y analizan un dron"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "se viene un veranito con temperaturas de hasta 40 grados",
+     "resumen": "Un cambio de tiempo comenzará a sentirse esta semana en buena parte de la Argentina, con temperaturas que podrían acercarse a los 40 grados en el norte de la Patagonia y en Santiago del Estero, mientras en el extremo sur se esperan viento intenso y lluvias.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/se-viene-un-veranito-en-la-argentina-donde-se-esperan-temperaturas-de-hasta-40c-y-como-seguira-el-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ENREQEYW5NFBFDG2P52QAZULYA.png?auth=3535bbf72d64582f67bd22e73bd9d80c76114cad68abcd107911bf1cbbd5271b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:49",
+     "autor": "",
+     "titulo_original": "Se viene un “veranito” en la Argentina: dónde se esperan temperaturas de hasta 40°C y cómo seguirá el tiempo"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "la Noche de los Museos abrirá más de 350 sedes gratuitas",
+     "resumen": "La 22ª edición de la Noche de los Museos se realizará el sábado 14 de noviembre, de 19 a 2 horas, con más de 350 espacios con entrada libre y gratuita en toda la Ciudad de Buenos Aires, una convocatoria que supera los 320 espacios de la edición 2025.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/noche-de-los-museos-2026-que-visitar-entre-mas-de-350-sedes-gratuitas/",
+     "imagen": "https://www.cronista.com/resizer/v2/U223X3UGY5EHPFSBVBB6MJUNFA.jpeg?auth=bf429025c1b8720c8a045f5f1612fd6bba2fdb8466f63a339ac519654537ccc6&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:48",
+     "autor": "Luz De Sousa Quintas",
+     "titulo_original": "Noche de los Museos 2026: qué visitar entre más de 350 sedes gratuitas"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del lunes 9 de noviembre. El dólar oficial cerró en mil quinientos setenta pesos y el oro cotiza por encima de los cuatro mil ciento cincuenta dólares la onza. La gran noticia financiera del día fue el fuerte rebote de los bonos y las acciones argentinas en Wall Street, en una jornada sin operaciones en la plaza local por el feriado nacional decretado por la visita del Papa. El riesgo país perforó la barrera de los novecientos puntos básicos y cerró en ochocientos setenta y dos, una caída de sesenta y siete unidades, mientras los bonos soberanos en dólares subieron hasta un tres coma tres por ciento afuera y las acciones argentinas que cotizan en Nueva York avanzaron hasta un cuatro por ciento. En paralelo, el petróleo volvió a caer con fuerza y tocó su valor más bajo en dos meses, con el barril de tipo Brent perforando los noventa y cuatro dólares, ante la posibilidad de que Estados Unidos e Irán retomen el diálogo oficial. La producción de la OPEP llegó al noventa por ciento del nivel previo a la guerra. Y siguió el efecto del escándalo en Nvidia: las acciones de la compañía de chips cerraron con una baja de cuatro coma tres por ciento, después de que el directorio confirmara que investigará la relación de su director ejecutivo, Jensen Huang, con una mujer que la inteligencia estadounidense sospecha que podría ser una espía china. El Bitcoin, mientras tanto, sigue por debajo de los setenta y cinco mil dólares. En política, Neuquén se convirtió en la primera provincia en confirmar sus elecciones para el año próximo: votará gobernador el catorce de febrero. El Gobierno nacional, por su parte, acelera los temas pendientes en el Congreso antes de convocar a extraordinarias, con el Presupuesto dos mil veintisiete, la reforma de la Carta Orgánica del Banco Central y la suspensión de las PASO como los puntos más sensibles. También repercutió la tensión entre Karina Milei y Patricia Bullrich, que ya se siente en el bloque libertario del Senado por el reparto de lugares clave. La vicepresidenta Victoria Villarruel confirmó que no fue invitada a la misa de León XIV y explicó que nunca recibió el código de acceso, mientras el resto del arco político, con el presidente Javier Milei a la cabeza, sí participó de la ceremonia. El Papa, en tanto, cerró su segundo día en el país con una reunión interreligiosa en la Cancillería y un encuentro con el mundo del trabajo en la Universidad Católica Argentina, donde sostuvo que privar a una persona de su empleo es herir gravemente su dignidad y pidió que el acceso al trabajo sea prioritario en las políticas públicas. También citó al empresario argentino Enrique Shaw, próximo a ser beatificado, como ejemplo de una industria pensada como comunidad de personas y no solo como espacio de ganancias. En economía, más allá del rebote de los mercados, sigue creciendo la preocupación por la capacidad del Gobierno para contener la volatilidad cambiaria durante el año próximo, en momentos en que la intervención del Banco Central redujo el margen de reservas disponibles. En impuestos y normativa, la ANSES pagará en noviembre una asignación de pago único por matrimonio de ciento treinta y nueve mil trescientos pesos, y las cooperativas de internet se sumaron a los grandes operadores para pedir que se debata el veto a la tecnología china en las redes del país. En consumo y construcción, un relevamiento mostró que la elección de materiales y una buena planificación son las claves para ajustar el presupuesto de una vivienda sin resignar calidad, mientras cada vez más empresas de comercio electrónico cobran por las devoluciones y acortan los plazos de reembolso. También se confirmaron un nuevo shopping porteño con cuarenta y dos locales y la apertura simultánea de cinco tiendas internacionales en otro centro comercial argentino. En negocios, YPF definirá antes de fin de mes su inversión en gas natural licuado, dentro de un paquete de inversiones en Vaca Muerta y minería que ronda los treinta y ocho mil millones de dólares, y Quilmes exportó cebada y malta por trescientos setenta millones de dólares, con nuevos embarques hacia la India. En el mundo, enviados de Donald Trump buscan persuadir a Rusia de incluir a Europa en las negociaciones de paz para Ucrania, de cara a un diálogo clave en Abu Dabi. En España comienza una semana de huelgas a veinte días de las elecciones, y en Paraguay el nuevo presidente, Pedro Alliana, asumió el cargo tras la destitución de Santiago Peña por el escándalo del banco Ueno. Le Grand Continent analiza que la composición de la delegación rusa que negociará con Ucrania, a cargo de un ideólogo y un militar antes que de un diplomático, no muestra indicios de que Vladimir Putin tenga intención real de terminar la guerra. En deportes, Boca Juniors sigue sumando repercusiones tras el título: se conoció un gol anulado de Defensa y Justicia en los instantes finales del partido y una chicana del cuerpo técnico de Rodolfo Arruabarrena sobre River Plate. Lionel Messi fue elegido por dieciocho ava vez en el once ideal del sindicato mundial de futbolistas y también podría volver al Monumental, esta vez con la camiseta de Inter Miami, en un amistoso que se negocia para el diecinueve de enero frente a River. El defensor del Barcelona Pau Cubarsí ganó el Golden Boy al mejor futbolista Sub veintiuno de Europa. La selección argentina confirmó los horarios de sus amistosos de noviembre, el viernes ante Uruguay en la Bombonera y el martes siguiente ante Costa Rica en Córdoba. Y en rugby, Los Pumas perdieron a Juan Cruz Mallía por una lesión de rodilla de cara al partido del sábado ante Italia, aunque recuperaron a Facundo Bosch después de cinco años de ausencia. Franco Colapinto terminó nuevamente decimotercero en el Gran Premio de Brasil, aunque llegó a marcar el séptimo mejor tiempo de carrera con pista seca; el jefe de Alpine, Flavio Briatore, calificó el fin de semana del equipo como decepcionante. Para cerrar, en turismo, tres paisajes argentinos fueron incluidos en un listado mundial de cien territorios declarados Patrimonio Geológico, una buena excusa para planear una escapada por el interior del país. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "El feed de Le Grand Continent trajo apenas dos notas en esta ventana horaria, por debajo del rango habitual de la sección Europa y geopolítica; no se detectaron novedades de Franco Colapinto más allá de lo ya incluido en Deportes ni de Club Atlético Tigre en esta corrida.",
+ "slug": "2026-11-09-tarde",
+ "generado_ba": "09/11/2026 21:16"
+}
