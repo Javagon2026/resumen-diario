@@ -1,0 +1,990 @@
+{
+ "fecha": "2026-11-10",
+ "edicion": "manana",
+ "titulo": "El Papa en Córdoba, el riesgo país cae y Nvidia tiembla por un espionaje",
+ "apertura": "El papa León XIV vive su tercer y penúltimo día en la Argentina, con una misa multitudinaria en Córdoba y una vigilia con jóvenes esta noche en Palermo, mientras el Gobierno y la vicepresidenta Victoria Villarruel volvieron a chocar por una supuesta invitación perdida. En los mercados, el riesgo país perforó los 900 puntos y los bonos argentinos rebotaron de la mano de un repunte global en Wall Street, aunque la atención también está puesta en el escándalo que salpica al CEO de Nvidia, acusado de vincularse con una presunta espía china. En el plano internacional, Rusia y Ucrania retomaron en Abu Dabi las negociaciones de paz con mediación de Estados Unidos.",
+ "claves": [
+  "El papa León XIV cumple su tercer día en el país: misa en Córdoba ante hasta un millón de fieles y vigilia con jóvenes esta noche en Palermo.",
+  "El riesgo país cerró el lunes en 873 puntos, su mayor caída en semanas, en sintonía con el rebote de Wall Street.",
+  "Escándalo en Nvidia: su CEO Jensen Huang reconoció una relación con una empresaria china señalada como posible espía, y la acción cayó casi 5%.",
+  "Rusia y Ucrania retomaron las negociaciones de paz en Abu Dabi, mediadas por Estados Unidos, sin señales claras de que Moscú busque un cierre rápido.",
+  "Villarruel y la Casa Rosada volvieron a cruzarse: la vicepresidenta dijo que no fue invitada a la misa papal y el Gobierno mostró el mail de la invitación.",
+  "Neuquén adelantó a febrero la elección de gobernador, abriendo el calendario electoral 2027 en medio de una interna libertaria y un peronismo dividido.",
+  "Las petroleras que operan en el país aumentaron sus ingresos en más de US$ 5.100 millones entre enero y agosto por la suba del crudo y Vaca Muerta.",
+  "Selección y Pumas entran en semana de Fecha FIFA y ventana internacional: amistosos ante Uruguay y Costa Rica, y los Pumas ante Italia el sábado."
+ ],
+ "cifras": [
+  {
+   "nombre": "Ingresos de petroleras ene-ago 2026",
+   "valor": "US$ 17.475 millones",
+   "variacion": "+42%",
+   "fuente": "IB-25"
+  },
+  {
+   "nombre": "Exportaciones de cítricos (Terminal Zárate)",
+   "valor": "90.000 toneladas",
+   "variacion": "+9,3%",
+   "fuente": "LN-23"
+  },
+  {
+   "nombre": "Dólar tarjeta",
+   "valor": "$ 2.000",
+   "fuente": "IP-08"
+  },
+  {
+   "nombre": "Empresarios pyme que no esperan crecer en 2027",
+   "valor": "54,9%",
+   "fuente": "AM-18"
+  },
+  {
+   "nombre": "Rebote de los índices de Wall Street",
+   "valor": "más de 2%",
+   "fuente": "AM-11"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-25",
+     "titulo": "Villarruel dice que no fue invitada a la misa del Papa y el Gobierno la desmiente",
+     "resumen": "La vicepresidenta Victoria Villarruel afirmó que nunca recibió el código QR para ingresar a la misa que el papa León XIV celebró en el Monumento de los Españoles. La Casa Rosada respondió exhibiendo un correo electrónico con la invitación, enviado el 4 de noviembre, cinco días antes de la ceremonia.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Villarruel dijo que no fue invitada a la misa de León XIV, pero el Gobierno la desmintió y compartió los datos de la invitación",
+       "url": "https://www.cronista.com/economia-politica/victoria-villarruel-confirmo-que-no-fue-invitada-a-la-misa-de-leon-xiv-en-el-monumento-a-los-espanoles/"
+      },
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Victoria Villarruel dijo que no recibió la invitación para la misa de León XIV y el Gobierno la desmintió: \"Tenía su asiento\"",
+       "url": "https://www.ambito.com/politica/victoria-villarruel-explico-que-no-asistio-la-misa-del-papa-leon-xiv-nunca-recibimos-el-qr-n6343296"
+      },
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Villarruel dijo que no la invitaron a la misa del Papa y el Gobierno la desmiente",
+       "url": "https://www.iprofesional.com/politica/468681-villarruel-misa-papa-gobierno-pruebas-ausencia"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-salio-a-desmentir-a-villarruel-por-la-invitacion-a-la-misa-del-papa-en-palermo-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GQ5NOKMG5ZERRJN2NOKMOSZGIQ.jpg?auth=d240909eb26916db8872f5048ac0b96318644e531b6a24bde3ea7a334198e72b&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:22",
+     "autor": "",
+     "titulo_original": "El Gobierno salió a desmentir a Villarruel por la invitación a la misa del Papa en Palermo"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "El Papa reivindicó a Angelelli y pidió a los obispos ocuparse de los más necesitados",
+     "resumen": "En su discurso más pastoral, pronunciado ante los obispos argentinos en la Catedral porteña, León XIV reivindicó al obispo riojano Enrique Angelelli, asesinado por la dictadura militar en 1976, y pidió a la Iglesia atender a quienes viven en la pobreza, carecen de empleo o no tienen vivienda digna.",
+     "relacionadas": [
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "León XIV recordó a Enrique Angelelli, asesinado en la dictadura, y reivindicó el legado de los pastores argentinos",
+       "url": "https://www.ambito.com/politica/leon-xiv-recordo-enrique-angelelli-asesinado-la-dictadura-y-reivindico-el-legado-los-pastores-argentinos-n6343378"
+      },
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "León XIV pidió a los obispos argentinos que acompañen a los más necesitados y fortalezcan la unidad de la Iglesia",
+       "url": "https://www.ambito.com/informacion-general/leon-xiv-pidio-los-obispos-argentinos-que-acompanen-los-mas-necesitados-y-fortalezcan-la-unidad-la-iglesia-n6343368"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-papa-reivindico-a-angelelli-y-les-encargo-a-los-obispos-ocuparse-de-los-pobres-desempleados-y-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4RKFQ6K7QBDCDO7MVJGHWK2KLE.jpg?auth=a4fd56ed312b25fbca3390748fbb00dd7a0a09823da3e6a4eea2923d59a9efab&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:23",
+     "autor": "",
+     "titulo_original": "El Papa reivindicó a Angelelli y les encargó a los obispos ocuparse de los pobres, desempleados y ancianos"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "León XIV reclama una economía al servicio de la persona y dignifica el trabajo",
+     "resumen": "En la Universidad Católica Argentina, ante empresarios, sindicalistas y movimientos sociales, el Papa sostuvo que \"la economía debe estar al servicio de la persona, y no la persona al servicio de la economía\" y advirtió que el desempleo \"hiere gravemente\" la dignidad. El mensaje fue celebrado por los sindicatos y recibido con más cautela por el sector empresario.",
+     "relacionadas": [
+      {
+       "id": "CR-09",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "León XIV en la UCA: “Privar a una persona de trabajo no es solo negarle un ingreso, es herir gravemente su dignidad”",
+       "url": "https://www.cronista.com/economia-politica/leon-xiv-en-la-uca-privar-a-una-persona-de-trabajo-no-es-solo-negarle-un-ingreso-es-herir-gravemente-su-dignidad/"
+      },
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La definición de León XIV para la economía y el mensaje que rescataron empresarios y gremios",
+       "url": "https://www.cronista.com/economia-politica/la-definicion-de-leon-xiv-para-la-economia-y-los-ejes-que-rescataron-empresarios-y-gremios/"
+      },
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "En su recorrido por la Catedral, el papa León XIV pidió acompañar a los más necesitados",
+       "url": "https://www.iprofesional.com/actualidad/468687-en-su-recorrido-por-la-catedral-el-papa-leon-xiv-pidio-acompanar-a-los-mas-necesitados"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "León XIV en la UCA: \"El acceso al trabajo debe ser prioritario en las políticas públicas\"",
+       "url": "https://www.iprofesional.com/politica/468676-el-papa-leon-xiv-en-la-uca-el-trabajo-contribuye-a-construir-la-realidad-social"
+      },
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "León XIV retomó en la UCA una agenda incómoda para el Gobierno: recordó a Francisco y se refirió a la justicia social, el desempleo y los trabajadores informales",
+       "url": "https://www.ambito.com/politica/leon-xiv-retomo-la-uca-una-agenda-incomoda-el-gobierno-recordo-francisco-y-se-refirio-la-justicia-social-el-desempleo-y-los-trabajadores-informales-n6343323"
+      },
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "León XIV habló en la UCA de Enrique Shaw, empresario argentino y futuro beato",
+       "url": "https://www.ambito.com/politica/leon-xiv-hablo-la-uca-enrique-shaw-empresario-argentino-y-futuro-beato-n6343330"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/leon-xiv-hablo-de-empleo-y-dejo-un-mensaje-que-interpela-a-milei-pero-tambien-a-empresarios-y-sindicatos/",
+     "imagen": "https://www.cronista.com/resizer/v2/IZQTYHPERZGOPKWZYRB2IOZ7C4.jpg?auth=cfc1eb24356a7deec4d53ece753f9b372a3068c9965f5f4b6331aac291ed4367&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:49",
+     "autor": "Mariano Beldyk",
+     "titulo_original": "El trasfondo del mensaje de León XIV al mundo del trabajo: doctrina social y los ecos de Francisco"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Neuquén adelanta a febrero la elección de gobernador",
+     "resumen": "El gobernador Rolando Figueroa adelantó a mediados de febrero de 2027 la votación provincial para despegarse de la agenda nacional de Javier Milei. La Libertad Avanza compite fuerte con Nadia Márquez y Pablo Cervi, en una provincia que pasó de 170.000 a más de 700.000 barriles diarios y donde el peronismo llega dividido.",
+     "relacionadas": [
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Neuquén será la primera provincia en votar: elegirá gobernador el 14 de febrero",
+       "url": "https://www.cronista.com/economia-politica/neuquen-sera-la-primera-provincia-en-votar-elegira-gobernador-el-14-de-febrero/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/queda-vaca-muerta-neuquen-abre-2027-peronismo-dividido-lla-carrera_0_hrLSPngIgT.html",
+     "imagen": "https://www.clarin.com/img/2024/06/19/jCExMuIBH_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "¿Quién se queda con Vaca Muerta? Neuquén abre 2027 con un peronismo dividido y LLA en carrera"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "El Senado prepara dos audiencias por pliegos judiciales en medio de la interna libertaria",
+     "resumen": "La comisión de Acuerdos del Senado realizará audiencias públicas el martes 17 y el miércoles 18 para avanzar con pliegos judiciales enviados por el Ejecutivo. La puja por la presidencia de la comisión se reactivó tras la muerte del expresidente de ese cuerpo, Juan Carlos Pagotto, hace más de un mes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/10/pliegos-judiciales-el-senado-prepara-dos-audiencias-en-medio-de-la-puja-libertaria-por-la-comision-de-acuerdos/",
+     "imagen": "https://www.infobae.com/resizer/v2/F6GO6QTT3NGCPLXM45KMHLRFEM.JPG?auth=30ae46b862836de0894edc4ffcf81cf99291924a3e23782c747eeb5bfd1900c1&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:48",
+     "autor": "Mariano Casal",
+     "titulo_original": "Pliegos judiciales: el Senado prepara dos audiencias en medio de la puja libertaria por la comisión de Acuerdos"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Organismos de derechos humanos piden al Papa que expulse a von Wernich del estado clerical",
+     "resumen": "Abuelas de Plaza de Mayo y otras organizaciones enviaron una carta abierta a León XIV para reclamar que la Iglesia Católica tome medidas contra Christian von Wernich, sacerdote condenado a prisión perpetua por crímenes de lesa humanidad cometidos durante la última dictadura militar.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/organismos-derechos-humanos-le-pidieron-al-papa-leon-xiv-que-expulse-del-estado-clerical-christian-von-wernich-n6343344",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:46",
+     "autor": "",
+     "titulo_original": "Organismos de Derechos Humanos le pidieron al papa León XIV que expulse del estado clerical a Christian von Wernich"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "El riesgo país perforó los 900 puntos y los bonos argentinos rebotaron hasta 3,2%",
+     "resumen": "El riesgo país cerró el lunes en 873 puntos básicos, con una caída de 66 unidades (7,03%), tras el fuerte salto de la semana pasada. Los bonos en dólares lideraron el rebote: el GD41 subió 3,20%, el GD46 ganó 3,06% y el GD38 avanzó 2,67%, en una jornada de recuperación generalizada de los mercados globales.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Alivio en los mercados: los bonos argentinos treparon y el riesgo país cayó por debajo de los 900 puntos",
+       "url": "https://www.clarin.com/economia/alivio-mercados-bonos-argentinos-treparon-riesgo-pais-cayo-debajo-900-puntos_0_KD0l0EMrB6.html"
+      },
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los bonos argentinos subieron y el riesgo país cayó por debajo de los 900 puntos",
+       "url": "https://www.iprofesional.com/finanzas/468684-bonos-argentinos-subieron-y-riesgo-pais-cayo-por-debajo-de-900-puntos"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/riesgo-pais-los-bonos-argentinos-rebotan-hasta-33-en-una-jornada-sin-actividad-en-la-plaza-local/",
+     "imagen": "https://www.cronista.com/resizer/v2/HPYT6VZ2VFGNZOGI3X65M3HLR4.png?auth=79fcc650bd7b5ee4510e4f1cfe2d610ed177ba8de92e56e37564c3c36f9c35ed&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "20:07",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Riesgo país: los bonos argentinos rebotaron hasta 3,2% y el indicador perforó los 900 puntos"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Wall Street rebotó con fuerza y los tres índices subieron más de 2%",
+     "resumen": "Los principales índices bursátiles de Nueva York saltaron más de 2% tras el desplome de la semana pasada, con el sector de inteligencia artificial recuperando terreno pese a la turbulencia que atraviesa Nvidia por el escándalo de espionaje de su CEO.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El petróleo cayó más de 5% y las bolsas globales subieron pese a las turbulencias en Nvidia",
+       "url": "https://www.ambito.com/finanzas/las-bolsas-globales-ensayan-un-rebote-el-oro-sube-y-la-incertidumbre-condiciona-wall-street-n6343100"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/wall-street-reboto-fuerza-el-desplome-los-tres-principales-indices-saltaron-mas-del-2-n6343382",
+     "imagen": "https://media.ambito.com/p/e6d2563d98ec3b26215faed9d5a140a4/adjuntos/239/imagenes/041/671/0041671529/wall-street-mercados.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:53",
+     "autor": "",
+     "titulo_original": "Wall Street rebotó con fuerza tras el desplome: los tres principales índices saltaron más del 2%"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "El dato de inflación de Estados Unidos puede extender el rally de los bonos argentinos",
+     "resumen": "Este martes se conoce la inflación de octubre en Estados Unidos. Si el dato queda por debajo del 0,3% proyectado, podría prolongar el apetito por activos de riesgo que ya impulsó al mercado local tras la derrota republicana en las elecciones de medio término.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/10/el-dato-clave-de-estados-unidos-que-puede-extender-el-rebote-de-los-bonos-argentinos-y-la-baja-del-riesgo-pais/",
+     "imagen": "https://www.infobae.com/resizer/v2/I2XG3EAFVNB2RB5O7LIFFI6GHA.jpg?auth=87f1dad65ba60c7dc7370b21408725246f27a092d499a048faadb7032ad8c101&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:26",
+     "autor": "Pablo Wende",
+     "titulo_original": "El dato clave de Estados Unidos que puede extender el rebote de los bonos argentinos y la baja del riesgo país"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Hay señales de desaceleración de precios al arranque de noviembre, antes del dato del Indec",
+     "resumen": "Las consultoras privadas detectaron una moderación en el ritmo de aumento de precios de alimentos y bebidas en la primera semana de noviembre, en parte por el Cyber Monday. El Indec difunde el jueves el índice de octubre; los pronósticos privados lo ubican cerca del 2% mensual.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/10/inflacion-la-buena-senal-de-los-primeros-dias-de-noviembre-y-el-dato-que-el-indec-dara-a-conocer-esta-semana/",
+     "imagen": "https://www.infobae.com/resizer/v2/J6557RNZNVFYJCMSPRXJLWLOGA.jpg?auth=a4b9a9de90874c5da75a06b5a96eeeed91f418512946371c18f47fcb7252a9c1&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:26",
+     "autor": "Lucrecia Eterovich",
+     "titulo_original": "Inflación: la buena señal de los primeros días de noviembre y el dato que el Indec dará a conocer esta semana"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "El Gobierno refuerza el colchón de dólares para evitar estrés cambiario antes de 2027",
+     "resumen": "El equipo de Luis Caputo busca engrosar las reservas para llegar con el tipo de cambio bajo control a las elecciones de 2027, en momentos en que la derrota electoral de Trump le agrega presión al programa financiero. El mercado evalúa distintas alternativas para ese refuerzo.",
+     "relacionadas": [
+      {
+       "id": "IP-18",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cuánto mermó la \"bazuka de dólares\" de Milei en plena suba del riesgo país",
+       "url": "https://www.iprofesional.com/economia/468583-cuanto-mermo-la-bazuka-de-dolares-que-dice-tener-milei"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/alcanza-bazooka-dolares-plan-b-necesita-caputo-evitar-corrida-2027_0_jHHZ4cEdde.html",
+     "imagen": "https://www.clarin.com/img/2026/11/06/1HngiADJS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:07",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "¿Alcanza la bazooka de dólares? El plan B que necesita Caputo para evitar estrés en el tipo de cambio"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "El dólar tarjeta ya superó los 2.000 pesos",
+     "resumen": "La cotización del dólar tarjeta, que incluye la percepción a cuenta del impuesto a las Ganancias, quedó por encima de los 2.000 pesos y afecta a quienes compran en el exterior o usan servicios digitales facturados en moneda extranjera. En paralelo, bancos y consultoras proyectan hasta dónde puede llegar el dólar oficial en diciembre.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El precio más alto al que puede llegar el dólar en diciembre según 15 bancos y consultoras",
+       "url": "https://www.iprofesional.com/finanzas/468590-precio-mas-alto-del-dolar-en-diciembre-2026-segun-15-bancos-y-consultoras"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/468686-dolar-tarjeta-caro-recargo-extra-golpea-consumos-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614834.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:52",
+     "autor": "",
+     "titulo_original": "El dólar tarjeta está más caro de lo esperado: ya superó los $2.000"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-25",
+     "titulo": "Las petroleras argentinas ganaron US$ 5.100 millones más por la suba del crudo",
+     "resumen": "Entre enero y agosto de 2026, las petroleras que operan en el país facturaron 17.475 millones de dólares, un 42% más que en igual período de 2025, por la combinación de precios internacionales más altos y mayor producción y exportación, impulsada en especial por Vaca Muerta.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/10/por-la-suba-del-crudo-las-petroleras-argentinas-aumentaron-sus-ingresos-en-mas-de-usd-5100-millones-en-ocho-meses/",
+     "imagen": "https://www.infobae.com/resizer/v2/HKNLYG2N45BFTAT6KHGBGCXGEE.JPG?auth=5ab56e723cf010d6a22961e408e2b656411158e30c11e1823c7314f4cba1194a&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:26",
+     "autor": "Lola Loustalot",
+     "titulo_original": "Por la suba del crudo, las petroleras argentinas aumentaron sus ingresos en más de USD 5.100 millones en ocho meses"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Las exportaciones de cítricos crecieron 9,3% en la campaña 2026",
+     "resumen": "A través de Terminal Zárate se movilizaron cerca de 90.000 toneladas de fruta y se despacharon 3.500 contenedores, frente a los 3.200 de 2025. Europa concentró el 76% de los envíos y Estados Unidos el 24% restante, según un balance presentado en Tucumán ante 30 empresas del sector.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/crecieron-las-exportaciones-de-citricos-se-movilizaron-90000-toneladas-de-fruta-y-hubo-un-aumento-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SLENQ7KV2FDKVOIZQ5TOA3NWQE.png?auth=0e8fd91808e3f944ae01ee31a87e6f3fcc0feaca5cbb489b1921b80b9de70c6b&smart=true&width=900&height=636",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:31",
+     "autor": "",
+     "titulo_original": "Crecieron las exportaciones de cítricos: se movilizaron 90.000 toneladas de fruta y hubo un aumento del 9,3%"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "La mitad de los empresarios pyme no espera que su empresa crezca el año próximo",
+     "resumen": "Un relevamiento mostró que el 54,9% de los empresarios pyme considera que no es un buen momento para invertir, una proporción apenas 0,8 puntos menor que en el informe anterior, lo que refleja la persistencia de la cautela entre las empresas de menor tamaño.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/la-mitad-los-empresarios-pyme-cree-que-el-desempeno-su-empresa-no-crecera-el-ano-que-viene-n6343304",
+     "imagen": "https://media.ambito.com/p/af722033732dad94e1cce532a0da5725/adjuntos/239/imagenes/042/519/0042519743/1200x675/smart/pyme-2jpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:18",
+     "autor": "",
+     "titulo_original": "La mitad de los empresarios pyme cree que el desempeño de su empresa no crecerá el año que viene"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "Cerrar una fábrica de autos en la Argentina cuesta mucho más que las indemnizaciones",
+     "resumen": "Especialistas laborales explican que un cierre ordenado de una planta automotriz implica, además de las indemnizaciones legales, acuerdos laborales, contratos y obligaciones que sobreviven al cese de producción. El costo país y la calidad del management local influyen en la decisión final de las casas matrices.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/autos/cuales-son-los-costos-de-cerrar-una-fabrica-de-autos-en-la-argentina-y-que-lleva-a-esa-decision-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/A2QOR57UXRCMVOMM6SR6QVWX3Y.jpg?auth=e2e4df6bb93253de6aeba0e6b1bfcc9509637516fd88eda6242acfc5ed482029&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:46",
+     "autor": "Iñaki Zurueta",
+     "titulo_original": "La odisea y los costos de cerrar una fábrica de autos en la Argentina y el trasfondo desconocido qué lleva la decisión"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Otro aeropuerto del interior se amplía con una inversión de 25 millones de dólares",
+     "resumen": "La obra, presentada en los últimos días, busca modernizar y ampliar la terminal aérea de Esquel, en Chubut, en el marco de un proceso de inversión en infraestructura aeroportuaria en el interior del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/468689-otro-aeropuerto-del-interior-se-agranda-con-una-millonaria-inversion-los-detalles",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629408.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:23",
+     "autor": "",
+     "titulo_original": "Otro aeropuerto del interior se agranda con una millonaria inversión: los detalles"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "El RIGI genera apenas dos empleos nuevos por cada millón de dólares invertido",
+     "resumen": "Un estudio sobre los proyectos aprobados en el Régimen de Incentivo para Grandes Inversiones revela su baja intensidad laboral, con la inversión concentrada sobre todo en hidrocarburos y minería, sectores de capital intensivo y escasa generación directa de empleo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/468668-cuantos-empleos-nuevos-se-crearan-por-cada-millon-de-dolares-del-rigi",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/11/563183.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:40",
+     "autor": "",
+     "titulo_original": "Estiman que habrá solo dos nuevos empleos por cada millón de dólares de RIGI"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "Aguinaldo de diciembre: cuándo se cobra y cómo se calcula",
+     "resumen": "La segunda cuota del sueldo anual complementario vence el 18 de diciembre. Se calcula como el 50% de la mejor remuneración mensual, normal y habitual, percibida entre julio y diciembre. Cada trabajador cobra según su sueldo de referencia en ese semestre.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/468452-aguinaldo-diciembre-2026-cuando-se-paga-y-cuanto-cobra-cada-trabajador",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598592.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:01",
+     "autor": "",
+     "titulo_original": "Aguinaldo de diciembre 2026: cuándo se cobra y cuánto le corresponde a cada trabajador"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Monotributo: los errores que pueden dejar excluido a un contribuyente por tres años",
+     "resumen": "ARCA contempla distintas situaciones que derivan en la exclusión automática del monotributo, incluso sin superar el límite de facturación anual, como discrepancias entre lo declarado y los movimientos bancarios o de tarjeta. Quien queda excluido no puede reingresar al régimen durante tres años.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468680-monotributo-los-errores-que-pueden-dejarte-afuera-por-3-anos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596879.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:20",
+     "autor": "",
+     "titulo_original": "Monotributo: los errores que pueden dejarte afuera por 3 años"
+    },
+    {
+     "id": "IP-04",
+     "titulo": "Donar la casa a los hijos en vida puede generar riesgos patrimoniales y legales",
+     "resumen": "Una especialista en derecho sucesorio advirtió que anticipar la donación de un inmueble familiar puede complicar tanto el patrimonio de los padres como los derechos hereditarios de otros herederos, y recomendó evaluar alternativas antes de avanzar con el traspaso.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/468688-por-que-donar-tu-casa-a-tus-hijos-puede-arruinarte-la-advertencia-de-una-experta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/624271.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:36",
+     "autor": "",
+     "titulo_original": "Por qué donar tu casa a tus hijos puede arruinarte: la advertencia de una experta"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-15",
+     "titulo": "Cuánto cuesta construir una casa hoy y dónde se puede ahorrar sin perder calidad",
+     "resumen": "La elección de materiales, el sistema constructivo y la planificación son las variables clave para ajustar el presupuesto de una obra sin resignar durabilidad. Para una empresa de materiales, es una referencia directa sobre qué rubros concentran la demanda de quienes están construyendo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/466407-cuanto-cuesta-construir-una-casa-de-100-m2-y-como-ahorrar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625578.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:18",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta construir una casa y dónde se puede ahorrar sin perder calidad"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "Una cadena minorista china prepara su desembarco en shoppings del AMBA",
+     "resumen": "La firma de origen chino proyecta abrir sus primeras tiendas en centros comerciales del Área Metropolitana de Buenos Aires y planea expandirse al interior del país mediante franquicias. Para el sector retail, es un nuevo competidor a seguir de cerca en el canal shopping.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468657-llega-a-argentina-una-nueva-cadena-internacional-que-vendera",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629384.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:15",
+     "autor": "",
+     "titulo_original": "Llega a Argentina una nueva cadena internacional: qué venderá"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Ni el gimnasio ni la parrilla: cuáles son los amenities más usados en edificios y barrios cerrados",
+     "resumen": "Un relevamiento de casi 50.000 reservas durante el primer semestre de 2026 mostró qué espacios comunes tuvieron más solicitudes en edificios y countries. El dato cobra relevancia a la hora de liquidar expensas y de diseñar nuevos desarrollos inmobiliarios.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/ni-el-gimnasio-ni-la-parrilla-ni-el-sum-cuales-son-los-amenities-mas-usados-en-edificios-y-barrios-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5EAJHZ7HTNGX5J7MJCDZOZAZZQ.JPG?auth=0f9d6c17cd0e6b22973c4995d00f0300361964874ac42e59b454dba62de84bf2&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:48",
+     "autor": "",
+     "titulo_original": "Ni el gimnasio, ni la parrilla ni el SUM: cuáles son los amenities más usados en edificios y barrios cerrados"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "LN-26",
+     "titulo": "El escándalo Nvidia reaviva el riesgo de las infidelidades de CEO para las empresas",
+     "resumen": "El caso de Jensen Huang, que reconoció una infidelidad en medio de una investigación por presuntos vínculos con una agente china, volvió a mostrar cómo la vida privada de un máximo ejecutivo puede golpear a una compañía y a sus accionistas, con antecedentes similares en McDonald's, Intel y Hewlett-Packard.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/negocios/el-escandalo-nvidia-las-infidelidades-de-los-ceo-que-terminaron-costandoles-millones-a-las-empresas-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IYR4SSH4LFEX5BVP6Y5XPXZYCA.webp?auth=2aac64f5b715a07fa802b43d1491df90dd43ecf28e31bdb27f24f0a6c36a5b3c&smart=true&width=900&height=1156",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:18",
+     "autor": "Laura Ponasso",
+     "titulo_original": "El escándalo Nvidia: las infidelidades de los CEO que terminaron costándoles millones a las empresas"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Invertir en obligaciones negociables exige mirar de cerca el riesgo corporativo",
+     "resumen": "Las ON ofrecen rendimientos en dólares atractivos para perfiles conservadores, pero no están libres de riesgo: antes de invertir hay que evaluar la capacidad de la empresa emisora para cumplir sus compromisos financieros y las alternativas de renegociación si no puede pagar su deuda.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/invertir-en-ons-que-pasa-si-una-empresa-no-puede-pagar-su-deuda/",
+     "imagen": "https://www.cronista.com/resizer/v2/4DT2BGRCTBACZOKVWC7AD4MEKE.jpg?auth=a0a51a0aef799dfb9c84e2fa708d4ee683358c86c4dc7f730e7214476d9faa5d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Invertir en ONs: qué pasa si una empresa no puede pagar su deuda"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Tener dinero líquido también es una estrategia financiera",
+     "resumen": "Especialistas señalan que mantener parte del capital disponible, en instrumentos que generen intereses, permite aprovechar oportunidades de mercado y cubrir gastos imprevistos sin tener que vender otros activos de manera anticipada.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/no-todo-es-invertir-por-que-tener-dinero-liquido-tambien-puede-ser-una-estrategia/",
+     "imagen": "https://www.cronista.com/resizer/v2/JU2LFPTMRJCF5JN2BVGXEWOKRY.jpg?auth=fda5b18071bc47f17f6f5915a6eb076b808fadbd6219926adb6d028b8fd36c15&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Rosario Sabato",
+     "titulo_original": "No todo es invertir: por qué tener dinero líquido también puede ser una estrategia"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-21",
+     "titulo": "El escándalo de espionaje chino que involucra al CEO de Nvidia golpea a Wall Street",
+     "resumen": "Jensen Huang reconoció una relación extramatrimonial con una empresaria china señalada por los servicios de inteligencia de Estados Unidos como presunta informante de Pekín. El caso abrió un nuevo frente diplomático entre Washington y Pekín y provocó fuertes pérdidas bursátiles para Nvidia.",
+     "relacionadas": [
+      {
+       "id": "AM-12",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La mayor agencia de espionaje china reclutó a una mujer cuyo objetivo era Jensen Huang",
+       "url": "https://www.ambito.com/mundo/la-mayor-agencia-espionaje-china-recluto-una-mujer-cuyo-objetivo-era-jensen-huang-n6343384"
+      },
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "¿Cómo consigue China los chips de Nvidia pese a las restricciones?",
+       "url": "https://www.clarin.com/estados-unidos/como-consigue-china-los-chips-de-nvidia-pese-a-las-restricciones_0_1u5SL8jXoG.html"
+      },
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"Me dijo que no tenía idea de que era una espía\": Donald Trump defendió al CEO de Nvidia en medio del escándalo por la amante china",
+       "url": "https://www.clarin.com/mundo/dijo-idea-espia-donald-trump-defendio-ceo-nvidia-medio-escandalo-amante-china_0_RMNEhusgxn.html"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Espionaje, infidelidad y tensión entre China y EEUU: escándalo en torno al CEO de Nvidia",
+       "url": "https://www.iprofesional.com/tecnologia/468685-nvidia-escandalo-puso-jaque-negocio-chips-genero-preocupacion-industria"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Las acciones de Nvidia cayeron casi 5% tras el escándalo de la relación de su CEO con una espía china",
+       "url": "https://www.ambito.com/finanzas/las-acciones-nvidia-caen-casi-5-el-escandalo-la-relacion-su-ceo-una-espia-china-n6343203"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/estados-unidos/el-escandalo-del-presunto-espionaje-chino-que-salpica-al-ceo-de-nvidia-abre-otro-frente-entre-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/U6J6LWI3SFBDHFAVBK2UTZYTSU.jpg?auth=f5f05b596c116a248cc87f714d78e491b8f55bdfc35ae31514ade2c4ab80e845&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:45",
+     "autor": "",
+     "titulo_original": "El escándalo del presunto espionaje chino que salpica al CEO de Nvidia abre otro frente entre Washington y Pekín"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Rusia y Ucrania retomaron en Abu Dabi las negociaciones de paz, con Estados Unidos como mediador",
+     "resumen": "Tras nueve meses sin contacto directo, delegaciones rusas y ucranianas se reunieron este martes en Abu Dabi. El eje de las conversaciones son las condiciones de seguridad para ambos países una vez terminado el conflicto, con Jared Kushner como emisario estadounidense.",
+     "relacionadas": [
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Kushner confía en creación de nuevo sistema de seguridad que garantice la paz en Europa",
+       "url": "https://www.infobae.com/america/agencias/2026/11/10/kushner-confia-en-creacion-de-nuevo-sistema-de-seguridad-que-garantice-la-paz-en-europa/"
+      },
+      {
+       "id": "CL-05",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Ucrania y Rusia se reúnen en Abu Dabi en busca de una salida a la guerra",
+       "url": "https://www.clarin.com/estados-unidos/ucrania-y-rusia-se-reunen-en-abu-dabi-en-busca-de-una-salida-a-la-guerra_0_WTL7NUMF6s.html"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/9-meses-contacto-rusia-ucrania-volvieron-sentar-negociar-acuerdo-paz-estados-unidos-mediador_0_cr2A6vjaTC.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/LVsl0rrWy_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras 9 meses sin contacto, Rusia y Ucrania volvieron a sentarse a negociar un acuerdo de paz, con Estados Unidos como mediador"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "La Corte Suprema de Estados Unidos autorizó a Trump a seguir con el muro en Texas",
+     "resumen": "El máximo tribunal suspendió de forma cautelar el bloqueo que un tribunal de distrito había impuesto a la construcción del muro fronterizo en esa región, lo que habilita la reanudación inmediata de las obras pese a las críticas de grupos ambientalistas y vecinos de la zona.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/corte-suprema-estados-unidos-autorizo-donald-trump-continuar-construccion-muro-fronterizo-texas_0_jGCAq76E2J.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/AwN-g201r_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:30",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Corte Suprema de Estados Unidos autorizó a Donald Trump a continuar la construcción del muro fronterizo en Texas"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "Piden un juicio político contra Pete Hegseth, secretario de Defensa de Trump",
+     "resumen": "El legislador republicano Thomas Massie impulsó una resolución para iniciar el proceso de destitución del jefe del Pentágono por su rol en la guerra contra Irán y otras operaciones militares. Los demócratas anticiparon que respaldarán la iniciativa, que la Cámara de Representantes podría votar este miércoles.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/mundo/presentaron-un-pedido-juicio-politico-contra-pete-hegseth-secretario-defensa-donald-trump-n6343365",
+     "imagen": "https://media.ambito.com/p/e6ba821d3c546b62b1911be301aefb79/adjuntos/239/imagenes/042/659/0042659204/1200x675/smart/pete-hegseth-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:57",
+     "autor": "",
+     "titulo_original": "Presentaron un pedido de juicio político contra Pete Hegseth, secretario de Defensa de Donald Trump"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "Qué herramientas tienen los demócratas para enfrentar a Trump tras ganar el Congreso",
+     "resumen": "Tras los resultados de las elecciones de medio término, los demócratas controlan ambas cámaras, pero eso no les da facultades para imponer cualquier ley: pueden negociar fondos, investigar al Ejecutivo y frenar nombramientos desde el Senado, aunque el veto presidencial exige mayorías de dos tercios para ser superado.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/estados-unidos/washington/mr-veto-que-recursos-tienen-los-democratas-para-enfrentar-a-trump-en-el-congreso-y-aprobar-nuevas-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/POXQICZJNFBZJJQ246BT6RFTKA.JPG?auth=d0b78ab21c7445b44ddf1ce0369b799af183368343523a69e536d6826d4dbbf8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:54",
+     "autor": "",
+     "titulo_original": "“Mr. Veto”: qué recursos tienen los demócratas para enfrentar a Trump en el Congreso y aprobar nuevas leyes"
+    },
+    {
+     "id": "IB-08",
+     "titulo": "Mueren dos personas en un ataque con drones de Rusia contra Vínnitsa, en Ucrania",
+     "resumen": "Un ataque del ejército ruso contra la localidad de Ladizhin, en la provincia de Vínnitsa, mató a dos personas y causó daños en infraestructura civil. Las autoridades locales decretaron tres días de luto, en el marco de la invasión rusa iniciada en febrero de 2022.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/10/mueren-dos-personas-en-un-ataque-con-drones-de-rusia-contra-vinnitsa-en-el-centro-de-ucrania/",
+     "imagen": "https://www.infobae.com/resizer/v2/TUHT47GJCJDTNODRBWBASVNWKA.jpg?auth=3bda21e7cef0ebe8f6835b10bea1ef1b195f2d0bc6f2cd452f96aaa45a141a74&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Mueren dos personas en un ataque con drones de Rusia contra Vínnitsa, en el centro de Ucrania"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Más de la mitad de las manifestaciones de Europa en octubre ocurrieron en Francia",
+     "resumen": "Según la ONG ACLED, Francia registró cerca de 2.700 manifestaciones y disturbios en octubre, el nivel más alto desde que esa organización releva datos en 2020, un 386% más que un año atrás. El país suele concentrar un 22% de las protestas europeas, muy por debajo del 54% de octubre.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/10/en-octubre-mas-de-una-manifestacion-de-dos-en-europa-fue-en-francia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Marin Saillofest",
+     "titulo_original": "En octubre, más de una de cada dos manifestaciones celebradas en Europa tuvo lugar en Francia"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Qué revela la composición de la delegación rusa en las negociaciones de Abu Dabi",
+     "resumen": "La revista analiza que Putin volvió a poner al frente de su delegación a un ideólogo y a un militar, en lugar de un diplomático, una señal que para los analistas indica que no hay indicios de que el Kremlin busque poner fin a la guerra en esta ronda de conversaciones con Ucrania.",
+     "relacionadas": [
+      {
+       "id": "CL-17",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tras 9 meses sin contacto, Rusia y Ucrania volvieron a sentarse a negociar un acuerdo de paz, con Estados Unidos como mediador",
+       "url": "https://www.clarin.com/mundo/9-meses-contacto-rusia-ucrania-volvieron-sentar-negociar-acuerdo-paz-estados-unidos-mediador_0_cr2A6vjaTC.html"
+      },
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Kushner confía en creación de nuevo sistema de seguridad que garantice la paz en Europa",
+       "url": "https://www.infobae.com/america/agencias/2026/11/10/kushner-confia-en-creacion-de-nuevo-sistema-de-seguridad-que-garantice-la-paz-en-europa/"
+      }
+     ],
+     "url": "https://legrandcontinent.eu/es/2026/11/09/negociaciones-ucrania-rusia-en-abu-dabi-composicion-delegacion-rusa/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:41",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Negociaciones entre Ucrania y Rusia en Abu Dabi: ¿qué revela la composición de la delegación rusa?"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "La candidata ecologista francesa plantea una Europa como \"potencia de paz\"",
+     "resumen": "En la serie sobre doctrinas francesas de cara a las presidenciales, la candidata de Los Ecologistas sostiene que, tras siglos de guerras en el continente, Europa necesita dar un salto hacia una política exterior propia que la constituya como una potencia orientada a la paz.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/09/la-europa-que-necesitamos/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:29",
+     "autor": "Louis Puel",
+     "titulo_original": "La Europa que necesitamos"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-18",
+     "titulo": "El fútbol argentino entra en la recta final de sus definiciones del año",
+     "resumen": "Estudiantes e Independiente Rivadavia juegan el jueves la Supercopa Argentina en el estadio de Belgrano. Estudiantes definirá además la Copa Libertadores ante Palmeiras el 28 de noviembre, mientras Boca enfrentará a Atlético Mineiro en la final de la Copa Sudamericana, entre otros seis títulos que se reparten antes de 2027.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/futbol-argentino-reparte-titulos-caramelos-todas-definiciones-vienen-fin-ano_0_hxslphAR6Z.html",
+     "imagen": "https://www.clarin.com/img/2026/11/07/_C8SQorOL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El fútbol argentino reparte títulos como caramelos: una por una, todas las definiciones que se vienen antes de fin de año"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "La selección argentina ya está concentrada en Ezeiza para los amistosos ante Uruguay y Costa Rica",
+     "resumen": "Los convocados por Lionel Scaloni comenzaron a llegar al predio Lionel Messi para la nueva Fecha FIFA, con amistosos ante Uruguay y Costa Rica en la Bombonera y el estadio Mario Alberto Kempes, respectivamente. El plantel tendrá novedades, ausencias y varios nombres jóvenes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/10/la-llegada-de-la-seleccion-argentina-a-ezeiza-del-divertido-cruce-entre-chiqui-tapia-y-dibu-martinez-al-abrazo-con-scaloni/",
+     "imagen": "https://www.infobae.com/resizer/v2/OYSZ3A5B4NBOLFD4BV7Y6UFPLA.png?auth=36c2c4f077cfd4cd44089153005429190a7f67269cb297fa6a5c5de6fdd49b55&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:52",
+     "autor": "",
+     "titulo_original": "La llegada de la selección argentina a Ezeiza: del divertido cruce entre Chiqui Tapia y Dibu Martínez al abrazo con Scaloni"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "Los Pumas, con bajas obligadas, buscan reponerse ante Italia",
+     "resumen": "Tras la derrota ante Irlanda, Los Pumas perdieron a Juan Cruz Mallía y probablemente también a Julián Montoya para el partido del sábado ante Italia, por la segunda fecha del segmento europeo del Nations Championship. El encuentro, dirigido por Gonzalo Quesada del lado italiano, se juega a las 8:40 de la mañana argentina.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-con-cambios-obligados-y-ante-la-obligacion-de-levantarse-ante-el-rival-mas-debil-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/K6NYMUT4VNFF3JAWMWWKRQQP2A.jpg?auth=489e13b28e65b2310517246bd1bb69b80e1365faf30282d5e719121e536048bc&smart=true&width=900&height=598",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:02",
+     "autor": "Alejo Miranda",
+     "titulo_original": "Los Pumas, con cambios obligados y ante la obligación de levantarse ante el rival más débil"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "A 25 años de la despedida de Maradona en la Bombonera",
+     "resumen": "El 10 de noviembre de 2001, Diego Maradona tuvo su partido homenaje ante una Bombonera repleta, en una jornada que dejó frases y anécdotas que se volvieron parte de la memoria popular del fútbol argentino, entre la emoción y las peleas de aquella época.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/pelota-mancha-pequenas-historias-25-anos-despedida-maradona-emocion-peleas-fiesta-interminable_0_7VpLHflBZc.html",
+     "imagen": "https://www.clarin.com/img/2026/11/09/qma2qeaUb_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "“La pelota no se mancha”: diez pequeñas historias a 25 años de la despedida de Maradona, entre la emoción, las peleas y una fiesta interminable"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Diego Forlán debuta como entrenador de Uruguay frente a la Argentina",
+     "resumen": "El exdelantero, de 47 años y con fuertes lazos personales con el fútbol argentino desde su paso por Independiente, dirige de manera interina a la selección uruguaya en el amistoso contra el subcampeón del mundo en la Bombonera.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/diego-forlan-contra-la-argentina-independiente-menotti-riquelme-y-amores-de-un-balon-de-oro-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/INU7LC7D2FFNHJTRHG6AVLGLZA.jpg?auth=3ea668a388d698c4bdbf2f5c5e9075f316a77742cb39c170eb2ff1660780c3c0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:43",
+     "autor": "Ariel Ruya",
+     "titulo_original": "Diego Forlán contra la Argentina: Independiente, Menotti, Riquelme y amores de un Balón de Oro convertido en DT de selección"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Lando Norris dice que le ilusiona la idea de correr la Fórmula 1 en la Argentina",
+     "resumen": "El campeón mundial saliente, que ganó el domingo el Gran Premio de San Pablo, afirmó en diálogo con Infobae que las carreras de América son sus favoritas y que le gustaría ver el regreso de la Máxima al país, donde no se corre desde 1998.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/10/lando-norris-con-infobae-espero-con-ilusion-correr-con-la-formula-1-en-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/XFFQRHIX65BSVL5LUA42GYWJOU.jpg?auth=524c2d4625a56204671a65d43f193795428d8a878e0140bc4128efbe66cbfa87&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:47",
+     "autor": "Darío Coronel",
+     "titulo_original": "Lando Norris, con Infobae: “Espero con ilusión correr con la Fórmula 1 en Argentina”"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Adolfo Cambiaso ganó otra vez en Tortugas y suma su título 47 en Triple Corona",
+     "resumen": "A los 51 años, el polista ganó el Abierto de Tortugas con La Natividad-La Dolfina, el equipo que forma junto a su hijo y sus sobrinos. Fue su undécimo título personal en ese certamen y el cuarenta y siete en total por Triple Corona, con el equipo apuntando a ganar las tres competencias de la temporada.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/polo/adolfo-cambiaso-cuenta-el-secreto-de-la-vigencia-la-adrenalina-te-lleva-nid09112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WPTY4LAOSJA5XC3BT5LUMPVHBU.JPG?auth=f1e005d14b6817d79d47d6097b77541b0ee28b88f7d438f05694dcd996d12b45&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:51",
+     "autor": "Alejandro Panfil",
+     "titulo_original": "Adolfo Cambiaso cuenta el secreto de la vigencia: “La adrenalina te lleva”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "La casa de té más antigua de la Patagonia cumple 90 años a orillas del lago Lácar",
+     "resumen": "Frente al lago Lácar, cerca de San Martín de los Andes, la casa de té Arrayán celebró nueve décadas de historia con su clásico Afternoon Tea de acento patagónico, en un homenaje al legado de su fundadora.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/casa-antigua-patagonia-cumple-90-anos-torre-sabores-historia-renee-paisajes-sonados_0_vvPVA4qnDk.html",
+     "imagen": "https://www.clarin.com/img/2026/06/30/hgiI_Fc83_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La casa de té más antigua de la Patagonia cumple 90 años: una torre de sabores, la historia de Renée y paisajes soñados"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Tres sitios argentinos fueron declarados Patrimonio Geológico Mundial",
+     "resumen": "Tres paisajes del territorio argentino fueron incluidos en un listado de 100 sitios de alto valor geológico a nivel mundial, una distinción que pone en valor destinos naturales poco conocidos del interior del país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468674-cuales-son-los-tres-sitios-argentinos-declarados-como-patrimonio-geologico-mundial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629398.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:36",
+     "autor": "",
+     "titulo_original": "Cuáles son los tres sitios argentinos declarados como Patrimonio Geológico Mundial"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "León XIV celebra su segunda misa en Córdoba, ante una multitud que ya supera el millón",
+     "resumen": "El predio de la Fábrica Argentina de Aviones (FAdeA) abrió sus puertas el lunes a la tarde y para la madrugada del martes ya había más de 250.000 fieles. El Papa celebra la misa a las 10 y, por la tarde, vuelve a Buenos Aires para una vigilia con jóvenes en el Monumento de los Españoles.",
+     "relacionadas": [
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Papa León XIV en Argentina EN VIVO día tres: misa en Córdoba, vigilia con jóvenes y últimas noticias",
+       "url": "https://www.ambito.com/politica/papa-leon-XIV-argentina-javier-milei-iglesia-vaticano-caba-lujan-cordoba-misa-fadea-vigilia-jovenes-monumento-españoles-en-vivo-minuto-a-minuto-10-noviembre"
+      },
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "León XIV viaja a Córdoba y encabezará una vigilia con jóvenes en Buenos Aires: la agenda del martes",
+       "url": "https://www.ambito.com/informacion-general/leon-xiv-viaja-cordoba-y-encabezara-una-vigilia-jovenes-buenos-aires-la-agenda-del-martes-n6343386"
+      },
+      {
+       "id": "AM-09",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Qué es FAdeA, la histórica fábrica de aviones que será sede de la misa del papa León XIV en Córdoba",
+       "url": "https://www.ambito.com/informacion-general/que-es-fadea-la-historica-fabrica-aviones-que-sera-sede-la-misa-del-papa-leon-xiv-cordoba-n6343375"
+      },
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cómo será el recorrido del papamóvil por el centro de Córdoba y todas las recomendaciones de la provincia",
+       "url": "https://www.infobae.com/sociedad/2026/11/10/como-sera-el-recorrido-del-papamovil-por-el-centro-de-cordoba-y-todas-las-recomendaciones-de-la-provincia/"
+      },
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Música en vivo y operativo especial: cómo será el encuentro del Papa con los jóvenes esta noche en Palermo",
+       "url": "https://www.infobae.com/sociedad/2026/11/10/musica-en-vivo-y-operativo-especial-como-sera-el-encuentro-con-los-jovenes-en-el-cierre-del-dia-3-de-la-visita-del-papa/"
+      },
+      {
+       "id": "AM-25",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El papa León XIV recibió a cinco víctimas de abuso por parte de miembros de la Iglesia",
+       "url": "https://www.ambito.com/politica/el-papa-leon-xiv-recibio-cinco-victimas-abuso-parte-miembros-la-iglesia-n6343327"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/leon-xiv-en-cordoba-miles-de-fieles-ya-estan-en-el-predio-y-esperan-un-millon-para-la-segunda-misa-en-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/T6O2DFSRFNCEFNFBYVW7NRV7SU.JPG?auth=6e5f73ac67b78de06eaa3731a87e548cd00c666047b28b23a8b4c02a3514f6df&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:04",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "León XIV en Córdoba: miles de fieles ya están en el predio y esperan un millón para la segunda misa en Argentina"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Calor y riesgo de tormentas en Córdoba para la misa del Papa, tiempo estable en Buenos Aires de noche",
+     "resumen": "El Servicio Meteorológico Nacional prevé una máxima de 27 grados y ráfagas de hasta 60 kilómetros por hora en Córdoba, con probabilidad de tormentas desde el mediodía durante la misa en FAdeA. Por la noche, en Palermo, no se esperan lluvias para la vigilia juvenil.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/10/calor-y-tormentas-como-estara-el-tiempo-hoy-en-cordoba-y-buenos-aires-en-el-tercer-dia-de-la-visita-de-leon-xiv/",
+     "imagen": "https://www.infobae.com/resizer/v2/C5DSIX7HTNCVTNICP7C424J36I.jpg?auth=e486e9f35896877b2f3b6e10cf1f97fac080e497bf99ad098f996dc46d8b55a4&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:24",
+     "autor": "",
+     "titulo_original": "Calor y tormentas: cómo estará el tiempo hoy en Córdoba y Buenos Aires en el tercer día de la visita de León XIV"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "La Noche de los Museos 2026 abrirá más de 350 sedes gratuitas el sábado",
+     "resumen": "La 22ª edición de este evento cultural porteño se realiza el sábado 14 de noviembre, de 19 a 2 de la madrugada, con acceso libre y gratuito a museos, teatros y edificios históricos. La convocatoria de este año supera los más de 320 espacios que participaron en 2025.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/noche-de-los-museos-2026-que-visitar-entre-mas-de-350-sedes-gratuitas/",
+     "imagen": "https://www.cronista.com/resizer/v2/U223X3UGY5EHPFSBVBB6MJUNFA.jpeg?auth=bf429025c1b8720c8a045f5f1612fd6bba2fdb8466f63a339ac519654537ccc6&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:48",
+     "autor": "Luz De Sousa Quintas",
+     "titulo_original": "Noche de los Museos 2026: qué visitar entre más de 350 sedes gratuitas"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Por qué hay que controlar la glucemia aunque no haya diagnóstico de diabetes",
+     "resumen": "Un especialista consultado por LN+ remarcó que el valor normal de glucosa en ayunas debe estar por debajo de 100 miligramos por decilitro, y que valores de entre 100 y 125 ya indican que algo funciona mal y conviene estudiarlo con un análisis de hemoglobina glicosilada.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/glucemia-alta-que-pasa-en-el-cuerpo-cuando-aumenta-el-azucar-en-sangre-y-por-que-hay-que-controlarla-nid08112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HJA6KTLUFZDMNAOMPQFB6P22KM.jpg?auth=c97a3181c58ba4cb56f6287134dacef215ff43c7dc8b0fb1d581a955e649e4c0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:35",
+     "autor": "",
+     "titulo_original": "Glucemia alta: qué pasa en el cuerpo cuando aumenta el azúcar en sangre y por qué hay que controlarla"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del martes diez de noviembre.\n\nEl papa León XIV cumple hoy su tercer día en la Argentina, con una misa multitudinaria en Córdoba y, por la noche, una vigilia con jóvenes en Palermo, mientras el Gobierno y la vicepresidenta Victoria Villarruel volvieron a chocar por una supuesta invitación perdida a la misa de ayer. En los mercados, el riesgo país perforó los novecientos puntos el lunes y los bonos argentinos rebotaron de la mano de un repunte global en Wall Street, aunque la atención también está puesta en el escándalo que salpica al director ejecutivo de Nvidia, acusado de vincularse con una presunta espía china. En el plano internacional, Rusia y Ucrania retomaron en Abu Dabi las negociaciones de paz con mediación de Estados Unidos.\n\nAntes de entrar en las secciones, un repaso de las cifras del día. El dólar oficial se mantiene en mil quinientos setenta pesos y el blue en mil quinientos cincuenta y cinco, con los mercados locales todavía cerrados por los feriados de la visita papal. El riesgo país cerró el lunes en ochocientos setenta y tres puntos básicos, con una caída de más del siete por ciento, la mayor en varias semanas. La inflación de septiembre había sido de uno coma nueve por ciento mensual y treinta y tres coma cuatro por ciento interanual, y esta semana el Indec difunde el dato de octubre.\n\nEn política, el principal cruce del día combina religión y gobierno. La vicepresidenta Victoria Villarruel aseguró que nunca recibió el código para ingresar a la misa que el Papa celebró el lunes en el Monumento de los Españoles, pero la Casa Rosada exhibió un correo electrónico enviado cinco días antes para desmentirla. También ayer, en su discurso más pastoral, León XIV reivindicó al obispo riojano Enrique Angelelli, asesinado durante la última dictadura, y pidió a los obispos argentinos ocuparse de los pobres, los desempleados y los ancianos. En la Universidad Católica Argentina, el Pontífice había dicho que la economía debe estar al servicio de la persona y no al revés, un mensaje celebrado por los sindicatos y recibido con más cautela por los empresarios. En otro orden, Neuquén adelantó a mediados de febrero la elección de gobernador, en una provincia con el peronismo dividido y La Libertad Avanza compitiendo fuerte con Nadia Márquez. El Senado, por su parte, prepara dos audiencias para tratar pliegos judiciales en medio de una disputa interna libertaria por la comisión de Acuerdos. Y organismos de derechos humanos pidieron al Papa que expulse del estado clerical al cura Christian von Wernich, condenado a prisión perpetua por crímenes de la dictadura.\n\nEn economía y mercados, la buena noticia de la jornada fue el riesgo país, que bajó siete por ciento y volvió a ubicarse debajo de los novecientos puntos, con los bonos argentinos en dólares subiendo hasta tres coma dos por ciento, en sintonía con un rebote de Wall Street de más de dos por ciento. Hoy se conoce el dato de inflación de Estados Unidos, que si queda por debajo de cero coma tres por ciento podría extender el alivio para los activos argentinos. En el plano local, las consultoras privadas detectaron una desaceleración en los precios de alimentos en la primera semana de noviembre, aunque el mercado todavía espera el dato oficial de octubre, que se conoce el jueves. El dólar tarjeta, que incluye la percepción a cuenta de Ganancias, ya superó los dos mil pesos, mientras bancos y consultoras proyectan a cuánto puede llegar el dólar oficial en diciembre, en momentos en que el equipo económico refuerza el colchón de dólares de cara a las elecciones de dos mil veintisiete.\n\nEn impuestos, laboral y normativa, conviene anotar que la segunda cuota del aguinaldo de diciembre vence el día dieciocho, y que la Agencia de Recaudación puede excluir del monotributo por tres años a quienes cometan ciertos errores, incluso sin superar el tope de facturación. También circula una advertencia de una especialista en derecho sucesorio sobre los riesgos de donar la casa familiar a los hijos en vida, que pueden complicar tanto el patrimonio de los padres como la futura herencia. Para una empresa, son datos para tener el calendario de vencimientos y la planificación sucesoria bien ordenados.\n\nEn consumo, construcción y retail, un informe repasa cuánto cuesta hoy construir una casa y en qué rubros se puede ahorrar sin resignar calidad, algo directamente relevante para el sector de materiales. Además, una cadena minorista de origen chino prepara su desembarco en shoppings del Área Metropolitana con planes de franquicias hacia el interior del país. Y un relevamiento sobre casi cincuenta mil reservas mostró que los amenities más pedidos en edificios y barrios cerrados no son el gimnasio ni la parrilla, sino otros espacios comunes, un dato que empieza a pesar en el diseño de nuevos desarrollos. Para una empresa del sector, son señales de hacia dónde se mueve la demanda y la competencia.\n\nEn management y finanzas corporativas, el escándalo de Nvidia muestra un riesgo poco habitual: cómo la vida privada de un máximo ejecutivo golpea a una compañía y a sus accionistas, con antecedentes en McDonald's, Intel y Hewlett Packard. Especialistas remarcaron además que tener parte del capital en instrumentos líquidos también es una estrategia válida, y que invertir en obligaciones negociables exige mirar de cerca el riesgo de que la empresa emisora no pueda pagar su deuda.\n\nEn el mundo, el hecho más resonante fue el escándalo que involucra a Jensen Huang, director ejecutivo de Nvidia, quien reconoció una relación extramatrimonial con una empresaria china señalada por los servicios de inteligencia de Estados Unidos como una presunta informante de Pekín. El propio Donald Trump salió a respaldarlo, mientras las acciones de la compañía cayeron casi cinco por ciento en Wall Street. Además, la Corte Suprema de Estados Unidos autorizó a Trump a continuar la construcción del muro fronterizo en Texas, suspendiendo un bloqueo judicial previo. En el Congreso, un legislador republicano impulsa un juicio político contra el secretario de Defensa Pete Hegseth, con el respaldo anticipado de los demócratas, que además debaten qué herramientas tienen para frenar los vetos de Trump tras ganar ambas cámaras en las elecciones de medio término.\n\nLe Grand Continent analiza la tensión política europea desde dos ángulos. Por un lado, un informe muestra que más de la mitad de las manifestaciones y disturbios registrados en Europa durante octubre ocurrieron en Francia, con un salto de casi el cuatrocientos por ciento respecto de un año atrás. Por otro, la revista repasa quiénes integran la delegación rusa en las negociaciones de Abu Dabi con Ucrania, un dato que para los analistas confirma que el Kremlin todavía no muestra intenciones reales de cerrar la guerra.\n\nEn deportes, el fútbol argentino entra en una seguidilla de definiciones: Estudiantes e Independiente Rivadavia juegan el jueves la Supercopa Argentina, mientras Estudiantes también define la Copa Libertadores ante Palmeiras a fin de mes y Boca enfrenta a Atlético Mineiro en la final de la Copa Sudamericana. La selección argentina ya está concentrada en Ezeiza de cara a los amistosos ante Uruguay y Costa Rica, con Lionel Scaloni al frente y Uruguay dirigido, por primera vez ante la Argentina, por Diego Forlán. Los Pumas, golpeados por las bajas de Juan Cruz Mallía y Julián Montoya, buscan recuperarse el sábado ante Italia en la segunda fecha del Nations Championship. En polo, Adolfo Cambiaso volvió a ganar en Tortugas con La Natividad La Dolfina, el título número cuarenta y siete de su carrera en la Triple Corona. En la Fórmula uno, Lando Norris contó que sueña con correr algún día en la Argentina. Y hubo un repaso a los veinticinco años de la despedida de Diego Maradona en la Bombonera, todavía recordada como una de las noches más emotivas del fútbol argentino.\n\nEn turismo, para quienes planean una escapada, la casa de té Arrayán, a orillas del lago Lácar en la Patagonia, cumple noventa años y sigue siendo una parada clásica cerca de San Martín de los Andes. Y la Argentina tiene tres sitios reconocidos como Patrimonio Geológico Mundial, una buena excusa para pensar una escapada a paisajes poco conocidos del interior del país.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "Las siete fuentes se descargaron correctamente. El dólar oficial y el blue no tuvieron rueda local el lunes 9 ni el martes 10 por los feriados dispuestos para la visita papal; los valores citados son los últimos disponibles en el panel de mercados.",
+ "slug": "2026-11-10-manana",
+ "generado_ba": "10/11/2026 10:16"
+}
