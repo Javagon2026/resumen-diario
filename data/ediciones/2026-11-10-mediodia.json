@@ -1,0 +1,670 @@
+{
+ "fecha": "2026-11-10",
+ "edicion": "mediodia",
+ "titulo": "Argentina litiga por Malvinas en el Tribunal del Mar y el riesgo país sigue bajando",
+ "apertura": "Mientras el papa León XIV celebra su segunda misa en el país, ante cientos de miles de fieles en Córdoba, el Gobierno argentino presentó este martes en Hamburgo su reclamo contra el Reino Unido ante el Tribunal Internacional del Derecho del Mar para frenar el proyecto petrolero Sea Lion en Malvinas. En los mercados, el riesgo país volvió a bajar y los bonos suben por segunda rueda consecutiva, en una jornada marcada además por el dato de inflación de Estados Unidos y por la salida a bolsa de Anthropic, la empresa detrás de Claude. En el plano político interno, la carpa VIP de la misa papal y la ausencia de Javier Milei en las ceremonias de Córdoba y Luján siguen generando polémica.",
+ "claves": [
+  "Argentina expuso ante el Tribunal Internacional del Derecho del Mar, en Hamburgo, su reclamo para frenar el proyecto petrolero Sea Lion en Malvinas Norte; es la primera vez que litiga contra el Reino Unido ante un tribunal internacional.",
+  "El riesgo país bajó ocho unidades hasta los 865 puntos este martes, tras el fuerte rebote del lunes, y los bonos en dólares vuelven a subir hasta 0,34%.",
+  "La inflación de Estados Unidos en octubre subió 0,4%, por encima de lo esperado, lo que reaviva la posibilidad de una suba de tasas de la Fed en diciembre.",
+  "Anthropic, la empresa detrás de Claude, avanza con su salida a bolsa y apunta a recaudar hasta 64.400 millones de dólares, con una valuación de hasta 1,4 billones de dólares.",
+  "Sigue la polémica por la carpa VIP de la misa papal en Palermo, con monjas sentadas en el piso mientras funcionarios y celebridades tenían catering y lugar preferencial; Jorge Macri admitió que \"las medialunas y los budines estuvieron de más\".",
+  "Javier Milei no asistirá a las misas de Córdoba ni de Luján y en Casa Rosada relativizan las menciones papales a la pobreza, el trabajo y la discapacidad; la prensa internacional las interpretó como un cuestionamiento al ajuste.",
+  "La recaudación tributaria mejoró apenas 0,7% real interanual en octubre y acumula una caída cercana al 3% en el año; Ganancias y los derechos de exportación explicaron la mejora, mientras el IVA y el impuesto al cheque siguen cayendo.",
+  "Un relevamiento detectó 4.625 kilómetros de rutas nacionales en mal estado en 21 provincias, con demoras de hasta cuatro horas en el tramo más crítico, en la ruta 151 entre Puelén y Cipolletti."
+ ],
+ "cifras": [
+  {
+   "nombre": "Riesgo país (intradía)",
+   "valor": "865 puntos",
+   "variacion": "-8 puntos",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Inflación de Estados Unidos (octubre)",
+   "valor": "0,4%",
+   "fuente": "CL-03"
+  },
+  {
+   "nombre": "Valuación objetivo de la IPO de Anthropic",
+   "valor": "hasta US$ 1,4 billones",
+   "fuente": "AM-11"
+  },
+  {
+   "nombre": "Recaudación tributaria (variación real interanual, octubre)",
+   "valor": "+0,7%",
+   "fuente": "CR-09"
+  },
+  {
+   "nombre": "Rutas nacionales en mal estado",
+   "valor": "4.625 km en 21 provincias",
+   "fuente": "AM-06"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "Argentina litiga por primera vez contra el Reino Unido en el Tribunal del Mar por Malvinas",
+     "resumen": "El Gobierno expuso este martes en Hamburgo su reclamo ante el Tribunal Internacional del Derecho del Mar para frenar el proyecto petrolero Sea Lion, impulsado por Navitas Petroleum y Rockhopper Exploration en la cuenca Malvinas Norte. Es la primera vez que el país litiga contra el Reino Unido ante un tribunal internacional por la soberanía de las islas; las audiencias se extienden hasta el miércoles.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Malvinas: Argentina y Reino Unido se enfrentan desde hoy en el Tribunal del Mar por el petróleo y la soberanía",
+       "url": "https://www.ambito.com/energia/malvinas-argentina-y-reino-unido-se-enfrentan-hoy-el-tribunal-del-mar-el-petroleo-y-la-soberania-n6343511"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Argentina fue al Tribunal del Mar para frenar Sea Lion en Malvinas: “Los isleños no pueden apropiarse de los recursos de la plataforma continental en disputa”",
+       "url": "https://www.infobae.com/politica/2026/11/10/argentina-va-al-tribunal-del-mar-para-frenar-sea-lion-en-malvinas-los-argumentos-contra-el-reino-unido/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/malvinas-argentina-expuso-su-reclamo-ante-el-tribunal-del-mar-para-frenar-la-explotacion-petrolera-britanica/",
+     "imagen": "https://www.cronista.com/resizer/v2/5NASW2P7RVBZJHHBSTK4OWTYCY.jpeg?auth=95159e4d9bc0d3fe964095317610bd801064e2b0e8947e19d75d0dfe0f1bb247&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:33",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Malvinas: Argentina expuso su reclamo ante el Tribunal del Mar para frenar la explotación petrolera británica"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "Sigue la polémica por la carpa VIP de la misa papal: hubo monjas sentadas en el piso",
+     "resumen": "La zona exclusiva para funcionarios y celebridades en la misa de León XIV en Palermo, con catering de lujo y lugar preferencial frente al escenario, generó reclamos políticos y pedidos de transparencia sobre los gastos y la lista de invitados. El jefe de Gobierno porteño, Jorge Macri, admitió que \"las medialunas y los budines estuvieron de más, no fue un lujo descomunal\".",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Jorge Macri habló de la carpa VIP en la misa del Papa en Palermo y admitió: “Las medialunas y budines estuvieron de más”",
+       "url": "https://www.clarin.com/politica/jorge-macri-hablo-carpa-vip-misa-papa-palermo-admitio-medialunas-budines_0_m5b2g0bFv8.html"
+      },
+      {
+       "id": "LN-06",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Fuerte polémica por la “carpa VIP” en la misa del Papa en Palermo a la que asistieron políticos y famosos",
+       "url": "https://www.lanacion.com.ar/deportes/fuerte-polemica-por-la-carpa-vip-en-la-misa-del-papa-en-palermo-a-la-que-asistieron-politicos-y-nid10112026/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/politica/468709-fuerte-rechazo-a-la-carpa-vip-de-famosos-que-dejo-a-monjas-sentadas-en-el-piso",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629430.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:43",
+     "autor": "",
+     "titulo_original": "Gran indignación por la carpa VIP de famosos que dejó a monjas sentadas en el piso"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Milei no asistirá a las misas de Córdoba ni de Luján y en Casa Rosada relativizan al Papa",
+     "resumen": "El Presidente faltará a las ceremonias religiosas de Córdoba y Luján, mientras en Balcarce 50 minimizan las advertencias de León XIV sobre la pobreza, el trabajo, la discapacidad y los límites del poder, e insisten en que son referencias generales a la doctrina social de la Iglesia y no mensajes dirigidos a Milei.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno lamenta que \"todos interpretan que el Papa le habla a Milei y el mensaje es para todos\"",
+       "url": "https://www.iprofesional.com/politica/468708-el-mensaje-es-para-todos-la-explicacion-del-gobierno-ante-las-palabras-del-papa-a-milei"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/javier-milei-se-ausenta-las-misas-cordoba-y-lujan-mientras-casa-rosada-relativizan-los-mensajes-del-papa-leon-xiv-n6343496",
+     "imagen": "https://media.ambito.com/p/c7f51057bb34b7412a7ad32e168bf19a/adjuntos/239/imagenes/043/759/0043759833/1200x675/smart/javier-milei-papa-lleon.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:19",
+     "autor": "",
+     "titulo_original": "Javier Milei se ausenta de las misas de Córdoba y Luján, mientras en Casa Rosada relativizan los mensajes del papa León XIV"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "La prensa internacional interpretó los mensajes del Papa como un cuestionamiento a Milei",
+     "resumen": "Medios de Estados Unidos y Europa leyeron los discursos de León XIV en la Argentina como críticas veladas a las políticas de ajuste del Gobierno, los recortes en discapacidad y el estilo confrontativo del Presidente, pese a que el Vaticano no mencionó a Milei de forma directa.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/la-prensa-internacional-puso-el-foco-javier-milei-los-mensajes-del-papa-leon-xiv-argentina-n6343401",
+     "imagen": "https://media.ambito.com/p/db3698f1ca8622a20061edd0e197e227/adjuntos/239/imagenes/043/755/0043755371/1200x675/smart/milei-y-leon-xiv-1.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:58",
+     "autor": "",
+     "titulo_original": "La prensa internacional puso el foco en Javier Milei tras los mensajes del papa León XIV en la Argentina"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "El Papa se reunió en privado en Córdoba con 20 personas en situación de vulnerabilidad",
+     "resumen": "Tras la misa en FAdeA, León XIV mantuvo un encuentro reservado con 20 personas vinculadas con la Vicaría de los Pobres, seleccionadas por el arzobispo Ángel Rossi. Entre ellas estuvo Alba Camargo, hija de desaparecidos e impulsora de la identificación de víctimas en el centro clandestino La Perla.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-papa-en-cordoba-conversara-con-20-personas-que-viven-en-situaciones-de-exclusion-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7AF3ILDNSREV7NWO6YV4WUHWUQ.JPG?auth=80b1eaae9e6dda7630ab0a523fdcfbbf72ce0e9ea9a552e541220a9537e4120d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:16",
+     "autor": "Gabriela Origlia",
+     "titulo_original": "El Papa, en Córdoba: conversará con 20 personas que viven en situaciones de vulnerabilidad y exclusión"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Una dirigente sindical le llevó al Papa el reclamo laboral de los trabajadores informales",
+     "resumen": "Sabrina Spadone, del gremio de empleados de ARCA y delegada de Avellaneda, expuso ante representantes de la Iglesia que \"no vivimos para trabajar, trabajamos para vivir dignamente\", en el marco de la agenda sindical que acompañó la visita papal.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/politica/468695-quien-es-la-dirigente-que-llevo-el-reclamo-laboral-y-sindical-al-papa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629416.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:25",
+     "autor": "",
+     "titulo_original": "Quien es la dirigente que llevó el reclamo laboral y sindical al Papa"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "El riesgo país bajó a 865 puntos y los bonos argentinos vuelven a subir",
+     "resumen": "Sin actividad en la plaza local, los bonos soberanos operan en alza en el exterior por segunda rueda consecutiva, con subas de hasta 0,34% en los Globales. El riesgo país cayó ocho unidades hasta los 865 puntos, aunque en lo que va del año acumula una suba del 51%. El mercado mira tres factores: el voto del FMI sobre la tercera revisión y el desembolso de 900 millones de dólares, la decisión de inversión del proyecto de GNL de YPF prevista para el 26 de noviembre, y la evolución de los spreads soberanos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-bonos-vuelven-a-subir-y-el-riesgo-pais-se-toma-un-respiro/",
+     "imagen": "https://www.cronista.com/resizer/v2/OTG66POGSFBQZE6VDYX4D2YCHI.png?auth=300db8624e24da9740a3616d0e170a056a493ff21ccd396ffd6604c0648a6b89&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:25",
+     "autor": "Leandro Dario",
+     "titulo_original": "Los bonos vuelven a subir y el riesgo país se toma un respiro"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "La inflación de octubre en Estados Unidos subió 0,4% y supera las expectativas",
+     "resumen": "El dato, conocido este martes, desafía a la Casa Blanca y a la Reserva Federal y sugiere un posible aumento de tasas en diciembre. Los precios de energía, transporte y servicios siguieron en alza; el costo de vida fue un factor clave en las elecciones de medio término, que los demócratas ganaron en ambas cámaras.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/aumenta-inflacion-en-eeuu-indicio-de-que-alza-de-precios-sigue-siendo-un-desafio_0_64OHFh6moB.html",
+     "imagen": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Aumenta inflación en EEUU, indicio de que alza de precios sigue siendo un desafío"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "La recaudación necesita acelerar en el último bimestre para cumplir la meta del Presupuesto",
+     "resumen": "Los ingresos tributarios mejoraron apenas 0,7% real interanual en octubre, cuarto mes consecutivo sin caída, pero acumulan una baja cercana al 3% en el año. Ganancias subió 17% real, los derechos de exportación treparon 155% por una base de comparación baja y el impuesto a los combustibles avanzó 14%; en cambio, el IVA impositivo y el impuesto al cheque, ligados a la actividad, volvieron a caer.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/recaudacion-que-impuestos-deben-crecer-para-cumplir-la-meta-del-presupuesto/",
+     "imagen": "https://www.cronista.com/resizer/v2/JNT5AKS4QBEAZG2SUSYZPEIHXY.png?auth=dff41823e42c093ffd8b5985320d5528cdfe66f661c9c9504a5efde01fb673a3&smart=true&width=900&height=564",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:07",
+     "autor": "Matías Rufino",
+     "titulo_original": "Recaudación: qué impuestos deben crecer para cumplir la meta del Presupuesto"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "El oro recuperó los 4.100 dólares tras el triunfo demócrata en las elecciones de Estados Unidos",
+     "resumen": "El metal precioso había caído por debajo de los 4.000 dólares por el dólar firme y los altos rendimientos de los bonos del Tesoro, pero rebotó después de que el triunfo demócrata en el Congreso presionara al dólar a la baja. La Fed sigue en el centro de la escena: el mercado asigna alta probabilidad a una nueva suba de tasas en diciembre, lo que limita la recuperación del oro.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-oro-volvio-a-subir-y-recupero-los-us-4100-en-un-nuevo-contexto-mundial-las-razones-detras-del-alza/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZYWQZGMCSNDNHG7QYWM4YRRBVU.jpg?auth=b5242b202d10dcebc782dfd8aeddc21536889a03f3696cedd8fce7ecb3688461&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:56",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El oro recuperó los u$s 4000 en un nuevo contexto mundial: las razones detrás del alza y cómo sigue"
+    },
+    {
+     "id": "AM-22",
+     "titulo": "La Provincia convocó una audiencia pública para definir las tarifas de luz",
+     "resumen": "Será el 16 de diciembre, de forma virtual, en el marco de la Revisión Tarifaria Integral de la electricidad bonaerense. Participarán las distribuidoras EDELAP, EDEN, EDEA y EDES, además de las cooperativas eléctricas. Para una empresa: cualquier ajuste en los cuadros tarifarios impacta directamente en el costo energético de sucursales y depósitos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/tarifas-luz-la-provincia-convoco-una-audiencia-publica-definir-los-cuadros-tarifarios-n6343418",
+     "imagen": "https://media.ambito.com/p/d14a4666485eafb0e89b12c46b128f91/adjuntos/239/imagenes/043/628/0043628436/1200x675/906x220:926x240/energia-electricidad-tarifas-subsidios-luz.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:41",
+     "autor": "",
+     "titulo_original": "Tarifas de luz: la Provincia convocó a una audiencia pública para definir los cuadros tarifarios"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "ANSES retoma el calendario de pagos de noviembre tras los feriados por la visita papal",
+     "resumen": "Los feriados del lunes y el martes por la visita de León XIV obligaron a correr el inicio de los pagos a jubilados, pensionados y beneficiarios de la AUH con DNI terminado en 0 a 4, que ahora comienzan a cobrar el miércoles. El aumento de noviembre es del 1,9%, según la fórmula de movilidad atada a la inflación de septiembre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/anses-retoma-el-calendario-de-pagos-tras-los-feriados-cuando-cobran-jubilados-pensionados-y-auh-en-noviembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/NDFP2HT3ORFSRDYE6RQCVMVZIM.jpg?auth=59d2bccb49dd977f1d753d541e120a013ada65e27630fcbc602df40adc30b005&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:05",
+     "autor": "Equipo Audiencias Argentina",
+     "titulo_original": "ANSES retoma el calendario de pagos tras los feriados: cuándo cobran jubilados, pensionados y AUH en noviembre"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "AM-11",
+     "titulo": "Anthropic avanza en su salida a bolsa con una valuación de hasta 1,4 billones de dólares",
+     "resumen": "La compañía detrás de Claude busca recaudar hasta 64.400 millones de dólares en el Nasdaq, una cifra por debajo de lo que esperaban algunos inversores y que llega en un momento débil para las acciones ligadas a la inteligencia artificial. De concretarse, se acercaría al récord de recaudación que tiene SpaceX.",
+     "relacionadas": [
+      {
+       "id": "CL-24",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Anthropic, la dueña de Claude, apunta a recaudar US$ 64.400 millones en su salida a Bolsa y se acerca al récord de SpaceX",
+       "url": "https://www.clarin.com/economia/anthropic-duena-claude-apunta-recaudar-us-64400-millones-salida-bolsa-acerca-record-spacex_0_kBVJR24j4j.html"
+      }
+     ],
+     "url": "https://www.ambito.com/tecnologia/anthropic-avanza-su-salida-la-bolsa-y-apunta-una-valuacion-us-14-billones-n6343498",
+     "imagen": "https://media.ambito.com/p/65ec9db535816cc6c04de9e1dcaca0d2/adjuntos/239/imagenes/043/411/0043411026/1200x675/3173x1602:3193x1622/anthropic.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:58",
+     "autor": "",
+     "titulo_original": "Anthropic avanza con su salida a la bolsa y apunta a una valuación de hasta u$s 1,4 billones"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Tesla confirmó su desembarco oficial en la Argentina",
+     "resumen": "La compañía de Elon Musk anunció la apertura de un espacio de exhibición y pruebas de manejo en el país, en paralelo a una transformación industrial que marcará una nueva etapa en sus operaciones internacionales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/autos/tesla-confirmo-cuando-llega-la-argentina-y-prepara-un-cambio-clave-su-estrategia-mundial-n6343445",
+     "imagen": "https://media.ambito.com/p/50b738a59177631aec0da72fba5b0db5/adjuntos/239/imagenes/043/727/0043727654/tesla-argentina-2-750x3752.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:30",
+     "autor": "",
+     "titulo_original": "Tesla confirmó cuándo llega a la Argentina y prepara un cambio clave en su estrategia mundial"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "El negocio religioso y turístico detrás de la visita del Papa mueve hasta 400 millones de dólares",
+     "resumen": "La llegada de León XIV activó la venta de artículos religiosos y disparó la demanda de hoteles y pasajes en las ciudades que recibieron al Pontífice. Las estimaciones del sector anticipan un movimiento económico de hasta 400 millones de dólares asociado al evento.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/efecto-leon-xiv-el-millonario-negocio-que-se-mueve-detras-la-visita-del-papa-n6338467",
+     "imagen": "https://media.ambito.com/p/a71371ee3d76ce90f1d5e251bed9ccbf/adjuntos/239/imagenes/043/700/0043700884/1200x675/204x335:224x355/papa-leon-xiv-gemelli-1-vatican-news-2.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:38",
+     "autor": "",
+     "titulo_original": "Efecto León XIV: el millonario negocio que se mueve detrás de la visita del Papa"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "Morgan Stanley identificó qué acciones de inteligencia artificial pueden ganar o perder",
+     "resumen": "Tras las elecciones de medio término en Estados Unidos, el banco revisó el negocio de la inteligencia artificial y detectó oportunidades y riesgos puntuales para distintas compañías del sector, en un contexto de mayor volatilidad para esas acciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/468561-morgan-stanley-avisa-que-acciones-de-ia-pueden-subir-o-caer",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/570178.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:10",
+     "autor": "",
+     "titulo_original": "Morgan Stanley avisa qué acciones pueden ganar y perder con las limitaciones para la IA"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IB-24",
+     "titulo": "Un fallo laboral declaró que el bloqueo sindical está fuera del orden jurídico",
+     "resumen": "Un juzgado de La Matanza avaló el despido de un trabajador que participó de un bloqueo del Sindicato de Químicos de Avellaneda contra la empresa Química Rame, que había debido cerrar diez días en enero de 2022 por la protesta, con una pérdida estimada en más de 70 millones de pesos. El fallo consideró que ese tipo de medida no tiene amparo legal.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/10/un-juzgado-laboral-de-la-matanza-dictamino-que-el-bloqueo-sindical-esta-fuera-del-orden-juridico-nacional-e-internacional/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZMI5XN3X65GPVLYXRKEXP37XRQ.jpeg?auth=4c74e22fc9d6fdc186e8565a891d09bfc71ee35eb0ef30bbb4f96b1c765cd4ec&smart=true&width=868&height=584",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:05",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "Un juzgado laboral de La Matanza dictaminó que el bloqueo sindical está fuera del orden jurídico nacional e internacional"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "Impuesto a las Ganancias: así cambiarán los mínimos y las escalas desde enero de 2027",
+     "resumen": "La actualización de los tramos dependerá de la inflación del segundo semestre de 2026 y se conocerá recién sobre el cierre del año. El ajuste define qué deducciones se aplican a cada nivel de ingreso y a partir de qué monto empieza a tributarse el impuesto.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468455-impuesto-a-las-ganancias-desde-que-sueldo-se-pagara-en-enero-de-2027",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/12/608289.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:25",
+     "autor": "",
+     "titulo_original": "Impuesto a las Ganancias: cómo cambiarán los mínimos y las escalas desde enero de 2027"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "La Justicia citó a Furlán y a otros dirigentes de la UOM por presunta administración fraudulenta",
+     "resumen": "Se les imputa una administración infiel que habría perjudicado al gremio metalúrgico y a su obra social, en una causa que también investiga el funcionamiento de la empresa USEM SA.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/468690-la-justicia-cito-a-furlan-y-dirigentes-de-la-uom-por-presunta-administracion-fraudulenta",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/03/533149.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:15",
+     "autor": "",
+     "titulo_original": "La justicia citó a Furlán y dirigentes de la UOM por presunta administración fraudulenta"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "AM-06",
+     "titulo": "Detectan 4.625 kilómetros de rutas nacionales en mal estado en 21 provincias",
+     "resumen": "Un relevamiento identificó 37 tramos críticos con demoras de hasta cuatro horas; el más grave está en la ruta nacional 151, entre Puelén y Cipolletti, con 210 kilómetros deteriorados. Para una empresa: el estado de la red vial encarece los plazos y costos de distribución de materiales hacia el interior del país.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/rutas-mal-estado-detectan-37-tramos-criticos-y-demoras-cuatro-horas-n6343515",
+     "imagen": "https://media.ambito.com/p/d54e565104126a9b6a9edbae0e57e6ef/adjuntos/239/imagenes/043/430/0043430520/1200x675/829x670:849x690/rutas-mal-estado.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:53",
+     "autor": "",
+     "titulo_original": "Rutas en mal estado: detectan 37 tramos críticos y demoras de hasta cuatro horas"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "Unicenter encara una ampliación millonaria con nuevas marcas y servicios de salud",
+     "resumen": "El shopping de Martínez inició obras que sumarán locales comerciales, gastronomía y servicios de salud. La empresa no precisó la fecha exacta de finalización de los trabajos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468419-unicenter-se-transforma-como-sera-el-nuevo-shopping-de-martinez",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618665.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:40",
+     "autor": "",
+     "titulo_original": "Unicenter se transforma: cómo será el nuevo shopping de Martínez"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "Abre un nuevo shopping en Buenos Aires con 42 locales y supermercado",
+     "resumen": "El nuevo paseo comercial incorporará marcas de gastronomía reconocidas además de un supermercado, aunque todavía no se confirmó la fecha de inauguración.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468410-abre-un-nuevo-shopping-en-buenos-aires-donde-esta-y-que-marcas-tendra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629185.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:25",
+     "autor": "",
+     "titulo_original": "Abre un nuevo shopping en Buenos Aires: dónde está y qué marcas tendrá"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Un shopping argentino abrirá cinco tiendas internacionales el mismo día",
+     "resumen": "El centro comercial prepara la apertura simultánea de cinco locales de marcas internacionales, en un movimiento que busca renovar su oferta comercial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468534-un-shopping-argentino-abrira-5-tiendas-internacionales-el-mismo-dia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619163.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:30",
+     "autor": "",
+     "titulo_original": "Un shopping argentino abrirá 5 tiendas internacionales el mismo día"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Havanna prepara su primer autoservicio en la Ruta 2 y lanzará un nuevo alfajor en 2027",
+     "resumen": "La cadena marplatense apuesta a un nuevo formato de venta sobre una ruta de alto tránsito turístico y proyecta alianzas comerciales para ganar mercados en el exterior.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468704-havanna-proyecta-locales-de-autoservicio-y-un-nuevo-alfajor-para-2027",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625191.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:03",
+     "autor": "",
+     "titulo_original": "Havanna prepara su primer autoservicio en la Ruta 2 y un nuevo alfajor para 2027"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "Qué créditos ofrecen Banco Nación y Banco Ciudad a las pymes",
+     "resumen": "Banco Nación tiene una oferta amplia que incluye capital de trabajo, inversión, compra de maquinaria, bienes de capital, parques industriales y comercio exterior, con líneas como Pellegrini Mi Banco. Banco Ciudad concentra su propuesta en capital de trabajo, descuento de cheques e inversión, con líneas específicas para emprendedores.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/creditos-para-pymes-que-ofrecen-banco-nacion-y-banco-ciudad/",
+     "imagen": "https://www.cronista.com/resizer/v2/2753TSQHIRCCLAMLZVXKQ5TWNM.jpg?auth=0a2d6df8091afe28eaf8e9dd8376cc3d1501c9917cf2a398ffd0a40a49561e5b&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:15",
+     "autor": "Audiencias Member",
+     "titulo_original": "Créditos para PyMEs: qué ofrecen Banco Nación y Banco Ciudad"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Un empresario cuestionó el mensaje del Papa sobre redistribución: \"Primero hay que generar riqueza\"",
+     "resumen": "Mario Grinman, titular de la Cámara Argentina de Comercio y Servicios, respaldó los conceptos de León XIV sobre la dignidad del trabajo, pero advirtió que la Argentina necesita consolidar un modelo que genere divisas y riqueza antes de discutir su redistribución.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/10/que-vamos-a-redistribuir-si-el-pais-que-nunca-genero-riquezas-la-reflexion-de-un-empresario-tras-el-mensaje-del-papa/",
+     "imagen": "https://www.infobae.com/resizer/v2/ML4TSAVAAJCRFMTYVY7ZVHJDSQ.png?auth=3a772410a4814930436150685b1f4de25b8f55181479778474ca92d013a4d1ef&smart=true&width=900&height=574",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:24",
+     "autor": "",
+     "titulo_original": "¿Qué vamos a redistribuir si el país que nunca generó riquezas?“: la reflexión de un empresario tras el mensaje del Papa"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Empresarios y la UIA mostraron sintonía con el Papa y se comprometieron con la creación de empleo",
+     "resumen": "La Unión Industrial Argentina afirmó que el desarrollo del sector privado solo tiene sentido si mejora la calidad de vida de la gente, en línea con el reclamo de León XIV de poner el trabajo en el centro de las políticas públicas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/empresarios-muestran-sintonia-el-papa-leon-xiv-y-declaran-su-compromiso-la-creacion-empleo-n6343428",
+     "imagen": "https://media.ambito.com/p/4a6cbfcbbd65710c0a77d064e897fc06/adjuntos/239/imagenes/043/758/0043758189/1200x675/smart/leon-xiv-uca-2.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:21",
+     "autor": "",
+     "titulo_original": "Empresarios muestran sintonía con el papa León XIV y declaran su compromiso con la creación de empleo"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "Los riesgos de pedirle consejos económicos y financieros a un chatbot",
+     "resumen": "Especialistas advierten que herramientas como ChatGPT pueden dar respuestas rápidas y organizadas, pero el problema es que operan con datos desactualizados y sin conocer la situación financiera real de cada empresa o persona, lo que puede llevar a decisiones equivocadas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/468562-iadiccion-riesgos-de-pedirle-consejos-economicos-a-chatgpt",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629291.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:05",
+     "autor": "",
+     "titulo_original": "IAdicción: los riesgos de pedirle consejos económicos y financieros a ChatGPT"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-14",
+     "titulo": "Un choque múltiple en Bulgaria dejó 11 muertos y 86 vehículos involucrados",
+     "resumen": "El accidente se produjo sobre la autopista Trakia, cerca de la ciudad de Yambol, en el sudeste del país. La principal hipótesis de las autoridades es que la cadena de choques se originó por una niebla espesa y repentina.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/tragico-choque-multiple-bulgaria-11-muertos-86-vehiculos-involucrados_0_IPKtLMCcYm.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/mWFYWk1uf_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Impactante choque múltiple en Bulgaria: ya hay 11 muertos y 86 vehículos involucrados"
+    },
+    {
+     "id": "IB-10",
+     "titulo": "España: Feijóo presentó el programa electoral del PP a 19 días de las elecciones generales",
+     "resumen": "Con la campaña por arrancar esta semana y una huelga general convocada por el costo de vida, las encuestas mantienen su tendencia: el PP y Vox sumarían mayoría absoluta, mientras el PSOE remonta levemente sin compensar la caída de los partidos a su izquierda.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/espana/2026/11/10/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-huelga-general-y-el-funeral-por-las-victimas-de-urda/",
+     "imagen": "https://www.infobae.com/resizer/v2/LM4WOF35N5CGFACZTRVEAN734U.jpg?auth=5887a18413c656bfc16218fc66be1ad29430b24337ca5358259a7e77833c8dfe&smart=true&width=600&height=400",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:09",
+     "autor": "Fede Sáenz, Andrea de Lucas",
+     "titulo_original": "Elecciones generales 29-N, en directo: Feijóo presenta en Madrid el programa electoral del PP"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Estados Unidos evacuó aviones cisterna de una base en el Reino Unido por una amenaza vinculada a Irán",
+     "resumen": "Dos aviones de reabastecimiento que operaban desde la base RAF Mildenhall fueron desviados a Alemania, y otros se trasladaron a distintos puntos de Europa, según The Wall Street Journal. Es la segunda base británica de la que Washington retira aeronaves en menos de dos meses por sospechas de amenazas ligadas a Irán.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/10/estados-unidos-evacuo-aviones-cisterna-de-una-base-en-el-reino-unido-tras-una-nueva-amenaza-vinculada-a-iran/",
+     "imagen": "https://www.infobae.com/resizer/v2/E6LTU3CT7NBVNFXXZ4HEZ2PLXA.JPG?auth=19515f603258825bc35a63a84be116288e9a135125c799cf17023c1cc024aa1a&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:11",
+     "autor": "",
+     "titulo_original": "Estados Unidos evacuó aviones cisterna de una base en el Reino Unido tras una nueva amenaza vinculada a Irán"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Acusan a Hamas de confiscar refugios y bloquear obras para proteger a familias desplazadas en Gaza",
+     "resumen": "Testimonios recogidos por The Telegraph indican que la milicia islamista incautó materiales humanitarios e impidió tareas de protección ante las tormentas de fin de semana, que derribaron un terraplén sobre carpas en Deir al Balah y mataron a cuatro personas, entre ellas tres niños. Cerca de 1,5 millones de gazatíes enfrentan el invierno sin refugios adecuados.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/10/el-grupo-terrorista-hamas-confisco-refugios-y-bloqueo-obras-para-proteger-de-las-tormentas-a-las-familias-desplazadas-en-gaza/",
+     "imagen": "https://www.infobae.com/resizer/v2/RB2Z3V6ID5EURJ5NTWUGJOZRSU.jpg?auth=9adae0a3171f3f507ba1c0b1a39982efab14b3f354b594aa8fe3a50cce5e67f6&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:42",
+     "autor": "",
+     "titulo_original": "El grupo terrorista Hamas confiscó refugios y bloqueó obras para proteger de las tormentas a las familias desplazadas en Gaza"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Hallaron tronos tallados en roca y una jarra casi intacta en una necrópolis etrusca de Italia",
+     "resumen": "El hallazgo se produjo durante un operativo de emergencia para contener derrumbes en la necrópolis de Monte Abatone, en Cerveteri, cerca de Roma. Los arqueólogos encontraron cámaras funerarias con bóvedas originales, paredes pintadas de rojo y una jarra estamnoide con decoración figurada, considerada de carácter excepcional.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/10/encuentran-tronos-tallados-en-roca-y-una-jarra-casi-intacta-durante-un-operativo-de-emergencia-en-una-necropolis-etrusca-de-italia/",
+     "imagen": "https://www.infobae.com/resizer/v2/4RHHFJ32LJEXNAFYMUO3DLN4SE.jpg?auth=a4e6c6ca1f9f88eb31d4bb6259cc225613b756752935d2b2bfa46fa834292cbd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:06",
+     "autor": "Celeste Sawczuk",
+     "titulo_original": "Encuentran tronos tallados en roca y una jarra casi intacta durante un operativo de emergencia en una necrópolis etrusca de Italia"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent analiza si la extrema derecha alemana debe su éxito también a la ecología",
+     "resumen": "La revista revisa el resultado de la Alternativa para Alemania en las elecciones regionales de Sajonia-Anhalt, donde obtuvo 43,8% de los votos, más del doble que en 2016, y plantea que, además de la inmigración, el resentimiento de los trabajadores ante la transición energética explica buena parte de ese salto electoral en el este del país.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/10/y-si-la-extrema-derecha-alemana-debiera-su-exito-a-la-ecologia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "07:58",
+     "autor": "Louis Puel",
+     "titulo_original": "¿Y si la extrema derecha alemana debiera su éxito a la ecología?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-07",
+     "titulo": "Boca definió día y rival para las semifinales de la Copa Argentina",
+     "resumen": "El xeneize, ya consagrado Campeón de Liga 2026, enfrentará a Banfield este sábado a las 19 en Mendoza por un lugar en la final ante Platense. Boca es el máximo ganador histórico del certamen, con cuatro títulos, y en cuartos eliminó a Racing por 3 a 2.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-por-la-copa-argentina-2026-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MH3CLYJUNBHSDHT7FPNLNIDD5Y.JPEG?auth=090179f1b45740120bbd62f04d039db22a5f7198d2b1fbfd0948ffb7efaa57bf&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:04",
+     "autor": "",
+     "titulo_original": "Cuándo juega Boca por la Copa Argentina 2026"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "Se confirmó el formato y el fixture del Mundial Sub 17 de Qatar 2026",
+     "resumen": "El torneo de la FIFA se jugará entre el 19 de noviembre y el 13 de diciembre, con 48 selecciones, entre ellas la Argentina, y 104 partidos en el Complejo Aspire Zone y el estadio Internacional Khalifa. El formato replica al del último Mundial mayor, con 12 zonas todos contra todos y clasificación de los dos primeros de cada grupo más los ocho mejores terceros.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/mundial-sub-17-formato-y-fixture-de-la-copa-del-mundo-qatar-2026-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Z7KBIENFGZCW5DPAHLTMCOH3EE.jpg?auth=b022faf63644ef9b231f1452390a86e26b44b98aa0543519f3b837c8400d508c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:59",
+     "autor": "",
+     "titulo_original": "Mundial Sub 17: formato y fixture de la Copa del Mundo Qatar 2026"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "La Fórmula 1 confirmó que cerrará la temporada en Qatar y Abu Dabi",
+     "resumen": "La FIA ratificó que las dos últimas fechas del calendario 2026 se correrán según lo previsto, pese a la tensión geopolítica en Medio Oriente que había abierto dudas sobre el cierre del campeonato y llevó a evaluar alternativas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/10/la-formula-1-ratifico-donde-se-correra-el-cierre-de-la-temporada-2026-en-medio-de-las-dudas/",
+     "imagen": "https://www.infobae.com/resizer/v2/MBVIDU6OGN34ORRRRQ6MEYB7QA.jpg?auth=fb09a2cea56c7b830e6a1c899bc4575d2591dd6abbce97ed7bbfa2b4fce69df4&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:35",
+     "autor": "",
+     "titulo_original": "La Fórmula 1 ratificó dónde se correrá el cierre de la temporada 2026 en medio de las dudas"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Pochettino, principal candidato para dirigir al Manchester United",
+     "resumen": "Medios ingleses informaron que Michael Carrick dejará la conducción del equipo y que el entrenador argentino, actualmente a cargo de la selección de Estados Unidos, es el favorito para reemplazarlo.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/entrenador-manchester-united-horas-contadas-inglaterra-presionan-mauricio-pochettino-reemplazante_0_FxsecMWF1c.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/UzIe9EvG8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El entrenador del Manchester United tiene las horas contadas: en Inglaterra presionan para que Mauricio Pochettino sea su reemplazante"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "Asesinaron al padre del delantero de Santos Rony en Brasil",
+     "resumen": "Marigerson Barbosa Carneiro, de 72 años, fue asesinado a puñaladas en el estado de Pará. Neymar, compañero de Rony en el club, puso su avión privado a disposición para trasladar al futbolista y a su familia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/conmocion-futbol-brasileno-asesinaron-punaladas-padre-delantero-rony-gesto-neymar-companero-santos_0_cdNBPRc0DZ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/bv4hUICXBC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Conmoción en el fútbol brasileño, asesinaron a puñaladas al padre del delantero Rony: el gesto de Neymar con su compañero del Santos"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "La Selección argentina ya entrena en Ezeiza de cara a los amistosos ante Uruguay y Costa Rica",
+     "resumen": "Los convocados por Lionel Scaloni iniciaron la concentración en el predio Lionel Andrés Messi para la fecha FIFA, en lo que se presenta como el comienzo de una nueva etapa del equipo tras el retiro de Lionel Messi de las convocatorias.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/10/argentina-se-entrena-por-primera-vez-de-cara-al-amistoso-con-uruguay-en-el-inicio-de-la-era-post-messi/",
+     "imagen": "https://www.infobae.com/resizer/v2/VZACQ4ZS4NFD3KT6SMXSTN35CA.png?auth=d9d0f9c2f2790675993a349e2169a855b08933cf3b32ba76f86019fd2efc3859&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:24",
+     "autor": "",
+     "titulo_original": "Argentina se entrena por primera vez de cara al amistoso con Uruguay en el inicio de la era post Messi"
+    }
+   ],
+   "id": "deportes"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen del mediodía del martes 10 de noviembre. El papa León XIV cumple su tercer día en el país con una segunda misa multitudinaria en Córdoba, mientras el Gobierno argentino presentó en Hamburgo su reclamo contra el Reino Unido ante el Tribunal Internacional del Derecho del Mar para frenar el proyecto petrolero Sea Lion en Malvinas. En los mercados, el riesgo país bajó a ochocientos sesenta y cinco puntos y los bonos argentinos suben por segunda rueda consecutiva; el dólar oficial cerró en mil quinientos setenta pesos y el oro cotiza cerca de cuatro mil cincuenta y cinco dólares la onza. En Estados Unidos, la inflación de octubre subió cuatro décimas, por encima de lo esperado, lo que reaviva la posibilidad de una suba de tasas de la Reserva Federal en diciembre. Y Anthropic, la empresa detrás de Claude, avanza con su salida a bolsa apuntando a una valuación de hasta un billón y medio de dólares, acercándose al récord de recaudación que tiene SpaceX. En política, el Gobierno expuso ante el Tribunal del Mar su pedido para frenar el proyecto Sea Lion, impulsado por las empresas Navitas Petroleum y Rockhopper en la cuenca Malvinas Norte; es la primera vez que la Argentina litiga contra el Reino Unido ante un tribunal internacional por la soberanía de las islas, y las audiencias siguen hasta mañana. Además, sigue la polémica por la carpa vip de la misa papal del lunes en Palermo, donde hubo monjas sentadas en el piso mientras funcionarios y celebridades tenían catering y lugar preferencial; el jefe de Gobierno porteño, Jorge Macri, admitió que las medialunas y los budines estuvieron de más. El presidente Javier Milei no asistirá a las misas de Córdoba ni de Luján, y en Casa Rosada relativizan las menciones del Papa sobre la pobreza, el trabajo y la discapacidad, aunque la prensa internacional las interpretó como un cuestionamiento al ajuste del Gobierno. En Córdoba, además, el Papa se reunió en privado con veinte personas en situación de vulnerabilidad seleccionadas por el arzobispo Ángel Rossi, entre ellas Alba Camargo, hija de desaparecidos e impulsora de la identificación de víctimas en el centro clandestino La Perla. Y una dirigente del gremio de empleados de ARCA, Sabrina Spadone, le llevó a la Iglesia el reclamo de los trabajadores informales. En economía, la recaudación tributaria mejoró apenas siete décimas por ciento en términos reales en octubre, cuarto mes consecutivo sin caída, pero todavía acumula una baja cercana al tres por ciento en el año; Ganancias subió diecisiete por ciento real y los derechos de exportación treparon ciento cincuenta y cinco por ciento por una base de comparación baja, mientras el impuesto al valor agregado y el impuesto al cheque, más ligados a la actividad, volvieron a caer. El mercado sigue además de cerca el voto del directorio del Fondo Monetario sobre la tercera revisión, que incluye un desembolso de novecientos millones de dólares, y la decisión final de inversión del proyecto de gas natural licuado de YPF, prevista para el veintiséis de noviembre. El oro, mientras tanto, recuperó los cuatro mil cien dólares la onza después del triunfo demócrata en las elecciones legislativas de Estados Unidos, aunque la expectativa de una suba de tasas de la Fed sigue poniendo un límite a esa recuperación. La provincia de Buenos Aires convocó además una audiencia pública para mediados de diciembre para definir las tarifas de electricidad, con la participación de las distribuidoras y las cooperativas eléctricas; para una empresa, cualquier ajuste en esos cuadros tarifarios impacta de lleno en el costo energético de sucursales y depósitos. En impuestos y normativa, un juzgado de la Matanza avaló el despido de un trabajador que participó de un bloqueo sindical contra una empresa química y consideró que ese tipo de medida está fuera del orden jurídico nacional e internacional; la Justicia también citó al dirigente Furlán y a otros referentes de la Unión Obrera Metalúrgica por una presunta administración fraudulenta del gremio y su obra social. Desde enero de dos mil veintisiete, además, cambiarán los mínimos y las escalas del impuesto a las ganancias, aunque el ajuste final dependerá de la inflación del segundo semestre de este año. En consumo y construcción, un relevamiento detectó cuatro mil seiscientos veinticinco kilómetros de rutas nacionales en mal estado en veintiuna provincias, con demoras de hasta cuatro horas en el tramo más crítico, sobre la ruta nacional ciento cincuenta y uno; para una empresa de materiales, eso significa mayores costos y plazos de distribución hacia el interior del país. En el rubro shoppings, Unicenter encara una ampliación con nuevas marcas, gastronomía y servicios de salud, abre un nuevo centro comercial en Buenos Aires con cuarenta y dos locales y supermercado, otro shopping prepara la apertura simultánea de cinco tiendas internacionales, y Havanna se prepara para inaugurar su primer autoservicio sobre la ruta dos y lanzar un nuevo alfajor el año que viene. En management y finanzas corporativas, Banco Nación y Banco Ciudad ofrecen distintas líneas de crédito para pequeñas y medianas empresas, desde capital de trabajo y descuento de cheques hasta la compra de maquinaria; el titular de la Cámara Argentina de Comercio, Mario Grinman, cuestionó el mensaje del Papa sobre redistribución y dijo que primero hay que generar riqueza, mientras que desde la Unión Industrial Argentina mostraron sintonía con el reclamo papal y se comprometieron con la creación de empleo. También circulan advertencias sobre los riesgos de pedirle consejos financieros a un chatbot, porque suele operar con datos desactualizados y sin conocer la situación real de cada empresa. En el mundo, un choque múltiple en Bulgaria dejó once muertos y ochenta y seis vehículos involucrados por una niebla repentina; en España, Feijóo presentó el programa electoral del Partido Popular a diecinueve días de las elecciones generales, con una huelga general convocada por el costo de vida; Estados Unidos evacuó aviones cisterna de una base en el Reino Unido por una nueva amenaza vinculada a Irán; y organizaciones humanitarias acusan al grupo Hamas de confiscar refugios y bloquear obras para familias desplazadas por las tormentas en Gaza, donde murieron cuatro personas. También se conoció el hallazgo de tronos tallados en roca y una jarra casi intacta en una necrópolis etrusca cerca de Roma. Le Grand Continent analiza si el ascenso de la extrema derecha alemana, que ganó las elecciones regionales de Sajonia Anhalt con el cuarenta y tres coma ocho por ciento de los votos, también se explica por el resentimiento de los trabajadores ante la transición energética, más allá del discurso sobre inmigración. En deportes, Boca ya tiene rival para las semifinales de la Copa Argentina: jugará el sábado a las siete de la tarde ante Banfield en Mendoza por un lugar en la final frente a Platense. Se confirmó además el formato y el fixture del Mundial sub diecisiete de Qatar, que arranca el diecinueve de noviembre con la Argentina entre los cuarenta y ocho participantes. La Fórmula uno ratificó que cerrará la temporada en Qatar y Abu Dabi pese a la tensión en Medio Oriente que había abierto dudas sobre el calendario. En Inglaterra, Mauricio Pochettino aparece como principal candidato para dirigir al Manchester United tras la salida de Michael Carrick. Y en Brasil hay conmoción por el asesinato del padre del delantero Rony, de Santos, a quien Neymar le prestó su avión privado para trasladarse junto a su familia. La selección argentina, mientras tanto, ya entrena en Ezeiza de cara a los amistosos ante Uruguay y Costa Rica, en lo que se presenta como el comienzo de una nueva etapa del equipo. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "No se incluyó la sección Turismo porque en esta corrida de seis horas ninguna fuente trajo una nota de destino turístico, ni argentino ni del exterior; se retoma en la próxima edición si aparece material. La sección Europa y geopolítica tiene una sola nota porque Le Grand Continent publicó solo un artículo en la ventana de esta corrida. No hubo novedades sobre Franco Colapinto ni sobre Club Atlético Tigre en el material de esta edición.",
+ "slug": "2026-11-10-mediodia",
+ "generado_ba": "10/11/2026 15:18"
+}
