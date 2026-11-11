@@ -1,0 +1,893 @@
+{
+ "fecha": "2026-11-11",
+ "edicion": "manana",
+ "titulo": "Último día del Papa en la Argentina, tensión con Irán y mercados en alerta por Nvidia",
+ "apertura": "El papa León XIV cierra este miércoles su visita a la Argentina con una misa en Luján y la partida hacia Perú, mientras el Gobierno enfrenta un nuevo round diplomático con Irán, que declaró terroristas a la Armada y la Fuerza Aérea argentinas. En los mercados, el escándalo de espionaje e infidelidad del CEO de Nvidia golpea a la acción de la compañía y se suma a un panorama financiero local que reabre tras dos feriados con el riesgo país en 860 puntos. En el plano interno sigue la polémica por la carpa VIP de la misa papal y la CGT confirmó que prepara una medida de fuerza antes de fin de año.",
+ "claves": [
+  "León XIV visita la cárcel de Devoto, celebra la misa de despedida en Luján y parte hacia Perú al mediodía.",
+  "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas, en respuesta a la designación de la Guardia Revolucionaria por el Gobierno de Milei.",
+  "El escándalo de espionaje e infidelidad de Jensen Huang hundió la acción de Nvidia hasta 6% y la llevó a su mínimo desde marzo.",
+  "El riesgo país argentino cerró en 860 puntos y los ADR cayeron en Wall Street, mientras se espera el desembolso de 900 millones de dólares del FMI.",
+  "El petróleo Brent cayó a 89,34 dólares, su menor valor desde agosto.",
+  "ARCA suspendió embargos y juicios de ejecución fiscal para MiPyMEs, y Buenos Aires exigirá desde 2027 una declaración jurada laboral mensual a los empleadores.",
+  "La polémica por la carpa VIP de la misa papal sigue sumando pedidos de informes de la oposición por un contrato de 8.690 millones de pesos.",
+  "Varios shoppings porteños anuncian ampliaciones y aperturas, entre ellos Unicenter y un nuevo paseo comercial con 42 locales."
+ ],
+ "cifras": [
+  {
+   "nombre": "Petróleo Brent",
+   "valor": "US$ 89,34",
+   "fuente": "IB-25"
+  },
+  {
+   "nombre": "Costo del transporte de cargas (octubre)",
+   "valor": "+2,6%",
+   "variacion": "33,7% acum. 10 meses",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Bonos soberanos AO29",
+   "valor": "17,1% anual",
+   "fuente": "CR-18"
+  },
+  {
+   "nombre": "Desembolso FMI pendiente",
+   "valor": "US$ 900 millones",
+   "fuente": "CR-13"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-23",
+     "titulo": "el gobierno toma nota de los mensajes del papa, pero dice no sentirse aludido",
+     "resumen": "El Gobierno nacional sostiene que ninguno de los mensajes de León XIV, ni el que pide que la economía esté al servicio de las personas ni el que reclama robustecer la educación y las universidades, estuvo dirigido a la gestión de Javier Milei. Funcionarios de la Casa Rosada calificaron de interpretación mezquina leer esas palabras como un llamado de atención al Presidente.",
+     "relacionadas": [
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Las enseñanzas económicas de León XIV, la IA y su Magnífica Humanidad",
+       "url": "https://www.cronista.com/columnistas/las-ensenanzas-economicas-de-leon-xiv-la-ia-y-su-magnifica-humanidad/"
+      },
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Desde la Catedral de Córdoba, León XIV recordó a Francisco: \"¡Sueñen con una Iglesia que siga haciendo lío!\"",
+       "url": "https://www.ambito.com/informacion-general/desde-la-catedral-cordoba-leon-xiv-recordo-francisco-suenen-una-iglesia-que-siga-haciendo-lio-n6343674"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La visita del Papa entra en su tramo final y el Gobierno ansía volver a la agenda propia",
+       "url": "https://www.infobae.com/politica/2026/11/11/la-visita-del-papa-entra-en-su-tramo-final-y-el-gobierno-ansia-volver-a-la-agenda-propia/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-toma-nota-de-los-mensajes-del-papa-pero-dice-no-sentirse-aludido-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VUOMEPPWL5DUHNTBBUH5EUXMRI.jpg?auth=25ac541cf7d07cee3715953b77ac4956834d0d6a1f829ae2723655eedacd55ca&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:12",
+     "autor": "Paula Rossi",
+     "titulo_original": "El Gobierno toma nota de los mensajes del Papa, pero dice no sentirse aludido"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "una encuesta midió cómo afectan a Milei las candidaturas de Bullrich, Villarruel y hasta Macri",
+     "resumen": "Un estudio de la consultora Equipo Mide evaluó distintos escenarios electorales para la próxima presidencial, con intención de voto por espacio y por candidato tanto para primera vuelta como para un balotaje. La medición incluyó las chances de Patricia Bullrich, Victoria Villarruel y Mauricio Macri frente a Javier Milei.",
+     "url": "https://www.clarin.com/politica/nueva-encuesta-midio-afectan-milei-candidaturas-bullrich-villarruel-macri_0_YqOS4YhKSb.html",
+     "imagen": "https://www.clarin.com/img/2024/10/17/sQ97Q1-x7_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una nueva encuesta midió cómo afectan a Milei las candidaturas de Bullrich, Villarruel y hasta Macri",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-13",
+     "titulo": "renunció el vicepresidente del directorio de la Autoridad Regulatoria Nuclear",
+     "resumen": "El Gobierno aceptó la renuncia del ingeniero Carlos Terrado a la Vicepresidencia Primera del directorio de la Autoridad Regulatoria Nuclear, según el Decreto 1351/2026 publicado en el Boletín Oficial y firmado por Javier Milei y Diego Santilli. No trascendieron los motivos de la salida ni posibles reemplazos.",
+     "url": "https://www.infobae.com/politica/2026/11/11/renuncio-el-vicepresidente-del-directorio-de-la-autoridad-regulatoria-nuclear/",
+     "imagen": "https://www.infobae.com/resizer/v2/2KN5FDXWERERTLPNONUUWPGXOQ.jpg?auth=4764ab529c535b4e1c043fcbd37b4262b8da148905ce2c9dff1f4afa3d7aba70&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:44",
+     "autor": "",
+     "titulo_original": "Renunció el vicepresidente del directorio de la Autoridad Regulatoria Nuclear",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-14",
+     "titulo": "se dilata el sueño electoral de Cristina Kirchner: la ONU posterga su pedido para el año próximo",
+     "resumen": "El Comité de Derechos Humanos de la ONU cerró sus sesiones sin pronunciarse sobre el pedido de la expresidenta para revertir su inhabilitación, y postergó el tratamiento hasta marzo de 2027. Su defensa sostiene, de todos modos, que las medidas cautelares podrían resolverse antes de esa fecha.",
+     "url": "https://www.ambito.com/politica/se-dilata-el-sueno-electoral-cristina-kirchner-la-onu-no-trato-su-pedido-y-lo-paso-el-ano-proximo-n6343710",
+     "imagen": "https://media.ambito.com/p/df26d410c1e8ab21fb97a21c2445b376/adjuntos/239/imagenes/042/532/0042532343/cristina-balconjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:53",
+     "autor": "",
+     "titulo_original": "Se dilata el sueño electoral de Cristina Kirchner: la ONU no trató su pedido y lo pasó para el año próximo",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-10",
+     "titulo": "Fred Machado fue condenado en Estados Unidos a seis años de prisión por lavado y fraude",
+     "resumen": "El financista vinculado a José Luis Espert recibió la pena en un tribunal de Texas tras admitir su responsabilidad en delitos económicos. Su entorno espera que se le descuenten los cuatro años y medio que pasó detenido en la Argentina.",
+     "url": "https://www.ambito.com/politica/fred-machado-fue-condenado-eeuu-seis-anos-prision-lavado-y-fraude-n6343727",
+     "imagen": "https://media.ambito.com/p/6555a0b97ced034a47e4a09cf4012304/adjuntos/239/imagenes/042/834/0042834890/1200x675/smart/fred-machado-detenido-pfa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:01",
+     "autor": "",
+     "titulo_original": "Fred Machado fue condenado en EEUU a seis años de prisión por lavado y fraude",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-21",
+     "titulo": "la oposición pide informes a Milei por la carpa VIP para ver al Papa",
+     "resumen": "Una diputada pidió investigar las contrataciones vinculadas al sector exclusivo de la misa en el Monumento de los Españoles, con la mira puesta en Martín Menem, mientras otros legisladores piden citar a Karina Milei. El pliego de contratación a la productora DF Entertainment ascendió a 8.690 millones de pesos e incluyó catering diferenciado y 3.500 sillas para invitados especiales; el jefe de Gobierno porteño, Jorge Macri, defendió el espacio pero admitió que las medialunas y los budines estuvieron de más.",
+     "relacionadas": [
+      {
+       "id": "CR-17",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La polémica por la Carpa VIP: cómo se organizó y los cruces entre Nación y Ciudad por las invitaciones",
+       "url": "https://www.cronista.com/economia-politica/carpa-vip-en-la-misa-del-papa-como-se-organizo-y-los-cruces-entre-nacion-y-ciudad-por-los-invitados/"
+      },
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Jorge Macri defendió la carpa VIP en la misa de León XIV, pero admitió que \"las medialunas y los budines estuvieron de más\"",
+       "url": "https://www.ambito.com/politica/jorge-macri-defendio-la-carpa-vip-la-misa-leon-xiv-pero-admitio-que-las-medialunas-y-los-budines-estuvieron-mas-n6343663"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Por la indignante carpa VIP, el Gobierno pagó 6 millones de dólares",
+       "url": "https://www.iprofesional.com/politica/468742-por-la-indignante-carpa-vip-el-gobierno-pago-6-millones-de-dolares"
+      }
+     ],
+     "url": "https://www.iprofesional.com/politica/468738-la-oposicion-denuncia-y-pide-informes-a-milei-por-la-carpa-vip-para-ver-al-papa",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629452.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:13",
+     "autor": "",
+     "titulo_original": "La oposición denuncia y pide informes a Milei por la carpa VIP para ver al Papa"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "tras dos feriados, el mercado argentino se pone al día con limitaciones por el festivo en Estados Unidos",
+     "resumen": "La plaza porteña reabre este miércoles tras dos jornadas sin actividad, en las que la deuda soberana avanzó y el riesgo país bajó, mientras los ADR argentinos cerraron mayormente en baja en Wall Street. A la reapertura se suma la depreciación del real brasileño frente al dólar, una variable que suele incidir sobre las cotizaciones financieras locales. Para una empresa: un real más débil añade presión competitiva frente a importados de Brasil y puede alentar el turismo de compras hacia ese país.",
+     "url": "https://www.infobae.com/economia/2026/11/11/tras-dos-feriados-el-mercado-argentino-tendra-que-ponerse-al-dia-con-limitaciones-por-el-dia-festivo-en-eeuu/",
+     "imagen": "https://www.infobae.com/resizer/v2/KO4QTY6ZZVAHPNJXADAPGJPSW4.jpg?auth=9c967114286f56bba137ff2a77c1d5cd8f1fa81b066f7184e88fde6ba296a301&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:31",
+     "autor": "Matías Barbería",
+     "titulo_original": "Tras dos feriados, el mercado argentino tendrá que ponerse al día con limitaciones por el día festivo en EEUU",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-13",
+     "titulo": "el riesgo país cerró en 860 puntos, pero los ADR cayeron hasta 3%",
+     "resumen": "En una rueda sin actividad en el mercado local, los bonos soberanos avanzaron hasta 0,48% en el exterior y el riesgo país cerró en 860 puntos básicos, aunque la nota señala que llegó a tocar 880 durante la jornada; en el año acumula una suba del 50%. Los ADR argentinos operaron en baja en Wall Street, liderados por la caída de Vista (3,4%) y Mercado Libre (2,8%); el mercado mira de cerca el voto del directorio del FMI por la tercera revisión y el desembolso asociado de 900 millones de dólares.",
+     "relacionadas": [
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país cedió hasta los 860 puntos, pero los ADRs perdieron ante el repliegue de Wall Street",
+       "url": "https://www.ambito.com/finanzas/los-adrs-inician-la-jornada-baja-pero-el-riesgo-pais-anota-un-nuevo-retroceso-y-marca-los-865-puntos-n6343541"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/los-bonos-vuelven-a-subir-y-el-riesgo-pais-se-toma-un-respiro/",
+     "imagen": "https://www.cronista.com/resizer/v2/OTG66POGSFBQZE6VDYX4D2YCHI.png?auth=300db8624e24da9740a3616d0e170a056a493ff21ccd396ffd6604c0648a6b89&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:06",
+     "autor": "Leandro Dario",
+     "titulo_original": "El riesgo país bajó a 860 puntos, pero los ADR cayeron hasta 3%"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "baja del petróleo: cuánto costaba la nafta la última vez que el barril estuvo bajo los 90 dólares",
+     "resumen": "El petróleo Brent perforó el 10 de noviembre los 90 dólares y tocó 89,34 dólares, su nivel más bajo desde fines de agosto, después de haber llegado a superar los 117 dólares apenas once días antes. El 26 de agosto, con el Brent en 86,72 dólares, el litro de nafta súper en Buenos Aires costaba 2.045 pesos en promedio, y los aumentos impositivos postergados contuvieron las subas posteriores en el surtidor.",
+     "url": "https://www.infobae.com/economia/2026/11/11/baja-del-petroleo-cuanto-costaba-la-nafta-en-la-argentina-la-ultima-vez-que-el-barril-estuvo-por-debajo-de-los-usd-90/",
+     "imagen": "https://www.infobae.com/resizer/v2/GPBSUYCBLRGKTFQ36UTDP2NUOA.jpg?auth=b61de705b28b4c13d9bae61f0b7b19d788e70ebb357b5ed79e7af8f1e3d8c7bf&smart=true&width=900&height=601",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:29",
+     "autor": "Mariano Zalazar",
+     "titulo_original": "Baja del petróleo: cuánto costaba la nafta en la Argentina la última vez que el barril estuvo por debajo de los USD 90",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-22",
+     "titulo": "Brasil, dividido por un drástico plan para bajar tasas que tiene un raro aroma argentino",
+     "resumen": "El economista Pérsio Arida, considerado el padre del Plan Real, propuso un recorte de tasas de interés en Brasil que generó rechazo del mercado financiero por temor a una devaluación y un rebrote inflacionario.",
+     "url": "https://www.iprofesional.com/economia/468734-plan-para-cortar-tasas-a-lo-caputo-divide-a-brasil",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/626846.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:53",
+     "autor": "",
+     "titulo_original": "Brasil, dividido por un drástico plan para bajar tasas que tiene un raro aroma argentino",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-02",
+     "titulo": "acechan nubarrones en Wall Street y truenos en la Fed por tasas e inflación",
+     "resumen": "El dato de inflación de octubre en Estados Unidos resultó más alto de lo esperado, lo que reaviva las dudas sobre una eventual suba de tasas de la Reserva Federal en diciembre.",
+     "url": "https://www.ambito.com/economia/dialogos-wall-street-acechan-nubarrones-el-mercado-y-truenos-la-fed-tasas-e-inflacion-n6343753",
+     "imagen": "https://media.ambito.com/p/31b4aa8b2e41671768fe6b2df21b265a/adjuntos/239/imagenes/040/762/0040762151/1200x675/smart/gordon-gekko-dialogos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "00:00",
+     "autor": "",
+     "titulo_original": "Diálogos de Wall Street: acechan nubarrones en el mercado, y truenos en la Fed por tasas e inflación",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-23",
+     "titulo": "plazo fijo, dólar o UVA: cuál puede dar más rendimiento en los próximos seis meses",
+     "resumen": "Analistas privados compararon el rendimiento esperado del plazo fijo tradicional, el ajustado por UVA y el dólar para un horizonte con vencimiento en abril. Para una empresa: la elección entre estas colocaciones de corto plazo incide directamente en el manejo de excedentes de caja.",
+     "url": "https://www.iprofesional.com/finanzas/468730-que-inversion-conviene-antes-de-las-elecciones-2027-dolar-plazo-fijo-o-uva",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615702.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:52",
+     "autor": "",
+     "titulo_original": "Plazo fijo, dólar o UVA: cuál puede dar más rendimiento en los próximos seis meses y qué riesgos hay",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-17",
+     "titulo": "entre la deuda y la expansión, una minera francesa reordena su negocio de litio en Salta",
+     "resumen": "Eramet acordó vender diez concesiones en Arizaro por 71 millones de dólares para reducir deuda, mientras busca un socio minoritario para la planta Centenario-Ratones, que ya produce litio. La compañía evalúa pedir el régimen RIGI para ampliar esa planta con una inversión adicional de 350 millones de dólares.",
+     "url": "https://www.clarin.com/energia-y-mineria/deuda-expansion-minera-francesa-reordena-negocio-litio-salta_0_wRFrH7DJGg.html",
+     "imagen": "https://www.clarin.com/img/2026/10/01/6kX--EXtk_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Entre la deuda y la expansión, una minera francesa reordena su negocio de litio en Salta",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-24",
+     "titulo": "los números detrás del escándalo de infidelidad y espionaje en Nvidia: cuánto pueden perder la empresa y los accionistas",
+     "resumen": "Las acciones de Nvidia cayeron hasta 6% el martes, tras haber perdido más de 4% la rueda previa, en medio de dudas sobre la continuidad de Jensen Huang como director ejecutivo. El papel cerró en 167,74 dólares, su menor nivel desde el 30 de marzo, en medio de la investigación interna por la relación del CEO con una mujer señalada como agente china, identificada como Alice Huang.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Quién es la mujer en el centro del escándalo de espionaje de Nvidia",
+       "url": "https://www.clarin.com/new-york-times-international-weekly/mujer-centro-escandalo-espionaje-nvidia_0_iqQXudda12.html"
+      },
+      {
+       "id": "CR-12",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La novela de espionaje detrás del desplome de Nvidia en Wall Street: cayó a mínimos en más de un año",
+       "url": "https://www.cronista.com/finanzas-mercados/la-novela-de-espionaje-detras-del-desplome-de-nvidia-en-wall-street-cayo-a-minimos-en-mas-de-un-ano/"
+      },
+      {
+       "id": "IP-13",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "¿Pueden espiar los autos chinos? Las cámaras, los GPS y los sensores que generan preocupación",
+       "url": "https://www.iprofesional.com/autos/468732-autos-electricos-chinos-por-que-eeuu-teme-que-puedan-espiar"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/11/los-numeros-detras-del-escandalo-de-infidelidad-y-espionaje-en-nvidia-cuanto-pueden-perder-la-empresa-y-los-accionistas/",
+     "imagen": "https://www.infobae.com/resizer/v2/N56G6B3VCNFSFNLRTTNQFPOP7Y.png?auth=8d9c023caf25c835964bb3036042d90f89ad327596dd472bba2bfafeb4a8610f&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "00:31",
+     "autor": "",
+     "titulo_original": "Los números detrás del escándalo de infidelidad y espionaje en Nvidia: cuánto pueden perder la empresa y los accionistas"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "a través de Edenor, Manzano compra 20% de la controlante de las estaciones Shell",
+     "resumen": "Edenor Inversiones, subsidiaria de la distribuidora eléctrica, confirmó ante la Bolsa de Comercio que se quedó con el 20% de LTDH, la sociedad que conformó Mercuria para adquirir la operación de refinería y las estaciones de servicio que eran de Shell en la Argentina. LTDH agrupa, además, a Signar Energy, Latam Downstream Energina, Silver Project, Deheza y Estación Lima.",
+     "relacionadas": [
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Edenor adquiere un 20% de la empresa que se quedó con las estaciones de servicio de Shell",
+       "url": "https://www.cronista.com/negocios/edenor-adquiere-un-20-de-la-empresa-que-se-quedo-con-las-estaciones-de-servicio-de-shell/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/energia/468744-a-traves-de-edenor-manzano-compra-20-de-la-controlante-de-las-estaciones-shell",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618980.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:14",
+     "autor": "",
+     "titulo_original": "A través de Edenor, Manzano compra 20% de la controlante de las estaciones Shell"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "desde los semiconductores, Taiwán se consolida como potencia mundial",
+     "resumen": "Taiwán mantiene una capacidad técnica única para fabricar los procesadores de última generación que requiere la inteligencia artificial, posición que sostiene en medio de las hostilidades permanentes de China, que reclama la isla como propia.",
+     "url": "https://www.cronista.com/transport-cargo/desde-los-semiconductores-taiwan-se-consolida-como-potencia-mundial/",
+     "imagen": "https://www.cronista.com/resizer/v2/HCMJTCKWIJHO5ARGACS6QOOIO4.jpg?auth=2e24ef783f9678aefc1388bd72660a8c4d002ced18e2d9968240f823ec64ba5f&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Agustín Barletti",
+     "titulo_original": "Desde los semiconductores, Taiwán se consolida como potencia mundial",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-10",
+     "titulo": "los frigoríficos confían en que se renovará la cuota de 80.000 toneladas a Estados Unidos",
+     "resumen": "Mario Ravettino, presidente del Consorcio de Exportadores de Carnes, se mostró confiado en que se renueve para 2027 el cupo extraordinario de 80.000 toneladas otorgado por la administración estadounidense, y repasó la situación de la cuota a China y los objetivos del sector para el año próximo.",
+     "url": "https://www.clarin.com/rural/positivos-frigorificos-confian-renovara-cuota-80000-toneladas-estados-unidos-apuestan-lograr-nuevos-mercados_0_B76qcEVW6J.html",
+     "imagen": "https://www.clarin.com/img/2017/04/28/r1iV1JWyW_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"Somos positivos\": los frigoríficos confían en que se renovará la cuota de 80.000 toneladas a Estados Unidos y apuestan a lograr nuevos mercados",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-13",
+     "titulo": "los productores de acero miran hacia Estados Unidos como forma de parar la ola china en América Latina",
+     "resumen": "En el congreso de Alacero realizado en México, la industria siderúrgica puso el foco en la competencia del Lejano Oriente y en la posibilidad de construir nuevas alianzas con Estados Unidos.",
+     "url": "https://www.clarin.com/economia/productores-acero-miran-estados-unidos-forma-parar-ola-china-america-latina_0_AY69bDl4IO.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/Pviryky2H_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los productores de acero miran hacia Estados Unidos como una forma de parar la ola china en América Latina",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-03",
+     "titulo": "freno de embargos y más facilidades de pago: las dos nuevas medidas de ARCA para MiPyMEs",
+     "resumen": "La Agencia de Recaudación y Control Aduanero oficializó la suspensión de los embargos y del inicio de juicios de ejecución fiscal para pequeñas y medianas empresas, junto con nuevas facilidades de pago.",
+     "url": "https://www.iprofesional.com/impuestos/468759-freno-de-embargos-y-mas-facilidades-de-pago-las-dos-nuevas-medidas-de-arca-para-mipymes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596137.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:19",
+     "autor": "",
+     "titulo_original": "Freno de embargos y más facilidades de pago: las dos nuevas medidas de ARCA para MiPyMEs",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-04",
+     "titulo": "empleadores bonaerenses: nueva declaración jurada laboral mensual obligatoria desde 2027",
+     "resumen": "La provincia de Buenos Aires aprobó la implementación del Formulario Único de Trabajo y Unificación de Recursos Operativos, una declaración jurada laboral mensual que será obligatoria para los empleadores bonaerenses a partir de 2027.",
+     "url": "https://www.iprofesional.com/impuestos/468758-empleadores-bonaerenses-nueva-declaracion-jurada-laboral-mensual-obligatoria-desde-2027",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/06/554998.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:13",
+     "autor": "",
+     "titulo_original": "Empleadores bonaerenses: nueva declaración jurada laboral mensual obligatoria desde 2027",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-05",
+     "titulo": "impuesto adelantado, la señal que llegó hasta la Corte: el desafío de los saldos a favor",
+     "resumen": "La Corte Suprema puso la lupa sobre los saldos a favor que generan los regímenes de recaudación mediante retención y percepción, un tema que afecta directamente la posición fiscal de las empresas sujetas a estos esquemas. Para una empresa: los saldos a favor inmovilizados impactan el capital de trabajo disponible para financiar operaciones.",
+     "url": "https://www.iprofesional.com/impuestos/468757-impuesto-adelantado-la-senal-que-llego-hasta-la-corte-el-desafio-de-los-saldos-a-favor",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/01/589910.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "05:53",
+     "autor": "",
+     "titulo_original": "Impuesto adelantado, la señal que llegó hasta la Corte: el desafío de los saldos a favor",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-08",
+     "titulo": "empleados de comercio: cuánto cobrarán los trabajadores de call centers tras el nuevo aumento",
+     "resumen": "Los trabajadores de call center recibirán una suba salarial del 5,7% dividida en tres tramos, más un bono de 50.000 pesos que se pagará en octubre y noviembre.",
+     "url": "https://www.iprofesional.com/actualidad/468528-empleados-de-comercio-cuanto-cobraran-trabajadores-de-call-centers-tras-el-nuevo-aumento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/604141.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "19:55",
+     "autor": "",
+     "titulo_original": "Empleados de comercio: cuánto cobraran trabajadores de call centers tras el nuevo aumento",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-11",
+     "titulo": "la CGT prepara una medida de fuerza antes de fin de año",
+     "resumen": "El cosecretario general de la CGT, Jorge Sola, confirmó que la central obrera prepara una medida de fuerza de alcance nacional antes de que termine el año, en coordinación con otras organizaciones sindicales, tras el encuentro con León XIV en la UCA, donde el Papa reclamó que el trabajador no quede subordinado a la economía.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La CGT se sube a la ola de León XIV: pide una mesa diálogo y advierte que \"la gente perdió la paciencia\"",
+       "url": "https://www.ambito.com/politica/la-cgt-se-sube-la-ola-leon-xiv-pide-una-mesa-dialogo-y-advierte-que-la-gente-perdio-la-paciencia-n6343666"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-cgt-prepara-una-medida-de-fuerza-antes-de-fin-de-ano-y-crece-la-expectativa-por-un-nuevo-paro/",
+     "imagen": "https://www.cronista.com/resizer/v2/C6P65CRZQJEIZNQXFWU73Z4LNU.jpg?auth=22ba2f7cc07f200796f26689964c5cd378e08f27d870d867adace70219711260&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:53",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "La CGT prepara una medida de fuerza antes de fin de año y crece la expectativa por un nuevo paro"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "paro de subte este jueves: a qué hora será y por qué los Metrodelegados lanzaron la medida",
+     "resumen": "La Asociación Gremial de Trabajadores del Subterráneo realizará un paro en todas las líneas este jueves 12 de noviembre, entre las 21 y el cierre del servicio, en repudio a la muerte de un trabajador que el sindicato atribuye a la exposición al asbesto, el séptimo fallecimiento vinculado a ese material en la red.",
+     "url": "https://www.cronista.com/economia-politica/paro-de-subte-este-jueves-a-que-hora-sera-y-por-que-los-metrodelegados-lanzaron-la-medida/",
+     "imagen": "https://www.cronista.com/resizer/v2/4EYY55JOZFENJHMQLXPVEIMFSI.png?auth=7f9ec7eaeed91d2c187610c11cb2c1fe0c347005394de27889368e1103533b0e&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:40",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Paro de subte este jueves: a qué hora será y por qué los Metrodelegados lanzaron la medida",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "intro": "La sección más ligada a la empresa del lector: ampliaciones y aperturas de shoppings y el costo del transporte de cargas.",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "Unicenter se transforma: cómo será el nuevo shopping de Martínez",
+     "resumen": "El shopping de Martínez inició una ampliación millonaria que incluirá nuevas marcas, servicios de salud y gastronomía.",
+     "url": "https://www.iprofesional.com/negocios/468419-unicenter-se-transforma-como-sera-el-nuevo-shopping-de-martinez",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618665.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:40",
+     "autor": "",
+     "titulo_original": "Unicenter se transforma: cómo será el nuevo shopping de Martínez",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-15",
+     "titulo": "abre un nuevo shopping en Buenos Aires: dónde está y qué marcas tendrá",
+     "resumen": "El nuevo paseo comercial tendrá 42 locales, supermercado y marcas reconocidas de gastronomía.",
+     "url": "https://www.iprofesional.com/negocios/468410-abre-un-nuevo-shopping-en-buenos-aires-donde-esta-y-que-marcas-tendra",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629185.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:25",
+     "autor": "",
+     "titulo_original": "Abre un nuevo shopping en Buenos Aires: dónde está y qué marcas tendrá",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-18",
+     "titulo": "un shopping argentino abrirá 5 tiendas internacionales el mismo día",
+     "resumen": "Un shopping argentino prepara la apertura simultánea de cinco tiendas internacionales el mismo día.",
+     "url": "https://www.iprofesional.com/actualidad/468534-un-shopping-argentino-abrira-5-tiendas-internacionales-el-mismo-dia",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/619163.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:30",
+     "autor": "",
+     "titulo_original": "Un shopping argentino abrirá 5 tiendas internacionales el mismo día",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-06",
+     "titulo": "llega a la Argentina una nueva cadena internacional: qué venderá",
+     "resumen": "Una firma de origen chino prepara sus primeras tiendas en shoppings del AMBA y proyecta expandirse al interior del país mediante franquicias.",
+     "url": "https://www.iprofesional.com/negocios/468657-llega-a-argentina-una-nueva-cadena-internacional-que-vendera",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629384.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "20:30",
+     "autor": "",
+     "titulo_original": "Llega a Argentina una nueva cadena internacional: qué venderá",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-07",
+     "titulo": "los costos del transporte de cargas aumentaron 2,6% en octubre",
+     "resumen": "Según el Índice de Costos del Transporte que elabora Fadeeac, los costos del transporte de cargas subieron 2,6% en octubre y acumulan 33,7% en los primeros diez meses del año, por encima del 30,5% del mismo período de 2025; en doce meses el índice llega a 40,3%. Los peajes lideraron la suba, con un 10,91% en el mes. Para una empresa: un mayor costo de flete impacta directamente en los precios de los materiales de construcción y en los plazos y costos de distribución a sucursales.",
+     "url": "https://www.cronista.com/transport-cargo/costos-del-transporte-de-cargas-aumentaron-26-en-octubre/",
+     "imagen": "https://www.cronista.com/resizer/v2/YK6SUX6QFFBTZKRSXQ6CGFONGA.jpg?auth=b150011e48e59af0fb66d67d5ab11c20f126af69e83014450492479c8773095a&smart=true&width=768&height=576",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "Costos del transporte de cargas aumentaron 2,6% en octubre",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-18",
+     "titulo": "compras en Paraguay: cómo impactará la caída de Ueno y la devaluación del guaraní en el comercio de frontera",
+     "resumen": "Los argentinos que cruzan a Paraguay en busca de electrónica, neumáticos e indumentaria podrían verse afectados por la devaluación del guaraní, mientras en Misiones se teme una caída del consumo de paraguayos que compran del lado argentino.",
+     "url": "https://www.clarin.com/economia/compras-paraguay-impactara-caida-ueno-devaluacion-guarani-comercio-frontera_0_l84G7rSKaB.html",
+     "imagen": "https://www.clarin.com/img/2017/09/07/HykfyBkq-_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Compras en Paraguay: cómo impactará la caída de Ueno y la devaluación del guaraní en el comercio de frontera",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-26",
+     "titulo": "para emprendedores: cómo separar la ganancia mensual del retiro para jubilarse",
+     "resumen": "La nota plantea que parte del dinero que retira mensualmente el dueño de una empresa en realidad remunera su trabajo, y propone revisar qué hace falta para vivir sin ese sueldo y dejar una empresa que funcione sin él.",
+     "url": "https://www.iprofesional.com/management/468314-emprendedores-como-separar-la-ganancia-mensual-del-retiro-para-jubilarse",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629099.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:15",
+     "autor": "",
+     "titulo_original": "Para emprendedores: cómo separar la ganancia mensual del retiro para jubilarse",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-15",
+     "titulo": "cómo empezar un fondo de emergencia incluso con ingresos ajustados",
+     "resumen": "La nota propone calcular el fondo de emergencia a partir del costo de mantener el hogar y el margen disponible después de cubrir esos gastos, en lugar de partir de una cifra fija difícil de sostener cuando los ingresos están comprometidos.",
+     "url": "https://www.cronista.com/finanzas-mercados/como-empezar-un-fondo-de-emergencia-incluso-con-ingresos-ajustados-un-calculo-para-ordenar-las-cuentas/",
+     "imagen": "https://www.cronista.com/resizer/v2/3PKA6J2ZMFEI5COSVXOM73OE5U.jpg?auth=49cfac6d198a039cc0db841e98e53caaf2c46c0008af3cb81c50c99f98a2c972&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:07",
+     "autor": "Audiencias Member",
+     "titulo_original": "Cómo empezar un fondo de emergencia incluso con ingresos ajustados: un cálculo para ordenar las cuentas",
+     "relacionadas": []
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-15",
+     "titulo": "Irán designó como organizaciones terroristas a la Armada y la Fuerza Aérea de Argentina",
+     "resumen": "El Ministerio de Exteriores de Teherán justificó la medida como una respuesta recíproca a la designación de la Guardia Revolucionaria iraní como organización terrorista por parte del Gobierno de Javier Milei en marzo pasado, y advirtió que Argentina será responsable de las consecuencias. La diplomacia iraní sostuvo que la decisión se basa en una ley nacional sobre países que respaldan esa calificación estadounidense.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Irán designa como \"terroristas\" a la Armada y la Fuerza Aérea de Argentina",
+       "url": "https://www.clarin.com/estados-unidos/iran-designa-como-terroristas-a-la-armada-y-la-fuerza-aerea-de-argentina_0_AME7nFmKXl.html"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/11/11/el-regimen-de-iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-de-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/LRSYMFCSRZDYVI36JMQF3LNSW4.jpeg?auth=a05dab99a7910c4142ea2c5bc6d9cd4ae363f33e7ec5f10bb750bd0092b00c96&smart=true&width=900&height=534",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:13",
+     "autor": "",
+     "titulo_original": "El régimen de Irán designó como organizaciones terroristas a la Armada y la Fuerza Aérea de Argentina"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "con el apoyo republicano, el secretario de Defensa de Trump zafa de un juicio político",
+     "resumen": "La Cámara de Representantes de Estados Unidos respaldó, por 211 votos a favor frente a 204, una moción que frustró el proceso de destitución contra el secretario de Guerra Pete Hegseth, impulsado por el legislador republicano Thomas Massie. La iniciativa quedará ahora estancada en el Comité Judicial, bajo mayoría oficialista hasta el 3 de enero.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/con-el-apoyo-republicano-el-controvertido-secretario-de-defensa-de-trump-zafa-de-un-juicio-politico-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KVKFHPRIIVE7PH27LL7W6E2LEQ.JPG?auth=05d6593ea6dedb450c0e93818ad32eef26f65d4284bd47e798888fb42c5bac6f&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:37",
+     "autor": "Guillermo Idiart",
+     "titulo_original": "Con el apoyo republicano, el controvertido secretario de Defensa de Trump zafa de un juicio político",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-07",
+     "titulo": "el alcalde de Houston defendió haber limitado la colaboración con el ICE",
+     "resumen": "El alcalde de Houston, John Whitmire, firmó una orden ejecutiva que exige dos condiciones estrictas para que la policía local contacte al Servicio de Inmigración y Control de Aduanas, limitando así la colaboración con la agencia migratoria.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/texas/alcalde-de-houston-tras-limitar-colaboracion-con-el-ice-vote-en-contra-de-la-ley-sb-4-porque-nos-nid11112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TPNUEQYFIRA2HFE7INL5CTIET4.jpg?auth=5a83638704358ff55fac0b2655a15f176e540132c8fe2cb655972c6083f7df38&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:44",
+     "autor": "",
+     "titulo_original": "Alcalde de Houston tras limitar colaboración con el ICE: “Voté en contra de la ley SB 4 porque nos preocupaba el miedo que generaría”",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-21",
+     "titulo": "la Justicia brasileña multó a Meta por incumplir un trato igualitario entre Lula y Bolsonaro",
+     "resumen": "La sanción contra Meta asciende a 7,5 millones de reales, cerca de 1,3 millones de dólares, luego de que Lula denunciara antes de las elecciones una manipulación algorítmica en favor de Flávio Bolsonaro.",
+     "url": "https://www.clarin.com/mundo/justicia-brasilena-multo-meta-incumplir-trato-igualitario-lula-bolsonaro-balotage-brasil_0_qCwQkUVppT.html",
+     "imagen": "https://www.clarin.com/img/2026/10/26/2fSi2fHPp_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Justicia brasileña multó a Meta por incumplir un trato igualitario entre Lula y Bolsonaro en el balotage de Brasil",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-12",
+     "titulo": "el futuro de la Trumponomics: ¿acuerdo o fracaso?",
+     "resumen": "Con los demócratas al frente de ambas cámaras del Congreso, Donald Trump podría verse obligado a negociar parte de su agenda económica, con el gasto público, los aranceles, la política migratoria y la regulación de la inteligencia artificial entre los principales puntos de discusión.",
+     "url": "https://www.ambito.com/economia/el-futuro-la-trumponomics-acuerdo-o-fracaso-n6343720",
+     "imagen": "https://media.ambito.com/p/4998d3e5667b1500d7fba1ea98342f62/adjuntos/239/imagenes/043/761/0043761616/1200x675/939x97:959x117/trump-levanta-gorra-roja-veto.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:27",
+     "autor": "",
+     "titulo_original": "El futuro de la Trumponomics: ¿acuerdo o fracaso?",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-10",
+     "titulo": "investigan la muerte violenta en Líbano de un exdiputado iraquí",
+     "resumen": "Las autoridades judiciales libanesas iniciaron investigaciones preliminares sobre la muerte violenta del exdiputado iraquí Ahmed al Aluani, cuyo cuerpo fue hallado en un apartamento de Beirut; fueron detenidos cinco miembros de la milicia chiita Hezbolá en el marco de la causa.",
+     "url": "https://www.infobae.com/america/agencias/2026/11/11/investigan-la-muerte-violenta-en-libano-de-un-exdiputado-iraqui/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Investigan la muerte violenta en Líbano de un exdiputado iraquí",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Europa tiene la clave en la carrera por la IA",
+     "resumen": "Le Grand Continent analiza la cadena de suministro global que sostiene a la inteligencia artificial de vanguardia, desde los fabricantes de componentes hasta los centros de datos, y sostiene que Europa dispone de piezas clave en esa cadena pero todavía no despliega una estrategia para capitalizarlas.",
+     "url": "https://legrandcontinent.eu/es/2026/11/11/europa-tiene-la-clave-de-la-carrera-ia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "06:22",
+     "autor": "Louis Puel",
+     "titulo_original": "Europa tiene la clave en la carrera por la IA",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-02",
+     "titulo": "en China, las autoridades intentan fomentar los matrimonios con motivo del Día de los Solteros",
+     "resumen": "La revista señala que en 2025 se casaron en China 6,8 millones de parejas, frente a los 12,2 millones de diez años antes, y describe cómo el Día de los Solteros del 11 de noviembre se convirtió en una jornada comercial a gran escala pese a su origen como antítesis del Día de San Valentín.",
+     "url": "https://legrandcontinent.eu/es/2026/11/11/en-china-las-autoridades-intentan-fomentar-los-matrimonios/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "En China, las autoridades intentan fomentar los matrimonios con motivo del Día de los Solteros",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-03",
+     "titulo": "el entorno de Vladimir Putin se esfuerza por prolongar su vida",
+     "resumen": "El presidente del Instituto Kurchatov, Mijaíl Kovalchuk, aliado cercano de Putin, declaró que sus equipos investigan con primates formas de prolongar la vida humana con buena salud, un tema que le interesa especialmente al presidente ruso, quien en una conversación con Xi Jinping en 2025 habló de trasplantes continuos de órganos. La publicación señala además que la guerra es la causa de dos tercios de las muertes entre hombres jóvenes en Rusia.",
+     "url": "https://legrandcontinent.eu/es/2026/11/10/el-entorno-de-vladimir-putin-quiere-prolongar-su-vida/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "18:39",
+     "autor": "Marin Saillofest",
+     "titulo_original": "El entorno de Vladimir Putin se esfuerza por prolongar su vida",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-08",
+     "titulo": "la definición del Torneo Clausura 2026: cuando los favoritos ya no lo son",
+     "resumen": "A ocho partidos de los octavos de final, el formato de definición del torneo pone en juego la presión y la convicción por sobre la jerarquía individual o colectiva de los planteles.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La lupa en los 33 días de definición del Torneo Clausura 2026: la maldición de los primeros, ventajas y desventajas en los ocho partidos de octavos de final",
+       "url": "https://www.clarin.com/deportes/lupa-33-dias-definicion-torneo-clausura-2026-maldicion-primeros-ventajas-desventajas-partidos-octavos-final_0_WK1d0kJpKh.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/definicion-torneo-clausura-2026-favoritos_0_XwBAlsaNg0.html",
+     "imagen": "https://www.clarin.com/img/2026/05/25/LkXmlUHT0_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La definición del Torneo Clausura 2026: cuando los favoritos ya no lo son"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "el dilema de Arruabarrena: cómo devolverle el lugar a Aranda en un Boca que aprendió a jugar sin él",
+     "resumen": "Tomás Aranda, una de las figuras de Boca en los primeros doce partidos de Rodolfo Arruabarrena como entrenador, sufrió una fractura de peroné a fines de agosto y busca recuperar su lugar ante Banfield, mientras el equipo prepara las semifinales de la Copa Argentina y la final de la Sudamericana.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/el-dilema-de-arruabarrena-como-devolverle-el-lugar-a-aranda-en-un-boca-que-aprendio-a-jugar-sin-el-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XLWV5WAF5BCL3BGIQUUGWTYTNM.png?auth=25186f48ce16cf5702dc866cf996e54d50dadb1c11440971c66b54ae40b6628a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:33",
+     "autor": "Leandro Contento",
+     "titulo_original": "El dilema de Arruabarrena: cómo devolverle el lugar a Aranda en un Boca que aprendió a jugar sin él",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-24",
+     "titulo": "el descargo del relator apuntado por el festejo fallido de Rosario Central en la definición del Clausura",
+     "resumen": "El relator Jesús Emiliano, a cargo de la transmisión de Radio 2 de Rosario, fue acusado en redes sociales de haber provocado la invasión de hinchas al estadio del Canalla tras una posible anulación del gol de Enner Valencia.",
+     "url": "https://www.clarin.com/deportes/descargo-relator-apuntado-festejo-fallido-rosario-central-definicion-torneo-clausura-redes-crueles_0_nlodIfOYAG.html",
+     "imagen": "https://www.clarin.com/img/2026/11/11/p0tDxBHx7_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "23:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El descargo del relator apuntado por el festejo fallido de Rosario Central en la definición del Torneo Clausura: \"Las redes son crueles\"",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-25",
+     "titulo": "Italia vs Los Pumas, por el Nations Championship: un duelo de urgencias y viejas historias en Génova",
+     "resumen": "Gonzalo Quesada, ex Puma y entrenador de Italia, volverá a cruzarse con Ledesma, reincorporado al cuerpo técnico argentino; ambos seleccionados llegan golpeados y necesitan una victoria para cambiar el rumbo.",
+     "url": "https://www.clarin.com/deportes/italia-vs-pumas-nations-championship-duelo-urgencias-viejas-historias-salen-cancha-genova_0_6tQQzeH5q5.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/nitZsnRfC_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:50",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Italia vs Los Pumas, por el Nations Championship: un duelo de urgencias y viejas historias que también salen a la cancha en Génova",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Felix Nmecha, figura de Borussia Dortmund y de la selección de Alemania, desata un debate por un festejo religioso",
+     "resumen": "El volante convirtió los dos goles del 2 a 1 sobre Elversberg que le permite a Borussia Dortmund compartir el primer puesto de la Bundesliga con Bayern Munich, pero su festejo religioso generó un pedido formal del club y una reunión con Jürgen Klopp.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/felix-nmecha-figura-de-borussia-dortmund-y-de-la-seleccion-de-alemania-desata-un-debate-por-un-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/M75VTYAQ6ZCFRHRFSXV4BUNS44.jpg?auth=5ca3499bd48ee0ff6666e8a79b42548be746e088f2ec66a2d17c1b39893bb32c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:34",
+     "autor": "",
+     "titulo_original": "Felix Nmecha, figura de Borussia Dortmund y de la selección de Alemania, desata un debate por un festejo religioso",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-22",
+     "titulo": "la intimidad de la despedida definitiva de Rubens Barrichello de la Fórmula 1",
+     "resumen": "El brasileño giró con un Williams de 2011 en Interlagos durante el Gran Premio de San Pablo, en un adiós que demoró quince años y que incluyó la visita sorpresa de su hijo menor, Fernando.",
+     "url": "https://www.infobae.com/deportes/2026/11/11/la-intimidad-de-la-despedida-definitiva-de-rubens-barrichello-de-la-formula-1-la-emotiva-sorpresa-que-lo-hizo-llorar/",
+     "imagen": "https://www.infobae.com/resizer/v2/EIVYCFL5AJDZREZOYAYYDHASSU.jpg?auth=8e64c3ba99ad7eb147567b4c3f685294a59b87e68cb522c7892b3501fda6d76f&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "01:18",
+     "autor": "Darío Coronel",
+     "titulo_original": "La intimidad de la despedida definitiva de Rubens Barrichello de la Fórmula 1: la emotiva sorpresa que lo hizo llorar",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-17",
+     "titulo": "la Patagonia argentina sumó una nueva excursión tras gestiones durante 15 años",
+     "resumen": "Parques Nacionales autorizó una nueva ruta turística que une Villa La Angostura con la Isla Victoria, un circuito que hasta ahora solo tenía acceso desde Bariloche.",
+     "url": "https://www.iprofesional.com/turismo/468740-la-patagonia-argentina-sumo-una-nueva-excursion-tras-gestiones-durante-15-anos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629451.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:48",
+     "autor": "",
+     "titulo_original": "La Patagonia argentina sumó una nueva excursión tras gestiones durante 15 años",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-19",
+     "titulo": "se busca voluntario para vivir gratis en Puerto Iguazú a cambio de colaborar 5 horas por día en un hostel",
+     "resumen": "Un hostel familiar de Puerto Iguazú, en Misiones, abrió en la plataforma Workaway una convocatoria para voluntarios que, a cambio de alojamiento gratuito cerca de las Cataratas, colaboren cinco horas por día en el lugar; algunos gastos corren por cuenta del viajero.",
+     "url": "https://www.cronista.com/clase/break/se-busca-voluntario-para-vivir-gratis-en-puerto-iguazu-a-cambio-de-colaborar-5-horas-por-dia-en-un-hostel-cuales-son-los-requisitos/",
+     "imagen": "https://www.cronista.com/resizer/v2/6LAFLEX3IJHPVHPN2QNLJ6SBJM.jpg?auth=388b444b153b9ccb418dacc8d9c6eec9fda17fd7ed907b40d2e11193aadf5383&smart=true&width=900&height=475",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:38",
+     "autor": "Gabriel Cuellar",
+     "titulo_original": "Se busca voluntario para vivir gratis en Puerto Iguazú a cambio de colaborar 5 horas por día en un hostel: cuáles son los requisitos",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "alerta por un brote de viruela del mono en Brasil y más casos en Argentina de la cepa con mayor riesgo de contagio",
+     "resumen": "San Pablo registró 64 nuevos contagios en apenas un mes y Río de Janeiro, 74 en los últimos dos meses, una cifra siete veces mayor a la del mismo período de 2025, por lo que se recomiendan recaudos a quienes viajen a Brasil.",
+     "url": "https://www.clarin.com/sociedad/alerta-brote-viruela-mono-brasil-casos-argentina-cepa-mayor-riesgo-contagio_0_AvEvbnLAt1.html",
+     "imagen": "https://www.clarin.com/img/2024/08/27/LcjBZpMBq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alerta por un brote de viruela del mono en Brasil y hay más casos en Argentina de la cepa con mayor riesgo de contagio",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-17",
+     "titulo": "la ANMAT prohibió la venta y el uso de tres insumos médicos utilizados para la cirugía vascular",
+     "resumen": "La disposición 7199/2026, publicada el 11 de noviembre en el Boletín Oficial, alcanza a endoprótesis que habían sido robadas durante una entrega y quedaron fuera del circuito de control de la empresa titular, Emeclar S.A., por lo que no puede verificarse su conservación ni trazabilidad.",
+     "url": "https://www.infobae.com/sociedad/2026/11/11/la-anmat-prohibio-la-venta-y-el-uso-de-tres-insumos-medicos-utilizados-para-la-cirugia-vascular/",
+     "imagen": "https://www.infobae.com/resizer/v2/7442XLHXJVE5ZA3HHKCKPDIYXA.png?auth=c256bfc8a3abe26ed9b0618c897107b456654f9f29aa1d1e8bbb8406a727660c&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:01",
+     "autor": "",
+     "titulo_original": "La ANMAT prohibió la venta y el uso de tres insumos médicos utilizados para la cirugía vascular",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-13",
+     "titulo": "otro caso de bullying: estudiantes atacaron a un alumno en una escuela de Quilmes",
+     "resumen": "El Instituto José Manuel Estrada de San Francisco Solano inició una investigación interna tras difundirse videos de al menos dos episodios de bullying contra un alumno menor de edad, ocurridos en un comercio cercano y en el gimnasio durante una clase de educación física.",
+     "url": "https://www.lanacion.com.ar/sociedad/otro-caso-de-bullying-estudiantes-atacaron-a-un-alumno-en-una-escuela-de-quilmes-nid10112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/O26PXZ4JTVFWJP6WGXQYCFDAZE.png?auth=4b4c120989a9c809d1f667b1784ba36498a6fe58b980b5d20fd795ec93701faf&smart=true&width=476&height=548",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:06",
+     "autor": "",
+     "titulo_original": "Otro caso de bullying: estudiantes atacaron a un alumno en una escuela de Quilmes",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del miércoles once de noviembre. Este miércoles el papa León catorce cierra su visita a la Argentina. Por la mañana visitará la cárcel de Devoto, donde dialogará con unos setenta internos, y después encabezará la última de sus tres misas multitudinarias en el país, en Luján, antes de partir hacia Perú al mediodía. En paralelo, el Gobierno argentino enfrenta una tensión diplomática con Irán, que designó como organizaciones terroristas a la Armada y la Fuerza Aérea argentinas, en respuesta a una decisión similar que había tomado la administración de Javier Milei en marzo. Los mercados, por su parte, amanecen nerviosos por el escándalo que sacude a Nvidia, después de que su director ejecutivo, Jensen Huang, reconociera una relación con una mujer señalada como agente china. En cuanto a los números del día, el dólar oficial cerró en mil quinientos setenta pesos, el dólar blue en mil quinientos cincuenta y cinco pesos y el riesgo país en ochocientos sesenta puntos básicos. El oro cotiza en cuatro mil cincuenta y nueve dólares la onza y la inflación interanual se ubicó en treinta y tres coma cuatro por ciento. A estos datos se suma que el petróleo Brent cayó a ochenta y nueve coma treinta y cuatro dólares el barril, su nivel más bajo desde fines de agosto, y que los costos del transporte de cargas subieron dos coma seis por ciento en octubre, con un acumulado de treinta y tres coma siete por ciento en diez meses. En política, el Gobierno sostiene que ninguno de los mensajes de León catorce, ni el que pide que la economía esté al servicio de las personas ni el que reclama robustecer la educación, estuvo dirigido a la gestión de Javier Milei; en la Casa Rosada califican de interpretación mezquina leerlos como una crítica directa. Una encuesta de la consultora Equipo Mide midió cómo impactarían en la candidatura de Milei las eventuales postulaciones de Patricia Bullrich, Victoria Villarruel y Mauricio Macri. El Gobierno aceptó la renuncia del ingeniero Carlos Terrado a la vicepresidencia de la Autoridad Regulatoria Nuclear, sin que trascendieran los motivos. En Naciones Unidas, el Comité de Derechos Humanos postergó hasta marzo de dos mil veintisiete el tratamiento del pedido de Cristina Kirchner para revertir su inhabilitación. En Estados Unidos, un tribunal de Texas condenó a seis años de prisión al financista Fred Machado, vinculado a José Luis Espert, por lavado y fraude. Y la polémica por la carpa vip de la misa papal sigue sumando capítulos: la oposición pide informes sobre un contrato de ocho mil seiscientos noventa millones de pesos adjudicado a la productora D F Entertainment, con la mira puesta en Martín Menem. En economía y mercados, la plaza porteña reabre este miércoles tras dos jornadas sin actividad, con los ADR en baja en Wall Street y la atención puesta en el voto del directorio del Fondo Monetario por el desembolso de novecientos millones de dólares. En Brasil, el economista Pérsio Arida, considerado el padre del Plan Real, propuso un recorte de tasas que generó rechazo del mercado financiero por temor a una devaluación. En Estados Unidos, un dato de inflación de octubre más alto de lo esperado reaviva las dudas sobre una suba de tasas de la Reserva Federal en diciembre. En negocios y empresas, la minera francesa Eramet vendió diez concesiones de litio en Arizaro, Salta, por setenta y un millones de dólares para reducir deuda, mientras evalúa una inversión adicional de trescientos cincuenta millones de dólares en su planta Centenario Ratones. Edenor, a través de su subsidiaria de inversiones, se quedó con el veinte por ciento de la sociedad que compró la operación de refinería y las estaciones de servicio que eran de Shell en la Argentina. Y Taiwán se consolida como potencia mundial de semiconductores, con una capacidad técnica que ningún otro país iguala para fabricar los procesadores que necesita la inteligencia artificial. En impuestos y normativa, la agencia de recaudación ARCA suspendió los embargos y el inicio de juicios de ejecución fiscal contra pequeñas y medianas empresas, además de ofrecer nuevas facilidades de pago. La provincia de Buenos Aires exigirá desde dos mil veintisiete una nueva declaración jurada laboral mensual a todos los empleadores bonaerenses. La Corte Suprema puso la lupa sobre los saldos a favor que generan los regímenes de retención y percepción, un tema que afecta el capital de trabajo de las empresas alcanzadas. Y la Confederación General del Trabajo confirmó que prepara una medida de fuerza de alcance nacional antes de fin de año, mientras los trabajadores del subte anunciaron un paro para este jueves en reclamo por la muerte de un empleado vinculada a la exposición al asbesto. En consumo y construcción, el shopping Unicenter de Martínez inició una ampliación millonaria que sumará nuevas marcas, servicios de salud y gastronomía, mientras otro paseo comercial porteño se prepara para abrir con cuarenta y dos locales y una cadena china proyecta instalarse en shoppings del conurbano para expandirse luego mediante franquicias. Para una empresa, el aumento del dos coma seis por ciento en los costos del transporte de cargas durante octubre, que ya acumula treinta y tres coma siete por ciento en el año, impacta directamente en los precios de los materiales y en los plazos de distribución a sucursales. En gestión y finanzas corporativas, una nota para emprendedores plantea la importancia de distinguir qué parte del retiro mensual del dueño en realidad remunera su trabajo, para poder evaluar si la empresa podría funcionar sin él. Otra recomienda calcular el fondo de emergencia a partir del costo real de mantener el hogar, en lugar de fijar una meta arbitraria difícil de sostener. En el mundo, además del conflicto diplomático con Irán, la Cámara de Representantes de Estados Unidos frenó un juicio político contra el secretario de Guerra Pete Hegseth, impulsado por un legislador republicano. El alcalde de Houston defendió su decisión de limitar la colaboración de la policía local con la agencia de inmigración. Y la Justicia brasileña multó a Meta por no garantizar un trato igualitario entre Lula y Bolsonaro durante el balotaje presidencial. Le Grand Continent analiza la cadena global que sostiene a la inteligencia artificial, desde los fabricantes de componentes hasta los centros de datos, y sostiene que Europa tiene piezas clave en esa cadena pero todavía no despliega una estrategia para aprovecharlas. También repasa cómo las autoridades chinas intentan fomentar los matrimonios en un país donde la cantidad de bodas cayó a la mitad en una década, y cómo el entorno de Vladimir Putin investiga formas de prolongar la vida humana. En deportes, el Torneo Clausura entra en la definición de los octavos de final con ocho partidos donde, según el análisis, ya no hay favoritos claros. En Boca, Rodolfo Arruabarrena enfrenta el dilema de devolverle un lugar a Tomás Aranda, que vuelve de una fractura, mientras el equipo prepara las semifinales de la Copa Argentina y la final de la Sudamericana. El relator Jesús Emiliano quedó en el centro de la polémica por el festejo fallido de Rosario Central en la definición del Clausura. En rugby, Los Pumas enfrentan a Italia en Génova por el Nations Championship, con Gonzalo Quesada como entrenador rival y Ledesma de regreso en el cuerpo técnico argentino. En la Bundesliga, un festejo religioso de Felix Nmecha, figura de Borussia Dortmund y de la selección alemana, derivó en una reunión con Jürgen Klopp. Y Rubens Barrichello vivió su despedida definitiva de la Fórmula uno en Interlagos, con la sorpresa de la visita de su hijo menor. Para cerrar, en turismo, Parques Nacionales autorizó una nueva excursión en la Patagonia que une Villa La Angostura con la Isla Victoria sin pasar por Bariloche, y un hostel familiar de Puerto Iguazú, en Misiones, busca voluntarios que colaboren cinco horas por día a cambio de alojamiento gratuito cerca de las Cataratas. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-11-11-manana",
+ "generado_ba": "11/11/2026 10:15"
+}
