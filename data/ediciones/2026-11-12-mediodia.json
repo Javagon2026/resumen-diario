@@ -1,0 +1,954 @@
+{
+ "fecha": "2026-11-12",
+ "edicion": "mediodia",
+ "titulo": "Jensen Huang renuncia a Nvidia y el Gobierno acelera la suspensión de las PASO",
+ "apertura": "La salida de Jensen Huang como director ejecutivo de Nvidia, tras un escándalo de infidelidad y presunto espionaje chino, sacude a Wall Street y profundiza la volatilidad de los mercados globales. En la Argentina, el oficialismo acelera la suspensión de las PASO con el respaldo de Patricia Bullrich, mientras el dólar operó con normalidad en la primera rueda sin feriados y el riesgo país volvió a superar los 860 puntos. En paralelo, la privatización de AySA quedó encaminada para el 17 de diciembre y la agenda internacional sumó un tiroteo cerca de la Casa Blanca y el derrumbe de un edificio en Brooklyn.",
+ "claves": [
+  "Jensen Huang renunció como CEO de Nvidia tras el escándalo de infidelidad y espionaje chino; asume de forma interina Colette Kress y la acción llegó a caer más del 10%.",
+  "Patricia Bullrich se alineó con el Gobierno para avanzar con la suspensión de las PASO, con una comisión del Senado convocada para el martes 17 de noviembre.",
+  "El dólar oficial operó en $ 1.543,5 en la primera rueda con actividad normal tras los feriados, mientras los ADRs argentinos cayeron hasta 6% y el riesgo país volvió a superar los 860 puntos.",
+  "La privatización de AySA ya tiene fecha, el 17 de diciembre, con un pago previo de US$ 340,2 millones de los nuevos dueños al Estado.",
+  "Un tiroteo cerca de la Casa Blanca dejó al menos cinco heridos y el derrumbe de un edificio en Brooklyn provocó al menos ocho muertos.",
+  "ARBA ofrece hasta 40% de descuento para regularizar deudas, pero el mayor beneficio vence mañana viernes.",
+  "La Selección argentina juega mañana ante Uruguay sin Lionel Messi por primera vez, y crece la expectativa por la renovación de Lionel Scaloni.",
+  "Las Cataratas del Iguazú cumplieron 15 años como Maravilla Natural del Mundo con la apertura del Portal Mágico binacional."
+ ],
+ "cifras": [
+  {
+   "nombre": "Exportaciones de girasol (9 meses 2026)",
+   "valor": "US$ 3.025,7 millones",
+   "variacion": "+81,9% interanual",
+   "fuente": "LN-06"
+  },
+  {
+   "nombre": "ADRs argentinos",
+   "valor": "caída de hasta 6%",
+   "fuente": "AM-04"
+  },
+  {
+   "nombre": "Precio de la carne vacuna (octubre)",
+   "valor": "+0,1% mensual",
+   "variacion": "+15,7% en el año",
+   "fuente": "CL-18"
+  },
+  {
+   "nombre": "Bitcoin",
+   "valor": "por debajo de US$ 73.000",
+   "variacion": "-10% semanal",
+   "fuente": "AM-16"
+  },
+  {
+   "nombre": "Descuento ARBA por regularización de deudas",
+   "valor": "hasta 40%",
+   "fuente": "CR-15"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-20",
+     "titulo": "Bullrich se alineó con el Gobierno y las PASO podrían suspenderse la semana que viene",
+     "resumen": "La titular del bloque oficialista en el Senado, Patricia Bullrich, se alineó con el pedido de convocar a una comisión para el martes 17 de noviembre y avanzar con la suspensión de las PASO. El pedido partió del jefe de Gabinete, Diego Santilli, y en el oficialismo aseguran que ya cuentan con los votos necesarios en la Cámara alta. Martín Menem presionó para acelerar los tiempos y anticipó sesiones extraordinarias si el Senado logra la media sanción en las próximas dos semanas.",
+     "relacionadas": [
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Martín Menem presiona a Bullrich para acelerar la suspensión de las PASO: \"En dos semanas tendríamos que avanzar con la media sanción en Senado\"",
+       "url": "https://www.clarin.com/politica/martin-menem-pidio-acelerar-suspension-paso-proximas-semanas-avanzando-media-sancion-senado_0_utke2HJkFu.html"
+      },
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "¿Presión a Patricia Bullrich? Menem espera que el Senado suspenda las PASO en los próximos 15 días",
+       "url": "https://www.cronista.com/economia-politica/presion-a-patricia-bullrich-menem-espera-que-el-senado-suspenda-las-paso-en-los-proximos-15-dias/"
+      },
+      {
+       "id": "AM-19",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno pone fecha a su apuesta para suspender las PASO",
+       "url": "https://www.ambito.com/politica/el-gobierno-pone-fecha-su-apuesta-suspender-las-paso-n6344309"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/reforma-electoral-bullrich-alinea-gobierno-dice-votos_0_l93OZVGQwV.html",
+     "imagen": "https://www.clarin.com/img/2025/12/26/Jj9mKqyQs_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:17",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Suspensión de las PASO: Bullrich se alinea y el Gobierno dice que ya tiene los votos"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "tras la pausa por la visita papal, Diputados reactivó la negociación por el Presupuesto 2027",
+     "resumen": "Los jefes de bloque del oficialismo y de los espacios dialoguistas se reunieron este jueves a las 14 en Diputados para delinear la agenda legislativa. El Presupuesto 2027, todavía sin dictamen, y el resto de las reformas pendientes quedaron sobre la mesa a diez días del cierre del período ordinario, el 30 de noviembre.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Los frentes políticos que se reactivan tras el Papa: nueva cita por las PASO, la relación con Bullrich y próximas sesiones",
+       "url": "https://www.cronista.com/economia-politica/los-frentes-politicos-que-se-reactivan-tras-el-papa-nueva-cita-por-las-paso-la-relacion-con-bullrich-y-proximas-sesiones/"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/diputados-reactiva-las-negociaciones-jefes-bloque-se-reunen-delinear-la-agenda-del-congreso-n6344363",
+     "imagen": "https://media.ambito.com/p/50db6f2ce136382b6116a09a856544ba/adjuntos/239/imagenes/041/836/0041836763/congreso-nacional-diputados-senado.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:21",
+     "autor": "",
+     "titulo_original": "Diputados reactiva negociaciones: jefes de bloque se reúnen para delinear la agenda del Congreso"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Milei designó a Ramiro Anzit Guerrero al frente de Asuntos Penitenciarios",
+     "resumen": "El presidente Javier Milei designó a Ramiro Anzit Guerrero como subsecretario de Asuntos Penitenciarios del Ministerio de Seguridad Nacional, mediante el decreto 1352/2026 publicado en el Boletín Oficial, con vigencia desde el 28 de octubre. El funcionario, doctor en Derecho Penal y Ciencias Penales, tendrá entre sus objetivos avanzar con el cierre de la cárcel de Devoto.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/12/milei-designo-a-ramiro-anzit-guerrero-al-frente-de-asuntos-penitenciarios-los-desafios-que-tendra-en-su-nueva-gestion/",
+     "imagen": "https://www.infobae.com/resizer/v2/6LMVTL6LQBAYRPZTNFRPB7PN5Q.png?auth=82d13f80168f47ee9ebc8d6ef787093cf2e21c357096e95ec7f6c41d4359da71&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:45",
+     "autor": "",
+     "titulo_original": "Milei designó a Ramiro Anzit Guerrero al frente de Asuntos Penitenciarios: los desafíos que tendrá en su nueva gestión"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Bianco cruzó al Gobierno nacional por el mensaje del Papa sobre jubilaciones y empleo",
+     "resumen": "El jefe de Gabinete bonaerense, Carlos Bianco, afirmó que el mensaje del papa León XIV sobre jubilaciones, discapacidad y empleo \"es exactamente lo contrario\" a lo que hace el Gobierno nacional, y reclamó una reunión entre Axel Kicillof y Javier Milei. En la vereda opuesta, el diputado libertario Santiago Santurio defendió la decisión de Milei de no responder públicamente al Papa, para no mezclar sus palabras con la disputa política.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Santiago Santurio cuestionó la lectura opositora de la visita de León XIV: “Era muy importante que la política se calle”",
+       "url": "https://www.infobae.com/politica/2026/11/12/santiago-santurio-cuestiono-la-lectura-opositora-de-la-visita-de-leon-xiv-era-muy-importante-que-la-politica-se-calle/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/12/carlos-bianco-el-mensaje-del-papa-es-exactamente-lo-contrario-a-lo-que-hace-el-gobierno-nacional-podrian-tomar-nota/",
+     "imagen": "https://www.infobae.com/resizer/v2/2DGKVLWFT5FBJFER27Q6O3ZJIQ.jpg?auth=65eadfda38c49efe816e9b33e1293d9f5e93c30d377b5cea26a91b132316da72&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:00",
+     "autor": "Alejandro Caminos",
+     "titulo_original": "Carlos Bianco: “El mensaje del Papa es exactamente lo contrario a lo que hace el gobierno nacional, podrían tomar nota”"
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Chile no le pedirá permiso a la Argentina por el buque que zarpa hacia Malvinas",
+     "resumen": "El canciller chileno Francisco Pérez Mackenna descartó pedirle autorización a la Argentina para la navegación del buque Danstar hacia las islas Malvinas, e invocó el derecho a la libre navegación de Naciones Unidas. Su par argentino, Pablo Quirno, había sostenido que la embarcación debía solicitar permiso para cruzar aguas jurisdiccionales argentinas. En paralelo, el Gobierno argentino presentó ante la Corte Internacional documentación que denuncia que el petróleo extraído de Malvinas podría estar financiando la base militar británica en el archipiélago.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Argentina acusa que el petróleo de Malvinas podría financiar la base militar británica",
+       "url": "https://www.iprofesional.com/energia/468904-petroleo-malvinas-preocupa-argentina-denuncian-financiaria-base-britanica"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/chile-dice-que-no-necesita-pedirle-permiso-a-la-argentina-por-el-buque-que-zarpara-a-malvinas-nid12112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/B2PMAKQ4GZHEFDYWJZIVJV6ACI.webp?auth=085e1e1e31b5241c159eb854279838a1cba31100225b8b91eda17324bb7259ab&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:08",
+     "autor": "",
+     "titulo_original": "Chile dice que no necesita pedirle permiso a la Argentina por el buque que zarpará a Malvinas"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "paro de subtes desde esta noche por la muerte de un trabajador vinculada al asbesto",
+     "resumen": "Los metrodelegados de subtes realizarán un paro desde las 21 horas de hoy en reclamo por la muerte de un trabajador jubilado vinculada a la exposición al asbesto. La empresa lamentó el fallecimiento y aseguró que mantiene un plan integral de desasbestizado.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Paro de subtes: qué líneas estarán afectadas y desde qué hora",
+       "url": "https://www.ambito.com/politica/paro-subtes-que-lineas-estaran-afectadas-y-que-hora-n6344358"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/paro-subtes-hoy-hora-empieza-lineas-afectadas-medida-fuerza-metrodelegados_0_Wt0xGXNd0T.html",
+     "imagen": "https://www.clarin.com/img/2026/11/12/l6437yfui_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Paro de subtes hoy: a qué hora empieza y cuales son las líneas afectadas por la medida de fuerza de metrodelegados"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "el dólar operó con normalidad en la primera rueda sin feriados y descomprimió",
+     "resumen": "El dólar oficial operó este jueves en $ 1.543,5 en la primera jornada con actividad normal tras cinco días de feriados por la visita papal. El blue cotizó en $ 1.550 para la compra y $ 1.570 para la venta, con una suba de $ 15 en el día y de $ 5 en lo que va de noviembre, mientras el mayorista se ubicó en $ 1.566,90.",
+     "relacionadas": [
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar blue se mantiene sin cambios: a cuánto cotiza el jueves 12 de noviembre con el MEP y el CCL",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-jueves-12-de-noviembre-con-el-mep-y-el-ccl/"
+      },
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar oficial cotiza estable: a cuánto se ofrece en los bancos de la City hoy jueves 12 de noviembre",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-jueves-12-de-noviembre/"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/el-dolar-cayo-los-feriados-pero-subio-el-blue-y-crece-la-atencion-las-tasas-n6344297",
+     "imagen": "https://media.ambito.com/p/7a8f1ec5e9df2d81f5aa037b80e71a95/adjuntos/239/imagenes/043/657/0043657211/1200x675/3338x1243:3358x1263/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo-wall-street-cedears-riesgo-pais-merval-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:53",
+     "autor": "",
+     "titulo_original": "El dólar descomprime y cae durante el primer día de la semana en operar con normalidad"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "los ADRs se hundieron hasta 6% y el riesgo país volvió a superar los 860 puntos",
+     "resumen": "Los ADRs argentinos se hundieron hasta 6% en Wall Street y el riesgo país volvió a superar los 860 puntos, en una rueda de toma de ganancias tras tres jornadas consecutivas en alza. Los bonos soberanos también operaron con bajas generalizadas de hasta 0,6%.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street cotiza en rojo: el mercado vive otra jornada volátil, con Nvidia en el ojo de la tormenta",
+       "url": "https://www.ambito.com/finanzas/wall-street-adelanta-otra-jornada-volatil-y-nvidia-sigue-el-ojo-la-tormenta-n6344311"
+      }
+     ],
+     "url": "https://www.ambito.com/los-bonos-dolares-retroceden-luego-tres-dias-repunte-y-el-riesgo-pais-se-mantiene-arriba-850-puntos-n6344388",
+     "imagen": "https://media.ambito.com/p/8ed2cd373777a162ca385a0ebe2eb776/adjuntos/239/imagenes/043/381/0043381314/1200x675/627x333:647x353/bolsa-bonos-merval-acciones-cedears.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:48",
+     "autor": "",
+     "titulo_original": "Los ADRs se hunden hasta 6% y el riesgo país vuelve a superar los 860 puntos"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "nuevos CEDEARs permiten invertir desde la Argentina en tierras raras y litio",
+     "resumen": "La Bolsa de Comercio autorizó seis nuevos CEDEARs que permiten invertir desde la Argentina en ETFs estadounidenses vinculados a tierras raras, litio, metales industriales y materias primas agrícolas. Entre ellos se destaca el VanEck Rare Earth and Strategic Metals ETF, con el código REMX.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/nuevos-cedear-como-invertir-en-tierras-raras-litio-y-materias-primas-desde-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/AA5Y5CYRPVBA5PUWT6QC7Q656Q.jpg?auth=30f6f4747cff1dad88ddbb97b6af8a0ebb1060a2686772e7514624333628863b&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:56",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Nuevos CEDEAR: cómo invertir en tierras raras, litio y materias primas desde Argentina"
+    },
+    {
+     "id": "AM-18",
+     "titulo": "Fitch puso en vigilancia negativa la deuda de Paraguay por el efecto Ueno Bank",
+     "resumen": "La calificadora Fitch puso en vigilancia negativa la deuda de Paraguay por el contagio potencial de la quiebra de Ueno Bank, aunque descartó por ahora un riesgo sistémico inmediato. El Cronista advirtió que el caso deja señales de alerta sobre reformas promercado construidas sobre instituciones frágiles.",
+     "relacionadas": [
+      {
+       "id": "CR-08",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Las señales de alerta que deja el escándalo bancario de Paraguay",
+       "url": "https://www.cronista.com/financial-times/las-senales-de-alerta-que-deja-el-escandalo-bancario-de-paraguay/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/efecto-ueno-bank-fitch-puso-vigilancia-negativa-la-deuda-paraguay-n6344333",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:13",
+     "autor": "",
+     "titulo_original": "Efecto Ueno Bank: Fitch puso en vigilancia negativa la deuda de Paraguay"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "los bancos centrales del mundo siguen comprando oro pese a la caída de su cotización",
+     "resumen": "Los bancos centrales del mundo continúan comprando oro pese a la caída reciente de su cotización, uno de los activos más castigados del último tiempo. Los analistas prevén presiones sobre el precio en el corto plazo, aunque mantienen una visión alcista de largo plazo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/las-compras-oro-los-bancos-centrales-continuan-la-caida-su-cotizacion-n6344302",
+     "imagen": "https://media.ambito.com/p/c55aad4c75c282224a93e2106517d3c2/adjuntos/239/imagenes/043/135/0043135974/1200x675/2822x1642:2842x1662/oro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:27",
+     "autor": "",
+     "titulo_original": "Las compras de oro de los bancos centrales continúan ante la caída de su cotización"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "el bitcoin se alejó de los US$ 73.000 y acumula una caída semanal cercana al 10%",
+     "resumen": "El bitcoin se alejó de los US$ 73.000 y acumula una pérdida semanal cercana al 10%, en un contexto en que los ETF de la criptomoneda no reciben flujos de inversión. La incertidumbre sobre el futuro de Jensen Huang en Nvidia sumó aversión al riesgo en todo el sector tecnológico.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/bitcoin-cae-se-aleja-los-us73000-y-acumula-una-perdida-semanal-cercana-al-10-n6344364",
+     "imagen": "https://media.ambito.com/p/35134ed84cc270c7876a3a3a59ce5f75/adjuntos/239/imagenes/043/747/0043747107/1200x675/smart/bitcoin-mercados-cripto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:01",
+     "autor": "",
+     "titulo_original": "Bitcoin cae, se aleja de los u$s73.000 y acumula una pérdida semanal cercana al 10"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "la recaudación encadenó su cuarta suba real consecutiva y la construcción repuntó",
+     "resumen": "La recaudación tributaria subió 0,8% real interanual en octubre y encadenó su cuarto mes consecutivo de expansión, un desempeño que podría anticipar un cambio de tendencia en la actividad económica. La construcción repuntó con fuerza en el mismo período, aunque la industria todavía no logra encontrar impulso. Para una empresa: son señales mixtas, mejoran los ingresos fiscales y la obra, pero sin tracción todavía del lado industrial.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/la-recaudacion-encadeno-su-cuarta-suba-real-y-la-construccion-repunto-con-fuerza-aunque-la-industria-sigue-sin-encontrar-impulso/",
+     "imagen": "https://www.cronista.com/resizer/v2/34L7OM7TCZELRNCTLSPMVB6WZM.jpg?auth=169591d9db8dfa3fc32222c6fa077f340be58920dc561ee74883206b540d11df&smart=true&width=900&height=573",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:45",
+     "autor": "Federico Pablo Vacalebre",
+     "titulo_original": "La recaudación encadenó su cuarta suba real y la construcción repuntó con fuerza, aunque la industria sigue sin encontrar impulso"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "Jensen Huang renunció como CEO de Nvidia y asume de forma interina Colette Kress",
+     "resumen": "El CEO y cofundador de Nvidia, Jensen Huang, renunció este jueves tras revelarse que mantuvo dos relaciones extramatrimoniales, una de ellas con una mujer que Estados Unidos sospecha de ser una espía china. Será reemplazado de forma interina por la directora financiera, Colette Kress, mientras el directorio busca un sucesor permanente entre candidatos internos y externos. Las acciones llegaron a desplomarse más de 10% antes de la apertura de Wall Street y la compañía perdió cerca de US$ 430.000 millones de valor de mercado en dos ruedas.",
+     "relacionadas": [
+      {
+       "id": "LN-04",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Wall Street cae y se derrumban las acciones de Nvidia tras la escandalosa salida de su CEO",
+       "url": "https://www.lanacion.com.ar/el-mundo/wall-street-cae-y-se-derrumban-las-acciones-de-nvidia-tras-la-escandalosa-salida-de-su-ceo-nid12112026/"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Escándalo en Nvidia: China denuncia “narrativas de espionaje” de EE.UU. para justificar bloqueo tecnológico",
+       "url": "https://www.cronista.com/finanzas-mercados/nvidia-cae-en-bolsa-y-crece-la-presion-sobre-su-ceo-china-denuncia-narrativas-de-espionaje-de-eeuu/"
+      },
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Quién es Colette Kress, la nueva CEO interina de Nvidia que reemplazó a Jensen Huang",
+       "url": "https://www.infobae.com/economia/2026/11/12/quien-es-colette-kress-la-nueva-ceo-interina-de-nvidia-que-reemplazo-a-jensen-huang/"
+      }
+     ],
+     "url": "https://www.cronista.com/financial-times/jensen-huang-renuncia-como-ceo-de-nvidia/",
+     "imagen": "https://www.cronista.com/resizer/v2/RB72674HBBEV7IJE2WJSFOLETQ.jpg?auth=eae48424cf8fa1bdc21892cb0411deea69a4a3025f55854e0f6fee8228816fdd&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:05",
+     "autor": "Michael Acton",
+     "titulo_original": "Jensen Huang renuncia como CEO de Nvidia"
+    },
+    {
+     "id": "CL-01",
+     "titulo": "la privatización de AySA ya tiene fecha: será el 17 de diciembre",
+     "resumen": "La privatización de la empresa de agua AySA tiene fecha confirmada para el 17 de diciembre, con un pago previo de los nuevos dueños al Estado de US$ 340,2 millones por el 90% de las acciones. Walter Román y Mauricio Filiberti, hasta ahora principales proveedores de la empresa, pasarán a ser también accionistas. Los cinco días de feriados por la visita papal demoraron parte del cronograma, porque los compradores pidieron más tiempo para completar la documentación.",
+     "relacionadas": [
+      {
+       "id": "IP-11",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los feriados por la visita del Papa demoran el cambio de dueños de AySA",
+       "url": "https://www.iprofesional.com/negocios/468860-aysa-posterga-su-traspaso-privado-por-feriados-de-la-visita-del-papa"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/privatizacion-aysa-fecha-llegan-dolares-pagar-deuda_0_DW08PLUNFc.html",
+     "imagen": null,
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La privatización de AySA ya tiene fecha y llegan los dólares para pagar la deuda"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "los trabajadores de Stanley Black & Decker tomaron la planta tras el cierre en San Luis",
+     "resumen": "Los trabajadores de la planta de Stanley Black & Decker en Justo Daract, San Luis, tomaron la fábrica tras conocerse el cierre definitivo de las operaciones, que dejará de producir discos abrasivos en el país. La multinacional estadounidense aseguró que continuará comercializando sus productos en la Argentina pese al cierre fabril.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468900-stanley-black-decker-cerro-planta-en-san-luis-y-61-empleados-quedaron-sin-trabajo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629598.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:58",
+     "autor": "",
+     "titulo_original": "Stanley Black & Decker cerró su fábrica en San Luis y los trabajadores tomaron la planta"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "en Tierra del Fuego peligran 1.000 empleos en la producción de aires acondicionados",
+     "resumen": "Una empresa de Tierra del Fuego anunció un recorte masivo que pone en riesgo 1.000 empleos en la producción de aires acondicionados, atribuido a cambios regulatorios y a la quita de barreras comerciales a productos asiáticos. Para una empresa de retail de electrodomésticos y línea blanca: la mayor apertura importadora presiona a los fabricantes locales del rubro, cercano al negocio de materiales para el hogar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468896-por-cambios-en-la-produccion-de-aires-acondicionados-peligran-1000-empleos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/05/596346.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:40",
+     "autor": "",
+     "titulo_original": "Tierra del Fuego: peligran 1.000 empleos por cambios en la producción de aires acondicionados"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Barrick creó una filial en Estados Unidos y mantiene intactas sus operaciones en la Argentina",
+     "resumen": "La minera canadiense Barrick oficializó la creación de American Barrick Gold Corporation para concentrar sus operaciones en Norteamérica, mientras mantiene intactas sus actividades en la Argentina, entre ellas la mina Veladero.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/468877-barrick-crea-filial-en-ee-uu-y-separa-su-operacion-en-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614747.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:22",
+     "autor": "",
+     "titulo_original": "Barrick crea filial en EE.UU. y mantiene intacta sus operaciones en Argentina"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "el unicornio argentino Aleph se alió con OpenAI para vender publicidad de ChatGPT en 44 países",
+     "resumen": "El unicornio argentino Aleph Group, liderado por Gastón Taratuta, cerró una alianza estratégica con OpenAI que lo convierte en revendedor exclusivo de ChatGPT Ads en 44 mercados de cuatro continentes, incluidos la Argentina y otros 13 países de América Latina.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Un unicornio argentino cerró un acuerdo con OpenAI para vender publicidad de ChatGPT en 44 países",
+       "url": "https://www.iprofesional.com/negocios/468897-chatgpt-tendra-anuncios-el-acuerdo-de-openai-con-el-unicornio-argentino-aleph"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/acuerdo-revolucionario-el-unicornio-argentino-aleph-se-alia-con-openai-para-comercializar-la-nid12112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MON6YHCHKZHWDNK4QQQDX3MBP4.png?auth=2aeafac69bc15caafe4b23f0b2fde58caf0dc5d7861abd368178e2bc142294e4&smart=true&width=900&height=506",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:00",
+     "autor": "Lautaro Castillo",
+     "titulo_original": "El unicornio argentino Aleph se alía con OpenAI en un negocio clave de ChatGPT"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "mañana vence el mayor descuento del plan de pagos de ARBA, de hasta 40%",
+     "resumen": "Este viernes 13 de noviembre vence la primera etapa del plan de pagos de ARBA, que permite regularizar deudas de Ingresos Brutos, Sellos, Inmobiliario y Automotor con un descuento de hasta 40% para quienes cancelen al contado. A partir del sábado el beneficio continuará vigente pero con un porcentaje menor, hasta el 31 de diciembre. Para una empresa: conviene evaluar la regularización de deudas provinciales antes de que baje el descuento.",
+     "relacionadas": [
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Vence el plazo para regularizar deudas con hasta 40% de descuento de ARBA: cómo adherirse",
+       "url": "https://www.iprofesional.com/impuestos/468885-vence-el-plazo-para-regularizar-deudas-con-hasta-40-de-descuento-de-arba-como-adherirse"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/ultimas-24-horas-para-regularizar-deudas-en-arba-con-un-descuento-de-hasta-40-como-adherir/",
+     "imagen": "https://www.cronista.com/resizer/v2/FNW6FZV6QFDP3OTORDJXPUFTZU.jpg?auth=3095558c182c05d583daa19bd6c212974601f775c0d7087caa34507a24615b14&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:20",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Últimas 24 horas para regularizar deudas en ARBA con un descuento de hasta 40%: cómo adherir"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "nueva normativa antilavado para comprar propiedades con dólares del colchón",
+     "resumen": "Desde el 8 de noviembre rige un nuevo sistema de prevención de lavado de activos en los Registros de la Propiedad, basado en la Resolución 93/2026 de la UIF, que exige identificar al profesional interviniente e informar si hay personas expuestas políticamente en las compraventas con dólares en efectivo. La medida busca que los ahorros fuera del sistema financiero lleguen con menos trabas a las escrituras, en un contexto en que ocho de cada diez operaciones en la Ciudad ya se firman sin crédito.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/como-comprar-una-propiedad-con-dolares-del-colchon-y-que-exige-ahora-el-registro-de-la-propiedad/",
+     "imagen": "https://www.cronista.com/resizer/v2/XKE77GUZCVDATKQH3SIMVI6WMU.jpg?auth=34a364d42ab6f036f8a7d72e8583fc00a24366aada592714601b0553834b4921&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:44",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Cómo comprar una propiedad con dólares del colchón y qué exige ahora el Registro de la Propiedad"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "aguinaldo de diciembre: cómo se calcula el SAC",
+     "resumen": "El aguinaldo de diciembre se calcula sobre el mejor sueldo bruto del semestre que finaliza, y las empresas deben respetar la fecha límite de pago establecida por la normativa laboral. Para una empresa: conviene anticipar la liquidez necesaria para afrontar el pago del segundo SAC del año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/468369-aguinaldo-de-diciembre-cuanto-se-cobra-segun-el-sueldo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614830.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:35",
+     "autor": "",
+     "titulo_original": "Aguinaldo de diciembre: cuánto se cobra según el sueldo"
+    },
+    {
+     "id": "IP-26",
+     "titulo": "con las vacaciones, vuelve a cobrar relevancia el contrato de trabajo de temporada",
+     "resumen": "Con la llegada de las vacaciones de verano, vuelve a cobrar relevancia el contrato de trabajo de temporada, una herramienta pensada para las empresas cuya actividad fluctúa a lo largo del año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468882-se-vienen-las-vacaciones-y-se-impone-el-contrato-de-temporada-cuales-son-las-condiciones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/04/534205.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:09",
+     "autor": "",
+     "titulo_original": "Se vienen las vacaciones y se impone el contrato de temporada: cuáles son las condiciones"
+    },
+    {
+     "id": "IP-23",
+     "titulo": "el primer ETF argentino y sus dudas en Bienes Personales",
+     "resumen": "El primer ETF argentino que cotiza en la plaza local, el ETF Merval, incluye acciones del panel líder y puede estar exento del Impuesto a las Ganancias, aunque persisten dudas sobre su tratamiento en Bienes Personales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/468887-primer-etf-argentino-cuanto-pagar-ganancias-y-bienes-personales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/629580.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:20",
+     "autor": "",
+     "titulo_original": "Primer ETF argentino: cuánto pagan los inversores en Ganancias y Bienes Personales"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CL-12",
+     "titulo": "el alquiler de un 3 ambientes ya cuesta $ 1.250.000 por mes, el que más subió",
+     "resumen": "El alquiler de un departamento de tres ambientes en la Ciudad de Buenos Aires llegó a $ 1.250.000 por mes, con una suba interanual del 32,9% en el tercer trimestre según datos oficiales porteños, la mayor entre las tipologías relevadas. Para una empresa: la escalada de alquileres sigue presionando el poder adquisitivo de los consumidores urbanos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/alquilar-departamento-3-ambientes-cuesta-1250000-mes-aumento-precio_0_aCd7AHDk7f.html",
+     "imagen": "https://www.clarin.com/img/2026/11/12/nXlOlOHNE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Alquilar un departamento de 3 ambientes ya cuesta $ 1.250.000 por mes: es el que más aumentó de precio"
+    },
+    {
+     "id": "IP-05",
+     "titulo": "remodelar un departamento cuesta casi $ 20 millones y complica el negocio del flipping",
+     "resumen": "Remodelar un departamento para revenderlo, la práctica conocida como flipping, cuesta en la actualidad casi $ 20 millones, un salto en los presupuestos de obra que complica las cuentas de quienes compran unidades deterioradas para renovarlas y venderlas con ganancia. Para una empresa de materiales de construcción: el encarecimiento de la obra puede desalentar este tipo de inversiones menores, aunque sostiene la demanda de insumos de remodelación.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/468916-remodelar-cocina-y-bano-cuesta-casi-20-millones-y-afecta-al-flipping",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/582188.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:24",
+     "autor": "",
+     "titulo_original": "Remodelar un departamento cuesta casi $20 millones y complica el negocio del flipping"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "créditos UVA: los 5 puntos clave para saber si el sueldo aguanta la cuota",
+     "resumen": "Antes de tomar un crédito hipotecario UVA, especialistas recomiendan analizar cinco variables clave para saber si el sueldo aguantará las cuotas durante los 20 o 30 años del préstamo, aun cuando la cuota inicial pueda ser similar o menor a un alquiler equivalente.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/creditos-uva-los-5-puntos-clave-para-saber-si-tu-sueldo-va-a-aguantar-las-cuotas-antes-de-comprar/",
+     "imagen": "https://www.cronista.com/resizer/v2/K5CEA2F4IRH73AMEG63SZ3DEDE.jpg?auth=1f4c3350bf398a1a866302f9d2078f5e4f3011de0b53be99bd72a582c71f5303&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:59",
+     "autor": "Rosario Sabato",
+     "titulo_original": "Créditos UVA: los 5 puntos clave para saber si tu sueldo va a aguantar las cuotas antes de comprar"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "de una antigua estancia a un proyecto de 16 casas de campo en Cañuelas",
+     "resumen": "Un desarrollo inmobiliario en Cañuelas transforma una antigua estancia en un proyecto de 16 casas de campo con arquitectura contemporánea y espacios verdes, que recupera la identidad de las estancias bonaerenses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/468339-de-antigua-estancia-a-proyecto-de-casas-de-campo-en-canuelas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629124.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:45",
+     "autor": "",
+     "titulo_original": "De una antigua estancia a un proyecto de casas de campo en Cañuelas"
+    },
+    {
+     "id": "IP-17",
+     "titulo": "cuánto cuesta salir en familia: cena, teatro y helado en Corrientes",
+     "resumen": "Salir en familia al teatro y cenar en la avenida Corrientes cuesta entre $ 353.096 y $ 408.000 para cuatro personas, según un relevamiento de precios que también identificó opciones gratuitas para salir sin gastar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/recreo/468613-cuanto-cuesta-ir-al-teatro-y-comer-pizza-en-familia-en-buenos-aires",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629336.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:37",
+     "autor": "",
+     "titulo_original": "Una cena en Guerrín, teatro y helado: cuánto hay que gastar para salir en familia"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "el seguro de vida como herramienta de planificación patrimonial",
+     "resumen": "El seguro de vida puede cumplir una función de planificación patrimonial además de dejar un capital a los herederos, al aportar liquidez inmediata para afrontar gastos y obligaciones sin necesidad de vender propiedades o participaciones societarias, según explicó la presidenta de AVIRA, Viviana Chaskielberg.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/seguros-de-vida-y-herencia-funcionan-como-planificacion-alternativa/",
+     "imagen": "https://www.cronista.com/resizer/v2/U3OD2ZRYJFF53C7AYKIDIPHH7A.jpg?auth=1c12759e02ea92879e8374b16ecda4e2a6f1211b1059cb9c09d1971b480d11c1&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:33",
+     "autor": "Florencia García Alegre",
+     "titulo_original": "Seguros de vida y herencia: ¿funcionan como planificación alternativa?"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "la UTN ofrece una tecnicatura en programación a distancia",
+     "resumen": "La Universidad Tecnológica Nacional abrió la inscripción para una tecnicatura en programación de dos años y 17 materias, con título oficial y modalidad a distancia, pensada para quienes buscan una salida laboral en tecnología.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/468609-la-carrera-corta-de-17-materias-a-distancia-que-otorga-titulo-oficial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629334.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:37",
+     "autor": "",
+     "titulo_original": "La carrera de la UTN con 17 materias y salida laboral que se puede estudiar a distancia"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-07",
+     "titulo": "un tiroteo cerca de la Casa Blanca dejó al menos cinco heridos",
+     "resumen": "Al menos cinco personas fueron baleadas este jueves en un gimnasio del barrio de Logan Circle, a poco más de un kilómetro de la Casa Blanca, mientras el agresor permanece atrincherado en un edificio cercano. La policía desplegó un amplio operativo con francotiradores, el Servicio Secreto y la Guardia Nacional en la zona.",
+     "relacionadas": [
+      {
+       "id": "CL-04",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Concejal afirma que varias personas fueron baleadas en Washington",
+       "url": "https://www.clarin.com/estados-unidos/concejal-afirma-que-varias-personas-fueron-baleadas-en-washington_0_peiWqJnvaO.html"
+      },
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Tiroteo en un gimnasio de Washington deja al menos cinco heridos: el agresor permanece atrincherado",
+       "url": "https://www.infobae.com/estados-unidos/2026/11/12/tiroteo-en-un-gimnasio-de-washington-deja-cuatro-heridos-el-agresor-estaria-atrincherado/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/estados-unidos/alerta-en-washington-por-un-tiroteo-cerca-de-la-casa-blanca-cinco-personas-baleadas-y-un-agresor-nid12112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2RMGRUJRAVHYBFTNV7YUPMSF6Y.JPG?auth=3b2086371869afd94b00d757b2ea3de3a24e37f1ddc9b05ac69f0b82d84b8314&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "Alerta en Washington por un tiroteo cerca de la Casa Blanca: cinco personas baleadas y un agresor atrincherado"
+    },
+    {
+     "id": "LN-10",
+     "titulo": "colapsó un edificio en Brooklyn y dejó al menos ocho muertos",
+     "resumen": "Al menos ocho personas murieron y otras diecinueve resultaron heridas tras el derrumbe de un edificio de tres pisos sobre Flatbush Avenue, en Brooklyn, Nueva York, que cayó dentro de un pozo de excavación de una obra lindante. El colapso también desprendió la pared lateral de otro edificio contiguo de tres plantas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/colapso-un-edificio-en-construccion-en-nueva-york-bomberos-trabajan-en-el-rescate-de-personas-nid11112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3DPJTKB2H5BGJJJEEUGDS6O66I.jpg?auth=56098e782c479f70d3f0bf3fa5556d2cc79e5798e88f98c888224763e7088bc1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:01",
+     "autor": "",
+     "titulo_original": "Colapsó un edificio en Nueva York por una obra en el terreno lindante: al menos ocho muertos"
+    },
+    {
+     "id": "IB-03",
+     "titulo": "Sheinbaum le respondió a Trump tras la amenaza de duplicar aranceles a México",
+     "resumen": "La presidenta mexicana Claudia Sheinbaum respondió este jueves al presidente estadounidense Donald Trump, que había advertido que duplicaría de inmediato los aranceles a México si el país no frena las caravanas de migrantes. Sheinbaum aseguró que desde que Trump asumió no llegó ninguna caravana migrante a la frontera norte del país.",
+     "relacionadas": [
+      {
+       "id": "CL-05",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Trump amenaza con duplicar aranceles a México si no frena caravanas de migrantes",
+       "url": "https://www.clarin.com/estados-unidos/trump-amenaza-con-duplicar-aranceles-a-mexico-si-no-frena-caravanas-de-migrantes_0_eidj8R99lz.html"
+      }
+     ],
+     "url": "https://www.infobae.com/mexico/2026/11/12/sheinbaum-responde-a-trump-tras-amenaza-de-duplicar-aranceles-por-caravanas-migrantes-desde-que-llego-no-ha-llegado-ninguna-caravana-a-la-frontera-norte/",
+     "imagen": "https://www.infobae.com/resizer/v2/77ZI6AWNINHM3BDPQOFNPYANZI.png?auth=78b571c3cd9557e7cf322b2337df3a05b58be276fc92e77d2d0c1fbcebd53bf4&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:08",
+     "autor": "Itzallana López Castillo",
+     "titulo_original": "Sheinbaum responde a Trump tras advertencia de duplicar aranceles: asegura que ninguna caravana ha llegado a la frontera norte"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "un hombre atacó con una excavadora un edificio del Gobierno chino",
+     "resumen": "Un hombre embistió con una excavadora un edificio de oficinas del Gobierno chino en lo que podría haber sido una protesta, y provocó destrozos en el complejo antes de ser detenido.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/internacional/hombre-ataco-edificio-gobierno-chino-excavadora-video-destrozos_0_447APALkvr.html",
+     "imagen": "https://www.clarin.com/img/2026/11/12/Xh_BTioxM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un hombre atacó un edificio del Gobierno chino con una excavadora: el video de los destrozos"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "EEUU le pidió a Rusia incluir a la Unión Europea en el diálogo sobre Ucrania",
+     "resumen": "Los enviados de Donald Trump, Steve Witkoff y Jared Kushner, instaron a Vladimir Putin a aceptar que representantes europeos participen en las negociaciones para terminar la guerra en Ucrania, durante una reunión en el Kremlin. El mandatario ruso respondió que es Europa la que debe decidir si quiere paz o guerra, mientras los enviados estadounidenses viajarán ahora a Dublín para reunirse con Volodimir Zelensky.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/12/estados-unidos-le-pidio-a-rusia-incluir-a-la-ue-en-los-dialogos-de-paz-y-putin-dijo-que-europa-debe-decidir-si-quiere-paz-o-guerra/",
+     "imagen": "https://www.infobae.com/resizer/v2/YVKCVZMLNRDHFEEWJ3N3DWDP4A.JPG?auth=6f6d33888682ce42f815c99de409a74006db84820a288e3a701db3e4991459c2&smart=true&width=900&height=531",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:53",
+     "autor": "",
+     "titulo_original": "EEUU le pidió a Rusia incluir a la UE en el diálogo sobre Ucrania y Putin dijo que Europa debe decidir si quiere paz o guerra"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "el mayor atraco bancario de la historia de Chile superó los US$ 8 millones",
+     "resumen": "El asalto a una sucursal del banco BCI en Concepción, Chile, se convirtió en el mayor robo bancario de la historia del país, con un botín final de US$ 8,3 millones, muy por encima de la estimación inicial de US$ 3 millones. Hasta ahora no hay detenidos ni pistas sobre el paradero del dinero.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/america-latina/2026/11/12/el-ultimo-atraco-a-un-banco-en-chile-supera-los-usd-8-millones-el-mayor-botin-de-la-historia/",
+     "imagen": "https://www.infobae.com/resizer/v2/CZKXY5KFPVDYNKW6RS7HIW2D5M.jpg?auth=32675e741bae7b7f970180742a9f7a77ebc51a643cbf99ec61146674a2e487c2&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:07",
+     "autor": "Mauricio Palazzo",
+     "titulo_original": "El último atraco a un banco en Chile supera los USD 8 millones, el mayor botín de la historia"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "la mejora del nivel de vida frena la emigración en los países que entraron a la UE en 2004 y 2007",
+     "resumen": "Le Grand Continent repasa el informe anual de la OCDE sobre migración, que mostró que Rumanía registró en 2024 su nivel más bajo de emigración desde que ingresó a la Unión Europea en 2007, con 213.000 personas frente a las 268.000 de 2022. La revista interpreta esta tendencia, común a los países que se incorporaron en las ampliaciones de 2004 y 2007, como un efecto de la mejora del nivel de vida y de la transición demográfica europea.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/12/en-los-paises-ingresados-en-union-en-2004-y-2007-la-alza-del-nivel-de-vida-freina-emigracion/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "11:50",
+     "autor": "Marin Saillofest",
+     "titulo_original": "En los países que se incorporaron a la Unión en 2004 y 2007, la mejora del nivel de vida frena la emigración"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "por qué España ganó la carrera energética en Europa",
+     "resumen": "La revista analiza por qué España se convirtió en un laboratorio energético europeo bajo el gobierno de Pedro Sánchez, pese a ser uno de los países del continente más expuestos al cambio climático, con tres cuartas partes de su territorio amenazado por la desertificación. El artículo advierte que las próximas elecciones podrían poner en entredicho ese liderazgo.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/12/por-que-espana-de-sanchez-gano-la-carrera-energetica/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "11:05",
+     "autor": "Ramona Bloj",
+     "titulo_original": "¿Por qué la España de Sánchez ha ganado la carrera energética en Europa?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-04",
+     "titulo": "Argentina enfrenta a Uruguay sin Messi, en su primer partido tras la despedida",
+     "resumen": "La selección argentina, dirigida por Lionel Scaloni, enfrentará a Uruguay este viernes 13 de noviembre en La Bombonera, en su primer partido desde la despedida de Lionel Messi del equipo nacional. El amistoso llega tras tres victorias consecutivas en la última ventana FIFA, incluido un 7 a 0 sobre Burkina Faso.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/mexico/deportes/2026/11/12/argentina-vs-uruguay-donde-ver-en-mexico-el-primer-partido-de-la-albiceleste-sin-lionel-messi/",
+     "imagen": "https://www.infobae.com/resizer/v2/XLX5OTXUBRHNPDX54BUTKRUUDE.png?auth=1d5edd0aaed50cf45940b0ddc37701a64c0fcaec2548e9399f4d25b9d3b47aab&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:08",
+     "autor": "Alexander Ortiz",
+     "titulo_original": "Argentina vs Uruguay: dónde y cuándo ver en México el primer partido de la Albiceleste sin Lionel Messi"
+    },
+    {
+     "id": "AM-12",
+     "titulo": "crece la expectativa por el anuncio de renovación de Scaloni en la Selección",
+     "resumen": "Lionel Scaloni brindará una conferencia de prensa esta tarde en Ezeiza en la previa del amistoso ante Uruguay, en medio de la expectativa por un posible anuncio sobre su renovación al frente de la Selección, cuyo contrato vence a fin de año.",
+     "relacionadas": [
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Expectativa por la conferencia de prensa que brindará Lionel Scaloni antes de los amistosos de la selección argentina",
+       "url": "https://www.infobae.com/deportes/2026/11/12/expectativa-por-la-conferencia-de-prensa-que-brindara-lionel-scaloni-antes-de-los-amistosos-de-la-seleccion-argentina/"
+      }
+     ],
+     "url": "https://www.ambito.com/deportes/lionel-scaloni-hablara-antes-del-amistoso-uruguay-y-crece-la-expectativa-su-renovacion-la-seleccion-argentina-n6344350",
+     "imagen": "https://media.ambito.com/p/24fd056c2a4933db67498592b524cd4d/adjuntos/239/imagenes/043/514/0043514498/1200x675/674x269:694x289/lionel-scaloni-seleccionargentina.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:38",
+     "autor": "",
+     "titulo_original": "Lionel Scaloni hablará antes del amistoso con Uruguay y crece la expectativa por su renovación con la Selección argentina"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "Estudiantes de La Plata e Independiente Rivadavia juegan hoy la Supercopa Argentina",
+     "resumen": "Estudiantes de La Plata e Independiente Rivadavia disputan esta noche, desde las 20 horas en el estadio de Belgrano de Córdoba, la Supercopa Argentina entre los vigentes campeones del Trofeo de Campeones y de la Copa Argentina. El partido se televisará por ESPN Premium y Disney+.",
+     "relacionadas": [
+      {
+       "id": "IB-11",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Estudiantes de La Plata e Independiente Rivadavia disputarán la Supercopa Argentina: hora, TV y todo lo que hay que saber",
+       "url": "https://www.infobae.com/deportes/2026/11/12/estudiantes-de-la-plata-e-independiente-rivadavia-disputaran-la-supercopa-argentina-hora-tv-y-todo-lo-que-hay-que-saber/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/estudiantes-plata-vs-independiente-rivadavia-vivo-supercopa-argentina-hora-formaciones-ver-partido_0_Nh5N28NUpQ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/12/KxxSZQP67_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Estudiantes de La Plata vs. Independiente Rivadavia, EN VIVO, por la Supercopa Argentina: hora, formaciones y dónde ver el partido"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Francia visita a Italia por la Nations League sin Mbappé, lesionado",
+     "resumen": "Francia visita a Italia este jueves en San Siro por la Nations League, con Kylian Mbappé nuevamente afuera por una lesión en el tendón de una pierna, en un partido clave para la clasificación a cuartos de final de ambos equipos. En la previa, Marco Materazzi recordó el histórico cabezazo de Zinedine Zidane en la final del Mundial 2006 y señaló que la reciente muerte del futbolista Jesús de Miguel lo llevó a reflexionar sobre las consecuencias que pudo haber tenido esa agresión.",
+     "relacionadas": [
+      {
+       "id": "CL-11",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La increíble comparación de Materazzi entre el cabezazo de Zidane y la tragedia de Tenerife: \"La muerte de Jesús de Miguel me hizo dar gracias a Dios de que no me pasara nada\"",
+       "url": "https://www.clarin.com/deportes/increible-comparacion-materazzi-cabezazo-zidane-tragedia-tenerife-muerte-jesus-miguel-hizo-dar-gracias-dios-pasara_0_N979fvN68r.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/nations-league-francia-visita-a-italia-con-la-relacion-zidane-mbappe-en-plena-etapa-de-deshielo-nid12112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/QTRW5566BJB53KZBDITTUUHVCU.jpg?auth=d836425eb80d090657d2f8d7f7787d5ae80505cae82e153e4b0684786b95d8cf&smart=true&width=900&height=662",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:50",
+     "autor": "",
+     "titulo_original": "Nations League: Francia visita a Italia, con la relación Zidane-Mbappé en plena etapa de deshielo"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "el Manchester United despidió a Carrick y acelera las negociaciones por Pochettino",
+     "resumen": "El Manchester United despidió a Michael Carrick tras ganar solo un partido de diez en la Premier League y quedar en zona de descenso, y acelera las negociaciones para contratar a Mauricio Pochettino como su reemplazo. La selección de Estados Unidos también sigue de cerca la situación, ante la posibilidad de sumar a un entrenador de jerarquía que hoy atraviesa un año sabático.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Mauricio Pochettino se acerca al Manchester United y la selección de EEUU ya piensa en un peso pesado",
+       "url": "https://www.ambito.com/deportes/mauricio-pochettino-se-acerca-al-manchester-united-y-la-seleccion-eeuu-ya-piensa-un-peso-pesado-n6344324"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/cronica-final-anunciado-manchester-united-despidio-carrick-acelera-mauricio-pochettino_0_IcMRKzXmmo.html",
+     "imagen": "https://www.clarin.com/img/2026/11/12/rYzj7VQ7Y_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:34",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Crónica de un final anunciado: el Manchester United despidió a Carrick y acelera por Mauricio Pochettino"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Lindsey Vonn mostró su recuperación tras una novena cirugía",
+     "resumen": "La esquiadora estadounidense Lindsey Vonn mostró en sus redes sociales el material de osteosíntesis que le retiraron de la pierna izquierda en su novena cirugía, parte de la recuperación de la lesión que sufrió en los Juegos Olímpicos de Milán-Cortina 2026.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/12/me-saque-todo-esto-de-la-pierna-las-impresionantes-imagenes-que-compartio-una-estrella-de-los-juegos-olimpicos-tras-atravesar-su-novena-cirugia/",
+     "imagen": "https://www.infobae.com/resizer/v2/XBWG776COBHO7ON4TT2L5TVKYM.jpg?auth=66b9c79ea5d87033848b4b41e0ca9c05c719976fd996c092b4d7e8ce2940b43e&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:23",
+     "autor": "",
+     "titulo_original": "“Me saqué todo esto de la pierna”: las impresionantes imágenes que compartió una estrella de los Juegos Olímpicos tras atravesar su novena cirugía"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IB-26",
+     "titulo": "las Cataratas del Iguazú celebraron 15 años como Maravilla Natural del Mundo",
+     "resumen": "Las Cataratas del Iguazú conmemoraron sus 15 años como una de las Siete Maravillas Naturales del Mundo, distinción obtenida el 11 de noviembre de 2011 tras una votación de la fundación suiza New7Wonders. La fecha incluyó la inauguración del Portal Mágico Iguazú, una experiencia binacional entre Argentina y Brasil, con actividades en el Parque Nacional de 9 a 17 horas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/turismo/2026/11/12/las-cataratas-del-iguazu-conmemoran-hoy-los-15-anos-de-ser-declaradas-una-de-las-siete-maravillas-naturales-del-mundo/",
+     "imagen": "https://www.infobae.com/resizer/v2/ACFFOEE54RBCFD7RSEA3JWVET4.jpg?auth=f460914c905604e8cb2fdf6e7d7026e55e9103715e3e0179ad96891e2bd1c3a4&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:26",
+     "autor": "",
+     "titulo_original": "Las Cataratas del Iguazú conmemoraron los 15 años de ser declaradas una de las Siete Maravillas Naturales del Mundo"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-19",
+     "titulo": "mataron a un repartidor en Córdoba que defendía a dos adolescentes de un robo",
+     "resumen": "Un repartidor de 40 años, Mauro Quinteros, murió de un balazo en el pecho en barrio Alta Córdoba cuando intentó interponerse entre dos delincuentes armados y dos adolescentes a las que intentaban robarles sus celulares. Hay un detenido por el hecho, y sus compañeros realizan una marcha en reclamo de seguridad.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/11/12/cordoba-mataron-de-un-balazo-a-un-repartidor-que-quiso-defender-a-dos-adolescentes-de-un-robo/",
+     "imagen": "https://www.infobae.com/resizer/v2/FNTF4B4OCFEPZL5EF5DLRDAZ5A.jpg?auth=88a7b215e47942ac3d1a50f3f327e4ca4d53e4e71b425db7c82416b253abcfbd&smart=true&width=900&height=507",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:09",
+     "autor": "",
+     "titulo_original": "Córdoba: mataron de un balazo a un repartidor que quiso defender a dos adolescentes de un robo"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "cayó en Rosario el hijo del narco Esteban Lindor Alvarado",
+     "resumen": "Santino Alvarado, hijo del condenado capo narco rosarino Esteban Lindor Alvarado, fue detenido este jueves en el marco de más de 30 allanamientos de la Policía Federal en el Gran Rosario por una causa de narcotráfico, lavado y armas. En su domicilio se secuestraron dos pistolas y una escopeta.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/11/12/cayo-santino-el-hijo-del-capo-narco-de-rosario-esteban-lindor-alvarado/",
+     "imagen": "https://www.infobae.com/resizer/v2/EQPGCEXSJVB5XPMIRRUYIWSG3M.jpg?auth=de0e4b90a7862ba779a9c8326fad89c9ba217fba7d8f2c08576385a07c2ad33f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:27",
+     "autor": "Agustín Lago",
+     "titulo_original": "Cayó Santino, el hijo del capo narco de Rosario Esteban Lindor Alvarado"
+    },
+    {
+     "id": "CL-16",
+     "titulo": "en Devoto, víctimas de una megaestafa inmobiliaria vieron por TV a sus estafadores durante la visita del Papa",
+     "resumen": "Durante la visita del papa León XIV a la cárcel de Devoto, los damnificados por la megaestafa inmobiliaria del clan L'Abbate vieron por televisión a Vito y Emanuel L'Abbate, procesados por asociación ilícita y estafas múltiples, entre los presos presentes en el penal. \"Verlos en televisión nos produjo un cimbronazo a todos\", relató una de las víctimas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/desagradable-sorpresa-visita-papa-leon-xiv-carcel-devoto_0_D87k0d9b8w.html",
+     "imagen": "https://www.clarin.com/img/2026/11/12/WFFlyoj7U_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La desagradable sorpresa de la visita del papa León XIV a la cárcel de Devoto"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "Súper Niño 2026: alerta por lluvias fuertes en el centro-este argentino",
+     "resumen": "El Servicio Meteorológico Nacional anticipó que el fenómeno de El Niño generará un pico de lluvias \"fuerte o muy fuerte\" en el centro-este argentino, con la crecida del río Paraná en estado de alerta en Santa Fe y evacuados ya reportados en Entre Ríos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegara-pico-lluvias-provincias-afectadas_0_CauiyFb5BV.html",
+     "imagen": "https://www.clarin.com/img/2026/11/06/LmRMzfb1l_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:29",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: cuándo llegará el pico de lluvias y cuáles serán las provincias más afectadas"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del jueves 12 de noviembre.\n\nLa salida de Jensen Huang como director ejecutivo de Nvidia, en medio de un escándalo de infidelidad y presunto espionaje chino, sacude a Wall Street. En la Argentina, el oficialismo acelera la suspensión de las PASO con el respaldo de Patricia Bullrich, mientras el dólar operó con normalidad en la primera rueda sin feriados y el riesgo país volvió a superar los ochocientos sesenta puntos. La privatización de la empresa de agua AySA quedó encaminada para el 17 de diciembre, y la agenda internacional sumó un tiroteo cerca de la Casa Blanca y el derrumbe de un edificio en Brooklyn.\n\nEntre los datos del día, las exportaciones de girasol llegaron a los tres mil veinticinco millones de dólares en los primeros nueve meses del año, un salto de más del ochenta por ciento interanual, y el bitcoin se alejó de los setenta y tres mil dólares con una caída semanal cercana al diez por ciento.\n\nEn política, Bullrich se alineó con el pedido de convocar a una comisión del Senado el martes diecisiete de noviembre para avanzar con la suspensión de las PASO, y en el oficialismo dicen que ya tienen los votos; Martín Menem presiona para que se resuelva en dos semanas y habla de sesiones extraordinarias. Los jefes de bloque se reunieron hoy en Diputados para ordenar la agenda, con el Presupuesto 2027 todavía sin dictamen a diez días del cierre del período ordinario. Javier Milei designó a Ramiro Anzit Guerrero al frente de Asuntos Penitenciarios, con el objetivo de avanzar con el cierre de la cárcel de Devoto. El jefe de Gabinete bonaerense, Carlos Bianco, dijo que el mensaje del Papa sobre jubilaciones y empleo es exactamente lo contrario a lo que hace el Gobierno nacional, mientras desde La Libertad Avanza defendieron el silencio de Milei frente al Pontífice. Chile descartó pedirle permiso a la Argentina para que un buque navegue hacia las Malvinas, en medio de la tensión por el reclamo argentino de que el petróleo de las islas podría financiar la base militar británica. Y los metrodelegados de subte hacen un paro desde las nueve de la noche, por la muerte de un trabajador vinculada al asbesto.\n\nEn economía y mercados, el dólar oficial cotizó en mil quinientos cuarenta y tres pesos en la primera jornada con actividad normal tras los feriados, y el blue subió a mil quinientos cincuenta pesos para la compra. Los ADR argentinos se hundieron hasta un seis por ciento en Wall Street y el riesgo país volvió a superar los ochocientos sesenta puntos, en una rueda de toma de ganancias. La Bolsa autorizó seis nuevos cedear para invertir desde acá en tierras raras, litio y materias primas agrícolas. Fitch puso en vigilancia negativa la deuda de Paraguay por el contagio de la quiebra del banco Ueno, y los bancos centrales del mundo siguen comprando oro pese a la caída reciente de su cotización. La recaudación tributaria subió casi un uno por ciento real interanual en octubre, su cuarto mes consecutivo de mejora, y la construcción repunta aunque la industria todavía no encuentra impulso. Para una empresa, son señales mixtas: mejoran los ingresos fiscales y la obra, pero sin tracción industrial todavía.\n\nEn negocios y empresas, la gran noticia es la renuncia de Jensen Huang en Nvidia, tras revelarse que mantuvo dos relaciones extramatrimoniales, una con una mujer que Estados Unidos sospecha de ser una espía china. Lo reemplaza de forma interina la directora financiera, Colette Kress, mientras el directorio busca un sucesor permanente; la empresa perdió unos cuatrocientos treinta mil millones de dólares de valor de mercado en dos ruedas. La privatización de AySA ya tiene fecha, el 17 de diciembre, con un pago previo de trescientos cuarenta millones de dólares al Estado. En San Luis, los trabajadores de Stanley Black and Decker tomaron la fábrica tras conocerse el cierre definitivo de la planta. En Tierra del Fuego peligran mil empleos en la producción de aires acondicionados por cambios regulatorios y la apertura a productos asiáticos. La minera Barrick creó una filial en Estados Unidos pero mantiene intactas sus operaciones en la Argentina, y el unicornio argentino Aleph cerró una alianza con OpenAI para ser revendedor exclusivo de la publicidad de ChatGPT en cuarenta y cuatro países.\n\nEn impuestos y normativa, mañana vence la primera etapa del plan de pagos de ARBA, con un descuento de hasta el cuarenta por ciento para quienes regularicen deudas al contado. Desde el ocho de noviembre rige una nueva normativa antilavado de la UIF para comprar propiedades con dólares en efectivo. El aguinaldo de diciembre se calcula sobre el mejor sueldo del semestre, y con la llegada del verano vuelve a cobrar relevancia el contrato de trabajo de temporada.\n\nEn consumo, construcción y retail, el alquiler de un departamento de tres ambientes en la Ciudad llegó a un millón doscientos cincuenta mil pesos por mes, con una suba interanual de casi treinta y tres por ciento. Remodelar un departamento para revenderlo cuesta ya casi veinte millones de pesos, lo que complica el negocio del flipping. Antes de tomar un crédito hipotecario UVA conviene revisar cinco variables clave para saber si el sueldo va a aguantar la cuota a veinte o treinta años. En Cañuelas, una antigua estancia se convierte en un proyecto de dieciséis casas de campo, y salir en familia al teatro y a cenar por avenida Corrientes cuesta entre trescientos cincuenta y tres mil y cuatrocientos ocho mil pesos para cuatro personas.\n\nEn management y finanzas corporativas, el seguro de vida puede servir como herramienta de planificación patrimonial, al aportar liquidez sin tener que vender propiedades o participaciones societarias. Y la Universidad Tecnológica Nacional abrió la inscripción a una tecnicatura en programación de dos años, a distancia y con título oficial.\n\nEn el mundo, un tiroteo cerca de la Casa Blanca dejó al menos cinco heridos, con el agresor atrincherado. En Brooklyn, Nueva York, el derrumbe de un edificio sobre una obra en construcción dejó al menos ocho muertos. La presidenta mexicana Claudia Sheinbaum le respondió a Donald Trump, que había amenazado con duplicar los aranceles si México no frena las caravanas migrantes, y aseguró que ninguna llegó a la frontera norte. En China, un hombre embistió con una excavadora un edificio de oficinas del Gobierno. Los enviados de Trump pidieron en Moscú que Europa participe de las negociaciones por Ucrania, y Vladimir Putin respondió que es Europa la que debe decidir si quiere paz o guerra. Y en Chile, el robo a un banco en Concepción se convirtió en el mayor atraco bancario de la historia del país, con un botín final de ocho millones trescientos mil dólares.\n\nLe Grand Continent analiza por qué la mejora del nivel de vida en los países que entraron a la Unión Europea en dos mil cuatro y dos mil siete frenó la emigración, y por qué España se convirtió en un laboratorio energético bajo el gobierno de Pedro Sánchez, pese a ser uno de los países más expuestos al cambio climático del continente.\n\nEn deportes, la Selección argentina enfrenta mañana a Uruguay en la Bombonera, su primer partido tras la despedida de Messi, y hoy Lionel Scaloni habla en conferencia de prensa en medio de la expectativa por su renovación. Estudiantes de La Plata e Independiente Rivadavia juegan esta noche la Supercopa Argentina en Córdoba. Francia visita a Italia por la Nations League sin Kylian Mbappé, lesionado, y el Manchester United despidió a Michael Carrick y acelera las negociaciones por Mauricio Pochettino. La esquiadora Lindsey Vonn mostró en redes cómo avanza su recuperación tras su novena cirugía.\n\nEn turismo, las Cataratas del Iguazú celebraron sus quince años como una de las Siete Maravillas Naturales del Mundo, con la inauguración del Portal Mágico Iguazú, una experiencia binacional entre Argentina y Brasil.\n\nY en sociedad, un repartidor de cuarenta años murió de un balazo en Córdoba cuando intentó defender a dos adolescentes de un robo. Cayó en Rosario el hijo del capo narco Esteban Lindor Alvarado, tras más de treinta allanamientos. Durante la visita del Papa a la cárcel de Devoto, las víctimas de una megaestafa inmobiliaria vieron por televisión a los responsables, presos en el mismo penal. Y el Servicio Meteorológico Nacional anticipó un pico de lluvias fuerte por El Niño, con alerta en Santa Fe y evacuados en Entre Ríos.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Al cierre de esta edición, el INDEC todavía no había difundido el dato de inflación de octubre; se mantiene como se informó en la edición de la mañana (estimaciones privadas entre 1,7% y 2,1%).",
+ "slug": "2026-11-12-mediodia",
+ "generado_ba": "12/11/2026 15:19"
+}
