@@ -1,0 +1,789 @@
+{
+ "fecha": "2026-11-13",
+ "edicion": "tarde",
+ "titulo": "Un muerto en la explosión de Lanús mientras el Merval corta su racha negativa",
+ "apertura": "La explosión de Remedios de Escalada escaló con la tarde: ya hay un muerto, dos desaparecidos y más de 30 heridos, y la Justicia detuvo a dos directivos de Metrogas. En los mercados, el Merval cortó una racha de cinco ruedas negativas y subió 2,4%, el dólar blue tuvo su mayor suba semanal en cuatro meses y el economista Orlando Ferreres anticipó que la inflación de noviembre tampoco será baja. Afuera, el escándalo que sacó a Jensen Huang de Nvidia generó un terremoto político en Washington y Estados Unidos derribó drones iraníes que amenazaban Baréin.",
+ "claves": [
+  "La explosión por una fuga de gas en Remedios de Escalada (Lanús) dejó un muerto, dos desaparecidos y más de 30 heridos; la Justicia detuvo a dos directivos de Metrogas.",
+  "El Merval cortó una racha de cinco ruedas negativas y subió 2,4% hasta los 84.400 puntos, mientras Wall Street volvió a caer arrastrado por Nvidia.",
+  "El dólar blue tuvo su mayor suba semanal en cuatro meses y cerró en $ 1.575, mientras el oficial terminó la semana con lecturas mixtas entre bancos.",
+  "El economista Orlando Ferreres advirtió que la inflación de noviembre tampoco será baja y puso en duda la meta de 30% anual.",
+  "El uso de la capacidad instalada de la industria superó el 60% por primera vez en el año, aunque sigue por debajo del mismo mes de 2025.",
+  "Desde 2023 se perdieron casi 32.500 empresas en el país, con la informalidad como refugio de buena parte de las pymes.",
+  "Estados Unidos derribó dos drones iraníes que amenazaban instalaciones militares en Baréin, en medio de la escalada con Irán.",
+  "El escándalo de espionaje que forzó la salida de Jensen Huang de Nvidia generó un terremoto político en el gobierno de Trump y abre dudas sobre si venderá sus acciones por US$ 135.000 millones."
+ ],
+ "cifras": [
+  {
+   "nombre": "Índice Merval",
+   "valor": "84.400 puntos",
+   "variacion": "+2,4%",
+   "fuente": "IB-18"
+  },
+  {
+   "nombre": "Uso de capacidad instalada industrial",
+   "valor": "60,1%",
+   "variacion": "+1 p.p. vs. agosto",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Reservas brutas del BCRA",
+   "valor": "US$ 49.594 millones",
+   "variacion": "+US$ 516 millones",
+   "fuente": "LN-11"
+  },
+  {
+   "nombre": "Vencimientos de deuda 2027 en moneda extranjera",
+   "valor": "US$ 22.615 millones",
+   "fuente": "CR-24"
+  },
+  {
+   "nombre": "Empresas perdidas desde 2023",
+   "valor": "32.500 unidades productivas",
+   "fuente": "AM-08"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-13",
+     "titulo": "Crece la puja entre La Libertad Avanza y sus socios legislativos por la Ley Malvinas",
+     "resumen": "El oficialismo solo acepta modificaciones semánticas a la Ley de Soberanía Nacional y se niega a eliminar el capítulo electoral, por lo que la oposición podría no acompañar esa parte del texto. El presidente de la Cámara de Diputados, Martín Menem, planea llevar el proyecto al recinto el miércoles 18, junto con la reforma de la Carta Orgánica del Banco Central.",
+     "url": "https://www.infobae.com/politica/2026/11/13/crece-la-puja-entre-la-libertad-avanza-y-sus-socios-legislativos-por-los-cambios-en-la-ley-malvinas/",
+     "imagen": "https://www.infobae.com/resizer/v2/NCUHNAKHQRFR7K6O5TEZZZMJ4E.jpg?auth=a4303e479c82440a159e7db61aed42ffd522f94bc8e9e9a7fbc731609c72ef8e&smart=true&width=900&height=598",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:01",
+     "autor": "David Cayón",
+     "titulo_original": "Crece la puja entre La Libertad Avanza y sus socios legislativos por los cambios en la ley Malvinas",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Karina Milei vuelve a convocar a la mesa política tras un mes sin reuniones",
+     "resumen": "La secretaria general de la Presidencia reactivó para el próximo martes el encuentro del círculo más reducido del oficialismo, atravesado por tensiones internas y diferencias sobre alianzas con los gobernadores. Es la primera cumbre presencial en casi un mes, en medio de las últimas semanas de negociación legislativa.",
+     "url": "https://www.infobae.com/politica/2026/11/13/karina-milei-vuelve-a-convocar-a-la-mesa-politica-tras-un-mes-sin-reuniones-y-en-plena-tension-con-bullrich/",
+     "imagen": "https://www.infobae.com/resizer/v2/UWDIV7PTWBCZ5JCGMBGPJNXH5U.jpg?auth=a53d0fb15d40a2857b5d853b957d241750044eedf046d268348a73e8ad13f1c2&smart=true&width=900&height=675",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:47",
+     "autor": "Julián Alvez",
+     "titulo_original": "Karina Milei vuelve a convocar a la mesa política tras un mes sin reuniones y en plena tensión con Bullrich",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-18",
+     "titulo": "El desempleo se convirtió en la principal preocupación de los argentinos",
+     "resumen": "Según Atlas Intel/Bloomberg, la desocupación pasó al primer puesto de las preocupaciones por primera vez en 2026, con 50,2% de las menciones, y desplazó a la corrupción. El Indec había medido el desempleo en 7,9% en el segundo trimestre, una suba frente al 7,8% previo.",
+     "url": "https://www.lanacion.com.ar/politica/el-desempleo-se-convirtio-en-la-principal-preocupacion-de-los-argentinos-segun-una-encuestadora-nid13112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UDM2RKQXLVFN5JTS5A5OOQU5TE.jpg?auth=6643e086c38104986bf3f6724b6a3d5f7fc287692c50aaefe2cb73adda23cf07&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:32",
+     "autor": "",
+     "titulo_original": "El desempleo se convirtió en la principal preocupación de los argentinos, según una encuestadora",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-23",
+     "titulo": "La CGT y los movimientos sociales pronostican un aumento de la conflictividad social",
+     "resumen": "El secretario general de la CGT, Cristian Jerónimo, anticipó que la protesta callejera va a profundizarse en 2027, año electoral, por las \"demandas insatisfechas\" tanto del mundo del trabajo como de la ciudadanía en general. El dirigente social Alejandro Gramajo coincidió en que la tendencia no responde a un deseo sino a una situación derivada del malestar social.",
+     "url": "https://www.lanacion.com.ar/politica/la-cgt-y-los-movimientos-sociales-pronostican-un-aumento-de-la-conflictividad-social-nid13112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SIFDZTVH4FDTHNYY2OGQVYHZLE.jpg?auth=b4c8063409d90ce487bf63416ba20211461ff629ad198a66b0c7a38d5e5f1155&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:55",
+     "autor": "",
+     "titulo_original": "La CGT y los movimientos sociales pronostican un aumento de la conflictividad social",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-23",
+     "titulo": "Causa Andis: el peritaje de la Gendarmería no logró determinar si la voz de los audios era de Spagnuolo",
+     "resumen": "El informe, entregado al juez Ariel Lijo, detectó \"posibles ediciones\" en los audios pero no pudo confirmar ni descartar que la voz corresponda al exfuncionario. El hallazgo choca con otro peritaje del Ministerio Fiscal que había corroborado la autenticidad del material.",
+     "url": "https://www.clarin.com/politica/causa-andis-peritaje-gendarmeria-detecto-posibles-ediciones-logro-determinar-voz-audios-spagnuolo_0_uaku3rvMDb.html",
+     "imagen": "https://www.clarin.com/img/2026/05/01/OMgW7TUWW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:22",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Causa Andis: el peritaje de la Gendarmería detectó \"posibles ediciones\" pero no logró determinar si la voz de los audios era la de Spagnuolo",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-18",
+     "titulo": "Wall Street retoma las pérdidas, pero el Merval rebota 2,4% y corta una racha negativa",
+     "resumen": "Los índices de Nueva York revirtieron la suba inicial y el Nasdaq cede 1%, con Nvidia retrocediendo 2,2%. En Buenos Aires, el MSCI Merval sube 2,4% hasta los 84.400 puntos y corta una serie de cinco ruedas en rojo; entre los ADR, YPF sube 1,3%, Grupo Galicia 2,1% y Mercado Libre 1,4%, mientras los bonos en dólares avanzan apenas 0,1%.",
+     "url": "https://www.infobae.com/economia/2026/11/13/mercados-suben-las-acciones-y-cae-el-riesgo-pais-en-un-contexto-positivo-para-las-bolsas-internacionales/",
+     "imagen": "https://www.infobae.com/resizer/v2/FBHJSVBOT5FPRN6EL5XZH6YAOU.JPG?auth=4482e06c8d2058ea131b2fb012dd6facd6ef63bf8d3082778a32ce2d45f4f7fc&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:41",
+     "autor": "",
+     "titulo_original": "Mercados: Wall Street retoma las pérdidas, pero se recuperan las acciones argentinas",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-08",
+     "titulo": "El dólar blue tuvo su mayor suba semanal en cuatro meses y cerró en $ 1.575",
+     "resumen": "El dólar blue subió $ 10 en la rueda y cerró a $ 1.555 para la compra y $ 1.575 para la venta, con una ganancia de $ 45 desde el cierre de 2025. Ámbito coincidió en que el informal anotó su mayor suba semanal en cuatro meses y cerró en máximos nominales.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar blue anotó su mayor suba semanal en cuatro meses y cerró en máximos nominales",
+       "url": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-mayor-suba-semanal-cuatro-meses-y-cerro-maximos-nominales-n6345069"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-el-viernes-13-de-noviembre-con-el-mep-y-el-ccl/",
+     "imagen": "https://www.cronista.com/resizer/v2/UN2MIHV3B5B47LFFVFQKL5VFFA.png?auth=de0bee0621ef7af3b948fab3414f18e412a9f263760b32282a4beb17aef32005&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:17",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El dólar blue subió en el cierre de la semana: a cuánto cerró este viernes con el MEP y el CCL"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "El dólar oficial retrocedió sobre el cierre y anotó su primera baja semanal en un mes",
+     "resumen": "Según Ámbito, el dólar oficial cedió sobre el cierre de la rueda y marcó su primera caída semanal en cuatro semanas; El Cronista, en cambio, lo describió como \"sin cambios\" en la semana, a $ 1.520 para la compra y $ 1.570 para la venta en el Banco Nación. El Banco Central concretó el jueves su mayor compra de divisas en casi un mes, aunque las reservas brutas cayeron por la baja del oro.",
+     "relacionadas": [
+      {
+       "id": "CR-11",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El dólar oficial cerró la semana sin cambios: a cuánto quedó en los bancos este viernes 13 de noviembre",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-oficial-cotiza-estable-a-cuanto-se-ofrece-en-los-bancos-de-la-city-hoy-viernes-13-de-noviembre/"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/el-dolar-encara-el-cierre-la-semana-corta-un-leve-repunte-el-tramo-mayorista-n6344803",
+     "imagen": "https://media.ambito.com/p/5ac00d821d36b820f0b91018cd0ff1b5/adjuntos/351/imagenes/041/404/0041404676/1200x675/smart/dolar-tipo-cambio-divisa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:33",
+     "autor": "",
+     "titulo_original": "El dólar oficial retrocedió sobre el cierre de la jornada y anotó su primera baja semanal en un mes"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Orlando Ferreres: \"La inflación de noviembre tampoco va a ser muy baja\"",
+     "resumen": "El economista, titular de la consultora OJF y Asociados, cuestionó las chances de que la inflación anual cierre cerca del 30% proyectado, después de que el dato de octubre sorprendiera con una suba de 2,2%, por encima de lo esperado por el mercado.",
+     "url": "https://www.infobae.com/economia/2026/11/13/orlando-ferreres-la-inflacion-de-noviembre-tampoco-va-a-ser-muy-baja/",
+     "imagen": "https://www.infobae.com/resizer/v2/UQULQQHJ7NAHJPMTDCF3J4DYGU.jpg?auth=bd957b3606d83769dd906bc1927a2d573320a41985c1d66e962b89dfdde4f967&smart=true&width=900&height=586",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:36",
+     "autor": "",
+     "titulo_original": "Orlando Ferreres: \"La inflación de noviembre tampoco va a ser muy baja\"",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-07",
+     "titulo": "¿Jensen Huang venderá sus US$ 135.000 millones en acciones de Nvidia?",
+     "resumen": "El cofundador vendió apenas unos US$ 3.000 millones en acciones desde que Nvidia salió a bolsa en 1999, y hoy conserva unos 812 millones de acciones valuadas en US$ 135.000 millones. Ahora que dejó el cargo, cualquier intento de desprenderse de ellas inquietaría a los inversores e implicaría riesgos legales y de precio; la acción volvió a caer 3,8% hasta los US$ 159,9 este viernes.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Cambió el mapa de la IA: qué acciones y Cedear ganan y cuáles pierden con el escándalo de Nvidia",
+       "url": "https://www.cronista.com/finanzas-mercados/cambio-el-mapa-de-la-ia-que-acciones-y-cedear-gana-y-cuales-pierden-con-el-desplome-de-nvidia/"
+      }
+     ],
+     "url": "https://www.cronista.com/financial-times/jensen-huang-vendera-sus-us-135000-millones-en-acciones-de-nvidia/",
+     "imagen": "https://www.cronista.com/resizer/v2/BRXQYH7LLJCJBGMCPLV37R2WGE.jpg?auth=e9e0d8621f97ed22e1de5e6553fa00421a7bfee5266af18df5f1978cebe292d2&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:23",
+     "autor": "Ryan McMorrow, Stephen Yu",
+     "titulo_original": "¿Jensen Huang venderá sus u$s 135.000 millones en acciones de Nvidia?"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "Deuda 2027: el Gobierno tiene tres escenarios por delante y uno podría jaquear el plan Milei",
+     "resumen": "Argentina deberá afrontar en 2027 vencimientos en moneda extranjera por US$ 22.615 millones, con el mercado internacional de deuda prácticamente cerrado. El Presupuesto 2027 supone que el Tesoro podrá colocar el equivalente al 110% de los títulos que vencen, aunque el riesgo país se mantiene muy por encima de los niveles que permitirían un regreso normal al mercado. Para una empresa: la incertidumbre sobre el financiamiento soberano de 2027 es una variable a seguir para el costo del crédito privado el año próximo.",
+     "url": "https://www.cronista.com/finanzas-mercados/deuda-2027-el-gobierno-tiene-tres-escenarios-por-delante-y-uno-podria-jaquear-el-plan-milei/",
+     "imagen": "https://www.cronista.com/resizer/v2/367OBEPTPFESZLCIOISIRSLHNA.png?auth=c5dc72520c467bdb5c73c6fbd91f6e0f58d3d3bac6f257f117810b01943eb115&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:30",
+     "autor": "Audiencias Member",
+     "titulo_original": "Deuda 2027: el Gobierno tiene tres escenarios por delante y uno podría jaquear el plan Milei",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-10",
+     "titulo": "La industria tocó su mayor nivel de uso de capacidad instalada en 2026: 60,1% en septiembre",
+     "resumen": "El indicador del INDEC mejoró un punto respecto de agosto y superó por primera vez en el año la barrera del 60%, aunque cedió 1,3 puntos frente al mismo mes de 2025. Refinación del petróleo lideró el uso con 82,9%, mientras automotrices y metalmecánica explicaron los mayores retrocesos interanuales.",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Industria: el uso de capacidad instalada cruzó el 60% por primera vez en 2026, aunque tuvo una caída anual",
+       "url": "https://www.ambito.com/industria-el-uso-capacidad-instalada-cruzo-el-60-primera-vez-2026-aunque-tuvo-una-caida-anual-n6345064"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-industria-uso-el-601-de-su-capacidad-instalada-en-septiembre-cayo-en-la-comparacion-interanual-pero-toco-su-mayor-nivel-de-2026/",
+     "imagen": "https://www.cronista.com/resizer/v2/LC74IOLJERERRP2EUWWQEQJ4OI.jpg?auth=9c55ac51a9af0d5dd91c9333b37f9e285fbe31038420516e7dcc2a6a85b19562&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:07",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "La industria tocó su mayor nivel de uso en 2026: llegó al 60,1% en septiembre, aunque siguió por debajo de hace un año"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "AM-08",
+     "titulo": "Se perdieron casi 32.500 empresas desde 2023 y las pymes migran a la informalidad",
+     "resumen": "La destrucción de unidades productivas alcanzó a 23 de las 24 jurisdicciones del país entre noviembre de 2023 y agosto de este año. La excepción es Neuquén, que gracias a Vaca Muerta sumó 136 nuevas empresas (+1,8%) en el período.",
+     "url": "https://www.ambito.com/economia/empresas-se-perdieron-casi-32500-unidades-productivas-2023-y-las-pymes-migran-la-informalidad-n6345026",
+     "imagen": "https://media.ambito.com/p/46bda87445f26b8165a06ad4bad5ac6e/adjuntos/239/imagenes/043/627/0043627521/1200x675/smart/caida-industria-textil.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:57",
+     "autor": "",
+     "titulo_original": "Empresas: se perdieron casi 32.500 unidades productivas desde 2023 y las pymes migran a la informalidad",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-21",
+     "titulo": "El Gobierno abre la Etapa IV del plan de concesión de rutas por peaje, con 27 tramos alcanzados",
+     "resumen": "Mediante el Decreto 1358/2026, el Gobierno amplió la Red Federal de Concesiones y sumó nuevos tramos al esquema que transfiere al sector privado la operación, el mantenimiento y la rehabilitación de la infraestructura vial. El Ministerio de Economía deberá convocar una licitación pública nacional e internacional para esos corredores dentro de los próximos 12 meses.",
+     "url": "https://www.cronista.com/economia-politica/caputo-avanza-con-la-privatizacion-de-las-rutas-nacionales-suma-27-tramos-a-licitar-en-un-ano/",
+     "imagen": "https://www.cronista.com/resizer/v2/ULFLQYBLGNEZJJJNYJBHWFBRVE.jpeg?auth=3fe666c6baf40b53476220bde5926a73155b42ca91a45cca7687ea7b00c3d209&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "13:47",
+     "autor": "Zoe Braziulis",
+     "titulo_original": "El Gobierno abre la Etapa IV del plan de concesión de rutas por peaje, los 27 tramos alcanzados",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-13",
+     "titulo": "Mastellone Hermanos, dueña de La Serenísima, revirtió pérdidas pero su resultado operativo sigue en rojo",
+     "resumen": "La láctea, con nuevos dueños desde marzo, registró una ganancia neta de $ 8.133 millones en los primeros nueve meses del año, frente a pérdidas de casi $ 38.000 millones un año atrás. Sin embargo, el resultado operativo cerró con un rojo de $ 16.965 millones, que contrasta con la ganancia de casi $ 5.000 millones de 2025; la mejora se explica principalmente por el desempeño financiero y los aportes de capital de los accionistas.",
+     "url": "https://www.cronista.com/negocios/un-gigante-lacteo-sale-a-flote-los-planes-para-terminar-el-rojo-y-arrancar-una-etapa-ganadora/",
+     "imagen": "https://www.cronista.com/resizer/v2/FJVMR74DBRCYBMJW2FG655MCMQ.jpeg?auth=fff43d385bd4246fee62b406af13d5b9386696af55cf9dd9ea7657876cdd64a5&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:31",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Un gigante lácteo sale a “flote”: los planes para terminar el rojo y arrancar una etapa ganadora",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-05",
+     "titulo": "Las empresas de Estados Unidos que compiten con China por la minería argentina",
+     "resumen": "Del litio en la Puna al cobre en San Juan y el oro en la Patagonia, compañías estadounidenses buscan recortar una década de avance asiático sobre los recursos críticos del país.",
+     "url": "https://www.iprofesional.com/negocios/469085-cuales-son-las-empresas-estadounidenses-que-pelean-con-china-por-mineria-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621688.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:00",
+     "autor": "",
+     "titulo_original": "Cuáles son las empresas de EE.UU. que pelean con China por la minería argentina",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Los proveedores de Vaca Muerta, entre el estrés financiero y la competencia china",
+     "resumen": "Pese al debate oficial sobre si el desarrollo de Vaca Muerta genera derrame en la economía, buena parte de sus proveedores atraviesa estrés financiero, incluso entre los rubros que crecen. El Gobierno lanzó las Rondas RIGI para conectar a los proveedores locales con los grandes proyectos de inversión que empiezan a desembolsar fondos.",
+     "url": "https://www.cronista.com/economia-politica/derrama-los-proveedores-de-vaca-muerta-entre-el-estres-financiero-y-la-competencia-china/",
+     "imagen": "https://www.cronista.com/resizer/v2/NAWR5FG2FNCWPCRATPUDQ7GJNM.jpg?auth=f5fee0cedf127bdb40e5de081c1d07f4db01dec2534371e629473efc74ff133f&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:44",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "¿Derrama?: los proveedores de Vaca Muerta, entre el estrés financiero y la competencia China",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Martin Sorrell anticipa el nuevo papel de las agencias de publicidad con la inteligencia artificial",
+     "resumen": "El fundador de S4 Capital y exjefe de WPP dijo en Buenos Aires que la inteligencia artificial deja a las agencias en un rol distinto: \"Seremos validadores de las plataformas\". Sorrell consideró además que los anunciantes se mueven demasiado lento frente al cambio tecnológico.",
+     "url": "https://www.infobae.com/tecno/2026/11/13/martin-sorrell-anticipa-el-nuevo-papel-de-las-agencias-con-la-ia-seremos-validadores-de-las-plataformas/",
+     "imagen": "https://www.infobae.com/resizer/v2/QZHI233N65H6NJAEUR5BOHJ3UQ.jpg?auth=8bf78fb7875f2348b9faa38fd281c477973e162fb5c996bd5730d3b333d6fd2e&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:00",
+     "autor": "Opy Morales",
+     "titulo_original": "Martin Sorrell anticipa el nuevo papel de las agencias con la IA: \"Seremos validadores de las plataformas\"",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "La Corte dejó firme un fallo que ordena devolverle a Louis Dreyfus retenciones pagadas de más",
+     "resumen": "La Corte Suprema convalidó una sentencia de cámara que declaró inválidas resoluciones de 2007 y 2008, entre ellas la 125 de retenciones móviles, por falta de respaldo legislativo, y declaró \"inadmisible\" el recurso de la Dirección General de Aduanas. El fallo podría habilitar reclamos millonarios de otros exportadores por normas anuales no ratificadas por el Congreso.",
+     "relacionadas": [
+      {
+       "id": "IP-04",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La Corte dejó firme fallo para devolver a la cerealera Dreyfus retenciones que pagó de más",
+       "url": "https://www.iprofesional.com/legales/469086-la-corte-dejo-firme-fallo-para-devolver-a-la-cerealera-dreyfus-retenciones-que-pago-de-mas"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/campo/retenciones-la-corte-dejo-firme-un-fallo-que-ordena-devolverle-a-la-multinacional-louis-dreyfus-lo-nid13112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/K6HICR4JD5DYLFDUQXYMUK2HEA.jpg?auth=a2ec26494926dc7c771d6e80077aebbbd045e95b49ea1891e02888e5ac3d6687&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:10",
+     "autor": "Belkis Martínez",
+     "titulo_original": "Retenciones: la Corte dejó firme un fallo que ordena devolverle a la multinacional Louis Dreyfus lo que pagó de más durante dos años"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Industria y comercio tomaron 32.000 empleados con costo más bajo gracias a la reforma laboral",
+     "resumen": "Según el Gobierno, esos dos sectores ingresaron al esquema de contratación con impuestos reducidos previsto en la reforma laboral, aunque ambos siguieron perdiendo dotación de personal desde que se implementó la norma. Para una empresa: el nuevo régimen reduce el costo de incorporar personal, pero no alcanzó todavía para revertir la caída del empleo formal en esos sectores.",
+     "url": "https://www.clarin.com/economia/sectores-golpeados-economia-usaron-reforma-laboral-tomar-32-mil-empleados-costo_0_F4QLFfY5g6.html",
+     "imagen": "https://www.clarin.com/img/2026/01/08/MrGSscscd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:18",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Dos sectores golpeados de la economía usaron la reforma laboral para tomar 32 mil empleados con costo más bajo",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-26",
+     "titulo": "Las retenciones de Ganancias a empresas y profesionales deben actualizarse 53 veces en 2026",
+     "resumen": "Contribuyentes y especialistas reclaman a ARCA que corrija los mínimos de las retenciones del Impuesto a las Ganancias, que consideran irrisorios y que ya debieron ajustarse 53 veces en lo que va del año para no perder su función.",
+     "url": "https://www.iprofesional.com/impuestos/469029-ganancias-retenciones-empresas-y-profesionales-fijas-hace-7-anos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/629717.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:45",
+     "autor": "",
+     "titulo_original": "Las retenciones de Ganancias a empresas y profesionales se deben actualizar 53 veces en 2026",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Bloqueos sindicales: una jueza de San Nicolás condenó a un dirigente de Camioneros",
+     "resumen": "Un mes después de que otro juez absolviera a un sindicalista y seis imputados más por el bloqueo a una distribuidora, una segunda causa contra otro acusado por el mismo episodio terminó en condena. La jueza María Elena Baquedano sentenció a cuatro años de prisión a Fernando Espíndola por bloquear y extorsionar a los dueños de una pyme de San Pedro en al menos dos episodios de 2021, en un juicio abreviado que cerró una causa de cinco años.",
+     "url": "https://www.infobae.com/politica/2026/11/13/bloqueos-sindicales-tras-la-absolucion-de-7-imputados-otra-jueza-de-san-nicolas-condeno-a-un-dirigente-de-camioneros/",
+     "imagen": "https://www.infobae.com/resizer/v2/FURR7V5TBVAE3J5PSJB3JWAJ6M.jpg?auth=1db3cf42ccf7a486274751ca033e44fc25eb3b31a30e93ed1126fdcc16a8ef5d&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:26",
+     "autor": "Ricardo Carpena",
+     "titulo_original": "Bloqueos sindicales: tras la absolución de 7 imputados, otra jueza de San Nicolás condenó a un dirigente de Camioneros",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Marcha de gastronómicos por la falta de homologación de las tres últimas paritarias",
+     "resumen": "El gremio que lidera Luis Barrionuevo se movilizará el lunes a la Secretaría de Trabajo en reclamo por paritarias sin homologar, en medio de un tenso cruce con la ministra Sandra Pettovello y una disputa judicial con el dirigente Dante Camaño.",
+     "url": "https://www.iprofesional.com/economia/469073-marcha-de-gastronomicos-por-falta-de-homologacion-de-tres-ultimas-paritarias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/10/585108.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:47",
+     "autor": "",
+     "titulo_original": "Marcha de gastronómicos por falta de homologación de las tres últimas paritarias",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-21",
+     "titulo": "Supermercados lanzan descuentos de hasta 50% y hasta 18 cuotas en electrodomésticos",
+     "resumen": "Carrefour, Coto, ChangoMás y Jumbo compiten con rebajas de hasta 50% y planes de cuotas en televisores, heladeras, lavarropas y pequeños electrodomésticos, en medio de la caída del consumo masivo.",
+     "url": "https://www.iprofesional.com/actualidad/469060-supermercados-lanzan-descuentos-de-hasta-50-y-hasta-18-cuotas-en-electrodomesticos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/621746.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:55",
+     "autor": "",
+     "titulo_original": "Supermercados lanzan descuentos de hasta 50% y hasta 18 cuotas en electrodomésticos",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-05",
+     "titulo": "IRSA vuelve con su outlet de ropa de primeras marcas y descuentos de hasta 50%",
+     "resumen": "La dueña de los shoppings Alto Palermo, Abasto y DOT puso en marcha una nueva edición de su feria Re!Outlet en La Rural, con más de 30 marcas de indumentaria, calzado y accesorios, del 5 al 20 de noviembre. La iniciativa busca incentivar las ventas en medio de una fuerte caída de la actividad textil.",
+     "url": "https://www.cronista.com/negocios/la-duena-de-los-shoppings-vuelve-con-su-outlet-de-ropa-de-primeras-marcas-y-descuentos-de-hasta-el-50/",
+     "imagen": "https://www.cronista.com/resizer/v2/QZGJYTWLR5BSFKGOK4XIOKAXJQ.png?auth=4ff67a691aec7484a1d08b5bdc014a2f3cb7df2bfd8cea66871695ffc590b5c9&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:41",
+     "autor": "Equipo Negocios",
+     "titulo_original": "La dueña de los shoppings vuelve con su outlet de ropa de primeras marcas y descuentos de hasta el 50%",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-25",
+     "titulo": "Hush Puppies, Vans y The North Face sienten el freno del consumo en el balance de Grimoldi",
+     "resumen": "La tradicional fabricante de calzado local vuelve a sufrir el impacto de la caída de las ventas y acumula un resultado financiero que agrava su rojo contable.",
+     "url": "https://www.iprofesional.com/negocios/469057-grimoldi-profundiza-su-deficit-perdidas-de-6-719-millones-en-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/03/569811.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:10",
+     "autor": "",
+     "titulo_original": "Hush Puppies, Vans y The North Face sienten el freno del consumo en el balance de Grimoldi",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-10",
+     "titulo": "Heladerías artesanales alertan que El Niño les está bajando las ventas",
+     "resumen": "Con el kilo entre $ 22.000 y $ 32.000, las heladerías artesanales revisan sus costos y buscan sostener las ventas pese al impacto del fenómeno climático en el consumo, según el diagnóstico de la cámara sectorial.",
+     "url": "https://www.iprofesional.com/negocios/468928-heladerias-artesanales-alertan-que-el-nino-les-esta-bajando-las-ventas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629623.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:20",
+     "autor": "",
+     "titulo_original": "Heladerías artesanales alertan que el fenómeno El Niño les está bajando las ventas",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-26",
+     "titulo": "Un hotel Marriott en Buenos Aires ofrece habitaciones para invertir",
+     "resumen": "Pride Developer vende unidades de un hotel de la marca Autograph Collection, de Marriott, desde US$ 231.000, con un ingreso de US$ 70.000 y una rentabilidad proyectada superior al 10%. El inversor participa de los resultados de la operación del hotel en lugar de alquilar la unidad, en un contexto de turismo en alza y más de 9.000 habitaciones nuevas previstas en el país.",
+     "url": "https://www.cronista.com/negocios/un-gigante-del-rubro-suma-un-hotel-en-buenos-aires-con-habitaciones-para-invertir-como-es-el-negocio/",
+     "imagen": "https://www.cronista.com/resizer/v2/YKF2CZYSNVBXJJGJGSASSXYRRE.jpg?auth=0dcc7140a6f1f847c2e547992b8e6341e121a2238811ab371ed6932c5808f7a9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:25",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Un gigante del rubro suma un hotel en Buenos Aires con habitaciones para invertir: cómo es el negocio",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-15",
+     "titulo": "La salida del CEO de Nvidia generó un terremoto político en el gobierno de Trump",
+     "resumen": "La renuncia de Jensen Huang, en medio de un escándalo por presunto espionaje chino, puso en la cuerda floja al secretario de Comercio, Howard Lutnick, mientras legisladores de ambos partidos piden explicaciones en el Congreso. Trump respaldó públicamente a Huang horas después de que este dimitiera por una relación extramatrimonial vinculada al espionaje.",
+     "relacionadas": [
+      {
+       "id": "CR-19",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Una espía en la cama del empresario clave para el futuro de la IA",
+       "url": "https://www.cronista.com/columnistas/una-espia-en-la-cama-del-empresario-clave-para-el-futuro-de-la-ia/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/estados-unidos/terremoto-politico-en-el-gobierno-de-trump-tras-la-caida-del-ceo-de-nvidia-internas-presiones-y-un-nid13112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UURN3MVP3NHNBOMNBD7CMLPA64.jpg?auth=04da94e84763d05628c3ff235a4c6d5858e298c7e2531fba58a2046ff41bc788&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:44",
+     "autor": "Guillermo Idiart",
+     "titulo_original": "Terremoto político en el gobierno de Trump tras la caída del CEO de Nvidia: internas, presiones y un funcionario en la mira"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Estados Unidos destruyó dos drones iraníes que amenazaban instalaciones militares en Baréin",
+     "resumen": "El Mando Central estadounidense interceptó los drones, que se dirigían hacia Baréin, sede de la Quinta Flota de la Armada, sin heridos ni daños materiales. El episodio se dio después de que la Guardia Revolucionaria iraní afirmara haber atacado un radar estadounidense en represalia por un bombardeo contra una instalación de telecomunicaciones iraní.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/13/estados-unidos-destruyo-dos-drones-de-ataque-iranies-que-amenazaban-instalaciones-militares-en-barein/",
+     "imagen": "https://www.infobae.com/resizer/v2/DJINCKNS6NB4FH4PJD432SYKEM.jpg?auth=095e86db3f5a4f4048cb3f4af4eddbea6bcde6ccc9a2dd5ddcf3fa8fd8978361&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:32",
+     "autor": "",
+     "titulo_original": "Estados Unidos destruyó dos drones de ataque iraníes que amenazaban instalaciones militares en Baréin",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Arranca la campaña electoral en España con un debilitado Pedro Sánchez",
+     "resumen": "El presidente del gobierno español apuesta a una remontada, al estilo de Lula da Silva, de cara a las elecciones del 29 de noviembre, pese a que algunos sondeos prevén un triunfo del opositor Partido Popular. En estos días recibirá al mandatario brasileño, que apoya su reelección.",
+     "url": "https://www.clarin.com/mundo/arranca-campana-electoral-espana-debilitado-pedro-sanchez-apuesta-remontada-lula-da-silva_0_pnpyUv4SJ5.html",
+     "imagen": "https://www.clarin.com/img/2026/11/13/3P5BQFUEI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:46",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Arranca la campaña electoral en España: un debilitado Pedro Sánchez apuesta a una remontada como la de Lula da Silva",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-10",
+     "titulo": "Delcy Rodríguez celebra la vuelta del BID a Venezuela",
+     "resumen": "El Directorio Ejecutivo del Banco Interamericano de Desarrollo aprobó una nueva Nota de Acción País para Venezuela, que establece un marco de cooperación y asistencia técnica tras la suspensión de operaciones en 2019. La presidenta encargada del país celebró la medida como \"una nueva etapa de relacionamiento internacional\".",
+     "url": "https://www.infobae.com/america/agencias/2026/11/13/delcy-rodriguez-celebra-la-vuelta-del-bid-a-venezuela-este-logro-abre-una-nueva-etapa/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:00",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Delcy Rodríguez celebra la vuelta del BID a Venezuela: \"Este logro abre una nueva etapa\"",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-09",
+     "titulo": "El Consejo de Estado de Colombia admitió una tutela contra el presidente por sus apariciones con detenidos",
+     "resumen": "La acción cuestiona que Abelardo de la Espriella exhiba públicamente a personas capturadas en operativos policiales antes de que exista una condena firme, lo que vulneraría su presunción de inocencia. El alto tribunal admitió el proceso pero no suspendió de forma inmediata las publicaciones oficiales.",
+     "url": "https://www.infobae.com/colombia/2026/11/13/entutelaron-a-abelardo-de-la-espriella-por-encarar-a-detenidos-durante-megaoperativos-consejo-de-estado-admitio-proceso-contra-el-presidente-por-la-presunta-vulneracion-de-los-derechos-fundamentales-de-los-capturados/",
+     "imagen": "https://www.infobae.com/resizer/v2/BAJNPLR445DQVFT3NFJLEVJ3CY.png?auth=43888defc10a02e1bcd31e6ab9a43b1352d30e41af32b63abdf02c562ca65024&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:01",
+     "autor": "Sebastián Vargas Rueda",
+     "titulo_original": "Entutelaron a Abelardo de la Espriella por encarar a detenidos durante megaoperativos: Consejo de Estado admitió proceso contra el presidente por la presunta vulneración de los derechos fundamentales de los capturados",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-02",
+     "titulo": "¿Durante cuánto tiempo más podrá Putin seguir financiando su guerra?",
+     "resumen": "Le Grand Continent analiza por qué la pregunta sobre el agotamiento del fondo soberano ruso da lugar a una visión errónea del problema: el Estado ruso no es una empresa sin liquidez obligada a declararse en quiebra, sino que puede sostener gastos de guerra bajo una presión creciente sobre su población y su economía.",
+     "url": "https://legrandcontinent.eu/es/2026/11/13/cuanto-tiempo-putin-puede-financiar-su-guerra/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:50",
+     "autor": "Louis Puel",
+     "titulo_original": "¿Durante cuánto tiempo más podrá Putin seguir financiando su guerra?",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-01",
+     "titulo": "En Dallas, los nacionalistas cristianos se preparan para el después de Trump",
+     "resumen": "La revista examina cómo la derrota republicana en las elecciones de mitad de mandato es leída por sectores conservadores radicalizados como una oportunidad para renovar el liderazgo del Partido Republicano de cara a 2028. El análisis repasa cómo esos sectores atribuyen a la influencia de Israel sobre la Casa Blanca parte del malestar por la guerra en Irán y la suba de precios de la gasolina.",
+     "url": "https://legrandcontinent.eu/es/2026/11/13/en-dallas-los-nacionalistas-cristianos-preparan-el-despues-trump/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "15:52",
+     "autor": "Marin Saillofest",
+     "titulo_original": "En Dallas, los nacionalistas cristianos se preparan para el después de Trump",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-12",
+     "titulo": "Se confirmó el árbitro de la final de la Copa Sudamericana entre Boca y Atlético Mineiro",
+     "resumen": "La Conmebol designó al uruguayo Andrés Matonte como juez principal para la final del sábado 21 de noviembre en Barranquilla, secundado por un cuerpo arbitral uruguayo y paraguayo.",
+     "url": "https://www.infobae.com/deportes/2026/11/13/se-confirmo-quien-sera-el-arbitro-para-la-final-de-la-copa-sudamericana-entre-boca-juniors-y-atletico-mineiro/",
+     "imagen": "https://www.infobae.com/resizer/v2/Q7RTFG63XVFINFTTLS3YTBL6XI.jpg?auth=02b72ac5503e16d19a15c6cc218d6c45dcdfaa2b3beb3b747934a08e8d995237&smart=true&width=609&height=342",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:02",
+     "autor": "",
+     "titulo_original": "Se confirmó quién será el árbitro para la final de la Copa Sudamericana entre Boca Juniors y Atlético Mineiro",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Una cadena de sanciones contra Defensa y Justicia podría darle a Independiente la chance de clasificar a la Sudamericana",
+     "resumen": "El Rojo terminó la etapa regular del Torneo Clausura en el 14° puesto de la tabla anual, un lugar que en principio no le permitía acceder a la copa. El Tribunal de Disciplina castigó al Halcón por su reacción en el cierre del partido ante Boca, lo que podría reabrirle la chance a Independiente.",
+     "url": "https://www.clarin.com/deportes/carambola-sanciones-defensa-justica-podria-darle-independiente-chance-clasificar-copa-sudamericana_0_cgjuLynIV2.html",
+     "imagen": "https://www.clarin.com/img/2026/11/13/i6R_KO8HV_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Una carambola de sanciones contra Defensa y Justica podría darle a Independiente la chance de clasificar a la Copa Sudamericana",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Francisco \"el Tanque\" Moreno, el pilar de Los Pumas que sueña con el Mundial",
+     "resumen": "El jugador de 23 años, que roza los 150 kilos, cuenta la emoción de representar a la Argentina en la previa del choque ante Italia. Este sábado será parte del equipo de Felipe Contepomi en el Nations Championship.",
+     "url": "https://www.clarin.com/deportes/francisco-tanque-moreno-pilar-pumas-suena-mundial-miraba-afuera-parecia-imposible-aca_0_Gl95sNw1Ov.html",
+     "imagen": "https://www.clarin.com/img/2026/11/13/cTO9Id-JK_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Francisco el Tanque Moreno, el pilar de Los Pumas que sueña con el Mundial: \"Lo miraba desde afuera y me parecía imposible estar acá\"",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-07",
+     "titulo": "El nuevo titular de la Selección argentina que sigue de cerca el París Saint-Germain",
+     "resumen": "El exjugador de Vélez Sarsfield comenzó la temporada europea con el pie derecho y es, hasta el momento, el argentino con mejor promedio de goles y asistencias.",
+     "url": "https://www.ambito.com/deportes/el-nuevo-jugador-titular-la-seleccion-argentina-que-es-seguido-cerca-el-paris-saint-germain-n6345074",
+     "imagen": "https://media.ambito.com/p/5486145742eb10508de7cb47da9c8c77/adjuntos/239/imagenes/043/769/0043769947/1200x675/952x602:972x622/prestianni-psg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:11",
+     "autor": "",
+     "titulo_original": "El nuevo jugador titular de la Selección argentina que es seguido de cerca por el París Saint-Germain",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-01",
+     "titulo": "Fox Sports dejará de emitirse en Argentina y afectará las transmisiones de Fórmula 1",
+     "resumen": "La señal deportiva bajará la persiana el 31 de enero de 2027, tras cinco años bajo la órbita de Mediapro; los trabajadores ya fueron notificados. La salida de la señal puede afectar cómo los fanáticos siguen el automovilismo en el país.",
+     "url": "https://www.clarin.com/deportes/fox-sports-dejara-emitirse-argentina-cierre-pasara-transmisiones-formula-1_0_1UoAcGycNV.html",
+     "imagen": "https://www.clarin.com/img/2025/06/12/aM1_G5EB3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:29",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Fox Sports dejará de emitirse en Argentina: cuándo será el cierre y qué pasará con las transmisiones de la Fórmula 1",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Terror en la casa del arquero argentino Matías Dituro en España: tres encapuchados entraron a robarle",
+     "resumen": "El arquero del Elche llegó a su vivienda con sus hijos de 6 y 8 años apenas minutos después de que cuatro delincuentes irrumpieran para robar. \"Fueron unos minutos de auténtico terror que nunca olvidaremos\", relató el futbolista santafesino.",
+     "relacionadas": [
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“Fueron minutos de auténtico terror”: estremecedor relato del violento robo que sufrió el arquero argentino Matías Dituro en España",
+       "url": "https://www.infobae.com/deportes/2026/11/13/fueron-minutos-de-autentico-terror-estremecedor-relato-del-violento-robo-que-sufrio-el-arquero-argentino-matias-dituro-en-espana/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/terror-casa-arquero-argentino-matias-dituro-elche-encapuchados-entraron-robarle-llegaba-hijos_0_wUG75QDJmh.html",
+     "imagen": "https://www.clarin.com/img/2026/11/13/zLpQTEUWx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Terror en la casa del arquero argentino Matías Dituro en Elche: tres encapuchados entraron a robarle cuando llegaba con sus hijos"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-25",
+     "titulo": "Un paisaje de Catamarca que sirve para estudiar Marte se sumó al Patrimonio Geológico Mundial",
+     "resumen": "Una formación natural de rocas blancas, dunas y formaciones rocosas de Catamarca fue incorporada a la lista de Sitios de Patrimonio Geológico Mundial. El paisaje, usado para investigaciones que simulan condiciones marcianas, es un destino para quienes quieran conocerlo.",
+     "url": "https://www.clarin.com/viajes/espectacular-paisaje-argentino-sirve-estudiar-marte-sumo-lista-sitios-patrimonio-geologico-mundial_0_POaPOVY9Lj.html",
+     "imagen": "https://www.clarin.com/img/2026/09/07/Y70HLWE-m_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El espectacular paisaje argentino que sirve para estudiar Marte y se sumó a la lista de Sitios de Patrimonio Geológico Mundial",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-15",
+     "titulo": "Cuánto cuesta comer en Manolo y Chichilo, dos emblemas de Mar del Plata",
+     "resumen": "Los dos restaurantes, entre los más elegidos por los turistas en la ciudad feliz, tienen precios de referencia para sus platos más pedidos.",
+     "url": "https://www.iprofesional.com/turismo/468931-cuanto-cuesta-comer-en-manolo-y-chichilo-dos-emblemas-de-mar-del-plata",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629626.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:05",
+     "autor": "",
+     "titulo_original": "Cuánto cuesta comer en Manolo y Chichilo, dos emblemas de Mar del Plata",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-04",
+     "titulo": "Explosión en Lanús: ya hay un muerto, dos desaparecidos y 30 heridos, y detuvieron a dos directivos de Metrogas",
+     "resumen": "La fiscal Yanina Estévez, a cargo de la causa, ordenó la demora de dos directivos jerárquicos de Metrogas que llegaron al lugar tras el estallido de un caño de gas en una zona comercial de Remedios de Escalada. El hecho, ocurrido durante una obra de renovación de la red, dejó al menos un muerto, 30 heridos (siete con quemaduras graves) y dos personas desaparecidas; la Justicia investiga irregularidades en la actuación de la empresa.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Explosión en Remedios de Escalada: detuvieron a dos jerárquicos de Metrogas y el Gobierno abrirá investigación",
+       "url": "https://www.ambito.com/informacion-general/explosion-remedios-escalada-detuvieron-dos-jerarquicos-metrogas-y-el-gobierno-abrira-investigacion-n6345106"
+      },
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Fuerte explosión e incendio en Remedios de Escalada: confirman un muerto, 30 heridos y dos desaparecidos",
+       "url": "https://www.ambito.com/informacion-general/fuerte-explosion-e-incendio-remedios-escalada-confirman-un-muerto-30-heridos-y-dos-desaparecidos-n6344928"
+      },
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Detuvieron a dos responsables jerárquicos de Metrogas por la explosión en Lanús",
+       "url": "https://www.iprofesional.com/actualidad/469080-detuvieron-a-dos-responsables-jerarquicos-de-metrogas-por-la-explosion-en-lanus"
+      },
+      {
+       "id": "IP-22",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Metrogas explicó por qué se produjo la explosión que destruyó comercios en Lanús",
+       "url": "https://www.iprofesional.com/actualidad/469062-metrogas-informo-que-provoco-la-explosion-en-lanus"
+      },
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Explosión en Remedios de Escalada: qué obra estaba haciendo Metrogas y derivó en un incendio con 20 heridos",
+       "url": "https://www.clarin.com/sociedad/explosion-remedios-escalada-obra-haciendo-metrogas-derivo-incendio-20-heridos_0_JOS19K03yU.html"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/11/13/explosion-en-lanus-la-irregularidad-que-investiga-la-justicia-y-por-que-demoraron-a-dos-directivos-de-metrogas/",
+     "imagen": "https://www.infobae.com/resizer/v2/TBZAADE52RARJN5XQ7RFEXNTUU.JPG?auth=940839509416c5c8904ab67d7b05694a4b69be9388df062eb8cb084c30e049ff&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:01",
+     "autor": "Bárbara Villar",
+     "titulo_original": "Explosión en Lanús: la irregularidad que investiga la Justicia y por qué demoraron a dos directivos de Metrogas"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "El Niño: diez ciudades del litoral siguen con el agua en niveles de evacuación y hay más de 4.500 afectados",
+     "resumen": "La mayoría de los evacuados pertenece a la cuenca del río Paraná, según la Agencia Federal de Emergencias, que identificó una decena de ciudades costeras con el agua por encima de los niveles de evacuación en Chaco, Corrientes, Santa Fe y Entre Ríos. El Instituto Nacional del Agua prevé que la crecida ceda un poco en las próximas semanas.",
+     "url": "https://www.infobae.com/sociedad/2026/11/13/el-nino-diez-ciudades-del-litoral-continuan-con-el-agua-en-niveles-de-evacuacion-y-son-mas-de-4500-las-personas-afectadas/",
+     "imagen": "https://www.infobae.com/resizer/v2/AG6ZLLS36VDS7L6RU62TIOWNEM.jpg?auth=19bd895faab4989dcb85567558dfe5017a5359f17484ac9d293a3e92e334ecf9&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:51",
+     "autor": "Juan A. Bracco",
+     "titulo_original": "El Niño: diez ciudades del litoral continúan con el agua en niveles de evacuación y son más de 4.500 las personas afectadas",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del viernes 13 de noviembre. La explosión por una fuga de gas en Remedios de Escalada, en el partido de Lanús, escaló durante la tarde: ya hay un muerto, dos desaparecidos y más de 30 heridos, y la Justicia detuvo a dos directivos de la empresa Metrogas. En los mercados, el índice Merval cortó una racha de cinco ruedas negativas y subió dos coma cuatro por ciento hasta los ochenta y cuatro mil cuatrocientos puntos, el dólar blue tuvo su mayor suba semanal en cuatro meses y el economista Orlando Ferreres advirtió que la inflación de noviembre tampoco será baja. Afuera, el escándalo de espionaje que sacó a Jensen Huang de la conducción de Nvidia generó un terremoto político en el gobierno de Donald Trump, y Estados Unidos derribó dos drones iraníes que amenazaban instalaciones militares en Baréin. Según el panel de mercados, el dólar oficial cerró en mil quinientos setenta pesos, el blue en mil quinientos setenta y cinco, el mayorista en mil quinientos cuarenta y tres pesos con cincuenta centavos y el oro cotiza en tres mil ochocientos ochenta dólares con noventa centavos la onza; el riesgo país se ubica en ochocientos veintinueve puntos básicos. En política, crece la puja entre La Libertad Avanza y sus socios legislativos por la Ley de Soberanía Nacional, conocida como ley Malvinas: el oficialismo solo acepta cambios semánticos y se niega a eliminar el capítulo electoral, mientras el titular de Diputados, Martín Menem, planea llevar el proyecto al recinto el miércoles que viene. Karina Milei, por su parte, volvió a convocar para el martes a la mesa política del oficialismo, tras casi un mes sin reuniones presenciales y en medio de tensiones internas. Una encuestadora, Atlas Intel, midió que el desempleo se convirtió en la principal preocupación de los argentinos por primera vez en el año, con la mitad de las menciones, y desplazó a la corrupción; el Indec había ubicado la desocupación en siete coma nueve por ciento en el segundo trimestre. La CGT, a su vez, anticipó que la conflictividad social va a profundizarse en el año electoral que viene, por las demandas insatisfechas tanto del mundo del trabajo como de la ciudadanía en general. Y el peritaje de la Gendarmería sobre los audios de la causa Andis detectó posibles ediciones pero no pudo confirmar si la voz es la del exfuncionario Diego Spagnuolo. En economía, Wall Street volvió a caer arrastrado por Nvidia, pero en Buenos Aires el Merval subió dos coma cuatro por ciento y cortó la racha negativa, con subas para YPF, Grupo Galicia y Mercado Libre. El dólar blue subió diez pesos en la rueda y cerró en mil quinientos setenta y cinco pesos para la venta, su mayor suba semanal en cuatro meses, mientras el oficial tuvo lecturas mixtas entre los bancos consultados. Orlando Ferreres cuestionó que la inflación anual pueda cerrar cerca del treinta por ciento proyectado, después de que octubre sorprendiera con una suba de dos coma dos por ciento. Jensen Huang, que dejó la conducción de Nvidia, conserva acciones por ciento treinta y cinco mil millones de dólares, y el mercado se pregunta si empezará a venderlas pese a los riesgos legales y de precio que implicaría. El Gobierno, además, deberá afrontar en dos mil veintisiete vencimientos de deuda en moneda extranjera por veintidós mil seiscientos quince millones de dólares, en un contexto de mercado internacional prácticamente cerrado para el país. Para una empresa, esa incertidumbre sobre el financiamiento soberano es una variable a seguir para el costo del crédito privado el año próximo. La industria, por su parte, tocó su mayor nivel de uso de capacidad instalada del año, sesenta coma uno por ciento en septiembre, aunque todavía por debajo del mismo mes de dos mil veinticinco. En negocios, se perdieron casi treinta y dos mil quinientas empresas en el país desde dos mil veintitrés, con la excepción de Neuquén gracias a Vaca Muerta, y el Gobierno abrió una nueva etapa de su plan de concesión de rutas por peaje, con veintisiete tramos alcanzados. Mastellone Hermanos, dueña de La Serenísima, revirtió pérdidas pero su resultado operativo sigue en rojo, y empresas de Estados Unidos compiten con China por el litio, el cobre y el oro argentinos. En impuestos y normativa, la Corte Suprema dejó firme un fallo que ordena devolverle a la cerealera Louis Dreyfus retenciones que pagó de más, un antecedente que podría habilitar reclamos de otros exportadores. La reforma laboral permitió a la industria y al comercio tomar treinta y dos mil empleados con costo más bajo, aunque esos sectores siguieron perdiendo personal, y las retenciones de Ganancias a empresas y profesionales debieron actualizarse cincuenta y tres veces en lo que va del año. Además, una jueza de San Nicolás condenó a cuatro años de prisión a un dirigente de Camioneros por un bloqueo sindical, en una causa distinta a la que había terminado en absolución un mes atrás. En consumo y construcción, los supermercados lanzaron descuentos de hasta el cincuenta por ciento y hasta dieciocho cuotas en electrodomésticos, e IRSA volvió con su feria de ropa de primeras marcas en La Rural. La fabricante de calzado Grimoldi, dueña de las licencias de Hush Puppies y Vans, sigue sintiendo el freno del consumo, y las heladerías artesanales alertaron que el fenómeno El Niño les está bajando las ventas. Para una empresa de materiales de construcción y hogar, estas señales de consumo más cauteloso conviene seguirlas de cerca a la hora de planificar precios y promociones de fin de año. En el mundo, la salida de Jensen Huang de Nvidia generó un terremoto político en el gobierno de Donald Trump: el secretario de Comercio, Howard Lutnick, quedó en la cuerda floja y legisladores de ambos partidos piden explicaciones en el Congreso. Estados Unidos derribó dos drones de ataque iraníes que se dirigían hacia Baréin, sede de la Quinta Flota de la Armada, después de que la Guardia Revolucionaria de Irán dijera haber atacado un radar estadounidense. En España arrancó la campaña electoral con un debilitado Pedro Sánchez, que apuesta a una remontada de cara a las elecciones del veintinueve de noviembre, y el Banco Interamericano de Desarrollo aprobó la vuelta de sus operaciones a Venezuela. Le Grand Continent analiza hasta cuándo podrá Vladimir Putin seguir financiando su guerra sin que el Estado ruso quede obligado a una quiebra, y también examina cómo los nacionalistas cristianos en Estados Unidos ya se preparan para la etapa posterior a Trump dentro del Partido Republicano. En deportes, se confirmó al uruguayo Andrés Matonte como árbitro de la final de la Copa Sudamericana entre Boca y Atlético Mineiro, el sábado veintiuno de noviembre en Barranquilla. Una cadena de sanciones contra Defensa y Justicia podría abrirle a Independiente una chance de clasificar a la Copa Sudamericana, y Los Pumas se preparan para enfrentar a Italia este sábado en el Nations Championship. En España, el arquero argentino Matías Dituro sufrió un violento robo en su casa junto a sus hijos, y Fox Sports anunció que dejará de emitirse en el país a fin de enero, lo que podría afectar las transmisiones de Fórmula uno. Para cerrar, en turismo, un paisaje de Catamarca usado para estudiar Marte se sumó a la lista de Sitios de Patrimonio Geológico Mundial, y en Mar del Plata, Manolo y Chichilo siguen siendo dos de los restaurantes más elegidos por los turistas. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "La fuente Ámbito/economía falló en esta corrida con un error de XML inválido; se usó el resto del material sin inconvenientes. La sección Europa y geopolítica tiene solo 2 notas porque el feed de Le Grand Continent trajo apenas esas dos piezas. No se registraron menciones de Franco Colapinto ni de Club Atlético Tigre en el material de esta corrida.",
+ "slug": "2026-11-13-tarde",
+ "generado_ba": "13/11/2026 21:15"
+}
