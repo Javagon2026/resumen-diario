@@ -1,0 +1,638 @@
+{
+ "fecha": "2026-11-14",
+ "edicion": "tarde",
+ "titulo": "Tensión por Malvinas con Chile, avance sobre jueces federales y Boca busca la final",
+ "apertura": "La tarde del sábado estuvo marcada por la tensión diplomática entre la Argentina y Chile por la salida de un buque hacia las islas Malvinas, mientras el Gobierno avanza en el Senado para cubrir jueces federales clave de cara a 2027 y la ministra Sandra Pettovello denunció presiones en medio de la disputa por la conducción del sindicato gastronómico. En los negocios, José Luis Manzano se sumó al grupo que compró la cadena de supermercados DIA, y los economistas coinciden en que la baja de la inflación hacia el 1% mensual seguirá siendo lenta. En el plano deportivo, Boca y Banfield definen esta tarde un lugar en la final de la Copa Argentina y Los Pumas ya piensan en Francia, mientras Franco Colapinto busca sumar puntos en Las Vegas.",
+ "claves": [
+  "La naviera chilena Easter Island Logistics confirmó que un buque partirá el 17 de diciembre de Punta Arenas hacia las islas Malvinas, pese al reclamo argentino de pedir autorización previa.",
+  "El Senado avanza con el examen de candidatos a jueces federales de San Juan y Corrientes, dos de los nueve juzgados vacantes en distritos clave antes de la elección de 2027.",
+  "La ministra Sandra Pettovello denunció presiones y hostigamiento en medio de la disputa judicial por la conducción de la UTHGRA que lidera Luis Barrionuevo.",
+  "Carlos Melconian afirmó que la convergencia de la inflación a un dígito mensual queda para el próximo gobierno, mientras las consultoras explican por qué cuesta tanto llegar al 1%.",
+  "José Luis Manzano, a través de Integra Capital, se sumó al grupo que compró la cadena de supermercados DIA, que ya suma casi 1000 tiendas junto a ChangoMás.",
+  "Boca y Banfield juegan esta tarde en Mendoza la segunda semifinal de la Copa Argentina; el ganador enfrentará a Platense en la final.",
+  "Los Pumas, tras vencer a Italia, viajan a París para enfrentar a Francia en la definición del Nations Championship.",
+  "Franco Colapinto buscará sumar puntos con Alpine en el Gran Premio de Las Vegas de Fórmula 1."
+ ],
+ "cifras": [
+  {
+   "nombre": "Inflación núcleo (octubre)",
+   "valor": "1,5%",
+   "variacion": "mínimo en 15 meses",
+   "fuente": "CR-02"
+  },
+  {
+   "nombre": "Reservas brutas del BCRA",
+   "valor": "US$ 48.565 millones",
+   "fuente": "IB-25"
+  },
+  {
+   "nombre": "Personas que mejoraron su calidad de vida (INDEC, 1er semestre)",
+   "valor": "6,5 millones",
+   "fuente": "IB-17"
+  },
+  {
+   "nombre": "Personas que empeoraron su calidad de vida (INDEC, 1er semestre)",
+   "valor": "4,8 millones",
+   "fuente": "IB-17"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-10",
+     "titulo": "Chile confirma el envío de un buque hacia las Malvinas pese al reclamo argentino",
+     "resumen": "La naviera trasandina Easter Island Logistics confirmó que el buque Danstar partirá el 17 de diciembre desde Punta Arenas hacia las islas Malvinas, la primera vez en quince años que una naviera chilena cubre esa ruta. El canciller argentino Pablo Quirno exigió que la empresa solicite autorización previa para cruzar aguas jurisdiccionales argentinas, mientras su par chileno Francisco Pérez Mackenna invocó el derecho de paso inocente de la Convención del Mar.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Por primera vez en 15 años, un buque chileno hará la ruta Punta Arenas-Islas Malvinas",
+       "url": "https://www.clarin.com/politica/primera-vez-15-anos-buque-chileno-hara-ruta-punta-arenas-islas-malvinas_0_OXlmEOVqPU.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/tension-por-malvinas-despues-de-quince-anos-un-buque-chileno-partira-de-punta-arenas-hacia-las-islas-nid14112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/B2PMAKQ4GZHEFDYWJZIVJV6ACI.webp?auth=085e1e1e31b5241c159eb854279838a1cba31100225b8b91eda17324bb7259ab&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:42",
+     "autor": "Daniel Santa Cruz",
+     "titulo_original": "Tensión por Malvinas: después de quince años, un buque chileno partirá de Punta Arenas hacia las islas"
+    },
+    {
+     "id": "CL-18",
+     "titulo": "El Gobierno avanza en el Senado para cubrir jueces federales clave antes de 2027",
+     "resumen": "El Senado comenzó a tomar examen a los candidatos para ocupar los juzgados federales de San Juan y Corrientes, dos de los nueve que están vacantes en distritos como Córdoba y Santa Fe. La definición se da en el marco de la negociación por la reforma electoral y a un año de las elecciones de 2027.",
+     "url": "https://www.clarin.com/politica/sigue-avance-gobierno-justicia-buscan-ocupar-cargos-clave-eleccion-2027_0_aaNmj8IPRh.html",
+     "imagen": "https://www.clarin.com/img/2026/07/09/BxMytLw_y_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:35",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Sigue el avance del Gobierno sobre la Justicia: buscan ocupar dos cargos clave para la elección 2027",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Los gobernadores aliados definen su posición ante la negociación por las PASO",
+     "resumen": "El jefe de Gabinete Diego Santilli negocia con los gobernadores provinciales el respaldo necesario para suspender las PASO, un objetivo que Martín Menem adelantó que el oficialismo buscará tratar en las próximas dos semanas. Patricia Bullrich sostiene que los votos están, mientras algunos mandatarios provinciales defienden el mecanismo como herramienta para ordenar disputas internas.",
+     "url": "https://www.lanacion.com.ar/politica/uno-por-uno-como-estan-jugando-los-gobernadores-aliados-en-la-negociacion-con-la-casa-rosada-nid14112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5DDE4TLBN5HBZBQBVQIPP32O74.JPEG?auth=69221648ee0cff0b169c6e1dc0cb534aa447a7763cc6c8bf4aca1299296e38b6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "16:54",
+     "autor": "Gabriela Origlia",
+     "titulo_original": "Uno por uno, cómo están jugando los gobernadores aliados en la negociación con la Casa Rosada",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Milei encabezó la apertura de una muestra sobre Manuel Belgrano en la Casa Rosada",
+     "resumen": "El presidente Javier Milei inauguró esta tarde en el Museo de la Casa Rosada la muestra \"Belgrano, la revolución de las ideas\", en el marco de la Noche de los Museos y en su primera participación activa en esa jornada cultural desde que asumió. La exposición, curada por el historiador Diego Valenzuela, reúne documentos e imágenes inéditos sobre la faceta intelectual del creador de la bandera.",
+     "relacionadas": [
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "En medio de la interna libertaria, Javier Milei inaugurará una muestra sobre Manuel Belgrano en la Casa Rosada",
+       "url": "https://www.ambito.com/politica/en-medio-la-interna-libertaria-javier-milei-inaugurara-una-muestra-manuel-belgrano-la-casa-rosada-n6345287"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/14/javier-milei-inaugurara-una-muestra-sobre-manuel-belgrano-en-el-marco-de-la-noche-de-los-museos/",
+     "imagen": "https://www.infobae.com/resizer/v2/VMWA55P4KRABROYSS22VAZADWE.jpg?auth=edaa72a793b28edb8ad8feb5997597483b1ab9a8807144e75403291c8197cdc0&smart=true&width=800&height=533",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:25",
+     "autor": "",
+     "titulo_original": "Javier Milei inaugurará una muestra sobre Manuel Belgrano en el marco de la Noche de los Museos"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Elisa Carrió cuestionó la interna entre Javier Milei y Patricia Bullrich",
+     "resumen": "La líder de la Coalición Cívica afirmó en una entrevista radial que Bullrich \"busca el poder\" al referirse a las diferencias que crecen con el Presidente dentro de La Libertad Avanza. Carrió también cuestionó lo que calificó como violencia verbal del jefe de Estado.",
+     "url": "https://www.infobae.com/politica/2026/11/14/elisa-carrio-volvio-a-cuestionar-al-gobierno-y-hablo-de-la-interna-entre-milei-y-bullrich-ella-busca-el-poder/",
+     "imagen": "https://www.infobae.com/resizer/v2/VUTRPJZP4FDQJMVC325FV77BYM.jpg?auth=8ccd529faf00454a647a4903156f16e6a9841025da0e01dd0fa14d71df340ab9&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "13:01",
+     "autor": "",
+     "titulo_original": "Elisa Carrió volvió a cuestionar al Gobierno y habló de la interna entre Milei y Bullrich: “Ella busca el poder”",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "Las consultoras creen que la inflación tardará en acercarse al 1% mensual",
+     "resumen": "Tras el 2,2% de octubre informado por el INDEC, el registro más alto en seis meses, las consultoras privadas anticipan una baja lenta de la inflación general. La inflación núcleo, en cambio, bajó a 1,5%, su menor nivel en 15 meses, lo que deja un panorama mixto de cara a la meta del Gobierno. Para una empresa: una desinflación más lenta de lo previsto retrasa la baja de tasas y mantiene la presión sobre los costos financieros.",
+     "url": "https://www.cronista.com/economia-politica/la-inflacion-se-aleja-del-numero-que-quiere-milei-por-que-le-cuesta-tanto-llegar-al-1-segun-las-consultoras/",
+     "imagen": "https://www.cronista.com/resizer/v2/3OVNX4E6S5FLPKGORF2AR2P3CE.jpg?auth=3a26af17862585c1eb4f8bde7801c4363d1bda3f507349e7b690311fdfc60add&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:33",
+     "autor": "Zoe Braziulis",
+     "titulo_original": "La inflación se aleja del número que quiere Milei: por qué le cuesta tanto llegar al 1%, según las consultoras",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Melconian afirmó que la convergencia de la inflación a un dígito queda para el próximo gobierno",
+     "resumen": "El economista y expresidente del Banco Nación Carlos Melconian sostuvo que la baja definitiva de la inflación excede los tiempos de la actual gestión y que acelerar el proceso se limita a \"parches\". Consideró que la persistencia de los índices actuales marca un piso técnico difícil de romper con las herramientas disponibles.",
+     "url": "https://www.cronista.com/economia-politica/melconian-anticipo-que-la-baja-de-la-inflacion-tendra-que-esperar-queda-para-el-proximo-gobierno/",
+     "imagen": "https://www.cronista.com/resizer/v2/DZGSFJWUIBDE7H32X66NNRFGNE.jpg?auth=edbf51f3b31fecd86f7de47811f66bf3ca8f4b032ee38f27ff8400cda46cba75&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:09",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Melconian anticipó que la baja de la inflación tendrá que esperar: “Queda para el próximo gobierno”",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-08",
+     "titulo": "Un repaso histórico de las excusas argentinas para explicar por qué no bajan los precios",
+     "resumen": "Una nota de Economía de No Ficción de Clarín recorre, desde el índice de Martínez de Hoz hasta la actual \"zona fría\" de Caputo, pasando por los chocolatines de Alberto Fernández, los sucesivos argumentos oficiales para justificar que los precios no bajen en la Argentina. Para una empresa: la reiteración de estos ciclos obliga a planificar actualizaciones de precios y contratos con horizontes cortos.",
+     "url": "https://www.clarin.com/economia/carne-chocolatines-gas-ranking-historico-justificaciones-bajan-precios_0_TxpUrzpPXQ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/14/oGF1TxDoZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:25",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Carne, chocolatines y gas: un ranking histórico de justificaciones por las cuales no bajan los precios",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-25",
+     "titulo": "Las reservas del Banco Central perdieron valor por la caída del precio del oro",
+     "resumen": "Las reservas brutas del BCRA totalizaron US$ 48.565 millones al 31 de octubre, US$ 6.377 millones por encima de enero, impulsadas por compras de divisas por US$ 16.000 millones. Sin embargo, la baja del precio internacional del oro desde su máximo de enero le restó más de US$ 1.800 millones a la valuación de esas tenencias, sin que haya variado la cantidad de metal en poder de la entidad.",
+     "url": "https://www.infobae.com/economia/2026/11/14/la-baja-del-precio-del-oro-le-resto-mas-de-usd-1800-millones-a-las-reservas-del-banco-central-desde-su-maximo-del-ano/",
+     "imagen": "https://www.infobae.com/resizer/v2/EE6UB6JN4NC2VNA46FGDZFRWBI.JPG?auth=9770ce577ee611278225d9c0e6218303300e1f67646fd1dcb853a600fc7ac2e1&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:13",
+     "autor": "Matías Barbería",
+     "titulo_original": "La baja del precio del oro le restó más de USD 1.800 millones a las reservas del Banco Central desde su máximo del año",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-17",
+     "titulo": "El Indec detectó mejoras y retrocesos dispares en la calidad de vida de los argentinos",
+     "resumen": "Según la Encuesta Permanente de Hogares del primer semestre de 2026, unas 6,5 millones de personas mejoraron sus condiciones de vida en los últimos doce meses, mientras que 4,8 millones las empeoraron, sobre la base de 43 indicadores de vivienda, educación y salud. El informe atribuye el resultado mixto a un año de turbulencia electoral y al conflicto bélico entre Estados Unidos e Irán, que alteraron el ritmo de desinflación y de actividad.",
+     "url": "https://www.infobae.com/economia/2026/11/14/altas-y-bajas-unas-65-millones-de-personas-mejoraron-sus-condiciones-de-vida-pero-48-millones-las-empeoraron/",
+     "imagen": "https://www.infobae.com/resizer/v2/6QZAJNDGMVFBVGOLFB3KC5UMPY.JPG?auth=18322d8cafb030a669287fafc37e548006b2be120e82f0eae52bb74e3da0d057&smart=true&width=900&height=641",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:08",
+     "autor": "Daniel Sticco",
+     "titulo_original": "Altas y bajas: unas 6,5 millones de personas mejoraron sus condiciones de vida, pero 4,8 millones las empeoraron",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-02",
+     "titulo": "Carlos Tevez creó una productora de eventos para competir con las grandes del rubro",
+     "resumen": "El exfutbolista se asoció con su histórico representante para fundar Apache Producciones, una empresa con la que busca competirle a las grandes compañías del sector de eventos. La firma ya tiene un primer espectáculo confirmado para su debut.",
+     "url": "https://www.iprofesional.com/negocios/468870-la-nueva-empresa-de-carlos-tevez-que-sigue-incursionando-en-los-negocios",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629567.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:51",
+     "autor": "",
+     "titulo_original": "Carlos Tevez desembarca en un nuevo rubro: creó una empresa para competirle a gigantes",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-01",
+     "titulo": "Joy Airline arranca sus vuelos el lunes con tres destinos iniciales",
+     "resumen": "La nueva aerolínea argentina Joy Airline comenzará a operar el lunes, con tres destinos para empezar a ganar terreno en el mercado local de cabotaje.",
+     "url": "https://www.iprofesional.com/actualidad/469145-esta-semana-arranca-joy-airline-cuanto-cuesta-y-a-donde-volara-la-nueva-aerolinea",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613121.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:04",
+     "autor": "",
+     "titulo_original": "Esta semana arranca Joy Airline: cuanto cuesta y a donde volará la nueva aerolínea",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-03",
+     "titulo": "El Tesoro de Estados Unidos presionó al Departamento de Comercio por el escándalo de Nvidia",
+     "resumen": "El secretario del Tesoro, Scott Bessent, responsabilizó al Departamento de Comercio por no haber incluido a la firma singapurense Megaspeed en la lista negra de exportaciones tecnológicas sensibles. La presión creció tras la renuncia de Jensen Huang a la conducción de Nvidia, luego de conocerse sus vínculos con una ejecutiva ligada a esa compañía.",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/14/el-secretario-del-tesoro-de-eeuu-cuestiono-al-departamento-de-comercio-por-no-sancionar-a-megaspeed-la-empresa-detras-del-escandalo-de-nvidia/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZXTKKBOSN5HE3PJIEA2X2X56XI.JPG?auth=30ab07708fe9a513d060db8d3252bd854f492656e5e1f652301a16d5f9f88833&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:04",
+     "autor": "Lucila Gomez",
+     "titulo_original": "El secretario del Tesoro de EEUU cuestionó al Departamento de Comercio por no sancionar a Megaspeed, la empresa del escándalo de Nvidia",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-05",
+     "titulo": "Jensen Huang dejó la conducción de Nvidia tras semanas de escándalo",
+     "resumen": "El cofundador de la compañía de chips de inteligencia artificial renunció después de las acusaciones sobre sus relaciones extramatrimoniales, entre ellas un vínculo con una ejecutiva de la firma singapurense Megaspeed. El directorio de Nvidia deberá ahora encontrar un reemplazante para una de las figuras centrales del auge global de la inteligencia artificial.",
+     "relacionadas": [
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El secretario del Tesoro de EEUU cuestionó al Departamento de Comercio por no sancionar a Megaspeed, la empresa del escándalo de Nvidia",
+       "url": "https://www.infobae.com/estados-unidos/2026/11/14/el-secretario-del-tesoro-de-eeuu-cuestiono-al-departamento-de-comercio-por-no-sancionar-a-megaspeed-la-empresa-detras-del-escandalo-de-nvidia/"
+      }
+     ],
+     "url": "https://www.ambito.com/tecnologia/las-ultimas-horas-jensen-huang-al-frente-nvidia-del-liderazgo-absoluto-al-derrumbe-personal-n6345271",
+     "imagen": "https://media.ambito.com/p/b1b546d1ea2a6231fc95fd78ec980dc0/adjuntos/239/imagenes/042/985/0042985359/jensen-huang-bloomberg.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:01",
+     "autor": "",
+     "titulo_original": "Las últimas horas de Jensen Huang al frente de Nvidia: del liderazgo absoluto al derrumbe personal"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "ANSES retoma el lunes el calendario de pagos a jubilados y pensionados",
+     "resumen": "La Administración Nacional de la Seguridad Social reanudará el lunes 16 de noviembre los pagos, reorganizados este mes por los feriados de la visita del papa León XIV. Ese día cobrarán los jubilados con DNI terminado en 5 que perciben haberes equivalentes a la mínima, y el cronograma continuará según la terminación del documento en los días siguientes.",
+     "url": "https://www.cronista.com/economia-politica/anses-reactiva-el-calendario-de-pagos-este-lunes-16-que-jubilados-cobraran-sus-haberes/",
+     "imagen": "https://www.cronista.com/resizer/v2/XE2YENXUG5DUTJCFL7KCNHCRHY.jpg?auth=d37578ec83b85a1003d1b90c5fa8e32df0103925ada076e6ae20d5f9c1b37d91&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "15:43",
+     "autor": "Equipo Audiencias Argentina",
+     "titulo_original": "ANSES reactiva el calendario de pagos este lunes 16: qué jubilados cobrarán sus haberes",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-11",
+     "titulo": "La Justicia elevó a 27 millones de pesos una indemnización por una frenada brusca en un colectivo",
+     "resumen": "La Cámara de Apelaciones de Comodoro Rivadavia modificó el cálculo de una indemnización y la llevó a $27.051.888 para una pasajera que se lesionó la columna al caer dentro de un colectivo que frenó bruscamente en 2022. Para una empresa: este tipo de fallos eleva el costo de los litigios por accidentes para las compañías de transporte de pasajeros.",
+     "url": "https://www.lanacion.com.ar/sociedad/viajaba-en-colectivo-el-chofer-freno-de-golpe-y-se-lesiono-la-justicia-ordeno-una-indemnizacion-de-nid14112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BYWS5SEAEFGW7LCGZEJW6LS4KU.png?auth=9ed3dba7a7520baf350076d42d39431009f9f7c7661b0cdaf0280239b8b3c90e&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:38",
+     "autor": "",
+     "titulo_original": "Viajaba en colectivo, el chofer frenó de golpe y se lesionó: la Justicia ordenó una indemnización de 27 millones de pesos",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Pettovello denunció presiones en la disputa por la conducción de la UTHGRA",
+     "resumen": "La ministra de Capital Humano, Sandra Pettovello, afirmó que evalúa una presentación judicial por las presiones y el hostigamiento que dice sufrir en medio de la disputa por el reconocimiento de las autoridades del gremio gastronómico y hotelero que encabeza Luis Barrionuevo. El Ministerio ya recurrió ante la Corte Suprema contra una orden que disponía otorgar una certificación provisoria al sindicato. Para una empresa: la incertidumbre sobre la conducción sindical demora la negociación de convenios colectivos del sector gastronómico y hotelero.",
+     "url": "https://www.infobae.com/politica/2026/11/14/el-mensaje-de-pettovello-en-medio-de-la-disputa-con-barrionuevo-no-es-correcto-mentir-ni-presionar-y-aun-mas-intolerable-hostigar/",
+     "imagen": "https://www.infobae.com/resizer/v2/XUAPFCC7O5DEDHTXB2G3VGZGVM.jpg?auth=ddf6c68f73f308fd80c05899073b49f2b670215d6495b8f5e4b5f2a842e04399&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "El mensaje de Pettovello en medio de la disputa con Barrionuevo: “No es correcto mentir ni presionar y, aún más intolerable, hostigar”",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "LN-19",
+     "titulo": "Manzano se sumó al grupo inversor que compró la cadena de supermercados DIA",
+     "resumen": "El empresario mendocino José Luis Manzano, a través de la sociedad Integra Capital, se incorporó al consorcio liderado por Francisco de Narváez que adquirió por US$ 350 millones el 100% de la operación local de la cadena DIA al grupo español. Con esta compra, GDN Argentina, dueña de ChangoMás, suma casi 1000 tiendas entre ambas marcas. Para una empresa: la consolidación de cadenas vía fusiones reconfigura la competencia en el retail minorista de alimentos y consumo masivo.",
+     "url": "https://www.lanacion.com.ar/economia/negocios/manzano-se-suma-al-grupo-inversor-que-compro-dia-nid14112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/VC3YRHHKRREIXL3CHYRQR4IT3U.jpg?auth=f0f877f50cea39c636c15f6739a475faf830a95e15133e97f2650a3a1266058a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:16",
+     "autor": "Alfredo Sainz",
+     "titulo_original": "Manzano se suma al grupo inversor que compró DIA",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-06",
+     "titulo": "La Casa Blanca confirmó una cumbre inédita entre Trump, Xi Jinping y Putin",
+     "resumen": "El encuentro se realizará al margen de la cumbre de Asia-Pacífico en China, en medio del escándalo de Nvidia que tensiona la relación entre Washington y Beijing. Se espera que los tres líderes aborden la guerra en Medio Oriente, aunque hay dudas sobre si tratarán la situación en Ucrania; varios analistas compararon la reunión con la Conferencia de Yalta de 1945.",
+     "url": "https://www.clarin.com/mundo/casa-blanca-confirma-cumbre-inedita-donald-trump-xi-jinping-vladimir-putin-hablaran_0_QWm7tyPelr.html",
+     "imagen": "https://www.clarin.com/img/2026/11/14/EZo3PWpEZ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:45",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La Casa Blanca confirma una cumbre inédita entre Donald Trump, Xi Jinping y Vladimir Putin: ¿De qué hablarán?",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Estados Unidos espera normalizar sus aeropuertos este domingo tras la mayor suspensión de vuelos en años",
+     "resumen": "El director de la Administración Federal de Aviación, Bryan Bedford, anticipó entre 4.000 y 5.000 cancelaciones este sábado tras la falla en un equipo de telecomunicaciones que obligó a suspender temporalmente los despegues en todo el país. El secretario de Transporte, Sean Duffy, señaló que el espacio aéreo ya fue reabierto, aunque la vuelta a la normalidad demandará tiempo.",
+     "relacionadas": [
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "\"Lo peor ya pasó\": Estados Unidos dice que las operaciones en los aeropuertos se normalizarán este domingo",
+       "url": "https://www.clarin.com/mundo/peor-paso-estados-unidos-dice-operaciones-aeropuertos-normalizaran-domingo_0_t6cs150I15.html"
+      },
+      {
+       "id": "LN-26",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Así se veía el espacio aéreo de Estados Unidos en medio de la suspensión de todos los vuelos",
+       "url": "https://www.lanacion.com.ar/el-mundo/asi-se-veia-el-espacio-aereo-de-estados-unidos-en-medio-de-la-suspension-de-todos-los-vuelos-nid14112026/"
+      }
+     ],
+     "url": "https://www.infobae.com/estados-unidos/2026/11/14/en-vivo-suspension-de-vuelos-en-eeuu/",
+     "imagen": "https://www.infobae.com/resizer/v2/2N46KUZMWJDZ7ITSNUT2NYID5I.JPG?auth=fe6180a1531e2a13ed2e8f4b01d783eb9dda953e5c83d9b6fd3deb6f349036a3&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:05",
+     "autor": "Bautista Marghella, Gastón Calvo, Lucas Goyret",
+     "titulo_original": "La Administración Federal de Aviación de EEUU prevé que los vuelos se normalicen para el cierre del domingo: “Lo peor ya pasó”"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Netanyahu pidió a Eisenkot formar un gobierno de unidad sin partidos árabes",
+     "resumen": "El primer ministro israelí llamó a su rival político a construir una coalición amplia \"sin condiciones previas\" para hacer frente a lo que calificó como una reactivación del programa nuclear iraní. Netanyahu advirtió que el régimen de Teherán \"no dudará en usar armas nucleares\" contra Israel.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/14/netanyahu-llamo-a-eisenkot-a-formar-un-gobierno-de-unidad-sin-partidos-arabes-para-hacer-frente-a-la-amenaza-irani/",
+     "imagen": "https://www.infobae.com/resizer/v2/4Z4DGN2PMZFXNNYTA4Y6LUOFZQ.JPG?auth=0f28e9d344e155e29f730e48bce6bb89c85a12e9f82594dda909e066e3e7d686&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:51",
+     "autor": "",
+     "titulo_original": "Netanyahu llamó a Eisenkot a formar un gobierno de unidad sin partidos árabes para hacer frente a la amenaza iraní",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Macron advirtió que reducir la ayuda a Ucrania allanaría el camino a otra guerra en Europa",
+     "resumen": "El presidente francés sostuvo que imponer una paz injusta a Ucrania perjudicaría al país invadido y al resto de Europa, mientras Estados Unidos impulsa contactos entre Kiev y Moscú para terminar la invasión iniciada en 2022. Volodimir Zelensky afirmó que Washington planteó que Ucrania ceda el Donbás a cambio de ingresar a la OTAN.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/14/emmanuel-macron-alerto-que-reducir-la-ayuda-a-ucrania-prepararia-el-terreno-para-otra-guerra-en-europa/",
+     "imagen": "https://www.infobae.com/resizer/v2/HANQBR62KJFUFL4SQOEYRTN4R4.jpg?auth=1a207c3e1cc638490b02b3d5f1829669d5237cc99fdc05aa248df1f283b30db7&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Emmanuel Macron alertó que reducir la ayuda a Ucrania prepararía el terreno para otra guerra en Europa",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-11",
+     "titulo": "Irán reportó el incendio de tres petroleros tras chocar contra minas en el estrecho de Ormuz",
+     "resumen": "La Armada iraní atribuyó el incidente a que las embarcaciones transitaban por una zona \"no autorizada\" del estrecho, una de las rutas marítimas más sensibles para el transporte de petróleo a nivel global. No se identificó el nombre ni el origen de los buques afectados.",
+     "url": "https://www.ambito.com/mundo/iran-informo-el-incendio-tres-petroleros-el-estrecho-ormuz-luego-chocar-contra-minas-marinas-n6345238",
+     "imagen": "https://media.ambito.com/p/952c22119907dce6999b3a87bc302a22/adjuntos/239/imagenes/043/534/0043534279/1200x675/622x313:642x333/mar-rojo-petroleros-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:23",
+     "autor": "",
+     "titulo_original": "Irán informó sobre el incendio de tres petroleros en el estrecho de Ormuz luego de chocar contra minas marinas",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-21",
+     "titulo": "La campaña electoral española se acelera a dos semanas de las urnas",
+     "resumen": "El presidente Pedro Sánchez sumó a su esposa a la campaña en busca de una remontada que le permita ser el candidato más votado el 29 de noviembre, en una disputa que el PSOE mantiene abierta con el PP. El líder de Vox, Santiago Abascal, reunió a más de 4.500 personas en un acto en Murcia y planteó la elección como una definición entre \"España o la mafia\".",
+     "relacionadas": [
+      {
+       "id": "IB-11",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Abascal: \"El líder de la mafia lo tiene cada vez más difícil, pero tiene otras herramientas\"",
+       "url": "https://www.infobae.com/espana/agencias/2026/11/14/abascal-el-lider-de-la-mafia-lo-tiene-cada-vez-mas-dificil-pero-tiene-otras-herramientas/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-campana-espanola-se-vuelve-frenetica-sanchez-lanza-a-su-mujer-a-la-campana-y-suena-con-una-nid14112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YKDIJRJX5JEVFNP5GOAIO3KM3Y.JPG?auth=8fd09d426ba101d0003bc4e5ac6756760e551bf2f357ccff9a5e4f68bfeee387&smart=true&width=900&height=645",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:06",
+     "autor": "Iván Ruiz",
+     "titulo_original": "La campaña española se vuelve frenética: Sánchez lanza a su mujer a la campaña y sueña con una remontada"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "IB-09",
+     "titulo": "Boca y Banfield definen esta tarde el segundo finalista de la Copa Argentina",
+     "resumen": "Boca y Banfield juegan desde las 19 en el estadio Malvinas Argentinas de Mendoza, con el arbitraje de Nazareno Arasa, por el segundo cupo a la final de la Copa Argentina 2026. El ganador enfrentará a Platense, que ya está clasificado; Boca, máximo ganador del certamen con cuatro títulos, eliminó a Racing en cuartos de final.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "A qué hora juega hoy Boca vs. Banfield y por dónde se puede ver en vivo",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-boca-vs-banfield-y-por-donde-se-puede-ver-en-vivo-nid14112026-2/"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/agencias/2026/11/14/unas-700-personas-exigen-la-libertad-de-los-tres-detenidos-por-los-disturbios-en-barcelona/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Unas 700 personas exigen la libertad de los tres detenidos por los disturbios en Barcelona"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Derrota política para Chiqui Tapia en la interna de los técnicos de ATFA",
+     "resumen": "El oficialismo que conduce Salvador Pasini fue reelegido al frente del gremio de entrenadores con el 78% de los votos, un fuerte revés para la lista que respaldaba el presidente de la AFA, Claudio Tapia.",
+     "url": "https://www.clarin.com/deportes/derrota-claudio-tapia-interna-tecnicos-oficialismo-arraso-seguira-frente-atfa_0_Lgke2qmtGT.html",
+     "imagen": "https://www.clarin.com/img/2026/11/14/ffNWoBRnd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Derrota para Claudio Tapia en la interna de los técnicos: el oficialismo arrasó y seguirá al frente de ATFA",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-04",
+     "titulo": "Ponzio sacó a Martínez Quarta del primer equipo de River tras su expulsión en el Superclásico",
+     "resumen": "El entrenador, que se había propuesto recuperar al defensor cuando asumió, lo relegó a los suplentes tras el amistoso que River ganó 2 a 0 ante Gimnasia con goles de Driussi y Galván. Persisten las dudas en el mediocampo del equipo millonario.",
+     "url": "https://www.clarin.com/deportes/leonardo-ponzio-acabo-paciencia-martinez-quarta-borro-primer-equipo-river-error-superclasico_0_bCsenLkvaZ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/14/3uKjzJjWe_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "A Leonardo Ponzio se le acabó la paciencia con Martínez Quarta: lo borró del primer equipo de River tras su error en el Superclásico",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-16",
+     "titulo": "Contepomi definió a Francia como el próximo desafío de Los Pumas tras vencer a Italia",
+     "resumen": "El entrenador de la selección argentina de rugby describió al próximo rival, que llega de vencer a Sudáfrica, señalando que \"Francia tiene al Messi del rugby\". El equipo viaja el domingo a París para preparar la definición del fin de semana de finales; Pablo Matera ejerció la capitanía ante la ausencia de Julián Montoya.",
+     "url": "https://www.clarin.com/deportes/felipe-contepomi-mostro-satisfecho-triunfo-italia-analizo-proximo-rival-pumas-francia-messi-rugby_0_2iB1BKHvpF.html",
+     "imagen": "https://www.clarin.com/img/2026/08/08/pdYSyH0LE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:51",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Felipe Contepomi se mostró satisfecho con el triunfo ante Italia y analizó al próximo rival de Los Pumas: \"Francia tiene al Messi del rugby\"",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-17",
+     "titulo": "Carlos Alcaraz y Juan Carlos Ferrero se reencontraron en la previa de las ATP Finals",
+     "resumen": "Casi un año después de separarse como entrenador y jugador, Alcaraz y Ferrero volvieron a cruzarse en el Inalpi Arena de Turín, donde el español compartió una práctica con Ben Shelton, actual alumno de Ferrero. El torneo que reúne a los ocho mejores tenistas de la temporada comienza este domingo.",
+     "url": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-y-juan-carlos-ferrero-se-reencontraron-casi-un-ano-despues-de-su-separacion-nid14112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MTXJ6VRAPRDPRH7CGZKYZMNOLY.JPG?auth=297441579e208cdf7c3ae1bb8356aca416494af314db9c29f3a1e84f8830c93c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:20",
+     "autor": "",
+     "titulo_original": "Carlos Alcaraz y Juan Carlos Ferrero se reencontraron casi un año después de su separación",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Passarella enfrentará en 2027 el juicio oral más importante por reventa de entradas en River",
+     "resumen": "El Tribunal Oral en lo Criminal y Correccional N°11 fijó para el 15 de febrero de 2027 el inicio del debate contra Daniel Passarella, parte de su comisión directiva y la cúpula de Los Borrachos del Tablón, acusados de administración fraudulenta e instigación a la violencia. La causa, que lleva 15 años de trámite, prevé una pena máxima de hasta 12 años de prisión.",
+     "url": "https://www.infobae.com/deportes/2026/11/14/daniel-passarella-afrontara-el-juicio-oral-mas-importante-por-reventa-de-entradas-y-defraudaciones-cuando-comenzara/",
+     "imagen": "https://www.infobae.com/resizer/v2/4BJKMDPFPBAH5K2DXBPCXOS7QU.JPG?auth=4b58895c1ec5d2738cdc853b747a3a9b820a28774f56c54fc513d979f8cf540a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:47",
+     "autor": "Gustavo Grabia",
+     "titulo_original": "Daniel Passarella afrontará el juicio oral más importante por reventa de entradas y defraudaciones: cuándo comenzará",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Franco Colapinto busca sumar puntos en el Gran Premio de Las Vegas de Fórmula 1",
+     "resumen": "Kimi Antonelli llega como campeón mundial y Mercedes ya aseguró el título de constructores, mientras continúa la pelea por el subcampeonato de pilotos. Colapinto buscará volver a puntuar con Alpine en un circuito donde Max Verstappen es el piloto con más victorias de la historia.",
+     "url": "https://www.clarin.com/deportes/f1-gp-vegas-horarios-carrera-ver-formula-1_0_g7guDzqygu.html",
+     "imagen": "https://www.clarin.com/img/2025/12/13/Syca7m0Dv6_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de Las Vegas: horarios de la carrera, cómo y dónde ver la Fórmula 1",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IB-24",
+     "titulo": "Belice apuesta al turismo cultural con rutas mayas y garífunas",
+     "resumen": "El país centroamericano impulsa sitios arqueológicos, música, gastronomía ancestral y celebraciones comunitarias como una propuesta que va más allá de sus playas caribeñas. La iniciativa, difundida por el Belize Tourism Board, busca atraer viajeros interesados en experiencias culturales además de los destinos de playa y naturaleza.",
+     "url": "https://www.infobae.com/panama/2026/11/14/belice-impulsa-el-turismo-cultural-con-rutas-mayas-y-garifunas/",
+     "imagen": "https://www.infobae.com/resizer/v2/OTZTFPRRAFCZNFXFGCNWCCCMCM.jpg?auth=b236247b5d4167da19d66668def6c89b06418652e1371a1d1d4498ae904da189&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:47",
+     "autor": "Katlen Urquilla",
+     "titulo_original": "Belice impulsa el turismo cultural con rutas mayas y garífunas",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-14",
+     "titulo": "Una mujer murió arrastrada por la correntada durante un temporal en Catamarca",
+     "resumen": "Tras una jornada con 41 grados de temperatura, una fuerte tormenta descargó en pocas horas más del doble de la lluvia promedio de noviembre sobre San Fernando del Valle de Catamarca. La víctima, identificada como Sara Norma Castillo, murió arrastrada por el agua cuando intentaba resguardar su auto del granizo.",
+     "relacionadas": [
+      {
+       "id": "IB-19",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Catamarca: una mujer murió arrastrada por el agua durante un temporal mientras intentaba proteger su auto del granizo",
+       "url": "https://www.infobae.com/sociedad/2026/11/14/una-mujer-murio-arrastrada-por-el-agua-durante-un-temporal-mientras-intentaba-proteger-su-auto-del-granizo/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/temporal-tragico-catamarca-mujer-murio-arrastrada-corriente-graves-destrozos_0_eENi390d1b.html",
+     "imagen": "https://www.clarin.com/img/2026/11/14/UnLHe4F-E_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:14",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Temporal trágico en Catamarca: una mujer murió arrastrada por la corriente y hay graves destrozos"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Dos muertos en un choque frontal entre un camión y una camioneta en la Ruta 2",
+     "resumen": "El camión cisterna, que transportaba combustible para una empresa de energía, se cruzó de carril y chocó de frente contra una camioneta Chevrolet Tracker en el kilómetro 95 de la Ruta Provincial 2, a la altura de Chascomús. Dos de los ocupantes de la camioneta murieron en el lugar y un tercero fue trasladado al hospital con heridas graves.",
+     "relacionadas": [
+      {
+       "id": "LN-16",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Un camión de combustible volcó en la Ruta 2 tras chocar contra una camioneta: dos muertos",
+       "url": "https://www.lanacion.com.ar/sociedad/un-camion-de-combustible-volco-en-la-ruta-2-tras-chocar-contra-una-camioneta-dos-muertos-nid14112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/tragedia-ruta-2-camion-cruzo-mano-provoco-violento-choque-frontal-fallecidos_0_rTk5Az6jP4.html",
+     "imagen": "https://www.clarin.com/img/2026/11/14/WCIxRIy3F_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:29",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tragedia en la Ruta 2: un camión cruzó de mano y provocó un violento choque frontal con dos fallecidos"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Confirmaron que se extinguió el incendio tras la explosión de Remedios de Escalada",
+     "resumen": "El municipio de Lanús informó que Metrogas logró cortar la fuga de gas que originó la explosión y el posterior incendio del viernes, lo que permitió a los bomberos apagar el fuego durante la madrugada. El hecho dejó un muerto y numerosos heridos, y las familias evacuadas comenzaron a regresar de forma paulatina a sus hogares con asistencia del área de Desarrollo Social.",
+     "url": "https://www.lanacion.com.ar/sociedad/un-muerto-y-siete-heridos-graves-tras-la-explosion-en-remedios-de-escalada-confirman-que-el-incendio-nid14112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/M4KQNMYPZBBIPBFTYJWIXZMKC4.JPG?auth=829929ad3f20ef7c60273b764690a96f49228eeba71b8e9ce6e7569495dbcfea&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:45",
+     "autor": "",
+     "titulo_original": "Un muerto y siete heridos graves tras la explosión en Remedios de Escalada: confirman que el incendio fue extinguido",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-18",
+     "titulo": "La Justicia definirá la semana próxima el veredicto por el femicidio de una radióloga en Burzaco",
+     "resumen": "El Tribunal Oral en lo Criminal N°8 de Lomas de Zamora resolverá si César Ezequiel Florentín, acusado de matar a puñaladas a Noelia Torres el 8 de marzo de 2025, recibe prisión perpetua, tal como pidió el fiscal, o es absuelto. El imputado, de 22 años, niega haber asesinado a la víctima, de 34.",
+     "url": "https://www.infobae.com/sociedad/policiales/2026/11/14/femicidio-de-la-radiologa-de-burzaco-se-conoce-el-veredicto-contra-el-vecino-acusado-de-matarla-el-dia-de-la-mujer/",
+     "imagen": "https://www.infobae.com/resizer/v2/4VVQB3QNHVHYDOIN7EKB2C53NQ.jpg?auth=d2b48f270b733e6c350e6562dc4a33088f70e3c6696340579a19f6159f7b09cb&smart=true&width=640&height=399",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:06",
+     "autor": "Miguel Prieto Toledo",
+     "titulo_original": "Femicidio de la radióloga de Burzaco: se conoce el veredicto contra el vecino acusado de matarla el Día de la Mujer",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del sábado catorce de noviembre. La tarde estuvo marcada por la tensión diplomática entre la Argentina y Chile por la salida de un buque hacia las islas Malvinas, mientras el Gobierno avanza en el Senado para cubrir jueces federales clave de cara a la elección de dos mil veintisiete y la ministra Sandra Pettovello denunció presiones en medio de la disputa por la conducción del sindicato gastronómico. En los negocios, José Luis Manzano se sumó al grupo que compró la cadena de supermercados Día, y los economistas coinciden en que la baja de la inflación hacia el uno por ciento mensual seguirá siendo lenta. En el plano deportivo, Boca y Banfield definen esta tarde un lugar en la final de la Copa Argentina y Los Pumas ya piensan en Francia, mientras Franco Colapinto busca sumar puntos en Las Vegas. En cuanto a los números del día, el dólar oficial cerró en mil quinientos setenta pesos, el riesgo país se mantuvo en ochocientos treinta puntos básicos y la inflación de octubre, según el Indec, fue de dos coma dos por ciento, aunque la inflación núcleo bajó a uno coma cinco por ciento, su menor nivel en quince meses. En política, la Argentina y Chile protagonizaron un nuevo cruce diplomático: la naviera trasandina Easter Island Logistics confirmó que un buque partirá el diecisiete de diciembre desde Punta Arenas hacia las islas Malvinas, la primera vez en quince años que una naviera chilena cubre esa ruta. El canciller argentino, Pablo Quirno, exigió que la empresa pida autorización previa para cruzar aguas jurisdiccionales argentinas, mientras su par chileno invocó el derecho de paso inocente que reconoce la Convención del Mar. Además, el Senado comenzó a tomar examen a los candidatos para cubrir los juzgados federales de San Juan y Corrientes, dos de los nueve que están vacantes en distritos clave, en paralelo a la negociación entre el Gobierno y los gobernadores aliados para avanzar con la suspensión de las primarias abiertas. El presidente Javier Milei encabezó además la apertura de una muestra sobre Manuel Belgrano en la Casa Rosada, en su primera participación activa en la Noche de los Museos desde que asumió. Y la dirigente Elisa Carrió volvió a cuestionar la interna entre Milei y Patricia Bullrich, a quien acusó de buscar el poder. En economía, las consultoras privadas anticipan que, tras el dos coma dos por ciento de octubre, el camino hacia una inflación de un dígito mensual seguirá siendo lento. El economista Carlos Melconian fue más categórico y afirmó que esa convergencia definitiva queda para el próximo gobierno. Una nota de Clarín repasó, de manera histórica, las sucesivas excusas oficiales para explicar por qué no bajan los precios en la Argentina, desde hace varias décadas hasta la actual gestión. Por el lado de las reservas, el Banco Central informó que sus tenencias brutas llegaron a cuarenta y ocho mil quinientos sesenta y cinco millones de dólares a fines de octubre, aunque la caída del precio internacional del oro le restó más de mil ochocientos millones de dólares a esa valuación. Y el Indec difundió una encuesta que mostró un panorama mixto: seis coma cinco millones de personas mejoraron su calidad de vida en el último año, mientras que cuatro coma ocho millones la vieron empeorar. En negocios, Carlos Tevez creó junto a su representante una productora de eventos llamada Apache Producciones, con la que buscará competirle a las grandes compañías del sector. La aerolínea argentina Joy Airline comenzará a operar el lunes con tres destinos iniciales. Y en Estados Unidos, el secretario del Tesoro, Scott Bessent, presionó al Departamento de Comercio por no haber sancionado a la empresa singapurense señalada en el escándalo que terminó con la renuncia de Jensen Huang a la conducción de Nvidia. En impuestos y normativa, la ANSES retomará el lunes dieciséis el calendario de pagos a jubilados y pensionados, reorganizado este mes por los feriados de la visita del papa León catorce. Ese día cobrarán quienes tienen el documento terminado en cinco y perciben haberes equivalentes a la jubilación mínima. La Justicia, por su parte, elevó a veintisiete millones de pesos una indemnización para una pasajera que se lesionó al caer dentro de un colectivo que frenó bruscamente, un fallo que eleva el costo de los litigios para las empresas de transporte. Y la ministra Pettovello evalúa una presentación judicial por las presiones que dice sufrir en la disputa por la conducción del sindicato que lidera Luis Barrionuevo. En consumo y retail, el empresario mendocino José Luis Manzano se sumó, a través de su sociedad Integra Capital, al grupo inversor liderado por Francisco de Narváez que compró la cadena de supermercados Día por trescientos cincuenta millones de dólares. Con esa operación, el grupo que ya controla ChangoMás suma casi mil tiendas en el país, en una nueva señal de consolidación del retail de alimentos y consumo masivo. En el mundo, la Casa Blanca confirmó una cumbre inédita entre Donald Trump, Xi Jinping y Vladimir Putin al margen de la reunión de Asia Pacífico en China, en medio del escándalo que enfrenta a Washington y Beijing por el caso Nvidia; varios analistas la compararon con la Conferencia de Yalta de mil novecientos cuarenta y cinco. En Estados Unidos, las autoridades aéreas esperan normalizar los vuelos este domingo tras la falla en un equipo de telecomunicaciones que obligó a suspender los despegues en todo el país y que podría generar hasta cinco mil cancelaciones solo este sábado. El primer ministro israelí, Benjamín Netanyahu, llamó a su rival político Gadi Eisenkot a formar un gobierno de unidad sin partidos árabes para hacer frente a lo que calificó como una reactivación del programa nuclear iraní. El presidente francés, Emmanuel Macron, advirtió que reducir la ayuda a Ucrania allanaría el camino a otra guerra en Europa, mientras Volodimir Zelensky confirmó que Washington propuso que Ucrania ceda el Donbás a cambio de ingresar a la OTAN. Irán, por su parte, reportó el incendio de tres petroleros tras chocar contra minas marinas en el estrecho de Ormuz, una de las rutas más sensibles para el transporte mundial de petróleo. Y en España, a dos semanas de las elecciones, el presidente Pedro Sánchez sumó a su esposa a la campaña en busca de una remontada, mientras el líder de Vox, Santiago Abascal, reunió a miles de personas en Murcia. En deportes, Boca y Banfield juegan desde las diecinueve horas en el estadio Malvinas Argentinas de Mendoza por el segundo cupo a la final de la Copa Argentina, donde ya espera Platense. En el fútbol de los dirigentes, el oficialismo de Salvador Pasini fue reelegido con el setenta y ocho por ciento de los votos al frente del gremio de técnicos, un fuerte revés para el presidente de la AFA, Claudio Tapia. En River, el entrenador Leonardo Ponzio relegó a Martínez Quarta a los suplentes tras su expulsión en el Superclásico, en un amistoso que el equipo ganó dos a cero ante Gimnasia. En rugby, el entrenador Felipe Contepomi definió a Francia, el próximo rival de Los Pumas tras vencer a Italia, como el equipo que tiene, en sus palabras, al Messi del rugby, y el plantel viaja este domingo a París. En tenis, Carlos Alcaraz y su exentrenador Juan Carlos Ferrero se reencontraron en la previa de las ATP Finals de Turín, que comienzan este domingo. La Justicia fijó para febrero de dos mil veintisiete el inicio del juicio oral contra Daniel Passarella por la causa de reventa de entradas y defraudaciones en River. Y en la Fórmula uno, Franco Colapinto buscará sumar puntos con Alpine en el Gran Premio de Las Vegas, en un fin de semana en el que Mercedes ya se aseguró el título de constructores. Para cerrar, en turismo, Belice apuesta a un turismo cultural con rutas mayas y garífunas, sitios arqueológicos y gastronomía ancestral, como una propuesta que va más allá de sus playas caribeñas. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "Esta corrida de Le Grand Continent trajo cero notas, así que se omitió la sección Europa y geopolítica; tampoco hubo material en el feed de management de iProfesional, por lo que esa sección se omitió. Los feeds de economía y negocios (El Cronista e iProfesional) trajeron muy poco material este sábado a la tarde, por lo que las secciones de Consumo, construcción y retail quedaron con menos notas de las habituales. No apareció ningún destino turístico argentino en ninguna fuente de esta corrida, así que la nota de turismo usa el mejor destino disponible (Belice). No se encontró en el material de esta corrida ninguna novedad sobre Club Atlético Tigre, por lo que no se lo menciona. Todas las fuentes respondieron correctamente al descargar los feeds.",
+ "slug": "2026-11-14-tarde",
+ "generado_ba": "14/11/2026 21:17"
+}
