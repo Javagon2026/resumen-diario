@@ -1,0 +1,872 @@
+{
+ "fecha": "2026-11-16",
+ "edicion": "mediodia",
+ "titulo": "El Gobierno abrió el RIGI a extranjeros mientras sigue la pulseada por las PASO",
+ "apertura": "El Gobierno modificó el Régimen de Incentivo para Grandes Inversiones para permitir que empresas extranjeras compitan por el cupo de proveedores locales, mientras en el Senado sigue la negociación para suspender las PASO con el apoyo de gobernadores como Ignacio Torres. El dólar y el riesgo país volvieron a tensionarse después de una semana más calma, y la crisis de liderazgo en Nvidia sumó un nuevo capítulo con la posibilidad de que Jensen Huang regrese como director ejecutivo. En el plano internacional, el papa León XIV cerró su gira por Sudamérica en Lima y Donald Trump confirmó que se reunirá con Xi Jinping y Vladimir Putin en una cumbre histórica en China.",
+ "claves": [
+  "El Gobierno modificó el RIGI por decreto: ya no exige mayoría de capital argentino para competir por el veinte por ciento de proveedores locales reservado a las grandes inversiones.",
+  "El Senado convocó de urgencia a su comisión de Asuntos Constitucionales para retomar la reforma electoral, con Sergio Massa interviniendo en la negociación con los senadores del norte grande.",
+  "El dólar extendió sus subas y el riesgo país volvió a subir tras una caída de los bonos en dólares, mientras JP Morgan proyecta una inflación del 23% para 2027.",
+  "Jensen Huang evalúa volver como CEO de Nvidia presionado por Elon Musk y otros aliados, mientras el Tesoro de Estados Unidos exige al directorio una reestructuración drástica en diez días.",
+  "Los bancos cerraron 300 sucursales y 909 cajeros automáticos en el último año, una baja del 7% concentrada sobre todo en la banca privada.",
+  "El Gobierno aprobó un RIGI especial de US$ 230,75 millones para un parque eólico de Techint en Olavarría, que abastecerá a la planta de Tenaris en Campana.",
+  "El papa León XIV cerró su gira por Sudamérica con una misa ante más de un millón de personas en Lima, antes de volver a Roma.",
+  "Boca puede provocar un efecto dominó en los cupos a las copas internacionales de 2027 si gana la final de la Sudamericana ante Atlético Mineiro."
+ ],
+ "cifras": [
+  {
+   "nombre": "Cupo de proveedores locales del RIGI abierto a empresas extranjeras",
+   "valor": "20%",
+   "fuente": "IB-12"
+  },
+  {
+   "nombre": "Inversión del RIGI especial aprobado a Techint (Parque Eólico La Rinconada)",
+   "valor": "US$ 230,75 millones",
+   "fuente": "CR-18"
+  },
+  {
+   "nombre": "Sucursales bancarias cerradas en el último año",
+   "valor": "300",
+   "variacion": "-7%",
+   "fuente": "CR-12"
+  },
+  {
+   "nombre": "Contactos consultados por la Fed que ven a la IA como riesgo para la estabilidad financiera",
+   "valor": "87%",
+   "fuente": "CR-17"
+  },
+  {
+   "nombre": "Inflación proyectada por JP Morgan para la Argentina en 2027",
+   "valor": "23%",
+   "fuente": "IP-06"
+  },
+  {
+   "nombre": "Inversión de Zozzoli en su nueva planta forestal de Corrientes",
+   "valor": "US$ 20 millones",
+   "fuente": "CR-01"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "massa se mete en la negociación por las paso con los senadores del norte grande",
+     "resumen": "La Comisión de Asuntos Constitucionales del Senado fue convocada de manera sorpresiva para retomar el debate de la reforma electoral. Fuentes consultadas por El Cronista aseguran que Sergio Massa interviene en las conversaciones con los senadores que responden a los gobernadores del norte grande, quienes dicen no haber sido informados previamente de la decisión de reactivar el tratamiento del proyecto.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El gobierno bonaerense volvió a defender las PASO y ata el desdoblamiento a lo que defina el Congreso",
+       "url": "https://www.ambito.com/ambito-nacional/el-gobierno-bonaerense-volvio-defender-las-paso-y-ata-el-desdoblamiento-lo-que-defina-el-congreso-n6345532"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Ignacio Torres afirmó que “sería absurdo” estar en contra de suspender las PASO y reclamó “no dilatar” el debate",
+       "url": "https://www.infobae.com/politica/2026/11/16/ignacio-torres-afirmo-que-seria-absurdo-estar-en-contra-de-eliminar-las-paso-y-reclamo-no-dilatar-el-debate/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/paso-massa-se-mete-en-la-negociacion-con-los-senadores-que-responden-a-los-gobernadores/",
+     "imagen": "https://www.cronista.com/resizer/v2/OEGZOHQIPZCDNPS5BYVJEQS7BQ.jpg?auth=aeea1865144c72c98af8a3da34c730fd249b6d49530231607364700f259a9dd7&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:54",
+     "autor": "Amparo Beraza",
+     "titulo_original": "PASO: Massa presiona y se mete en la negociación con los senadores que responden a los gobernadores"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "ignacio torres respaldó la suspensión de las paso y pidió no dilatar el debate",
+     "resumen": "El gobernador de Chubut, Ignacio Torres, respaldó la suspensión de las PASO y reclamó que el Congreso avance con la reforma electoral antes de 2027. Sostuvo que sería incoherente oponerse a cambios similares a los que impulsó en su provincia y aclaró que su espacio, Despierta Chubut, acompañará la iniciativa sin condicionarla a negociaciones con el Gobierno.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/16/ignacio-torres-afirmo-que-seria-absurdo-estar-en-contra-de-eliminar-las-paso-y-reclamo-no-dilatar-el-debate/",
+     "imagen": "https://www.infobae.com/resizer/v2/2QS7H74Z7ZAJNPJSB2J2N7GN5E.jpg?auth=a57c1b085f55bcad8e328604e6ea05baf24014f2211b88571258915d22a1cd69&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:18",
+     "autor": "",
+     "titulo_original": "Ignacio Torres afirmó que “sería absurdo” estar en contra de suspender las PASO y reclamó “no dilatar” el debate"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "la provincia de buenos aires insiste en mantener las paso",
+     "resumen": "Mientras el Senado busca firmar dictamen para suspender las primarias de 2027, el ministro de Gobierno bonaerense, Carlos Bianco, ratificó que la provincia quiere mantenerlas. En la misma conferencia, el ministro de Economía bonaerense, Pablo López, defendió un Presupuesto 2027 que sostiene la emergencia económica provincial.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/ambito-nacional/el-gobierno-bonaerense-volvio-defender-las-paso-y-ata-el-desdoblamiento-lo-que-defina-el-congreso-n6345532",
+     "imagen": "https://media.ambito.com/p/936bf50605e5aece697f4b530c777f30/adjuntos/239/imagenes/043/772/0043772620/1200x675/smart/pablo-lopez-javier-alonso-carlos-bianco.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:45",
+     "autor": "",
+     "titulo_original": "El gobierno bonaerense volvió a defender las PASO y ata el desdoblamiento a lo que defina el Congreso"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "diputados sesiona por la ley de malvinas y la reforma del banco central",
+     "resumen": "La Cámara de Diputados sesiona desde el mediodía por pedido del jefe del bloque de La Libertad Avanza, Gabriel Bornoroni. El oficialismo busca avanzar con dos proyectos centrales para el Gobierno, mientras negocia cambios en la iniciativa sobre soberanía nacional de Malvinas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/diputados-convoco-una-sesion-especial-tratar-la-ley-malvinas-y-la-reforma-del-banco-central-n6345573",
+     "imagen": "https://media.ambito.com/p/de33621f83582805c8881e685a0fd2f9/adjuntos/239/imagenes/043/706/0043706480/1200x675/smart/sesion-diputados.JPG",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:29",
+     "autor": "",
+     "titulo_original": "Diputados convocó a una sesión especial para tratar la ley de Malvinas y la reforma del Banco Central"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "belgrano vuelve a ser motivo de pelea política entre milei y kicillof",
+     "resumen": "Después de que Javier Milei presentara a Manuel Belgrano como uno de los primeros introductores de las ideas liberales en el Río de la Plata, el gobernador bonaerense Axel Kicillof lo acusó de \"adulterar la historia\". El intendente de Tres de Febrero, Diego Valenzuela, salió a responderle en defensa de la lectura del oficialismo, tras la inauguración de una muestra sobre Belgrano en el Museo de la Casa Rosada.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/16/las-ideas-de-manuel-belgrano-desataron-otra-pelea-politica-axel-kicillof-cuestiono-al-presidente-y-diego-valenzuela-salio-al-cruce/",
+     "imagen": "https://www.infobae.com/resizer/v2/TBXVDTRW2NAWDHM24IONKHJLCI.jpg?auth=4df3aa0ce1f91208d75c57b89415570dd74ec5d675ffea81439e482ae5e6b206&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:14",
+     "autor": "",
+     "titulo_original": "Las ideas de Manuel Belgrano desataron otra pelea política: Axel Kicillof cuestionó al Presidente y Diego Valenzuela salió al cruce"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "la corte aprobó un protocolo médico para evaluar la prisión domiciliaria por salud",
+     "resumen": "El Cuerpo Médico Forense elaboró, con aval de la Corte Suprema, un protocolo que fija cómo deben hacerse los exámenes médicos a presos federales y cómo verificar si una cárcel puede brindarles el tratamiento necesario. El instrumento aclara que no define quién accede al beneficio de la prisión domiciliaria, decisión que sigue en manos de los jueces.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/prision-domiciliaria-salud-la-corte-aprobo-un-protocolo-medico-evaluar-los-presos-federales-n6345530",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:22",
+     "autor": "",
+     "titulo_original": "Prisión domiciliaria por salud: la Corte aprobó un protocolo médico para evaluar a los presos federales"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "caputo admitió que no se cumplieron los 18 mejores meses que había anunciado",
+     "resumen": "El ministro de Economía explicó que la proyección de \"los 18 mejores meses de la historia\" que hizo en abril no se cumplió por un temor del mercado a que vuelva el kirchnerismo, aunque dijo que lo considera exagerado. Sostuvo que la economía argentina se mantendrá estable en 2027 y volvió a vaticinar que Javier Milei conseguirá la reelección en primera vuelta.",
+     "relacionadas": [
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Luis Caputo: \"Entramos a 2027 más fortalecidos que nunca, espero un año más calmo de lo que muchos predicen\"",
+       "url": "https://www.ambito.com/economia/luis-caputo-entramos-2027-mas-fortalecidos-que-nunca-espero-un-ano-mas-calmo-lo-que-muchos-predicen-n6345590"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/luis-caputo-explico-llegaron-18-mejores-meses-historia-anuncio-admitio-sorprende-temor-vuelva-kircherismo_0_wlKHbqKe2G.html",
+     "imagen": "https://www.clarin.com/img/2026/11/16/Lyk0K6JDB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Luis Caputo explicó por qué no llegaron “los 18 mejores meses de la historia” que él anunció y admitió que le sorprende el temor a que vuelva el kirchnerismo"
+    },
+    {
+     "id": "AM-03",
+     "titulo": "el riesgo país retoma las subas por una nueva caída de los bonos",
+     "resumen": "Tras una mejora en el riesgo país y en los activos argentinos en las últimas ruedas, durante las primeras operaciones de este lunes la tendencia vuelve a ser negativa. El panel de mercados ubica al indicador en 830 puntos básicos.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/el-riesgo-pais-retoma-las-subas-una-nueva-caida-los-bonos-dolares-n6345672",
+     "imagen": "https://media.ambito.com/p/e29a9dc3d862f94c32e08ca96a2c1304/adjuntos/239/imagenes/043/716/0043716702/1200x675/smart/argentina-riesgo-pais-bonos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:48",
+     "autor": "",
+     "titulo_original": "El riesgo país retoma las subas ante una nueva caída de los bonos en dólares"
+    },
+    {
+     "id": "AM-07",
+     "titulo": "el dólar extiende las subas mientras el mercado mira la brecha cambiaria",
+     "resumen": "El tipo de cambio mayorista había registrado su primera baja semanal en un mes, mientras el informal alcanzó máximos nominales. Los inversores siguen de cerca las compras de dólares del Banco Central, los movimientos de los dólares financieros y la evolución del riesgo país.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-la-lupa-la-brecha-cambiaria-la-suba-del-blue-y-la-baja-del-oficial-n6345542",
+     "imagen": "https://media.ambito.com/p/136394f82bd75150d2496967b86dd991/adjuntos/239/imagenes/043/560/0043560256/1200x675/2322x1480:2342x1500/dolar-blue.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:23",
+     "autor": "",
+     "titulo_original": "El dólar extiende las subas, mientras el mercado pone la lupa en la brecha cambiaria"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "jp morgan alerta por el dólar y proyecta una inflación del 23% para 2027",
+     "resumen": "Analistas de JP Morgan ven riesgos de volatilidad financiera y advierten que la incertidumbre política podría presionar los precios al alza. El banco ubicó la volatilidad cambiaria electoral como el principal obstáculo para sostener la desinflación, después de que la inflación de octubre, de 2,2% mensual, superara lo esperado por el mercado.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El pronóstico de J.P. Morgan para la Argentina en 2027: inflación en torno a 2% y más presión sobre el dólar",
+       "url": "https://www.ambito.com/economia/el-pronostico-jp-morgan-la-argentina-2027-inflacion-torno-2-y-mas-presion-el-dolar-n6345584"
+      },
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "La inflación sorprendió en octubre y JP Morgan ya identifica el principal riesgo para 2027",
+       "url": "https://www.cronista.com/finanzas-mercados/la-inflacion-sorprendio-en-octubre-y-jp-morgan-ya-identifica-el-principal-riesgo-para-2027/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/economia/469223-inflacion-y-dolar-las-proyecciones-de-jp-morgan-para-argentina-en-2027",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/06/598890.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:58",
+     "autor": "",
+     "titulo_original": "JP Morgan alerta por el dólar y proyecta una inflación del 23% para 2027"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "melconian: el gobierno pateó el hormiguero y ahora está colgado del travesaño",
+     "resumen": "El economista Carlos Melconian reconoció que el Gobierno de Javier Milei logró frenar la dinámica económica que heredó, pero advirtió que el programa enfrenta un límite y cuestionó la falta de definiciones sobre la siguiente etapa. \"Se consolida la idea de una transición que incluyó patear el hormiguero y ahora están colgados del travesaño\", dijo en el ciclo Infobae a las Nueve. Para una empresa: la falta de un rumbo claro sobre crédito y productividad mantiene la cautela a la hora de planificar inversiones de mediano plazo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/469155-nueva-carrera-corta-para-formarse-en-energia-nuclear-donde-se-dara-y-cuando-arranca",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/01/548631.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:44",
+     "autor": "",
+     "titulo_original": "Nueva carrera corta para formarse en Energía Nuclear: dónde se dará y fecha de inicio"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "moody's prevé bancos globales estables en 2027, pero advierte por las tasas altas",
+     "resumen": "La calificadora mantuvo una perspectiva estable para los bancos a nivel global durante 2027, apoyada en el crecimiento económico y la moderación de la inflación. Sin embargo, advirtió que el impacto retrasado de las tasas de interés elevadas sobre empresas y hogares todavía puede golpear la calidad de los activos bancarios.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/moodys-anticipa-que-puede-pasar-con-los-bancos-en-2027-alerta-por-un-riesgo/",
+     "imagen": "https://www.cronista.com/resizer/v2/I4PTHCXDTNCFPPK6VZ625A7FYY.jpg?auth=d138d13df23b4d90977811f88c9d8009a2f6caa9b62fa6c302345dddaa8504b1&smart=true&width=826&height=469",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:55",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Moody’s anticipa qué pasará con los bancos en 2027: advierte por un riesgo para el crédito"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "los bancos cerraron 300 sucursales y casi mil cajeros en el último año",
+     "resumen": "Según estadísticas del Banco Central, entre agosto de 2025 y agosto de 2026 las sucursales bajaron de 4.208 a 3.908, una merma del 7%, mientras los cajeros automáticos cayeron 5%, de 18.505 a 17.596. El analista Andrés Méndez señaló que el 73% de los cierres en los últimos 12 meses corresponde a bancos privados. Para una empresa: menos sucursales y cajeros implica depender cada vez más de canales digitales para cobros y pagos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/bancos-cerraron-300-sucursales-cuantos-cajeros-menos-hay-y-que-hay-detras-de-la-tendencia/",
+     "imagen": "https://www.cronista.com/resizer/v2/IARMS36V2VACFFIGIYJRW7JR7I.png?auth=0b64a66ecb4aad1897788fbcc70719b5afff7a34f0234dd099957f9b10b50a5d&smart=true&width=508&height=288",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:32",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Bancos cerraron 300 sucursales: cuántos cajeros menos hay y qué hay detrás de la tendencia"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-12",
+     "titulo": "el gobierno modificó el rigi: ya no se exige mayoría de capital argentino",
+     "resumen": "El Gobierno introdujo cambios en el Régimen de Incentivo para Grandes Inversiones que permiten a empresas de capital extranjero constituidas en el país competir por el cupo mínimo del 20% de contratación de proveedores locales. La medida, formalizada por el Decreto 1366/2026 publicado en el Boletín Oficial, elimina el requisito de participación mayoritaria de accionistas argentinos y también ajusta plazos de ejecución, reorganizaciones societarias y el ingreso de divisas.",
+     "relacionadas": [
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cambio clave en el RIGI: para ser proveedor local ya no hay que ser argentino",
+       "url": "https://www.iprofesional.com/impuestos/469219-rigi-cambio-clave-proveedor-local-no-tiene-que-ser-argentino"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/16/el-gobierno-modifico-el-rigi-las-empresas-extranjeras-podran-competir-por-el-cupo-de-proveedores-locales/",
+     "imagen": "https://www.infobae.com/resizer/v2/EHZ3WNP6E5F6NEF2JS534TIBO4.jpg?auth=2c79fb56d66559ab156ddfab3bce9474d674d29c92fd4602cb77fcfa293a366c&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:29",
+     "autor": "",
+     "titulo_original": "El Gobierno modificó el RIGI: las empresas extranjeras podrán competir por el cupo de proveedores locales"
+    },
+    {
+     "id": "CR-18",
+     "titulo": "techint consiguió un rigi especial de us$ 230 millones para un parque eólico",
+     "resumen": "El Gobierno aprobó el ingreso al RIGI del Parque Eólico La Rinconada, que el Grupo Techint desarrolla en Olavarría con una inversión total de US$ 230,75 millones. La Resolución 1983/2026, firmada por Luis Caputo, habilita un proyecto de 94,5 megavatios de potencia que abastecerá principalmente a Siderca, la planta de tubos sin costura de Tenaris en Campana.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-gobierno-le-aprobo-un-rigi-especial-a-techint-por-us-230-millones-que-la-hace-volar/",
+     "imagen": "https://www.cronista.com/resizer/v2/VLB3C2NCJVC33KLSEIXWBT7HPY.jpg?auth=5df874729d49a6d64db7e4ad3d74013335e6c723196728a2bbe0c1d940b202c1&smart=true&width=468&height=206",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:42",
+     "autor": "Equipo Negocios",
+     "titulo_original": "El Gobierno le aprobó un RIGI especial a Techint por u$s 230 millones que la hace “volar”"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "molinos río de la plata compró la marca de galletitas tía maruca",
+     "resumen": "La compañía suma a su cartera una marca muy conocida en el mercado local de galletitas. La operación avanza en el desarrollo del negocio de galletas de Molinos, tras la reciente incorporación de un complejo industrial en Tucumán.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/negocios/molinos-rio-la-plata-acordo-la-compra-la-marca-galletitas-tia-maruca-n6345623",
+     "imagen": "https://media.ambito.com/p/430a63a6c1bb586c271709e199a6b189/adjuntos/239/imagenes/043/772/0043772560/1200x675/smart/tia-maruca.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:53",
+     "autor": "",
+     "titulo_original": "Molinos Río de la Plata acordó la compra de la marca de galletitas Tía Maruca"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "la empresa de los colchones maxiking entró al negocio forestal en corrientes",
+     "resumen": "La empresa familiar Zozzoli, fabricante de los colchones Maxiking y los muebles Máximo, inauguró en Santo Tomé, Corrientes, una planta de procesamiento de madera con una inversión de US$ 20 millones. El complejo procesará hasta 500 toneladas diarias y destinará el 100% de su producción, unos 100 contenedores mensuales, a la exportación a Estados Unidos y Europa.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/una-empresa-familiar-colchonera-entra-a-competir-en-el-negocio-forestal-con-una-inversion-millonaria/",
+     "imagen": "https://www.cronista.com/resizer/v2/CWCV6AGKFNHSTDOFLN335ONRBQ.jpg?auth=d75e34c6af2ff1706b26367d779585890064cb7cb6a5884bf424a889c8f20c00&smart=true&width=900&height=469",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:10",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Una empresa familiar “colchonera” entra a competir en el negocio forestal con una inversión millonaria"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "un fabricante de productos para samsung en argentina cuestionó la apertura importadora",
+     "resumen": "Alejandro Schvartz, dueño de Visuar, una de las empresas que fabrica en el país productos para Samsung, cuestionó el rumbo de la política industrial y dijo que desarmar el entramado productivo local no es necesario para lograr precios más competitivos. \"Romper la industria en estos términos no tiene ni pies ni cabeza, es una política boba\", afirmó, y sostuvo que la diferencia de costos entre fabricar en el país o importar de China es menor de lo que suele plantearse.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/16/alejandro-schvartz-uno-de-los-fabricantes-de-samsung-romper-la-industria-no-tiene-ni-pies-ni-cabeza-es-una-politica-boba/",
+     "imagen": "https://www.infobae.com/resizer/v2/O4SEOQTRGJBFXJ6ZXSPMOMB3CM.png?auth=91190c900e82c9531ed00f17c761f685b7301b631c65315b0a2b24c57e62694d&smart=true&width=900&height=626",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:18",
+     "autor": "",
+     "titulo_original": "Alejandro Schvartz, uno de los fabricantes de Samsung: “Romper la industria no tiene ni pies ni cabeza, es una política boba”"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "jensen huang evalúa volver a nvidia como ceo",
+     "resumen": "Jensen Huang analiza regresar a Nvidia mientras sus aliados en Silicon Valley presionan a la junta directiva para que lo restituya, después de haber renunciado tras conocerse sus vínculos sentimentales con una presunta espía china. Una campaña impulsada por Elon Musk y otros empresarios tecnológicos reunió más de 136.000 adhesiones a favor de su vuelta, mientras el secretario del Tesoro, Scott Bessent, exigió al directorio una reestructuración \"drástica\" y respuestas en diez días sobre si la compañía ignoró señales de alerta en el desvío de chips a China. La destitución de Huang puso bajo la lupa una red que conectaba chips avanzados con compradores chinos a través de Malasia, Singapur e Indonesia; China representó US$ 12.400 millones de los ingresos de Nvidia en los seis meses hasta julio, el 7% de su facturación global.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Scott Bessent pidió una reestructuración \"drástica\" en Nvidia y la elección de un nuevo CEO genera controversia",
+       "url": "https://www.ambito.com/finanzas/scott-bessent-pidio-una-reestructuracion-drastica-nvidia-y-la-eleccion-un-nuevo-ceo-genera-controversia-n6345632"
+      },
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "¿Vuelve Jensen Huang a Nvidia? la campaña de Elon Musk y otros empresarios tecnológicos para el regreso del CEO",
+       "url": "https://www.ambito.com/negocios/vuelve-jensen-huang-nvidia-la-campana-elon-musk-y-otros-empresarios-tecnologicos-el-regreso-del-ceo-n6345630"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La caída del CEO de Nvidia, la red de chips del sudeste asiático y los millones que llegaron a China pese a las sanciones",
+       "url": "https://www.infobae.com/america/mundo/2026/11/16/la-caida-del-ceo-de-nvidia-la-red-de-chips-del-sudeste-asiatico-y-los-millones-que-llegaron-a-china-pese-a-las-sanciones/"
+      }
+     ],
+     "url": "https://www.cronista.com/financial-times/jensen-huang-analiza-volver-a-nvidia-que-hay-detras-de-su-posible-regreso-como-ceo/",
+     "imagen": "https://www.cronista.com/resizer/v2/E7TLOZE7ERBM5GI3ES2UKEOBLQ.jpg?auth=ae8e730cf6e247eb0d81aeb655430540db40cbd3ebc9bb416bd7addacd8df3d8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:18",
+     "autor": "Michael Acton, George Hammond, Demetri Sevastopulo",
+     "titulo_original": "Jensen Huang analiza volver a Nvidia: qué hay detrás de su posible regreso como CEO"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-25",
+     "titulo": "suben las retenciones de ingresos brutos sobre tarjetas y mercado pago en caba",
+     "resumen": "La Ciudad de Buenos Aires modificó el régimen de retención de Ingresos Brutos para los cobros realizados con tarjetas y billeteras virtuales como Mercado Pago, con alícuotas más altas. Para una empresa con ventas en CABA: el ajuste encarece el costo financiero de aceptar medios de pago electrónicos y conviene revisar el impacto en el flujo de caja.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/469202-aumentan-retenciones-tarjetas-y-mercado-pago-caba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/629850.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:47",
+     "autor": "",
+     "titulo_original": "Aaumentan retenciones de Ingresos Brutos sobre tarjetas y Mercado Pago en CABA"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "anses definió el calendario de pagos de diciembre para jubilados y pensionados",
+     "resumen": "ANSES ya tiene fijadas las fechas de cobro de diciembre de 2026 para jubilados y pensionados. El organismo aplicará un aumento del 2,2% y pagará el aguinaldo junto con los nuevos haberes.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/469066-anses-calendario-de-pagos-diciembre-2026-para-jubilados-y-pensionados",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629733.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:20",
+     "autor": "",
+     "titulo_original": "ANSES ya definió el calendario de pagos de diciembre de 2026 para jubilados y pensionados"
+    },
+    {
+     "id": "IP-22",
+     "titulo": "nuevos básicos de noviembre para los trabajadores de carga y descarga",
+     "resumen": "El convenio colectivo 508/07 fija nuevos salarios básicos para operarios, administrativos y conductores del sector de carga y descarga correspondientes a noviembre. La categoría más alta llega a $ 2.663.847 mensuales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/469118-carga-y-descarga-los-sueldos-de-noviembre-superan-los-26-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629786.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:20",
+     "autor": "",
+     "titulo_original": "El monto que cobran los empleados de carga y descarga en noviembre"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "biodiésel: la discusión en diputados sobre si el 10% debe ser el techo",
+     "resumen": "En la Cámara de Diputados se debate un nuevo marco regulatorio para los biocombustibles, que ya tiene media sanción del Senado pero generó discusiones que retrasan su aprobación. El proyecto fija el porcentaje de corte obligatorio de biodiésel en las naftas y el gasoil, una definición que impacta directamente en el costo de los combustibles para el transporte y la logística de las empresas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/biodiesel-por-que-el-10-deberia-ser-el-techo-nid16112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KI37X7X25VAURBGZNZE7WTAYAI.jpg?auth=b59eed95463b18cd47e97ae89017927776eb291bce492f361a7f4df2d57f03e0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:30",
+     "autor": "Víctor Bronstein",
+     "titulo_original": "Biodiésel: por qué el 10% debería ser el techo"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-13",
+     "titulo": "más de 70 shoppings lanzan descuentos de hasta el 50% por tres días",
+     "resumen": "Una nueva campaña de promociones llegará a centros comerciales de todo el país, con descuentos de hasta el 50% durante tres días. Para una empresa de retail: este tipo de campañas conjuntas suele traccionar el tráfico en locales físicos en un contexto de consumo todavía exigido.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468992-mas-de-70-shoppings-lanzan-descuentos-de-hasta-50-por-tres-dias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627831.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Más de 70 shoppings lanzan descuentos de hasta 50% por tres días"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "llega a la argentina una nueva cadena internacional de origen chino",
+     "resumen": "La firma prepara sus primeras tiendas en shoppings del Amba y proyecta expandirse al interior del país mediante franquicias. El desembarco se suma a una serie de aperturas de cadenas extranjeras en los centros comerciales argentinos en los últimos meses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468657-llega-a-argentina-una-nueva-cadena-internacional-que-vendera",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629384.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:30",
+     "autor": "",
+     "titulo_original": "Llega a Argentina una nueva cadena internacional: qué venderá"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "farmacity redobla la apuesta por las marcas propias y ya trabaja con 80 pymes",
+     "resumen": "Farmacity lanzó Rileé, su primera marca propia de dermocosmética, y ya trabaja con 80 pymes argentinas para producir sus líneas propias. La cadena compite así en un mercado donde las marcas propias ganan espacio frente a las de fabricantes tradicionales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/469215-farmacity-lanza-su-marca-de-dermocosmetica-y-trabaja-con-80-pymes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629854.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:38",
+     "autor": "",
+     "titulo_original": "Farmacity sube la apuesta por las marcas propias y ya trabaja con 80 pymes argentinas"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "una cadena de ropa uruguaya abre dos locales y prepara más aperturas",
+     "resumen": "La cadena de indumentaria de origen uruguayo amplía su presencia en la Argentina con nuevas tiendas en un shopping y en una zona céntrica, con regalos especiales por las inauguraciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/469019-una-famosa-marca-de-ropa-abre-dos-locales-y-prepara-mas-aperturas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612253.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:20",
+     "autor": "",
+     "titulo_original": "Una famosa marca de ropa abre dos locales y prepara más aperturas"
+    },
+    {
+     "id": "CR-02",
+     "titulo": "howard johnson y days inn aceleran su expansión hotelera en la argentina",
+     "resumen": "El Grupo Hotelero Albamonte, propietario de las cadenas Howard Johnson y Days Inn, ya cuenta con 42 hoteles en el país y apunta a llegar a 80 en los próximos años. Durante 2026 inauguró tres establecimientos, en Sierra de la Ventana, Bahía Blanca y Chacras de Coria, en Mendoza, y proyecta otras 17 aperturas, con foco tanto en turismo como en el segmento corporativo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/howard-johnson-days-inn-aceleran-su-expansion-en-argentina-abrio-tres-hoteles-y-proyecta-otros-17/",
+     "imagen": "https://www.cronista.com/resizer/v2/RYYD526ZMBHCVPMNSSIZTYWEJY.jpg?auth=c218c51c706a33bf510880aa04ed8db5de9cf7971d403c0c138803d2015e001d&smart=true&width=900&height=636",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "12:07",
+     "autor": "Equipo de IA",
+     "titulo_original": "Howard Johnson & Days Inn aceleran su expansión en Argentina: abrió tres hoteles y proyecta otros 17"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-26",
+     "titulo": "los fundadores de tiendanube fueron elegidos emprendedores endeavor del año",
+     "resumen": "En la Gala Endeavor 2026, Santiago Sosa, Alejandro Vázquez y Martín Palombo, fundadores de la plataforma de comercio electrónico Tiendanube, recibieron el premio a Emprendedores Endeavor del Año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/469203-los-fundadores-de-tiendanube-fueron-elegidos-emprendedores-endeavor-del-ano",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629848.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "07:46",
+     "autor": "",
+     "titulo_original": "Los fundadores de Tiendanube fueron elegidos \"Emprendedores Endeavor del Año\""
+    },
+    {
+     "id": "IP-14",
+     "titulo": "byfy, el modelo de movilidad creado en argentina que desafía a las multinacionales",
+     "resumen": "ByFy es una plataforma de movilidad creada en el país que, según sus fundadores, da más poder de decisión a conductores y pasajeros frente al modelo de las multinacionales del sector. Ya suma más de 20.000 usuarios y prepara una ronda de inversión semilla.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/468950-el-modelo-de-movilidad-que-desafia-a-las-multinacionales-byfy-invierte-la-ecuacion-y-busc",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629855.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:59",
+     "autor": "",
+     "titulo_original": "Cómo funciona ByFy, el modelo de movilidad que desafía a las multinacionales"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-09",
+     "titulo": "trump confirmó que se reunirá con xi jinping y putin en una cumbre histórica",
+     "resumen": "Donald Trump confirmó que se reunirá con Xi Jinping y con Vladimir Putin durante su gira por Asia y dijo que también podría reunirse con Kim Jong-un. El mandatario parte hacia Filipinas y luego llegará a Shenzhen para la cumbre de APEC, donde Xi Jinping recibirá a Trump y a Putin en el primer encuentro cara a cara de la historia entre jefes de Estado de China, Rusia y Estados Unidos, con las armas nucleares de las tres potencias sobre la mesa.",
+     "relacionadas": [
+      {
+       "id": "CL-09",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Cumbre de Shenzhen: el primer encuentro cara a cara en la historia entre jefes de Estado de China, Rusia y EE.UU. pondrá las armas nucleares sobre la mesa",
+       "url": "https://www.clarin.com/mundo/cumbre-shenzhen-primer-encuentro-cara-cara-historia-jefes-estado-china-rusia-eeuu-pondra-armas-nucleares-mesa_0_w6o92c6aNl.html"
+      }
+     ],
+     "url": "https://www.infobae.com/estados-unidos/2026/11/16/donald-trump-confirmo-que-se-encontrara-con-xi-jinping-y-putin-y-agrego-tal-vez-me-reuna-con-kim-jong-un-tambien/",
+     "imagen": "https://www.infobae.com/resizer/v2/LVXLEVKQHJA4ZNE6XVHNEY5UEI.JPG?auth=792a781807387df69009c972a36123841777ff592e234bb0d92ac2de6f2258c9&smart=true&width=900&height=583",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:08",
+     "autor": "",
+     "titulo_original": "Donald Trump confirmó que se encontrará con Xi Jinping y Putin y agregó: “Tal vez me reúna con Kim Jong-un también”"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "estados unidos recupera lentamente la normalidad en el tráfico aéreo",
+     "resumen": "El tráfico aéreo estadounidense se normaliza de a poco tras varios días de caos por una falla en las actualizaciones de los sistemas de control aéreo. Solo el lunes se cancelaron 276 vuelos, y el secretario de Transporte defendió su gestión ante las críticas demócratas mientras pide al Congreso más fondos para modernizar el sistema.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/eeuu-recupera-lentamente-la-normalidad-en-el-trafico-aereo_0_NiaMoAtVF0.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "EEUU recupera lentamente la normalidad en el tráfico aéreo"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "lleva tres años varada en las islas cook por un problema con su visa",
+     "resumen": "Ruchira Ranasingha, ciudadana de Sri Lanka de 50 años, lleva tres años varada en las Islas Cook, en el Pacífico Sur, sin poder volver a su país. Nueva Zelanda y Australia le niegan los permisos de tránsito para volar a casa, y los destinos alternativos exigen trámites que solo pueden completarse en suelo neozelandés, según publicó la BBC.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/16/vive-en-un-paraiso-del-pacifico-pero-no-puede-salir-la-historia-de-una-mujer-atrapada-por-un-problema-con-su-visa/",
+     "imagen": "https://www.infobae.com/resizer/v2/B23CIPZWAVGYHA2K3QRNPY5UD4.png?auth=99994461ffdfa0c9c9bbda64836831895896c48084c3b7234e23a32500db9778&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:39",
+     "autor": "Ismael Yasnikowski",
+     "titulo_original": "Vive en un paraíso del Pacífico, pero no puede salir: la historia de una mujer atrapada por un problema con su visa"
+    },
+    {
+     "id": "CL-04",
+     "titulo": "un congresista demócrata denuncia que el 90% de los arrestos migratorios afectan a latinos",
+     "resumen": "El legislador demócrata Ro Khanna critica que la mayoría de las detenciones del ICE afectan a familias latinas y reclama reformas migratorias urgentes y un camino a la ciudadanía. En un caso concreto, un estudiante ecuatoriano de 23 años, a un semestre de graduarse en Ingeniería Química en la Universidad de Florida, fue detenido por el ICE en el aeropuerto de Atlanta cuando volvía de una entrevista laboral; su audiencia de fianza está prevista para el viernes 20 de noviembre.",
+     "relacionadas": [
+      {
+       "id": "LN-04",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Es ecuatoriano, le falta un semestre para graduarse y volvía de una entrevista laboral, pero el ICE lo detuvo en Atlanta",
+       "url": "https://www.lanacion.com.ar/estados-unidos/florida/es-ecuatoriano-le-falta-un-semestre-de-graduarse-y-volvia-de-una-entrevista-laboral-pero-el-ice-lo-nid16112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/estados-unidos/el-90-de-arrestos-migratorios-afectan-a-latinos-afirma-congresista-democrata_0_2DjUSvhTUn.html",
+     "imagen": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:10",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "\"El 90% de arrestos migratorios afectan a latinos\" afirma congresista demócrata"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "león xiv cerró su gira por sudamérica con una misa multitudinaria en lima",
+     "resumen": "El Papa concluyó un recorrido de once días por Uruguay, la Argentina y Perú, donde visitó diez ciudades y mantuvo encuentros con fieles y distintas comunidades. En su última jornada en el Callao recibió una camiseta de Sport Boys con su nombre y se sumó espontáneamente a la tradicional arenga chalaca \"¡Chimpún! ¡Callao!\", antes de oficiar una misa ante más de un millón de personas en la Base Aérea Las Palmas y emprender el regreso a Roma, previsto para el martes por la mañana.",
+     "relacionadas": [
+      {
+       "id": "IB-01",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "“¡Chimpún! ¡Callao!”: el papa León XIV se suma a la tradicional arenga chalaca y emociona a los fieles",
+       "url": "https://www.infobae.com/peru/2026/11/16/chimpun-callao-el-papa-leon-xiv-se-suma-a-la-tradicional-arenga-chalaca-y-emociona-a-los-fieles/"
+      },
+      {
+       "id": "IB-04",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Papa León XIV recibió la camiseta de Sport Boys con su nombre: así fue el especial momento en su visita al Callao",
+       "url": "https://www.infobae.com/peru/deportes/2026/11/16/papa-leon-xiv-recibio-la-camiseta-de-sport-boys-con-su-nombre-asi-fue-el-especial-momento-en-su-visita-al-callao/"
+      },
+      {
+       "id": "IB-07",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Último día del Papa León XIV en Perú EN VIVO: Santo Padre oficiará misa en Las Palmas antes más de un millón de personas",
+       "url": "https://www.infobae.com/peru/2026/11/16/ultimo-dia-del-papa-leon-xiv-en-peru-en-vivo-misa-en-las-palmas-y-el-adios-a-sus-fieles-antes-de-regresar-al-vaticano/"
+      }
+     ],
+     "url": "https://www.ambito.com/informacion-general/leon-xiv-cierra-su-gira-sudamerica-una-misa-multitudinaria-lima-n6345647",
+     "imagen": "https://media.ambito.com/p/e5eca08bee5f8db5c37c29708981e7d3/adjuntos/239/imagenes/043/768/0043768460/leon-xiv.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:43",
+     "autor": "",
+     "titulo_original": "León XIV cierra su gira por Sudamérica con una misa multitudinaria en Lima"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "kiev despliega una cúpula de guerra electrónica para defenderse de los drones rusos",
+     "resumen": "Ucrania completó un ambicioso proyecto para construir una \"cúpula\" sobre Kiev con el objetivo de combatir los drones Shahed rusos, guiados a distancia mediante una red en malla que permite a los operadores buscar objetivos desde Rusia. El asesor de Zelenski, Serhii Beskrestnov, anunció que en pocas semanas se instalaron antenas y equipos de interferencia en varios cientos de emplazamientos de la capital ucraniana. Le Grand Continent señala que esta tecnología de redes en malla, que Moscú viene implementando desde 2024, conecta varios drones entre sí para que cada uno actúe a la vez como receptor y como repetidor de la señal.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/16/para-defenderse-de-drones-rusos-kiev-despliega-cupula-de-guerra-electronica/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:06",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Para defenderse de los drones rusos, Kiev despliega una «cúpula de guerra electrónica»"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-17",
+     "titulo": "la selección argentina cambió su cronograma antes de jugar con costa rica en córdoba",
+     "resumen": "Las condiciones climáticas previstas en Córdoba obligaron a Lionel Scaloni a modificar la planificación del equipo. La delegación permanecerá en Ezeiza hasta el martes, cuando viajará por la mañana para enfrentar a Costa Rica a las 20 en el estadio Mario Alberto Kempes.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/la-seleccion-argentina-cambio-su-cronograma-y-viajara-cordoba-el-mismo-dia-del-partido-n6345596",
+     "imagen": "https://media.ambito.com/p/8d10093c628ce4ab42ab627ea7d45c71/adjuntos/239/imagenes/043/772/0043772339/1200x675/smart/seleccion-argtenitna.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:53",
+     "autor": "",
+     "titulo_original": "La Selección Argentina cambió su cronograma y viajará a Córdoba el mismo día del partido"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "lionel messi recibirá en miami un trofeo gigante de plata por su trayectoria",
+     "resumen": "La Organización Mundial por la Paz entregará una distinción especial al capitán argentino. La obra fue construida en Italia y busca transmitir un mensaje de paz a través del fútbol.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/lionel-messi-recibira-miami-un-trofeo-gigante-plata-reconocimiento-su-trayectoria-n6345634",
+     "imagen": "https://media.ambito.com/p/2b289c8e5242b2e0225ec8e6f97f9935/adjuntos/239/imagenes/043/689/0043689652/messi-despedida.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:06",
+     "autor": "",
+     "titulo_original": "Lionel Messi recibirá en Miami un trofeo gigante de plata en reconocimiento a su trayectoria"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "romelu lukaku anunció que se retira de la selección de bélgica",
+     "resumen": "El delantero vistió durante 16 años la camiseta de los Diablos Rojos y es el máximo goleador histórico del equipo, con cuatro Copas del Mundo y tres Eurocopas disputadas. El actual jugador del Fenerbahçe, de 33 años, explicó que llegó al punto final en el momento ideal, tras su última convocatoria.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/romelu-lukaku-anuncio-que-se-retira-de-la-seleccion-de-belgica-nid16112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/I6DDMIZKIBC2NC2ZNN5R7XLE5Y.jpg?auth=cad0176ff91f012c20f3728e9619a6d85874fc265da8839bebfd6e365ad5fe40&smart=true&width=900&height=599",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:25",
+     "autor": "",
+     "titulo_original": "Romelu Lukaku anunció que se retira de la selección de Bélgica"
+    },
+    {
+     "id": "AM-20",
+     "titulo": "boca puede cambiar el destino de siete equipos argentinos en la sudamericana",
+     "resumen": "Si Boca derrota a Atlético Mineiro en la final de la Copa Sudamericana en Barranquilla, provocará un efecto dominó en la clasificación a las copas internacionales de 2027: Argentinos Juniors pasaría directamente a la fase de grupos de la Libertadores, Independiente Rivadavia avanzaría a la fase previa y Platense aseguraría un lugar, mientras Gimnasia, Estudiantes, Barracas Central e Independiente también siguen atentos a las combinaciones.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/boca-puede-cambiar-el-destino-siete-equipos-argentinos-como-impactaria-su-titulo-la-sudamericana-los-cupos-2027-n6345561",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:40",
+     "autor": "",
+     "titulo_original": "Boca puede cambiar el destino de siete equipos argentinos: cómo impactaría su título en la Sudamericana en los cupos para 2027"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "chiqui tapia respondió a las versiones sobre el fbi y el conflicto por los derechos de la afa",
+     "resumen": "En medio de versiones sobre causas judiciales en el exterior, el presidente de la AFA, Claudio Tapia, respondió a los cuestionamientos y presentó su postura sobre negociaciones clave vinculadas a los derechos de televisación del fútbol argentino.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/469212-tapia-fbi-pelea-millonaria-sacuden-futbol-argentino-pusieron-alerta-clubes",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/613304.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:33",
+     "autor": "",
+     "titulo_original": "Chiqui Tapia respondió a las versiones sobre el FBI y explicó el conflicto por los derechos de AFA"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "feroz cruce entre carinelli y ochoa que sacudió al turismo carretera",
+     "resumen": "Una maniobra durante la clasificación del sábado dejó fuera de competencia al Toyota Camry del piloto rionegrino Carinelli y desató un enfrentamiento con Ochoa que continuó el domingo en boxes. Hubo reproches, intervención familiar y tuvo que participar Omar \"Gurí\" Martínez para separar a los protagonistas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/te-vas-matar-y-vas-matar-uno-el-feroz-cruce-carinelli-y-ochoa-que-sacudio-al-turismo-carretera-n6345549",
+     "imagen": "https://media.ambito.com/p/c0cabf308a8a90d14d89aaaf37d3740a/adjuntos/239/imagenes/043/772/0043772273/1200x675/smart/tc-pelea-carinelli-ochoa.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "08:40",
+     "autor": "",
+     "titulo_original": "\"Te vas a matar y vas a matar a uno\", el feroz cruce entre Carinelli y Ochoa que sacudió al Turismo Carretera"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "stephen thompson se retiró de la ufc con un nocaut por patada giratoria",
+     "resumen": "A sus 43 años, Stephen \"Wonderboy\" Thompson cerró su trayectoria en las artes marciales mixtas derrotando por nocaut técnico a Charles Radtke en el tercer asalto del UFC 334, en el Madison Square Garden. La patada giratoria a la cabeza con la que coronó su última presentación le valió además un bono de 100.000 dólares por Actuación de la Noche.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/16/la-espectacular-patada-giratoria-de-un-luchador-para-ganar-por-nocaut-el-dia-de-su-retiro-de-ufc-el-gesto-que-tuvo-con-su-rival-tras-la-pelea/",
+     "imagen": "https://www.infobae.com/resizer/v2/RCG4X3EZRRBJ5BVO5LWQHEJPPA.jpg?auth=44fd5b654dacfa744d9696d07e19d7efb1c11d9adea7858a6d192ddcef6fbd1a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:24",
+     "autor": "",
+     "titulo_original": "La espectacular patada giratoria de un luchador para ganar por nocaut el día de su retiro de UFC: el gesto que tuvo con su rival tras la pelea"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "buscan voluntarios para vivir en mar del plata a cambio de trabajo en un hostel",
+     "resumen": "Una convocatoria publicada en la plataforma internacional Worldpackers busca voluntarios para alojarse en un hostel de Mar del Plata durante la temporada de verano. La propuesta ofrece hospedaje y desayuno a cambio de colaborar 20 horas semanales en tareas como la limpieza y el orden de las habitaciones y los espacios comunes de uno de los destinos más elegidos de la Costa Atlántica.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/buscan-voluntarios-para-vivir-en-mar-del-plata-ofrecen-alojamiento-durante-el-verano-a-cambio-de-20-horas-semanales/",
+     "imagen": "https://www.cronista.com/resizer/v2/I4BCAZLKHFCLVKPRMHSUEIHJCI.jpg?auth=768b727fa30c97e2c873e97c30b7e48eca1c682166f790dedce60e0cf403d65f&smart=true&width=900&height=502",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:53",
+     "autor": "Florencia Ojeda",
+     "titulo_original": "Buscan voluntarios para vivir en Mar del Plata: ofrecen alojamiento durante el verano a cambio de 20 horas semanales"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "el destino que una revista de viajes recomienda no visitar en 2027",
+     "resumen": "La guía internacional Fodor's Travel publicó una lista de ocho lugares que desaconseja visitar en 2027 por el exceso de turistas, encabezada por la Riviera albanesa, con paisajes comparables a los de Maldivas o Grecia. La iniciativa busca promover un turismo más responsable, ya que el flujo desmedido de visitantes afecta los ecosistemas y la calidad de vida de los residentes locales.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/este-es-el-destino-turistico-que-recomiendan-no-visitar-bajo-ningun-punto-de-vista-y-el-motivo-por-nid15112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4UJ2BX5BYZBRHPTHABKVSVEGCI.jpg?auth=53b7e55158c50bd13c678533ae0bf45bcdb7ec26a18a67ae434486bda74731e5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:52",
+     "autor": "",
+     "titulo_original": "Este es el destino turístico que recomiendan no visitar bajo ningún punto de vista y el motivo por el que está “prohibido”"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-01",
+     "titulo": "se aproxima un ciclón que dejará lluvias intensas en gran parte del país",
+     "resumen": "Las precipitaciones se repetirán entre este lunes y el viernes, con picos de más de 180 milímetros y cercanos a los 200 milímetros en el noreste. La inestabilidad alcanzará al norte patagónico, Cuyo y amplios sectores del centro y norte del país, con la mayor preocupación puesta en el NEA y el Litoral, donde las nuevas lluvias podrían complicar a las poblaciones cercanas al Paraná, con suelos ya saturados.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproxima-un-ciclon-que-aumentara-la-frecuencia-de-lluvias-y-tormentas-con-picos-de-mas-de-180-nid16112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/6PMX5U4GHVCTLEWWDRJEPFMUXQ.jpeg?auth=192219f6fdcc43686552d320a1b04e841b9185c752c1fa492017b4bc6c853aa6&smart=true&width=675&height=441",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:06",
+     "autor": "",
+     "titulo_original": "Se aproxima un ciclón que aumentará la frecuencia de lluvias y tormentas, con picos de más de 180 milímetros: las zonas afectadas"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "el río paraná superó el nivel de evacuación en santa fe",
+     "resumen": "La combinación de lluvias abundantes, temperaturas en ascenso y agua acumulada, asociada al fenómeno de El Niño, encendió además una advertencia por el riesgo de un nuevo brote de dengue. Especialistas pusieron el foco en el mosquito Aedes aegypti y en los recipientes domésticos que pueden convertirse en criaderos, e insistieron en la prevención temprana de picaduras y síntomas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-en-vivo-el-rio-parana-sigue-creciendo-y-supero-el-nivel-de-evacuacion-nid16112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RBYLIIAH4ZEO3JXQP6NWPKL64I.png?auth=8baf680ac209d93fb9f93ffd51096e2a407a42b82854be969d869eaafb5b1775&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:57",
+     "autor": "",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "nuevo operativo de emergencia en lanús por otro escape de gas",
+     "resumen": "Operarios de Metrogas trabajaron este lunes cerca de la estación Lanús del ferrocarril Roca, a unos tres kilómetros del lugar donde el viernes pasado una explosión durante una obra dejó un muerto y varios heridos. La empresa confirmó una pérdida en un caño de baja presión y, tras evacuar colegios y jardines de la manzana, indicó que la situación quedó controlada.",
+     "relacionadas": [
+      {
+       "id": "AM-15",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Alerta en Lanús por otra fuga de gas: activan operativo y evacúan la manzana",
+       "url": "https://www.ambito.com/informacion-general/alerta-lanus-una-posible-fuga-gas-cerca-la-estacion-del-tren-roca-n6345618"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/activan-otro-operativo-de-emergencia-en-lanus-por-una-denuncia-de-un-nuevo-escape-de-gas-nid16112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ZF5CXTAIXJAHLBM5ADJG7QLYZE.jpg?auth=3b85f9db28ddf2ea393e3472113ee5f788592047b3b80cf5d1d3cfbbcb58822a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:01",
+     "autor": "Valeria Musse",
+     "titulo_original": "Activan otro operativo de emergencia en Lanús por un nuevo escape de gas"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "una jubilada pasó un mes presa por intentar robar carne de un supermercado",
+     "resumen": "Estela Chávez, de 67 años, vive en San Fernando, cobra la jubilación mínima y crio sola a sus seis hijos después de que su marido abandonara el hogar. \"Tenía la heladera vacía, era desesperante\", contó sobre el episodio que la llevó a intentar llevarse carne de un supermercado; tras pagar una fianza de $ 150.000, debe presentarse cada 15 días en el juzgado hasta que se cierre la causa.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/16/hablo-la-jubilada-que-paso-un-mes-presa-por-intentar-robar-carne-de-un-supermercado-tenia-la-heladera-vacia-era-desesperante/",
+     "imagen": "https://www.infobae.com/resizer/v2/JNYQTF42W5AWFE7YW6UGHHU6VI.jpg?auth=00d09f26bb8d7a6135659f90655bf72614bcafa69d2dad2cb59f3e6350fb5430&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:16",
+     "autor": "",
+     "titulo_original": "Habló la jubilada que pasó un mes presa por intentar robar carne de un supermercado: “Tenía la heladera vacía, era desesperante”"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del lunes dieciséis de noviembre. El dólar oficial cerró la mañana en mil quinientos setenta y cinco pesos, el blue en mil quinientos ochenta, mientras el riesgo país se mantiene en ochocientos treinta puntos básicos y el oro cotiza cerca de tres mil ochocientos ochenta y cinco dólares la onza. La jornada combina dos frentes: la pulseada política por la suspensión de las PASO y un cambio de reglas en el Régimen de Incentivo para Grandes Inversiones que ahora deja competir a empresas extranjeras por el cupo de proveedores locales. El dólar y el riesgo país vuelven a mostrar tensión después de una semana más calma, y el papa León catorce cerró su gira por Sudamérica con una misa multitudinaria en Lima.\n\nEn política, el ministro de Gobierno bonaerense, Carlos Bianco, ratificó que la provincia de Buenos Aires quiere mantener las PASO, mientras el Senado convocó de manera sorpresiva a su comisión de Asuntos Constitucionales para retomar la reforma electoral; según El Cronista, Sergio Massa interviene en esas conversaciones con los senadores del norte grande. El gobernador de Chubut, Ignacio Torres, respaldó la suspensión y pidió no dilatar más el debate. En Diputados, la Cámara baja sesiona por pedido del jefe de bloque oficialista, Gabriel Bornoroni, para tratar la ley de Malvinas y una reforma del Banco Central. Y la figura de Manuel Belgrano volvió a generar un cruce político entre Javier Milei, que lo presentó como precursor de las ideas libertarias, y el gobernador Axel Kicillof, que lo acusó de tergiversar la historia; le respondió el intendente de Tres de Febrero, Diego Valenzuela. La Corte Suprema, además, aprobó un protocolo médico para evaluar pedidos de prisión domiciliaria por salud, aunque aclaró que la decisión final sigue en manos de los jueces.\n\nEn economía y mercados, Luis Caputo explicó que la proyección de los dieciocho mejores meses de la historia, anunciada en abril, no se cumplió por un temor del mercado a que vuelva el kirchnerismo, que considera exagerado, e insistió en que Javier Milei ganará la reelección en primera vuelta. El riesgo país retomó la suba tras una caída de los bonos en dólares, y el dólar extendió sus subas mientras el mercado sigue de cerca la brecha cambiaria. JP Morgan proyectó una inflación de veintitrés por ciento para dos mil veintisiete por la incertidumbre política. El economista Carlos Melconian dijo que el Gobierno frenó la dinámica que heredó, pero que ahora está colgado del travesaño, sin una estrategia clara para el crecimiento. Moody's mantuvo una perspectiva estable para los bancos globales en dos mil veintisiete, aunque advirtió por el impacto retrasado de las tasas altas. Y los bancos cerraron trescientas sucursales y novecientos nueve cajeros automáticos en el último año, una baja de siete por ciento concentrada sobre todo en la banca privada.\n\nEn negocios y empresas, el Gobierno eliminó por decreto el requisito de mayoría de capital argentino para competir por el cupo mínimo de proveedores locales del RIGI, que es del veinte por ciento, lo que abre esa porción del negocio a filiales de multinacionales. También aprobó un régimen especial para el Parque Eólico La Rinconada, del Grupo Techint, en Olavarría, por doscientos treinta millones de dólares, que abastecerá a la planta de Tenaris en Campana. Molinos Río de la Plata sumó a su cartera la marca de galletitas Tía Maruca, y la empresa de los colchones Maxiking inauguró una planta forestal en Corrientes con una inversión de veinte millones de dólares, toda destinada a la exportación. Un fabricante local de productos para Samsung cuestionó la apertura de importaciones y dijo que romper la industria argentina para bajar costos no tiene ni pies ni cabeza. Y la crisis de liderazgo en Nvidia sigue sumando capítulos: Jensen Huang evalúa volver como director ejecutivo, presionado por aliados como Elon Musk, mientras el secretario del Tesoro estadounidense exigió al directorio una reestructuración drástica y respuestas en diez días sobre el desvío de chips a China.\n\nEn impuestos y normativa, la Ciudad de Buenos Aires subió las retenciones de Ingresos Brutos sobre los cobros con tarjetas y billeteras virtuales como Mercado Pago. La ANSES confirmó el calendario de pagos de diciembre para jubilados, con un aumento de dos coma dos por ciento y el aguinaldo incluido. El convenio de carga y descarga fijó nuevos básicos para noviembre, con la categoría más alta llegando a dos millones seiscientos sesenta y tres mil pesos. Y en Diputados avanza el debate sobre si el techo del corte de biodiésel debe seguir en diez por ciento.\n\nEn consumo y construcción, más de setenta shoppings lanzan descuentos de hasta cincuenta por ciento durante tres días, mientras una nueva cadena de origen chino prepara sus primeras tiendas en el Amba. Farmacity redobla la apuesta por sus marcas propias y ya trabaja con ochenta pymes argentinas, y una cadena de ropa uruguaya suma locales nuevos. El Grupo Hotelero Albamonte, dueño de Howard Johnson y Days Inn, ya tiene cuarenta y dos hoteles y apunta a ochenta, con aperturas este año en Sierra de la Ventana, Bahía Blanca y Chacras de Coria, en Mendoza.\n\nEn management y finanzas corporativas, los fundadores de Tiendanube fueron elegidos emprendedores Endeavor del año, y ByFy, una plataforma argentina de movilidad que desafía a las multinacionales del sector, ya suma más de veinte mil usuarios y prepara una ronda de inversión.\n\nEn el mundo, Donald Trump confirmó que se reunirá con Xi Jinping y con Vladimir Putin en su gira por Asia, y no descartó un encuentro también con Kim Jong Un: será el primer cara a cara de la historia entre los tres países, con las armas nucleares sobre la mesa. En Estados Unidos, el tráfico aéreo se normaliza lentamente tras varios días de caos por una falla en los sistemas de control. Una ciudadana de Sri Lanka lleva tres años varada en las Islas Cook, en el Pacífico Sur, sin poder volver a su país por un problema de visas. Un congresista demócrata denunció que el noventa por ciento de los arrestos migratorios del ICE afectan a personas latinas, mientras un estudiante ecuatoriano a un semestre de graduarse fue detenido en el aeropuerto de Atlanta. Y el papa León catorce cerró su gira por Sudamérica con una misa ante más de un millón de personas en Lima, tras once días por Uruguay, la Argentina y Perú, antes de volver a Roma.\n\nLe Grand Continent analiza cómo Ucrania completó una cúpula de guerra electrónica sobre Kiev, con antenas y equipos de interferencia instalados en varios cientos de puntos de la capital, para frenar los drones rusos que operan en red y se guían a distancia desde Rusia.\n\nEn deportes, la selección argentina viajará recién el martes a Córdoba para jugar con Costa Rica a las ocho de la noche en el estadio Mario Alberto Kempes. Lionel Messi recibirá en Miami un trofeo gigante de plata por su trayectoria. El belga Romelu Lukaku anunció su retiro de la selección de su país tras dieciséis años como máximo goleador histórico. Boca puede desatar un efecto dominó en los cupos a las copas internacionales de dos mil veintisiete si le gana a Atlético Mineiro en la final de la Sudamericana, lo que beneficiaría a Argentinos Juniors, Independiente Rivadavia y Platense. El presidente de la AFA, Claudio Tapia, respondió a versiones sobre una causa del FBI vinculada a los derechos de televisación del fútbol argentino. En el Turismo Carretera, un violento cruce entre los pilotos Carinelli y Ochoa obligó a intervenir a Omar Martínez para separarlos. Y el estadounidense Stephen Thompson se despidió de la UFC a los cuarenta y tres años con un nocaut por patada giratoria y un bono de cien mil dólares.\n\nPara cerrar, en turismo: buscan voluntarios para vivir en Mar del Plata durante el verano, con alojamiento a cambio de veinte horas semanales de trabajo en un hostel de la Costa Atlántica. Y la revista Fodor's Travel puso a la Riviera albanesa en el primer puesto de los destinos que recomienda no visitar en dos mil veintisiete por la sobrecarga de turistas.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Todas las fuentes respondieron sin caídas en esta corrida. No se encontró en el material de esta edición ninguna novedad sobre Franco Colapinto ni sobre Club Atlético Tigre, por lo que no se los menciona. El feed de Le Grand Continent trajo una sola nota en esta ventana de seis horas.",
+ "slug": "2026-11-16-mediodia",
+ "generado_ba": "16/11/2026 15:21"
+}
