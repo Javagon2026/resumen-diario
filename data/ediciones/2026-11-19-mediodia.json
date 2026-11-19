@@ -1,0 +1,935 @@
+{
+ "fecha": "2026-11-19",
+ "edicion": "mediodia",
+ "titulo": "El Senado debate en megasesión, el dólar blue marca récord y sube la carne",
+ "apertura": "El Senado avanza este jueves en una megasesión que debate los proyectos de Discapacidad, Propiedad Privada y la apertura del cabotaje marítimo, en paralelo a la negociación de las listas para 2027. En la city, el dólar blue tocó un nuevo récord y el efecto del debut bursátil de Anthropic sigue derramando sobre los bonos soberanos, mientras la confianza del consumidor retrocedió en noviembre. La explosión de Remedios de Escalada sumó una segunda víctima fatal y Boca Juniors juega hoy en Barranquilla la final de la Copa Sudamericana.",
+ "claves": [
+  "El Senado debate en una megasesión los proyectos de Discapacidad, Propiedad Privada y la apertura del cabotaje marítimo.",
+  "El dólar blue marcó un nuevo récord de 1.630 pesos y la brecha con el oficial sigue en aumento.",
+  "El rally de Anthropic en Wall Street se trasladó a los bonos soberanos argentinos y a sus fundadores, que ganarían 21.000 millones de dólares cada uno.",
+  "La confianza del consumidor bajó 1,3% en noviembre, arrastrada por una fuerte caída en el Gran Buenos Aires.",
+  "Un segundo trabajador murió por la explosión de Remedios de Escalada y el ADN confirmó la identidad de la primera víctima.",
+  "El consumo masivo argentino se reconfigura: grupos locales compran marcas que dejan empresas extranjeras como DIA y Burger King.",
+  "Rige un nuevo régimen de Defensa de la Competencia que obliga a aprobar las fusiones y adquisiciones antes de cerrarlas.",
+  "Boca Juniors juega hoy la final de la Copa Sudamericana ante Atlético Mineiro en Barranquilla."
+ ],
+ "cifras": [
+  {
+   "nombre": "Índice de Confianza del Consumidor",
+   "valor": "40,99 puntos",
+   "variacion": "-1,3%",
+   "fuente": "IB-15"
+  },
+  {
+   "nombre": "Superávit primario de octubre",
+   "valor": "$ 1,93 billones (US$ 1.300 millones)",
+   "fuente": "CR-13"
+  },
+  {
+   "nombre": "Fortuna de cada fundador de Anthropic tras la IPO",
+   "valor": "US$ 21.000 millones",
+   "fuente": "IP-16"
+  },
+  {
+   "nombre": "Suba interanual de los cortes de carne vacuna",
+   "valor": "hasta 47%",
+   "fuente": "IP-18"
+  },
+  {
+   "nombre": "Años de ahorro para el anticipo de una vivienda",
+   "valor": "6,4 años (AMBA: más de 6; Misiones: 9,6)",
+   "fuente": "IP-13"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-18",
+     "titulo": "el Senado inició una megasesión con discapacidad, propiedad privada y cabotaje en el temario",
+     "resumen": "El oficialismo consiguió quórum y abrió este jueves una sesión extensa en el Senado con los proyectos de Discapacidad, Inviolabilidad de la Propiedad Privada y la desregulación del cabotaje nacional, entre otros. Patricia Bullrich negocia con Jorge Capitanich y José Neder el alcance de los cambios al documento de consenso de Marina Mercante. El proyecto de Propiedad Privada, que modifica desalojos, usurpaciones y expropiaciones y restablece topes a la compra de tierras por extranjeros, ya había obtenido media sanción con 124 votos a favor. Al inicio de la jornada, el peronismo reclamó también el tratamiento de la Ley de Ludopatía.",
+     "relacionadas": [
+      {
+       "id": "CR-02",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Propiedad Privada: qué cambiará en alquileres, expropiaciones y tierras rurales si se convierte en ley",
+       "url": "https://www.cronista.com/economia-politica/propiedad-privada-que-cambia-en-alquileres-expropiaciones-y-tierras-rurales-con-el-proyecto-que-debate-el-senado/"
+      },
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Senado debate discapacidad, patentes y la ley de Tierras",
+       "url": "https://www.ambito.com/politica/sesion-senado-aprobar-discapacidad-patentes-y-la-ley-tierras-n6346844"
+      },
+      {
+       "id": "IB-08",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Senado, en vivo: tensión entre el peronismo y La Libertad Avanza por el tratamiento de la Ley de Ludopatía",
+       "url": "https://www.infobae.com/politica/2026/11/19/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-los-proyectos-de-discapacidad-propiedad-privada-y-patentes/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/megasesion-los-cambios-que-acepta-el-gobierno-para-destrabar-la-reforma-del-cabotaje/",
+     "imagen": "https://www.cronista.com/resizer/v2/7MALEH3FVZHU3CGHK33BRLSDCA.jpg?auth=b2e0d640e97077b884f95edd40009d111bd114e7ec416b2c85ce6afc3351bac6&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:33",
+     "autor": "Amparo Beraza",
+     "titulo_original": "Megasesión: Discapacidad, Propiedad Privada y los cambios para destrabar la reforma del cabotaje"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "el proyecto de reforma electoral deja de exigir debates presidenciales obligatorios",
+     "resumen": "Además de suspender las PASO, el proyecto de reforma electoral que el oficialismo impulsa en el Senado elimina la obligatoriedad de los debates entre candidatos presidenciales. La Ley 27.337 exige hoy dos debates antes de la elección general y uno antes de un balotaje; con la reforma, la organización de esos debates quedará a criterio de la Cámara Nacional Electoral. El dictamen se logró en la comisión de Acuerdos Constitucionales del Senado.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/reforma-electoral-el-debate-presidencial-dejara-de-ser-obligatorio-en-las-elecciones-generales-si-nid18112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IQMATZKLIVHMZIGUCMOMR34DV4.JPG?auth=70675461e19424a8c50475beefea373d1df6798b8175ce77ab86dc4db2c0151c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:58",
+     "autor": "",
+     "titulo_original": "Reforma electoral: el debate presidencial dejará de ser obligatorio en las elecciones generales si avanza el proyecto de Milei"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "una interna del PRO enfrenta a Fernando de Andreis con Jorge Macri por la jefatura porteña",
+     "resumen": "El diputado y secretario general del PRO, Fernando de Andreis, mano derecha de Mauricio Macri, no descartó competir por la jefatura de gobierno de la Ciudad y desafiar a Jorge Macri en 2027. En el entorno del jefe porteño interpretan el anuncio como una jugada del expresidente para presionar a su primo, con quien está enfrentado, y no esperan que De Andreis termine postulándose.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/interna-macrista-en-la-ciudad-le-bajan-el-precio-al-desafio-de-fernando-de-andreis-y-ya-apuntan-nid19112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/57LBZGV57FDF5KTB36JR7JST4A.png?auth=ef618ca717b32f72ef4f71f58d2fb414ca2f6aba775af96cbbca00cc56b029f7&smart=true&width=880&height=586",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:55",
+     "autor": "Denise Chmois",
+     "titulo_original": "Interna macrista: en la Ciudad le bajan el precio al desafío de Fernando De Andreis y ya apuntan contra el líder de Pro"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "la Casa Rosada ordena sus alianzas para 2027 con listas unificadas junto al radicalismo y el PRO",
+     "resumen": "Tras descartar las colectoras en la reforma política, el Gobierno avanza en listas unificadas con los gobernadores radicales, un acuerdo que Karina Milei viene trabajando desde principio de año, y consolida su vínculo con el PRO. Pese a los acuerdos electorales, el Congreso mostró rebeldía esta semana y La Libertad Avanza no logró controlar la agenda en varias votaciones.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-empieza-a-ordenar-sus-alianzas-para-el-2027-listas-unificadas-y-el-proximo-round-tras-suspender-las-paso/",
+     "imagen": "https://www.cronista.com/resizer/v2/PJW3F6LORFGI5JSULRVPOEXBE4.jpeg?auth=c496fe586a09e4d9b421574003ad2d590ba5747dc560c082807abac7f74cf436&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:44",
+     "autor": "Daniela Romero",
+     "titulo_original": "El Gobierno empieza a ordenar sus alianzas para el 2027: listas unificadas y el próximo round tras suspender las PASO"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Bullrich reclamó cambios impositivos y laborales para aliviar a las pymes",
+     "resumen": "La jefa del bloque de La Libertad Avanza en el Senado, Patricia Bullrich, difundió un video con propuestas sobre tributos, reintegros y empleo formal para que las pymes puedan producir e invertir. Aclaró que la iniciativa no implica volver a un plan platita ni cambiar el rumbo económico. Para una empresa: si avanzan los cambios, podría bajar la carga tributaria y laboral sobre las pequeñas y medianas firmas del sector.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/19/patricia-bullrich-reclamo-cambios-impositivos-para-aliviar-la-situacion-de-las-pymes/",
+     "imagen": "https://www.infobae.com/resizer/v2/7WE4ELJD7FHXFEWHYLTWN267HE.jpg?auth=504abfcfe5b86415b2f200cf83a93a1ecbfdc10339754381b6ee8fa5e7bce5af&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:02",
+     "autor": "",
+     "titulo_original": "Patricia Bullrich reclamó cambios impositivos para aliviar la situación de las PyMEs"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "un estudio de la UBA encontró un empate entre Milei y Kicillof en un balotaje",
+     "resumen": "Un relevamiento del Observatorio de Psicología Social Aplicada de la UBA, sobre 2.098 personas, midió las preferencias electorales de cara a 2027 y halló un empate entre Javier Milei y Axel Kicillof en una eventual segunda vuelta, con Patricia Bullrich y Sergio Massa también medidos. Otra encuesta nacional de la Universidad de San Andrés describió una polarización moderada y diferencias notables en el voto según género y edad.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Nueva encuesta electoral: polarización light y notable diferencia en el voto de hombres y mujeres",
+       "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-polarizacion-light-notable-diferencia-voto-hombres-mujeres_0_jHTqC5h12S.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-uba-midio-a-milei-y-kicillof-y-encontro-un-eventual-empate-el-dato-sobre-los-votantes-que-sorprende-a-todos/",
+     "imagen": "https://www.cronista.com/resizer/v2/WISJFV7ORJBDLNNEMNM4MASGHY.jpg?auth=9d962c9409ab4bb813e2a4e0ebd1817c14adfaed5bc7d8d41d3fb948538b58ed&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:49",
+     "autor": "Julián Kaper",
+     "titulo_original": "La UBA midió a Milei y Kicillof y encontró un eventual empate: el dato sobre los votantes que sorprende a todos"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Mahiques se reunió en Washington con el jefe de la división criminal de Justicia de Estados Unidos",
+     "resumen": "El ministro de Justicia, Juan Bautista Mahiques, mantuvo un encuentro en Washington con Andrew Tysen Duva, responsable de la División Criminal del Departamento de Justicia estadounidense. Acordaron fortalecer la cooperación en extradiciones, investigaciones penales y capacitación judicial, además de hablar sobre la cobertura de vacantes y la implementación del sistema acusatorio en Argentina.",
+     "relacionadas": [
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Mahiques se reunió en Washington con el jefe de los fiscales penales de EEUU y acordó fortalecer la cooperación judicial",
+       "url": "https://www.infobae.com/politica/2026/11/19/mahiques-se-reunio-en-washington-con-el-jefe-de-los-fiscales-penales-de-eeuu-y-acordo-fortalecer-la-cooperacion-judicial/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/acelera-designacion-jueces-mahiques-viajo-eeuu-reunio-alto-funcionario-departamento-justicia_0_hQcpqzokkm.html",
+     "imagen": "https://www.clarin.com/img/2026/11/19/szlHKRxz6_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:12",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Mientras acelera la designación de jueces, Mahiques viajó a EE.UU. y se reunió con un alto funcionario del Departamento de Justicia"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-17",
+     "titulo": "el dólar blue marcó un nuevo récord de 1.630 pesos",
+     "resumen": "El dólar blue se vendió este jueves a 1.630 pesos, su valor más alto en la historia, con una suba acumulada de 65 pesos en lo que va de noviembre. El oficial cotizó a 1.580 pesos en el Banco Nación, 100 pesos por encima del cierre de 2025, mientras el mayorista se ubicó en 1.576,80 pesos, lejos del techo de la banda cambiaria que el BCRA fija en 1.974,20 pesos. Para una empresa: la suba simultánea del blue y la brecha con el oficial encarece el financiamiento en moneda dura de cara a diciembre, cuando se paga el aguinaldo.",
+     "relacionadas": [
+      {
+       "id": "CR-19",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar oficial: a cuánto cotiza en los bancos de la City hoy jueves 19 de noviembre",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-oficial-a-cuanto-cotiza-en-los-bancos-de-la-city-hoy-jueves-19-de-noviembre/"
+      },
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar oficial vuelve a subir y toca los $1.560 mientras el mercado mira de cerca la brecha con el CCL",
+       "url": "https://www.ambito.com/finanzas/dolar-presion-la-brecha-cambiaria-alcanzo-su-nivel-mas-alto-un-ano-y-el-ccl-gana-el-centro-la-escena-n6346972"
+      },
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este jueves 19 de noviembre",
+       "url": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-jueves-19-noviembre-n6346965"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-este-jueves-19-de-noviembre-con-el-mep-y-el-ccl/",
+     "imagen": "https://www.cronista.com/resizer/v2/26DFLZHOGBGE7L5K7NSGKGD3BI.jpg?auth=a6fade671f43e936efec3a44f15f8d3783b16702d63b604e0d11002c1116d5b3&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:40",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Dólar blue hoy: a cuánto cotiza este jueves 19 de noviembre con el MEP y el CCL"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "el rebote de Anthropic en Wall Street se trasladó a los bonos argentinos y a sus fundadores",
+     "resumen": "Los bonos soberanos en dólares argentinos operan con mayoría de ganancias, encabezados por los Globales, en medio de la euforia bursátil por el debut de Anthropic, que impulsó también futuros del Nasdaq y bolsas europeas con un rebote de hasta 2%. Según cálculos de mercado, los fundadores de la compañía creadora de Claude ganarían unos 21.000 millones de dólares cada uno tras la colocación. En Argentina, la acción ya puede seguirse a través de un CEDEAR.",
+     "relacionadas": [
+      {
+       "id": "IP-01",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El efecto Anthropic impulsa rebote de bonos soberanos en dólares",
+       "url": "https://www.iprofesional.com/finanzas/469531-como-cotizan-hoy-19-de-noviembre-el-merval-adrs-bonos-y-riesgo-pais"
+      },
+      {
+       "id": "AM-24",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Efecto Anthropic: Wall Street anticipa un rebote de hasta el 2% y las bolsas europeas se recuperan",
+       "url": "https://www.ambito.com/finanzas/efecto-anthropic-wall-street-anticipa-un-rebote-el-2-y-las-bolsas-europeas-se-recuperan-n6347010"
+      },
+      {
+       "id": "IP-24",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cómo invertir en Anthropic desde Argentina: cuánto cuesta su CEDEAR y qué potencial de suba tiene",
+       "url": "https://www.iprofesional.com/finanzas/469522-anthropic-llega-a-byma-cuanto-costara-el-cedear-y-que-potencial-le-ve-wall-street"
+      },
+      {
+       "id": "IP-16",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Anthropic debutó en Wall Street: quiénes son los fundadores que ganarían u$s21.000 millones cada uno",
+       "url": "https://www.iprofesional.com/tecnologia/469528-anthropic-sale-a-bolsa-quienes-son-sus-siete-fundadores-y-cuanto-dinero-ganaran"
+      }
+     ],
+     "url": "https://www.ambito.com/los-bonos-dolares-rebotan-medio-la-euforia-anthropic-n6347109",
+     "imagen": "https://media.ambito.com/p/865cf2db96094a097ac8c300e8130996/adjuntos/239/imagenes/043/148/0043148468/1200x675/smart/mercados-finanzas-vivo-acciones-bolsas-inversiones-bonos-dolar-tasas-cedears.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:29",
+     "autor": "",
+     "titulo_original": "Los bonos en dólares rebotan en medio de la euforia por Anthropic"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "el oro perdió un tercio de su valor desde el récord de enero y pone en duda su rol de refugio",
+     "resumen": "El oro cayó hasta 3.742 dólares la onza el miércoles, su nivel más bajo desde septiembre de 2025, luego de haber tocado un máximo histórico de 5.595 dólares en enero. La baja, de alrededor del 10% desde que Wall Street tocó su pico en octubre, ocurrió mientras las acciones tecnológicas también retrocedían, lo que llevó a los inversores a cuestionar el estatus del metal como cobertura frente a la caída de otros activos de riesgo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/el-oro-pierde-su-lugar-como-refugio-se-desplomo-un-tercio-desde-su-record/",
+     "imagen": "https://www.cronista.com/resizer/v2/7DSVFMIRJRGKVH4T3VT657Y7YQ.jpg?auth=85dde2113fca4d0b812c7a3b0b867798e58859ce1869a8ea12f0ccaa52dd40de&smart=true&width=460&height=276",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:36",
+     "autor": "Daniel Thomas, Ian Smith",
+     "titulo_original": "El oro pierde su lugar como refugio: se desplomó un tercio desde su récord"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "la confianza del consumidor bajó 1,3% en noviembre por la caída en el Gran Buenos Aires",
+     "resumen": "El Índice de Confianza del Consumidor que elabora la Universidad Torcuato Di Tella bajó 1,3% en noviembre respecto de octubre y se ubicó en 40,99 puntos, tras dos meses de subas. La caída del 7,6% en el Gran Buenos Aires contrastó con una mejora del 9,4% en la Ciudad de Buenos Aires y del 3,3% en el interior. El relevamiento, hecho entre el 3 y el 17 de noviembre en 40 centros urbanos, coincidió con una baja en la preocupación por la mora crediticia tras los acuerdos entre bancos, fintech y deudores.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/19/la-confianza-del-consumidor-bajo-13-en-noviembre-afectada-por-la-caida-del-76-en-el-gran-buenos-aires/",
+     "imagen": "https://www.infobae.com/resizer/v2/B7H4C6KIBBETPKPJGH32BHPMHE.png?auth=b7b76d4fd4a06606ef0c877832550c3a67f14cfba98c918c7c2f7eddb8e73406&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:27",
+     "autor": "Daniel Sticco",
+     "titulo_original": "La confianza del consumidor bajó 1,3% en noviembre, afectada por la caída del 7,6% en el Gran Buenos Aires"
+    },
+    {
+     "id": "CR-13",
+     "titulo": "el Gobierno logró un superávit primario de 1,93 billones de pesos en octubre",
+     "resumen": "El superávit primario de octubre fue de 1,93 billones de pesos, equivalentes a 1.300 millones de dólares, más del doble que en el mismo mes de 2025, aunque la recaudación volvió a caer en términos reales y el resultado se sostuvo por el recorte del gasto. JP Morgan anticipa que en 2027 el Gobierno necesitará que la recuperación de la actividad eleve la recaudación para sostener las cuentas sin seguir recortando gasto.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-superavit-de-milei-cambia-de-motor-que-necesita-la-argentina-para-sostenerlo-en-2027-segun-jp-morgan/",
+     "imagen": "https://www.cronista.com/resizer/v2/ULU2TMWQGVFSHG73FZ3PJPPD5A.jpg?auth=66de111ee5576fdfa222baa83fe4684db1bc10d73bfa26baf4fca0c3173077f4&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:08",
+     "autor": "Santiago Escobar",
+     "titulo_original": "El superávit de Milei cambia de motor: qué necesita la Argentina para sostenerlo en 2027, según JP Morgan"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "el INDEC aprobó un código de buenas prácticas con reglas sobre el uso de inteligencia artificial",
+     "resumen": "El INDEC oficializó mediante la Resolución 157/2026 un Código de Prácticas Estadísticas con 18 principios sobre independencia, calendario de publicación, confidencialidad y uso de inteligencia artificial en la producción de estadísticas oficiales. El organismo tomó como referencia los códigos de Naciones Unidas y organismos como la CEPAL.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/cambia-el-indec-desde-hoy-las-nuevas-reglas-para-la-ia-y-las-estadisticas-oficiales/",
+     "imagen": "https://www.cronista.com/resizer/v2/5RVBNA3JTNG4NCROUTUBH7VCCY.jpg?auth=a257caf2febb805922dff81dfa38119ffb05bdf67501eab6948df1b699e68358&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:26",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Cambia el INDEC desde hoy: las nuevas reglas para la IA y las estadísticas oficiales"
+    },
+    {
+     "id": "CR-23",
+     "titulo": "Goldman Sachs recomendó tomar ganancias del carry trade argentino de cara a 2027",
+     "resumen": "Goldman Sachs considera que, pese a ofrecer el mayor rendimiento nominal a 12 meses entre las monedas emergentes, las tasas argentinas no alcanzan para justificar una apuesta al carry trade mientras no se despeje la incertidumbre electoral de 2027. El banco reconoce avances en la acumulación de reservas y el frente fiscal, pero en la City ya hay operadores, como Portfolio Personal Inversiones, que empezaron a dolarizar carteras.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/goldman-sachs-pausa-el-carry-trade-argentino-y-en-la-city-recomiendan-tomar-ganancias-que-ven-para-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/NY5LZAYOFNE7XKRGZWCOUFMN2E.png?auth=3774cd1d08c8119752946ed0ba0cdd05171e10c23b2cac9886174d663ddb9f2c&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:39",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Goldman Sachs pausa el carry trade argentino y en la City recomiendan tomar ganancias: qué ven para 2027"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-12",
+     "titulo": "el consumo masivo se reconfigura: grupos locales compran las marcas que dejan las extranjeras",
+     "resumen": "Varias marcas emblemáticas del consumo masivo cambiaron de manos en los últimos meses: la española DIA y la cadena de comida rápida Burger King aparecieron como vendedoras, mientras grupos empresarios locales, entre ellos GDN de Francisco de Narváez, se quedaron con esas operaciones. La tendencia refleja que el mercado interno tardará años en recuperar los niveles de consumo de 2023, lo que lleva a compañías globales a revisar su presencia en el país mientras firmas locales ganan escala.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-consumo-masivo-se-reconfigura-por-que-salen-los-extranjeros-y-avanzan-los-nacionales/",
+     "imagen": "https://www.cronista.com/resizer/v2/FN467RR4NRHRPNGSRBBU3FNTGE.jpg?auth=512244bc95b981519e8f5ea152261da1815fe18819962d2e99763650ac7b799e&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:18",
+     "autor": "Gustavo Bazzan",
+     "titulo_original": "El consumo masivo se reconfigura: por qué salen los extranjeros y avanzan los nacionales"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Mercado Libre y Carrefour lanzaron un servicio de entregas a domicilio en menos de 45 minutos",
+     "resumen": "Mercado Libre y Carrefour Argentina anunciaron un acuerdo para entregar productos de la cadena de supermercados en el domicilio del comprador en hasta 45 minutos, disponible inicialmente en zonas de la Ciudad de Buenos Aires y el Gran Buenos Aires. Las empresas prevén ampliar progresivamente la cobertura a más tiendas y consolidar la operación en el AMBA.",
+     "relacionadas": [
+      {
+       "id": "IP-06",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cómo comprar en Carrefour desde Mercado Libre y recibir el pedido en 45 minutos",
+       "url": "https://www.iprofesional.com/negocios/469545-carrefour-llega-a-mercado-libre-con-entregas-en-menos-de-una-hora-y-envio-gratis"
+      }
+     ],
+     "url": "https://www.cronista.com/negocios/mercado-libre-cierra-un-acuerdo-para-hacer-delivery-de-la-mayor-cadena-de-supermercados/",
+     "imagen": "https://www.cronista.com/resizer/v2/VPKSQBVUEFCBXFCUP5HFRIKGRQ.png?auth=96f6120ca1eef05bf1decf02d2b94d9f3dafbda1498f1e107237a4ae63f92d70&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:00",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Mercado Libre cierra un acuerdo para hacer “delivery” de la mayor cadena de supermercados"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "el cobre apunta a convertirse en un nuevo motor de las exportaciones argentinas",
+     "resumen": "Un informe del Centro de Economía Internacional de la Cancillería proyecta exportaciones de cobre por 4.617 millones de dólares en 2030 y 18.712 millones en 2035, con siete grandes proyectos mineros en desarrollo que podrían producir 1,5 millones de toneladas anuales. El país busca recuperar un lugar en el mercado internacional del metal tras haber perdido casi toda su producción minera de gran escala.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/el-cobre-puede-ser-un-nuevo-motor-de-exportaciones-que-cedear-dan-exposicion/",
+     "imagen": "https://www.cronista.com/resizer/v2/GIZ5T3IGMRASVFJW4WUUD4TC7I.jpg?auth=e07f3af977ad8db2c1d652a09fa8a5eef516ea90374977c067244ac319cd93e7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:59",
+     "autor": "Adrián Mansilla",
+     "titulo_original": "El cobre puede ser un nuevo motor de exportaciones: qué Cedear dan exposición"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Toyota proyecta producir más modelos híbridos en Zárate además de la pick up Tacoma",
+     "resumen": "El titular de Toyota Argentina, Gustavo Salinas, dijo que la planta de Zárate producirá otros modelos híbridos además de la pick up Tacoma, tras el anuncio de una inversión de 1.341 millones de dólares en el marco del RIGI para una nueva fábrica de vehículos de motorización alternativa. Para 2030 la capacidad instalada del predio superará las 230.000 unidades anuales y podría ampliarse a cerca de 300.000.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/toyota-previsto-producir-zarate-modelos-hibridos-ademas-pick-up-tacoma_0_pJS9luFhYU.html",
+     "imagen": "https://www.clarin.com/img/2026/11/16/NO8VHL5ft_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:58",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Toyota tiene previsto producir en Zárate otros modelos híbridos además de la pick up Tacoma"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "el proyecto minero Taca Taca depende de dos permisos clave para ingresar al RIGI",
+     "resumen": "La canadiense First Quantum apunta a pedir el ingreso de su proyecto Taca Taca, en Salta, al régimen de incentivos para grandes inversiones antes de fin de año, a la espera de dos permisos clave. En una audiencia pública, vecinos de la localidad de Tolar Grande pidieron proteger una de las cuencas de agua que abastecerían a la mina.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/unico-proyectos-cobre-clase-mundial-pidio-rigi-espera-aval-ambiental_0_Y2yfdvJ7Wl.html",
+     "imagen": "https://www.clarin.com/img/2026/11/16/bsdTxmRe8_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:38",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El futuro de Taca Taca depende de dos permisos clave antes de ingresar al RIGI"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "la Corte Suprema de Estados Unidos le pedirá a Trump su opinión sobre el fallo que favoreció a Argentina por YPF",
+     "resumen": "A ocho meses de que un fallo de marzo favoreciera a la Argentina en el juicio por la expropiación de YPF, la Corte Suprema de Estados Unidos se prepara para pedirle al procurador general que opine sobre si corresponde revisar esa sentencia. Según un informe del analista Sebastián Maril, de Latam Advisors, esa recomendación podría influir tanto en el futuro del litigio como en la campaña presidencial argentina de 2027.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/19/a-8-meses-de-que-argentina-ganara-el-juicio-por-ypf-la-corte-de-eeuu-se-prepara-para-hacerle-una-pregunta-clave-sobre-el-caso-a-trump/",
+     "imagen": "https://www.infobae.com/resizer/v2/5NO22QTBS5ADTLNCMLDWT6WH6Y.jpg?auth=1b95ccc61fcdd7f78cbfda3dcd3c4c62f3ceb6b882876a4a566a080bbf1b2d27&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:33",
+     "autor": "Sebastián Catalano",
+     "titulo_original": "A 8 meses de que Argentina ganara el juicio por YPF, la Corte de EEUU se prepara para hacerle una pregunta clave sobre el caso a Trump"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-23",
+     "titulo": "la reforma tributaria busca reemplazar Ingresos Brutos por un IVA provincial, pero enfrenta trabas",
+     "resumen": "El proyecto de reforma tributaria del Gobierno prevé sustituir Ingresos Brutos por un IVA con componentes nacional y provincial, aunque enfrenta obstáculos políticos y técnicos para avanzar. En paralelo, en la Legislatura bonaerense un diputado de La Libertad Avanza presentó un proyecto para reemplazar gradualmente el tributo por un gravamen sobre las ventas finales, con el objetivo de evitar la acumulación de cargas impositivas a lo largo de la cadena productiva. Para una empresa: cualquiera de los dos caminos cambiaría de fondo cómo se calcula la carga tributaria provincial sobre ventas y producción.",
+     "relacionadas": [
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La Libertad Avanza impulsa un cambio en Ingresos Brutos en la provincia de Buenos Aires: cómo funcionaría el impuesto que busca reemplazarlo",
+       "url": "https://www.infobae.com/politica/2026/11/19/la-libertad-avanza-impulsa-un-cambio-en-ingresos-brutos-en-la-provincia-de-buenos-aires-como-funcionaria-el-impuesto-que-busca-reemplazarlo/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/469521-iva-provincial-obstaculos-enfrenta-reemplazar-ingresos-brutos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/630154.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:24",
+     "autor": "",
+     "titulo_original": "IVA provincial para derogar Ingresos Brutos: qué obstáculos enfrenta la reforma tributaria"
+    },
+    {
+     "id": "CR-24",
+     "titulo": "un nuevo régimen de Defensa de la Competencia exige aprobación previa para fusiones y adquisiciones",
+     "resumen": "Desde el 17 de noviembre rige un nuevo esquema que obliga a notificar y obtener la aprobación de Defensa de la Competencia antes de cerrar una fusión o adquisición que supere los umbrales establecidos, en lugar de cerrar primero la operación y pedir la autorización después. El cambio modifica los tiempos de cierre de los deals en el mercado argentino. Para una empresa: una compra o fusión que antes se definía en semanas ahora deberá planificarse con el visto bueno regulatorio como paso previo obligatorio.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/un-cambio-de-reglas-puede-demorar-las-grandes-operaciones-de-compra-o-fusion-de-empresas/",
+     "imagen": "https://www.cronista.com/resizer/v2/C3WTJEFPJVDX5N6ZSSRVGRZU6U.jpg?auth=1f3dd898a7b10c286a74a800a0e5426047e64826f31b65c4cb3d81b42363d4ba&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:38",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Un cambio rotundo de reglas puede demorar las grandes operaciones de compra o fusión de empresas"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "el cálculo de la indemnización laboral cambiará en 2027 con el Fondo de Asistencia Laboral",
+     "resumen": "El Fondo de Asistencia Laboral, que rige desde diciembre, introduce un nuevo cálculo para la indemnización por despido, aunque no cubrirá todas las situaciones ni los casos del primer año de antigüedad. ATE pidió a la Justicia frenar el fondo y que no se financie con recursos de la ANSES, al advertir que podría afectar un sistema previsional ya golpeado.",
+     "relacionadas": [
+      {
+       "id": "IP-15",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "ATE pidió a la Justicia frenar el FAL y que no se financie con recursos de la ANSES",
+       "url": "https://www.iprofesional.com/economia/469529-ate-pidio-a-la-justicia-frenar-el-fal-y-que-no-se-financie-con-recursos-de-la-anses"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/469532-como-cambia-calculo-indemnizacion-2027-con-fondo-fal",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/630164.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:40",
+     "autor": "",
+     "titulo_original": "Cómo cambia el cálculo de la indemnización en 2027 con el Fondo de Asistencia Laboral"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "el aguinaldo de diciembre se calcula sobre el mejor sueldo del semestre y tiene fecha límite de pago",
+     "resumen": "La segunda cuota del Sueldo Anual Complementario, que se paga en diciembre, se calcula sobre el mejor sueldo bruto del semestre que termina y tiene una fecha límite de pago establecida por ley. Para una empresa: el pago coincide con la mayor presión de caja del año, junto con la suba del dólar financiero y la brecha cambiaria, por lo que conviene proyectar el desembolso con anticipación.",
+     "relacionadas": [
+      {
+       "id": "AM-11",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Aguinaldo 2026: hasta cuándo tienen tiempo las empresas para pagarlo y cuánto corresponde cobrar en diciembre",
+       "url": "https://www.ambito.com/economia/aguinaldo-2026-cuando-tienen-tiempo-las-empresas-pagarlo-y-cuanto-corresponde-cobrar-diciembre-n6347106"
+      }
+     ],
+     "url": "https://www.iprofesional.com/actualidad/468369-aguinaldo-de-diciembre-cuanto-se-cobra-segun-el-sueldo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614830.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:35",
+     "autor": "",
+     "titulo_original": "Aguinaldo de diciembre: cuánto se cobra según el sueldo"
+    },
+    {
+     "id": "LN-17",
+     "titulo": "la Justicia volvió a ponerle límites a un municipio bonaerense por cobrar tasas viales sin contraprestación",
+     "resumen": "La Cámara de Apelación en lo Contencioso Administrativo de San Martín confirmó un fallo que dio la razón a productores de Daireaux que cuestionaron la tasa vial del municipio. La resolución, dictada el 20 de octubre, ratificó que es el Estado quien debe demostrar que presta el servicio de mantenimiento de la red vial y que los fondos recaudados se destinan a ese fin.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/tasas-viales-la-justicia-le-puso-limites-a-un-municipio-bonaerense-por-cobrar-sin-una-nid18112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RJHNRPGDT5HXNDEN7DUMLVDLN4.png?auth=32731d78d2165d47a44ba61df35e5a65ac01720b4714a56f1609e625cc20d67a&smart=true&width=804&height=522",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:10",
+     "autor": "Mariana Reinke",
+     "titulo_original": "Tasas viales: la Justicia le puso límites a un municipio bonaerense por cobrar sin una contraprestación comprobada"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-13",
+     "titulo": "el anticipo para comprar una casa exige más de seis años de ahorro",
+     "resumen": "Un estudio estimó que un asalariado formal necesita 6,4 años de ahorro para reunir el anticipo de una vivienda. En el AMBA el plazo supera los seis años y en Misiones llega a 9,6 años, la cifra más alta del relevamiento. Para una empresa de materiales de construcción: un acceso tan postergado a la vivienda propia enfría la demanda de obra nueva y de materiales asociados a la construcción residencial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/469110-cuantos-anos-debe-ahorrar-un-trabajador-para-acceder-a-una-vivienda",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/08/601597.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:40",
+     "autor": "",
+     "titulo_original": "El anticipo para una casa exige más de seis años de ahorro"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "los cortes de carne vacuna subieron hasta 47% en un año por la caída de la oferta",
+     "resumen": "La producción de carne vacuna bajó 6,5% en diez meses y el mercado interno recibió menos cantidad, lo que llevó a que los cortes subieran hasta 47% interanual, con un promedio de 44,5% en octubre. Para una empresa: la suba de un alimento básico como la carne presiona el presupuesto de los hogares y puede restarle previsibilidad a otras decisiones de consumo, incluidas las de productos para el hogar.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/469114-carne-vacuna-cayo-la-oferta-y-los-precios-subieron-hasta-47",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/572277.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:15",
+     "autor": "",
+     "titulo_original": "Cayó la oferta de carne vacuna y los cortes subieron hasta un 47% en un año"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "Lego y Tesla encabezan las nuevas aperturas en el shopping Unicenter",
+     "resumen": "El shopping de Martínez sumó dos marcas internacionales, Lego y Tesla, en el marco de una renovación de sus locales. El centro comercial continúa incorporando firmas mientras avanza con la actualización de su oferta comercial.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/469318-lego-tesla-y-mas-marcas-las-nuevas-aperturas-de-unicenter",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618665.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:35",
+     "autor": "",
+     "titulo_original": "Lego, Tesla y más marcas: las nuevas aperturas de Unicenter"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "una marca de ropa argentina abre locales de solo 10 metros cuadrados en shoppings",
+     "resumen": "Una firma argentina apuesta por tiendas diminutas de apenas 10 metros cuadrados dentro de shoppings, un formato que prescinde de probadores y que requiere una inversión inicial menor que la de un local tradicional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/469460-la-marca-de-ropa-que-abre-locales-de-solo-10-m-en-shoppings",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2025/12/608548.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:11",
+     "autor": "",
+     "titulo_original": "La marca de ropa que abre locales de solo 10 m² en shoppings"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "Cuenta DNI mantiene descuentos de hasta 40% por semana durante noviembre",
+     "resumen": "La billetera del Banco Provincia, Cuenta DNI, sostiene durante noviembre una serie de descuentos semanales de hasta 40% para aliviar el gasto de los consumidores bonaerenses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/469197-como-ahorrar-hasta-un-40-por-semana-con-cuenta-dni-en-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/628890.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:50",
+     "autor": "",
+     "titulo_original": "Cómo ahorrar hasta un 40% por semana con Cuenta DNI en noviembre 2026"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-07",
+     "titulo": "el rol del CFO cambia con la llegada de agentes de inteligencia artificial a las finanzas",
+     "resumen": "Jackson Borges, líder de Finanzas y Gastos de SAP para América Latina, aseguró que las empresas que incorporan agentes de inteligencia artificial en el área de Finanzas ya registran ahorros de tiempo de entre 30% y 50%. El ejecutivo describió un cambio en el rol del CFO, que pasa de procesar información a interpretarla y tomar decisiones con mayor velocidad.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/469525-como-la-ia-cambia-el-rol-del-cfo-en-la-empresa-autonoma",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/626533.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:00",
+     "autor": "",
+     "titulo_original": "El rol del CFO en la empresa autónoma y cómo la IA cambia el área de Finanzas"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "la trampa de creerse indispensable en la conducción de un negocio",
+     "resumen": "Una columna de gestión retoma una frase de la carta de 2007 de Warren Buffett a los accionistas de Berkshire Hathaway: si un negocio necesita una superestrella para producir resultados, el negocio en sí no puede considerarse grande. El texto advierte sobre dueños y líderes que concentran en sí mismos el conocimiento, las decisiones y los vínculos clave, en lugar de traducirlos en capacidades que sostengan a toda la organización.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-trampa-de-creer-ser-indispensable-en-los-negocios/",
+     "imagen": "https://www.cronista.com/resizer/v2/R267D67TH5AH5DV5MDV732NG3A.png?auth=478dff218d22d04d6fee6e0b6c13a5f5c2a7d0514d6e145608c7570455cf63dd&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:24",
+     "autor": "Sofía Contreras",
+     "titulo_original": "La trampa de (creer) ser indispensable en los negocios"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "los cuatro errores más comunes de los nuevos inversores al armar su cartera",
+     "resumen": "Al empezar a invertir, es habitual concentrarse en qué activo comprar y descuidar cómo se combinan las distintas inversiones entre sí, lo que puede dejar una cartera con más exposición de la prevista a determinados sectores o mercados. El artículo recomienda revisar periódicamente el conjunto de la cartera y no solo cada inversión por separado.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-4-errores-mas-comunes-que-cometen-los-nuevos-inversores-al-armar-su-cartera/",
+     "imagen": "https://www.cronista.com/resizer/v2/4TETRYCYJFD4ZFOF3Q5N57M24Y.png?auth=fe0f58a711e8f18153aaa2d320b5c57163cf618ee7befcec6cc57a40ca314ae1&smart=true&width=900&height=503",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:43",
+     "autor": "Audiencias Member",
+     "titulo_original": "Los 4 errores más comunes que cometen los nuevos inversores al armar su cartera"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "la Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra los rohinyás",
+     "resumen": "El máximo tribunal de Naciones Unidas dictaminó que en la operación militar de 2017 fueron asesinados cerca de 10.000 civiles de la minoría rohinyá, además de agresiones sexuales y actos de violencia extrema contra niños. Es la primera vez que la Corte declara que un Estado cometió genocidio.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/fallo-historico-corte-internacional-justicia-declaro-myanmar-cometio-genocidio-rohinya_0_6tPdCC7gUh.html",
+     "imagen": "https://www.clarin.com/img/2026/11/19/ARoh8AfBu_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "En un fallo histórico, la Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra los rohinya"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Trump, Xi y Putin firmaron en Shenzhen una declaración conjunta sobre estabilidad y riesgo nuclear",
+     "resumen": "Los presidentes de Estados Unidos, China y Rusia firmaron en Shenzhen una declaración de cuatro puntos centrada en la estabilidad internacional, el abastecimiento energético y la prevención de una guerra nuclear, difundida por la agencia rusa Tass y medios estatales chinos. Xi Jinping calificó el encuentro de positivo, constructivo y altamente productivo, mientras Putin lo comparó con la Conferencia de Yalta de 1945 y descartó frenar las operaciones rusas contra infraestructura civil ucraniana.",
+     "relacionadas": [
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Xi Jinping calificó de “positiva, constructiva y altamente productiva” la cumbre con Trump y Putin",
+       "url": "https://www.infobae.com/america/mundo/2026/11/19/xi-jinping-califico-de-positiva-constructiva-y-altamente-productiva-la-cumbre-con-trump-y-putin/"
+      },
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Putin habló tras la cumbre con Trump y Xi en Shenzhen: “Fue una página en la historia de la diplomacia”",
+       "url": "https://www.infobae.com/america/mundo/2026/11/19/putin-hablo-tras-la-cumbre-con-trump-y-xi-en-shenzhen-fue-una-pagina-en-la-historia-de-la-diplomacia/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/mundo/2026/11/19/el-texto-completo-de-la-declaracion-sobre-la-paz-que-firmaron-donald-trump-xi-jinping-y-vladimir-putin-en-shenzhen/",
+     "imagen": "https://www.infobae.com/resizer/v2/V4TT5IWO6VF7TDB47HS3FUB3ZQ.jpg?auth=ecb88cf438e976800c5f2ff637d00d94097b334c66e97b094a3777ed47abb18d&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:10",
+     "autor": "Carlos Eduardo Martínez",
+     "titulo_original": "El texto completo de la “Declaración sobre la paz” que firmaron Donald Trump, Xi Jinping y Vladimir Putin en Shenzhen"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "España debate si el crecimiento de su tren de alta velocidad superó la capacidad de mantenimiento",
+     "resumen": "Tras un accidente ferroviario y de cara a elecciones, en España se instaló el debate sobre si el mantenimiento de la infraestructura ferroviaria logró seguir el ritmo del rápido crecimiento de la red de alta velocidad y de la población que la utiliza.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/accidente-ferroviario-espana-pregunta-tren-alta-velocidad-crecio-demasiado-rapido_0_W11drzqikl.html",
+     "imagen": "https://www.clarin.com/img/2026/11/19/-3c4_KRkI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras el accidente ferroviario, España se pregunta si el tren de alta velocidad creció demasiado rápido"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "España vota el 29 de noviembre en elecciones generales anticipadas",
+     "resumen": "Los españoles elegirán el domingo 29 de noviembre a los integrantes del Congreso de los Diputados y el Senado, tras la disolución de las Cámaras dispuesta por el presidente Pedro Sánchez. De esa composición surgirá luego la propuesta de un candidato a presidente del Gobierno, ya que en España no se vota de manera directa ese cargo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/como-se-elige-presidente-en-espana-y-cuando-son-las-elecciones-anticipadas-nid16112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UT4TG4L4TFHCRBO3XCPQ7O7NQI.jpg?auth=8e5d8137936cd7d44032401ca3f8750fb637a1faaecf404b7a6eb28486c5ff24&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:42",
+     "autor": "Edith Cantizano",
+     "titulo_original": "Cómo se elige presidente en España y cuándo son las elecciones anticipadas"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "Colombia vive una nueva jornada de paro nacional en rechazo al proyecto de Rescate Económico",
+     "resumen": "Centrales obreras, sindicatos y sectores de oposición convocaron movilizaciones en Bogotá, Cali, Medellín y Barranquilla contra el proyecto de Ley de Rescate Económico del Gobierno de Abelardo de la Espriella, por sus disposiciones tributarias y su impacto en el empleo público y la estabilidad laboral.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/colombia/2026/11/19/paro-nacional-en-vivo-hoy-19-de-noviembre-asi-amanecen-las-vias-de-las-principales-ciudades/",
+     "imagen": "https://www.infobae.com/resizer/v2/DG4EHS76VRFTDJVAGDIDPUAWLQ.jpg?auth=610a154fb4ec8759a8ac0185d03690a37e54ba36c56f1b60d935baa1a93bf902&smart=true&width=900&height=605",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:04",
+     "autor": "Dahana Ospina, Daniela Beltrán",
+     "titulo_original": "Paro Nacional EN VIVO, hoy 19 de noviembre: se presenta enfrentamientos entre la Policía y los manifestantes en Bucaramanga"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "AM-05",
+     "titulo": "Boca Juniors juega hoy ante Atlético Mineiro la final de la Copa Sudamericana",
+     "resumen": "Boca Juniors y Atlético Mineiro definen este jueves al campeón de la Copa Sudamericana 2026 en el estadio Metropolitano Roberto Meléndez de Barranquilla, Colombia.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/boca-enfrenta-atletico-mineiro-la-final-la-copa-sudamericana-2026-dia-hora-y-como-verlo-vivo-n6346227",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "11:48",
+     "autor": "",
+     "titulo_original": "Boca enfrenta a Atlético Mineiro en la final de la Copa Sudamericana 2026: día, hora y cómo verlo en vivo"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "los Pumas confirmaron siete cambios para visitar a Francia por el Nations Championship",
+     "resumen": "Felipe Contepomi confirmó el equipo de los Pumas para enfrentar a Francia el sábado a las 17.10 en el Stade de France, con siete modificaciones respecto del partido ante Italia. Julián Montoya vuelve a la titularidad como hooker y llevará la cinta de capitán tras la lesión muscular de Bautista Bernasconi.",
+     "relacionadas": [
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los Pumas confirmaron siete cambios para enfrentar a Francia por el Nations Championship",
+       "url": "https://www.infobae.com/deportes/2026/11/19/los-pumas-confirmaron-siete-cambios-para-enfrentar-a-francia-por-el-nations-championship/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-francia-la-formacion-argentina-para-un-partido-muy-exigente-en-el-nations-championship-nid19112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SN5BSJ3HN5D6DNI2HIJRJDPITY.jpg?auth=7b72921d2843183ad6badb227f476eaea15a509c27a2eb940e852c4ff699593d&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:34",
+     "autor": "Nicolás Casanova",
+     "titulo_original": "La formación de los Pumas para jugar ante Francia en el Nations Championship"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "la FIFA definió a los dos rivales de Infantino en las elecciones presidenciales de 2027",
+     "resumen": "Gianni Infantino buscará su cuarto mandato al frente de la FIFA en las elecciones del 18 de marzo de 2027 en Rabat, Marruecos, donde competirá con el francés Philippe Diallo, titular de la federación de su país, y el japonés Kohzo Tashima, expresidente de la asociación nipona.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Elecciones en la FIFA: Gianni Infantino buscará su cuarto mandato y enfrentará a dos candidatos en 2027",
+       "url": "https://www.ambito.com/deportes/elecciones-la-fifa-gianni-infantino-buscara-su-cuarto-mandato-y-enfrentara-dos-candidatos-2027-n6347052"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/fifa-anuncio-candidatos-presidente-elecciones-2027-dirigentes-competiran-infantino_0_Xl7osRO0og.html",
+     "imagen": "https://www.clarin.com/img/2026/11/19/2GxD1t4Pc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:55",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La FIFA anunció los candidatos a presidente para las elecciones de 2027: quiénes son los dos dirigentes que competirán con Infantino"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Ashleigh Barty superó a Juan Martín del Potro en la votación para el Salón de la Fama del Tenis",
+     "resumen": "La australiana Ashleigh Barty, tres veces campeona de Grand Slam y exnúmero uno del mundo, fue elegida para ingresar en 2027 al Salón de la Fama del Tenis Internacional en Newport. El tandilense Juan Martín del Potro, que ya había sido postulado el año pasado, quedó nuevamente afuera; en esa ocasión el elegido fue el suizo Roger Federer.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/ashleigh-barty-supero-a-juan-martin-del-potro-e-ingresara-en-el-salon-de-la-fama-del-tenis-en-2027-nid19112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/B7OUTRI4I5EQFEHEBSK2HOFDW4.jpg?auth=d1226ad4a012de5d9f33758d070f2cea88e67c92d1a74a261ca25a0db7c633b0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:58",
+     "autor": "",
+     "titulo_original": "Ashleigh Barty superó a Juan Martín del Potro e ingresará en el Salón de la Fama del Tenis en 2027"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "suspendieron por tres años a la campeona mundial de maratón Peres Jepchirchir por dopaje",
+     "resumen": "La keniana Peres Jepchirchir, oro olímpico en 2021 y ganadora de los maratones de Sídney, Londres, Boston y Nueva York, recibió una suspensión de tres años por dopaje con vigencia desde el 20 de octubre. El caso se suma a una lista de más de 140 atletas kenianos suspendidos o vetados desde 2017.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/suspenden-anos-keniana-jepchirchir-campeona-mundial-maraton-oro-olimpico_0_lEyGPnFWT1.html",
+     "imagen": "https://www.clarin.com/img/2026/11/19/Stbe-IjiR_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:17",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Suspenden por tres años a la keniana Jepchirchir, campeona mundial de maratón y oro olímpico"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "la selección argentina debuta hoy en el Mundial Sub 17 ante Australia",
+     "resumen": "La selección de Diego Placente debuta este jueves a las 13 en el Mundial Sub 17 de Qatar 2026 frente a Australia, con transmisión de TyC Sports y DSports. El equipo llega con un registro inédito: seis de sus futbolistas ya debutaron en primera división.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/argentina-debuta-australia-el-mundial-sub-17-la-marca-historica-que-ilusiona-la-seleccion-diego-placente-n6347056",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:43",
+     "autor": "",
+     "titulo_original": "Argentina debuta ante Australia en el Mundial Sub 17: la marca histórica que ilusiona a la Selección de Diego Placente"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "un asistente de Scaloni compartió el radar de 74 futbolistas en la órbita de la selección",
+     "resumen": "Matías Manna, analista de video y ayudante táctico de Lionel Scaloni, difundió en redes sociales un listado con 74 jugadores de distintas categorías convocados en noviembre, tras la fecha FIFA en la que la Argentina perdió con Uruguay en La Bombonera y goleó 7 a 0 a Costa Rica en Córdoba.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/19/un-asistente-de-lionel-scaloni-compartio-el-mapa-con-los-74-futbolistas-en-la-orbita-de-la-seleccion-argentina/",
+     "imagen": "https://www.infobae.com/resizer/v2/QKNUPMNROZHS5NYZNMALEELLUY.jpg?auth=f7f45f0be0c12b81c0658530a3cf268d4ca3ceda3b6451e4408631a02744252f&smart=true&width=900&height=597",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:26",
+     "autor": "",
+     "titulo_original": "Un asistente de Lionel Scaloni compartió el mapa con los 74 futbolistas en la órbita de la selección argentina"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-26",
+     "titulo": "el pueblo de montaña español que enamoró a Michael Douglas y reúne a 75 argentinos",
+     "resumen": "Con poco más de dos mil residentes, este pueblo español de montaña alberga a unos 75 argentinos, la comunidad extranjera más numerosa del lugar. El destino combina casas de piedra centenarias, un monasterio, olivares, senderos y las ensaimadas como especialidad local.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/viajes/pueblo-espanol-montana-enamoro-michael-douglas-casas-piedra-monasterio-pelicula-mejores-ensaimadas_0_GzVhmTENWk.html",
+     "imagen": "https://www.clarin.com/img/2023/07/03/kB3iCT2Yb_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:52",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El pueblo español de montaña que enamoró a Michael Douglas: casas de piedra, un monasterio de película y las mejores ensaimadas"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "LN-01",
+     "titulo": "murió un segundo operario de Metrogas y el ADN confirmó la identidad de la primera víctima",
+     "resumen": "Seis días después de la explosión en Remedios de Escalada, el ADN confirmó que la primera víctima fatal es Marcelo García, de 47 años, operario de Metrogas que estaba desaparecido desde la tragedia del viernes 13 de noviembre. Este jueves murió además un segundo trabajador, de 44 años, que permanecía internado en estado gravísimo, con lo que ya son dos los muertos y cuatro los heridos que continúan hospitalizados.",
+     "relacionadas": [
+      {
+       "id": "LN-06",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Qué se sabe de la explosión en Remedios de Escalada: nuevas víctimas y cómo sigue la investigación",
+       "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-explosion-en-remedios-de-escalada-nuevas-victimas-y-como-sigue-la-investigacion-nid19112026/"
+      },
+      {
+       "id": "LN-14",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Explosión en Remedios de Escalada: murió otro operario de Metrogas y ya son dos las víctimas fatales",
+       "url": "https://www.lanacion.com.ar/sociedad/explosion-en-remedios-de-escalada-murio-otro-operario-de-metrogas-y-ya-son-dos-las-victimas-fatales-nid19112026/"
+      },
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Explosión en Lanús: murió un operario que había quedado internado en grave estado y ya son dos las víctimas fatales",
+       "url": "https://www.infobae.com/sociedad/policiales/2026/11/19/murio-otro-de-los-heridos-graves-por-la-explosion-de-lanus-y-ya-son-dos-las-victimas-fatales/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Explosión en Remedios de Escalada: confirmaron la identidad del primer muerto",
+       "url": "https://www.ambito.com/informacion-general/explosion-remedios-escalada-confirmaron-la-identidad-del-primer-muerto-n6347087"
+      },
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Murió otro operario de Metrogas por la explosión en Remedios de Escalada y ya son dos las víctimas",
+       "url": "https://www.clarin.com/sociedad/murio-operario-metrogas-explosion-remedios-escalada-victimas_0_tZj01wBap3.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/seis-dias-despues-de-la-explosion-el-adn-confirmo-que-la-primera-victima-fatal-es-el-operario-de-nid19112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NWDCR6VLANDF7HYXG6R2CZAHV4.jpg?auth=3939f08e712448746cba912fd3cbf6cb4df78bfb665b1ca1148f9acbd50c1c08&smart=true&width=640&height=480",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:06",
+     "autor": "",
+     "titulo_original": "Seis días después de la explosión, el ADN confirmó que la primera víctima fatal es el operario de Metrogas desaparecido"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "el río Paraná sigue creciendo y nueve estaciones hidrométricas superan el nivel de evacuación",
+     "resumen": "Nueve estaciones hidrométricas del río Paraná se ubican por encima del nivel de evacuación, en el marco del fenómeno de El Niño, mientras se pronostican nuevas tormentas en los próximos días.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-argentina-vivo-rio-parana-sigue-creciendo-niveles-criticos-pronostican-tormentas_0_H1oOJyRUoU.html",
+     "imagen": "https://www.clarin.com/img/2026/10/25/bURtUo47y_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Super Niño en Argentina, EN VIVO: el río Paraná sigue creciendo, está en niveles críticos y pronostican más tormentas"
+    },
+    {
+     "id": "LN-12",
+     "titulo": "se vienen 96 horas de calor, tormentas severas y ráfagas de más de 90 kilómetros por hora",
+     "resumen": "Las próximas 96 horas estarán marcadas por el calor, nuevas tormentas y ráfagas que podrían superar los 90 kilómetros por hora, con el noreste como la región más afectada por los fenómenos severos. El AMBA alternará momentos de sol con nuevas lluvias, sin estabilidad duradera, en un escenario similar al de la línea de tormentas que entre el lunes y el martes afectó a Córdoba, Santa Fe y Entre Ríos.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/se-aproximan-96-horas-de-calor-tormentas-severas-episodios-humedos-y-rafagas-de-mas-de-90-kmh-las-nid18112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7CYM25AXGNBTVEDOBOQ7FCAOFM.jpeg?auth=418e2d30fd8ba9fd4165d8a044b2bfd4d8c61c21d603d87e31a7e9d2a25c3cbc&smart=true&width=830&height=462",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:58",
+     "autor": "",
+     "titulo_original": "Se aproximan 96 horas de calor, tormentas severas, “episodios húmedos” y ráfagas de más de 90 km/h: las zonas afectadas"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del jueves diecinueve de noviembre.\n\nEl Senado inició hoy una megasesión que debate los proyectos de Discapacidad, la Inviolabilidad de la Propiedad Privada y la apertura del cabotaje marítimo, mientras el oficialismo sigue ordenando sus alianzas para las elecciones de dos mil veintisiete. En paralelo, el dólar blue marcó un nuevo récord y el rebote bursátil de Anthropic se trasladó a los bonos soberanos argentinos. La explosión de Remedios de Escalada sumó una segunda víctima fatal y esta tarde Boca Juniors juega en Barranquilla la final de la Copa Sudamericana.\n\nEn cuanto a los números del día, el dólar oficial cerró en mil quinientos ochenta pesos, el blue en mil seiscientos treinta y cinco, el dólar MEP en mil seiscientos veintidós y el mayorista en mil quinientos cincuenta y nueve pesos. El riesgo país se ubicó en ochocientos cuarenta y ocho puntos, el oro cotiza en tres mil setecientos nueve dólares la onza y la inflación de octubre fue de dos coma dos por ciento mensual y treinta y tres coma uno por ciento interanual.\n\nEn política, el Senado avanza con la Ley de Discapacidad y el proyecto de Propiedad Privada, que modifica desalojos, usurpaciones y expropiaciones y restablece topes a la compra de tierras rurales por parte de extranjeros, según informa El Cronista. El proyecto de reforma electoral, además de suspender las primarias, haría que los debates presidenciales dejen de ser obligatorios, informa La Nación. En el macrismo hay tensión interna: el diputado Fernando de Andreis no descartó competir contra Jorge Macri por la jefatura porteña en dos mil veintisiete. Un estudio de la Universidad de Buenos Aires encontró un empate entre Javier Milei y Axel Kicillof en un eventual balotaje, mientras otra encuesta de la Universidad de San Andrés describió una polarización moderada con diferencias notables entre hombres y mujeres. Patricia Bullrich reclamó cambios impositivos y laborales para aliviar a las pequeñas y medianas empresas, y el ministro de Justicia, Mahiques, se reunió en Washington con el jefe de la división criminal del Departamento de Justicia estadounidense para fortalecer la cooperación judicial.\n\nEn economía y mercados, además del nuevo récord del dólar blue, la confianza del consumidor bajó uno coma tres por ciento en noviembre, según la Universidad Torcuato Di Tella, arrastrada por una caída de siete coma seis por ciento en el Gran Buenos Aires que no compensaron las mejoras en la Ciudad y el interior. El Gobierno logró en octubre un superávit primario equivalente a mil trescientos millones de dólares, aunque JP Morgan advierte que en dos mil veintisiete hará falta que la actividad se recupere para sostener ese resultado. El oro, que llegó a cotizar en cinco mil quinientos noventa y cinco dólares la onza en enero, perdió un tercio de su valor y pone en duda su reputación como refugio, informa El Cronista. Y Goldman Sachs recomendó tomar ganancias del carry trade en pesos de cara a la incertidumbre electoral de dos mil veintisiete.\n\nEn negocios y empresas, el consumo masivo argentino se reconfigura: la española DIA y la cadena Burger King aparecieron como vendedoras de marcas locales que compraron grupos empresarios argentinos, según El Cronista. Mercado Libre y Carrefour lanzaron un servicio de entregas a domicilio en menos de cuarenta y cinco minutos en la Ciudad y el Gran Buenos Aires. Toyota proyecta producir más modelos híbridos en su planta de Zárate, además de la pick up Tacoma, tras una inversión de mil trescientos cuarenta y un millones de dólares en el marco del Régimen de Incentivo para Grandes Inversiones. Y un informe oficial proyecta que el cobre podría generar exportaciones por casi diecinueve mil millones de dólares hacia dos mil treinta y cinco.\n\nEn impuestos, laboral y normativa, la reforma tributaria del Gobierno busca reemplazar Ingresos Brutos por un IVA con componentes nacional y provincial, aunque enfrenta obstáculos, mientras en la Legislatura bonaerense un diputado libertario propone sustituirlo de forma gradual por un gravamen sobre las ventas finales. Desde esta semana rige un nuevo régimen de Defensa de la Competencia que obliga a notificar y obtener aprobación antes de cerrar una fusión o adquisición que supere ciertos umbrales, lo que puede demorar los tiempos de cierre de esas operaciones. El Fondo de Asistencia Laboral, que empieza a regir en diciembre, cambia el cálculo de la indemnización por despido, aunque no cubrirá todos los casos, y la organización gremial ATE pidió a la Justicia frenarlo. Y la Justicia le puso límites a un municipio bonaerense que cobraba una tasa vial sin demostrar que prestaba el servicio correspondiente.\n\nEn consumo, construcción y retail, un estudio estimó que un asalariado formal necesita seis coma cuatro años de ahorro para reunir el anticipo de una vivienda, un plazo que en Misiones llega a nueve coma seis años. Los cortes de carne vacuna subieron hasta cuarenta y siete por ciento en el último año por la caída de la producción. El shopping Unicenter sumó locales de Lego y Tesla, una marca de ropa argentina apuesta por tiendas de apenas diez metros cuadrados, y la billetera Cuenta DNI mantiene descuentos de hasta cuarenta por ciento por semana durante noviembre.\n\nEn management y finanzas corporativas, un ejecutivo de SAP para América Latina aseguró que las empresas que incorporan agentes de inteligencia artificial en el área de Finanzas ya logran ahorros de tiempo de entre treinta y cincuenta por ciento. Una columna de gestión retomó una frase de Warren Buffett para advertir sobre los líderes que confunden ser indispensables con haber construido un buen negocio, y otra nota repasó los errores más comunes de quienes arman una cartera de inversiones por primera vez.\n\nEn el mundo, la Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra la minoría rohinyá en la operación militar de dos mil diecisiete, con cerca de diez mil civiles asesinados; es la primera vez que el tribunal hace una declaración de ese tipo. Donald Trump, Xi Jinping y Vladimir Putin firmaron en Shenzhen una declaración conjunta de cuatro puntos sobre estabilidad internacional, energía y prevención nuclear; Xi calificó el encuentro de altamente productivo y Putin lo comparó con la Conferencia de Yalta de mil novecientos cuarenta y cinco. España debate si el crecimiento de su red de trenes de alta velocidad superó la capacidad de mantenimiento, tras un accidente ferroviario, y los españoles votarán el domingo veintinueve de noviembre en elecciones generales anticipadas. En Colombia hubo una nueva jornada de paro nacional en rechazo al proyecto de Rescate Económico del Gobierno.\n\nEn deportes, Boca Juniors enfrenta esta tarde a Atlético Mineiro en Barranquilla por la final de la Copa Sudamericana. Los Pumas confirmaron siete cambios para visitar a Francia el sábado por el Nations Championship, con Julián Montoya de vuelta como capitán. La FIFA definió que Gianni Infantino competirá por su cuarto mandato contra el francés Philippe Diallo y el japonés Kohzo Tashima en marzo de dos mil veintisiete. La australiana Ashleigh Barty superó al tandilense Juan Martín del Potro en la votación para el Salón de la Fama del Tenis, y la maratonista keniana Peres Jepchirchir fue suspendida tres años por dopaje. Esta tarde además debuta la selección argentina sub diecisiete ante Australia en el Mundial de Qatar.\n\nY para cerrar, en turismo, un pueblo de montaña español que enamoró a Michael Douglas combina casas de piedra centenarias, un monasterio y senderos, y reúne a una comunidad de unos setenta y cinco argentinos.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Le Grand Continent no publicó notas en esta corrida, por lo que se omitió la sección Europa y geopolítica. Tampoco apareció en el material crudo un destino turístico dentro de la Argentina; se usó el mejor disponible (un pueblo de montaña en España).",
+ "slug": "2026-11-19-mediodia",
+ "generado_ba": "19/11/2026 15:19"
+}
