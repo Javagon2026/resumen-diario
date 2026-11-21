@@ -1,0 +1,780 @@
+{
+ "fecha": "2026-11-21",
+ "edicion": "mediodia",
+ "titulo": "El peronismo discute el rumbo a 2027 mientras los mercados siguen en vilo",
+ "apertura": "Tras el salto del dólar y el riesgo país del viernes, el mercado sigue nervioso: Economía sale a renovar 25,4 billones de pesos de deuda, el bitcoin no encuentra piso y hay quienes comparan la aversión global al riesgo con las crisis de 2001 y 2008. En el plano político, el acto de San Fernando dejó a Kicillof afuera de la foto y abrió una discusión abierta en el peronismo sobre cómo llegar a 2027, mientras el Gobierno negocia con los gobernadores la baja del impuesto a los Sellos. En el plano internacional, Finlandia denunció una posible violación de su espacio aéreo por un helicóptero ruso y dos buques fueron alcanzados por proyectiles en el estrecho de Ormuz, horas antes de que Boca juegue esta noche la final de la Copa Sudamericana y los Pumas enfrenten a Francia.",
+ "claves": [
+  "El Gobierno sale a renovar 25,4 billones de pesos de deuda en pesos en un contexto de menor demanda de títulos públicos, según Ámbito.",
+  "El acto peronista de San Fernando dejó a Kicillof afuera de la foto y expuso la pelea por el armado rumbo a 2027, mientras una encuesta de Tendencias Consultora muestra que crece la bronca social aunque el oficialismo retiene su voto.",
+  "Santilli y Menem viajaron a Mendoza para negociar con gobernadores la baja del impuesto a los Sellos a cambio de apoyo a la suspensión de las PASO.",
+  "El fiscal Luciani pidió apartar a un perito tasador designado por Cristina Kirchner por sus vínculos con el financista Lázaro Báez.",
+  "Finlandia sospecha que un helicóptero ruso violó su espacio aéreo, vinculado al ataque con drones a un buque en el golfo de Finlandia; además dos buques cisterna fueron alcanzados por proyectiles en el estrecho de Ormuz.",
+  "El bitcoin cayó por debajo de los 59.000 dólares y los inversores dudan entre comprar la caída o esperar nuevas bajas.",
+  "Franco Colapinto clasificó noveno para el Gran Premio de Las Vegas y se quejó por maniobras de Carlos Sainz; la carrera arranca la una de la madrugada del domingo, hora argentina.",
+  "Boca juega esta noche a las 19.30 la final de la Copa Sudamericana ante Atlético Mineiro en Barranquilla, y los Pumas enfrentan hoy a Francia en Saint-Denis."
+ ],
+ "cifras": [
+  {
+   "nombre": "Vencimientos de deuda en pesos a renovar",
+   "valor": "$ 25,4 billones",
+   "fuente": "AM-09"
+  },
+  {
+   "nombre": "Bitcoin",
+   "valor": "u$s 59.000",
+   "variacion": "a la baja",
+   "fuente": "AM-10"
+  },
+  {
+   "nombre": "Precios de alimentos y bebidas (LCG, 3ª semana de noviembre)",
+   "valor": "+0,3%",
+   "variacion": "acumula +0,9% en el mes",
+   "fuente": "CR-08"
+  },
+  {
+   "nombre": "Cosecha de trigo 2026/27 (Bolsa de Comercio de Rosario)",
+   "valor": "24,3 millones de toneladas",
+   "fuente": "CR-07"
+  },
+  {
+   "nombre": "Costo de demoler un edificio de 900 m2 en CABA",
+   "valor": "$ 86 millones",
+   "fuente": "IP-08"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "Kicillof quedó afuera de la foto y el peronismo discute cómo llegar a 2027",
+     "resumen": "El acto de San Fernando, organizado por el Peronismo Federal, la Liga de Intendentes y el Frente Renovador, fue leído como un gesto contra el gobernador bonaerense, mientras los presentes visitaron a Cristina Kirchner en San José 1111, según El Cronista. El episodio reabrió la discusión sobre las PASO, las reelecciones y la interna rumbo a 2027.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/kicillof-quedo-afuera-de-la-foto-y-el-peronismo-empezo-a-discutir-como-llegar-a-2027/",
+     "imagen": "https://www.cronista.com/resizer/v2/2H6NCVRG5FBNTJRML3YPAZE6GA.jpeg?auth=dc668e699c6403d72b93169a8bd917edf94c64067bc05c4b02ed64da59cbdb78&smart=true&width=900&height=664",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:29",
+     "autor": "Alejandro Cancelare",
+     "titulo_original": "Kicillof quedó afuera de la foto y el peronismo empezó a discutir cómo llegar a 2027"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "crece la \"bronca\" social, pero el oficialismo mantiene su voto de cara a 2027",
+     "resumen": "Una encuesta nacional de octubre de Tendencias Consultora muestra que, aunque la esperanza sigue siendo el sentimiento más mencionado hacia el Gobierno, la bronca le sigue muy de cerca y las sensaciones negativas ya superan a las positivas en la suma total, informó El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-dato-que-desafia-a-milei-rumbo-a-2027-crece-la-bronca-pero-el-oficialismo-mantiene-su-voto/",
+     "imagen": "https://www.cronista.com/resizer/v2/VAVYAKMVOBFRRN3YXIZ42W5CJA.jpg?auth=0d2324f78e943fadcf66b275ace4a497068cdd647c3134fe932edc4fccc25840&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:44",
+     "autor": "Giannina Nigro",
+     "titulo_original": "El dato que desafía a Milei rumbo a 2027: crece la “bronca”, pero el oficialismo mantiene su voto"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Santilli y Menem negocian con gobernadores la baja de impuestos a cambio de apoyo a la suspensión de las PASO",
+     "resumen": "El jefe de Gabinete y el presidente de la Cámara de Diputados viajaron a Mendoza para la Cumbre de Minería Sostenible, donde avanzaron en alianzas electorales con gobernadores aliados, según El Cronista. La negociación por ahora se limita a las candidaturas nacionales, con el Senado como prioridad, mientras Economía ofrece compensaciones a las provincias que bajen tributos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/inversiones-baja-de-impuestos-y-alianzas-como-se-define-la-negociacion-con-las-provincias/",
+     "imagen": "https://www.cronista.com/resizer/v2/MMKGLAQURBG4DOFPHZOD2GI33E.jpeg?auth=0a17bd1bb9ed1e71a8be85517ada5aec18d772e65aaead8f4668bcad0b58742f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:59",
+     "autor": "Daniela Romero",
+     "titulo_original": "Inversiones, baja de impuestos y alianzas: cómo se define la negociación con las provincias"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "el oficialismo confía en tener los votos para aprobar la suspensión de las PASO en el Senado",
+     "resumen": "Dentro de La Libertad Avanza consideran que ya cuentan con el respaldo necesario para imponer su iniciativa sobre las primarias que se realizarían el año próximo, informó Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/javier-milei-vivo-gobierno-confia-aprobar-suspension-paso-ultimas-noticias-21-noviembre_0_Gdkvv5VhhV.html",
+     "imagen": "https://www.clarin.com/img/2026/11/21/4ZC_NiqVq_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei, EN VIVO: el Gobierno confía en aprobar la suspensión de las PASO y últimas noticias este 21 de noviembre"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "el fiscal Luciani pidió apartar a un perito tasador designado por Cristina Kirchner por sus vínculos con Lázaro Báez",
+     "resumen": "Se trata de Sergio Felipe Pejkovic, designado por la expresidenta y señalado ahora como operador del contratista patagónico en maniobras gestionadas desde la cárcel, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/fiscal-luciani-pidio-aparte-perito-tasador-designo-cristina-kirchner-vinculos-lazaro-baez_0_mwaiboG6AT.html",
+     "imagen": "https://www.clarin.com/img/2025/10/22/JyMZWU8uS_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El fiscal Luciani pidió que se aparte a un perito tasador que designó Cristina Kirchner por sus vínculos con Lázaro Báez"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "detuvieron a otros cuatro sospechosos por la fuga del exterrorista italiano Leonardo Bertulazzi",
+     "resumen": "Los nuevos detenidos, tres extranjeros residentes en el país y un argentino, son investigados por la logística previa y el encubrimiento posterior a la fuga, que ya lleva once días, informó La Nación. Ya son cinco las personas presas por el caso, incluida la esposa de Bertulazzi, detenida el miércoles.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/seguridad/detuvieron-a-otros-cuatro-sospechosos-por-la-cinematografica-fuga-del-exterrorista-italiano-leonardo-nid20112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5HK2R7JRCBA77FOPACOL6WDBOM.png?auth=4b511d10d870dbf129df3574d3271149c9dd254227596e5db25a142c2d583936&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:21",
+     "autor": "Gabriel Di Nicola",
+     "titulo_original": "Detuvieron a otros cuatro sospechosos por la cinematográfica fuga del exterrorista italiano Leonardo Bertulazzi"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-22",
+     "titulo": "la aversión global al riesgo golpeó a los activos argentinos y dispara comparaciones con 2001 y 2008",
+     "resumen": "El contado con liquidación trepó 12% en tres ruedas y los títulos soberanos cayeron en medio de una ola de desconfianza que, según Infobae, solo tiene dos antecedentes en el siglo: los atentados de 2001 y la crisis de las hipotecas de 2008. El índice VIX, el \"índice del miedo\" de Wall Street, llegó a tocar los 25 puntos esta semana.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Por qué subió el dólar: las causas detrás del salto de las cotizaciones de esta semana y el impacto del riesgo país",
+       "url": "https://www.lanacion.com.ar/economia/dolar/por-que-subio-el-dolar-las-causas-detras-del-salto-de-las-cotizaciones-de-esta-semana-y-el-impacto-nid21112026/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/21/menos-confianza-en-la-reeleccion-y-mas-demanda-de-dolares-las-senales-que-inquietan-al-mercado-y-disparan-el-riesgo-pais/",
+     "imagen": "https://www.infobae.com/resizer/v2/ISL6G2U2WZCGXESHHKLQQRZ6DY.jpg?auth=7e0a5d448af60a6f4a13c5ef13893af26582ed1a8ec1387360d0e40a25ebc351&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:22",
+     "autor": "Luis Beldi",
+     "titulo_original": "Menos confianza en la reelección y más demanda de dólares: las señales que inquietan al mercado y disparan el riesgo país"
+    },
+    {
+     "id": "LN-07",
+     "titulo": "las causas detrás del salto del dólar y el impacto del riesgo país",
+     "resumen": "El dólar oficial minorista cerró a 1.600 pesos, con una suba de 30 pesos en cinco días, mientras el mayorista llegó a 1.580 pesos, según La Nación. La fortaleza global de la moneda estadounidense, la depreciación del real brasileño y la incertidumbre por las presidenciales de 2027 explican la aceleración de los últimos días.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/dolar/por-que-subio-el-dolar-las-causas-detras-del-salto-de-las-cotizaciones-de-esta-semana-y-el-impacto-nid21112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/HLVPTCYFGVHLVCAMWG3WGS3DOU.JPG?auth=1f34c65a21486e8afdc24419949a0bf4e89bcdab37059b6ab3a88232b764baa0&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:38",
+     "autor": "Agustina Parise",
+     "titulo_original": "Por qué subió el dólar: las causas detrás del salto de las cotizaciones de esta semana y el impacto del riesgo país"
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Economía sale a renovar 25,4 billones de pesos de deuda en un contexto de menor demanda",
+     "resumen": "El Gobierno enfrenta el desafío de refinanciar vencimientos de deuda en pesos con creciente cautela de los inversores, según operadores de mercado consultados por Ámbito. Para una empresa: un roll over más caro presiona las tasas de referencia que se usan para descontar cheques y financiar capital de trabajo.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deuda-medio-una-creciente-desconfianza-del-mercado-economia-sale-renovar-254-billones-n6347729",
+     "imagen": "https://media.ambito.com/p/8f642155a5b02771cbf30928189ca844/adjuntos/239/imagenes/043/685/0043685682/ministerio-economia-mecon.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Deuda: en medio de una creciente desconfianza del mercado, Economía sale a renovar $25,4 billones"
+    },
+    {
+     "id": "IP-19",
+     "titulo": "parte de la City vislumbra una fuerte baja del riesgo país y ve una oportunidad en los bonos",
+     "resumen": "Pese al complejo contexto financiero, algunos operadores identifican señales positivas y recomiendan prestar atención a los bonos en dólares y en pesos, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/469686-el-guru-de-la-city-avisa-que-bonos-seran-un-gran-negocio-sus-fundamentos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/604492.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:00",
+     "autor": "",
+     "titulo_original": "Parte de la City vislumbra fuerte baja del riesgo país y los bonos serán un gran negocio"
+    },
+    {
+     "id": "AM-10",
+     "titulo": "el bitcoin no encuentra piso y cayó por debajo de los 59.000 dólares",
+     "resumen": "La criptomoneda profundizó su derrumbe y los inversores debaten si aprovechar la caída para comprar o esperar nuevas bajas, según referentes del mercado cripto consultados por Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/finanzas/bitcoin-no-encuentra-piso-las-razones-del-desplome-y-el-dilema-los-inversores-comprar-vender-o-esperar-n6347536",
+     "imagen": "https://media.ambito.com/p/212f074711c07891a256f4a0cf11f865/adjuntos/239/imagenes/041/570/0041570277/bitcoin-criptomonedasjpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Bitcoin no encuentra piso: las razones del desplome y el dilema de los inversores, ¿comprar, vender o esperar?"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "los precios de los alimentos moderan el ritmo de suba, pero encadenan dos semanas en alza",
+     "resumen": "El relevamiento semanal de la consultora LCG mostró un aumento de 0,3% en la tercera semana de noviembre para el rubro alimentos y bebidas, con un acumulado de 0,9% en el mes, informó El Cronista. El dato muestra una desaceleración frente a la semana anterior tras la aceleración que había mostrado el IPC de octubre.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/precios-un-rubro-clave-del-ipc-acumula-dos-semanas-de-aumentos-pero-un-dato-muestra-cuanto-se-modero-el-ritmo/",
+     "imagen": "https://www.cronista.com/resizer/v2/YOAH7RZQNRDLDEVDPPUADCE474.jpg?auth=3b5b77a2eb3b6057ecbf5412c253fd1e7325f44c21ffd9aeb27cd67b3e7c5822&smart=true&width=900&height=583",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:45",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Precios: un rubro clave del IPC acumula dos semanas de aumentos, pero un dato muestra cuánto se moderó el ritmo"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "los prestamistas de SpaceX quieren impedir que Musk lance al espacio los chips que garantizan su deuda",
+     "resumen": "Los inversores que respaldan un paquete de deuda de 43.000 millones de dólares, garantizado con semiconductores de inteligencia artificial, buscan protección legal para que esos chips no terminen en los centros de datos orbitales que proyecta SpaceX, según El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/financial-times/el-sueno-espacial-de-musk-choca-con-sus-prestamistas-quieren-impedir-que-ponga-sus-chips-en-orbita/",
+     "imagen": "https://www.cronista.com/resizer/v2/AWP2G5QIANHCZPKH2DNGFU7PWA.jpeg?auth=b491df7ff5c30e281312a49442656f96e4078967921640e28e86d28feeba2f89&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:28",
+     "autor": "Michelle Chan, Kate Duguid",
+     "titulo_original": "El sueño espacial de Musk choca con sus prestamistas: quieren impedir que ponga sus chips en órbita"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-18",
+     "titulo": "Ford paraliza por dos meses la producción de la pick-up Ranger por menor demanda",
+     "resumen": "La automotriz enfrenta ajustes drásticos ante la baja en las ventas globales y la presión de costos, con impacto en puestos de trabajo y proveedores de Argentina y Brasil, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/469644-ford-paraliza-por-dos-meses-la-produccion-de-la-pick-up-ranger",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/614854.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:09",
+     "autor": "",
+     "titulo_original": "Ford paraliza por 2 meses la producción de la pick-up Ranger por menor demanda en Argentina y Brasil"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "la cosecha de trigo pulveriza los pronósticos y rompe récords en dos provincias",
+     "resumen": "La Bolsa de Comercio de Rosario corrigió al alza su estimación de cosecha 2026/27 a 24,3 millones de toneladas, medio millón más que en octubre, pese a que al inicio de la siembra se temía un fuerte recorte por los altos costos. La baja de un insumo clave y un clima inesperado dieron vuelta los rindes, según El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/sorpresa-en-el-agro-el-cultivo-que-pulverizo-todos-los-pronosticos-y-rompe-records-en-dos-provincias/",
+     "imagen": "https://www.cronista.com/resizer/v2/JKYIWDXAKJE6HP3RDUAUQJAPD4.jpg?auth=2e970e44bddf48116b3d86440c81750612f81792aa81618d61f710b91522a950&smart=true&width=900&height=579",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:46",
+     "autor": "Fernando Garcia",
+     "titulo_original": "Sorpresa en el agro: el cultivo que pulverizó todos los pronósticos y rompe récords en dos provincias"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "un frigorífico salteño sextuplicó sus exportaciones tras invertir 20 millones de dólares",
+     "resumen": "La planta Bermejo, de Inversora Juramento y Frigorífico Gorina, modernizó sus instalaciones en Salta y ampliará su capacidad de faena, informó El Cronista. Las ventas del primer semestre de 2026 llegaron a 72 millones de dólares, un alza interanual de 112%, y las exportaciones pasaron de 5,5 a 32,4 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/la-formula-de-los-brito-para-sextuplicar-las-exportaciones-de-su-frigorifico-vip-con-apenas-us-20-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/T2QKWLXBZNC7RGFJZ4WM3FVQK4.png?auth=ac68480beb1bac9e7fb962fed574b6635e01f1970e4d4882226dbe5b1fa6d556&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Equipo Negocios",
+     "titulo_original": "La fórmula de los Brito para sextuplicar las exportaciones de su frigorífico vip con “apenas” u$s 20 millones"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "la marca de yerba más consumida en Argentina vendió casi 40 millones de kilos en ocho meses",
+     "resumen": "Playadito y Las Marías, dos firmas correntinas, explican cuatro de cada diez kilos de yerba que se venden en el país y se alternan el primer puesto mes a mes, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/469461-ranking-de-yerbas-en-argentina-las-marcas-mas-vendidas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623408.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:10",
+     "autor": "",
+     "titulo_original": "La marca de yerba más consumida en Argentina vendió casi 40 millones de kilos en 8 meses"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "Lego y Tesla, entre las nuevas aperturas de Unicenter",
+     "resumen": "El shopping de Martínez suma dos grandes marcas internacionales y avanza con su renovación, según iProfesional, que detalló cuándo abrirán los nuevos locales.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/469318-lego-tesla-y-mas-marcas-las-nuevas-aperturas-de-unicenter",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/618665.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:35",
+     "autor": "",
+     "titulo_original": "Lego, Tesla y más marcas: las nuevas aperturas de Unicenter"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "renunció la directora de Wildberries, el gigante del comercio electrónico ruso, tras ser sancionada por la Unión Europea",
+     "resumen": "Tatiana Kim dejó la conducción del mayor minorista online de Rusia cinco días después de que la Unión Europea la incluyera en su lista negra, que acusa a la empresa de facilitar la venta de material bélico y de doble uso al ejército ruso, según Infobae. Alexéi Kulikov asumió como nuevo director general.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/21/renuncio-la-directora-del-gigante-del-comercio-electronico-ruso-wildberries-tras-ser-sancionada-por-la-union-europea/",
+     "imagen": "https://www.infobae.com/resizer/v2/JO6NC2GLGBFALK24PDD6HSADTA.jpg?auth=16cfe43059f2873b8b604f2586e8c03381a4ed86b38b574d46217f97d57c6f7e&smart=true&width=900&height=597",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:06",
+     "autor": "",
+     "titulo_original": "Renunció la directora del gigante del comercio electrónico ruso Wildberries tras ser sancionada por la Unión Europea"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "un fallo judicial cambia las reglas de las cuotas de las prepagas",
+     "resumen": "La decisión obliga al Estado a retomar el control de los valores de las cuotas y abre interrogantes sobre futuros aumentos, devoluciones y reclamos de los afiliados, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/469724-prepagas-fallo-corte-suprema-cambia-reglas-y-abre-nuevo-escenario-para-cuotas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630303.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:20",
+     "autor": "",
+     "titulo_original": "Prepagas: fallo de la Justicia cambia las reglas y abre nuevo escenario para las cuotas"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "por qué en la Argentina se pagan más impuestos de lo que dice la ley",
+     "resumen": "Todos los contribuyentes, personas y empresas, pagan tasas reales superiores a las escritas en las normas porque la inflación no se reconoce plenamente desde 2001, cuando se congelaron las leyes de Convertibilidad 23.928 y 24.073 que prohíben actualizar mínimos y deducciones, explica El Cronista. El reconocimiento fue parcial recién a partir de 2018. Para una empresa: conviene revisar con el asesor impositivo qué deducciones siguen desactualizadas antes de liquidar el impuesto a las Ganancias.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/cuales-son-las-tasas-verdaderas-que-se-pagan-de-impuestos-en-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/M2PWRPAT2VG45PLSQUYYA6KNQY.jpg?auth=1f3d52aaf3fd9b35b8d4a682ad4bbef9d38dc61c49e0d665727daead9c60a4f2&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:16",
+     "autor": "José Luis Ceteri",
+     "titulo_original": "Las tasas que mienten: por qué en la Argentina se pagan más impuestos de lo que dice la ley"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "cuánto cobrarán por hora las empleadas domésticas en diciembre y cómo se calcula el aguinaldo",
+     "resumen": "La Resolución 6/2026 de la Comisión Nacional de Trabajo en Casas Particulares fija un aumento de 1,6% para diciembre, calculado sobre los mínimos de noviembre, dentro de un esquema de subas mensuales que arrancó en agosto con 1,9%, informó El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/empleadas-domesticas-cuanto-cobraran-la-hora-en-diciembre-2026-y-como-se-calcula-el-aguinaldo/",
+     "imagen": "https://www.cronista.com/resizer/v2/BDVOGK4UWFEPHHAPUJAGGMZFPM.jpg?auth=8c3b2432cc11b39512434ce8a3ca5aae99567f7318ca907c1c6313aa97fcb357&smart=true&width=800&height=450",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:51",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Empleadas domésticas: cuánto cobrarán la hora en diciembre 2026 y cómo se calcula el aguinaldo"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "la ANSES actualizará las jubilaciones mínima y máxima en diciembre según la inflación de octubre",
+     "resumen": "El organismo aplicará el 2,2% informado por el INDEC para octubre, según iProfesional, que detalló los nuevos valores de la jubilación mínima y máxima.",
+     "relacionadas": [
+      {
+       "id": "CR-01",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Pensionados de ANSES en diciembre de 2026: cuánto se cobra con el aumento, aguinaldo y bono",
+       "url": "https://www.cronista.com/economia-politica/pensionados-de-anses-en-diciembre-de-2026-cuanto-se-cobra-con-el-aumento-aguinaldo-y-bono/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/impuestos/469402-jubilaciones-con-aumento-como-quedan-la-minima-y-la-maxima-en-diciembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/629733.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:36",
+     "autor": "",
+     "titulo_original": "Jubilaciones con aumento: ¿cómo quedan la mínima y la máxima en diciembre 2026?"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-08",
+     "titulo": "demoler un edificio de 900 metros cuadrados cuesta 86 millones de pesos",
+     "resumen": "El dato reabre el debate sobre el impacto ambiental de las demoliciones y la conveniencia de recuperar estructuras urbanas en lugar de derribarlas, según iProfesional. Para una empresa: el costo creciente de demoler puede inclinar la balanza hacia la refacción de locales existentes antes que la obra nueva.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/469583-demoler-un-edificio-cuesta-86-millones-y-debaten-como-recuperarlo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630189.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:48",
+     "autor": "",
+     "titulo_original": "Demoler un edificio de 900 m2 cuesta $86 millones y reabre el debate sobre su recuperación"
+    },
+    {
+     "id": "CR-15",
+     "titulo": "los desarrolladores del barrio náutico vecino de Costantini se expanden en Cardales",
+     "resumen": "Grupo E2, detrás de El Naudir en Escobar, ya invirtió más de 300 millones de dólares en el país y prevé un monto similar en los próximos diez años con nuevos proyectos de departamentos, locales comerciales y espacios gastronómicos, informó El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/los-duenos-de-la-joya-nautica-vecina-de-costantini-se-expanden-en-el-nuevo-barrio-norte-de-moda/",
+     "imagen": "https://www.cronista.com/resizer/v2/2R7DC2CLKBDKRHAMEIYZWXPSME.png?auth=b9f980669369b927f111b5992d480a51353ce4e83fc6b430be867e1ea32ae5c2&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Micaela Mura",
+     "titulo_original": "Los dueños de la “joya” náutica vecina de Costantini se expanden en el nuevo barrio norte de moda"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "cuánto costará alquilar una casa con pileta en un barrio cerrado este verano",
+     "resumen": "Las casas con pileta en barrios cerrados se alquilan desde 1.300 dólares la semana, y el fenómeno climático El Niño influye en el ritmo de las reservas, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/realestate/469470-cuanto-cuesta-alquilar-casa-con-pileta-en-barrios-cerrados-este-verano",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630088.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:23",
+     "autor": "",
+     "titulo_original": "Cuánto costará alquilar una casa con pileta en un barrio cerrado este verano"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-10",
+     "titulo": "la UBA reformó la carrera de Contador Público: menos materias, inteligencia artificial y un título intermedio",
+     "resumen": "El Consejo Directivo de la Facultad de Ciencias Económicas aprobó por amplia mayoría el cambio el 12 de noviembre, en respuesta a cómo la inteligencia artificial y la automatización modifican el trabajo de los estudios profesionales y las áreas financieras de las empresas, informó El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/la-uba-reformo-la-carrera-de-contador-publico-menos-materias-inteligencia-artificial-y-un-titulo-intermedio/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZXISFZV5UFDLNNF4YJ6NPZBLNQ.jpg?auth=e5f92e1c9ac6d222efcba2a85af8f6d91dd479edafec17ad78304e229d541565&smart=true&width=700&height=375",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:29",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "La UBA reformó la carrera de Contador Público: menos materias, inteligencia artificial y un título intermedio"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "el futuro del trabajo exige trayectorias flexibles y vuelve indispensables a las microcredenciales",
+     "resumen": "El modelo de estudiar primero y trabajar después con ese único capital para toda la vida quedó atrás, señala El Cronista: la formación continua y la acreditación de habilidades puntuales se volvieron una condición de empleabilidad ante la aceleración tecnológica.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/el-futuro-del-trabajo-exige-trayectorias-flexibles-por-que-las-microcredenciales-ya-son-indispensables/",
+     "imagen": "https://www.cronista.com/resizer/v2/C3P62MVL7JGEJCR7E3VTHYQZVE.jpg?auth=a8cf07907991c474436e9c2e07b1ad10da6c1956753f371f9eb537d978629d48&smart=true&width=900&height=519",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:34",
+     "autor": "Gustavo Álvarez",
+     "titulo_original": "El futuro del trabajo exige trayectorias flexibles: por qué las microcredenciales ya son indispensables"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "IB-10",
+     "titulo": "Finlandia sospecha que un helicóptero ruso violó su espacio aéreo",
+     "resumen": "El ministro de Defensa finlandés, Antti Häkkänen, informó que la presunta violación podría estar vinculada a las operaciones sobre un buque de carga atacado con drones en el golfo de Finlandia, según Infobae. Las Fuerzas de Defensa y la Guardia Fronteriza siguen el caso junto a otras autoridades.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/21/finlandia-sospecha-que-un-helicoptero-ruso-habria-violado-su-espacio-aereo/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Finlandia sospecha que un helicóptero ruso habría violado su espacio aéreo"
+    },
+    {
+     "id": "AM-04",
+     "titulo": "dos buques cisterna fueron alcanzados por proyectiles desconocidos en el estrecho de Ormuz",
+     "resumen": "La Marina británica informó el incidente y no se registraron heridos, aunque recomendó a la navegación extremar las precauciones en la zona, según Ámbito.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/mundo/dos-buques-cisterna-fueron-alcanzados-el-estrecho-ormuz-proyectiles-desconocidos-n6347865",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:47",
+     "autor": "",
+     "titulo_original": "Dos buques cisterna fueron alcanzados en el estrecho de Ormuz por proyectiles desconocidos"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Lieberman rechazó un gobierno de coalición con los partidos árabes en Israel",
+     "resumen": "El líder de Yisrael Beitenu advirtió que una coalición que dependa del apoyo árabe \"no sobreviviría más de unos pocos meses\", en medio de las negociaciones que encabeza Gadi Eisenkot para desplazar a Benjamín Netanyahu, según Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/21/lieberman-rechazo-un-gobierno-de-coalicion-con-los-partidos-arabes-en-israel-no-sobreviviria-mas-de-unos-pocos-meses/",
+     "imagen": "https://www.infobae.com/resizer/v2/QILUGOVLXFGQ5A6XLWKEG5PWQE.JPG?auth=5678406b304769bbea9cdd0d6530dcb3f0d27642837cf097fffe470fe37a3195&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:04",
+     "autor": "",
+     "titulo_original": "Lieberman rechazó un gobierno de coalición con los partidos árabes en Israel: “No sobreviviría más de unos pocos meses”"
+    },
+    {
+     "id": "AM-06",
+     "titulo": "el FBI investiga una filtración de su base de datos criminales",
+     "resumen": "La base contiene información sobre arrestos y antecedentes penales y es usada por fuerzas federales y locales en Estados Unidos, según Ámbito. Las autoridades descartaron que se trate de un ciberataque, pero los apagones de los últimos días alertaron a los legisladores.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/mundo/el-fbi-investiga-una-filtracion-su-base-datos-criminales-informacion-arrestos-y-antecedentes-penales-n6347850",
+     "imagen": "https://media.ambito.com/p/e45e489430efe3a73f062b30e5ea6698/adjuntos/239/imagenes/043/787/0043787163/1200x675/599x350:619x370/fbi-1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:08",
+     "autor": "",
+     "titulo_original": "El FBI investiga una filtración de su base de datos criminales con información sobre arrestos y antecedentes penales"
+    },
+    {
+     "id": "CL-23",
+     "titulo": "la cumbre ambiental COP31 expone las diferencias entre Brasil y Argentina",
+     "resumen": "Lula mostró en la cumbre que, desde agosto de 2025, la nafta brasileña lleva 30% de etanol, mientras en Argentina la demora en actualizar la ley de biocombustibles posterga inversiones y la mitigación de problemas de salud y ambientales, según Clarín.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/cumbre-ambiental-cop31-diferencias-brasil-argentina_0_asZHbwqT4A.html",
+     "imagen": "https://www.clarin.com/img/2026/11/21/xfo7BmQns_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:23",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La cumbre ambiental COP31 y las diferencias entre Brasil y Argentina"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el próximo capítulo del poder de Xi Jinping en China.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "¿convirtió Xi Jinping su poder en un hecho permanente?",
+     "resumen": "Le Grand Continent publica el texto íntegro de la resolución del Comité Central del Partido Comunista Chino aprobada el 29 de octubre al cierre del V Pleno, que enmarca el trabajo del Partido hasta el Congreso de 2027 en Pekín. La revista destaca que el documento, en línea con la lucha anticorrupción que lleva adelante Xi Jinping desde hace casi 15 años, busca sobre todo reforzar la disciplina interna del Partido antes de esa cita clave.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/21/xi-jinping-convirtio-su-poder-en-eterno/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/11/SIPA_ap23070531_000009-125x83.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "10:23",
+     "autor": "Louis Puel",
+     "titulo_original": "¿Ha convertido Xi Jinping su poder en eterno?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-12",
+     "titulo": "Franco Colapinto largará noveno en Las Vegas tras una clasificación que calificó de \"desastre\"",
+     "resumen": "Ni el argentino ni su compañero de Alpine, Pierre Gasly, lograron superar a los Racing Bulls en la Q3 pese a que sus autos lucían competitivos, informó La Nación. Colapinto había protagonizado antes dos cruces de riesgo con Carlos Sainz en la práctica libre y pidió que lo sancionen; la carrera del Gran Premio de Las Vegas arranca a la una de la madrugada del domingo, hora de Argentina.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El descontento de Franco Colapinto al quedar 9° para Las Vegas: \"Es una pena, estaba para más\"",
+       "url": "https://www.ambito.com/deportes/el-descontento-franco-colapinto-al-quedar-9-las-vegas-es-una-pena-estaba-mas-n6347859"
+      },
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La ira de Franco Colapinto contra Carlos Sainz durante la FP3 del Gran Premio de Las Vegas: “Lo tienen que penalizar”",
+       "url": "https://www.infobae.com/deportes/2026/11/21/la-ira-de-franco-colapinto-contra-carlos-sainz-durante-la-fp3-del-gran-premio-de-las-vegas-lo-tienen-que-penalizar/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-largara-9-en-las-vegas-pero-esperaba-mas-de-la-clasificacion-la-vuelta-fue-un-nid21112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BKYOPC4KUBGLXJ2RK7ZR6IJOMU.JPG?auth=aeef2da21634a6aaf60e6f2f671cf79dbcc9f03b4dde3671a5ad914dca7fed39&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:42",
+     "autor": "Orlando Ríos",
+     "titulo_original": "Franco Colapinto largará 9º en Las Vegas, pero esperaba más de la clasificación: “La vuelta fue un desastre”"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Boca juega hoy a las 19.30 la final de la Copa Sudamericana ante Atlético Mineiro",
+     "resumen": "El encuentro se disputa en el estadio Metropolitano Roberto Meléndez de Barranquilla, con arbitraje del uruguayo Andrés Matonte, según La Nación. El ganador se queda con 10 millones de dólares y el perdedor con 2,5 millones.",
+     "relacionadas": [
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Boca enfrenta a Atlético Mineiro en la final de la Copa Sudamericana 2026: día, hora y cómo verlo en vivo",
+       "url": "https://www.ambito.com/deportes/boca-enfrenta-atletico-mineiro-la-final-la-copa-sudamericana-2026-dia-hora-y-como-verlo-vivo-n6346227"
+      },
+      {
+       "id": "LN-16",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "El valor de tener soluciones en el banco, otro de los triunfos de Arruabarrena en Boca",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/el-valor-de-tener-soluciones-en-el-banco-otro-de-los-triunfos-de-arruabarrena-en-boca-nid21112026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-boca-hoy-nid21112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3PEISSF2YVGPBBRVBJUSDQKINE.JPG?auth=18501a3d19ff868f8f010da36980470e0dd21ca30fadb0555aa2c2359e928c0c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:00",
+     "autor": "",
+     "titulo_original": "A qué hora juega Boca hoy"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "los Pumas enfrentan hoy a Francia en el partido más exigente del año",
+     "resumen": "El seleccionado argentino cierra ante el local, en Saint-Denis, la última fecha regular del Nations Championship, recordó La Nación en una nota que repasa la admiración del histórico forward francés Sébastien Chabal por los dos triunfos argentinos sobre Les Bleus.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/francia-vs-los-pumas-la-admiracion-del-cavernicola-sebastien-chabal-a-los-argentinos-nid21112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JNGPUVX6YFDHRCX5DDYQY4VT4E.jpg?auth=8b2b7668ba714e890cdf21051b3c5de014435353973410695aea00af4b52f39a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:02",
+     "autor": "",
+     "titulo_original": "Francia vs. los Pumas: la admiración del ‘Cavernícola’ Sébastien Chabal a los argentinos"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "Argentina está obligada a ganar los tres puntos ante Japón para clasificar al Grupo Mundial I de tenis",
+     "resumen": "El equipo asiático se quedó con los dos singles de la primera jornada de la Billie Jean King Cup en Tokio, informó Infobae. La serie continúa este sábado a las 23 horas, hora argentina.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/21/japon-se-adelanto-2-0-y-argentina-esta-obligada-a-ganar-los-tres-puntos-para-clasificarse-al-grupo-mundial-i/",
+     "imagen": "https://www.infobae.com/resizer/v2/6YWKBW5MSBBXJJPZMM76VY33VI.JPG?auth=90c6b34a9854034677bfaadbabdb42de33137d8bc701130822d1f458ceeb1d5b&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:15",
+     "autor": "",
+     "titulo_original": "Japón se adelantó 2-0 y Argentina está obligada a ganar los tres puntos para clasificarse al Grupo Mundial I"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Marc Márquez se cayó a dos vueltas del final y Jorge Martín sigue con chances en el Mundial de MotoGP",
+     "resumen": "El líder del campeonato perdió el control de su Ducati cuando rodaba tercero en la carrera sprint del Gran Premio de Portugal, lo que impidió que se consagrara campeón de forma matemática, según Infobae. Marco Bezzecchi ganó la sprint y Martín llegó quinto, lo que aplaza la definición al menos hasta la carrera principal del domingo.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El español Marc Márquez se va al suelo cuando estaba a dos vueltas de ganar el Mundial",
+       "url": "https://www.infobae.com/espana/agencias/2026/11/21/el-espanol-marc-marquez-se-va-al-suelo-cuando-estaba-a-dos-vueltas-de-ganar-el-mundial/"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/2026/11/21/marc-marquez-cae-a-dos-vueltas-del-final-y-mantiene-con-vida-a-jorge-martin-en-la-lucha-por-el-titulo-tras-la-sprint-de-portimao/",
+     "imagen": "https://www.infobae.com/resizer/v2/GFDWFXCULRGPBLTABE2U2UWXUQ.JPG?auth=a021a44b7de9572af3da2ae58f3950fe56e5a32dbe6368f3b76ad766ca839f3d&smart=true&width=900&height=619",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:08",
+     "autor": "José Manuel Rodríguez Camarero",
+     "titulo_original": "Marc Márquez cae a dos vueltas del final y mantiene con vida a Jorge Martín en la lucha por el título tras la sprint del GP de Portugal"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "Argentinos Juniors recibe a Independiente y Defensa y Justicia enfrenta a Barracas Central por los octavos del Clausura",
+     "resumen": "El Bicho juega ante el Rojo en el estadio Diego Armando Maradona, mientras el Halcón de Varela recibe al Guapo en el Norberto Tito Tomaghello, ambos por el Torneo Clausura de la Liga Profesional, informó Clarín.",
+     "relacionadas": [
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Defensa y Justicia vs. Barracas Central, por el Torneo Clausura, EN VIVO: dónde ver, hora y formaciones",
+       "url": "https://www.clarin.com/deportes/defensa-justicia-vs-barracas-central-torneo-clausura-vivo-ver-hora-formaciones_0_Lk2RHTsEUZ.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/argentinos-juniors-vs-independiente-torneo-clausura-vivo-ver-hora-formaciones_0_T6NNttgDlF.html",
+     "imagen": "https://www.clarin.com/img/2026/10/04/hVdmjB5KJ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentinos Juniors vs. Independiente, por el Torneo Clausura, EN VIVO: dónde ver, hora y formaciones"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-15",
+     "titulo": "cuánto costará viajar este verano a Praia do Rosa, la joya oculta del sur de Brasil",
+     "resumen": "Los pasajes aéreos arrancan desde 706.000 pesos, a los que se suman alquileres semanales, para armar el presupuesto total de un viaje de cuatro personas a este destino del litoral catarinense, según iProfesional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/469480-cuanto-costara-viajar-a-praia-do-rosa-la-joya-oculta-del-sur-de-brasil",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630110.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:12",
+     "autor": "",
+     "titulo_original": "Cuánto costará viajar este verano a Praia do Rosa, la joya oculta del sur de Brasil"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-05",
+     "titulo": "ya son cuatro las víctimas fatales por la explosión de gas en Remedios de Escalada",
+     "resumen": "Dos operarios de la empresa contratista Exgadet murieron durante la madrugada del sábado por las graves quemaduras sufridas en la explosión del viernes 13 de noviembre, informó Infobae. La fiscalía secuestró la máquina perforadora que habría pinchado el caño de gas y no hay imputados por el momento.",
+     "relacionadas": [
+      {
+       "id": "LN-10",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Explosión y muerte: fallecieron otras dos personas por el escape de gas en Remedios de Escalada y ya son cuatro las víctimas",
+       "url": "https://www.lanacion.com.ar/sociedad/explosion-y-muerte-fallecieron-otras-dos-personas-por-el-escape-de-gas-en-remedios-de-escalada-y-ya-nid21112026/"
+      },
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "A una semana de la tragedia: cómo sigue la investigación por la explosión de Lanús",
+       "url": "https://www.infobae.com/sociedad/policiales/2026/11/21/sin-firmaa-una-semana-de-la-tragedia-como-sigue-la-investigacion-por-la-explosion-de-lanus/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/agencias/2026/11/21/ascienden-a-cuatro-las-victimas-fatales-por-la-explosion-por-una-fuga-de-gas-en-argentina/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Ascienden a cuatro las víctimas fatales por la explosión por una fuga de gas en Argentina"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "tres personas murieron calcinadas al chocar un auto y un colectivo en la Panamericana",
+     "resumen": "El choque y el incendio posterior ocurrieron cerca de las 5.40 de este sábado a la altura de Boulogne, partido de San Isidro, informó Infobae. Las víctimas, que viajaban en el auto incendiado, no pudieron ser identificadas por el estado de los cuerpos, y hay además dos heridos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/21/tres-personas-murieron-calcinadas-al-chocar-un-auto-y-un-colectivo-en-la-autopista-panamericana/",
+     "imagen": "https://www.infobae.com/resizer/v2/P3YGAD47SBAPNP6GBWWE2WDSD4.jpg?auth=77b617f3fed158be61bc9e2e418872098a292f38296f0064a9f263929ca6b78f&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:44",
+     "autor": "",
+     "titulo_original": "Tres personas murieron calcinadas al chocar un auto y un colectivo en la autopista Panamericana"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "un futbolista murió alcanzado por un rayo mientras entrenaba en Formosa",
+     "resumen": "Iván Miers, de 35 años, falleció horas después de ser alcanzado por la descarga eléctrica mientras su club, Sportivo Patria, se preparaba para una final por el acceso al Torneo Argentino, informó Infobae.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/21/drama-en-formosa-un-futbolista-murio-alcanzado-por-un-rayo-mientras-entrenaba/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZJ63FLGFLBBORIIQOZ77A6EZNY.jpg?auth=29966e12f84b8cdaefb266c24e32c932371346d86dfc76cfe28b0558292fb630&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:00",
+     "autor": "",
+     "titulo_original": "Drama en Formosa: un futbolista murió alcanzado por un rayo mientras entrenaba"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "alerta amarilla por tormentas, viento Zonda y nevadas en varias provincias",
+     "resumen": "El Servicio Meteorológico Nacional advirtió sobre fenómenos que podrían ser \"muy peligrosos\" en La Rioja, San Luis, La Pampa, Córdoba, Santa Fe, Entre Ríos, Corrientes, Misiones, Neuquén y Santa Cruz, según La Nación. En la ciudad de Buenos Aires la máxima de este sábado será de 27 grados.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-y-nevadas-para-este-sabado-21-de-noviembre-las-provincias-nid21112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NZS4GDRGLZBWNGYEHRUM7F465I.png?auth=ba56bd00f49eb8bf81a8f50b944d6448dfbe6c0dccefd0431eedf00417b2edc4&smart=true&width=653&height=455",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:39",
+     "autor": "",
+     "titulo_original": "Hay alerta amarilla por tormentas, vientos y nevadas para este sábado 21 de noviembre: las provincias afectadas"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del sábado 21 de noviembre. El mercado sigue nervioso después del salto del dólar y el riesgo país del viernes: el Gobierno sale a renovar veinticinco billones cuatrocientos mil millones de pesos de deuda en un contexto de menor demanda de títulos públicos, mientras el bitcoin cayó por debajo de los cincuenta y nueve mil dólares y no encuentra piso. En paralelo, el peronismo discute abiertamente cómo llegar a dos mil veintisiete y Boca juega esta noche la final de la Copa Sudamericana.\n\nEn economía y mercados, Infobae compara la actual aversión global al riesgo con las crisis de dos mil uno y dos mil ocho, ya que el índice del miedo de Wall Street llegó a tocar los veinticinco puntos esta semana, mientras el contado con liquidación trepó doce por ciento en tres ruedas. La Nación explica que la fortaleza global del dólar, la depreciación del real brasileño y la incertidumbre por las elecciones presidenciales de dos mil veintisiete aceleraron la suba de las últimas jornadas. No todas las lecturas son negativas: según iProfesional, parte de la city ve una oportunidad en los bonos en dólares y en pesos ante una eventual baja del riesgo país. En otro frente, El Cronista cuenta que los precios de los alimentos moderaron el ritmo de suba pero encadenan dos semanas consecutivas de aumentos, con un acumulado de cero coma nueve por ciento en noviembre. Y en Estados Unidos, los prestamistas que financiaron a SpaceX con cuarenta y tres mil millones de dólares, garantizados con chips de inteligencia artificial, buscan impedir que Elon Musk los lance al espacio para sus centros de datos orbitales.\n\nEn negocios y empresas, Ford paralizó por dos meses la producción de la pick up Ranger por la menor demanda en Argentina y Brasil, según iProfesional. En el campo, la Bolsa de Comercio de Rosario corrigió al alza la cosecha de trigo a veinticuatro millones trescientas mil toneladas, un resultado que pulveriza los pronósticos del inicio de la siembra, informa El Cronista. El mismo medio cuenta que un frigorífico salteño, Bermejo, sextuplicó sus exportaciones de carne tras invertir veinte millones de dólares. Y en consumo, iProfesional destaca que la yerba de las marcas correntinas Playadito y Las Marías vendió casi cuarenta millones de kilos en ocho meses, mientras Lego y Tesla se suman a las nuevas aperturas del shopping Unicenter. En el plano internacional, renunció la directora de Wildberries, el gigante ruso del comercio electrónico, cinco días después de que la Unión Europea sancionara a la empresa por supuesta venta de material bélico a Moscú.\n\nEn impuestos y normativa, un fallo judicial obliga al Estado a retomar el control de las cuotas de las prepagas y abre interrogantes sobre futuros aumentos y reclamos de los afiliados, según iProfesional. El Cronista explica por qué en la Argentina se pagan impuestos reales más altos de lo que dice la ley: la inflación no se reconoce plenamente desde dos mil uno, cuando quedaron vigentes dos normas de la Convertibilidad que prohíben actualizar mínimos y deducciones, algo que conviene revisar con el asesor impositivo antes de liquidar Ganancias. Además, las empleadas domésticas tendrán en diciembre un aumento de uno coma seis por ciento por hora, y la ANSES actualizará las jubilaciones mínima y máxima según la inflación de octubre, de dos coma dos por ciento.\n\nEn consumo y construcción, iProfesional cuenta que demoler un edificio de novecientos metros cuadrados en la Ciudad de Buenos Aires cuesta ochenta y seis millones de pesos, un dato que reabre el debate sobre si conviene recuperar en lugar de derribar estructuras urbanas. El Cronista informa que el Grupo E dos, detrás del barrio náutico vecino al proyecto de Eduardo Costantini en Escobar, prepara nuevos desarrollos en Cardales tras invertir más de trescientos millones de dólares en el país. Y para quienes planean el verano, las casas con pileta en barrios cerrados se alquilan desde mil trescientos dólares la semana.\n\nEn management y finanzas corporativas, la Facultad de Ciencias Económicas de la Universidad de Buenos Aires reformó la carrera de Contador Público para sumar inteligencia artificial, reducir materias y crear un título intermedio, en respuesta a cómo la automatización cambia el trabajo de los estudios profesionales, según El Cronista. El mismo medio sostiene que las microcredenciales se volvieron indispensables en un mercado laboral que ya dejó atrás el modelo de estudiar una vez para trabajar toda la vida.\n\nEn política, el acto peronista de San Fernando dejó afuera de la foto al gobernador Axel Kicillof y reabrió la pelea por el armado rumbo a dos mil veintisiete, mientras una encuesta de Tendencias Consultora muestra que crece la bronca social aunque el oficialismo retiene su voto. El jefe de Gabinete, Diego Santilli, y el presidente de la Cámara de Diputados, Martín Menem, viajaron a Mendoza para negociar con gobernadores la baja de impuestos a cambio de apoyo a la suspensión de las PASO, que el oficialismo confía en aprobar en el Senado. Y en la Justicia, el fiscal Luciani pidió apartar a un perito tasador designado por Cristina Kirchner por sus vínculos con el financista Lázaro Báez, mientras se sumaron cuatro detenidos más por la fuga del exterrorista italiano Leonardo Bertulazzi.\n\nEn el mundo, Finlandia sospecha que un helicóptero ruso violó su espacio aéreo, en un episodio vinculado al ataque con drones sufrido por un buque en el golfo de Finlandia, mientras dos buques cisterna fueron alcanzados por proyectiles desconocidos en el estrecho de Ormuz, según Ámbito. En Israel, Lieberman rechazó integrar una coalición de gobierno con los partidos árabes. Y en la cumbre ambiental COP31, Clarín señala que Brasil exhibe su nafta con treinta por ciento de etanol mientras en Argentina la demora en actualizar la ley de biocombustibles posterga inversiones.\n\nLe Grand Continent analiza la resolución que el Comité Central del Partido Comunista Chino aprobó a fines de octubre, un texto que busca reforzar la disciplina interna del Partido antes del Congreso de dos mil veintisiete en Pekín, en línea con la lucha anticorrupción que lleva adelante Xi Jinping desde hace casi quince años.\n\nEn deportes, Franco Colapinto clasificó noveno para el Gran Premio de Las Vegas de Fórmula uno y calificó su vuelta de desastre, después de protagonizar dos cruces de riesgo con Carlos Sainz en la práctica libre; la carrera arranca a la una de la madrugada del domingo, hora argentina. Esta noche, a las siete y media, Boca juega en Barranquilla la final de la Copa Sudamericana ante Atlético Mineiro, con diez millones de dólares en juego para el campeón. Los Pumas enfrentan hoy a Francia en Saint-Denis en el partido más exigente del año, y el seleccionado argentino femenino de tenis necesita ganar los tres puntos ante Japón para clasificar al Grupo Mundial uno de la Copa Billie Jean King. En Portugal, Marc Márquez se cayó a dos vueltas del final de la carrera sprint y no pudo consagrarse campeón de MotoGP en forma matemática, lo que mantiene con vida las chances de Jorge Martín. Y por el Torneo Clausura, Argentinos Juniors recibe a Independiente y Defensa y Justicia enfrenta a Barracas Central por los octavos de final.\n\nPara cerrar, si están pensando en el verano, iProfesional cuenta cuánto cuesta viajar a Praia do Rosa, en el litoral de Santa Catarina, un destino del sur de Brasil con pasajes desde setecientos seis mil pesos para cuatro personas.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "No apareció en esta corrida ningún destino turístico puntual dentro de Argentina en ninguna de las fuentes relevadas; se usó el mejor disponible, Praia do Rosa, en Brasil. Tampoco hubo novedades sobre Franco Colapinto más allá de la clasificación y el incidente con Sainz, ni sobre Tigre.",
+ "slug": "2026-11-21-mediodia",
+ "generado_ba": "21/11/2026 15:13"
+}
