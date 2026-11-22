@@ -1,0 +1,789 @@
+{
+ "fecha": "2026-11-22",
+ "edicion": "mediodia",
+ "titulo": "Riesgo país en alza, la industria pide bajar impuestos y Boca regresa campeón",
+ "apertura": "El mediodía del domingo llega con la Cumbre del Clima de Turquía cerrada sin acuerdo y el Financial Times advirtiendo sobre un faltante de diez mil millones de dólares para afrontar vencimientos de deuda, mientras la brecha cambiaria supera el diez por ciento. En el plano político, el Senado se apresta a votar el jueves la suspensión de las PASO y el peronismo debate el lugar de Cristina Kirchner de cara a 2027. En los negocios, la Unión Industrial Argentina impulsa una baja de impuestos para la industria y Boca Juniors inicia hoy el regreso triunfal a Buenos Aires tras consagrarse campeón de la Copa Sudamericana, con Franco Colapinto repitiendo su mejor resultado en la Fórmula 1.",
+ "claves": [
+  "El Financial Times advierte sobre un faltante de US$ 10.000 millones para pagar deuda y la brecha cambiaria superó el 10%, según LCG.",
+  "La COP31 terminó en Antalya sin acuerdo sobre los combustibles fósiles; Guterres habló de 'profunda decepción'.",
+  "El Senado vota el jueves la suspensión de las PASO; crece la alianza Massa-Kirchner y Urtubey cuestiona una candidatura de CFK.",
+  "La UIA impulsa una baja de impuestos a la industria para 2027, con dudas sobre el margen fiscal de las provincias.",
+  "Un informe del Congreso de EE.UU. advierte que China ya controla litio, soja y pesca argentinos y avanza sobre el cobre.",
+  "Boca Juniors vuelve hoy a Buenos Aires tras ganar la Sudamericana; Leandro Paredes ya está recuperado de los mareos.",
+  "Franco Colapinto repitió su mejor resultado (sexto) en el GP de Las Vegas con una maniobra doble sobre los McLaren.",
+  "Mañana lunes es feriado por el Día de la Soberanía Nacional; hoy arrancan los octavos de final del Clausura."
+ ],
+ "cifras": [
+  {
+   "nombre": "Faltante de financiamiento para vencimientos de deuda con bonistas privados",
+   "valor": "US$ 10.000 millones",
+   "fuente": "IB-21"
+  },
+  {
+   "nombre": "Brecha cambiaria",
+   "valor": "superior a 10%",
+   "fuente": "CR-08"
+  },
+  {
+   "nombre": "Facturación proyectada de la fábrica de motos RVM para 2026",
+   "valor": "US$ 13,5 millones",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Trabajadores adicionales que necesitaría Vaca Muerta hacia 2030",
+   "valor": "40.000",
+   "fuente": "CL-12"
+  },
+  {
+   "nombre": "Producción de litio proyectada por Ganfeng en Argentina hacia 2035",
+   "valor": "300.000 toneladas anuales",
+   "fuente": "CL-11"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "La semana legislativa clave por la reforma política se combina con el reacomodo interno del peronismo y un capítulo más en la disputa diplomática por Malvinas.",
+   "notas": [
+    {
+     "id": "CL-17",
+     "titulo": "el Senado vota el jueves la suspensión de las PASO para 2027",
+     "resumen": "El Senado tratará este jueves el proyecto de Reforma Política que busca evitar las primarias en las elecciones de 2027. Patricia Bullrich adelantó que el oficialismo confía en reunir los votos necesarios en la Cámara alta.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-prepara-semana-clave-suspension-paso_0_2v7kTBxhj9.html",
+     "imagen": "https://www.clarin.com/img/2026/11/10/48wG_c-mW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:06",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei y sus medidas, EN VIVO: el Gobierno se prepara para una semana clave por la suspensión de las PASO"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Cristina Kirchner profundiza su acuerdo con Sergio Massa, en paralelo a Kicillof",
+     "resumen": "Con la suspensión de las PASO ya descontada en el PJ, crece la sociedad entre Cristina Kirchner y Sergio Massa, que empezaron a construir una alternativa en paralelo a Axel Kicillof. El acto en San Fernando, donde Massa quedó en el centro de la escena, marcó un punto de inflexión en el armado electoral peronista. El peronismo deberá definir ahora si resuelve la interna con una primaria partidaria o con un acuerdo de unidad.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/22/cristina-kirchner-expone-su-acuerdo-con-massa-el-camino-paralelo-de-kicillof-y-un-futuro-incierto-sin-las-paso/",
+     "imagen": "https://www.infobae.com/resizer/v2/KHA2J4HHJVBNFEQK6GQEHXT4AU.jpg?auth=aa2765ada16a2a99b1260f0f987c1344bf43374d47e850e4f515d3a649d25d71&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:42",
+     "autor": "Joaquín Múgica Díaz",
+     "titulo_original": "Cristina Kirchner expone su acuerdo con Massa, el camino paralelo de Kicillof y un futuro incierto sin las PASO"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Urtubey le baja el pulgar a una candidatura de Cristina Kirchner",
+     "resumen": "El exgobernador de Salta Juan Manuel Urtubey afirmó que discutir una candidatura presidencial de Cristina Kirchner en 2027 equivale a hacerle el juego al Gobierno. Recordó que la expresidenta no podrá competir por su condena en la causa Vialidad, confirmada por la Corte Suprema, y reclamó al peronismo abandonar la lógica hiperpersonalista.",
+     "relacionadas": [
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cristina Kirchner expone su acuerdo con Massa, el camino paralelo de Kicillof y un futuro incierto sin las PASO",
+       "url": "https://www.infobae.com/politica/2026/11/22/cristina-kirchner-expone-su-acuerdo-con-massa-el-camino-paralelo-de-kicillof-y-un-futuro-incierto-sin-las-paso/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/22/juan-manuel-urtubey-tomo-distancia-de-una-posible-candidatura-de-cfk-es-hacerle-el-juego-al-gobierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/WXDRLJ4ZGFFOFAAHB6JQVSLWMQ.jpg?auth=165d7075b23f1d2c1b717fa216720000b419359fdb19cb05ae9a591e7a7a1a58&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:01",
+     "autor": "",
+     "titulo_original": "Juan Manuel Urtubey tomó distancia de una posible candidatura de CFK: “Es hacerle el juego al Gobierno”"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "por primera vez los opositores a Milei superan a los indefinidos, según una encuesta",
+     "resumen": "El relevamiento nacional de la consultora Analogías, hecho entre el 15 y el 18 de noviembre sobre 2.786 casos en las 24 provincias, mostró que el bloque que se declara opositor al Gobierno subió del 36,9% al 39,9% respecto de octubre y superó por primera vez a los indecisos. El estudio también midió una caída de Milei en dos escenarios de balotaje para 2027.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/elecciones-2027-por-primera-vez-los-opositores-superan-a-los-indefinidos-y-milei-cae-en-dos-escenarios-de-balotaje/",
+     "imagen": "https://www.cronista.com/resizer/v2/QXOVAZOWWJHRXAVZ5OZCNET7CM.JPG?auth=65263f8fc582b0b2aedb280a5d61f98793dcdc659179d1a5207ce10f6dccbddf&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:19",
+     "autor": "Fernando Garcia",
+     "titulo_original": "Elecciones 2027: por primera vez los opositores superan a los indefinidos y Milei cae en dos escenarios de balotaje"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "qué atributos busca el electorado en el próximo presidente, según una encuesta",
+     "resumen": "Una encuesta nacional de Proyección Consultores relevó qué características prioriza la sociedad en un futuro presidente y a qué dirigentes asocia con cada atributo. El estudio también midió la intención de voto para una primera vuelta y un eventual balotaje entre Javier Milei y Axel Kicillof.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/que-tipo-de-presidente-quieren-los-argentinos-los-atributos-que-busca-el-electorado-y-quienes-se-acercan-mas-al-perfil/",
+     "imagen": "https://www.cronista.com/resizer/v2/5RMVOWHRTVDTXK2WVGAPBHGZBQ.jpg?auth=8310210cf1c5fa348a578af000154060d25f5351eb7c163950ee4b478a18f429&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:21",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "Qué tipo de presidente quieren los argentinos: los atributos que busca el electorado y quiénes se acercan más al perfil"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "la agenda de Milei: gala del FACA, ausencia en el cumpleaños de Carlos III y Macri de regreso a las galas",
+     "resumen": "Javier Milei llegó dos horas antes a la gala del Foro Argentino contra el Antisemitismo y esperó encerrado en un sector VIP; Patricia Bullrich no pudo asistir por la sesión en el Senado. El Gobierno decidió no enviar representantes al cumpleaños de Carlos III, mientras Mauricio Macri retomó su circuito de eventos sociales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/la-larga-espera-de-milei-londres-se-quedo-sin-funcionarios-y-un-expresidente-de-fiesta/",
+     "imagen": "https://www.cronista.com/resizer/v2/D4IVSJ5ZWNAXJF265K7PVQLX3Y.png?auth=78fab608f98680d8ff16b2c64d172dd01bf2802210e72d9b08cac3dc08406fa9&smart=true&width=900&height=596",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:36",
+     "autor": "Nicolás Gallardo",
+     "titulo_original": "La larga espera de Milei, Londres se quedó sin funcionarios y un expresidente de fiesta"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "Malvinas: dos contratistas abandonan el proyecto Sea Lion a días del fallo del Tribunal del Mar",
+     "resumen": "A seis días de que el Tribunal Internacional del Derecho del Mar se pronuncie sobre las medidas cautelares pedidas por Argentina, dos contratistas se bajaron del yacimiento petrolero Sea Lion en Malvinas. La Cancillería argentina celebró el hecho como resultado de su estrategia, mientras el Reino Unido reafirmó su respaldo a las compañías del proyecto y prepara herramientas legales para protegerlas de sanciones. El canciller Pablo Quirno insistió en pedir que se frene toda actividad hidrocarburífera en el archipiélago.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Pablo Quirno volvió a exigir que se frene el proyecto Sea Lion en Malvinas, a una semana del fallo del Tribunal del Mar",
+       "url": "https://www.ambito.com/politica/pablo-quirno-volvio-exigir-que-se-frene-el-proyecto-sea-lion-malvinas-una-semana-del-fallo-del-tribunal-del-mar-n6348038"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/malvinas-dos-contratistas-se-bajaron-de-sea-lion-y-londres-busca-blindar-a-las-empresas-a-dias-del-tribunal-del-mar/",
+     "imagen": "https://www.cronista.com/resizer/v2/TQNEPYG45BAJNN7J5VH7K7CI2A.jpg?auth=0bff592939b532198344003c767667f2d8397e9c26a82adde583bda9e62520a8&smart=true&width=900&height=533",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:55",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Malvinas: dos contratistas se bajaron de Sea Lion y Londres busca blindar a las empresas a días del Tribunal del Mar"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-21",
+     "titulo": "el Financial Times advierte sobre un faltante de diez mil millones de dólares para pagar deuda",
+     "resumen": "El Financial Times señaló que los costos de financiamiento de Argentina subieron con fuerza en los últimos cuatro meses por la caída de popularidad de Javier Milei, las dudas sobre su reelección en 2027 y la incertidumbre sobre el plan para afrontar vencimientos de deuda. El riesgo país pasó de poco más de 4 puntos porcentuales a principios de agosto a 10,7 puntos el viernes, según el índice EMBI de JPMorgan, y el medio calculó un faltante de 10.000 millones de dólares para cubrir vencimientos con bonistas privados.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/22/el-financial-times-destaco-el-desafio-financiero-y-electoral-de-milei-por-la-suba-del-riesgo-pais-y-la-recesion-de-la-economia/",
+     "imagen": "https://www.infobae.com/resizer/v2/4NP3SF7KGCL3XOIYDFSU25LQVE.jpg?auth=96cad7d9a325933b098c2d195b77d3a9531c7adefcd0044e8b534cd71d823564&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:02",
+     "autor": "",
+     "titulo_original": "El Financial Times destacó el desafío financiero y electoral de Milei por la suba del riesgo país y la recesión de la economía"
+    },
+    {
+     "id": "CR-08",
+     "titulo": "con el riesgo país por encima de los mil puntos, un informe privado advierte sobre meses de incertidumbre",
+     "resumen": "El informe semanal de la consultora LCG remarcó que el riesgo país superó los 900 puntos el jueves y los 1.000 el viernes, y que la brecha cambiaria quedó por encima del 10%. El relevamiento anticipa meses de mucha incertidumbre y volatilidad de cara al cierre del año, pese a los intentos del ministro Luis Caputo de llevar tranquilidad a los mercados.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/meses-de-incertidumbre-con-el-riesgo-pais-sobre-los-1000-puntos-un-informe-hackea-el-optimismo-del-gobierno/",
+     "imagen": "https://www.cronista.com/resizer/v2/OQPY2KHKZZDXVAASW7YGWEZ4A4.jpg?auth=83327ee18bcf18033b90c2dc90e36b3a62f934982ebd9453801a53100e6a5cae&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:20",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“Meses de incertidumbre”: con el riesgo país sobre los 1000 puntos, un informe hackea el optimismo del Gobierno"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "¿está atrasado el dólar? un debate que vuelve con un escenario distinto",
+     "resumen": "El tipo de cambio real se ubica hoy por debajo de su promedio histórico, del nivel de noviembre de 2023 y del de otros países de la región, lo que reabre el debate sobre un dólar atrasado. A diferencia de episodios previos, el fenómeno convive con superávit comercial, exportaciones récord y un Banco Central que compra divisas. Para una empresa: un tipo de cambio bajo abarata insumos importados pero le resta competitividad a las exportaciones y a la producción que compite con importados.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/atrasado-dolar-viejo-debate-escenario-nuevo_0_WIKtvoe7Bf.html",
+     "imagen": "https://www.clarin.com/img/2024/07/14/_svFGPaKt_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:33",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "¿Está atrasado el dólar? Un viejo debate en un escenario nuevo"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "Estados Unidos advierte que China ya controla el litio, la soja y la pesca argentinos y avanza sobre el cobre",
+     "resumen": "Un informe de la Comisión Bipartidaria y Bicameral del Congreso de Estados Unidos sobre la relación con Beijing alertó que China domina buena parte de los mercados de soja, litio y pesca mundial, a través de una flota de más de 3.000 buques, y que ahora avanza sobre el cobre y la infraestructura digital en América Latina. El documento, respaldado por demócratas y republicanos, calificó la estrategia china en la región como diplomacia depredadora.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/22/mensaje-de-estados-unidos-a-la-argentina-china-ya-controla-el-litio-la-soja-y-la-pesca-y-va-por-el-cobre-y-la-infraestructura-digital/",
+     "imagen": "https://www.infobae.com/resizer/v2/4OAJKGMNZBGKRPXJOV4UMJH7EQ.png?auth=88abc069b902ef42548bd6e6adad5af1fd7971f2108f98dad0bcbb30371858fb&smart=true&width=900&height=491",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:07",
+     "autor": "Sergio Serrichio",
+     "titulo_original": "Mensaje de Estados Unidos a la Argentina: China ya controla el litio, la soja y la pesca y va por el cobre y la infraestructura digital"
+    },
+    {
+     "id": "CR-07",
+     "titulo": "qué dejaron de comprar los hogares argentinos, según una medición de Focus Market",
+     "resumen": "Una medición de Focus Market buscó cuantificar una dimensión de la economía que no siempre aparece en las estadísticas oficiales: cómo perciben los hogares la situación económica en el día a día, a través de lo que dejan de comprar y de cuánta plata les queda después de pagar las cuentas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-indice-que-no-se-ve-pero-se-siente-que-dejaron-de-comprar-las-familias-y-que-cambio-en-sus-prioridades/",
+     "imagen": "https://www.cronista.com/resizer/v2/S42ZVJZ42BHYTBXS22X7UWAFQE.jpg?auth=fd477009c3348d821a318c8975191ac6d58a5dee4cd4fbc42a20fd5c3d4929f7&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:21",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "El índice que no se ve, pero se siente: qué dejaron de comprar las familias y qué cambió en sus prioridades"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "Ganfeng, el gigante chino del litio, apuesta a la Argentina como su mayor base productiva",
+     "resumen": "La compañía china Ganfeng proyecta producir en la Argentina más de 300.000 toneladas anuales de compuestos de litio hacia 2035, según su ejecutivo en Jujuy, Xingguo Yu. El directivo habló de las inversiones previstas, la competencia con proveedores locales y la disputa entre China y Estados Unidos por el control del recurso.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/ganfeng-gigante-chino-litio-argentina-podria-mayor-base-productiva-mundo_0_SmOcvjwaFX.html",
+     "imagen": "https://www.clarin.com/img/2026/11/08/1aca3wfS-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ganfeng, el gigante chino del litio: “Argentina podría ser nuestra mayor base productiva del mundo”"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "la escasez de mano de obra especializada, un cuello de botella para Vaca Muerta",
+     "resumen": "Según el IAPG, Vaca Muerta necesitará 40.000 trabajadores adicionales hacia 2030, sobre los 36.000 que hoy tiene todo el ecosistema. Una empresa italiana socia de YPF no descarta contratar operarios extranjeros para cubrir el déficit.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/energia-y-mineria/escasez-mano-obra-especializada-cuello-botella-vaca-muerta_0_nfqqsixiHC.html",
+     "imagen": "https://www.clarin.com/img/2026/09/23/IdJi3GczA_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:17",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Escasez de mano de obra especializada, un cuello de botella para Vaca Muerta"
+    },
+    {
+     "id": "LN-26",
+     "titulo": "de la banana salteña al vino de alta gama: cómo compiten las empresas argentinas con lo importado",
+     "resumen": "Representantes de Salvita, Catena Zapata, La Fuerza y Quesería Ventimiglia contaron en Argentina Alimenta 2026 cómo apostaron por la producción nacional y marcas propias para diferenciarse y ganar consumidores frente a la competencia externa, desde bananas que compiten con las de Ecuador hasta vinos que buscan medirse con los mejores del mundo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/de-la-banana-saltena-al-vino-de-alta-gama-los-secretos-de-las-empresas-argentinas-para-competir-con-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/I7EQNGUFK5CGTFQRAXL2JBI3NM.png?auth=4c19712e256a104cb476a3f0875b6be26bae8c836e98f84481ed8cbb6c963cbb&smart=true&width=900&height=636",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:00",
+     "autor": "Pilar Vazquez",
+     "titulo_original": "De la banana salteña al vino de alta gama: los secretos de las empresas argentinas para competir con productos extranjeros"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "una fábrica argentina de motos exporta a 14 países y proyecta facturar 13,5 millones de dólares",
+     "resumen": "Roberto Vicente Martínez, que empezó a los 15 años en el taller mecánico de su padre, lidera hoy la Fábrica Argentina de Motovehículos, con más de 18 modelos, 80 puntos de venta y exportaciones a 14 países europeos. La empresa proyecta cerrar 2026 con una facturación de 13,5 millones de dólares y uno de sus modelos competirá en el Rally Dakar.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/de-mecanico-a-exportador-de-18-modelos-hechos-en-su-fabrica-creo-la-moto-argentina-que-debutara-en-el-rally-dakar/",
+     "imagen": "https://www.cronista.com/resizer/v2/IAIAL5LUIREG3O3ZOELXR4PGNQ.png?auth=2186d1799e1eb9fd92fe57c4f5b5829ffae5d0f73e197dfd0328bb3bef15177b&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Una “regla” del kirchnerismo casi arruina su fábrica familiar: hoy exporta a 14 países y su moto estrella irá al Rally Dakar"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Funes de Rioja, sobre la Argentina que viene: reforma laboral, inteligencia artificial y el papa León XIV",
+     "resumen": "El extitular de la UIA Daniel Funes de Rioja analizó el contexto económico, el impacto de la inteligencia artificial en la industria y los efectos de la reforma laboral. Señaló que Argentina avanzó con medidas fiscales pero que queda pendiente el ajuste a nivel provincial y municipal.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/china-leon-xiv-y-reforma-laboral-las-definiciones-del-ex-titular-de-la-uia-sobre-la-nueva-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/EY3KPKHBI5DONP2NM3SWGMXEHI.JPG?auth=88346608139295a278c8d94049188f615034ef1ea27059475a4c4f15c8152cfc&smart=true&width=900&height=598",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:00",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "China, León XIV y reforma laboral: las definiciones del ex titular de la UIA sobre la nueva Argentina"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IB-20",
+     "titulo": "la baja de impuestos a la industria, un debate difícil para 2027",
+     "resumen": "La Unión Industrial Argentina impulsa un pacto fiscal federal para reducir la presión tributaria sobre la producción, en momentos en que la industria acumula meses de caída del empleo. Algunas provincias ya anunciaron beneficios y exenciones, pero otras enfrentan una caída de la recaudación que limita el margen para resignar ingresos. Para una empresa: cualquier alivio tributario dependerá de la situación fiscal de cada provincia y no será uniforme en todo el país.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/22/baja-de-impuestos-a-la-industria-que-puede-pasar-en-2027-y-por-que-sera-dificil-lograr-un-acuerdo/",
+     "imagen": "https://www.infobae.com/resizer/v2/EANDB45OIBFBRC4UD5FOA5VUWM.jpg?auth=23f03e830dfa9905704b3c95a98a1ad284e3b836f28e808c1855fed8f8caaae0&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:03",
+     "autor": "Natalia Donato",
+     "titulo_original": "Baja de impuestos a la industria: qué puede pasar en 2027 y por qué será difícil lograr un acuerdo"
+    },
+    {
+     "id": "LN-09",
+     "titulo": "Anses actualizó 1,93% las prestaciones de noviembre y difundió el calendario de pagos",
+     "resumen": "La Anses actualizó las prestaciones sociales de noviembre un 1,93%, en línea con la inflación de septiembre, que fue del 1,9%. El organismo difundió el cronograma completo de pagos del mes según la terminación del DNI de los beneficiarios.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/cuando-cobro-anses-el-calendario-completo-de-noviembre-2026-nid27102026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/RFPH6KKW2RAZJDSF3WQLEHEMG4.png?auth=c81c6e7cd8f4134c728e7c215db0cc624469b80a453c41b28166aeadfd75b186&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:23",
+     "autor": "",
+     "titulo_original": "Cuándo cobro Anses: el calendario completo de noviembre 2026"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "mañana lunes es feriado por el Día de la Soberanía Nacional",
+     "resumen": "El feriado del 20 de noviembre, Día de la Soberanía Nacional, se trasladó al lunes 23 por el artículo 6 de la Ley 27.399, que mueve al lunes anterior los feriados que caen martes o miércoles. Así se conforma un fin de semana largo de tres días. Para una empresa: implica un día no laborable a considerar en la liquidación de haberes y en la planificación operativa de la semana.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/feriados/2026/es-feriado-manana-lunes-23-de-noviembre-en-la-argentina-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YWN2ROJ2BRALNPPRHKAD7MQDMQ.png?auth=d86868ef4c30055683b2ca41ed3da9226b1b8300fda37ec700b74ef259b9f86e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:58",
+     "autor": "",
+     "titulo_original": "¿Es feriado mañana, lunes 23 de noviembre, en la Argentina?"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "ARCA: el paso a paso para darse de baja del monotributo",
+     "resumen": "ARCA habilitó el trámite gratuito para dar de baja el monotributo a través de su web, con los requisitos y la documentación necesaria para completarlo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/469454-arca-como-darse-de-baja-en-el-monotributo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/589498.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:45",
+     "autor": "",
+     "titulo_original": "ARCA: cómo darse de baja en el monotributo"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CR-11",
+     "titulo": "Lego abrirá su primera tienda oficial en la Argentina, en Unicenter",
+     "resumen": "La fabricante danesa de juguetes Lego abrirá su primera tienda oficial en el país en el tercer piso de Unicenter, el shopping de Martínez del grupo chileno Cencosud. Javier Milei anunció la apertura en sus redes sociales, aunque todavía no hay fecha confirmada; el local ya fue identificado con un cartel en el centro comercial.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/lego-en-unicenter-el-misterio-detras-de-la-empresa-que-trae-la-marca-a-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/I2Q6FAABYRF6FBB4U2MTNDI6WY.png?auth=ec7d7dbc0deea4b147f13b9026159009db19232c9251dec5c6dfac0afc166396&smart=true&width=900&height=675",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:00",
+     "autor": "Micaela Mura",
+     "titulo_original": "Lego en Unicenter: el “misterio” detrás de la empresa que trae la marca a la Argentina"
+    },
+    {
+     "id": "IP-08",
+     "titulo": "Carrefour liquida pequeños electrodomésticos con descuentos de hasta 50%",
+     "resumen": "Carrefour ofrece rebajas de hasta 50% en pequeños electrodomésticos como cafeteras y pavas, con precios desde 12.999 pesos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/469445-carrefour-liquida-electrodomesticos-desde-12999-y-hasta-50-por-ciento-off",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/08/623567.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:39",
+     "autor": "",
+     "titulo_original": "Carrefour liquida pequeños electrodomésticos desde $12.999 con hasta 50% de descuento"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "por qué el color de las bandejas de carne no garantiza la calidad del producto",
+     "resumen": "Las bandejas negras, amarillas, rojas y blancas en las góndolas de carne responden a estrategias de marketing y logística de cada cadena de supermercados, y no a un código universal de calidad. No existe una normativa que estandarice su significado, por lo que la observación directa del producto sigue siendo la referencia más confiable.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/lifestyle/bandejas-negras-amarillas-rojas-y-blancas-que-significa-cada-color-y-como-elegir-para-que-la-carne-nid19112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/2I7BTJG2VVF6BJG4CWPUNSCVRI.jpg?auth=9d56b553f4f46a1f74f4e1c6f060ca7da88f5d31a5405afeefc483ef2b798020&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:04",
+     "autor": "",
+     "titulo_original": "Bandejas negras, amarillas, rojas y blancas: qué significa cada color y cómo elegir para que la carne sea la mejor"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-03",
+     "titulo": "¿un jefe sin gente a cargo sigue siendo un jefe? la vigencia de la Ley de Parkinson",
+     "resumen": "Durante décadas el poder de un jefe se midió en la cantidad de reportes directos, una lógica que el historiador Cyril Parkinson describió en 1955 como la tendencia de todo funcionario a multiplicar subordinados, no rivales. La nota repasa cómo esa dinámica sigue vigente en muchas organizaciones y cuestiona si la cantidad de gente a cargo sigue siendo una medida válida de liderazgo.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/columnistas/un-jefe-que-se-queda-sin-reportes-sigue-siendo-un-jefe/",
+     "imagen": "https://www.cronista.com/resizer/v2/55ONKKJUZFB4FARPM6WF3R4R4Q.jpg?auth=cf978749b5b77106e051f6294c3b3996d76a531ea2f38c01770bdd2cc2c8423f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:43",
+     "autor": "Leo Piccioli",
+     "titulo_original": "Un jefe que se queda sin reportes, ¿sigue siendo un jefe?"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "el caso Nvidia reabre el debate sobre los romances de oficina",
+     "resumen": "Tras la renuncia de Jensen Huang como CEO de Nvidia luego de que se conocieran dos relaciones extramatrimoniales, un estudio de Zety entre más de 1.000 profesionales mostró que el 89% pide prohibir los vínculos entre jefes y subordinados, aunque el 41% admitió haber tenido uno con su superior. La salida de Huang, que cofundó la empresa en 1993, provocó una caída de más del 10% en las acciones en Wall Street.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-caso-nvidia-expone-el-dilema-de-los-romances-en-la-oficina-8-de-cada-10-trabajadores-admitio-haber-tenido-uno/",
+     "imagen": "https://www.cronista.com/resizer/v2/DMYYT4LH4ZDGRFKOK33MF7CQCY.png?auth=765a2fd8b03512fffe37c5471c3e5874e172978f4838a0b7f1f079ea74622ab6&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:22",
+     "autor": "Kiara Calvert de Bohun",
+     "titulo_original": "El caso Nvidia expone el dilema de los romances en la oficina: 8 de cada 10 trabajadores admitió haber tenido uno"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "un experimento sin ChatGPT midió menos soledad y más trato cara a cara",
+     "resumen": "Un grupo de usuarios habituales de inteligencia artificial dejó de usarla durante unos días como parte de un experimento, y los resultados mostraron una reducción de la sensación de soledad y un aumento del contacto social directo, especialmente en el ámbito social.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/469754-un-experimento-sin-usar-chatgpt-genero-llamativos-resultados-sociales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628457.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:53",
+     "autor": "",
+     "titulo_original": "Un experimente sin ChatGPT midió menos soledad y más trato cara a cara"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-04",
+     "titulo": "la Cumbre del Clima de la ONU terminó en Antalya sin acuerdo sobre los combustibles fósiles",
+     "resumen": "La COP31, celebrada en Antalya, Turquía, fracasó este domingo en alcanzar un acuerdo después de que la Unión Europea y otros países, como Panamá, rechazaran un texto que no mencionaba el abandono de los combustibles fósiles. La sesión se extendió dos días más de lo previsto y terminó sin documento final, en lo que organizaciones ambientales calificaron como una de las peores cumbres climáticas de la historia. El secretario general de la ONU, António Guterres, expresó su profunda decepción y reclamó medidas urgentes, al advertir que no hay ambigüedad en la ciencia aunque no haya consenso político.",
+     "relacionadas": [
+      {
+       "id": "LN-03",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "COP 31: las negociaciones climáticas terminan en fracaso y sin un acuerdo sobre los combustibles fósiles",
+       "url": "https://www.lanacion.com.ar/sociedad/cop-31-las-negociaciones-climaticas-terminan-en-fracaso-y-sin-un-acuerdo-sobre-los-combustibles-nid22112026/"
+      },
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "La Cumbre del Clima, al borde del fracaso: la Unión Europea rechaza el acuerdo porque no menciona la salida de los combustibles fósiles",
+       "url": "https://www.clarin.com/mundo/cumbre-clima-borde-fracaso-union-europea-rechaza-acuerdo-menciona-salida-combustibles-fosiles_0_iKvfHaF62A.html"
+      },
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La Cumbre del Clima terminó sin acuerdo: la UE rechazó el texto final por omitir los combustibles fósiles",
+       "url": "https://www.ambito.com/mundo/la-cumbre-del-clima-termino-acuerdo-la-ue-rechazo-el-texto-final-omitir-los-combustibles-fosiles-n6348034"
+      },
+      {
+       "id": "IB-12",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Guterres lamenta que la COP31 cierre sin consenso y reclama acelerar el abandono de los combustibles fósiles",
+       "url": "https://www.infobae.com/america/agencias/2026/11/22/guterres-lamenta-que-la-cop31-cierre-sin-consenso-y-reclama-acelerar-el-abandono-de-los-combustibles-fosiles/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-cumbre-del-clima-de-la-onu-fracaso-en-llegar-a-un-acuerdo-por-el-uso-de-los-combustibles-fosiles-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/7RFCIRMVV5EBNMZPE6XIJGUKTY.JPG?auth=0592bd3691c82e9a29b58abd8a3104e40860ddebb905bde81faf795e579a7c6a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:47",
+     "autor": "",
+     "titulo_original": "La Cumbre del Clima de la ONU fracasó en llegar a un acuerdo por el uso de los combustibles fósiles"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "en Israel, los partidos de Netanyahu y Eisenkot retoman la negociación por un gobierno de unidad",
+     "resumen": "El Likud, de Benjamin Netanyahu, y Yashar, del ex jefe del Estado Mayor Gadi Eisenkot, mantuvieron en un hotel cerca de Tel Aviv su segundo encuentro en una semana para formar un gobierno de unidad nacional. El principal punto sin resolver es quién encabezaría ese gobierno, ya que Netanyahu no quiere ceder el cargo y Eisenkot rechaza una rotación.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/22/los-partidos-de-netanyahu-y-eisenkot-retoman-las-negociaciones-para-un-gobierno-de-unidad-en-israel/",
+     "imagen": "https://www.infobae.com/resizer/v2/QPGDNSPHHVE77OY55PBL2IXZH4.jpg?auth=05f914e0e1ca0fcd42569410b3da48baec5b5b82f848311425b1dd04a46c0903&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:22",
+     "autor": "",
+     "titulo_original": "Los partidos de Netanyahu y Eisenkot retoman las negociaciones para un gobierno de unidad en Israel"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "el ministro de Defensa británico calificó a Putin de asesino a sangre fría y pidió más apoyo a Ucrania",
+     "resumen": "Wes Streeting, titular de Defensa del Reino Unido, visitó Kiev tras reunirse con militares británicos en Polonia que participan del ejercicio Koalicja, pensado para un eventual despliegue en la Ucrania de posguerra. Calificó los recientes incidentes con misiles y un dron ruso en territorio polaco como una provocación escandalosa y reclamó mayor ayuda europea para Ucrania.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/22/reino-unido-pidio-mas-respaldo-a-ucrania-tras-la-caida-de-misiles-rusos-en-polonia-sabemos-a-quien-nos-enfrentamos/",
+     "imagen": "https://www.infobae.com/resizer/v2/MYW24L3S7JE43ERYALCKXFX7ZA.JPG?auth=b9da93cc131a8f10b2d51fdac6f6a3eda4fba1bd0ba4ab1ca6196778714b23b5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:36",
+     "autor": "",
+     "titulo_original": "El ministro de Defensa británico dijo que Putin es un “asesino a sangre fría” y pidió mayor apoyo a Ucrania"
+    },
+    {
+     "id": "IB-04",
+     "titulo": "España entra en la recta final de la campaña hacia las elecciones del 29 de noviembre",
+     "resumen": "A una semana de los comicios generales, el ministro Félix Bolaños sostuvo que el resultado definirá el dibujo de España en la próxima década. Frente Amplio, con Ada Colau como candidata, se enfoca en los debates televisivos de esta semana, mientras el líder de Vox, Santiago Abascal, apeló al sentido común de los votantes en una elección que calificó de emergencia nacional.",
+     "relacionadas": [
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Frente Amplio encara la recta final de la campaña con la vista puesta en los debates electorales",
+       "url": "https://www.infobae.com/espana/agencias/2026/11/22/frente-amplio-encara-la-recta-final-de-la-campana-con-la-vista-puesta-en-los-debates-electorales/"
+      },
+      {
+       "id": "IB-07",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Abascal apela al \"sentido común\" de los votantes al margen de su ideología en un momento de \"emergencia nacional\"",
+       "url": "https://www.infobae.com/espana/agencias/2026/11/22/abascal-apela-al-sentido-comun-de-los-votantes-al-margen-de-su-ideologia-en-un-momento-de-emergencia-nacional/"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/agencias/2026/11/22/bolanos-cree-que-el-resultado-de-las-elecciones-determinara-el-dibujo-de-espana-en-la-proxima-decada/",
+     "imagen": "https://www.infobae.com/resizer/v2/75ILMJ7UFVCHTPCMORCTDVIJK4.jpg?auth=481f683c434fd20ddd4f8820a7b53dd45d07b1248e1ebba4765041010b1d4fad&smart=true&width=900&height=674",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Bolaños cree que el resultado de las elecciones determinará \"el dibujo de España en la próxima década\""
+    },
+    {
+     "id": "IB-09",
+     "titulo": "ya son cinco los cayucos llegados este domingo a la isla española de El Hierro",
+     "resumen": "Salvamento Marítimo y la Guardia Civil interceptaron dos embarcaciones adicionales durante la jornada, con lo que la cifra llegó a cinco cayucos en un solo día. Entre las primeras llegadas se contabilizaron 75 y 82 personas, y una tercera embarcación con 22 inmigrantes.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/22/ascienden-a-cinco-los-cayucos-llegados-este-domingo-a-el-hierro-tras-la-interceptacion-de-otros-dos/",
+     "imagen": "https://www.infobae.com/resizer/v2/MYFPT72UKJBY7ARGVODT7I44PA.jpg?auth=27676fddb15499511e030235ec0b4dde9bbbed56900c20b37cbc7348b15154b8&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Ascienden a cinco los cayucos llegados este domingo a El Hierro tras la interceptación de otros dos"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Deportes",
+   "intro": "Boca inicia el regreso triunfal de la Sudamericana, arrancan los octavos de final del Clausura y hay definiciones en tenis, MotoGP, hockey y rugby.",
+   "notas": [
+    {
+     "id": "CL-15",
+     "titulo": "Boca inicia hoy la caravana de festejos por la Copa Sudamericana y Paredes ya está recuperado",
+     "resumen": "El plantel de Boca, campeón de la Copa Sudamericana tras vencer 2 a 0 a Atlético Mineiro, define hoy el regreso a Buenos Aires para la bienvenida de los hinchas, con un cambio logístico resuelto por el técnico Rodolfo Arruabarrena. El capitán Leandro Paredes, que sufrió dos episodios de mareos durante los festejos en Barranquilla, llevó tranquilidad con un mensaje tras los estudios médicos. Arruabarrena, que volvió al club diez años después de un primer ciclo con heridas abiertas, cerró en cinco meses una sequía de 18 años sin títulos internacionales.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Boca publicó un video sobre la salud de Leandro Paredes tras su descompensación: \"Mareado por tantas vueltas\"",
+       "url": "https://www.ambito.com/deportes/boca-publico-un-video-la-salud-leandro-paredes-su-descompensacion-mareado-tantas-vueltas-n6348024"
+      },
+      {
+       "id": "IB-03",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La intimidad del festejo de Boca Juniors tras ganar la Copa Sudamericana: de la foto viral de Valencia a la recepción a Paredes tras su vuelta del hospital",
+       "url": "https://www.infobae.com/deportes/2026/11/22/la-intimidad-del-festejo-de-boca-juniors-tras-ganar-la-copa-sudamericana-de-la-foto-viral-de-valencia-a-la-recepcion-a-paredes-tras-su-vuelta-del-hospital/"
+      },
+      {
+       "id": "LN-13",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Rodolfo Arruabarrena, el entrenador que reconstruyó a Boca y le devolvió la gloria internacional",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/rodolfo-arruabarrena-el-entrenador-que-reconstruyo-a-boca-y-le-devolvio-la-gloria-internacional-nid22112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/boca-caravana-campeon-hora-llega-plantel-buenos-aires-despues-ganar-copa-sudamericana_0_p7iAen7wL8.html",
+     "imagen": "https://www.clarin.com/img/2026/11/22/D-xK9aYHM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:23",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca y la caravana del campeón: a qué hora llega el plantel a Buenos Aires después de ganar la Copa Sudamericana"
+    },
+    {
+     "id": "CL-01",
+     "titulo": "arrancan los octavos de final del Clausura: River, Instituto y Rosario Central ya juegan",
+     "resumen": "El Torneo Clausura entra hoy en los octavos de final de los Playoffs: River recibe a Lanús en el Monumental, Instituto a Huracán en Córdoba y Rosario Central abre la ronda ante Gimnasia de Mendoza en el Gigante de Arroyito.",
+     "relacionadas": [
+      {
+       "id": "CL-02",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "River vs Lanús, EN VIVO: a qué hora juegan, formaciones y cómo ver los octavos de final del Torneo Clausura",
+       "url": "https://www.clarin.com/deportes/river-vs-lanus-vivo-hora-juegan-formaciones-ver-octavos-final-torneo-clausura_0_1873Sdhu1b.html"
+      },
+      {
+       "id": "CL-08",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Rosario Central vs Gimnasia de Mendoza, EN VIVO: a qué hora es, formaciones y cómo ver el partido de octavos de final del Torneo Clausura",
+       "url": "https://www.clarin.com/deportes/rosario-central-vs-gimnasia-mendoza-vivo-hora-formaciones-ver-partido-octavos-final-torneo-clausura_0_gobGFAwNy6.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/instituto-vs-huracan-vivo-hora-formaciones-ver-octavos-final-torneo-clausura_0_u9jNSMZLA8.html",
+     "imagen": "https://www.clarin.com/img/2026/03/01/bjl3DZH7i_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:43",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Instituto vs Huracán, EN VIVO: a qué hora es, formaciones y cómo ver los octavos de final del Torneo Clausura"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "la Selección Sub 17 juega hoy ante Mozambique por el Mundial de Qatar",
+     "resumen": "Tras caer en su debut ante Australia, la Selección argentina Sub 17 enfrenta este domingo a las 12.30 hora argentina a Mozambique por la segunda fecha del Grupo C del Mundial de la categoría, que se disputa en Qatar.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-el-partido-de-la-seleccion-argentina-sub-17-vs-mozambique-y-que-canal-lo-transmite-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/W3IFZW4WQBC3JGXI4WU3SELG4U.webp?auth=e39a7fad5354b2b62c9ae028b48867cde5ca9fa22df29626989a5cf9cbe89f7c&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:48",
+     "autor": "",
+     "titulo_original": "Por dónde pasan el partido de la selección Argentina Sub 17 vs. Mozambique y qué canal lo transmite en vivo"
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Alcaraz y Zverev definen hoy el título del ATP Finals en Turín",
+     "resumen": "Carlos Alcaraz y Alexander Zverev, que ganaron sus cuatro partidos previos en el certamen, se enfrentan este domingo desde no antes de las 14 hora argentina por el título del ATP Finals en el Inalpi Arena de Turín, el último torneo del año del circuito.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/tenis/horario-de-carlos-alcaraz-vs-alexander-zverev-por-la-final-del-atp-finals-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/XTSVOIXOWBACVCQ7JRJT5KJ5P4.jpg?auth=df402a3b6dfb0d7ebd404d4c84cf6e09864b008ca89dcba116003d311763ea5b&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:53",
+     "autor": "",
+     "titulo_original": "Horario de Carlos Alcaraz vs. Alexander Zverev, por la final del ATP Finals"
+    },
+    {
+     "id": "IB-10",
+     "titulo": "Marc Márquez conquistó su octavo título de MotoGP",
+     "resumen": "El piloto español de Ducati se consagró campeón del mundo en el Gran Premio de Portugal y dedicó el logro a quienes creyeron más en él que él mismo durante la mitad de la temporada. Terminó noveno en Portimao, en una carrera que no necesitaba ganar para asegurar el título.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/22/marc-marquez-los-aficionados-y-mi-gente-han-creido-mas-en-mi-que-yo-mismo/",
+     "imagen": "https://www.infobae.com/resizer/v2/ULNNC7KNJBDVNI2F6UZISOGUWM.jpg?auth=48fb5176d478f301c22e7f5edbb82ef299486d154181d22eb5a24e0e95944f76&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Marc Márquez: \"Los aficionados y mi gente han creído más en mí que yo mismo\""
+    },
+    {
+     "id": "LN-02",
+     "titulo": "Mitre y Santa Bárbara se consagraron campeones de los Metropolitanos de hockey",
+     "resumen": "El plantel masculino de Mitre ganó su título número 20 en los Metropolitanos de hockey sobre césped, mientras que el femenino de Santa Bárbara festejó por primera vez en su historia. Gimnasia y Esgrima quedó subcampeón en ambas ramas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/hockey/mitre-y-santa-barbara-se-consagraron-campeones-de-los-metropolitanos-de-hockey-sobre-cesped-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JFVYBAD7WNBB7NCWYEEOGLXNVA.jpg?auth=352164e952b8668720746a3097b1f7b6cb4fba8ffe8ac62846e280ec8979d646&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:49",
+     "autor": "",
+     "titulo_original": "Mitre y Santa Bárbara se consagraron campeones de los Metropolitanos de hockey sobre césped"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Contepomi, autocrítico tras la derrota de los Pumas ante Francia",
+     "resumen": "El entrenador de los Pumas evitó hablar del arbitraje tras la caída ante Francia en el Nations Championship y reconoció errores propios: cuando quisieron atacar fueron indisciplinados y cometieron errores por los que perdieron esa iniciativa, dijo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/rugby/felipe-contepomi-tras-la-dura-derrota-ante-francia-lo-que-a-mi-me-parezca-no-cuenta-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CWYKAALNG5CWHDE5GOUKOCXNCU.jpg?auth=f1f464d787f6e5ab2997f1ad442078400b8304b457698cdb85426c19df5e5dfe&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:51",
+     "autor": "Alejo Miranda",
+     "titulo_original": "Felipe Contepomi, tras la dura derrota ante Francia: “Lo que a mí me parezca no cuenta”"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Colapinto superó a los dos McLaren con una sola maniobra en Las Vegas y Alpine se achica en la pelea por el quinto puesto",
+     "resumen": "Franco Colapinto terminó sexto en el Gran Premio de Las Vegas, igualando su mejor resultado histórico en la Fórmula 1, y protagonizó una maniobra destacada al superar en una sola jugada a Lando Norris y Oscar Piastri, los dos pilotos de McLaren. Con el quinto puesto de Pierre Gasly y el sexto de Colapinto, Alpine sumó 18 puntos y recortó a 27 la diferencia con Racing Bulls por el quinto lugar del Campeonato de Constructores, a falta de dos fechas. Flavio Briatore elogió el trabajo de ambos pilotos tras la carrera.",
+     "relacionadas": [
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cámara a bordo: la fantástica maniobra de Franco Colapinto para superar en un movimiento a los dos McLaren en el GP de Las Vegas de F1",
+       "url": "https://www.infobae.com/deportes/2026/11/22/camara-a-bordo-la-fantastica-maniobra-de-franco-colapinto-para-superar-en-un-movimiento-a-los-dos-mclaren-en-el-gp-de-las-vegas-de-f1/"
+      },
+      {
+       "id": "IB-18",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Alpine logró una gran cosecha de puntos y arde la lucha con Racing Bulls tras el GP de Las Vegas: así quedó la tabla de posiciones en la F1",
+       "url": "https://www.infobae.com/deportes/2026/11/22/alpine-logro-una-gran-consecha-de-puntos-y-arde-la-lucha-con-racing-bulls-tras-el-gp-de-las-vegas-asi-quedo-la-tabla-de-posiciones-en-la-f1/"
+      },
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Así quedaron las posiciones de la Fórmula 1 tras el GP de Las Vegas: en qué lugar terminó Franco Colapinto",
+       "url": "https://www.ambito.com/deportes/asi-quedaron-las-posiciones-la-formula-1-el-gp-las-vegas-que-lugar-termino-franco-colapinto-n6348039"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/la-espectacular-maniobra-de-colapinto-para-pasar-a-los-dos-mclaren-juntos-en-el-gran-premio-de-las-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/O6Z3FZGSMVGK7MPSYLL2GP6HEA.png?auth=4726e7c995eb13ef2e12598f72799d9bb25f33b4499453b3a63133426704290c&smart=true&width=766&height=469",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "10:03",
+     "autor": "",
+     "titulo_original": "La espectacular maniobra de Colapinto para pasar a los dos McLaren juntos en el Gran Premio de Las Vegas"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-11",
+     "titulo": "cuál es la mejor playa de Mar del Plata, según la inteligencia artificial",
+     "resumen": "Con la temporada de verano por empezar, la nota consultó a la inteligencia artificial generativa para definir cuál es la mejor playa de Mar del Plata, con recomendaciones distintas según se viaje en familia o con un grupo de jóvenes.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/tecnologia/la-ia-eligio-a-la-mejor-playa-de-mar-del-plata-y-por-que-no-es-la-que-crees-nid22112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/YB6HGFHAKZE5JPEMXRDQRCTU54.JPG?auth=a2473e211f62c9488d87f75beaa8460c69ca22da9dfd4d11ce1dc812003f74b6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:21",
+     "autor": "",
+     "titulo_original": "La IA eligió a la mejor playa de Mar del Plata y por qué no es la que creés"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "Brujas inaugura sus mercados navideños con pista de hielo y un gigante de ocho metros",
+     "resumen": "La ciudad belga abrió el 20 de noviembre su programación invernal Wintergloed, con puestos de madera en las plazas Markt y Simon Stevinplein, productos gastronómicos y una pista de patinaje que funcionarán hasta el 3 de enero de 2027.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/turismo/2026/11/22/la-ciudad-europea-que-se-transforma-en-navidad-con-dos-mercados-pista-de-hielo-y-un-gigante-de-ocho-metros/",
+     "imagen": "https://www.infobae.com/resizer/v2/RGL4VRPXCVFHNGQN3AKBT2FH2A.jpg?auth=d84b108192e6ce6272cd27f1cdb4c8afe766a6a8779dfbd28fa91419a981037f&smart=true&width=900&height=450",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:05",
+     "autor": "Faustino Cuomo",
+     "titulo_original": "La ciudad europea que se transforma en Navidad con dos mercados, pista de hielo y un gigante de ocho metros"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "alerta por calor extremo en Chile y tormentas en la Mesopotamia argentina",
+     "resumen": "Todo el territorio chileno está bajo alerta por riesgo de incendios forestales ante un pronóstico de temperaturas superiores a los 40 grados por El Niño. En la Argentina, este domingo rigen alertas por tormentas en la región de la Mesopotamia.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-argentina-vivo-vi-mapa-calor-extremo-riesgo-incendios-preocupa-chile_0_pjAS7hwDtS.html",
+     "imagen": "https://www.clarin.com/img/2026/01/20/sFA22QLvx_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:57",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Super Niño en Argentina, EN VIVO: \"Nunca vi algo así\", el mapa de calor extremo y riesgo de incendios que preocupa en Chile"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del domingo veintidós de noviembre. La jornada llega con la noticia de que la Cumbre del Clima de la Organización de las Naciones Unidas, la COP treinta y uno, terminó en Antalya, Turquía, sin lograr un acuerdo sobre el abandono de los combustibles fósiles, después de que la Unión Europea rechazara el texto final. En el plano económico, el dólar oficial cotiza en mil seiscientos pesos, el dólar blue en mil seiscientos setenta y cinco pesos y el riesgo país se ubica en mil setenta puntos básicos, su nivel más alto del año, mientras el oro cotiza en tres mil quinientos quince dólares la onza. El Financial Times advirtió que el gobierno argentino enfrenta un faltante de diez mil millones de dólares para cubrir los próximos vencimientos de deuda con bonistas privados. En el plano político, el Senado se prepara para votar el jueves la suspensión de las primarias para dos mil veintisiete, y en los deportes, Boca Juniors inicia hoy el regreso a Buenos Aires tras consagrarse campeón de la Copa Sudamericana, mientras Franco Colapinto repitió su mejor resultado histórico en la Fórmula uno. En política, el Senado tratará este jueves el proyecto de reforma política que busca suspender las primarias abiertas, simultáneas y obligatorias para las elecciones de dos mil veintisiete. La ministra de Seguridad, Patricia Bullrich, adelantó que el oficialismo confía en reunir los votos necesarios en la Cámara alta. En el peronismo, crece la sociedad entre Cristina Kirchner y Sergio Massa, que empezaron a construir una alternativa en paralelo al gobernador bonaerense Axel Kicillof, mientras el exgobernador de Salta Juan Manuel Urtubey tomó distancia de una eventual candidatura de la expresidenta, a quien recordó que no podrá competir por su condena en la causa Vialidad. Una encuesta de la consultora Analogías mostró que, por primera vez desde que comenzó a medirse, los argentinos que se declaran opositores al gobierno de Javier Milei superan a los indecisos, en un estudio que también detectó una caída del presidente en dos escenarios de balotaje para el año que viene. En el plano diplomático, dos contratistas se bajaron del proyecto petrolero Sea Lion en Malvinas a seis días de que el Tribunal Internacional del Derecho del Mar se pronuncie sobre el pedido argentino de frenar la actividad hidrocarburífera en el archipiélago, aunque el Reino Unido reafirmó su respaldo a las empresas involucradas. En economía y mercados, además de los valores ya mencionados, un informe de la consultora LCG advirtió que la brecha cambiaria superó el diez por ciento y anticipó meses de mucha incertidumbre y volatilidad de cara a fin de año. Un informe del Congreso de Estados Unidos, respaldado por demócratas y republicanos, alertó que China ya controla buena parte de los mercados mundiales de litio, soja y pesca, y que ahora avanza sobre el cobre y la infraestructura digital en América Latina. También circula el debate sobre si el tipo de cambio está atrasado: hoy se ubica por debajo de su promedio histórico y del nivel de noviembre de dos mil veintitrés, aunque convive con superávit comercial y un Banco Central que compra divisas. En negocios y empresas, la compañía china Ganfeng proyecta producir en la Argentina más de trescientas mil toneladas anuales de litio hacia dos mil treinta y cinco, mientras que en Vaca Muerta la escasez de mano de obra especializada se perfila como un cuello de botella: según el IAPG, el sector necesitará cuarenta mil trabajadores adicionales hacia dos mil treinta. Una fábrica argentina de motos exporta hoy a catorce países europeos y proyecta facturar trece millones y medio de dólares este año, con un modelo que competirá en el Rally Dakar. Y en Argentina Alimenta, empresas como Salvita, Catena Zapata y una quesería patagónica contaron cómo compiten con marcas propias frente a los productos importados. En impuestos, laboral y normativa, la Unión Industrial Argentina impulsa un pacto fiscal federal para bajar la presión tributaria sobre la industria, aunque la caída de la recaudación limita el margen de varias provincias para acompañar la medida. La Anses actualizó un uno con noventa y tres por ciento las prestaciones sociales de noviembre, en línea con la inflación de septiembre. Y mañana lunes es feriado nacional por el Día de la Soberanía, trasladado desde el veinte de noviembre por la ley de feriados trasladables, lo que arma un fin de semana largo de tres días. En consumo, construcción y retail, la juguetería danesa Lego confirmó que abrirá su primera tienda oficial en el país, en el shopping Unicenter de Martínez, aunque todavía sin fecha definida. Carrefour ofrece descuentos de hasta cincuenta por ciento en pequeños electrodomésticos, y una nota repasó por qué el color de las bandejas de carne en los supermercados responde a estrategias comerciales y no a un código de calidad. En management y finanzas corporativas, una columna recordó la vigencia de la Ley de Parkinson: durante décadas el poder de un jefe se midió en la cantidad de gente a cargo, una lógica que hoy se discute cada vez más. El caso de Nvidia, cuyo fundador Jensen Huang renunció tras conocerse dos relaciones extramatrimoniales, reavivó el debate sobre los romances de oficina: un estudio mostró que el ochenta y nueve por ciento de los trabajadores pide prohibirlos entre jefes y subordinados. Y un experimento sin inteligencia artificial mostró que dejar de usar asistentes como ChatGPT durante unos días redujo la sensación de soledad y aumentó el trato cara a cara. En el mundo, además del cierre sin acuerdo de la Cumbre del Clima, que el secretario general de la Organización de las Naciones Unidas, António Guterres, calificó de profunda decepción, en Israel los partidos de Benjamin Netanyahu y Gadi Eisenkot retomaron la negociación para formar un gobierno de unidad, con la discusión centrada en quién encabezaría esa coalición. El ministro de Defensa británico calificó al presidente ruso Vladimir Putin de asesino a sangre fría y pidió mayor apoyo europeo para Ucrania. En España, a una semana de las elecciones generales, el gobierno, Frente Amplio y Vox entraron en la recta final de la campaña con la vista puesta en los debates televisivos de esta semana. Y en la isla española de El Hierro ya son cinco los cayucos llegados este domingo con migrantes. En deportes, Boca Juniors define hoy la caravana de regreso a Buenos Aires tras ganar la Copa Sudamericana, y su capitán Leandro Paredes, que sufrió mareos durante los festejos en Barranquilla, ya está recuperado. El entrenador Rodolfo Arruabarrena, que volvió al club diez años después, cerró en apenas cinco meses una sequía de dieciocho años sin títulos internacionales. Hoy también arrancan los octavos de final del Torneo Clausura, con River recibiendo a Lanús en el Monumental, Instituto a Huracán en Córdoba y Rosario Central ante Gimnasia de Mendoza. La Selección Sub diecisiete juega esta tarde ante Mozambique por el Mundial de Qatar, y en tenis, Carlos Alcaraz y Alexander Zverev definen hoy el título del ATP Finals en Turín. En MotoGP, el español Marc Márquez conquistó su octavo título mundial en el Gran Premio de Portugal, y en hockey sobre césped, Mitre y Santa Bárbara se consagraron campeones de los Metropolitanos. En rugby, Felipe Contepomi fue autocrítico tras la derrota de los Pumas ante Francia. Y en la Fórmula uno, Franco Colapinto volvió a terminar sexto en el Gran Premio de Las Vegas, con una maniobra destacada en la que superó en una sola jugada a los dos pilotos de McLaren; gracias a ese resultado, Alpine recortó a veintisiete puntos la diferencia con Racing Bulls por el quinto puesto del Campeonato de Constructores, a falta de dos carreras. En turismo, con la temporada de verano por arrancar, una consulta a la inteligencia artificial buscó determinar cuál es la mejor playa de Mar del Plata para ir en familia o con amigos. Y en Europa, la ciudad belga de Brujas inauguró sus mercados navideños, con una pista de hielo y una programación que se extenderá hasta comienzos de enero. Eso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Le Grand Continent no publicó notas en esta ventana de 6 horas, por eso se omitió la sección Europa y geopolítica. Todas las fuentes respondieron correctamente.",
+ "slug": "2026-11-22-mediodia",
+ "generado_ba": "22/11/2026 15:16"
+}
