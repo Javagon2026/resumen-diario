@@ -1,0 +1,827 @@
+{
+ "fecha": "2026-11-23",
+ "edicion": "tarde",
+ "titulo": "Euforia por Nvidia en Wall Street y escalada entre Gobierno y UBA por Santucho",
+ "apertura": "Wall Street extendió la euforia por el regreso de Jensen Huang a Nvidia y arrastró a los bonos y las acciones argentinas, que llegaron a subir hasta 7 por ciento pese al feriado local. El Gobierno endureció el conflicto con la UBA por el homenaje a Mario Santucho con una carta formal que pide sanciones, mientras el propio hijo del exjefe guerrillero ratificó el acto y el vicerrector Emiliano Yacobitti buscará frenarlo. En España, PP y Vox encabezan las encuestas a cinco días de las elecciones, y en la provincia de Buenos Aires las empresas rechazan una nueva exigencia de información laboral mensual.",
+ "claves": [
+  "El riesgo país cayó 30 puntos básicos, a 1.035 puntos, y las acciones argentinas en Wall Street subieron hasta 7 por ciento tras la vuelta de Jensen Huang a Nvidia.",
+  "El Gobierno envió una carta formal a la UBA para exigir sanciones a quienes impulsaron el homenaje a Mario Santucho, previsto para el 10 de diciembre.",
+  "El hijo de Santucho ratificó que el homenaje se hará, mientras el vicerrector Yacobitti y el hijo de una víctima del ERP lo cuestionaron.",
+  "Las exportaciones del agro sumaron US$ 47.802 millones entre enero y octubre, 14 por ciento más que en 2025, aunque el tipo de cambio real está más bajo que el promedio del año pasado.",
+  "Empresas bonaerenses rechazan una nueva resolución de Kicillof que las obliga a informar salarios y jornada laboral todos los meses.",
+  "Toyota y Volkswagen dejarán de producir los actuales modelos de Hilux y Amarok en sus plantas argentinas.",
+  "ATE amenaza con nuevos paros \"a la japonesa\" en los aeropuertos durante todo diciembre, en plena temporada de Fiestas.",
+  "España vota el domingo con el PP como favorito, aunque necesitaría a Vox para lograr la mayoría absoluta."
+ ],
+ "cifras": [
+  {
+   "nombre": "Exportaciones del agro (ene-oct)",
+   "valor": "US$ 47.802 millones",
+   "variacion": "+14%",
+   "fuente": "CL-09"
+  },
+  {
+   "nombre": "Dólar en Brasil (último mes)",
+   "valor": "suba de ~20%",
+   "fuente": "IP-12"
+  },
+  {
+   "nombre": "Brecha cambiaria (oficial vs. CCL)",
+   "valor": "más de 13%",
+   "fuente": "LN-18"
+  },
+  {
+   "nombre": "ADR argentinos en Wall Street",
+   "valor": "suba de hasta 7%",
+   "fuente": "IB-01"
+  },
+  {
+   "nombre": "Monotributistas por aporte de un asalariado",
+   "valor": "30 a 1",
+   "fuente": "IP-16"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "intro": "El conflicto entre el Gobierno y la UBA por el homenaje a Mario Santucho escaló con nuevas voces y un reclamo formal de sanciones.",
+   "notas": [
+    {
+     "id": "LN-01",
+     "titulo": "el Gobierno le pidió a la UBA que sancione a quienes autorizaron el homenaje a Santucho",
+     "resumen": "El subsecretario de Políticas Universitarias, Alejandro Álvarez, envió una carta formal al rector Ricardo Gelpi para exigir que se sancione a las autoridades de la Facultad de Ciencias Sociales que impulsan el homenaje al exjefe del ERP Mario Roberto Santucho, previsto para el 10 de diciembre. El funcionario advirtió que podrían incurrir en delitos penales, aunque el Gobierno no hará por ahora una presentación ante la Justicia. La decana Ana Arias y el Consejo Directivo de la facultad ya habían avalado el acto.",
+     "relacionadas": [
+      {
+       "id": "CL-08",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El Gobierno le advierte a funcionarios de la UBA que cometen un delito si se concreta el homenaje a Santucho",
+       "url": "https://www.clarin.com/politica/gobierno-redobla-apuesta-advierte-funcionarios-uba-cometen-delito-concreta-homenaje-santucho_0_6ezKYwVwZG.html"
+      },
+      {
+       "id": "IB-21",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Gobierno le envió una carta formal a la UBA para que impida el homenaje al terrorista Mario Santucho y exigió sanciones",
+       "url": "https://www.infobae.com/politica/2026/11/23/el-gobierno-le-envio-una-carta-formal-a-la-uba-para-que-impida-el-homenaje-al-terrorista-mario-santucho-y-exigio-sanciones/"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El Gobierno le pidió a la UBA que frene un homenaje a Santucho y amenaza con sanciones",
+       "url": "https://www.iprofesional.com/politica/469801-el-gobierno-le-pidio-a-la-uba-que-frene-un-homenaje-a-santucho-y-amenaza-con-sanciones"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-envio-una-carta-al-rector-de-la-uba-amenaza-con-sanciones-a-los-promotores-del-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/62T3XTNFNZGEDOKMMRCZSRW7HY.jpg?auth=50936fd4cf6b51753a39a9cd2a52b442947c7081f1662c01191f18a22361d33e&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:59",
+     "autor": "",
+     "titulo_original": "El Gobierno envió una carta formal a la UBA en la que pidió sancionar a quienes autorizaron el homenaje a Santucho"
+    },
+    {
+     "id": "LN-05",
+     "titulo": "Yacobitti buscará frenar en el Consejo Superior el homenaje a Santucho",
+     "resumen": "El vicerrector de la UBA, Emiliano Yacobitti, rechazó el homenaje a Santucho y adelantó que buscará revertir en el Consejo Superior la resolución que lo declaró de interés institucional. \"Este homenaje no puede tener lugar. Me cae mal\", dijo en diálogo con LN+. La iniciativa prevé colocar una escultura en honor al fundador del PRT-ERP el 10 de diciembre, en coincidencia con el aniversario del retorno de la democracia.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/yacobitti-cuestiono-el-homenaje-a-santucho-en-la-facultad-de-ciencias-sociales-de-la-uba-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/C34PVIWTWJD3VPFCJSTUETRHHE.jpg?auth=228f55fce2bbed2755f34509998b8b4d1480ff0d8e25b2833490e1306d1446d1&smart=true&width=900&height=601",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:52",
+     "autor": "",
+     "titulo_original": "Yacobitti cuestionó el homenaje a Santucho en la Facultad de Ciencias Sociales de la UBA"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "el hijo de Santucho ratificó que el homenaje se hará",
+     "resumen": "Mario Santucho hijo respondió al Gobierno y ratificó que el homenaje a su padre se realizará en la Facultad de Ciencias Sociales. \"El acto se hace, salvo que las autoridades de la UBA lo censuren\", afirmó, y sostuvo que hay que recuperar lo esencial de esa generación. Ubicó la polémica dentro del conflicto más amplio entre el Gobierno y la universidad pública.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/hijo-santucho-respondio-gobierno-milei-ratifico-homenaje-padre-uba-recuperar-esencial-generacion_0_kPlMxUqMpr.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/f3zLjiqzT_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:50",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El hijo de Santucho le respondió al Gobierno de Milei y ratificó el homenaje a su padre en la UBA: “Hay que recuperar lo esencial de esa generación”"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "el hijo de un coronel asesinado por el ERP cuestionó el homenaje a Santucho",
+     "resumen": "Arturo Larrabure, hijo del coronel Argentino del Valle Larrabure, secuestrado y asesinado por el ERP en 1975, cuestionó el homenaje previsto para Santucho en la UBA. \"Que haya estatuas a un asesino como Santucho nos da un profundo dolor\", dijo en una entrevista con Radio Rivadavia, donde también relató un reciente homenaje a su padre en su colegio secundario.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/23/arturo-larrabure-que-haya-estatuas-a-un-asesino-como-santucho-nos-da-un-profundo-dolor/",
+     "imagen": "https://www.infobae.com/resizer/v2/ONVXDHXKIJBUHBLNGNJMLEK554.jpg?auth=5ac0f89b3265c73d375c44613d08167f8b88fd21faa9c1377b308e652d99762f&smart=true&width=800&height=538",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:18",
+     "autor": "",
+     "titulo_original": "Arturo Larrabure: “Que haya estatuas a un asesino como Santucho nos da un profundo dolor”"
+    },
+    {
+     "id": "IB-19",
+     "titulo": "confirmaron una indemnización para las hijas de Santucho",
+     "resumen": "La Cámara de Apelaciones en lo Contencioso Administrativo Federal confirmó una indemnización de 300.000 pesos, unos 8.000 dólares, para las hijas de Mario Roberto Santucho por el exilio que debieron atravesar y por la desaparición del cadáver de su padre tras su muerte en combate. El fallo revisó una sentencia de 2018 que ya había condenado al Estado por el daño moral causado a las hijas del jefe guerrillero.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2023/03/19/los-dos-grandes-fracasos-de-santucho-y-su-idea-de-matar-a-un-millon-de-personas-para-lograr-la-patria-socialista/",
+     "imagen": "https://www.infobae.com/resizer/v2/4CWK4LPA6RFEHPHE2U3GSLV4UE.jpg?auth=a8913a3e54e8f7c365944ecbb13ce46f27985442e3fca8a99c62dfcbaed70ef2&smart=true&width=770&height=433",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:39",
+     "autor": "Juan Bautista Tata Yofre",
+     "titulo_original": "Los dos grandes fracasos de Santucho y su idea de “matar a un millón de personas” para lograr la patria socialista"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "ATE amenaza con paros en los aeropuertos durante todo diciembre",
+     "resumen": "La agrupación ATE amenazó con nuevos paros \"a la japonesa\" en todos los aeropuertos del país durante diciembre, que podrían incluir retención de tareas y paro total de actividades. La medida de fuerza se da en la previa de las Fiestas y podría complicar los vuelos de fin de año.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/vuelos-complicados-ate-amenaza-nuevos-paros-japonesa-aeropuertos-podria-impactar-fiestas_0_y9BasKydau.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/pz0q8sGs1_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:54",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Vuelos complicados: ATE amenaza con nuevos “paros a la japonesa” en los aeropuertos y podría impactar en las Fiestas"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "el Gobierno acelera la reforma electoral y la suspensión de las PASO",
+     "resumen": "El Gobierno acelera en el tramo final del año la agenda legislativa, con la reforma electoral y la suspensión de las PASO como prioridad de cara a las presidenciales de 2027. Una fuente libertaria consultada por Infobae advirtió que eliminar las PASO podría generar un efecto contrario al buscado por el oficialismo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/politica/2026/11/23/las-tres-finales-que-enfrenta-el-gobierno-y-el-debate-por-la-suspension-de-las-paso/",
+     "imagen": "https://www.infobae.com/resizer/v2/UWDIV7PTWBCZ5JCGMBGPJNXH5U.jpg?auth=a53d0fb15d40a2857b5d853b957d241750044eedf046d268348a73e8ad13f1c2&smart=true&width=900&height=675",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "14:36",
+     "autor": "Sofia Rojas",
+     "titulo_original": "Las “tres finales” que enfrenta el Gobierno y el debate por la suspensión de las PASO"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "IB-01",
+     "titulo": "las acciones argentinas rebotaron hasta 7% y el riesgo país cayó 30 puntos básicos",
+     "resumen": "Las acciones argentinas que cotizan en Nueva York rebotaron hasta 7 por ciento y el riesgo país cayó 30 puntos básicos, hasta 1.035 puntos, en una rueda de fuerte recuperación en Wall Street. El mercado local permaneció cerrado por el feriado del Día de la Soberanía Nacional, pero los ADR y bonos argentinos se contagiaron del rally internacional. El Nasdaq lideró las subas con un avance de hasta 6,5 por ciento, de la mano del repunte de las acciones tecnológicas.",
+     "relacionadas": [
+      {
+       "id": "AM-02",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los ADRs rebotan hasta 6% y el riesgo país cede por debajo de los 1.030, ante la mejora del clima internacional",
+       "url": "https://www.ambito.com/finanzas/los-adrs-rebotan-68-y-los-bonos-suben-la-mejora-del-clima-internacional-n6348259"
+      },
+      {
+       "id": "AM-03",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street rebota hasta 6,5% con el Nasdaq al frente, tras el regreso de Jensen Huang en Nvidia",
+       "url": "https://www.ambito.com/finanzas/wall-street-rebota-67-el-nasdaq-al-frente-el-nuevo-nombramiento-jensen-huang-nvidia-n6348272"
+      },
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Nvidia se dispara 32% en Wall Street ante el giro de la compañía y la restitución de Jensen Huang como presidente",
+       "url": "https://www.ambito.com/finanzas/nvidia-se-dispara-mas-33-wall-street-el-giro-la-compania-y-la-restitucion-jensen-huang-como-presidente-n6348307"
+      },
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Giro inesperado en Nvidia: Jensen Huang regresa como director ejecutivo, festeja Donald Trump y las acciones se disparan 30% en Wall Street",
+       "url": "https://www.clarin.com/mundo/giro-inesperado-nvidia-jensen-huang-regresa-director-ejecutivo-festeja-donald-trump-acciones-disparan-30-wall-street_0_ROnHsOpT9c.html"
+      },
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El índice tecnológico Nasdaq de Wall Street se dispara de la mano de Nvidia",
+       "url": "https://www.iprofesional.com/tecnologia/469789-nvidia-salto-historico-wall-street-arrastra-acciones-tecnologicas"
+      },
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Los ADRs suben en Wall Street y cae riesgo país en un día de euforia por el efecto Nvidia",
+       "url": "https://www.iprofesional.com/finanzas/469795-los-adr-y-bonos-argentinos-se-contagian-de-wall-street-y-suben-tras-el-efecto-nvidia"
+      },
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Suben los bonos y cae el riesgo país de la mano de Wall Street, pero la mejora no excluye el peligro",
+       "url": "https://www.cronista.com/finanzas-mercados/suben-los-bonos-y-cae-el-riesgo-pais-de-la-mano-de-wall-street-pero-la-mejora-no-excluye-el-peligro/"
+      },
+      {
+       "id": "LN-21",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Cae el riesgo país: Wall Street rebota con fuerza y contagia a las acciones argentinas que cotizan en Nueva York",
+       "url": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/",
+     "imagen": "https://www.infobae.com/resizer/v2/XZ6RRDTTLRBFJLBRBSYZAX6UWY.JPG?auth=88d2da6ef5fc5ca1a9d6cb9695e0307cffbe91e3c8485a82ba1aeacfb7b3fc0c&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:06",
+     "autor": "",
+     "titulo_original": "Las acciones argentinas rebotaron hasta 7% y el riesgo país cayó 30 puntos básicos en un día de euforia en las bolsas"
+    },
+    {
+     "id": "IB-03",
+     "titulo": "Nvidia saltó 32% tras la restitución de Jensen Huang como CEO",
+     "resumen": "Las acciones de Nvidia saltaron 32 por ciento, a 165,19 dólares, después de que la compañía reincorporó a Jensen Huang como director ejecutivo y cortó una racha de siete días de caídas. El presidente de Estados Unidos, Donald Trump, reconoció que intervino ante el directorio para respaldar el regreso de Huang y contó que, antes de confirmarlo, le pidió \"que le prometiera algo\". El cambio de rumbo se había descartado apenas días antes, en medio de presiones de Wall Street y dudas sobre la seguridad de la compañía.",
+     "relacionadas": [
+      {
+       "id": "IP-10",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "\"Me tienes que prometer algo\": el pedido de Trump a Huang antes de su regreso a Nvidia",
+       "url": "https://www.iprofesional.com/actualidad/469804-me-tienes-que-prometer-algo-el-pedido-de-trump-a-huang-antes-de-su-regreso-a-nvidia"
+      },
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Qué es Nvidia y por qué es tan relevante en la economía digital mundial",
+       "url": "https://www.iprofesional.com/negocios/469807-que-es-nvidia-y-por-que-es-tan-relevante-en-la-economia-digital-mundial"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Donald Trump celebró la reincorporación de Jensen Huang a Nvidia y reveló qué le pidió antes de promover su regreso",
+       "url": "https://www.ambito.com/mundo/donald-trump-celebro-la-reincorporacion-jensen-huang-nvidia-y-lo-definio-como-un-gran-patriota-n6348314"
+      },
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Presión de Wall Street y apoyo de Donald Trump: la trama secreta detrás de la vuelta del CEO de Nvidia",
+       "url": "https://www.clarin.com/mundo/presion-wall-street-apoyo-donald-trump-trama-secreta-detras-vuelta-ceo-nvidia_0_dq4GT6dOUZ.html"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-de-nvidia-rebotan-30-despues-de-que-la-compania-anunciara-la-restitucion-de-jensen-huang-como-ceo/",
+     "imagen": "https://www.infobae.com/resizer/v2/BRHADYH255B4LLMY4I7RHGVOBM.JPG?auth=59c515060edf690ab5bfe9447fa1ec9a24135db5c4f8dcab6e51138952736584&smart=true&width=900&height=581",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:03",
+     "autor": "",
+     "titulo_original": "Las acciones de Nvidia rebotaron 32% después de que la compañía anunciara la restitución de Jensen Huang como CEO"
+    },
+    {
+     "id": "LN-18",
+     "titulo": "el peso fue la segunda moneda emergente más golpeada del último mes",
+     "resumen": "El peso argentino fue, en los últimos 30 días, la segunda moneda emergente que más se devaluó, solo detrás del real brasileño, a casi un año de las elecciones presidenciales de 2027. La brecha entre el dólar oficial y el contado con liquidación superó el 13 por ciento, el nivel más alto desde las elecciones de septiembre de 2025 en la provincia de Buenos Aires, y crece la demanda de instrumentos de cobertura cambiaria. Para una empresa: la mayor brecha encarece la importación de insumos y presiona los plazos de pago a proveedores del exterior.",
+     "relacionadas": [
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Dólar sube casi 20% en menos de 1 mes en Brasil y mete presión al plan económico de Caputo",
+       "url": "https://www.iprofesional.com/finanzas/469716-el-dolar-subio-20-por-ciento-en-menos-de-un-mes-en-brasil-y-mete-presion-a-caputo"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/el-peso-es-la-moneda-emergente-mas-golpeada-despues-de-brasil-y-crece-la-demanda-de-cobertura-frente-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LGWBX4Z4GVG7PNTEPSXN7FQYRE.jpg?auth=a98c514ca109f85f7a425f218380ce4ae97c7e1639ad35813d4c5c8a263fb9a8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:48",
+     "autor": "Agustín Maza",
+     "titulo_original": "El peso es la moneda emergente más golpeada después de Brasil y crece la demanda de cobertura frente al dólar"
+    },
+    {
+     "id": "CL-07",
+     "titulo": "un funcionario de Caputo dijo que la suba del riesgo país \"no le pega\" a la economía",
+     "resumen": "El secretario de Finanzas, Federico Furiase, dijo que la suba del riesgo país y del dólar \"no le pegan\" a la economía ni a la inflación, y descartó que el Gobierno necesite salir a buscar financiamiento externo en el corto plazo. La declaración llega en una jornada marcada por la volatilidad cambiaria regional y la presión sobre los activos argentinos.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/funcionario-caputo-dijo-suba-riesgo-pais-dolar-pegan-economia-inflacion_0_ukaSYXcrEZ.html",
+     "imagen": "https://www.clarin.com/img/2026/10/22/hHGgakDyP_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:23",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un funcionario de Caputo dijo que la suba del riesgo país y del dólar \"no le pegan\" a la economía y la inflación"
+    },
+    {
+     "id": "CL-09",
+     "titulo": "las exportaciones del agro crecieron 14% pero el tipo de cambio real está más bajo que en 2025",
+     "resumen": "Las exportaciones del agro sumaron US$ 47.802 millones entre enero y octubre, casi US$ 6.000 millones más que en el mismo período de 2025, un alza del 14 por ciento. Sin embargo, especialistas advierten que el tipo de cambio real está un 3 por ciento por debajo del promedio del año pasado, lo que resta competitividad al sector. Para una empresa: un tipo de cambio real más bajo encarece los costos en dólares y reduce el margen de las exportadoras.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/rural/destacan-exportaciones-agro-crecieron-14-ano-alertan-tipo-cambio-real-3-abajo-promedio-2025_0_5DYUM45FD4.html",
+     "imagen": "https://www.clarin.com/img/2018/09/14/3oreiorZ-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:14",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Destacan que las exportaciones del agro crecieron 14% este año pero alertan que el tipo de cambio real está un 3% abajo del promedio de 2025"
+    },
+    {
+     "id": "IP-20",
+     "titulo": "Barclays prevé otro año de estancamiento y advierte por el dólar en 2027",
+     "resumen": "El banco Barclays recortó su apuesta por los bonos argentinos y proyecta un crecimiento de apenas 1,2 por ciento para 2027, además de advertir sobre riesgos cambiarios y financieros. La entidad anticipa otro año de estancamiento para la economía local.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/469792-gigante-de-wall-street-preve-otro-ano-de-estancamiento-y-alerta-por-el-dolar-en-2027",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/06/577959.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:26",
+     "autor": "",
+     "titulo_original": "Gigante de Wall Street prevé otro año de estancamiento y alerta por el dólar en 2027"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-01",
+     "titulo": "un frente de lácteas propone una salida alternativa a Adecoagro para SanCor",
+     "resumen": "Milkaut, Punta del Agua y Failar propusieron ante el juzgado que tramita la quiebra de SanCor mantener las plantas operativas mediante contratos de fasón, una alternativa a la oferta de Adecoagro, que busca quedarse con las plantas y las marcas de la cooperativa. El objetivo de las tres lácteas es evitar la paralización de la estructura industrial mientras avanza el proceso de venta de los activos.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-frente-anti-adecoagro-propone-una-inedita-salida-para-la-gran-lactea-que-busca-comprador/",
+     "imagen": "https://www.cronista.com/resizer/v2/PTOMROLJXFERFFRFHEWS2YQ2QQ.jpg?auth=523dcab66b737a2ca3a749f77db96155392132b107ebc29c23329409feff3407&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Un frente “anti” Adecoagro propone una inédita salida para la gran láctea que busca comprador"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "Bayer obtuvo la aprobación final de un acuerdo de US$ 7.250 millones por el glifosato",
+     "resumen": "Bayer obtuvo la aprobación final de un tribunal de Missouri para un acuerdo colectivo de hasta US$ 7.250 millones que busca cerrar los litigios en Estados Unidos por el herbicida Roundup, de Monsanto, vinculado a casos de linfoma no Hodgkin. La compañía alemana lo definió como un pilar clave de su estrategia para contener los juicios relacionados con el producto.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/bayer-obtuvo-la-aprobacion-final-a-un-acuerdo-de-pagos-de-hasta-us7250-millones-tras-reclamos-al-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/U6M45YLEFBF6ZJPREPZDBH4224.jpg?auth=51ccc3fcb442678230b9a380628d229711249d4cf328c18ab5ced3bfd0a8e203&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:17",
+     "autor": "",
+     "titulo_original": "Bayer obtuvo la aprobación final a un acuerdo de pagos de hasta US$7250 millones tras reclamos por el glifosato"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "Toyota y Volkswagen dejan de producir los actuales modelos de Hilux y Amarok",
+     "resumen": "Toyota y Volkswagen dejarán de producir este mes los modelos actuales de la Hilux y la Amarok en sus plantas argentinas, en el marco de una renovación de ambas pick-ups. El cambio implica una transformación en las líneas de producción de las dos automotrices radicadas en el país.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/autos/469794-toyota-y-volkswagen-dejan-de-producir-las-actuales-hilux-y-amarok",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627416.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:41",
+     "autor": "",
+     "titulo_original": "Toyota y Volkswagen dejan de producir este mes los modelos actuales de Hilux y Amarok"
+    },
+    {
+     "id": "IP-11",
+     "titulo": "reclaman reglas claras para la apertura del cabotaje por la Hidrovía",
+     "resumen": "Un proyecto de ley con media sanción en el Congreso habilitaría a buques extranjeros a transportar cargas de cabotaje entre puertos argentinos por la Hidrovía, lo que abrió un debate entre los operadores locales. Empresarios del sector reclaman reglas claras para poder competir en igualdad de condiciones con las navieras extranjeras.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/469799-hidrovia-fuerte-reclamo-de-exportadores-y-puertos-por-las-reglas-para-el-transporte",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625484.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:12",
+     "autor": "",
+     "titulo_original": "Apertura del cabotaje en la Hidrovía: reclaman reglas para competir con buques extranjeros"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-01",
+     "titulo": "nueva resolución bonaerense obliga a informar salarios y jornada todos los meses",
+     "resumen": "La Resolución 260/2026 del Ministerio de Trabajo bonaerense obligará desde enero de 2027 a los empleadores de la provincia de Buenos Aires a presentar todos los meses una declaración jurada con los salarios pagados y los controles de jornada, a través del Formulario Único de Trabajo. La Sociedad Rural Argentina y la Cámara Argentina de Comercio y Servicios pidieron suspender la medida porque, según argumentan, duplica registros ya exigidos por la Nación y agrava la carga administrativa. Para una empresa: implica sumar un trámite mensual obligatorio y mayor exposición a sanciones por incumplimientos formales.",
+     "relacionadas": [
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Empresas reclaman por nueva carga laboral que impone la Provincia de Buenos Aires",
+       "url": "https://www.iprofesional.com/impuestos/469810-formulario-futuro-buenos-aires-carga-laboral-empresas-noviembre-2026"
+      },
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Preocupación empresaria por una nueva traba burocrática en la provincia de Buenos Aires: piden que se anule la medida",
+       "url": "https://www.clarin.com/economia/preocupacion-empresaria-nueva-traba-burocratica-provincia-buenos-aires-piden-anule-medida_0_qjv6f5hAJQ.html"
+      },
+      {
+       "id": "IB-24",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Polémica por una nueva obligación que Kicillof impone a las empresas: de qué se trata y por qué la rechazan",
+       "url": "https://www.infobae.com/economia/2026/11/23/polemica-por-una-nueva-obligacion-que-kicillof-impone-a-las-empresas-de-que-se-trata-y-por-que-la-rechazan/"
+      }
+     ],
+     "url": "https://www.iprofesional.com/legales/469810-formulario-futuro-buenos-aires-carga-laboral-empresas-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614284.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "Empresas reclaman por nueva carga laboral que impone la Provincia de Buenos Aires"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "EE.UU. celebró la adhesión argentina al tratado internacional de patentes",
+     "resumen": "El embajador de Estados Unidos celebró la adhesión de la Argentina al tratado internacional de patentes y ratificó el respaldo de Washington al Gobierno de Javier Milei. Según la embajada, la adhesión abre nuevos mercados internacionales para las pequeñas y medianas empresas argentinas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/469809-embajador-de-eeuu-celebro-adhesion-tratado-de-patentes-y-ratifico-respaldo-a-milei",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628005.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:44",
+     "autor": "",
+     "titulo_original": "Embajador de EE.UU. celebró la adhesión al tratado de patentes y ratificó respaldo a Milei"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "se necesitan 30 monotributistas para igualar el aporte jubilatorio de un asalariado",
+     "resumen": "Un informe del Banco Provincia advirtió que se necesitan treinta monotributistas para igualar el aporte jubilatorio que genera un trabajador asalariado registrado, en medio de la pérdida de empleo formal y la caída del poder adquisitivo. El documento marca el crecimiento sostenido de la cantidad de monotributistas en los últimos años. Para una empresa: el reemplazo de puestos registrados por monotributo erosiona la base de aportes que financia el sistema previsional.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/469785-se-necesitan-30-monotributistas-para-igualar-el-aporte-jubilatorio-de-un-asalariado",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630222.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:25",
+     "autor": "",
+     "titulo_original": "Se necesitan 30 monotributistas para igualar el aporte jubilatorio de un asalariado"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-19",
+     "titulo": "Arcor aumentó sus ganancias pese a menores ventas y a la caída del consumo",
+     "resumen": "Arcor aumentó sus ganancias pese a vender menos y a la caída del consumo, gracias a una mejora operativa. La compañía prevé una recuperación gradual del negocio y priorizará liquidez, capital de trabajo e inversión de cara a los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/469790-arcor-aumento-sus-ganancias-pese-a-las-menores-ventas-y-a-la-caida-del-consumo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/11/606461.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:35",
+     "autor": "",
+     "titulo_original": "Arcor aumentó sus ganancias pese a menores ventas y a la caída del consumo"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "decretaron un nuevo feriado en diciembre con fin de semana de cuatro días antes de Navidad",
+     "resumen": "El Gobierno decretó un nuevo día no laborable y feriado en diciembre, que generará un fin de semana largo de cuatro días antes de Navidad. Se suma al calendario de descansos del mes y ya impulsa la búsqueda de destinos turísticos de cara a las Fiestas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/469806-gobierno-decreta-dia-no-laborable-y-feriado-diciembre-2026-fin-de-semana-4-dias-antes-de-navidad",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/05/536021.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:39",
+     "autor": "",
+     "titulo_original": "Decretan día no laborable y feriado en diciembre: fin de semana de 4 días antes de Navidad"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "dónde comprar más barato el árbol y los adornos de Navidad",
+     "resumen": "Los locales de Once, los mayoristas online y los comercios especializados concentran las opciones más económicas para comprar el árbol y los adornos de Navidad este año. Los precios varían según el canal y el tipo de producto, desde pinos artificiales hasta guirnaldas y luces.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/469693-donde-comprar-mas-barato-el-arbol-y-los-adornos-para-navidad",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630277.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "12:20",
+     "autor": "",
+     "titulo_original": "Cuánto cuestan y dónde comprar más barato el árbol y los adornos para Navidad"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-06",
+     "titulo": "España vota el domingo con el PP como favorito y Vox como posible socio",
+     "resumen": "España vota el domingo en unas elecciones generales donde el Partido Popular lidera la mayoría de las encuestas, aunque necesitaría sumar a Vox para alcanzar los 176 escaños de la mayoría absoluta en el Congreso. El PSOE de Pedro Sánchez apuesta a una alta participación para revertir el pronóstico. Este lunes, los ocho portavoces parlamentarios se reunieron en RTVE para el último debate antes de la votación.",
+     "relacionadas": [
+      {
+       "id": "LN-20",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Qué dicen los últimos sondeos en España y por qué Vox podría definir el futuro de Sánchez",
+       "url": "https://www.lanacion.com.ar/el-mundo/que-dicen-los-ultimos-sondeos-en-espana-y-por-que-vox-podria-definir-el-futuro-de-sanchez-nid23112026/"
+      },
+      {
+       "id": "IB-09",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Los ocho portavoces ya se encuentran en las instalaciones de RTVE",
+       "url": "https://www.infobae.com/espana/agencias/2026/11/23/los-ocho-portavoces-ya-se-encuentran-en-las-instalaciones-de-rtve/"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/espana-vota-domingo-encuestas-favorecen-pp-pedro-sanchez-rinde-apuesta-alta-participacion_0_J0rqMTzjUm.html",
+     "imagen": "https://www.clarin.com/img/2026/11/19/f7URs-oDE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "España vota el domingo: las encuestas favorecen al PP, pero Pedro Sánchez no se rinde y apuesta a una alta participación"
+    },
+    {
+     "id": "IB-07",
+     "titulo": "Urtasun celebró la amnistía a Puigdemont como \"una victoria de la democracia\"",
+     "resumen": "El ministro de Cultura español, Ernest Urtasun, candidato de Comuns-Frente Amplio, celebró la aplicación definitiva de la amnistía al expresidente catalán Carles Puigdemont como \"una victoria de la democracia\", tras nueve años de causa judicial. En paralelo, unas 200 personalidades de la cultura, entre ellas el actor Javier Bardem, firmaron un manifiesto para pedir el voto a favor de Frente Amplio en las elecciones del domingo.",
+     "relacionadas": [
+      {
+       "id": "IB-11",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Bardem pide votar a la coalición de izquierdas Frente Amplio en las elecciones españolas",
+       "url": "https://www.infobae.com/america/agencias/2026/11/23/bardem-pide-votar-a-la-coalicion-de-izquierdas-frente-amplio-en-las-elecciones-espanolas/"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/agencias/2026/11/23/urtasun-ve-la-amnistia-a-puigdemont-como-una-victoria-de-la-democracia/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Urtasun ve la amnistía a Puigdemont como \"una victoria de la democracia\""
+    },
+    {
+     "id": "IB-15",
+     "titulo": "la Comisión Europea propuso un nuevo paquete de sanciones contra Rusia",
+     "resumen": "La Comisión Europea propuso un nuevo paquete de sanciones contra Rusia, el número 22 desde 2022, que incluye restricciones a bancos y plataformas de criptomonedas, la prohibición de que atletas rusos compitan bajo su bandera en territorio europeo y el rechazo de ingreso a excombatientes rusos. La propuesta, presentada por la presidenta Ursula von der Leyen, necesita la aprobación unánime de los 27 países miembros y será analizada por los jefes de Estado el jueves.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/23/nuevas-sanciones-de-la-comision-europea-contra-rusia-bancos-criptomonedas-energia-y-restricciones-deportivas/",
+     "imagen": "https://www.infobae.com/resizer/v2/YZZTETJBONF2FOF25V6HKTPEAA.JPG?auth=7d14fcd3e227de7d9dfae10a8fb4b88dd046b09a17681d0ab613103dbf8eebe2&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:45",
+     "autor": "",
+     "titulo_original": "Nuevas sanciones de la Comisión Europea contra Rusia: bancos, criptomonedas, energía y restricciones deportivas"
+    },
+    {
+     "id": "IB-16",
+     "titulo": "Rusia amenazó a Estonia con \"una guerra abierta\"",
+     "resumen": "Rusia acusó a Estonia de estar \"a punto de desencadenar una guerra abierta\" después de que Tallin anunciara el cierre de su frontera terrestre con el país euroasiático a partir del 1 de diciembre. La Cancillería rusa convocó al encargado de negocios estonio para presentar una protesta diplomática formal.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/23/rusia-amenazo-a-estonia-con-lanzar-una-guerra-abierta-tras-el-cierre-de-la-frontera-terrestre/",
+     "imagen": "https://www.infobae.com/resizer/v2/ILGWVRP5BZGHJBEOGYDGGXGQCU.JPG?auth=4e3a29d33731645b366f99decab8188d814a49e809b3f425decb547a77a9d879&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:44",
+     "autor": "",
+     "titulo_original": "Rusia amenazó a Estonia con lanzar \"una guerra abierta\" tras el cierre de la frontera terrestre"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "el Reino Unido reforzará la seguridad en Malvinas con 18 millones de libras",
+     "resumen": "El Reino Unido destinará 18 millones de libras a reforzar la seguridad de sus territorios de ultramar, entre ellos las islas Malvinas, en medio de la tensión con la Argentina por la soberanía del archipiélago. El refuerzo apunta tanto a la lucha contra el crimen organizado como a la defensa frente a lo que Londres considera \"Estados hostiles\".",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/malvinas-reino-unido-destinara-18-millones-libras-reforzar-seguridad-territorios-ultramar-incluidas-islas_0_1uD0dR7U1j.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/qErGgY0Uc_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:08",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Malvinas: el Reino Unido destinará 18 millones de libras a reforzar la seguridad de sus territorios de ultramar, incluidas las islas"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "el opositor israelí Eisenkot descartó una intervención militar inmediata contra Irán",
+     "resumen": "El opositor israelí Gadi Eisenkot, encargado de formar el próximo gobierno de Israel, descartó una intervención militar inmediata contra Irán, en una postura que contradice al primer ministro saliente Benjamin Netanyahu. Eisenkot, líder del partido centrista Yashar, dijo que por ahora no ve una amenaza directa que justifique actuar antes de constituir un nuevo gobierno.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/23/el-opositor-gadi-eisenkot-descarta-una-intervencion-militar-inmediata-contra-iran-mientras-negocia-para-formar-gobierno/",
+     "imagen": "https://www.infobae.com/resizer/v2/N5Y2NGWMFVFKZBICDLNJ6XYBSM.JPG?auth=901c2281e20ec98b7568e33395327a80542a55a525c153ec5c433d69abf9f070&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:42",
+     "autor": "",
+     "titulo_original": "El opositor Gadi Eisenkot descarta una intervención militar inmediata contra Irán mientras negocia para formar gobierno"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Francia y la nueva era del poder aéreo europeo",
+     "resumen": "Le Grand Continent entrevistó al jefe del Estado Mayor de la Fuerza Aérea y Espacial francesa sobre la nueva era del poder aéreo europeo, en momentos en que crece la percepción de amenaza bélica entre los ciudadanos del continente. La publicación analiza cómo la invasión rusa a Ucrania y los conflictos en Oriente Próximo reavivaron el interés por las capacidades de defensa aérea de Francia.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/23/francia-en-la-nueva-era-del-poder-aereo/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/11/20260606_RAFL26_FRA-Flight-Line_006_Fanny_CHESIERE-scaled.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:26",
+     "autor": "Louis Puel",
+     "titulo_original": "Francia en la nueva era del poder aéreo"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "¿puede Rusia sobrevivir a Putin?",
+     "resumen": "La revista entrevistó a Sergey Aleksashenko, exviceministro de Finanzas de Rusia y primer vicepresidente del Banco Central ruso en los años noventa, sobre si el país puede sobrevivir a Vladimir Putin. Exiliado desde 2014 y cofundador del Comité Ruso contra la Guerra en 2022, Aleksashenko aporta una mirada analítica sobre el futuro político ruso tras la invasión a Ucrania.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/23/puede-rusia-sobrevivir-a-putin/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "13:35",
+     "autor": "Louis Puel",
+     "titulo_original": "¿Puede Rusia sobrevivir a Putin?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-22",
+     "titulo": "España goleó 15 a 0 a Fiyi en el Mundial Sub 17",
+     "resumen": "España goleó por 15 a 0 a Fiji en Doha, por la segunda fecha de la fase de grupos del Mundial Sub 17, y llegó a marcar nueve goles antes del descanso. Fue el resultado más contundente del torneo hasta el momento y confirmó a los ibéricos como uno de los candidatos al título.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/espana-aplasto-a-fiji-por-15-0-y-logro-la-goleada-mas-impactante-del-mundial-sub-17-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/JJCCCXMAGFEP7FF5DDSQPYPC5I.jpeg?auth=ff224bd6cba4501af4552d9b26a64f525520f9f7237624f0c0b57d390d40e760&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:28",
+     "autor": "",
+     "titulo_original": "España aplastó a Fiji por 15-0 y logró la goleada más impactante del Mundial Sub 17"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Argentina y España se disputan a un juvenil del Real Madrid",
+     "resumen": "Carlos Díez, mediocampista de 19 años nacido en Madrid y capitán del Real Madrid C, es disputado por las selecciones juveniles de Argentina y España de cara al Sudamericano Sub 20 de enero. El entrenador Diego Placente ya lo tiene en el radar para la Albiceleste, mientras España también reclama al futbolista, hijo de madre argentina.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/23/juega-en-el-real-madrid-lo-comparan-con-nico-paz-y-se-lo-disputan-argentina-y-espana-la-calidad-la-tiene/",
+     "imagen": "https://www.infobae.com/resizer/v2/OMEV4FAQPJEHTEK6M22UBVCZM4.jpg?auth=bb70956c839dc2e621efafc88af85f51376e9f85dfb5c8d6c225e572089a4096&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:37",
+     "autor": "",
+     "titulo_original": "Juega en el Real Madrid, lo comparan con Nico Paz y se lo disputan Argentina y España: “La calidad la tiene”"
+    },
+    {
+     "id": "CL-15",
+     "titulo": "Gimnasia recibe a Newell's por los octavos del Clausura",
+     "resumen": "Gimnasia de La Plata y Newell's Old Boys se enfrentan esta noche en el Bosque platense por los octavos de final del Torneo Clausura.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/gimnasia-plata-vs-newells-vivo-hora-juegan-formaciones-ver-partido-octavos-torneo-clausura_0_avYW3A8o36.html",
+     "imagen": "https://www.clarin.com/img/2026/10/23/HbgtOuwSN_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Gimnasia de La Plata vs Newell's, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido de octavos del Torneo Clausura"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "suspendieron a una tenista juvenil argentina por doping",
+     "resumen": "La tenista juvenil argentina Valentina Rossi, de 21 años, fue suspendida por un caso de doping tras competir en torneos del circuito World Tennis Tour de la ITF. En paralelo, la ITIA sancionó a un tenista profesional colombiano por irregularidades vinculadas al amaño de partidos y las apuestas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/suspendieron-tenista-juvenil-argentina-doping-sustancia-encontraron-sancion-aplicada_0_bUeHn9zqOe.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/KAmnJFNOM_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:44",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Suspendieron a una tenista juvenil argentina por doping: la sustancia que le encontraron y la sanción aplicada"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "dicen que Hernán López Muñoz tiene chances de llegar a Boca",
+     "resumen": "El periodista Sebastián Vignolo aseguró que Hernán López Muñoz, volante de 26 años surgido en River Plate y hoy figura de Argentinos Juniors, tiene \"muchas chances\" de sumarse a Boca Juniors para la temporada 2027. El futbolista pasó por la MLS antes de regresar al fútbol argentino.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/23/va-a-jugar-en-boca-el-ano-que-viene-el-refuerzo-bomba-que-prepara-el-campeon-de-la-copa-sudamericana-para-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/WUE6VL3RKZEG5KJVT6RI3LSB5Q.JPG?auth=1e06f64d117a19d8b437dda5926359216f5def210f6f8cfc74d8ced5261ddb82&smart=true&width=900&height=623",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "15:52",
+     "autor": "",
+     "titulo_original": "“Va a jugar en Boca el año que viene”: el refuerzo bomba que prepara el campeón de la Copa Sudamericana para 2027"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "escándalo en el ascenso uruguayo por una decisión de la AUF",
+     "resumen": "Deportivo Colonia recurrió a la Justicia uruguaya para revertir una decisión de la AUF que lo dejó fuera de la final por el ascenso, luego de que la federación le diera por ganado a Sportivo Bella Italia un partido que no se disputó. Deportivo Italiano, el club que supuestamente había renunciado a jugar, niega esa versión y cuestiona la legitimidad de la decisión.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/escandalo-ascenso-uruguayo-deportivo-colonia-acudio-justicia-revertir-decision-auf-dejo-final-ascenso_0_51J0XLg37T.html",
+     "imagen": "https://www.clarin.com/img/2026/11/21/eXcdT5FhD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:02",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Escándalo en el ascenso uruguayo: Deportivo Colonia fue a la Justicia para revertir una decisión de la AUF que lo dejó fuera de la final por el ascenso"
+    },
+    {
+     "id": "IB-14",
+     "titulo": "Otamendi dedicó un mensaje a los hinchas tras la clasificación de River",
+     "resumen": "River Plate avanzó a cuartos de final del Torneo Clausura tras vencer 3-1 a Lanús en el Monumental, y ahora enfrentará a Instituto en Córdoba. El capitán Nicolás Otamendi agradeció a los hinchas en redes sociales y advirtió: \"Estamos en deuda, pero vamos a dejar la vida por ustedes\".",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/23/el-contundente-mensaje-de-nicolas-otamendi-tras-la-victoria-de-river-plate-sobre-lanus-estamos-en-deuda/",
+     "imagen": "https://www.infobae.com/resizer/v2/UWH7YUXFZBCUXD7FMJNVPBHI2Q.jpg?auth=c38a5812c5905174a514021fb0af0e067cb2f2e8522e8b148e3a66df29ff1d84&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:53",
+     "autor": "",
+     "titulo_original": "El contundente mensaje de Nicolás Otamendi tras la victoria de River Plate sobre Lanús: “Estamos en deuda”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "sigue grave el cocinero quemado en la explosión de Ezpeleta",
+     "resumen": "El cocinero de 32 años que resultó con el 50 por ciento del cuerpo quemado en la explosión de un local de comida en Ezpeleta sigue internado con pronóstico reservado en el Hospital de Quilmes, bajo asistencia respiratoria mecánica. El resto de los heridos ya recibió el alta médica. Las autoridades investigan si el estallido, ocurrido durante los festejos por el aniversario de la ciudad, se originó por una fuga de gas.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Un fuerte estruendo, llamas y corridas: así fue el momento de la explosión en un local de comida en Ezpeleta",
+       "url": "https://www.clarin.com/sociedad/fuerte-estruendo-llamadas-corridas-momento-explosion-local-comida-ezpeleta_0_G4QWhP3yr7.html"
+      },
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Explosión en un local de Ezpeleta: sigue grave el hombre que terminó con la mitad del cuerpo quemado",
+       "url": "https://www.infobae.com/sociedad/2026/11/23/explosion-en-un-local-de-ezpeleta-sigue-grave-el-hombre-que-termino-con-la-mitad-del-cuerpo-quemado/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/explosion-festejos-ezpeleta-local-abierto-hace-15-dias-cocinero-pelea-vida_0_dNpPBb8sAn.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/XiCYYWQ2D_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Explosión en los festejos de Ezpeleta: un local que había abierto hace 15 días y un cocinero que pelea por su vida"
+    },
+    {
+     "id": "IB-02",
+     "titulo": "crece la presión para que el Senado apruebe la ley de ludopatía",
+     "resumen": "El Senado debe definir esta semana el proyecto de prevención de la ludopatía, que ya tiene media sanción de Diputados y podría perder estado parlamentario el viernes 27 de noviembre si no se aprueba o el Poder Ejecutivo no lo incluye en extraordinarias. El psicólogo Matías Dalla Fontana alertó sobre el avance de las apuestas online entre adolescentes y respaldó las restricciones que prevé el proyecto, en momentos en que la Conferencia Episcopal también reclama su tratamiento.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/23/ludopatia-un-psicologo-alerto-por-el-avance-de-las-apuestas-online-entre-adolescentes-y-reclamo-que-el-senado-apruebe-la-ley/",
+     "imagen": "https://www.infobae.com/resizer/v2/ZN3INLUMXJCVVASLTRJSASRNSI.jpg?auth=0e6363e5445e2081dfdeb0818f7380274bb61b8131145a05a840bbcf1cc32f50&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:04",
+     "autor": "Nicolás Sturtz",
+     "titulo_original": "Ludopatía: un psicólogo alertó por el avance de las apuestas online entre adolescentes y reclamó que el Senado apruebe la ley"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "solo el 7% de las sobrevivientes de violencia denuncia ante la Justicia",
+     "resumen": "Un informe mundial de ONU Mujeres advirtió que solo el 7 por ciento de las sobrevivientes de violencia denuncia ante la policía y la Justicia, y que apenas una de cada cuatro mujeres que atravesó violencia física o sexual busca ayuda. En la Argentina, la mitad de las mujeres adultas sufrió violencia en una relación de pareja, según los datos citados, y la mayoría de las víctimas de femicidio no había hecho denuncias previas.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/violencia-mujeres-solo-7-sobrevivientes-denuncia-policia-justicia-sigue-fallando_0_4r9WC2uwty.html",
+     "imagen": "https://www.clarin.com/img/2026/11/21/6qXHMH-Nn_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "14:31",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Violencia contra las mujeres: solo el 7% de las sobrevivientes denuncia ante la policía y la justicia sigue fallando"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "polémica por sumar el nombre Universidad Evangélica a una estación de subte",
+     "resumen": "La Legislatura porteña aprobó en primera lectura sumar el nombre \"Universidad Evangélica\" a la estación Emilio Mitre de la línea E de subte, con 55 votos a favor y dos abstenciones. Vecinos de Parque Chacabuco y Caballito cuestionan la iniciativa por considerarla publicitaria y piden preservar la denominación histórica de la estación.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/legislatura-polemica-por-un-proyecto-para-sumar-el-nombre-universidad-evangelica-a-una-tradicional-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/ACPW7M6GXZFAFMMJVOWGJWQRBM.JPG?auth=dc1ca2e0dedb060337ac51fcdb04dd6496f8ca46c1b88556866e9ca1ce5ddaac&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:48",
+     "autor": "Valeria Azerrat",
+     "titulo_original": "Legislatura: polémica por un proyecto para sumar el nombre “Universidad Evangélica” a una tradicional estación del subte"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del lunes 23 de noviembre.\n\nWall Street vivió una jornada de fuerte recuperación tras el inesperado regreso de Jensen Huang como director ejecutivo de Nvidia, y ese clima de euforia se trasladó a los activos argentinos, que rebotaron pese al feriado local por el Día de la Soberanía Nacional. En paralelo, el Gobierno profundizó el conflicto con la Universidad de Buenos Aires por el homenaje al exjefe guerrillero Mario Santucho, mientras España se prepara para votar el domingo y en la provincia de Buenos Aires las empresas rechazan una nueva exigencia de información laboral.\n\nEl dólar oficial cerró en mil seiscientos pesos, el dólar blue en mil seiscientos setenta y cinco pesos y el dólar MEP en mil setecientos cuarenta y tres pesos. El riesgo país se ubicó en mil setenta puntos básicos en la última rueda operada, aunque según Infobae cayó treinta puntos básicos este lunes, hasta los mil treinta y cinco puntos, de la mano del rebote en Wall Street. El oro cotiza a tres mil seiscientos treinta y cinco dólares la onza.\n\nEn política, el conflicto entre el Gobierno y la Universidad de Buenos Aires por el homenaje a Mario Santucho escaló con fuerza. El subsecretario de Políticas Universitarias, Alejandro Álvarez, envió una carta formal al rector Ricardo Gelpi para exigir sanciones a quienes impulsaron el acto, previsto para el diez de diciembre, y advirtió que podrían incurrir en delitos penales. El vicerrector Emiliano Yacobitti rechazó el homenaje y adelantó que buscará revertirlo en el Consejo Superior. Pero Mario Santucho hijo le respondió al Gobierno y ratificó que el acto se hará salvo que las autoridades de la UBA lo censuren. También se sumó la voz de Arturo Larrabure, hijo de un coronel secuestrado y asesinado por el Ejército Revolucionario del Pueblo en mil novecientos setenta y cinco, quien dijo que las estatuas a Santucho le generan un profundo dolor. Como dato de contexto, la Justicia confirmó una indemnización de trescientos mil pesos para las hijas de Santucho por el exilio y la desaparición del cadáver de su padre. Además, ATE amenazó con nuevos paros en los aeropuertos durante todo diciembre, y el Gobierno acelera en el Congreso la reforma electoral y la suspensión de las PASO de cara a dos mil veintisiete.\n\nEn economía y mercados, las acciones argentinas que cotizan en Nueva York llegaron a subir hasta siete por ciento y el Nasdaq se disparó más de seis por ciento, en una rueda dominada por el salto de treinta y dos por ciento de las acciones de Nvidia. Donald Trump reconoció que intervino para respaldar el regreso de Jensen Huang como director ejecutivo. En el plano local, el peso argentino fue en el último mes la segunda moneda emergente que más se devaluó, solo detrás del real brasileño, y la brecha entre el dólar oficial y el contado con liquidación superó el trece por ciento, la más alta desde las elecciones de septiembre de dos mil veinticinco. El secretario de Finanzas, Federico Furiase, dijo que la suba del riesgo país y del dólar no afecta a la economía ni a la inflación. Las exportaciones del agro sumaron cuarenta y siete mil ochocientos millones de dólares entre enero y octubre, un catorce por ciento más que el año pasado, aunque el tipo de cambio real está tres por ciento por debajo del promedio de dos mil veinticinco. Y el banco Barclays proyecta apenas uno coma dos por ciento de crecimiento para dos mil veintisiete.\n\nEn negocios y empresas, tres lácteas propusieron ante la Justicia mantener en funcionamiento las plantas de SanCor mediante contratos de fasón, como alternativa a la oferta de Adecoagro. Bayer obtuvo la aprobación final de un acuerdo de hasta siete mil doscientos cincuenta millones de dólares para cerrar los litigios en Estados Unidos por el herbicida Roundup. Toyota y Volkswagen dejarán de producir este mes los actuales modelos de la Hilux y la Amarok en sus plantas argentinas. Y un proyecto con media sanción en el Congreso habilitaría a buques extranjeros a transportar cargas por la Hidrovía.\n\nEn impuestos y normativa, una nueva resolución del Ministerio de Trabajo bonaerense obligará desde enero de dos mil veintisiete a los empleadores de la provincia a informar todos los meses los salarios pagados y los controles de jornada. La Sociedad Rural Argentina y la Cámara Argentina de Comercio y Servicios pidieron suspender la medida por duplicar registros que ya exige la Nación. El embajador de Estados Unidos celebró la adhesión argentina al tratado internacional de patentes. Y un informe del Banco Provincia advirtió que se necesitan treinta monotributistas para igualar el aporte jubilatorio de un solo trabajador asalariado registrado.\n\nEn consumo y construcción, Arcor aumentó sus ganancias pese a vender menos y a la caída del consumo, y prevé una recuperación gradual priorizando liquidez e inversión. El Gobierno decretó un nuevo feriado en diciembre que generará un fin de semana largo de cuatro días antes de Navidad. Y los locales de Once, los mayoristas online y los comercios especializados concentran las opciones más económicas para comprar el árbol y los adornos navideños.\n\nEn el mundo, España vota el domingo con el Partido Popular como favorito en las encuestas, aunque necesitaría sumar a Vox para alcanzar la mayoría absoluta, mientras el PSOE de Pedro Sánchez apuesta a una alta participación. El ministro de Cultura, Ernest Urtasun, celebró la aplicación definitiva de la amnistía al expresidente catalán Carles Puigdemont, y unas doscientas personalidades de la cultura, entre ellas el actor Javier Bardem, pidieron el voto para la coalición de izquierda Frente Amplio. La Comisión Europea propuso un nuevo paquete de sanciones contra Rusia, con restricciones a bancos, criptomonedas y la prohibición de que atletas rusos compitan bajo su bandera en territorio europeo. Rusia, por su parte, acusó a Estonia de estar a punto de desencadenar una guerra abierta después de que Tallin cerrara su frontera terrestre. El Reino Unido anunció que destinará dieciocho millones de libras a reforzar la seguridad de sus territorios de ultramar, entre ellos las islas Malvinas, en medio de la tensión con la Argentina. Y en Israel, el opositor Gadi Eisenkot descartó una intervención militar inmediata contra Irán, en una postura que contradice al primer ministro saliente Benjamin Netanyahu.\n\nLe Grand Continent analiza la nueva era del poder aéreo europeo, con una entrevista al jefe del Estado Mayor de la Fuerza Aérea y Espacial francesa, y se pregunta si Rusia puede sobrevivir a Vladimir Putin, con la mirada del exviceministro de Finanzas ruso Sergey Aleksashenko, exiliado desde dos mil catorce.\n\nEn deportes, España goleó quince a cero a Fiyi en el Mundial Sub diecisiete, con nueve goles antes del descanso, el resultado más contundente del torneo hasta ahora. En esa misma categoría se disputa Carlos Díez, mediocampista nacido en Madrid, al que reclaman tanto la selección argentina como la española de cara al Sudamericano Sub veinte de enero. Esta noche, Gimnasia de La Plata recibe a Newell's Old Boys por los octavos del Torneo Clausura. La tenista juvenil argentina Valentina Rossi fue suspendida por un caso de doping. El periodista Sebastián Vignolo aseguró que Hernán López Muñoz, hoy en Argentinos Juniors, tiene muchas chances de llegar a Boca para la próxima temporada. En Uruguay, Deportivo Colonia recurrió a la Justicia por una polémica decisión que lo dejó fuera de la final por el ascenso. Y River, que avanzó a cuartos del Clausura tras vencer a Lanús, enfrentará a Instituto; el capitán Nicolás Otamendi agradeció a los hinchas y aseguró que el equipo está en deuda.\n\nEn sociedad, el cocinero de treinta y dos años que resultó con la mitad del cuerpo quemado en la explosión de un local de comida en Ezpeleta sigue internado con pronóstico reservado, mientras el resto de los heridos ya recibió el alta y se investiga si el estallido se originó por una fuga de gas. El Senado debe definir esta semana la ley de prevención de la ludopatía, que podría perder estado parlamentario el viernes, en momentos en que crece la preocupación por las apuestas online entre adolescentes. Un informe de la ONU advirtió que solo el siete por ciento de las sobrevivientes de violencia denuncia ante la policía y la Justicia. Y la Legislatura porteña avanzó con sumar el nombre Universidad Evangélica a una estación de subte, lo que generó el rechazo de vecinos de la zona.\n\nEso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "notas_del_editor": "No se incluyó la sección Turismo: en esta corrida ninguna fuente trajo una nota de destino puntual, ni argentino ni del exterior (solo apareció el anuncio de un nuevo feriado en diciembre, que se sumó a Consumo). Tampoco se incluyó Management y finanzas corporativas por falta de material del feed correspondiente de iProfesional. Todas las fuentes respondieron correctamente en esta corrida.",
+ "slug": "2026-11-23-tarde",
+ "generado_ba": "23/11/2026 21:18"
+}
