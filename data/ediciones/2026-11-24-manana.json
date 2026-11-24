@@ -1,0 +1,880 @@
+{
+ "fecha": "2026-11-24",
+ "edicion": "manana",
+ "titulo": "Vuelve Jensen Huang a Nvidia, Wall Street festeja y alivia a los mercados argentinos",
+ "apertura": "El regreso de Jensen Huang a la conducción de Nvidia disparó un repunte histórico en Wall Street que contagió a las bolsas asiáticas y a los activos argentinos, con el riesgo país por debajo de los 1.030 puntos. En el plano local, el Senado entra en su última semana de sesiones ordinarias con la suspensión de las PASO como prioridad, mientras sigue la polémica por el homenaje a Mario Santucho que prepara una facultad de la UBA. En el fútbol, Boca retomó los entrenamientos tras consagrarse campeón de la Copa Sudamericana y se define el cuadro de cuartos de final del Clausura.",
+ "claves": [
+  "Wall Street vivió su mejor rueda en meses tras el regreso de Jensen Huang como CEO de Nvidia; el Nasdaq subió 6,51% y la acción de la tecnológica saltó más de 31%.",
+  "El contagio llegó a la Argentina: los ADR locales rebotaron hasta 6% y el riesgo país cerró debajo de los 1.030 puntos, aunque la plaza local no operó por el feriado.",
+  "El dólar oficial cerró en 1.600 pesos y el blue en 1.675 pesos; en el Gobierno restan importancia a la suba reciente del tipo de cambio y del riesgo país.",
+  "El Senado entra en su última semana de sesiones ordinarias con la suspensión de las PASO como principal objetivo legislativo del oficialismo.",
+  "Crece la polémica por el homenaje que una facultad de la UBA prepara al jefe guerrillero Mario Santucho, con críticas de la oposición y respaldo de su hijo.",
+  "El Gobierno removió a la cúpula del PAMI y designó a Verónica Pérez y Elizabeth Osterberg al frente del organismo.",
+  "Boca retomó los entrenamientos tras salir campeón de la Copa Sudamericana; Estudiantes definirá la Libertadores ante Palmeiras el sábado en Montevideo.",
+  "La industria metalúrgica acumula una caída del 5% en el año y el gasto turístico cayó 30% en el último fin de semana largo, señal de una actividad todavía débil."
+ ],
+ "cifras": [
+  {
+   "nombre": "Industria metalúrgica",
+   "valor": "-5% en el año",
+   "fuente": "IP-05"
+  },
+  {
+   "nombre": "Índice de Confianza en el Gobierno (UTDT)",
+   "valor": "2,04 puntos",
+   "variacion": "+4,1% mensual",
+   "fuente": "CR-17"
+  },
+  {
+   "nombre": "Índice VIX",
+   "valor": "27,15 puntos",
+   "variacion": "-24,36%",
+   "fuente": "CR-09"
+  },
+  {
+   "nombre": "Superávit primario SPN (10 meses)",
+   "valor": "1,4% del PBI",
+   "fuente": "CR-01"
+  },
+  {
+   "nombre": "Abaratamiento por desregulación en supermercados",
+   "valor": "15% promedio",
+   "fuente": "CR-13"
+  },
+  {
+   "nombre": "Aumento ANSES noviembre",
+   "valor": "1,93%",
+   "fuente": "IB-13"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-17",
+     "titulo": "quién fue Mario Santucho y por qué genera polémica el homenaje que prepara la UBA",
+     "resumen": "El jefe guerrillero Mario Roberto Santucho lideró el Ejército Revolucionario del Pueblo entre las décadas de 1960 y 1970 y murió en 1976 en un operativo de la dictadura militar en Villa Martelli. La Facultad de Ciencias Sociales de la UBA prevé homenajearlo con una escultura, lo que generó rechazo de sectores políticos. Su hijo, el periodista Mario Santucho, defendió la iniciativa y atribuyó las críticas a una ofensiva de la ultraderecha.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Habló el hijo de Mario Santucho y defendió el homenaje a su padre en la UBA",
+       "url": "https://www.lanacion.com.ar/politica/hablo-el-hijo-de-mario-santucho-y-defendio-el-homenaje-a-su-padre-en-la-uba-nid23112026/"
+      },
+      {
+       "id": "CL-23",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Santucho, el apóstol de la violencia que será homenajeado por la UBA",
+       "url": "https://www.clarin.com/politica/santucho-apostol-violencia-homenajeado-uba_0_yp6qS5Hft0.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/mario-santucho-el-jefe-de-una-de-las-guerrillas-mas-sangrientas-que-fue-abatido-por-la-dictadura-en-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NAEW6IRTKZHG5P7BXH3LINTYAQ.JPG?auth=8b15abf3a71de39d17c2aa80b0aeb405dcb07fb2946bb6f293f8d16679fd2a5b&smart=true&width=900&height=504",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:24",
+     "autor": "",
+     "titulo_original": "Quién fue Mario Santucho, el jefe de una de las guerrillas más sangrientas que fue abatido por la dictadura en 1976"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "el Senado entra en su última semana con la suspensión de las PASO como prioridad",
+     "resumen": "El Congreso inicia su última semana de sesiones ordinarias con dos temas de alto voltaje en el Senado: sellar la suspensión de las primarias abiertas, simultáneas y obligatorias, y dictaminar cambios al proyecto contra la ludopatía. La Iglesia envió una carta a los senadores reclamando que se trate la ley de ludopatía, pero en el Gobierno dijeron que esa postura no marcará el ritmo legislativo.",
+     "relacionadas": [
+      {
+       "id": "IB-23",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Con la suspensión de las PASO como foco principal, el Senado inicia su última semana de sesiones ordinarias",
+       "url": "https://www.infobae.com/politica/2026/11/24/con-la-suspension-de-las-paso-como-foco-principal-el-senado-inicia-su-ultima-semana-de-sesiones-ordinarias/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-continua-el-escandalo-por-el-homenaje-a-santucho-y-se-define-la-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EP6AVSOC25BN5IBWVOHHZ6SVV4.jpeg?auth=f1b297fdb6a9370ef5d07267e5a819646b08dc5b5402df2e74bc52a04a04f1c9&smart=true&width=774&height=468",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:44",
+     "autor": "",
+     "titulo_original": "Javier Milei y sus medidas, en vivo: crece la polémica por el homenaje a Santucho en la UBA y se define la sesión por las PASO"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Kicillof buscará avanzar en extraordinarias con las reelecciones indefinidas",
+     "resumen": "El proyecto que impulsa el gobernador bonaerense Axel Kicillof para permitir reelecciones indefinidas de intendentes no ingresó en el temario de la comisión de Legislación General de la Legislatura provincial esta semana. El Senado bonaerense, presidido por Verónica Magario, sesionará el jueves, aunque el Ejecutivo apunta a resolver el tema en sesiones extraordinarias de diciembre.",
+     "url": "https://www.infobae.com/politica/2026/11/24/con-un-escenario-incierto-kicillof-buscara-avanzar-en-extraordinarias-con-las-reelecciones-indefinidas/",
+     "imagen": "https://www.infobae.com/resizer/v2/CVBN4QSRBVCA3P5WKLFVVRZPUE.png?auth=33f46acdcc47251873ab2411db42ed26698279a507bf59f8bc182b7dfec1df7f&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:17",
+     "autor": "Facundo Cottet",
+     "titulo_original": "Con un escenario incierto, Kicillof buscará avanzar en extraordinarias con las reelecciones indefinidas",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-03",
+     "titulo": "el Gobierno removió a la cúpula del PAMI",
+     "resumen": "El Ministerio de Salud de la Nación oficializó la salida de Esteban Leguizamo y Carlos Zamparolo, director y subdirector ejecutivo del PAMI desde el inicio de la gestión de Javier Milei. Los reemplazan Verónica Gabriela Pérez, escribana y abogada, y la médica Elizabeth Ana Osterberg. El Gobierno dijo que el recambio busca fortalecer la calidad de las prestaciones para jubilados y pensionados.",
+     "relacionadas": [
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Quién es Verónica Pérez, la nueva directora del PAMI",
+       "url": "https://www.clarin.com/politica/veronica-perez-nueva-directora-pami_0_hoQA6ULIYe.html"
+      },
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "El Gobierno cambió la cúpula del PAMI: se van el jefe y su segundo, en medio de una fuerte crisis",
+       "url": "https://www.clarin.com/sociedad/gobierno-cambio-cupula-pami-van-jefe-segundo-medio-fuerte-crisis_0_fLP9cVBwZx.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/cambios-en-el-pami-el-gobierno-removio-al-director-y-subdirector-del-organismo/",
+     "imagen": "https://www.cronista.com/resizer/v2/CR25FQALIFALTC76OPB4GNLFZE.png?auth=9490bb38515cc5b971b03f4983535554fe25e25c3311e13aaee55349f012ff4d&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:21",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Cambios en el PAMI: el Gobierno removió al director y subdirector del organismo"
+    },
+    {
+     "id": "CL-25",
+     "titulo": "fijaron audiencia para revisar las condenas por el ataque contra Cristina Kirchner",
+     "resumen": "La Cámara Federal de Casación Penal fijó para el 16 de diciembre la audiencia que revisará las condenas de 10 y 8 años de prisión dictadas contra Fernando Sabag Montiel y Brenda Uliarte por el intento de homicidio de Cristina Kirchner.",
+     "url": "https://www.clarin.com/politica/fijaron-audiencia-revisar-condenas-intento-homicidio-cristina-kirchner_0_YoQtie9dEy.html",
+     "imagen": "https://www.clarin.com/img/2022/09/02/K4vSMqxBE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "17:38",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Fijaron audiencia para revisar las condenas por el intento de homicidio de Cristina Kirchner",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-07",
+     "titulo": "declaró en indagatoria Pablo Atchabahian por la causa ANDIS",
+     "resumen": "Pablo Atchabahian, señalado por la fiscalía como uno de los jefes de la asociación ilícita investigada en la ANDIS, volvió a declarar este martes ante la Justicia. Es acusado de operar jerárquicamente la droguería que habría controlado las compras de medicamentos de alto costo del organismo, con pruebas que incluyen audios, chats y órdenes de despidos.",
+     "url": "https://www.ambito.com/politica/andis-declara-indagatoria-este-martes-pablo-atchabahian-el-gran-soldado-la-suizo-argentina-que-daba-ordenes-dentro-la-agencia-n6348421",
+     "imagen": "https://media.ambito.com/p/a22050c74e5c652ab72ff72510e83c2d/adjuntos/239/imagenes/043/223/0043223297/andis-y-el-foco-la-drogueria-suizo-argentina.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:15",
+     "autor": "",
+     "titulo_original": "ANDIS: declara en indagatoria Pablo Atchabahian, el \"gran soldado\" de la Suizo Argentina que daba órdenes dentro de la agencia",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-22",
+     "titulo": "el Gobierno posterga sus diferencias internas y evita confrontar con Bullrich",
+     "resumen": "En la Casa Rosada reconocen que la senadora Patricia Bullrich seguirá marcando diferencias públicas con el oficialismo, pero prefieren no confrontarla mientras cierran la agenda legislativa de fin de año. Las versiones sobre posibles medidas contra la senadora quedaron en suspenso hasta después del debate parlamentario.",
+     "url": "https://www.infobae.com/politica/2026/11/24/el-gobierno-posterga-las-diferencias-internas-evita-confrontar-con-bullrich-y-apuesta-a-ordenar-la-tropa/",
+     "imagen": "https://www.infobae.com/resizer/v2/R3MUVTCO5VGMHBFVIVLHGWEJYU.jpg?auth=6205769d23446291754753c790b10e9546ede63afb5e1178f4ec1eea9e7d760a&smart=true&width=680&height=383",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:06",
+     "autor": "Sofia Rojas",
+     "titulo_original": "El Gobierno posterga las diferencias internas, evita confrontar con Bullrich y apuesta a ordenar la tropa",
+     "relacionadas": []
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "LN-20",
+     "titulo": "Nvidia reincorporó a Jensen Huang como director ejecutivo y presidente",
+     "resumen": "Nvidia anunció la vuelta de Jensen Huang al mando de la compañía con efecto inmediato, apenas días después de haber descartado esa posibilidad tras el escándalo por su romance con una presunta espía china. La decisión se destrabó luego de que la junta directiva recibiera información de altos niveles del gobierno de Estados Unidos, con la intervención personal de Donald Trump.",
+     "relacionadas": [
+      {
+       "id": "IP-07",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Regresó Hensen Huang y Nvidia repuntó en Wall Street después de perder casi la mitad de su valor",
+       "url": "https://www.iprofesional.com/finanzas/469788-nvidia-wall-street-rebote-feroz-arrastro-nasdaq-noviembre-2026"
+      },
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "\"Me tienes que prometer algo\": el pedido de Trump a Huang antes de su regreso a Nvidia",
+       "url": "https://www.iprofesional.com/actualidad/469804-me-tienes-que-prometer-algo-el-pedido-de-trump-a-huang-antes-de-su-regreso-a-nvidia"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/nvidia-anuncio-la-reincorporacion-de-jensen-huang-como-director-general-y-presidente-ejecutivo-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IKPURXHWUBHJFM5QI2UNJU37OQ.JPG?auth=671ef9ccfc290ec600266a7ca11c629468bb7b37c3b20fa1942e5958bddc60b5&smart=true&width=900&height=653",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:49",
+     "autor": "Guillermo Idiart",
+     "titulo_original": "Nvidia anunció la reincorporación de Jensen Huang como director ejecutivo y presidente"
+    },
+    {
+     "id": "CR-09",
+     "titulo": "Wall Street tuvo su mejor rueda en meses y el pánico se desarmó en 24 horas",
+     "resumen": "El S&P 500 subió 4,73%, el Dow Jones 3,01% y el Nasdaq se disparó 6,51% en una sola rueda, mientras el índice VIX, que mide el nerviosismo del mercado, cayó 24,36% hasta 27,15 puntos. La acción de Nvidia saltó más de 31% y el repunte se extendió a las bolsas de Taiwán, Corea del Sur y Japón, impulsando a fabricantes de chips como TSMC.",
+     "relacionadas": [
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Fuerte repunte bursátil en Asia: las acciones tecnológicas vuelan impulsadas por la vuelta de Jensen Huang a Nvidia",
+       "url": "https://www.clarin.com/mundo/fuerte-repunte-bursatil-asia-acciones-tecnologicas-vuelan-impulsadas-vuelta-jensen-huang-nvidia_0_nBwm38FjzG.html"
+      },
+      {
+       "id": "IB-17",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El regreso de Jensen Huang a Nvidia impulsó las acciones tecnológicas y desató un repunte bursátil en los mercados asiáticos",
+       "url": "https://www.infobae.com/america/mundo/2026/11/24/el-regreso-de-jensen-huang-a-nvidia-impulso-las-acciones-tecnologicas-y-desato-un-repunte-bursatil-en-los-mercados-asiaticos/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street rebotó fuerte tras el regreso de Jensen Huang a Nvidia y el Nasdaq trepó un 6,5%",
+       "url": "https://www.ambito.com/finanzas/wall-street-rebota-67-el-nasdaq-al-frente-el-nuevo-nombramiento-jensen-huang-nvidia-n6348272"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/resurreccion-en-nueva-york-volaron-las-acciones-6-y-se-espera-hoy-el-contagio-en-la-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/OGBDVXU2DJAKHI3INE7ATYCX7E.JPG?auth=46acecf1ffdf67af0f2149062f86021ecdec418f7ffadc4a133077e85716d409&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "04:00",
+     "autor": "Guillermo Laborda",
+     "titulo_original": "Resurrección en Nueva York: volaron las acciones 6% y se espera hoy el contagio en la Argentina"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "cayó el riesgo país y los ADR argentinos rebotaron hasta 6% en Nueva York",
+     "resumen": "Aunque la plaza local no operó por el feriado del Día de la Soberanía Nacional, las acciones argentinas que cotizan en Wall Street rebotaron hasta 6% contagiadas por la euforia global, con Globant entre las de mejor desempeño. El riesgo país cerró debajo de los 1.030 puntos, favorecido por el clima internacional.",
+     "relacionadas": [
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los ADRs rebotaron hasta 6,2% y el riesgo país cerró debajo de los 1.030 puntos, ante la mejora del clima internacional",
+       "url": "https://www.ambito.com/finanzas/los-adrs-rebotan-68-y-los-bonos-suben-la-mejora-del-clima-internacional-n6348259"
+      },
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "ADRs subieron en Wall Street y cayó riesgo país en un día de euforia por el efecto Nvidia",
+       "url": "https://www.iprofesional.com/finanzas/469795-los-adr-y-bonos-argentinos-se-contagian-de-wall-street-y-suben-tras-el-efecto-nvidia"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/MNFKBJBLB5CQVNWN6HAWMV4JXU.JPG?auth=f0ff0b7d8b61e887976446766f5b04c32dd144bb259f4451c636ba7d614668fc&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:39",
+     "autor": "Melisa Reinhold",
+     "titulo_original": "Cayó el riesgo país: Wall Street rebotó con fuerza y contagió a las acciones argentinas que cotizan en Nueva York"
+    },
+    {
+     "id": "CL-22",
+     "titulo": "la suba del dólar obliga a revisar las estrategias de carry trade",
+     "resumen": "El salto del tipo de cambio de los últimos días cambió la ecuación para los inversores que venían apostando a la tasa en pesos, lo que puede tener consecuencias sobre el programa económico. La cobertura cambiaria retomó su sendero alcista en las últimas semanas, a niveles similares a los de octubre de 2025.",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "¿El dólar empieza a inquietar?: el mercado vuelve a cubrirse ante una eventual suba a menos de un año de las elecciones",
+       "url": "https://www.infobae.com/economia/2026/11/24/el-dolar-empieza-a-inquietar-el-mercado-vuelve-a-cubrirse-ante-una-eventual-suba-a-un-menos-de-un-ano-de-las-elecciones/"
+      },
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Alivio para el Gobierno: volvió la calma a los mercados justo cuando empezaban a subir el dólar y la brecha cambiaria",
+       "url": "https://www.infobae.com/economia/2026/11/24/alivio-para-el-gobierno-volvio-la-calma-a-los-mercados-justo-cuando-empezaban-a-subir-el-dolar-y-la-brecha-cambiaria/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/pausa-carry-trade-suba-dolar-borra-ganancias-obliga-inversores-revisar-estrategias_0_YFWJNUGf3z.html",
+     "imagen": "https://www.clarin.com/img/2025/09/04/zzHOmRrPO_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:28",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "¿Pausa al carry trade?: la suba del dólar borra ganancias y obliga a inversores a revisar estrategias"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "el Gobierno reforzó el préstamo repo de 6.000 millones de dólares con bancos",
+     "resumen": "Por la suba del riesgo país, el Banco Central sumó 700 millones de dólares en efectivo o bonos a las garantías del préstamo repo tomado con bancos internacionales, para compensar la pérdida de 26% en el valor de los bonos usados como colateral. El préstamo es considerado clave para el pago de la deuda y para evitar una corrida en 2027. Para una empresa, esta señal importa porque anticipa el nivel de respaldo del Banco Central para sostener la estabilidad cambiaria de cara al año próximo.",
+     "url": "https://www.clarin.com/economia/suba-riesgo-pais-gobierno-reforzo-prestamo-repo-us-6000-millones-bancos_0_r4zRFAW0PQ.html",
+     "imagen": "https://www.clarin.com/img/2026/09/04/Y_RdSo9sr_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "18:11",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Por la suba del riesgo país, el Gobierno reforzó el préstamo Repo de US$ 6.000 millones con bancos",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Furiase descartó que la suba del riesgo país y del dólar afecten la inflación",
+     "resumen": "El secretario de Finanzas, Federico Furiase, reconoció un contexto internacional \"muy adverso\" pero sostuvo que el superávit fiscal y las fuentes de financiamiento previstas protegen al programa económico. \"No tenemos que salir al mundo a financiarnos\", argumentó, al descartar impacto sobre la inflación.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Un funcionario de Caputo dijo que la suba del riesgo país y del dólar \"no le pegan\" a la economía y la inflación",
+       "url": "https://www.clarin.com/economia/funcionario-caputo-dijo-suba-riesgo-pais-dolar-pegan-economia-inflacion_0_ukaSYXcrEZ.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/no-tenemos-que-salir-al-mundo-a-financiarnos-furiase-explico-por-que-no-preocupa-el-riesgo-pais/",
+     "imagen": "https://www.cronista.com/resizer/v2/LRM7MVIKNFA2BMVGVALQKW24XA.jpeg?auth=7cf6aa6eb05d50e3706e51cdf1df66835fb05f427c80527df29fcf91f14be5df&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:01",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“No tenemos que salir al mundo a financiarnos”: Furiase explicó por qué no preocupa la suba del riesgo país"
+    },
+    {
+     "id": "CR-01",
+     "titulo": "el Gobierno afronta el bimestre más exigente para cerrar las cuentas de 2026",
+     "resumen": "El Sector Público Nacional acumuló en los primeros diez meses de 2026 un superávit primario de 1,4% del PBI y uno financiero de 0,4%, apenas por debajo del mismo período de 2025. Esta semana comenzaría en el Congreso el tratamiento del Presupuesto 2027, que proyecta un superávit primario de 1,3% del PBI. Para una empresa, el dato es relevante porque marca el margen fiscal con el que el Gobierno llega a las negociaciones de fin de año.",
+     "url": "https://www.cronista.com/economia-politica/el-bimestre-mas-exigente-la-prueba-que-enfrenta-el-gobierno-para-cerrar-2026/",
+     "imagen": "https://www.cronista.com/resizer/v2/CMPUX32WBVGW3MZMBU7KQ3J35A.jpg?auth=dbfa64aa255b4bf3d312067fd253c16fce84255b68f7781fda0a9a2b6a696250&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "07:00",
+     "autor": "Matías Rufino",
+     "titulo_original": "El bimestre más exigente: la prueba que enfrenta el Gobierno para cerrar 2026",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CR-05",
+     "titulo": "Santiago Blaquier armó en nueve meses el mayor grupo azucarero del país",
+     "resumen": "Tras dejar el directorio de Ledesma en diciembre de 2025, Santiago Blaquier constituyó Ingenios de Tucumán y compró tres ingenios en esa provincia, además de tomar el control de una comercializadora de azúcar. Su capacidad de molienda ya duplica a la de Ledesma, la compañía familiar que dejó.",
+     "url": "https://www.cronista.com/negocios/santiago-blaquier-el-plan-que-penso-en-ledesma-por-que-no-se-pudo-concretar-y-como-llego-a-ser-el-rey-del-azucar/",
+     "imagen": "https://www.cronista.com/resizer/v2/HVPBDEVTSNGVTMOWI23WXE5RI4.jpeg?auth=bc408f23177186fd4138fe1291966a71751bdefc33b9efa7e0f8ebb5ec26767b&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Santiago Blaquier: el plan que pensó en Ledesma, por qué no se “pudo concretar” y cómo llegó a ser el rey del azúcar",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-14",
+     "titulo": "un frente de lácteas propone una salida alternativa a la de Adecoagro para SanCor",
+     "resumen": "Milkaut, Punta del Agua y Failar presentaron ante el juzgado que tramita la quiebra de SanCor una propuesta para operar las plantas a fasón, con materia prima aportada por las empresas interesadas, mientras avanza el proceso de venta de los activos. La alternativa compite con la oferta de Adecoagro, que busca quedarse con las plantas y las marcas de la cooperativa.",
+     "url": "https://www.cronista.com/negocios/un-frente-anti-adecoagro-propone-una-inedita-salida-para-la-gran-lactea-que-busca-comprador/",
+     "imagen": "https://www.cronista.com/resizer/v2/PTOMROLJXFERFFRFHEWS2YQ2QQ.jpg?auth=523dcab66b737a2ca3a749f77db96155392132b107ebc29c23329409feff3407&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Equipo Negocios",
+     "titulo_original": "Un frente “anti” Adecoagro propone una inédita salida para la gran láctea que busca comprador",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-05",
+     "titulo": "la industria metalúrgica volvió a caer en octubre y acumula una baja de 5% en el año",
+     "resumen": "El uso de la capacidad instalada del sector metalúrgico volvió a retroceder en octubre y la actividad fabril se redujo a niveles críticos, en un contexto de demanda interna que sigue en baja.",
+     "url": "https://www.iprofesional.com/negocios/469811-la-industria-metalurgica-volvio-a-caer-octubre-acumula-baja-del-5-por-ciento-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612261.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:35",
+     "autor": "",
+     "titulo_original": "La industria metalúrgica volvió a caer en octubre y acumula una baja del 5% en el año",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-15",
+     "titulo": "la apertura del cabotaje en la Hidrovía genera reclamos del sector naviero",
+     "resumen": "Un proyecto de ley con media sanción en el Congreso habilitaría a buques extranjeros a transportar cargas entre puertos argentinos, lo que generó pedidos de reglas claras de competencia por parte del sector naviero local.",
+     "url": "https://www.iprofesional.com/negocios/469799-hidrovia-fuerte-reclamo-de-exportadores-y-puertos-por-las-reglas-para-el-transporte",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/09/625484.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:12",
+     "autor": "",
+     "titulo_original": "Apertura del cabotaje en la Hidrovía: reclaman reglas para competir con buques extranjeros",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-06",
+     "titulo": "la pelea por las cuotas de exportación a la Unión Europea llega a la cumbre del Mercosur",
+     "resumen": "Argentina, Brasil, Uruguay y Paraguay todavía no acordaron cómo repartirse los contingentes habilitados por el acuerdo comercial con Europa, con la cuota de carne vacuna como principal punto de conflicto: hasta 99.000 toneladas anuales con arancel preferencial de 7,5%, de las cuales se habilitaron 11.000 toneladas para el primer período. La discusión llegará abierta a la cumbre de presidentes del Mercosur, prevista para el 4 de diciembre en Montevideo.",
+     "url": "https://www.cronista.com/economia-politica/la-pelea-por-las-cuotas-llega-a-montevideo-la-posicion-de-la-argentina-y-la-ventaja-inesperada/",
+     "imagen": "https://www.cronista.com/resizer/v2/MISTAU6UERCGZETRZADDQOJTAY.jpg?auth=54c4e4b82adc22c455b4321db3d5bbde56457421ce2a0b097445e21837a4c418&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "La pelea por las cuotas llega a Montevideo: la posición de la Argentina y la ventaja inesperada",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-06",
+     "titulo": "empresas bonaerenses reclaman por una nueva carga de documentación",
+     "resumen": "La Resolución 260/2026 de la Provincia de Buenos Aires exige a las firmas bonaerenses entregar más documentación ante el fisco provincial, lo que generó resistencia de entidades empresariales y profesionales. Para una empresa, implica revisar los nuevos requisitos de presentación para evitar sanciones por incumplimiento.",
+     "url": "https://www.iprofesional.com/impuestos/469810-formulario-futuro-buenos-aires-carga-laboral-empresas-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/03/614284.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "Empresas reclaman por nueva carga laboral que impone la Provincia de Buenos Aires",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-13",
+     "titulo": "el Gobierno sostiene que la desregulación abarató 15% los productos de supermercado",
+     "resumen": "El ministro de Desregulación, Federico Sturzenegger, afirmó que las reformas normativas abarataron en promedio 15% los productos de consumo masivo alcanzados por esos cambios, según un estudio de economistas de la UNLP que Javier Milei difundió en redes. Los propios especialistas aclaran que no se trata de una baja generalizada en las góndolas, sino del efecto medido sobre los rubros específicos analizados.",
+     "url": "https://www.cronista.com/economia-politica/el-gobierno-aseguro-que-la-desregulacion-abarato-un-15-los-productos-de-supermercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/L6CNT6GR5FG73BWL3PHQWIGCAU.jpg?auth=ab0f5b3a8b4e944a6d29192a27af7e040fd8880e778c2a46aca1dfa363fa07ce&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:41",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "El Gobierno aseguró que la desregulación abarató un 15% los productos de supermercado",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Estados Unidos celebró la ratificación argentina del tratado de patentes",
+     "resumen": "El embajador de Estados Unidos celebró la adhesión de la Argentina al tratado de patentes y ratificó el respaldo de Washington a Javier Milei. Según el diplomático, la medida abre nuevos mercados internacionales para pequeñas y medianas empresas argentinas.",
+     "url": "https://www.iprofesional.com/legales/469809-embajador-de-eeuu-celebro-adhesion-tratado-de-patentes-y-ratifico-respaldo-a-milei",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/628005.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:44",
+     "autor": "",
+     "titulo_original": "Embajador de EE.UU. celebró la adhesión al tratado de patentes y ratificó respaldo a Milei",
+     "relacionadas": []
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "Mercado Pago habilitó cuentas para menores de edad",
+     "resumen": "Chicos y adolescentes ya pueden tener su propia billetera virtual en Mercado Pago para administrar dinero, hacer compras y pagar en comercios, con autorización y supervisión de sus padres o tutores.",
+     "url": "https://www.iprofesional.com/economia/469812-mercado-pago-para-menores-de-edad-como-abrir-una-cuenta-requisitos-y-que-pueden-hacer",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/06/620407.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:41",
+     "autor": "",
+     "titulo_original": "Mercado Pago para menores de edad: cómo abrir una cuenta, requisitos y qué pueden hacer",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-20",
+     "titulo": "licitan un nuevo muelle para Ushuaia tras un informe de la Armada y Prefectura",
+     "resumen": "La Agencia Nacional de Puertos y Vías Navegables llamó a licitación para construir un nuevo muelle en Ushuaia, con una inversión de 12.580 millones de pesos y un plazo de ejecución de un año. La obra busca ordenar el flujo de pasajeros y garantizar estándares internacionales tras la clausura del sector anterior por peligro de derrumbe.",
+     "url": "https://www.clarin.com/sociedad/informe-armada-prefectura-llaman-licitacion-nuevo-muelle-ushuaia_0_qLJuA9Nsmu.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/sXFPxRAK4_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "20:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tras un informe de la Armada y Prefectura, llaman a licitación para un nuevo muelle en Ushuaia",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-08",
+     "titulo": "la Argentina lidera el ranking de países donde más cuesta comprar GTA VI",
+     "resumen": "Un relevamiento sobre el lanzamiento del videojuego comparó precios y horas de trabajo necesarias para adquirirlo en distintos países, y ubicó a la Argentina entre los lugares donde el esfuerzo de compra es mayor. Para una empresa de retail, el dato funciona como otro indicador de la pérdida de poder adquisitivo del consumidor local frente a bienes importados.",
+     "url": "https://www.ambito.com/economia/gta-viargentina-lidera-ranking-paises-mas-caros-n6348411",
+     "imagen": "https://media.ambito.com/p/236a8305f321b892e9364e873b5c47d9/adjuntos/239/imagenes/043/623/0043623718/1200x675/2139x422:2159x442/gta-vi-gta-6-jason_and_lucia_robbery_with_logo_landscape.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:00",
+     "autor": "",
+     "titulo_original": "GTA VI: Argentina lidera ranking de países más caros",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "AM-06",
+     "titulo": "arrestaron en Paraguay al hermano y la cuñada del expresidente Santiago Peña",
+     "resumen": "Francisco Peña y Rocío Caballero Bosch quedaron detenidos en el marco de la investigación por lavado de activos vinculada a la intervención del Banco Central paraguayo sobre el Ueno Bank. El propio expresidente Santiago Peña enfrenta una causa penal y pidió a la Corte Suprema que declare inconstitucional su destitución.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Escándalo en Paraguay: ordenan la detención del hermano de Santiago Peña por presunto lavado de dinero",
+       "url": "https://www.clarin.com/mundo/escandalo-paraguay-ordenan-detencion-hermano-santiago-pena-presunto-lavado-dinero_0_NIfxYOsmYw.html"
+      }
+     ],
+     "url": "https://www.ambito.com/mundo/arrestaron-paraguay-al-hermano-y-la-cunada-del-expresidente-santiago-pena-una-causa-lavado-activos-n6348438",
+     "imagen": "https://media.ambito.com/p/d7981f7dcd5a7f8ce336911ab2c71f0a/adjuntos/239/imagenes/043/748/0043748046/santiago-pena-ueno-bank.jpeg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:27",
+     "autor": "",
+     "titulo_original": "Arrestaron en Paraguay al hermano y la cuñada del expresidente Santiago Peña por una causa de lavado de activos"
+    },
+    {
+     "id": "CL-13",
+     "titulo": "un atentado con auto bomba sacudió Colombia y dejó al menos 23 heridos",
+     "resumen": "La explosión ocurrió frente a la sede de la Gobernación de Meta, en Villavicencio, en el centro de Colombia. El presidente Abelardo de la Espriella atribuyó el ataque al narcoterrorismo y prometió una respuesta contundente.",
+     "url": "https://www.clarin.com/mundo/crater-suelo-edificios-destruidos-atentado-auto-bomba-sacudio-colombia-dejo-12-heridos_0_dukaZNutfR.html",
+     "imagen": "https://www.clarin.com/img/2026/11/24/SRNo8aPve_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "01:59",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Un cráter en el suelo y edificios destruidos: un atentado con un auto bomba sacudió Colombia y dejó al menos 23 heridos",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-07",
+     "titulo": "Rusia anunció la toma de otra localidad en la provincia ucraniana de Zaporiyia",
+     "resumen": "El Ministerio de Defensa ruso informó que sus tropas tomaron la localidad de Barvinovka, en Zaporiyia, sin pronunciarse sobre sus propias bajas. Rusia anexionó esa provincia en 2022, aunque solo controla parte de su territorio.",
+     "url": "https://www.infobae.com/america/agencias/2026/11/24/rusia-anuncia-la-toma-de-otra-localidad-en-la-provincia-de-zaporiyia-en-ucrania/",
+     "imagen": "https://www.infobae.com/resizer/v2/JT4OXZB345FYNBAW5AJEC6JAGY.jpg?auth=1f22d272818b18b057aeba4ac32d533f579962f8f9aedb502b576c2586203f56&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "07:02",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Rusia anuncia la toma de otra localidad en la provincia de Zaporiyia, en Ucrania",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-03",
+     "titulo": "más de 450 escuelas de Alemania y Dinamarca recibieron amenazas de bomba",
+     "resumen": "Los mensajes llegaron por correo electrónico a establecimientos educativos, hospitales y cárceles y generaron un fuerte despliegue policial. Las autoridades investigan el origen de las amenazas y por ahora descartan que exista un peligro concreto.",
+     "url": "https://www.ambito.com/mundo/amenazas-bomba-mas-450-escuelas-alemania-y-dinamarca-generan-alarma-n6348274",
+     "imagen": "https://media.ambito.com/p/20dbd9f1dcf3aa67f631878f903506d8/adjuntos/239/imagenes/043/789/0043789927/bomba-alemania1.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:25",
+     "autor": "",
+     "titulo_original": "Más de 450 escuelas de Alemania y Dinamarca recibieron amenazas de bomba y causaron alarma y un fuerte despliegue policial",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-24",
+     "titulo": "desertores norcoreanos creen que la hija de Kim Jong-un es su presunta heredera",
+     "resumen": "Las reiteradas apariciones públicas de Kim Jong-un junto a su hija en los últimos cuatro años alimentan especulaciones sobre una eventual sucesión dinástica en Corea del Norte. Desertores consultados aseguran que cuestionar ese proceso en el país implica el riesgo de una persecución severa.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/24/muchos-desertores-norcoreanos-consideran-que-la-hija-de-kim-jong-un-es-su-presunta-heredera/",
+     "imagen": "https://www.infobae.com/resizer/v2/KCFDC3PMDVD5LNNOCEP336PKYQ.JPG?auth=e890c3f5b46165ee14dadcf9971fb8d0e6031350c9cb8cde0c02ed39327fc8d1&smart=true&width=900&height=596",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:37",
+     "autor": "Hyung-Jin Kim",
+     "titulo_original": "Muchos desertores norcoreanos consideran que la hija de Kim Jong-Un es su presunta heredera",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-01",
+     "titulo": "ataques contra vehículos en Yemen dejan 26 muertos entre acusaciones cruzadas",
+     "resumen": "Un ataque aéreo en una zona estratégica de Yemen dejó 26 muertos, 14 de ellos civiles, en medio de acusaciones cruzadas entre fuerzas locales proiraníes y una coalición liderada por Arabia Saudita, lo que intensifica el conflicto en la región.",
+     "url": "https://www.clarin.com/estados-unidos/ataques-contra-vehiculos-en-yemen-dejan-26-muertos-entre-acusaciones-de-ambos-bandos_0_oA9YemwS7M.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:20",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ataques contra vehículos en Yemen dejan 26 muertos entre acusaciones de ambos bandos",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "intro": "Le Grand Continent analiza el freno del empleo tecnológico en China, el desgaste del ejército ruso y el nuevo rol del poder aéreo francés.",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "en China, las ofertas de empleo tecnológico se desploman ante la inteligencia artificial",
+     "resumen": "Las ofertas de empleo para desarrolladores de software en las principales plataformas chinas cayeron 52% entre 2021-2022 y 2024-2025, coincidiendo con la masificación de las herramientas de inteligencia artificial. Según Bloomberg Economics, unos 70 millones de trabajadores chinos podrían verse afectados, aunque el fenómeno de freno en la contratación también se observa en Estados Unidos y el Reino Unido.",
+     "url": "https://legrandcontinent.eu/es/2026/11/24/en-china-las-ofertas-empleo-caen-ante-la-ia/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Ramona Bloj",
+     "titulo_original": "En China, las ofertas de empleo se desploman ante la IA",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-02",
+     "titulo": "el ejército ruso pierde desde mayo más hombres de los que recluta",
+     "resumen": "Según estimaciones del investigador alemán Janis Kluge, Rusia firmó unos 34.000 nuevos contratos militares el mes pasado y 297.000 desde enero, un 11,3% menos que en el mismo período de 2025. Es el sexto mes consecutivo en que las bajas en combate superan a las nuevas incorporaciones, con una brecha que crece desde julio.",
+     "url": "https://legrandcontinent.eu/es/2026/11/23/ejercito-ruso-tiene-hombres-para-continuar-la-guerra/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "18:42",
+     "autor": "Marin Saillofest",
+     "titulo_original": "¿Tiene el ejército ruso suficientes efectivos para continuar la guerra?",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-03",
+     "titulo": "Francia repiensa su poder aéreo ante el regreso de la amenaza de guerra en Europa",
+     "resumen": "En una entrevista, el jefe del Estado Mayor de la Fuerza Aérea y Espacial francesa analiza cómo la invasión rusa de Ucrania y otros conflictos reavivaron en Europa la percepción de una amenaza armada directa, después de años en los que el continente parecía haber dejado atrás esa posibilidad.",
+     "url": "https://legrandcontinent.eu/es/2026/11/23/francia-en-la-nueva-era-del-poder-aereo/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/11/20260606_RAFL26_FRA-Flight-Line_006_Fanny_CHESIERE-scaled.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "16:26",
+     "autor": "Louis Puel",
+     "titulo_original": "Francia en la nueva era del poder aéreo",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-23",
+     "titulo": "Estudiantes y Palmeiras definen la Copa Libertadores el sábado en Montevideo",
+     "resumen": "La final entre Estudiantes de La Plata y Palmeiras se jugará el sábado 28 de noviembre a las 17, hora argentina, en el estadio Centenario de Montevideo, con árbitro a designar. En caso de empate en los 90 minutos habrá media hora suplementaria y, de persistir la igualdad, el título se definirá por penales.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/final-de-la-copa-libertadores-2026-cuando-juega-estudiantes-vs-palmeiras-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/PZOPNA2FF5FWFKW6JE75MI5XMY.jpg?auth=daccebbcafd7e96f9b1b056a2799cd942e2aceffd154cf420dfd2e07235020a1&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:26",
+     "autor": "",
+     "titulo_original": "Final de la Copa Libertadores 2026: cuándo juega Estudiantes vs. Palmeiras",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Boca retomó los entrenamientos tras la consagración en la Copa Sudamericana",
+     "resumen": "Después de festejar el título y la vuelta olímpica en la autopista Ricchieri, el plantel de Boca volvió a entrenar pensando en los playoffs del torneo Clausura. Rodolfo Arruabarrena evalúa dosificar el desgaste físico del equipo para el partido pendiente de octavos de final ante Independiente Rivadavia, el miércoles en la Bombonera.",
+     "url": "https://www.clarin.com/deportes/boca-plan-vasco-arruabarrena-playoffs-clausura-fiesta-sudamericana_0_KRv7ZYxbB4.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/iUqWT01v2_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:29",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Boca no para: el plan del Vasco Arruabarrena para los playoffs del Clausura tras la fiesta de la Sudamericana",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-14",
+     "titulo": "Gimnasia eliminó a Newell's y ya son siete los clasificados a cuartos del Clausura",
+     "resumen": "Gimnasia derrotó 4 a 2 a Newell's en el alargue y se sumó a los siete equipos que ya tienen asegurado su lugar en cuartos de final, que se jugarían el fin de semana del 28 y 29 de noviembre. El encuentro terminó con la expulsión del arquero rosarino tras forcejeos, y generó polémica por el arbitraje de Nicolás Ramírez, cuestionado públicamente por el ídolo de Newell's Maxi Rodríguez.",
+     "relacionadas": [
+      {
+       "id": "CL-21",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Nicolás Ramírez y otro partido que se le fue de las manos: Newell's explotó tras terminar con 9 y el arquero de Gimnasia se pierde los cuartos de final",
+       "url": "https://www.clarin.com/deportes/nicolas-ramirez-partido-manos-newells-exploto-terminar-9-arquero-gimnasia-pierde-cuartos-final_0_P7q3R9x8jO.html"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El fuerte posteo de Maxi Rodríguez tras la discutida labor del árbitro Nicolás Ramírez en la derrota de Newell’s ante Gimnasia",
+       "url": "https://www.infobae.com/deportes/2026/11/24/el-fuerte-posteo-de-maxi-rodriguez-tras-la-discutida-labor-del-arbitro-nicolas-ramirez-en-la-derrota-de-newells-ante-gimnasia/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/asi-estan-los-cuartos-de-final-del-torneo-clausura-con-siete-equipos-ya-clasificados-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EGJZ537KA5E47J5PMLH5GVC3R4.jpg?auth=b03286768f0343c4fedf9bc080434b7fb98f42c59b2015a1b172793ffedf74bd&smart=true&width=670&height=447",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:56",
+     "autor": "",
+     "titulo_original": "Así están los cuartos de final del torneo Clausura con siete equipos ya clasificados"
+    },
+    {
+     "id": "CL-17",
+     "titulo": "Tim Payne y Vozinha, viralizados en el Mundial 2026, salieron campeones en Sudamérica",
+     "resumen": "El defensor neozelandés Tim Payne se consagró con Olimpia de Paraguay tras vencer 2 a 1 a Trinidense, mientras el arquero caboverdiano Vozinha aseguró el título de Colo Colo en Chile con una atajada en el minuto 97. Ambos se habían vuelto figuras populares del último Mundial pese a la temprana eliminación de sus selecciones.",
+     "relacionadas": [
+      {
+       "id": "LN-07",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Tim Payne y Vozinha dejaron su marca en el fútbol sudamericano: campeones con Olimpia y Colo Colo",
+       "url": "https://www.lanacion.com.ar/deportes/tim-payne-y-vozinha-dejaron-su-marca-en-el-futbol-sudamericano-campeones-con-olimpia-y-colo-colo-nid23112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/fenomenos-virales-mundial-2026-hicieron-historia-sudamerica-tim-payne-dio-vuelta-olimpia-vozinha-heroe-colo-colo_0_jnlMX2ulKQ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/23/H-SLVsHCD_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:37",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los fenómenos virales del Mundial 2026 hicieron historia en Sudamérica: Tim Payne dio la vuelta con Olimpia y Vozinha fue héroe en Colo Colo"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "trascendió que la Copa América 2028 volvería a jugarse en Estados Unidos",
+     "resumen": "Según trascendidos, el presidente de la Conmebol, Alejandro Domínguez, adelantó a algunas confederaciones que el certamen se disputará otra vez en territorio estadounidense, como en 2024, con participación de selecciones de la Concacaf, entre junio y julio.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/la-copa-america-2028-se-juega-en-estados-unidos-esto-es-todo-lo-que-se-sabe-nid23112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EN2TTO4QQJDCDNPKMQCQJXVAGM.JPG?auth=bd82c9b89007a2cfeac30e18b59fecfbd8b5cc4d5cc9b80e7ba1f8ff622a90c3&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:05",
+     "autor": "",
+     "titulo_original": "¿La Copa América 2028 se juega en Estados Unidos? Esto es todo lo que se sabe",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-16",
+     "titulo": "Estados Unidos, México, Costa Rica y Jamaica serán sedes del Mundial femenino 2031",
+     "resumen": "La FIFA confirmó la candidatura conjunta de los cuatro países para organizar la edición de 2031, que tendrá 48 selecciones y 104 partidos, la primera Copa del Mundo femenina disputada en cuatro sedes distintas.",
+     "url": "https://www.ambito.com/deportes/eeuu-mexico-costa-rica-y-jamaica-seran-sedes-del-mundial-2031-del-futbol-femenino-participan-48-selecciones-n6348383",
+     "imagen": "https://media.ambito.com/p/f2ccb9ae42b3e917bc81b60b9cc9bc68/adjuntos/239/imagenes/043/790/0043790491/1200x675/smart/mundial-femenino.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "16:59",
+     "autor": "",
+     "titulo_original": "EEUU, México, Costa Rica y Jamaica serán sedes del Mundial 2031 del fútbol femenino: participan 48 selecciones",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Lionel Scaloni clasificó a un Mundial de ciclismo amateur en Francia",
+     "resumen": "El entrenador de la Selección argentina completó los 110 kilómetros del Gran Fondo Siete Lagos en 2 horas 51 minutos 54 segundos. Con el tercer puesto en su categoría, M45-49, aseguró su clasificación directa al Mundial amateur de la especialidad que se disputará en 2027 en Francia.",
+     "url": "https://www.clarin.com/deportes/gran-fondo-exigente-prueba-ciclismo-lionel-scaloni-saco-pasaje-mundial_0_qI90ZbJVh1.html",
+     "imagen": "https://www.clarin.com/img/2026/11/22/YTu3kTg1u_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "05:13",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Qué es el Gran Fondo, la exigente prueba de ciclismo en la que Lionel Scaloni sacó pasaje a \"otro\" Mundial",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "IP-13",
+     "titulo": "el fin de semana largo tuvo menos turistas y una caída del gasto real de 30%",
+     "resumen": "El sector hotelero y gastronómico registró bajas en reservas y consumo durante el fin de semana largo por el Día de la Soberanía Nacional, atribuidas a la disminución del poder adquisitivo de los argentinos.",
+     "url": "https://www.iprofesional.com/turismo/469805-fin-de-semana-largo-con-menos-turistas-y-caida-del-gasto-real-del-30-por-ciento",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/11/545962.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:33",
+     "autor": "",
+     "titulo_original": "Fin de semana largo con menos turistas y una caída del gasto real del 30%",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-12",
+     "titulo": "habrá un nuevo fin de semana de cuatro días antes de Navidad",
+     "resumen": "El Gobierno decretó un nuevo día no laborable y feriado puente en diciembre, que sumará un fin de semana largo de cuatro días antes de las fiestas y ya genera búsquedas de destinos turísticos.",
+     "url": "https://www.iprofesional.com/turismo/469806-gobierno-decreta-dia-no-laborable-y-feriado-diciembre-2026-fin-de-semana-4-dias-antes-de-navidad",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/05/536021.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:39",
+     "autor": "",
+     "titulo_original": "Decretan día no laborable y feriado en diciembre: fin de semana de 4 días antes de Navidad",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "AM-04",
+     "titulo": "alerta amarilla por tormentas y fuertes vientos en cinco provincias",
+     "resumen": "El Servicio Meteorológico Nacional advirtió por lluvias intensas, actividad eléctrica y posible caída de granizo en cinco provincias, además de ráfagas fuertes en la Patagonia. En el AMBA se espera un descenso de temperatura a partir del miércoles, sin precipitaciones significativas.",
+     "url": "https://www.ambito.com/informacion-general/alerta-amarilla-tormentas-y-fuertes-vientos-que-provincias-seran-afectadas-y-como-estara-el-clima-buenos-aires-n6348454",
+     "imagen": "https://media.ambito.com/p/93e48213ac6cc10b1bf8109acec98a32/adjuntos/239/imagenes/043/251/0043251513/1200x675/701x243:721x263/clima-amba.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "22:51",
+     "autor": "",
+     "titulo_original": "Alerta amarilla por tormentas y fuertes vientos: qué provincias serán afectadas y cómo estará el clima en el AMBA",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-10",
+     "titulo": "4.000 personas siguen sin poder volver a sus casas en Corrientes y Chaco",
+     "resumen": "La saturación del suelo y el alto nivel de humedad hacen que la baja del río Paraná sea muy lenta tras las lluvias asociadas al fenómeno de El Niño. Los especialistas anticipan un leve repunte del agua en los próximos días, con niveles aún inferiores a los de octubre.",
+     "url": "https://www.clarin.com/sociedad/fenomeno-nino-4-mil-personas-siguen-poder-volver-casas-corrientes-chaco-esperan-proximas-semanas_0_nx1rXtgOVS.html",
+     "imagen": "https://www.clarin.com/img/2026/11/22/1uaHJv6lQ_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Fenómeno El Niño: 4 mil personas siguen sin poder volver a sus casas en Corrientes y Chaco y qué esperan para las próximas semanas",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-14",
+     "titulo": "cuatro personas quedaron atrapadas por la crecida de un río en Córdoba y fueron rescatadas",
+     "resumen": "El hecho ocurrió en Villa de Soto, donde cuatro personas que volvían de un circuito de trekking quedaron aisladas por el aumento del caudal del río San Guillermo. El Departamento Unidad de Aguas y Rescate y los Bomberos Voluntarios las rescataron con un sistema de tirolesa y ninguna sufrió lesiones.",
+     "relacionadas": [
+      {
+       "id": "IB-16",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Dramático rescate: salieron a hacer un trekking, el río creció por las lluvias y fueron salvados con una tirolesa",
+       "url": "https://www.infobae.com/sociedad/2026/11/24/dramatico-rescate-salieron-a-hacer-un-trekking-el-rio-crecio-por-las-lluvias-y-fueron-salvados-con-una-tirolesa/"
+      }
+     ],
+     "url": "https://www.clarin.com/sociedad/cordoba-salieron-caminar-quedaron-atrapados-medio-crecida-rio_0_SE3AGvKnMs.html",
+     "imagen": "https://www.clarin.com/img/2026/11/24/GaG4VWSSe_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "00:05",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Córdoba: salieron a caminar y quedaron atrapados en medio de la crecida del río"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "un joven de Misiones que perdió una pierna rifa una moto para comprarse una prótesis",
+     "resumen": "Lucas Julián Vega tenía 15 años cuando un accidente lo dejó al borde de la muerte y le costó la amputación de una pierna. Hoy necesita juntar 17 millones de pesos para una prótesis deportiva y organizó una rifa para lograrlo.",
+     "url": "https://www.infobae.com/sociedad/2026/11/24/a-los-15-anos-un-accidente-le-cambio-la-vida-perdio-una-pierna-y-hoy-rifa-una-moto-para-comprarse-una-protesis-nueva/",
+     "imagen": "https://www.infobae.com/resizer/v2/VSF2QXP5TRDFPME7OPMNVVQMAE.jpg?auth=227736a13df37e0aba98b12ce4a0819c3c74f7bbc9fe2559e3c492372ce915bd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:25",
+     "autor": "Fernanda Jara",
+     "titulo_original": "A los 15 años un accidente le cambió la vida: perdió una pierna y hoy rifa una moto para comprarse una prótesis nueva",
+     "relacionadas": []
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del martes veinticuatro de noviembre. El regreso de Jensen Huang a la conducción de Nvidia disparó un repunte histórico en Wall Street que contagió a las bolsas asiáticas y a los activos argentinos, con el riesgo país por debajo de los mil treinta puntos. En el plano local, el Senado entra en su última semana de sesiones ordinarias con la suspensión de las primarias como prioridad, mientras sigue la polémica por el homenaje a Mario Santucho que prepara una facultad de la Universidad de Buenos Aires. En el fútbol, Boca retomó los entrenamientos tras consagrarse campeón de la Copa Sudamericana y se define el cuadro de cuartos de final del torneo Clausura. El dólar oficial cerró en mil seiscientos pesos, el dólar blue en mil seiscientos setenta y cinco pesos y el dólar mayorista en mil quinientos ochenta pesos. El oro cotiza en torno a los tres mil seiscientos veinte dólares la onza, el riesgo país terminó la semana pasada en mil treinta y cinco puntos y la inflación de octubre, según el INDEC, fue del dos coma dos por ciento mensual y del treinta y tres coma uno por ciento interanual. Vamos con las noticias, sección por sección. En política, el Senado comienza su última semana de sesiones ordinarias: el oficialismo buscará sellar el jueves la suspensión de las primarias y dictaminar cambios al proyecto contra la ludopatía. El gobernador bonaerense Axel Kicillof busca avanzar en extraordinarias con el proyecto de reelecciones indefinidas para intendentes, aunque esta semana no entrará en el temario de la Legislatura. Crece la polémica por el homenaje que la Facultad de Ciencias Sociales de la UBA prepara al jefe guerrillero Mario Roberto Santucho, muerto en mil novecientos setenta y seis en un operativo militar; su hijo defendió la iniciativa y atribuyó las críticas a la ultraderecha. El Gobierno removió a la cúpula del PAMI, con Verónica Pérez y Elizabeth Osterberg al frente. La Cámara Federal de Casación Penal fijó audiencia para el dieciséis de diciembre para revisar las condenas por el intento de homicidio de Cristina Kirchner. Y en la causa ANDIS, Pablo Atchabahian, señalado como uno de los jefes de la asociación ilícita, declaró en indagatoria este martes. En economía y mercados, Wall Street vivió ayer una de sus mejores jornadas en meses: el índice Nasdaq saltó seis coma cincuenta y uno por ciento y el Dow Jones, tres por ciento, después de que Nvidia anunciara la reincorporación de Jensen Huang como director ejecutivo, con la intervención personal de Donald Trump. La acción de Nvidia saltó más de treinta y uno por ciento y el índice que mide el miedo en los mercados cayó veinticuatro por ciento. El repunte contagió a las bolsas de Asia y, en la Argentina, las acciones que cotizan en Nueva York rebotaron hasta seis por ciento y el riesgo país cerró debajo de los mil treinta puntos, aunque la plaza local no operó por el feriado del lunes. La suba del dólar obligó a los inversores que apostaban al carry trade a revisar sus estrategias, mientras el Banco Central reforzó con setecientos millones de dólares adicionales las garantías del préstamo repo de seis mil millones de dólares que había tomado con bancos internacionales. El secretario de Finanzas, Federico Furiase, sostuvo que la suba del riesgo país y del dólar no afecta al plan económico. Y el Gobierno llega con un superávit primario acumulado del uno coma cuatro por ciento del producto bruto en diez meses al debate del Presupuesto dos mil veintisiete, que prevé un superávit del uno coma tres por ciento. En negocios y empresas, Santiago Blaquier, que dejó el directorio de Ledesma en diciembre pasado, sumó en nueve meses tres ingenios en Tucumán y una comercializadora de azúcar, con una capacidad de molienda que ya duplica a la de su antigua empresa familiar. En el concurso de SanCor, un frente de lácteas propuso seguir operando las plantas a fasón como alternativa a la oferta de Adecoagro. La industria metalúrgica volvió a caer en octubre y acumula una baja del cinco por ciento en el año. Y la distribución de las cuotas de exportación de carne vacuna a la Unión Europea llegará abierta a la cumbre del Mercosur del cuatro de diciembre en Montevideo. En impuestos, laboral y normativa, una nueva resolución de la Provincia de Buenos Aires exige a las empresas bonaerenses entregar más documentación y generó resistencia de entidades empresariales. El embajador de Estados Unidos celebró la ratificación argentina del tratado de patentes. Y el ministro de Desregulación, Federico Sturzenegger, afirmó que las reformas del Gobierno abarataron en promedio quince por ciento los productos de consumo masivo alcanzados, aunque especialistas aclaran que no se trata de una baja generalizada en las góndolas. Para una empresa, conviene seguir de cerca la nueva carga administrativa bonaerense y el debate sobre el verdadero impacto de la desregulación en precios. En consumo, construcción y retail, Mercado Pago habilitó cuentas para menores de edad, que ya pueden abrir su propia billetera virtual con autorización de sus padres. La Agencia Nacional de Puertos licitó un nuevo muelle para Ushuaia, con una inversión de doce mil quinientos ochenta millones de pesos, para ordenar el flujo de pasajeros tras la clausura del sector anterior por riesgo de derrumbe. Y un relevamiento sobre el lanzamiento del videojuego Grand Theft Auto seis ubicó a la Argentina entre los países donde más horas de trabajo hacen falta para comprarlo, otra muestra de la pérdida de poder adquisitivo. En el mundo, la Justicia de Paraguay ordenó la detención del hermano y la cuñada del expresidente Santiago Peña, en la causa por lavado de activos vinculada al banco Ueno. Un atentado con auto bomba frente a la gobernación de Meta, en Villavicencio, Colombia, dejó al menos veintitrés heridos, y el presidente Abelardo de la Espriella lo atribuyó al narcoterrorismo. Rusia anunció la toma de una nueva localidad en la provincia ucraniana de Zaporiyia. Más de cuatrocientas cincuenta escuelas de Alemania y Dinamarca recibieron amenazas de bomba por correo electrónico, sin peligro confirmado. Y desertores norcoreanos sostienen que la hija de Kim Jong-un está siendo preparada como su sucesora. Le Grand Continent analiza el freno de la contratación tecnológica en China, donde las ofertas para desarrolladores cayeron más de setenta por ciento con la inteligencia artificial; el desgaste del ejército ruso, que desde mayo pierde más soldados de los que recluta; y una entrevista con el jefe del Estado Mayor de la Fuerza Aérea francesa sobre el poder aéreo en Europa. En deportes, Estudiantes de La Plata se medirá con Palmeiras el sábado veintiocho de noviembre en Montevideo por la final de la Copa Libertadores. Boca retomó los entrenamientos tras consagrarse campeón de la Copa Sudamericana y enfrentará el miércoles a Independiente Rivadavia por los octavos pendientes del Clausura, con la clasificación a cuartos en juego ante Gimnasia, que eliminó a Newell's por cuatro a dos en un partido con expulsión y polémica arbitral. La Copa América dos mil veintiocho se jugaría otra vez en Estados Unidos, según trascendidos. Estados Unidos, México, Costa Rica y Jamaica serán sedes del Mundial femenino de dos mil treinta y uno. Y Tim Payne y Vozinha, figuras virales del Mundial dos mil veintiséis, salieron campeones con Olimpia de Paraguay y Colo Colo de Chile. En turismo, el fin de semana largo por el Día de la Soberanía Nacional tuvo menos turistas y una caída del gasto real del treinta por ciento en el sector hotelero y gastronómico. Para diciembre ya se descontó un nuevo feriado puente que sumará un fin de semana de cuatro días antes de Navidad. En sociedad, el Servicio Meteorológico Nacional emitió una alerta amarilla por tormentas y fuertes vientos para cinco provincias, con posible caída de granizo. En Corrientes y Chaco todavía hay cuatro mil personas que no pueden volver a sus casas por la bajante lenta del río Paraná tras las lluvias de El Niño. En Córdoba, cuatro personas quedaron aisladas por la crecida de un río en Villa de Soto y fueron rescatadas con un sistema de cuerdas. Y en Misiones, un joven que perdió una pierna en un accidente a los quince años organiza una rifa para juntar diecisiete millones de pesos y comprarse una prótesis deportiva. Eso fue todo por ahora. La próxima edición sale al mediodía.",
+ "notas_del_editor": "No hubo fallas en la descarga de fuentes esta corrida (132 notas, 8 de 8 series de mercado actualizadas). En la sección de Turismo no apareció ningún destino puntual argentino ni extranjero en el material crudo de esta edición; se usaron las dos únicas notas del feed de turismo disponibles, ambas sobre fines de semana largos en general.",
+ "slug": "2026-11-24-manana",
+ "generado_ba": "24/11/2026 10:16"
+}
