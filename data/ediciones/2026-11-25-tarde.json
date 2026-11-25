@@ -1,0 +1,965 @@
+{
+ "fecha": "2026-11-25",
+ "edicion": "tarde",
+ "titulo": "El dólar blue superó los 1.700 pesos y Santilli defendió el rumbo económico",
+ "apertura": "Hacia el cierre de la tarde, el dólar blue tocó por primera vez los 1.700 pesos y el mayorista cerró en un nuevo récord, aunque la intervención oficial en los dólares financieros achicó la brecha cambiaria y el riesgo país recortó parte de la suba del día anterior. En el Senado, Diego Santilli defendió el rumbo económico del Gobierno y admitió que no hubo los \"20.000 terroristas\" deportados que había denunciado Milei, mientras el Presidente suspendió un acto en Corrientes por la tensión de mercados y viaja esta noche a Paraguay. En paralelo, se conocieron nuevos datos sobre la caída del consumo masivo y del crédito hipotecario, avanzó la nueva ley de desalojos, y la Selección Sub 17 clasificó a los 16avos del Mundial tras remontarle a Dinamarca.",
+ "claves": [
+  "El dólar blue superó por primera vez los 1.700 pesos y el mayorista cerró en un nuevo récord de 1.604 pesos, aunque la brecha con el financiero se achicó al 6,6 por ciento.",
+  "El riesgo país recortó la suba del día anterior y cerró en 1.068 puntos, con un rebote generalizado de los bonos soberanos.",
+  "Diego Santilli defendió en el Senado el rumbo económico del Gobierno y reconoció que no hubo \"20.000 terroristas\" deportados, como había dicho Milei.",
+  "Milei canceló su presencia en un acto en Corrientes por la tensión cambiaria y viaja esta noche a Paraguay para reunirse con el nuevo presidente, Pedro Alliana.",
+  "Horacio Verbitsky fue indagado por el Vacunatorio VIP y el fondo Burford reclama 14.400 millones de dólares a la Argentina por YPF ante el CIADI.",
+  "La venta de inmuebles con crédito hipotecario cayó casi 20 por ciento en octubre y el consumo masivo en supermercados acumula nueve meses consecutivos de caída.",
+  "Un fallo judicial de La Plata declaró inconstitucional el pago de indemnizaciones laborales en 12 cuotas para las pymes, y entró en vigencia la nueva ley que agiliza los desalojos.",
+  "La Selección Sub 17 remontó a Dinamarca y clasificó a los 16avos del Mundial; Franco Colapinto correrá el Gran Premio de Catar este fin de semana."
+ ],
+ "cifras": [
+  {
+   "nombre": "Dólar tarjeta (empresas, gastos en el exterior)",
+   "valor": "$ 2.119",
+   "fuente": "CR-18"
+  },
+  {
+   "nombre": "Alquiler de un local comercial (promedio CABA)",
+   "valor": "$ 1.146.657/mes",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Ventas en supermercados (septiembre, INDEC)",
+   "valor": "-3,0% interanual",
+   "fuente": "CR-16"
+  },
+  {
+   "nombre": "Fusiones y adquisiciones en Argentina (2026, KPMG)",
+   "valor": "78 operaciones en 9 meses",
+   "fuente": "IP-12"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-06",
+     "titulo": "Santilli defendió en el Senado el rumbo económico: \"No hubo un estallido, hubo crecimiento\"",
+     "resumen": "El jefe de Gabinete brindó su primer informe de gestión ante el Senado y sostuvo que el equilibrio fiscal se sostuvo durante casi 35 meses, con la inflación mayorista bajando desde el 270 por ciento. Defendió la gestión de Luis Caputo en medio de la tensión cambiaria y dejó guiños políticos hacia Patricia Bullrich. La exposición, centrada en el concepto de \"orden\", buscó contrastar la gestión actual con gobiernos anteriores.",
+     "relacionadas": [
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Santilli arengó en el Senado la reelección de Milei: guiño a Bullrich y defensa de Caputo",
+       "url": "https://www.iprofesional.com/politica/470040-santilli-pidio-en-el-senado-la-reeleccion-de-milei-guino-a-bullrich-y-defensa-de-caputo"
+      },
+      {
+       "id": "CR-14",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Las definiciones más calientes de Santilli en su primer cara a cara con los senadores: “Era un caos”",
+       "url": "https://www.cronista.com/economia-politica/santilli-va-al-senado-la-defensa-del-gobierno-y-los-principales-datos-de-su-informe-de-gestion/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/diego-santilli-ensaya-en-el-senado-una-defensa-del-rumbo-economico-no-hubo-un-estallido-hubo-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/274J2ZVB6JFRBGV4ZLHXE4MC6U.jpg?auth=fa51c08d60b51c9f748ad30b794a54d6263f28e49df1565f5da7807f347ff639&smart=true&width=900&height=617",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:01",
+     "autor": "Delfina Galarza",
+     "titulo_original": "Diego Santilli ensaya en el Senado una defensa del rumbo económico: “No hubo un estallido, hubo crecimiento”"
+    },
+    {
+     "id": "LN-15",
+     "titulo": "Horacio Verbitsky fue indagado en la causa por el Vacunatorio VIP",
+     "resumen": "El periodista declaró ante la jueza María Eugenia Capuchetti y el fiscal Eduardo Taiano por haberse vacunado contra el coronavirus de manera anticipada, gracias a su vínculo con el entonces ministro de Salud, Ginés González García. Según fuentes judiciales, repitió la misma explicación que dio en febrero de 2021 y sostuvo que no sabía que la vacunación anticipada era ilegal, porque de haberlo sabido no la habría aceptado.",
+     "relacionadas": [
+      {
+       "id": "CL-13",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Vacunatorio VIP: ahora el periodista Horacio Verbitsky afirmó que se vacunó sin ser personal esencial porque \"me convencieron\"",
+       "url": "https://www.clarin.com/politica/vacunatorio-vip-periodista-horacio-verbitsky-afirmo-vacuno-personal-esencial-convencieron_0_KMuK3j3yws.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/horacio-verbitsky-fue-indagado-en-la-causa-por-el-vacunatorio-vip-y-se-defendio-de-las-acusaciones-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GQNKQ64P6NEYDK3G5KAOC5OS4Q.jpeg?auth=3c6abffbb7e9d59392f404211eb0973f4ca29db131cb972d667a473b687c43c2&smart=true&width=900&height=602",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:46",
+     "autor": "",
+     "titulo_original": "Horacio Verbitsky fue indagado en la causa por el Vacunatorio VIP y se defendió de las acusaciones"
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Marcela Pagano impugnó la designación de Nadia Márquez en el Consejo de la Magistratura",
+     "resumen": "La diputada presentó ante la Corte Suprema una impugnación contra la senadora neuquina, nominada por decreto de la Presidencia del Senado para el período 2026-2030. Pagano pidió que se postergue el juramento hasta que el tribunal reúna los antecedentes judiciales de Márquez, que en 2013 se acogió a una probation por la entrega de títulos sin reconocimiento oficial.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/marcela-pagano-impugno-la-designacion-de-nadia-marquez-en-el-consejo-de-la-magistratura-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TXENIZFCZRBZNKEQ5N3NU5KC7Y.JPG?auth=9bbf8ed6f869abf3054262c3a5d9d0cf97ff8fe056ed104e392751f31ee83003&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:03",
+     "autor": "Paz García Pastormerlo",
+     "titulo_original": "Marcela Pagano impugnó la designación de Nadia Márquez en el Consejo de la Magistratura"
+    },
+    {
+     "id": "LN-24",
+     "titulo": "El Gobierno desconoció los \"20.000 terroristas\" deportados que había denunciado Milei",
+     "resumen": "Según la respuesta oficial del Ministerio de Seguridad y la Cancillería que llevó Diego Santilli al Senado, de 43.568 incidentes migratorios registrados no hubo un solo caso de terrorismo. El detalle incluyó 17.792 infracciones migratorias, 11.517 impedimentos judiciales y 14.061 personas sin documentación habilitante, entre otros rubros, pero ningún terrorista.",
+     "relacionadas": [
+      {
+       "id": "AM-01",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno reconoció que no hubo 20.000 terroristas deportados y desmintió a Javier Milei",
+       "url": "https://www.ambito.com/politica/el-gobierno-reconocio-que-no-hubo-20000-terroristas-deportados-y-desmintio-javier-milei-n6349333"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/43568-incidentes-cero-terrorismo-el-gobierno-desconocio-los-20000-terroristas-deportados-que-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/QVITI7OUQBCQZMS7TUWSBFJTIQ.jpg?auth=862e532a443aa6e47a95d1b536cab134b04e12776f0ec9d210e2a661dd94c78e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "13:23",
+     "autor": "",
+     "titulo_original": "43.568 incidentes, cero terrorismo: el Gobierno desconoció los “20.000 terroristas” deportados que denunció Milei"
+    },
+    {
+     "id": "IB-13",
+     "titulo": "Milei canceló un acto en Corrientes y viaja esta noche a Paraguay",
+     "resumen": "El Presidente suspendió su presencia en el cierre del 13º Congreso de la Economía Regional en Corrientes, en medio de una jornada con el dólar y el riesgo país en alza; en su lugar irá Luis Caputo. Milei viajará con el canciller Pablo Quirno para reunirse mañana en Asunción con el nuevo presidente paraguayo, Pedro Alliana, que asumió tras la destitución de Santiago Peña por la crisis del Ueno Bank.",
+     "relacionadas": [
+      {
+       "id": "CR-24",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Tras la caída de Peña, Milei mueve su ficha en Paraguay: los temas en la mesa del nuevo presidente",
+       "url": "https://www.cronista.com/economia-politica/milei-vuela-a-asuncion-tras-la-caida-de-pena-la-agenda-que-lleva-al-nuevo-gobierno-de-paraguay/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/25/milei-suspendio-su-presencia-en-un-congreso-en-corrientes-y-viaja-a-paraguay/",
+     "imagen": "https://www.infobae.com/resizer/v2/Y6VMTLAC5FB27JO7K3YJPJ5AS4.jpeg?auth=17528ad98f4c5700ea36c04a03b6415ac0c6656963ce2d693f9e3fb10a51dd67&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:30",
+     "autor": "Brenda Struminger",
+     "titulo_original": "Milei suspendió su presencia en un Congreso en Corrientes y viaja a Paraguay"
+    },
+    {
+     "id": "IB-21",
+     "titulo": "Los rectores advirtieron al Congreso que las universidades \"no podrán funcionar\" en 2027",
+     "resumen": "El Consejo Interuniversitario Nacional envió una carta a diputados y senadores por el ajuste previsto para el sector en el Presupuesto 2027, y mencionó salarios desactualizados, becas congeladas hace dos años y parálisis en obras y equipamiento. El reclamo se suma a la discusión parlamentaria por la Ley de Financiamiento Universitario.",
+     "relacionadas": [
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Los rectores advirtieron al Congreso sobre el ajuste a las universidades en el Presupuesto 2027: \"No podremos funcionar\"",
+       "url": "https://www.ambito.com/politica/los-rectores-advirtieron-al-congreso-el-ajuste-las-universidades-el-presupuesto-2027-no-podremos-funcionar-n6349232"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/25/los-rectores-enviaron-una-carta-al-congreso-y-advirtieron-por-el-ajuste-a-las-universidades-en-el-presupuesto-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/2CQS5FQ4FZHSFDUNEBBO7NOCJM.png?auth=a6f618f4489bab22cf53be53c08cf46753eb8b5657ecbe3d89b664b2078e155e&smart=true&width=900&height=594",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:18",
+     "autor": "",
+     "titulo_original": "Los rectores enviaron una carta al Congreso y advirtieron por el ajuste a las universidades en el Presupuesto 2027"
+    },
+    {
+     "id": "CL-21",
+     "titulo": "La fiscalía pidió confirmar la inconstitucionalidad del decreto de Milei que frenó la ley universitaria",
+     "resumen": "El fiscal general Rodrigo Cuesta se pronunció a favor del Consejo Interuniversitario Nacional y de la UBA, y consideró que el decreto presidencial \"desconoce y priva de efectos a una ley del Congreso de la Nación\". El dictamen se da en paralelo al reclamo de los rectores por el Presupuesto 2027.",
+     "relacionadas": [
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Universidades: el fiscal general pidió confirmar el fallo que obliga al Gobierno a aplicar la ley de financiamiento",
+       "url": "https://www.ambito.com/politica/universidades-el-fiscal-general-pidio-confirmar-el-fallo-que-obliga-al-gobierno-aplicar-la-ley-financiamiento-n6349147"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/financiamiento-universitario-fiscalia-pidio-ratifique-inconstitucionalidad-decreto-milei-freno-ley_0_4Hu7vw9l5e.html",
+     "imagen": "https://www.clarin.com/img/2026/11/25/Bw5TQKBCy_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:49",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Financiamiento universitario: la fiscalía pidió que se ratifique la inconstitucionalidad del decreto de Milei que frenó la ley"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-03",
+     "titulo": "El dólar blue superó por primera vez los 1.700 pesos y el mayorista tocó un nuevo récord",
+     "resumen": "El billete informal llegó a negociarse a 1.730 pesos durante la rueda y cerró en 1.710, aunque la brecha con el oficial se redujo al 6,6 por ciento tras la intervención del Banco Central en los dólares financieros. El mayorista cerró en 1.604 pesos para la venta, con una suba acumulada del 10 por ciento en lo que va del año, la mitad concentrada en noviembre. Para una empresa: una brecha más chica entre el oficial y el financiero abarata relativamente la cobertura cambiaria frente a los días previos, aunque el nivel general del dólar sigue en alza.",
+     "relacionadas": [
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El dólar mayorista superó los $ 1600: ¿puede mejorar la competitividad sin recalentar los precios?",
+       "url": "https://www.cronista.com/finanzas-mercados/el-dolar-mayorista-rompe-los-1600-y-pone-el-foco-en-la-competitividad-y-la-presion-cambiaria/"
+      },
+      {
+       "id": "IP-17",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El dólar mayorista superó por primera vez los $1.600, en otro día negativo en los mercados",
+       "url": "https://www.iprofesional.com/finanzas/470003-el-dolar-oficial-supera-los-1600-por-primera-vez"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/el-dolar-blue-marco-otro-maximo-nominal-y-supero-primera-vez-los-1700-n6349346",
+     "imagen": "https://media.ambito.com/p/1fe9305968b34bdf780106af2edadc69/adjuntos/239/imagenes/042/747/0042747582/dolar-blue-vivo-inversiones-mercados-bonos.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "17:54",
+     "autor": "",
+     "titulo_original": "El dólar blue marcó otro máximo nominal y superó por primera vez los $1.700"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "El riesgo país recortó la suba y cerró en 1.068 puntos, pero persisten las dudas",
+     "resumen": "Los bonos soberanos recuperaron parte del terreno perdido el día anterior: el riesgo país bajó 26 puntos y los Globales subieron entre 0,89 y 1,29 por ciento. Pese al rebote, la deuda argentina acumula bajas de entre 11 y 14 por ciento en el último mes y el indicador sigue muy por encima de los 1.000 puntos.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país se da vuelta y cae debajo de los 1.100 puntos, mientras los ADRs rebotan hasta 5%",
+       "url": "https://www.ambito.com/finanzas/el-riesgo-pais-ya-supera-los-1100-puntos-y-la-sangria-los-bonos-no-se-detiene-n6349109"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/wall-street-se-prepara-para-una-rueda-negativa-y-el-riesgo-pais-argentino-esta-bajo-presion/",
+     "imagen": "https://www.cronista.com/resizer/v2/DEN6YXUCM5GS5CXZCC3UVMQ5UQ.png?auth=9ed137eadaee7fcf821db597185fcafc013dc7cca887aee0eb0a510a87636776&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:51",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El riesgo país recorta la suba y rebotan los bonos, pero persisten las dudas del mercado"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "Caputo detalló cómo pagará el vencimiento de enero por más de 4.000 millones de dólares",
+     "resumen": "El ministro de Economía explicó que el Tesoro comprará al Banco Central 1.800 millones de dólares con pesos del superávit primario, sumará fondos del Fondo Monetario Internacional y financiamientos con garantías, y activó 5.000 millones de dólares del swap con China. Caputo sostuvo que en contextos de volatilidad su obligación es \"dar la mayor certidumbre posible\".",
+     "relacionadas": [
+      {
+       "id": "IB-14",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Caputo detalló cómo va a pagar el vencimiento de casi USD 4.400 millones de enero: cuántas reservas va a aportar el Banco Central",
+       "url": "https://www.infobae.com/economia/2026/11/25/caputo-detallo-como-va-a-pagar-el-vencimiento-de-casi-usd-4400-millones-de-enero-cuantas-reservas-va-a-aportar-el-banco-central/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/deuda-caputo-explico-como-cubrira-el-vencimiento-de-enero/",
+     "imagen": "https://www.cronista.com/resizer/v2/ERAO2FQ43BGVFB4EG4XAIWRDII.jpeg?auth=d3f1740ec302b8790dfe72069d4e91c37ed7d45f137ddf4858bd074afd44c039&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:43",
+     "autor": "Equipo Economía",
+     "titulo_original": "Deuda: Caputo explicó cómo cubrirá el vencimiento de enero"
+    },
+    {
+     "id": "IB-03",
+     "titulo": "Wall Street atenuó las pérdidas del día y las acciones argentinas cerraron en alza",
+     "resumen": "Los ADR argentinos, que habían llegado a caer hasta 10 por ciento por el derrumbe de los papeles tecnológicos, recortaron pérdidas hacia el cierre, mientras el índice MSCI Merval subió 0,6 por ciento en pesos. El Nasdaq descontó la mayor parte de sus bajas, en una jornada marcada por el dato de inflación PCE de octubre en Estados Unidos y los nuevos aranceles del 20 por ciento anunciados por Donald Trump.",
+     "relacionadas": [
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street recorta fuertes pérdidas y el Dow Jones pasa a terreno positivo, pese a los temores por la IA",
+       "url": "https://www.ambito.com/finanzas/la-sangria-los-mercados-no-se-detiene-los-futuros-wall-street-adelantan-caidas-casi-3-n6349052"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/25/wall-street-cae-con-fuerza-y-arrastra-a-las-acciones-argentinas-que-pierden-hasta-10/",
+     "imagen": "https://www.infobae.com/resizer/v2/CDGMOTMMBRA7VHUEP6MXPIYRCU.JPG?auth=bd8cfa55e422ef1a98dc805f5ff334c75cf112fa7b8ebc089c893f01398cd898&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:07",
+     "autor": "",
+     "titulo_original": "Wall Street atenuó las pérdidas y las acciones argentinas terminaron con números positivos"
+    },
+    {
+     "id": "CL-26",
+     "titulo": "YPF: el fondo Burford reclama 14.400 millones de dólares en una nueva demanda ante el CIADI",
+     "resumen": "El Gobierno informó que, tras una sentencia adversa en Estados Unidos, los demandantes se presentaron en septiembre ante un tribunal que depende del Banco Mundial con un reclamo algo menor al exigido en los tribunales de Nueva York. Para una empresa: el expediente mantiene abierto un pasivo contingente relevante para las cuentas públicas, con potencial impacto en el riesgo soberano.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/economia/juicio-ypf-gobierno-dice-fondo-burford-reclama-us-14400-millones-nueva-demanda-inicio-ciadi_0_Tp61FKCNn5.html",
+     "imagen": "https://www.clarin.com/img/2016/11/04/Bk0HhWk4g_1200x630.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "12:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Juicio por YPF: el Gobierno dice que el fondo Burford le reclama US$ 14.400 millones en la nueva demanda que inició ante el CIADI"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "Los funcionarios de la Reserva Federal discrepan sobre las causas de la inflación persistente",
+     "resumen": "El índice de precios PCE de octubre, la medida preferida del banco central estadounidense, treparía a 3,8 por ciento interanual según el consenso de economistas. Mientras algunos funcionarios, como Christopher Waller, piden una suba de medio punto en diciembre, otros miembros cercanos al Gobierno de Trump advierten que sería un error, lo que alimenta la incertidumbre sobre el rumbo de las tasas globales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/debate-clave-los-funcionarios-la-fed-discrepan-las-causas-la-persistente-inflacion-n6349153",
+     "imagen": "https://media.ambito.com/p/4d82a9874b6981e4eb8e656ef41bca72/adjuntos/239/imagenes/041/718/0041718988/fed-reserva-federaljpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:29",
+     "autor": "",
+     "titulo_original": "Debate clave: los funcionarios de la Fed discrepan sobre las causas de la persistente inflación"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "CL-06",
+     "titulo": "Los Grobo vende un molino harinero y una planta de acopio para pagarle a siete bancos",
+     "resumen": "La compañía solicitó autorización judicial para vender el 49 por ciento de las acciones de la firma molinera Cánepa Hermanos y un establecimiento de acopio en Chivilcoy, por 5,5 millones de dólares. La operación, que incluye un pago inicial y cinco cuotas anuales, busca cancelar parte de un préstamo sindicado que la agropecuaria tomó en 2019 con siete bancos.",
+     "relacionadas": [
+      {
+       "id": "CR-07",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Un ex gigante del agro vende parte de su negocio histórico para salvar su “corazón” de 7 bancos",
+       "url": "https://www.cronista.com/negocios/un-ex-gigante-del-agro-vende-el-corazon-de-su-negocio-historico-para-salvarlo-de-7-bancos/"
+      }
+     ],
+     "url": "https://www.clarin.com/rural/grobo-vende-molino-harinero-planta-acopio-us-55-millones-pagar-deuda-bancos_0_uDjpSEcFgt.html",
+     "imagen": "https://www.clarin.com/img/2025/01/15/PSLhmLMGu_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:27",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los Grobo vende un molino harinero y una planta de acopio por US$ 5,5 millones para pagar una deuda a los bancos"
+    },
+    {
+     "id": "CL-10",
+     "titulo": "Stellantis advierte que podría traer autos chinos si sigue perdiendo mercado frente a esa competencia",
+     "resumen": "El directivo regional Herlander Zola, durante la apertura de una fábrica de motores en Ferreyra, dijo que la capacidad de competir de cada planta definirá sus proyectos futuros y que la empresa trabaja para ampliar la penetración de la marca china LeapMotor en Sudamérica. El ejecutivo había dicho hace un mes que no descartaban cerrar las fábricas de Peugeot en El Palomar y de Fiat en Córdoba, y ahora reclamó \"reglas claras\" y \"competencia equilibrada\".",
+     "relacionadas": [
+      {
+       "id": "CR-21",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Tras la polémica por sus fábricas argentinas, el CEO regional de Stellantis reclamó “reglas claras” y “competencia equilibrada”",
+       "url": "https://www.cronista.com/negocios/tras-la-polemica-por-sus-fabricas-argentinas-el-ceo-regional-de-stellantis-reclamo-reglas-claras-y-competencia-equilibrada/"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/stellantis-avisan-seguimos-perdiendo-mercado-competencia-china-podemos-traer-vehiculos-chinos_0_b7DvSTcp2m.html",
+     "imagen": "https://www.clarin.com/img/2026/11/25/C4gjUSq89_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "16:19",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Desde Stellantis avisan: \"Si seguimos perdiendo mercado por la competencia china, nosotros también podemos traer vehículos chinos\""
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Tether invirtió 14,5 millones de dólares en la fintech argentina Lemon",
+     "resumen": "La inversión incluye 5 millones de dólares de aporte directo y 9,5 millones para un programa de incentivos, con los que Lemon buscará ampliar sus servicios financieros en pesos, expandirse en la región y sumar herramientas de inteligencia artificial. La operación marca un giro de la empresa, que deja de ser solo una billetera cripto.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/tether-invierte-us-145-millones-en-lemon-de-bitcoin-a-los-pesos-y-la-apuesta-por-la-inteligencia-artificial/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZCMI7Z7POVFKJC6BXB55EYV2YI.png?auth=f6788c8e6dfad45a20564de5996cee499c5f941ac5970c9044439a191224486a&smart=true&width=883&height=584",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:30",
+     "autor": "Leandro Dario",
+     "titulo_original": "Tether invierte u$s 14,5 millones en Lemon: de Bitcoin a los pesos y la apuesta por la inteligencia artificial"
+    },
+    {
+     "id": "CR-05",
+     "titulo": "Un consorcio chino presentó la oferta más baja para construir la Línea F del subte",
+     "resumen": "El Ministerio de Movilidad e Infraestructura porteño abrió los sobres económicos de los dos consorcios habilitados para la licitación de la nueva línea de subterráneo, presupuestada en 1.350 millones de dólares. La propuesta del grupo chino, asociado con empresas locales, es unos 400.000 millones de pesos más barata que la del holding encabezado por Roggio.",
+     "relacionadas": [
+      {
+       "id": "IP-08",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Un grupo chino presentó la oferta más barata para construir la Línea F del subte",
+       "url": "https://www.iprofesional.com/negocios/470043-grupo-chino-presento-oferta-mas-barata-para-construir-linea-f-del-subte-porteno"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/un-consorcio-argentino-chino-presento-la-oferta-mas-baja-por-la-linea-f-cuales-son-los-proximos-pasos/",
+     "imagen": "https://www.cronista.com/resizer/v2/HVIJOS3Y65BLFPJIYNOKFX3FGA.jpg?auth=eab364f2bfce194ef33e3fb8dca597bebe071bdb39eed09b723043cebf91054e&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:24",
+     "autor": "Matías Rufino",
+     "titulo_original": "Un consorcio argentino-chino presentó la oferta más baja por la línea F: cuáles son los próximos pasos"
+    },
+    {
+     "id": "IP-12",
+     "titulo": "El sector energético lideró las fusiones y adquisiciones de empresas en la Argentina en 2026",
+     "resumen": "Un informe de KPMG contabilizó 78 operaciones de compra y fusión en los primeros nueve meses del año, con foco en energía, entre ellas la compra de Raízen por parte de Mercuria y la adquisición de activos de Equinor por Vista.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/470026-la-energia-lidera-las-compras-y-fusiones-de-empresas-en-argentina-durante-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630562.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "16:05",
+     "autor": "",
+     "titulo_original": "El sector energético lidera las compras y fusiones de empresas en Argentina durante 2026"
+    },
+    {
+     "id": "IP-21",
+     "titulo": "OCA busca más tiempo para acordar con acreedores en medio de un conflicto con Camioneros",
+     "resumen": "La mayor operadora postal privada del país solicita una extensión de plazos para negociar el pago de su deuda fiscal y sus pasivos con acreedores, mientras enfrenta reclamos salariales del gremio de Camioneros.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/negocios/470019-oca-busca-mas-plazo-para-negociar-su-deuda-tras-el-reclamo-gremial",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/08/583157.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "14:38",
+     "autor": "",
+     "titulo_original": "Concurso de OCA: la deuda fiscal, los acreedores y el conflicto con Camioneros"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-15",
+     "titulo": "Tercer anticipo de Ganancias y Bienes Personales: cuándo conviene pedir la reducción",
+     "resumen": "El pago vence el 14, 15 o 16 de diciembre según la terminación del CUIT, y es el primero desde el cual los contribuyentes pueden pedirle a ARCA que lo reduzca si estiman que el impuesto final de 2026 será menor al calculado sobre 2025. Según contadores consultados, conviene basar el pedido en una proyección respaldada en números verificables, porque estimar de menos genera intereses. Para una empresa: es el momento de revisar el impacto en caja de este tercer anticipo junto con el aguinaldo y los bonos de fin de año.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/tercer-anticipo-de-ganancias-y-bienes-personales-cuando-conviene-pedir-la-reduccion-segun-los-mejores-contadores/",
+     "imagen": "https://www.cronista.com/resizer/v2/XBYY5CAWFJBIBBW4I7VFZTZ7YM.jpg?auth=ece9b682cce2fc344b9d1108130e4e0951688819b84ce4c2b704bf1f51d12a52&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:09",
+     "autor": "Audiencias Member",
+     "titulo_original": "Tercer anticipo de Ganancias y Bienes Personales: cuándo conviene pedir la reducción según los mejores contadores"
+    },
+    {
+     "id": "IP-06",
+     "titulo": "Un fallo advirtió que las pymes no siempre podrán pagar indemnizaciones laborales en 12 cuotas",
+     "resumen": "Un tribunal de La Plata declaró inconstitucional parte de la Ley 27.802, que había habilitado el pago fraccionado de condenas laborales, lo que generó alarma entre las empresas que esperaban aliviar el impacto de los juicios. Para una empresa: el fallo reduce la previsibilidad sobre un mecanismo que buscaba achicar el desembolso inmediato ante una indemnización.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/economia/470041-justicia-argentina-advirtio-que-pymes-no-siempre-podran-pagar-indemnizacion-en-12-cuotas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/570720.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:07",
+     "autor": "",
+     "titulo_original": "La Justicia advirtió que las pymes no siempre podrán pagar indemnización en 12 cuotas"
+    },
+    {
+     "id": "CR-26",
+     "titulo": "La nueva ley de propiedad privada agiliza los desalojos con un juicio sumarísimo",
+     "resumen": "La norma, sancionada el 19 de noviembre por 42 votos contra 26, establece que los desalojos de inmuebles urbanos y rurales tramiten por juicio sumarísimo, con una intimación previa de al menos diez días corridos por falta de pago y la posibilidad de que el juez ordene la entrega anticipada del inmueble. El proyecto, impulsado por el ministro de Desregulación Federico Sturzenegger, busca dar previsibilidad a quienes alquilan locales o viviendas. Para una empresa: agiliza la recuperación de un local comercial en caso de incumplimiento de un inquilino.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/como-recuperar-un-inmueble-con-la-nueva-ley-de-propiedad-privada-plazos-tramite-sumarisimo-y-requisitos/",
+     "imagen": "https://www.cronista.com/resizer/v2/AO4YOKQ3G5FCDOYZTSBNFVZDMY.jpg?auth=7666fc43d0cd8cdb41fc31a0b6ca4afcdb95a30b721d298b212be0637603ac41&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "14:37",
+     "autor": "Alejandro Di Russo",
+     "titulo_original": "Recuperar un inmueble con la nueva ley de propiedad privada: plazos, trámite sumarísimo y requisitos"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "Un empleado en blanco necesita ganar 20% más que un informal con AUH para igualar sus ingresos",
+     "resumen": "Según datos de la Encuesta Permanente de Hogares del segundo trimestre, un trabajador informal con un hijo que cobra la Asignación Universal por Hijo y la Tarjeta Alimentar puede alcanzar un ingreso familiar de 923.000 pesos, mientras que un empleado registrado necesitaría un salario de bolsillo de 850.900 pesos para igualarlo. El informe advierte que la brecha se amplió desde 2024 y que uno de cada cuatro beneficiarios de la AUH no es pobre, lo que alimenta el debate sobre el desincentivo a la formalización.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/un-empleado-en-blanco-necesita-ganar-20-mas-que-un-informal-con-auh-por-que-se-amplio-la-brecha/",
+     "imagen": "https://www.cronista.com/resizer/v2/ZDD43YRVY5A3PAXFCUTKITNJSM.jpg?auth=f27359547e6d5a218cdbb372d63130cb85f5d36d24fa2826264164c6303df9c5&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:04",
+     "autor": "Audiencias Member",
+     "titulo_original": "Un empleado en blanco necesita ganar 20% más que un informal con AUH: por qué se amplió la brecha"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "CL-17",
+     "titulo": "La venta de inmuebles con créditos hipotecarios cayó casi 20% en octubre",
+     "resumen": "El Colegio de Escribanos porteño registró un retroceso de 3,4 por ciento interanual en el nivel de transacciones, con un impacto más marcado en las operaciones con crédito hipotecario, que cayeron casi 20 por ciento. En los primeros diez meses del año se escrituraron casi 55.000 propiedades en la Ciudad, con una suba mensual de 2,5 por ciento pero una baja interanual de 3,4 por ciento. Para una empresa: una desaceleración del crédito hipotecario enfría la demanda de materiales para obra nueva y remodelación en el segmento residencial.",
+     "relacionadas": [
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Escrituras en CABA: se vendieron casi 55.000 propiedades en diez meses pese a la caída del crédito",
+       "url": "https://www.ambito.com/real-estate/escrituras-caba-se-vendieron-casi-55000-propiedades-diez-meses-pese-la-caida-del-credito-n6349267"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/venta-inmuebles-creditos-hipotecarios-cayo-20-pego-lleno-cantidad-total-operaciones_0_gmLiH5GWlG.html",
+     "imagen": "https://www.clarin.com/img/2021/06/01/GAfN3vZWW_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "La venta de inmuebles con créditos hipotecarios cayó casi 20% y pegó de lleno en la cantidad total de operaciones"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "Abrir un comercio en la Ciudad cuesta en promedio 1.146.657 pesos de alquiler mensual",
+     "resumen": "Un relevamiento de Finaer sobre solicitudes de garantías de los últimos tres meses ubicó el alquiler promedio de un local comercial en 1.146.657 pesos en la Ciudad de Buenos Aires y en 1.144.620 pesos en GBA Norte, mientras que en GBA Oeste bajó a 828.234 pesos y en GBA Sur a 919.819 pesos. El informe advierte que pagar el primer alquiler es solo el comienzo de una inversión que además incluye garantía, depósito, acondicionamiento, equipamiento y habilitación; la vacancia de locales en CABA llegó al 10,7 por ciento.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/el-alquiler-de-un-comercio-promedia-1146657-cuanto-cuesta-mantenerlo-en-total-con-impuestos-servicios-y-seguro/",
+     "imagen": "https://www.cronista.com/resizer/v2/5Q7Q5WL5ZRBLRCOJYKVHWFEWYY.jpg?auth=5c253af4726dd26752faf19314cdd514507a521816d66ffd8c7c4862732741b9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "El alquiler de un comercio promedia $ 1.146.657: cuánto cuesta mantenerlo en total con impuestos, servicios y seguro"
+    },
+    {
+     "id": "LN-20",
+     "titulo": "El Autódromo porteño construye un túnel de 400 metros para recibir al MotoGP en 2027",
+     "resumen": "El Gobierno de la Ciudad confirmó la construcción de una obra subterránea que atraviesa la pista por debajo del asfalto para vincular la avenida Roca con el sector de boxes, pensada para agilizar la logística de equipos con capacidad para 150.000 personas. El objetivo es alcanzar los estándares internacionales necesarios para el MotoGP en 2027 y dejar sentadas las bases para un eventual regreso de la Fórmula 1 a Buenos Aires.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/un-tunel-de-400-metros-y-lugar-para-150000-personas-asi-es-la-megaobra-subterranea-del-autodromo-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/FJLGJQP6CFFNTMBSKXMSOE3HEE.jpeg?auth=e85cd469ade3648051416d890825d8bbd9a8ab6be1d9bb6fe0b9b9d41a05d919&smart=true&width=900&height=472",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:18",
+     "autor": "",
+     "titulo_original": "Un túnel de 400 metros y lugar para 150.000 personas: así es la megaobra subterránea del Autódromo para recibir al MotoGP y la F1"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "El consumo masivo sigue en rojo: los supermercados acumulan nueve meses consecutivos de caída",
+     "resumen": "Según el Indec, las ventas en supermercados cayeron 3 por ciento interanual en septiembre y 0,9 por ciento frente a agosto en la medición desestacionalizada, mientras los autoservicios mayoristas retrocedieron 0,5 por ciento mensual aunque subieron 1 por ciento interanual. En el acumulado de los primeros nueve meses del año ambos canales muestran contracciones frente a 2025: 2,9 por ciento en supermercados y 2,5 por ciento en mayoristas. Para una empresa: la debilidad del consumo masivo es una señal de alerta adicional sobre el poder de compra antes de la temporada de fin de año.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El consumo masivo, en baja: las ventas de súpers y mayoristas cayeron y extendieron sus rachas negativas",
+       "url": "https://www.infobae.com/economia/2026/11/25/el-consumo-masivo-en-baja-las-ventas-de-supers-y-mayoristas-cayeron-y-extendieron-sus-rachas-negativas/"
+      },
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Las ventas en supermercados cayeron un 3% anual y acumulan nueve meses en baja",
+       "url": "https://www.iprofesional.com/negocios/470044-consumo-mayoristas-despegan-supermercados-caen-ventas-noviembre-2026"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/consumo-masivo-en-rojo-las-ventas-en-supermercados-bajaron-3-anual-y-los-mayoristas-cayeron-05-mensual-en-septiembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/62NBLCMWVFAXNAF3QEKNMUFHHM.jpg?auth=4f5ccb7970decdad0bf4d2a34d27aebe54b526ee90ca6e3104417a66a5993a2f&smart=true&width=900&height=575",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:08",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Consumo masivo en rojo: las ventas en supermercados bajaron 3% anual y acumulan nueve meses de caída"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Vendió su auto para abrir un local de yogur griego y hoy es furor en Palermo",
+     "resumen": "Dos hermanos de 22 y 23 años dejaron sus trabajos anteriores para abrir el local, por el que pasaron 1.200 personas en los primeros dos días. El caso se suma a una serie de emprendimientos gastronómicos chicos que ganan tracción pese a la caída del consumo masivo.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/470029-vendio-auto-para-poner-local-de-yogurt-griego-y-ahora-es-furor-en-palermo",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630555.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:54",
+     "autor": "",
+     "titulo_original": "Vendió su auto para poner un local de yogurt griego y ahora es furor en Palermo"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "LN-07",
+     "titulo": "Menos planificación y más estrategia: qué piden los ejecutivos para crecer en un escenario cambiante",
+     "resumen": "En un panel del Summit de Negocios del Futuro de La Nación, tres referentes de distintas industrias coincidieron en que la capacidad de adaptación y la incorporación de inteligencia artificial se volvieron centrales para sostener la competitividad. Los ejecutivos señalaron que la tecnología y los cambios en las reglas de juego están modificando la forma en que las empresas producen, venden y ofrecen servicios.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/negocios/el-desafio-de-innovar-sin-perder-el-foco-que-piensan-tres-ejecutivos-sobre-el-futuro-de-los-negocios-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3ZAVJHLFSZCKBPIXGK6VWTMKHQ.JPG?auth=ff7e24ff69f9af81136cc70fcb0da9627d97bb18984d953652dedcf59cd068d2&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:00",
+     "autor": "",
+     "titulo_original": "El desafío de innovar sin perder el foco: qué piensan tres ejecutivos sobre el futuro de los negocios"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "Cómo la inteligencia artificial cambió la industria farmacéutica, según Laboratorios Bagó",
+     "resumen": "Edgardo Vázquez, gerente general de Laboratorios Bagó, contó en el Summit de Negocios del Futuro que la empresa aplica inteligencia artificial en desarrollo de producto, producción, áreas comercial y administrativa, y hasta en publicidad. Sostuvo que esas herramientas permitieron optimizar los procesos de desarrollo de la compañía en los últimos dos años.",
+     "relacionadas": [
+      {
+       "id": "LN-22",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Tres industrias, un mismo desafío: cómo aprovechar los cambios tecnológicos para crecer",
+       "url": "https://www.lanacion.com.ar/economia/negocios/tres-industrias-un-mismo-desafio-como-aprovechar-los-cambios-tecnologicos-para-crecer-nid25112026/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/economia/negocios/como-la-inteligencia-artificial-cambio-la-industria-farmaceutica-y-por-que-se-mira-a-china-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/W7C6NP3SBNF4NECGVBCM3K2VFU.JPG?auth=8207a8b74eefb02ea206ffb238d6ff358aa04795d38a6757f46ff5708a4b72df&smart=true&width=900&height=626",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:40",
+     "autor": "",
+     "titulo_original": "Cómo la inteligencia artificial cambió la industria farmacéutica y por qué se mira a China"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "Al menos 30 muertos por el vuelco y el incendio de un camión cisterna en El Cairo",
+     "resumen": "El accidente ocurrió en la Ring Road, una de las principales autopistas que rodean la capital egipcia, cuando el vehículo cargado de combustible se salió de la ruta, impactó contra una barrera y se incendió. El Ministerio de Salud egipcio informó que otras 15 personas resultaron heridas.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/al-menos-30-muertos-tras-el-vuelco-y-posterior-incendio-de-un-camion-cisterna-en-una-autopista-de-el-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WA63EGD6CFEGBOCO6ZI5UZWZRY.jpg?auth=b2498c3ffbdf8eed790f9b2a5f2709c963e08fceb3412cb667ef5e587f73763b&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:04",
+     "autor": "",
+     "titulo_original": "Al menos 30 muertos tras el vuelco y posterior incendio de un camión cisterna en una autopista de El Cairo"
+    },
+    {
+     "id": "IB-22",
+     "titulo": "Los jueces recomendaron desestimar la acusación de soborno contra Netanyahu",
+     "resumen": "El Tribunal de Distrito de Jerusalén pidió a la Fiscalía israelí retirar el caso en el que el primer ministro en funciones está acusado de soborno, y propuso además revisar otro expediente y buscar un acuerdo para cerrar un tercero. Netanyahu exigió el fin inmediato del proceso y calificó las causas de fabricadas, mientras su rival Gadi Eisenkot negocia un gobierno alternativo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/25/los-jueces-recomendaron-a-la-fiscalia-israeli-desestimar-la-acusacion-de-soborno-contra-netanyahu/",
+     "imagen": "https://www.infobae.com/resizer/v2/23BZQEDNIBBDBBBKD3YRSLXT2Y.JPG?auth=4650888592b69d82c2c1c58fd201db118c2330bed64507df248adbfcd3f2a1a9&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:10",
+     "autor": "",
+     "titulo_original": "Los jueces recomendaron a la Fiscalía israelí desestimar la acusación de soborno contra Netanyahu"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "El secretario general de la OTAN respaldó la ofensiva de Trump para presionar a Putin",
+     "resumen": "Mark Rutte sostuvo que el presidente estadounidense busca comprobar si el líder ruso está dispuesto a negociar el fin de la guerra en Ucrania, y defendió el tono cordial que Trump mostró hacia Putin durante su reciente visita a China. La OTAN continúa proporcionando información estratégica y equipamiento militar a Kiev, financiado por países europeos y Canadá.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/25/rutte-respaldo-la-ofensiva-de-trump-para-presionar-a-putin-y-terminar-la-guerra-en-ucrania-lo-esta-poniendo-a-prueba/",
+     "imagen": "https://www.infobae.com/resizer/v2/TUKORAXHKZFKVO534XTFBXY2FE.JPG?auth=8bef6214d02059b2c075a7a54752c0da8556d28e9d203b05822016ecc368d240&smart=true&width=900&height=599",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:09",
+     "autor": "",
+     "titulo_original": "Rutte respaldó la ofensiva de Trump para presionar a Putin y terminar la guerra en Ucrania: “Lo está poniendo a prueba\""
+    },
+    {
+     "id": "IB-08",
+     "titulo": "España llega a la recta final de la campaña antes de las elecciones del 29 de noviembre",
+     "resumen": "A cuatro días de los comicios, las últimas encuestas publicadas antes del cierre del plazo legal ubicaban al PP en cabeza con una eventual mayoría junto a Vox, mientras el barómetro del CIS daba una ventaja de casi diez puntos al PSOE. Feijóo y Sánchez protagonizan además entrevistas por separado con el youtuber Plex el mismo día en que Sánchez fue entrevistado en la televisión pública.",
+     "relacionadas": [
+      {
+       "id": "CL-20",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Cuándo son las elecciones en España 2026: fechas y todo lo que hay que saber para votar",
+       "url": "https://www.clarin.com/mundo/elecciones-espana-2026-fechas-saber-votar_0_n433lf32cu.html"
+      }
+     ],
+     "url": "https://www.infobae.com/espana/2026/11/25/elecciones-generales-29-n-en-directo-recta-final-de-la-campana-electoral-y-ultima-hora-de-los-candidatos/",
+     "imagen": "https://www.infobae.com/resizer/v2/QDI5V2OI4NFABOHL7EFHXPMUB4.png?auth=e2b03e7979fd70eb399e2db67eed40c929ee45e79ffb3a00d555761d424f2f94&smart=true&width=900&height=500",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "18:06",
+     "autor": "Fede Sáenz, Andrea de Lucas",
+     "titulo_original": "Elecciones generales 29-N, en directo: Feijóo y Sánchez protagonizan una entrevista personal con el youtuber Plex días antes de las elecciones"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Australia endureció el control sobre las plataformas digitales con multas de hasta 5% de sus ingresos",
+     "resumen": "El Parlamento aprobó por 97 votos contra 43 una ley que obliga a plataformas, videojuegos, aplicaciones y chatbots de inteligencia artificial a detectar y reducir riesgos antes de que afecten a los usuarios, bajo el nombre de Ley de Deber de Diligencia Digital. La norma habilita además nuevas vías para que los usuarios inicien acciones judiciales contra las empresas.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/25/multas-millonarias-y-responsabilidad-judicial-australia-endurece-el-control-sobre-las-plataformas-digitales/",
+     "imagen": "https://www.infobae.com/resizer/v2/2HLGPWNVMRCKRKDRPGETMMSRZE.png?auth=0e009108272b0f657795ed3a550f6ce3af9687249a2be56ee93c0833a6f19e58&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:31",
+     "autor": "Faustino Cuomo",
+     "titulo_original": "Multas millonarias y responsabilidad judicial: Australia endurece el control sobre las plataformas digitales"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "El acuerdo entre Australia y las Islas Salomón supone un revés para China en el Pacífico",
+     "resumen": "Le Grand Continent señala que el tratado firmado el 25 de noviembre compromete a las Islas Salomón a no autorizar bases militares extranjeras en su territorio, lo que frena el avance de China en la región tras años de vínculos crecientes con Honiara en materia de seguridad. A cambio, Canberra aportará unos 450 millones de euros en diez años para educación, energías renovables e infraestructura.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/25/acuerdo-entre-australia-e-islas-salomon-un-reves-para-pekin/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "17:09",
+     "autor": "Marin Saillofest",
+     "titulo_original": "El acuerdo firmado entre Australia y las Islas Salomón supone un revés para Pekín"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent analiza a Sudán como laboratorio del mundo posterior al orden liberal",
+     "resumen": "La revista francesa revisa cómo Sudán, escenario repetido de intervenciones multilaterales y de crisis humanitarias con cientos de miles de muertos desde los años ochenta, funciona como barómetro de la salud del orden mundial liberal y de las nuevas formas de poder político que emergen en su ausencia.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/25/sudan-microcosmos-del-orden-mundial-liberal/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "13:58",
+     "autor": "Louis Puel",
+     "titulo_original": "En Sudán, el mundo que viene después del orden liberal ya ha comenzado"
+    },
+    {
+     "id": "GC-03",
+     "titulo": "La brecha de inversión en tecnología entre Europa y Estados Unidos sigue en aumento",
+     "resumen": "Según el informe \"State of European Tech 2026\" de Atomico, las start-ups tecnológicas europeas recaudarán unos 81.000 millones de dólares este año, un 62 por ciento más que en 2025 y el segundo mejor registro histórico después de 2021. Sin embargo, las start-ups estadounidenses ya captaron 450.000 millones de dólares en los primeros nueve meses del año, siete veces más que las europeas, lo que profundiza la brecha entre ambos ecosistemas.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/25/brecha-inversion-en-start-ups-tecnologicas-se-abre-entre-europe-y-eua/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:33",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La brecha en la inversión en start-ups tecnológicas entre Europa y Estados Unidos se está ampliando"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-01",
+     "titulo": "Champions League: Atlético de Madrid, Liverpool y Bayern ganaban en la quinta fecha de la fase de liga",
+     "resumen": "En la noche de la quinta fecha, el Atlético de Madrid vencía 2-0 a Viking con el regreso al gol de Julián Álvarez, mientras Roma igualaba 1-1 ante PSG gracias a una asistencia de Matías Soulé y Manchester United perdía 1-0 ante Sporting de Lisboa en el debut europeo de Mauricio Pochettino. Liverpool y Bayern Múnich también ganaban sus partidos, mientras Inter-Stuttgart y Shakhtar-Fenerbahçe estaban sin goles.",
+     "relacionadas": [
+      {
+       "id": "IB-02",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El golazo de tiro libre de Julián Álvarez para el Atlético de Madrid en la Champions League: el detalle que ayudó al árbitro para validarlo",
+       "url": "https://www.infobae.com/deportes/2026/11/25/el-golazo-de-tiro-libre-de-julian-alvarez-para-el-atletico-de-madrid-en-la-champions-league-el-detalle-que-ayudo-al-arbitro-para-validarlo/"
+      },
+      {
+       "id": "IB-05",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Sporting Lisboa vs. Manchester United - EN VIVO: minuto a minuto del partido de Luis Suárez en la Champions League",
+       "url": "https://www.infobae.com/colombia/deportes/2026/11/25/sporting-lisboa-vs-manchester-united-en-vivo-minuto-a-minuto-del-partido-de-luis-suarez-en-la-champions-league/"
+      },
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Sporting Lisboa vs Manchester United, por la Champions League, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+       "url": "https://www.clarin.com/deportes/sporting-lisboa-vs-manchester-united-champions-league-vivo-hora-juegan-formaciones-ver-partido_0_RrVgzlQhyw.html"
+      },
+      {
+       "id": "CL-16",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "PSG vs Roma, por la Champions League, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+       "url": "https://www.clarin.com/deportes/psg-vs-roma-champions-league-vivo-hora-juegan-formaciones-ver-partido_0_Y2nEPr2nC3.html"
+      },
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Atlético de Madrid vs Viking, por la Champions League, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+       "url": "https://www.clarin.com/deportes/atletico-madrid-vs-viking-champions-league-vivo-hora-juegan-formaciones-ver-partido_0_biw9C99DY9.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/TQJJTRBVLBEW5LXO4P3UUH4HB4.JPG?auth=b538b45d89373e136221d92cb3e29f57eb0525ea7b96db5802f8bca3e387df88&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "18:06",
+     "autor": "",
+     "titulo_original": "Champions League, EN VIVO: el minuto a minuto de los partidos"
+    },
+    {
+     "id": "LN-13",
+     "titulo": "Se confirmó la fecha y la sede de la final de la Copa Argentina entre Platense y Boca",
+     "resumen": "El partido se jugará el 2 de diciembre en el Estadio Único Madre de Ciudades de Santiago del Estero, tras algunos días de incertidumbre sobre una posible postergación. A Boca le darán aproximadamente 30.000 entradas y a Platense unas 10.000, que se pondrán a la venta en los próximos días.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Todo confirmado: oficializaron la sede y horario para la final de la Copa Argentina entre Boca y Platense",
+       "url": "https://www.ambito.com/deportes/todo-confirmado-oficializaron-la-sede-y-horario-la-final-la-copa-argentina-boca-y-platense-n6349315"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/se-definio-el-fecha-y-la-sede-de-la-final-de-la-copa-argentina-entre-platense-y-boca-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/4TVFY6LXJFCE3ORTV45GZFW3I4.JPG?auth=a0880d7045197872892a24d137e4936f2263c6ab5260bbe100654d62a3ef8827&smart=true&width=900&height=675",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:51",
+     "autor": "",
+     "titulo_original": "Se definió la fecha y la sede de la final de la Copa Argentina entre Platense y Boca"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "La Selección Sub 17 remontó dos goles, empató con Dinamarca y avanzó a los 16avos del Mundial",
+     "resumen": "El equipo de Diego Placente estaba momentáneamente eliminado del Grupo C en Qatar, pero revirtió la desventaja en apenas once minutos con goles de Giovanni Baroni, Juan Cruz Policella y Alan Alcaraz, y terminó igualando 3-3. El resultado le permitió clasificarse a los 16avos de final junto a Australia.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Así quedó la tabla de posiciones del grupo de la selección argentina Sub 17 en el Mundial 2026, tras la fecha 3",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-tabla-de-posiciones-del-grupo-de-la-seleccion-argentina-sub-17-en-el-mundial-2026-tras-nid25112026/"
+      },
+      {
+       "id": "AM-13",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Clasificación agónica: la Selección argentina empató contra Dinamarca y avanzó a los dieciseisavos del Mundial sub 17",
+       "url": "https://www.ambito.com/deportes/clasificacion-agonica-la-seleccion-argentina-empato-contra-dinamarca-y-avanzo-los-dieciseisavos-del-mundial-sub-17-n6349292"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-dinamarca-en-el-mundial-sub-17-en-vivo-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/UI7MR4W72BEYFIO2RUHL4KHWOE.JPG?auth=156e1b373e3de9da47c7765fdde4839d228bbcb981bde809824171209af95b8a&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "14:49",
+     "autor": "Augusto Sanz",
+     "titulo_original": "Argentina remontó una desventaja de dos goles, empató 3-3 con Dinamarca y se clasificó a los 16avos del Mundial Sub 17"
+    },
+    {
+     "id": "CL-24",
+     "titulo": "La Conmebol homenajeó con inteligencia artificial a glorias de Estudiantes antes de la final de la Libertadores",
+     "resumen": "El video, elaborado con inteligencia artificial, recordó a figuras como Carlos Bilardo, Zubeldía, Juan Sebastián Verón y Alejandro Sabella en la previa de la final del sábado entre Estudiantes y Palmeiras.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/deportes/bilardo-zubeldia-veron-sabella-emotivo-video-conmebol-glorias-estudiantes-previa-final-copa-libertadores_0_E6LJkKTNoj.html",
+     "imagen": "https://www.clarin.com/img/2026/11/25/5p5r6QwBr_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "13:41",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "De Bilardo y Zubeldía, a Verón y Sabella: el emotivo video de la Conmebol con glorias de Estudiantes en la previa de la final de la Copa Libertadores"
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Carlos Tevez jugará su despedida el 20 de diciembre en La Bombonera",
+     "resumen": "El último partido del Apache reunirá a figuras del fútbol mundial en el estadio de Boca. Ya se conocen los precios de las entradas y cómo comprarlas.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/adios-apache-la-despedida-carlos-tevez-precios-la-entradas-y-como-comprarlas-n6349268",
+     "imagen": "https://media.ambito.com/p/649b049dff9f40269750a6f598d05417/adjuntos/239/imagenes/043/796/0043796622/1200x675/1835x883:1855x903/tevez.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "15:15",
+     "autor": "",
+     "titulo_original": "Adiós Apache, la despedida de Carlos Tevez: precios de la entradas y cómo comprarlas"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "Un tenista argentino de 22 años denunció amenazas de muerte de un apostador",
+     "resumen": "Juan Manuel La Serna, oriundo de Catamarca, publicó en sus redes sociales capturas de pantalla con mensajes intimidatorios contra él y su familia, enviados por un usuario que perdió dinero apostando al resultado de uno de sus partidos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/25/una-promesa-del-tenis-argentino-fue-amenazado-por-un-apostador-el-escalofriante-video/",
+     "imagen": "https://www.infobae.com/resizer/v2/NOHFEVEP2BECVI47OL4AMZQOVY.JPG?auth=4037da744fb7f532b3371ee050bcf8b1955e53e9f0c4528d19a95d86330046f5&smart=true&width=900&height=529",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "16:42",
+     "autor": "",
+     "titulo_original": "Una promesa del tenis argentino fue amenazado por un apostador: el escalofriante video"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Fórmula 1: Franco Colapinto buscará puntos en el Gran Premio de Catar con Alpine",
+     "resumen": "Colapinto disputará la penúltima fecha de la temporada en el circuito de Lusail, mientras Kimi Antonelli llega como campeón mundial y Mercedes ya aseguró el título de constructores. Verstappen, Russell y Hamilton mantienen abierta la pelea por el subcampeonato.",
+     "relacionadas": [
+      {
+       "id": "CL-12",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Belasteguin habló del consejo sexual que le dio a Colapinto y reveló la intimidad de su vínculo: \"En casa es como un cuarto hijo\"",
+       "url": "https://www.clarin.com/deportes/belasteguin-hablo-consejo-sexual-dio-colapinto-revelo-intimidad-vinculo-casa-cuarto-hijo_0_gembYR9811.html"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/f1-gp-catar-horarios-entrenamiento-clasificacion-ver-formula-1_0_31TaReegK3.html",
+     "imagen": "https://www.clarin.com/img/2026/11/16/laB1--V_B_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "15:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "F1 GP de Catar: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-10",
+     "titulo": "Retiro Abierto: así es la noche en que el barrio porteño abre sus galerías, bares y restaurantes",
+     "resumen": "La propuesta se realiza el jueves 26 de noviembre de 18 a 22, con entrada libre y gratuita, cuatro circuitos guiados de arquitectura, gastronomía, arte y literatura, y shows de Leo García, Cata Spinetta y Ekathé. La jornada, impulsada por el Ministerio de Desarrollo Económico porteño junto con la Asociación Vecinal de Retiro, cierra con un recital de Virus en Plaza San Martín.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/que-sale/virus-toca-gratis-en-plaza-san-martin-cuando-y-como-es-la-noche-en-que-retiro-abre-sus-galerias-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/LKGZE324VFEG5KRI454ZHOHJ5Q.jpg?auth=4945612e7f6c6557b46810d6443690813fe007b7bb9d23994cf83e2d43cce544&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "17:59",
+     "autor": "",
+     "titulo_original": "Retiro Abierto: cuándo y cómo es la noche en que el barrio abre sus galerías, bares y restaurantes"
+    },
+    {
+     "id": "IP-25",
+     "titulo": "Cuánto sale viajar en barco a Colonia, Montevideo y Punta del Este este fin de semana largo",
+     "resumen": "Antes del último fin de semana largo previo a las Fiestas, hay distintas alternativas para cruzar a Uruguay, con servicios directos en barco y combinaciones de barco y micro hacia los tres destinos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/turismo/470007-ferry-uruguay-cuanto-cuesta-cruzar-como-gastar-menos-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630537.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "13:26",
+     "autor": "",
+     "titulo_original": "Cuánto sale viajar en barco a Colonia, Montevideo y Punta del Este el fin de semana largo"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-12",
+     "titulo": "El Niño: un nuevo pico de creciente en los ríos del Litoral eleva la alerta en la región",
+     "resumen": "Según Prefectura Naval, los ríos Iguazú, Paraná y Uruguay elevaron su nivel por las intensas lluvias en el sur de Brasil y el norte argentino; el Iguazú en Andresito pasó de 2,7 a 4,8 metros en un día. La Bolsa de Cereales de Buenos Aires había anticipado para mediados de noviembre tormentas con acumulados de más de 100 milímetros en el sur del NOA, dentro del fenómeno bautizado Súper Niño 2026.",
+     "relacionadas": [
+      {
+       "id": "LN-11",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Súper Niño 2026 en Argentina: qué se sabe del fenómeno que mantiene en vilo al país y qué se espera para diciembre",
+       "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-que-se-sabe-del-fenomeno-que-mantiene-en-vilo-al-pais-y-que-se-espera-nid25112026/"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/11/25/el-nino-comenzo-un-nuevo-pico-de-creciente-producto-de-las-lluvias-en-el-sur-de-brasil-y-crece-la-alerta-en-el-litoral/",
+     "imagen": "https://www.infobae.com/resizer/v2/Q4LQXBK3IFB6NORCVV6S4WALSA.jpg?auth=9cba69a4775d5e99b7df057cb62f58ad81e0ceaab84026ba6812bde80908a19e&smart=true&width=900&height=454",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "17:30",
+     "autor": "Juan A. Bracco",
+     "titulo_original": "El Niño: comenzó un nuevo pico de creciente producto de las lluvias en el sur de Brasil y crece la alerta en el Litoral"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buenas tardes. Este es el resumen de la tarde del miércoles veinticinco de noviembre. La city tuvo una jornada de nervios. El dólar blue llegó a operar a mil setecientos treinta pesos, un máximo histórico, y cerró en mil setecientos diez, mientras el mayorista marcó un nuevo récord en mil seiscientos cuatro pesos para la venta. El oro cotiza en torno a los tres mil seiscientos dólares la onza y el riesgo país, después de superar los mil cien puntos el martes, recortó la suba y cerró en mil sesenta y ocho unidades, aunque la deuda argentina sigue acumulando pérdidas de entre once y catorce por ciento en el último mes. En política, el jefe de Gabinete, Diego Santilli, brindó su primer informe de gestión ante el Senado y defendió el rumbo económico del Gobierno con la frase No hubo un estallido, hubo crecimiento. Destacó que el equilibrio fiscal se sostuvo durante casi treinta y cinco meses y que la inflación mayorista bajó desde el doscientos setenta por ciento. En esa misma presentación, el Gobierno reconoció que no hubo los veinte mil terroristas deportados que había denunciado el presidente Milei en septiembre: de más de cuarenta y tres mil incidentes migratorios registrados, ninguno fue por terrorismo. El propio Milei canceló su presencia en un acto en Corrientes por la tensión de los mercados y viaja esta noche a Paraguay, donde mañana se reunirá por primera vez con el nuevo presidente, Pedro Alliana, que asumió tras la destitución de Santiago Peña. También hubo novedades judiciales: el periodista Horacio Verbitsky fue indagado por el caso Vacunatorio VIP y repitió que no sabía que vacunarse de manera anticipada era ilegal, la diputada Marcela Pagano impugnó ante la Corte Suprema la designación de la senadora Nadia Márquez en el Consejo de la Magistratura, y los rectores de las universidades nacionales advirtieron al Congreso que, si no cambia el Presupuesto dos mil veintisiete, no podrán funcionar el año que viene. En economía y mercados, además del movimiento cambiario, el ministro Luis Caputo detalló cómo pagará el vencimiento de enero, que supera los cuatro mil millones de dólares: el Tesoro comprará al Banco Central mil ochocientos millones de dólares con pesos del superávit primario, sumará fondos del Fondo Monetario Internacional y activó cinco mil millones de dólares del swap con China. Wall Street, por su parte, atenuó las pérdidas que había sufrido por el derrumbe de las acciones tecnológicas, y las acciones argentinas cerraron con una suba de seis décimas por ciento. Además, el Gobierno confirmó que el fondo Burford le reclama catorce mil cuatrocientos millones de dólares a la Argentina por YPF, en una nueva demanda ante el tribunal que depende del Banco Mundial. En el frente empresario, Los Grobo pidió autorización judicial para vender un molino harinero y una planta de acopio por cinco millones y medio de dólares, con el objetivo de pagarle a los siete bancos con los que tiene una deuda sindicada. Desde Stellantis, un directivo regional advirtió que si la empresa sigue perdiendo mercado frente a la competencia china, también va a traer vehículos chinos, y adelantó que ya trabajan para ampliar la presencia de la marca LeapMotor en Sudamérica. La fintech Tether invirtió catorce millones y medio de dólares en la billetera argentina Lemon, que busca dejar de ser solo una plataforma de criptomonedas. Y un consorcio chino presentó la oferta más barata para construir la línea F del subte porteño, unos cuatrocientos mil millones de pesos por debajo de la propuesta del grupo liderado por Roggio. En impuestos y normativa, el tercer anticipo de Ganancias y Bienes Personales vence entre el catorce y el dieciséis de diciembre según la terminación del CUIT, y es el primero desde el cual se puede pedir una reducción si se estima pagar menos impuesto que el año pasado. Un fallo judicial de La Plata declaró inconstitucional parte de la reforma laboral que permitía a las pymes pagar indemnizaciones en doce cuotas, lo que generó alarma entre las empresas. Y entró en régimen la nueva ley de propiedad privada, que permite tramitar los desalojos por falta de pago mediante un juicio sumarísimo, con una intimación previa de solo diez días. En consumo, construcción y retail, el crédito hipotecario sigue golpeado: la venta de inmuebles con esa financiación cayó casi veinte por ciento en octubre, según el Colegio de Escribanos porteño, que también registró una baja interanual de tres coma cuatro por ciento en el total de escrituras. Abrir un comercio en la Ciudad de Buenos Aires cuesta en promedio un millón ciento cuarenta y seis mil pesos de alquiler mensual, sin contar garantía, depósito ni acondicionamiento, con una vacancia de locales del diez coma siete por ciento. El consumo masivo tampoco repunta: los supermercados acumulan nueve meses consecutivos de caída interanual, según el INDEC. Y el Autódromo porteño comenzó a construir un túnel de cuatrocientos metros para recibir al MotoGP en dos mil veintisiete. En management, un panel del Summit de Negocios del Futuro de La Nación coincidió en que la capacidad de adaptación y la inteligencia artificial son claves para sostener la competitividad empresarial, y el gerente general de Laboratorios Bagó contó cómo esa tecnología ya se aplica en el desarrollo de productos y en el área comercial de la compañía. En el mundo, al menos treinta personas murieron en El Cairo cuando un camión cisterna volcó y se incendió en una autopista que rodea la capital egipcia. En Israel, un tribunal de Jerusalén recomendó a la fiscalía desestimar la acusación de soborno contra Benjamín Netanyahu. El secretario general de la OTAN, Mark Rutte, respaldó la estrategia de Donald Trump para presionar a Vladimir Putin a negociar el fin de la guerra en Ucrania. Y España llega a cuatro días de sus elecciones generales, con el Partido Popular adelante en las últimas encuestas publicadas y el barómetro oficial del CIS dando ventaja al PSOE. Le Grand Continent analiza tres frentes de la geopolítica europea: el acuerdo entre Australia y las Islas Salomón, que frena el avance militar de China en el Pacífico; a Sudán como laboratorio de lo que viene después del orden liberal; y la creciente brecha de inversión en tecnología entre Europa y Estados Unidos, que ya es siete veces mayor a favor del país norteamericano. En deportes, la Champions League tuvo una noche cargada: el Atlético de Madrid le ganaba a Viking con un gol de Julián Álvarez, la Roma empataba con el Paris Saint Germain, y Manchester United perdía en el debut europeo de Mauricio Pochettino frente al Sporting de Lisboa. Se confirmó que la final de la Copa Argentina entre Platense y Boca se jugará el dos de diciembre en Santiago del Estero, y la Selección Sub diecisiete remontó una desventaja de dos goles para empatar con Dinamarca y clasificarse a los dieciseisavos del Mundial. Carlos Tevez jugará su despedida el veinte de diciembre en la Bombonera, y un tenista argentino de veintidós años, Juan Manuel La Serna, denunció haber recibido amenazas de muerte de un apostador. En Fórmula uno, Franco Colapinto buscará sumar puntos con Alpine este fin de semana en el Gran Premio de Catar, la penúltima fecha de la temporada. Para cerrar, si buscan un plan para mañana a la noche, el barrio porteño de Retiro abre sus galerías, bares y restaurantes con entrada libre y gratuita, y cierra con un recital de Virus en la Plaza San Martín. Eso fue todo por ahora. La próxima edición sale mañana a las siete.",
+ "slug": "2026-11-25-tarde",
+ "generado_ba": "25/11/2026 21:17"
+}
