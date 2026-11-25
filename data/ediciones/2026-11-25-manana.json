@@ -1,0 +1,934 @@
+{
+ "fecha": "2026-11-25",
+ "edicion": "manana",
+ "titulo": "Recesión técnica, suba del dólar y crisis en Paraguay marcan la mañana",
+ "apertura": "El Indec confirmó que la economía entró en recesión técnica, mientras el dólar financiero rozó los 1.800 pesos y el riesgo país superó los 1.090 puntos pese a la intervención oficial con cerca de 2.000 millones de dólares. En el plano político, la UBA canceló el homenaje al líder del ERP Mario Santucho, el Gobierno confirmó extraordinarias para diciembre con el Presupuesto 2027 en el centro, y Milei viaja a Paraguay en medio de la causa contra el expresidente Santiago Peña. En el resto del día se destacan la crecida del río Paraná cerca de Rosario, la clasificación de la Selección Sub 17 ante Dinamarca y la previa de Colapinto para el Gran Premio de Qatar.",
+ "claves": [
+  "El Indec confirmó que la economía entró en recesión técnica tras dos trimestres consecutivos de caída, aunque septiembre mostró una recuperación del 1,1 por ciento.",
+  "El dólar oficial llegó a 1.615 pesos, el contado con liquidación rozó los 1.800 pesos y el riesgo país superó los 1.090 puntos.",
+  "Caputo intervino con cerca de 2.000 millones de dólares para contener al dólar, mientras el Tesoro ofrecerá ocho instrumentos en la licitación del jueves.",
+  "El Gobierno convocará a sesiones extraordinarias en diciembre para tratar el Presupuesto 2027, la reforma electoral y la reforma del BCRA.",
+  "La UBA dio marcha atrás con el homenaje al líder del ERP Mario Santucho tras la polémica.",
+  "Milei viaja a Paraguay para reunirse con el nuevo presidente Pedro Alliana, mientras avanza la causa contra Santiago Peña por lavado y cohecho.",
+  "ARCA reglamentó un régimen de reducción de multas y amplió el plan de pagos para mipymes.",
+  "Franco Colapinto analizó los desafíos del circuito de Qatar antes del próximo Gran Premio de Fórmula 1."
+ ],
+ "cifras": [
+  {
+   "nombre": "Dólar CCL (contado con liquidación)",
+   "valor": "$ 1.782",
+   "variacion": "+3,5%",
+   "fuente": "CR-03"
+  },
+  {
+   "nombre": "Dólar tarjeta (turismo y servicios digitales)",
+   "valor": "$ 2.099,50",
+   "fuente": "CR-05"
+  },
+  {
+   "nombre": "Facturas de Crédito Electrónica (financiamiento pyme, octubre)",
+   "valor": "$ 64.476 millones",
+   "variacion": "+39% interanual",
+   "fuente": "AM-08"
+  },
+  {
+   "nombre": "Índice Novillo, Mercado Agroganadero de Cañuelas",
+   "valor": "$ 4.091,35/kg",
+   "variacion": "+3,6%",
+   "fuente": "LN-24"
+  },
+  {
+   "nombre": "Pasajeros del sistema aerocomercial argentino (octubre)",
+   "valor": "4.311.609",
+   "variacion": "+11% interanual",
+   "fuente": "CR-19"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "LN-16",
+     "titulo": "La UBA dio marcha atrás con el homenaje a Mario Santucho",
+     "resumen": "El Consejo Directivo de la Facultad de Ciencias Sociales de la UBA canceló el acto en homenaje al exlíder del ERP Mario Santucho, previsto para el 10 de diciembre, tras la polémica que generó en la opinión pública. La decisión revirtió el aval que había dado la decana Ana Arias a la iniciativa impulsada por la agrupación La Mella. En el homenaje original, el consejero Santiago Martínez había sido el único voto en contra de la cancelación.",
+     "relacionadas": [
+      {
+       "id": "CL-22",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Tras el escándalo por el homenaje fallido a Santucho, la Facultad de Sociales de la UBA convocó una \"jornada de debate y reflexión\" sobre los años 60 y 70",
+       "url": "https://www.clarin.com/politica/escandalo-homenaje-fallido-santucho-facultad-sociales-uba-convoco-jornada-debate-reflexion-anos-60-70_0_CypZ72mbD6.html"
+      },
+      {
+       "id": "CL-14",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Homenaje a Santucho en la UBA: qué dijo el dirigente de Grabois que fue el único en votar contra la cancelación",
+       "url": "https://www.clarin.com/politica/homenaje-santucho-uba-dijo-dirigente-grabois-unico-votar-cancelacion_0_U7eHNsOGuy.html"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/politica/homenaje-a-santucho-que-dice-la-resolucion-de-la-facultad-de-sociales-de-la-uba-que-da-marcha-atras-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/N5PUWEJVJJHZVD7XWX3542H7WE.JPG?auth=da81db30050b95834dec68db18b4c397f24749cc663bd745b5b98c74ec8cc3f8&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "21:02",
+     "autor": "Lucía Pereyra",
+     "titulo_original": "Homenaje a Santucho: qué dice la resolución de la Facultad de Sociales de la UBA que da marcha atrás con el acto y la escultura"
+    },
+    {
+     "id": "AM-21",
+     "titulo": "El Gobierno convocará a extraordinarias en diciembre",
+     "resumen": "La Casa Rosada formalizará el viernes la convocatoria a sesiones extraordinarias para tratar el Presupuesto 2027, la reforma electoral, el llamado Súper RIGI y el acuerdo comercial con Estados Unidos. Antes, el oficialismo buscará esta semana el quórum para una sesión especial en Diputados con el Presupuesto, la reforma del BCRA y el acuerdo Mercosur-EFTA.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El oficialismo convocó a sesión especial en Diputados: Presupuesto 2027, la reforma del BCRA y el acuerdo Mercosur-EFTA",
+       "url": "https://www.ambito.com/politica/el-oficialismo-convoco-sesion-especial-diputados-presupuesto-2027-la-reforma-del-bcra-y-el-acuerdo-mercosur-efta-n6348945"
+      }
+     ],
+     "url": "https://www.ambito.com/politica/el-gobierno-convocara-sesiones-extraordinarias-diciembre-tratar-el-presupuesto-y-la-reforma-electoral-n6348928",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:47",
+     "autor": "",
+     "titulo_original": "El Gobierno convocará a sesiones extraordinarias en diciembre para tratar el Presupuesto y la reforma electoral"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "El PJ debate cómo elegir candidato a presidente sin las PASO",
+     "resumen": "Mientras una parte del peronismo asume que el Gobierno logrará suspender las PASO antes de fin de año, otro sector considera prematuro dar por perdida esa pelea legislativa. Dentro del PJ se analizan en paralelo cuatro variantes para definir cómo se elegirá al candidato presidencial sin esa herramienta electoral.",
+     "url": "https://www.infobae.com/politica/2026/11/25/el-pj-todavia-resiste-la-caida-de-las-paso-pero-busca-consenso-sobre-como-elegir-al-candidato-a-presidente/",
+     "imagen": "https://www.infobae.com/resizer/v2/KHA2J4HHJVBNFEQK6GQEHXT4AU.jpg?auth=aa2765ada16a2a99b1260f0f987c1344bf43374d47e850e4f515d3a649d25d71&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:29",
+     "autor": "Joaquín Múgica Díaz",
+     "titulo_original": "El PJ todavía resiste la caída de las PASO, pero busca consenso sobre cómo elegir al candidato a presidente",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-23",
+     "titulo": "Milei viaja a Paraguay para reunirse con el nuevo presidente",
+     "resumen": "Javier Milei viaja este miércoles a Paraguay para su primer encuentro oficial con Pedro Alliana, quien asumió tras la destitución de Santiago Peña. La agenda presidencial incluye además una visita a Corrientes y la cumbre del Mercosur en Montevideo.",
+     "url": "https://www.ambito.com/politica/javier-milei-viaja-paraguay-reunirse-el-nuevo-presidente-medio-la-crisis-n6348915",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "19:25",
+     "autor": "",
+     "titulo_original": "Javier Milei viaja a Paraguay para reunirse con el nuevo presidente en medio de la crisis política",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-12",
+     "titulo": "Casación confirmó a los jueces de la causa Libra",
+     "resumen": "La Cámara de Casación rechazó los pedidos de apartamiento contra los jueces que investigan la causa por la criptomoneda Libra y defendió su imparcialidad. El tribunal consideró que no existen motivos legales para removerlos del expediente.",
+     "url": "https://www.ambito.com/politica/casacion-confirmo-los-jueces-la-causa-libra-y-rechazo-los-cuestionamientos-n6348962",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:10",
+     "autor": "Vanesa Petrillo",
+     "titulo_original": "Casación confirmó a los jueces de la causa $LIBRA y rechazó los cuestionamientos",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-19",
+     "titulo": "El operador de la Suizo Argentina negó haber direccionado compras en la causa ANDIS",
+     "resumen": "Pablo Atchabahian amplió su declaración indagatoria en la causa ANDIS y negó haber direccionado compras de medicamentos o frenado pagos. La fiscalía, sin embargo, señaló contradicciones en sus dichos durante la instrucción.",
+     "url": "https://www.ambito.com/politica/causa-andis-el-operador-la-suizo-argentina-nego-haber-direccionado-compras-medicamentos-y-frenado-pagos-n6348943",
+     "imagen": "https://media.ambito.com/p/ec7d120bbae2aa51e71d456407e098d8/adjuntos/239/imagenes/043/794/0043794320/1200x675/smart/atchabahian-el-que-esta-lentes-junto-su-abogado-comodoro-py.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:02",
+     "autor": "",
+     "titulo_original": "Causa ANDIS: el operador de la Suizo Argentina negó haber direccionado compras de medicamentos y frenado pagos",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-20",
+     "titulo": "Ludopatía: el Senado busca un acuerdo para que la ley no caiga",
+     "resumen": "Un plenario de comisiones del Senado discute este miércoles cambios al proyecto para combatir la ludopatía, aprobado por Diputados en 2024, antes de que pierda estado parlamentario. Los aliados del oficialismo piden como condición que el Gobierno garantice incluir el tema en las extraordinarias de diciembre si la ley vuelve a Diputados.",
+     "relacionadas": [
+      {
+       "id": "CR-20",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Ludopatía: el Senado prepara cambios para evitar que la ley se caiga: qué puntos se analizan",
+       "url": "https://www.cronista.com/economia-politica/ludopatia-el-senado-prepara-cambios-para-evitar-que-la-ley-se-caiga-que-puntos-se-analizan/"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/25/ludopatia-antes-del-debate-los-aliados-piden-un-compromiso-del-gobierno-para-que-haya-ley-antes-de-2027/",
+     "imagen": "https://www.infobae.com/resizer/v2/NVAY6W6CEFG63KZC6DSDHNHUBA.jpg?auth=868ffd864cdb3a028559587a01b2d5755af25ed4f1da6325bc409cc7c4111d92&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "03:28",
+     "autor": "Mariano Casal",
+     "titulo_original": "Ludopatía: antes del debate, los aliados piden un compromiso del Gobierno para que haya ley antes de 2027"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "La economía entró en recesión técnica y el mercado busca el motor de la recuperación",
+     "resumen": "El Indec confirmó dos trimestres consecutivos de caída de la actividad, con una contracción del 1,8% en el tercer trimestre explicada sobre todo por un julio muy flojo. Septiembre mostró una recuperación del 1,1% y agosto otro 0,4%, lo que llevó a funcionarios como Federico Furiase a relativizar el diagnóstico de recesión. Las consultoras esperan un cuarto trimestre positivo, aunque con un crecimiento anual limitado para 2026, mientras la oposición acusó al Gobierno de no querer aceptar la caída del consumo.",
+     "relacionadas": [
+      {
+       "id": "LN-15",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Federico Furiase relativizó la caída trimestral de la economía y negó una recesión",
+       "url": "https://www.lanacion.com.ar/lnmas/furiase-relativizo-la-caida-trimestral-de-la-economia-y-nego-una-recesion-nid24112026/"
+      },
+      {
+       "id": "LN-17",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La oposición cargó contra el Gobierno por la recesión técnica de la economía: “No quieren aceptar lo obvio”",
+       "url": "https://www.lanacion.com.ar/politica/la-oposicion-cargo-contra-el-gobierno-por-la-recesion-tecnica-de-la-economia-no-quieren-aceptar-lo-nid24112026/"
+      },
+      {
+       "id": "IB-25",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "La recesión sería de corta duración, pero tampoco hay garantías de un repunte sostenido",
+       "url": "https://www.infobae.com/economia/2026/11/25/la-recesion-seria-de-corta-duracion-pero-tampoco-hay-garantias-de-un-repunte-sostenido/"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Economía en recesión: qué anticipan los datos de octubre y cómo cerraría el año",
+       "url": "https://www.infobae.com/economia/2026/11/25/economia-en-recesion-que-anticipan-los-datos-de-octubre-y-como-cerraria-el-ano/"
+      },
+      {
+       "id": "AM-10",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La economía en recesión: cuánto tiempo puede durar y qué hay detrás de la caída de la actividad",
+       "url": "https://www.ambito.com/economia/la-recesion-cuanto-tiempo-puede-durar-y-que-hay-detras-la-caida-la-actividad-n6348954"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/la-economia-entro-en-recesion-ahora-el-mercado-busca-el-motor-de-la-recuperacion/",
+     "imagen": "https://www.cronista.com/resizer/v2/DWKTTBGPE5GBNLIOC5VMVG6KYI.jpg?auth=353acbe3aaeae7a13e7bbd3411cd363fe2b2e0602c273c2773f5c19c4d02dcd9&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:07",
+     "autor": "María Victoria Lippo",
+     "titulo_original": "La economía entró en recesión: ahora el mercado busca el motor de la recuperación"
+    },
+    {
+     "id": "CR-03",
+     "titulo": "El dólar financiero rozó los 1.800 pesos por la demanda de empresas",
+     "resumen": "El contado con liquidación llegó a rozar los 1.800 pesos y cerró en 1.782, con una suba del 3,5%, impulsado por empresas que giraron a sus casas matrices los pesos excedentes. El dólar oficial subió 1,3% a 1.615 pesos sin intervención del Banco Central y el mayorista avanzó 0,8% a 1.592 pesos, por lo que la brecha con el financiero llegó al 12%. Para una empresa: un CCL en alza encarece la cobertura cambiaria y presiona los costos de insumos importados.",
+     "relacionadas": [
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Cuáles son los factores que impulsaron al dólar a un nuevo récord",
+       "url": "https://www.iprofesional.com/finanzas/469946-cuales-son-los-factores-que-impulsaron-al-dolar-a-un-nuevo-record"
+      },
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El dólar no da tregua: el oficial llegó a $1.615 en el Banco Nación, mientras el CCL se disparó y cerró cerca de $1.800",
+       "url": "https://www.ambito.com/finanzas/dolar-el-mercado-vuelve-operar-el-feriado-y-todas-las-miradas-apuntan-la-brecha-cambiaria-n6348489"
+      },
+      {
+       "id": "CR-06",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar oficial: a cuánto cotiza en los bancos de la City hoy miércoles 25 de noviembre",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-oficial-a-cuanto-cotiza-en-los-bancos-de-la-city-hoy-miercoles-25-de-noviembre/"
+      },
+      {
+       "id": "CR-05",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Dólar blue hoy: a cuánto cotiza este miércoles 25 de noviembre con el MEP y el CCL",
+       "url": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-este-miercoles-25-de-noviembre-con-el-mep-y-el-ccl/"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-que-compran-las-empresas-salta-a-casi-1800-hasta-cuanto-puede-llegar/",
+     "imagen": "https://www.cronista.com/resizer/v2/M7WZAYP4IRBFBG5CZEA3SSRQ4A.jpg?auth=9e8e81002dbcc9b40b9875f12d380562b3baf0e2630223b5ff923c798ea99155&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Mariano Gorodisch",
+     "titulo_original": "Dólar que compran las empresas salta a casi $ 1800: hasta cuánto puede llegar"
+    },
+    {
+     "id": "IP-02",
+     "titulo": "Caputo puso casi 2.000 millones de dólares para frenar al dólar",
+     "resumen": "El ministro de Economía intervino con cerca de 2.000 millones de dólares para contener la suba de la divisa, en un clima de tensión cambiaria que los operadores financieros esperan que se extienda por varias semanas. El mercado ya empieza a poner precio al dólar, al riesgo país y a la demanda de divisas pensando en el año electoral.",
+     "relacionadas": [
+      {
+       "id": "IP-03",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El mercado se adelanta al año electoral y pone precio al dólar pensando en el día después",
+       "url": "https://www.iprofesional.com/economia/469816-el-2027-ya-llego-para-el-mercado-que-busca-el-precio-del-dolar-electoral"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/469950-dolar-sube-sin-freno-intervencion-gobierno-caputo-alerta-mercado-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/04/615323.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:37",
+     "autor": "",
+     "titulo_original": "Caputo pone casi u$s2.000 millones para frenar al dólar y el mercado prevé más presión"
+    },
+    {
+     "id": "CR-21",
+     "titulo": "El riesgo país superó los 1.090 puntos y los bonos volvieron a caer",
+     "resumen": "Los títulos públicos argentinos sufrieron bajas de hasta el 2,99% en el Global GD35, mientras el riesgo país trepó a 1.094 puntos, con una suba del 5,70% respecto del cierre anterior. El Merval, en cambio, logró cerrar con una suba del 0,8% en pesos pese al deterioro de la deuda.",
+     "url": "https://www.cronista.com/finanzas-mercados/dolar-bonos-y-riesgo-pais-vuelven-al-centro-de-la-escena-tras-el-feriado-y-con-wall-street-mas-optimista/",
+     "imagen": "https://www.cronista.com/resizer/v2/TPALG5EEPRBRXDGFN66AAQXEOE.jpg?auth=e6aae86aa87827bcf123d9d3a0b07f6887caed5a39d213ca84dc637643f49ee1&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:32",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "Los bonos volvieron a hundirse y el riesgo país superó los 1090 puntos: crece la desconfianza sobre la deuda",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-23",
+     "titulo": "El Tesoro ofrece ocho bonos para enfrentar vencimientos por 25 billones de pesos",
+     "resumen": "La Secretaría de Finanzas anunció los instrumentos que licitará el jueves para afrontar vencimientos por unos 25 billones de pesos, la mayoría en manos privadas. El menú incluye dos Lecap nuevas, dos bonos CER, una letra que ajusta por tasa Tamar, un instrumento dual Tamar-dólar linked y dos títulos con cobertura cambiaria.",
+     "url": "https://www.cronista.com/finanzas-mercados/el-gobierno-pone-todas-las-cartas-sobre-la-mesa-cuales-son-los-ocho-bonos-que-ofrece-al-mercado/",
+     "imagen": "https://www.cronista.com/resizer/v2/7RM3BGVDBRHFHLYXKHY3DUZCE4.jpeg?auth=21c0a00119ef5273f2214f81b8df2887f0d06b11459376ee63b52d84dba5c3b1&smart=true&width=900&height=672",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:00",
+     "autor": "Leandro Dario",
+     "titulo_original": "El Gobierno pone todas las cartas sobre la mesa: cuáles son los ocho bonos que ofrece al mercado",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-26",
+     "titulo": "Biocombustibles: venció el plazo y la pelea por el biodiésel sigue trabada en Diputados",
+     "resumen": "El proyecto que eleva del 7,5% al 10% la mezcla obligatoria de biodiésel con gasoil, con media sanción del Senado, sigue sin dictamen en Diputados tras vencer el plazo ordinario. La discusión se concentra en cuánto del mercado interno quedará reservado a las pymes que hoy abastecen la mezcla y cuánto se abrirá a la competencia de las grandes aceiteras.",
+     "url": "https://www.lanacion.com.ar/economia/campo/biocombustibles-vencio-el-plazo-para-dictaminar-y-la-pelea-por-el-biodiesel-sigue-trabada-en-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IYCX6CFKBVDZ3MNJUASAIEYEXQ.jpg?auth=8ce5cdcff158c0d75506da8d96b3e30573fbbb55e65d1afe5817236eb51cfda5&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:25",
+     "autor": "Belkis Martínez",
+     "titulo_original": "Biocombustibles: venció el plazo para dictaminar y la pelea por el biodiésel sigue trabada en Diputados",
+     "relacionadas": []
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IP-16",
+     "titulo": "Grupo Galicia revirtió varios meses en rojo y dio señales de alivio en el crédito",
+     "resumen": "Tras varios trimestres complicados, la entidad cerró con ganancias el tercer trimestre del año y mostró señales de recuperación en su cartera crediticia.",
+     "url": "https://www.iprofesional.com/finanzas/469928-grupo-galicia-volvio-ganar-plata-morosidad-cedio-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/06/576179.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "18:42",
+     "autor": "",
+     "titulo_original": "Grupo Galicia logró revertir varios meses en rojo y mostró señales de alivio en el crédito",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-01",
+     "titulo": "Personal Pay prepara su salto como banco tras la compra del Banco Sáenz",
+     "resumen": "La billetera digital del grupo Telecom creció en originación de préstamos, inversiones y captación de clientes con baja mora, según explicó su CEO, Martín Heine. La empresa espera ampliar su oferta de servicios financieros cuando se apruebe la compra de la licencia del Banco Sáenz, tras la incorporación del Banco Macro como socio al 50% a principios de año.",
+     "url": "https://www.cronista.com/finanzas-mercados/el-caso-de-la-billetera-digital-masiva-que-presta-cada-vez-mas-con-poca-mora-y-prepara-su-salto-como-banco/",
+     "imagen": "https://www.cronista.com/resizer/v2/J7GUPERS5NDJDDSWCWZ374ZWFM.jpeg?auth=76aa3e419a714201cf82b1987c091aa0da6439d41740bea54fce3d7676e58ac6&smart=true&width=900&height=601",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:26",
+     "autor": "Ariel Cohen",
+     "titulo_original": "El caso de la billetera digital masiva que presta cada vez más con poca mora y prepara su salto como banco",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-04",
+     "titulo": "Cinco tecnológicas explican el 83% del alza de la inversión en Estados Unidos",
+     "resumen": "Amazon, Alphabet, Meta, Microsoft y Oracle concentran una porción creciente del gasto en centros de datos y capacidad de cómputo que sostiene la inversión estadounidense. Un informe de BCA Research advierte que un freno en ese gasto, combinado con una caída de las acciones tecnológicas, podría derivar en una recesión y un mercado bajista.",
+     "url": "https://www.cronista.com/finanzas-mercados/la-economia-de-estados-unidos-concentra-sus-motores-que-pasaria-si-las-grandes-tecnologicas-frenan-la-inversion/",
+     "imagen": "https://www.cronista.com/resizer/v2/3SDEA2QV6NEKHM2O4YRDHTTYLU.jpg?auth=2e4f9a77b92d97bbd2f4d6c6102056b5815aa70dd45f4c10193c663dab489e9b&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "06:00",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Cinco tecnológicas explican el 83% del alza de la inversión en EE.UU.: qué pasa si frenan el gasto",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-09",
+     "titulo": "Tesla y SpaceX avanzan hacia una posible fusión",
+     "resumen": "Las dos compañías de Elon Musk dieron un paso clave hacia una eventual superfusión. SpaceX estaría valuada en unos 1,98 billones de dólares, mientras que Tesla tiene una capitalización bursátil cercana a los 1,5 billones de dólares.",
+     "url": "https://www.ambito.com/finanzas/tesla-y-spacex-avanzan-un-paso-clave-su-posible-superfusion-n6348714",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:23",
+     "autor": "",
+     "titulo_original": "Tesla y SpaceX avanzan con un paso clave para su posible superfusión",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-24",
+     "titulo": "En una década desaparecieron casi 28.000 hectáreas de vid en la Argentina",
+     "resumen": "Por el Día del Vino Argentino se difundió que en los últimos diez años se perdieron cerca de 28.000 hectáreas de viñedos y 3.763 explotaciones, con Mendoza y San Juan concentrando las mayores caídas. La caída del consumo, el aumento de costos y los bajos precios de la uva explican el retroceso de los pequeños productores.",
+     "url": "https://www.ambito.com/negocios/dia-del-vino-argentino-una-decada-desaparecieron-casi-28000-hectareas-vid-y-3763-vinedos-n6348701",
+     "imagen": "https://media.ambito.com/p/35886359aa2e61ff6c64ed6871e61203/adjuntos/239/imagenes/043/793/0043793301/vino-uvas-vinedos.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "18:39",
+     "autor": "",
+     "titulo_original": "Día del Vino Argentino: en una década desaparecieron casi 28.000 hectáreas de vid y 3.763 viñedos",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-13",
+     "titulo": "Aeropuertos Argentina Cargas amplía su infraestructura logística en Ezeiza",
+     "resumen": "La empresa inauguró una nueva Terminal Única de Courier con 10.000 metros cuadrados cubiertos para procesar importaciones, dentro de un predio de 20.000 metros cuadrados y con una inversión de 21 millones de dólares. El proyecto también amplía los espacios de refrigeración para importaciones perecederas y renueva la circulación exterior del predio.",
+     "url": "https://www.cronista.com/transport-cargo/aeropuertos-argentina-cargas-fortalece-su-infraestructura-logistica-con-nuevas-obras-en-ezeiza/",
+     "imagen": "https://www.cronista.com/resizer/v2/622S47LUYNHXNA2JVRIREIUPZA.jpeg?auth=29fc06220a76e2fdf04bba258428ecdfd5d74a54217c7212a2ef42e4ab0f8215&smart=true&width=799&height=533",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "21:00",
+     "autor": "Redacción El Cronista",
+     "titulo_original": "Aeropuertos Argentina Cargas fortalece su infraestructura logística con nuevas obras en Ezeiza",
+     "relacionadas": []
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "IP-04",
+     "titulo": "ARCA precisó las claves del régimen simplificado de Ganancias",
+     "resumen": "La Agencia de Recaudación y Control Aduanero resumió los aspectos centrales del régimen simplificado del Impuesto a las Ganancias para los contribuyentes alcanzados.",
+     "url": "https://www.iprofesional.com/impuestos/469963-arca-precisa-las-claves-del-regimen-simplificado-de-ganancias",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/12/589499.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:29",
+     "autor": "",
+     "titulo_original": "ARCA precisa las claves del régimen simplificado de Ganancias",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-05",
+     "titulo": "ARCA reglamentó la reducción del 50% de las multas",
+     "resumen": "El organismo instrumentó el procedimiento para que los contribuyentes puedan pedir el Régimen Especial de Reducción de Multas, que permite acceder a una baja del 50% en las sanciones bajo ciertas condiciones.",
+     "url": "https://www.iprofesional.com/impuestos/469962-arca-instrumento-el-procedimiento-para-pedir-la-reduccion-del-50-de-las-multas",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/10/628657.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:21",
+     "autor": "",
+     "titulo_original": "ARCA instrumentó el procedimiento para pedir la reducción del 50% de las multas",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-06",
+     "titulo": "ARCA amplió las deudas que pueden sumarse al plan de pagos para mipymes",
+     "resumen": "El organismo incorporó nuevas deudas al régimen especial de facilidades de pago destinado a micro, pequeñas y medianas empresas, lo que amplía el universo de obligaciones que pueden regularizarse.",
+     "url": "https://www.iprofesional.com/impuestos/469961-como-sumar-nuevas-deudas-al-plan-de-pagos-para-mipymes-de-arca",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpeg/2026/11/629252.jpeg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:12",
+     "autor": "",
+     "titulo_original": "Cómo sumar nuevas deudas al plan de pagos para MiPyMEs de ARCA",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-17",
+     "titulo": "La Justicia volvió a declarar inconstitucional la tasa de estadística del 3% a las importaciones",
+     "resumen": "Dos nuevos fallos judiciales declararon inconstitucionales los decretos que prorrogaron la alícuota del 3% sobre las importaciones y reconocieron a las empresas demandantes el derecho a recuperar lo pagado por encima del 0,5%, con intereses. Según un informe de PwC, los antecedentes podrían abrir la puerta a más reclamos de compañías que abonaron el tributo. Para una empresa: un fallo favorable habilita a evaluar el recupero de sumas pagadas de más en importaciones recientes.",
+     "url": "https://www.cronista.com/economia-politica/importaciones-la-justicia-vuelve-a-cuestionar-el-3-y-crecen-los-reclamos-se-puede-dejar-de-pagar/",
+     "imagen": "https://www.cronista.com/resizer/v2/T7UACINMDFHUFCDONEDSRNMXOA.jpg?auth=524bcad1f624c8a3750150abb5f4b2d0c3393a5c860488aa89c22c15797d541d&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "19:00",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "Importaciones: la Justicia vuelve a cuestionar el 3% y crecen los reclamos ¿Se puede dejar de pagar?",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-25",
+     "titulo": "Vacaciones 2027: la reforma laboral cambió las reglas y aumenta el riesgo de juicios",
+     "resumen": "La Ley de Modernización Laboral 27.802 modificó el régimen de vacaciones de la Ley de Contrato de Trabajo: redujo el plazo de comunicación de las fechas, habilitó expresamente el fraccionamiento del descanso y permitió acordar períodos fuera del calendario habitual. Especialistas advierten que la coincidencia de pedidos y los cambios de último momento pueden derivar en reclamos laborales si las empresas no revisan los nuevos puntos.",
+     "url": "https://www.cronista.com/economia-politica/vacaciones-2027-el-cambio-de-la-reforma-laboral-y-los-errores-que-pueden-llevar-a-un-juicio/",
+     "imagen": "https://www.cronista.com/resizer/v2/RHZ3RFZHYFDX7PMYMOKL6KCAHA.jpg?auth=92169d56faaab858f004f2e4383f8520b28936280467d0730fbd08108dff6c47&smart=true&width=900&height=534",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "17:00",
+     "autor": "Audiencias Member",
+     "titulo_original": "Vacaciones 2027: el cambio de la reforma laboral y los errores que pueden llevar a un juicio",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-22",
+     "titulo": "Paritarias: las empresas de colectivos acordaron aumento con la UTA",
+     "resumen": "Las cámaras del transporte automotor de pasajeros del AMBA acordaron con la UTA sumas no remunerativas de 100.000 pesos en tres pagos y una actualización de viáticos desde febrero, para el período noviembre 2026-febrero 2027. Además, anunciaron un aumento del 10% en la escala salarial de convenio a partir del 1° de febrero de 2027, con lo que se desactivó la amenaza de un paro de colectivos.",
+     "relacionadas": [
+      {
+       "id": "IP-14",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "La UTA acordó aumento de sueldo y se desactiva la posibilidad de un paro de colectivos",
+       "url": "https://www.iprofesional.com/management/469934-la-uta-acordo-aumento-de-sueldo-y-se-desactiva-la-posibilidad-de-un-paro-de-colectivos"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/las-camaras-de-colectivos-anunciaron-un-acuerdo-salarial-con-uta-porcentaje-cuotas-sumas-fijas-y-como-queda-la-escala/",
+     "imagen": "https://www.cronista.com/resizer/v2/4FGIWJC6VJHGZEOKBMVABH5ENA.jpg?auth=30aa909431bfb90088ffb8b077b97a816deaa0a0fcd7e6a8746bc13b9a03a969&smart=true&width=900&height=488",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "18:21",
+     "autor": "Leonardo Villafañe",
+     "titulo_original": "Paritarias de colectivos: cuánto cobrarán los choferes con el nuevo acuerdo salarial"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-23",
+     "titulo": "Un shopping cordobés obtuvo el aval para ampliarse y sumar marcas internacionales",
+     "resumen": "El centro comercial logró la aprobación municipal para ampliar sus instalaciones, con nuevos locales, cocheras y espacios verdes. Para una empresa: una ampliación de este tipo suele traducirse en mayor demanda de materiales de construcción y terminaciones en la región.",
+     "url": "https://www.iprofesional.com/actualidad/469886-un-shopping-argentino-se-agranda-y-sumara-marcas-internacionales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630430.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:36",
+     "autor": "",
+     "titulo_original": "Un shopping argentino se agranda y sumará marcas internacionales",
+     "relacionadas": []
+    },
+    {
+     "id": "CR-26",
+     "titulo": "Consumidor estoico: Oliveto explicó por qué cae el consumo",
+     "resumen": "El especialista Guillermo Oliveto señaló que, de veinte sectores del consumo, diecisiete caen frente al año anterior, dos mejoran levemente y solo uno, la venta de motos, crece con fuerza, un 40%. También destacó la mejora del turismo extranjero y de las salidas de esparcimiento como las excepciones dentro de una caída que ya lleva tres años consecutivos.",
+     "url": "https://www.cronista.com/economia-politica/consumidor-estoico-oliveto-explico-el-motivo-detras-de-la-caida-del-consumo/",
+     "imagen": "https://www.cronista.com/resizer/v2/OIRZFUT6XVCXNK2OJIH3J7WBBQ.png?auth=c1d12e7a8719c978d5d3659da8ab419b7ee85e00b526b5cdbe466c60f427cba8&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "16:24",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "“Consumidor estoico”: Oliveto explicó el motivo detrás de la caída del consumo",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-26",
+     "titulo": "Black Week en shoppings y outlets: descuentos de hasta 65%",
+     "resumen": "La campaña llega a los principales shoppings y outlets del país con rebajas en múltiples rubros, beneficios bancarios y ofertas que se extienden durante tres días.",
+     "url": "https://www.iprofesional.com/actualidad/469864-black-shopping-days-rebajas-de-hasta-65-en-shoppings-y-outlets",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630243.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "15:56",
+     "autor": "",
+     "titulo_original": "Black Week en Shoppings y outlets: descuentos de hasta 65% y ofertas en primeras marcas",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-08",
+     "titulo": "Crece el financiamiento pyme con el descuento de facturas electrónicas",
+     "resumen": "Las operaciones con Facturas de Crédito Electrónica alcanzaron los 64.476 millones de pesos en octubre, un 39% más que un año atrás. El instrumento permite a una pyme financiarse a la tasa de la empresa grande que debe pagarle, en lugar de depender de su propio perfil crediticio. Para una empresa: es una vía de capital de trabajo más barata que un préstamo tradicional cuando se factura a plazo a clientes de primera línea.",
+     "relacionadas": [
+      {
+       "id": "CR-18",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Cómo financiar una MiPyME a las tasas que consiguen las empresas grandes",
+       "url": "https://www.cronista.com/finanzas-mercados/como-financiar-una-mipyme-a-tasas-de-empresas-grandes/"
+      }
+     ],
+     "url": "https://www.ambito.com/finanzas/financiamiento-pyme-crece-el-descuento-facturas-y-gana-peso-el-historial-pago-las-grandes-empresas-n6348968",
+     "imagen": "https://media.ambito.com/p/90618cbbd7d5f0ea8a8cacd4370cd564/adjuntos/239/imagenes/038/762/0038762117/1200x675/smart/factura-electronica-1200jpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "21:24",
+     "autor": "",
+     "titulo_original": "Financiamiento pyme: crece el descuento de facturas y gana peso el historial de pago de las grandes empresas"
+    },
+    {
+     "id": "AM-01",
+     "titulo": "Tres barrios de CABA sumarán parques y plazas, con impacto en los precios inmobiliarios",
+     "resumen": "Villa Urquiza, Colegiales y San Cristóbal incorporarán alrededor de 20.000 metros cuadrados de superficie verde. Especialistas inmobiliarios ya analizan el potencial de revalorización de las zonas cercanas a las obras.",
+     "url": "https://www.ambito.com/negocios/los-tres-barrios-caba-que-sumaran-nuevos-parques-y-plazas-cuanto-cuesta-comprar-y-que-pasara-los-precios-n6348795",
+     "imagen": "https://media.ambito.com/p/53e7f5d291fe7ef0e5c330f2b2453420/adjuntos/239/imagenes/043/496/0043496165/1200x675/742x648:762x668/propiedades-lupa-ciudad-buenos-aires.png",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Los tres barrios de CABA que sumarán nuevos parques y plazas: cuánto cuesta comprar y qué pasará con los precios",
+     "relacionadas": []
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "La Fiscalía paraguaya amplió la imputación contra el expresidente Santiago Peña",
+     "resumen": "El exmandatario, preso desde el 7 de noviembre tras su destitución por la crisis del Ueno Bank, ahora también es imputado por lavado de activos y cohecho. La Justicia extendió los cargos a su hermano Francisco y a su cuñada, Rocío Caballero Bosch.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Ampliaron la imputación a Santiago Peña: agregaron lavado de activos y cohecho",
+       "url": "https://www.ambito.com/mundo/ampliaron-la-imputacion-santiago-pena-agregaron-lavado-activos-y-cohecho-n6348989"
+      }
+     ],
+     "url": "https://www.clarin.com/mundo/escandalo-paraguay-fiscalia-pide-ampliar-imputacion-expresidente-santiago-pena-lavado-activos-soborno_0_NxqxktnOCQ.html",
+     "imagen": "https://www.clarin.com/img/2026/11/17/kXpkt-G40_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "04:03",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Escándalo en Paraguay: la Fiscalía pide ampliar la imputación al expresidente Santiago Peña por lavado de activos y soborno"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "Obtuvieron la libertad bajo fianza los acróbatas argentinos detenidos por el ICE",
+     "resumen": "Agustín Baccega y Gustavo Romanello, detenidos desde el 7 de noviembre cuando viajaban de Orlando a Phoenix, podrían recuperar la libertad en las próximas horas tras más de quince días de detención. El matrimonio, que vive en Estados Unidos desde 2020, afrontó audiencias por separado en los dos centros de detención donde había sido enviado.",
+     "url": "https://www.lanacion.com.ar/el-mundo/hablo-uno-de-los-acrobatas-argentinos-detenido-por-el-ice-en-estados-unidos-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/BMSUCRUOBZEBNF5DZ2FMDIDH5Q.png?auth=70f5f1a8eb9113be794ba514670601d59fb13885786f609a6923b0fb9a7d5ae8&smart=true&width=698&height=528",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:17",
+     "autor": "",
+     "titulo_original": "Otorgaron la libertad bajo fianza a los acróbatas argentinos detenidos por el ICE y podrían salir en las próximas horas",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-15",
+     "titulo": "La intervención de Trump en Nvidia reaviva el debate sobre los límites del Estado en los mercados",
+     "resumen": "Donald Trump impulsó el regreso de Jensen Huang a la conducción de Nvidia pese a las sospechas de espionaje vinculadas con China, lo que las acciones de la empresa festejaron con una suba de más del 31% antes de corregir al día siguiente. Wall Street cerró dispar, afectado además por un informe que anticipa una suba de aranceles de Estados Unidos a China y a decenas de países.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Wall Street cerró dispar tras caída del sector tecnológico luego del repunte impulsado por Nvidia",
+       "url": "https://www.ambito.com/finanzas/wall-street-alerta-nvidia-cae-5-el-premarket-un-repunte-historico-y-crece-la-tension-la-fed-n6348554"
+      },
+      {
+       "id": "AM-04",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Diálogos de Wall Street: volvió Huang pero sigue la volatilidad del sector tecnológico, sumado al temor por subas de tasas de la Fed",
+       "url": "https://www.ambito.com/economia/dialogos-wall-street-volvio-huang-pero-sigue-la-volatilidad-del-sector-tecnologico-sumado-al-temor-subas-tasas-la-fed-n6348926"
+      }
+     ],
+     "url": "https://www.ambito.com/negocios/la-intervencion-nvidia-presagia-un-nuevo-tipo-socialismo-trumpiano-n6348960",
+     "imagen": "https://media.ambito.com/p/a079449d6e1ecd18cfd28ebca3187d38/adjuntos/239/imagenes/043/790/0043790409/1200x675/smart/donald-trump-jensen-huang.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:47",
+     "autor": "",
+     "titulo_original": "La intervención en Nvidia presagia un nuevo tipo de \"socialismo trumpiano\""
+    },
+    {
+     "id": "LN-18",
+     "titulo": "Feijóo arremetió contra la televisión pública española a días de las elecciones",
+     "resumen": "El líder del PP cuestionó la neutralidad de los informativos de TVE y prometió criterios de proporcionalidad si llega al gobierno, en una entrevista a pocos días de las elecciones generales del 29 de noviembre. En paralelo, el presidente español propuso un impuesto a las fortunas de más de 100 millones de euros para financiar prestaciones sociales, en momentos en que las encuestas anticipan que el PP ganaría sin mayoría absoluta.",
+     "relacionadas": [
+      {
+       "id": "AM-26",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El presidente de España propone un impuesto a las fortunas de más de 100 millones de euros",
+       "url": "https://www.ambito.com/economia/el-presidente-espana-propone-un-impuesto-las-fortunas-mas-100-millones-euros-n6348761"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/feijoo-lider-del-pp-en-espana-contra-tve-parece-una-television-norcoreana-y-los-informativos-son-una-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/3RZFEZWZ35EWJBQ2EXSELLHCVI.JPG?auth=337c77784ba4eb491901795670858689c6b83bda2cfe957fc9bfa158174839ad&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "20:35",
+     "autor": "",
+     "titulo_original": "Feijóo, líder del PP en España, contra TVE: “Parece una televisión norcoreana y los informativos son una vergüenza”"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "Corea del Norte expulsó al jefe diplomático de Suiza",
+     "resumen": "El régimen ordenó la salida en 48 horas del responsable de la oficina diplomática suiza en Pyongyang y exigió el cierre de la representación, en represalia por sanciones de Berna contra un campamento infantil norcoreano vinculado con el traslado de menores ucranianos.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/25/el-regimen-de-corea-del-norte-expulso-al-jefe-diplomatico-suizo-y-exigio-que-abandone-el-pais-en-48-horas/",
+     "imagen": "https://www.infobae.com/resizer/v2/AREMDZDJO3ANY4MYJWS5W6HKRA.jpg?auth=611dd1c82644591d7a735a9be7f5657cf79d42ad85504708a63466dd058387af&smart=true&width=900&height=635",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:44",
+     "autor": "",
+     "titulo_original": "El régimen de Corea del Norte expulsó al jefe diplomático suizo y exigió que abandone el país en 48 horas",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-24",
+     "titulo": "La ONU podría quedarse sin sucesor para Guterres",
+     "resumen": "Por primera vez en la historia del organismo existe una posibilidad real de que el Secretario General termine su mandato en la víspera de Año Nuevo sin que haya un reemplazante definido. Expertos citados por el organismo advierten que, aunque todavía es posible un acuerdo de última hora, ya se preparan planes de contingencia.",
+     "url": "https://www.infobae.com/america/mundo/2026/11/25/la-intriga-aumenta-mientras-la-onu-lucha-por-elegir-a-su-nuevo-lider/",
+     "imagen": "https://www.infobae.com/resizer/v2/PB6L2ZDACFCNXKSZTYGQUNBLGI.jpg?auth=11cf797e616ee1821a10bd5d3e8957650aeda1d5fe779a04330f62c94c9a4e9d&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "02:35",
+     "autor": "Raphaël Hermano",
+     "titulo_original": "La intriga aumenta mientras la ONU lucha por elegir a su nuevo líder",
+     "relacionadas": []
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent advierte sobre un invierno de precios altos del gas en Europa",
+     "resumen": "La revista analiza cómo un fenómeno de El Niño de intensidad sin precedentes podría interactuar con la oscilación de Madden-Julian y generar un invierno 2026-2027 especialmente frío en Francia, Alemania e Italia, donde el frío explica casi el 90% de las variaciones en el consumo de gas. Solo se registraron tres súper-El Niños desde 1950, y los dos anteriores coincidieron con una intensa actividad de ese mismo fenómeno atmosférico.",
+     "url": "https://legrandcontinent.eu/es/2026/11/25/incertidumbre-meteorologica-podria-disparar-los-precios-de-gas/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "02:30",
+     "autor": "Marin Saillofest",
+     "titulo_original": "La incertidumbre meteorológica podría provocar un aumento de los precios del gas en Europa este invierno",
+     "relacionadas": []
+    },
+    {
+     "id": "GC-02",
+     "titulo": "Le Grand Continent describe cómo Moscú instrumentaliza las protestas juveniles europeas",
+     "resumen": "La revista detalla cómo la cadena de propaganda rusa RT, suspendida en la Unión Europea desde 2022, difundió en noviembre dos documentales que presentan las protestas juveniles de Berlín, Turín y Roma como una oposición al rearme europeo y al apoyo a Ucrania. El análisis sostiene que el Kremlin se apoya en aliados europeos para instalar esa lectura entre jóvenes manifestantes que en general reclaman por otras causas.",
+     "url": "https://legrandcontinent.eu/es/2026/11/24/como-moscu-explota-las-manifestaciones-de-la-juventud-en-europa/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/11/confrontation.jpg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "19:39",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Cómo Moscú se aprovecha de las manifestaciones juveniles en Europa para alimentar su guerra informativa",
+     "relacionadas": []
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "CL-09",
+     "titulo": "Argentina se juega la clasificación ante Dinamarca en el Mundial Sub 17",
+     "resumen": "La Albiceleste de Diego Placente, que perdió en el debut ante Australia y luego venció a Mozambique, necesita un resultado puntual para avanzar de fase en el Mundial que se juega en Qatar, con más de cien ojeadores siguiendo el torneo.",
+     "url": "https://www.clarin.com/deportes/argentina-juega-clasificacion-dinamarca-mundial-sub-17-resultado-necesita-100-ojeadores-mundo-qatar_0_hr6Z3oHpjL.html",
+     "imagen": "https://www.clarin.com/img/2026/11/22/9Ru7kZzR3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentina se juega la clasificación ante Dinamarca en el Mundial Sub 17: qué resultado necesita ante más de 100 ojeadores de todo el mundo en Qatar",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-19",
+     "titulo": "Argentina goleó a Brasil y ganó su grupo en el Mundial de fútbol de talla baja",
+     "resumen": "Con un póker de Lucas Deamigo, el vigente campeón del mundo se impuso 5 a 1 ante Brasil y cerró su zona como líder invicto.",
+     "url": "https://www.clarin.com/deportes/argentina-goleo-brasil-definicion-maradoniana-gano-grupo-mundial-futbol-talla-baja_0_8nmhZizQiX.html",
+     "imagen": "https://www.clarin.com/img/2026/11/25/zaZCcinto_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "21:47",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Argentina goleó a Brasil con una definición “maradoniana” y ganó su grupo en el Mundial de fútbol de talla baja",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-23",
+     "titulo": "Diego Flores, de traductor de Bielsa a sensación del Clausura con Instituto",
+     "resumen": "El entrenador cordobés de 45 años, que pasó por el cuerpo técnico de Marcelo Bielsa en Europa antes de debutar como DT en Godoy Cruz, dirige a Instituto en los cuartos de final del torneo ante River. 'Estamos convencidos de que nos quedan tres finales y que esta es la más importante', dijo este martes.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/la-historia-de-diego-flores-de-traductor-de-bielsa-a-la-sensacion-del-clausura-un-dt-que-ataca-bajo-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KJQQGOJARVDJRCQRH6XIQ7TKNQ.JPG?auth=aa5fa2d6adc7c5a993dd217a2c35651c0edca34f501ae46b13a5fb306c663d25&smart=true&width=900&height=592",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:56",
+     "autor": "Ariel Ruya",
+     "titulo_original": "La historia de Diego Flores: de traductor de Bielsa a la sensación del Clausura, un DT que ataca bajo el concepto “dos cachetadas”",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Lo Celso sufrió otra lesión y quedó al margen del triunfo de Betis",
+     "resumen": "El volante argentino, de 30 años, arrastra molestias en la rodilla izquierda y no pudo recuperarse a tiempo para el triunfo 2 a 0 de Betis ante Slovan Bratislava por la Champions League. Es una nueva recaída dentro de una racha de lesiones que en los últimos años condiciona su continuidad en el equipo y en la selección.",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/lo-celso-se-lesiono-otra-vez-una-racha-diabolica-que-amenaza-su-calidad-en-betis-y-la-seleccion-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/CHKO357G3NDYRO5UHYLYUJAPFQ.JPG?auth=a52a17010cb357d36fa6ebb2d03cae0c1ebb472a0a2ac0b318807d1c92b3b731&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "19:34",
+     "autor": "",
+     "titulo_original": "Lo Celso se lesionó otra vez: una racha diabólica que amenaza su calidad en Betis y la selección",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-17",
+     "titulo": "Dybala reveló dónde le gustaría terminar su carrera",
+     "resumen": "El delantero de la Roma habló con la prensa antes del duelo de Champions League ante el París Saint-Germain y fue consultado sobre su futuro futbolístico.",
+     "url": "https://www.ambito.com/deportes/atencion-boca-paulo-dybala-revelo-donde-le-gustaria-finalizar-su-carrera-n6348937",
+     "imagen": "https://media.ambito.com/p/c5c74de7982405c7a57d1f507e118b53/adjuntos/239/imagenes/043/794/0043794266/1200x675/606x407:626x427/paulo-dybala-boca.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:19",
+     "autor": "",
+     "titulo_original": "Atención Boca: Paulo Dybala reveló dónde le gustaría finalizar su carrera",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-06",
+     "titulo": "Crisis en San Lorenzo: tres juveniles se irán libres",
+     "resumen": "Cristian Gallardo, Ramiro Pedroza y Branco Salinardi no renovarán sus contratos y dejarán el club a fin de año. La dirigencia acusó de deslealtad a su representante, Patricio Lombilla, y pedirá su expulsión ante el Tribunal de Ética y Disciplina.",
+     "url": "https://www.ambito.com/deportes/crisis-san-lorenzo-tres-juveniles-se-iran-libres-y-el-club-pidio-expulsar-su-representante-n6348986",
+     "imagen": "https://media.ambito.com/p/c00557d150504f72c8bb09d6500b1ca6/adjuntos/239/imagenes/043/794/0043794556/1200x675/smart/cristian-gallardo-branco-salinardi-y-ramiro-pedroza_w862.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "23:25",
+     "autor": "",
+     "titulo_original": "Crisis en San Lorenzo: tres juveniles se irán libres y el club pidió expulsar a su representante",
+     "relacionadas": []
+    },
+    {
+     "id": "AM-14",
+     "titulo": "Colapinto palpitó el Gran Premio de Qatar y anticipó un circuito exigente",
+     "resumen": "El piloto argentino, que viene de finalizar en los puntos en la última carrera, analizó los puntos débiles de su auto de cara a la próxima parada de la Fórmula 1 y advirtió que el trazado de Qatar presentará exigencias particulares.",
+     "url": "https://www.ambito.com/deportes/franco-colapinto-dio-un-aviso-el-gran-premio-qatar-n6348951",
+     "imagen": "https://media.ambito.com/p/3d8654d3c0979a86c8dbae5a5af23d7f/adjuntos/239/imagenes/043/760/0043760523/franco-colapinto.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "20:56",
+     "autor": "",
+     "titulo_original": "Franco Colapinto palpitó el GP de Qatar: analizó los puntos débiles de su auto y anticipó un circuito exigente",
+     "relacionadas": []
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CL-10",
+     "titulo": "Polémica por la venta de tierras frente al glaciar Perito Moreno",
+     "resumen": "El gobernador de Santa Cruz, Claudio Vidal, autorizó por decreto la venta de tierras en un área natural protegida frente al Parque Nacional Los Glaciares, uno de los destinos turísticos más visitados de la Argentina, a un empresario emiratí que planea construir un hotel de lujo. Un juez frenó la transferencia de la propiedad por considerar inconstitucional el decreto y envió el caso a la Corte Suprema.",
+     "url": "https://www.clarin.com/sociedad/polemica-venta-tierras-frente-glaciar-perito-moreno-magnate-arabe-quiere-construir-hotel-lujo_0_msTiB8tDq7.html",
+     "imagen": "https://www.clarin.com/img/2026/11/25/0hzS7D5_B_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "06:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Polémica por la venta de tierras frente al glaciar Perito Moreno a un magnate árabe que quiere construir un hotel de lujo",
+     "relacionadas": []
+    },
+    {
+     "id": "IP-25",
+     "titulo": "Una nueva escapada en barco conecta Puerto Madero con Carmelo, Uruguay",
+     "resumen": "Un servicio de ferry une Buenos Aires con la ciudad uruguaya en dos horas y media, con precios de pasajes y paquetes para hacer la excursión en el día.",
+     "url": "https://www.iprofesional.com/turismo/469916-nueva-escapada-a-uruguay-cuanto-cuesta-viajar-en-barco-a-carmelo-desde-puerto-madero",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630469.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "17:32",
+     "autor": "",
+     "titulo_original": "Nueva escapada a Uruguay: cuánto cuesta viajar en barco a Carmelo desde Puerto Madero",
+     "relacionadas": []
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-16",
+     "titulo": "La crecida del río Paraná acerca a Rosario a los niveles de alerta",
+     "resumen": "El agua alcanzó en noviembre su pico más alto en la ciudad desde 1998 y arrastra camalotes hasta las costas, aunque registró un leve retroceso tras tocar los 4,99 metros. En Entre Ríos hay cerca de cien familias evacuadas, mientras Reconquista, San Javier y Santa Fe permanecen en nivel de evacuación.",
+     "url": "https://www.infobae.com/sociedad/2026/11/25/por-la-crecida-del-rio-parana-rosario-se-acerca-a-los-niveles-de-alerta-y-entre-rios-registra-mas-de-80-familias-evacuadas/",
+     "imagen": "https://www.infobae.com/resizer/v2/L4TFN65LTZBEZAHLZVBA7MZE3E.jpg?auth=74854d5f7dee0b074e06453e7c395b137a7417d60b28b8b9b0cc4dde182d7c17&smart=true&width=900&height=479",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "05:19",
+     "autor": "",
+     "titulo_original": "Por la crecida del río Paraná, Rosario se acerca a los niveles de alerta y Entre Ríos registra más de 80 familias evacuadas",
+     "relacionadas": []
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Córdoba confirmó los primeros dos casos de dengue de la temporada",
+     "resumen": "El Laboratorio Central detectó la enfermedad en un hombre de 48 años y una mujer de 29 que habían viajado recientemente a República Dominicana y México. Ambos evolucionan favorablemente y las autoridades sanitarias ya activaron las medidas de bloqueo para evitar la circulación del virus.",
+     "url": "https://www.infobae.com/sociedad/2026/11/25/cordoba-reporto-los-dos-primeros-casos-de-dengue-de-la-temporada/",
+     "imagen": "https://www.infobae.com/resizer/v2/WE5YKF5O5ZBATBTTBNENP5XRKM.png?auth=63cf65710f8a38b174deb0b9454de77e453f62014f5fcafe22c52184e7ae4a6e&smart=true&width=900&height=502",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "04:16",
+     "autor": "",
+     "titulo_original": "Córdoba confirmó dos casos de dengue y serían los primeros positivos que registra en la temporada",
+     "relacionadas": []
+    },
+    {
+     "id": "CL-12",
+     "titulo": "ANMAT prohibió un medicamento para la diabetes por riesgo cardíaco",
+     "resumen": "El organismo ordenó retirar del mercado un fármaco mediante la Disposición 7557/2026, publicada en el Boletín Oficial, tras concluir que la relación entre beneficios y riesgos cardiovasculares ya no resulta favorable.",
+     "url": "https://www.clarin.com/sociedad/anmat-prohibio-medicamento-diabetes-riesgos-cardiacos-ordeno-retirarlo-mercado_0_uJ9m8Pc8T4.html",
+     "imagen": "https://www.clarin.com/img/2023/04/18/P84mc-lAB_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "03:15",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "ANMAT prohibió un medicamento para la diabetes por riesgos cardíacos y ordenó retirarlo del mercado",
+     "relacionadas": []
+    },
+    {
+     "id": "LN-01",
+     "titulo": "Cambia el sentido de dos avenidas en Caballito por las obras del TramBus",
+     "resumen": "Desde este miércoles, Acoyte y Honorio Pueyrredón pasan a ser mano única en el marco de la segunda etapa de reacomodamiento del tránsito para dar lugar al nuevo sistema de transporte eléctrico. Honorio Pueyrredón será mano única hacia el sur entre Ángel Gallardo y Neuquén, y Acoyte hacia el norte entre Neuquén y Díaz Vélez.",
+     "relacionadas": [
+      {
+       "id": "IB-15",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Cuáles son las calles que cambiarán de sentido a partir de hoy en Caballito y Villa Crespo por el TramBus",
+       "url": "https://www.infobae.com/sociedad/2026/11/24/cuales-son-las-calles-que-cambiaran-de-sentido-a-partir-de-manana-en-caballito-y-villa-crespo-por-el-trambus/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/sociedad/cambia-la-circulacion-de-dos-avenidas-en-caballito-acoyte-y-honorio-pueyrredon-modifican-la-mano-a-nid24112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/EHMZFZ4WDZCG3F6U4NZOMTOFF4.jpg?auth=63adaedbccbfb48b6c2478a16af2b1c9a97a2dbca22a578e857cf9f36b6f92d4&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:04",
+     "autor": "",
+     "titulo_original": "Cambia la circulación de dos avenidas en Caballito: Acoyte y Honorio Pueyrredón modifican la mano"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen de la mañana del miércoles 25 de noviembre.\n\nLa principal noticia del día es que el Indec confirmó que la economía argentina entró en recesión técnica, tras dos trimestres consecutivos de caída de la actividad. Sin embargo, septiembre mostró una recuperación del 1,1 por ciento y agosto otro 0,4 por ciento, lo que llevó a funcionarios del Gobierno a relativizar el diagnóstico y a esperar un cuarto trimestre positivo. En paralelo, el dólar financiero rozó los 1.800 pesos y el riesgo país superó los 1.090 puntos, pese a que el ministro Caputo intervino con cerca de 2.000 millones de dólares para contener la suba de la divisa. En el plano político, la Universidad de Buenos Aires dio marcha atrás con el homenaje al líder del ERP Mario Santucho, el Gobierno confirmó que convocará a sesiones extraordinarias en diciembre, y Javier Milei viaja hoy a Paraguay en medio del escándalo judicial que afecta al expresidente Santiago Peña.\n\nLos mercados abren la jornada con el dólar oficial en 1.615 pesos, el blue en 1.700 pesos, el dólar MEP en 1.695 pesos y el mayorista en 1.593 pesos. El riesgo país cerró ayer en 1.094 puntos y el oro cotiza en 3.556 dólares la onza. La inflación de septiembre, último dato conocido, fue del 2,2 por ciento mensual y del 33,1 por ciento interanual.\n\nEn política, la Facultad de Ciencias Sociales de la UBA canceló el polémico homenaje a Santucho previsto para el 10 de diciembre, después del rechazo que generó en distintos sectores. El Gobierno, por su parte, formalizará el viernes la convocatoria a extraordinarias para tratar el Presupuesto 2027, la reforma electoral, el llamado Súper RIGI y el acuerdo comercial con Estados Unidos, mientras esta semana buscará quórum en Diputados para una sesión especial con esos mismos temas y la reforma del Banco Central. Dentro del peronismo sigue sin cerrarse el debate sobre cómo elegir al candidato presidencial si el Gobierno logra suspender las PASO, con cuatro variantes en danza. La Cámara de Casación confirmó a los jueces de la causa Libra y rechazó los pedidos de apartamiento, mientras que en la causa ANDIS el operador de la Suizo Argentina, Pablo Atchabahian, negó haber direccionado compras de medicamentos, aunque la fiscalía marcó contradicciones en su declaración. El Senado, además, discute hoy cambios al proyecto de ludopatía para evitar que pierda estado parlamentario antes de fin de mes.\n\nEn economía y mercados, además de la confirmación de la recesión técnica, el contado con liquidación cerró en 1.782 pesos, con una suba del 3,5 por ciento, impulsado por empresas que giraron a sus casas matrices los pesos que no iban a usar. Los bonos volvieron a caer, con pérdidas de hasta el 2,99 por ciento en el Global 2035, mientras el Merval logró cerrar con una suba del 0,8 por ciento en pesos. El Tesoro anunció que ofrecerá ocho instrumentos en la licitación del jueves para afrontar vencimientos por 25 billones de pesos, entre Lecap, bonos CER, instrumentos atados a la tasa Tamar y títulos con cobertura cambiaria. En el Congreso sigue trabado el proyecto de biocombustibles, por la disputa sobre cuánto del mercado de biodiésel quedará reservado a las pymes.\n\nEn negocios y empresas, el Grupo Galicia revirtió varios meses en rojo y cerró con ganancias el tercer trimestre, con señales de recuperación en el crédito. La billetera digital Personal Pay avanza hacia su transformación en banco tras la compra del Banco Sáenz, según explicó su CEO, Martín Heine. En Estados Unidos, un informe advirtió que apenas cinco tecnológicas, Amazon, Alphabet, Meta, Microsoft y Oracle, explican el 83 por ciento del alza reciente de la inversión en inteligencia artificial. Tesla y SpaceX, las dos compañías de Elon Musk, avanzan hacia un paso clave para una eventual fusión. Y por el Día del Vino Argentino se conoció que en la última década desaparecieron casi 28.000 hectáreas de viñedos y más de 3.700 explotaciones, sobre todo en Mendoza y San Juan.\n\nEn impuestos, laboral y normativa, ARCA precisó las claves del régimen simplificado de Ganancias, reglamentó la reducción del 50 por ciento de las multas y amplió las deudas que pueden sumarse al plan de pagos para mipymes. La Justicia volvió a declarar inconstitucional la tasa de estadística del 3 por ciento que se aplica a las importaciones, en dos nuevos fallos que reconocen a las empresas el derecho a recuperar lo pagado por encima del 0,5 por ciento, con intereses. También entró en vigencia la nueva ley de modernización laboral, que cambió las reglas para organizar las vacaciones de 2027 y que, según especialistas, puede derivar en más reclamos si las empresas no revisan los nuevos plazos de comunicación. Las cámaras de transporte, por su parte, acordaron con la UTA un aumento salarial que evitó un paro de colectivos.\n\nEn consumo, construcción y retail, un shopping cordobés obtuvo la aprobación municipal para ampliarse y sumar marcas internacionales, con nuevos locales y espacios verdes. El consultor Guillermo Oliveto explicó que, de veinte sectores del consumo, diecisiete caen frente al año pasado y solo la venta de motos crece con fuerza, un 40 por ciento. La campaña de Black Week llega a los principales shoppings y outlets del país con descuentos de hasta el 65 por ciento. El financiamiento de pymes a través del descuento de facturas electrónicas alcanzó los 64.476 millones de pesos en octubre, un 39 por ciento más que un año atrás. Y tres barrios porteños, Villa Urquiza, Colegiales y San Cristóbal, sumarán nuevos parques, lo que ya despierta interés inmobiliario en la zona.\n\nEn el mundo, la Fiscalía de Paraguay amplió la imputación contra el expresidente Santiago Peña, preso desde principios de mes, que ahora también enfrenta cargos por lavado de activos y cohecho, al igual que su hermano y su cuñada. En Estados Unidos, dos acróbatas argentinos detenidos por el servicio de inmigración obtuvieron la libertad bajo fianza tras más de quince días de detención. La intervención de Trump para favorecer el regreso de Jensen Huang a Nvidia reavivó el debate sobre los límites entre política y mercados, en una jornada en la que Wall Street cerró dispar. En España, Feijóo cuestionó la neutralidad de la televisión pública a días de las elecciones, mientras el presidente del Gobierno propuso un impuesto a las grandes fortunas. Corea del Norte expulsó al jefe de la oficina diplomática de Suiza en Pyongyang, y en la ONU crece la posibilidad de que Antonio Guterres termine su mandato sin que haya un sucesor definido.\n\nLe Grand Continent analiza dos temas centrales para Europa. Por un lado, advierte que un fenómeno de El Niño de intensidad sin precedentes podría encarecer el precio del gas este invierno en Francia, Alemania e Italia, donde el frío explica casi el 90 por ciento de las variaciones en el consumo. Por otro, describe cómo la cadena rusa RT instrumentaliza las protestas juveniles en ciudades como Berlín, Turín y Roma para presentarlas como una oposición al rearme europeo y al apoyo a Ucrania.\n\nEn deportes, la Selección Sub 17 se juega la clasificación en el Mundial de Qatar ante Dinamarca, después de perder con Australia y vencer a Mozambique. La Selección de fútbol de talla baja, en cambio, ya ganó su grupo tras golear 5 a 1 a Brasil con un póker de Lucas Deamigo. El entrenador cordobés Diego Flores, que pasó por el cuerpo técnico de Marcelo Bielsa, dirige a Instituto en los cuartos de final del Clausura ante River. Giovani Lo Celso sufrió una nueva lesión y quedó afuera del triunfo de Betis en la Champions League, mientras Paulo Dybala habló sobre dónde le gustaría terminar su carrera. En San Lorenzo, tres juveniles se irán libres a fin de año, en medio de una fuerte interna con su representante. Y Franco Colapinto analizó los puntos débiles de su auto de cara al Gran Premio de Qatar, la próxima cita de la Fórmula 1.\n\nPara cerrar, en turismo, el Parque Nacional Los Glaciares vuelve a estar en el centro de la escena por la polémica venta de tierras frente al glaciar Perito Moreno a un empresario extranjero, que un juez frenó por considerarla inconstitucional. Y para quienes buscan una escapada corta, ya funciona un servicio de ferry que conecta Puerto Madero con Carmelo, en Uruguay, en apenas dos horas y media.\n\nEso fue todo por ahora. La próxima edición sale al mediodía.",
+ "slug": "2026-11-25-manana",
+ "generado_ba": "25/11/2026 10:16"
+}
