@@ -1,0 +1,999 @@
+{
+ "fecha": "2026-11-26",
+ "edicion": "mediodia",
+ "titulo": "El Senado suspende las PASO mientras el dólar marca un nuevo récord",
+ "apertura": "El Senado y Diputados sesionan en simultáneo por la reforma electoral y el Presupuesto 2027, mientras el dólar oficial marca un nuevo récord nominal y la city detecta una intervención oficial para contener la escalada cambiaria. En paralelo, la Justicia decretó la quiebra de la cadena de panaderías Pandanés y arranca la cuenta regresiva para el Black Friday y para el Fondo de Asistencia Laboral, que debuta el 1° de diciembre.",
+ "claves": [
+  "El Senado sesiona desde el mediodía para suspender las PASO de 2027 y tratar la ley de ludopatía; el oficialismo dice tener más de 37 votos.",
+  "Diputados debate en paralelo el Presupuesto 2027 y la reforma de la Carta Orgánica del BCRA, buscando 129 votos.",
+  "El dólar oficial marcó un nuevo récord nominal y encadenó ocho subas seguidas; la city detectó una intervención oficial para contener la escalada.",
+  "JP Morgan advirtió que los bonos argentinos ya descuentan 50% de probabilidad de un triunfo opositor en 2027.",
+  "El consumo masivo cayó 7,5% interanual en el bimestre septiembre-octubre, la mayor baja de los últimos doce meses.",
+  "La Justicia decretó la quiebra de la cadena de panaderías Pandanés tras fracasar el salvataje; quedan en duda unos 100 empleos.",
+  "El Fondo de Asistencia Laboral (FAL) arranca el 1° de diciembre y cambia el financiamiento de las indemnizaciones por despido.",
+  "Boca clasificó a cuartos del Clausura venciendo a Independiente Rivadavia y Estudiantes ultima los preparativos para la final de la Libertadores en Montevideo."
+ ],
+ "cifras": [
+  {
+   "nombre": "Consumo masivo",
+   "valor": "-7,5% interanual (bimestre sep-oct)",
+   "fuente": "AM-14"
+  },
+  {
+   "nombre": "Litigiosidad laboral 2026 (juicios proyectados)",
+   "valor": "140.000 juicios",
+   "variacion": "sobrecosto de US$ 2.347 millones",
+   "fuente": "CR-04"
+  },
+  {
+   "nombre": "RIGI - Argentina LNG",
+   "valor": "US$ 50.750 millones de inversión",
+   "fuente": "CR-14"
+  },
+  {
+   "nombre": "Ingresos Brutos y tasas municipales",
+   "valor": "entre $ 3,25 y $ 6,43 cada $100 vendidos",
+   "fuente": "CR-12"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "IB-23",
+     "titulo": "el oficialismo asegura que tiene los votos para suspender las PASO en el Senado",
+     "resumen": "El jefe de Gabinete, Diego Santilli, afirmó horas antes de la sesión que La Libertad Avanza reunirá \"arriba de los 37 votos\" necesarios para aprobar la suspensión de las PASO. El funcionario defendió la medida con tres argumentos: evitar que los ciudadanos voten hasta seis veces en un año electoral, ahorrar los 200 millones de dólares que cuesta el sistema y reducir la saturación de propaganda partidaria. Santilli también auguró la reelección de Milei y presentó datos de salarios que, según dijo, superan la inflación acumulada.",
+     "relacionadas": [
+      {
+       "id": "CR-13",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El Gobierno anticipó que tiene los votos en el Senado para suspender las PASO: “Arriba de los 37”",
+       "url": "https://www.cronista.com/economia-politica/el-gobierno-anticipo-que-tiene-los-votos-en-el-senado-para-suspender-las-paso-arriba-de-los-37/"
+      },
+      {
+       "id": "AM-06",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Gobierno asegura que tiene los votos para suspender las PASO antes de la sesión en el Senado",
+       "url": "https://www.ambito.com/politica/diego-santilli-afirmo-que-el-gobierno-tiene-los-votos-la-suspension-las-paso-n6349626"
+      },
+      {
+       "id": "IP-02",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Santilli aseguró que el Gobierno tiene los 37 votos en el Senado para suspender las PASO",
+       "url": "https://www.iprofesional.com/politica/470116-suspension-de-las-paso-santilli-aseguro-que-el-gobierno-tiene-los-votos"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/26/antes-de-la-sesion-en-el-senado-diego-santilli-afirmo-que-el-oficialismo-tiene-los-votos-para-suspender-las-paso/",
+     "imagen": "https://www.infobae.com/resizer/v2/LQ5PDUKHYVDWTMTW5P26HRRBCA.jpg?auth=80323b8e1ae2c1fb3beb41aca23971e1cd5b3c14b773d3dd838a7fdf2dba73c5&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:41",
+     "autor": "",
+     "titulo_original": "Antes de la sesión en el Senado, Diego Santilli afirmó que el oficialismo tiene los votos para suspender las PASO"
+    },
+    {
+     "id": "IB-24",
+     "titulo": "los ocho cambios que trae la reforma electoral además de la suspensión de las PASO",
+     "resumen": "El Senado debate este jueves un proyecto que suspende las PASO de 2027 y modifica de forma permanente el sistema electoral: toca candidaturas, boletas, campañas y debates. El dictamen, enviado por Milei en abril y reducido de 79 a 25 artículos, necesita 37 votos en el Senado y luego 129 en Diputados. También prohíbe candidaturas a políticos con condena firme y suprime la veda electoral.",
+     "relacionadas": [
+      {
+       "id": "CR-23",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "Ni PASO ni debate obligatorio: qué cambiará la reforma electoral que busca la media sanción del Senado",
+       "url": "https://www.cronista.com/economia-politica/ni-paso-ni-debate-obligatorio-que-cambiara-la-reforma-electoral-que-busca-la-media-sancion-del-senado/"
+      },
+      {
+       "id": "AM-16",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El Senado debate la reforma electoral: que puede cambiar si se aprueba",
+       "url": "https://www.ambito.com/politica/el-senado-debate-la-reforma-electoral-que-puede-cambiar-si-se-aprueba-n6347020"
+      }
+     ],
+     "url": "https://www.infobae.com/politica/2026/11/26/reforma-electoral-los-8-cambios-que-incluye-el-proyecto-ademas-de-la-suspension-de-las-paso/",
+     "imagen": "https://www.infobae.com/resizer/v2/K4JLRGV6IVFUJI45CWICGW5G4M.jpg?auth=6e2ce81ac63184186dad46787c3d1fef05dedfc1701ce728fec945f2883340cd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "09:10",
+     "autor": "",
+     "titulo_original": "Reforma electoral: los 8 cambios que incluye el proyecto además de la suspensión de las PASO"
+    },
+    {
+     "id": "CR-22",
+     "titulo": "Diputados sesiona por el Presupuesto 2027 y la reforma de la Carta Orgánica del BCRA",
+     "resumen": "La Cámara baja debate desde el mediodía, en la última sesión del período ordinario, el Presupuesto 2027 como eje central. El oficialismo parte de 121 diputados propios y busca llegar a los 129 necesarios con el respaldo de sus aliados, que condicionan el apoyo a reclamos aún sin resolver. El temario también incluye los cambios del Senado a la Carta Orgánica del BCRA y el acuerdo Mercosur-AELC.",
+     "relacionadas": [
+      {
+       "id": "CL-15",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Diputados hoy, EN VIVO: el oficialismo busca aprobar el Presupuesto 2027 y la reforma del BCRA",
+       "url": "https://www.clarin.com/politica/diputados-hoy-vivo-oficialismo-busca-aprobar-presupuesto-2027-reforma-bcra_0_RVGfeFcbW9.html"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/presupuesto-2027-y-carta-organica-del-bcra-los-puntos-centrales-que-traban-la-sesion-en-diputados/",
+     "imagen": "https://www.cronista.com/resizer/v2/IIEH4FO5TBABXLKZKSIPG5IQXA.jpg?auth=8996b6af40cfade29ea758643da1a07b8400ecc67bf67a3b9de1d5887cb7ef1f&smart=true&width=900&height=556",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:52",
+     "autor": "Equipo Política",
+     "titulo_original": "Presupuesto 2027 y Carta Orgánica del BCRA: los puntos centrales que traban la sesión en Diputados"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "Milei se reunió en Paraguay con el nuevo presidente Pedro Alliana",
+     "resumen": "El mandatario argentino se reunió este jueves por la mañana con su par paraguayo, quien asumió como jefe de Estado tras el escándalo por el colapso del Ueno Bank. La agenda oficial en Asunción incluyó un encuentro bilateral, una reunión con empresarios y actividades protocolares.",
+     "relacionadas": [
+      {
+       "id": "AM-07",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Javier Milei se reunió con Pedro Allliana en Paraguay",
+       "url": "https://www.ambito.com/politica/la-agenda-javier-milei-paraguay-encuentro-el-nuevo-presidente-y-empresarios-n6349358"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-paraguay-reunirse-sucesor-santiago-pena_0_bSU1TP6Ati.html",
+     "imagen": "https://www.clarin.com/img/2026/11/14/En23-o8cl_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:53",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Javier Milei y sus medidas, EN VIVO: el Presidente ya está en Paraguay para reunirse con el sucesor de Santiago Peña"
+    },
+    {
+     "id": "CL-20",
+     "titulo": "el embajador de EE.UU. pidió a Trump que vuelva a reunirse con Milei",
+     "resumen": "Peter Lamelas se reunió con Donald Trump en su residencia de Mar-a-Lago, en Florida, y dijo que hablaron sobre la Argentina y la gestión de Javier Milei. \"Me gustaría volver a ver a los dos presidentes y amigos juntos. Tenemos mucho por hacer entre nuestros países\", escribió el diplomático en X.",
+     "relacionadas": [
+      {
+       "id": "IB-20",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Peter Lamelas se reunió con Trump y hablaron sobre la Argentina y Milei: “Me gustaría volver a ver juntos a los dos presidentes y amigos”",
+       "url": "https://www.infobae.com/politica/2026/11/26/peter-lamelas-se-reunio-con-trump-y-hablaron-sobre-la-argentina-y-milei-me-gustaria-volver-a-ver-juntos-a-los-dos-presidentes-y-amigos/"
+      },
+      {
+       "id": "CR-10",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El embajador de EE.UU. se reunió con Trump y habló de Milei: “Me gustaría volver a verlos juntos”",
+       "url": "https://www.cronista.com/economia-politica/el-embajador-de-eeuu-se-reunio-con-trump-y-hablo-de-milei-me-gustaria-volver-a-verlos-juntos/"
+      }
+     ],
+     "url": "https://www.clarin.com/politica/embajador-eeuu-argentina-pidio-trump-vuelva-reunirse-milei-gustaria-volver-ver-presidentes-amigos-juntos_0_UOGFlU95XM.html",
+     "imagen": "https://www.clarin.com/img/2026/07/01/ciUiUqmDg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "07:56",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "El embajador de EE.UU. en Argentina le pidió a Trump que vuelva a reunirse con Milei: \"Me gustaría volver a ver a los dos presidentes y amigos juntos\""
+    },
+    {
+     "id": "AM-19",
+     "titulo": "Rafecas citó a indagatoria al número dos del Opus Dei por una causa de trata",
+     "resumen": "El juez federal Daniel Rafecas convocó a declarar a Mariano Fazio y a otros dos integrantes de la institución religiosa. La investigación reúne denuncias de 43 mujeres por presunta explotación laboral.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/informacion-general/el-juez-daniel-rafecas-cito-indagatoria-al-n-dos-del-opus-dei-un-causa-trata-mujeres-n6349521",
+     "imagen": "https://media.ambito.com/p/c3fdb37cb4fb93c76a729c97536c9d35/adjuntos/239/imagenes/043/797/0043797669/mariano-fazio.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:23",
+     "autor": "",
+     "titulo_original": "El juez Daniel Rafecas citó a indagatoria al N° 2 del Opus Dei por un causa sobre trata de mujeres"
+    },
+    {
+     "id": "CL-19",
+     "titulo": "Milei presentará su nuevo libro con una conferencia para funcionarios y legisladores",
+     "resumen": "La disertación, el lunes a las 20.30 en el ex CCK, girará en torno a \"La Moral como Política de Estado\", el libro que el Presidente publicará en los próximos días. Está prevista la presencia de integrantes del gabinete, diputados y senadores.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/milei-presenta-libro-conferencia-magistral-funcionarios-legisladores-ex-cck_0_hQakx0QVpq.html",
+     "imagen": "https://www.clarin.com/img/2025/10/07/5wuO2shmI_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "08:00",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Milei presenta otro libro con una \"conferencia magistral\" para sus funcionarios y legisladores en el ex CCK"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "AM-01",
+     "titulo": "el dólar oficial marca un nuevo récord nominal y encadena ocho subas al hilo",
+     "resumen": "La divisa mayorista abrió este jueves por encima de los 1.600 pesos, su valor más alto desde que rige el esquema cambiario actual. El feriado de Acción de Gracias en Estados Unidos redujo la actividad en los mercados globales y locales.",
+     "relacionadas": [
+      {
+       "id": "CL-18",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo, minuto a minuto, este 26 de noviembre",
+       "url": "https://www.clarin.com/economia/dolar-hoy-dolar-blue-vivo-cotiza-oficial-precio-paralelo-minuto-minuto-26-noviembre_0_4xdFO7xBBq.html"
+      },
+      {
+       "id": "LN-10",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este jueves 26 de noviembre, minuto a minuto",
+       "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-jueves-26-de-noviembre-nid26112026/"
+      }
+     ],
+     "url": "https://www.ambito.com/economia/el-dolar-oficial-encadeno-siete-subas-y-marco-un-nuevo-record-nominal-mientras-crecen-las-senales-intervencion-n6349490",
+     "imagen": "https://media.ambito.com/p/a0d6673acb62dc43bbf76d3220f3f054/adjuntos/239/imagenes/042/125/0042125649/pesos-dolar.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "El dólar oficial vuelve a subir, encadena ocho avances al hilo, y marca un nuevo récord nominal"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "la city detectó una intervención oficial para contener la escalada cambiaria",
+     "resumen": "Operaciones inéditas en el mercado de futuros y maniobras con reservas marcan la respuesta del Gobierno ante el temor a nuevos desbalances cambiarios, según fuentes del mercado financiero consultadas por iProfesional. Para una empresa: una intervención sostenida puede frenar la suba del dólar en el corto plazo, pero achica el margen de reservas disponible para pagar importaciones.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/470111-dolar-blue-alerta-maniobras-gobierno-mercados-noviembre-2026",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/07/620856.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:34",
+     "autor": "",
+     "titulo_original": "Dólar bajo presión: la City detectó una intervención oficial para contener la escalada cambiaria"
+    },
+    {
+     "id": "IP-03",
+     "titulo": "JP Morgan advierte que los bonos argentinos ya reflejan el riesgo de un cambio de rumbo",
+     "resumen": "El banco proyecta que el PBI argentino crecerá 1,8% en 2027 y que la inflación bajará al 23%, pero advierte que los bonos ya descuentan 50% de probabilidad de un triunfo opositor en las elecciones de 2027.",
+     "relacionadas": [
+      {
+       "id": "AM-17",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "J.P. Morgan advirtió que los bonos argentinos ya descuentan 50% de chances de un triunfo opositor en 2027",
+       "url": "https://www.ambito.com/economia/jp-morgan-advirtio-que-los-bonos-argentinos-ya-descuentan-50-chances-triunfo-opositor-2027-n6349517"
+      }
+     ],
+     "url": "https://www.iprofesional.com/finanzas/470125-elecciones-2027-la-advertencia-de-jp-morgan-sobre-los-bonos",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/10/605244.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "11:21",
+     "autor": "",
+     "titulo_original": "JP Morgan advierte que los bonos argentinos ya reflejan el riesgo de un cambio de rumbo"
+    },
+    {
+     "id": "IB-15",
+     "titulo": "Sigaut Gravina advirtió que la previa electoral traerá más presión cambiaria",
+     "resumen": "El economista señaló que, a diferencia de las legislativas de 2025, esta vez los inversores no tienen certezas sobre la continuidad del programa económico de Milei después de diciembre de 2027. \"Va a venir más presión cambiaria\", anticipó en diálogo con Infobae en Vivo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/26/lorenzo-sigaut-gravina-advirtio-sobre-la-previa-electoral-y-los-desafios-para-el-gobierno-va-a-venir-mas-presion-cambiaria/",
+     "imagen": "https://www.infobae.com/resizer/v2/CH4E6ZVWIZGIPEJGSAMEWL7TT4.jpg?auth=bea006ba63b863365f53c5e6965b2b9ba9e135e29c4f05f6bd9baeeedacb462a&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:18",
+     "autor": "",
+     "titulo_original": "Lorenzo Sigaut Gravina advirtió sobre la previa electoral y los desafíos para el Gobierno: “Va a venir más presión cambiaria”"
+    },
+    {
+     "id": "AM-14",
+     "titulo": "el consumo masivo cayó 7,5% interanual en el bimestre septiembre-octubre",
+     "resumen": "Es la mayor contracción interanual de los últimos doce meses y todos los canales de venta registraron bajas. Las bebidas lideraron el deterioro, mientras que los kioscos y los comercios tradicionales fueron los más afectados. Para una empresa: una caída generalizada del consumo golpea directo al ticket promedio y obliga a revisar la política de precios y promociones de cara a fin de año.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/se-profundiza-la-caida-del-consumo-masivo-retrocedio-un-75-anual-y-todos-los-canales-venta-registraron-bajas-n6349531",
+     "imagen": "https://media.ambito.com/p/ac95f0fe3c144d1631e6ee8aa73c7c83/adjuntos/239/imagenes/043/665/0043665596/1200x675/smart/consumo-julio.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:18",
+     "autor": "",
+     "titulo_original": "Se profundiza la caída del consumo masivo: retrocedió un 7,5% anual y todos los canales de venta registraron bajas"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "el Tesoro canjeó deuda con el BCRA y pateó vencimientos de noviembre y diciembre a 2027",
+     "resumen": "El Gobierno convirtió tres títulos en poder del Banco Central -una LECAP, un BONCER y un bono a tasa dual- por nuevos instrumentos con vencimientos en enero y junio de 2027, según la Resolución Conjunta 67/2026 publicada en el Boletín Oficial.",
+     "relacionadas": [
+      {
+       "id": "AM-23",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Deuda: el Gobierno oficializó un nuevo canje con el BCRA y encara una licitación para refinanciar unos $25 billones",
+       "url": "https://www.ambito.com/finanzas/deuda-el-gobierno-oficializo-un-nuevo-canje-el-bcra-y-encara-una-licitacion-refinanciar-unos-25-billones-n6349485"
+      }
+     ],
+     "url": "https://www.cronista.com/finanzas-mercados/el-tesoro-pateo-deuda-para-2027-le-canjeo-bonos-al-bcra-con-vencimientos-en-noviembre-y-diciembre/",
+     "imagen": "https://www.cronista.com/resizer/v2/VHICH5GREVCL7EOE7VGNIBUSPQ.jpg?auth=f52529010c3b6b8044acbe00dfcaa60f0acbfe0fb4c068a581070fec37b92f4b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:33",
+     "autor": "Pilar Wolffelt",
+     "titulo_original": "El Tesoro pateó deuda para 2027: le canjeó bonos al BCRA con vencimientos en noviembre y diciembre"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "los bancos registran subas de hasta 60% en la compra de dólares por home banking",
+     "resumen": "Las entidades financieras venden hasta 400 millones de dólares diarios al público a través de canales digitales. El BCRA lleva tres ruedas sin comprar divisas, lo que ralentiza la acumulación de reservas.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/470065-que-ven-los-bancos-en-las-compras-diarias-de-dolares-por-home-banking",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/02/612336.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:00",
+     "autor": "",
+     "titulo_original": "Bancos registran subas de hasta 60% en operaciones de compra de dólares por home banking"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "IB-13",
+     "titulo": "la Justicia decretó la quiebra de la cadena de panaderías Pandanés",
+     "resumen": "El Juzgado Comercial N°15 resolvió liquidar la empresa después de que el único interesado en un salvataje -un heredero de la cadena Ugi's- desistiera de avanzar tras analizar sus deudas, empleados y locales. La compañía ya había cerrado sus 25 locales y despedido a unos 100 empleados.",
+     "relacionadas": [
+      {
+       "id": "CR-15",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "El heredero de una cadena de pizzerías quiso salvar a Pandanés de la quiebra pero dio marcha atrás",
+       "url": "https://www.cronista.com/negocios/el-heredero-de-una-cadena-de-pizzerias-quiso-salvar-a-pandanes-de-la-quiebra-pero-dio-marcha-atras/"
+      }
+     ],
+     "url": "https://www.infobae.com/economia/2026/11/26/la-justicia-decreto-la-quiebra-de-una-famosa-cadena-de-panaderias-en-problemas-que-va-a-pasar-con-los-empleados/",
+     "imagen": "https://www.infobae.com/resizer/v2/NZ55OVKMGFHRFASW4E225IS7W4.jpeg?auth=bc496c61e9bd204611a796fa8b283dbf4493001e671298d49846a7bd21ae58b7&smart=true&width=900&height=675",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:21",
+     "autor": "",
+     "titulo_original": "La justicia decretó la quiebra de una famosa cadena de panaderías en problemas: qué va a pasar con los empleados"
+    },
+    {
+     "id": "IP-07",
+     "titulo": "la argentina 360Energy obtuvo 255 millones de reales en Brasil para parques solares de Stellantis",
+     "resumen": "La compañía emitió deuda de infraestructura bajo un esquema de project finance junto al banco Santander para levantar cuatro centrales fotovoltaicas, según El Cronista.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/energia/470085-360energy-capto-r255-millones-en-brasil-para-parques-de-stellantis",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630597.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:28",
+     "autor": "",
+     "titulo_original": "La argentina 360Energy obtuvo R$255 millones en Brasil para parques de Stellantis"
+    },
+    {
+     "id": "CR-14",
+     "titulo": "Argentina LNG ingresó al RIGI con una inversión histórica de 50.750 millones de dólares",
+     "resumen": "La Resolución 2027/2026 del Ministerio de Economía, firmada por Luis Caputo, otorga estabilidad fiscal y cambiaria hasta 2061 y exige un desembolso mínimo de 2.000 millones de dólares antes de fines de 2028. YPF, la italiana Eni y XRG, brazo internacional de la emiratí Adnoc, lideran la iniciativa.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/oficializan-el-ingreso-de-argentina-lng-al-rigi-con-una-inversion-historica-de-us-50750-millones/",
+     "imagen": "https://www.cronista.com/resizer/v2/IOF6MLTOGFGJLFXPWIJL7DQFIM.jpg?auth=9f6a9e6a4538492e104f0e0de0ab7f5a376a277bfad9ad723a67e46169d414b1&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:53",
+     "autor": "Equipo Mesa Web",
+     "titulo_original": "Oficializan el ingreso de Argentina LNG al RIGI, con una inversión histórica de u$s 50.750 millones"
+    },
+    {
+     "id": "IB-08",
+     "titulo": "Altria estudia lanzar una oferta por Imperial Brands",
+     "resumen": "La tabacalera estadounidense confirmó que evalúa una oferta por la empresa británica, dueña de las marcas Nobel y Fortuna, cuya capitalización bursátil supera las 26.000 millones de libras. Cualquier oferta se haría en efectivo, aunque la compañía advirtió que aún no hay acuerdo.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/26/altria-estudia-lanzar-una-oferta-por-imperial-brands-duena-de-nobel-y-fortuna/",
+     "imagen": "https://www.infobae.com/resizer/v2/V7KHBZJXTVAWLIGSOFADBWL5MQ.jpg?auth=4161eea03ff9798d5ceb60fe18b52d5ad69092caf5f754be5c17146c6205873b&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Altria estudia lanzar una oferta por Imperial Brands, dueña de Nobel y Fortuna"
+    },
+    {
+     "id": "IB-17",
+     "titulo": "Tesla vende en Argentina un modelo más barato que en Uruguay",
+     "resumen": "Argentina sigue siendo más cara que Uruguay, Colombia y Chile por los impuestos y el \"costo argentino\", pero la filial de Tesla subió los precios en Uruguay, lo que redujo la brecha con el mercado local en al menos un modelo. La marca busca ganar patentamientos en sus primeras semanas de venta en el país.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/25/cual-es-el-modelo-de-tesla-que-se-vende-en-argentina-a-un-precio-menor-que-en-uruguay-los-detalles-de-la-estrategia-de-la-marca/",
+     "imagen": "https://www.infobae.com/resizer/v2/QJAHRV7ZVZDIPH62ASNIFPEPMI.jpg?auth=2ba815bc82944a34f32d5c419d11c41dafcf5ee25ff5cec83e0b7fe0fb15bb71&smart=true&width=900&height=508",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:15",
+     "autor": "Diego Zorrero",
+     "titulo_original": "Cuál es el modelo de Tesla que se vende en Argentina a un precio menor que en Uruguay: los detalles de la estrategia de la marca"
+    },
+    {
+     "id": "CR-11",
+     "titulo": "Vaca Muerta impulsa el empleo y los salarios de Neuquén más allá del pozo",
+     "resumen": "El empleo privado de la provincia creció 8% desde noviembre de 2023 y la masa salarial real avanzó 16%, según un informe de IERAL Patagonia. El mayor crecimiento está en los sectores de servicios que acompañan al desarrollo energético, no en la extracción directa de petróleo y gas.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/vaca-muerta-produce-cada-vez-mas-pero-el-gran-salto-esta-afuera-del-pozo-los-sectores-que-se-llevan-el-derrame/",
+     "imagen": "https://www.cronista.com/resizer/v2/5RETBTVCJNDI7OTPVI3QCW7AM4.jpg?auth=cb783fe1d23e6b58a7380ca95692cfb487ffe5c0d801e03c7f5cfb7ac31ae128&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:47",
+     "autor": "Audiencias Member",
+     "titulo_original": "Vaca Muerta produce cada vez más, pero el gran salto está afuera del pozo: los sectores que se llevan el derrame"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-07",
+     "titulo": "arranca el 1° de diciembre el Fondo de Asistencia Laboral que cambia las indemnizaciones",
+     "resumen": "El FAL, creado por la Ley de Modernización Laboral 27.802, reemplaza el pago íntegro de la indemnización por despido con un esquema de aportes mensuales que las empresas deberán acumular en una cuenta individual. El 10 de diciembre la Comisión Nacional de Valores hará el primer corte informativo con los empleadores que eligieron dónde invertir sus fondos. Para una empresa: conviene planificar desde ya el aporte mensual adicional y definir con tiempo en qué vehículo de inversión se colocarán los fondos, antes del corte del 10 de diciembre.",
+     "relacionadas": [
+      {
+       "id": "CR-21",
+       "fuente_codigo": "CR",
+       "fuente": "El Cronista",
+       "titulo": "FAL: qué pasa si los empleadores no eligen a tiempo dónde invertir sus fondos",
+       "url": "https://www.cronista.com/finanzas-mercados/fal-cual-es-la-fecha-clave-que-define-cuando-se-podran-usar-los-fondos-para-pagar-indemnizaciones/"
+      }
+     ],
+     "url": "https://www.cronista.com/economia-politica/arranca-el-fal-las-4-claves-del-sistema-que-cambia-las-indemnizaciones-laborales-en-argentina/",
+     "imagen": "https://www.cronista.com/resizer/v2/VDD4W65HYBBBJD6CLXXWHXIQ7M.jpg?auth=30009d0974d25c94a26c1d75b137bd783736837d938a505f039ed8053bc9df66&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:26",
+     "autor": "Audiencias Member",
+     "titulo_original": "Arranca el FAL: las 4 claves del sistema que cambia las indemnizaciones laborales en Argentina"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "pese a la reforma laboral, las empresas enfrentan un sobrecosto millonario en juicios",
+     "resumen": "Se esperan 140.000 juicios por accidentes y enfermedades profesionales en 2026, por encima del récord de 2025, con un costo extra de 2.347 millones de dólares. La Superintendencia de Riesgos del Trabajo lanzó un Monitor de Litigiosidad que se actualizará cada 15 días.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/alerta-en-empresas-por-un-millonario-sobrecosto-que-no-frena-la-reforma-laboral/",
+     "imagen": "https://www.cronista.com/resizer/v2/VLRZQLX46NE2HCYPSO24N4OFRA.jpg?auth=6b8f13c91e2a5b2d67a235ec103ebd22bebebb3931a4109e2a08803712ff704d&smart=true&width=900&height=534",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:45",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "Alerta en empresas por un millonario sobrecosto que no frena la reforma laboral"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "tercer anticipo de Ganancias y Bienes Personales: cuándo conviene pedir la reducción",
+     "resumen": "El pago vence el 14, 15 o 16 de diciembre según la terminación del CUIT. Es el primer anticipo en el que la mayoría de los contribuyentes puede pedirle a ARCA que lo reduzca si proyecta ganar menos que en 2025, aunque estimar de menos genera intereses. Para una empresa: conviene anticipar la proyección de resultados antes del vencimiento para decidir si pedir la reducción, ya que una estimación equivocada tiene costo financiero.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/tercer-anticipo-de-ganancias-y-bienes-personales-cuando-conviene-pedir-la-reduccion-segun-los-mejores-contadores/",
+     "imagen": "https://www.cronista.com/resizer/v2/XBYY5CAWFJBIBBW4I7VFZTZ7YM.jpg?auth=ece9b682cce2fc344b9d1108130e4e0951688819b84ce4c2b704bf1f51d12a52&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:29",
+     "autor": "Audiencias Member",
+     "titulo_original": "Tercer anticipo de Ganancias y Bienes Personales: cuándo conviene pedir la reducción según los mejores contadores"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "el mapa de Ingresos Brutos y tasas municipales: dónde una empresa paga el doble",
+     "resumen": "Según un estudio de IDESA con aval técnico de la Secretaría de Hacienda y financiamiento del BID, un negocio puede pagar entre 3,25 y 6,43 pesos de Ingresos Brutos y tasas municipales por cada 100 pesos que vende, según la ciudad donde opere. Para una empresa: la presión tributaria subnacional varía fuerte según la jurisdicción, un dato clave para decidir dónde abrir o ampliar una sucursal.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-mapa-de-ingresos-brutos-y-tasas-municipales-cual-es-la-ciudad-donde-una-empresa-paga-el-doble/",
+     "imagen": "https://www.cronista.com/resizer/v2/DH3ENS4DZNA4FJXB6PG65VIQWI.jpg?auth=33bfd1a38ee1c0e9bfefd1c9c6100ca3993006237ff3abc184b77a8e12fa214c&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:18",
+     "autor": "Matías Rufino",
+     "titulo_original": "El mapa de Ingresos Brutos y tasas municipales: cuál es la ciudad donde una empresa paga el doble"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "ARBA lanzó un plan de pagos para regularizar Patentes e Inmobiliario con descuentos",
+     "resumen": "El organismo bonaerense puso en marcha un esquema especial para facilitar la regularización de deudas tributarias antes de fin de año, con descuentos para quienes se sumen.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/470098-como-regularizar-patentes-e-inmobiliario-con-descuentos-en-el-nuevo-plan-de-arba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/09/584910.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "06:23",
+     "autor": "",
+     "titulo_original": "Cómo regularizar Patentes e Inmobiliario con descuentos en el nuevo plan de ARBA"
+    },
+    {
+     "id": "IP-16",
+     "titulo": "el Gobierno removió a dos encargados de registros del automotor por perjuicio fiscal",
+     "resumen": "Se detectó un desvío de fondos estatales por más de 337 millones de pesos, lo que llevó a la destitución de dos responsables de oficinas registrales en Córdoba.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/470106-el-gobierno-removio-a-dos-titulares-de-registros-del-automotor-en-cordoba",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/571719.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:00",
+     "autor": "",
+     "titulo_original": "El Gobierno removió a dos encargados de registros del automotor por presunto perjuicio fiscal"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IP-05",
+     "titulo": "Black Friday: los shoppings ofrecerán descuentos de hasta 65% durante tres días",
+     "resumen": "La campaña se extenderá del 27 al 29 de noviembre con promociones en distintos rubros, financiación bancaria y beneficios con billeteras digitales.",
+     "relacionadas": [
+      {
+       "id": "IP-09",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Black Friday 2026: cuánto cuesta un Galaxy S26, un iPhone o un Smart TV con los descuentos",
+       "url": "https://www.iprofesional.com/tecnologia/470105-black-friday-2026-en-la-argentina-las-mejores-ofertas-en-celulares-tv-consolas-y-viajes"
+      },
+      {
+       "id": "IP-12",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Black Friday 2026: qué mirar antes de comprar tecnología, ropa y electrodomésticos",
+       "url": "https://www.iprofesional.com/tecnologia/470113-black-friday-2026-como-saber-si-un-descuento-es-real-antes-de-comprar"
+      }
+     ],
+     "url": "https://www.iprofesional.com/negocios/470119-black-shopping-days-que-shoppings-tendran-descuentos-de-hasta-65",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630430.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:50",
+     "autor": "",
+     "titulo_original": "Black Friday: qué shoppings ofrecerán descuentos de hasta 65% durante tres días"
+    },
+    {
+     "id": "IP-15",
+     "titulo": "los ataques al comercio minorista durante el Black Friday crecen 28%",
+     "resumen": "Los intentos de fraude y robo de datos a compradores aumentan en la previa de la campaña de descuentos. La defensa más efectiva, según especialistas consultados, sigue dependiendo de los buenos hábitos de cada comprador. Para una empresa: reforzar los controles antifraude en el canal online antes del fin de semana de descuentos evita pérdidas por contracargos y reclamos de clientes.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/tecnologia/470109-black-friday-2026-como-evitar-las-tiendas-clonadas-y-el-phishing-en-la-argentina",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2022/12/547567.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:20",
+     "autor": "",
+     "titulo_original": "Black Friday 2026: los ataques al comercio minorista crecen 28% y apuntan a tus datos"
+    },
+    {
+     "id": "IP-18",
+     "titulo": "un shopping cordobés se amplía y sumará marcas internacionales",
+     "resumen": "El centro comercial obtuvo la aprobación municipal para ampliar sus instalaciones, con nuevos locales, cocheras y espacios verdes.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/actualidad/469886-un-shopping-argentino-se-agranda-y-sumara-marcas-internacionales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630430.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:36",
+     "autor": "",
+     "titulo_original": "Un shopping argentino se agranda y sumará marcas internacionales"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "alquileres en CABA: más de 12.000 contratos vencen y diciembre será clave para los inquilinos",
+     "resumen": "Los ajustes trimestrales por ICL serán del 6,04% en los contratos que se renueven. La sobreoferta de viviendas en la Ciudad abre margen para negociar las condiciones de renovación.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/real-estate/alquileres-caba-que-pasa-los-precios-y-que-diciembre-sera-un-mes-clave-los-inquilinos-n6349296",
+     "imagen": "https://media.ambito.com/p/175d567f1369f41e86f209581b1a7ce9/adjuntos/239/imagenes/043/797/0043797039/1200x675/764x648:784x668/alquileres-calculadora-propiedades.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Alquileres en CABA: qué pasa con los precios y por qué diciembre será un mes clave para los inquilinos"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "IP-14",
+     "titulo": "las empresas todavía no contemplan el burnout por IA en sus planes de bienestar",
+     "resumen": "Según un relevamiento de WTW, el 22% de los empleadores en Argentina planea reducir o posponer la inversión en programas de bienestar corporativo, justo cuando crece la preocupación por el desgaste que genera la adopción acelerada de inteligencia artificial en los equipos.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/470101-burnout-por-ia-empresas-no-lo-suman-a-los-planes-de-bienestar",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2023/08/558948.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "09:22",
+     "autor": "",
+     "titulo_original": "Las empresas aún no contemplan el burnout por IA en los planes de bienestar"
+    },
+    {
+     "id": "CR-20",
+     "titulo": "saber qué problema resuelve el negocio, la clave que muchos emprendedores pasan por alto",
+     "resumen": "Según un análisis publicado por El Cronista, muchos emprendedores conocen bien el producto que venden pero no tienen claro qué necesidad concreta resuelven para sus clientes, lo que dificulta ajustar la propuesta de valor y el precio.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/sabes-que-problema-resuelve-tu-negocio/",
+     "imagen": "https://www.cronista.com/resizer/v2/A2AFRWYLEJEU7J733MEQBXZC2M.jpg?auth=6e9d2a02f0bb4e208161554123b574cb5c2368bb992e52cecdcc0cc350512290&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "09:07",
+     "autor": "Sheila Saad",
+     "titulo_original": "¿Sabés qué problema resuelve tu negocio?"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "CL-03",
+     "titulo": "medios hutíes reportan ataques sauditas contra la capital de Yemen",
+     "resumen": "Los ataques aéreos sauditas golpearon Saná y otras áreas controladas por los hutíes. La escalada bélica entre ambos bandos se intensifica desde julio, con defensas sauditas que interceptaron misiles dirigidos a Riad.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/estados-unidos/medios-huties-reportan-ataques-sauditas-contra-capital-de-yemen_0_etEutAibkB.html",
+     "imagen": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Medios hutíes reportan ataques sauditas contra capital de Yemen"
+    },
+    {
+     "id": "CL-06",
+     "titulo": "Kim Jong-un rechaza una reunión con Trump y promete más armas nucleares",
+     "resumen": "El líder norcoreano rechazó la posibilidad de un encuentro con el presidente estadounidense, que había sido planteada durante la visita de Trump a China la semana pasada. Kim visitó instalaciones atómicas esta semana y llamó a avanzar en la producción de armamento.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/kim-jong-un-vuelve-desafiar-donald-trump-promete-construir-armas-nucleares-corea-norte_0_V8vq1Bi1GV.html",
+     "imagen": "https://www.clarin.com/img/2026/11/26/OIhyMMkcE_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Kim Jong-un vuelve a desafiar a Donald Trump y promete construir más armas nucleares en Corea del Norte"
+    },
+    {
+     "id": "CL-08",
+     "titulo": "Italia aprobó la prohibición del burka y el niqab en las escuelas",
+     "resumen": "El Congreso italiano avaló la medida impulsada por Giorgia Meloni, que también multa a los padres si sus hijos la incumplen y pone un tope del 30% a la cantidad de estudiantes extranjeros por aula. La oposición acusa a la primera ministra de demagogia electoral.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/mundo/italia-congreso-avalo-prohibicion-burka-niqab-escuelas-multaran-padres-hijos-incumplen_0_nObKarNAZS.html",
+     "imagen": "https://www.clarin.com/img/2026/09/22/-ikKH1OV5_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Italia: el Congreso avaló la prohibición del burka y el niqab en las escuelas y multarán a los padres si sus hijos la incumplen"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "España define esta noche su último debate electoral antes de las elecciones del domingo",
+     "resumen": "Pedro Sánchez (PSOE), Alberto Núñez Feijóo (PP), Santiago Abascal (Vox) y Ada Colau (Frente Amplio) debaten a las 22 horas de España, 18 de Argentina, en el cierre de la campaña antes de la votación del 29 de noviembre. Las encuestas publicadas hasta el lunes, último día habilitado, ubican al PP primero y al PSOE segundo.",
+     "relacionadas": [
+      {
+       "id": "LN-08",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Elecciones España 2026, EN VIVO: debate presidencial hoy, las últimas encuestas y las noticias del 29-N",
+       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-espana-2026-en-vivo-que-dicen-las-encuestas-y-las-ultimas-noticias-hoy-nid26112026/"
+      },
+      {
+       "id": "LN-25",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Encuestas de las elecciones de España del 29N: resultados de PSOE, PP y Vox según los últimos sondeos publicados",
+       "url": "https://www.lanacion.com.ar/el-mundo/encuestas-de-las-elecciones-de-espana-del-29n-resultados-de-psoe-pp-y-vox-segun-los-ultimos-sondeos-nid25112026/"
+      }
+     ],
+     "url": "https://www.infobae.com/america/agencias/2026/11/26/los-partidos-espanoles-ultiman-los-preparativos-para-el-ultimo-debate-electoral/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Los partidos españoles ultiman los preparativos para el último debate electoral"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "Pablo Hernández de Cos sucederá a Christine Lagarde al frente del BCE",
+     "resumen": "El presidente del Gobierno español, Pedro Sánchez, reivindicó el liderazgo de España en Europa tras la designación del exgobernador del Banco de España. Países Bajos, que había presentado como candidato a Klaas Knot, terminó apoyando a Hernández de Cos para lograr consenso en la zona euro.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/26/sanchez-reivindica-el-liderazgo-de-espana-en-europa-con-la-eleccion-de-hernandez-de-cos/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Sánchez reivindica el liderazgo de España en Europa con la elección de Hernández de Cos"
+    },
+    {
+     "id": "LN-19",
+     "titulo": "la aerolínea noruega Norse Atlantic suspende sus vuelos y advierte sobre su quiebra",
+     "resumen": "La low cost perdió casi el 99% de su valor de mercado este año y necesita con urgencia una solución de financiación de corto plazo. La industria aeronáutica mundial atraviesa su peor crisis desde la pandemia por la suba de los precios del combustible ligada a la guerra en Irán.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/el-mundo/la-lowcost-norse-atlantic-suspende-sus-vuelos-y-advierte-sobre-su-quiebra-nid26112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/S2UYPRCPIVENBGMRASO3K3VQMI.png?auth=1146d4aff1ea25fb30c2c559b7fd5ff6d0abea5c279c1d703ba5df4a0165fc95&smart=true&width=900&height=507",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:57",
+     "autor": "",
+     "titulo_original": "La lowcost Norse Atlantic suspende sus vuelos y advierte sobre su quiebra"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "SpaceX obtiene autorización para poner en órbita un millón de centros de datos",
+     "resumen": "La Comisión Federal de Comunicaciones de Estados Unidos autorizó a la empresa de Elon Musk a lanzar hasta un millón de satélites para construir centros de datos impulsados por energía solar, con el objetivo de alcanzar 77 gigavatios de potencia de cálculo en órbita hacia 2031. Le Grand Continent señala que la FCC definió la meta como acercar a la humanidad a una \"civilización de tipo Kardashev II\", capaz de aprovechar toda la energía del Sol.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/26/spacex-obtiene-autorizacion-de-lanzar-un-millon-de-centros-de-datos-en-orbita-para-2040/",
+     "imagen": "https://s.w.org/images/core/emoji/15.0.3/72x72/1f1fa-1f1f8.png",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "12:01",
+     "autor": "Marin Saillofest",
+     "titulo_original": "SpaceX obtiene autorización para poner en órbita un millón de centros de datos de aquí a 2040"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "la ley oculta del capitalismo: los cambios de época se esconden en la energía",
+     "resumen": "La revista francesa recupera el trabajo del economista quebequés Pierre Perron sobre rupturas en las tendencias económicas para sostener que, detrás de los grandes cambios en el orden económico mundial, aparecen sistemáticamente transformaciones en el sector energético. El análisis conecta esa lectura histórica con los debates actuales sobre la transición energética.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/26/la-ley-oculta-del-capitalismo/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "06:42",
+     "autor": "Louis Puel",
+     "titulo_original": "La ley oculta del capitalismo"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-15",
+     "titulo": "Boca venció 2-0 a Independiente Rivadavia y clasificó a cuartos del Clausura",
+     "resumen": "El equipo de Rodolfo Arruabarrena se impuso con claridad en la Bombonera y seguirá en los cuartos de final ante Gimnasia de La Plata. La AFA confirmó que ese cruce se jugará el domingo a las 20.30 en La Plata.",
+     "relacionadas": [
+      {
+       "id": "LN-18",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "La AFA definió los partidos de los cuartos de final del Clausura: el partido de Boca se adelantó una hora y media",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/la-afa-informo-los-dias-y-horarios-de-los-cuartos-de-final-del-torneo-clausura-nid25112026/"
+      },
+      {
+       "id": "AM-21",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Clausura 2026: quedaron definidos los cruces, días y horarios de los cuartos de final",
+       "url": "https://www.ambito.com/deportes/clausura-2026-quedaron-definidos-los-cruces-dias-y-horarios-los-cuartos-final-n6349481"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/boca-a-cuartos-del-clausura-disfruta-de-sus-titulos-pero-juega-como-si-no-hubiese-ganado-nada-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/NSBK4LGBUBAVNMZDH6O2CSGWDY.jpg?auth=76b4d7a76234b5961078b473a098c367badce4774afa65fbd89e7db22a2283e7&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:40",
+     "autor": "Leandro Contento",
+     "titulo_original": "Boca, a cuartos del Clausura: disfruta de sus títulos, pero juega como si no hubiese ganado nada"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "Instituto y River definen un cuarto de final del Clausura el sábado",
+     "resumen": "El cruce se juega el sábado a las 22 en el estadio Monumental Presidente Perón, con arbitraje de Nazareno Arasa y televisación de ESPN Premium. El ganador se verá las caras con el vencedor entre Vélez e Independiente.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/instituto-vs-river-por-el-torneo-clausura-2026-dia-horario-tv-y-como-ver-online-nid26112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/AMWD4HVEDBHBDIVICKOWPVWCQY.jpg?auth=0f944443a5596f52c95afe572dd7d1c44e1855574d9255af5e68b63adc561015&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:49",
+     "autor": "",
+     "titulo_original": "Instituto vs. River, por el Torneo Clausura 2026: día, horario, TV y cómo ver online"
+    },
+    {
+     "id": "IB-18",
+     "titulo": "más de 35.000 hinchas de Estudiantes viajarán a Montevideo para la final de la Libertadores",
+     "resumen": "El conjunto de La Plata define el título ante Palmeiras el sábado a las 17 en el estadio Centenario. La movilización incluye vuelos, ferris, micros y hasta bicicletas desde distintos puntos del país.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/26/la-masiva-caravana-pincha-a-montevideo-cuantos-hinchas-de-estudiantes-viajaran-para-la-final-de-la-copa-libertadores/",
+     "imagen": "https://www.infobae.com/resizer/v2/A3O47XCB3JAVDIKOGIEIYCMFNM.JPG?auth=4655a924a60e37fde5f8ab568d982b2c7b50a387db3d7272dcef7e566b86f92f&smart=true&width=900&height=629",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:58",
+     "autor": "",
+     "titulo_original": "La masiva caravana Pincha a Montevideo: cuántos hinchas de Estudiantes viajarán para la final de la Copa Libertadores"
+    },
+    {
+     "id": "CL-11",
+     "titulo": "Haas confirmó a Oliver Bearman y la Fórmula 1 completó su grilla de pilotos para 2027",
+     "resumen": "El piloto británico de 21 años extenderá su vínculo por tercer año consecutivo con la escudería estadounidense y será compañero del debutante brasileño Rafael Camara. Con este anuncio quedaron cubiertas las 22 butacas de los 11 equipos de la categoría para la próxima temporada.",
+     "relacionadas": [
+      {
+       "id": "AM-05",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Haas anunció a Oliver Bearman como piloto y quedaron confirmadas todas las plazas de la Fórmula 1 2027",
+       "url": "https://www.ambito.com/deportes/haas-anuncio-oliver-bearman-como-piloto-y-quedaron-confirmadas-todas-las-plazas-la-formula-1-2027-n6349613"
+      },
+      {
+       "id": "IB-26",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El mapa de pilotos de la Fórmula 1 para 2027 tras el anuncio de Haas por la renovación de Bearman: así quedó la alineación de los 22 equipos",
+       "url": "https://www.infobae.com/deportes/2026/11/26/el-mapa-de-pilotos-de-la-formula-1-para-2027-tras-el-anuncio-de-haas-por-la-renovacion-de-bearman-asi-quedo-la-alineacion-de-los-22-equipos/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/ollie-bearman-seguira-haas-formula-1-grilla-completa-2027_0_7TTV7OIYtK.html",
+     "imagen": "https://www.clarin.com/img/2026/11/26/7zAjDDRMf_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:40",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ollie Bearman seguirá en Haas y la Fórmula 1 ya tiene su grilla completa para 2027"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "la FIFA sufrió un ciberataque y confirmó el robo de información personal",
+     "resumen": "El organismo que preside Gianni Infantino admitió que hackers accedieron a sus sistemas mediante la suplantación de identidad de empleados y habrían sustraído más de 12 gigabytes de datos, incluidos documentos personales y registros financieros. El episodio ocurre en plena campaña presidencial de la entidad.",
+     "relacionadas": [
+      {
+       "id": "AM-20",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "La FIFA sufrió un ciberataque y le robaron más de 12 gigabytes de información confidencial",
+       "url": "https://www.ambito.com/deportes/la-fifa-sufrio-un-ciberataque-y-le-robaron-mas-12-gigabytes-informacion-confidencial-n6349497"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/ciberataque-fifa-denuncian-hackers-accedieron-informacion-personal-organismo-investiga-filtracion_0_fppsarFeBE.html",
+     "imagen": "https://www.clarin.com/img/2026/08/07/EYvoHvSve_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:38",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Ciberataque a la FIFA: denuncian que hackers accedieron a \"información personal\" y el organismo investiga la filtración"
+    },
+    {
+     "id": "LN-14",
+     "titulo": "un árbitro fue acusado de dirigir ebrio y debió ser reemplazado en la Champions de Asia",
+     "resumen": "Hanna Hattab, árbitro sirio, mostró un comportamiento errático durante el partido entre Al Jazira y Gol Gohar, en Abu Dabi, y tuvo que dejar la cancha en el entretiempo. El equipo visitante llegó a negarse a seguir jugando si continuaba al frente del arbitraje; el encuentro terminó 1-1.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/deportes/futbol/escandalo-en-la-champions-de-asia-un-arbitro-fue-acusado-de-dirigir-ebrio-y-lo-reemplazaron-en-el-nid26112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/Y7ISKBRSZVERRDWXIQ7AOYTTWQ.JPG?auth=bef9a88ba92055b49ab6e9f3fde0990cae73185640f12938c071e6ea9ec57540&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "09:14",
+     "autor": "",
+     "titulo_original": "Escándalo en la Champions de Asia: un árbitro fue acusado de dirigir ebrio y lo reemplazaron en el entretiempo"
+    },
+    {
+     "id": "AM-13",
+     "titulo": "un árbitro golpeó a un arquero argentino tras una final de copa en Bolivia",
+     "resumen": "Jordy Alemán agredió a Cristian Martínez después del empate entre Real Potosí y Always Ready. Los medios locales anticipan que el árbitro podría recibir una sanción de hasta tres años.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/deportes/insolito-episodio-bolivia-un-arbitro-golpeo-un-arquero-argentino-la-final-la-copa-y-podria-recibir-una-dura-sancion-n6349525",
+     "imagen": "https://media.ambito.com/p/622bc48d53e6bf9784baecdee9fab1ca/adjuntos/239/imagenes/043/797/0043797705/1200x675/803x256:823x276/bolivia-arbitro.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:25",
+     "autor": "",
+     "titulo_original": "Insólito episodio en Bolivia: un árbitro golpeó a un arquero argentino tras la final de la Copa y podría recibir una dura sanción"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "CR-05",
+     "titulo": "una chacra de Puerto Iguazú busca voluntarios y ofrece alojamiento gratis a cambio de trabajo",
+     "resumen": "La granja familiar, ubicada a cuatro kilómetros de Puerto Iguazú, en Misiones, publicó la búsqueda en Workaway, la plataforma que conecta viajeros con anfitriones. A cambio de 25 horas semanales de trabajo en el proyecto turístico, ofrece alojamiento, internet y acceso privado a las cascadas, aunque varios gastos corren por cuenta del voluntario.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/clase/break/una-granja-cerca-de-puerto-iguazu-busca-voluntarios-para-trabajar-25-horas-por-semana-ofrece-alojamiento-gratis-internet-y-acceso-privado-a-cascadas/",
+     "imagen": "https://www.cronista.com/resizer/v2/FK6PNNQDIVEZJL7KVQFT6YAQKU.jpg?auth=beff0c2b3a391a1af2059a83a3708fafd2e4383ce22362ae52201e3c9a078acb&smart=true&width=900&height=475",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:44",
+     "autor": "Equipo Audiencias Argentina",
+     "titulo_original": "Una granja cerca de Puerto Iguazú busca voluntarios para trabajar 25 horas por semana: ofrece alojamiento gratis, internet y acceso privado a cascadas"
+    },
+    {
+     "id": "CR-06",
+     "titulo": "vuelve en ferry una ruta de lujo desde Puerto Madero a Carmelo, Uruguay",
+     "resumen": "Colonia Express retomó la conexión fluvial con la ciudad uruguaya de Carmelo después de más de siete años sin un servicio regular, con cinco frecuencias semanales y paquetes de hotelería y bodegas boutique. La ruta había sido operada históricamente por la empresa Cacciola, que quebró en 2019.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/vuelve-una-ruta-de-lujo-en-ferry-a-uruguay-desde-puerto-madero-con-paquetes-de-hoteleria-y-bodegas-boutique/",
+     "imagen": "https://www.cronista.com/resizer/v2/767GNBUP6FHHTGQWIU4S3XH7NE.png?auth=35e781235dc52ea51f9e65ce89a5498b3ce35f64adcb30b521b96093c86088ea&smart=true&width=900&height=1007",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:37",
+     "autor": "Ayelén Trujillo",
+     "titulo_original": "Vuelve una ruta “de lujo” en ferry a Uruguay desde Puerto Madero con paquetes de hotelería y bodegas boutique"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "IB-19",
+     "titulo": "pánico en el Tren Mitre: evacuaron a 219 pasajeros por chispazos y humo",
+     "resumen": "Una formación que circulaba desde José León Suárez hacia Retiro quedó detenida entre las estaciones Colegiales y Carranza tras un foco de incendio debajo de un vagón. Dos de los tres ramales del Mitre quedaron fuera de servicio y el operativo del SAME involucró a 50 ambulancias.",
+     "relacionadas": [
+      {
+       "id": "CL-26",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Incendio en un tren de la línea Mitre: evacúan a los pasajeros por chispazos y humo en las vías",
+       "url": "https://www.clarin.com/sociedad/incendio-tren-linea-mitre-evacuan-pasajeros-chispazos-humo-vias_0_3ZI4I3uSDO.html"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/2026/11/26/no-funciona-el-tren-mitre-una-formacion-quedo-detenida-entre-humo-y-chispazos/",
+     "imagen": "https://www.infobae.com/resizer/v2/HCIXSZMV2FHYNGPVQG74YZLXZ4.jpg?auth=61e367e7dcc12e33f0823bf411faf6c83bbb72a63cf5a125645b549e283d8cea&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:32",
+     "autor": "",
+     "titulo_original": "Pánico en el Tren Mitre: evacuaron a 219 pasajeros de una formación por chispazos y presencia de humo"
+    },
+    {
+     "id": "LN-16",
+     "titulo": "un temporal con vientos de 140 kilómetros por hora destrozó una planta de acopio de granos en Santa Fe",
+     "resumen": "La empresa Agroideas SA sufrió daños severos en su planta de la zona rural de Frontera: tres elevadores de granos cayeron y varios silos quedaron deformados. Pese a la magnitud del temporal, no hubo heridos y la compañía logró retomar parte de su actividad pocas horas después.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/campo/no-lo-podiamos-creer-un-temporal-con-vientos-de-140-kilometros-por-hora-destrozo-una-planta-de-nid25112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/IPPO7CYFAZFRLL2MO2D2YSERMU.png?auth=8249e6ff6650507a81255004c4f3955103149e4edf60296bc4143560b3b4954f&smart=true&width=900&height=636",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "08:34",
+     "autor": "Pilar Vazquez",
+     "titulo_original": "“No lo podíamos creer”: un temporal con vientos de 140 kilómetros por hora destrozó una planta de acopio de granos"
+    },
+    {
+     "id": "LN-21",
+     "titulo": "alerta amarilla por tormentas y vientos fuertes en varias provincias",
+     "resumen": "El Servicio Meteorológico Nacional advirtió sobre fenómenos potencialmente peligrosos este jueves en Jujuy, Salta, La Rioja, San Juan y Mendoza, con tormentas aisladas, caída de granizo y ráfagas intensas. En la Ciudad de Buenos Aires la máxima prevista es de 26 grados.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-y-vientos-fuertes-para-este-jueves-26-de-noviembre-las-nid26112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5QBKTXPLNNGAZIA4CQBIPLWDY4.png?auth=8a1f7558da2670df033d4bcdd0e74305b1172179896f8792137b108ce526401b&smart=true&width=607&height=412",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:45",
+     "autor": "",
+     "titulo_original": "Hay alerta amarilla por tormentas y vientos fuertes para este jueves 26 de noviembre: las provincias afectadas"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "encontraron sin vida al joven de 19 años que había desaparecido en un canal de Tigre",
+     "resumen": "Nicolás Daniel Pereyra se había arrojado al agua del Canal Villanueva, en el partido bonaerense de Tigre, para refrescarse junto a dos amigas y fue arrastrado por la corriente. Defensa Civil confirmó el hallazgo del cuerpo tras un operativo que se extendió durante toda la noche.",
+     "relacionadas": [
+      {
+       "id": "LN-12",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Encontraron el cuerpo de un joven de 19 años que había desaparecido en Dique Luján",
+       "url": "https://www.lanacion.com.ar/sociedad/encontraron-el-cuerpo-de-un-joven-de-19-anos-que-habia-desaparecido-en-el-dique-lujan-nid26112026/"
+      }
+     ],
+     "url": "https://www.infobae.com/sociedad/policiales/2026/11/26/hallaron-muerto-a-un-joven-de-19-anos-que-habia-ingresado-a-las-aguas-de-un-canal-del-rio-lujan-en-tigre/",
+     "imagen": "https://www.infobae.com/resizer/v2/UH6OUUPCIZCJTFBOS322WJV3QQ.jpg?auth=491e4f31ac035393a8dc1f448c469d3c6d6fea7eb98ba44e41e5f396a68fab24&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "Hallaron muerto a un joven de 19 años que había ingresado a las aguas de un canal del río Luján en Tigre"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del jueves 26 de noviembre. El Senado comenzó a debatir la suspensión de las PASO para 2027 y la ley de ludopatía, mientras Diputados discute en paralelo el Presupuesto 2027 y la reforma del Banco Central. El dólar oficial marcó un nuevo récord nominal y encadenó ocho subas seguidas, en una jornada marcada además por el feriado de Acción de Gracias en Estados Unidos. Boca avanzó a cuartos del Clausura y Estudiantes ultima los preparativos para la final de la Copa Libertadores del sábado en Montevideo. Según el panel de mercados, el dólar oficial cotiza en mil seiscientos veinticinco pesos para la venta, el dólar blue en mil setecientos pesos, el oro se ubica en tres mil seiscientos siete dólares la onza y el riesgo país sigue por encima de los mil puntos básicos.\n\nEn política, el Senado sesiona desde el mediodía con la reforma electoral como principal punto del temario. El jefe de Gabinete, Diego Santilli, aseguró horas antes del debate que el oficialismo reunirá más de los treinta y siete votos necesarios, y defendió la suspensión de las primarias con tres argumentos: evitar que los ciudadanos voten hasta seis veces en un año electoral, ahorrar los doscientos millones de dólares que cuesta el sistema y reducir la saturación de propaganda. El proyecto, además de suspender las PASO, prohíbe candidaturas a políticos con condena firme y modifica las reglas de boletas, campañas y debates presidenciales; si se aprueba, necesitará luego ciento veintinueve votos en Diputados. La Cámara baja, a su vez, debate el Presupuesto 2027 y la reforma de la Carta Orgánica del Banco Central, con el oficialismo tratando de sumar a sus aliados a los ciento veintiún diputados propios. En el plano internacional, Javier Milei se reunió en Paraguay con el nuevo presidente Pedro Alliana, mientras el embajador de Estados Unidos, Peter Lamelas, le dijo a Donald Trump que le gustaría volver a ver juntos a los dos presidentes. El juez Daniel Rafecas citó a indagatoria al número dos del Opus Dei por una causa de trata de mujeres con cuarenta y tres denuncias.\n\nEn economía y mercados, el dólar oficial sigue en alza y la city ya detectó maniobras de intervención oficial con futuros y reservas para contener la escalada cambiaria, según iProfesional. JP Morgan advirtió que los bonos argentinos ya reflejan cincuenta por ciento de probabilidad de un triunfo opositor en 2027, aunque proyecta que la economía crecerá uno coma ocho por ciento el año próximo. El economista Lorenzo Sigaut Gravina coincidió en que la previa electoral sumará presión cambiaria, porque esta vez los inversores no tienen certezas sobre la continuidad del programa después de diciembre de 2027. El consumo masivo cayó siete coma cinco por ciento interanual en el último bimestre, la mayor baja en un año, con las bebidas como el rubro más golpeado. El Tesoro, mientras tanto, canjeó con el Banco Central tres títulos que vencían en noviembre y diciembre por nuevos instrumentos con vencimiento en 2027, y los bancos ya venden hasta cuatrocientos millones de dólares diarios por home banking.\n\nEn negocios y empresas, la Justicia decretó la quiebra de la cadena de panaderías Pandanés después de que el único interesado en un salvataje, un heredero de la cadena Ugi's, se bajara de la operación; la empresa ya había cerrado sus veinticinco locales y despedido a cien empleados. La compañía argentina 360Energy consiguió financiamiento en Brasil por doscientos cincuenta y cinco millones de reales para levantar parques solares de Stellantis. El Gobierno oficializó el ingreso de Argentina LNG al régimen RIGI con una inversión histórica de cincuenta mil setecientos cincuenta millones de dólares, liderada por YPF, la italiana Eni y la emiratí Adnoc. Tesla, por su parte, ya vende en Argentina un modelo más barato que en Uruguay, después de que la marca subiera precios del otro lado del río. Y en Neuquén, Vaca Muerta sigue empujando el empleo y los salarios de toda la provincia, más allá de los puestos directamente ligados a la extracción.\n\nEn impuestos y normativa, el primero de diciembre arranca el Fondo de Asistencia Laboral, que cambia la forma de financiar las indemnizaciones por despido con aportes mensuales de las empresas. Para una empresa, conviene definir cuanto antes dónde invertir esos fondos, porque el diez de diciembre la Comisión Nacional de Valores hace el primer corte informativo. Pese a la reforma laboral, un informe de la Superintendencia de Riesgos del Trabajo anticipa ciento cuarenta mil juicios por accidentes y enfermedades profesionales este año, con un sobrecosto de dos mil trescientos cuarenta y siete millones de dólares. También vence en diciembre el tercer anticipo de Ganancias y Bienes Personales, y un estudio de IDESA mostró que, según la ciudad donde opere, una empresa puede pagar entre tres y seis pesos de Ingresos Brutos y tasas municipales por cada cien pesos que vende.\n\nEn consumo, construcción y retail, el Black Friday arranca mañana y se extiende hasta el sábado con descuentos de hasta sesenta y cinco por ciento en los shoppings, aunque los especialistas también advierten que los ataques informáticos al comercio minorista crecen un veintiocho por ciento en esta época del año. Un shopping cordobés obtuvo permiso municipal para ampliarse y sumar marcas internacionales, y en la Ciudad de Buenos Aires más de doce mil contratos de alquiler vencen en diciembre, con ajustes trimestrales del seis por ciento según el índice de contratos de locación.\n\nEn management y finanzas corporativas, un relevamiento de WTW encontró que el veintidós por ciento de los empleadores en Argentina planea reducir o posponer la inversión en bienestar corporativo, justo cuando crece la preocupación por el desgaste que trae la adopción acelerada de inteligencia artificial en los equipos.\n\nEn el mundo, la guerra en Yemen se recrudece con nuevos ataques aéreos sauditas contra Saná, mientras Kim Jong-un rechazó una reunión con Donald Trump y prometió fabricar más armas nucleares en Corea del Norte. Italia aprobó la prohibición del burka y el niqab en las escuelas, impulsada por Giorgia Meloni. España define esta noche su último debate electoral antes de las elecciones del domingo, con el Partido Popular como favorito en las encuestas. El español Pablo Hernández de Cos sucederá a Christine Lagarde al frente del Banco Central Europeo. Y la aerolínea noruega Norse Atlantic suspendió sus vuelos y advirtió que podría ir a la quiebra, en medio de la peor crisis de la aviación mundial desde la pandemia.\n\nLe Grand Continent analiza dos temas en esta edición: la autorización que Estados Unidos le dio a SpaceX para poner en órbita hasta un millón de satélites y construir centros de datos impulsados por energía solar, y un repaso histórico que sostiene que los grandes cambios del capitalismo mundial siempre vienen precedidos por transformaciones en el sector energético.\n\nEn deportes, Boca venció dos a cero a Independiente Rivadavia y clasificó a cuartos del Clausura, donde jugará con Gimnasia de La Plata el domingo; Instituto y River definen otro cruce el sábado. Más de treinta y cinco mil hinchas de Estudiantes viajan a Montevideo para la final de la Copa Libertadores del sábado ante Palmeiras. Haas confirmó a Oliver Bearman y la Fórmula uno ya tiene completa su grilla de pilotos para 2027. La FIFA sufrió un ciberataque y confirmó el robo de información personal, mientras en Bolivia un árbitro golpeó a un arquero argentino tras la final de una copa local, y en la Champions de Asia otro árbitro debió ser reemplazado en el entretiempo tras ser acusado de dirigir ebrio.\n\nEn turismo, una chacra cerca de Puerto Iguazú, en Misiones, busca voluntarios y ofrece alojamiento gratis y acceso privado a las cascadas a cambio de horas de trabajo semanal. Y volvió el servicio en ferry de lujo entre Puerto Madero y la ciudad uruguaya de Carmelo, después de siete años sin esa conexión.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "No se encontraron novedades de Franco Colapinto ni del Club Atlético Tigre en el material de esta corrida.",
+ "slug": "2026-11-26-mediodia",
+ "generado_ba": "26/11/2026 15:15"
+}
