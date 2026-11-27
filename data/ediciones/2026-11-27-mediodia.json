@@ -1,0 +1,798 @@
+{
+ "fecha": "2026-11-27",
+ "edicion": "mediodia",
+ "titulo": "Riesgo país perfora los mil puntos y Colapinto larga 12° en Catar",
+ "apertura": "El mediodía trae una fuerte recomposición financiera: el riesgo país se desplomó más de 11% y perforó los 1.000 puntos, mientras los bonos argentinos suben casi 5% en Wall Street, en un clima que también incluye la gira que el Gobierno prepara por Estados Unidos para avanzar con las privatizaciones pendientes. En el plano judicial avanzan varias causas sensibles, de Oil Combustibles al juicio Hotesur-Los Sauces y la investigación a la AFA. El fin de semana combina la final de la Copa Libertadores en Montevideo, las elecciones generales en España y el debut de Franco Colapinto en la pista del Gran Premio de Catar, además del sorpresivo retiro de Marc Márquez del MotoGP.",
+ "claves": [
+  "El riesgo país se desplomó 11,3% este viernes y perforó los 1.000 puntos, hasta 946, con bonos que suben casi 5% en Wall Street.",
+  "El Gobierno saldrá de gira por Estados Unidos en diciembre para vender ante inversores las privatizaciones pendientes, con el Belgrano Cargas como apuesta principal.",
+  "Uber quedó a un paso de tomar el control de PedidosYa en la Argentina tras una oferta de US$ 14.800 millones por Delivery Hero.",
+  "La cosecha 2025/2026 alcanzó un récord histórico, 30 millones de toneladas por encima del ciclo anterior, con exportaciones que rondarían los US$ 44.869 millones.",
+  "Nvidia fue citada como testigo por el Departamento de Justicia de Estados Unidos en la causa contra Megaspeed por desvío de chips de inteligencia artificial a China.",
+  "Franco Colapinto terminó 12° en la primera práctica del Gran Premio de Catar, y Marc Márquez sorprendió con el anuncio de su retiro del MotoGP tras ocho títulos.",
+  "Estudiantes de La Plata y Palmeiras juegan mañana la final de la Copa Libertadores en Montevideo, y España vota el domingo tras un último debate con duros cruces entre los cuatro candidatos.",
+  "La Justicia avanzó en varias causas sensibles: Oil Combustibles, la transferencia de la AFA a Chiqui Tapia y el reinicio del juicio Hotesur-Los Sauces el lunes."
+ ],
+ "cifras": [
+  {
+   "nombre": "Bono Global 2046 (GD46)",
+   "valor": "+4,67%",
+   "fuente": "CL-11"
+  },
+  {
+   "nombre": "Patentamientos de motos en 2026",
+   "valor": "~900.000 unidades",
+   "variacion": "+40% interanual",
+   "fuente": "CR-10"
+  },
+  {
+   "nombre": "Cosecha de granos, campaña 2025/26",
+   "valor": "+30 millones de toneladas vs. ciclo anterior",
+   "fuente": "AM-16"
+  },
+  {
+   "nombre": "Exportaciones agrícolas proyectadas 2026",
+   "valor": "US$ 44.869 millones",
+   "fuente": "AM-16"
+  },
+  {
+   "nombre": "Diferencia de carga tributaria sobre alimentos, interior vs. CABA",
+   "valor": "hasta 2,7 puntos porcentuales",
+   "fuente": "IP-14"
+  }
+ ],
+ "secciones": [
+  {
+   "nombre": "Política",
+   "notas": [
+    {
+     "id": "CL-13",
+     "titulo": "la Justicia falló en contra de Cristóbal López y Fabián de Sousa en la causa Oil Combustibles",
+     "resumen": "La Cámara Federal de Casación Penal rechazó el cierre de la causa Oil Combustibles, al considerar que el expediente por retención indebida del impuesto a los combustibles no ha prescripto. La causa investiga a Cristóbal López y Fabián de Sousa.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/politica/oil-combustibles-justicia-fallo-cristobal-lopez-fabian-sousa-rechazar-cierre-causa_0_di11s5b4ey.html",
+     "imagen": "https://www.clarin.com/img/2026/11/27/C5Y8gtdk3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:32",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Oil Combustibles: la Justicia falló en contra de Cristóbal López y Fabián de Sousa al rechazar el cierre de la causa"
+    },
+    {
+     "id": "LN-11",
+     "titulo": "el fiscal Pollicita pidió investigar una transferencia de la AFA a Chiqui Tapia por 260 millones de pesos",
+     "resumen": "El fiscal Gerardo Pollicita solicitó al juez Ariel Lijo una serie de medidas de prueba en la causa por enriquecimiento ilícito contra el presidente de la AFA, Claudio Tapia, entre ellas una transferencia de 260 millones de pesos que la entidad le hizo en junio de 2023 y que no coincide con sus declaraciones juradas patrimoniales. El pedido incluye además la venta de una propiedad en Caballito por 950.000 dólares y un depósito de 620.000 dólares en efectivo.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/el-fiscal-pollicita-pidio-investigar-una-transferencia-de-la-afa-a-claudio-chiqui-tapia-por-260-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SQVDFXKZOZAWXOZNE4XSOQSUXU.JPG?auth=5358589e33a17d45d63e0ad83b2995821c0ad08d4cc7778de55ee430ef45b83e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:49",
+     "autor": "",
+     "titulo_original": "El fiscal Pollicita pidió investigar una transferencia de la AFA a Claudio “Chiqui” Tapia por 260 millones de pesos"
+    },
+    {
+     "id": "IB-06",
+     "titulo": "el juicio por Hotesur-Los Sauces retoma el lunes con la lectura de las acusaciones",
+     "resumen": "El Tribunal Oral Federal 5 programó para el lunes el inicio del tramo Hotesur del juicio contra la expresidenta Cristina Kirchner, su hijo el diputado Máximo Kirchner y otros 16 acusados, tras una breve audiencia que cerró el capítulo Los Sauces. La causa investiga una presunta maniobra de lavado de activos a través de la actividad hotelera, con fondos de obra pública vial en Santa Cruz.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/judiciales/2026/11/27/juicio-hotesur-los-sauces-las-acusaciones-contra-cfk-por-el-manejo-de-sus-hoteles/",
+     "imagen": "https://www.infobae.com/resizer/v2/EIEH7QCVAFHB7INU6HHR2LMIOM.jpg?auth=a211dc085c873778c4622d9369af01c8781a942b4d66c15b87a667f12cd309cc&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:02",
+     "autor": "",
+     "titulo_original": "Juicio Hotesur-Los Sauces: las acusaciones por los hoteles de los Kirchner se leerán desde el lunes"
+    },
+    {
+     "id": "LN-06",
+     "titulo": "Orrego busca eliminar la ley de lemas y avanzar con la boleta única de papel en San Juan",
+     "resumen": "El gobernador de San Juan, Marcelo Orrego, envió a la Legislatura provincial un proyecto de nuevo Código Electoral Provincial para eliminar el Sistema de Participación Democrática, la ley de lemas aprobada durante la gestión del exgobernador Sergio Uñac y utilizada en las elecciones de 2023.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/politica/marcelo-orrego-busca-implementar-la-boleta-unica-de-papel-y-eliminar-la-ley-de-lemas-en-san-juan-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/KTKHGP56IRAZXC6BUEJJYIU2LY.jpeg?auth=c7fffa23245dd28523134b4d2841e0eb11200214a2784375f3dcd475397bb2b6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:55",
+     "autor": "",
+     "titulo_original": "Marcelo Orrego busca implementar la boleta única de papel y eliminar la ley de lemas en San Juan"
+    },
+    {
+     "id": "AM-17",
+     "titulo": "el Senado aprobó la ley de vandalismo rural con penas de hasta ocho años de prisión",
+     "resumen": "El Senado aprobó con 49 votos a favor y 9 en contra la ley de vandalismo rural, que incorpora nuevas figuras al Código Penal para sancionar los ingresos ilegales a establecimientos agropecuarios y los daños contra la producción.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/informacion-general/el-senado-aprobo-la-ley-vandalismo-rural-habra-penas-ocho-anos-prision-n6349934",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:16",
+     "autor": "",
+     "titulo_original": "El Senado aprobó la ley de vandalismo rural: habrá penas de hasta ocho años de prisión"
+    },
+    {
+     "id": "AM-15",
+     "titulo": "avanza el traspaso de la justicia de menores y nuevas competencias penales a la Ciudad",
+     "resumen": "Los convenios entre la Nación y el Gobierno porteño avanzaron en el proceso de transferencia de la justicia de menores hacia la órbita de la Ciudad de Buenos Aires, que asume así nuevas competencias penales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/politica/aprueban-traspaso-la-justicia-menores-y-nuevas-competencias-penales-la-ciudad-n6349978",
+     "imagen": null,
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:03",
+     "autor": "Vanesa Petrillo",
+     "titulo_original": "Aprueban traspaso de la justicia de menores y nuevas competencias penales a la Ciudad"
+    }
+   ],
+   "id": "politica"
+  },
+  {
+   "nombre": "Economía y mercados",
+   "notas": [
+    {
+     "id": "CL-11",
+     "titulo": "el riesgo país perfora los 1.000 puntos y los bonos suben hasta casi 5%",
+     "resumen": "El riesgo país que elabora JP Morgan cae 11,3% este viernes y se ubica en 946 puntos básicos, por debajo de la barrera de los 1.000 puntos que había perforado al alza esta semana. Los títulos de deuda argentina en dólares suben hasta casi 5% en Wall Street, aunque acumulan pérdidas de hasta 12% en lo que va de noviembre.",
+     "relacionadas": [
+      {
+       "id": "AM-08",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "El riesgo país se desploma más del 10% y logra quebrar la barrera de los 1.000 puntos",
+       "url": "https://www.ambito.com/finanzas/los-bonos-dolares-rebotan-sintonia-la-region-la-antesala-la-ultima-rueda-semanal-n6349980"
+      },
+      {
+       "id": "IP-16",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "El riesgo país baja con fuerza tras semanas de tensión y vuelve debajo de los 1.000 puntos",
+       "url": "https://www.iprofesional.com/finanzas/470240-riesgo-pais-mercados-inversores"
+      }
+     ],
+     "url": "https://www.clarin.com/economia/fuerte-recuperacion-bonos-argentinos-riesgo-pais-cae-debajo-1000-puntos_0_HK4H2OgYvV.html",
+     "imagen": "https://www.clarin.com/img/2026/11/27/rWrig06Se_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "10:21",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Fuerte recuperación de los bonos argentinos: el riesgo país cae por debajo de los 1.000 puntos"
+    },
+    {
+     "id": "LN-04",
+     "titulo": "el Gobierno sale de gira por Estados Unidos para vender las privatizaciones que le faltan",
+     "resumen": "Diego Chaher, titular de la Agencia de Transformación de Empresas Públicas, encabezará el 10 de diciembre un roadshow por Washington, Nueva York y Houston, financiado por el Exim Bank y la DFC, para sumar inversores internacionales a las próximas privatizaciones. La apuesta principal es el Belgrano Cargas, cuya licitación se atrasó tras la salida de Grupo México.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-sale-de-gira-por-estados-unidos-para-vender-las-privatizaciones-que-le-faltan-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/M5BXVBHGYBCKJFRHQPL6Q3CMBE.jpg?auth=f455f451b2a6604bf1497a2f400c198a51989a3aeddb4cab0c89ce12378119d6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:58",
+     "autor": "Sofía Diamante",
+     "titulo_original": "El Gobierno sale de gira por Estados Unidos para vender las privatizaciones que le faltan"
+    },
+    {
+     "id": "AM-16",
+     "titulo": "la cosecha 2025/2026 alcanzó un récord histórico y el campo aportaría casi US$ 45.000 millones",
+     "resumen": "La campaña agrícola 2025/2026 superó en 30 millones de toneladas al ciclo anterior, impulsada por el maíz y el trigo, mientras las exportaciones del sector podrían alcanzar los 44.869 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/la-cosecha-alcanzo-un-record-historico-y-el-campo-aportaria-casi-u45000-millones-n6349975",
+     "imagen": "https://media.ambito.com/p/8b86f1e378b9d0ddba40f171e515374e/adjuntos/239/imagenes/043/800/0043800680/1200x675/2239x1383:2259x1403/campo-granos-cosecha-retenciones-trigo.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "09:55",
+     "autor": "",
+     "titulo_original": "La cosecha alcanzó un récord histórico y el campo aportaría casi u$45.000 millones"
+    },
+    {
+     "id": "CR-17",
+     "titulo": "JP Morgan calculó cuánto le costaría al Banco Central una nueva ola de dolarización antes de 2027",
+     "resumen": "Según un ejercicio de JP Morgan, una cobertura cambiaria previa a las elecciones de 2027 comparable en intensidad a la de 2025 podría costarle a la Argentina 8.650 millones de dólares de reservas, en un escenario de estrés. En su caso base, que supone continuidad del programa económico, el banco proyecta reservas prácticamente estables, con una baja de apenas 250 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/elecciones-2027-cuanto-podria-costarle-al-bcra-una-nueva-ola-de-dolarizacion-segun-jp-morgan/",
+     "imagen": "https://www.cronista.com/resizer/v2/2IM2NLNGX5GKVDPVNY6SQENXHE.png?auth=f4dd2c5a6041dd4ffc9fdd70571138efe4c02f2ad42285b332a3e9062d94b000&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:19",
+     "autor": "Santiago Escobar",
+     "titulo_original": "Elecciones 2027: cuánto podría costarle al BCRA una nueva ola de dolarización, según JP Morgan"
+    },
+    {
+     "id": "AM-25",
+     "titulo": "el recorte de fondos nacionales presiona a las provincias para bajar impuestos en 2027",
+     "resumen": "El Gobierno nacional insiste en comprometer a los gobernadores a reducir alícuotas e impuestos provinciales, pero les envía cada vez menos recursos: una parte por la caída de la coparticipación y otra por la reducción de los envíos discrecionales.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/economia/baja-impuestos-2027-el-recorte-fondos-nacionales-pone-contra-las-cuerdas-las-provincias-n6349791",
+     "imagen": "https://media.ambito.com/p/ecc61bbc5e3b51685cc595fc6fbcb991/adjuntos/239/imagenes/040/379/0040379685/coparticipacion-jpg.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "¿Baja de impuestos en 2027? El recorte de fondos nacionales pone contra las cuerdas a las provincias"
+    }
+   ],
+   "id": "economia-y-mercados"
+  },
+  {
+   "nombre": "Negocios y empresas",
+   "notas": [
+    {
+     "id": "LN-10",
+     "titulo": "Uber quedó a un paso de tomar el control de PedidosYa en la Argentina",
+     "resumen": "Uber consiguió la adhesión del 87,13% del capital social de Delivery Hero, el grupo alemán dueño de PedidosYa, en una operación valuada en unos 14.800 millones de dólares. Se prevé que la compra se concrete en la segunda mitad de 2027 y que la compañía estadounidense tome formalmente el control de la plataforma de delivery en el país.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/economia/negocios/uber-quedo-a-un-paso-de-tomar-el-control-de-pedidosya-en-la-argentina-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DPLK445SYFAWFEHBOLQNQDBZ24.jpg?auth=34c0509e0919e9fa81235df04fcba2f6e2f113c19dc329edbb8e367b8b13c181&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:53",
+     "autor": "Laura Ponasso",
+     "titulo_original": "Uber quedó a un paso de tomar el control de PedidosYa en la Argentina"
+    },
+    {
+     "id": "IB-05",
+     "titulo": "el Departamento de Justicia de Estados Unidos citó a Nvidia como testigo en la causa contra Megaspeed",
+     "resumen": "Nvidia enfrenta una citación judicial como testigo en la causa penal contra Megaspeed, la empresa singapurense sospechada de haber canalizado procesadores avanzados de inteligencia artificial hacia Beijing en violación de los controles de exportación estadounidenses. El caso había derivado en la renuncia y posterior restitución del CEO de Nvidia, Jensen Huang.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/estados-unidos/2026/11/27/el-departamento-de-justicia-de-estados-unidos-cito-a-nvidia-como-testigo-en-la-causa-por-el-presunto-desvio-de-chips-de-ia-a-china/",
+     "imagen": "https://www.infobae.com/resizer/v2/GLS4LAC755DKBH4I2KP7J754I4.jpg?auth=9a89af5884141ffaca9a94cbfe649e7bfc998b6f06948c3f604fca24c9acecca&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:03",
+     "autor": "Luciana Rivera",
+     "titulo_original": "El Departamento de Justicia de EEUU citó a Nvidia como testigo en la causa contra Megaspeed por presunto desvío de chips de IA a China"
+    },
+    {
+     "id": "CR-16",
+     "titulo": "la inflación en dólares golpea a los proveedores de Vaca Muerta",
+     "resumen": "La multinacional Halliburton bajó de manera unilateral 23% lo que paga a las firmas que le venden insumos y prestan servicios en Vaca Muerta, un golpe que generó honda preocupación entre los proveedores pyme del sector petrolero y gasífero. La presión de costos en dólares y la menor demanda golpean incluso a la industria ligada a los sectores más dinámicos de la economía.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/si-esto-pasa-en-vaca-muerta-imaginate-el-resto-la-inflacion-en-dolares-que-golpea-a-la-produccion/",
+     "imagen": "https://www.cronista.com/resizer/v2/M4J2MVMSAFG7HPCBDO7H6UQ4XU.jpg?auth=ffafb61971e7f8743c5075013119a86b005838e9a657a9ec4779efae2d66491b&smart=true&width=900&height=506",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "08:30",
+     "autor": "Jairo Straccia",
+     "titulo_original": "“Si esto pasa en Vaca Muerta, imaginate el resto”: la inflación en dólares que golpea a la producción"
+    },
+    {
+     "id": "CR-10",
+     "titulo": "la industria de motos desafía la recesión con un récord de patentamientos",
+     "resumen": "El sector de motovehículos se encamina a cerrar 2026 con cerca de 900.000 patentamientos, un récord histórico y un crecimiento cercano al 40% interanual, mientras 17 de 20 mercados de consumo retroceden. La moto se consolidó como alternativa de movilidad de bajo costo, en un contexto en el que el crédito empieza a marcar un límite al negocio.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/el-boom-que-desafia-la-recesion-como-esta-industria-aliada-a-china-se-expandio-con-la-apertura/",
+     "imagen": "https://www.cronista.com/resizer/v2/JNOP3UFI7RC3VMVKADGJGVTPBQ.jpeg?auth=ffef6109c7229e348cb253caeb2ea8cfd194088e7f94cba177b680b37bc50bc8&smart=true&width=900&height=599",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:22",
+     "autor": "Belén Ehuletche",
+     "titulo_original": "El boom que desafía la recesión: cómo esta industria aliada a China se expandió con la apertura"
+    },
+    {
+     "id": "CR-12",
+     "titulo": "el frigorífico que tomó los activos de Cocarsa se presentó en concurso preventivo",
+     "resumen": "Ecocarnes, el frigorífico que opera en el partido bonaerense de San Fernando, se presentó en concurso preventivo tras fijar el 11 de septiembre como fecha de cesación de pagos, cuando no pudo cumplir obligaciones financieras por 300 millones de pesos. La empresa atribuyó el desequilibrio a una mayor necesidad de capital de trabajo, al aumento del costo de la hacienda y a menores márgenes de ganancia.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-frigorifico-modelo-cambio-la-formula-de-su-negocio-y-enfrenta-su-peor-crisis-desde-los-2000/",
+     "imagen": "https://www.cronista.com/resizer/v2/IYSDN6MUOZFVHGRC3HI4BWHOQE.png?auth=65f2d95e58ecfbc185fbe7f7c2165f7ba1052f9388b5f085c6122e5151bd809d&smart=true&width=754&height=499",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:04",
+     "autor": "Juana Posbeyikian",
+     "titulo_original": "Un frigorífico “modelo” cambió la fórmula de su negocio y enfrenta su peor crisis desde los 2000"
+    }
+   ],
+   "id": "negocios-y-empresas"
+  },
+  {
+   "nombre": "Impuestos, laboral y normativa",
+   "notas": [
+    {
+     "id": "CR-02",
+     "titulo": "los bancos deberán reforzar la detección de estafas a partir del 1 de diciembre",
+     "resumen": "Comienza a regir la Comunicación A 8471 del Banco Central, que exige a entidades financieras y proveedores de pago contar con un programa antifraude integral, con responsables, procedimientos de monitoreo y canales de denuncia definidos. Para una empresa, implica revisar los protocolos de seguridad de sus cuentas y medios de pago.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/finanzas-mercados/los-bancos-modificaran-la-deteccion-de-estafas-y-habra-cambios-en-la-forma-de-operar-para-los-usuarios/",
+     "imagen": "https://www.cronista.com/resizer/v2/22OT37FEYRF7POPAYRTJX3V5XE.jpg?auth=f730973b77fda4fe530ba8c75db958c189f570fefdf55e5e831f7801dd03e05f&smart=true&width=900&height=600",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:41",
+     "autor": "Lucas González Monte",
+     "titulo_original": "Los bancos modificarán la detección de estafas y habrá cambios en la forma de operar para los usuarios"
+    },
+    {
+     "id": "CR-04",
+     "titulo": "el mapa tributario: qué impuestos bajaron en el último año y cuáles siguen pendientes",
+     "resumen": "En los últimos doce meses el Gobierno derogó varios rubros de los impuestos internos, redujo retenciones al agro y a la industria, y eximió de Ganancias la venta eventual de inmuebles y los alquileres de casa habitación. Para 2027 anticipa otra baja de un punto del producto bruto interno, mientras Ingresos Brutos, Sellos y el impuesto al cheque, los que más pesan sobre las pymes, siguen sin cambios generales.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/economia-politica/que-impuestos-bajaron-en-el-ultimo-ano-y-cuales-siguen-pendientes-el-mapa-tributario-de-empresas-y-personas/",
+     "imagen": "https://www.cronista.com/resizer/v2/7XQHYUKM5VDRLHSSKPHRKV7I5U.JPG?auth=457e100fe5067779300c7b134cd9d15021fe84a948910ace330df7b6792793e8&smart=true&width=900&height=507",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "11:15",
+     "autor": "Audiencias Member",
+     "titulo_original": "El “mapa” tributario: qué impuestos bajaron en el último año y cuáles siguen pendientes"
+    },
+    {
+     "id": "IP-14",
+     "titulo": "los alimentos y las bebidas pagan hasta 2,7 puntos más de impuestos en el interior que en CABA",
+     "resumen": "Un informe del IARAF que comparó a la Ciudad de Buenos Aires con 33 ciudades de 23 provincias detectó diferencias de hasta 2,7 puntos porcentuales en la carga tributaria sobre alimentos y bebidas. Para una empresa con sucursales en distintas provincias, la brecha impacta directamente en la rentabilidad según la ubicación de cada local.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/469768-impuestos-en-alimentos-cuanto-mas-pesan-en-el-interior",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2025/01/590719.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:15",
+     "autor": "",
+     "titulo_original": "Alimentos y bebidas, cuánto más pesan los impuestos en el interior que en CABA"
+    },
+    {
+     "id": "IP-10",
+     "titulo": "el impuesto de Sellos, el tributo que la Nación quiere quitar y que pesa distinto en cada provincia",
+     "resumen": "El Gobierno nacional negocia con las provincias la eliminación del impuesto de Sellos y propone compensar la mitad de lo que pierdan los distritos, en una negociación fiscal con impactos muy distintos según cada jurisdicción.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/impuestos/469743-que-provincias-recaudan-mas-por-sellos-y-cuanto-resignarian",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/11/587914.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:21",
+     "autor": "",
+     "titulo_original": "Impuesto de Sellos, el tributo que Nación quiere quitar y pesa distinto en cada provincia"
+    },
+    {
+     "id": "IP-24",
+     "titulo": "Diputados aprobó incluir a las cooperativas en la Ley PyME",
+     "resumen": "La Cámara de Diputados aprobó por unanimidad la reforma de la Ley 24.467 para incluir a las cooperativas dentro del régimen de la Ley PyME, lo que les facilitará el acceso al certificado MiPyME y a herramientas de asistencia.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/legales/470227-diputados-dio-media-sancion-al-proyecto-para-incluir-a-las-cooperativas-en-la-ley-pyme",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/10/627640.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "08:19",
+     "autor": "",
+     "titulo_original": "Diputados aprobó incluir a las cooperativas en la Ley PyME: qué beneficios podrán recibir"
+    }
+   ],
+   "id": "impuestos-laboral-y-normativa"
+  },
+  {
+   "nombre": "Consumo, construcción y retail",
+   "notas": [
+    {
+     "id": "IB-14",
+     "titulo": "la UNLP presentó la primera vivienda social hecha con impresión 3D de América Latina",
+     "resumen": "La Universidad Nacional de La Plata y el Astillero Río Santiago presentaron un prototipo de 55 metros cuadrados construido íntegramente con impresión 3D y tecnología de fabricación nacional, en un hito que proyecta la construcción de viviendas sociales en serie para reducir el déficit habitacional.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/27/una-casa-hecha-integramente-con-impresion-3d-asi-es-el-proyecto-argentino-que-marco-un-hito-en-america-latina/",
+     "imagen": "https://www.infobae.com/resizer/v2/QTTTWTXNXBH7JE2HOXTNZZZZ5E.png?auth=f4c5e861831957568da06fbaa3f8562e022cf4610b5a7fcac7477b0911b22cc8&smart=true&width=900&height=500",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:14",
+     "autor": "Ismael Yasnikowski",
+     "titulo_original": "Una casa hecha íntegramente con impresión 3D: así es el proyecto argentino que marcó un hito en América Latina"
+    },
+    {
+     "id": "IB-12",
+     "titulo": "la crisis de la indumentaria no da tregua pese a una leve desaceleración de la caída",
+     "resumen": "Un informe de la Cámara Industrial Argentina de la Indumentaria registró una caída interanual de 5,7% en las unidades vendidas durante el quinto bimestre, aunque el ritmo de retroceso se moderó en septiembre y octubre. Los fabricantes siguen enfrentando la acumulación de mercadería en los depósitos y dificultades para trasladar los costos a precios.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/economia/2026/11/27/la-crisis-de-la-indumentaria-no-da-tregua-las-ventas-volvieron-a-caer-y-crece-la-preocupacion-por-los-costos/",
+     "imagen": "https://www.infobae.com/resizer/v2/H3LFOQM75VBDRMNQUBY2LGBAN4.jpg?auth=f9c5f7bedef11cc3b1fa9547552fcccbfe906b17becd6685d18ec25509acb62a&smart=true&width=900&height=587",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "11:17",
+     "autor": "Natalia Donato",
+     "titulo_original": "La crisis de la indumentaria no da tregua: las ventas volvieron a caer y crece la preocupación por los costos"
+    },
+    {
+     "id": "AM-26",
+     "titulo": "La Isla, el sector de Villa Crespo que gana terreno con departamentos de menos de US$ 2.000 el metro cuadrado",
+     "resumen": "Un sector con identidad propia del barrio porteño de Villa Crespo gana protagonismo entre compradores que priorizan la ubicación y la conectividad por sobre otros barrios como Chacarita, con valores por debajo de los 2.000 dólares el metro cuadrado.",
+     "relacionadas": [],
+     "url": "https://www.ambito.com/real-estate/ni-villa-crespo-ni-chacarita-el-barrio-porteno-que-gana-terreno-departamentos-menos-us2000-el-m2-n6349770",
+     "imagen": "https://media.ambito.com/p/aa5de90c4e5d8ebff69873cfbb6f6092/adjuntos/239/imagenes/043/799/0043799714/1200x675/823x416:843x436/la-paternal-avenida-san-martin-y-alvarez-jonte-propiedades.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "07:00",
+     "autor": "",
+     "titulo_original": "Ni Villa Crespo ni Chacarita: el barrio porteño que gana terreno con departamentos por menos de u$s2.000 el m2"
+    },
+    {
+     "id": "AM-11",
+     "titulo": "arrancó el Black Friday 2026 con descuentos de hasta 65% y 30 cuotas sin interés",
+     "resumen": "La jornada de descuentos comenzó en comercios físicos y tiendas online de la Argentina, con rebajas que se extenderán durante todo el fin de semana. Bancos y billeteras virtuales ofrecen hasta 65% de descuento y hasta 30 cuotas sin interés en tecnología, electrodomésticos, indumentaria y turismo.",
+     "relacionadas": [
+      {
+       "id": "IP-05",
+       "fuente_codigo": "IP",
+       "fuente": "iProfesional",
+       "titulo": "Black Friday 2026: cuánto cuesta un Galaxy S26, un iPhone o un Smart TV con los descuentos",
+       "url": "https://www.iprofesional.com/tecnologia/470105-black-friday-2026-en-la-argentina-las-mejores-ofertas-en-celulares-tv-consolas-y-viajes"
+      }
+     ],
+     "url": "https://www.ambito.com/negocios/empieza-el-black-friday-2026-cuando-dura-y-cuales-son-las-promociones-disponibles-n6349994",
+     "imagen": "https://media.ambito.com/p/c8970d6d69d48287642e43cdfaf17ec6/adjuntos/239/imagenes/043/800/0043800765/1200x675/1176x532:1196x552/black-friday.jpg",
+     "fuente_codigo": "AM",
+     "fuente": "Ámbito",
+     "hora": "10:35",
+     "autor": "",
+     "titulo_original": "Empieza el Black Friday 2026: hasta cuándo dura y cuáles son las promociones disponibles"
+    }
+   ],
+   "id": "consumo-construccion-y-retail"
+  },
+  {
+   "nombre": "Management y finanzas corporativas",
+   "notas": [
+    {
+     "id": "CR-09",
+     "titulo": "un argentino asumirá como nuevo CEO de Nestlé en la operación local",
+     "resumen": "Luis Villavicencio asumirá el 1° de enero como country manager de Nestlé en la Argentina, tras casi cuatro décadas de gestión del ejecutivo suizo Gian-Carlo Aubry al frente de la operación regional, que se jubila a fin de año. El nuevo líder deberá conducir la empresa de consumo masivo en un contexto desafiante para el sector.",
+     "relacionadas": [],
+     "url": "https://www.cronista.com/negocios/un-argentino-sera-el-nuevo-ceo-de-nestle/",
+     "imagen": "https://www.cronista.com/resizer/v2/EQHXJUCKBVF43O2EI6CODDN3PA.jpeg?auth=b01209bc0d0054d14ea5ec60b06ee9d579c7c12fdd52007145fdc3464eb2eea9&smart=true&width=900&height=602",
+     "fuente_codigo": "CR",
+     "fuente": "El Cronista",
+     "hora": "10:37",
+     "autor": "Juliana Monferrán",
+     "titulo_original": "Un argentino será el nuevo CEO de Nestlé"
+    },
+    {
+     "id": "IP-13",
+     "titulo": "Carl Icahn, histórico tiburón de Wall Street, perdió casi 95% de su patrimonio",
+     "resumen": "El inversor Carl Icahn pasó de acumular 26.000 millones de dólares a apenas 1.300 millones, y su holding enfrenta pérdidas y serias dificultades para refinanciar una deuda de 1.400 millones de dólares.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/finanzas/470247-carl-icahn-perdio-casi-el-95-de-su-fortuna-y-debe-us1-400-millones",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2026/11/630706.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:19",
+     "autor": "",
+     "titulo_original": "Carl Icahn, histórico tiburón de Wall Street, perdió casi el 95% y debe u$s1.400 millones"
+    },
+    {
+     "id": "IP-09",
+     "titulo": "Forward Deployed Engineer, la carrera de inteligencia artificial que creció 1.000% en 2026",
+     "resumen": "El crecimiento acelerado de los empleos vinculados a la inteligencia artificial impulsa subas salariales y abrió oportunidades inéditas en tecnología: el puesto de Forward Deployed Engineer paga hasta 400.000 dólares anuales y su demanda creció 1.000% durante el año.",
+     "relacionadas": [],
+     "url": "https://www.iprofesional.com/management/470233-forward-deployed-engineer-la-carrera-de-ia-con-sueldos-de-us400000-anuales",
+     "imagen": "https://resizer.iproimg.com/unsafe/640x/https://assets.iprofesional.com/assets/jpg/2024/04/571894.jpg",
+     "fuente_codigo": "IP",
+     "fuente": "iProfesional",
+     "hora": "10:35",
+     "autor": "",
+     "titulo_original": "Forward Deployed Engineer, la carrera de IA que creció 1.000% en 2026 y paga hasta 400.000 dólares"
+    }
+   ],
+   "id": "management-y-finanzas-corporativas"
+  },
+  {
+   "nombre": "Mundo",
+   "notas": [
+    {
+     "id": "LN-03",
+     "titulo": "a dos días de las elecciones en España, el último debate dejó cruces entre los cuatro candidatos",
+     "resumen": "A dos días de los comicios del 29 de noviembre, Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau protagonizaron un último debate televisivo con fuertes cruces. Feijóo cerró este viernes su campaña con actos en Barcelona y Sevilla, en un tramo final marcado por un cruce con la candidata de Frente Amplio, Ada Colau.",
+     "relacionadas": [
+      {
+       "id": "IB-08",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "Día 15: fin de campaña del PP en Barcelona y Sevilla marcado por el \"calladita\" de Feijóo",
+       "url": "https://www.infobae.com/espana/agencias/2026/11/27/dia-15-fin-de-campana-del-pp-en-barcelona-y-sevilla-marcado-por-el-calladita-de-feijoo/"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/el-mundo/elecciones-espana-2026-en-vivo-resumen-del-debate-las-ultimas-encuestas-y-las-noticias-del-29-n-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/SDG75YEDHJBJZISSA3UFATAFRQ.jpg?auth=c6690cf7f751f7dbd17aa4209e81ef86dea8c6d1a573847bead2351d3cf6221e&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:00",
+     "autor": "",
+     "titulo_original": "Elecciones España 2026, EN VIVO: resumen del debate, las últimas encuestas y las noticias del 29-N"
+    },
+    {
+     "id": "CL-14",
+     "titulo": "nuevos documentos exponen los vínculos del embajador británico en Estados Unidos con un amigo de Epstein",
+     "resumen": "Documentos publicados el jueves arrojaron nueva luz sobre el veloz nombramiento de Peter Mandelson como embajador británico en Estados Unidos y sus vínculos continuos con el grupo de lobby Global Counsel.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/new-york-times-international-weekly/cosas-aprendimos-amigo-epstein-convirtio-embajador-britanico-eeuu_0_MzVF08N0aY.html",
+     "imagen": "https://www.clarin.com/img/2026/11/27/cUGlrmPGL_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:26",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Tres cosas que aprendimos sobre cómo un amigo de Epstein se convirtió en embajador británico en EE.UU."
+    },
+    {
+     "id": "IB-09",
+     "titulo": "Eisenkot prometió formar gobierno en Israel en ocho días y no descarta un acuerdo con Netanyahu",
+     "resumen": "El líder del partido israelí Yashar, Gadi Eisenkot, se comprometió a formar un nuevo gobierno en un plazo de ocho días y aseguró que mantiene abierta la posibilidad de un acuerdo de unidad con el Likud de Benjamín Netanyahu, pese a las diferencias entre ambas formaciones.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/27/eisenkot-promete-un-gobierno-en-ocho-dias-y-mantiene-abierta-la-negociacion-con-netanyahu/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Eisenkot promete un Gobierno en ocho días y mantiene abierta la negociación con Netanyahu"
+    },
+    {
+     "id": "IB-11",
+     "titulo": "el ultranacionalista austríaco Kickl propuso que Ucrania reciba refugiados sirios y afganos para pagar su deuda con la Unión Europea",
+     "resumen": "El líder del partido FPÖ, Herbert Kickl, planteó que, una vez terminada la guerra, Ucrania acoja a los refugiados sirios y afganos sin derecho a asilo como forma de retribuir la ayuda recibida de la Unión Europea contra la invasión rusa.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/agencias/2026/11/27/ultras-austriacos-plantean-a-ucrania-saldar-su-deuda-con-la-ue-con-refugiados-sin-asilo/",
+     "imagen": null,
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:01",
+     "autor": "Newsroom Infobae",
+     "titulo_original": "Ultras austríacos plantean a Ucrania saldar su \"deuda\" con la UE con refugiados sin asilo"
+    },
+    {
+     "id": "IB-23",
+     "titulo": "la purga de Putin sumó la condena a 11 años de prisión de un exgobernador por sobornos",
+     "resumen": "La Justicia rusa condenó a 11 años de prisión y una multa de más de 4,9 millones de dólares al exgobernador de la región de Tambov, Maxim Egorov, acusado de aceptar sobornos de un exdirectivo de Gazprom entre 2021 y 2024.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/27/sigue-la-purga-de-putin-condenaron-a-11-anos-de-carcel-a-un-exgobernador-acusado-de-aceptar-sobornos/",
+     "imagen": "https://www.infobae.com/resizer/v2/EJ3AWJRIAVD7ZLGLGJMJYKP2DQ.JPG?auth=2d20c025c6659aad72e6fd20a2731b0b0ec293684188038f70ae4b7cee483bbd&smart=true&width=900&height=619",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:01",
+     "autor": "",
+     "titulo_original": "Sigue la purga de Putin: condenaron a 11 años de cárcel a un exgobernador acusado de aceptar sobornos"
+    },
+    {
+     "id": "IB-20",
+     "titulo": "un brote de norovirus en un crucero por el Caribe afectó a 268 pasajeros y tripulantes",
+     "resumen": "El crucero Caribbean Princess regresó a Florida con 268 casos confirmados de norovirus a bordo, casi el doble de los 148 informados cuando el brote se hizo público por primera vez. El viaje de 12 noches dejó enfermos al 7,9% de los pasajeros y al 3,1% de la tripulación, según los Centros para el Control y la Prevención de Enfermedades de Estados Unidos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/america/mundo/2026/11/27/268-enfermos-en-un-crucero-por-el-caribe-el-brote-de-norovirus-que-obligo-a-aislar-pasajeros/",
+     "imagen": "https://www.infobae.com/resizer/v2/MWJKCSZMGNGLHI5DPSZ5PM2NBQ.jpg?auth=92596cbac9d936cf2e732d5cd5edc14551fbbade589a60f601fdf6cdc2fab377&smart=true&width=900&height=600",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "10:45",
+     "autor": "Ismael Yasnikowski",
+     "titulo_original": "268 enfermos en un crucero por el Caribe: el brote de norovirus que obligó a aislar pasajeros"
+    }
+   ],
+   "id": "mundo"
+  },
+  {
+   "nombre": "Europa y geopolítica",
+   "notas": [
+    {
+     "id": "GC-01",
+     "titulo": "Le Grand Continent registró la semana más intensa de acciones hostiles rusas contra Europa",
+     "resumen": "Entre el 21 y el 27 de noviembre, la revista registró 32 acciones hostiles contra Europa, 18 de ellas atribuidas a Rusia o sospechadas de serlo, en la semana más activa desde el inicio de su relevamiento a fines de septiembre. El conteo incluye doce incidentes aéreos, diez operaciones de espionaje, dos campañas de desinformación y un intento de asesinato.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/27/europa-enfrenta-una-ola-de-espionaje-ruso/",
+     "imagen": null,
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "11:50",
+     "autor": "Marin Saillofest",
+     "titulo_original": "Europa se enfrenta a una oleada de casos de espionaje ruso"
+    },
+    {
+     "id": "GC-02",
+     "titulo": "qué es el altruismo eficaz y por qué influye en el debate sobre la inteligencia artificial",
+     "resumen": "Le Grand Continent analiza el altruismo eficaz, la corriente filosófica que influyó en la revolución de la inteligencia artificial y en los debates sobre su gobernanza y regulación, pese a haber sido también invocada por figuras como Sam Bankman-Fried para encubrir fraudes financieros.",
+     "relacionadas": [],
+     "url": "https://legrandcontinent.eu/es/2026/11/27/que-es-altruismo-eficaz/",
+     "imagen": "https://legrandcontinent.eu/es/wp-content/uploads/sites/2/2026/11/damien-hirst-the-physical-impossibility-of-death-in-the-mind-of-someone-living-mixed-media-available-for-sale-on-wwwcompositiongallery1651687835-95345-125x83.jpeg",
+     "fuente_codigo": "GC",
+     "fuente": "Le Grand Continent",
+     "hora": "11:40",
+     "autor": "Louis Puel",
+     "titulo_original": "¿Qué es el altruismo eficaz?"
+    }
+   ],
+   "id": "europa-y-geopolitica"
+  },
+  {
+   "nombre": "Deportes",
+   "notas": [
+    {
+     "id": "LN-02",
+     "titulo": "Franco Colapinto terminó 12° en la primera práctica del Gran Premio de Catar",
+     "resumen": "Franco Colapinto completó la primera práctica libre del Gran Premio de Catar de Fórmula 1 en el puesto 12, a dos segundos con ciento noventa y dos milésimas del más rápido, Andrea Kimi Antonelli, quien marcó un minuto veintitrés con doscientos diecisiete. El pilarense había anticipado que el trazado de Lusail sería complicado para las características de su auto, y la clasificación se correrá mañana sábado a las 15 horas argentinas.",
+     "relacionadas": [
+      {
+       "id": "AM-18",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto vuelve a la pista en el GP de Qatar de Fórmula 1: horarios y dónde ver las prácticas libres",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-vuelve-la-pista-el-gp-qatar-formula-1-horarios-y-donde-ver-las-practicas-libres-n6349938"
+      },
+      {
+       "id": "AM-22",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Franco Colapinto explicó por qué viajó con el casco puesto en el avión y sorprendió con una anécdota",
+       "url": "https://www.ambito.com/deportes/franco-colapinto-explico-que-viajo-el-casco-puesto-el-avion-y-sorprendio-una-anecdota-n6349737"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-qatar-de-formula-1-en-vivo-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/5ILMSMLLMNCCRC3QNSQPIPZDN4.jpg?auth=aa7128078f69435e1e041bf7e75bd547ea3b5a4fda2fec32bda71f52f8bcea78&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "12:03",
+     "autor": "Orlando Ríos",
+     "titulo_original": "Franco Colapinto terminó 12° en la primera práctica del Gran Premio de Qatar de Fórmula 1"
+    },
+    {
+     "id": "LN-22",
+     "titulo": "Marc Márquez anunció sorpresivamente su retiro del MotoGP tras consagrarse campeón por octava vez",
+     "resumen": "El español Marc Márquez, que el domingo pasado en Portugal se proclamó campeón de MotoGP por octava vez, anunció por sorpresa su retiro de la actividad este viernes, antes de los ensayos del Gran Premio de Valencia que cerrará la temporada el domingo. Márquez, de 33 años y piloto de Ducati, igualó así el récord de ocho títulos de Giacomo Agostini antes de bajarse de la moto.",
+     "relacionadas": [
+      {
+       "id": "CL-19",
+       "fuente_codigo": "CL",
+       "fuente": "Clarín",
+       "titulo": "Sorpresa en MotoGP: Marc Márquez anunció su retiro a los 33 años, cinco días después de volver a ser campeón del mundo",
+       "url": "https://www.clarin.com/deportes/sorpresa-motogp-marc-marquez-anuncio-retiro-33-anos-dias-despues-volver-campeon-mundo_0_VnD4t7PcFg.html"
+      },
+      {
+       "id": "AM-14",
+       "fuente_codigo": "AM",
+       "fuente": "Ámbito",
+       "titulo": "Marc Márquez anunció su retiro de MotoGP: cómo fue su carrera deportiva",
+       "url": "https://www.ambito.com/deportes/marc-marquez-anuncio-su-retiro-motogp-como-fue-su-carrera-deportiva-n6349981"
+      }
+     ],
+     "url": "https://www.lanacion.com.ar/deportes/motociclismo/marc-marquez-anuncio-que-se-retira-del-motogp-tras-el-gran-premio-de-valencia-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/WLLXZSM3B5GEJNAHZEQ7TEGCE4.png?auth=aa046927c50298ad03d92fd3a8da5cdb7b17498c64a8ee42b863051ad792614c&smart=true&width=900&height=564",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "07:52",
+     "autor": "",
+     "titulo_original": "Marc Márquez anunció que se retira del MotoGP tras el Gran Premio de Valencia"
+    },
+    {
+     "id": "CL-12",
+     "titulo": "Los Pumas afrontan con seis cambios el cierre del Nations Championship ante Escocia",
+     "resumen": "Felipe Contepomi confirmó el equipo de Los Pumas con seis cambios para enfrentar a Escocia el domingo a las 10.10 en Twickenham, por el séptimo puesto del Nations Championship, condicionado por lesiones y bajas acumuladas durante la ventana de noviembre. Tobías Wade podría tener su debut en el seleccionado desde el banco. Además, Los Pumas 7s arrancan el sábado su temporada de seven en Dubái ante Sudáfrica, rumbo a los Juegos Olímpicos de Los Ángeles 2028.",
+     "relacionadas": [
+      {
+       "id": "LN-23",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Los Pumas: seis cambios ante Escocia para el cierre del Nations Championship",
+       "url": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-seis-cambios-ante-escocia-para-el-cierre-del-nations-championship-nid27112026/"
+      },
+      {
+       "id": "LN-01",
+       "fuente_codigo": "LN",
+       "fuente": "La Nación",
+       "titulo": "Comienza el circuito de seven: cómo será la rotación de los Pumas 7s y la nueva regla en la que hará foco World Rugby",
+       "url": "https://www.lanacion.com.ar/deportes/rugby/comienza-el-circuito-de-seven-como-sera-la-rotacion-de-los-pumas-7s-y-la-nueva-regla-en-la-que-hara-nid27112026/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/pumas-vs-escocia-nations-championship-contepomi-confirmo-equipo-cambios-chance-nuevo-debut_0_cZcHZyeyIk.html",
+     "imagen": "https://www.clarin.com/img/2026/11/04/X1Cuz8JRd_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "09:39",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Los Pumas vs. Escocia en el Nations Championship: Contepomi confirmó el equipo con seis cambios y la chance de un nuevo debut"
+    },
+    {
+     "id": "IB-01",
+     "titulo": "Estudiantes y Palmeiras definen mañana la final de la Copa Libertadores en Montevideo",
+     "resumen": "Estudiantes de La Plata y Palmeiras juegan la final de la Copa Libertadores 2026 el sábado a las 17 horas argentinas en el Estadio Centenario de Montevideo, 58 años después de que el equipo platense venciera al brasileño en el desempate de 1968. Ambos planteles cuentan con figuras colombianas: Edwuin Cetré y Miguel Monsalve en Estudiantes, y Jhon Arias en Palmeiras.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/colombia/deportes/2026/11/27/palmeiras-vs-estudiantes-hora-y-canal-de-tv-para-ver-en-vivo-a-jhon-arias-y-edwuin-cetre-en-la-final-de-la-copa-libertadores/",
+     "imagen": "https://www.infobae.com/resizer/v2/SHPUEFTDIBEIVNY627GQD45R5U.jpg?auth=b5701f7acd1c5a450bdd164c94318a0650d7ac10e63f41da45a3cc9cca757375&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "12:04",
+     "autor": "Carlos Pulido",
+     "titulo_original": "Palmeiras vs. Estudiantes: hora y canal de TV para ver EN VIVO a Jhon Arias y Edwuin Cetré en la final de la Copa Libertadores"
+    },
+    {
+     "id": "CL-03",
+     "titulo": "el Inter Miami de Messi visita a Columbus Crew obligado a ganar para seguir con vida en los playoffs de la MLS",
+     "resumen": "El Inter Miami de Lionel Messi, dirigido por Cristian Kily González, visita hoy desde las 22 horas al Columbus Crew en Ohio, obligado a ganar para forzar un tercer partido tras la derrota por 3 a 0 en el encuentro anterior. Una nueva caída dejaría al equipo de Florida eliminado de los playoffs, sin poder defender el título de la MLS Cup.",
+     "relacionadas": [
+      {
+       "id": "IB-22",
+       "fuente_codigo": "IB",
+       "fuente": "Infobae",
+       "titulo": "El Inter Miami de Lionel Messi deberá ganar ante Columbus Crew para evitar la eliminación en la MLS: hora, TV y formaciones",
+       "url": "https://www.infobae.com/deportes/2026/11/27/el-inter-miami-de-lionel-messi-debera-ganar-ante-columbus-crew-para-evitar-la-eliminacion-en-la-mls-hora-tv-y-formaciones/"
+      }
+     ],
+     "url": "https://www.clarin.com/deportes/columbus-crew-vs-inter-miami-lionel-messi-vivo-playoffs-mls-hora-juegan-formaciones-ver-partido_0_QYV4BejhRP.html",
+     "imagen": "https://www.clarin.com/img/2026/11/22/M9em5wkn3_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "11:01",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Columbus Crew vs Inter Miami, con Lionel Messi, EN VIVO, por los playoffs de la MLS: a qué hora juegan, formaciones y cómo ver el partido"
+    },
+    {
+     "id": "IB-25",
+     "titulo": "River define el futuro de Santiago Beltrán y sondea a Yassine Bono para enero",
+     "resumen": "River Plate avanza en la renovación de Santiago Beltrán, que tiene contrato vigente hasta diciembre de 2027, mientras evalúa una eventual venta en el mercado de enero con continuidad hasta junio y negocia la llegada del arquero Yassine Bono como reemplazante para la segunda mitad de 2027.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/deportes/2026/11/27/el-plan-que-elaboro-river-plate-para-el-mercado-de-pases-el-futuro-de-santiago-beltran-y-la-figura-internacional-que-es-una-posibilidad-concreta/",
+     "imagen": "https://www.infobae.com/resizer/v2/Y3ACYDK6SBDMBEX76ADXSPODQQ.jpg?auth=cbd07c2fafb6366632c5e10d107947e2d8db25321383436efa856849b20b6331&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "08:40",
+     "autor": "Juan Franco Gagliardi",
+     "titulo_original": "El plan que elaboró River Plate para el mercado de pases: el futuro de Santiago Beltrán y la figura internacional que es “una posibilidad concreta”"
+    }
+   ],
+   "id": "deportes"
+  },
+  {
+   "nombre": "Turismo",
+   "notas": [
+    {
+     "id": "LN-09",
+     "titulo": "las playas y lagos de Bariloche muestran una crecida atípica a semanas del verano",
+     "resumen": "En San Carlos de Bariloche, los lagos Nahuel Huapi, Gutiérrez y Moreno registran alturas cercanas a un metro por encima de los valores habituales para esta época del año, producto de las intensas lluvias de septiembre y octubre combinadas con un rápido deshielo en las altas cumbres. El fenómeno redujo notablemente el espacio disponible en balnearios y paseos de cara a la temporada de verano.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/un-evento-climatico-bastante-unico-que-hay-detras-de-la-atipica-postal-de-los-lagos-y-playas-del-sur-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/DXMLQH2T7RGBDPGSCWB472LNZI.JPG?auth=43bdb9bd31190b4e0c95b801ed09fcd4bf0404cf86f328dcf0486e8e78d55ce6&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "11:53",
+     "autor": "Paz García Pastormerlo",
+     "titulo_original": "“Un evento climático bastante único”: qué hay detrás de la atípica postal de los lagos y playas del Sur y hasta cuándo durará"
+    },
+    {
+     "id": "LN-25",
+     "titulo": "Brasil lidera las búsquedas de los argentinos para las vacaciones de verano",
+     "resumen": "A un mes del inicio del verano, un relevamiento de Google Trends ubicó a Brasil como el destino más buscado por los argentinos para vacacionar, con más de 7.000 kilómetros de costa que van desde piscinas naturales de agua cálida en el nordeste hasta paisajes vírgenes en el sur y el sudeste del país.",
+     "relacionadas": [],
+     "url": "https://www.lanacion.com.ar/sociedad/brasil-2027-las-playas-mas-buscadas-para-visitar-en-el-verano-nid27112026/",
+     "imagen": "https://resizer.glanacion.com/resizer/v2/GO5FXU3WVFESPH2DKK65SI6LRU.jpg?auth=6a6837136b2b5a425dd52a29ba0d645198402bc0ca55f1974bbea9d1e98d57ae&smart=true&width=900&height=600",
+     "fuente_codigo": "LN",
+     "fuente": "La Nación",
+     "hora": "06:58",
+     "autor": "",
+     "titulo_original": "Brasil 2027: las playas más buscadas para visitar en el verano"
+    }
+   ],
+   "id": "turismo"
+  },
+  {
+   "nombre": "Sociedad",
+   "notas": [
+    {
+     "id": "CL-20",
+     "titulo": "el fenómeno de Niño 2026 anticipa lluvias intensas en varias provincias del norte y Cuyo",
+     "resumen": "El Servicio Meteorológico Nacional mantiene alertas por tormentas en Jujuy, Salta, La Rioja, San Juan y Mendoza por el fenómeno de Niño 2026, que determinará el pico de lluvias de los próximos meses.",
+     "relacionadas": [],
+     "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-llegara-pico-lluvias-provincias-afectadas_0_7pE5PexSJ5.html",
+     "imagen": "https://www.clarin.com/img/2025/05/19/ClOIKfVVg_1200x630__1.jpg",
+     "fuente_codigo": "CL",
+     "fuente": "Clarín",
+     "hora": "07:55",
+     "autor": "Clarin.com - Home",
+     "titulo_original": "Súper Niño 2026 en Argentina, EN VIVO: cuándo llegará el pico de las lluvias y cuáles serán las provincias más afectadas"
+    },
+    {
+     "id": "IB-26",
+     "titulo": "un incendio en una obra en construcción de Chacarita dejó seis personas asistidas por inhalación de humo",
+     "resumen": "Un incendio desatado a las 6.15 en una obra en construcción de la calle Concepción Arenal, en el barrio porteño de Chacarita, dejó seis hombres adultos asistidos por inhalación de humo. El fuego fue controlado por Bomberos de la Ciudad y no fue necesario evacuar edificios linderos.",
+     "relacionadas": [],
+     "url": "https://www.infobae.com/sociedad/2026/11/27/incendio-en-una-obra-en-construccion-en-chacarita-seis-personas-fueron-asistidas-por-inhalacion-de-humo/",
+     "imagen": "https://www.infobae.com/resizer/v2/D6WKHRVJ5RGIHCLR4CDLAT6AX4.jpg?auth=886f124f48f60e20d921736c22ff613cbcee091fe9267261f10e90ee17c466fd&smart=true&width=900&height=506",
+     "fuente_codigo": "IB",
+     "fuente": "Infobae",
+     "hora": "08:26",
+     "autor": "",
+     "titulo_original": "Incendio en una obra en construcción en Chacarita: seis personas fueron asistidas por inhalación de humo"
+    }
+   ],
+   "id": "sociedad"
+  }
+ ],
+ "audio_guion": "Buen día. Este es el resumen del mediodía del viernes veintisiete de noviembre.\n\nLa city argentina recupera el aliento: el riesgo país se desplomó más de once por ciento esta mañana y perforó la barrera de los mil puntos, hasta ubicarse en novecientos cuarenta y seis puntos básicos, mientras los bonos en dólares suben hasta casi cinco por ciento en Wall Street. El dólar oficial cotiza en mil seiscientos veinte pesos para la venta, el dólar blue en mil setecientos pesos y el oro ronda los tres mil seiscientos sesenta dólares la onza. En paralelo, el Gobierno prepara para diciembre una gira por Estados Unidos para ofrecer a los inversores las privatizaciones que todavía le faltan concretar, con el Belgrano Cargas como principal apuesta, y la cosecha dos mil veinticinco dos mil veintiséis cerró con un récord histórico de treinta millones de toneladas por encima del ciclo anterior.\n\nEn política, la Justicia avanza en varias causas sensibles. La Cámara Federal de Casación Penal rechazó el cierre de la causa Oil Combustibles contra Cristóbal López y Fabián de Sousa, al considerar que el expediente por retención indebida del impuesto a los combustibles todavía no prescribió. El fiscal Gerardo Pollicita pidió investigar una transferencia de doscientos sesenta millones de pesos que la AFA le hizo a su presidente, Claudio Tapia, en el marco de la causa por enriquecimiento ilícito. Y el juicio por las causas Hotesur y Los Sauces contra la expresidenta Cristina Kirchner y su hijo Máximo retoma el lunes con la lectura de las acusaciones. En el plano institucional, el gobernador de San Juan, Marcelo Orrego, envió un proyecto para eliminar la ley de lemas provincial, el Senado aprobó una ley de vandalismo rural con penas de hasta ocho años de prisión, y avanza el traspaso de la justicia de menores a la órbita de la Ciudad de Buenos Aires.\n\nEn economía, además de la fuerte baja del riesgo país, el Gobierno nacional insiste en comprometer a los gobernadores a bajar impuestos provinciales pese a que cada vez les envía menos recursos, por la caída de la coparticipación y la reducción de los envíos discrecionales. Según un ejercicio del banco de inversión JP Morgan, una ola de dolarización previa a las elecciones de dos mil veintisiete podría costarle al Banco Central hasta ocho mil seiscientos cincuenta millones de dólares de reservas en un escenario de estrés, aunque en su caso base la entidad proyecta una baja de apenas doscientos cincuenta millones.\n\nEn negocios, Uber quedó a un paso de tomar el control de PedidosYa en la Argentina, después de conseguir la adhesión del ochenta y siete por ciento del capital social de Delivery Hero en una operación valuada en catorce mil ochocientos millones de dólares; se espera que la compra se concrete en la segunda mitad de dos mil veintisiete. Nvidia fue citada como testigo por el Departamento de Justicia de Estados Unidos en la causa contra Megaspeed, la empresa singapurense sospechada de haber desviado chips de inteligencia artificial hacia China. En Vaca Muerta, la petrolera Halliburton bajó un veintitrés por ciento lo que paga a sus proveedores pyme, un golpe que generó honda preocupación en el sector. La industria de motovehículos, en cambio, desafía la recesión: se encamina a cerrar el año con casi novecientos mil patentamientos, un récord histórico con un crecimiento del cuarenta por ciento interanual. Y el frigorífico Ecocarnes, que opera en San Fernando, se presentó en concurso preventivo tras no poder cumplir obligaciones financieras por trescientos millones de pesos.\n\nEn impuestos y normativa, a partir del primero de diciembre los bancos deberán reforzar sus programas de detección de fraude según la nueva Comunicación A ocho mil cuatrocientos setenta y uno del Banco Central. Un informe del IARAF detectó diferencias de hasta dos coma siete puntos porcentuales en la carga tributaria sobre alimentos y bebidas entre el interior del país y la Ciudad de Buenos Aires. El Gobierno nacional negocia con las provincias la eliminación del impuesto de Sellos, y Diputados aprobó por unanimidad incluir a las cooperativas dentro del régimen de la Ley Pyme.\n\nEn consumo y construcción, la Universidad Nacional de La Plata presentó la primera vivienda social de América Latina construida íntegramente con impresión tres De, un prototipo de cincuenta y cinco metros cuadrados que proyecta la fabricación en serie de viviendas sociales para reducir el déficit habitacional; para una empresa de materiales, estas tecnologías marcan una tendencia a seguir de cerca. La crisis de la indumentaria no da tregua, aunque se moderó el ritmo de caída de las ventas en septiembre y octubre. En Villa Crespo, el sector conocido como La Isla gana terreno entre compradores de departamentos por menos de dos mil dólares el metro cuadrado. Y arrancó el Black Friday con descuentos de bancos y billeteras de hasta sesenta y cinco por ciento y hasta treinta cuotas sin interés.\n\nEn management, un argentino, Luis Villavicencio, asumirá en enero como nuevo country manager de Nestlé en el país, tras casi cuatro décadas de gestión de su antecesor suizo. El histórico inversor de Wall Street Carl Icahn perdió casi el noventa y cinco por ciento de su patrimonio y enfrenta serias dificultades para refinanciar una deuda de mil cuatrocientos millones de dólares. Y la demanda del puesto de Forward Deployed Engineer, ligado a la inteligencia artificial, creció mil por ciento durante el año y paga salarios de hasta cuatrocientos mil dólares.\n\nEn el mundo, España vota el domingo tras un último debate con duros cruces entre Pedro Sánchez, Alberto Núñez Feijóo, Santiago Abascal y Ada Colau. Nuevos documentos reavivaron las dudas sobre los vínculos del embajador británico en Estados Unidos, Peter Mandelson, con un amigo del financista Jeffrey Epstein. En Israel, Gadi Eisenkot prometió formar gobierno en ocho días sin descartar un acuerdo con Netanyahu. En Austria, el líder ultranacionalista Herbert Kickl propuso que Ucrania reciba refugiados sirios y afganos para saldar su deuda con la Unión Europea. En Rusia, un exgobernador fue condenado a once años de prisión por sobornos, en medio de la purga que atraviesa el aparato del estado. Y un brote de norovirus en un crucero por el Caribe afectó a doscientos sesenta y ocho pasajeros y tripulantes.\n\nLe Grand Continent registró la semana más intensa de acciones hostiles rusas contra Europa, con treinta y dos episodios entre espionaje, incidentes aéreos y desinformación, y analiza además el altruismo eficaz, la corriente filosófica detrás de buena parte del debate sobre la regulación de la inteligencia artificial.\n\nEn deportes, Franco Colapinto terminó duodécimo en la primera práctica del Gran Premio de Catar, a dos segundos del más rápido, Andrea Kimi Antonelli; la clasificación se corre mañana a las quince horas argentinas. Marc Márquez sorprendió al anunciar su retiro del MotoGP apenas cinco días después de consagrarse campeón por octava vez. Los Pumas, con seis cambios dispuestos por Felipe Contepomi, cierran mañana el Nations Championship ante Escocia en Twickenham, mientras Los Pumas siete debutan en Dubái en la nueva temporada del seven. Estudiantes de La Plata y Palmeiras definen mañana la final de la Copa Libertadores en Montevideo, y el Inter Miami de Lionel Messi visita hoy a Columbus Crew obligado a ganar para seguir con vida en los playoffs de la Liga de Estados Unidos. River Plate, por su parte, avanza en la renovación de Santiago Beltrán y sondea al arquero Yassine Bono para la segunda mitad del año que viene.\n\nEn turismo, los lagos de Bariloche muestran una crecida atípica a semanas del inicio del verano, mientras Brasil se consolida como el destino más buscado por los argentinos para las próximas vacaciones.\n\nEso fue todo por ahora. La próxima edición sale a las seis de la tarde.",
+ "notas_del_editor": "Todas las fuentes respondieron sin problemas. No se encontró en esta corrida ninguna novedad sobre Club Atlético Tigre, por lo que no se lo mencionó en deportes. Le Grand Continent solo publicó 2 notas en esta ventana (el habitual mínimo de la sección es 3), así que se usaron las dos disponibles.",
+ "slug": "2026-11-27-mediodia",
+ "generado_ba": "27/11/2026 15:17"
+}
